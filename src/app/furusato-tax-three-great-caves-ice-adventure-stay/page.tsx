@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            年中0度の氷の世界から亜熱帯の鍾乳石ワンダーランドまで。地底深くへと潜る非日常の冒険旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">年中0度の氷の世界から亜熱帯の鍾乳石ワンダーランドまで。地底深くへと潜る非日常の冒険旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             地上とはまったく異なる温度と静寂が支配する日本の驚異的な地底世界「日本三大氷穴・洞窟スポット」――真夏でも平均気温0度から3度を保ち、天井から垂れ下がる巨大な氷柱がライトアップされる富士山麓・山梨の「富岳風穴・鳴沢氷穴」、サンゴ礁から生まれた三十万本以上の鍾乳石が神秘的な地底川を形成する沖縄本島南部の「玉泉洞（おきなわワールド）」、そして東洋屈指の美しさを誇る鍾乳石の結晶「フローストーン」が広がり世界中のケイバーが憧れる奄美群島・沖永良部島の「昇竜洞」。ヘルメットをかぶって足を踏み入れれば、大自然が数万年をかけて彫刻した地底のアートに心を奪われます。探検の後は、絶景露天風呂や南国・富士の恵みを味わうエキサイティングな休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山梨県富士河口湖町・鳴沢村ふるさと納税：樹海の地底に輝く氷の芸術「富岳風穴・鳴沢氷穴」とロイヤルホテル河口湖
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山梨県富士河口湖町・鳴沢村ふるさと納税：樹海の地底に輝く氷の芸術「富岳風穴・鳴沢氷穴」とロイヤルホテル河口湖</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   青木ヶ原樹海の溶岩洞窟。氷柱や溶岩棚の自然美を体感した後は、河口湖畔に佇む「ロイヤルホテル河口湖」で、富士山を望む開運の湯・露天風呂と甲州ほうとう・和牛溶岩焼きを満喫します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      露天風呂の宿　開運の湯　ロイヤルホテル河口湖
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">露天風呂の宿　開運の湯　ロイヤルホテル河口湖</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山梨県南都留郡富士河口湖町船津6713-22</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  沖縄県南城市ふるさと納税：東洋一の鍾乳洞三十万本の奇跡「玉泉洞」と太平洋望む天然温泉ユインチホテル南城
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">沖縄県南城市ふるさと納税：東洋一の鍾乳洞三十万本の奇跡「玉泉洞」と太平洋望む天然温泉ユインチホテル南城</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   全長5,000mにおよぶ国内最大級の鍾乳洞。青の泉や槍天井に圧倒された後は、高台から太平洋を一望する「ユインチホテル南城」で、ろ過・加水なしの太古の天然温泉「猿人の湯」と沖縄ビュッフェを堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ウェルネスリゾート沖縄　ユインチホテル南城
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ウェルネスリゾート沖縄　ユインチホテル南城</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>沖縄県南城市佐敷新里1688</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  鹿児島県知名町・和泊町ふるさと納税：ケイビングの聖地が誇る白銀の鍾乳洞「昇竜洞」とおきえらぶフローラルホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">鹿児島県知名町・和泊町ふるさと納税：ケイビングの聖地が誇る白銀の鍾乳洞「昇竜洞」とおきえらぶフローラルホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の天然記念物に指定された奇跡の洞窟。日本最大級の石筍や美しいフローストーンを探検した後は、東シナ海のオーシャンビューを誇る「おきえらぶフローラルホテル」で、名物黒糖焼酎と島料理に癒やされます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      おきえらぶ　フローラルホテル　＜沖永良部島＞
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">おきえらぶ　フローラルホテル　＜沖永良部島＞</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>鹿児島県大島郡知名町知名520</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   龍泉洞・龍河洞・秋芳洞。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   秋吉台・四国カルスト・平尾台。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】露天風呂の宿 開運の湯 ロイヤルホテル河口湖を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】露天風呂の宿 開運の湯 ロイヤルホテル河口湖を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と露天風呂の宿 開運の湯 ロイヤルホテル河口湖の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と露天風呂の宿 開運の湯 ロイヤルホテル河口湖の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大氷穴・洞窟探検宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

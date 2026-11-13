@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            大地の鼓動を告げる地獄谷の噴煙、千五百坪の巨大大浴場——登別温泉で味わう北海道最高峰の温泉リゾート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">大地の鼓動を告げる地獄谷の噴煙、千五百坪の巨大大浴場——登別温泉で味わう北海道最高峰の温泉リゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             新千歳空港から車で約1時間。支笏洞爺国立公園の山あいに位置する登別温泉は、豊富な湧出量と多彩な泉質から「温泉のデパート」「北海道温泉の横綱」と称される日本屈指の温泉地です。温泉街の最奥に広がる「登別地獄谷」からは、毎分3,000リットルもの熱湯と白い噴煙が轟音とともに噴き出し、地球の息吹をダイレクトに体感できます。硫黄泉・食塩泉・重曹泉など多種多様な名湯が、日頃の疲れを劇的に癒やしてくれます。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             登別温泉の宿のスケール感は全国でも随一。千五百坪の大浴場に何十種類もの浴槽が並ぶ巨大スパリゾートや、極上のサウナ施設、日本海・太平洋の新鮮な魚介（タラバガニ・ズワイガニ・毛ガニの三大蟹、ホタテ、いくら）や白老牛を惜しみなく提供する豪華ビュッフェが旅人を魅了します。北海道登別市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門リゾートホテルへお得に滞在でき、圧倒的な満足度の北海道温泉旅行が叶います。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（登別温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（登別温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道登別市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  登別温泉　第一滝本館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">登別温泉　第一滝本館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百六十余年・千五百坪の温泉天国！地獄谷を望むパノラマ露天風呂と五つの泉質を誇る登別の象徴
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  登別温泉 第一滝本館 —— 日本屈指のメガ大浴場。五つの異なる天然温泉と地獄谷ビューの圧倒的スケール
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">登別温泉 第一滝本館 —— 日本屈指のメガ大浴場。五つの異なる天然温泉と地獄谷ビューの圧倒的スケール</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 千五百坪の大浴場に広がる35の湯船と5つの泉質
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">千五百坪の大浴場に広がる35の湯船と5つの泉質</h5>
                     <p className="text-stone-600 leading-relaxed">硫黄泉・食塩泉・重曹泉・酸性緑礬泉・明礬泉の5つの泉質を擁する圧巻の大浴場。24時間いつでも好きな時に異なる効能の湯船を巡ることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地獄谷の噴煙を湯船から見下ろす展望露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地獄谷の噴煙を湯船から見下ろす展望露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">大浴場最前列の露天風呂からは、荒々しい地獄谷の岩肌と立ち上る白煙を一望。冷たい北海道の空気の中で温かい名湯に浸かる時間は格別の爽快感です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の旬の幸が並ぶ豪華ビュッフェ＆個室会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の旬の幸が並ぶ豪華ビュッフェ＆個室会席</h5>
                     <p className="text-stone-600 leading-relaxed">オープンキッチンで焼き上げるステーキや揚げたて天ぷら、新鮮な刺身や蟹が並ぶディナーバイキング。落ち着いた個室で味わう伝統の和食会席プランも用意されています。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道登別市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  登別温泉　登別グランドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">登別温泉　登別グランドホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   「登別の迎賓館」と称される気品あるリゾート！本格ドーム型ローマ風呂と話題沸騰の「鬼サウナ」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  登別温泉 登別グランドホテル —— 昭和十三年創業のクラシックモダン。滝を望む庭園露天風呂と極上のととのい
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">登別温泉 登別グランドホテル —— 昭和十三年創業のクラシックモダン。滝を望む庭園露天風呂と極上のととのい</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 荘厳なドーム型天井の本格ローマ風大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">荘厳なドーム型天井の本格ローマ風大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">まるでヨーロッパの宮殿のような優雅な円形大浴場。食塩泉や鉄泉、硫黄泉の名湯を注ぎ、滝が流れる日本庭園露天風呂とともに優雅な湯浴みを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> サウナシュラン受賞！オートロウリュを誇る「鬼サウナ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">サウナシュラン受賞！オートロウリュを誇る「鬼サウナ」</h5>
                     <p className="text-stone-600 leading-relaxed">登別の赤鬼・青鬼をテーマにした本格サウナ。110度の超高温サウナと、熊笹の香るセルフロウリュサウナ、登別の山水を使った水風呂で極上の「ととのい」を体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> シェフが目の前で調理する贅沢な洋食・和食ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">シェフが目の前で調理する贅沢な洋食・和食ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">北海道産食材をふんだんに取り入れた豪華バイキング。ホテル伝統の洋食料理や地元の旬魚、北海道スイーツなど、美食の数々がテーブルを彩ります。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道登別市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  登別温泉　ホテル　まほろば
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">登別温泉　ホテル　まほろば</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本最大級の露天風呂と四つの泉質！三大蟹（タラバ・ズワイ・毛ガニ）食べ放題の豪華ディナーバイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  登別温泉 ホテル まほろば —— 地下二階に広がる三十一の湯巡り。カニ三昧ディナーと巨大スパリゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">登別温泉 ホテル まほろば —— 地下二階に広がる三十一の湯巡り。カニ三昧ディナーと巨大スパリゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下1階・地下2階に広がる31の湯処と日本最大級の露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下1階・地下2階に広がる31の湯処と日本最大級の露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">緑豊かな自然に囲まれた広大な露天風呂や檜風呂、ジャグジーなど多彩な湯船。硫黄泉・食塩泉・単純泉・酸性鉄泉の4つの泉質を一度に堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> タラバガニ・ズワイガニ・毛ガニが並ぶ三大蟹食べ放題ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">タラバガニ・ズワイガニ・毛ガニが並ぶ三大蟹食べ放題ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">北海道の冬の味覚を代表する三大蟹をはじめ、目の前で握る寿司や刺身、ステーキが食べ放題。食の満足度を極限まで高めた大人気ディナーです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ファミリーやグループに嬉しい充実の客室と館内設備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ファミリーやグループに嬉しい充実の客室と館内設備</h5>
                     <p className="text-stone-600 leading-relaxed">ゆったりとした和室や和洋室、露天風呂付き客室まで多彩な部屋タイプ。大人数での宿泊や三世代旅行にも快適に対応しています。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            登別地獄谷・大湯沼の自然散策＆登別マリンパーク観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">登別地獄谷・大湯沼の自然散策＆登別マリンパーク観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 登別地獄谷遊歩道と鉄泉池（間欠泉）の散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 登別地獄谷遊歩道と鉄泉池（間欠泉）の散策</h3>
               <p className="text-stone-700 text-sm leading-relaxed">地獄谷の谷底を巡る木道遊歩道。中央にある「鉄泉池」では、数分おきに熱湯がボコボコと音を立てて湧き出す間欠泉の様子を間近で見学できます。夜には「鬼火の路」としてライトアップされ幻想的です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 大湯沼川天然足湯での森林浴ヒーリング
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 大湯沼川天然足湯での森林浴ヒーリング</h3>
               <p className="text-stone-700 text-sm leading-relaxed">地獄谷から山道を歩いた先にある「大湯沼川天然足湯」。大湯沼から流れ出す天然の温泉川にそのまま足を浸すことができ、原生林の木漏れ日の中で最高の足湯体験が楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 登別伊達時代村＆登別マリンパークニクス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 登別伊達時代村＆登別マリンパークニクス</h3>
               <p className="text-stone-700 text-sm leading-relaxed">江戸時代の城下町や忍者アクションショーを楽しめる「登別伊達時代村」や、北欧風の古城水族館でペンギンのパレードが人気の「登別マリンパークニクス」など、観光施設も充実しています。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道登別市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道登別市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】登別温泉 第一滝本館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】登別温泉 第一滝本館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と登別温泉 第一滝本館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と登別温泉 第一滝本館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

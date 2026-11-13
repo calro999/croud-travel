@@ -205,9 +205,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
       <section className="bg-white border border-amber-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAMILY ADVENTURE</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            子供の五感を刺激する！人気グランピングの4大アクティビティ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">子供の五感を刺激する！人気グランピングの4大アクティビティ</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             ゲームやスマホを置いて、秋の青空の下で夢中になれるとっておきの体験をご紹介。
           </p>
@@ -225,9 +223,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
                   {act.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 leading-snug">
-                {act.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 leading-snug">{act.title}</h3>
               <p className="text-xs text-stone-600 leading-relaxed font-medium">
                 {act.desc}
               </p>
@@ -240,9 +236,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
       <section className="bg-amber-950 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-xl border border-amber-700/40">
         <div className="space-y-1">
           <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">PARENTS PEACE OF MIND</span>
-          <h2 className="text-xl sm:text-2xl font-black font-journal-serif text-white">
-            赤ちゃん・幼児連れでも安心！パパママ目線の設備チェックポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black font-journal-serif text-white">赤ちゃん・幼児連れでも安心！パパママ目線の設備チェックポイント</h2>
           <p className="text-xs sm:text-sm text-amber-200/80">
             周囲への気兼ねなく、家族全員が笑顔でぐっすり眠れる充実設備を標準装備。
           </p>
@@ -270,9 +264,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
       <section className="space-y-6" aria-labelledby="kids-hotels-heading">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAMILY PICKS</span>
-          <h2 id="kids-hotels-heading" className="text-xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            遊具・牧場・体験が充実！子供が主役のグランピングリゾート
-          </h2>
+          <h2 id="kids-hotels-heading" className="text-xl sm:text-3xl font-black text-stone-900 font-journal-serif">遊具・牧場・体験が充実！子供が主役のグランピングリゾート</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             隣接テーマパークや牧場、広大な敷地で一日中遊び倒せる高評価スポットです。
           </p>
@@ -320,9 +312,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "敷地内での自然ふれあいやアクティビティが豊富で、小さな子供から小学生まで家族みんなで笑顔になれる体験型リゾート。"}
@@ -359,18 +349,14 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
       <section className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            子連れ・体験型グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">子連れ・体験型グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-amber-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-amber-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -381,9 +367,7 @@ export default function SilverWeekGlampingKidsPlayActivityPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-50 border border-stone-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🎠</span> ファミリー旅行・子連れレジャーの関連記事
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">ファミリー旅行・子連れレジャーの関連記事</h3>
         <p className="text-xs text-stone-600">
           全国の動物園・大自然スポットや子連れモデルコースもチェック！
         </p>

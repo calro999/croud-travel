@@ -248,12 +248,10 @@ export default function WinterNaraYamatojiPage() {
             11月・12月 初冬の古都奈良散策＆大和牛・飛鳥鍋特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月奈良・大和路奈良町】初冬古都散策と若草山冬景色
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月奈良・大和路奈良町】初冬古都散策と若草山冬景色
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               名物極上大和牛すき焼き＆飛鳥鍋・東大寺大仏殿を望む歴史名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、1300年の歴史を誇る古都・奈良は、秋の喧騒が落ち着きを取り戻し、澄み切った初冬の青空の下で静謐な大和路の風情が色濃くなります。冬枯れの木立と愛らしい鹿たちが佇む奈良公園、雪化粧を始めた若草山、凛とした空気に包まれる世界遺産・東大寺大仏殿や春日大社、風情ある格子戸が連なる「ならまち」の散策。夕食には大和の豊かな風土が育んだ最高峰の黒毛和牛「大和牛（やまとうし）」のすき焼きや陶板焼き、牛乳ベースの優しい出汁に鶏肉や旬野菜が溶け合う古代宮廷伝承の郷土鍋「飛鳥鍋（あすかなべ）」、大和野菜。古都の天然温泉に浸かり、歴史の深遠に抱かれる厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterNaraYamatojiPage() {
             <Landmark className="w-4 h-4" />
             古都奈良 大和路の初冬の情景
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">
-            凛とした朝の冷気と冬枯れの古刹。千年の歴史と極上大和牛の温もりに包まれる旅
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">凛とした朝の冷気と冬枯れの古刹。千年の歴史と極上大和牛の温もりに包まれる旅</h2>
           <div className="text-sm sm:text-base text-stone-600 leading-relaxed space-y-4">
             <p>
               和銅3（710）年に平城京が開かれて以来、1300年を超える悠久の歴史を紡ぎ続ける奈良。世界遺産に登録された東大寺、興福寺、春日大社、元興寺などが点在し、街そのものが生きた歴史博物館のような深遠な魅力を放っています。
@@ -308,9 +304,7 @@ export default function WinterNaraYamatojiPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の奈良・大和路を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の奈良・大和路を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               静謐な古都散策と大和牛の美味、歴史と文化が息づく名宿ステイ
             </p>
@@ -321,9 +315,7 @@ export default function WinterNaraYamatojiPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                初冬の東大寺・若草山＆ならまち
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">初冬の東大寺・若草山＆ならまち</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 混雑のない静寂の古刹参拝。冬枯れの奈良公園と鹿たちの愛らしい佇まい、格子戸の町並みが続くならまちの散策。
               </p>
@@ -333,9 +325,7 @@ export default function WinterNaraYamatojiPage() {
               <div className="w-12 h-12 rounded-xl bg-orange-50 flex items-center justify-center text-orange-700">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                極上大和牛すき焼き＆古代伝承飛鳥鍋
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">極上大和牛すき焼き＆古代伝承飛鳥鍋</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 鎌倉時代から受け継がれる大和牛のとろける霜降り。牛乳と出汁の優しいコクが身体を芯から温める名物飛鳥鍋。
               </p>
@@ -345,9 +335,7 @@ export default function WinterNaraYamatojiPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                歴史名建築＆五重塔を望む露天風呂
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">歴史名建築＆五重塔を望む露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 明治の迎賓館・奈良ホテルの重厚な美、ふふ奈良の天然温泉客室露天風呂、興福寺五重塔を仰ぎ見る展望露天の贅沢。
               </p>
@@ -361,9 +349,7 @@ export default function WinterNaraYamatojiPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-amber-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">
-              奈良・大和路奈良町温泉の歴史名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">奈良・大和路奈良町温泉の歴史名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,12 +397,10 @@ export default function WinterNaraYamatojiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -474,9 +458,7 @@ export default function WinterNaraYamatojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-amber-100">
             <Compass className="w-6 h-6 text-amber-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の奈良・大和路を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の奈良・大和路を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -506,33 +488,25 @@ export default function WinterNaraYamatojiPage() {
             <Utensils className="w-4 h-4" />
             1300年の歴史が育む大和の美食
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold leading-snug">
-            とろける和牛と優しいミルク出汁。初冬の奈良で味わい尽くす伝統の味覚
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold leading-snug">とろける和牛と優しいミルク出汁。初冬の奈良で味わい尽くす伝統の味覚</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                鎌倉時代からの名牛「大和牛」
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Utensils className="w-4 h-4 text-amber-400" />
+                鎌倉時代からの名牛「大和牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 大和高原の良質な環境で育まれた大和牛。きめ細やかなサシと芳醇な赤身の旨味が特徴で、すき焼きや陶板焼きで火を入れると、とろけるような柔らかさと上品な甘みが口いっぱいに広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-400" />
-                古代宮廷伝承の味「飛鳥鍋」
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-400" />
+                古代宮廷伝承の味「飛鳥鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 飛鳥時代に唐から伝わった乳製品に起源を持つ伝統鍋。鶏ガラスープに牛乳を合わせた出汁は驚くほど優しくクリーミーで、地鶏や冬野菜の甘みを引き立て、身体の芯までぽかぽかに温めてくれます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Landmark className="w-4 h-4 text-rose-300" />
-                伝統の大和野菜と柿の葉寿司
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Landmark className="w-4 h-4 text-rose-300" />
+                伝統の大和野菜と柿の葉寿司</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 大和まなや祝真菜、大和丸なすなど奈良固有の伝統野菜。そして鯖や鮭を酢飯とともに柿の葉で包んで発酵させた柿の葉寿司は、爽やかな柿の葉の香りと熟成した旨味が調和する古都の逸品です。
               </p>
@@ -546,15 +520,11 @@ export default function WinterNaraYamatojiPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の奈良・大和路 交通アクセス＆冬の散策アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の奈良・大和路 交通アクセス＆冬の散策アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                京都・大阪からの快適なアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                京都・大阪からの快適なアクセス</h3>
               <p>
                 京都駅からは近鉄特急で近鉄奈良駅まで直通約35分（JR快速で約45分）。大阪難波駅からは近鉄快速急行で直通約38分と極めて快適です。
               </p>
@@ -564,10 +534,8 @@ export default function WinterNaraYamatojiPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-600" />
-                盆地特有の底冷え対策とおすすめ順路
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-600" />
+                盆地特有の底冷え対策とおすすめ順路</h3>
               <p>
                 奈良の初冬は足元から冷える「底冷え」が特徴です。寺院の堂内は靴を脱いで拝観するため、厚手の靴下やインナー、暖かいコートをご用意ください。
               </p>
@@ -584,16 +552,12 @@ export default function WinterNaraYamatojiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の奈良・大和路旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の奈良・大和路旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -605,10 +569,8 @@ export default function WinterNaraYamatojiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-amber-950 to-stone-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい関西の冬名湯・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい関西の冬名湯・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               冬の味覚や雪見露天、ブランド和牛を堪能する関西各地の厳選旅ガイド
             </p>
@@ -620,9 +582,7 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">京都・嵐山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                嵐山温泉の渡月橋冬景色と名物湯どうふ会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">嵐山温泉の渡月橋冬景色と名物湯どうふ会席宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 初冬の嵐山と嵯峨野竹林・熱々の嵯峨湯豆腐を満喫。
               </p>
@@ -633,9 +593,7 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                有馬温泉の金泉銀泉と極上神戸牛ステーキ宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">有馬温泉の金泉銀泉と極上神戸牛ステーキ宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本三古湯の赤褐色金泉と最高峰神戸牛会席を堪能。
               </p>
@@ -646,9 +604,7 @@ export default function WinterNaraYamatojiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                長浜温泉の琵琶湖冬景色と天然真鴨鍋・近江牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">長浜温泉の琵琶湖冬景色と天然真鴨鍋・近江牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の琵琶湖の恵み天然鴨鍋と近江牛の極上会席宿。
               </p>

@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            青く広がる相模湾、夜空を彩る大迫力の海上花火、歴史ある源泉の温もり——熱海温泉で叶える最高の贅沢ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">青く広がる相模湾、夜空を彩る大迫力の海上花火、歴史ある源泉の温もり——熱海温泉で叶える最高の贅沢ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東京駅から東海道新幹線でわずか約45分。相模灘に面した温暖な気候と、徳川家康公が逗留し江戸城まで温泉を運ばせたことで名高い熱海温泉。日本三大温泉の一つに数えられ、毎分約17,000リットルもの豊富な湯量を誇ります。近年は昭和レトロな温泉街の風情と、最新のお洒落なスイーツ店やカフェ、オーシャンビューリゾートが融合し、若者からファミリー、シニア世代まで絶大な人気を集めています。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             熱海の最大の目玉は、年間を通じて10回以上開催される名物「熱海海上花火大会」。すり鉢状の地形のため花火の音が反響し、スタジアムのような迫力満点の轟音と光のスペクタクルが夜の海を彩ります。客室や露天風呂から花火を特等席で眺め、夕食には相模湾の金目鯛の姿煮や伊勢海老、アワビを堪能する滞在は至高の贅沢。静岡県熱海市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより憧れの高級宿へお得に宿泊でき、特別な記念日旅行が最高のものになります。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（熱海温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（熱海温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県熱海市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  熱海温泉　熱海後楽園ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">熱海温泉　熱海後楽園ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室オーシャンビュー＆熱海海上花火大会の特等席！巨大日帰り温泉施設「オーシャンスパ Fuua」併設の大型リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  熱海後楽園ホテル —— 相模灘を見晴らす抜群のパノラマ。花火観賞と極上のインフィニティ露天風呂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">熱海後楽園ホテル —— 相模灘を見晴らす抜群のパノラマ。花火観賞と極上のインフィニティ露天風呂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 客室バルコニーから見下ろす相模灘と花火のダイナミックパノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">客室バルコニーから見下ろす相模灘と花火のダイナミックパノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">タワー館や新館AQUA SQUAREの全客室から海を一望。花火大会開催日には、目の前の海上から打ち上がる大迫力のスターマインを特等席で鑑賞できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本最大級の露天立ち湯を備えた「オーシャンスパ Fuua」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本最大級の露天立ち湯を備えた「オーシャンスパ Fuua」</h5>
                     <p className="text-stone-600 leading-relaxed">海と湯船が一体化するインフィニティ温泉「露天立ち湯」。海風を感じながら、まるで海に浮かんでいるかのような極上の開放感を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊豆の山海の幸が並ぶ豪華ディナービュッフェ＆和食レストラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊豆の山海の幸が並ぶ豪華ディナービュッフェ＆和食レストラン</h5>
                     <p className="text-stone-600 leading-relaxed">ライブキッチンで仕上げるグリル料理や新鮮な刺身、伊豆特産の食材を取り入れた多彩なビュッフェ。ファミリーからカップルまで幅広く楽しめます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県熱海市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  熱海温泉　古屋旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">熱海温泉　古屋旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百八十余年・熱海最古の源泉「清左衛門の湯」を守る名門！全室お部屋食と名物金目鯛の本格日本料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  熱海温泉 古屋旅館 —— 熱海の歴史と格式を今に伝える最高峰老舗。100％源泉掛け流しと至福の部屋食懐石
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">熱海温泉 古屋旅館 —— 熱海の歴史と格式を今に伝える最高峰老舗。100％源泉掛け流しと至福の部屋食懐石</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 熱海七湯の一つ「清左衛門の湯」を引く純度100％の掛け流し
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">熱海七湯の一つ「清左衛門の湯」を引く純度100％の掛け流し</h5>
                     <p className="text-stone-600 leading-relaxed">江戸時代から枯れることなく湧き続ける奇跡の名湯。加水・加温・循環一切なしの本物の源泉掛け流し温泉を大浴場や露天風呂付き客室で満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 朝夕ともにゆったりと味わえる完全お部屋食スタイル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">朝夕ともにゆったりと味わえる完全お部屋食スタイル</h5>
                     <p className="text-stone-600 leading-relaxed">熟練の仲居さんが一品ずつ丁寧に配膳。周りを気にすることなく、大切な人と優雅に名門旅館の味を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 秘伝のタレで煮付けた金目鯛の姿煮と旬の京風懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">秘伝のタレで煮付けた金目鯛の姿煮と旬の京風懐石</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が選び抜いた上質な海の幸。伊豆名物の金目鯛の煮付けや黒毛和牛など、繊細な出汁と職人技が光る贅沢なディナーを堪能できます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県熱海市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  熱海温泉　秀花園湯の花膳
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">熱海温泉　秀花園湯の花膳</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   熱海港と市街の夜景・花火を見下ろす屋上展望露天風呂「月下美人」！料理口コミ高評価の割烹温泉旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  熱海温泉 秀花園 湯の花膳 —— 海と夜景を抱く特等席。屋上露天風呂からの花火観賞と美食割烹の饗宴
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">熱海温泉 秀花園 湯の花膳 —— 海と夜景を抱く特等席。屋上露天風呂からの花火観賞と美食割烹の饗宴</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 屋上展望露天風呂「月下美人」からの絶景パノラマビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">屋上展望露天風呂「月下美人」からの絶景パノラマビュー</h5>
                     <p className="text-stone-600 leading-relaxed">熱海港の堤防のすぐ目の前に位置し、海と市街地の煌めく夜景を一望。花火大会の日には、頭上に広がる大輪の花火を露天風呂から仰ぎ見ることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 料理長が腕を振るう目にも鮮やかな本格割烹会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">料理長が腕を振るう目にも鮮やかな本格割烹会席</h5>
                     <p className="text-stone-600 leading-relaxed">相模湾で獲れた地魚の姿造りや、アワビの踊り焼き、金目鯛の煮付けなど、魚介本来の甘みと旨味を最大限に引き出した料理が高く評価されています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室海側の落ち着いた純和風客室と細やかなもてなし
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室海側の落ち着いた純和風客室と細やかなもてなし</h5>
                     <p className="text-stone-600 leading-relaxed">窓一面に広がる穏やかな海景色。波の音を聞きながら、日常の疲れを解きほぐす穏やかな時間を過ごせます。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            熱海温泉街・熱海海上花火大会＆ACAO FOREST観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">熱海温泉街・熱海海上花火大会＆ACAO FOREST観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 熱海海上花火大会の歴史と観賞のポイント
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 熱海海上花火大会の歴史と観賞のポイント</h3>
               <p className="text-stone-700 text-sm leading-relaxed">昭和27年から続く熱海名物の海上花火大会。夏だけでなく春・秋・冬と年間を通じて定期開催。海上に浮かぶ台船から打ち上げられ、フィナーレの「大空中ナイアガラ」は夜空一面を白銀の光で埋め尽くします。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> ACAO FOREST（旧アカオハーブ＆ローズガーデン）での絶景カフェ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> ACAO FOREST（旧アカオハーブ＆ローズガーデン）での絶景カフェ</h3>
               <p className="text-stone-700 text-sm leading-relaxed">相模灘を見下ろす広大な丘陵地に13のテーマガーデンが広がる名所。建築家・隈研吾氏設計の絶景カフェ「COEDA HOUSE」や、空飛ぶブランコなどフォトジェニックな体験が人気です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 熱海銀座商店街でのレトロ食べ歩きと熱海プリン
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 熱海銀座商店街でのレトロ食べ歩きと熱海プリン</h3>
               <p className="text-stone-700 text-sm leading-relaxed">昭和レトロな看板が残る「熱海銀座商店街」。大行列ができる「熱海プリン」や、熱海ばたーあん、クラフトビールなど、湯上がりの散策にぴったりのグルメが満載です。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              静岡県熱海市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">静岡県熱海市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

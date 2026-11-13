@@ -91,9 +91,7 @@ export default function Page() {
               什の掟・義を重んじた会津藩の魂
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['aizu_samurai_buke_stay']?.label || '什の掟・義を重んじた会津藩の魂'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['aizu_samurai_buke_stay']?.label || '什の掟・義を重んじた会津藩の魂'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             鶴ヶ城の城下町として栄え、戊辰戦争や白虎隊の悲話で知られる会津若松。復元された広大な「会津武家屋敷」や藩校日新館の見学とともに、名湯・東山温泉の渓流沿いに建つ老舗宿で会津郷土料理「こづゆ」や地酒、武家ゆかりの歴史ロマンを堪能できます。
           </p>
@@ -118,9 +116,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -169,9 +165,7 @@ export default function Page() {
               みちのくの小京都・角館黒板塀通り
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['kakunodate_samurai_mansion_stay']?.label || 'みちのくの小京都・角館黒板塀通り'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['kakunodate_samurai_mansion_stay']?.label || 'みちのくの小京都・角館黒板塀通り'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             江戸時代そのままの道幅と黒板塀が続く秋田・角館の武家屋敷通り。青柳家や石黒家など現存する上級武士の屋敷が立ち並びます。武家屋敷の土蔵や古民家をモダンに再生したホテルでは、樺細工の調度品や比内地鶏鍋を味わう特別なステイが叶います。
           </p>
@@ -196,9 +190,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -247,9 +239,7 @@ export default function Page() {
               薩摩の小京都・知覧武家屋敷群
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['chiran_satsuma_samurai_stay']?.label || '薩摩の小京都・知覧武家屋敷群'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['chiran_satsuma_samurai_stay']?.label || '薩摩の小京都・知覧武家屋敷群'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             生垣の小道と7つの名勝庭園が残る鹿児島・知覧。母ヶ岳を借景にした枯山水庭園は江戸中期の武士の教養の高さを物語ります。知覧特攻平和会館の歴史見学や、指宿温泉の砂むし温泉と組み合わせた南九州の歴史探訪ステイが楽しめます。
           </p>
@@ -274,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -320,37 +308,29 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">
-            <span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・伝統文化体験＆宿坊の楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
+            よくある質問・伝統文化体験＆宿坊の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>武家屋敷の内部見学や甲冑体験は宿泊者以外でもできますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>武家屋敷の内部見学や甲冑体験は宿泊者以外でもできますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 角館や会津の主要武家屋敷は一般公開されており、観光施設として見学や甲冑着付け体験が可能です。宿泊施設によっては、宿泊者限定の夜間ライトアップ見学やプライベート居合道体験プランを用意しているところもあります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>武家屋敷宿の客室設備（水回り・冷暖房）は快適ですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>武家屋敷宿の客室設備（水回り・冷暖房）は快適ですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 外観や梁・柱は歴史的な武家建築や蔵の風合いをそのまま活かしつつ、水回り（バス・トイレ）・ベッド・空調・Wi-Fiなどは最新の高級ホテル基準に全面改装されています。歴史の情緒と現代の快適性を兼ね備えています。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>刀剣や歴史ファン向けの見どころは周辺にありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>刀剣や歴史ファン向けの見どころは周辺にありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 会津若松城の郷土博物館や角館青柳家の武器蔵（刀剣や甲冑の展示）、各地の鍛冶屋や刀剣工房など、本物の日本刀や武具を間近に鑑賞できるスポットが充実しています。
               </p>
@@ -360,9 +340,7 @@ export default function Page() {
 
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
-          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">
-            他の伝統文化・リトリート宿を探す
-          </h3>
+          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他の伝統文化・リトリート宿を探す</h3>
           <p className="text-stone-600 text-sm mb-6">
             坐禅・精進料理宿坊、本格茶室茶道、写経マインドフルネス、武家屋敷、伝統工芸体験など、日本の美意識を体感する宿泊ガイド。
           </p>
@@ -403,9 +381,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】東山温泉 元湯有馬屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】東山温泉 元湯有馬屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +414,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と東山温泉 元湯有馬屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と東山温泉 元湯有馬屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

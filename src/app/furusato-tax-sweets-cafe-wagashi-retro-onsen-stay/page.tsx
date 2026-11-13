@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          歴史ある小京都や門前町で味わう伝統の甘味。心を満たす極上スイーツ＆温泉ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">歴史ある小京都や門前町で味わう伝統の甘味。心を満たす極上スイーツ＆温泉ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              人気カフェや老舗甘味処まで徒歩圏内の便利な好立地宿を厳選
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">人気カフェや老舗甘味処まで徒歩圏内の便利な好立地宿を厳選</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               朝の開店直後や混雑を避けた夕暮れ時など、宿泊者ならではのゆとりあるスケジュールで話題のスイーツを堪能できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              宿のおもてなしにも地元の銘菓や本格抹茶サービスが充実
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">宿のおもてなしにも地元の銘菓や本格抹茶サービスが充実</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               チェックイン時のお茶請けから夕食後のデザートまで、地域の銘菓文化を感じられる特別なスイーツ体験が待っています。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税で宿泊費を抑えてお土産やカフェ巡りを贅沢に
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税で宿泊費を抑えてお土産やカフェ巡りを贅沢に</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿泊クーポンで宿泊代を最大30%節約できるため、浮いた予算で老舗の高級和菓子やご当地スイーツのお土産をたっぷり購入できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="kanazawa_sweets" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                石川県金沢市ふるさと納税：ひがし茶屋街・主計町茶屋街の金箔甘味と伝統加賀菓子の城下町宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">石川県金沢市ふるさと納税：ひがし茶屋街・主計町茶屋街の金箔甘味と伝統加賀菓子の城下町宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 京都と並び称される茶の湯と和菓子の都・金沢。出格子の町家カフェで味わう金箔アイスやお薄、老舗菓匠の上生菓子めぐりを楽しみ、加賀の美食と美肌湯に憩う旅です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市本町2-5-15
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　鼓門の湯　スーパーホテルＰｒｅｍｉｅｒ金沢駅東口</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     金沢駅東口より徒歩７分！主要駅からのアクセスが良くビジネスや観光に便利♪
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市丸の内6-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    金沢白鳥路　ホテル山楽
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">金沢白鳥路　ホテル山楽</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県金沢市堀川新町1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテル金沢
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル金沢</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     朝食満足度90点以上、全客室改装でアクセス至便のシティホテル
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="obuse_sweets" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長野県小布施町ふるさと納税：栗の小径と北斎の郷・名物「小布施栗モンブラン」と信州山里温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長野県小布施町ふるさと納税：栗の小径と北斎の郷・名物「小布施栗モンブラン」と信州山里温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 江戸時代より将軍家への献上栗として知られる小布施栗。名店「小布施堂」の朱雀モンブランや栗鹿ノ子を味わい、栗の木レンガが敷かれた風情ある街並みを巡る贅沢ステイです。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町雁田1311
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    小布施温泉あけびの湯
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小布施温泉あけびの湯</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室から北アルプスや北信五岳を一望できる絶好のロケーションの小布施で唯一の温泉宿となります。
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町小布施中町東側791
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ゲストハウス小布施
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ゲストハウス小布施</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ひと・こと・まちをまるごとつなぐ”北斎が愛した街”小布施の宿り場
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県上高井郡小布施町小布施1110-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    小布施の宿　あずまや
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小布施の宿　あずまや</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     小布施の中心部に位置し、観光・ビジネス利用に便利なセルフチェックインの全15室の宿。
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="ise_sweets" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                三重県伊勢市ふるさと納税：伊勢神宮おはらい町・おかげ横丁の赤福本店名物餅と参拝温泉宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">三重県伊勢市ふるさと納税：伊勢神宮おはらい町・おかげ横丁の赤福本店名物餅と参拝温泉宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 五十鈴川のほとりに広がるおはらい町。作りたての柔らかい赤福餅や抹茶ソフト、へんば餅などを食べ歩き、お伊勢参りの後は伊勢湾の海の幸と良泉で身を清める聖地旅です。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県伊勢市二見町茶屋537-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    活伊勢海老料理の宿　日章館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">活伊勢海老料理の宿　日章館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室オーシャンビュー。伊勢海老をはじめ新鮮な海の幸とトロン人口温泉。伊勢・二見・鳥羽・志摩の観光に◎
                   </p>
@@ -528,9 +500,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
               </p>
@@ -544,9 +514,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 伊勢神宮・熊野三山・出雲大社の祈願ステイ。
               </p>
@@ -580,9 +546,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -661,9 +625,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納税厳選ガイド金沢・小布施・伊勢の甘味旅」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

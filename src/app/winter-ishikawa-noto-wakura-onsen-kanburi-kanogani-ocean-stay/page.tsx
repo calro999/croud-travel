@@ -248,12 +248,10 @@ export default function WinterIshikawaWakuraPage() {
             11月・12月 能登寒ぶり＆加能ガニ・七尾湾海辺の温泉特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月石川・能登和倉温泉】七尾湾冬景色と寒の味覚
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月石川・能登和倉温泉】七尾湾冬景色と寒の味覚
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物能登寒ぶり＆加能ガニ・極上能登牛・開湯1200年の海のいで湯を愉しむ海辺名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、能登半島の優美な内海「七尾湾」に抱かれた名湯「和倉温泉（わくらおんせん）」は、冬の日本海がもたらす最高峰の美食と、波静かなオーシャンビューに初雪が舞い散る風情豊かな季節を迎えます。開湯約1200年、海中から湧き出た白鷺伝説に由来する塩化物泉は、国内屈指の高温泉にして豊かな塩分が身体を芯から温める「海のいで湯」。11月6日に解禁される石川県産ブランドズワイガニ「加能ガニ」や内子・外子が詰まった「香箱ガニ」、初冬の寒風に揉まれて脂が乗り切った「能登寒ぶり」のブリしゃぶ、希少な極上「能登牛」。波穏やかな七尾湾と能登島大橋を望む絶景露天風呂とともに、心温まる北陸の贅を尽くす厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterIshikawaWakuraPage() {
             <Waves className="w-4 h-4" />
             初冬の能登和倉・七尾湾の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-            波静かな内海の冬情景と湯煙、日本海屈指の寒の美味を五感で堪能する旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">波静かな内海の冬情景と湯煙、日本海屈指の寒の美味を五感で堪能する旅</h2>
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
             <p>
               能登半島の懐に抱かれた七尾湾は、荒波が打ち寄せる外浦とは対照的に、湖のように穏やかな水面が広がる天然の良港です。その波打ち際に沿って、全国に名を馳せる名旅館が立ち並ぶ和倉温泉。11月から12月にかけて、北陸の空は時折雪が舞い散る初冬の装いへと変わり、海面から立ち上る湯けむりと海霧が、幻想的な風情を醸し出します。
@@ -308,9 +304,7 @@ export default function WinterIshikawaWakuraPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の和倉温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の和倉温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               海の恵みあふれる高温泉と冬蟹・寒ぶり、七尾湾の静寂美
             </p>
@@ -321,9 +315,7 @@ export default function WinterIshikawaWakuraPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-700">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                解禁「加能ガニ・香箱ガニ」＆「能登寒ぶり」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">解禁「加能ガニ・香箱ガニ」＆「能登寒ぶり」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 11月6日解禁の青タグ加能ガニの甘みと香箱ガニの濃厚内子。荒波で鍛えられた能登寒ぶりの極上ブリしゃぶと希少な能登牛。
               </p>
@@ -333,9 +325,7 @@ export default function WinterIshikawaWakuraPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-700">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                七尾湾一望のオーシャンビュー雪見露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">七尾湾一望のオーシャンビュー雪見露天</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 海中から湧き出た約80℃の高温泉塩化物泉。身体の芯から温まる湯船から望む、冬の波静かな七尾湾と能登島大橋の絶景。
               </p>
@@ -345,9 +335,7 @@ export default function WinterIshikawaWakuraPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                名湯総湯と能登の伝統美術・食祭市場
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">名湯総湯と能登の伝統美術・食祭市場</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 和倉温泉総湯での温泉たまご体験や湯っ足りパークの足湯。輪島塗や九谷焼が彩る名旅館の空間と、能登食祭市場の賑わい。
               </p>
@@ -358,9 +346,7 @@ export default function WinterIshikawaWakuraPage() {
         {/* Hotel Cards Section */}
         <section className="space-y-10">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              和倉温泉で11月・12月に泊まりたい名湯宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">和倉温泉で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
               楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
@@ -404,11 +390,9 @@ export default function WinterIshikawaWakuraPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {h.story}
@@ -470,9 +454,7 @@ export default function WinterIshikawaWakuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の能登和倉温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の能登和倉温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -502,35 +484,27 @@ export default function WinterIshikawaWakuraPage() {
             <Fish className="w-4 h-4" />
             能登和倉 冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            冬の日本海が育む三大至宝「能登寒ぶり」「加能ガニ」「能登牛」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">冬の日本海が育む三大至宝「能登寒ぶり」「加能ガニ」「能登牛」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-teal-400" />
-                脂の乗り極限「能登寒ぶり」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-400" />
+                脂の乗り極限「能登寒ぶり」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月下旬から七尾湾や能登沖の定置網に入る寒ぶり。冷たい荒波で身が引き締まり、白く輝くような美しいサシが入ります。熱々の昆布出汁にサッとくぐらせる「ブリしゃぶ」や、香ばしい照り焼き、大根の煮物は冬の至福の味覚です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-400" />
-                冬の日本海の王様「加能ガニ＆香箱ガニ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-400" />
+                冬の日本海の王様「加能ガニ＆香箱ガニ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月6日に解禁される石川県産ズワイガニ。オスの「加能ガニ」はぎっしり詰まった太い脚と濃厚な味噌が自慢。メスの「香箱ガニ」は甲羅に詰まった赤い内子（卵巣）とプチプチの外子の食感が絶品で、北陸の冬にしか出会えない贅沢です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-400" />
-                幻のブランド黒毛和牛「能登牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-400" />
+                幻のブランド黒毛和牛「能登牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 能登の清らかな空気と名水で丹精込めて肥育される「能登牛」。出荷頭数が少なく希少価値の高い幻の銘柄牛で、オレイン酸を豊富に含み、口に入れた瞬間に上品な香りと甘みがふわっと溶け出します。ステーキや陶板焼きで絶品です。
               </p>
@@ -544,15 +518,11 @@ export default function WinterIshikawaWakuraPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の和倉温泉 交通アクセス＆冬旅のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の和倉温泉 交通アクセス＆冬旅のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-700" />
-                特急列車・車でのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-700" />
+                特急列車・車でのアクセス方法</h3>
               <p>
                 鉄道の場合は、金沢駅よりJR七尾線特急「能登かがり火」で和倉温泉駅まで約60分。各旅館の無料送迎バスを利用すれば、雪道運転の心配なく安全に直行できます。
               </p>
@@ -562,10 +532,8 @@ export default function WinterIshikawaWakuraPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-700" />
-                気候と防寒・海辺散策の注意点
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                気候と防寒・海辺散策の注意点</h3>
               <p>
                 12月の和倉温泉は海風により体感温度が低く、急な雨や雪（北陸の時雨）が降ることがあります。防風・防水性のあるダウンコートや傘をご用意ください。
               </p>
@@ -582,16 +550,12 @@ export default function WinterIshikawaWakuraPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の石川能登和倉温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の石川能登和倉温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-teal-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-teal-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -603,10 +567,8 @@ export default function WinterIshikawaWakuraPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-teal-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい北陸・石川の冬蟹・冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい北陸・石川の冬蟹・冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の味覚の王様・ズワイガニや雪見露天を堪能する北陸各地の厳選旅ガイド
             </p>
@@ -618,9 +580,7 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・金沢</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                金沢兼六園の雪吊りと近江町市場カニ三昧ステイ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">金沢兼六園の雪吊りと近江町市場カニ三昧ステイ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 兼六園の初冬の風物詩「雪吊り」と近江町市場の香箱ガニ・加能ガニを堪能。
               </p>
@@ -631,9 +591,7 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・加賀山代温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                加賀山代温泉の総湯情緒と加能ガニフルコース
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">加賀山代温泉の総湯情緒と加能ガニフルコース</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 赤瓦の古総湯を囲む温泉街と開湯1300年の名湯、極上のズワイガニ会席。
               </p>
@@ -644,9 +602,7 @@ export default function WinterIshikawaWakuraPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福井・あわら温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                あわら温泉の本場越前ガニと関西の奥座敷名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">あわら温泉の本場越前ガニと関西の奥座敷名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 黄色いタグの越前ガニと多彩な源泉、数寄屋造りの庭園名宿で味わう至高の冬。
               </p>

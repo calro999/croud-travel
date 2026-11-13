@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            どこまでも青く透き通る東シナ海と白い砂浜——サンセット街道で出会う世界基準のホスピタリティと南国の楽園ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">どこまでも青く透き通る東シナ海と白い砂浜——サンセット街道で出会う世界基準のホスピタリティと南国の楽園ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             沖縄本島の中央部西海岸に位置し、沖縄屈指のリゾートエリアとして知られる国頭郡恩納村（おんなそん）。海岸線一帯が「沖縄海岸国定公園」に指定され、万座毛（まんざもう）をはじめとする名勝や、エメラルドグリーンからコバルトブルーへとグラデーションを描くサンゴ礁の海が広がっています。国道58号線沿いには世界的な高級リゾートホテルが建ち並び、夕暮れ時には東シナ海の水平線へと沈む息をのむような美しいサンセットが訪れる人々を魅了します。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県恩納村（西海岸リゾート）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ハレクラニ沖縄
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ハレクラニ沖縄</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   ハワイで百年の歴史を誇る名門「天国の館」！全360室オーシャンビュー＆名物オーキッドプール
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ハレクラニ沖縄 —— 国定公園の海を見渡す至高の楽園。五つのプールと世界屈指のダイニングで過ごす極上の休日
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ハレクラニ沖縄 —— 国定公園の海を見渡す至高の楽園。五つのプールと世界屈指のダイニングで過ごす極上の休日</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が50㎡以上のゆとりあるオーシャンビュー設計
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が50㎡以上のゆとりあるオーシャンビュー設計</h5>
                     <p className="text-stone-600 leading-relaxed">白を基調としたハレクラニ伝統の「セブンシェイズ・オブ・ホワイト」のインテリア。バルコニーからエメラルドグリーンの海を一望できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 約150万枚のモザイクタイルで描かれた名物「オーキッドプール」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">約150万枚のモザイクタイルで描かれた名物「オーキッドプール」</h5>
                     <p className="text-stone-600 leading-relaxed">ハレクラニの象徴である蘭のプールをはじめ、クワイエットプールやインドアプールなど5つの個性豊かなプールを完備しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン二つ星シェフ監修のイノベーティブフレンチ「SHIROUX」</h5>
                     <p className="text-stone-600 leading-relaxed">沖縄の食材の可能性を極限まで引き出した芸術的料理。波の音を聴きながら優雅なディナーを堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県恩納村（西海岸リゾート）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ハイアットリージェンシー瀬良垣アイランド沖縄
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ハイアットリージェンシー瀬良垣アイランド沖縄</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   瀬良垣島全体がひとつのリゾート！360度海に囲まれたラグジュアリーアイランドと海水プール
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ハイアット リージェンシー 瀬良垣アイランド 沖縄 —— 一本の橋で結ばれた島のリゾート。海と一体化するラグーンプール
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ハイアット リージェンシー 瀬良垣アイランド 沖縄 —— 一本の橋で結ばれた島のリゾート。海と一体化するラグーンプール</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 沖縄本島と橋で結ばれたプライベート感あふれる離島ロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">沖縄本島と橋で結ばれたプライベート感あふれる離島ロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">四方を澄み切った海に囲まれた贅沢な環境。トゥクトゥクでの移動などリゾート気分を盛り上げる演出が満載です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 海水を取り入れたラグーンプールとインフィニティプール
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">海水を取り入れたラグーンプールとインフィニティプール</h5>
                     <p className="text-stone-600 leading-relaxed">海とシームレスに繋がるような開放的なプールエリア。プールサイドのデイベッドで優雅な読書やカクテルを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 炉端、鮨、鉄板焼、イタリアンと多彩なオープンキッチンレストラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">炉端、鮨、鉄板焼、イタリアンと多彩なオープンキッチンレストラン</h5>
                     <p className="text-stone-600 leading-relaxed">厳選された沖縄の食材をライブ感あふれる空間で調理。上質で活気ある食体験が魅力です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県恩納村（西海岸リゾート）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ルネッサンスリゾートオキナワ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ルネッサンスリゾートオキナワ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   ホテル敷地内でイルカとふれあえるマリンパラダイス！全室バルコニー付き＆充実のアクティビティ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ルネッサンスリゾートオキナワ —— プライベートビーチとドルフィンラグーン。子供も大人も夢中になれるリゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ルネッサンスリゾートオキナワ —— プライベートビーチとドルフィンラグーン。子供も大人も夢中になれるリゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内のラグーンでイルカと泳ぎふれあえる独自プログラム
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内のラグーンでイルカと泳ぎふれあえる独自プログラム</h5>
                     <p className="text-stone-600 leading-relaxed">ドルフィンプログラムをはじめ40種類以上のマリンスポーツが充実。子供連れファミリーにとって最高の体験が揃っています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が海を見晴らすプライベートバルコニー付き
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が海を見晴らすプライベートバルコニー付き</h5>
                     <p className="text-stone-600 leading-relaxed">東シナ海の青い海と夕日を独り占め。ファミリー向けに二段ベッド付きの楽しいファミリールームも完備しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 海の上にせり出すレストラン「コーラルシービュー」でのBBQ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">海の上にせり出すレストラン「コーラルシービュー」でのBBQ</h5>
                     <p className="text-stone-600 leading-relaxed">波の音を聞きながら楽しむ本格バーベキューや、出来立てフレンチトーストが名物の朝食ビュッフェが評判です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 恩納村・万座毛＆青の洞窟・真栄田岬観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 恩納村・万座毛＆青の洞窟・真栄田岬観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                名勝「万座毛（まんざもう）」の象の鼻岩とサンセット
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                名勝「万座毛（まんざもう）」の象の鼻岩とサンセット</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 琉球石灰岩の断崖絶壁に打ち寄せる荒波と、象の鼻のような奇岩。夕暮れ時には東シナ海を黄金色に染める絶景の夕日が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                真栄田岬「青の洞窟」でのシュノーケリング＆ダイビング
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                真栄田岬「青の洞窟」でのシュノーケリング＆ダイビング</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 太陽光が海底の白砂に反射して青く輝く神秘的な洞窟。色とりどりの熱帯魚やサンゴ礁に囲まれる沖縄屈指の海中アクティビティスポットです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                琉球村でのおきなわ伝統文化＆紅型・シーサー体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                琉球村でのおきなわ伝統文化＆紅型・シーサー体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 古民家を移築したテーマパーク。エイサーの演舞見学やシーサー絵付け、サトウキビ搾りなど沖縄の伝統文化を体験できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              沖縄県恩納村ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">沖縄県恩納村ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ハレクラニ沖縄を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ハレクラニ沖縄を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とハレクラニ沖縄の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とハレクラニ沖縄の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

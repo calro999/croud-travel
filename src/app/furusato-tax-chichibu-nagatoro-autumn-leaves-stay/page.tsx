@@ -89,9 +89,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            荒川の清流に映る紅葉の岸壁を和舟で下るスリルと感動。ノスタルジックな秩父路と卵水の名湯に憩う秋の休日へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">荒川の清流に映る紅葉の岸壁を和舟で下るスリルと感動。ノスタルジックな秩父路と卵水の名湯に憩う秋の休日へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             都心から特急ラビューでわずか約80分、豊かな山々と清流に抱かれた埼玉県「秩父・長瀞（ながとろ）」。11月上旬から下旬にかけて、国の天然記念物「岩畳」の周囲を取り囲む木々が一斉に赤や黄金に色づき、船頭が竿一本で操る和舟に乗って荒川を下る「長瀞ラインくだり」からは、水面すれすれの特等席からダイナミックな紅葉の断崖絶壁を仰ぎ見ることができます。さらに夜には「月の石もみじ公園」で幻想的な紅葉ライトアップが催され、秋の夜長をロマンチックに演出。そんな長瀞観光の拠点となるのが、古くから秩父札所巡りの旅人を癒やしてきた「秩父七湯・秩父温泉郷」の歴史ある名宿群です。創業約190年・江戸末期から湧くつるつるの「卵水（たまごみず）」を湛える老舗「新木鉱泉旅館」、小鹿野の自然林に佇み天然温泉と地元食材の囲炉裏料理が評判の「梁山泊」、そして元力士当主の土俵露天風呂と自家農園野菜が人気の「宮本の湯」。名物・豚肉の味噌漬けや新そばを味わいながら、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で予約し、心洗われる秩父路の秋旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  国の天然記念物「長瀞岩畳」の紅葉ラインくだり＆月の石もみじ公園ライトアップ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">国の天然記念物「長瀞岩畳」の紅葉ラインくだり＆月の石もみじ公園ライトアップ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 荒川沿いに広がる奇岩・岩畳と紅葉のコントラスト。夜間ライトアップでは、色鮮やかなモミジが光に照らされ幻想的な世界が広がります。
@@ -122,9 +118,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  江戸時代から続く秩父七湯「卵水」！肌がすべすべになる極上の天然美肌鉱泉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">江戸時代から続く秩父七湯「卵水」！肌がすべすべになる極上の天然美肌鉱泉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 硫黄分を含みとろりとした肌触りの名湯。冷え性や神経痛を和らげ、露天風呂や檜風呂で木の香りに包まれながらじっくりと身体を温められます。
@@ -137,9 +131,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  秩父名物「豚肉の味噌漬け」・打ちたて「新そば」・旬のいのしし鍋会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">秩父名物「豚肉の味噌漬け」・打ちたて「新そば」・旬のいのしし鍋会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 伝統の特製味噌にじっくり漬け込んだジューシーな豚肉や、秋に収穫されたばかりの香り高い秩父そば、里山のジビエ料理を堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                       ★ 4.59 <span className="text-stone-400 text-xs">(2,169件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    秩父七湯『御代の湯』　新木鉱泉旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">秩父七湯『御代の湯』　新木鉱泉旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 埼玉県秩父市山田1538番地1 ｜ ◆送迎有◆その他、西武秩父駅よりタクシー10分又は定峰行きバス25分金昌寺下車徒歩4分●関越道花園ICより40分●
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                       ★ 4.19 <span className="text-stone-400 text-xs">(770件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    秩父小鹿野温泉旅館　梁山泊
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">秩父小鹿野温泉旅館　梁山泊</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 埼玉県秩父郡小鹿野町般若260 ｜ 【車】関越道花園ＩＣから車で35分　【電車】西武秩父駅または秩父駅より送迎有
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
                       ★ 4.17 <span className="text-stone-400 text-xs">(303件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    秩父西谷津の湯　里山香ぐはし　宮本の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">秩父西谷津の湯　里山香ぐはし　宮本の湯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 埼玉県秩父郡小鹿野町長留510 ｜ 西武秩父駅より送迎バス（要予約）で２５分・秩父駅でも可／西武秩父駅・秩父駅より西武路線バスも有
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】秩父七湯『御代の湯』 新木鉱泉旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】秩父七湯『御代の湯』 新木鉱泉旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoChichibuNagatoroAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と秩父七湯『御代の湯』 新木鉱泉旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と秩父七湯『御代の湯』 新木鉱泉旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -108,9 +108,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  「医食同源」の知恵で身体を芯から温める！滋味豊かな薬膳スープと旬の漢方会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">「医食同源」の知恵で身体を芯から温める！滋味豊かな薬膳スープと旬の漢方会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 和漢素材と旬の野菜・魚介を組み合わせた特製薬膳鍋やスープ。血行を促進し冷えやむくみを改善しながら、素材本来の澄んだ旨味が身体の隅々まで染み渡ります。
@@ -123,9 +121,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  温泉のミネラルと薬草の相乗効果！美肌と代謝を高めるハーブスチーム＆露天風呂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">温泉のミネラルと薬草の相乗効果！美肌と代謝を高めるハーブスチーム＆露天風呂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 温泉に浸かることで毛穴が開き、薬膳素材の栄養吸収がアップ。地熱蒸気を利用した薬草スチームサウナやハーブ湯との組み合わせで、全身の老廃物がすっきりと排出されます。
@@ -138,9 +134,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  身体が重くならない！消化に優しく翌朝の目覚めが劇的に軽くなるヘルシーディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">身体が重くならない！消化に優しく翌朝の目覚めが劇的に軽くなるヘルシーディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 油分や塩分を控えめにし、出汁と生薬の風味で仕上げた贅沢な料理。夜遅くに食べても胃もたれせず、翌朝すっきりと心地よい空腹感と軽快な目覚めを実感できます。
@@ -183,9 +177,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     石川県金沢市・金沢百万石の奥座敷！国際薬膳調理師監修の金沢薬膳会席と閑静な名旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    金沢湯涌温泉　湯の出旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">金沢湯涌温泉　湯の出旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     金沢駅から車で約20分、歴代加賀藩主も湯治に訪れた名湯・湯涌温泉の清流沿いに佇む老舗温泉旅館。宿の最大の目玉は、国際薬膳調理師の資格を持つ料理長が手掛ける本格的な「金沢薬膳会席」。加賀野菜や日本海の新鮮魚介に、和漢生薬や季節の薬草を絶妙に融合させ、美味と健康を極限まで両立させています。無色透明でまろやかな弱アルカリ性の湯涌温泉に浸かり、落ち着きある数寄屋造りの客室でゆったりと過ごす、心身の浄化にふさわしい大人の美食宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・富士山を望む絶景露天風呂！健康薬膳と旬菜プレミアムディナービュッフェ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    富士山を一望できる宿　ホテルグリーンプラザ箱根
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">富士山を一望できる宿　ホテルグリーンプラザ箱根</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根仙石原の雄大な高原に建ち、露天風呂から真正面に霊峰・富士山を一望できる絶景リゾートホテル。夕食ビュッフェでは、季節の健康薬膳スープや彩り豊かな温野菜、スーパーフードを取り入れた前菜など、ウェルネスにこだわったメニューが豊富に並びます。目の前で焼き上げるローストビーフや握り寿司など豪華な料理も充実。仙石原温泉の自家源泉を湛えた露天風呂で富士山を眺めながら温まり、身体に優しい美食でエネルギーをチャージできます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・鉄輪の地熱と薬草の恵み！全室源泉掛け流し客室露天風呂付きの大人の隠れ離れ宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    癒しの宿　彩葉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">癒しの宿　彩葉</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     湯煙たなびく別府・鉄輪温泉の静かな小高い丘に位置し、雑木林の庭園に全客室が離れ形式で点在する極上の隠れ宿。全室に源泉かけ流しの専用内湯または露天風呂を備え、鉄輪名物の薬草茶やハーブティーが用意されたデトックス空間が魅力です。食事処では地熱蒸気を利用したヘルシーな地獄蒸し料理や豊後牛、旬の野菜をたっぷり使った身体に優しい会席を提供。時間を気にせずプライベート温泉に何度も浸かり、内側から美しく整う休日をお過ごしいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】金沢湯涌温泉 湯の出旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】金沢湯涌温泉 湯の出旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoYakuzenHerbalCuisineStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と金沢湯涌温泉 湯の出旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と金沢湯涌温泉 湯の出旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

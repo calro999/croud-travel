@@ -248,12 +248,10 @@ export default function WinterFukushimaAizuOnsenPage() {
             11月・12月 渓谷雪見露天＆名物会津牛・極上馬刺し・城下町特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・会津東山＆芦ノ牧温泉】渓谷雪景色と城下町情緒
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福島・会津東山＆芦ノ牧温泉】渓谷雪景色と城下町情緒
             <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
               名物会津牛＆極上馬刺し・郷土こづゆと渓谷露天の名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、鶴ヶ城の武家文化と城下町情緒が息づく福島県会津若松市の「東山温泉（ひがしやまおんせん）」と「芦ノ牧温泉（あしのまきおんせん）」は、湯川渓谷や阿賀川（大川）の切り立つ断崖に初雪が降り積もり、水墨画のような渓谷雪見露天が旅人を魅了する季節を迎えます。開湯約1300年の歴史を誇る東山温泉のサラリとした硫酸塩泉と、湯量豊富な芦ノ牧温泉の弱アルカリ性美肌泉。冷えた身体を温めた後は、会津漆器で振る舞われる江戸時代からの伝統郷土料理「こづゆ」、赤身の芳醇な旨味と甘みが際立つ極上「会津馬刺し」、きめ細やかなサシが入ったブランド黒毛和牛「会津牛」、全国新酒鑑評会で金賞を席巻する会津の銘酒。初冬の奥会津の静寂と温もりに包まれる厳選名宿5選を徹底解説します。
@@ -290,9 +288,7 @@ export default function WinterFukushimaAizuOnsenPage() {
               <Landmark className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                開湯1300年の名湯と大川渓谷美！初冬の会津温泉郷が選ばれる理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">開湯1300年の名湯と大川渓谷美！初冬の会津温泉郷が選ばれる理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 鶴ヶ城の城下町からわずか10分、水墨画のような渓谷雪見露天と会津美食の饗宴
               </p>
@@ -310,9 +306,7 @@ export default function WinterFukushimaAizuOnsenPage() {
               <Sparkles className="w-3.5 h-3.5" />
               厳選5宿の徹底比較
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              初冬の会津東山温泉・芦ノ牧温泉を満喫するおすすめ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">初冬の会津東山温泉・芦ノ牧温泉を満喫するおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 max-w-2xl mx-auto">
               楽天トラベル最新APIから取得したリアルタイムの宿泊料金・客室情報・アクセス・料理プランを基に、独自の視点で徹底解説します。
             </p>
@@ -357,9 +351,7 @@ export default function WinterFukushimaAizuOnsenPage() {
                         <span className="text-xs font-bold text-rose-800 tracking-wide uppercase">
                           {hotel.special}
                         </span>
-                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">{hotel.name}</h3>
                       </div>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -439,9 +431,7 @@ export default function WinterFukushimaAizuOnsenPage() {
             <Footprints className="w-4 h-4" />
             冬の1泊2日 満喫モデルコース
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            鶴ヶ城の雪景色と渓谷露天風呂・会津牛＆馬刺しを堪能する冬旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">鶴ヶ城の雪景色と渓谷露天風呂・会津牛＆馬刺しを堪能する冬旅</h2>
           <div className="space-y-4 border-l-2 border-rose-200 pl-4 sm:pl-6 ml-2 sm:ml-4">
             <div className="space-y-2">
               <div className="flex items-center gap-2 font-bold text-stone-900 text-sm sm:text-base">
@@ -470,35 +460,27 @@ export default function WinterFukushimaAizuOnsenPage() {
             <Flame className="w-4 h-4" />
             会津冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            奥会津の大自然が育む三大至宝「会津牛」「極上馬刺し」「伝統こづゆ」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">奥会津の大自然が育む三大至宝「会津牛」「極上馬刺し」「伝統こづゆ」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-400" />
-                盆地の寒暖差が生む「特選 会津牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-400" />
+                盆地の寒暖差が生む「特選 会津牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 会津の清らかな雪解け水と良質な牧草で育つブランド黒毛和牛。盆地特有の厳しい寒暖差が肉質を引き締め、きめ細やかなサシと濃厚な赤身のコクを生み出します。陶板ステーキやすき焼きで、とろける脂の甘みを存分に楽しめます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-400" />
-                赤身の真髄「会津名物 馬刺し」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-400" />
+                赤身の真髄「会津名物 馬刺し」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 プロレスラー力道山が会津を訪れた際に広めたとされる会津の馬刺し。他地域と異なり、脂の少ない上質な「モモやロースの赤身」を好むのが特徴。特製のにんにく辛子味噌を醤油に溶いて食べると、肉の旨味が際立ち地酒が進みます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-400" />
-                江戸時代からのもてなし膳「郷土 こづゆ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-400" />
+                江戸時代からのもてなし膳「郷土 こづゆ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 ホタテの干し貝柱の出汁に、里芋、人参、キクラゲ、白滝、豆麩などを入れた会津伝統の汁物料理。会津漆器の朱塗りのお椀で供され、何杯おかわりしても礼儀にかなうとされる、温かな会津の心が息づく冬の郷土料理です。
               </p>
@@ -512,15 +494,11 @@ export default function WinterFukushimaAizuOnsenPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の会津東山・芦ノ牧温泉 交通アクセス＆冬道アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の会津東山・芦ノ牧温泉 交通アクセス＆冬道アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-rose-700" />
-                新幹線＆快速列車・車でのアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-rose-700" />
+                新幹線＆快速列車・車でのアクセス</h3>
               <p>
                 東京駅から東北新幹線で郡山駅まで約80分、磐越西線快速で会津若松駅まで約60分。会津若松駅からは東山温泉まで周遊バスまたはタクシーで約10〜15分と好アクセスです。
               </p>
@@ -530,10 +508,8 @@ export default function WinterFukushimaAizuOnsenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                気候と防寒・渓谷露天の注意点
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                気候と防寒・渓谷露天の注意点</h3>
               <p>
                 12月の会津地方は朝晩の気温が氷点下に達します。厚手のダウンコートやマフラー、手袋はもちろん、城下町散策用に滑りにくい防水靴をご用意ください。
               </p>
@@ -550,16 +526,12 @@ export default function WinterFukushimaAizuOnsenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の福島会津東山・芦ノ牧温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の福島会津東山・芦ノ牧温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-rose-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-rose-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -571,10 +543,8 @@ export default function WinterFukushimaAizuOnsenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-rose-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-rose-300" />
-              あわせて読みたい東北・南東北の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-rose-300" />
+              あわせて読みたい東北・南東北の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-rose-200">
               歴史ある名湯と冬の郷土料理・ブランド牛を巡る東北各地の厳選旅ガイド
             </p>
@@ -586,9 +556,7 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山形・かみのやま温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                かみのやま温泉の干し柿すだれと山形牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">かみのやま温泉の干し柿すだれと山形牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 初冬の蔵王連峰を望む城下町名湯と軒先に揺れる紅柿の風物詩。
               </p>
@@ -599,9 +567,7 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">宮城・秋保温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                秋保温泉の名取川渓谷露天と仙台牛せり鍋
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">秋保温泉の名取川渓谷露天と仙台牛せり鍋</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 伊達政宗公ゆかりの奥州名湯と冬名物せり鍋・極上仙台牛の贅沢。
               </p>
@@ -612,9 +578,7 @@ export default function WinterFukushimaAizuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">栃木・塩原温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                塩原十一湯の箒川渓谷雪見露天と高原大根・とちぎ和牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">塩原十一湯の箒川渓谷雪見露天と高原大根・とちぎ和牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 多彩な泉質を誇る塩原渓谷の雪見露天と甘い高原大根鍋を堪能。
               </p>

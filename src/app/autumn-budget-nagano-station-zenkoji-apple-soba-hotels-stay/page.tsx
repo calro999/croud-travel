@@ -58,10 +58,8 @@ export default function AutumnBudgetHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            長野駅善光寺口・東口の好立地ホテルが集結！浮いた予算で老舗そば処の天ざるや地酒を満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            長野駅善光寺口・東口の好立地ホテルが集結！浮いた予算で老舗そば処の天ざるや地酒を満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             北陸新幹線の主要ハブ・長野駅周辺は、善光寺表参道へ続く賑やかな通りや充実した駅ビルが魅力。天然温泉付きホテルや駅直結感覚のビジネスホテルが揃い、浮いた宿泊費で善光寺門前の老舗宿坊グルメや長野の銘酒「渓流」「大信州」をゆったり堪能できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  相鉄フレッサイン長野駅善光寺口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">相鉄フレッサイン長野駅善光寺口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   長野
@@ -152,9 +148,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルアベスト長野駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルアベスト長野駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   長野
@@ -208,9 +202,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   長野
@@ -264,9 +256,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ長野駅東口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ長野駅東口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   長野
@@ -320,9 +310,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ長野駅善光寺口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ長野駅善光寺口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   長野
@@ -386,9 +374,7 @@ export default function AutumnBudgetHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「長野駅前：善光寺秋詣＆信州りんご・戸隠そば！5,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -458,9 +444,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「長野駅前」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「長野駅前」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

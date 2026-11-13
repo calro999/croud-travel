@@ -185,9 +185,7 @@ export default function Page() {
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
-            川底まで透き通るエメラルドグリーンの流れと、天然鮎の芳醇な香り。水清き日本のふるさとへ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">川底まで透き通るエメラルドグリーンの流れと、天然鮎の芳醇な香り。水清き日本のふるさとへ</h2>
           <div className="grid md:grid-cols-3 gap-6">
             
             <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 space-y-2">
@@ -244,9 +242,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -271,9 +267,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -379,9 +373,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の清流・名勝・聖地特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の清流・名勝・聖地特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-rapids-river-boat-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -416,9 +408,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】新安並温泉 なごみ宿 安住庵を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】新安並温泉 なごみ宿 安住庵を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -451,9 +441,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と新安並温泉 なごみ宿 安住庵の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と新安並温泉 なごみ宿 安住庵の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -548,9 +536,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -602,9 +588,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三大清流＆奇跡の透明度と川魚・名水グルメ温泉宿×ふるさと納税厳選ガイド四万十川・長良川・柿田川」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

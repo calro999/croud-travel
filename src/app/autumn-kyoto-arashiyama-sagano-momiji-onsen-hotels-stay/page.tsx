@@ -55,9 +55,7 @@ export default function KyotoArashiyamaAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            秋の嵐山が人々を魅了し続ける理由と混雑回避のポイント
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">秋の嵐山が人々を魅了し続ける理由と混雑回避のポイント</h2>
           <p className="mb-4 text-stone-700">
             平安の昔から貴族の別荘地として愛されてきた嵐山。秋の深まりとともに小倉山や嵐山の山肌一面がパッチワークのように色づき、大堰川の水面に鮮やかな紅葉が映り込みます。特に世界遺産・天龍寺の曹源池庭園から望む嵐山の借景紅葉や、宝厳院の「獅子吼の庭」のライトアップ、嵯峨野トロッコ列車や保津川下りは圧巻です。
           </p>
@@ -69,10 +67,8 @@ export default function KyotoArashiyamaAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！嵐山・嵯峨野の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！嵐山・嵯峨野の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.71</span>
                     <span className="text-stone-400 text-xs">(31件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    翠嵐ラグジュアリーコレクションホテル京都
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">翠嵐ラグジュアリーコレクションホテル京都</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵐山（京福電気鉄道）駅 / 京福電鉄嵐山本線 嵐山駅 より徒歩約６分　阪急嵐山線 嵐山駅  、JR山陰本線 嵯峨野線  嵯峨嵐山駅 より徒歩約15分
                   </p>
@@ -142,9 +136,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.46</span>
                     <span className="text-stone-400 text-xs">(1983件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵐山（阪急）駅 / 阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。
                   </p>
@@ -189,9 +181,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.42</span>
                     <span className="text-stone-400 text-xs">(111件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    京都嵐山　花のいえ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">京都嵐山　花のいえ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / ＪＲ嵯峨野線（山陰線）「嵯峨嵐山」駅南口より徒歩７分／阪急電車嵐山線「嵐山」駅より徒歩１２分
                   </p>
@@ -236,9 +226,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.25</span>
                     <span className="text-stone-400 text-xs">(315件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    嵐山温泉彩四季の宿　花筏
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">嵐山温泉彩四季の宿　花筏</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / 阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分
                   </p>
@@ -283,9 +271,7 @@ export default function KyotoArashiyamaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.23</span>
                     <span className="text-stone-400 text-xs">(922件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル　ビナリオ嵯峨嵐山
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル　ビナリオ嵯峨嵐山</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 嵯峨嵐山駅 / JR嵯峨嵐山駅・トロッコ嵯峨駅：徒歩約1分、嵐電・嵯峨駅：徒歩約3分、JR京都駅から快速約12分
                   </p>
@@ -330,9 +316,7 @@ export default function KyotoArashiyamaAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の京都：嵐山・嵯峨野の錦秋渡月橋と保津川下り！紅葉名所を満喫するおすすめ温泉・極上宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KyotoArashiyamaAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の京都」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の京都」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

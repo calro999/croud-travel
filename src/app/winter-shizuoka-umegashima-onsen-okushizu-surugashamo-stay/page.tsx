@@ -406,9 +406,7 @@ export default function ShizuokaUmegashimaWinterPage() {
               <Landmark className="w-4 h-4 text-emerald-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のオクシズ秘湯と駿河軍鶏・超濃厚とろとろ硫黄泉を堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のオクシズ秘湯と駿河軍鶏・超濃厚とろとろ硫黄泉を堪能する名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -444,9 +442,7 @@ export default function ShizuokaUmegashimaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -496,17 +492,13 @@ export default function ShizuokaUmegashimaWinterPage() {
               <Compass className="w-4 h-4 text-emerald-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のオクシズ・有東木わさび発祥地と梅ヶ島秘湯ドライブ周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のオクシズ・有東木わさび発祥地と梅ヶ島秘湯ドライブ周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【1日目】有東木のわさび田見学と極上とろとろ硫黄泉チェックイン
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【1日目】有東木のわさび田見学と極上とろとろ硫黄泉チェックイン</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -532,10 +524,8 @@ export default function ShizuokaUmegashimaWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【2日目】湯元神社参拝とオクシズ茶＆クラフト体験
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【2日目】湯元神社参拝とオクシズ茶＆クラフト体験</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -569,27 +559,21 @@ export default function ShizuokaUmegashimaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-emerald-800" />
               初冬のオクシズ・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街で手に入れたい初冬の奥静岡銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街で手に入れたい初冬の奥静岡銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-700" />
-                有東木の手作りわさび漬けと擦りたて生わさび
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+                有東木の手作りわさび漬けと擦りたて生わさび</h3>
               <p>
                 有東木（うとうぎ）の直売所「うつろぎ」では、地元のお母さんたちが手作りする伝統の「わさび漬け」が手に入ります。新鮮なわさびの茎と根を上質な酒粕に漬け込んだ逸品は、ツンと抜ける鮮烈な辛味と酒粕の芳醇な甘みが絶妙。自宅でのご飯のお供やお酒の肴に最高のお土産です。また、泥付きの立派な生わさびも市場より手頃な価格で購入できます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-emerald-700" />
-                徳川家康公御用達の銘茶「静岡本山茶」と地酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-emerald-700" />
+                徳川家康公御用達の銘茶「静岡本山茶」と地酒</h3>
               <p>
                 安倍川上流の山あいで採れる「本山茶（ほんやまちゃ）」は、朝夕の川霧が茶葉を優しく包み込むことで渋みが少なく深い甘みと清々しい香りが特徴。徳川家康公が駿府城にいた頃、安倍川上流のお茶を愛飲した歴史があります。また、静岡が誇る吟醸王国を支える酒蔵「正雪」「磯自慢」「初亀」の純米酒も揃い、冬の温泉旅の晩酌に華を添えてくれます。
               </p>
@@ -604,24 +588,18 @@ export default function ShizuokaUmegashimaWinterPage() {
               <ThermometerSun className="w-4 h-4 text-emerald-800" />
               初冬の梅ヶ島温泉・泉質と美肌メカニズム徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜpH9.6超のとろとろ硫黄泉は「奇跡の美肌湯」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜpH9.6超のとろとろ硫黄泉は「奇跡の美肌湯」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-emerald-700" />
-              糸を引くような高粘度感をもたらす高アルカリと硫黄の黄金比率
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-700" />
+              糸を引くような高粘度感をもたらす高アルカリと硫黄の黄金比率</h3>
             <p>
               梅ヶ島温泉の源泉は、日本列島の巨大な地質断層であるフォッサマグナ（糸魚川-静岡構造線）の西縁近くに位置しています。地下深部で長い年月をかけて濾過された地下水が、高温高圧の下で地層中のミネラルを極限まで溶かし込み、pH9.6という日本でも極めて高いアルカリ度を帯びて自噴します。この高アルカリ成分が肌表面の古い皮脂を分解して乳化させ、さらに遊離硫化水素やメタケイ酸が肌に吸い付くようなトロリとした感触をもたらします。入浴した瞬間に肌がツルツルと滑り、湯船の中で指先をこすり合わせると絹のように滑らかな感触を体感できます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-emerald-700" />
-              冬の乾燥と冷えを同時に打破する硫黄成分の強力な血管拡張作用
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-emerald-700" />
+              冬の乾燥と冷えを同時に打破する硫黄成分の強力な血管拡張作用</h3>
             <p>
               一般的なアルカリ泉はサッパリとした清涼感で終わることが多いですが、梅ヶ島温泉には豊かな硫黄成分（硫化水素イオン）が含まれています。硫黄は皮膚から吸収されると末梢血管を強力に拡張し、全身の血流を促進するため、入浴後数時間にわたって体の深部体温を高く保ちます。冷え性の改善に劇的な効果があるだけでなく、高アルカリによるクレンジング後の肌を硫黄成分が優しく保護するため、初冬の乾燥した外気から素肌をしっかりと守り抜くことができます。
             </p>
@@ -635,18 +613,14 @@ export default function ShizuokaUmegashimaWinterPage() {
               <HelpCircle className="w-4 h-4 text-emerald-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の梅ヶ島温泉・オクシズ旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の梅ヶ島温泉・オクシズ旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

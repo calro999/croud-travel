@@ -266,10 +266,8 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
-              冬の美瑛＆富良野が魅せる「青と白の静寂」と大自然の温もり
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
+              冬の美瑛＆富良野が魅せる「青と白の静寂」と大自然の温もり</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -322,9 +320,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Verified Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の美瑛＆富良野を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の美瑛＆富良野を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
               楽天APIより最新の客室情報・レビュー評価を取得。青い池・白ひげの滝へのアクセス至便、極上の雪見にごり湯、北海道産グルメを誇る実力宿を厳選しました。
             </p>
@@ -360,9 +356,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -427,10 +421,8 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Subzero Climate & Gear</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
-              11月・12月・1月の気温推移と美瑛・富良野の完全防寒・氷点下対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
+              11月・12月・1月の気温推移と美瑛・富良野の完全防寒・氷点下対策</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -476,10 +468,8 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Hokkaido Winter Delicacies</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
-              北の大地が育む冬の恵み：富良野和牛・美瑛豚・濃厚チーズフォンデュ
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
+              北の大地が育む冬の恵み：富良野和牛・美瑛豚・濃厚チーズフォンデュ</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -499,9 +489,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-gradient-to-br from-cyan-950 via-slate-900 to-blue-950 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-cyan-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white">
-              【1泊2日モデルコース】白金青い池ライトアップと十勝岳雪見にごり湯の旅
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white">【1泊2日モデルコース】白金青い池ライトアップと十勝岳雪見にごり湯の旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -556,18 +544,14 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の美瑛＆富良野旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の美瑛＆富良野旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -580,9 +564,7 @@ export default function HokkaidoBieiFuranoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！冬の北海道＆人気雪見温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！冬の北海道＆人気雪見温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

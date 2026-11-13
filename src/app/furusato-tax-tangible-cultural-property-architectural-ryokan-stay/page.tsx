@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>釘を使わない宮大工の神技と幾年月を重ねた木の温もりに包まれる奇跡の宿泊</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>釘を使わない宮大工の神技と幾年月を重ねた木の温もりに包まれる奇跡の宿泊</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             幾多の文豪や墨客が筆を執り、昭和初期や明治の匠たちが贅を尽くして建てた木造建築。国の登録有形文化財に指定された名旅館は、もはや宿そのものが生きた美術館です。楽天ふるさと納税を活用すれば、文化財保護や地域振興に寄付しながら、最大30%オフのトラベルクーポンで歴史的空間の特別客室や源泉風呂に贅沢に宿泊できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    国の有形文化財に指定された職人技の粋・数寄屋建築に泊まる
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">国の有形文化財に指定された職人技の粋・数寄屋建築に泊まる</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     銘木をふんだんに用いた床の間、組子細工の欄間、波打つ手吹き大正ガラスなど、現代では再現不可能な至高の意匠に囲まれて過ごす、唯一無二の滞在体験。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    文豪たちが名作を執筆した当時の空気感と専用館内ツアー
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">文豪たちが名作を執筆した当時の空気感と専用館内ツアー</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     芥川龍之介、夏目漱石、島崎藤村など文豪ゆかりの客室や資料館を併設。当主や支配人による文化財解説ツアーが開催されている宿も多く、知的好奇心を満たしてくれます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税で文化財の維持保存を応援しながらお得に滞在
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税で文化財の維持保存を応援しながらお得に滞在</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     歴史的建築物を後世に残すための支援としての意義も大きいふるさと納税。寄付控除を受けつつ、一生に一度は泊まりたい名建築への宿泊を格安で実現できます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="shuzenji_arai" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県伊豆市ふるさと納税：修善寺温泉 新井旅館・15棟が国登録有形文化財の生きた名建築</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県伊豆市ふるさと納税：修善寺温泉 新井旅館・15棟が国登録有形文化財の生きた名建築</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       桂川の清流沿いに広がる回遊式庭園と、安田靫彦画伯が設計に携わった名建築群。登録有形文化財の天平大浴堂での入浴や、池を望む数寄屋造りの客室で伊豆の旬の会席を味わう極上の休日です。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              修善寺温泉　国の登録文化財の宿　新井旅館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                             </p>
@@ -234,10 +220,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shibu_kanaguya" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県山ノ内町ふるさと納税：渋温泉 歴史の宿 金具屋・昭和初期木造四階建て「斉月楼」</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県山ノ内町ふるさと納税：渋温泉 歴史の宿 金具屋・昭和初期木造四階建て「斉月楼」</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       宮大工が遊び心を凝らして造り上げた木造四階建ての斉月楼と大広間。ライトアップされた夜の幻想的な佇まいは圧巻で、4つの自家源泉から引く8つの名湯巡りとともに歴史のロマンに浸れます。
                     </p>
@@ -265,9 +248,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              渋温泉　歴史の宿　金具屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">渋温泉　歴史の宿　金具屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               国登録文化財の建築や豊富な源泉からなるかけ流しの風呂など、昔ながらの温泉旅情をお楽しみ下さい。
                             </p>
@@ -302,10 +283,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="hakone_kansuirou" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>神奈川県箱根町ふるさと納税：塔ノ沢温泉 元湯 環翠楼・伊藤博文が名付けた渓谷老舗旅館</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>神奈川県箱根町ふるさと納税：塔ノ沢温泉 元湯 環翠楼・伊藤博文が名付けた渓谷老舗旅館</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       大正時代の精緻な木造建築が早川渓谷の自然と美しく調和する老舗宿。皇族や要人が愛した由緒正しい客室、敷地内から湧くアルカリ性単純温泉の自家源泉を心ゆくまで堪能できます。
                     </p>
@@ -333,9 +311,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              塔之沢温泉　元湯　環翠楼
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">塔之沢温泉　元湯　環翠楼</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               創業約400年の歴史生きづく老舗旅館。3本の源泉より引いた掛け流し温泉と、月替わり懐石風料理
                             </p>
@@ -441,9 +417,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -476,9 +450,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -573,9 +545,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -627,9 +597,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">登録有形文化財・宮大工名建築旅館×ふるさと納税厳選ガイド修善寺・渋温泉・箱根の歴史的名宿で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

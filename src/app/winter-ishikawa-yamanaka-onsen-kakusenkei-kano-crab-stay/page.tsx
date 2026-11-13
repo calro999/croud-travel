@@ -298,10 +298,8 @@ export default function YamanakaWinterPage() {
             <Sparkles className="w-4 h-4 text-rose-300" />
             <span>11月・12月限定 芭蕉称賛の名湯鶴仙渓と青タグ加能ガニ＆香箱ガニ甲羅盛り</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月加賀山中温泉の冬名湯と加能ガニ】<br className="hidden sm:inline" />
-            鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月加賀山中温泉の冬名湯と加能ガニ】<br className="hidden sm:inline" />
+            鶴仙渓雪景色・芭蕉ゆかりの美肌湯と青タグ加能蟹＆能登牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日のズワイガニ漁解禁で活気に沸く加賀の奥座敷「山中温泉」。松尾芭蕉が称えた渓流露天風呂で温まり、水色の青タグが誇らしい加能ガニと12月までの限定香箱ガニ、極上能登牛を山中漆器で味わう冬の極上旅。
           </p>
@@ -327,9 +325,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Yamanaka Onsen Heritage & Crab Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                芭蕉が愛した扶桑三名湯と、11月解禁の青タグが輝く加能ガニの至福
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">芭蕉が愛した扶桑三名湯と、11月解禁の青タグが輝く加能ガニの至福</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -344,10 +340,8 @@ export default function YamanakaWinterPage() {
           
           <div className="bg-rose-50/70 rounded-2xl p-5 border border-rose-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-700" />
-                11月・12月加賀山中温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+                11月・12月加賀山中温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月6日解禁青タグ付き加能ガニ＆香箱ガニ甲羅盛り・鶴仙渓（こおろぎ橋）初冬雪見露天風呂・A5能登牛会席・芭蕉ゆかりの文化散策・北陸新幹線直通アクセス
               </p>
@@ -398,9 +392,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Basho's Beloved Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1. 山中温泉の魅力：松尾芭蕉が称えた名湯と鶴仙渓の初冬渓谷美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1. 山中温泉の魅力：松尾芭蕉が称えた名湯と鶴仙渓の初冬渓谷美</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -419,9 +411,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Blue Tag Kano Crab & Kobako Crab</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2. 11月6日解禁！青タグ付き「加能ガニ」と12月限定「香箱ガニ」の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2. 11月6日解禁！青タグ付き「加能ガニ」と12月限定「香箱ガニ」の秘密</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -440,9 +430,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Artisan Crafts & Street Walk</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                3. 山中漆器と九谷焼：器が引き立てる北陸の美食と湯の街文化
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">3. 山中漆器と九谷焼：器が引き立てる北陸の美食と湯の街文化</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function YamanakaWinterPage() {
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest bg-rose-50 px-4 py-1.5 rounded-full border border-rose-200">
               Selected 5 Luxury Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              4. 11・12月に泊まりたい加賀山中温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">4. 11・12月に泊まりたい加賀山中温泉の厳選名宿5選</h2>
             <p className="text-sm text-stone-600 max-w-2xl mx-auto">
               鶴仙渓の初冬雪見露天風呂、青タグ加能ガニ炭火焼き、12月限定香箱ガニ甲羅盛り、能登牛会席を心ゆくまで堪能できる名旅館を厳選しました。
             </p>
@@ -498,9 +484,7 @@ export default function YamanakaWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       
                       <p className="text-xs text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-rose-600 flex-shrink-0" />
@@ -559,9 +543,7 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kaga Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                5. 加賀の冬グルメ：加能ガニ炭火焼き・香箱ガニ甲羅盛り・能登牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">5. 加賀の冬グルメ：加能ガニ炭火焼き・香箱ガニ甲羅盛り・能登牛</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -580,35 +562,25 @@ export default function YamanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Suggested 2-Day Plan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                6. 1泊2日 山中温泉〜鶴仙渓散策・ゆげ街道・那谷寺 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">6. 1泊2日 山中温泉〜鶴仙渓散策・ゆげ街道・那谷寺 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-rose-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-rose-800 uppercase tracking-wider">【1日目】北陸新幹線で加賀温泉へ〜鶴仙渓雪景色と青タグ加能ガニ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                13:15 北陸新幹線「加賀温泉駅」到着 → 送迎バスで山中温泉へ（約20分）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">13:15 北陸新幹線「加賀温泉駅」到着 → 送迎バスで山中温泉へ（約20分）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 新幹線延伸で東京からも関西からもアクセス快適。宿にチェックインし荷物を預ける。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                14:30 鶴仙渓散策（こおろぎ橋〜あやとり橋）＆ゆげ街道散歩
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">14:30 鶴仙渓散策（こおろぎ橋〜あやとり橋）＆ゆげ街道散歩</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 初雪をまとったこおろぎ橋を鑑賞し、ゆげ街道の山中漆器店やコロッケ屋を巡る。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                16:30 宿の渓流露天風呂で芭蕉ゆかりの美肌湯を堪能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">16:30 宿の渓流露天風呂で芭蕉ゆかりの美肌湯を堪能</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 清流のせせらぎと初冬の冷気を感じながら、硫酸塩泉で身体の芯から温まる。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 青タグ加能ガニ＆香箱ガニ甲羅盛り・能登牛会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 青タグ加能ガニ＆香箱ガニ甲羅盛り・能登牛会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 焼きガニ、カニ刺し、香箱ガニ面影、能登牛ステーキを加賀地酒菊姫とともに味わい尽くす。
               </p>
@@ -616,21 +588,15 @@ export default function YamanakaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝風呂でリフレッシュ〜古刹那谷寺参拝＆加賀橋立港</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → 地元食材の加賀朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂 → 地元食材の加賀朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 カニ出汁の味噌汁や加賀野菜の小鉢、炊きたてコシヒカリの温かい朝食で一日をスタート。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                09:30 名刹「那谷寺（なたでら）」参拝（車で約15分）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">09:30 名刹「那谷寺（なたでら）」参拝（車で約15分）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白山信仰の名刹。初冬の奇岩遊仙境の荘厳な雪景色を鑑賞し、心洗われる参拝。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                12:30 加賀橋立港の鮮魚市場でお土産購入 → 加賀温泉駅より帰路へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">12:30 加賀橋立港の鮮魚市場でお土産購入 → 加賀温泉駅より帰路へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 水揚げされたばかりの加能ガニや香箱ガニ、地酒、山中漆器をお土産に帰路へ。
               </p>
@@ -653,10 +619,8 @@ export default function YamanakaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -671,9 +635,7 @@ export default function YamanakaWinterPage() {
         <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-300 uppercase tracking-widest">Related Hokuriku Winter Crab Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・近畿の冬カニ温泉＆雪見名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・近畿の冬カニ温泉＆雪見名湯特集</h2>
             <p className="text-xs sm:text-sm text-stone-300 leading-relaxed">
               11月・12月ならではの越前がに、松葉がに、加能ガニ、雪見露天風呂を味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

@@ -266,10 +266,8 @@ export default function IsawaWinterPage() {
             <Sparkles className="w-4 h-4 text-purple-300" />
             <span>11月・12月限定 山梨ヌーボー解禁＆甲州牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月石和温泉の新酒ワインと美肌湯】<br className="hidden sm:inline" />
-            富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月石和温泉の新酒ワインと美肌湯】<br className="hidden sm:inline" />
+            富士を望む甲州名湯と甲州牛ステーキ・冬のほうとう会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月3日解禁の山梨ヌーボーと雪化粧の富士山。毎分湧出する豊富な美肌アルカリ単純泉に癒やされ、A5ランク甲州牛のステーキと熱々の甲州かぼちゃほうとうに舌鼓を打つ極上の初冬ステイ。
           </p>
@@ -295,9 +293,7 @@ export default function IsawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Wine & Hot Spring Resort</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                ブドウ畑から生まれた青空温泉。新酒ワインの香りと美肌湯に酔いしれる冬
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">ブドウ畑から生まれた青空温泉。新酒ワインの香りと美肌湯に酔いしれる冬</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function IsawaWinterPage() {
           
           <div className="bg-purple-50/70 rounded-2xl p-5 border border-purple-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-purple-700" />
-                <span>11月・12月 石和温泉の旅のハイライト</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-purple-700" />
+                <span>11月・12月 石和温泉の旅のハイライト</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月3日山梨ヌーボー新酒解禁・雪化粧の富士山絶景・pH9超のツルツル美肌湯・A5ランク甲州牛＆熱々ほうとう
               </p>
@@ -334,9 +328,7 @@ export default function IsawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Travel Planning Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の甲州 気候・服装・ワイナリー巡りの極意
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の甲州 気候・服装・ワイナリー巡りの極意</h2>
             </div>
           </div>
 
@@ -376,9 +368,7 @@ export default function IsawaWinterPage() {
             <span className="text-xs font-extrabold text-purple-800 uppercase tracking-widest bg-purple-100/60 px-3.5 py-1 rounded-full">
               SELECTED LUXURY HOTELS
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">
-              【11・12月】石和温泉の極上滞在を叶える名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">【11・12月】石和温泉の極上滞在を叶える名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 max-w-2xl mx-auto">
               楽天トラベルで4.1〜4.71の最高水準の評価を誇る、美肌源泉・甲州牛会席・新酒ワイン・日本庭園のすべてに秀でた名旅館を厳選しました。
             </p>
@@ -424,9 +414,7 @@ export default function IsawaWinterPage() {
                       <span className="text-[11px] text-purple-800 font-bold tracking-wider uppercase block mb-1">
                         {hotel.special}
                       </span>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-purple-700" />
                         <span>{hotel.access}</span>
@@ -496,9 +484,7 @@ export default function IsawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】山梨ヌーボーと富士山絶景・美肌湯を巡る甲州旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】山梨ヌーボーと富士山絶景・美肌湯を巡る甲州旅</h2>
             </div>
           </div>
 
@@ -579,48 +565,38 @@ export default function IsawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                石和温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">石和温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-800 font-extrabold">Q.</span>
-                <span>「山梨ヌーボー」とは何ですか？解禁日やおすすめの楽しみ方は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-800 font-extrabold">Q.</span>
+                <span>「山梨ヌーボー」とは何ですか？解禁日やおすすめの楽しみ方は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 山梨ヌーボーとは、山梨県でその年に収穫された日本固有のブドウ品種「甲州（白）」と「マスカット・ベーリーA（赤）」で造られた新酒ワインのことです。毎年11月3日に全国一斉解禁されます。フレッシュでフルーティーな香りと軽快な酸味が特徴で、11月・12月の石和温泉の旅館では、解禁されたばかりの新酒ワインを甲州牛ステーキや旬の和会席とペアリングして楽しむのが最大の醍醐味です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-800 font-extrabold">Q.</span>
-                <span>石和温泉の泉質と美肌効果の特徴は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-800 font-extrabold">Q.</span>
+                <span>石和温泉の泉質と美肌効果の特徴は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 石和温泉の泉質はアルカリ性単純温泉で、pH8.5〜9.1の高アルカリ性を誇る美肌の湯です。無色透明で無臭、肌の古い角質をやさしく落としてツルツルにするクレンジング効果があります。刺激が少なく肌に吸い付くように優しいため、長湯をしても湯疲れしにくく、湯冷めもしにくいため初冬の冷え性改善に最適です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-800 font-extrabold">Q.</span>
-                <span>冬（11月・12月）の石和温泉の気候と富士山鑑賞のポイントは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-800 font-extrabold">Q.</span>
+                <span>冬（11月・12月）の石和温泉の気候と富士山鑑賞のポイントは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 甲府盆地に位置する石和温泉は、年間を通じて晴天率が非常に高い地域です。11月・12月は特に空気が乾燥して澄み渡るため、雪化粧をまとった富士山や南アルプス連峰が最も美しくくっきりと見える絶好の季節です。11月平均気温は約10℃、12月は約4℃で、朝晩は氷点下に冷え込みます。厚手のダウンコートやマフラーなどの防寒対策をお忘れなく。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-800 font-extrabold">Q.</span>
-                <span>都心（東京）から石和温泉へのアクセス方法は？雪道運転は必要？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-800 font-extrabold">Q.</span>
+                <span>都心（東京）から石和温泉へのアクセス方法は？雪道運転は必要？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 電車の場合はJR新宿駅からJR中央線特急「あずさ」「かいじ」で石和温泉駅まで直通約1時間30分とアクセス抜群です。お車の場合は中央自動車道の一宮御坂ICから温泉街まで約10分。甲府盆地の平野部にあるため、11月・12月前半に温泉街で大雪が積もることは稀ですが、12月中旬以降や山間部・勝沼方面へ足を伸ばす場合は念のためスタッドレスタイヤ装着が推奨されます。
               </p>
@@ -632,9 +608,7 @@ export default function IsawaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-purple-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆甲信越・富士見名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆甲信越・富士見名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -643,9 +617,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">富士見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上リゾート宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上リゾート宿</h3>
             </Link>
 
             <Link 
@@ -653,9 +625,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">山梨の富士絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【河口湖】もみじ回廊ライトアップと逆さ富士を望む湖畔の温泉旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【河口湖】もみじ回廊ライトアップと逆さ富士を望む湖畔の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -663,9 +633,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">信州の星空名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【阿智村・昼神温泉】日本一の星空ナイトツアーと極上美肌湯・南信州冬味覚
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【阿智村・昼神温泉】日本一の星空ナイトツアーと極上美肌湯・南信州冬味覚</h3>
             </Link>
 
             <Link 
@@ -673,9 +641,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">伊豆の小京都</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【修善寺温泉】遅咲き紅葉と竹林の小径・伊豆牛会席と名湯宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【修善寺温泉】遅咲き紅葉と竹林の小径・伊豆牛会席と名湯宿</h3>
             </Link>
 
             <Link 
@@ -683,9 +649,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">上州の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -693,9 +657,7 @@ export default function IsawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-purple-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-purple-800 uppercase block mb-1">東海の三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-purple-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛会席</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-yamanashi-isawa-onsen-wine-koshu-beef-stay" />

@@ -204,9 +204,7 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-orange-200">
           <div className="border-l-4 border-orange-600 pl-4 mb-6">
             <span className="text-orange-600 text-xs font-black tracking-widest uppercase block">Kajikabashi Light-up Guide</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              紅葉名所「河鹿橋」ライトアップ2026 鑑賞ガイド
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">紅葉名所「河鹿橋」ライトアップ2026 鑑賞ガイド</h2>
           </div>
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-6">
             伊香保温泉の源泉湧出口（伊香保露天風呂）のすぐそばに架かる「河鹿橋（かじかばし）」。
@@ -215,9 +213,7 @@ export default function IkahoAutumnLeavesGuidePage() {
           </p>
 
           <div className="bg-orange-50/60 rounded-2xl p-5 sm:p-6 border border-orange-200/90 mb-6">
-            <h3 className="font-bold text-base sm:text-lg text-orange-950 mb-3 flex items-center gap-2">
-              <span>📅</span> 2026年ライトアップ開催要項
-            </h3>
+            <h3 className="font-bold text-base sm:text-lg text-orange-950 mb-3 flex items-center gap-2">2026年ライトアップ開催要項</h3>
             <div className="grid sm:grid-cols-2 gap-3 text-xs sm:text-sm text-stone-700">
               <div className="bg-white p-3 rounded-xl border border-orange-200">
                 <strong className="text-orange-900 block mb-1">点灯期間</strong>
@@ -243,9 +239,7 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-orange-200">
           <div className="border-l-4 border-orange-600 pl-4 mb-6">
             <span className="text-orange-600 text-xs font-black tracking-widest uppercase block">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              秋の伊香保を満喫する 1泊2日ベストモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">秋の伊香保を満喫する 1泊2日ベストモデルコース</h2>
           </div>
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-6">
             水沢うどんのランチから始まり、石段街の食べ歩き、夕暮れのマジックアワーに合わせる河鹿橋ライトアップ、そして名湯での湯浴みまで、無駄なく秋の魅力を凝縮した王道スケジュールです。
@@ -264,9 +258,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                       {step.badge}
                     </span>
                   </div>
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 mb-2">
-                    {step.spot}
-                  </h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 mb-2">{step.spot}</h3>
                   <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                     {step.desc}
                   </p>
@@ -280,9 +272,7 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section className="bg-gradient-to-br from-orange-950 via-stone-900 to-amber-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl border border-orange-700">
           <div className="border-l-4 border-orange-400 pl-4 mb-6">
             <span className="text-orange-400 text-xs font-black tracking-widest uppercase block">Pro Travel Hacks</span>
-            <h2 className="text-xl sm:text-3xl font-black text-orange-100">
-              伊香保紅葉をストレスゼロで楽しむ3つの裏ワザ
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-orange-100">伊香保紅葉をストレスゼロで楽しむ3つの裏ワザ</h2>
           </div>
 
           <div className="grid md:grid-cols-3 gap-5">
@@ -295,9 +285,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <span className="text-xs font-bold text-orange-300 bg-orange-800/80 px-2.5 py-0.5 rounded-full inline-block mb-3 border border-orange-600/50">
                     {hack.point}
                   </span>
-                  <h3 className="font-bold text-base text-white mb-2">
-                    {hack.title}
-                  </h3>
+                  <h3 className="font-bold text-base text-white mb-2">{hack.title}</h3>
                   <p className="text-orange-100/70 text-xs sm:text-sm leading-relaxed">
                     {hack.desc}
                   </p>
@@ -311,9 +299,7 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-orange-200">
           <div className="border-l-4 border-orange-600 pl-4 mb-4">
             <span className="text-orange-600 text-xs font-black tracking-widest uppercase block">Featured Hot Spring Inns</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              河鹿橋・石段街まで至近！黄金の湯を楽しむ厳選温泉宿
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">河鹿橋・石段街まで至近！黄金の湯を楽しむ厳選温泉宿</h2>
           </div>
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-8">
             ライトアップを夜遅くまで楽しむなら、石段街や河鹿橋まで歩いて行ける宿がベスト。
@@ -353,9 +339,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   </div>
 
                   <div className="p-5">
-                    <h3 className="font-bold text-base sm:text-lg text-stone-900 mb-2 leading-snug">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-base sm:text-lg text-stone-900 mb-2 leading-snug">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-orange-950 mb-3 bg-orange-100/70 p-2.5 rounded-lg border border-orange-200">
                         {hotel.hotelSpecial}
@@ -406,9 +390,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               <span className="bg-orange-600 text-white text-[10px] font-black px-2 py-0.5 rounded-full">
                 直通バス・マイカー不要
               </span>
-              <h4 className="text-base sm:text-lg font-black text-orange-950">
-                東京・新宿発！楽天トラベル 伊香保温泉日帰り＆宿泊バスツアー
-              </h4>
+              <h4 className="text-base sm:text-lg font-black text-orange-950">東京・新宿発！楽天トラベル 伊香保温泉日帰り＆宿泊バスツアー</h4>
               <p className="text-xs sm:text-sm text-stone-600">
                 高速バス「上州ゆめぐり号」や、水沢うどんランチ付き紅葉バスツアーで、運転疲れなしに河鹿橋ライトアップへアクセス。
               </p>
@@ -426,18 +408,14 @@ export default function IkahoAutumnLeavesGuidePage() {
 
         {/* 5. 内部リンク＆関連記事 */}
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-8 border border-stone-300/80">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> あわせて読みたい群馬名湯トラベルガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4 flex items-center gap-2">あわせて読みたい群馬名湯トラベルガイド</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/kusatsu-vs-ikaho-onsen-comparison/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-500 hover:shadow transition group"
             >
               <span className="text-xs text-orange-700 font-bold block mb-1">二大名湯比較</span>
-              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-orange-700 transition">
-                【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・宿を徹底比較 →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-orange-700 transition">【草津温泉 vs 伊香保温泉 どっちがいい？】泉質・街歩き・宿を徹底比較 →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 酸性硫黄泉の草津と茶褐色の黄金の湯・伊香保の違いを分かりやすく解説。
               </p>
@@ -448,9 +426,7 @@ export default function IkahoAutumnLeavesGuidePage() {
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-orange-500 hover:shadow transition group"
             >
               <span className="text-xs text-orange-700 font-bold block mb-1">群馬日帰り温泉</span>
-              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-orange-700 transition">
-                【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯ガイド →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-orange-700 transition">【草津温泉 日帰り温泉＆ランチ】湯畑周辺で楽しむ源泉かけ流し名湯ガイド →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 上州牛すき焼きと石臼挽き手打ちそば、西の河原露天風呂めぐり。
               </p>
@@ -463,9 +439,7 @@ export default function IkahoAutumnLeavesGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -550,9 +524,7 @@ export default function IkahoAutumnLeavesGuidePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「伊香保温泉 河鹿橋紅葉ライトアップ2026：見頃時期・石段街散策＆黄金の湯に浸かる秋の湯治旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -613,9 +585,7 @@ export default function IkahoAutumnLeavesGuidePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「伊香保温泉 河鹿橋紅葉ライトアップ2026」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「伊香保温泉 河鹿橋紅葉ライトアップ2026」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

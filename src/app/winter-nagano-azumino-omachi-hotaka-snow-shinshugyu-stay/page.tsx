@@ -272,9 +272,7 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Winter Highlights</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の安曇野・大町が選ばれる理由：純白のアルプス連峰と澄んだ名水が育む癒やしの森
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の安曇野・大町が選ばれる理由：純白のアルプス連峰と澄んだ名水が育む癒やしの森</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -293,9 +291,7 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-              安曇野＆大町温泉郷！白銀のアルプス絶景と極上温泉を満喫する名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-stone-900">安曇野＆大町温泉郷！白銀のアルプス絶景と極上温泉を満喫する名宿5選</h2>
             <p className="text-stone-600 text-xs md:text-sm">
               楽天トラベルで高評価を誇り、雪見露天風呂と信州の美味を堪能できるリゾート＆温泉旅館
             </p>
@@ -318,9 +314,7 @@ export default function NaganoAzuminoOmachiPage() {
                           <span className="text-stone-400 ml-1">({hotel.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 flex items-center gap-1.5 mt-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 flex-shrink-0" />
                         {hotel.access}
@@ -340,10 +334,8 @@ export default function NaganoAzuminoOmachiPage() {
 
                   {/* ハイライト3点 */}
                   <div className="bg-emerald-50/50 rounded-2xl p-4 md:p-5 border border-emerald-100 space-y-2.5">
-                    <h4 className="text-xs font-black text-emerald-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
-                      この宿の注目ポイント＆こだわり
-                    </h4>
+                    <h4 className="text-xs font-black text-emerald-900 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-emerald-600" />
+                      この宿の注目ポイント＆こだわり</h4>
                     <ul className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-xs text-stone-700">
                       {hotel.highlights.map((hl, hIdx) => (
                         <li key={hIdx} className="flex items-start gap-1.5">
@@ -392,37 +384,29 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Local Food & Culture</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の安曇野・大町で絶対に味わうべき三大味覚：信州サーモン・信州プレミアム牛・新そば
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の安曇野・大町で絶対に味わうべき三大味覚：信州サーモン・信州プレミアム牛・新そば</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-stone-700">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
-                清流仕込みの「信州サーモン」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
+                清流仕込みの「信州サーモン」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 北アルプスの雪解け湧水で約10年の歳月をかけて開発された長野県オリジナルの高級魚。銀毛に輝く魚体はきめ細やかな赤身肉で、臭みが全くなく、上品でとろけるような脂の甘みが特徴です。お造りはもちろん、冬野菜とともに香ばしくソテーやポワレに仕立てても絶品です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
-                とろける旨味「信州プレミアム牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
+                とろける旨味「信州プレミアム牛」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 長野県独自の美味しさ基準（脂肪中のオレイン酸含有率55%以上）をクリアした極上の黒毛和牛。人肌でサッと溶ける良質な脂と、芳醇な肉の甘みが特徴。冬の冷えた夜に、地元の朴葉味噌で焼くステーキやすき焼き小鍋で味わえば、至福の余韻が口いっぱいに広がります。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
-                名水手打ちの「冬の新そば」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600" />
+                名水手打ちの「冬の新そば」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 名水百選に選ばれる安曇野の清冽な湧水で手打ちされる安曇野そば。11月以降は秋に収穫された香り高い「新そば」が出揃います。冬は投じ籠（とうじかご）にそばを入れ、熱々の山菜やキノコ、鴨肉の出汁にくぐらせて食べる信州伝統の「とうじ蕎麦」が身体を芯から温めます。
               </p>
@@ -434,9 +418,7 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">History & Heritage</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              古代安曇族の海神信仰と、信濃大町が誇る名水「男清水・女清水」の酒造り
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">古代安曇族の海神信仰と、信濃大町が誇る名水「男清水・女清水」の酒造り</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -452,9 +434,7 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Model Itinerary</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              【1泊2日】安曇野穂高神社初詣と大町温泉郷雪見露天・イルミネーション周遊プラン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">【1泊2日】安曇野穂高神社初詣と大町温泉郷雪見露天・イルミネーション周遊プラン</h2>
           </div>
 
           <div className="space-y-6 text-sm text-stone-700">
@@ -504,18 +484,14 @@ export default function NaganoAzuminoOmachiPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Frequently Asked Questions</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の安曇野・大町温泉郷旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の安曇野・大町温泉郷旅行に関するよくある質問</h2>
           </div>
 
           <div className="divide-y divide-stone-100">
             {faqs.map((f, idx) => (
               <div key={idx} className="py-4 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2">
-                  <span className="text-emerald-600 font-black">Q.</span>
-                  <span>{f.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                  <span>{f.q}</span></h3>
                 <p className="text-xs md:text-sm text-stone-600 pl-6 leading-relaxed">
                   {f.a}
                 </p>
@@ -526,9 +502,7 @@ export default function NaganoAzuminoOmachiPage() {
 
         {/* 内部リンク・関連特集 */}
         <section className="bg-stone-100 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">
-            あわせて読みたい！冬の信州＆雪見露天特集
-          </h3>
+          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">あわせて読みたい！冬の信州＆雪見露天特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
             <Link href="/winter-nagano-hakuba-onsen-powder-snow-alps-shinshu-beef-stay/" className="p-3 bg-white rounded-xl hover:text-emerald-700 shadow-xs transition">
               ⛷️ 白馬バレー！世界最高峰パウダースノー＆アルプス雪見宿

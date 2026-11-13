@@ -285,9 +285,7 @@ export default function KanazawaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              白銀の唐崎松と湯気立つ近江町市場！冬の金沢に息づく北陸の贅と祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白銀の唐崎松と湯気立つ近江町市場！冬の金沢に息づく北陸の贅と祈り</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               加賀百万石の美意識が息づく冬景色、新春の開運初詣、そして日本海の至高の味覚
             </p>
@@ -331,9 +329,7 @@ export default function KanazawaCityWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の金沢を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の金沢を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルAPIから最新取得した、金沢駅直結・近江町市場徒歩圏・自家源泉完備の信頼宿
             </p>
@@ -368,9 +364,7 @@ export default function KanazawaCityWinterPage() {
                       <span>{hotel.access}</span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-sm text-slate-600 leading-relaxed">
                       {hotel.story}
@@ -422,9 +416,7 @@ export default function KanazawaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の金沢を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の金沢を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               兼六園雪吊り、近江町市場香箱ガニ、尾山神社初詣、金沢おでんを味わい尽くす充実プラン
             </p>
@@ -477,47 +469,37 @@ export default function KanazawaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の金沢完全攻略：兼六園・近江町市場・初詣を極める旅の心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の金沢完全攻略：兼六園・近江町市場・初詣を極める旅の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Snowflake className="w-5 h-5 text-sky-500" />
-                兼六園「雪吊り」鑑賞の特等席と時間帯
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Snowflake className="w-5 h-5 text-sky-500" />
+                兼六園「雪吊り」鑑賞の特等席と時間帯</h3>
               <p className="leading-relaxed">
                 兼六園の中でも最も壮麗な雪吊りは、霞ヶ池の畔に立つ樹齢数百年の「唐崎松」です。朝8時前の開園直後は観光客も少なく、静寂に包まれた水面に逆さ雪吊りが映り込みます。ことじ灯籠と唐崎松を一枚のフレームに収めるアングルは冬の金沢を代表する絶景。12月以降の雪が積もった朝は格別の静謐さを誇ります。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-500" />
-                近江町市場での香箱ガニ選びとランチ戦略
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-500" />
+                近江町市場での香箱ガニ選びとランチ戦略</h3>
               <p className="leading-relaxed">
                 香箱ガニは11月6日から12月下旬までの限定品。鮮魚店店頭で茹で上げられたものをその場で捌いてもらい、外子・内子・カニ味噌を日本酒とともに立ち食いするのが醍醐味です。昼時の市場食堂街は大行列となるため、午前10時30分前の早めランチ、または午後14時以降の時間を狙うのが快適です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-rose-500" />
-                尾山神社新春初詣とステンドグラス神門
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-rose-500" />
+                尾山神社新春初詣とステンドグラス神門</h3>
               <p className="leading-relaxed">
                 尾山神社のシンボル・神門は三層構造の洋風建築。夕暮れ時になると最上階のギヤマン（ステンドグラス）が赤や緑に灯り、白雪の境内を幻想的に彩ります。元旦から三が日は大勢の初詣客で賑わうため、朝7時〜8時の清らかな時間帯にお参りすると、落ち着いて新年の誓いを立てることができます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-500" />
-                夜の楽しみ！金沢おでんと地酒の銘店巡り
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-orange-500" />
+                夜の楽しみ！金沢おでんと地酒の銘店巡り</h3>
               <p className="leading-relaxed">
                 冬の金沢の夜は「金沢おでん」で決まり。車麩、バイ貝、源助大根、そして香箱ガニの甲羅に身を詰めた「カニ面」を透き通った出汁で味わいます。菊姫や手取川、黒帯など石川の銘酒の熱燗を合わせれば、冬の寒さも一瞬で幸福感へと変わります。繁華街の片町・香林坊や金沢駅ナカの「あんと」に名店が集まっています。
               </p>
@@ -529,26 +511,20 @@ export default function KanazawaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の金沢：気候・服装・足元対策のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の金沢：気候・服装・足元対策のポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                気温と足元の防水対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                気温と足元の防水対策</h4>
               <p>
                 12月〜1月の平均気温は3〜5℃前後まで下がります。道路には融雪パイプから水が出ているため、布製スニーカーはすぐに水没します。必ず「防水仕様の靴」や「防水防寒ブーツ」を着用してください。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-4 h-4 text-indigo-500" />
-                市内交通と周遊バスの活用
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Building className="w-4 h-4 text-indigo-500" />
+                市内交通と周遊バスの活用</h4>
               <p>
                 金沢駅兼六園口（東口）からは「城下まち金沢周遊バス」が運行しており、兼六園、近江町市場、ひがし茶屋街を効率よく結びます。冬の雨や雪の日は無理に歩かずバスを賢く利用するのが快適です。
               </p>
@@ -560,18 +536,14 @@ export default function KanazawaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の金沢観光・兼六園雪吊り・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の金沢観光・兼六園雪吊り・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-rose-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-rose-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -582,10 +554,8 @@ export default function KanazawaCityWinterPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-ishikawa-kanazawa-yuwaku-onsen-koubako-crab-stay/"

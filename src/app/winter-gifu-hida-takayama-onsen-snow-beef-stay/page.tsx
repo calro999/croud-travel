@@ -301,9 +301,7 @@ export default function GifuHidaTakayamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀の小京都に灯る提灯と、杉玉が告げる新酒の香り・とろけるA5飛騨牛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀の小京都に灯る提灯と、杉玉が告げる新酒の香り・とろけるA5飛騨牛</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function GifuHidaTakayamaWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              古い町並み雪景色と飛騨高山温泉＆A5飛騨牛を堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">古い町並み雪景色と飛騨高山温泉＆A5飛騨牛を堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function GifuHidaTakayamaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function GifuHidaTakayamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の飛騨高山・古い町並み雪景色と酒蔵めぐり 2泊3日風雅モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の飛騨高山・古い町並み雪景色と酒蔵めぐり 2泊3日風雅モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：高山駅到着と古い町並み散策＆名物飛騨牛握り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：高山駅到着と古い町並み散策＆名物飛騨牛握り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 JR特急ひだ号でJR高山駅へ到着。駅前の観光案内所で雪道情報を確認し、まずは朱塗りの「中橋」へ。雪をかぶった擬宝珠（ぎぼし）と宮川の雪景色を撮影。古い町並み（さんまち通り）へ向かい、香ばしい醤油の香りが漂うみたらし団子や、煎餅の上に乗せて提供される極上飛騨牛の炙り握り寿司を食べ歩き。夕暮れに宿へチェックインし、雪見露天風呂で冷えた体をじっくり温めた後、A5飛騨牛すき焼きの夕食を味わいます。
               </p>
@@ -475,9 +465,7 @@ export default function GifuHidaTakayamaWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：宮川朝市の冬情景と杉玉揺れる老舗酒蔵めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：宮川朝市の冬情景と杉玉揺れる老舗酒蔵めぐり</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝、宮川沿いに立つ「宮川朝市」へ。白い息を吐きながら地元の農家さんと言葉を交わし、赤かぶ漬けやリンゴ、民芸品を買い求めます。続いて江戸幕府の代官所「高山陣屋」を見学。午後は冬の高山のハイライトである「酒蔵めぐり」。舩坂酒造店や原田酒造場など杉玉が掲げられた酒蔵を巡り、専用のお猪口でしぼりたて新酒やにごり酒を利き酒。夜は飛騨高山温泉の美肌湯に浸かり、朴葉味噌ステーキと地酒のペアリングを堪能します。
               </p>
@@ -486,9 +474,7 @@ export default function GifuHidaTakayamaWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：合掌造りの雪景色「飛騨の里」とお土産選び
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：合掌造りの雪景色「飛騨の里」とお土産選び</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は合掌造り民家が移築・保存された「飛騨の里」へ。白銀の池に映る合掌屋根の雪景色を眺め、昔の雪国の暮らしを体感。市街地に戻り、高山ラーメン（中華そば）の老舗で細縮れ麺と鶏ガラ魚介スープの熱々の一杯で温まります。駅前でお気に入りの地酒や飛騨さるぼぼ、駄菓子を購入し、特急ひだ号で帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function GifuHidaTakayamaWinterPage() {
             <ThermometerSun className="w-4 h-4 text-amber-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の飛騨高山を安全に楽しむための寒さ対策と雪道走行の心得
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の飛騨高山を安全に楽しむための寒さ対策と雪道走行の心得</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-amber-100 leading-relaxed pt-2">
             <div className="space-y-2 bg-stone-900/60 p-4 rounded-2xl border border-amber-800/60">
               <span className="font-bold text-white block">【盆地特有の底冷え対策】</span>
@@ -528,26 +512,20 @@ export default function GifuHidaTakayamaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               飛騨高山の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              雪国の職人技が光る老舗酒蔵の限定新酒と飛騨伝統工芸
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">雪国の職人技が光る老舗酒蔵の限定新酒と飛騨伝統工芸</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                老舗6蔵の冬限定「しぼりたて生原酒」＆飛騨春慶塗の木工ぐい呑み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                老舗6蔵の冬限定「しぼりたて生原酒」＆飛騨春慶塗の木工ぐい呑み</h3>
               <p>
                 舩坂酒造店の「深山菊」や二木酒造の「玉の井」、原田酒造場の「山車」など、冬にしか手に入らないしぼりたて無濾過生原酒は、芳醇な吟醸香とピチピチと弾けるフレッシュなガス感が魅力です。また、黄金色の漆を通して美しい木目が透ける国の伝統的工芸品「飛騨春慶塗（ひだしゅんけいぬり）」の手作り酒器や折敷は、自宅での晩酌を優雅な小京都の時間へと変えてくれます。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                宮川朝市の「赤かぶ漬け」「朴葉味噌セット」＆開運「さるぼぼ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                宮川朝市の「赤かぶ漬け」「朴葉味噌セット」＆開運「さるぼぼ」</h3>
               <p>
                 厳しい寒さで甘みが増した飛騨の赤かぶを塩だけで乳酸発酵させた伝統の「赤かぶら漬け」は、冬の高山を代表する発酵食。また、コンロの上で香ばしく焼いて楽しむ「朴葉味噌セット（乾燥朴葉と特製山椒味噌）」があれば、自宅でも手軽に飛騨牛やキノコを焼いて郷土の味を再現できます。飛騨弁で「サルの赤ちゃん」を意味する災い除けのお守り「さるぼぼ」も愛らしい旅の記念品です。
               </p>
@@ -562,27 +540,21 @@ export default function GifuHidaTakayamaWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               飛騨の風土と匠の技・ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ飛騨高山は極寒の冬に銘酒と最高峰の飛騨牛を生み出せるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ飛騨高山は極寒の冬に銘酒と最高峰の飛騨牛を生み出せるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Wine className="w-4 h-4 text-amber-700" />
-                北アルプスの清冽な雪解け伏流水と盆地気候の寒造り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Wine className="w-4 h-4 text-amber-700" />
+                北アルプスの清冽な雪解け伏流水と盆地気候の寒造り</h3>
               <p>
                 酒造りは雑菌の繁殖を防ぎ低温でじっくり発酵させるため、寒冷な気候が不可欠です。高山盆地の冬は氷点下まで安定して冷え込み、酒造りに理想的な環境が整っています。さらに、北アルプス乗鞍岳の大自然が数十年かけて磨き上げた軟水の伏流水は、キレがありながら米の甘みを優しく引き出す特性を持ち、江戸時代から続く「飛騨の酒蔵街」の高品質な酒造りを支え続けています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                伝説の名牛「安福号」から始まった最高峰ブランド飛騨牛の奇跡
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                伝説の名牛「安福号」から始まった最高峰ブランド飛騨牛の奇跡</h3>
               <p>
                 現在の飛騨牛の名声を決定づけたのは、昭和56年に兵庫県から岐阜県に導入された伝説の種雄牛「安福号（やすふくごう）」です。安福号は類まれな優れた霜降り肉質を受け継ぐ遺伝子を持ち、その血統を引く子孫たちが全国和牛能力共進会で日本一に輝くなど快挙を達成。澄んだ空気と清らかな水、そして冬の厳しい寒暖差を経験することで、きめ細やかで融点の低い美しいサシが入り、口に入れた瞬間に溶けるような甘みが生み出されます。
               </p>
@@ -597,18 +569,14 @@ export default function GifuHidaTakayamaWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の飛騨高山旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の飛騨高山旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

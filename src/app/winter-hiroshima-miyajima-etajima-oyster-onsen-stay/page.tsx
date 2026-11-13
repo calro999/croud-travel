@@ -301,9 +301,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の瀬戸内海が育む海のミルク「広島牡蠣」と、神が宿る島・宮島の静寂と祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の瀬戸内海が育む海のミルク「広島牡蠣」と、神が宿る島・宮島の静寂と祈り</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <Sparkles className="w-4 h-4 text-rose-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              宮島・厳島神社周辺＆江田島の冬絶景と美食を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">宮島・厳島神社周辺＆江田島の冬絶景と美食を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の広島・宮島・江田島 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の広島・宮島・江田島 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：広島駅到着・平和記念公園から宮島へ・夕暮れの厳島神社と老舗宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：広島駅到着・平和記念公園から宮島へ・夕暮れの厳島神社と老舗宿</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 広島駅に新幹線または飛行機で到着。平和記念公園を訪れて平和を祈念した後、世界遺産航路の高速船で直接宮島へ渡航。宮島表参道商店街で焼き立ての牡蠣や揚げもみじを食べ歩き。夕暮れ時には潮が満ちた厳島神社を参拝し、海に浮かぶ朱塗り大鳥居の神々しい姿を鑑賞。夜は宮島の老舗宿「有もと」または「岩惣」にチェックイン。名湯に浸かり、夕食には熱々の牡蠣土手鍋や広島牛会席に舌鼓を打ちます。
               </p>
@@ -475,9 +465,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：早朝の宮島静寂参拝・フェリーで江田島へ渡航＆オリーブ温泉リゾート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：早朝の宮島静寂参拝・フェリーで江田島へ渡航＆オリーブ温泉リゾート</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 観光客が訪れる前の清らかな早朝、厳島神社の大鳥居を静かに参拝。宿で朝食をとった後、紅葉谷公園や大聖院の冬景色を散策。昼食は名店で香ばしい宮島穴子めしを堪能。午後は宮島港から広島港経由でフェリーに乗り、風光明媚な「江田島」へ。海辺のラグジュアリー温泉「江田島荘」にチェックイン。源泉かけ流しの天然温泉露天風呂から瀬戸内海の夕陽を眺め、夜は大粒江田島牡蠣と江田島ポークの創作ディナーを楽しみます。
               </p>
@@ -486,9 +474,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：江田島オリーブ園散策・呉の大和ミュージアムとお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：江田島オリーブ園散策・呉の大和ミュージアムとお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 波静かな瀬戸内海から昇る朝日のパノラマをテラスから鑑賞。江田島オリーブファクトリーで搾りたてオリーブオイルのテイスティングとお買い物を楽しんだ後、フェリーで呉港へ。大和ミュージアム（呉市海事歴史科学館）や海上自衛隊呉史料館（てつのくじら館）を見学。広島駅へ移動し、牡蠣のオイル漬けや生もみじを手土産に購入して新幹線で帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
             <ThermometerSun className="w-4 h-4 text-rose-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の宮島・瀬戸内海を快適に旅するための防寒と潮汐アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の宮島・瀬戸内海を快適に旅するための防寒と潮汐アドバイス</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【服装：海風対策と歩きやすい靴】</span>
@@ -528,26 +512,20 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <ShoppingBag className="w-4 h-4 text-rose-800" />
               宮島・広島の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              歴史ある門前町と肥沃な瀬戸内海が育んだ伝統銘品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">歴史ある門前町と肥沃な瀬戸内海が育んだ伝統銘品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-700" />
-                にしき堂の「生もみじ」と老舗名店の「牡蠣のオイル漬け」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-700" />
+                にしき堂の「生もみじ」と老舗名店の「牡蠣のオイル漬け」</h3>
               <p>
                 広島銘菓もみじ饅頭の進化系「生もみじ」。広島県産米粉を使用したもっちりとした極上の生地で上品な餡を包み、今や広島土産の定番トップに君臨します。また、冬獲れの旨みが詰まった大粒牡蠣をじっくりスモークし、ハーブやオリーブオイルに漬け込んだ瓶詰めは、白ワインや日本酒のおつまみに最高の逸品です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-700" />
-                伝統工芸「宮島杓子（しゃもじ）」と西条の吟醸酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-700" />
+                伝統工芸「宮島杓子（しゃもじ）」と西条の吟醸酒</h3>
               <p>
                 寛政年間に宮島の僧侶が弁財天の琵琶の形から考案したとされる「宮島杓子」。「敵を召し捕る（飯取る）」という語呂合わせから、家内安全や必勝・商売繁盛の縁起物として初詣の記念に喜ばれています。また、日本三大酒処の一つ・東広島市西条の銘酒「賀茂鶴」の大吟醸は、冬の焼き牡蠣や穴子料理の味を一層引き立ててくれます。
               </p>
@@ -562,27 +540,21 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <Compass className="w-4 h-4 text-rose-800" />
               宮島と広島牡蠣ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ厳島神社は海上に建てられ、広島湾は日本一の牡蠣の楽園となったのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ厳島神社は海上に建てられ、広島湾は日本一の牡蠣の楽園となったのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-rose-700" />
-                島そのものが御神体：平清盛が創り上げた海上の寝殿造り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-rose-700" />
+                島そのものが御神体：平清盛が創り上げた海上の寝殿造り</h3>
               <p>
                 古代より宮島（厳島）は、山全体が神の宿る御神体として崇められていました。そのため「神聖な島を傷つけてはならない」という畏敬の念から、陸地ではなく潮の満ち引きする海浜の波打ち際に社殿が建立されました。平安時代末期、平清盛が当時の貴族の邸宅様式であった「寝殿造り」を海上に再現したことで、満潮時には社殿全体が海に浮かんでいるかのような世界無比の美が生み出されたのです。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-rose-700" />
-                太田川の三角州と瀬戸内海の閉鎖性水域がもたらす奇跡の生態系
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-rose-700" />
+                太田川の三角州と瀬戸内海の閉鎖性水域がもたらす奇跡の生態系</h3>
               <p>
                 広島湾は、中国山地の広大なブナ林から太田川を経て流れ込む清らかな淡水と、栄養塩豊富な瀬戸内海の水が交じり合う理想的な汽水域を形成しています。さらに周囲を島々に囲まれているため波が極めて穏やかで、牡蠣のいかだを安全に係留できます。適度な水温変化によって春〜夏に産卵し、秋から冬にかけて植物プランクトンをたっぷり食べて太るサイクルが安定しているため、肉厚で濃厚な極上牡蠣が育つのです。
               </p>
@@ -597,18 +569,14 @@ export default function HiroshimaMiyajimaOysterWinterPage() {
               <HelpCircle className="w-4 h-4 text-rose-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の広島・宮島・江田島旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の広島・宮島・江田島旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

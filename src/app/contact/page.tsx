@@ -30,9 +30,7 @@ export default function ContactPage() {
       </nav>
 
       <header className="space-y-3 border-b border-stone-200 pb-6">
-        <h1 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-          お問い合わせ窓口
-        </h1>
+        <h1 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">お問い合わせ窓口</h1>
         <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
           当サイトの掲載内容に関するご意見・ご指摘、誤字脱字のご連絡、またはビジネス・タイアップのご相談は下記をご確認の上、ご連絡をお願いいたします。
         </p>
@@ -47,10 +45,8 @@ export default function ContactPage() {
         </div>
 
         <div className="space-y-3">
-          <h2 className="text-base font-bold text-stone-900 flex items-center gap-2">
-            <Mail className="w-4 h-4 text-teal-700" />
-            <span>連絡先メールアドレス</span>
-          </h2>
+          <h2 className="text-base font-bold text-stone-900 flex items-center gap-2"><Mail className="w-4 h-4 text-teal-700" />
+            <span>連絡先メールアドレス</span></h2>
           <p className="text-xs md:text-sm text-stone-700">
             ご意見・取材等のご連絡は下記アドレス宛にお送りください：
           </p>

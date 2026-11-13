@@ -301,9 +301,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              江戸の旅情が雪の中に息づく中山道と、山国の厳しい冬が生んだ発酵の知恵
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">江戸の旅情が雪の中に息づく中山道と、山国の厳しい冬が生んだ発酵の知恵</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -350,17 +348,13 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              囲炉裏端で受け継がれる木曽谷の温もりと「投じる」作法
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">囲炉裏端で受け継がれる木曽谷の温もりと「投じる」作法</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 leading-relaxed text-sm sm:text-base">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-orange-600" />
-                竹籠でサッとくぐらせる「投じ蕎麦」の愉しみ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+                竹籠でサッとくぐらせる「投じ蕎麦」の愉しみ</h3>
               <p>
                 信州の蕎麦といえば冷たいざる蕎麦が基本ですが、氷点下に冷え込む冬の木曽路では「投じ蕎麦（とうじそば）」が最高の馳走となります。鍋には地元で採れた天然きのこ、冬野菜、鶏肉や鴨肉、根菜が醤油仕立ての出汁でグツグツと煮立っています。
               </p>
@@ -372,10 +366,8 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-600" />
-                塩を使わない300年の奇跡「すんき」と木曽牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Flame className="w-5 h-5 text-orange-600" />
+                塩を使わない300年の奇跡「すんき」と木曽牛</h3>
               <p>
                 「すんき」は海から遠く塩が貴重だった木曽谷で、冬の赤かぶの葉を保存するために生まれた世界でも珍しい「完全無塩」の発酵食品です。前年のすんきをスターター（種）にして赤かぶの葉を漬け込むと、植物性乳酸菌が繁殖して爽やかな酸味を生み出します。
               </p>
@@ -389,10 +381,8 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
           </div>
 
           <div className="bg-amber-50/70 p-5 sm:p-6 rounded-2xl border border-amber-200/60">
-            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-600" />
-              木曽漆器の器で味わう宿場町の美意識
-            </h4>
+            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+              木曽漆器の器で味わう宿場町の美意識</h4>
             <p className="text-amber-900 text-xs sm:text-sm leading-relaxed">
               木曽路の北端、奈良井宿に隣接する「木曽平沢」は、国の重要伝統的建造物群保存地区にも指定された日本屈指の漆器の産地です。幾重にも漆を塗り重ねた木曽漆器の椀や重箱は、熱い汁物を入れても手が熱くならず、保温性に優れています。手打ち蕎麦や郷土鍋を艶やかな漆器でいただく体験は、木曽路の歴史と職人技を五感で味わう至高の贅沢です。
             </p>
@@ -403,9 +393,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              【長野・木曽路】雪景色宿場町と冬の郷土味覚を堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">【長野・木曽路】雪景色宿場町と冬の郷土味覚を堪能する名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               奈良井宿や妻籠宿に近く、雪見温泉風呂や伝統の投じ蕎麦・木曽牛を味わえる厳選温泉宿＆クラシックリゾート
             </p>
@@ -439,9 +427,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>中山道・木曽路温泉郷エリア</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">{h.name}</h3>
                       <p className="text-stone-500 text-xs mt-1 flex items-center gap-1">
                         <Compass className="w-3.5 h-3.5" /> {h.access}
                       </p>
@@ -495,9 +481,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の木曽路 宿場町雪景色と郷土味覚を巡る1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の木曽路 宿場町雪景色と郷土味覚を巡る1泊2日モデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -563,19 +547,15 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-orange-600" />
-              冬の木曽路旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-orange-600" />
+              冬の木曽路旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="p-4 sm:p-5 bg-stone-50 rounded-2xl border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
         <section className="bg-gradient-to-br from-slate-900 to-stone-900 rounded-3xl p-6 sm:p-10 text-white space-y-6 shadow-xl">
           <div className="border-b border-slate-700 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               雪景色宿場町・古都・秘湯で日本の冬を深く味わう厳選旅ガイド
             </p>
@@ -605,9 +583,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岐阜・飛騨高山温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  白銀の古い町並み雪景色と飛騨高山温泉・A5飛騨牛すき焼き＆新酒利き酒
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">白銀の古い町並み雪景色と飛騨高山温泉・A5飛騨牛すき焼き＆新酒利き酒</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -622,9 +598,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   滋賀・近江八幡＆彦根
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  近江八幡水郷雪景色と国宝彦根城雪化粧・近江牛すき焼き＆琵琶湖名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">近江八幡水郷雪景色と国宝彦根城雪化粧・近江牛すき焼き＆琵琶湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -639,9 +613,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   奈良・洞川温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉のぼたん鍋＆名水とうふ
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">雪化粧の提灯灯る木造行者宿・大峯山麓洞川温泉のぼたん鍋＆名水とうふ</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -656,9 +628,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長野・昼神温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本一の星空ナイトツアーとpH9.7強アルカリ美肌の湯・極上南信州牛名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -673,9 +643,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   山梨・山中湖＆忍野八海
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の澄天ダイヤモンド富士と忍野八海・熱々甲州ほうとう鍋富士見宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の澄天ダイヤモンド富士と忍野八海・熱々甲州ほうとう鍋富士見宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -690,9 +658,7 @@ export default function NaganoKisojiNaraiTsumagoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   栃木・湯西川温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  平家落人の隠れ里・雪見露天風呂と名物囲炉裏会席＆かまくら祭名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">平家落人の隠れ里・雪見露天風呂と名物囲炉裏会席＆かまくら祭名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

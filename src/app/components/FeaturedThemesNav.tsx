@@ -23,9 +23,7 @@ export default function FeaturedThemesNav() {
           <span className="text-[10px] font-extrabold text-amber-800 bg-amber-100 px-3 py-0.5 rounded-full uppercase tracking-wider inline-block mb-1">
             SEASONAL & THEME FEATURES
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 flex items-center gap-2">
-            <span>✨</span> <span>今注目の厳選テーマ・特集ガイド</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 flex items-center gap-2"><span>今注目の厳選テーマ・特集ガイド</span></h2>
         </div>
         <Link
           href="/features/"

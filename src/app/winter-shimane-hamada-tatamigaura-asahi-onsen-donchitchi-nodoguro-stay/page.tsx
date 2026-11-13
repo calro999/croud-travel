@@ -258,9 +258,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  浜田・江津・旭温泉 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">浜田・江津・旭温泉 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -283,9 +281,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    島根浜田ワシントンホテルプラザ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">島根浜田ワシントンホテルプラザ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR浜田駅徒歩3分・冬のどんちっちノドグロ料理店至近の快適シティホテル
                   </p>
@@ -350,9 +346,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    グリーンリッチホテル浜田駅前　人工温泉・二股湯の華
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">グリーンリッチホテル浜田駅前　人工温泉・二股湯の華</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR浜田駅前徒歩2分！二股炭酸カルシウム人工温泉大浴場と充実の快眠設備
                   </p>
@@ -417,9 +411,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    いわみの湯　旭温泉　隠家ゆかり
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">いわみの湯　旭温泉　隠家ゆかり</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     美肌の湯として名高い旭温泉の隠れ宿・源泉掛け流しぬる湯と石見の美食懐石
                   </p>
@@ -484,9 +476,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    美又温泉　かめや旅館＜島根県＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">美又温泉　かめや旅館＜島根県＞</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     開湯150年の歴史誇る美又温泉・日本屈指のPH9.8超美肌名湯と心温まるおもてなし
                   </p>
@@ -551,9 +541,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    有福温泉　三階旅館
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">有福温泉　三階旅館</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     開湯1350年のレトロな石段街に佇む老舗名旅館・伝統の木造建築と極上ノドグロ会席
                   </p>
@@ -626,10 +614,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h3 className="font-bold text-stone-800 text-sm sm:text-base pt-2">【エリアへのアクセス】</h3>
             <p className="text-xs sm:text-sm text-stone-600 pl-2 leading-relaxed">・電車・特急：JR山陰本線（特急スーパーまつかぜ・スーパーおき）で浜田駅まで直通。出雲市駅から浜田駅まで約1時間15分、益田駅から約35分。畳ヶ浦へは浜田駅より石見交通バス「畳ヶ浦口」下車徒歩約5分。旭温泉へは浜田駅より車・タクシーで約25分。有福温泉へは浜田駅より車で約25分、または江津駅よりバスで約25分。</p>
@@ -644,33 +630,25 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の浜田・江津・旭温泉旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の浜田・江津・旭温泉旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>石見畳ヶ浦を観光する際の注意点や見学時間は？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>石見畳ヶ浦を観光する際の注意点や見学時間は？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               畳ヶ浦の散策所要時間は約45〜60分です。海岸へ通じるトンネルを抜けると岩場を歩くため、足元に注意が必要です。また、冬場は日本海の波が高くなる日があるため、高波警報や強風時は無理に波打ち際に近づかないよう十分注意してください。干潮の時間帯に合わせて訪れると、より広大な平坦面を歩くことができます。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>「どんちっちノドグロ」とは他のノドグロと何が違うのですか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>「どんちっちノドグロ」とは他のノドグロと何が違うのですか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               「どんちっち」は浜田市が誇る水産ブランド名（ノドグロ・アジ・カレイ）です。特にどんちっちノドグロは、80g以上のサイズで脂質含有量が15%以上（平均20%以上）という極めて厳しい基準をクリアしたものだけが名乗ることができます。通常のノドグロに比べて脂の乗りが圧倒的で、焼けば脂が滴り落ち、とろけるような甘みがあります。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>石見神楽を鑑賞できる場所やスケジュールは？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>石見神楽を鑑賞できる場所やスケジュールは？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               浜田市内では、週末の夜を中心に「定期公演」が開催されています。浜田駅前の交流施設や三宮神社、温泉街の湯元などで、大迫力の「八岐大蛇（やまたのおろち）」や「恵比須」などの演目が上演されます。観光案内所や宿泊施設で当日の開催情報を確認し、ぜひ生で鑑賞することをおすすめします。
             </p>

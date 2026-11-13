@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            見渡す限りの黄金の砂丘と紺碧の海。風が刻む一期一会の風紋アートに癒やされる非日常ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">見渡す限りの黄金の砂丘と紺碧の海。風が刻む一期一会の風紋アートに癒やされる非日常ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本列島の沿岸部に風と波の力によって何万年もの歳月をかけて形成された「日本三大砂丘」――最大高低差90メートルの「馬の背」から日本海を一望しラクダ乗りやサンドボードが楽しめる鳥取の「鳥取砂丘」、薩摩半島の西岸に約47kmにわたって連なり日本有数のウミガメ産卵地や砂の祭典で知られる鹿児島の「吹上浜」、そして遠州灘の強いからっ風によって砂浜に美しい風紋（砂の波模様）が描かれる静岡の「中田島砂丘」。足元に広がるサラサラの砂を踏みしめ、夕暮れに赤く染まる砂丘の稜線を眺める時間はまるで異国の砂漠に迷い込んだかのような神秘的な静寂に包まれます。地元の新鮮な魚介と美肌温泉を味わう砂丘ツーリズムを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  鳥取県鳥取市ふるさと納税：大迫力の馬の背と日本海の絶景「鳥取砂丘」と自家源泉の天然温泉・ホテルモナーク鳥取
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">鳥取県鳥取市ふるさと納税：大迫力の馬の背と日本海の絶景「鳥取砂丘」と自家源泉の天然温泉・ホテルモナーク鳥取</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   山陰海岸ジオパークの象徴・鳥取砂丘。砂の美術館で砂像アートを鑑賞した後は、鳥取市街に佇むヨーロッパ調ホテル「モナーク鳥取」で、美肌の自家源泉温泉大浴場と鳥取和牛・日本海の海鮮会席を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      鳥取温泉　ホテルモナーク鳥取
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">鳥取温泉　ホテルモナーク鳥取</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>鳥取県鳥取市永楽温泉町403</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  鹿児島県日置市・南さつま市ふるさと納税：47kmの白砂青松が続く日本一の砂丘「吹上浜」と天然温泉・吹上砂丘荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">鹿児島県日置市・南さつま市ふるさと納税：47kmの白砂青松が続く日本一の砂丘「吹上浜」と天然温泉・吹上砂丘荘</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   東シナ海に面した白砂青松の大砂丘。ウミガメが上陸する美しい海岸線を散策した後は、松林の中に佇む公共の宿「吹上砂丘荘」で、湯量豊富な天然温泉と鹿児島名物の黒豚しゃぶしゃぶ・本格薩摩焼酎を満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      吹上砂丘荘
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">吹上砂丘荘</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>鹿児島県日置市吹上町今田1004-3</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  静岡県浜松市ふるさと納税：遠州のからっ風が描く芸術「中田島砂丘」の風紋とホテルルートイン浜名湖ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">静岡県浜松市ふるさと納税：遠州のからっ風が描く芸術「中田島砂丘」の風紋とホテルルートイン浜名湖ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   ウミガメの産卵地としても有名な中田島砂丘。早朝の澄んだ空気の中で見事な風紋を鑑賞した後は、浜名湖畔に位置するホテルルートイン浜名湖で、名物浜名湖うなぎや遠州餃子を味わい旅の疲れを癒やします。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン浜名湖
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン浜名湖</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>静岡県湖西市古見1049-1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   天橋立・気比松原・三保松原。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   秋吉台・四国カルスト・平尾台。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓の奇勝。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳥取温泉 ホテルモナーク鳥取を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳥取温泉 ホテルモナーク鳥取を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳥取温泉 ホテルモナーク鳥取の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳥取温泉 ホテルモナーク鳥取の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大砂丘＆風紋パノラマ・海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

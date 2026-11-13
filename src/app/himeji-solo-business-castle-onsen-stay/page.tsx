@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            白鷺が羽を広げたように白く輝く国宝・姫路城の大天守と、大手前通りのケヤキ並木——播磨の歴史と天然温泉に心整える「姫路プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">白鷺が羽を広げたように白く輝く国宝・姫路城の大天守と、大手前通りのケヤキ並木——播磨の歴史と天然温泉に心整える「姫路プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山陽新幹線「のぞみ」で新大阪から約30分、東京から約3時間。播磨臨海工業地帯を後背に抱えるものづくりの街であり、日本で初めて世界文化遺産に登録された国宝「姫路城（白鷺城）」を誇る歴史都市・姫路。日中の商談や工場視察をこなした後の楽しみは、播磨灘で獲れる肉厚な「穴子（アナゴ）」の香ばしい蒲焼きや穴子めし、生姜醤油で食べる「姫路おでん」、そして山田錦のふるさと播磨が誇る地酒「龍力」「奥播磨」です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR姫路駅東口直結！宿泊者専用のサウナ付き温浴施設「トリニテ」とアール・デコ調の気品あるモダン客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルモントレ姫路 —— 駅直結のフラッグシップ。雨に濡れずにチェックイン＆イタリア調の優雅な癒やし空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルモントレ姫路 —— 駅直結のフラッグシップ。雨に濡れずにチェックイン＆イタリア調の優雅な癒やし空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR姫路駅南口徒歩3分！自家源泉の天然温泉大浴場「白鷺の湯」＆高温サウナ・名物夜鳴きそば
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 白鷺の湯 ドーミーイン姫路 —— 駅近の温泉ビジホ。手足を伸ばせる天然温泉と名物アーモンドトースト朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 白鷺の湯 ドーミーイン姫路 —— 駅近の温泉ビジホ。手足を伸ばせる天然温泉と名物アーモンドトースト朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR姫路駅中央南口正面！オークラニッコーホテルズならではの格式あるサービスと多彩な直営ダイニング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル日航姫路 —— 駅前ランドマーク。広々とした客室とシェフが目の前で作るライブキッチン朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル日航姫路 —— 駅前ランドマーク。広々とした客室とシェフが目の前で作るライブキッチン朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              姫路の二大名物「穴子めし＆姫路おでん」を一人で味わうグルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">姫路の二大名物「穴子めし＆姫路おでん」を一人で味わうグルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 世界遺産「姫路城」を朝イチ（9:00開城）で見学し大天守登閣
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 世界遺産「姫路城」を朝イチ（9:00開城）で見学し大天守登閣</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 白漆喰総塗籠造（しろしっくいそうぬりごめづくり）の壮麗な城壁。朝の澄んだ光に輝く大天守からの眺めは圧巻です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 昼食に香ばしく焼き上げた「穴子めし」を重箱で味わう
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 昼食に香ばしく焼き上げた「穴子めし」を重箱で味わう</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 播磨灘名物の焼きアナゴ。秘伝のタレと山椒が絡むふっくら香ばしい身を、タレの染みたご飯とともに頬張る至福。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は駅前のみゆき通り周辺の居酒屋で「姫路おでん」と地酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は駅前のみゆき通り周辺の居酒屋で「姫路おでん」と地酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 生姜醤油をかけて食べるのが姫路流。すっきり辛口の播磨地酒「奥播磨」が、おでんの出汁と生姜の風味をキリリと引き立てます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>姫路駅から姫路城までは歩いて行けますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>姫路駅から姫路城までは歩いて行けますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 姫路駅北口から大手前通りをまっすぐ歩いて約15〜20分です。駅前広場から城が正面に見えており、100円の市内循環バスも頻発しています。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>新幹線の姫路駅は「のぞみ」も停まりますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>新幹線の姫路駅は「のぞみ」も停まりますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、姫路駅は「のぞみ」の一部列車や「ひかり」「さくら」「こだま」が停車し、東京・新大阪・博多方面へ乗り換えなしで直結しています。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルモントレ姫路を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルモントレ姫路を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

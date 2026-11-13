@@ -128,12 +128,10 @@ export default function Home() {
           <span className="inline-flex text-[10px] font-extrabold tracking-widest text-amber-400 bg-amber-400/10 border border-amber-400/20 px-3.5 py-1 rounded-full uppercase">
             厳選宿のデジタル旅行誌 📜
           </span>
-          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">
-            日本の、まだ見ぬ美景と<br />
+          <h1 className="text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight text-white">日本の、まだ見ぬ美景と<br />
             <span className="bg-gradient-to-r from-teal-100 via-amber-200 to-emerald-100 bg-clip-text text-transparent">
               極上の湯宿をめぐる旅
-            </span>
-          </h1>
+            </span></h1>
           <p className="text-emerald-100/80 leading-relaxed text-xs md:text-sm max-w-lg font-medium">
             全国47都道府県の厳選温泉宿・人気ホテルを徹底比較。楽天トラベルの最新プラン・最安値・限定割引クーポンをリアルタイム確認して今すぐ宿泊予約できます。
           </p>
@@ -195,9 +193,7 @@ export default function Home() {
             <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-amber-500/20 text-amber-300 text-[10px] font-black tracking-widest uppercase border border-amber-400/30">
               EDITORIAL EXCLUSIVE 2026-2027
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-white mt-2 font-journal-serif">
-              🔥 編集部総力取材！日本全国メガヒット決定版キラー特集
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-white mt-2 font-journal-serif">編集部総力取材！日本全国メガヒット決定版キラー特集</h2>
           </div>
           <span className="text-xs text-stone-400 font-medium bg-white/10 px-3 py-1.5 rounded-xl border border-white/10">
             楽天トラベル公式APIリアルタイムデータ完全連携
@@ -219,9 +215,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">8,900文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">
-              【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               ケヤキ並木90万球シャンパンゴールド、高さ14mドイツクリスマスピラミッド、三井ガーデンホテル神宮外苑など厳選5宿。
             </p>
@@ -237,9 +231,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">7,900文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-emerald-200 transition line-clamp-2 leading-snug">
-              【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-emerald-200 transition line-clamp-2 leading-snug">【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               山肌を覆う光の絨毯、全長250m虹のリフト、PICAさがみ湖焚き火コテージやタカオネなど冬の極上宿徹底比較。
             </p>
@@ -255,9 +247,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">8,000文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-blue-200 transition line-clamp-2 leading-snug">
-              【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-blue-200 transition line-clamp-2 leading-snug">【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               高さ15mツリー＆光の回廊、地下1,700m天然温泉露天風呂とサウナ、東京ドームホテルなどパノラマ夜景名宿5選。
             </p>
@@ -273,9 +263,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">14,000文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">
-              【日本全国温泉地ランキングTOP12】草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【日本全国温泉地ランキングTOP12】草津・箱根・有馬・由布院・別府・城崎の名旅館徹底比較</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               環境省10大泉質別の選び方、名湯の効能、絶景露天風呂、お得な予約術まで完全網羅した温泉バイブル。
             </p>
@@ -291,9 +279,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">15,000文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-indigo-200 transition line-clamp-2 leading-snug">
-              【全国オールインクルーシブ温泉宿TOP12】ビール・地酒・夜食・貸切風呂まで全て無料
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-indigo-200 transition line-clamp-2 leading-snug">【全国オールインクルーシブ温泉宿TOP12】ビール・地酒・夜食・貸切風呂まで全て無料</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               松島一の坊、アンダリゾート、季の湯雪月花、TAOYAなど、滞在中お財布を一度も開かない究極のリゾート。
             </p>
@@ -309,9 +295,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">14,000文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-200 transition line-clamp-2 leading-snug">
-              【全国サウナが凄いホテル＆名旅館TOP12】らかんの湯・北こぶし知床・マウント富士
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-200 transition line-clamp-2 leading-snug">【全国サウナが凄いホテル＆名旅館TOP12】らかんの湯・北こぶし知床・マウント富士</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               天然伏流水水風呂、絶景外気浴、科学的ととのいメカニズム、名物サウナ飯（サ飯）まで完全個別取材。
             </p>
@@ -324,9 +308,7 @@ export default function Home() {
                 <span className="inline-block px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-xs font-bold tracking-wider">
                   ♨️ 客室露天・貸切風呂
                 </span>
-                <h3 className="text-lg font-bold text-white group-hover:text-teal-300 transition-colors line-clamp-2">
-                  【2026-2027年最新】全国客室露天風呂・貸切風呂付き温泉宿TOP12｜プライベート極上湯浴み
-                </h3>
+                <h3 className="text-lg font-bold text-white group-hover:text-teal-300 transition-colors line-clamp-2">【2026-2027年最新】全国客室露天風呂・貸切風呂付き温泉宿TOP12｜プライベート極上湯浴み</h3>
                 <p className="text-xs text-slate-300 line-clamp-2">
                   箱根・草津・有馬・由布院など！誰の目も気にせず名湯を独占できる露天風呂付き客室＆無料貸切風呂の名宿ガイド。
                 </p>
@@ -344,9 +326,7 @@ export default function Home() {
                 <span className="inline-block px-3 py-1 rounded-full bg-cyan-500/20 text-cyan-300 text-xs font-bold tracking-wider">
                   🌅 絶景インフィニティ温泉
                 </span>
-                <h3 className="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors line-clamp-2">
-                  【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂TOP12｜海・富士山・夜景
-                </h3>
+                <h3 className="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors line-clamp-2">【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂TOP12｜海・富士山・夜景</h3>
                 <p className="text-xs text-slate-300 line-clamp-2">
                   熱海・河口湖・別府・洞爺湖など！海や空と一体化する奇跡の浮遊感と絶景パノラマ露天風呂名宿ガイド。
                 </p>
@@ -367,9 +347,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">12,000文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-rose-200 transition line-clamp-2 leading-snug">
-              【年末年始・初詣＆初日の出温泉旅行】伊勢神宮・出雲大社・富士山近くの開運旅館12選
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-rose-200 transition line-clamp-2 leading-snug">【年末年始・初詣＆初日の出温泉旅行】伊勢神宮・出雲大社・富士山近くの開運旅館12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               早朝参拝の混雑回避裏ワザ、神社仏閣の参拝作法、年越し蕎麦とお雑煮ご当地文化、2泊3日黄金ルート。
             </p>
@@ -385,9 +363,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">11,600文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">
-              【楽天ふるさと納税×高級宿】還元率30%クーポンで泊まる憧れの最高峰旅館12選
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">【楽天ふるさと納税×高級宿】還元率30%クーポンで泊まる憧れの最高峰旅館12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               年末の駆け込み寄附完全攻略！寄附上限の計算式、客室露天風呂付き離れ、あとから割引の裏ワザ解説。
             </p>
@@ -403,9 +379,7 @@ export default function Home() {
               </span>
               <span className="text-[10px] text-stone-400">11,800文字超</span>
             </div>
-            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-red-200 transition line-clamp-2 leading-snug">
-              【日本海カニ旅行】松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-red-200 transition line-clamp-2 leading-snug">【日本海カニ旅行】松葉ガニ・越前がに・間人ガニ解禁！タグ付き活蟹が食べられる宿12選</h3>
             <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
               本場タグ付き越前がに・松葉ガニ・間人ガニ！刺身・焼き・茹で・甲羅味噌・カニすき雑炊の極み。
             </p>
@@ -424,9 +398,7 @@ export default function Home() {
         <div className="flex items-center justify-between">
           <div className="space-y-1">
             <span className="text-[10px] font-extrabold text-amber-700 uppercase tracking-widest block">SPECIAL PROMOTION</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🎁</span> <span>開催中のおすすめお得キャンペーン＆限定クーポン</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>開催中のおすすめお得キャンペーン＆限定クーポン</span></h2>
           </div>
           <Link href="/campaigns/" className="text-xs font-bold text-amber-700 hover:text-amber-800 flex items-center gap-1">
             <span>すべて見る</span> <span>→</span>
@@ -493,9 +465,7 @@ export default function Home() {
         <div className="flex items-center justify-between border-b border-emerald-950/5 pb-4">
           <div className="space-y-1">
             <span className="text-[10px] font-extrabold text-teal-900/60 uppercase tracking-widest block">DESTINATIONS GUIDE</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🗾</span> <span>都道府県別の観光見所＆厳選宿ガイド</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>都道府県別の観光見所＆厳選宿ガイド</span></h2>
           </div>
           <Link href="/prefectures/" className="text-xs font-bold text-teal-800 hover:text-teal-700 flex items-center gap-1">
             <span>全国一覧を見る</span> <span>→</span>
@@ -539,9 +509,7 @@ export default function Home() {
           <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             TRAVEL GUIDE & TIPS
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white flex items-center gap-2">
-            <span>🧭</span> <span>公式旅行ガイド＆お得な予約TIPS</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white flex items-center gap-2"><span>公式旅行ガイド＆お得な予約TIPS</span></h2>
           <p className="text-xs text-slate-300 leading-relaxed font-medium">
             ふるさと納税を活用した控除上限内で実質2,000円負担となる最大30%宿泊クーポンの活用術や予約後クーポンのあとから適用方法など、旅の計画をサポートする実用ガイドをご案内。
           </p>

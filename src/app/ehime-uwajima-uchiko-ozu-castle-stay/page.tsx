@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             現存十二天守とリアス式宇和海の恵み
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 宇和島城〜現存木造天守＆本場「宇和島鯛めし」・真珠の海リアスステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 宇和島城〜現存木造天守＆本場「宇和島鯛めし」・真珠の海リアスステイ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             名築城家・藤堂高虎によって築かれ、伊達家が代々治めた宇和島城。日本にわずか12基しか現存しない貴重な江戸時代の天守が標高74mの丘の上に優雅な姿をとどめます。宇和島を訪れたら外せないのが、全国の鯛めしとは一線を画す「宇和島鯛めし」。獲れたてのプリプリした真鯛の切り身を、生卵・醤油・みりん・出汁・薬味を合わせた特製ダレに絡め、炊き立てのご飯に豪快に乗せて味わう至福の郷土料理です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）松山大街道</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         歴史と文化の街・松山の中心地、大街道に誕生した新たな街のシンボル。
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルイシバシ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルイシバシ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【夕食評価★4.5】JR宇和島駅10分＆大浴場完備/全室wi-fi・無料駐車場・有料レンタル自転車
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        道後ｈａｋｕｒｏ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">道後ｈａｋｕｒｏ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         2020年ＯＰＥＮ★松山・道後の旅もっと気軽に自由に思い思いに楽しむ温泉ライフスタイルホテル
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥道後　壱湯の守（いちゆのもり）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥道後　壱湯の守（いちゆのもり）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【西日本最大級の露天風呂で湯巡り♪】道後から車で１０分！大自然に佇む美人湯の宿
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             木蝋とハゼの実で富を築いた白壁の美
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 内子八日市・護国「重要伝統的建造物群」＆内子座・古民家ヘリテージ散歩
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 内子八日市・護国「重要伝統的建造物群」＆内子座・古民家ヘリテージ散歩</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             江戸末期から明治にかけて、ハゼの実から採れる「木蝋（もくろう）」と製糸業で巨万の富を築いた内子町。八日市・護国地区には、約600mにわたって豪壮な漆喰白壁や黄土色の壁、なまこ壁、出格子を備えた屋敷が立ち並びます。大正5年に創建された現存する本格木造芝居小屋「内子座」では、廻り舞台や奈落の地下通路を見学可能。歴史ある豪商屋敷を活用した分散型古民家ホテルでの滞在は特別な体験です。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【松山から約1時間】大洲城下町をまるごとひとつのホテルに見立てた分散型ホテル
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        八幡浜センチュリーホテル　イトー
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">八幡浜センチュリーホテル　イトー</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         四国随一の魚どころに位置するホテル　全室LAN有り ランチメニューの八幡浜ちゃんぽんが好評
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        道後プリンスホテル～旬華趣湯　あったらいいな、が湧く湯宿～
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">道後プリンスホテル～旬華趣湯　あったらいいな、が湧く湯宿～</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         シルバーアワード受賞♪あったらいいな、が沸く湯宿＊wi-fi完備・道後温泉駅～レトロバスで無料送迎
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        山の手別邸葉隠れ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">山の手別邸葉隠れ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         一棟一棟が完全に離れのお部屋は全室に道後温泉からの引き湯の露天風桧風呂をご用意しております。
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             肱川の清流と木造復元城下町リゾート
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 伊予の小京都大洲・木造復元「大洲城」＆肱川鵜飼い・臥龍山荘名建築
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 伊予の小京都大洲・木造復元「大洲城」＆肱川鵜飼い・臥龍山荘名建築</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             肱川の清流沿いに広がる「伊予の小京都」大洲。古写真や棟梁の模型をもとに伝統工法で見事に木造復元された四層四階の「大洲城天守」は、夜間に城をまるごと貸し切って宿泊できる世界初の「城泊（キャッスルステイ）」で国際的な脚光を浴びています。崖の上にせり出すように建てられた数寄屋造りの傑作「臥龍山荘」の不老庵から眺める肱川の渓谷美はまさに一幅の山水画です。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        スーパーホテル愛媛・大洲インター　天然温泉「朝霧の湯」
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル愛媛・大洲インター　天然温泉「朝霧の湯」</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         男女別天然温泉＆無料の平面駐車場完備♪日替わり健康朝食ビュッフェで元気にご出発！
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＮＩＰＰＯＮＩＡ　ＨＯＴＥＬ　大洲　城下町</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【松山から約1時間】大洲城下町をまるごとひとつのホテルに見立てた分散型ホテル
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        スーパーホテル八幡浜
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル八幡浜</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         焼き立てパン朝食無料！
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        山の手別邸葉隠れ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">山の手別邸葉隠れ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         一棟一棟が完全に離れのお部屋は全室に道後温泉からの引き湯の露天風桧風呂をご用意しております。
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＣＡＮＤＥＯ ＨＯＴＥＬＳ松山大街道の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

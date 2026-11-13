@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              雲海に浮かぶ赤倉観光ホテルと黄金のブナ林！越後富士・妙高山の秋景色
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">雲海に浮かぶ赤倉観光ホテルと黄金のブナ林！越後富士・妙高山の秋景色</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             「越後富士」と称される名峰・妙高山を主峰とする新潟県「妙高高原」。秋の最大のハイライトは、標高1,300mまでを一気に登る「妙高スカイケーブル」からの空中散歩です。山頂駅から見渡す志賀連山や野尻湖のパノラマ、日本の滝百選「苗名滝（地震滝）」を包む柱状節理と紅葉の轟音は圧巻。宿泊は、創業1937年の日本屈指の高原リゾート「赤倉観光ホテル」をはじめ、江戸時代開湯の赤倉温泉・燕温泉の源泉掛け流し湯宿へ。魚沼・頸城の炊き立て新米コシヒカリと日本海の海の幸、にいがた和牛をふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                妙高スカイケーブルで行く標高1,300mの紅葉パノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                妙高スカイケーブルで行く標高1,300mの紅葉パノラマ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 約11分の空中散歩で眼下に広がるブナやカエデの黄金色の絨毯。山頂駅の展望デッキからは秋晴れの澄んだ空気の中に広がる絶景を一望できます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                日本の滝百選「苗名滝」と妙高山麓の紅葉ドライブ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                日本の滝百選「苗名滝」と妙高山麓の紅葉ドライブ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 落差55mの玄武岩の壁を一気に流れ落ちる苗名滝。紅葉の木立を抜けて滝壺へと向かう遊歩道散策や、いもり池の水面に映る「逆さ妙高」は必見です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                新潟の新米コシヒカリ＆日本海の紅ズワイガニ・にいがた和牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                新潟の新米コシヒカリ＆日本海の紅ズワイガニ・にいがた和牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋に収穫されたばかりのツヤツヤの新米コシヒカリ、日本海で水揚げされた新鮮な紅ズワイガニ、新潟県産黒毛和牛のグリルなど極上の秋の味覚が揃います。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.88 <span className="text-stone-400 text-xs">(450件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    赤倉温泉　赤倉観光ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">赤倉温泉　赤倉観光ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 新潟県妙高市田切216 ｜ 電車◆しなの鉄道・えちごトキめき鉄道－妙高高原駅から無料送迎バス（予約制）あり／車◆上信越道－　妙高高原ＩＣより１０分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.36 <span className="text-stone-400 text-xs">(214件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    秘湯　花文（旧燕温泉　ホテル花文）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">秘湯　花文（旧燕温泉　ホテル花文）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 新潟県妙高市関山6087 ｜ 関山駅からバス乗車し20分。妙高高原ICより車で30分(冬季45分)
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 5.00 <span className="text-stone-400 text-xs">(15件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    赤倉温泉　みどりや旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">赤倉温泉　みどりや旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県最上郡最上町富沢847 ｜ JR陸羽東線赤倉温泉駅下車、車で5分。東北自動車道古川ICより車で50分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】赤倉温泉 赤倉観光ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】赤倉温泉 赤倉観光ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と赤倉温泉 赤倉観光ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と赤倉温泉 赤倉観光ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

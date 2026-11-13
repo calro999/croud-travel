@@ -108,9 +108,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  四季折々・朝夕で表情を変える奇跡の幾何学グラデーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">四季折々・朝夕で表情を変える奇跡の幾何学グラデーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大棚田の最大の魅力は、訪れる季節や時間帯によってまったく異なる幻想的な表情を見せてくれる点にあります。水面に月が映り込む「田毎の月（たごとのつき）」で平安の昔から愛歌された姨捨の棚田、朝霧が棚田の間をたなびき神話の里の幽玄さを漂わせる丸山千枚田、夕日が日本海と棚田の水面を茜色に染め上げる白米千枚田。写真や言葉では到底捉えきれない、息をのむ大地の芸術がそこにあります。
@@ -123,9 +121,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天日干しコシヒカリとかまど炊きご飯、実りの秋を五感で味わう食体験
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天日干しコシヒカリとかまど炊きご飯、実りの秋を五感で味わう食体験</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 棚田の米は、昼夜の寒暖差と清らかな山水によって甘みと粘りが極限まで凝縮された最高峰の美味を誇ります。周辺の宿では、収穫されたばかりの新米を羽釜やかまどで炊き上げ、手作り味噌の汁椀、地元の山菜や旬の川魚・地鶏の炭火焼きとともに供されます。一口噛みしめるごとに広がるお米本来の深い甘みは、まさに旅の最高のハイライトです。
@@ -138,9 +134,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  大自然に溶け込む上質宿で過ごすデジタルデトックスと安らぎ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">大自然に溶け込む上質宿で過ごすデジタルデトックスと安らぎ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 棚田を抱く里山には、千曲川のせせらぎを望む名湯旅館、世界遺産熊野古道の懐に佇むオールインクルーシブリゾート、能登の海の幸と伝統の漆文化でもてなす温泉宿など、個性豊かな名宿が点在しています。都会の喧騒やデジタルデバイスから距離を置き、虫の声や風の音に耳を傾けながら過ごす夜は、疲れた現代人に深い安らぎと活力を取り戻してくれます。
@@ -181,9 +175,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 長野県 千曲市戸倉温泉3055</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    戸倉上山田温泉　笹屋ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">戸倉上山田温泉　笹屋ホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     清らかな環境と行き届いたおもてなし、地元の旬の素材を活かした極上料理と天然温泉が自慢の名宿です。
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 三重県 熊野市久生屋町1430</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    里創人　熊野倶楽部
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">里創人　熊野倶楽部</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 石川県 輪島市河井町6-136-7</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    温泉民宿　海辺
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">温泉民宿　海辺</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     清らかな環境と行き届いたおもてなし、地元の旬の素材を活かした極上料理と天然温泉が自慢の名宿です。
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】戸倉上山田温泉 笹屋ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】戸倉上山田温泉 笹屋ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と戸倉上山田温泉 笹屋ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と戸倉上山田温泉 笹屋ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

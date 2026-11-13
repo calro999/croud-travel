@@ -171,9 +171,7 @@ export default function CampaignsPage() {
                   )}
                 </div>
 
-                <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-                  {campaign.title}
-                </h2>
+                <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">{campaign.title}</h2>
 
                 <p className="text-xs md:text-sm font-bold text-amber-700 bg-amber-500/10 p-3 rounded-xl border border-amber-500/20">
                   🏷️ 割引・特典: {campaign.discountInfo}
@@ -223,9 +221,7 @@ export default function CampaignsPage() {
           <span className="text-[10px] font-extrabold text-amber-800 bg-amber-100 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             SALE & COUPON FAQ
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>💡</span> <span>楽天トラベル セール・割引クーポン利用でよくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>楽天トラベル セール・割引クーポン利用でよくある質問（FAQ）</span></h2>
           <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
             楽天トラベル セール、楽天セール トラベルの次回開催タイミングや、クーポンの併用ルール、お盆・夏休みのお得な予約方法をまとめました。
           </p>
@@ -233,36 +229,28 @@ export default function CampaignsPage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="p-5 rounded-2xl bg-amber-50/50 border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
-              <span>❓</span> <span>楽天トラベル セールは次回いつ開催されますか？</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>楽天トラベル セールは次回いつ開催されますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
               楽天トラベルの大型セール（スーパーSALE等）は3月・6月・9月・12月の年4回開催されます。また、毎月「5と0のつく日」や季節限定のサマーセール・お盆先々セールも常時開催されています。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/50 border border-teal-200 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>❓</span> <span>楽天トラベルの割引クーポンは複数枚併用できますか？</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>楽天トラベルの割引クーポンは複数枚併用できますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
               はい！条件が合えば「宿独自クーポン」「楽天トラベル発行クーポン」「自治体・ふるさと納税クーポン」など、最大3種類までのクーポンを同時に組み合わせて併用利用が可能です。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-indigo-50/50 border border-indigo-200 space-y-2">
-            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5">
-              <span>❓</span> <span>お盆や夏休みのホテル・温泉・プール宿はお得に予約できますか？</span>
-            </h3>
+            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5"><span>お盆や夏休みのホテル・温泉・プール宿はお得に予約できますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
               早期予約クーポンや「5と0のつく日」の高級宿20%OFFクーポンを狙うのがコツです。満室になりやすいプール付きファミリーホテルや人気温泉宿も事前クーポンでお安く予約できます。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-rose-50/50 border border-rose-200 space-y-2">
-            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5">
-              <span>❓</span> <span>楽天トラベル ふるさと納税クーポンとセールは併用できますか？</span>
-            </h3>
+            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5"><span>楽天トラベル ふるさと納税クーポンとセールは併用できますか？</span></h3>
             <p className="text-xs text-emerald-950/80 leading-relaxed pl-5 font-medium">
               併用可能です！寄付で獲得した最大30%還元の旅行クーポンと、5と0のつく日などの割引クーポンを同時に適用することで、実質のご負担を最小限に抑えられます。
             </p>

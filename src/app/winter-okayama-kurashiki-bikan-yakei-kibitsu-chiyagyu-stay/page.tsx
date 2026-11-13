@@ -301,9 +301,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白壁と川面に宿る陰影の美。冬の静寂の中で出逢う、倉敷の真の情緒と歴史の重み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白壁と川面に宿る陰影の美。冬の静寂の中で出逢う、倉敷の真の情緒と歴史の重み</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の倉敷美観地区を満喫する3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の倉敷美観地区を満喫する3大ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月の倉敷だからこそ出逢える、光と歴史と極上グルメの体験。
             </p>
@@ -339,9 +335,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-indigo-100 flex items-center justify-center text-indigo-700 font-bold">
                 <Moon className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 白壁土蔵を照らす「夜間景観照明」の幽玄美
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 白壁土蔵を照らす「夜間景観照明」の幽玄美</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 石井幹子氏プロデュースの温かな光に照らされる冬の美観地区。倉敷川の水面に映り込む白壁の陰影と静寂な石畳の散策は、宿泊者だけに許された特別な時間です。
               </p>
@@ -351,9 +345,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 桃太郎伝説・国宝「吉備津神社」新春初詣
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 桃太郎伝説・国宝「吉備津神社」新春初詣</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 全国唯一の比翼入母屋造の本殿と、全長約398mに及ぶ圧巻の木造大回廊。新年の厄除け・開運招福を祈願する厳かな初詣の空気感が心身を清めます。
               </p>
@@ -363,9 +355,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 冬に旨味が締まる「下津井真蛸」＆幻の「千屋牛」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 冬に旨味が締まる「下津井真蛸」＆幻の「千屋牛」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 瀬戸内の潮流で鍛えられた下津井真蛸の刺身やタコ飯、そして日本最古の蔓牛血統を誇る希少な千屋牛のステーキ会席。岡山の極上美食に舌鼓を打ちます。
               </p>
@@ -375,9 +365,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】白壁の夜景と吉備路初詣・冬の美観地区アート＆美食モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】白壁の夜景と吉備路初詣・冬の美観地区アート＆美食モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               美観地区の美術館・文化施設巡りから幻想的な夜間ライトアップ、吉備津神社参拝まで贅沢に巡る旅。
             </p>
@@ -388,9 +376,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 JR倉敷駅到着 ➔ 美観地区の町家カフェでランチ＆大原美術館鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 JR倉敷駅到着  美観地区の町家カフェでランチ＆大原美術館鑑賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   倉敷駅から徒歩で美観地区へ。古民家を再生した町家カフェで温かい郷土ランチを堪能後、日本最初の西洋近代美術館「大原美術館」へ。エル・グレコ「受胎告知」やモネ「睡蓮」などの名画を冬の静かな館内でじっくり鑑賞します。
                 </p>
@@ -399,9 +385,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 午後〜夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:30 倉敷川畔散策＆倉敷アイビースクエア ➔ 宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:30 倉敷川畔散策＆倉敷アイビースクエア  宿へチェックイン</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   本町通りの町家や倉敷帆布・マスキングテープの専門店を巡り、赤レンガの「倉敷アイビースクエア」へ。厳選宿にチェックインし、展望大浴場や天然温泉で手足を伸ばして温まり、夕暮れの準備を整えます。
                 </p>
@@ -410,9 +394,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  17:30 倉敷川「夜間景観照明」夜散歩 ➔ 下津井真蛸＆千屋牛の贅沢会席ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">17:30 倉敷川「夜間景観照明」夜散歩  下津井真蛸＆千屋牛の贅沢会席ディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   日没とともに灯る夜間景観照明。倉敷川に映る白壁土蔵の幻想的な灯りを眺めながら、静寂の町並みを夜散歩。宿に戻り、冬の引き締まった下津井真蛸の薄造りや、幻の千屋牛の鉄板ステーキを岡山の地酒とともに味わいます。
                 </p>
@@ -421,9 +403,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 朝</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:00 ご当地朝食ビュッフェ ➔ 吉備路へ移動し国宝「吉備津神社」新春初詣
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:00 ご当地朝食ビュッフェ  吉備路へ移動し国宝「吉備津神社」新春初詣</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   岡山名物まつり寿司や温かいお惣菜の朝食を済ませ、JR桃太郎線または車で吉備津神社へ。国宝の本殿を拝観し、木造398mの大回廊を厳かに歩いて一年の無病息災を祈願。境内のお釜殿（鳴釜神事）の神秘的な空気に触れます。
                 </p>
@@ -432,9 +412,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 吉備路の古民家カフェで手打ちうどん ➔ 倉敷駅でお土産選び＆帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 吉備路の古民家カフェで手打ちうどん  倉敷駅でお土産選び＆帰路へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   五重塔を望む備中国分寺周辺をドライブし、温かい手打ちうどんランチ。倉敷駅へ戻り、名物「むらすゞめ」や「きびだんご」、倉敷デニムの雑貨を買い求め、大満足の笑顔で新幹線へ乗車します。
                 </p>
@@ -447,9 +425,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の倉敷美観地区ステイに最適な厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の倉敷美観地区ステイに最適な厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               近代化産業遺産の赤レンガホテルから、大原美術館隣接の迎賓館、最上階天然温泉宿まで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Souvenir Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の倉敷・岡山が誇る美食カルチャーと厳選銘菓
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の倉敷・岡山が誇る美食カルチャーと厳選銘菓</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-indigo-700" />
-                下津井真蛸の歯ごたえと幻の千屋牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-indigo-700" />
+                下津井真蛸の歯ごたえと幻の千屋牛</h3>
               <p>
                 瀬戸内海の荒波にもまれる下津井の真蛸は、足が太く短く身の弾力が極めて強いのが特徴。冬の真蛸は甘みが最も強くなり、刺身では吸盤がコリコリと音を立て、唐揚げや天ぷらにするとふくよかな磯の香りが広がります。また、年間出荷数が数百頭にとどまる幻のブランド牛「千屋牛」は、サシの融点が低く胃にもたれない上品な甘みが特徴で、冬のすき焼きやしゃぶしゃぶで至高の美味しさを放ちます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-indigo-700" />
-                倉敷銘菓「むらすゞめ」と倉敷帆布・デニム
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-indigo-700" />
+                倉敷銘菓「むらすゞめ」と倉敷帆布・デニム</h3>
               <p>
                 お土産には、明治創業の橘香堂が手掛ける「むらすゞめ」が代表格。クレープ状の薄皮で粒餡を包んだ優しい味わいが世代を超えて愛されています。また、国産ジーンズ発祥の地である児島デニムを使ったバッグやコースター、伝統の撚糸技術で織られる丈夫でお洒落な「倉敷帆布」のトートバッグなど、職人のこだわりが詰まった一生モノの工芸品が町並みに溢れています。
               </p>
@@ -577,9 +545,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="bg-indigo-50/60 rounded-3xl p-6 sm:p-10 border border-indigo-200/60 space-y-6">
           <div className="border-b border-indigo-200/80 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">
-              冬の倉敷・吉備路旅行を安全・快適に楽しむための装備とアクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">冬の倉敷・吉備路旅行を安全・快適に楽しむための装備とアクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-indigo-950">
@@ -619,20 +585,16 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の倉敷美観地区・吉備津神社観光に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の倉敷美観地区・吉備津神社観光に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-indigo-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-indigo-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-indigo-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function OkayamaKurashikiBikanWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Travels</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい中国・瀬戸内の冬特集・名湯宿ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい中国・瀬戸内の冬特集・名湯宿ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

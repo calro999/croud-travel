@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            清らかな水と職人の魂が紡ぎ出す和紙の温もり。伝統美に包まれるクラフトツーリズムの旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">清らかな水と職人の魂が紡ぎ出す和紙の温もり。伝統美に包まれるクラフトツーリズムの旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             清流の恵みと職人の手技によって育まれ、千年以上もの保存性を誇る「日本三大和紙」――公家や武士に重用され日本最初の紙幣にも採用された福井の「越前和紙」、長良川の清流と光を透かす薄さと強靭さで知られる岐阜の「美濃和紙」、そしてユネスコ無形文化遺産に登録された手漉き技術を今に伝える埼玉の「小川和紙（細川紙）」。和紙の原料である楮（こうぞ）や三椏（みつまた）を清らかな水で洗い、簀桁（すけた）で丁寧に漉き上げる職人の手仕事は見ているだけで心が洗われます。和紙のあかりが優しく照らす宿の客室で、伝統の技と地元の名湯、四季折々の郷土会席を味わう豊かな時間を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福井県越前市・あわら市ふるさと納税：千五百年の歴史誇る紙漉きの郷「越前和紙の里」と名湯あわら温泉グランディア芳泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福井県越前市・あわら市ふるさと納税：千五百年の歴史誇る紙漉きの郷「越前和紙の里」と名湯あわら温泉グランディア芳泉</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   大滝神社のお膝元に広がる越前和紙の里。卯立の工芸館で手漉き体験を楽しんだ後は、福井屈指の名湯あわら温泉グランディア芳泉で、庭園露天風呂と若狭牛・越前海の幸会席を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      あわら温泉　グランディア芳泉
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">あわら温泉　グランディア芳泉</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福井県あわら市舟津43-26</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岐阜県美濃市・岐阜市ふるさと納税：うだつの上がる町並み「美濃和紙あかり館」と長良川温泉の老舗十八楼ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岐阜県美濃市・岐阜市ふるさと納税：うだつの上がる町並み「美濃和紙あかり館」と長良川温泉の老舗十八楼ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   江戸時代の豪商たちが築いた美濃の町並み。幻想的な和紙あかりアートを鑑賞した後は、金華山と長良川を望む創業百六十有余年の名宿「十八楼」で、長良川の鮎料理と鉄分豊富な赤褐色の名湯に癒やされます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      十八楼離れ　宿いとう
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">十八楼離れ　宿いとう</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岐阜県岐阜市元浜町35-6</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  埼玉県小川町・秩父市ふるさと納税：ユネスコ無形文化遺産「細川紙・小川和紙」の里散策と二百年の美肌湯・新木鉱泉旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">埼玉県小川町・秩父市ふるさと納税：ユネスコ無形文化遺産「細川紙・小川和紙」の里散策と二百年の美肌湯・新木鉱泉旅館</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   関東屈指の和紙どころ小川町。伝統の手漉き和紙工房を見学した後は、秩父最古の湯として知られる新木鉱泉旅館で、江戸時代から続く卵水（御代の湯）のツルツル美肌湯と秩父郷土料理を味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      秩父七湯『御代の湯』　新木鉱泉旅館
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">秩父七湯『御代の湯』　新木鉱泉旅館</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>埼玉県秩父市山田1538番地1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有田焼・美濃焼・瀬戸焼の窯元宿。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   静岡茶・宇治茶・朝宮茶の癒やし。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  職人技が光る伝統工芸＆数寄屋大工の名旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">職人技が光る伝統工芸＆数寄屋大工の名旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有形文化財の名旅館。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】あわら温泉 グランディア芳泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】あわら温泉 グランディア芳泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とあわら温泉 グランディア芳泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とあわら温泉 グランディア芳泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大和紙の里＆工芸温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

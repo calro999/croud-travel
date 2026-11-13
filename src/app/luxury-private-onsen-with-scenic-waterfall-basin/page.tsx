@@ -161,9 +161,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              豪快な滝の音と清らかな飛沫。五感を研ぎ澄ます滝見プライベート露天風呂の旅
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">豪快な滝の音と清らかな飛沫。五感を研ぎ澄ます滝見プライベート露天風呂の旅</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             深山幽谷の森に響き渡る滝の音。湯船に浸かりながら目の前に流れ落ちる滝の姿を眺め、たっぷりのマイナスイオンを浴びる贅沢は、まさに大人のための極上リフレッシュです。夜にはライトアップされ、昼とは一変して幻想的な姿を見せる名瀑。川魚や旬の山菜をふんだんに使った滋味あふれる料理とともに、非日常の癒やしをご体感ください。
@@ -235,9 +233,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-600 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-600 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -314,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】栃木温泉 鮎返りの滝を望む宿 小山旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】栃木温泉 鮎返りの滝を望む宿 小山旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -349,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と栃木温泉 鮎返りの滝を望む宿 小山旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と栃木温泉 鮎返りの滝を望む宿 小山旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

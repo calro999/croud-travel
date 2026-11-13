@@ -200,9 +200,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
       <section className="bg-indigo-50/60 border border-indigo-200/70 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-indigo-700 uppercase tracking-wider">Autumn Night Sky Wonder</span>
-          <h2 className="text-xl sm:text-2xl font-black text-indigo-950 font-journal-serif">
-            秋の高原グランピングが「日本一の星空」と呼ばれる理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-indigo-950 font-journal-serif">秋の高原グランピングが「日本一の星空」と呼ばれる理由</h2>
           <p className="text-xs sm:text-sm text-indigo-900/80">
             夏と冬の星座が交差するシルバーウィーク。湿度が下がり大気の透明度が跳ね上がるこの時期だけの贅沢な星空体験。
           </p>
@@ -228,9 +226,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Recommended Stargazing Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            シルバーウィークに訪れたい星空特化型グランピング＆リゾート宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">シルバーウィークに訪れたい星空特化型グランピング＆リゾート宿</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             星空の聖地・阿智村の温泉グランピングから、大自然の中で満天の星と焚き火を満喫できる厳選施設。
           </p>
@@ -283,9 +279,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "澄み切った秋空に広がる無数の星々を鑑賞。天体観測と大自然の静寂に癒やされるグランピングリゾート。"}
@@ -323,9 +317,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
         <div className="max-w-3xl space-y-6">
           <div className="space-y-1">
             <span className="text-indigo-400 font-black text-xs uppercase tracking-widest">Stargazing Night Routine</span>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              秋の星空グランピング 1泊2日天体観測タイムライン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">秋の星空グランピング 1泊2日天体観測タイムライン</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               黄昏のマジックアワーから深夜の天の川ピークタイムまで、星空を逃さず満喫するためのベストスケジュール。
             </p>
@@ -349,18 +341,14 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
       <section className="bg-white rounded-3xl border border-indigo-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            星空天体観測グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">星空天体観測グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-indigo-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-indigo-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -371,9 +359,7 @@ export default function SilverWeekGlampingStargazingAstronomyPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-indigo-50/40 border border-indigo-200/60 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-          <span>🧭</span> あわせて読みたい秋の高原・山梨周遊モデルコース
-        </h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">あわせて読みたい秋の高原・山梨周遊モデルコース</h3>
         <p className="text-xs text-slate-600">
           澄んだ空気の高原ドライブやバスツアー、公共交通機関で巡る富士五湖周辺のモデルコースはこちら。
         </p>

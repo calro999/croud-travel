@@ -265,9 +265,7 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の平泉・猊鼻渓が魅せる「白銀の極楽浄土」と温もりの旅路
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の平泉・猊鼻渓が魅せる「白銀の極楽浄土」と温もりの旅路</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               みちのくの冬空の下、歴史遺産と大自然の峡谷美が最も神聖に澄み渡る季節
             </p>
@@ -323,27 +321,21 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              奥州藤原氏の栄華が息づく黄金文化と、みちのく最高峰「前沢牛」の神髄
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">奥州藤原氏の栄華が息づく黄金文化と、みちのく最高峰「前沢牛」の神髄</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                奥州藤原氏三代の祈りと毛越寺浄土庭園の冬美
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                奥州藤原氏三代の祈りと毛越寺浄土庭園の冬美</h3>
               <p>
                 奥州藤原氏初代・清衡公が建立した中尊寺金色堂は、極楽浄土の阿弥陀堂を地上に具現化した世界的な仏教建築の至宝です。雪が降り積もる冬、月見坂の老杉に囲まれた境内は厳かな神気に包まれます。二代・基衡公が造営した毛越寺（もうつうじ）の浄土庭園は、大泉が池を中心とする平安時代の作庭様式を完全に遺す貴重な遺構。池に薄氷が張り、州浜や出島に白雪が積もる冬景色は、仏教の無常観と永遠の美を静かに物語っています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                全国品評会日本一を誇る「前沢牛」と一関伝統もち文化
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                全国品評会日本一を誇る「前沢牛」と一関伝統もち文化</h3>
               <p>
                 岩手県奥州市前沢地区で育てられる「前沢牛」は、澄んだ空気ときれいな水、良質な稲わらを食べて育つ日本最高峰の黒毛和牛です。鮮やかな霜降りと融点の低い甘い脂は、口に入れた瞬間にとろける極上の舌触り。冬のすき焼きや陶板焼きステーキでその真価を発揮します。また、一関・平泉地方は江戸時代から続く「もち食文化」の先進地で、くるみ、ずんだ、小豆、じゅうね（えごま）など多彩な味付けで楽しむ「果報もち御膳」も冬の身体を優しく温めてくれます。
               </p>
@@ -355,9 +347,7 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】世界遺産中尊寺金色堂と猊鼻渓こたつ舟・前沢牛を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】世界遺産中尊寺金色堂と猊鼻渓こたつ舟・前沢牛を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               東京から新幹線はやぶさで直通約2時間。冬のみちのくの歴史と絶景を満喫する旅路。
             </p>
@@ -368,9 +358,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:45 東北新幹線一ノ関駅到着 ➔ 平泉へ移動＆手打ち十割蕎麦ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:45 東北新幹線一ノ関駅到着  平泉へ移動＆手打ち十割蕎麦ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   東京駅または仙台駅から新幹線で一ノ関駅へ到着。JR東北本線またはレンタカーで平泉へ向かいます。平泉駅前の老舗蕎麦店で名物の手打ち十割そばや熱々の天ぷらを味わった後、世界遺産「中尊寺」の表参道「月見坂」へ。白銀の雪をかぶった樹齢数百年の老杉並木を歩き、澄み切った大気の中で心を整えます。
                 </p>
@@ -379,9 +367,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 国宝「金色堂」拝観＆毛越寺浄土庭園雪景色 ➔ 温泉宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 国宝「金色堂」拝観＆毛越寺浄土庭園雪景色  温泉宿へチェックイン</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   讃衡蔵で奥州藤原氏の仏教美術の至宝を鑑賞した後、国宝「金色堂」へ。純金箔と夜光貝の螺鈿で飾られた堂宇の神々しい輝きに対面します。続いて毛越寺へ移動し、大泉が池に薄氷が張る静寂の浄土庭園を散策。夕方に平泉・一関の温泉宿へチェックインし、源泉かけ流しの雪見露天風呂で冷えた身体を芯から温めます。
                 </p>
@@ -390,9 +376,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 最高峰ブランド「前沢牛すき焼き」と三陸海の幸・地酒に酔いしれる夜
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 最高峰ブランド「前沢牛すき焼き」と三陸海の幸・地酒に酔いしれる夜</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   夕食は岩手の誇る最高峰「前沢牛」をメインとした豪華会席。きめ細やかなサシが入った極上肉をすき焼き小鍋や陶板焼きで堪能。地元の地酒「世嬉の一」や「磐乃井」の純米酒とともに、静寂に包まれる平泉の冬宵をゆったりと過ごします。
                 </p>
@@ -401,9 +385,7 @@ export default function IwateHiraizumiGeibikeiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:30 日本百景「猊鼻渓」へ ➔ 名物「雪見こたつ舟」と熱々木流し鍋
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:30 日本百景「猊鼻渓」へ  名物「雪見こたつ舟」と熱々木流し鍋</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   朝風呂を満喫し岩手県産米コシヒカリの朝食を味わった後、車で日本百景「猊鼻渓」へ移動。名物「雪見こたつ舟」に乗船し、ぽかぽかの豆炭こたつに入りながら水墨画のような百尺断崖の雪景色を愛でます。熱々の木流し鍋を味わい、船頭の美声「猊鼻追分」を聴いた後、一ノ関駅から新幹線で帰路へつきます。
                 </p>
@@ -416,9 +398,7 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              平泉・一関の冬旅を彩る厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">平泉・一関の冬旅を彩る厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               世界遺産参拝と猊鼻渓へのアクセス、極上前沢牛と天然温泉が自慢の宿
             </p>
@@ -442,9 +422,7 @@ export default function IwateHiraizumiGeibikeiPage() {
                           厳選名宿
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-amber-600 shrink-0" />
                         {hotel.access}
@@ -526,9 +504,7 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/80 space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs uppercase tracking-wider block">Winter Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の平泉・一関旅行で注意したい気候・靴・交通アクセス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の平泉・一関旅行で注意したい気候・靴・交通アクセス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700">
@@ -568,20 +544,16 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              平泉中尊寺・猊鼻渓の冬旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">平泉中尊寺・猊鼻渓の冬旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -594,9 +566,7 @@ export default function IwateHiraizumiGeibikeiPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい東北・東日本の冬景色＆初詣特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい東北・東日本の冬景色＆初詣特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

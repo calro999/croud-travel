@@ -298,10 +298,8 @@ export default function AtamiOnsenWinterPage() {
             <Sparkles className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 澄み渡る冬夜空の熱海海上花火大会と相模湾インフィニティ露天</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月熱海温泉の冬花火と相模湾絶景露天】<br className="hidden sm:inline" />
-            澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月熱海温泉の冬花火と相模湾絶景露天】<br className="hidden sm:inline" />
+            澄み渡る夜空の初冬海上花火・インフィニティ温泉と極上金目鯛姿煮＆伊豆美味会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             都心から新幹線で最速35分。澄み切った初冬の夜空を焦がす熱海海上花火の轟音、相模湾の水平線と溶け合うインフィニティ露天風呂、脂が乗った名物「金目鯛の姿煮」と新鮮な鮑を堪能する極上ステイ。
           </p>
@@ -327,9 +325,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Atami Onsen Winter Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                徳川家康公も愛した名湯。澄み切った冬空に響き渡る海上花火と温暖な相模湾の情趣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">徳川家康公も愛した名湯。澄み切った冬空に響き渡る海上花火と温暖な相模湾の情趣</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Fireworks & Ocean Bath</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の夜空を焦がす熱海海上花火とインフィニティ露天風呂の極上体験
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の夜空を焦がす熱海海上花火とインフィニティ露天風呂の極上体験</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,9 +407,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Heritage of Atami Seven Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                徳川家康が愛した名湯。「熱海七湯」の源泉散策と江戸城への御汲湯伝説
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">徳川家康が愛した名湯。「熱海七湯」の源泉散策と江戸城への御汲湯伝説</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -434,9 +426,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の熱海温泉が選ばれ続ける3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の熱海温泉が選ばれ続ける3つの理由</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -474,9 +464,7 @@ export default function AtamiOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】熱海温泉の冬花火と絶景を約束する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】熱海温泉の冬花火と絶景を約束する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、相模湾のオーシャンビュー、花火観覧の好立地、金目鯛姿煮会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
@@ -513,11 +501,9 @@ export default function AtamiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-cyan-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -577,9 +563,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Izu Winter Seafood Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                伊豆の最高峰「金目鯛の姿煮」と相模湾直送の極上海鮮会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">伊豆の最高峰「金目鯛の姿煮」と相模湾直送の極上海鮮会席</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -609,9 +593,7 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の熱海温泉を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の熱海温泉を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -665,26 +647,20 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・花火観覧＆アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・花火観覧＆アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-700" />
-                <span>温暖な気候と夜の海風対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-700" />
+                <span>温暖な気候と夜の海風対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 熱海は冬でも温暖で、日中は12〜16℃と過ごしやすい陽気です。ただし、20:20から開催される海上花火大会の鑑賞時や海沿い・屋上露天風呂では海風が直接吹き付けるため、体感温度は5℃近くまで下がります。風を通さない防風コート、大判ストール、手袋をご用意ください。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>花火開催日の新幹線・道路渋滞対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>花火開催日の新幹線・道路渋滞対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 花火大会当日は東海道新幹線や特急「踊り子」、国道135号線が混雑します。お車の方はチェックイン時刻（15:00前）より早めの到着がスムーズです。新幹線利用の方は事前に指定席を確保しておくと、帰路もストレスなく快適に移動できます。
               </p>
@@ -700,18 +676,14 @@ export default function AtamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の熱海温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の熱海温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -724,9 +696,7 @@ export default function AtamiOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-300 uppercase tracking-widest">Related Izu & Shizuoka Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい伊豆・東海の冬名湯＆オーシャンビュー特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい伊豆・東海の冬名湯＆オーシャンビュー特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの冬花火、イルミネーション、海鮮会席を味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

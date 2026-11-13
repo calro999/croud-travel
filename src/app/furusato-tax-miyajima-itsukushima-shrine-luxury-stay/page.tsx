@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            海に浮かぶ朱塗りの大鳥居と弥山の原生林——神々が宿る世界遺産の島で味わう宮島潮湯温泉と瀬戸内美味尽くし
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">海に浮かぶ朱塗りの大鳥居と弥山の原生林——神々が宿る世界遺産の島で味わう宮島潮湯温泉と瀬戸内美味尽くし</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             広島湾の南西部に浮かび、松島・天橋立とともに「日本三景」の一つに数えられる世界遺産の島・宮島（厳島）。島全体が御神体として崇められ、推古元年に創建、平清盛によって現在の海上に浮かぶ壮麗な寝殿造りへと整えられた「厳島神社」は、潮の満ち引きによって刻一刻と表情を変える世界屈指の名建築です。満潮時には海面に朱塗りの社殿と大鳥居が浮かび上がり、干潮時には鳥居の足元まで歩いて渡ることができます。島内には人懐っこい鹿たちが暮らし、背後には国の天然記念物「弥山（みせん）原始林」の神聖な緑が広がっています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">広島県廿日市市（宮島）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  宮島潮湯温泉　錦水館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">宮島潮湯温泉　錦水館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   宮島で唯一湧出する自家源泉「宮島潮湯温泉」！海を望むテラス付きスイートと瀬戸内旬会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  宮島潮湯温泉 錦水館 —— 創業百余年・厳島神社へ徒歩すぐ。宮島唯一の天然温泉と大鳥居を望む展望スイート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">宮島潮湯温泉 錦水館 —— 創業百余年・厳島神社へ徒歩すぐ。宮島唯一の天然温泉と大鳥居を望む展望スイート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下深くから湧き出す宮島島内唯一の天然温泉「潮湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下深くから湧き出す宮島島内唯一の天然温泉「潮湯」</h5>
                     <p className="text-stone-600 leading-relaxed">海水を含んだミネラル豊富な塩化物泉。体の芯から温まり、冷え性や疲労回復に抜群の効果をもたらす美肌の湯です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 瀬戸内海や大鳥居を望むテラス付きスイートルーム
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">瀬戸内海や大鳥居を望むテラス付きスイートルーム</h5>
                     <p className="text-stone-600 leading-relaxed">畳敷きに快適なベッドを配した和モダン空間。夜にはライトアップされた宮島の海景をプライベートに眺められます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 広島牛や宮島産牡蠣・穴子をふんだんに味わう特選会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">広島牛や宮島産牡蠣・穴子をふんだんに味わう特選会席</h5>
                     <p className="text-stone-600 leading-relaxed">瀬戸内の新鮮な魚介と地元食材を活かした繊細な創作料理。器や演出にも趣向を凝らした極上の夕食を堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">広島県廿日市市（宮島）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  みやじまの宿　岩惣
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">みやじまの宿　岩惣</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   安政元年創業・皇室や文豪が愛した宮島を代表する歴史名旅館！もみじ谷の清流に抱かれる離れ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  みやじまの宿 岩惣 —— もみじ谷公園の自然と一体化する数寄屋建築。若宮温泉のいで湯と伝統の京風会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">みやじまの宿 岩惣 —— もみじ谷公園の自然と一体化する数寄屋建築。若宮温泉のいで湯と伝統の京風会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名勝もみじ谷公園の渓流沿いに佇む安政元年（1854年）創業の老舗
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名勝もみじ谷公園の渓流沿いに佇む安政元年（1854年）創業の老舗</h5>
                     <p className="text-stone-600 leading-relaxed">昭和天皇をはじめ皇族や歴代首相、文豪が宿泊した由緒ある宿。太鼓橋「もみじ橋」のすぐそばで四季の風情に包まれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 紅葉谷の原生林から湧き出す天然の「若宮温泉」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">紅葉谷の原生林から湧き出す天然の「若宮温泉」</h5>
                     <p className="text-stone-600 leading-relaxed">豊かな緑とせせらぎに包まれた大浴場。なめらかな湯ざわりで、歩き疲れた体を優しく包み込みます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伝統の出汁と瀬戸内の旬魚が織りなす本格懐石料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伝統の出汁と瀬戸内の旬魚が織りなす本格懐石料理</h5>
                     <p className="text-stone-600 leading-relaxed">素材の味を極限まで引き出した滋味あふれる料理。数寄屋造りの個室や客室で静かに至福の味覚を楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">広島県廿日市市（宮島）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  宮島グランドホテル　有もと
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">宮島グランドホテル　有もと</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   厳島神社まで徒歩３分！創業三百余年の歴史と大浴場・露天風呂。旬の瀬戸内会席とおもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  宮島グランドホテル 有もと —— 厳島神社の社殿へ一番近い格式高き宿。数寄屋モダン空間と瀬戸内の美味
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">宮島グランドホテル 有もと —— 厳島神社の社殿へ一番近い格式高き宿。数寄屋モダン空間と瀬戸内の美味</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳島神社の参道・廻廊まで徒歩わずか3分の抜群のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">厳島神社の参道・廻廊まで徒歩わずか3分の抜群のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">早朝の静かな開門参拝や夜のライトアップ散策にこれ以上ない好立地。宮島の歴史と信仰を身近に体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 木の香り漂う大浴場と庭園露天風呂でリフレッシュ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">木の香り漂う大浴場と庭園露天風呂でリフレッシュ</h5>
                     <p className="text-stone-600 leading-relaxed">ゆったりと足を伸ばせる広々とした大浴場。旅の心地よい疲れを癒やし、湯上がり処でもくつろげます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 瀬戸内の新鮮な小魚や牡蠣・広島牛を味わう伝統会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">瀬戸内の新鮮な小魚や牡蠣・広島牛を味わう伝統会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が腕を振るう四季折々の会席料理。彩り豊かな前菜やお造り、焼き物など目にも鮮やかな料理が並びます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 宮島・厳島神社・大鳥居＆弥山ロープウェイ観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 宮島・厳島神社・大鳥居＆弥山ロープウェイ観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                世界文化遺産「厳島神社」の満潮・干潮拝観と大鳥居
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                世界文化遺産「厳島神社」の満潮・干潮拝観と大鳥居</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 海上に浮かぶ国宝の廻廊や能舞台。満潮時の神秘的な水上社殿と、干潮時に大鳥居の真下まで歩いて触れる体験の双方を宿泊して楽しむのが醍醐味です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                宮島ロープウェイで行く霊峰「弥山（みせん）」山頂展望台
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                宮島ロープウェイで行く霊峰「弥山（みせん）」山頂展望台</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 弘法大師空海が開山したとされる聖地・弥山。ロープウェイと登山道を登れば、瀬戸内海の多島美を360度見晴らす絶景パノラマが広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                表参道商店街での食べ歩き（揚げもみじ・焼き牡蠣・穴子飯）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                表参道商店街での食べ歩き（揚げもみじ・焼き牡蠣・穴子飯）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 宮島フェリーターミナルから神社へ続く活気ある商店街。「揚げもみじ」や出来立てのもみじ饅頭、香ばしい焼き牡蠣の食べ歩きが楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              広島県廿日市市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">広島県廿日市市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宮島潮湯温泉 錦水館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宮島潮湯温泉 錦水館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宮島潮湯温泉 錦水館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宮島潮湯温泉 錦水館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -109,9 +109,7 @@ export default function WinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 11月〜12月初冬の厳選狙い目特集</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【奥州三名湯・飯坂温泉の熱湯共同浴場と名物円盤餃子】2026-2027年11-12月初冬の福島・飯坂！芭蕉ゆかりの鯖湖湯と波来湯・熱気あふれる湯めぐり、パリパリ焼き立て「名物円盤餃子」ととろける福島牛すき焼き・露天風呂名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             奥州三名湯の歴史を刻む福島の奥座敷・飯坂温泉！松尾芭蕉も浸かった日本最古級の木造共同浴場「鯖湖湯」をはじめとする熱湯共同浴場めぐりで、冬の寒気を吹き飛ばす芯からの温まり。摺上川の渓谷美を望む露天風呂と、名店が競い合う香ばしい「名物円盤餃子」、極上福島牛すき焼きを堪能する初冬の厳選名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function WinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが11〜12月の旅におすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが11〜12月の旅におすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>奥州三名湯の誇り！日本最古級木造共同浴場「鯖湖湯」と45℃超の熱湯めぐり</span>
-            </h3>
+              <span>奥州三名湯の誇り！日本最古級木造共同浴場「鯖湖湯」と45℃超の熱湯めぐり</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               松尾芭蕉も浸かったとされる歴史ある鯖湖湯をはじめ、波来湯や導専の湯など個性豊かな共同浴場が点在。45℃前後の清冽な源泉に浸かることで血行が一気に促進され、冬の寒さを忘れる極上の湯温まりが持続します。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>湯上がりの至福！パリッと香ばしい「名物円盤餃子」ととろける福島牛会席</span>
-            </h3>
+              <span>湯上がりの至福！パリッと香ばしい「名物円盤餃子」ととろける福島牛会席</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               フライパンで円盤状に焼き上げる飯坂発祥の円盤餃子は、外はカリッ、中はキャベツと豚肉の旨味がぎっしり。夕食には福島県が誇る黒毛和牛「福島牛」の濃厚なすき焼きやすてーきが並び、美食の饗宴を堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>摺上川渓谷の初冬情緒と「ラジウム玉子」発祥の温泉文化</span>
-            </h3>
+              <span>摺上川渓谷の初冬情緒と「ラジウム玉子」発祥の温泉文化</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               日本で初めてラジウムの存在が確認された地としても名高く、温泉源泉の熱で作られるトロトロの『ラジウム玉子』は朝食の逸品。摺上川沿いの渓谷美を眺めながら、歴史と人情が息づく温泉街散策を満喫できます。
             </p>
@@ -177,9 +167,7 @@ export default function WinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                初冬を満喫する厳選名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">初冬を満喫する厳選名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  奥飯坂　穴原温泉　匠のこころ　吉川屋
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">奥飯坂　穴原温泉　匠のこころ　吉川屋</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  飯坂温泉　摺上亭　大鳥
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">飯坂温泉　摺上亭　大鳥</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  飯坂温泉　青葉旅館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">飯坂温泉　青葉旅館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  飯坂温泉　喜久屋旅館＜福島県＞
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">飯坂温泉　喜久屋旅館＜福島県＞</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  飯坂温泉　ほりえや旅館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">飯坂温泉　ほりえや旅館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function WinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>飯坂温泉の共同浴場は本当にそんなに熱いのですか？入り方のコツはありますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>飯坂温泉の共同浴場は本当にそんなに熱いのですか？入り方のコツはありますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               共同浴場の湯船は45℃〜47℃前後に保たれており、一般的な温泉よりかなり熱めです。入浴の際は、いきなり湯船に入らず、足先から膝、腰、肩へと10回以上しっかり掛け湯をして体を熱さに慣らすことが鉄則です。地元の方も利用されていますので、無理に長湯をせず、数分浸かっては上がって休憩する「短時間浴」を繰り返すのが正しい楽しみ方です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>名物「円盤餃子」はどこで食べられますか？予約は必要ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>名物「円盤餃子」はどこで食べられますか？予約は必要ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               元祖の「照井（てるい）」や「おがた」「餃子の照吾」など、温泉街に数多くの人気店があります。夕方から営業を開始する店舗が多く、週末や連休は開店前から行列ができるため、早めの訪問がおすすめです。宿泊旅館によっては夕食プランに円盤餃子が組み込まれていたり、出前可能な宿もあります。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月〜12月の飯坂温泉周辺は積雪や路面凍結がありますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月〜12月の飯坂温泉周辺は積雪や路面凍結がありますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               11月中旬までは市街地に雪が積もることは稀ですが、11月下旬以降や12月に入ると吾妻おろしの寒風とともに初雪が舞い、早朝や深夜の橋の上などで路面凍結が発生することがあります。お車で訪れる場合は、11月下旬以降はスタッドレスタイヤの装着をおすすめします。
             </p>

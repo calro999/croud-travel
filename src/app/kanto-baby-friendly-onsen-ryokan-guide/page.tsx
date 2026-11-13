@@ -180,10 +180,8 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
       {/* 内部リンク・関連予算ガイドナビゲーション */}
       <nav className="bg-rose-50/80 border border-rose-200/80 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-rose-950 flex items-center gap-2">
-            <span className="w-2.5 h-2.5 rounded-full bg-rose-600"></span>
-            関東人気温泉地の費用・計画ガイド（あわせて読みたい）
-          </h2>
+          <h2 className="text-sm md:text-base font-black text-rose-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-rose-600"></span>
+            関東人気温泉地の費用・計画ガイド（あわせて読みたい）</h2>
           <span className="text-[10px] text-rose-700 bg-rose-100/70 font-bold px-2 py-0.5 rounded">
             予算シミュレーション
           </span>
@@ -226,9 +224,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🛁 ESSENTIAL CHECKPOINTS</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            失敗しない！赤ちゃん連れ温泉宿選び 5つの絶対条件
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">失敗しない！赤ちゃん連れ温泉宿選び 5つの絶対条件</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             パパママの負担を減らし、赤ちゃんが安全にご機嫌で過ごすための宿選び基準です。
           </p>
@@ -245,9 +241,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
                   {item.num}
                 </span>
                 <div className="space-y-1">
-                  <h3 className="text-sm md:text-base font-bold text-stone-900">
-                    {item.title}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-stone-900">{item.title}</h3>
                   <p className="text-xs text-stone-600 leading-relaxed max-w-2xl">
                     {item.desc}
                   </p>
@@ -267,9 +261,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           <div className="flex items-center gap-2 text-rose-800 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>⏰ IDEAL BABY TIMETABLE</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-rose-950">
-            無理のないゆったり滞在！温泉デビュー当日の理想スケジュール
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-rose-950">無理のないゆったり滞在！温泉デビュー当日の理想スケジュール</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -279,9 +271,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
                 <span className="text-xs font-black bg-rose-900 text-rose-100 px-2.5 py-0.5 rounded">
                   {step.time}
                 </span>
-                <h3 className="text-sm font-bold text-rose-950">
-                  {step.title}
-                </h3>
+                <h3 className="text-sm font-bold text-rose-950">{step.title}</h3>
               </div>
               <p className="text-xs text-stone-600 leading-relaxed">
                 {step.detail}
@@ -297,9 +287,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
           <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🏨 SELECTED BABY-FRIENDLY ONSEN RYOKAN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            箱根・伊香保の厳選名宿！部屋食・貸切風呂・畳風呂完備プラン
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">箱根・伊香保の厳選名宿！部屋食・貸切風呂・畳風呂完備プラン</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             赤ちゃんの温泉デビューを温かく迎えてくれる、設備・サービス・口コミ高評価の旅館です。
           </p>
@@ -340,9 +328,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
                       </div>
                     ) : null}
                     
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
 
                     <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
                       {hotel.hotelSpecial || ""}
@@ -381,9 +367,7 @@ export default function KantoBabyFriendlyOnsenGuidePage() {
               温泉デビューの安心準備
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            持参すると安心！赤ちゃんの温泉持ち物チェックリスト
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">持参すると安心！赤ちゃんの温泉持ち物チェックリスト</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm text-rose-100">

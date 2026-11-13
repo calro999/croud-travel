@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              御船山の雄大な断崖と15万坪の庭園美！日本最大級の夜間紅葉ライトアップ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">御船山の雄大な断崖と15万坪の庭園美！日本最大級の夜間紅葉ライトアップ</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             武雄領主・鍋島茂義公が約3年の歳月をかけて造園した名勝「御船山楽園」。標高210mの御船山の断崖を背景に、15万坪もの広大な敷地を彩る樹齢数百年のモミジやカエデ、ドウダンツツジが一斉に色づきます。特に夜間は日本最大級・約4万坪がライトアップされ、ひょうたん池の水面に鏡のように映り込む紅葉の美しさは息をのむほど。散策の後は、宮本武蔵やシーボルトも浸かったといわれる開湯1300年の弱アルカリ性美肌温泉に癒やされ、全国屈指のブランド肉「佐賀牛」の極上会席をふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                御船山楽園 15万坪の錦秋パノラマ＆日本最大級ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                御船山楽園 15万坪の錦秋パノラマ＆日本最大級ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 御船山の岩肌を借景にした壮大な庭園。昼の鮮やかな紅葉狩りはもちろん、夜の池周辺の幻想的な光と影のライトアップ演出は九州を代表する秋の絶景です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                武雄温泉楼門と開湯1300年のとろとろ美肌湯
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                武雄温泉楼門と開湯1300年のとろとろ美肌湯</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 東京駅を設計した辰野金吾が手がけた国の重要文化財「武雄温泉楼門」。弱アルカリ性で肌にしっとりと吸い付くような極上の湯ざわりは美肌効果抜群です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                最高ランクA5等級「佐賀牛」＆有明海の海の幸
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                最高ランクA5等級「佐賀牛」＆有明海の海の幸</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 全国トップクラスの肉質基準を誇る最高峰ブランド「佐賀牛」のロースステーキやしゃぶしゃぶ、有明海で獲れる竹崎カニや車海老、佐賀県産米の炊き立てご飯が絶品です。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.60 <span className="text-stone-400 text-xs">(1214件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    武雄温泉　御船山楽園ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">武雄温泉　御船山楽園ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 佐賀県武雄市武雄町武雄4100 ｜ JR佐世保線「武雄温泉駅」より車で５分 / 長崎自動車道 武雄・北方ICより嬉野方面へ約５km
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.31 <span className="text-stone-400 text-xs">(493件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    武雄温泉　大正浪漫の宿　京都屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">武雄温泉　大正浪漫の宿　京都屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 佐賀県武雄市武雄町大字武雄7266-7 ｜ JR佐世保線武雄温泉駅下車徒歩8分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.78 <span className="text-stone-400 text-xs">(274件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    武雄温泉　懐石宿　扇屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">武雄温泉　懐石宿　扇屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 佐賀県武雄市武雄町武雄7399 ｜ 長崎自動車道武雄北方ＩＣより国道３４号線経由で５㎞、又はＪＲ佐世保線武雄温泉駅下車徒歩１２分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】武雄温泉 御船山楽園ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】武雄温泉 御船山楽園ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と武雄温泉 御船山楽園ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と武雄温泉 御船山楽園ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

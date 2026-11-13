@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            波打ち際で砂に埋もれる奇跡の温熱体験——錦江湾の絶景と薩摩の豊かな山海の幸を味わう南国温泉リゾート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">波打ち際で砂に埋もれる奇跡の温熱体験——錦江湾の絶景と薩摩の豊かな山海の幸を味わう南国温泉リゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             鹿児島県薩摩半島の南端に位置する指宿（いぶすき）温泉。温暖な気候とヤシの並木が南国ムードを醸し出す、九州屈指の温泉保養地です。指宿の代名詞ともいえるのが、海岸の砂浜に自噴する高温の温泉を利用した世界唯一の「天然砂むし温泉（砂風呂）」。波の音を聞きながら温かい砂に包まれると、砂の重みと温泉の熱・圧力によって全身の血行が劇的に促進され、わずか10分〜15分で玉のような汗が噴き出します。医学的にも通常の温泉の数倍のデトックス効果があると実証されています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鹿児島県指宿市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鹿児島　砂むし温泉　指宿白水館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鹿児島　砂むし温泉　指宿白水館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業以来の歴史を誇る指宿最高峰の名門！千坪の「元禄風呂」と館内専用砂むし温泉、薩摩伝承館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鹿児島 砂むし温泉 指宿白水館 —— 日本の美と歴史が息づく迎賓館。圧巻の元禄風呂と錦江湾庭園の贅
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鹿児島 砂むし温泉 指宿白水館 —— 日本の美と歴史が息づく迎賓館。圧巻の元禄風呂と錦江湾庭園の贅</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 江戸時代の風呂文化を再現した千坪の巨大大浴場「元禄風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">江戸時代の風呂文化を再現した千坪の巨大大浴場「元禄風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">浮世絵壁画や石橋、打たせ湯、樽風呂などが並ぶ圧巻の空間。館内に併設された専用の「砂むし温泉」と合わせて至極の湯巡りが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内に広がる広大な松の庭園と錦江湾のパノラマビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内に広がる広大な松の庭園と錦江湾のパノラマビュー</h5>
                     <p className="text-stone-600 leading-relaxed">海沿いに広がる見事な日本庭園。敷地内の美術館「薩摩伝承館」では、西郷隆盛ゆかりの品や薩摩焼の至宝を鑑賞できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鹿児島黒牛・黒豚や近海の新鮮魚介を極めた特選和食会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鹿児島黒牛・黒豚や近海の新鮮魚介を極めた特選和食会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理人が腕を振るう華やかな本格会席。出汁の効いた黒豚しゃぶしゃぶや季節の造り、地元の名芋焼酎とともに味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鹿児島県指宿市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   錦江湾と開聞岳を見晴らす高台の特等席！美と健康をテーマにしたオーシャンビュー絶景リゾートホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  指宿温泉 指宿ロイヤルホテル —— 太平洋を望む絶景ロケーション。タラソテラピーと地元食材の健康会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">指宿温泉 指宿ロイヤルホテル —— 太平洋を望む絶景ロケーション。タラソテラピーと地元食材の健康会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 海と空が一体化する高台のオーシャンビュー露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">海と空が一体化する高台のオーシャンビュー露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">錦江湾を行き交う船や朝日に輝く水平線を望む絶景露天風呂。海風を感じながら、肌にしっとり馴染む美肌の湯に浸かれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 女性やカップルに大人気のヨガ＆リラクゼーション体験
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">女性やカップルに大人気のヨガ＆リラクゼーション体験</h5>
                     <p className="text-stone-600 leading-relaxed">朝日を浴びながらのモーニングヨガや、エステサロン、海を望むテラスラウンジなど、心と身体をリセットするウェルネスプログラムが充実しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鹿児島の旬の無農薬野菜と黒豚・黒牛を味わう創作美食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鹿児島の旬の無農薬野菜と黒豚・黒牛を味わう創作美食</h5>
                     <p className="text-stone-600 leading-relaxed">契約農家から届く新鮮野菜や、鹿児島黒豚のせいろ蒸しなど、美味しく身体に優しいディナーコースが高く評価されています。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鹿児島県指宿市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  指宿砂むし温泉　指宿シーサイドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">指宿砂むし温泉　指宿シーサイドホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   波打ち際に建つ全室オーシャンビュー！館内で体験できる名物砂むし温泉と海を望む展望大浴場
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  指宿砂むし温泉 指宿シーサイドホテル —— 錦江湾の渚に佇む名門。潮騒を聞きながら砂むしと名湯を堪能
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">指宿砂むし温泉 指宿シーサイドホテル —— 錦江湾の渚に佇む名門。潮騒を聞きながら砂むしと名湯を堪能</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 雨天でも安心して体験できる館内直結の本格砂むし温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">雨天でも安心して体験できる館内直結の本格砂むし温泉</h5>
                     <p className="text-stone-600 leading-relaxed">天候を気にせずいつでも砂むし温泉を体験可能。専任の砂かけスタッフが丁寧に砂をかけてくれ、体の芯からデトックスできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 錦江湾を一望する展望大浴場と海辺の絶好アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">錦江湾を一望する展望大浴場と海辺の絶好アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした大浴場の窓一面に広がる穏やかな海。海辺の遊歩道への散歩も気軽に楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 黒豚しゃぶしゃぶやさつま揚げ、旬魚を味わう郷土会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">黒豚しゃぶしゃぶやさつま揚げ、旬魚を味わう郷土会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">鹿児島の名物料理をふんだんに盛り込んだ夕食。気取らずに地元の美味しい郷土の味を堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 指宿温泉・開聞岳＆砂むし会館「砂楽」観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 指宿温泉・開聞岳＆砂むし会館「砂楽」観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                砂むし会館「砂楽（さらく）」での海岸砂むし体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                砂むし会館「砂楽（さらく）」での海岸砂むし体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 指宿温泉街の中心にある公営の砂むし施設。潮が引いている時間帯には波打ち際の砂浜で波の音を聞きながら砂むし温泉を楽しむことができます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                薩摩富士「開聞岳」と長崎鼻（竜宮神社）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                薩摩富士「開聞岳」と長崎鼻（竜宮神社）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 標高924メートルの美しい円錐形の秀峰・開聞岳。薩摩半島最南端の岬「長崎鼻」からは、開聞岳と青い海の雄大なコントラストが広がり、浦島太郎伝説の竜宮神社もあります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                池田湖と「イッシー」伝説、大うなぎ観察
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                池田湖と「イッシー」伝説、大うなぎ観察</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 九州最大のカルデラ湖。春には菜の花畑が一面に咲き誇り、体長2メートル近くになる天然記念物の巨大オオウナギを観察できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              鹿児島県指宿市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">鹿児島県指宿市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鹿児島 砂むし温泉 指宿白水館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鹿児島 砂むし温泉 指宿白水館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鹿児島 砂むし温泉 指宿白水館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鹿児島 砂むし温泉 指宿白水館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

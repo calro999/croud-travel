@@ -280,10 +280,8 @@ export default function HirayamaOnsenWinterFeature() {
             <Trees className="w-4 h-4" />
             11月・12月 九州の極上秘湯特集｜熊本・山鹿平山温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月熊本・平山温泉】<br className="hidden sm:inline" />
-            竹林秘湯と極上トロトロ硫黄泉・肥後あか牛＆特選馬刺しの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月熊本・平山温泉】<br className="hidden sm:inline" />
+            竹林秘湯と極上トロトロ硫黄泉・肥後あか牛＆特選馬刺しの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             加藤清正公が愛したpH9.7超の奇跡の美容液温泉。初冬の竹林に囲まれた全室離れの大人の隠れ宿で、ジューシーな肥後あか牛と本場極上馬刺しに舌鼓を打つ至高の湯治旅。
           </p>
@@ -301,9 +299,7 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Secret Bamboo Valley & Miracle Sulfur Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の竹林を渡る風と乳白色の湯けむり｜加藤清正公が愛した霊泉郷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の竹林を渡る風と乳白色の湯けむり｜加藤清正公が愛した霊泉郷</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Miraculous Skin Rejuvenation Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「天然ピーリング×潤いパック」平山温泉の美肌メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「天然ピーリング×潤いパック」平山温泉の美肌メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Kumamoto Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                熊本の大地が育む極上味覚｜肥後あか牛溶岩焼き・極上馬刺し・山鹿和栗
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">熊本の大地が育む極上味覚｜肥後あか牛溶岩焼き・極上馬刺し・山鹿和栗</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Yamaga Heritage & Nature Walk</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の山鹿・平山散策モデルコース｜八千代座・山鹿灯籠民芸館と竹林の里
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の山鹿・平山散策モデルコース｜八千代座・山鹿灯籠民芸館と竹林の里</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function HirayamaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Featured Secret & Luxury Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              竹林と奇跡の美肌湯に癒やされる｜平山温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">竹林と奇跡の美肌湯に癒やされる｜平山温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、自家源泉掛け流しや肥後あか牛・馬刺し会席に強いこだわりを持つ本物の名宿だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function HirayamaOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Winter Travel Tips & Access</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の平山冬旅｜朝晩の寒暖差・服装と九州自動車道からの快適アクセス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の平山冬旅｜朝晩の寒暖差・服装と九州自動車道からの快適アクセス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-800" />
-                谷あいの放射冷却と朝晩の冷え込み
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-800" />
+                谷あいの放射冷却と朝晩の冷え込み</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 平山温泉は山あいの谷あいに位置するため、11月下旬以降は朝晩の気温が急速に下がります。日中は過ごしやすい気温でも、夕暮れ以降や早朝の露天風呂では吐く息が白くなる寒さです。厚手のカーディガンやジャケット、首元を温めるストールをご持参ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-emerald-800" />
-                九州自動車道南関IC・菊水ICから15分の便利さ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-emerald-800" />
+                九州自動車道南関IC・菊水ICから15分の便利さ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 福岡空港や博多駅からは九州自動車道を利用して約1時間、熊本市内からは約50分。最寄りの南関ICや菊水ICから約15分とドライブに最適な立地です。平野部が中心のため積雪の心配はほとんどなく、冬でも快適にレンタカードライブが楽しめます。
               </p>
@@ -562,18 +542,14 @@ export default function HirayamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                熊本平山温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">熊本平山温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function HirayamaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Winter Features & Kyushu Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい熊本・九州の冬名湯＆極上和牛グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい熊本・九州の冬名湯＆極上和牛グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の湯あかり、美肌の湯、肥後あか牛や佐賀牛をめぐる人気の厳選特集もぜひご覧ください。
             </p>

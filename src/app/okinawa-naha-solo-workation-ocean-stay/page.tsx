@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            碧く輝く東シナ海と心地よい潮風、夕暮れのサンセット——PCを開きながら南国の非日常に浸る「沖縄・那覇ソロワーケーション」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">碧く輝く東シナ海と心地よい潮風、夕暮れのサンセット——PCを開きながら南国の非日常に浸る「沖縄・那覇ソロワーケーション」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             寒さや都会の喧騒を抜け出し、年中温暖な南の島へ。那覇空港からゆいレールで約10〜15分というアクセスの良さを誇る那覇は、ひとり旅やワーケーションの拠点として日本屈指の人気を誇ります。午前中はホテルの高速Wi-Fiと開放的なラウンジで集中してリモートワークをこなし、午後は美ら海を眺めながらカフェで読書、夕暮れには絶景の天然温泉に浸かって水平線に沈む夕日を眺める……。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   那覇空港から車で約10分！東シナ海のサンセットと飛行機の離着陸を望む絶景天然温泉「龍神の湯」
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  琉球温泉 瀬長島ホテル —— 空と海が交差するアイランドリゾート。立ち湯露天風呂とウミカジテラス直結の至極ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">琉球温泉 瀬長島ホテル —— 空と海が交差するアイランドリゾート。立ち湯露天風呂とウミカジテラス直結の至極ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   国際通りまで徒歩1分！沖縄の伝統美とモダンが融合した上質空間＆最上階プレミアムラウンジ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  JR九州ホテル ブラッサム那覇 —— 観光・食事・ワークのすべてを叶える最高の拠点。沖縄の光と風を感じる快適ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">JR九州ホテル ブラッサム那覇 —— 観光・食事・ワークのすべてを叶える最高の拠点。沖縄の光と風を感じる快適ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   泊港（とまりん）すぐ！全室ハーバービューのモダンアートホテル＆海風を感じるルーフトップバー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル アンテルーム 那覇 —— 現代アートと港町が交差するクリエイティブ空間。海を眺めながらインスピレーションを得る滞在
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル アンテルーム 那覇 —— 現代アートと港町が交差するクリエイティブ空間。海を眺めながらインスピレーションを得る滞在</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              那覇ソロワーケーションを充実させる3つのタイムマネジメント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">那覇ソロワーケーションを充実させる3つのタイムマネジメント</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 朝イチ（8:00〜11:00）で一気に重要タスクを完了させる
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 朝イチ（8:00〜11:00）で一気に重要タスクを完了させる</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 涼しい朝の時間帯にホテルのラウンジや客室で集中して作業。午後の時間をまるまるリフレッシュに充てるのが理想です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 夕方はウミカジテラスや波の上ビーチで夕日鑑賞
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 夕方はウミカジテラスや波の上ビーチで夕日鑑賞</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 PCを閉じて海辺へ。東シナ海に沈む大きな夕日を眺めながら波音を聞くだけで、日頃のストレスが綺麗に浄化されます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は栄町市場のレトロな酒場でディープな島体験
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は栄町市場のレトロな酒場でディープな島体験</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ゆいレール安里駅前の栄町市場は昭和レトロな呑み屋街。焼き餃子や沖縄おでんをつまみながら、地元の人々と乾杯できます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>レンタカーがなくてもワーケーションを楽しめますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>レンタカーがなくてもワーケーションを楽しめますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、那覇市内はゆいレール（モノレール）が非常に発達しており、瀬長島へも那覇空港や赤嶺駅から直行路線バスが運行しているため、車なしでも快適に滞在・観光できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>客室のWi-Fiスピードはオンライン会議にも耐えられますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>客室のWi-Fiスピードはオンライン会議にも耐えられますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ご紹介した3ホテルはいずれも高速Wi-Fiを完備しており、ZoomやTeamsなどのビデオ会議、大容量ファイルの送受信も極めてスムーズに行えます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】琉球温泉 瀬長島ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】琉球温泉 瀬長島ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

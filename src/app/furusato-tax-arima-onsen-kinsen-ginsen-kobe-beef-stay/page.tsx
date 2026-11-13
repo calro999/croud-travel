@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            太閤秀吉が愛した鉄分の赤湯、立ち上る湯煙、世界の舌を魅了する神戸牛——有馬温泉で過ごす極上の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">太閤秀吉が愛した鉄分の赤湯、立ち上る湯煙、世界の舌を魅了する神戸牛——有馬温泉で過ごす極上の休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             神代の昔、大己貴命と少彦名命の二神によって発見されたと伝わる日本最古の温泉・有馬温泉。奈良時代の行基、平安時代の仁西によって拓かれ、戦国時代には天下人・豊臣秀吉が戦傷と激務の体を癒やすために足繁く通ったことで知られます。地中深くから火山活動とは無関係に湧き出る温泉は、塩分と鉄分を豊富に含み空気に触れると赤褐色に濁る「金泉」と、ラジウムや炭酸を含む透明な「銀泉」という、全く異なる二大名湯を誇ります。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             風情ある有馬の温泉街には、細い路地に格子戸の町家が連なり、炭酸せんべいの焼き立ての香ばしい匂いが漂います。そして夕食の主役は、世界に名だたる最高級ブランド牛「神戸ビーフ」。サシの入った柔らかな肉質を、すき焼きやしゃぶしゃぶ、ステーキで味わう体験は、旅のクライマックスにふさわしい贅沢です。兵庫県神戸市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門老舗旅館へお得に滞在でき、一生の記念に残る優雅なひとときを過ごせます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（有馬温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（有馬温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県神戸市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  有馬温泉　兵衛向陽閣
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">有馬温泉　兵衛向陽閣</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業七百余年・秀吉公より「兵衛」の呼び名を授かった名門宿！三つの趣異なる大浴場でめぐる名湯金泉と神戸牛
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  有馬温泉 兵衛向陽閣 —— 伝統と格式が織りなす極上のもてなし。広大な館内で愉しむ三湯めぐりと美食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">有馬温泉 兵衛向陽閣 —— 伝統と格式が織りなす極上のもてなし。広大な館内で愉しむ三湯めぐりと美食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和風・ローマ風・湯治風の趣異なる三つの大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和風・ローマ風・湯治風の趣異なる三つの大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">一の湯（和風）、二の湯（ローマ風）、三の湯（湯治場風）と、それぞれ異なる風情を持つ大浴場すべてに名湯「金泉」を完備。館内だけで本格的な湯巡りを満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 客室での贅沢な和食会席または豪華バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">客室での贅沢な和食会席または豪華バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">熟練の料理人が腕を振るう四季の会席料理。とろけるような神戸牛の鉄板焼きや旬の魚介など、お部屋食プランや炭火焼き会席、バイキングなど多彩なプランから選べます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 七百年の歴史を受け継ぐ洗練されたホスピタリティ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">七百年の歴史を受け継ぐ洗練されたホスピタリティ</h5>
                     <p className="text-stone-600 leading-relaxed">老舗ならではの行き届いたおもてなし。高台に位置し、有馬の山並みを見晴らす広々とした客室で、心安らぐ上質な休日を約束します。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県神戸市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  有馬温泉　月光園　鴻朧館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">有馬温泉　月光園　鴻朧館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   落葉山と滝川の清流を望む絶景宿！敷地内から湧出する自家源泉の金泉と茶道精神を受け継ぐ本格京風懐石
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  有馬温泉 月光園 鴻朧館 —— 絶景パノラマと数寄屋の雅。渓流のせせらぎに包まれる上質リゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">有馬温泉 月光園 鴻朧館 —— 絶景パノラマと数寄屋の雅。渓流のせせらぎに包まれる上質リゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 落葉山の四季パノラマを望む絶景大浴場と自家源泉金泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">落葉山の四季パノラマを望む絶景大浴場と自家源泉金泉</h5>
                     <p className="text-stone-600 leading-relaxed">ロビーや大浴場、客室から望むのは四季折々に色を変える落葉山の壮大な借景。敷地内から湧き出る良質な自家源泉の金泉露天風呂に浸かりながら絶景を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 茶道・裏千家の美学息づく本格京風懐石料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">茶道・裏千家の美学息づく本格京風懐石料理</h5>
                     <p className="text-stone-600 leading-relaxed">味はもちろん器や盛り付け、配膳のタイミングに至るまで洗練された京懐石。神戸牛の石焼きや明石浦直送の鮮魚など、厳選された旬の美味が並びます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 姉妹館「游月山荘」の露天風呂も巡れる湯巡りサービス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">姉妹館「游月山荘」の露天風呂も巡れる湯巡りサービス</h5>
                     <p className="text-stone-600 leading-relaxed">月光橋を渡って隣接する姉妹館「游月山荘」の渓流露天風呂も無料で相互利用可能。趣の異なる湯処を贅沢に楽しめます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県神戸市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  有馬温泉　陶泉　御所坊
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">有馬温泉　陶泉　御所坊</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業八百年・有馬最古の湯宿！文豪・谷崎潤一郎が愛した木造数寄屋建築と半混浴の金泉露天風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  有馬温泉 陶泉 御所坊 —— 歴史と文学が薫るサロン風旅館。温泉街の原点に佇む唯一無二の空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">有馬温泉 陶泉 御所坊 —— 歴史と文学が薫るサロン風旅館。温泉街の原点に佇む唯一無二の空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 低い仕切り越しに会話を交わす独特の半混浴露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">低い仕切り越しに会話を交わす独特の半混浴露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">男女の湯船が低い段差と竹垣で仕切られた名物露天風呂。濃い金泉の濁り湯に浸かりながら、夫婦や家族で旅の語らいを楽しめる風情ある造りです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 木造三階建て数寄屋造りのノスタルジックな美学
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">木造三階建て数寄屋造りのノスタルジックな美学</h5>
                     <p className="text-stone-600 leading-relaxed">足踏みオルガンやアンティーク家具が置かれたサロンラウンジ。谷崎潤一郎や吉川英治ら文豪が愛した、大正・昭和初期の陰翳礼讃の世界が息づいています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬玄（たじまぐろ）と旬の野菜を味わう山家料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">但馬玄（たじまぐろ）と旬の野菜を味わう山家料理</h5>
                     <p className="text-stone-600 leading-relaxed">契約牧場から一頭買いする幻の純血但馬牛「但馬玄」。融点の低い上質な脂の甘みと旨味を、素朴ながら洗練された山家会席で堪能できます。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            有馬温泉街の路地散策＆六甲山頂パノラマ観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">有馬温泉街の路地散策＆六甲山頂パノラマ観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 湯本坂のレトロ散歩と炭酸せんべい・有馬サイダー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 湯本坂のレトロ散歩と炭酸せんべい・有馬サイダー</h3>
               <p className="text-stone-700 text-sm leading-relaxed">有馬温泉の中心を通る昔ながらの路地「湯本坂」。出来立ての温かい炭酸せんべいの試食や、明治生まれの復刻版「有馬サイダー」、金泉焼きの食べ歩きなど、温泉情緒を満喫できます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 金の湯・銀の湯の足湯と泉源めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 金の湯・銀の湯の足湯と泉源めぐり</h3>
               <p className="text-stone-700 text-sm leading-relaxed">温泉街には「天神泉源」「御所泉源」「妬泉源」など七つの源泉が点在し、ゴボゴボと湯煙を上げる様子を間近で見学できます。外湯「金の湯」前の無料足湯も人気の憩いの場です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 六甲有馬ロープウェーで六甲山頂へ（1000万ドルの夜景）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 六甲有馬ロープウェーで六甲山頂へ（1000万ドルの夜景）</h3>
               <p className="text-stone-700 text-sm leading-relaxed">有馬温泉駅からロープウェーで約12分で六甲山山頂へ。昼は大阪湾から淡路島まで見渡す大パノラマ、夜は「1000万ドルの夜景」と称される息をのむ絶景が広がります。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              兵庫県神戸市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">兵庫県神戸市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】有馬温泉 兵衛向陽閣を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】有馬温泉 兵衛向陽閣を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と有馬温泉 兵衛向陽閣の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と有馬温泉 兵衛向陽閣の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

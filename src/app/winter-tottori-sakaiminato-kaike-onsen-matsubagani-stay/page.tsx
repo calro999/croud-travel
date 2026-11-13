@@ -301,9 +301,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の日本海がもたらす至高の恵み・松葉ガニと、海から湧き出る奇蹟の美肌名湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の日本海がもたらす至高の恵み・松葉ガニと、海から湧き出る奇蹟の美肌名湯</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の鳥取・境港＆皆生温泉で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の鳥取・境港＆皆生温泉で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、本場のカニ料理と海の温泉、雪の景勝美。
             </p>
@@ -339,9 +335,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 11月6日解禁！境港直送の「本松葉ガニ」フルコース
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 11月6日解禁！境港直送の「本松葉ガニ」フルコース</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 境港のタグ付き活松葉ガニを贅沢に使用。刺身、炭火焼き、茹でガニ、濃厚な甲羅味噌焼きまで、本場ならではの圧倒的な鮮度とボリュームで堪能できます。
               </p>
@@ -351,9 +345,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 日本海を一望！皆生温泉「塩の湯」の保温・美肌効果
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 日本海を一望！皆生温泉「塩の湯」の保温・美肌効果</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 海中から湧き出るミネラル豊富な塩化物泉。塩分パック効果で湯冷めせず、入浴後もぽかぽか感が何時間も持続。日本海の雄大な荒波を眺める露天風呂は格別です。
               </p>
@@ -363,9 +355,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-indigo-100 flex items-center justify-center text-indigo-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 水木しげるロード夜間妖怪影絵と白銀の伯耆富士・大山
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 水木しげるロード夜間妖怪影絵と白銀の伯耆富士・大山</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 夜のライトアップで妖しく浮かび上がる水木しげるロードの妖怪ブロンズ像と、晴れた日に弓ヶ浜から仰ぎ見る純白の秀峰・大山のパノラマ絶景を堪能。
               </p>
@@ -375,9 +365,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】境港カニ市場と水木しげるロード・皆生温泉を満喫する冬の黄金ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】境港カニ市場と水木しげるロード・皆生温泉を満喫する冬の黄金ルート</h2>
             <p className="text-slate-400 text-sm mt-1">
               米子空港または米子駅からスタートし、冬の山陰の味覚・文化・温泉を無駄なく味わうドライブコース。
             </p>
@@ -388,9 +376,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 米子空港・米子駅到着 ➔ 境港水産物直売センターで名物「紅ズワイガニ丼」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 米子空港・米子駅到着  境港水産物直売センターで名物「紅ズワイガニ丼」ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   米子鬼太郎空港からレンタカーで約10分、境港水産物直売センターへ。水揚げされたばかりの紅ズワイガニやモサエビ、ノドグロが並ぶ活気ある市場を見学。併設の海鮮食堂で身がたっぷり乗ったカニ丼と濃厚な親ガニ汁を味わい、山陰の美食の旅をスタートします。
                 </p>
@@ -399,9 +385,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 水木しげるロード散策 ➔ 水木しげる記念館見学とお土産探し
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 水木しげるロード散策  水木しげる記念館見学とお土産探し</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   境港駅前へ移動し、800mにわたって177体の妖怪ブロンズ像が並ぶ水木しげるロードを散策。鬼太郎や目玉おやじ、ねずみ男の像と記念撮影を楽しみ、リニューアルされた水木しげる記念館で貴重な原画や妖怪の世界観に触れます。妖怪パンや目玉おやじの和菓子を食べ歩き。
                 </p>
@@ -410,9 +394,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 皆生温泉の名宿へチェックイン ➔ 日本海を望む露天風呂＆極上「活松葉ガニ会席」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 皆生温泉の名宿へチェックイン  日本海を望む露天風呂＆極上「活松葉ガニ会席」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   弓ヶ浜沿いの宿へ到着。海に面した露天風呂に浸かり、波音を聴きながら塩分たっぷりの「塩の湯」で長旅の疲れを癒やします。夕食は境港直送のタグ付き活松葉ガニフルコース。刺身、焼きガニ、茹でガニ、そして芳醇なカニ味噌甲羅酒に鳥取和牛を堪能します。
                 </p>
@@ -421,9 +403,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝の海辺散歩と朝風呂 ➔ 伯耆富士・大山山麓の大山寺参拝または「みるくの里」へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝の海辺散歩と朝風呂  伯耆富士・大山山麓の大山寺参拝または「みるくの里」へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝食後は弓ヶ浜海岸で澄んだ冬の大気を吸い込み、車で大山方面へドライブ。標高の高い大山まきばみるくの里から米子市街と弓ヶ浜の絶景パノラマを望み、特製濃厚ソフトクリームを堪能。歴史ある名刹・大山寺で冬の安全祈願を行い、充実した帰路へ就きます。
                 </p>
@@ -436,9 +416,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の境港松葉ガニと皆生温泉を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の境港松葉ガニと皆生温泉を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、料理・風呂・立地が高評価の宿。
             </p>
@@ -472,9 +450,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -534,27 +510,21 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              鳥取・境港の風土が生んだ至高の海の幸と冬の地酒文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">鳥取・境港の風土が生んだ至高の海の幸と冬の地酒文化</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-cyan-700" />
-                最高級ブランド「五輝星」と幻のエビ「モサエビ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-cyan-700" />
+                最高級ブランド「五輝星」と幻のエビ「モサエビ」</h3>
               <p>
                 鳥取県で水揚げされる松葉ガニの中でも、大きさ・重さ（1.2kg以上）・身詰まり・色合いなど5つの厳格な基準をすべてクリアした最高峰だけに与えられる称号が「五輝星（いつきぼし）」です。初競りでは数百万円の値が付くこともある幻の逸品。また、鮮度落ちが早く県外へほとんど流通しない幻のエビ「モサエビ（クロザコエビ）」は、甘エビ以上の強い甘みとプリプリした食感を持ち、冬の山陰市場で絶対に見逃せない隠れた名物です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-cyan-700" />
-                銘酒「千代むすび」「大山」と親ガニ汁の滋味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-cyan-700" />
+                銘酒「千代むすび」「大山」と親ガニ汁の滋味</h3>
               <p>
                 境港の老舗酒蔵・千代むすび酒造が醸す日本酒は、辛口の切れ味と米の旨味が調和し、松葉ガニ料理や濃厚なカニ味噌との相性が抜群です。また、地元家庭や居酒屋で愛される冬のソウルフード「親ガニ汁」は、メスガニをぶつ切りにして大根や葱とともに味噌仕立てにした郷土料理。カニの殻から染み出す濃厚な出汁と内子のコクが、冬の冷えた体に染み渡る最高の温もりを届けてくれます。
               </p>
@@ -566,9 +536,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="bg-cyan-50/60 rounded-3xl p-6 sm:p-10 border border-cyan-200/60 space-y-6">
           <div className="border-b border-cyan-200/80 pb-4">
             <span className="text-cyan-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">
-              冬の鳥取・境港＆皆生温泉を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">冬の鳥取・境港＆皆生温泉を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-cyan-950">
@@ -608,20 +576,16 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の境港松葉ガニ＆皆生温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の境港松葉ガニ＆皆生温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-cyan-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function TottoriSakaiminatoKaikeWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・味覚・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・味覚・温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

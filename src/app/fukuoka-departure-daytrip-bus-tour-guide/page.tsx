@@ -202,9 +202,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official
             </span>
-            <h2 className="text-xl md:text-2xl font-black leading-snug">
-              楽天トラベル「九州・福岡発 日帰りバスツアー」公式予約
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black leading-snug">楽天トラベル「九州・福岡発 日帰りバスツアー」公式予約</h2>
             <p className="text-teal-50 text-xs md:text-sm max-w-xl">
               呼子イカ・湯布院・阿蘇・高千穂ツアーが満載！楽天ポイントが貯まる＆高速バス・バスツアークーポンでさらにお得。
             </p>
@@ -226,9 +224,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-teal-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>KYUSHU DAYTRIP BEST ROUTES</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【福岡・博多・天神発】人気日帰りバスツアー4大プラン徹底比較
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【福岡・博多・天神発】人気日帰りバスツアー4大プラン徹底比較</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               玄界灘の新鮮魚介、名湯温泉街、雄大な阿蘇カルデラ、神話の渓谷まで九州の魅力を網羅。
             </p>
@@ -250,9 +246,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
                     </span>
                   </div>
 
-                  <h3 className="text-base font-black text-slate-900 leading-snug">
-                    {item.destination}
-                  </h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug">{item.destination}</h3>
 
                   <p className="text-xs text-slate-600 leading-relaxed">
                     {item.experience}
@@ -283,9 +277,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-teal-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>BENEFIT COMPARISON</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              呼子や阿蘇へ行くならどっち？日帰りバスツアー vs レンタカー vs 電車
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">呼子や阿蘇へ行くならどっち？日帰りバスツアー vs レンタカー vs 電車</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               特に「駅からのアクセスが不便な観光地」において、バスツアーの圧倒的な利便性を徹底比較。
             </p>
@@ -321,9 +313,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-teal-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>MODEL ITINERARY</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【博多発】佐賀・呼子活きイカ会席＆唐津絶景 1日満喫タイムライン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【博多発】佐賀・呼子活きイカ会席＆唐津絶景 1日満喫タイムライン</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               朝8:30に出発し、夕方17:00には博多駅へ戻る快適グルメ日帰り旅。
             </p>
@@ -337,9 +327,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
                   <span className="text-xs font-black text-teal-950 bg-teal-100 px-2 py-0.5 rounded border border-teal-300">
                     {step.clock}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-slate-900">
-                    {step.spot}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-slate-900">{step.spot}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                   {step.content}
@@ -355,9 +343,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-teal-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>RECOMMENDED ONSEN RYOKAN</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              日帰りツアーの目的地で泊まるならここ！由布院温泉＆唐津の高級料理旅館
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">日帰りツアーの目的地で泊まるならここ！由布院温泉＆唐津の高級料理旅館</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               「日帰りだけではもったいない」「次は泊まりでゆっくり温泉に浸かりたい」という方向けの厳選宿です。
             </p>
@@ -398,9 +384,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                           {hotel.hotelSpecial}
@@ -429,22 +413,16 @@ export default function FukuokaDepartureDaytripBusTourPage() {
 
         {/* 💡 5. 博多発バスツアーお役立ちメモ */}
         <section className="bg-teal-950/5 rounded-3xl p-6 md:p-8 border border-teal-900/10 space-y-6">
-          <h2 className="text-lg md:text-xl font-black text-teal-950">
-            博多・天神発バスツアー参加のポイント＆注意事項
-          </h2>
+          <h2 className="text-lg md:text-xl font-black text-teal-950">博多・天神発バスツアー参加のポイント＆注意事項</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <div className="bg-white p-5 rounded-2xl border border-teal-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-teal-950 flex items-center gap-1.5">
-                <span>📍</span> 博多駅筑紫口（バス駐車場）への行き方
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-1.5">博多駅筑紫口（バス駐車場）への行き方</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 博多発の観光バスの集合場所は、新幹線側の「筑紫口」を出てロータリー右手、またはオリエンタルホテル福岡博多ステーション前のバスプールが一般的です。地下鉄やJR在来線からは中央街コンコースを通り抜けて徒歩約3分です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-teal-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-teal-950 flex items-center gap-1.5">
-                <span>🦑</span> 呼子のイカ活造りに関する注意事項
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-1.5">呼子のイカ活造りに関する注意事項</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 呼子のイカは天候・シケによる出漁状況によって「ヤリイカ」「アオリイカ」などの種類が変わる場合があります。万が一の不漁時は別料理（イカソーメン等）に代替される規約があるため、気になる方は事前に確認しておきましょう。
               </p>
@@ -454,9 +432,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
 
         {/* 🔗 関連記事（内部リンク） */}
         <section className="border-t border-slate-200 pt-8 space-y-4">
-          <h2 className="text-base font-bold text-slate-800">
-            あわせて読みたい九州発の交通・旅行ガイド
-          </h2>
+          <h2 className="text-base font-bold text-slate-800">あわせて読みたい九州発の交通・旅行ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/fukuoka-beppu-yufuin-bus-vs-train-guide/"
@@ -488,9 +464,7 @@ export default function FukuokaDepartureDaytripBusTourPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と呼子活イカ・由布院温泉街散策・阿蘇カルデラ絶景の格安ツアー比較の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

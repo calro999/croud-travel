@@ -55,9 +55,7 @@ export default function KumamotoBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            名城を彩る黄金の巨木と「名水・サウナ天国」の魅力
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">名城を彩る黄金の巨木と「名水・サウナ天国」の魅力</h2>
           <p className="mb-4 text-stone-700">
             加藤清正公が築城時に飢城対策として植えたと伝えられる熊本城の大イチョウ。11月下旬になると天守閣の漆黒の壁面を背景に、黄金色の葉が一面に輝き息を呑む景観を生み出します。
           </p>
@@ -69,10 +67,8 @@ export default function KumamotoBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！熊本の温泉・サウナ付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！熊本の温泉・サウナ付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KumamotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.55</span>
                     <span className="text-stone-400 text-xs">(456件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    サウナと天然温泉　湯けむり天国　湯らっくす
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">サウナと天然温泉　湯けむり天国　湯らっくす</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 平成（熊本） / JR熊本駅より車で約5分、JR平成駅より徒歩約3分
                   </p>
@@ -142,9 +136,7 @@ export default function KumamotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.31</span>
                     <span className="text-stone-400 text-xs">(579件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルニューガイア西熊本駅前
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルニューガイア西熊本駅前</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / ＪＲ西熊本駅より徒歩にて約１分・熊本駅より車で約11分・益城熊本空港ICより車で約32分・御船ICより車で約29分
                   </p>
@@ -189,9 +181,7 @@ export default function KumamotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.09</span>
                     <span className="text-stone-400 text-xs">(784件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ＫＯＫＯ　ＨＯＴＥＬ　熊本上通
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ＫＯＫＯ　ＨＯＴＥＬ　熊本上通</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / 熊本市電　水道町駅より徒歩にて約３分
                   </p>
@@ -236,9 +226,7 @@ export default function KumamotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.35</span>
                     <span className="text-stone-400 text-xs">(781件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　神水美肌の湯　スーパーホテル熊本駅前天然温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本 / JR熊本駅白川口（東口）より徒歩２分/九州自動車道 『熊本IC』より車で約30分
                   </p>
@@ -283,9 +271,7 @@ export default function KumamotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.48</span>
                     <span className="text-stone-400 text-xs">(1072件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    レフ熊本　ｂｙ　ベッセルホテルズ　｜ＲＥＦ熊本｜サウナ付大浴場　（桜町バスターミナル）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">レフ熊本　ｂｙ　ベッセルホテルズ　｜ＲＥＦ熊本｜サウナ付大浴場　（桜町バスターミナル）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熊本駅・辛島町電停 / 新市街アーケード沿い　熊本市電・辛島町駅より徒歩1分　熊本ICから約30分　益城熊本空港ICから約40分
                   </p>
@@ -330,9 +316,7 @@ export default function KumamotoBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の熊本×格安：熊本城の巨大銀杏と阿蘇すすき草原！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆サウナ付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KumamotoBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の熊本×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の熊本×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

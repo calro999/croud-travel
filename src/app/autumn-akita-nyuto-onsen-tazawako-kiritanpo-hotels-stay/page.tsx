@@ -55,9 +55,7 @@ export default function NyutoOnsenAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            日本屈指の秘湯郷を包むブナの黄金美と七湯めぐり
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">日本屈指の秘湯郷を包むブナの黄金美と七湯めぐり</h2>
           <p className="mb-4 text-stone-700">
             秋田県仙北市の山懐に点在する「乳頭温泉郷」。十和田八幡平国立公園に指定された広大なブナ原生林に囲まれ、秋には山全体が黄金色のグラデーションに染まります。七つの湯宿がそれぞれ独自の源泉を持ち、乳白色、青白色、茶褐色など多彩な泉質の湯めぐり（湯めぐり帖）が楽しめます。
           </p>
@@ -69,10 +67,8 @@ export default function NyutoOnsenAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！乳頭温泉郷・田沢湖の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！乳頭温泉郷・田沢湖の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function NyutoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.7</span>
                     <span className="text-stone-400 text-xs">(289件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    花心亭しらはま
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">花心亭しらはま</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / 田沢湖駅からお車で約12分
                   </p>
@@ -142,9 +136,7 @@ export default function NyutoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.56</span>
                     <span className="text-stone-400 text-xs">(561件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    休暇村　乳頭温泉郷
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">休暇村　乳頭温泉郷</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / ＪＲ　田沢湖駅より羽後交通乳頭温泉行「休暇村」下車、徒歩０分
                   </p>
@@ -189,9 +181,7 @@ export default function NyutoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.19</span>
                     <span className="text-stone-400 text-xs">(339件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">田沢湖水沢温泉郷セルリアンリゾートＡＯＮＩ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / 田沢湖駅よりバスで約２５分（乳頭線、水沢温泉郷で降車）、タクシーで約１５分
                   </p>
@@ -236,9 +226,7 @@ export default function NyutoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.16</span>
                     <span className="text-stone-400 text-xs">(1990件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　田沢湖レイクリゾート
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　田沢湖レイクリゾート</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / JR秋田新幹線田沢湖駅からバスで２０分、盛岡Ｉ．Ｃから５０分。田沢湖駅から送迎バスにて約15分（要事前予約）
                   </p>
@@ -283,9 +271,7 @@ export default function NyutoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.03</span>
                     <span className="text-stone-400 text-xs">(1697件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    亀の井ホテル　田沢湖
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">亀の井ホテル　田沢湖</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 田沢湖駅 / JR田沢湖駅より乳頭温泉行バス約35分「杉谷地」下車　駒ケ岳登山口行きバス停まで徒歩約10分　乳頭温泉まで車で約10分
                   </p>
@@ -330,9 +316,7 @@ export default function NyutoOnsenAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物きりたんぽ鍋！憧れの秘湯温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function NyutoOnsenAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の乳頭温泉郷・田沢湖」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の乳頭温泉郷・田沢湖」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

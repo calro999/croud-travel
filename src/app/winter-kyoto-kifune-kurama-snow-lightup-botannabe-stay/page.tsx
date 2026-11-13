@@ -268,9 +268,7 @@ export default function KyotoKifuneKuramaPage() {
               <Sparkles className="w-4 h-4 text-rose-800" />
               冬の貴船・鞍馬が通好みの旅人に愛される理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              静寂が戻る京都の奥座敷・息を呑む白銀の灯籠と至高のジビエぼたん鍋
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">静寂が戻る京都の奥座敷・息を呑む白銀の灯籠と至高のジビエぼたん鍋</h2>
           </div>
 
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
@@ -293,9 +291,7 @@ export default function KyotoKifuneKuramaPage() {
               <ShieldCheck className="w-4 h-4" />
               厳選宿泊施設ガイド
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">
-              冬の貴船・鞍馬で美食と静寂に浸る名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">冬の貴船・鞍馬で美食と静寂に浸る名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
@@ -325,9 +321,7 @@ export default function KyotoKifuneKuramaPage() {
                         <Flame className="w-3.5 h-3.5" />
                         元祖川床宿＆丹波天然猪ぼたん鍋
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -390,17 +384,13 @@ export default function KyotoKifuneKuramaPage() {
               <Compass className="w-4 h-4 text-rose-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              叡電きららで行く白銀の貴船神社ライトアップと極上ぼたん鍋旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">叡電きららで行く白銀の貴船神社ライトアップと極上ぼたん鍋旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-rose-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-rose-700" />
-                【1日目】出町柳から洛北へ・雪の貴船神社とぼたん鍋
-              </h3>
+              <h3 className="font-bold text-rose-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-rose-700" />
+                【1日目】出町柳から洛北へ・雪の貴船神社とぼたん鍋</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-rose-600 shrink-0 mt-1" />
@@ -430,10 +420,8 @@ export default function KyotoKifuneKuramaPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-rose-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-rose-700" />
-                【2日目】雪の鞍馬寺参拝とおみやげ探し
-              </h3>
+              <h3 className="font-bold text-rose-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-rose-700" />
+                【2日目】雪の鞍馬寺参拝とおみやげ探し</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-rose-600 shrink-0 mt-1" />
@@ -467,27 +455,21 @@ export default function KyotoKifuneKuramaPage() {
               <ShoppingBag className="w-4 h-4 text-rose-800" />
               貴船・鞍馬の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              洛北の伝統が香るおすすめ銘品と冬の立ち寄り処
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">洛北の伝統が香るおすすめ銘品と冬の立ち寄り処</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-700" />
-                鞍馬名物「木の芽煮（きのめだき）」＆山椒佃煮
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-700" />
+                鞍馬名物「木の芽煮（きのめだき）」＆山椒佃煮</h3>
               <p>
                 鞍馬寺門前の老舗「くらま辻井」などで受け継がれる「木の芽煮」。昆布と実山椒、木の芽をじっくり炊き上げた逸品で、ピリッとした山椒の爽やかな辛みと昆布の旨味がお茶漬けや酒の肴に最高です。冬のギフトやお正月の食卓にも大変喜ばれます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-rose-700" />
-                貴船神社の「水占みくじ」＆「むすび守」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-rose-700" />
+                貴船神社の「水占みくじ」＆「むすび守」</h3>
               <p>
                 全国に約500社ある貴船神社の総本社。白紙のおみくじをご神水に浮かべると文字が浮かび上がる「水占（みずうら）みくじ」は必見です。また、平安時代の歌人・和泉式部が夫との復縁を祈願して成就したことから、縁結びの神としても名高く、優雅な「むすび守」も大人気です。
               </p>
@@ -502,32 +484,24 @@ export default function KyotoKifuneKuramaPage() {
               <ThermometerSun className="w-4 h-4 text-rose-800" />
               水神の森と冬の洛北食文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ冬の貴船・鞍馬は「真の京都通」を惹きつけるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ冬の貴船・鞍馬は「真の京都通」を惹きつけるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-rose-700" />
-              鴨川の水源を守る水神の森・「気生根（きふね）」に満ちる生気
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-rose-700" />
+              鴨川の水源を守る水神の森・「気生根（きふね）」に満ちる生気</h3>
             <p>
               貴船神社は、京都を潤す鴨川の源流域に鎮座し、古くから水の供給を司る水源の神「高龗神（たかおかみのかみ）」を祀ってきました。「きふね」の地名は古来「気生根」とも書かれ、大地から「気（生命エネルギー）」が生じる根源の地と信じられてきました。冬の冷気の中で雪をまとった巨杉の森に立つと、澄み渡った神聖な空気によって心身が浄化されるような凛とした力強さを実感できます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-rose-700" />
-              川床から囲炉裏座敷へ・季節の循環を愉しむ料亭旅館のおもてなし
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-rose-700" />
+              川床から囲炉裏座敷へ・季節の循環を愉しむ料亭旅館のおもてなし</h3>
             <p>
               貴船の旅館文化の最大の特徴は、季節に応じた柔軟な空間の演出にあります。大正時代、酷暑の京都を逃れて訪れる文人たちをもてなすために川の上に板を渡したのが「川床」の始まりでした。そして冬になると、川床は解体され、客人は川のせせらぎが聞こえる暖かい座敷や囲炉裏の間へ招かれます。外の厳しい寒さと、部屋の中の温かい炭火やお鍋の湯気。この対比こそが、京都人が最も愛する冬の「ぬくもり」の美学です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Flame className="w-4 h-4 text-rose-700" />
-              丹波山地のジビエ文化と京料理の出汁技術の究極の結晶
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Flame className="w-4 h-4 text-rose-700" />
+              丹波山地のジビエ文化と京料理の出汁技術の究極の結晶</h3>
             <p>
               貴船のぼたん鍋が他地域の猪鍋と一線を画すのは、何百年もの歴史を持つ京料理の「出汁（だし）」の洗練度です。利尻昆布と鰹節で丁寧に引いた一番出汁に、京都特有の西京味噌や信州赤味噌、地酒、みりんを絶妙な比率でブレンド。野生の猪肉が持つ力強い脂の甘みを引き立てつつ、最後の一滴まで飲み干せる上品で澄んだ後味に仕上げています。伝統と山里の野趣が融合した、京都洛北ならではの冬の芸術品です。
             </p>
@@ -541,18 +515,14 @@ export default function KyotoKifuneKuramaPage() {
               <HelpCircle className="w-4 h-4 text-rose-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の貴船・鞍馬旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の貴船・鞍馬旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

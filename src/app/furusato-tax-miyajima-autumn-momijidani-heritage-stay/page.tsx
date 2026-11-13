@@ -89,9 +89,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            潮風に揺れる紅葉谷のモミジと、海上に輝く嚴島神社の大鳥居。島に泊まるからこそ出会える静寂と幽玄の秋時間へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">潮風に揺れる紅葉谷のモミジと、海上に輝く嚴島神社の大鳥居。島に泊まるからこそ出会える静寂と幽玄の秋時間へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本三景の一つにして世界文化遺産に登録されている広島県「安芸の宮島（厳島）」。11月中旬から下旬にかけて、弥山の麓に広がる「紅葉谷公園」では約700本ものイロハモミジやオオモミジが一斉に色づき、朱塗りの紅葉橋と燃えるような紅葉が織りなす情景は息を呑むほどの美しさです。そして宮島観光の真髄を味わうなら「宮島島内への宿泊」が絶対のおすすめ。最終フェリーが出た後の夜には観光客の喧騒が引き、美しくライトアップされた嚴島神社の大鳥居を静寂の中で参拝。早朝には清らかな朝靄に包まれた神社境内や紅葉谷公園を誰にも邪魔されずに散策できます。創業四百年余りの歴史を誇り厳島神社まで徒歩3分の名門「宮島グランドホテル 有もと」、宮島港近くの高台に位置し瀬戸内海の眺望と真心のおもてなしを届ける「宮島ホテル まこと」、そして紅葉谷公園の入口に建ち足湯カフェや宮島潮湯温泉を備えた「ホテル 菊乃家」。広島名物の秋牡蠣や焼き穴子、広島牛の会席料理を味わいながら、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、記憶に永遠に残る宮島の秋詣へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  約700本が色づく「紅葉谷公園」＆弥山展望台からの瀬戸内海多島美パノラマ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">約700本が色づく「紅葉谷公園」＆弥山展望台からの瀬戸内海多島美パノラマ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 江戸時代から植栽された名所・紅葉谷公園の真紅のトンネル。ロープウェーで登る弥山山頂からは、紅葉と青い瀬戸内海が織りなす絶景を見渡せます。
@@ -122,9 +118,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  島内宿泊者だけの特権！夜間ライトアップの大鳥居参拝と早朝の静寂な厳島神社
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">島内宿泊者だけの特権！夜間ライトアップの大鳥居参拝と早朝の静寂な厳島神社</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日帰りの観光客が帰った後の宮島は幻想的な静けさに包まれます。潮の満ち引きで表情を変える大鳥居の夜景や朝の清々しい空気の中での参拝は格別です。
@@ -137,9 +131,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  秋が旬の「広島牡蠣」・名物「焼き穴子飯」・特選「広島牛」の極上会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">秋が旬の「広島牡蠣」・名物「焼き穴子飯」・特選「広島牛」の極上会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 身が太り旨味が凝縮した秋の広島牡蠣（焼き牡蠣・カキフライ）や、ふっくら香ばしい穴子飯など、瀬戸内の豊かな恵みを贅沢に堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                       ★ 4.57 <span className="text-stone-400 text-xs">(1,285件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宮島グランドホテル　有もと
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宮島グランドホテル　有もと</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮島町南町364 ｜ 宮島口桟橋よりフェリーで１０分～宮島桟橋よりマイクロバスにて送迎
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                       ★ 4.23 <span className="text-stone-400 text-xs">(414件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宮島ホテルまこと
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宮島ホテルまこと</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮島町755 ｜ ＪＲ山陽本線または広島電鉄「宮島口駅」下車、宮島口桟橋より船にて約１０分。【厳島神社まで徒歩約10分】
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
                       ★ 4.41 <span className="text-stone-400 text-xs">(625件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宮島　ホテル菊乃家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宮島　ホテル菊乃家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮島町335 ｜ 宮島桟橋より徒歩15分（ホテルより送迎あり。フェリー乗船前にお電話いただけましたらお迎えに参ります）
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoMiyajimaAutumnMomijidaniStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

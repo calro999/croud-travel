@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            地上数十階から見下ろす水都・大阪の夜景と、吹き抜ける夜風でととのう天空サウナ——出張を最高のリフレッシュに変える「大阪極上ステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">地上数十階から見下ろす水都・大阪の夜景と、吹き抜ける夜風でととのう天空サウナ——出張を最高のリフレッシュに変える「大阪極上ステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             新大阪駅や伊丹・関空からのアクセスが良く、西日本ビジネスの心臓部である大阪。連日の打ち合わせやイベント出展、商談で1日中歩き回った後は、心身ともに深い疲労が残ります。ただシャワーを浴びて寝るだけの出張では、翌日のプレゼンや判断力に十分な集中力を発揮できません。「大阪出張の夜だからこそ、圧倒的な夜景を眺めながらサウナで整いたい」「上質なベッドと静かなデスクで仕事を片付けたい」。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   地上約135m・日本一の高さを誇るインフィニティ天空スパ！オートロウリュサウナと大阪一望のパノラマビュー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）大阪ザ・タワー —— 堂島浜に誕生した新ランドマーク。空に浮かぶ露天風呂とサウナシュラン仕様の極上空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）大阪ザ・タワー —— 堂島浜に誕生した新ランドマーク。空に浮かぶ露天風呂とサウナシュラン仕様の極上空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全客室が26階以上の超高層ラグジュアリー！16世紀イタリア貴族の館を思わせる気品と大阪駅徒歩すぐの利便性
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル阪急インターナショナル —— 梅田・茶屋町のランドマーク。天井高の優雅な客室と夜景を見下ろす大理石バス
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル阪急インターナショナル —— 梅田・茶屋町のランドマーク。天井高の優雅な客室と夜景を見下ろす大理石バス</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   道頓堀・日本橋すぐ！都会のオアシス天然温泉大浴場と高温サウナ・夜鳴きそば完備の安心ステイ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 朝霧の湯 ドーミーインPREMIUMなんばANNEX —— 難波・心斎橋エリアの出張拠点。本格天然温泉と名物ご当地朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 朝霧の湯 ドーミーインPREMIUMなんばANNEX —— 難波・心斎橋エリアの出張拠点。本格天然温泉と名物ご当地朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              大阪出張で仕事とリフレッシュを両立する3つのテクニック
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">大阪出張で仕事とリフレッシュを両立する3つのテクニック</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 新大阪駅到着後すぐに荷物をホテルへ預ける（コインロッカー不要）
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 新大阪駅到着後すぐに荷物をホテルへ預ける（コインロッカー不要）</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 御堂筋線を使えば新大阪から梅田・なんばへ直通。身軽になって商談先へ直行するのがスマートです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 会食後の「夜サウナ」でアルコールと疲労をスッキリ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 会食後の「夜サウナ」でアルコールと疲労をスッキリ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 深酒を避け、水分をしっかり補給してから入るサウナは翌朝の目覚めを劇的に変えてくれます（飲酒直後の入浴は避け、十分に時間を空けてください）。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は少し早起きして中之島リバーサイド散策
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は少し早起きして中之島リバーサイド散策</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 中央公会堂やバラ園が広がる中之島の水辺は朝の散歩に最適。心地よい風を感じながら頭をスッキリ整理できます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>チェックインが深夜（24時以降）になっても大丈夫ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>チェックインが深夜（24時以降）になっても大丈夫ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、ご紹介した3ホテルはすべて24時間フロントが常駐しており、事前連絡を入れておけば深夜の到着でもスムーズにチェックイン可能です。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>部屋でテレワークやPC作業は快適に行えますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>部屋でテレワークやPC作業は快適に行えますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 全館高速Wi-Fiを完備しており、デスクや座り心地の良いチェアが設置されているため、長時間のオンラインミーティングや資料作成も快適に行えます。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と地上130mスカイスパ・展望サウナ・夜景クラブラウンジ完備！ビジネス＆ソロステイ 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

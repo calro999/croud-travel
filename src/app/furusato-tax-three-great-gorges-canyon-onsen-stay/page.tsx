@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          垂直に切り立つ柱状節理とエメラルドグリーンの激流。大地のダイナミズムを間近に感じる峡谷リトリート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">垂直に切り立つ柱状節理とエメラルドグリーンの激流。大地のダイナミズムを間近に感じる峡谷リトリート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              垂直の断崖を眼前に望む渓谷展望露天風呂で野趣あふれる湯浴み
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">垂直の断崖を眼前に望む渓谷展望露天風呂で野趣あふれる湯浴み</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               川のせせらぎや岩肌を間近に感じながら湯船に身を沈める至福の時間。新緑や紅葉、雪景色と季節ごとの絶景が広がります。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              岩魚や鮎の塩焼き・山菜・ご当地銘柄牛など滋味あふれる渓谷会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">岩魚や鮎の塩焼き・山菜・ご当地銘柄牛など滋味あふれる渓谷会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               清流で育った川魚の炭火焼き、山深い里で採れる旬の山菜やキノコ、厳選されたブランド和牛を地酒とともに堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              トロッコ列車やハイキングと組み合わせたアクティブな自然旅
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">トロッコ列車やハイキングと組み合わせたアクティブな自然旅</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               黒部峡谷鉄道や清津峡渓谷トンネルなど人気観光スポットへのアクセス抜群。ふるさと納税クーポンで交通費と宿泊をお得に両立できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="kiyotsu_gorge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                新潟県十日町市ふるさと納税：国の名勝天然記念物・清津峡の水鏡パノラマと奥清津の秘湯一軒宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">新潟県十日町市ふるさと納税：国の名勝天然記念物・清津峡の水鏡パノラマと奥清津の秘湯一軒宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 巨大な柱状節理の岩肌がV字型に迫る清津峡。「大地の芸術祭」で世界的名所となった水鏡トンネルを鑑賞し、川沿いの秘湯・清津峡温泉で魚沼産コシヒカリと山里会席を満喫できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市小出癸2126-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    清津峡湯元温泉　清津館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">清津峡湯元温泉　清津館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     インスタ映え間違いなし☆十日町市人気No1スポット「清津峡トンネル」へ徒歩1分の秘湯の宿
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼郡湯沢町湯沢419
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    越後湯沢温泉　音羽屋旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後湯沢温泉　音羽屋旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     温泉街中央高台にあり、料理自慢・風呂自慢のこじんまりとした純和風宿
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼市坂戸292-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    旬彩の庄　坂戸城
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">旬彩の庄　坂戸城</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【魚沼産コシヒカリ食べ放題！】当宿人気のにいがた朝ごはん＆源泉かけ流しの温泉宿です♪
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kurobe_gorge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                富山県黒部市ふるさと納税：日本一深いV字峡谷・黒部峡谷トロッコ電車と名湯宇奈月温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">富山県黒部市ふるさと納税：日本一深いV字峡谷・黒部峡谷トロッコ電車と名湯宇奈月温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 トロッコ電車で秘境の奥へと分け入る黒部峡谷の玄関口・宇奈月温泉。無色透明で日本屈指の透明度を誇る弱アルカリ性美肌温泉に浸かり、富山湾のキトキト鮮魚と名峰黒部の恵みを味わえます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉７番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    黒部峡谷・宇奈月温泉　ホテル黒部
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">黒部峡谷・宇奈月温泉　ホテル黒部</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉347-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宇奈月温泉　延楽
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宇奈月温泉　延楽</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     富山県黒部市宇奈月温泉352番地7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="osugidani_gorge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                三重県大台町ふるさと納税：近畿の秘境・ユネスコエコパーク大杉谷と清流宮川の奥伊勢フォレストリゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">三重県大台町ふるさと納税：近畿の秘境・ユネスコエコパーク大杉谷と清流宮川の奥伊勢フォレストリゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 原生林と幾重もの名瀑が連なる秘境・大杉谷。国土交通省の水質調査で日本一に何度も輝いた清流宮川のせせらぎを聞きながら、天然温泉とフレンチ・会席に癒やされる隠れ家ステイです。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町薗993
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    奥伊勢宮川温泉　奥伊勢フォレストピア宮川山荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">奥伊勢宮川温泉　奥伊勢フォレストピア宮川山荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     サイクリング・アスレチック・美人の湯…自然一体型施設☆ユネスコエコパークにも認定！
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町佐原（字下中通）654-41
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    フェアフィールド・バイ・マリオット・三重奥伊勢おおだい
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">フェアフィールド・バイ・マリオット・三重奥伊勢おおだい</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     三重の自然や食を巡る旅の拠点に。洗練された心地よい空間で、ふっと肩の力が抜ける穏やかな滞在を。
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県多気郡大台町久豆382-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    溯渓寮
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">溯渓寮</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     日本三大峡谷「大杉谷」麓にある、自然と歴史、数々のアクティビティが融合するゲストハウス
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                秘境・渓谷の一軒宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">秘境・渓谷の一軒宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 黒部峡谷・祖谷・みちのく深山の完全遮断リトリート。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 奥入瀬渓流・天城湯ヶ島・作変温泉の滝見露天宿。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 定山渓・奥日光・嵐山の錦秋名湯ステイ。
               </p>
@@ -672,9 +634,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -753,9 +713,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税厳選ガイド清津峡・黒部峡谷・大杉谷の絶景名湯エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

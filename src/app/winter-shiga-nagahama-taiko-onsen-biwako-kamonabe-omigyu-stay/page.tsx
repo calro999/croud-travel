@@ -269,9 +269,7 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Biwako Sunset & Winter Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の琵琶湖レイクビューと湖国の至宝味覚｜11月・12月に長浜を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の琵琶湖レイクビューと湖国の至宝味覚｜11月・12月に長浜を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Biwako Geography & Ecology</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                湖北特有のリアス状湖岸と初冬に飛来するコハクチョウのサンクチュアリ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">湖北特有のリアス状湖岸と初冬に飛来するコハクチョウのサンクチュアリ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ShigaNagahamaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Selected Lakeside Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【長浜太閤温泉】琵琶湖夕景と天然鴨鍋・近江牛を味わう厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【長浜太閤温泉】琵琶湖夕景と天然鴨鍋・近江牛を味わう厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               全室レイクビューの老舗料亭旅館、全室露天風呂付き隠れ宿、豪華オールインクルーシブホテルなど厳選して紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function ShigaNagahamaWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors">
-                      <a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
                         {h.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       {h.story}
@@ -444,9 +436,7 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                長浜太閤温泉の含鉄泉メカニズムと天然真鴨が蓄える極上の脂
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">長浜太閤温泉の含鉄泉メカニズムと天然真鴨が蓄える極上の脂</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -467,9 +457,7 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の長浜歴史散策・黒壁スクエアと天然鴨すき＆太閤温泉の休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の長浜歴史散策・黒壁スクエアと天然鴨すき＆太閤温泉の休日</h2>
             </div>
           </div>
 
@@ -538,48 +526,38 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Advice & Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の長浜・湖北旅行を満喫するための4大秘訣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の長浜・湖北旅行を満喫するための4大秘訣</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-600" />
-                天然真鴨（マガモ）は11月15日以降の予約が必須
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+                天然真鴨（マガモ）は11月15日以降の予約が必須</h3>
               <p className="leading-relaxed">
                 法律で定められた狩猟期間の関係上、天然真鴨が提供されるのは毎年11月15日以降となります。希少な天然鴨を確実に味わうため、宿泊プランを予約する際は「天然真鴨使用」「鴨すきプラン」の記載を事前に確認しましょう。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-amber-600" />
-                太閤温泉の茶褐色湯はタオルへの色移りに注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-amber-600" />
+                太閤温泉の茶褐色湯はタオルへの色移りに注意</h3>
               <p className="leading-relaxed">
                 長浜太閤温泉は鉄分が極めて濃厚なため、白地のフェイスタオルをお湯につけると赤茶色に染まることがあります。お気に入りのタオルは湯船につけず、宿の備え付けタオルを利用するのがスマートです。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" />
-                琵琶湖からの冷たい「湖風（うみかぜ）」対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" />
+                琵琶湖からの冷たい「湖風（うみかぜ）」対策</h3>
               <p className="leading-relaxed">
                 初冬の長浜は湖面を渡る冷たい風が吹き抜けます。特に豊公園や長浜港、竹生島クルーズの甲板では体感温度が氷点下近くまで下がることがあるため、マフラーや手袋、防風アウターをしっかりと備えておきましょう。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-amber-600" />
-                湖北の銘酒「七本鎗」「冨田酒造」との絶品晩酌
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-amber-600" />
+                湖北の銘酒「七本鎗」「冨田酒造」との絶品晩酌</h3>
               <p className="leading-relaxed">
                 賤ヶ岳の戦いの七本槍に由来する木之本の老舗・冨田酒造の「七本鎗」。旨口で力強い酸を持つ純米酒は、濃厚な鴨鍋の出汁や霜降り近江牛の甘みと見事に調和し、食卓を極上のひとときに仕立て上げてくれます。
               </p>
@@ -595,19 +573,15 @@ export default function ShigaNagahamaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                長浜太閤温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">長浜太閤温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -620,9 +594,7 @@ export default function ShigaNagahamaWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！近畿・関西の冬美食＆名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！近畿・関西の冬美食＆名湯特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               琵琶湖畔の名湯やお隣の京都・有馬・兵庫の冬の味覚特集もぜひあわせてチェックしてください。
             </p>

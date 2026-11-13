@@ -113,9 +113,7 @@ export default function KoyasanPassPage() {
               01
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                なぜ高野山へ行くなら「世界遺産きっぷ」一択なのか？
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">なぜ高野山へ行くなら「世界遺産きっぷ」一択なのか？</h2>
               <p className="text-xs text-indigo-700 font-medium">電車＋ケーブルカー＋現地バス代を個別精算すると大損する理由</p>
             </div>
           </div>
@@ -130,17 +128,13 @@ export default function KoyasanPassPage() {
 
             <div className="grid sm:grid-cols-2 gap-4 pt-3">
               <div className="border border-indigo-100 rounded-xl p-4 bg-indigo-50/40">
-                <h3 className="font-bold text-indigo-900 text-sm mb-2 flex items-center gap-1.5">
-                  <span>📱</span> デジタル版（南海・片道特急券付も選択可）
-                </h3>
+                <h3 className="font-bold text-indigo-900 text-sm mb-2 flex items-center gap-1.5">デジタル版（南海・片道特急券付も選択可）</h3>
                 <p className="text-xs text-slate-600">
                   スマートフォンで購入即利用可能。発券窓口に並ぶ必要がなく、画面を見せるだけで改札・バスをスムーズにパスできます。
                 </p>
               </div>
               <div className="border border-indigo-100 rounded-xl p-4 bg-indigo-50/40">
-                <h3 className="font-bold text-indigo-900 text-sm mb-2 flex items-center gap-1.5">
-                  <span>🎫</span> 磁気券版（南海主要駅窓口で発売）
-                </h3>
+                <h3 className="font-bold text-indigo-900 text-sm mb-2 flex items-center gap-1.5">磁気券版（南海主要駅窓口で発売）</h3>
                 <p className="text-xs text-slate-600">
                   紙のクーポン券冊子が付属。土産物店での10%割引クーポンやお寺の拝観割引券が物理チケットで使いやすいのが特徴。
                 </p>
@@ -156,9 +150,7 @@ export default function KoyasanPassPage() {
               02
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                【収支比較】普通にICカードで乗るといくら損する？
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">【収支比較】普通にICカードで乗るといくら損する？</h2>
               <p className="text-xs text-indigo-700 font-medium">なんば発着・1泊2日宿坊滞在ルートでの詳細内訳</p>
             </div>
           </div>
@@ -245,9 +237,7 @@ export default function KoyasanPassPage() {
               03
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                心洗われる1泊2日 宿坊ステイ黄金モデルコース
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">心洗われる1泊2日 宿坊ステイ黄金モデルコース</h2>
               <p className="text-xs text-indigo-700 font-medium">特急こうやで行く神秘の静寂と阿字観・朝のお勤め体験</p>
             </div>
           </div>
@@ -342,9 +332,7 @@ export default function KoyasanPassPage() {
               04
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                高野山ステイを極める！名門宿坊＆アクセス至便ホテル
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">高野山ステイを極める！名門宿坊＆アクセス至便ホテル</h2>
               <p className="text-xs text-indigo-700 font-medium">高野山内随一の天然温泉宿坊から麓の橋本駅チカホテルまで</p>
             </div>
           </div>
@@ -381,9 +369,7 @@ export default function KoyasanPassPage() {
                   )}
 
                   <div className="p-5">
-                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-indigo-700 transition-colors line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-indigo-700 transition-colors line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-500 mt-1 line-clamp-2">
                       {hotel.access}
                     </p>
@@ -425,17 +411,13 @@ export default function KoyasanPassPage() {
 
         {/* Internal Links */}
         <section className="bg-slate-100 rounded-2xl p-6 sm:p-8 border border-slate-200">
-          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> 関西・交通比較のお役立ちガイド
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">関西・交通比較のお役立ちガイド</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/osaka-tokushima-naruto-bus-vs-car-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">
-                【大阪〜徳島・鳴門】高速バス vs 車 徹底比較！明石海峡大橋の料金・所要時間
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">【大阪〜徳島・鳴門】高速バス vs 車 徹底比較！明石海峡大橋の料金・所要時間</h3>
               <p className="text-xs text-slate-500">
                 難波・梅田からの高速バスアクセスとレンタカー利用のコスパ比較。
               </p>
@@ -444,9 +426,7 @@ export default function KoyasanPassPage() {
               href="/tokyo-osaka-bus-vs-shinkansen-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-indigo-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">
-                【東京〜大阪】夜行バス vs 新幹線！価格差1万円のコスパ・快適度ガチ検証
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-indigo-600 mb-1">【東京〜大阪】夜行バス vs 新幹線！価格差1万円のコスパ・快適度ガチ検証</h3>
               <p className="text-xs text-slate-500">
                 のぞみ・夜行3列独立シートの疲労度と時間対効果シミュレーション。
               </p>
@@ -459,9 +439,7 @@ export default function KoyasanPassPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -546,9 +524,7 @@ export default function KoyasanPassPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バス乗り放題でいくら浮く？宿坊ステイ＆金剛峯寺」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -618,9 +594,7 @@ export default function KoyasanPassPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「高野山・世界遺産きっぷ完全攻略」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「高野山・世界遺産きっぷ完全攻略」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -266,10 +266,8 @@ export default function IzukogenWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月開幕！日本一の体験型イルミ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊豆高原グランイルミ】<br className="hidden sm:inline" />
-            日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月伊豆高原グランイルミ】<br className="hidden sm:inline" />
+            日本一の体験型イルミと伊東温泉・金目鯛姿煮宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             全国第1位に輝く体験型イルミ「伊豆高原グランイルミ」の圧倒的な光の祭典！ジップラインで光の海を飛び、伊豆高原の美肌温泉露天風呂と冬が旬の脂の乗った金目鯛姿煮に癒やされる冬休み。
           </p>
@@ -295,9 +293,7 @@ export default function IzukogenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Grand Illumination & Onsen</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                光の海を滑空し、美肌の名湯に浸かる。五感を刺激する伊豆の冬リゾート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">光の海を滑空し、美肌の名湯に浸かる。五感を刺激する伊豆の冬リゾート</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function IzukogenWinterPage() {
           </p>
           <div className="bg-purple-50/70 rounded-2xl p-5 border border-purple-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-purple-700" />
-                特急踊り子で東京から直行！車なしでも快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-purple-700" />
+                特急踊り子で東京から直行！車なしでも快適アクセス</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 JR特急「踊り子号」「サフィール踊り子」で東京駅から伊豆高原駅まで約2時間。駅からのシャトルバスや送迎付き宿を活用すれば雪道運転の心配もゼロ。
               </p>
@@ -332,9 +326,7 @@ export default function IzukogenWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の伊豆高原グランイルミ旅で体験すべき3大魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の伊豆高原グランイルミ旅で体験すべき3大魅力</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function IzukogenWinterPage() {
         <section id="hotel-list" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Recommended Hotels & Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              グランイルミと伊東温泉を満喫する厳選ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">グランイルミと伊東温泉を満喫する厳選ホテル5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルで4.2以上の高評価を獲得している伊豆高原の宿。グランイルミ会場への近さ、客室露天風呂の有無、金目鯛ディナーの満足度で厳選。
             </p>
@@ -418,11 +408,9 @@ export default function IzukogenWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-purple-800 transition-colors">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-purple-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-700 text-sm leading-relaxed">
                       {hotel.story}
@@ -480,9 +468,7 @@ export default function IzukogenWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200 space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              【1泊2日】グランイルミと金目鯛温泉を遊び尽くす冬の伊豆高原モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】グランイルミと金目鯛温泉を遊び尽くす冬の伊豆高原モデルコース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               特急踊り子で直行！大室山のリフト観光、グランイルミのジップライン、夜の客室露天風呂を満喫する鉄板プラン。
             </p>
@@ -562,40 +548,30 @@ export default function IzukogenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Local Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の伊豆半島で絶対に味わいたい絶品名物4選
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の伊豆半島で絶対に味わいたい絶品名物4選</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-700">●</span> 秘伝タレで煮立てる「金目鯛の姿煮」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-700">●</span> 秘伝タレで煮立てる「金目鯛の姿煮」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冬に脂乗りが最高潮を迎える近海物の地キンメ。甘辛の照り煮にすることで、ふっくらとした白身に濃厚なタレが絡み合い、ご飯が止まらない絶品料理に。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-700">●</span> 活きの良さが自慢の「活伊勢海老の鬼殻焼き」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-700">●</span> 活きの良さが自慢の「活伊勢海老の鬼殻焼き」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 秋に漁が解禁された伊豆特産の活伊勢海老。炭火で香ばしく焼き上げた鬼殻焼きは、プリッとした身の強い甘みと香ばしい味噌の風味が格別です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-700">●</span> 天城の清流が育んだ「本わさび丼」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-700">●</span> 天城の清流が育んだ「本わさび丼」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 熱々の炊きたてご飯にかつお節を敷き、鮫皮でおろしたての生わさびをこんもり。醤油をひと垂らししてかき混ぜれば、爽やかな香りとツンとした辛味が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-purple-700">●</span> 伊豆の伝統「天日干し 鯵の開き」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-purple-700">●</span> 伊豆の伝統「天日干し 鯵の開き」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冬の冷たい浜風と天日でじっくり乾燥させた鯵の干物。朝食の定番として皮はパリッと身はふっくらジューシーに焼き上がり、伊豆の朝を贅沢に彩ります。
               </p>
@@ -611,48 +587,38 @@ export default function IzukogenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Q&A Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                伊豆高原グランイルミ旅行 よくある質問と観賞アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">伊豆高原グランイルミ旅行 よくある質問と観賞アドバイス</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-purple-700 font-extrabold">Q.</span>
-                グランイルミの前売りチケットは購入した方がいいですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-700 font-extrabold">Q.</span>
+                グランイルミの前売りチケットは購入した方がいいですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 前売り電子チケットの購入を強くおすすめします。週末やクリスマス、年末年始の入場ゲートはチケット購入窓口で長蛇の列ができることがあります。スマホで事前購入しておけば、QRコード提示で専用ゲートからスムーズに入場でき、寒空の下で待つ時間を大幅に節約できます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-purple-700 font-extrabold">Q.</span>
-                ジップラインなどのアトラクションの混雑状況や注意点は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-700 font-extrabold">Q.</span>
+                ジップラインなどのアトラクションの混雑状況や注意点は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 名物の「ジップライン〜流星〜」は非常に人気が高く、混雑時は1時間以上の待ち時間が発生することがあります。開園直後（17:00の点灯直後）または20:00以降の遅い時間帯を狙うと比較的スムーズに体験できます。安全上の理由からスカートやサンダル・ヒール靴では利用できないため、ズボンとスニーカーで参加してください。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-purple-700 font-extrabold">Q.</span>
-                電車とバスで行く場合、帰りの交通手段はどうなりますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-700 font-extrabold">Q.</span>
+                電車とバスで行く場合、帰りの交通手段はどうなりますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 伊豆高原駅から伊豆シャボテン公園（グランイルミ会場）までは路線バスが運行していますが、夜間の復路バスは本数が限られます。タクシーを利用するか、ホテルによってはグランイルミ会場への無料送迎バスを運行している宿もありますので、予約時に送迎サービスの有無をチェックしておくと安心です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-purple-700 font-extrabold">Q.</span>
-                ペット連れでグランイルミやホテルを利用できますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-700 font-extrabold">Q.</span>
+                ペット連れでグランイルミやホテルを利用できますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 伊豆高原グランイルミはリード着用（またはペットカート）で愛犬と同伴入場が可能です。園内には専用のドッグランも設置されています。また、伊豆高原エリアには愛犬と同室宿泊できる専用温泉リゾートやヴィラも多数揃っており、ペット連れ旅行者にも非常に優しい地域です。
               </p>
@@ -664,9 +630,7 @@ export default function IzukogenWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -679,9 +643,7 @@ export default function IzukogenWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">国内最大級イルミ</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                なばなの里イルミネーションと長島温泉リゾート宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">なばなの里イルミネーションと長島温泉リゾート宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 圧倒的スケールの光のトンネルと天然温泉大露天風呂、松阪牛グルメ。
               </p>
@@ -692,9 +654,7 @@ export default function IzukogenWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">伊豆冬グルメ</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">
-                伊豆金目鯛しゃぶしゃぶとオーシャンビュー露天宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">伊豆金目鯛しゃぶしゃぶとオーシャンビュー露天宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 熱々の出汁にさっとくぐらせる金目鯛しゃぶしゃぶと相模湾絶景温泉。
               </p>
@@ -705,9 +665,7 @@ export default function IzukogenWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-purple-50/60 border border-stone-200 hover:border-purple-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の熱海海上花火</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">
-                熱海海上花火大会をお部屋から眺める特等席ホテル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">熱海海上花火大会をお部屋から眺める特等席ホテル</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 澄んだ冬の夜空に大輪の花火！客室や露天風呂から観賞する贅沢ステイ。
               </p>
@@ -716,9 +674,7 @@ export default function IzukogenWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              東海・関東・全国の都道府県別おすすめ宿
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">東海・関東・全国の都道府県別おすすめ宿</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/shizuoka/" className="px-3 py-1.5 bg-stone-100 hover:bg-purple-100 text-stone-700 hover:text-purple-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>
               <Link href="/prefectures/kanagawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-purple-100 text-stone-700 hover:text-purple-900 rounded-lg transition-colors font-medium">神奈川県の宿一覧</Link>

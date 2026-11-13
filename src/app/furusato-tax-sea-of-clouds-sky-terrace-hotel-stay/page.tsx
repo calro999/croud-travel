@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>雲を見下ろす圧倒的なスケール。朝の光が照らす幻想的な「雲の海」へ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>雲を見下ろす圧倒的なスケール。朝の光が照らす幻想的な「雲の海」へ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             気象条件が揃った朝にだけ現れる奇跡の絶景・雲海。足元一面にどこまでも広がる白い絨毯と、遠くの山々が島のように浮かぶ景色は、息を呑むほどの神々しさです。山頂テラス直結のホテルや標高の高い高原リゾートに宿泊すれば、早朝の混雑や長距離移動なくベストな瞬間に巡り合えます。楽天ふるさと納税を活用して、天空のリゾートで過ごす一生忘れられない雲上体験へ出かけましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    宿泊者限定のアーリーエントリーで誰もいない雲海テラスへ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">宿泊者限定のアーリーエントリーで誰もいない雲海テラスへ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     一般営業前の静寂の時間に山頂デッキへアクセスできる宿泊者優先パス。朝の澄んだ空気の中、特等席のカフェラウンジで温かいコーヒーを飲みながら雲海を鑑賞できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    標高1,000m〜2,000m超の高地で楽しむ満天の星空と天然温泉
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">標高1,000m〜2,000m超の高地で楽しむ満天の星空と天然温泉</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     雲海が現れる高地は夜の星空観測にも最適な環境。澄み渡る夜空の天然プラネタリウムと、肌を包む名湯温泉が旅の満足度をさらに引き上げます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    3年間有効の返礼クーポンで気候の安定したシーズンを狙い撃ち
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">3年間有効の返礼クーポンで気候の安定したシーズンを狙い撃ち</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     雲海の発生率が高い春や秋のベストシーズンに合わせて旅行時期を柔軟に選べる3年間有効の楽天ふるさと納税クーポン。最大30%オフでお得に予約可能です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="tomamu_clouds" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>北海道占冠村ふるさと納税：星野リゾート トマム・ダイナミックな太平洋産雲海テラス</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>北海道占冠村ふるさと納税：星野リゾート トマム・ダイナミックな太平洋産雲海テラス</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       日高山脈を越えて流れ込むダイナミックな太平洋産雲海が有名なトマム。雲の上にせり出すデッキ「クラウドウォーク」や雲の形をしたハンモックなど、五感で雲海を楽しむエンターテインメントが満載です。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ペンション　イング・トマム
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ペンション　イング・トマム</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               大自然に囲まれ、豊富なアウトドアメニューが四季を通し楽しめる。清潔・清楚な温泉付きペンション。
                             </p>
@@ -234,10 +220,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shigakogen_clouds" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県山ノ内町ふるさと納税：志賀高原横手山・渋峠・日本最高地点の国道と天空パノラマ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県山ノ内町ふるさと納税：志賀高原横手山・渋峠・日本最高地点の国道と天空パノラマ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       標高2,307mの横手山山頂付近に位置する高原宿。雲海発生率が高く、夕方から早朝にかけて北アルプスや富士山を遠望しながら雲の上で過ごす特別な滞在が叶います。
                     </p>
@@ -265,9 +248,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              志賀高原　癒しの宿幸の湯
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">志賀高原　癒しの宿幸の湯</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               「故郷のない方いらっしゃい」をコンセプトに、祖父の代から受け継いだアットホームなお宿です。
                             </p>
@@ -317,9 +298,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              志賀高原ロッヂ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">志賀高原ロッヂ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               チェックイン13時～OK！貸切サウナ併設（要予約）ペット同伴可♪横手山渋峠＆熊の湯スキー場徒歩3分
                             </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">天然温泉　旅人の湯（源泉名：延徳温泉）ホテルルートインＧｒａｎｄ中野小布施－信州中野駅前－</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               長野電鉄信州中野駅より徒歩3分！無料駐車場・天然温泉大浴場完備！小布施町・志賀高原へ良アクセス！
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="zao_clouds" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山形県山形市ふるさと納税：山形蔵王温泉・蔵王連峰の雄大な山容と雲上露天風呂</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山形県山形市ふるさと納税：山形蔵王温泉・蔵王連峰の雄大な山容と雲上露天風呂</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       高地に湧く開湯1900年の強酸性硫黄泉・蔵王温泉。山麓を見下ろす絶景ホテルで、朝霧や雲海を眺めながら入る白濁の露天風呂はまさに極楽の心地よさです。
                     </p>
@@ -437,9 +411,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【温泉4.9】5つの無料貸切風呂完備｜強酸性硫黄泉×源泉かけ流しの極上湯を堪能◆ペット同伴客室あり◆
                             </p>
@@ -545,9 +517,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ペンション イング・トマムを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ペンション イング・トマムを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -580,9 +550,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とペンション イング・トマムの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とペンション イング・トマムの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -677,9 +645,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -749,9 +715,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテルで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">雲海テラス＆天空パノラマリゾート×ふるさと納税厳選ガイドトマム・志賀高原・蔵王の雲上絶景ホテルで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

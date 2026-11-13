@@ -109,9 +109,7 @@ export default function UltraLuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【保津川渓流沿いの歴史美と嵐山温泉露天付きプライベートスイート】2026-2027年11-12月初冬の京都・嵐山！世界最高峰「翠嵐 ラグジュアリーコレクションホテル 京都」＆老舗料亭旅館・初冬の渡月橋と極上京懐石名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             紅葉の喧騒が落ち着き、凛とした初冬の静寂が包み込む京都・嵐山。保津川の清流沿いに佇む世界的ラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」をはじめ、嵐山温泉の肌触り滑らかな湯を客室露天風呂で愉しむ最高峰の宿。渡月橋や竹林の小径の静かな朝散策と、伝統の技が光る繊細な京懐石・丹波牛会席。日本の美意識の粋を極めた大人の記念日ステイ厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>世界最高峰「翠嵐 ラグジュアリーコレクション」！嵐山温泉露天付きプライベートスイート</span>
-            </h3>
+              <span>世界最高峰「翠嵐 ラグジュアリーコレクション」！嵐山温泉露天付きプライベートスイート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               保津川沿いの特等席に位置するラグジュアリーホテル。客室露天風呂に注ぐ柔らかな嵐山温泉と、プライベート日本庭園を望む贅を尽くした滞在が叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>紅葉の喧騒が去った初冬の静寂美！朝の渡月橋と竹林の小径を独り占めする特権</span>
-            </h3>
+              <span>紅葉の喧騒が去った初冬の静寂美！朝の渡月橋と竹林の小径を独り占めする特権</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               観光客がまばらな初冬の早朝、朝靄に包まれる渡月橋や凛とした竹林の小径を静かに散策。宿泊者だからこそ出会える、静まり返った京都本来の幽玄な美を堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>伝統の京懐石とモダンフレンチの融合！冬の丹波牛と京野菜が織りなす至高の美食</span>
-            </h3>
+              <span>伝統の京懐石とモダンフレンチの融合！冬の丹波牛と京野菜が織りなす至高の美食</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               聖護院大根やかぶら、冬の寒さで甘みを蓄えた京野菜と、とろける霜降りの丹波牛。一流の料理人が仕立てる繊細で華やかな料理の数々を歴史ある空間で味わえます。
             </p>
@@ -177,9 +167,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  翠嵐ラグジュアリーコレクションホテル京都
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">翠嵐ラグジュアリーコレクションホテル京都</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">京都　嵐山温泉　花伝抄（共立リゾート）（２０２６年５月１日リニューアルオープン）</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  京都　嵐山温泉　渡月亭
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">京都　嵐山温泉　渡月亭</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  旅亭　嵐月
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">旅亭　嵐月</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  嵐山温泉彩四季の宿　花筏
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">嵐山温泉彩四季の宿　花筏</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -546,28 +524,22 @@ export default function UltraLuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>嵐山温泉の泉質と特徴はどのようなものですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>嵐山温泉の泉質と特徴はどのようなものですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               嵐山温泉は、地下1200mから湧出する弱アルカリ性の単純温泉です。肌の角質を優しく軟化させてすべすべにする美肌効果があり、湯あたりしにくく身体が芯から温まるのが特徴です。無色透明で微かに温泉の香りが漂い、長湯にも適しています。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>翠嵐の「シャンパンディライト」とはどのようなサービスですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>翠嵐の「シャンパンディライト」とはどのようなサービスですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               『翠嵐 ラグジュアリーコレクションホテル 京都』では、宿泊者全員を対象に、夕暮れ時の17時〜19時に敷地内の「茶寮 八翠」にてシャンパンやワイン、ソフトドリンクを無料で提供する「シャンパンディライト」を開催しています。保津川の夕景を眺めながら優雅なアペリティフを楽しめる大人気サービスです。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>初冬の嵐山散策でおすすめの時間帯はいつですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>初冬の嵐山散策でおすすめの時間帯はいつですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               断然「早朝（午前7時〜8時半）」がおすすめです。日中は観光客が訪れる竹林の小径や渡月橋も、早朝はほとんど人がおらず、竹の葉が風にそよぐ音や桂川のせせらぎだけが聞こえる幻想的な静寂を味わえます。嵐山に宿泊する最大の醍醐味がここにあります。
             </p>

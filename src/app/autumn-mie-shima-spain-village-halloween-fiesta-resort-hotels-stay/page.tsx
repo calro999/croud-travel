@@ -295,9 +295,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Fiesta de Halloween</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                マヨール広場を埋め尽くすカボチャ！陽気な「ハロウィーンフィエスタ」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">マヨール広場を埋め尽くすカボチャ！陽気な「ハロウィーンフィエスタ」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -316,9 +314,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Authentic Spanish Gourmet</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                大鍋で炊き上げる絶品魚介パエリャ＆本場フラメンコショー
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">大鍋で炊き上げる絶品魚介パエリャ＆本場フラメンコショー</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -334,9 +330,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-teal-600 pl-4 mb-6">
               <span className="text-xs font-bold text-teal-600 tracking-wider uppercase">Ago Bay Scenic & Luxury Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                リアス海岸の美景「英虞湾」と伊勢海老・松阪牛が彩る秋の極上リトリート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">リアス海岸の美景「英虞湾」と伊勢海老・松阪牛が彩る秋の極上リトリート</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -352,9 +346,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-orange-500 pl-4 mb-6">
               <span className="text-xs font-bold text-orange-600 tracking-wider uppercase">Healing Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                pH8.6の美肌湯！伊雑ノ浦の夕景を望む「ひまわりの湯」の極上温浴
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">pH8.6の美肌湯！伊雑ノ浦の夕景を望む「ひまわりの湯」の極上温浴</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -373,9 +365,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-8">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】ホテル志摩スペイン村＆伊勢志摩温泉厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】ホテル志摩スペイン村＆伊勢志摩温泉厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -401,9 +391,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-amber-500 shrink-0" />
@@ -426,9 +414,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -460,17 +446,13 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Fiesta Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】スペイン村ハロウィーン・ひまわりの湯＆伊勢神宮参拝ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】スペイン村ハロウィーン・ひまわりの湯＆伊勢神宮参拝ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：近鉄特急で志摩へ・ハロウィーンフィエスタ＆温泉ひまわりの湯
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：近鉄特急で志摩へ・ハロウィーンフィエスタ＆温泉ひまわりの湯</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">10:30 近鉄鵜方駅から直通バスで志摩スペイン村到着</strong><br />
@@ -496,10 +478,8 @@ export default function ShimaSpanishHalloweenFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：英虞湾パノラマ・伊勢神宮（内宮）参拝＆おはらい町食べ歩き
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：英虞湾パノラマ・伊勢神宮（内宮）参拝＆おはらい町食べ歩き</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 ホテル朝食バイキング＆横山展望台で英虞湾絶景</strong><br />
@@ -522,37 +502,29 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                志摩スペイン村を快適に楽しむためのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">志摩スペイン村を快適に楽しむためのポイント</h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  ホテル2DAYパスポートの活用
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  ホテル2DAYパスポートの活用</h3>
                 <p className="text-stone-600 leading-relaxed">
                   オフィシャルホテル宿泊者は、通常より大幅にお得な専用2DAYパスポートが購入できます。チェックイン前にホテルフロントで受け取り可能です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Flame className="w-4 h-4 text-rose-500" />
-                  フラメンコショーの事前予約
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Flame className="w-4 h-4 text-rose-500" />
+                  フラメンコショーの事前予約</h3>
                 <p className="text-stone-600 leading-relaxed">
                   本場ダンサーによるカルメンホールのフラメンコショーは座席数限定です。入園後すぐにチケット（ワンドリンク付き）を確保しましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-amber-500" />
-                  ひまわりの湯の営業時間
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-amber-500" />
+                  ひまわりの湯の営業時間</h3>
                 <p className="text-stone-600 leading-relaxed">
                   ひまわりの湯は日帰り客も利用するため夕方17時〜18時は混雑します。宿泊者はチェックイン直後（15時台）または夕食後の遅い時間がゆったり入れます。
                 </p>
@@ -564,18 +536,14 @@ export default function ShimaSpanishHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                志摩スペイン村ハロウィーン よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">志摩スペイン村ハロウィーン よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-amber-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -586,9 +554,7 @@ export default function ShimaSpanishHalloweenFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              情熱のスペイン風情と英虞湾の絶景温泉が待つ伊勢志摩へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">情熱のスペイン風情と英虞湾の絶景温泉が待つ伊勢志摩へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               白壁の街並みに映えるモンスターパンプキン、陽気な音楽とパエリャの美味、そして美肌天然温泉ひまわりの湯。笑顔と温もりに包まれる秋の南欧リゾート旅へ出かけてみませんか。
             </p>

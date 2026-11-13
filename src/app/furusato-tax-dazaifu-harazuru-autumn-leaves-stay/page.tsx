@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              学問の神様・太宰府と縁結びの竈門神社！歴史薫る古都と福岡2大美肌温泉
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">学問の神様・太宰府と縁結びの竈門神社！歴史薫る古都と福岡2大美肌温泉</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             菅原道真公を祀る全国天満宮の総本宮「太宰府天満宮」。秋には心字池周辺のモミジが真っ赤に色づき、朱塗りの太鼓橋とのコントラストが優美な景観を作り出します。さらに車で約10分の「宝満宮 竈門神社（かまどじんじゃ）」は、参道を包み込む紅葉のトンネルと幻想的な夜間ライトアップで福岡屈指の人気を誇る名所。参詣後は、奈良時代開湯の老舗「二日市温泉」や、弱アルカリ性単純温泉と硫黄泉の「ダブル美肌の湯」として名高い「原鶴温泉」へ。博多名物水炊きやもつ鍋、博多和牛をふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                太宰府天満宮の心字池太鼓橋と竈門神社の紅葉トンネル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                太宰府天満宮の心字池太鼓橋と竈門神社の紅葉トンネル</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 過去・現在・未来を表す太宰府天満宮の三連太鼓橋を彩る紅葉。縁結びで有名な竈門神社の参道を覆う真紅のアーチとライトアップは必見の絶景です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                万葉集に歌われた二日市温泉＆原鶴の「W美肌温泉」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                万葉集に歌われた二日市温泉＆原鶴の「W美肌温泉」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 大宰府政庁の役人たちも愛した二日市温泉の歴史ある名湯と、角質を落とし肌を潤す原鶴温泉のダブル美肌効果。肌がつるつるになる極上の湯浴みが楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                博多名物「水炊き」＆極上博多和牛・筑後川の旬の恵み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                博多名物「水炊き」＆極上博多和牛・筑後川の旬の恵み</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 じっくり煮込んだ濃厚白濁スープの博多水炊き、福岡県産黒毛和牛「博多和牛」の陶板焼き、名物「梅ヶ枝餅」の焼きたての香ばしさを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.67 <span className="text-stone-400 text-xs">(490件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    二日市温泉　大丸別荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">二日市温泉　大丸別荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 福岡県筑紫野市湯町1-20-1 ｜ 「福岡空港」より高速バスで約30分　「博多駅」よりＪＲ線利用で20分　「福岡天神駅」より西鉄電車利用で30分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.19 <span className="text-stone-400 text-xs">(1097件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    原鶴温泉　泰泉閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">原鶴温泉　泰泉閣</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 福岡県朝倉市杷木志波20 ｜ 大分自動車道杷木インターより車で5分／ＪＲ筑後吉井駅より車で10分／日田行き高速バスで杷木下車、車で５分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.35 <span className="text-stone-400 text-xs">(1978件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    原鶴温泉　ホテルパーレンス小野屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">原鶴温泉　ホテルパーレンス小野屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 福岡県朝倉市杷木久喜宮1841-1 ｜ 福岡市内から約60分！大分自動車道・杷木ＩＣより約5分！名跡『秋月城址』まで車で30分、太宰府まで車で50分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】二日市温泉 大丸別荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】二日市温泉 大丸別荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と二日市温泉 大丸別荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と二日市温泉 大丸別荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

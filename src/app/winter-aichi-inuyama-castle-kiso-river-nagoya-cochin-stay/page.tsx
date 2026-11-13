@@ -248,9 +248,7 @@ export default function AichiInuyamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              木曽川の朝霧に浮かぶ白帝城の気品と、尾張の歴史が育んだ地鶏美食の極み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">木曽川の朝霧に浮かぶ白帝城の気品と、尾張の歴史が育んだ地鶏美食の極み</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               江戸の町割りが息づく城下町と、心洗われる新春の祈りが織りなす冬の尾張路
             </p>
@@ -309,9 +307,7 @@ export default function AichiInuyamaPage() {
         <section className="bg-gradient-to-r from-stone-900 to-rose-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-rose-400 pl-4">
             <span className="text-rose-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
@@ -360,16 +356,12 @@ export default function AichiInuyamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき犬山・木曽川の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき犬山・木曽川の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Castle className="w-5 h-5 text-rose-600" /> 国宝犬山城（白帝城）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Castle className="w-5 h-5 text-rose-600" /> 国宝犬山城（白帝城）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 現存最古の木造天守。冬の澄んだ空気の中、最上階の廻り縁から見渡す木曽川の清流と御嶽山の雪山パノラマは息をのむ絶景。冬の早朝に現れる川霧と城郭の幻想的な光景も見逃せません。
               </p>
@@ -379,9 +371,7 @@ export default function AichiInuyamaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Heart className="w-5 h-5 text-rose-600" /> 三光稲荷神社＆針綱神社
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Heart className="w-5 h-5 text-rose-600" /> 三光稲荷神社＆針綱神社</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 城山の登城口に鎮座する二大社。三光稲荷神社のピンクのハート絵馬での良縁祈願と、御神水でお金を洗う銭洗いでの金運祈願。針綱神社の安産・延命長寿祈願と合わせた新春参拝が人気です。
               </p>
@@ -391,9 +381,7 @@ export default function AichiInuyamaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-rose-600" /> 犬山城下町（本町通り）＆有楽苑
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-rose-600" /> 犬山城下町（本町通り）＆有楽苑</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 江戸の風情を残す町屋が連なる通り。冬の食べ歩きには熱々のみたらし団子や五平餅、飛騨牛串が最高です。隣接する有楽苑では織田信長の弟・有楽斎が建てた国宝茶室「如庵」の静謐な冬姿を鑑賞。
               </p>
@@ -406,9 +394,7 @@ export default function AichiInuyamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の犬山を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の犬山を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-slate-700">
@@ -431,9 +417,7 @@ export default function AichiInuyamaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              冬の犬山・木曽川を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の犬山・木曽川を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               国宝天守を仰ぎ見るラグジュアリーホテルから老舗料亭旅館・駅近温泉リゾートまで
             </p>
@@ -467,9 +451,7 @@ export default function AichiInuyamaPage() {
                 <div className="md:w-7/12 p-6 sm:p-8 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       <span className="text-sm sm:text-base font-bold text-rose-800">
                         {hotel.price}
                       </span>
@@ -528,9 +510,7 @@ export default function AichiInuyamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の犬山・木曽川旅行 よくある質問とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の犬山・木曽川旅行 よくある質問とアドバイス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               現地を深く知る専門視点から冬の旅をサポートする5つの疑問に回答
             </p>
@@ -539,10 +519,8 @@ export default function AichiInuyamaPage() {
           <div className="space-y-6">
             {faqList.map((faq, idx) => (
               <div key={idx} className="border-b border-slate-100 pb-5 last:border-b-0 last:pb-0 space-y-2">
-                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5">
-                  <span className="w-6 h-6 rounded-full bg-rose-100 text-rose-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
-                  {faq.q}
-                </h3>
+                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5"><span className="w-6 h-6 rounded-full bg-rose-100 text-rose-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
+                  {faq.q}</h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-8">
                   {faq.a}
                 </p>
@@ -555,9 +533,7 @@ export default function AichiInuyamaPage() {
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-10 border border-slate-200 space-y-6">
           <div className="border-l-4 border-slate-600 pl-4">
             <span className="text-slate-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Guides</span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              東海・中部エリアの冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">東海・中部エリアの冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -82,15 +82,12 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          エメラルドグリーンに輝く御釜、冬を彩る巨大な樹氷。日本屈指の強酸性美肌にごり湯に包まれる山形蔵王の旅へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">エメラルドグリーンに輝く御釜、冬を彩る巨大な樹氷。日本屈指の強酸性美肌にごり湯に包まれる山形蔵王の旅へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           山形県と宮城県にまたがる雄峰・蔵王連峰の山腹に位置し、西暦110年（日本武尊の東征の折）に開湯したと伝わる東北最古級の名湯「山形・蔵王温泉（ざおうおんせん）」。エメラルドグリーンの湖水が神秘的な表情を見せる火口湖「御釜（おかま）」をはじめ、冬に針葉樹アオモリトドマツが氷と雪に覆われて巨大化する世界的な奇観「スノーモンスター（樹氷）」、そして標高の高い高原ならではの高山植物や大パノラマの雲海など、息を呑む大自然が広がります。蔵王温泉の代名詞は、日本屈指の強酸性（pH1.5〜2.0前後）を誇る乳白色の「天然硫黄泉」。「皮膚を強くし、肌を白く滑らかにする美人づくりの湯」として全国に名を轟かせ、湯船を満たす白濁した濃厚なお湯と立ちのぼる硫黄の香りは、まさに本物の温泉地ならではの醍醐味です。宿の木造露天風呂に身を沈めれば、高原の澄んだ空気とともに日頃の疲れが完全に消え去ります。さらに山形の食文化は全国トップクラス。厳しい寒暖差が育んだ極上の黒毛和牛「山形牛」のステーキやすき焼き、山形名物の芋煮鍋、山菜やキノコ、つや姫のご飯など、里山の豊かな実りを盛り込んだ贅沢な会席料理が旅人の舌を魅了します。本特集では、総木造り丸太梁の圧巻の大浴場「八右衛門の湯」と口コミ4.7超を誇る「蔵王国際ホテル」、百松河原に佇む風流な離れ湯「白金の湯」が人気の「蔵王四季のホテル」、そして創業三百年・純和風木造数寄屋造りの風格と自家源泉かけ流しを誇る「深山荘 高見屋」の3宿を厳選。山形県山形市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの蔵王温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">山形蔵王温泉 樹氷＆にごり湯名宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】蔵王温泉　蔵王国際ホテル</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 山形蔵王温泉 樹氷＆にごり湯名宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">山形蔵王温泉 樹氷＆にごり湯名宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            蔵王温泉　蔵王国際ホテル
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">蔵王温泉　蔵王国際ホテル</h2>
           <p className="text-xs md:text-sm text-amber-100">山形県山形市・総木造りの圧巻大浴場「八右衛門の湯」！乳白色100％源泉掛け流し＆口コミ総合4.7点超の最高峰リゾートホテル</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            蔵王温泉　蔵王四季のホテル
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">蔵王温泉　蔵王四季のホテル</h2>
           <p className="text-xs md:text-sm text-amber-100">山形県山形市・白樺と百松河原に佇む風流な離れ湯「白金の湯」！乳白色にごり湯露天風呂＆山形牛ステーキ会席（四季のホテル）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            深山荘　高見屋
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">深山荘　高見屋</h2>
           <p className="text-xs md:text-sm text-amber-100">山形県山形市・創業三百年、蔵王温泉街の最高峰老舗！歴史ある木造数寄屋造り建築＆七つの趣異なる源泉風呂（深山荘 高見屋）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoZaoOnsenOkamaStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

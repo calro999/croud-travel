@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            雪吊りの兼六園と紅殻格子の茶屋街——加賀百万石の美意識と日本海の極上鮮魚を味わう雅な古都ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">雪吊りの兼六園と紅殻格子の茶屋街——加賀百万石の美意識と日本海の極上鮮魚を味わう雅な古都ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             石川県の中央部に位置し、前田家加賀百万石の栄華を今に伝える城下町・金沢。国の特別名勝「兼六園」では春の桜、初夏のかきつばた、秋の紅葉、そして冬の風物詩「雪吊り」と四季を通じて日本庭園の最高峰の景観が広がります。金沢城公園の壮麗な菱櫓・五十間長屋や、石畳に格子戸が連なる「ひがし茶屋街」「主計町茶屋街」、現代アートの発信地「金沢21世紀美術館」など、伝統とモダンが美しく共存する日本有数の文化都市です。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県金沢市（兼六園・ひがし茶屋街）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル日航金沢
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル日航金沢</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   JR金沢駅東口地下直結・地上30階の超高層ランドマーク！金沢の街並みを一望するスカイビューと朝食日本一クラスの美食
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ホテル日航金沢 —— 北陸随一の高層ホテル。地上130mからのパノラマと一流シェフが織りなす極上ダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ホテル日航金沢 —— 北陸随一の高層ホテル。地上130mからのパノラマと一流シェフが織りなす極上ダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> JR金沢駅東口から地下道直結で徒歩わずか3分の圧倒的利便性
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">JR金沢駅東口から地下道直結で徒歩わずか3分の圧倒的利便性</h5>
                     <p className="text-stone-600 leading-relaxed">新幹線改札から雨や雪に濡れずにチェックイン。金沢駅バスターミナルも目の前で、市内観光の拠点として最高峰です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が17階以上の高層階に位置する贅沢なパノラマビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が17階以上の高層階に位置する贅沢なパノラマビュー</h5>
                     <p className="text-stone-600 leading-relaxed">客室の大きな窓から金沢市街や日本海、白山連峰を一望。夜には宝石箱のような夜景が広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 楽天トラベル朝食フェスティバル上位の豪華朝食バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">楽天トラベル朝食フェスティバル上位の豪華朝食バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">名物の車麩フレンチトーストや近江町市場直送の刺身、郷土料理治部煮など、贅を尽くした朝の食体験が評判です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県金沢市（兼六園・ひがし茶屋街）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  金沢白鳥路　ホテル山楽
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">金沢白鳥路　ホテル山楽</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   兼六園・金沢城公園へ徒歩約3分！大正ロマンのステンドグラスと金沢市内屈指の美肌天然温泉
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  金沢白鳥路 ホテル山楽 —— 金沢城の麓に佇むクラシックホテル。自家源泉の琥珀色天然温泉と加賀会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">金沢白鳥路 ホテル山楽 —— 金沢城の麓に佇むクラシックホテル。自家源泉の琥珀色天然温泉と加賀会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 金沢城公園に隣接し兼六園や21世紀美術館へも徒歩すぐの好立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">金沢城公園に隣接し兼六園や21世紀美術館へも徒歩すぐの好立地</h5>
                     <p className="text-stone-600 leading-relaxed">早朝の無料開園時の兼六園散歩に最適。緑豊かな白鳥路の遊歩道に面し、静寂な大人の時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から湧出する炭酸水素塩泉の自家源泉「美肌の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から湧出する炭酸水素塩泉の自家源泉「美肌の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">金沢市街地では希少な本格天然温泉。とろりとした琥珀色のお湯が旅の疲れを優しく解きほぐします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大正ロマン薫るステンドグラスのロビーと伝統の加賀会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大正ロマン薫るステンドグラスのロビーと伝統の加賀会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">九谷焼や金箔をあしらった気品ある空間。のどぐろや能登牛、加賀野菜を贅沢に使った料理を堪能できます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県金沢市（兼六園・ひがし茶屋街）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   近江町市場まで徒歩1分！四季を映す中庭日本庭園の滝と贅を尽くした全室クラシックスイート仕様
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  THE HOTEL SANRAKU KANAZAWA —— 伝統とモダンが美しく融合。中庭の滝を眺めるクラブラウンジと美食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">THE HOTEL SANRAKU KANAZAWA —— 伝統とモダンが美しく融合。中庭の滝を眺めるクラブラウンジと美食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ホテル中央に広がる約120坪の中庭日本庭園と流れる滝の借景
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ホテル中央に広がる約120坪の中庭日本庭園と流れる滝の借景</h5>
                     <p className="text-stone-600 leading-relaxed">客室やロビーから眺める四季折々の庭園風景。夜のライトアップされた水と緑のコントラストが幻想的です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 近江町市場まで徒歩わずか1分・ひがし茶屋街も徒歩圏内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">近江町市場まで徒歩わずか1分・ひがし茶屋街も徒歩圏内</h5>
                     <p className="text-stone-600 leading-relaxed">市場での海鮮丼の朝食や食べ歩き、夜の割烹巡りにも抜群の立地。金沢の食文化を間近に体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 専任スタッフがもてなす優雅なプレミアクラブラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">専任スタッフがもてなす優雅なプレミアクラブラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">クラブフロア宿泊者限定のラウンジ。金沢銘菓や地酒、カクテルタイムのオードブルを心ゆくまで楽しめます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 兼六園・金沢城公園＆ひがし茶屋街・近江町市場観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 兼六園・金沢城公園＆ひがし茶屋街・近江町市場観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                特別名勝「兼六園」の六勝（宏大・幽邃・人力・蒼古・水泉・眺望）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                特別名勝「兼六園」の六勝（宏大・幽邃・人力・蒼古・水泉・眺望）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 徽軫灯籠（ことじとうろう）や霞ヶ池。冬の雪吊りや初夏のかきつばた、秋の紅葉など、どの季節に訪れても息をのむ名園の美に出会えます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                ひがし茶屋街の紅殻格子（ベンガラ）と金箔ソフトクリーム
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                ひがし茶屋街の紅殻格子（ベンガラ）と金箔ソフトクリーム</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 江戸時代の茶屋建築が美しく残る重要伝統的建造物群保存地区。金箔貼り体験や、お茶屋美術館の見学、町家カフェ巡りが人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                「金沢市民の台所」近江町市場での日本海海鮮グルメ食べ歩き
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                「金沢市民の台所」近江町市場での日本海海鮮グルメ食べ歩き</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 約170店舗がひしめく活気あふれる市場。新鮮なウニや牡蠣の立ち食い、豪華海鮮丼、のどぐろの塩焼きを心ゆくまで堪能できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              石川県金沢市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">石川県金沢市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル日航金沢を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル日航金沢を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル日航金沢の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル日航金沢の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

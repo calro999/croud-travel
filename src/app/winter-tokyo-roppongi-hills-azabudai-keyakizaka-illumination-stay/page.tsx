@@ -266,10 +266,8 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-purple-500 shrink-0" />
-              冬の六本木・麻布台・東京タワーが放つ圧倒的な輝き
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-purple-500 shrink-0" />
+              冬の六本木・麻布台・東京タワーが放つ圧倒的な輝き</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -322,9 +320,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Verified Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の六本木・麻布台・東京タワーを望む厳選ラグジュアリーホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の六本木・麻布台・東京タワーを望む厳選ラグジュアリーホテル5選</h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
               楽天APIからリアルタイム取得した最新宿泊料金・クチコミ評価点に基づき、けやき坂直結・東京タワービュー・天空ラウンジ・絶品ダイニングを兼ね備えた名宿を厳選紹介。
             </p>
@@ -367,9 +363,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">{hotel.name}</h3>
 
                       <div className="flex items-start gap-2 text-xs sm:text-sm text-slate-600">
                         <MapPin className="w-4 h-4 text-purple-500 shrink-0 mt-0.5" />
@@ -427,10 +421,8 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tokyo Tower & Fine Dining</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Landmark className="w-6 h-6 text-purple-500 shrink-0" />
-              冬の澄んだ夜空に輝く東京タワーと極上ファインダイニング
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Landmark className="w-6 h-6 text-purple-500 shrink-0" />
+              冬の澄んだ夜空に輝く東京タワーと極上ファインダイニング</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -450,10 +442,8 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Style</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-purple-500 shrink-0" />
-              11月・12月・1月の気温と東京都心のビル風対策＆スマート服装術
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-purple-500 shrink-0" />
+              11月・12月・1月の気温と東京都心のビル風対策＆スマート服装術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -493,10 +483,8 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-purple-500 shrink-0" />
-              1泊2日 六本木イルミネーション＆麻布台ヒルズ満喫ラグジュアリーコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-purple-500 shrink-0" />
+              1泊2日 六本木イルミネーション＆麻布台ヒルズ満喫ラグジュアリーコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -557,18 +545,14 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の六本木・麻布台・東京タワー旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の六本木・麻布台・東京タワー旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-purple-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -581,9 +565,7 @@ export default function TokyoRoppongiAzabudaiWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-purple-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！冬の首都圏＆人気イルミネーション名所特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！冬の首都圏＆人気イルミネーション名所特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

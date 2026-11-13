@@ -262,10 +262,8 @@ export default function KagoshimaMyokenPage() {
             妙見温泉の初冬の魅力
           </div>
           
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">
-            地中から轟音とともに湧き出す奇跡の自噴炭酸泉。<br />
-            空港からわずか15分で出逢える天降川渓流の静謐な隠れ里
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">地中から轟音とともに湧き出す奇跡の自噴炭酸泉。<br />
+            空港からわずか15分で出逢える天降川渓流の静謐な隠れ里</h2>
 
           <div className="text-stone-600 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
@@ -314,9 +312,7 @@ export default function KagoshimaMyokenPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の鹿児島・妙見温泉で泊まるべき名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の鹿児島・妙見温泉で泊まるべき名宿5選</h2>
             <p className="text-stone-500 text-sm mt-1">
               楽天トラベルで最高クラスの評価を誇る、天降川の自噴温泉と薩摩の美味を極めた宿
             </p>
@@ -357,9 +353,7 @@ export default function KagoshimaMyokenPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                         {hotel.story}
@@ -430,35 +424,27 @@ export default function KagoshimaMyokenPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の薩摩美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の鹿児島・妙見で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の鹿児島・妙見で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰銘柄「かごしま黒豚」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰銘柄「かごしま黒豚」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 サツマイモを飼料に育つ純粋バークシャー種「かごしま黒豚」。きめ細やかな肉質と旨味成分のアミノ酸が凝縮された脂身は甘く軽やかで、特製鰹出汁にくぐらせるしゃぶしゃぶやすき焼きは、他では味わえない絶品です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                和牛日本一「鹿児島黒牛」ステーキ
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                和牛日本一「鹿児島黒牛」ステーキ</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国和牛能力共進会で日本一の称号を獲得した「鹿児島黒牛」。美しい霜降りと芳醇な香りが口の中でとろけ、桜島溶岩プレートや炭火で香ばしく焼き上げるステーキは、旅の夜を華やかに彩る贅沢なメインディッシュです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                天降川の鮎ときびなご・本格芋焼酎
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                天降川の鮎ときびなご・本格芋焼酎</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 天降川の清流で育った鮎の塩焼きや、錦江湾で獲れる新鮮なきびなごのお刺身。さらに鹿児島が誇る老舗蔵元の本格芋焼酎はお湯割りにすることで香りが一段と立ち、初冬の温泉旅情を最高潮に高めてくれます。
               </p>
@@ -472,17 +458,13 @@ export default function KagoshimaMyokenPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鹿児島・霧島妙見温泉 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鹿児島・霧島妙見温泉 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：鹿児島空港から15分の隠れ里へ・天降川の自噴露天とかごしま黒豚しゃぶ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                空港到着からあっという間にチェックイン、清流のせせらぎと直下自噴炭酸泉の湯浴み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">空港到着からあっという間にチェックイン、清流のせせらぎと直下自噴炭酸泉の湯浴み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 各地から飛行機で鹿児島空港に到着後、レンタカーまたは路線バス・タクシーでわずか約15分。深い緑と清らかな水が流れる天降川渓谷の妙見温泉へ早くも到着します。まずは明治レトロな木造駅舎「JR肥薩線 嘉例川駅」に立ち寄り、ノスタルジックな記念撮影。午後は宿に早めのチェックインを果たし、川面と一体化する渓流露天風呂で、湯底から直接自噴する新鮮な炭酸水素塩泉に浸かります。微細な炭酸の泡が肌を包み、日頃の疲れが溶け出していく感覚を満喫。夕餉には、黄金出汁でくぐらせるとろける「かごしま黒豚しゃぶしゃぶ」と、香ばしい本格芋焼酎のお湯割りに酔いしれます。
               </p>
@@ -492,9 +474,7 @@ export default function KagoshimaMyokenPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：鳥の歌声と朝の清流露天風呂・国宝霧島神宮参拝と黒酢本舗
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                澄み渡る朝霧の中での目覚まし湯から、荘厳な国宝霧島神宮と福山黒酢レストランへ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">澄み渡る朝霧の中での目覚まし湯から、荘厳な国宝霧島神宮と福山黒酢レストランへ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 南国の爽やかな冬の朝、天降川のせせらぎと鳥の声をBGMに朝露天風呂へ。重曹成分が肌を清浄にしてくれるため、朝からお肌が驚くほどつるつるに整います。地元の新鮮卵やさつま揚げが並ぶ朝食を味わい、宿を出発。車で約25分の国宝「霧島神宮」へ向かい、初冬の澄んだ杉木立に囲まれた朱塗りの荘厳な本殿で心静かに参拝。その後、錦江湾と桜島を望む霧島市福山町の黒酢壺畑レストランへ移動し、壺造り黒酢を使ったヘルシーなランチと特産品ショッピングを堪能して、余裕をもって鹿児島空港へ戻る贅沢な休日プランです。
               </p>
@@ -509,16 +489,12 @@ export default function KagoshimaMyokenPage() {
             初冬の妙見温泉 旅の心得とアクセスガイド
           </div>
 
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            南国の冬と極上温泉をゆったり楽しむための知恵
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">南国の冬と極上温泉をゆったり楽しむための知恵</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                鹿児島空港から車で15分の至近アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                鹿児島空港から車で15分の至近アクセス</h3>
               <p>
                 東京（羽田・成田）や大阪（伊丹・関空）から飛行機で鹿児島空港へ。空港から県道470号線を経由して車でわずか約15分で妙見温泉へ到着します。
               </p>
@@ -528,10 +504,8 @@ export default function KagoshimaMyokenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-amber-700" />
-                嘉例川駅レトロ散策と霧島神宮ドライブ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-amber-700" />
+                嘉例川駅レトロ散策と霧島神宮ドライブ</h3>
               <p>
                 妙見温泉から車で約10分のJR肥薩線「嘉例川駅」は、明治36年開業の木造駅舎が登録有形文化財に指定された名所。
               </p>
@@ -542,10 +516,8 @@ export default function KagoshimaMyokenPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              炭酸水素塩泉の正しい入浴法と美肌キープ術
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              炭酸水素塩泉の正しい入浴法と美肌キープ術</h3>
             <p>
               妙見温泉の炭酸水素塩泉は肌の皮脂や角質を優しく落とす作用があるため、入浴するだけで肌がすべすべになります。
             </p>
@@ -561,16 +533,12 @@ export default function KagoshimaMyokenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鹿児島・妙見温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鹿児島・妙見温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -582,10 +550,8 @@ export default function KagoshimaMyokenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい南九州・鹿児島の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい南九州・鹿児島の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               南国の冬と名湯、極上の黒豚・黒牛会席を満喫する厳選旅ガイド
             </p>
@@ -597,9 +563,7 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                霧島神宮の初冬参拝と坂本龍馬ゆかりの名湯
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">霧島神宮の初冬参拝と坂本龍馬ゆかりの名湯</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 立ち込める硫黄の湯けむりと国宝霧島神宮、かごしま黒豚しゃぶしゃぶを味わう歴史ロマン旅。
               </p>
@@ -610,9 +574,7 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鹿児島・指宿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                指宿名物砂むし温泉と冬の錦江湾絶景
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">指宿名物砂むし温泉と冬の錦江湾絶景</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 波打ち際の天然砂むし温泉で全身デトックス、黒豚料理と温かな南国ステイを満喫。
               </p>
@@ -623,9 +585,7 @@ export default function KagoshimaMyokenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・高千穂峡</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                神話の里・高千穂の夜神楽と高千穂牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">神話の里・高千穂の夜神楽と高千穂牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の夜に奉納される重要無形民俗文化財の夜神楽と高千穂峡の荘厳な渓谷美を巡る旅。
               </p>

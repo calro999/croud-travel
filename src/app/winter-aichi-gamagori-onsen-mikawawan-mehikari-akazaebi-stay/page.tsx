@@ -248,12 +248,10 @@ export default function WinterAichiGamagoriPage() {
             11月・12月 温暖な三河湾パノラマ＆深海魚グルメ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月愛知・三河湾蒲郡温泉郷】竹島夕日パノラマと冬の深海魚
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月愛知・三河湾蒲郡温泉郷】竹島夕日パノラマと冬の深海魚
             <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
               名物メヒカリ＆幻のアカザエビ・極上三河牛と冬イルミを愉しむ海辺名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、愛知県・三河湾の風光明媚な海岸線に広がる蒲郡温泉郷（蒲郡・三谷・西浦温泉）は、冬の澄み渡る青空と穏やかな海、国指定天然記念物「竹島」を染める真紅のサンセットが最も美しい季節を迎えます。全国屈指の深海魚水揚げを誇る蒲郡漁港で冬に最盛期を迎える名物「メヒカリ（目光）」のサクサク唐揚げや、水深200m超の深海から水揚げされる幻の美味「アカザエビ（深海手長エビ）」の刺身、とろける霜降りのブランド黒毛和牛「三河牛」、冬のラグーナテンボス・イルミネーション。三河湾を一望する絶景オーシャンビュー露天風呂とともに、温暖な冬旅を約束する厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterAichiGamagoriPage() {
             <Landmark className="w-4 h-4" />
             三河湾蒲郡温泉郷 初冬の温暖リゾート
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            きらめく三河湾のさざ波と茜色に染まる竹島。深海の美味と美白温泉に抱かれる冬の贅沢
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">きらめく三河湾のさざ波と茜色に染まる竹島。深海の美味と美白温泉に抱かれる冬の贅沢</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               愛知県南東部、渥美半島と知多半島に抱かれた穏やかな内海・三河湾の奥に位置する「蒲郡（がまごおり）」。古くから「海の見える温泉リゾート」として親しまれ、蒲郡・三谷（みや）・西浦・形原という個性豊かな4つの温泉街が海岸線に連なっています。
@@ -308,9 +304,7 @@ export default function WinterAichiGamagoriPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の蒲郡温泉郷を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の蒲郡温泉郷を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               夕日パノラマと深海魚グルメ、美白の温泉で心洗われる海辺の休日
             </p>
@@ -321,9 +315,7 @@ export default function WinterAichiGamagoriPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                竹島の夕日絶景＆冬イルミ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">竹島の夕日絶景＆冬イルミ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 国の天然記念物「竹島」を染める真紅のサンセット。ラグーナテンボスで輝く冬の壮大なイルミネーションと光のショー。
               </p>
@@ -333,9 +325,7 @@ export default function WinterAichiGamagoriPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                メヒカリ唐揚げ＆幻のアカザエビ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">メヒカリ唐揚げ＆幻のアカザエビ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 蒲郡漁港水揚げの深海魚。外カリ中ふわのメヒカリ唐揚げ、伊勢海老以上の甘みを誇る幻のアカザエビ刺身と三河牛会席。
               </p>
@@ -345,9 +335,7 @@ export default function WinterAichiGamagoriPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                三河湾一望の美肌オーシャン露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">三河湾一望の美肌オーシャン露天</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 弱アルカリ性の美白温泉や保温性に優れた塩化物泉。海風を感じながら水平線を眺める、開放感抜群の海辺露天風呂。
               </p>
@@ -361,9 +349,7 @@ export default function WinterAichiGamagoriPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-sky-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              愛知・三河湾蒲郡温泉郷の海辺名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">愛知・三河湾蒲郡温泉郷の海辺名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,12 +397,10 @@ export default function WinterAichiGamagoriPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-sky-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-sky-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 inline" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -474,9 +458,7 @@ export default function WinterAichiGamagoriPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-sky-100">
             <Compass className="w-6 h-6 text-sky-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の三河湾蒲郡温泉郷を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の三河湾蒲郡温泉郷を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -506,33 +488,25 @@ export default function WinterAichiGamagoriPage() {
             <Utensils className="w-4 h-4" />
             三河湾と深海の冬の恵み
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold leading-snug">
-            サクサクの香ばしさととろける甘み。初冬の蒲郡で味わい尽くす名物グルメ
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold leading-snug">サクサクの香ばしさととろける甘み。初冬の蒲郡で味わい尽くす名物グルメ</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                蒲郡名物メヒカリのサクサク唐揚げ
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                蒲郡名物メヒカリのサクサク唐揚げ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 深海200〜600mから揚がるメヒカリ。冬に良質な脂を蓄え、丸ごと粉をまぶして高温で揚げると、骨まで柔らかく頭から尾までサクッと香ばしく、白身の繊細な甘みがジュワッと広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-rose-300" />
-                幻の深海手長エビ「アカザエビ」
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Waves className="w-4 h-4 text-rose-300" />
+                幻の深海手長エビ「アカザエビ」</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 水揚げ量が極めて少なく珍重される幻のアカザエビ。鮮やかな朱色の長いハサミが特徴で、刺身でいただけば伊勢海老を凌ぐ濃厚な甘みとねっとりとした舌触りが口福をもたらします。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-teal-300" />
-                とろける霜降り「三河牛」ステーキ
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Utensils className="w-4 h-4 text-teal-300" />
+                とろける霜降り「三河牛」ステーキ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 愛知県の清らかな環境で丹精込めて肥育された黒毛和牛「三河牛」。きめ細かいサシと赤身の深い旨味が見事に調和し、鉄板焼きや陶板焼きで香ばしく焼き上げると至福の肉汁が溢れます。
               </p>
@@ -546,15 +520,11 @@ export default function WinterAichiGamagoriPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の三河湾蒲郡温泉郷 交通アクセス＆観光のポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の三河湾蒲郡温泉郷 交通アクセス＆観光のポイント</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-sky-600" />
-                電車・車でのスムーズなアクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-sky-600" />
+                電車・車でのスムーズなアクセス</h3>
               <p>
                 電車の場合は、名古屋駅からJR東海道本線新快速で蒲郡駅まで約40分。東京方面からは新幹線豊橋駅乗り換えで蒲郡駅まで約10分と非常に快適です。各主要宿では無料送迎バスが運行されています。
               </p>
@@ -564,10 +534,8 @@ export default function WinterAichiGamagoriPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                温暖な気候と海辺の防寒ポイント
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                温暖な気候と海辺の防寒ポイント</h3>
               <p>
                 冬でも雪の心配がほとんどない温暖な地域ですが、海沿いや竹島橋の上では冬の海風が冷たく吹き抜けます。風を通さない防風アウターやマフラー、手袋をご用意ください。
               </p>
@@ -584,16 +552,12 @@ export default function WinterAichiGamagoriPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の愛知・蒲郡温泉郷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の愛知・蒲郡温泉郷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-sky-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-sky-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -605,10 +569,8 @@ export default function WinterAichiGamagoriPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-blue-950 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-sky-300" />
-              あわせて読みたい東海・東海の冬温泉＆絶景グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-sky-300" />
+              あわせて読みたい東海・東海の冬温泉＆絶景グルメ特集</h3>
             <p className="text-xs sm:text-sm text-sky-200">
               冬の味覚やイルミネーション、名湯を堪能する東海各地の厳選旅ガイド
             </p>
@@ -620,9 +582,7 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鳥羽温泉郷の伊勢海老＆的矢牡蠣会席と海景露天宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鳥羽温泉郷の伊勢海老＆的矢牡蠣会席と海景露天宿</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 伊勢志摩の冬の二大味覚とオーシャンビュー露天風呂を満喫。
               </p>
@@ -633,9 +593,7 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖舘山寺</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                舘山寺温泉の浜名湖天然とらふぐ＆極上鰻会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">舘山寺温泉の浜名湖天然とらふぐ＆極上鰻会席宿</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 冬の遠州灘天然とらふぐと浜名湖レイクビュー温泉ステイ。
               </p>
@@ -646,9 +604,7 @@ export default function WinterAichiGamagoriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・なばなの里</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                なばなの里イルミネーション絶景と長島温泉リゾート
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">なばなの里イルミネーション絶景と長島温泉リゾート</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 日本最大級の光の祭典と天然温泉を満喫する冬の休日。
               </p>

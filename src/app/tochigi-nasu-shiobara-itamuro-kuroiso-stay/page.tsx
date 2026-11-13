@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             活火山の息吹と那須七湯の名峰
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 那須岳（茶臼岳）ロープウェイ・殺生石＆那須高原リゾート露天風呂
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 那須岳（茶臼岳）ロープウェイ・殺生石＆那須高原リゾート露天風呂</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             標高1,915m、今なお白い噴煙を上げ続ける那須連山の主峰「茶臼岳」。山麓から9合目までわずか3分40秒で結ぶ「那須ロープウェイ」を利用すれば、手軽に雲の上の大パノラマと荒々しい溶岩の惑星のような絶景を堪能できます。山麓には九尾の狐が巨石に化身したと伝わる史跡「殺生石」や、千三百年以上の歴史を誇る「那須温泉鹿の湯」の乳白色の濁り湯が湧き出します。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須湯本温泉　鹿の湯源泉かけ流しの宿　旅館　清水屋＜栃木県・那須郡＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         老舗旅館■「鹿の湯」源泉かけ流し白濁温泉　24時間OK■お食事処にて栃木牛と季節の懐石膳
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        那須温泉　大丸温泉旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須温泉　大丸温泉旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         山あいの渓谷にたたずむ野趣溢れる露天風呂が名物！奥那須温泉郷の自然と癒しを感じられる天然温泉宿。
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        那須温泉　中藤屋旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">那須温泉　中藤屋旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         １３００年の昔より湧き出づる名湯「鹿の湯」より引湯の源泉かけ流しの宿。家庭的なサービスでおもてなし。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        新那須高原温泉　こころのおやど　自在荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新那須高原温泉　こころのおやど　自在荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         楽天トラベルブロンズアワード2022を受賞！那須の源泉ととちぎ和牛の創作会席を愉しむ小さな湯宿です
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             杖いらずの下野の薬湯・清流湯治場
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 板室温泉「杖いらずの立ち湯」＆那珂川源流カヌー・静寂の隠れ家湯治宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 板室温泉「杖いらずの立ち湯」＆那珂川源流カヌー・静寂の隠れ家湯治宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             平安時代、後冷泉天皇の時代に発見されたと伝わる「板室温泉」。「下野の薬湯」として名高く、温泉に浸かると足腰の痛みが治り杖を忘れて帰ることから「杖いらずの湯」と称えられてきました。深さ1m以上の湯船に天井から下がった綱につかまって立ったまま浸かる伝統の「立ち湯」は血行促進とリラックス効果抜群。近年は那珂川源流でのSUPやカヌー、渓流釣りも人気を集めています。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        板室温泉大黒屋　保養とアートの宿
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室温泉大黒屋　保養とアートの宿</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         栃木県那須・板室の大自然の中に静かに佇む、隠れ家のような旅館「保養とアートの宿」板室温泉大黒屋
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        板室温泉　奥那須・大正村　幸乃湯温泉
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室温泉　奥那須・大正村　幸乃湯温泉</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         源泉掛け流しの湯を畳敷きひのき造りの大浴場で味わう一軒宿！当館自慢の野天風呂＆豪快4m滝打たせ湯
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        板室別邸リトリート　SPA和薬草
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">板室別邸リトリート　SPA和薬草</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。
                       </p>
@@ -492,9 +472,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             カフェの聖地と日本最高峰のブランド牛
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 黒磯駅前「SHOZO STREET」カフェ散歩＆極上「那須黒毛和牛」美食宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 黒磯駅前「SHOZO STREET」カフェ散歩＆極上「那須黒毛和牛」美食宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             JR黒磯駅前の通りには、日本のカフェブームの先駆けとなった「1988 CAFE SHOZO」をはじめ、古道具店、ベーカリー、洋服店が軒を連ねる洗練されたカルチャーストリートが形成されています。散策の後は、那須の大自然と澄んだ空気の中で丹精込めて育てられた最高級「那須黒毛和牛」のステーキやローストビーフに舌鼓。高原野菜や那須高原のチーズとともに贅沢な美食ナイトを過ごせます。
           </p>
@@ -519,8 +497,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ドゥカーレリゾートホテル那須　甘露の湯
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ドゥカーレリゾートホテル那須　甘露の湯</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         大自然に囲まれ、温泉とお食事を楽しむ、温泉リゾート・ドームテントグランピングホテル！
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        フォレストリゾート　ホテルグリーンパール那須
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フォレストリゾート　ホテルグリーンパール那須</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">～のご予約はこちら！　自慢の源泉掛け流しのにごり湯が自慢の宿！
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -630,9 +603,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        フォレストグランピングリゾート稜「ＩＴＵ」
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フォレストグランピングリゾート稜「ＩＴＵ」</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！
                       </p>
@@ -686,9 +657,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -721,9 +690,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と那須湯本温泉 鹿の湯源泉かけ流しの宿 旅館 清水屋＜栃木県・那須郡＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

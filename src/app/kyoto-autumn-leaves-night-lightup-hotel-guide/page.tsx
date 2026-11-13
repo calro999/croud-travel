@@ -183,9 +183,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-rose-500 pl-4 space-y-1">
             <span className="text-rose-400 text-xs font-bold uppercase tracking-wider">Top 7 Illuminations</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              息をのむ美しさ！京都の夜間特別拝観おすすめ7選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">息をのむ美しさ！京都の夜間特別拝観おすすめ7選</h2>
             <p className="text-xs sm:text-sm text-stone-400">
               各寺院のライトアップ期間・拝観料・混雑回避のポイントを分かりやすく整理しました。
             </p>
@@ -205,9 +203,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                   <span className="text-[11px] font-semibold text-rose-400 bg-rose-950/70 border border-rose-800/40 px-2.5 py-0.5 rounded">
                     {spot.area}
                   </span>
-                  <h3 className="text-lg sm:text-xl font-bold font-serif text-white mt-2 group-hover:text-rose-200 transition">
-                    {spot.name}
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold font-serif text-white mt-2 group-hover:text-rose-200 transition">{spot.name}</h3>
                 </div>
 
                 <p className="text-xs sm:text-sm text-stone-300 leading-relaxed font-medium">
@@ -241,9 +237,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
         <section className="bg-gradient-to-br from-rose-950/40 via-stone-900 to-stone-900 border border-rose-900/30 rounded-3xl p-6 sm:p-8 space-y-6">
           <div className="space-y-2">
             <span className="text-rose-400 text-xs font-bold uppercase tracking-wider">Night Walking Guide</span>
-            <h2 className="text-xl sm:text-2xl font-black font-serif text-white">
-              京都紅葉ライトアップを120%満喫する「3つの夜回りハック」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black font-serif text-white">京都紅葉ライトアップを120%満喫する「3つの夜回りハック」</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 text-xs sm:text-sm">
@@ -275,9 +269,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-rose-500 pl-4 space-y-1">
             <span className="text-rose-400 text-xs font-bold uppercase tracking-wider">Selected Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              ライトアップ帰りに直行できるおすすめホテル・お宿
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">ライトアップ帰りに直行できるおすすめホテル・お宿</h2>
             <p className="text-xs sm:text-sm text-stone-400">
               地下鉄烏丸線・京都駅近郊で夜間拝観のアクセスに優れた拠点を厳選。早めの予約が必須です。
             </p>
@@ -325,9 +317,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
                       )}
                     </div>
 
-                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-rose-300 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-rose-300 transition">{hotel.hotelName}</h3>
 
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-stone-400 line-clamp-3 leading-relaxed">
@@ -364,9 +354,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-rose-900/40 pb-5">
             <div>
               <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Rakuten Travel Campaign</span>
-              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">
-                紅葉ライトアップバスツアー＆京都限定クーポン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">紅葉ライトアップバスツアー＆京都限定クーポン</h2>
             </div>
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fseason%2Fautumn%2F"
@@ -386,9 +374,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
               className="bg-stone-950/60 hover:bg-stone-950/90 border border-rose-900/30 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                夜間特別拝観バスツアー（直行貸切）
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">夜間特別拝観バスツアー（直行貸切）</h3>
               <p className="text-stone-400 leading-relaxed text-xs">
                 市バスの混雑や乗換の心配不要！主要駅発着でライトアップ寺院を効率よく巡る添乗員同行バスツアー。
               </p>
@@ -401,9 +387,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
               className="bg-stone-950/60 hover:bg-stone-950/90 border border-rose-900/30 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🎟️</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                楽天トラベル 高級宿・温泉宿割引クーポン
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">楽天トラベル 高級宿・温泉宿割引クーポン</h3>
               <p className="text-stone-400 leading-relaxed text-xs">
                 毎月5と0のつく日は最大20%OFF！京都の老舗旅館や町家ホテルで使える最新クーポンを事前獲得。
               </p>
@@ -420,9 +404,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
               className="p-4 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-rose-500/40 transition block group"
             >
               <span className="text-rose-400 text-xs font-bold">予算＆滞在日数ガイド</span>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">
-                【京都旅行は何泊がベスト？】1泊2日・2泊3日の費用相場とモデルコース完全比較 →
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">【京都旅行は何泊がベスト？】1泊2日・2泊3日の費用相場とモデルコース完全比較 →</h3>
             </Link>
 
             <Link
@@ -430,9 +412,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
               className="p-4 rounded-xl bg-stone-900/60 border border-stone-800 hover:border-rose-500/40 transition block group"
             >
               <span className="text-rose-400 text-xs font-bold">雨天・悪天候対策</span>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">
-                【雨の日の京都観光】しっとり濡れる庭園・美術館・京町家カフェ屋内スポット厳選 →
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">【雨の日の京都観光】しっとり濡れる庭園・美術館・京町家カフェ屋内スポット厳選 →</h3>
             </Link>
           </div>
         </nav>
@@ -442,9 +422,7 @@ export default function KyotoAutumnLeavesNightLightupPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と夜間特別拝観・永観堂・東寺・清水寺＆混雑回避の夜回り宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

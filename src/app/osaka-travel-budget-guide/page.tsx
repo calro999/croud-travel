@@ -88,21 +88,17 @@ export default function OsakaTravelBudgetPage() {
 
       {/* Pattern 1: 1泊2日 USJなし */}
       <section className="bg-amber-50/50 border border-amber-200 rounded-3xl p-6 md:p-10 shadow-sm">
-        <h2 className="text-2xl font-black font-journal-serif text-amber-900 border-b-2 border-amber-200 pb-3 mb-6">
-          パターン①：USJなし！食い倒れ特化の1泊2日予算
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-amber-900 border-b-2 border-amber-200 pb-3 mb-6">パターン①：USJなし！食い倒れ特化の1泊2日予算</h2>
         <p className="text-stone-700 mb-6">
           道頓堀、新世界、天王寺エリアを巡り、ひたすら美味しいものを食べまくる1泊2日。USJのチケット代がかからない分、食費やホテルに少し予算を回せます。
         </p>
         
         <div className="bg-white rounded-2xl p-5 md:p-8 shadow-sm border border-stone-100 space-y-6">
-          <h3 className="text-xl font-bold text-stone-800 text-center bg-amber-100 py-2 rounded-xl">
-            1人あたりの総額目安：約25,000円〜（交通費別途）
-          </h3>
+          <h3 className="text-xl font-bold text-stone-800 text-center bg-amber-100 py-2 rounded-xl">1人あたりの総額目安：約25,000円〜（交通費別途）</h3>
           
           <div className="grid md:grid-cols-2 gap-6">
             <div className="space-y-3">
-              <h4 className="font-bold text-amber-800 border-b border-amber-200 pb-1">🏨 宿泊費の目安</h4>
+              <h4 className="font-bold text-amber-800 border-b border-amber-200 pb-1">宿泊費の目安</h4>
               <ul className="text-sm space-y-2 text-stone-600">
                 <li>・なんば周辺カプセル/ホステル：<span className="font-bold text-stone-800">2,800円〜</span></li>
                 <li>・梅田周辺ビジネスホテル：<span className="font-bold text-stone-800">6,000円〜</span></li>
@@ -110,7 +106,7 @@ export default function OsakaTravelBudgetPage() {
               </ul>
             </div>
             <div className="space-y-3">
-              <h4 className="font-bold text-amber-800 border-b border-amber-200 pb-1">🐙 食費のリアル内訳</h4>
+              <h4 className="font-bold text-amber-800 border-b border-amber-200 pb-1">食費のリアル内訳</h4>
               <ul className="text-sm space-y-2 text-stone-600">
                 <li>・たこ焼き（8個）：<span className="font-bold text-stone-800">約500円</span></li>
                 <li>・お好み焼き：<span className="font-bold text-stone-800">約1,100円</span></li>
@@ -126,21 +122,17 @@ export default function OsakaTravelBudgetPage() {
 
       {/* Pattern 2: 2泊3日 USJ込み */}
       <section className="bg-teal-50/50 border border-teal-200 rounded-3xl p-6 md:p-10 shadow-sm">
-        <h2 className="text-2xl font-black font-journal-serif text-teal-900 border-b-2 border-teal-200 pb-3 mb-6">
-          パターン②：USJを遊び尽くす！王道2泊3日予算
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-teal-900 border-b-2 border-teal-200 pb-3 mb-6">パターン②：USJを遊び尽くす！王道2泊3日予算</h2>
         <p className="text-stone-700 mb-6">
           丸1日をユニバーサル・スタジオ・ジャパンに捧げ、もう1日を大阪観光（道頓堀など）に充てる王道プラン。USJのチケット代やエクスプレスパスが予算の大きなウェイトを占めます。
         </p>
         
         <div className="bg-white rounded-2xl p-5 md:p-8 shadow-sm border border-stone-100 space-y-6">
-          <h3 className="text-xl font-bold text-stone-800 text-center bg-teal-100 py-2 rounded-xl">
-            1人あたりの総額目安：約60,000円〜（交通費別途）
-          </h3>
+          <h3 className="text-xl font-bold text-stone-800 text-center bg-teal-100 py-2 rounded-xl">1人あたりの総額目安：約60,000円〜（交通費別途）</h3>
           
           <div className="grid md:grid-cols-2 gap-6">
             <div className="space-y-3">
-              <h4 className="font-bold text-teal-800 border-b border-teal-200 pb-1">🎢 USJ関連費用</h4>
+              <h4 className="font-bold text-teal-800 border-b border-teal-200 pb-1">USJ関連費用</h4>
               <ul className="text-sm space-y-2 text-stone-600">
                 <li>・1デイ・スタジオ・パス：<span className="font-bold text-stone-800">8,600〜9,800円</span>（日によって変動）</li>
                 <li>・エクスプレス・パス4：<span className="font-bold text-stone-800">7,800〜15,800円</span>（※課金推奨）</li>
@@ -148,7 +140,7 @@ export default function OsakaTravelBudgetPage() {
               </ul>
             </div>
             <div className="space-y-3">
-              <h4 className="font-bold text-teal-800 border-b border-teal-200 pb-1">🏨 宿泊費の目安（2泊分）</h4>
+              <h4 className="font-bold text-teal-800 border-b border-teal-200 pb-1">宿泊費の目安（2泊分）</h4>
               <ul className="text-sm space-y-2 text-stone-600">
                 <li>・USJオフィシャルホテル：<span className="font-bold text-stone-800">18,000円/泊〜</span></li>
                 <li>・大阪駅周辺のビジネスホテル：<span className="font-bold text-stone-800">7,000円/泊〜</span></li>
@@ -161,9 +153,7 @@ export default function OsakaTravelBudgetPage() {
 
       {/* Souvenirs */}
       <section className="bg-white border border-stone-200 rounded-3xl p-6 md:p-10 shadow-sm">
-        <h2 className="text-2xl font-black font-journal-serif text-stone-800 mb-6">
-          🛍 忘れちゃいけない！定番お土産の予算
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-stone-800 mb-6">忘れちゃいけない！定番お土産の予算</h2>
         <div className="flex flex-wrap gap-4 text-sm font-medium">
           <div className="bg-stone-50 border border-stone-200 px-4 py-3 rounded-xl flex-1 min-w-[250px]">
             <span className="block text-lg mb-1">🍰 りくろーおじさんの店</span>
@@ -185,9 +175,7 @@ export default function OsakaTravelBudgetPage() {
         <section className="pt-8">
           <div className="flex items-center gap-3 mb-6">
             <span className="text-3xl">🏨</span>
-            <h2 className="text-2xl font-black font-journal-serif text-emerald-950">
-              大阪旅行におすすめのホテル
-            </h2>
+            <h2 className="text-2xl font-black font-journal-serif text-emerald-950">大阪旅行におすすめのホテル</h2>
           </div>
           
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -221,9 +209,7 @@ export default function OsakaTravelBudgetPage() {
                       ⭐ {hotel.reviewAverage} ({hotel.reviewCount}件)
                     </div>
                   )}
-                  <h3 className="text-sm font-black text-emerald-950 line-clamp-2 leading-tight">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-sm font-black text-emerald-950 line-clamp-2 leading-tight">{hotel.hotelName}</h3>
                   <p className="text-xs text-stone-600 line-clamp-2 mt-auto">
                     {hotel.hotelSpecial || "大阪の観光拠点に便利なホテルです。"}
                   </p>
@@ -243,9 +229,7 @@ export default function OsakaTravelBudgetPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「大阪旅行 費用：1泊2日・2泊3日の総額はいくら？USJ込みの予算＆道頓堀グルメ食費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -324,9 +308,7 @@ export default function OsakaTravelBudgetPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「大阪旅行 費用」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「大阪旅行 費用」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -469,7 +451,7 @@ export default function OsakaTravelBudgetPage() {
 
       {/* Internal Links */}
       <section className="bg-emerald-50 rounded-2xl p-6 border border-emerald-100 text-center">
-        <h3 className="text-emerald-900 font-bold mb-4">🚕 交通費を抑えたい方はこちらもチェック</h3>
+        <h3 className="text-emerald-900 font-bold mb-4">交通費を抑えたい方はこちらもチェック</h3>
         <Link 
           href="/tokyo-osaka-bus-vs-shinkansen-guide/"
           className="inline-block bg-white text-emerald-700 font-bold px-6 py-3 rounded-full border border-emerald-200 shadow-sm hover:shadow hover:bg-emerald-50 transition"

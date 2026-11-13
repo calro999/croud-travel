@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            青い海と緑の松林が織りなす白砂青松の絶景。波音を聞きながら過ごす至高のコースタルステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">青い海と緑の松林が織りなす白砂青松の絶景。波音を聞きながら過ごす至高のコースタルステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             古代の萬葉集から浮世絵に至るまで、日本人が最も愛してきた海岸美の象徴「日本三大松原」――約100万本の黒松が虹のような弧を描いて広がる佐賀唐津の「虹の松原」、敦賀湾の穏やかな波打ち際に白砂と青松が弓なりに続く福井若狭の「気比の松原」、そして青い駿河湾越しに雪化粧した霊峰富士を望み世界文化遺産に登録された静岡の「三保の松原」。松林を通り抜ける爽快な風を感じながらビーチサイクリングを楽しみ、夜には波の音を聞きながら豪華な地魚BBQやご当地グルメに舌鼓を打つ時間は、都会の喧騒を忘れさせてくれる贅沢そのもの。海と松林のコントラストが美しいリゾートホテルやグランピングを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  佐賀県唐津市ふるさと納税：玄界灘に広がる100万本の松林「虹の松原」と唐津シーサイドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">佐賀県唐津市ふるさと納税：玄界灘に広がる100万本の松林「虹の松原」と唐津シーサイドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の特別名勝・虹の松原に隣接する「唐津シーサイドホテル」。全室オーシャンビューのバルコニーから玄界灘を一望し、天然温泉の展望露天風呂と、極上の佐賀牛ステーキや呼子直送イカ活造りに舌鼓を打ちます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      唐津シーサイドホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">唐津シーサイドホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>佐賀県唐津市東唐津4-182</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福井県敦賀市ふるさと納税：敦賀湾の美しき白砂青松「気比の松原」とホテルルートイン敦賀駅前ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福井県敦賀市ふるさと納税：敦賀湾の美しき白砂青松「気比の松原」とホテルルートイン敦賀駅前ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   長さ約1.5kmに及ぶ名勝・気比の松原。松林ウォーキングを楽しんだ後は、北陸新幹線敦賀駅前の「ホテルルートイン敦賀駅前」の大浴場で寛ぎ、敦賀名物のヨーロッパ軒ソースカツ丼や若狭ふぐ、越前ガニを堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン敦賀駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン敦賀駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福井県敦賀市鉄輪町1-6-2</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  静岡県静岡市清水区ふるさと納税：世界遺産富士山と駿河湾を一望する「三保の松原」と日本平ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">静岡県静岡市清水区ふるさと納税：世界遺産富士山と駿河湾を一望する「三保の松原」と日本平ホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   羽衣伝説の舞台・三保松原。松林の先に見える富士山の偉容に感動した後は、「風景美術館」として名高い日本平ホテルで、広大な芝生ガーデンと駿河湾の新鮮な海の幸フレンチを味わう極上のリゾートステイです。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      日本平ホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">日本平ホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>静岡県静岡市清水区馬走1500-2</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   天橋立・気比松原・三保松原。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大砂丘＆風紋パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大砂丘＆風紋パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   鳥取砂丘・吹上浜・中田島砂丘。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   海を間近に感じる名宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】唐津シーサイドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】唐津シーサイドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と唐津シーサイドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と唐津シーサイドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大松原・海岸グランピング宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

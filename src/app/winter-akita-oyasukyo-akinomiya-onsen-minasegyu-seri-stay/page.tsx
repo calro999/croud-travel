@@ -406,9 +406,7 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               <Landmark className="w-4 h-4 text-sky-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の小安峡大噴湯＆秋の宮温泉郷を満喫する至極の隠れ家宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の小安峡大噴湯＆秋の宮温泉郷を満喫する至極の隠れ家宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -444,9 +442,7 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -496,17 +492,13 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               <Compass className="w-4 h-4 text-sky-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の湯沢・小安峡大噴湯と本場稲庭うどん・秘湯を満喫する旅程
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の湯沢・小安峡大噴湯と本場稲庭うどん・秘湯を満喫する旅程</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-sky-700" />
-                【1日目】本場稲庭うどんランチと大迫力の小安峡大噴湯へ
-              </h3>
+              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-sky-700" />
+                【1日目】本場稲庭うどんランチと大迫力の小安峡大噴湯へ</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-sky-600 shrink-0 mt-1" />
@@ -532,10 +524,8 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-sky-700" />
-                【2日目】秋の宮温泉郷の秘湯立ち寄りと湯沢の銘酒巡り
-              </h3>
+              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-sky-700" />
+                【2日目】秋の宮温泉郷の秘湯立ち寄りと湯沢の銘酒巡り</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-sky-600 shrink-0 mt-1" />
@@ -569,27 +559,21 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-sky-800" />
               初冬の湯沢・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              湯沢・小安峡で手に入れたい初冬の伝統銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">湯沢・小安峡で手に入れたい初冬の伝統銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                佐藤養助総本店の本場手綯い稲庭うどん
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                佐藤養助総本店の本場手綯い稲庭うどん</h3>
               <p>
                 寛文五年（1665年）創業、宮内省御用達の栄誉にも輝いた稲庭うどんの宗家「佐藤養助」。手作業で生地を綯い（ない）、延ばし、乾燥させる伝統製法によって生まれる麺は、絹のような滑らかな舌触りと独特のコシが特徴です。総本店では職人の製造工程をガラス越しに見学できるほか、直営レストランでの食事、ギフト用や家庭用のお得な徳用切り落とし麺などを購入できます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-sky-700" />
-                三関の泥付きセリと秋田の冬の漬物「いぶりがっこ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-sky-700" />
+                三関の泥付きセリと秋田の冬の漬物「いぶりがっこ」</h3>
               <p>
                 11月中旬以降、湯沢市内の道の駅や直売所には、朝採れの泥付き「三関セリ」がずらりと並びます。根の白さと香りの強さは別格で、自宅用やお土産用として大変な人気です。また、楢や桜の木煙で大根を燻製にして米糠と塩でじっくり漬け込んだ秋田名物「いぶりがっこ」も初冬が漬け上がりの新物シーズン。クリームチーズと合わせれば極上の日本酒の肴になります。
               </p>
@@ -604,24 +588,18 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               <ThermometerSun className="w-4 h-4 text-sky-800" />
               初冬の小安峡・秋の宮温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の小安峡大噴湯は神秘の絶景を生み出すのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の小安峡大噴湯は神秘の絶景を生み出すのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-sky-700" />
-              栗駒山の火山活動が育む高温蒸気と98℃の熱湯噴出メカニズム
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-sky-700" />
+              栗駒山の火山活動が育む高温蒸気と98℃の熱湯噴出メカニズム</h3>
             <p>
               小安峡大噴湯は、栗駒火山のマグマ活動に起因する地熱地帯に位置しています。地下深くでマグマによって熱せられた地下水が高圧の高温水蒸気となり、皆瀬川によって削り取られた断層の裂け目から一気に地表へ噴出します。その温度は約98℃。初冬の冷気（気温0℃前後）と接触することで急激に凝結し、濃密で巨大な白い湯煙の柱を形成します。夏場は水蒸気が拡散しやすいのに対し、11月下旬から12月にかけての氷点下の冷気は湯煙を白く濃密に保ち、轟音とともに立ち昇る姿は冬ならではの迫真のスペクタクルです。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-sky-700" />
-              秋の宮温泉郷の塩化物泉が生む持続的な保温効果と美肌作用
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-sky-700" />
+              秋の宮温泉郷の塩化物泉が生む持続的な保温効果と美肌作用</h3>
             <p>
               一方の秋の宮温泉郷は、役内川沿いに40以上の自然湧出源泉が存在する湯量無尽蔵の秘湯。主泉質はナトリウム-塩化物泉および単純温泉です。塩化物泉に含まれる塩分が肌の表面に薄い皮膜を形成し、入浴後の汗の蒸発を防ぐため「温まりの湯」「熱の湯」として親しまれています。さらに炭酸水素塩や弱アルカリ性の成分が古い角質を優しく落とし、乾燥しがちな初冬の素肌にしっとりとした潤いを取り戻してくれます。
             </p>
@@ -635,18 +613,14 @@ export default function AkitaOyasukyoAkinomiyaWinterPage() {
               <HelpCircle className="w-4 h-4 text-sky-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の小安峡温泉・秋の宮温泉郷旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の小安峡温泉・秋の宮温泉郷旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

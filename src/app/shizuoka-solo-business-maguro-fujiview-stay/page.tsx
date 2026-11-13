@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            気高き富士の雪嶺と駿河湾の碧い海、清水港から届く極上天然まぐろ——徳川家康公が愛した駿府の地で仕事と心を整える「静岡スマートステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">気高き富士の雪嶺と駿河湾の碧い海、清水港から届く極上天然まぐろ——徳川家康公が愛した駿府の地で仕事と心を整える「静岡スマートステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東海道新幹線「ひかり」で東京から約1時間、名古屋から約55分。静岡県の政治・経済の中枢であり、徳川家康が大御所として晩年を過ごした歴史ある城下町・静岡。日中の商談や打ち合わせを終えた後の楽しみは、日本一のまぐろ水揚げ量を誇る清水港直送の「南まぐろ（ミナミマグロ）」のお造りや、静岡おでん街の赤提灯、そして名産・静岡茶の香り高い一杯です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR静岡駅北口広場直結！新幹線改札から徒歩1分の圧倒的利便性とJR東海ホテルズならではの格式美
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルアソシア静岡 —— 静岡駅前のフラッグシップ。上質なしつらえと和洋中の一流レストランが揃う安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルアソシア静岡 —— 静岡駅前のフラッグシップ。上質なしつらえと和洋中の一流レストランが揃う安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR静岡駅南口徒歩1分！全室18階以上の超高層タワーから富士山や駿河湾を一望するパノラマホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルグランヒルズ静岡 —— 空に浮かぶ高層シティホテル。富士山ビュー客室と最上階レストランでの贅沢なひととき
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルグランヒルズ静岡 —— 空に浮かぶ高層シティホテル。富士山ビュー客室と最上階レストランでの贅沢なひととき</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   創業1916年・駿府の老舗グランドホテル！静岡駅北口徒歩5分・呉服町名店街や静岡おでん街すぐ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  中島屋グランドホテル —— 伝統が息づくおもてなし。四川料理の名店と名物「まぐろ丼＆静岡おでん」朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">中島屋グランドホテル —— 伝統が息づくおもてなし。四川料理の名店と名物「まぐろ丼＆静岡おでん」朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              静岡の二大名物「南まぐろ＆静岡おでん」を一人で楽しむハシゴ酒術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">静岡の二大名物「南まぐろ＆静岡おでん」を一人で楽しむハシゴ酒術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 青葉横丁または青葉おでん街の赤提灯をくぐる
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 青葉横丁または青葉おでん街の赤提灯をくぐる</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 黒い出汁で煮込まれた牛すじや黒はんぺんに、青のりと魚の削り粉（ダシ粉）をたっぷりかけて。駄菓子屋発祥の温かい郷土の味です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 清水港直送の南まぐろ（ミナミマグロ）の赤身・中トロを地酒と
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 清水港直送の南まぐろ（ミナミマグロ）の赤身・中トロを地酒と</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 本マグロと並ぶ高級種。ねっとりとした濃厚な旨味と上品な脂の甘みを、静岡の辛口純米酒「初亀」が心地よく引き立てます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 駿府城公園のお堀端を朝散歩して家康公の銅像を仰ぐ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 駿府城公園のお堀端を朝散歩して家康公の銅像を仰ぐ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ホテルから徒歩10分程度。緑豊かな城址公園の澄んだ空気を吸いながら、歴史ロマンに思いを馳せる朝のひととき。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>静岡駅から富士山は見えますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>静岡駅から富士山は見えますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 駅構内からは見えにくいですが、ホテルグランヒルズ静岡など南口・北口の高層階客室や展望フロアからは天気が良ければ美しい富士山をはっきりと望むことができます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で入りやすい海鮮居酒屋やおでん屋さんはありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で入りやすい海鮮居酒屋やおでん屋さんはありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 静岡駅構内の「アスティ静岡」や青葉横丁・呉服町周辺の店舗はカウンター席中心の店が多く、出張の一人客が日常的に多数利用しています。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルアソシア静岡を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルアソシア静岡を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

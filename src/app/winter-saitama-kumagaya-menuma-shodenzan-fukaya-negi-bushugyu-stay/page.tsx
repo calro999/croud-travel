@@ -243,9 +243,7 @@ export default function Page() {
         {/* なぜ冬に訪れるべきかの3ポイント */}
         <section className="max-w-4xl mx-auto px-4 mb-14 space-y-4">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              この冬、熊谷・深谷・本庄を訪れるべき3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">この冬、熊谷・深谷・本庄を訪れるべき3つの理由</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               11月〜1月ならではの幻想的な光景、開運初詣、そして冬が一番美味しい旬の味覚
             </p>
@@ -257,9 +255,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   1
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  極彩色の彫刻が息を呑む美しさ！国宝「妻沼聖天山歓喜院」新春縁結び・開運祈願
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">極彩色の彫刻が息を呑む美しさ！国宝「妻沼聖天山歓喜院」新春縁結び・開運祈願</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 日光東照宮を彷彿とさせる精緻を極めた彫刻群が壁面を埋め尽くす国宝・聖天堂。左甚五郎の系譜を継ぐ名工たちが刻んだ七福神や天女、霊獣たちの姿は息を呑む迫力です。良縁成就や厄除け、家内安全を祈願する新春初詣の後は、名物の長大な「妻沼いなり寿司」を味わうのが地元伝統の参拝コースです。
@@ -271,9 +267,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   2
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の寒さで糖度15度超！とろける甘さの「深谷ねぎ」と郷土の温もり「煮ぼうとう」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">冬の寒さで糖度15度超！とろける甘さの「深谷ねぎ」と郷土の温もり「煮ぼうとう」</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 利根川流域の肥沃な粘土質土壌で育つ深谷ねぎは、冬の寒さに当たることで甘みが凝縮。鍋や鉄板でじっくり焼いたねぎカルビやすき焼き、地元産小麦の手打ち幅広麺を旬野菜とともに醤油仕立てで煮込んだ深谷名物「煮ぼうとう」は、冬の冷えた身体を芯からポカポカに温めてくれます。
@@ -285,9 +279,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   3
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  渋沢栄一の郷愁を訪ねる歴史散歩と、地下深くから湧き出る琥珀色の美肌天然温泉
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">渋沢栄一の郷愁を訪ねる歴史散歩と、地下深くから湧き出る琥珀色の美肌天然温泉</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 日本の近代経済の父・渋沢栄一が生まれ育った「中の家」や誠之堂・清風亭などの歴史的建築を巡るノスタルジックな散策。旅の締めくくりには、熊谷や深谷、行田の地下から汲み上げられる自家源泉の天然温泉へ。弱アルカリ性の柔らかな湯に浸かり、武州和牛の贅沢会席とともに贅沢な寛ぎを堪能できます。
@@ -301,9 +293,7 @@ export default function Page() {
           <div className="bg-cyan-950/5 border border-cyan-800/20 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-2">
               <Thermometer className="w-5 h-5 text-cyan-800" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                アクセス・気候・冬の服装ガイド
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">アクセス・気候・冬の服装ガイド</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line bg-white/70 p-5 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
@@ -323,9 +313,7 @@ export default function Page() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              熊谷・深谷・本庄 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">熊谷・深谷・本庄 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・立地に秀でた極上宿
             </p>
@@ -347,9 +335,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    四季の湯温泉　ホテルヘリテイジ（森林公園・熊谷）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">四季の湯温泉　ホテルヘリテイジ（森林公園・熊谷）</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     天然温泉と圧倒的な森の静寂・水着混浴露天風呂と四季の和洋会席
                   </p>
@@ -414,9 +400,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    キングアンバサダーホテル熊谷
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">キングアンバサダーホテル熊谷</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     熊谷駅徒歩3分のシティリゾート・上質な客室空間と本格イタリアン
                   </p>
@@ -481,9 +465,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    国済寺天然温泉　ハナホテル深谷＆スパ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">国済寺天然温泉　ハナホテル深谷＆スパ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     国済寺境内の源泉かけ流し天然温泉・深谷ねぎの郷で癒やす極上の湯浴み
                   </p>
@@ -548,9 +530,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    花園天然温泉　ハナホテル　花園インター
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">花園天然温泉　ハナホテル　花園インター</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     関越道花園ICすぐ！自家源泉天然温泉と広々客室・観光拠点に最適
                   </p>
@@ -615,9 +595,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    行田天然温泉　ハナホテル行田
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">行田天然温泉　ハナホテル行田</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     行田の古代蓮の里近く・忍城と足袋蔵の歴史薫る天然温泉ホテル
                   </p>
@@ -676,9 +654,7 @@ export default function Page() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -700,36 +676,28 @@ export default function Page() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の熊谷・深谷・本庄旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の熊谷・深谷・本庄旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>妻沼聖天山の国宝・本殿彫刻をじっくり見学するためのポイントは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>妻沼聖天山の国宝・本殿彫刻をじっくり見学するためのポイントは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 国宝・歓喜院聖天堂の彫刻は保存のために覆屋で保護されており、拝観料（大人700円）を納めて中に入ると間近で鑑賞できます。定時ガイドによるボランティア解説ツアー（約40分）が随時行われており、彫刻に隠された物語や職人技の秘密を詳しく聞くことができるため、初詣時期でもガイドツアーへの参加を強くおすすめします。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>「深谷ねぎ」を最も美味しく堪能できるおすすめの料理やお店は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>「深谷ねぎ」を最も美味しく堪能できるおすすめの料理やお店は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 冬の深谷ねぎはシンプルに一本焼きにしたり、すき焼きやねぎ鍋にするのが一番甘みを実感できます。深谷駅周辺の郷土料理店や道の駅「はなぞの」「おかべ」では、アツアツの「深谷ねぎ煮ぼうとう」や「深谷ねぎカルビ丼」が提供されており、直売所では採れたての泥付きねぎをお土産として手に入れることができます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>新春初詣時期の混雑状況とおすすめの参拝時間帯は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>新春初詣時期の混雑状況とおすすめの参拝時間帯は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 元旦から1月3日の日中は多くの初詣客で賑わいますが、都心の有名寺社に比べると適度な賑わいで、ゆっくりとお参りしやすいのが魅力です。混雑を避けて優美な彫刻を心ゆくまで鑑賞したい場合は、午前9時前の早朝または午後15時以降の参拝がおすすめです。
               </p>
@@ -741,9 +709,7 @@ export default function Page() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/saitama/"

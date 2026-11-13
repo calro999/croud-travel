@@ -91,9 +91,7 @@ export default function Page() {
               客室テラス専用バレルサウナ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['room_barrel_sauna_villa_stay']?.label || '客室テラス専用バレルサウナ'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['room_barrel_sauna_villa_stay']?.label || '客室テラス専用バレルサウナ'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             ヴィラの専用ガーデンやテラスに設置されたプライベートバレルサウナ。自然の景色を独り占めしながら、いつでも何度でもロウリュを満喫。ウッドデッキに直結したチラー付き水風呂とリクライニングチェアで完全な解放感を味わえます。
           </p>
@@ -118,9 +116,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -169,9 +165,7 @@ export default function Page() {
               ラグジュアリースイート＆サウナ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['private_spa_suite_stay']?.label || 'ラグジュアリースイート＆サウナ'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['private_spa_suite_stay']?.label || 'ラグジュアリースイート＆サウナ'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             客室内にドライサウナやロウリュ対応スチームサウナをビルトインした最高級客室。源泉かけ流しの客室露天風呂と水風呂が並んで配置され、お部屋から一歩も出ることなく完璧な温冷交代浴が完結します。
           </p>
@@ -196,9 +190,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -247,9 +239,7 @@ export default function Page() {
               一棟貸切コテージ＆サウナBBQ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['charter_cottage_sauna_bbq_stay']?.label || '一棟貸切コテージ＆サウナBBQ'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['charter_cottage_sauna_bbq_stay']?.label || '一棟貸切コテージ＆サウナBBQ'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             森の中やオーシャンフロントに佇む一棟貸切のプライベートヴィラ。サウナでしっかりと汗を流してととのった後は、テラスで地元ブランド牛やシーフードのBBQ、クラフトビールを楽しむ最高のアウトドアリゾートステイです。
           </p>
@@ -274,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -320,37 +308,29 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">
-            <span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
+            よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>客室サウナは深夜や早朝でも利用できますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>客室サウナは深夜や早朝でも利用できますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 客室専用サウナの多くは24時間いつでも自由に入浴可能です（一部の薪ストーブタイプを除く電気ヒーター式サウナの場合）。夜空の星を眺めながら、あるいは朝一番の目覚ましサウナを気兼ねなく楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナの温度は自由に調整できますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>サウナの温度は自由に調整できますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 多くの施設で80度〜100度前後まで好みの温度を設定でき、備え付けのアロマ水でセルフロウリュを行うことで、体感温度や湿度を自分好みにカスタマイズできます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>カップルや夫婦、家族で一緒に入れますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>カップルや夫婦、家族で一緒に入れますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 完全な客室専用スペースのため、水着を着てカップルやご夫婦、ファミリーで一緒にサウナ・水風呂・外気浴を楽しむことができます。記念日や特別な旅行の思い出作りに最適です。
               </p>
@@ -360,9 +340,7 @@ export default function Page() {
 
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
-          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">
-            他のサウナ＆ウェルネス・癒しの宿を探す
-          </h3>
+          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>
           <p className="text-stone-600 text-sm mb-6">
             バレルサウナ、絶景パノラマ、名水水風呂、ハーブ蒸し、完全プライベートサウナ付き客室など、全国の極上サウナ旅をご提案します。
           </p>
@@ -403,9 +381,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】シーサイドホテル舞子ビラ神戸を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】シーサイドホテル舞子ビラ神戸を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +414,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とシーサイドホテル舞子ビラ神戸の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とシーサイドホテル舞子ビラ神戸の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、山形・天童・山寺を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、山形・天童・山寺を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -181,9 +179,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     1
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    芭蕉も愛した奇岩霊山が白銀に染まる！山寺・立石寺の「水墨画パノラマ」と千段石段の開運巡礼
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">芭蕉も愛した奇岩霊山が白銀に染まる！山寺・立石寺の「水墨画パノラマ」と千段石段の開運巡礼</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   千余段の石段を登るごとに煩悩が消え去ると伝わる霊場・山寺。冬は雪化粧した木々と巨岩が織りなすモノトーンの水墨画世界が広がり、断崖に突き出た五大堂からの白銀パノラマは息を呑む絶景。冬の澄んだ大気の中で行う新春開運祈願は格別の清々しさです。
@@ -196,9 +192,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     2
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    将棋駒のまちに湧く開湯百余年の名湯！肌を潤す「天童温泉」のまろやかな湯浴み
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">将棋駒のまちに湧く開湯百余年の名湯！肌を潤す「天童温泉」のまろやかな湯浴み</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   明治時代に田んぼの中から湧き出したと伝わる天童温泉。硫酸塩泉のやわらかなお湯は保温・保湿効果が高く「美肌の湯」として親しまれています。雪見露天風呂で身体を芯まで温め、湯上がりに名物の将棋駒足湯や温泉街散策を楽しむ贅沢なひとときが待っています。
@@ -211,9 +205,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     3
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    とろける霜降り「山形牛」の極上すき焼きと冬の手打ち蕎麦・郷土芋煮の深い滋味
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">とろける霜降り「山形牛」の極上すき焼きと冬の手打ち蕎麦・郷土芋煮の深い滋味</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   厳しい冬の寒さが生み出す最高峰ブランド「山形牛」。きめ細やかなサシの甘みが口いっぱいに広がるすき焼きや陶板焼きは冬の旅の最高のご馳走。さらに山形名物の芋煮汁や、香り高い冬の新そば（でわかおり）など、滋味豊かなみちのくの味覚に満たされます。
@@ -230,17 +222,13 @@ export default function FeaturePage() {
             <div className="flex items-center justify-between border-b border-stone-100 pb-3">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-cyan-700" />
-                <h2 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の現地アクセス・気候・おすすめの服装
-                </h2>
+                <h2 className="text-base sm:text-lg font-bold text-stone-900">冬の現地アクセス・気候・おすすめの服装</h2>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -257,10 +245,8 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -284,9 +270,7 @@ export default function FeaturePage() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              山形・天童・山寺 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">山形・天童・山寺 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・眺望に秀でた極上宿
             </p>
@@ -319,11 +303,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（188件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52812%2F52812.html" target="_blank" rel="sponsored noopener noreferrer">
                         天童温泉　湯の香　松の湯
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>明治時代に創業し、天童温泉の歴史とともに上質な湯治文化を育んできた大人のための隠れ家旅館。最大の魅力は、全客室に惜しみなく注がれる自家源泉100%掛け流しの半露天風呂。</p>
                       <p>誰にも邪魔されず、冬の澄んだ風を感じながら24時間いつでも好きな時に名湯を満喫できます。夕食には厳しい基準をクリアした最高峰「山形牛」の極上サーロインステーキや、地元契約農家から届く新鮮野菜を贅沢に仕立てた月替わりの懐石料理が並び、記念日やご褒美旅行に最高の贅沢を約束します。</p>
@@ -385,11 +367,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（624件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18363%2F18363.html" target="_blank" rel="sponsored noopener noreferrer">
                         天童温泉　松伯亭　あづま荘
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>数寄屋造りの優雅な建築と四季折々に表情を変える日本庭園が迎えてくれる天童温泉屈指の老舗名門旅館。メディアでも話題の看板ねこがお出迎えしてくれるアットホームな温もりも人気の理由です。</p>
                       <p>冬には庭園に白い雪が降り積もり、広々とした大浴場や露天風呂から眺める雪見風呂はまさに至福。夕食にはとろけるような食感の山形牛を贅沢に使ったすき焼き鍋や、山形の郷土色豊かな手作り料理が並び、細やかな仲居さんのおもてなしとともに心温まる滞在を叶えてくれます。</p>
@@ -451,11 +431,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（1055件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F53746%2F53746.html" target="_blank" rel="sponsored noopener noreferrer">
                         天童温泉　ほほえみの宿　滝の湯
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>プロ棋士が熱戦を繰り広げる将棋の竜王戦などタイトル戦の舞台としても名高い、天童温泉を象徴する最高峰旅館。広大な館内には巨木や巨石を配した開放感抜群の大浴場と野趣豊かな露天風呂があり、湯煙の向こうに広がる雪景色を愛でながら極上の湯浴みが楽しめます。</p>
                       <p>食事へのこだわりも格別で、自社農園で育てられた安全安心な無農薬野菜と、A5ランク山形牛のステーキかすき焼きをメインにした彩り豊かな会席料理を提供。格式の高さと居心地の良さが高次元で融合しています。</p>
@@ -517,11 +495,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（366件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F146875%2F146875.html" target="_blank" rel="sponsored noopener noreferrer">
                         天童温泉　ほほえみの空湯舟　つるや
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>伝統的な温泉街の中で、現代的な快適性と和の情緒を洗練されたデザインで表現した人気モダン旅館。館内には趣の異なる多彩な客室が用意され、露天風呂付き客室ではプライベートな雪見風呂を贅沢に独占できます。夕食はスタイリッシュなダイニングでいただく創作和食。</p>
                       <p>柔らかな山形牛のローストやしゃぶしゃぶ、冬の味覚を散りばめた目にも鮮やかな料理の数々が特別な夜を華やかに彩ります。カップルや女子旅にも絶大な支持を受けるお洒落な温泉宿です。</p>
@@ -583,11 +559,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（1899件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5954%2F5954.html" target="_blank" rel="sponsored noopener noreferrer">
                         天童温泉　美味求真の宿　天童ホテル
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>「美味求真」を宿のテーマに掲げ、食の感動を追求し続ける天童温泉の大型温泉ホテル。大浴場には岩肌を流れる滝が配され、ダイナミックな景観を眺めながらゆったりと天然温泉に浸かることができます。</p>
                       <p>夕食には山形牛の陶板焼きやせいろ蒸し、地元山形の名産品をふんだんに取り入れた豪華な会席料理がテーブルを埋め尽くし、美食の喜びに心躍ります。館内設備も充実しており、三世代旅行や友人同士のグループ旅行でも気兼ねなく楽しめる頼もしい名宿です。</p>
@@ -633,9 +607,7 @@ export default function FeaturePage() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -657,18 +629,14 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の山形・天童・山寺旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の山形・天童・山寺旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
 
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    冬の山寺（立石寺）は積雪があっても一般の観光客が登れますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">冬の山寺（立石寺）は積雪があっても一般の観光客が登れますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -682,9 +650,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    天童温泉の泉質と冬の入浴効果について教えてください。
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">天童温泉の泉質と冬の入浴効果について教えてください。</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -698,9 +664,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    天童温泉から山寺や銀山温泉、蔵王温泉へは足を伸ばせますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">天童温泉から山寺や銀山温泉、蔵王温泉へは足を伸ばせますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -717,9 +681,7 @@ export default function FeaturePage() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/yamagata/"

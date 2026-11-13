@@ -108,9 +108,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  職人技を間近で体感！出来たて熱々を提供する「ライブキッチン」の迫力
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">職人技を間近で体感！出来たて熱々を提供する「ライブキッチン」の迫力</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 名門ホテルのビュッフェは作り置きとは一線を画します。シェフが客の目の前で焼き上げるジューシーな国産牛ステーキや、板前が手際よく握る旬の地魚寿司、パティシエが目の前で仕上げる搾りたてモンブランなど、五感で味わうライブパフォーマンスが食欲を最高潮にかき立てます。
@@ -123,9 +121,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  北海道の海鮮丼、宇都宮餃子、大分とり天！地域色豊かなご当地名物が勢揃い
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">北海道の海鮮丼、宇都宮餃子、大分とり天！地域色豊かなご当地名物が勢揃い</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 全国のバイキング名宿では、その土地ならではの郷土料理やご当地B級グルメコーナーが大充実。いくらやホタテを自分で好きなだけ盛り付ける勝手丼、日光湯波の創作料理、大分名物のりゅうきゅうや中津からあげなど、名産地を丸ごと食べ尽くす贅沢な味覚探訪が叶います。
@@ -138,9 +134,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  子どもからシニアまで全員が大満足！三世代家族旅行でも好き嫌いの心配ゼロ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">子どもからシニアまで全員が大満足！三世代家族旅行でも好き嫌いの心配ゼロ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 離乳食やキッズ向けメニューから、シニアに嬉しい優しい味付けの和食小鉢、本格中華やイタリアンまで何でも揃うビュッフェは、三世代旅行に最もおすすめのスタイル。家族それぞれが自分の好きなペースで好みの料理を選べるため、全員が笑顔で楽しいディナータイムを過ごせます。
@@ -183,9 +177,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県日光市・全国ビュッフェランキング殿堂入りの老舗名門ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鬼怒川温泉　あさや
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鬼怒川温泉　あさや</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     創業130余年の歴史を誇り、圧巻の吹き抜けロビーが象徴的な鬼怒川温泉屈指の大型名門ホテル。夕食の「ブッフェ」は和洋中100種以上ものメニューが並び、全国のバイキング宿ランキングで常にトップクラスの評価を獲得。目の前で揚げるアツアツの天ぷらや本格石窯ピッツァ、あさや特製和牛カレー、ハーゲンダッツアイスや華やかなケーキバーなど、どれを食べても絶品揃いです。最上階の「空中庭園露天風呂」から望む鬼怒川の山並みと星空の絶景も旅を忘れられないものにしてくれます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・別府湾のパノラマ棚湯と圧巻のワールドビュッフェリゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     別府八湯の高台に位置し、別府湾と街並みを見下ろす圧倒的なスケールを誇る一大エンターテインメント温泉リゾート。段々畑状に広がる名物大展望露天風呂「棚湯」は開放感抜群。ビュッフェレストラン「TERRACE & DINING SORA」などでは、別府の湯けむりを感じながら、大分県産和牛のローストビーフや豊後水道の新鮮魚介、本格中華やエスニック料理まで世界水準の味覚が食べ放題。噴水ショーやボウリング場などアミューズメントも充実し、家族全員で一日中楽しめます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道登別市・ドーム型ローマ風呂と北海道産食材尽くしのバイキング
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    登別温泉　登別グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">登別温泉　登別グランドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     「登別の迎賓館」と称され、昭和13年創業の歴史と格式を誇る名門温泉ホテル。本格的なドーム型ローマ風大浴場や滝が流れ落ちる情緒豊かな庭園露天風呂で、食塩泉・硫黄泉・鉄泉の3つの名湯を満喫できます。夕食ビュッフェでは、北海道産の新鮮なホタテやサーモンの刺身、名物の熱々ジンギスカン、旬の野菜や乳製品を使った創作洋食など、北の大地の恵みが目白押し。熟練の料理人が仕上げる上質バイキングを心ゆくまでお楽しみいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鬼怒川温泉 あさやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鬼怒川温泉 あさやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoLuxuryBuffetGourmetStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鬼怒川温泉 あさやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鬼怒川温泉 あさやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

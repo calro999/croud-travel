@@ -55,9 +55,7 @@ export default function ItoBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            アクセス抜群！伊豆屈指の湯量を誇る伊東でお得にリフレッシュ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">アクセス抜群！伊豆屈指の湯量を誇る伊東でお得にリフレッシュ</h2>
           <p className="mb-4 text-stone-700">
             静岡県・東伊豆に位置する伊東温泉は、東京駅から特急「踊り子」で約1時間40分。別府・由布院に次ぐ全国屈指の湧出量を誇り、肌に優しく刺激が少ない単純温泉や弱食塩泉が湧き出ています。
           </p>
@@ -69,10 +67,8 @@ export default function ItoBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！伊東温泉の格安名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！伊東温泉の格安名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function ItoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.21</span>
                     <span className="text-stone-400 text-xs">(425件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル　リーデント　伊東
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル　リーデント　伊東</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / ＪＲ　伊東駅より徒歩にて約6分
                   </p>
@@ -142,9 +136,7 @@ export default function ItoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.99</span>
                     <span className="text-stone-400 text-xs">(2006件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊東温泉　ホテル　ラヴィエ川良
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊東温泉　ホテル　ラヴィエ川良</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / JR伊東線「伊東駅」下車 徒歩７分／車で東名高速沼津ICから1時間20分・厚木ICから1時間40分／送迎バスあり
                   </p>
@@ -189,9 +181,7 @@ export default function ItoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.24</span>
                     <span className="text-stone-400 text-xs">(1288件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊東温泉　ホテルよしの
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊東温泉　ホテルよしの</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 厚木ＩＣより約90分・東名沼津ＩＣより約60分 ＪＲ伊東駅から車約2分・徒歩約5～7分　※細い急坂はのぼりません
                   </p>
@@ -236,9 +226,7 @@ export default function ItoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.82</span>
                     <span className="text-stone-400 text-xs">(780件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊東温泉　伊東園ホテル松川館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊東温泉　伊東園ホテル松川館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 伊東駅より徒歩１０分
                   </p>
@@ -283,9 +271,7 @@ export default function ItoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.35</span>
                     <span className="text-stone-400 text-xs">(669件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルハーヴェスト伊東
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルハーヴェスト伊東</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊東駅 / 電車：JR伊東線伊東駅より徒歩約12分／車：東名高速道路厚木IC→小田原・厚木道路→R１３５伊東
                   </p>
@@ -330,9 +316,7 @@ export default function ItoBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の伊東温泉×格安：伊豆高原の紅葉とオーシャンビュー！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function ItoBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の伊東温泉×格安エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の伊東温泉×格安エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

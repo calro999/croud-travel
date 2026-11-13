@@ -405,10 +405,8 @@ export default function AomoriAjigasawaFukauraWinterPage() {
         {/* Hotel List Section */}
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-              鰺ヶ沢・深浦のおすすめ名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
+              鰺ヶ沢・深浦のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
@@ -449,9 +447,7 @@ export default function AomoriAjigasawaFukauraWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-teal-900 transition-colors">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-teal-900 transition-colors">{hotel.name}</h3>
 
                       <p className="text-xs text-stone-500 flex items-center gap-1 mt-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 shrink-0 text-stone-400" />
@@ -516,17 +512,13 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              五能線冬景色と鰺ヶ沢ヒラメ・不老ふ死温泉絶景露天の旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">五能線冬景色と鰺ヶ沢ヒラメ・不老ふ死温泉絶景露天の旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【1日目】五能線絶景ルートと名物ヒラメのヅケ丼
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【1日目】五能線絶景ルートと名物ヒラメのヅケ丼</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -552,10 +544,8 @@ export default function AomoriAjigasawaFukauraWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【2日目】朝の化石海水風呂と白神山地山麓めぐり
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【2日目】朝の化石海水風呂と白神山地山麓めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -585,27 +575,21 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               津軽西海岸・冬のおみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              鰺ヶ沢・深浦で手に入れたい初冬の特産品と名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">鰺ヶ沢・深浦で手に入れたい初冬の特産品と名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                海の駅わんどと鰺ヶ沢イカ焼きカーテン
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                海の駅わんどと鰺ヶ沢イカ焼きカーテン</h3>
               <p>
                 鰺ヶ沢町の国道101号線沿いは、獲れたての生イカを潮風と天日で干す「イカ焼きカーテン」が冬の風物詩。観光拠点「海の駅わんど」では、肉厚で香ばしい焼きたての生干しイカをその場で味わえるほか、白神山地の天然水や鰺ヶ沢ヒラメのフレークなどのお土産が充実しています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-teal-700" />
-                清酒「安東水軍」と深浦雪人参
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-teal-700" />
+                清酒「安東水軍」と深浦雪人参</h3>
               <p>
                 鰺ヶ沢の老舗・尾崎酒造が白神山地の伏流水で醸す名酒「安東水軍（あんどうすいぐん）」は、海の幸に負けないキリッとした辛口とコクが魅力。また、12月から収穫が始まる「ふかうら雪人参」は、雪の下でじっくり糖度を蓄えたフルーツのように甘い奇跡の人参で、ジュースやドレッシングが大人気です。
               </p>
@@ -620,32 +604,24 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <ThermometerSun className="w-4 h-4 text-teal-800" />
               初冬の津軽西海岸・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の化石海水温泉は「冬の最強温まり湯」なのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の化石海水温泉は「冬の最強温まり湯」なのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-teal-700" />
-              古代海水が濃縮された高張性塩化物強塩泉のメカニズム
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-700" />
+              古代海水が濃縮された高張性塩化物強塩泉のメカニズム</h3>
             <p>
               鰺ヶ沢や深浦の温泉の多くは、「ナトリウム-塩化物強塩泉」に分類されます。数十万年前の古代海水が地下深くで地熱と圧力によって熟成され、人間の体液よりも浸透圧が高い「高張性」の泉質となっています。入浴すると温泉成分が皮膚を通じて速やかに浸透し、豊富なナトリウムイオンと塩素イオンが角質層のタンパク質と結合して強力な塩皮膜を形成。入浴後の発汗や気化熱の放出を極限まで防ぐため、真冬の津軽の猛烈な寒風の中でも体がまったく冷えません。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-teal-700" />
-              白神山地の雪解け伏流水が海水に注ぐ世界遺産の食物連鎖
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-teal-700" />
+              白神山地の雪解け伏流水が海水に注ぐ世界遺産の食物連鎖</h3>
             <p>
               白神山地には東アジア最大級のブナ原生林が広がり、腐葉土の層を何百年もかけて通過した雨水や雪解け水には、膨大なフルボ酸や鉄分、植物ミネラルが溶け込んでいます。これが日本海へ流れ込むことで沿岸に良質な珪藻やプランクトンが大繁殖。これらを餌とする小魚、そしてそれを捕食する鰺ヶ沢ヒラメや深浦マグロへと命のサイクルが繋がり、他所では決して真似のできない極上の肉質と上品な脂の乗りを生み出しています。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-teal-700" />
-              日本海の荒波が育てる身の引き締まりとヒラメの熟成効果
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-teal-700" />
+              日本海の荒波が育てる身の引き締まりとヒラメの熟成効果</h3>
             <p>
               初冬の日本海は波高が数メートルに達することも珍しくありません。この過酷な荒波の中で底生生活を送るヒラメは、常に強い潮流に逆らって泳ぐため、筋肉繊維が非常に強靭に発達します。水揚げ直後のヒラメを適切な技術で活締めし、低温で熟成させることで、ATP（アデノシン三リン酸）が旨味成分であるイノシン酸へと変化。コリコリとした歯ごたえと芳醇な旨味が両立した至高の「冬ヒラメ」が完成します。
             </p>
@@ -659,18 +635,14 @@ export default function AomoriAjigasawaFukauraWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の鰺ヶ沢・深浦・津軽西海岸旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の鰺ヶ沢・深浦・津軽西海岸旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

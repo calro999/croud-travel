@@ -247,9 +247,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
             <span className="w-2 h-2 rounded-full bg-teal-500 animate-pulse"></span>
             TRANSIT MAP & LINES
           </div>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">
-            車なし観光の主役！富士五湖周遊バス 3つの主要ルート
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">車なし観光の主役！富士五湖周遊バス 3つの主要ルート</h2>
           <p className="text-slate-600 text-sm mt-2">
             河口湖駅前バスターミナルから発着する3本の周遊バスを使い分けるのが攻略の鍵です。
           </p>
@@ -301,9 +299,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
           <span className="text-xs font-black tracking-widest text-teal-700 bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
             PERFECT ITINERARY
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800">
-            【周遊バス直結】富士五湖 1泊2日 王道モデルコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800">【周遊バス直結】富士五湖 1泊2日 王道モデルコース</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             午前中の富士山くっきりタイムに絶景スポットを配置した、写真映えとグルメの黄金ルート。
           </p>
@@ -331,9 +327,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
                         <span className="text-xs font-black text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md border border-teal-200 font-mono">
                           {step.time}
                         </span>
-                        <h4 className="font-bold text-slate-900 text-sm md:text-base">
-                          {step.title}
-                        </h4>
+                        <h4 className="font-bold text-slate-900 text-sm md:text-base">{step.title}</h4>
                       </div>
                       <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {step.desc}
@@ -353,9 +347,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
           <span className="text-teal-400 text-xs font-black tracking-widest uppercase">
             CAR-FREE TRAVEL FAQ
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">
-            富士五湖の「車なし・バス旅」でよくある疑問＆攻略法
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">富士五湖の「車なし・バス旅」でよくある疑問＆攻略法</h2>
         </div>
 
         <div className="grid md:grid-cols-2 gap-4">
@@ -384,9 +376,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
               <span className="w-2 h-2 rounded-full bg-teal-600"></span>
               ONSEN HOTELS & RESORTS
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-              車なしでも快適！河口湖駅周辺・送迎あり＆富士山ビューの温泉宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">車なしでも快適！河口湖駅周辺・送迎あり＆富士山ビューの温泉宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               駅から徒歩圏、または河口湖駅から無料送迎シャトルを運行している人気ホテルを厳選。
             </p>
@@ -443,9 +433,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
                     </div>
 
                     <div className="p-5 space-y-3">
-                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-teal-700 transition-colors">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-teal-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
                         <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-teal-50/50 p-2.5 rounded-xl border border-teal-100">
@@ -498,9 +486,7 @@ export default function FujiFiveLakesCarFreeBusGuidePage() {
 
       {/* 内部リンク＆関連記事 */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい山梨・富士山エリアのバス＆観光ガイド
-        </h3>
+        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">あわせて読みたい山梨・富士山エリアのバス＆観光ガイド</h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
             href="/tokyo-fujikawaguchiko-highway-bus-guide/"

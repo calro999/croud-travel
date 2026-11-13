@@ -298,10 +298,8 @@ export default function HakodateYunokawaWinterPage() {
             <Ship className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 津軽海峡の初冬漁火と北海道三大名湯・函館冬旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月函館湯の川温泉の冬名湯と漁火海鮮】<br className="hidden sm:inline" />
-            津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月函館湯の川温泉の冬名湯と漁火海鮮】<br className="hidden sm:inline" />
+            津軽海峡インフィニティ露天と函館クリスマスファンタジー・冬イカ＆毛蟹会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み渡る夜空の下、津軽海峡に無数に瞬くイカ釣り漁船の漁火。北海道屈指の歴史を誇る湯の川温泉の海景露天風呂に浸かり、12月の赤レンガ倉庫巨大クリスマスツリーと函館朝市直送の海の幸を堪能する大人の贅沢旅。
           </p>
@@ -327,9 +325,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Hakodate Yunokawa Onsen Winter Elegance</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                津軽海峡の波音と360年の名湯、港町函館が最もロマンチックに輝く季節
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">津軽海峡の波音と360年の名湯、港町函館が最もロマンチックに輝く季節</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -344,10 +340,8 @@ export default function HakodateYunokawaWinterPage() {
           
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-700" />
-                11月・12月函館湯の川温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-700" />
+                11月・12月函館湯の川温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 津軽海峡の冬漁火を望む絶景露天風呂・赤レンガ倉庫クリスマスファンタジー巨大ツリー・函館朝市直送の透き通る真イカ刺し＆活毛蟹会席・函館空港車5分の快適アクセス
               </p>
@@ -398,9 +392,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Heritage & Water Quality</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                1. 湯の川温泉の魅力：360年の名湯と津軽海峡の絶景インフィニティ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">1. 湯の川温泉の魅力：360年の名湯と津軽海峡の絶景インフィニティ</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -419,9 +411,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Spectacular Night Sea Lights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                2. 初冬の夜空に瞬く奇跡：津軽海峡のイカ釣り漁火と鑑賞ポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">2. 初冬の夜空に瞬く奇跡：津軽海峡のイカ釣り漁火と鑑賞ポイント</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -440,9 +430,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Festive Highlight</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                3. 12月の函館名物「はこだてクリスマスファンタジー」と赤レンガ倉庫
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">3. 12月の函館名物「はこだてクリスマスファンタジー」と赤レンガ倉庫</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function HakodateYunokawaWinterPage() {
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest bg-cyan-50 px-4 py-1.5 rounded-full border border-cyan-200">
               Selected 5 Luxury Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              4. 11・12月に泊まりたい函館湯の川温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">4. 11・12月に泊まりたい函館湯の川温泉の厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               津軽海峡の絶景インフィニティ露天風呂、客室露天風呂、函館朝市直送の冬イカ＆活毛蟹料理を心ゆくまで堪能できる極上宿を厳選しました。
             </p>
@@ -498,9 +484,7 @@ export default function HakodateYunokawaWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       
                       <p className="text-xs text-slate-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-cyan-600 flex-shrink-0" />
@@ -559,9 +543,7 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Coastal Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 函館の初冬グルメ：透き通る冬イカ・濃厚活毛蟹・大沼牛の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 函館の初冬グルメ：透き通る冬イカ・濃厚活毛蟹・大沼牛の饗宴</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -580,35 +562,25 @@ export default function HakodateYunokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                6. 1泊2日 湯の川温泉〜函館山夜景・赤レンガ倉庫 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">6. 1泊2日 湯の川温泉〜函館山夜景・赤レンガ倉庫 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-cyan-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-cyan-800 uppercase tracking-wider">【1日目】函館空港到着〜赤レンガクリスマス＆名湯漁火露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                12:30 函館空港到着 → タクシーでわずか5分、湯の川温泉の宿へ荷物を預ける
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">12:30 函館空港到着 → タクシーでわずか5分、湯の川温泉の宿へ荷物を預ける</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 空港から直行できる圧倒的な近さ。身軽になって函館市電でベイエリアへ出発。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:30 金森赤レンガ倉庫＆元町異人館街散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:30 金森赤レンガ倉庫＆元町異人館街散策</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 八幡坂から海を見下ろす絶景、ハリストス正教会やカトリック元町教会のエキゾチックな街並みを鑑賞。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                17:30 函館クリスマスファンタジー巨大ツリー点灯式＆冬花火
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">17:30 函館クリスマスファンタジー巨大ツリー点灯式＆冬花火</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 18時の点灯花火を鑑賞し、名物スープバーで温まる。その後市電で湯の川温泉へ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:30 宿で冬イカ＆活毛蟹会席 → 津軽海峡漁火露天風呂で夜景を堪能
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:30 宿で冬イカ＆活毛蟹会席 → 津軽海峡漁火露天風呂で夜景を堪能</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 波打ち際の露天風呂から、漆黒の海に輝く幻想的なイカ釣り漁火を眺めながら極上の湯浴み。
               </p>
@@ -616,21 +588,15 @@ export default function HakodateYunokawaWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】朝の海景露天風呂〜函館朝市海鮮丼＆五稜郭</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝の津軽海峡露天風呂 → 郷土朝食バイキング
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝の津軽海峡露天風呂 → 郷土朝食バイキング</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝日に輝く水平線を眺めながら入浴。いくらかけ放題やイカ刺しの朝食でパワーチャージ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:30 函館朝市で海鮮丼とお土産探し → 特別史跡「五稜郭タワー」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:30 函館朝市で海鮮丼とお土産探し → 特別史跡「五稜郭タワー」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 活気あふれる朝市で毛蟹やいくらを購入。五稜郭タワーから初冬の星形城郭の全貌を見晴らす。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 函館空港より帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 函館空港より帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 温泉街から空港まで車で5分なので、フライト直前まで時間を有効活用できます。
               </p>
@@ -653,10 +619,8 @@ export default function HakodateYunokawaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -671,9 +635,7 @@ export default function HakodateYunokawaWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-300 uppercase tracking-widest">Related Hokkaido & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北海道・東北の冬名湯＆旬の味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北海道・東北の冬名湯＆旬の味覚特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色、温泉街のイルミネーション、旬の海鮮を味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

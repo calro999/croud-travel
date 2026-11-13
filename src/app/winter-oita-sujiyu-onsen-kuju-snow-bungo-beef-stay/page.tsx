@@ -363,9 +363,7 @@ export default function OitaSujiyuKujuPage() {
               <Mountain className="w-4 h-4" />
               九州最高峰の山麓に湧く、開湯千年の古湯と豪快な打たせ湯
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。くじゅうの白銀霧氷と身体の芯まで熱が染み渡る自噴泉
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。くじゅうの白銀霧氷と身体の芯まで熱が染み渡る自噴泉</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -386,9 +384,7 @@ export default function OitaSujiyuKujuPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              筋湯温泉＆九重連山で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">筋湯温泉＆九重連山で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               小松地獄を望む自噴硫黄泉の老舗から離れ風隠れ宿、24種の湯巡りリゾートまで
             </p>
@@ -423,9 +419,7 @@ export default function OitaSujiyuKujuPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -488,35 +482,27 @@ export default function OitaSujiyuKujuPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬のくじゅう高原美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の筋湯・九重で味わい尽くす大分豊後牛と山里の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の筋湯・九重で味わい尽くす大分豊後牛と山里の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰黒毛和牛「おおいた豊後牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰黒毛和牛「おおいた豊後牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 大分の雄大な自然で育まれる「おおいた豊後牛」。肉質等級4等級以上の肉は、細やかな霜降りと人肌で溶ける脂の旨味が絶品。陶板ステーキですっきりと焼き上げるか、甘辛い割下のすき焼きで肉の甘みを引き出します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                九重名物「九重夢ポーク出汁しゃぶ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                九重名物「九重夢ポーク出汁しゃぶ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 九重山麓の清澄な伏流水と厳選した飼料で育つ銘柄豚「九重夢ポーク」。肉質が柔らかく、脂身に臭みが一切ない上品な甘みが特徴。昆布と鰹の特製出汁でいただくしゃぶしゃぶ鍋は、冬の寒さを忘れさせる美味しさです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                温泉地獄蒸しと大分名物だんご汁
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                温泉地獄蒸しと大分名物だんご汁</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 九重の活発な地熱蒸気で一気に蒸し上げる「地獄蒸し」。高原大根やカボチャ、卵の甘みが凝縮されます。さらに、小麦粉を帯状に伸ばした手延べ麺と根菜を味噌仕立てで煮込む名物「だんご汁」は心温まる郷土の味です。
               </p>
@@ -530,17 +516,13 @@ export default function OitaSujiyuKujuPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の筋湯温泉＆九重連山 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の筋湯温泉＆九重連山 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：九重ICから絶景ドライブ・打たせ湯と豊後牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                九重ICから「九重“夢”大吊橋」、筋湯温泉うたせ大浴場と極上会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">九重ICから「九重“夢”大吊橋」、筋湯温泉うたせ大浴場と極上会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 大分自動車道九重ICを出発し、四季彩ロードを抜けて日本有数の高さを誇る「九重“夢”大吊橋」へ。初冬の冷気の中、白銀に煙る震動の滝と九重渓谷の雄大なパノラマを空中散歩。午後、筋湯温泉へチェックイン。共同浴場「うたせ大浴場」で高さ3mから落ちる18筋の打たせ湯を浴び、日頃の肩こりや運転疲れをリフレッシュ。夜は霜降りおおいた豊後牛のすき焼きや九重夢ポークのしゃぶしゃぶ鍋を大分麦焼酎とともに堪能。
               </p>
@@ -550,9 +532,7 @@ export default function OitaSujiyuKujuPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：くじゅう霧氷を仰ぐ朝露天・小松地獄散策とやまなみ絶景
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                白銀の山並み望む朝風呂から「小松地獄」蒸気散策、湯布院・阿蘇へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">白銀の山並み望む朝風呂から「小松地獄」蒸気散策、湯布院・阿蘇へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 澄み渡る朝の空気の中、初雪をかぶった九重連山を望む雪見露天風呂で爽快な湯浴み。朝食に熱々のだんご汁と大分県産米のご飯を味わいチェックアウト。宿のすぐ近くにある「小松地獄」へ向かい、噴煙立ち上る遊歩道散策と名物の地獄蒸し卵作りを体験。その後、やまなみハイウェイをドライブして牧ノ戸峠の霧氷絶景を眺めながら、由布院または阿蘇方面への周遊ルートへ。
               </p>
@@ -566,15 +546,11 @@ export default function OitaSujiyuKujuPage() {
             <Snowflake className="w-4 h-4" />
             11月・12月の気候・雪道運転・服装完全ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            標高1000m高原の寒さとやまなみハイウェイ運転注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">標高1000m高原の寒さとやまなみハイウェイ運転注意点</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Clock className="w-4 h-4 text-sky-700" />
-                高原気候の寒暖差と防寒装備
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Clock className="w-4 h-4 text-sky-700" />
+                高原気候の寒暖差と防寒装備</h3>
               <p>
                 筋湯温泉は標高1000mに位置するため、平地（大分市や福岡市）よりも気温が約6〜8℃低くなります。11月中旬の朝晩は氷点下に達し、12月は日中でも5℃を下回ります。
               </p>
@@ -584,10 +560,8 @@ export default function OitaSujiyuKujuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                やまなみハイウェイの積雪・凍結対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                やまなみハイウェイの積雪・凍結対策</h3>
               <p>
                 九重ICから四季彩ロード、または湯布院・阿蘇方面からのやまなみハイウェイは、冬期に積雪や夜間凍結が発生します。11月下旬以降はスタッドレスタイヤの装着、またはチェーンの携行が必須です。
               </p>
@@ -598,10 +572,8 @@ export default function OitaSujiyuKujuPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              名物「打たせ湯」の安全な入浴法とマナー
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              名物「打たせ湯」の安全な入浴法とマナー</h3>
             <p>
               うたせ大浴場の湯は高さ3mから勢いよく落下するため、直接頭部や顔に当てるのは避けてください。まずは肩や背中にタオルを当てて、水圧を適度に和らげながら受けるのがベストです。
             </p>
@@ -617,16 +589,12 @@ export default function OitaSujiyuKujuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の筋湯温泉＆九重連山旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の筋湯温泉＆九重連山旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -638,10 +606,8 @@ export default function OitaSujiyuKujuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい大分・九州の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい大分・九州の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               湯布院の朝霧、別府の湯けむり、長湯の炭酸泉を満喫する極上冬旅ガイド
             </p>
@@ -653,9 +619,7 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                金鱗湖の幻想的な朝霧と豊後牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">金鱗湖の幻想的な朝霧と豊後牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の金鱗湖から立ち上る湯気と由布岳の雪景色、極上豊後牛を堪能する大人の休日。
               </p>
@@ -666,9 +630,7 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鉄輪温泉の湯けむり展望と地獄蒸し
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鉄輪温泉の湯けむり展望と地獄蒸し</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 立ち上る湯けむりと別府湾の夜景、名物地獄蒸し料理と豊後牛ステーキを味わう旅。
               </p>
@@ -679,9 +641,7 @@ export default function OitaSujiyuKujuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                日本一の高濃度炭酸泉と芹川雪景色
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">日本一の高濃度炭酸泉と芹川雪景色</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 全身を泡が包む世界屈指の炭酸泉と名物ラムネ温泉館、豊後牛しゃぶしゃぶ。
               </p>

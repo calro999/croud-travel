@@ -294,10 +294,8 @@ export default function MiyazakiMiyakonojoWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-emerald-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の宮崎・都城旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-emerald-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の宮崎・都城旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
                 <span className="font-bold text-emerald-900 block mb-1">① 天孫降臨神話の古刹初詣</span>
@@ -322,9 +320,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-emerald-600 pl-4">
               <span className="text-emerald-600 font-bold text-sm tracking-wider uppercase">Mythology & Sacred Sights</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                天孫降臨の息吹を感じる「狭野神社・霧島東神社」初詣と白銀の高千穂峰
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">天孫降臨の息吹を感じる「狭野神社・霧島東神社」初詣と白銀の高千穂峰</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -347,9 +343,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-500 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Gourmet Capital</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                肉用牛日本一！至高の「都城産宮崎牛」と本場本格芋焼酎の贅沢なマリアージュ
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">肉用牛日本一！至高の「都城産宮崎牛」と本場本格芋焼酎の贅沢なマリアージュ</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -372,9 +366,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-emerald-600 pl-4">
               <span className="text-emerald-600 font-bold text-sm tracking-wider uppercase">Recommended Accommodations</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                霧島連山の雪景色と極上宮崎牛・美肌温泉を愉しむ名宿5選
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">霧島連山の雪景色と極上宮崎牛・美肌温泉を愉しむ名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
                 楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
               </p>
@@ -399,9 +391,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
                             {hotel.access.split('、')[0]}
                           </span>
                         </div>
-                        <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl md:text-2xl font-bold text-slate-900">{hotel.name}</h3>
                       </div>
                       <div className="flex items-center gap-3">
                         <div className="text-right">
@@ -425,10 +415,8 @@ export default function MiyazakiMiyakonojoWinterPage() {
 
                     {/* Highlights */}
                     <div className="bg-slate-50 p-4 rounded-xl border border-slate-200/80">
-                      <h4 className="text-xs font-bold text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5">
-                        <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
-                        <span>この宿の特長・おすすめポイント</span>
-                      </h4>
+                      <h4 className="text-xs font-bold text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-emerald-600" />
+                        <span>この宿の特長・おすすめポイント</span></h4>
                       <ul className="space-y-1.5">
                         {hotel.highlights.map((h, hIdx) => (
                           <li key={hIdx} className="text-xs md:text-sm text-slate-700 flex items-start gap-2">
@@ -479,9 +467,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-teal-600 pl-4">
               <span className="text-teal-600 font-bold text-sm tracking-wider uppercase">Itinerary Guide</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の都城・霧島山麓を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の都城・霧島山麓を満喫する1泊2日王道モデルコース</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-6">
@@ -520,9 +506,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-teal-600 pl-4">
               <span className="text-teal-600 font-bold text-sm tracking-wider uppercase">Travel Tips & Weather</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の都城・霧島山麓の気候・服装と山道ドライブの注意点
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の都城・霧島山麓の気候・服装と山道ドライブの注意点</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-4 text-slate-700 text-sm md:text-base leading-relaxed">
@@ -552,18 +536,14 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-emerald-600 pl-4">
               <span className="text-emerald-600 font-bold text-sm tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                都城・霧島東麓初詣＆冬の宮崎旅行に関するよくある質問
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">都城・霧島東麓初詣＆冬の宮崎旅行に関するよくある質問</h2>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                    <span className="text-emerald-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h3>
                   <p className="text-slate-700 text-sm md:text-base leading-relaxed pl-6 border-l-2 border-emerald-100">
                     {faq.a}
                   </p>
@@ -576,9 +556,7 @@ export default function MiyazakiMiyakonojoWinterPage() {
           <section className="bg-gradient-to-br from-slate-900 to-emerald-950 rounded-3xl p-8 text-white space-y-6 shadow-xl">
             <div>
               <span className="text-emerald-400 text-xs font-bold uppercase tracking-wider">Related Destinations</span>
-              <h2 className="text-xl md:text-2xl font-bold mt-1">
-                あわせて読みたい九州・冬の厳選旅特集
-              </h2>
+              <h2 className="text-xl md:text-2xl font-bold mt-1">あわせて読みたい九州・冬の厳選旅特集</h2>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

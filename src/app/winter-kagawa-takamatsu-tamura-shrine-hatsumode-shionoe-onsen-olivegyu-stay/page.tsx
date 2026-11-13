@@ -303,10 +303,8 @@ export default function KagawaTakamatsuWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-teal-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の高松・塩江温泉旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-teal-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の高松・塩江温泉旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-teal-50/60 p-4 rounded-xl border border-teal-100">
               <span className="font-bold text-teal-950 block mb-1">① 田村神社 新春初詣と龍神伝説</span>
@@ -344,9 +342,7 @@ export default function KagawaTakamatsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest block">SANUKI WINTER LANDSCAPE</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                名木が雪吊りに護られる三つ星庭園と、龍神宿る一ノ宮に響く新春の祈り
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">名木が雪吊りに護られる三つ星庭園と、龍神宿る一ノ宮に響く新春の祈り</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function KagawaTakamatsuWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sunrise className="w-4 h-4 text-teal-700" /> 田村神社 新春初詣
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Sunrise className="w-4 h-4 text-teal-700" /> 田村神社 新春初詣</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 讃岐国一ノ宮。黄金の龍神像と神聖な定水井を祀り、開運・金運・交通安全を祈る高松隨一の初詣霊場。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Flower2 className="w-4 h-4 text-teal-700" /> 栗林公園 冬の雪吊り
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Flower2 className="w-4 h-4 text-teal-700" /> 栗林公園 冬の雪吊り</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 ミシュラン三つ星の大名庭園。職人の技が光る雪吊りと松の造形美。掬月亭でいただく抹茶も格別。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-teal-700" /> 塩江温泉郷 美肌の湯
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Waves className="w-4 h-4 text-teal-700" /> 塩江温泉郷 美肌の湯</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 高松の奥座敷として愛される開湯1300年の名湯。とろみのある良泉が冬の冷えた体を芯から温める。
               </p>
@@ -398,9 +388,7 @@ export default function KagawaTakamatsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">SANUKI GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                冬の讃岐の魂「しっぽくうどん」と、芳醇な霜降り「讃岐オリーブ牛」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">冬の讃岐の魂「しっぽくうどん」と、芳醇な霜降り「讃岐オリーブ牛」</h2>
             </div>
           </div>
 
@@ -425,9 +413,7 @@ export default function KagawaTakamatsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest block">ISLAND & SHORE HIGHLIGHTS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                屋島からの冬夕景と、ことでん電車に揺られる大人の冬散歩
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">屋島からの冬夕景と、ことでん電車に揺られる大人の冬散歩</h2>
             </div>
           </div>
 
@@ -446,10 +432,8 @@ export default function KagawaTakamatsuWinterPage() {
 
         {/* Section 4: Travel Practical Tips */}
         <section className="bg-slate-100/80 rounded-2xl p-6 md:p-8 border border-slate-200 space-y-4">
-          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-            <span>冬の高松・塩江温泉 旅の実践アドバイス（気候・服装・うどん巡り）</span>
-          </h2>
+          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+            <span>冬の高松・塩江温泉 旅の実践アドバイス（気候・服装・うどん巡り）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
             <div>
               <strong className="block text-slate-900 font-bold mb-1">【気候と防寒】</strong>
@@ -468,9 +452,7 @@ export default function KagawaTakamatsuWinterPage() {
             <span className="text-xs font-black text-teal-800 uppercase tracking-widest bg-teal-100 px-3 py-1 rounded-full inline-block">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              田村神社参拝＆塩江温泉を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">田村神社参拝＆塩江温泉を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。瀬戸内海を望む駅前ランドマークホテルから、商店街直結の快適ホテル、塩江温泉の渓谷露天風呂リゾートまで厳選しました。
             </p>
@@ -510,11 +492,9 @@ export default function KagawaTakamatsuWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-teal-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -580,19 +560,15 @@ export default function KagawaTakamatsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest block">MODEL ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                田村神社初詣＆栗林公園・塩江温泉 1泊2日冬の黄金モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">田村神社初詣＆栗林公園・塩江温泉 1泊2日冬の黄金モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-teal-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-teal-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                栗林公園の冬雪吊りを愛で、名物しっぽくうどんを味わう
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-teal-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                栗林公園の冬雪吊りを愛で、名物しっぽくうどんを味わう</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:00 高松空港またはJR高松駅に到着</strong><br />
                 高松市内の名店で熱々の「しっぽくうどん」を昼食に。根菜の出汁が染みた温かい一杯で旅の活力を充填。
@@ -609,10 +585,8 @@ export default function KagawaTakamatsuWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                讃岐一ノ宮「田村神社」で新春祈願、屋島から冬の瀬戸内海を一望
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                讃岐一ノ宮「田村神社」で新春祈願、屋島から冬の瀬戸内海を一望</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:30 田村神社へ新春初詣</strong><br />
                 龍神が棲む定水井や黄金の龍神像に手を合わせ、新年の開運と福徳を祈願。日曜なら名物の境内手打ちうどんも楽しむ。
@@ -637,19 +611,15 @@ export default function KagawaTakamatsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                高松・塩江温泉 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">高松・塩江温泉 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-teal-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-teal-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>

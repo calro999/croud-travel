@@ -269,9 +269,7 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Valley Snow & Historic Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の箒川渓谷美と多彩な名湯｜11月・12月に塩原温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の箒川渓谷美と多彩な名湯｜11月・12月に塩原温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Valley Landscape & Geology</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                箒川の浸食がつくり出した奇岩渓谷と初冬の粉雪グラデーション
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">箒川の浸食がつくり出した奇岩渓谷と初冬の粉雪グラデーション</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function TochigiShiobaraWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Selected Historic Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【塩原温泉】初冬の雪見露天と極上美食を堪能する厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【塩原温泉】初冬の雪見露天と極上美食を堪能する厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               箒川の絶景野天風呂、創業数百年の名湯老舗、極上とちぎ和牛を味わえるおすすめの宿を詳しく紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function TochigiShiobaraWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-700 transition-colors">
-                      <a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
                         {h.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       {h.story}
@@ -444,9 +436,7 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                塩原十一湯が誇る泉質多様性と寒冷高原が生む極甘大根の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">塩原十一湯が誇る泉質多様性と寒冷高原が生む極甘大根の秘密</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -467,9 +457,7 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の箒川雪見露天・塩原大根ととちぎ和牛を堪能する名湯旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の箒川雪見露天・塩原大根ととちぎ和牛を堪能する名湯旅</h2>
             </div>
           </div>
 
@@ -538,48 +526,38 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Advice & Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の塩原温泉旅行を快適に楽しむための4大秘訣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の塩原温泉旅行を快適に楽しむための4大秘訣</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-emerald-600" />
-                11月下旬以降の国道400号は冬用タイヤ必須
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-emerald-600" />
+                11月下旬以降の国道400号は冬用タイヤ必須</h3>
               <p className="leading-relaxed">
                 西那須野塩原ICから塩原温泉へ向かう国道400号（塩原バレーライン）は、標高が上がるにつれて路面温度が下がります。11月下旬以降は日陰や橋の上で路面凍結が発生しやすいため、車でお越しの際は必ずスタッドレスタイヤを装着してください。
               </p>
             </div>
 
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-emerald-600" />
-                渓谷の野天風呂は足元と湯冷めに注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-emerald-600" />
+                渓谷の野天風呂は足元と湯冷めに注意</h3>
               <p className="leading-relaxed">
                 湯守田中屋や明賀屋本館などの名物川岸露天風呂は、長い階段を下りて川底へと向かいます。初冬の階段は冷え込むため、宿備え付けの羽織や厚手のソックスを着用し、滑りにくい履物でゆっくり足元に注意して移動しましょう。
               </p>
             </div>
 
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-emerald-600" />
-                名物「とて焼」は個性豊かな10種類以上
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+                名物「とて焼」は個性豊かな10種類以上</h3>
               <p className="leading-relaxed">
                 昔、トテ馬車のラッパに似せて名付けられた「とて焼」。どら焼き風のふんわり生地で包む具材は、あんこや生クリームのスイーツ系から、黒毛和牛焼き肉や焼きそばなどの食事系まで各店舗で全く異なります。食べ比べを楽しむのが塩原散策の醍醐味です。
               </p>
             </div>
 
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-emerald-600" />
-                栃木の地酒「天鷹」「惣誉」とのマリアージュ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-emerald-600" />
+                栃木の地酒「天鷹」「惣誉」とのマリアージュ</h3>
               <p className="leading-relaxed">
                 那須山麓の清らかな伏流水で醸造される栃木の辛口地酒は、濃厚なとちぎ和牛の脂をすっきりと流し、甘みのある塩原大根や香ばしい川魚の塩焼きと見事な調和を生み出します。夕食時にはぜひ地酒の利き酒セットをお試しください。
               </p>
@@ -595,19 +573,15 @@ export default function TochigiShiobaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                塩原温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">塩原温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-emerald-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -620,9 +594,7 @@ export default function TochigiShiobaraWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！北関東・日光那須の冬雪見温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！北関東・日光那須の冬雪見温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               栃木・群馬の厳選された雪見名湯や極上和牛の特集記事もぜひチェックしてください。
             </p>

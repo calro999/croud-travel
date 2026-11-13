@@ -108,9 +108,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  15個の石の配置に込められた禅の真理、縁側で過ごす瞑想の静寂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">15個の石の配置に込められた禅の真理、縁側で過ごす瞑想の静寂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三大枯山水庭園の最大の魅力は、眺める人の心境によって見えてくる風景が千変万化する深遠さにあります。「吾唯足知（われただたるをしる）」の蹲（つくばい）が有名な龍安寺で、どの位置から見ても完璧に調和する石の宇宙を眺める。大仙院で激流から大海原へと至る石の物語に自身の人生を重ね合わせる。大徳寺龍源院の四面を囲む四つの異なる庭園を巡る。言葉を超えた静寂の対話が、心に深い落ち着きと新たな視座を与えてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  大徳寺納豆、本格精進料理、京都が誇る洗練された旬の京懐石美食
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">大徳寺納豆、本格精進料理、京都が誇る洗練された旬の京懐石美食</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 禅寺の門前には、何百年も受け継がれてきた伝統の発酵食や精進料理の名店が並びます。一休宗純ゆかりの塩気と深い旨味が凝縮された「大徳寺納豆」、季節の湯葉や生麩、京野菜を贅沢に炊き合わせた滋味豊かな精進料理、そして宿泊先の料理旅館でいただく鮎や鱧、近江牛を織り交ぜた至高の京懐石。身体の内側を清らかに整える美食体験が、禅の旅を完璧に締めくくります。
@@ -138,9 +134,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  保津川渓谷を望むラグジュアリーリゾートや御所近くの名門ホテルステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">保津川渓谷を望むラグジュアリーリゾートや御所近くの名門ホテルステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 嵐山で渡月橋と保津川を借景に明治の元勲の別邸をリノベートした世界最高峰の「翠嵐ラグジュアリーコレクションホテル京都」、京都御所の緑を間近に望み洗練されたホスピタリティを誇る「京都ブライトンホテル」、東山山麓の雄大な敷地と名勝庭園・天然温泉スパを併せ持つ「ウェスティン都ホテル京都」。ふるさと納税クーポンを使えば、憧れのスーペリアスイートも実質2,000円で驚くほどお得に予約可能です。
@@ -181,9 +175,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市右京区嵯峨天龍寺芒ノ馬場町12</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    翠嵐ラグジュアリーコレクションホテル京都
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">翠嵐ラグジュアリーコレクションホテル京都</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     清らかな環境と行き届いたおもてなし、地元の旬の素材を活かした極上料理と名湯が自慢の名宿です。
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市上京区仕丁町330</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都ブライトンホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都ブライトンホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市東山区粟田口華頂町1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ウェスティン都ホテル京都
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ウェスティン都ホテル京都</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「プラチナ特典のアップグレードと素敵な大浴場マリオットのプラチナ会員です。アップグレードしていただいたお部屋です。ラウンジで夕飯にはならないので外で食べました。お酒に合うオードブル、ちょっとし…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】翠嵐ラグジュアリーコレクションホテル京都を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】翠嵐ラグジュアリーコレクションホテル京都を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と翠嵐ラグジュアリーコレクションホテル京都の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と翠嵐ラグジュアリーコレクションホテル京都の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

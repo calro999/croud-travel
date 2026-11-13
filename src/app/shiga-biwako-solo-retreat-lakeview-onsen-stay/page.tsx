@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            水平線のように広がる母なる湖の蒼さと、比良山系に沈む茜色の夕日——京都からわずか10分で出会える静寂と名湯「琵琶湖大人の水辺リトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">水平線のように広がる母なる湖の蒼さと、比良山系に沈む茜色の夕日——京都からわずか10分で出会える静寂と名湯「琵琶湖大人の水辺リトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             日本最大の湖であり、古代から近畿の水瓶として人々の営みを支えてきた滋賀県・琵琶湖。JR京都駅から新快速に乗ればわずか2駅・約9分で大津駅に到着するという驚異的なアクセスの良さを誇りながら、京都市内の喧騒とは打って変わった圧倒的な開放感と静寂が広がっています。波のない穏やかな湖面を眺めながら過ごす時間は、張り詰めた神経を優しく解きほぐす天然のヒーリング空間です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全室バルコニー付きレイクビュー！大津港すぐ・天然温泉大浴場「るりの湯」と近江牛ディナー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  琵琶湖ホテル —— 湖畔のフラッグシップリゾート。客室テラスから望むびわこ花噴水と天然温泉の寛ぎ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">琵琶湖ホテル —— 湖畔のフラッグシップリゾート。客室テラスから望むびわこ花噴水と天然温泉の寛ぎ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   地上136m・世界的建築家・丹下健三設計の38階超高層タワー！全室レイクフロントのパノラマビュー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  びわ湖大津プリンスホテル —— 圧倒的なスケール感。半円形タワーから見渡す琵琶湖のダイナミックパノラマ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">びわ湖大津プリンスホテル —— 圧倒的なスケール感。半円形タワーから見渡す琵琶湖のダイナミックパノラマ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   最澄開湯1200年の名湯「おごと温泉」！客室露天風呂と湖畔のデッキテラスが彩る極上旅館
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  おごと温泉 びわこ緑水亭 —— 水辺の安らぎを極めた宿。美肌のアルカリ性単純温泉とお部屋食近江牛会席
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">おごと温泉 びわこ緑水亭 —— 水辺の安らぎを極めた宿。美肌のアルカリ性単純温泉とお部屋食近江牛会席</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              琵琶湖の静寂と歴史を一人旅で味わい尽くす散策術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">琵琶湖の静寂と歴史を一人旅で味わい尽くす散策術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 琵琶湖汽船「ミシガンクルーズ」で湖上からの爽快パノラマクルーズ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 琵琶湖汽船「ミシガンクルーズ」で湖上からの爽快パノラマクルーズ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 大津港から出航する陽気な外輪船。最上階デッキで心地よい湖風を感じながら、比叡山や湖畔の景色を360度見渡せます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 国宝「近江八景」三井寺（園城寺）の静寂な境内と観音堂からの眺望
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 国宝「近江八景」三井寺（園城寺）の静寂な境内と観音堂からの眺望</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 弁慶の引き摺り鐘で名高い古刹。静まり返った木立の中を歩き、高台から琵琶湖を見下ろす朝散歩は心のデトックス。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夕食には近江牛のステーキまたは伝統の湖魚料理（鮎・鮒ずし）と滋賀の地酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夕食には近江牛のステーキまたは伝統の湖魚料理（鮎・鮒ずし）と滋賀の地酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 近江牛の濃厚な旨味を、「松の司」「喜楽長」など米の旨味がしっかり乗った純米酒が引き立てます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>京都観光の拠点として琵琶湖湖畔に泊まるのは便利ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>京都観光の拠点として琵琶湖湖畔に泊まるのは便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 JR大津駅へは京都駅から新快速でわずか2駅（約9分）のため、京都市内の混雑したホテルを避け、湖畔の広い温泉宿で静かに寛ぐ滞在スタイルが非常に人気です。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で近江牛会席やお部屋食を楽しめる宿はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で近江牛会席やお部屋食を楽しめる宿はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ご紹介したびわこ緑水亭をはじめ、近年はおひとりさま専用の近江牛プランやお部屋食プランが充実しており、一人でも気兼ねなく名門和牛を堪能できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】琵琶湖ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】琵琶湖ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

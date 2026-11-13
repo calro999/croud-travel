@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            夜空に煌めく名駅のビル群と、トレインビューのパノラマ——終演後の大混雑を避けて優雅に余韻に浸る「名古屋スマート遠征」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">夜空に煌めく名駅のビル群と、トレインビューのパノラマ——終演後の大混雑を避けて優雅に余韻に浸る「名古屋スマート遠征」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             5大ドームツアーの重要拠点である「バンテリンドーム ナゴヤ」や、数々の熱いライブが繰り広げられる「Zepp Nagoya」。名古屋への遠征は新幹線のアクセスも良く大人気ですが、最大の課題となるのが「終演後の地下鉄東山線・名城線の大混雑」です。約5万人の観客が一斉に駅へ殺到するため、改札口に入るまでに何十分も待たされることも珍しくありません。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全客室が地上31〜36階の高層階！Zepp Nagoya徒歩すぐ・あおなみ線ささしまライブ駅直結の天空パノラマホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  名古屋プリンスホテル スカイタワー —— 地上140mからのトレインビューと摩天楼。Zepp Nagoya遠征の最高峰拠点
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">名古屋プリンスホテル スカイタワー —— 地上140mからのトレインビューと摩天楼。Zepp Nagoya遠征の最高峰拠点</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   中部圏随一の伝統と格式！1936年開業の老舗グランドホテルで味わう最高峰のおもてなしと洗練された客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  名古屋観光ホテル —— 地下鉄伏見駅徒歩2分。名駅と栄の中間に位置し、ドームへもアクセス抜群の上質クラシックホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">名古屋観光ホテル —— 地下鉄伏見駅徒歩2分。名駅と栄の中間に位置し、ドームへもアクセス抜群の上質クラシックホテル</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   名鉄名古屋駅・JR名古屋駅桜通口から直結！新幹線改札から雨に濡れずにチェックインできる抜群の機動力
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  名鉄グランドホテル —— 名古屋駅前の老舗シティホテル。遠征の荷物預けや新幹線乗り継ぎに最強のアクセス
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">名鉄グランドホテル —— 名古屋駅前の老舗シティホテル。遠征の荷物預けや新幹線乗り継ぎに最強のアクセス</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              バンテリンドーム ナゴヤ遠征をスマートに乗り切る3つの極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">バンテリンドーム ナゴヤ遠征をスマートに乗り切る3つの極意</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 帰りは「大曽根駅」まで徒歩約15分歩いてJR中央線を使う
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 帰りは「大曽根駅」まで徒歩約15分歩いてJR中央線を使う</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 最寄りの地下鉄「ナゴヤドーム前矢田駅」は大混雑します。少し歩いて大曽根駅からJR中央線快速に乗れば、約12分で名古屋駅へスムーズに戻れます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 遠征メシは名駅地下街「エスカ」の名古屋めし
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 遠征メシは名駅地下街「エスカ」の名古屋めし</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ひつまぶし、味噌カツ、手羽先、台湾ラーメンなど、名古屋駅地下街には名店が密集。遠征の合間にご当地グルメを効率よく制覇できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. ペンライトの予備電池と双眼鏡の事前点検
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. ペンライトの予備電池と双眼鏡の事前点検</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ドーム規模の会場では5階席やスタンド上段になることも。防振双眼鏡や明るいレンズの双眼鏡、替えの単4電池は遠征前のマストアイテムです。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>遠征グッズ（うちわ・ペンライト）をホテルで受け取ることはできますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>遠征グッズ（うちわ・ペンライト）をホテルで受け取ることはできますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 事前に通販で購入したグッズをホテル気付で送付する場合、宿泊代表者氏名と宿泊日を明記しておけばフロントで預かってもらえるホテルがほとんどです（事前連絡推奨）。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>チェックアウト後に新幹線の時間まで荷物を預けられますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>チェックアウト後に新幹線の時間まで荷物を預けられますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、ご紹介した3ホテルとも宿泊当日のチェックアウト後、新幹線の出発時刻まで無料でクロークにて荷物を預かってくれます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】名古屋観光ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】名古屋観光ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

@@ -328,9 +328,7 @@ export default function KanagawaOyamaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10">
           <span className="text-teal-600 font-bold text-sm tracking-widest uppercase">HERITAGE & VIEWS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-            江戸庶民を魅了した「大山詣り」と冬の絶景パノラマ
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">江戸庶民を魅了した「大山詣り」と冬の絶景パノラマ</h2>
           <div className="w-16 h-1 bg-teal-500 rounded-full mb-6" />
         </div>
 
@@ -355,9 +353,7 @@ export default function KanagawaOyamaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="mb-10">
             <span className="text-amber-600 font-bold text-sm tracking-widest uppercase">FOOD & SPA CULTURE</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-              名水が育む大山豆腐と丹沢温泉郷の極上湯浴み
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">名水が育む大山豆腐と丹沢温泉郷の極上湯浴み</h2>
             <div className="w-16 h-1 bg-amber-500 rounded-full mb-6" />
           </div>
 
@@ -393,9 +389,7 @@ export default function KanagawaOyamaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10">
           <span className="text-teal-600 font-bold text-sm tracking-widest uppercase">RECOMMENDED ITINERARY</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-            大山新春初詣＆名湯名宿 1泊2日 モデルコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">大山新春初詣＆名湯名宿 1泊2日 モデルコース</h2>
           <div className="w-16 h-1 bg-teal-500 rounded-full mb-6" />
         </div>
 
@@ -452,9 +446,7 @@ export default function KanagawaOyamaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center max-w-2xl mx-auto mb-12">
             <span className="text-teal-400 font-bold text-sm tracking-widest uppercase">HOTEL & RYOKAN SELECTION</span>
-            <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">
-              大山初詣・丹沢冬旅に選ばれる厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">大山初詣・丹沢冬旅に選ばれる厳選名宿5選</h2>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed">
               楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。将棋名人戦舞台の老舗名門旅館から東丹沢の秘湯、インター直結の機能派ホテルまで厳選しました。
             </p>
@@ -509,9 +501,7 @@ export default function KanagawaOyamaWinterPage() {
                   {/* Hotel Details */}
                   <div className="lg:col-span-7 flex flex-col justify-between">
                     <div>
-                      <h3 className="text-xl md:text-2xl font-black text-white mb-3 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-white mb-3 font-journal-serif">{hotel.name}</h3>
                       <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-5">
                         {hotel.story}
                       </p>
@@ -561,19 +551,15 @@ export default function KanagawaOyamaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10 text-center">
           <span className="text-teal-600 font-bold text-sm tracking-widest uppercase">FREQUENTLY ASKED QUESTIONS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-3 font-journal-serif">
-            冬の大山初詣・丹沢温泉 よくある質問
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-3 font-journal-serif">冬の大山初詣・丹沢温泉 よくある質問</h2>
           <div className="w-16 h-1 bg-teal-500 rounded-full mx-auto" />
         </div>
 
         <div className="space-y-4 max-w-3xl mx-auto">
           {faqsData.map((faq, index) => (
             <div key={index} className="bg-white rounded-xl border border-slate-200 p-5 shadow-sm">
-              <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                <span className="bg-teal-100 text-teal-800 text-xs px-2 py-1 rounded font-black shrink-0 mt-0.5">Q</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="bg-teal-100 text-teal-800 text-xs px-2 py-1 rounded font-black shrink-0 mt-0.5">Q</span>
+                <span>{faq.q}</span></h3>
               <p className="text-slate-600 text-sm md:text-base leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -587,9 +573,7 @@ export default function KanagawaOyamaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-8">
             <span className="text-slate-500 font-bold text-xs tracking-widest uppercase">RELATED WINTER FEATURES</span>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 mt-1">
-              あわせて読みたい冬の厳選旅行特集
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 mt-1">あわせて読みたい冬の厳選旅行特集</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">

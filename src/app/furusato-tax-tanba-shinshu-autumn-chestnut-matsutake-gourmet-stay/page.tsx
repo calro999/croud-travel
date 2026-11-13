@@ -89,9 +89,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            炭火で弾ける大粒の焼き栗、立ちのぼる松茸の高貴な香り。秋の限られた時期だけに許された本物の味覚旅行へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">炭火で弾ける大粒の焼き栗、立ちのぼる松茸の高貴な香り。秋の限られた時期だけに許された本物の味覚旅行へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本の秋を象徴する二大味覚「栗」と「松茸」。その最高峰として古くから朝廷や幕府に献上されてきたのが、兵庫県「丹波篠山」の丹波栗・丹波松茸、そして長野県「信州小布施」の小布施栗です。10月から11月にかけてのわずか数週間、産地の城下町や里山には収穫されたばかりの新栗を使った「焼き栗」「栗きんとん」「栗おこわ」が並び、炭火で香ばしく焼き上げられた地場産松茸の香りが漂います。江戸時代からの風情を残す篠山城下町で創業百六十年の歴史を刻み極上のぼたん鍋や丹波松茸会席を提供する「料理旅館 たかさご」、ぼたん鍋発祥の宿として皇室にも愛されてきた老舗名門「丹波篠山 近又」、そして栗と北斎の町・小布施の高台に位置し五色の変わり湯と信州の秋の味覚を堪能できる「小布施温泉 あけびの湯」。この秋だけの特別な美食体験を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、記憶に刻まれる至高の味覚探訪へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  10〜11月限定！本場・丹波篠山＆信州小布施の朝採れ新栗スイーツ＆栗おこわ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">10〜11月限定！本場・丹波篠山＆信州小布施の朝採れ新栗スイーツ＆栗おこわ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 一般的な栗とは一線を画す大粒でねっとりとした濃厚な甘み。絞りたての高級モンブランや焼き栗、ほくほくの栗ご飯を産地ならではの鮮度で味わえます。
@@ -122,9 +118,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  芳醇な香りが広がる「焼き松茸・松茸土瓶蒸し」と名物「丹波篠山ぼたん鍋」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">芳醇な香りが広がる「焼き松茸・松茸土瓶蒸し」と名物「丹波篠山ぼたん鍋」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 炭火でじっくり焼き上げる香ばしい国産松茸と、秋から脂が乗り始める天然猪肉を使った味噌仕立てのぼたん鍋。身体の芯から温まる秋の贅沢です。
@@ -137,9 +131,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  江戸情緒漂う城下町散策と、硫黄香る名湯・絶景露天風呂でのリフレッシュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">江戸情緒漂う城下町散策と、硫黄香る名湯・絶景露天風呂でのリフレッシュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 重伝建の町並みや葛飾北斎ゆかりの美術館を散策した後は、成分濃厚な天然温泉に浸かり、日頃の疲れを静かに解きほぐすことができます。
@@ -174,9 +166,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                       ★ 4.00 <span className="text-stone-400 text-xs">(4件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    丹波篠山・料理旅館　たかさご
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">丹波篠山・料理旅館　たかさご</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県丹波篠山市二階町6 ｜ ＪＲ福知山線　篠山口駅よりお車で約15分/舞鶴若狭自動車道　丹南篠山口よりお車で約10分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                       ★ 4.42 <span className="text-stone-400 text-xs">(88件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    丹波篠山　近又
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">丹波篠山　近又</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県丹波篠山市二階町81 ｜ 舞鶴若狭自動車道「丹南篠山口I.C」より3km/JR福知山線「篠山口」駅よりバス約15分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
                       ★ 4.27 <span className="text-stone-400 text-xs">(337件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    小布施温泉あけびの湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">小布施温泉あけびの湯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県上高井郡小布施町雁田1311 ｜ 小布施スマートICより車で約10分。長野電鉄小布施駅よりタクシーで約5分、徒歩約30分。
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】丹波篠山・料理旅館 たかさごを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】丹波篠山・料理旅館 たかさごを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoTanbaShinshuChestnutMatsutakeStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と丹波篠山・料理旅館 たかさごの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と丹波篠山・料理旅館 たかさごの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

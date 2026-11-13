@@ -221,9 +221,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
               <span className="inline-block px-2.5 py-0.5 rounded bg-cyan-500/20 text-cyan-300 text-xs font-bold border border-cyan-500/30 mb-1">
                 お得なおこもり宿泊予約
               </span>
-              <h2 className="text-base sm:text-lg font-bold text-white">
-                楽天トラベル 雨の日応援＆温泉割引クーポン配布中！
-              </h2>
+              <h2 className="text-base sm:text-lg font-bold text-white">楽天トラベル 雨の日応援＆温泉割引クーポン配布中！</h2>
               <p className="text-xs text-slate-300">
                 強羅温泉・箱根湯本の露天風呂付き客室・にごり湯旅館で使える限定クーポン
               </p>
@@ -238,9 +236,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
       {/* 目次・ナビゲーション */}
       <div className="max-w-4xl mx-auto px-4 sm:px-6 mt-12">
         <div className="bg-slate-800/50 rounded-xl p-6 border border-slate-700">
-          <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400 mb-3 flex items-center gap-2">
-            <span>📑</span> この記事のコンテンツ目次
-          </h2>
+          <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400 mb-3 flex items-center gap-2">この記事のコンテンツ目次</h2>
           <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-sm text-cyan-300">
             <li>
               <a href="#itinerary" className="hover:underline hover:text-cyan-200 flex items-center gap-1.5">
@@ -278,9 +274,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             <div className="inline-block text-xs font-bold uppercase tracking-widest text-cyan-400 mb-2">
               SCHEDULE & ROUTE
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white">
-              雨の箱根を極上の休日に変える 1泊2日モデルコース
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white">雨の箱根を極上の休日に変える 1泊2日モデルコース</h2>
             <p className="text-slate-300 text-sm mt-2">
               外歩きの時間を可能な限り短縮し、施設間の移動は直行バスまたはタクシーを活用。屋内での体験と温泉滞在を最大化させた緻密なタイムスケジュールです。
             </p>
@@ -293,9 +287,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                   <span className="text-xs font-bold text-cyan-400 uppercase tracking-wider block mb-1">
                     DAY {dayIdx + 1}
                   </span>
-                  <h3 className="text-lg sm:text-xl font-bold text-white mb-2">
-                    {dayPlan.day}
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-white mb-2">{dayPlan.day}</h3>
                   <p className="text-xs sm:text-sm text-slate-300">
                     💡 {dayPlan.theme}
                   </p>
@@ -315,9 +307,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                         </span>
                       </div>
 
-                      <h4 className="text-base font-bold text-white mb-1.5">
-                        {item.title}
-                      </h4>
+                      <h4 className="text-base font-bold text-white mb-1.5">{item.title}</h4>
                       <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-2">
                         {item.desc}
                       </p>
@@ -339,9 +329,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             <div className="inline-block text-xs font-bold uppercase tracking-widest text-cyan-400 mb-2">
               INDOOR ATTRACTIONS
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white">
-              雨の日だからこそ訪れたい！箱根の極上屋内スポット4選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white">雨の日だからこそ訪れたい！箱根の極上屋内スポット4選</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -413,9 +401,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-wider block mb-1">
               TRAVEL HACKS
             </span>
-            <h2 className="text-xl sm:text-2xl font-black text-white">
-              雨の箱根をストレスフリーにする4大秘訣
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white">雨の箱根をストレスフリーにする4大秘訣</h2>
             <p className="text-xs sm:text-sm text-slate-300 mt-1">
               事前のちょっとした準備と知識で、雨の日特有の不快感をすべて回避できます。
             </p>
@@ -442,9 +428,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest block mb-1">
               RECOMMENDED HOTELS & RYOKAN
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white">
-              雨音に癒やされる箱根のおすすめ温泉宿
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white">雨音に癒やされる箱根のおすすめ温泉宿</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               客室露天風呂付きのお部屋や大浴場のにごり湯が自慢。雨の日は早めにチェックインして贅沢な館内時間を過ごせる厳選宿です。
             </p>
@@ -497,9 +481,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
                         </span>
                       </div>
 
-                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">{hotel.hotelName}</h3>
 
                       {special && (
                         <p className="text-xs text-slate-300 line-clamp-3 leading-relaxed bg-slate-900/50 p-2.5 rounded-lg border border-slate-700/60">
@@ -541,9 +523,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
 
         {/* 内部リンク・関連ガイド */}
         <section className="bg-slate-800/60 rounded-2xl p-6 sm:p-8 border border-slate-700">
-          <h2 className="text-lg font-bold text-white mb-2 flex items-center gap-2">
-            <span>🔗</span> 箱根旅行の計画に役立つ関連ガイド
-          </h2>
+          <h2 className="text-lg font-bold text-white mb-2 flex items-center gap-2">箱根旅行の計画に役立つ関連ガイド</h2>
           <p className="text-xs text-slate-300 mb-4">
             旅行費用のシミュレーションや、日帰りで満喫するランチ＆個室温泉プランもあわせてチェック！
           </p>
@@ -554,9 +534,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
               className="group block p-4 rounded-xl bg-slate-900/70 border border-slate-700 hover:border-cyan-500/60 transition-all"
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">費用シミュレーション 💰</span>
-              <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">
-                【箱根旅行 費用】日帰り・1泊2日いくら？フリーパス活用の交通費＆宿泊相場
-              </h3>
+              <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">【箱根旅行 費用】日帰り・1泊2日いくら？フリーパス活用の交通費＆宿泊相場</h3>
               <p className="text-xs text-slate-400 mt-1 line-clamp-2">
                 ロマンスカー代や美術館入場料、旅館相場を徹底検証した実用的な予算ガイド。
               </p>
@@ -567,9 +545,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
               className="group block p-4 rounded-xl bg-slate-900/70 border border-slate-700 hover:border-cyan-500/60 transition-all"
             >
               <span className="text-xs font-bold text-cyan-400 block mb-1">日帰りプラン ♨️</span>
-              <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">
-                【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰り
-              </h3>
+              <h3 className="text-sm font-bold text-white group-hover:text-cyan-200 transition-colors">【箱根 日帰り温泉 ランチ付きおすすめ】個室休憩＆貸切風呂・老舗旅館の贅沢日帰り</h3>
               <p className="text-xs text-slate-400 mt-1 line-clamp-2">
                 宿泊せずに贅沢懐石とお部屋休憩が楽しめる日帰り温泉プランをエリア別に徹底比較。
               </p>
@@ -582,9 +558,7 @@ export default function HakoneRainyDayIndoorCoursePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とポーラ美術館・ガラスの森・彫刻の森室内＆早めチェックイン温泉おこもり旅の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

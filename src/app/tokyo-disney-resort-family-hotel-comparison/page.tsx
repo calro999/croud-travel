@@ -201,10 +201,8 @@ export default function DisneyFamilyHotelComparisonPage() {
 
       {/* 目次・クイックナビゲーション */}
       <nav className="bg-indigo-50/70 border border-indigo-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-indigo-950 mb-3 flex items-center gap-2">
-          <span className="w-2.5 h-2.5 rounded-full bg-indigo-600"></span>
-          本記事のポイント・目次
-        </h2>
+        <h2 className="text-base font-black text-indigo-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-indigo-600"></span>
+          本記事のポイント・目次</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-indigo-900">
           <li className="flex items-center gap-2">
             <span className="text-indigo-500 font-bold">01.</span>
@@ -232,9 +230,7 @@ export default function DisneyFamilyHotelComparisonPage() {
       {/* セクション1: 3大エリア比較表 */}
       <section id="area-matrix" className="space-y-6">
         <div className="border-l-4 border-indigo-600 pl-4">
-          <h2 className="text-2xl font-black text-slate-900">
-            舞浜・新浦安・葛西の宿泊エリア比較
-          </h2>
+          <h2 className="text-2xl font-black text-slate-900">舞浜・新浦安・葛西の宿泊エリア比較</h2>
           <p className="text-sm text-slate-600 mt-1">
             予算・子どもの月齢・翌日の移動プランに合わせて最適なエリアをチョイスしましょう。
           </p>
@@ -281,9 +277,7 @@ export default function DisneyFamilyHotelComparisonPage() {
       {/* セクション2: 失敗しない子連れチェックリスト */}
       <section id="checkpoints" className="space-y-6 bg-slate-50 border border-slate-200 rounded-3xl p-6 md:p-8">
         <div className="border-l-4 border-indigo-600 pl-4">
-          <h2 className="text-xl md:text-2xl font-black text-slate-900">
-            乳幼児・幼児連れパパママが絶対にチェックすべき4大ポイント
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-slate-900">乳幼児・幼児連れパパママが絶対にチェックすべき4大ポイント</h2>
           <p className="text-sm text-slate-600 mt-1">
             「大人の快適さ」と「赤ちゃんの安全性」は別物！予約確定前にここだけは確認してください。
           </p>
@@ -308,9 +302,7 @@ export default function DisneyFamilyHotelComparisonPage() {
       <section id="hotels" className="space-y-8">
         <div className="border-l-4 border-indigo-600 pl-4">
           <span className="text-xs font-black text-indigo-600 tracking-wider uppercase">RECOMMENDED HOTELS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            子連れディズニー後泊におすすめの厳選ホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">子連れディズニー後泊におすすめの厳選ホテル</h2>
           <p className="text-sm text-slate-600 mt-1">
             洗い場付きバス・無料シャトル・ファミリー配慮が揃った楽天トラベル提携の人気宿。
           </p>
@@ -357,9 +349,7 @@ export default function DisneyFamilyHotelComparisonPage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-xl md:text-2xl font-black text-slate-900 leading-snug">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-black text-slate-900 leading-snug">{hotel.hotelName}</h3>
                 </div>
 
                 <p className="text-xs md:text-sm text-slate-700 bg-indigo-50/60 p-3.5 rounded-xl border border-indigo-100 leading-relaxed font-medium">
@@ -402,9 +392,7 @@ export default function DisneyFamilyHotelComparisonPage() {
       <section id="schedule" className="bg-gradient-to-br from-indigo-900 to-slate-900 text-white rounded-3xl p-6 md:p-10 shadow-xl space-y-6">
         <div className="border-l-4 border-amber-400 pl-4">
           <span className="text-xs font-black text-amber-400 tracking-wider uppercase">ITINERARY</span>
-          <h2 className="text-2xl md:text-3xl font-black text-white">
-            【実践】閉園後の疲労を最小限にする後泊スケジュール
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white">【実践】閉園後の疲労を最小限にする後泊スケジュール</h2>
           <p className="text-sm text-indigo-200 mt-1">
             子どもがグズらず、パパママも翌日に疲れを残さない理想のタイムライン。
           </p>
@@ -430,9 +418,7 @@ export default function DisneyFamilyHotelComparisonPage() {
         <div className="flex items-center gap-3">
           <span className="text-3xl">🚄</span>
           <div>
-            <h3 className="text-lg md:text-xl font-black text-amber-950">
-              遠方（関西・名古屋方面）からディズニー遠征をご検討の方へ
-            </h3>
+            <h3 className="text-lg md:text-xl font-black text-amber-950">遠方（関西・名古屋方面）からディズニー遠征をご検討の方へ</h3>
             <p className="text-xs md:text-sm text-amber-800">
               新幹線と夜行バスの料金・所要時間比較、浮いた交通費でホテルをグレードアップする裏技はこちら！
             </p>

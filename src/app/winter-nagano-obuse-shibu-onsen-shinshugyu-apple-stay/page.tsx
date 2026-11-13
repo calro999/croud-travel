@@ -405,10 +405,8 @@ export default function NaganoObuseShibuWinterPage() {
         {/* Hotel List Section */}
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-              渋温泉・湯田中・小布施のおすすめ名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
+              渋温泉・湯田中・小布施のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
@@ -449,9 +447,7 @@ export default function NaganoObuseShibuWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-900 transition-colors">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-900 transition-colors">{hotel.name}</h3>
 
                       <p className="text-xs text-stone-500 flex items-center gap-1 mt-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 shrink-0 text-stone-400" />
@@ -516,17 +512,13 @@ export default function NaganoObuseShibuWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              北斎の栗散歩と渋温泉九湯めぐり・スノーモンキーの旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">北斎の栗散歩と渋温泉九湯めぐり・スノーモンキーの旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】小布施の栗おこわランチと渋温泉九湯めぐり
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】小布施の栗おこわランチと渋温泉九湯めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -552,10 +544,8 @@ export default function NaganoObuseShibuWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】地獄谷スノーモンキーと完熟サンふじ直売所
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】地獄谷スノーモンキーと完熟サンふじ直売所</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -585,27 +575,21 @@ export default function NaganoObuseShibuWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               北信州・冬のおみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              小布施・渋温泉で手に入れたい初冬の絶品みやげと名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">小布施・渋温泉で手に入れたい初冬の絶品みやげと名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                伝統の小布施栗銘菓「栗かの子」と「栗羊羹」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                伝統の小布施栗銘菓「栗かの子」と「栗羊羹」</h3>
               <p>
                 小布施の栗菓子は栗と砂糖のみで丹念に練り上げられ、栗本来の豊かな風味と素朴な甘みが凝縮されています。竹風堂の「栗かの子」や小布施堂の「栗羊羹」は、日持ちも良く冬の信州土産の最高峰。温かい緑茶はもちろん、ビターなコーヒーやウイスキーとも相性抜群です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                蜜入り完熟サンふじと信州の搾りたて地酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                蜜入り完熟サンふじと信州の搾りたて地酒</h3>
               <p>
                 11月中旬から12月にかけて出荷される「完熟サンふじ」は、太陽光を浴びて自然に蜜がたっぷり入る信州の奇跡の果実。直売所ではもぎたてが箱買いできます。また、志賀高原の清冽な伏流水で醸される玉村本店の名酒「縁喜」やクラフトビール「志賀高原ビール」も旅の思い出に欠かせません。
               </p>
@@ -620,32 +604,24 @@ export default function NaganoObuseShibuWinterPage() {
               <ThermometerSun className="w-4 h-4 text-amber-800" />
               初冬の渋温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の渋温泉九湯めぐりは「冬の風情の極み」なのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の渋温泉九湯めぐりは「冬の風情の極み」なのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-amber-700" />
-              含硫黄泉・塩化物泉・硫酸塩泉が混ざり合う圧倒的多様性
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-700" />
+              含硫黄泉・塩化物泉・硫酸塩泉が混ざり合う圧倒的多様性</h3>
             <p>
               渋温泉には数十ヶ所もの源泉が存在し、浴場ごとに泉質や色、香りが微妙に異なります。代表的な泉質は「含硫黄-ナトリウム・カルシウム-塩化物・硫酸塩温泉」。高温の源泉から立ち上る硫黄の香りは温泉情緒を高めるだけでなく、末梢血管を拡張して血圧を下げ、冷え切った関節の痛みを和らげます。さらに塩分が皮膚をコーティングして保温し、硫酸塩が肌をしっとりと滑らかに整えるため、冬の外湯めぐりで湯冷めしない卓越した温まり効果を発揮します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-amber-700" />
-              九湯めぐりの温冷交互浴と巡浴手ぬぐい祈願の歴史
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-amber-700" />
+              九湯めぐりの温冷交互浴と巡浴手ぬぐい祈願の歴史</h3>
             <p>
               渋温泉の九つの外湯は、それぞれ「胃腸の湯」「目の湯」「笹の湯」「大湯」など効能が異なり、地元民の生活共同風呂として守られてきました。各外湯は源泉温度が50〜60℃以上と熱く、初冬の冷気の中でサッと浸かっては石畳を歩くサイクルが、毛細血管の収縮と拡張を促す「温冷交代浴」のような自律神経リフレッシュ作用をもたらします。専用手ぬぐいに朱印を押しながら巡る古来の風習は、心身の健康と開運を同時に叶える日本の誇るべき温泉文化です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-amber-700" />
-              厳しい寒暖差が果実の糖度を高める北信州の奇跡の気候
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-amber-700" />
+              厳しい寒暖差が果実の糖度を高める北信州の奇跡の気候</h3>
             <p>
               小布施や山ノ内町が位置する千曲川・夜間瀬川流域は、内陸性気候のため昼夜の寒暖差が非常に大きいのが特徴です。秋から初冬にかけて夜間の気温が氷点下近くまで下がることで、りんごや栗の樹木は果実を守るために自己糖化作用を促進。その結果、他地域では出せない驚異的な糖度と濃厚なコクが凝縮されます。冬の訪れとともに極上の味覚が完成する、まさに大自然の恵みです。
             </p>
@@ -659,18 +635,14 @@ export default function NaganoObuseShibuWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の小布施・渋温泉・湯田中旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の小布施・渋温泉・湯田中旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

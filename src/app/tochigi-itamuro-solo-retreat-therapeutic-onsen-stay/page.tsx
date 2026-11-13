@@ -94,8 +94,7 @@ export default function ArticlePage() {
 
         {/* 目次 */}
         <section className="bg-white p-5 rounded-2xl border border-stone-200 shadow-sm mb-10">
-          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span>
-            <span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span></h2>
+          <h2 className="text-sm font-bold text-stone-900 mb-3 flex items-center gap-2"><span>この記事で紹介する厳選ホテル（楽天トラベル最新評価順）</span></h2>
           <ul className="text-xs sm:text-sm space-y-2">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 板室温泉大黒屋　保養とアートの宿（★4.69 / 最低目安：26,400円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 板室別邸リトリート　SPA和薬草（★4.56 / 最低目安：21,440円〜）</a></li>
@@ -111,9 +110,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
               <span className="text-xs text-stone-500 font-medium">栃木県 那須塩原市板室856周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              板室温泉大黒屋　保養とアートの宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">板室温泉大黒屋　保養とアートの宿</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.69 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -168,9 +165,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第2位</span>
               <span className="text-xs text-stone-500 font-medium">栃木県 那須塩原市板室841周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              板室別邸リトリート　SPA和薬草
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">板室別邸リトリート　SPA和薬草</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.56 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -224,9 +219,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第3位</span>
               <span className="text-xs text-stone-500 font-medium">栃木県 那須塩原市百村353周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              板室温泉　奥那須・大正村　幸乃湯温泉
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">板室温泉　奥那須・大正村　幸乃湯温泉</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 3.7 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -276,10 +269,7 @@ export default function ArticlePage() {
 
         {/* 現地お役立ち情報 */}
         <section className="bg-white rounded-2xl border border-stone-200 p-6 sm:p-8 shadow-sm mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-100 pb-3">
-            <span>💡</span>
-            <span>板室温泉ひとり旅・木の俣渓谷と板室ダム湖カヌー現地TIPS</span>
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-100 pb-3"><span>板室温泉ひとり旅・木の俣渓谷と板室ダム湖カヌー現地TIPS</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-2">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base">「木の俣渓谷・木の俣園地」驚異の透明度を誇るエメラルドの清流散歩</h3>
@@ -298,23 +288,18 @@ export default function ArticlePage() {
 
         {/* よくある質問 FAQ */}
         <section className="bg-amber-50/40 rounded-2xl border border-amber-200/60 p-6 sm:p-8 mb-10">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>❓</span>
-            <span>よくある質問（FAQ）</span></h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span>よくある質問（FAQ）</span></h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>一人旅でアートに囲まれながら本格的な湯治と静寂を楽しめる宿は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>一人旅でアートに囲まれながら本格的な湯治と静寂を楽しめる宿は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「板室温泉大黒屋 保養とアートの宿」は全国から一人旅の愛好家が集まる名宿。美しい庭園、毎月変わる現代アート展示、滋味あふれる料理が極上のリトリートを約束します。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>心と体のデトックスと薬草スパを体験したいなら？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>心と体のデトックスと薬草スパを体験したいなら？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「板室別邸リトリート SPA和薬草」は和ハーブや薬草を取り入れたスパ体験と板室の名湯が融合した隠れ家宿で、心身の調律を目指す一人旅に大好評です。
               </p>
@@ -340,9 +325,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】板室温泉大黒屋 保養とアートの宿を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】板室温泉大黒屋 保養とアートの宿を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -436,9 +419,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり：開湯1050年杖いらずの名湯・那珂川上流自然林・保養とアート！現代湯治リトリート厳選3宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -490,9 +471,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもりで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもりで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

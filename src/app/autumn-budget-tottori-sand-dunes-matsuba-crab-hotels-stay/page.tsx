@@ -58,10 +58,8 @@ export default function AutumnBudgetTottoriHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代を賢く浮かせて、本場の「茹でたて松葉がに」を堪能する旅
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代を賢く浮かせて、本場の「茹でたて松葉がに」を堪能する旅</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             鳥取駅周辺は徒歩圏内に良質なホテルが集結しており、1泊3,000円〜4,000円台の驚きの価格で快適に泊まれる激戦区。宿代を節約した分で、駅前や港町の老舗海鮮料理店でタグ付き松葉がにのフルコースや白イカ、モサエビを心ゆくまで味わう贅沢旅が叶います。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル鳥取駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル鳥取駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鳥取</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（コスパ抜群）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＨＯＴＥＬ　ＴＲＥＳＴ（旧　ホテルナショナル）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＨＯＴＥＬ　ＴＲＥＳＴ（旧　ホテルナショナル）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鳥取</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（サウナ・大浴場）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルＲＥＳＨ　鳥取駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルＲＥＳＨ　鳥取駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鳥取</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（静寂快適）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル鳥取駅北口禁煙館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル鳥取駅北口禁煙館</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鳥取</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈鳥取駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈鳥取駅前〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鳥取</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetTottoriHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の鳥取旅を最高に楽しむポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の鳥取旅を最高に楽しむポイント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             鳥取砂丘は日中の強い日差しが和らぐ秋こそが歩きやすく、夕暮れ時の日本海サンセットは言葉を失う美しさ。11月上旬のカニ解禁直後はカニ料理店の予約が殺到するため、宿と合わせて早めの席確保がおすすめです。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「鳥取：解禁の松葉がにと秋風の鳥取砂丘を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 鳥取で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">鳥取で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

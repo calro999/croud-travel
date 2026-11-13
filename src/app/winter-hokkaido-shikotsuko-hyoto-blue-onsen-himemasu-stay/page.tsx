@@ -301,9 +301,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              透明度日本一の不凍湖が放つ青の奇跡と、厳冬を彩る氷の祭典
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">透明度日本一の不凍湖が放つ青の奇跡と、厳冬を彩る氷の祭典</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の支笏湖で出逢う3つの圧倒的スペクタクル
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の支笏湖で出逢う3つの圧倒的スペクタクル</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ体感できる、青の奇跡と氷のアート＆至高の温泉。
             </p>
@@ -339,9 +335,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-indigo-100 flex items-center justify-center text-indigo-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 冬の透明度が生む「支笏湖ブルー」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 冬の透明度が生む「支笏湖ブルー」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 水質日本一に輝く不凍湖。雪化粧のカルデラ山群を鏡のように映し出すコバルトブルーの静謐な湖面は、冬の北海道で最も崇高な自然景観です。
               </p>
@@ -351,9 +345,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 氷の祭典「千歳・支笏湖氷濤まつり」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 氷の祭典「千歳・支笏湖氷濤まつり」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 湖水を凍らせて創る巨大な氷のオブジェ群。昼は太陽光でナチュラルブルーに輝き、夜はカラフルなライトアップで幻想的な氷の宮殿が出現します。
               </p>
@@ -363,9 +355,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 足元湧出の秘湯と名物ヒメマス・白老牛
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 足元湧出の秘湯と名物ヒメマス・白老牛</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 湖畔の丸駒温泉の足元湧出露天風呂と、とろとろ重曹泉の美肌湯。囲炉裏で香ばしく焼く名物チップ（ヒメマス）やA5ランク白老牛の味覚は格別です。
               </p>
@@ -375,9 +365,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】支笏湖ブルー観賞と氷濤まつり・秘湯丸駒温泉を巡る冬のリトリート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】支笏湖ブルー観賞と氷濤まつり・秘湯丸駒温泉を巡る冬のリトリート</h2>
             <p className="text-slate-400 text-sm mt-1">
               空港から直行して白銀の湖畔を満喫し、名湯と美食で心身を再生させる冬の北海道モデルコース。
             </p>
@@ -388,9 +376,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 新千歳空港に到着 ➔ レンタカーまたはバスで支笏湖畔へ直行
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 新千歳空港に到着  レンタカーまたはバスで支笏湖畔へ直行</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   空港から雪道に注意しながら車を走らせること約40分。原生林を抜けると視界が開け、白銀の樽前山と紺碧の支笏湖が姿を現します。支笏湖ビジターセンター周辺の食事処で、名物「ヒメマス天丼」や温かいきのこ汁で昼食を楽しみます。
                 </p>
@@ -399,9 +385,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:00 「山線鉄橋」と湖畔散策 ➔ レイクサイドの温泉名宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:00 「山線鉄橋」と湖畔散策  レイクサイドの温泉名宿へチェックイン</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   千歳川の起点に架かる赤い英国製トラス橋「山線鉄橋」を渡り、澄み渡る川底の梅花藻や透明な水流を鑑賞。15時頃、予約した支笏湖温泉の名宿へチェックイン。とろとろの重曹泉に身を委ね、旅の移動の疲れをじんわりと癒やします。
                 </p>
@@ -410,9 +394,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  17:00 「支笏湖氷濤まつり」会場へ ➔ 幻想的な氷の宮殿ライトアップを体感
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">17:00 「支笏湖氷濤まつり」会場へ  幻想的な氷の宮殿ライトアップを体感</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   日没後、防寒着を着込んで氷濤まつり会場へ（1月下旬〜）。漆黒の夜空の下、七色に輝く巨大な氷の建造物群を散策。氷のトンネルをくぐり、展望台から氷の王国を一望。冷えた体で会場内のホットドリンクを楽しんだ後、宿へ戻ります。
                 </p>
@@ -421,9 +403,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:30 名物ヒメマス（チップ）と極上白老牛を味わう北海道の美食ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:30 名物ヒメマス（チップ）と極上白老牛を味わう北海道の美食ディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   宿の個室やダイニングで夕食。炭火で香ばしく焼き上げたヒメマスの塩焼き、繊細な甘みのルイベ、そして口の中でとろける極上白老牛のステーキ。北海道の銘酒や地ワインとともに、冬の贅沢な味覚をゆっくりと堪能します。
                 </p>
@@ -432,9 +412,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 丸駒温泉の「足元湧出露天風呂」へ立ち寄り ➔ 支笏湖ブルーに別れを告げ空港へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 丸駒温泉の「足元湧出露天風呂」へ立ち寄り  支笏湖ブルーに別れを告げ空港へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   チェックアウト後、車で対岸の「丸駒温泉旅館」へ移動し、湖と一体化する奇跡の足元湧出露天風呂に浸かります。雪化粧した山並みと青い湖面を眺めた後、千歳市内の直売所で道産チーズやスイーツを買い求め、新千歳空港から大満足で帰路へ。
                 </p>
@@ -447,9 +425,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の支笏湖を満喫するレイクサイド厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の支笏湖を満喫するレイクサイド厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               鶴雅リゾートの癒やし宿から、大正創業の足元湧出秘湯、全室レイクビュー温泉宿まで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Nature</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              カルデラの清流が育む幻の川魚と北海道の至宝ブランド牛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">カルデラの清流が育む幻の川魚と北海道の至宝ブランド牛</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-indigo-700" />
-                清流の女王「ヒメマス（チップ）」の歴史と美味しさ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-indigo-700" />
+                清流の女王「ヒメマス（チップ）」の歴史と美味しさ</h3>
               <p>
                 明治27年に阿寒湖から移植されたヒメマスが、極めて透明度の高い支笏湖の水に馴染み、今や支笏湖を代表する特産品として定着しました。鮭鱒類特有の臭みが全くなく、上品な脂の甘みときめ細やかな身質は、川魚の概念を覆す美味しさです。冬はルイベ（凍らせた刺身）で口の中でとろける食感を楽しんだり、じっくり塩焼きにして頭から骨まで香ばしく味わうのが本場の醍醐味です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-indigo-700" />
-                洞爺湖サミットで脚光を浴びた「白老牛」の極み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-indigo-700" />
+                洞爺湖サミットで脚光を浴びた「白老牛」の極み</h3>
               <p>
                 支笏湖に隣接する白老町で育てられる「白老牛（しらおいぎゅう）」は、北海道最古の黒毛和牛ブランド。豊かな自然環境とこだわりの飼料で育ち、美しい霜降りと深いコク、口の中でさらりと溶ける脂の軽やかさが特徴です。宿のお土産処では、白老牛のビーフシチューやカレーのレトルト、支笏湖の銘菓「氷濤まんじゅう」、千歳ワイナリーのハスカップワインなど、北国の贅沢な味覚を買い求めることができます。
               </p>
@@ -577,9 +545,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="bg-indigo-50/60 rounded-3xl p-6 sm:p-10 border border-indigo-200/60 space-y-6">
           <div className="border-b border-indigo-200/80 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">
-              冬の北海道・支笏湖旅行を安全に満喫するための防寒・アクセス対策
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">冬の北海道・支笏湖旅行を安全に満喫するための防寒・アクセス対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-indigo-950">
@@ -619,20 +585,16 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の支笏湖・氷濤まつり宿泊に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の支笏湖・氷濤まつり宿泊に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-indigo-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-indigo-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-indigo-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function HokkaidoShikotsukoHyotoWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Northern Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい北海道・東北の冬絶景・名湯宿特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい北海道・東北の冬絶景・名湯宿特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

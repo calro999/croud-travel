@@ -129,9 +129,7 @@ export default function Page() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              美馬・脇町・吉野川 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">美馬・脇町・吉野川 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -155,9 +153,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     うだつの町並み徒歩圏内・美馬観光の中心拠点ホテル
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ビジネスホテルマツカ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ビジネスホテルマツカ</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.10
@@ -222,9 +218,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     大歩危峡の絶景露天風呂・吉野川の清流と阿波牛・阿波尾鶏会席
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    峡谷の湯宿　大歩危峡まんなか
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">峡谷の湯宿　大歩危峡まんなか</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.59
@@ -289,9 +283,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     pH9.8の強アルカリ美肌温泉・吉野川と大歩危を一望する天空露天
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    大歩危温泉　サンリバー大歩危
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">大歩危温泉　サンリバー大歩危</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.20
@@ -356,9 +348,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     美馬市穴吹川のほとり・清流とジビエ・阿波尾鶏を味わう里山民宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    民宿　うり坊　＾
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">民宿　うり坊　＾</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 0.00
@@ -420,9 +410,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     徳島市内天然温泉大浴場・阿波尾鶏グルメと夜景を満喫する拠点
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル　サンシャイン徳島
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル　サンシャイン徳島</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.95
@@ -477,9 +465,7 @@ export default function Page() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  徳島県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">徳島県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -498,10 +484,8 @@ export default function Page() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の美馬・脇町・吉野川旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の美馬・脇町・吉野川旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

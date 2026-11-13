@@ -301,9 +301,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              神代の記憶が静まり返る冬の渓谷と、夜空に響く神楽囃子の崇高な祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">神代の記憶が静まり返る冬の渓谷と、夜空に響く神楽囃子の崇高な祈り</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の高千穂で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高千穂で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、国の重要無形文化財の神楽と神聖な初詣、日本一の高千穂牛。
             </p>
@@ -339,9 +335,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-rose-100 flex items-center justify-center text-rose-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 国の重要無形民俗文化財「高千穂の夜神楽」の荘厳な舞
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 国の重要無形民俗文化財「高千穂の夜神楽」の荘厳な舞</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬の夜に奉納される古代神話の三十三番の舞。高千穂神社神楽殿での毎夜公開や集落の神楽宿で、神々の躍動とユーモアが織りなす神秘の世界を体感。
               </p>
@@ -351,9 +345,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Mountain className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬のエメラルドブルー輝く高千穂峡と天岩戸神社初詣
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬のエメラルドブルー輝く高千穂峡と天岩戸神社初詣</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 水が最も澄み切る冬の高千穂峡・真名井の滝。天照大神の洞窟を祀る天岩戸神社と無数の積石が並ぶ天安河原で、新年の開運を祈る厳かな初詣。
               </p>
@@ -363,9 +355,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 内閣総理大臣賞受賞の最高峰「高千穂牛」極上会席
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 内閣総理大臣賞受賞の最高峰「高千穂牛」極上会席</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 日本一の称号を持つ黒毛和牛。口溶けの良い繊細な霜降りと芳醇な香りを炭火焼きステーキやすき焼きで堪能。名宿の美食で贅沢な冬を過ごせます。
               </p>
@@ -375,9 +365,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-rose-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】高千穂峡ボートから天岩戸神社初詣・夜神楽を巡る冬の神話体感ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】高千穂峡ボートから天岩戸神社初詣・夜神楽を巡る冬の神話体感ルート</h2>
             <p className="text-slate-400 text-sm mt-1">
               熊本空港または延岡ICを起点に、高千穂のパワースポットと夜神楽、極上高千穂牛を網羅する1泊2日旅。
             </p>
@@ -388,9 +376,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 高千穂到着 ➔ 高千穂牛の専門店で「高千穂牛ステーキ丼」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 高千穂到着  高千穂牛の専門店で「高千穂牛ステーキ丼」ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   高千穂町内のレストランへ。内閣総理大臣賞を受賞した高千穂牛のロースや赤身を香ばしく焼き上げたステーキ丼でランチ。噛み締めるほどに溢れ出す甘い肉汁と特製タレのハーモニーに感動し、神話の旅のエネルギーをチャージします。
                 </p>
@@ -399,9 +385,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 天岩戸神社（西本宮）参拝 ➔ 天安河原の大洞窟で願掛け
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 天岩戸神社（西本宮）参拝  天安河原の大洞窟で願掛け</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   車で約15分、天岩戸神社へ。神職の案内でお祓いを受け、御神体「天岩戸」を遥拝。さらに清流沿いを歩いて天安河原の巨大な洞窟「仰慕窟」へ。八百万の神が集まったとされる聖地で、小石を積み重ねて新年の成就を祈願します。
                 </p>
@@ -410,9 +394,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 高千穂の名宿へチェックイン ➔ 「高千穂牛懐石」夕食 ➔ 高千穂神社で夜神楽鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 高千穂の名宿へチェックイン  「高千穂牛懐石」夕食  高千穂神社で夜神楽鑑賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   宿にチェックインし、静寂の湯処でひと息。夕食は極上高千穂牛の炭火焼きや郷土料理に舌鼓。20時からは高千穂神社の神楽殿へ向かい、国の重要無形文化財「高千穂神楽」を鑑賞。太鼓と笛の音、神々の迫力ある舞に心を奪われます。
                 </p>
@@ -421,9 +403,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝の澄み切った「高千穂峡」散策 ➔ 真名井の滝ボート乗船
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝の澄み切った「高千穂峡」散策  真名井の滝ボート乗船</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝の清澄な大気の中、高千穂峡へ。エメラルドグリーンに輝く水面を貸しボートで漕ぎ進み、真名井の滝の真下から見上げる柱状節理の巨岩美を体感。道の駅高千穂で名産の釜炒り茶や神楽面のお土産を選び、清々しい帰路へ就きます。
                 </p>
@@ -436,9 +416,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の高千穂夜神楽と高千穂牛を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高千穂夜神楽と高千穂牛を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、神楽アクセス・美食・もてなしが高評価の宿。
             </p>
@@ -472,9 +450,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -534,27 +510,21 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              神話の里に受け継がれる極上和牛の伝統と釜炒り茶の香り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">神話の里に受け継がれる極上和牛の伝統と釜炒り茶の香り</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-700" />
-                内閣総理大臣賞に輝く「高千穂牛」の至高の肉質
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-700" />
+                内閣総理大臣賞に輝く「高千穂牛」の至高の肉質</h3>
               <p>
                 「和牛のオリンピック」で日本一に選ばれた高千穂牛は、標高が高く澄んだ空気と清らかな地下水で丹精込めて肥育されます。赤身本来の濃厚な旨味と、体温で溶ける軽やかな脂の甘みが特徴。ステーキにすると外は香ばしく中はジューシーで、冬の冷えた体に贅沢な至福の満足感をもたらします。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-rose-700" />
-                香ばしい「高千穂釜炒り茶」と伝統の「かっぽ酒」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-rose-700" />
+                香ばしい「高千穂釜炒り茶」と伝統の「かっぽ酒」</h3>
               <p>
                 高千穂の傾斜地で栽培される「釜炒り茶」は、蒸すのではなく直火の鉄釜で炒って製茶する日本古来の伝統茶。勾玉状の丸みを帯びた茶葉から立ち上る「釜香（かまか）」と呼ばれる香ばしさと、すっきりとした甘みが絶品です。また、竹筒に地酒を入れて温める「かっぽ酒」は、竹の清々しい香りと温もりが冬の夜神楽の余韻を優しく深めてくれます。
               </p>
@@ -566,9 +536,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="bg-rose-50/60 rounded-3xl p-6 sm:p-10 border border-rose-200/60 space-y-6">
           <div className="border-b border-rose-200/80 pb-4">
             <span className="text-rose-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-rose-950">
-              冬の高千穂を快適・安全に旅するための装備とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-rose-950">冬の高千穂を快適・安全に旅するための装備とアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-rose-950">
@@ -608,20 +576,16 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の高千穂夜神楽＆観光に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の高千穂夜神楽＆観光に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-rose-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-rose-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-rose-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function MiyazakiTakachihoNightKaguraWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・神話・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・神話・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

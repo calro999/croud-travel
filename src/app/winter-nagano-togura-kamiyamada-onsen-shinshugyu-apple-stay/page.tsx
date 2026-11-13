@@ -407,9 +407,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               <Landmark className="w-4 h-4 text-emerald-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              善光寺精進落としの美肌湯と信州牛を堪能する戸倉上山田の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">善光寺精進落としの美肌湯と信州牛を堪能する戸倉上山田の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -425,9 +423,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
                       <span className="inline-block text-xs font-bold text-emerald-800 bg-emerald-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -471,9 +467,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
 
                   {/* Highlights Bullet Points */}
                   <div className="space-y-1.5 pt-2">
-                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">
-                      この宿の初冬ステイおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">この宿の初冬ステイおすすめポイント</h4>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-stone-600">
                       {hotel.highlights.map((hl, hlIdx) => (
                         <li key={hlIdx} className="flex items-start gap-1.5">
@@ -513,35 +507,27 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <Utensils className="w-4 h-4 text-emerald-300" />
             初冬の信州・千曲美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の戸倉上山田で味わう極上肉・郷土麺・蜜入り果実
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の戸倉上山田で味わう極上肉・郷土麺・蜜入り果実</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                極上「信州プレミアム牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-400" />
+                極上「信州プレミアム牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 長野県の独自基準であるオレイン酸含有率と脂肪交雑（サシ）をクリアした最高峰の黒毛和牛。すき焼きや陶板焼きで熱を加えると、芳醇な脂の甘みと赤身の深いコクが口いっぱいに広がり、重たさを感じさせない軽やかな後味が特徴です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-emerald-400" />
-                名物「おしぼりうどん」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-400" />
+                名物「おしぼりうどん」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 千曲市特産の辛味大根「ねずみ大根」をすりおろし、布巾で固く絞った強烈な辛味汁に信州味噌を溶いて味わう伝統郷土麺。釜揚げうどんを熱々のつゆに浸けて啜れば、ツンとした辛味の後に大根の自然な甘みが追いかけ、体の芯から温まります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Apple className="w-4 h-4 text-emerald-400" />
-                完熟「サンふじ」りんご
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Apple className="w-4 h-4 text-emerald-400" />
+                完熟「サンふじ」りんご</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月下旬から12月にかけて最盛期を迎える信州りんごの王様「サンふじ」。千曲川沿いの豊かな日照と昼夜の寒暖差によって蜜がたっぷりと入り、シャキッとした心地よい歯ごたえと甘酸っぱい果汁が溢れ出します。直売所での食べ比べも人気です。
               </p>
@@ -555,17 +541,13 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の善光寺参拝と戸倉上山田温泉を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の善光寺参拝と戸倉上山田温泉を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-emerald-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-emerald-100 text-emerald-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：善光寺参拝から千曲川リンゴ狩り・戸倉上山田の名湯へ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                国宝善光寺の初冬の静けさに触れ、エメラルドグリーンの美肌硫黄泉と信州牛に舌鼓
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">国宝善光寺の初冬の静けさに触れ、エメラルドグリーンの美肌硫黄泉と信州牛に舌鼓</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中に北陸新幹線長野駅へ到着。国宝「善光寺」を参拝し、仲見世通りでおやきを味わいながら初冬の澄んだ空気に包まれます。昼過ぎにしなの鉄道で戸倉駅へ移動。千曲川沿いの果樹園直売所に立ち寄り、収穫最盛期の完熟サンふじリンゴを購入。15時に戸倉上山田温泉の旅館へチェックイン。湯の花が舞うエメラルドグリーンの天然硫黄泉に浸かり、巡礼の旅人を癒やしてきた精進落としの名湯を堪能。夕食には信州プレミアム牛のすき焼きと信州サーモン、地酒のペアリングを贅沢に味わいます。
               </p>
@@ -575,9 +557,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               <div className="inline-block bg-emerald-100 text-emerald-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：千曲川の朝露天・姨捨の棚田絶景から名物おしぼりうどんへ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                冠着山を望む朝風呂を満喫し、姨捨の絶景パノラマと伝統の辛味うどんを堪能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">冠着山を望む朝風呂を満喫し、姨捨の絶景パノラマと伝統の辛味うどんを堪能</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、千曲川の川霧が静かに漂う中、展望露天風呂で心地よい朝の湯浴み。温泉街の足湯や温泉卵作りを楽しんだ後、チェックアウト。車またはタクシーで「姨捨の棚田」へ。国の重要文化的景観に指定された棚田越しに善光寺平を一望する雄大なパノラマを満喫します。昼食は温泉街近くの名店で、ねずみ大根の辛味汁と信州味噌で味わう名物「おしぼりうどん」を実食。体の芯まで温まり、千曲川の豊かな初冬の風情を胸に帰路へと就きます。
               </p>
@@ -591,25 +571,19 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <Apple className="w-4 h-4" />
             初冬の千曲・おみやげ＆立ち寄り散策手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            温泉街で手に入れたい初冬の信州銘菓と名物みやげ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">温泉街で手に入れたい初冬の信州銘菓と名物みやげ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-600" />
-                温泉まんじゅう食べ比べと特産あんず銘菓
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-600" />
+                温泉まんじゅう食べ比べと特産あんず銘菓</h3>
               <p>
                 戸倉上山田温泉街には、湯煙とともに香ばしい蒸気を上げる老舗の温泉まんじゅう店が点在しています。黒糖を練り込んだ薄皮に甘さ控えめのこし餡が詰まった出来立ての熱々まんじゅうは、初冬の街歩きの定番おやつ。また、千曲市は日本有数の「杏（あんず）」の産地でもあり、初冬には上品な酸味が広がるあんずジャム、あんずシロップ漬け、あんず羊羹や焼き菓子など、お土産に喜ばれる特産品が店頭に並びます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Wine className="w-4 h-4 text-emerald-600" />
-                千曲川ワインバレーと蔵元直営の純米地酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Wine className="w-4 h-4 text-emerald-600" />
+                千曲川ワインバレーと蔵元直営の純米地酒</h3>
               <p>
                 千曲川流域は日照時間が長く少雨という葡萄栽培に適した気候から、近年「千曲川ワインバレー」として国内外から熱い注目を集めています。温泉街周辺のワイナリーでは、初冬にリリースされるフレッシュな新酒ワインや限定醸造のメルロー、シャルドネが手に入ります。また、北信濃の厳しい寒気の中で仕込まれる辛口の純米酒やにごり酒も揃い、夕食の信州牛やすき焼きとの相性も格別です。
               </p>
@@ -623,25 +597,19 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の千曲・戸倉上山田旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の千曲・戸倉上山田旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-600" />
-                内陸性気候の冷え込みと防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-600" />
+                内陸性気候の冷え込みと防寒対策</h3>
               <p>
                 千曲市周辺は典型的な内陸性盆地気候のため、11月下旬以降は昼夜の寒暖差が激しくなります。日中は10〜15℃程度まで上がる日もありますが、朝晩は0〜4℃近くまで急激に冷え込みます。風を通さないダウンコートや裏起毛のパンツ、マフラーや手袋、保温性のある歩きやすい靴を用意し、温泉街の夜の散策時にもしっかり防寒してください。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-600" />
-                快適な鉄道・高速道路アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-600" />
+                快適な鉄道・高速道路アクセス</h3>
               <p>
                 鉄道利用の場合、北陸新幹線上田駅または長野駅からしなの鉄道で戸倉駅まで約15〜30分。戸倉駅からは各旅館の送迎バス（予約制）で約5〜7分と非常に便利です。車の場合は上信越道坂城ICまたは更埴ICから約15分。初冬の平野部は雪国のような豪雪地帯ではありませんが、11月下旬以降は朝晩の路面凍結に備えてスタッドレスタイヤの装着をおすすめします。
               </p>
@@ -655,16 +623,12 @@ export default function NaganoToguraKamiyamadaWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の戸倉上山田温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の戸倉上山田温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -676,10 +640,8 @@ export default function NaganoToguraKamiyamadaWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい信州・甲信越の冬名湯・美食特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい信州・甲信越の冬名湯・美食特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               冬の味覚と雪見露天風呂、極上信州牛を堪能するおすすめ旅ガイド
             </p>
@@ -691,9 +653,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・上田鹿教湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                鹿教湯温泉 文殊堂雪景色＆信州牛湯治宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鹿教湯温泉 文殊堂雪景色＆信州牛湯治宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 環境庁指定保養温泉地の名湯と、氷灯ろう夢まつり・信州牛を味わう冬の湯治旅。
               </p>
@@ -704,9 +664,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・信州高山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                松川渓流雪見露天＆信州プレミアム牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">松川渓流雪見露天＆信州プレミアム牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 松川渓谷の雪景色と白濁硫黄泉、信州プレミアム牛のすき焼きを味わう秘湯旅。
               </p>
@@ -717,9 +675,7 @@ export default function NaganoToguraKamiyamadaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・阿智村昼神</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                日本一の星空ナイトツアー＆美肌湯宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">日本一の星空ナイトツアー＆美肌湯宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 初冬の澄み渡る満天の星とpH9.7の超アルカリ性美肌温泉、南信州牛を味わう旅。
               </p>

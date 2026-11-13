@@ -363,9 +363,7 @@ export default function GunmaHoushiSarugakyoPage() {
               <Mountain className="w-4 h-4" />
               初冬の三国街道が誘う、時代を超えた名湯と美食の旅
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。ブナ原生林の雪化粧と玉石から湧き出す奇跡のぬる湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。ブナ原生林の雪化粧と玉石から湧き出す奇跡のぬる湯</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -386,9 +384,7 @@ export default function GunmaHoushiSarugakyoPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              法師温泉＆猿ヶ京温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">法師温泉＆猿ヶ京温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               足元湧出の登録有形文化財宿から赤谷湖畔の絶景デザイナーズ旅館、名物豆富懐石の老舗まで
             </p>
@@ -423,9 +419,7 @@ export default function GunmaHoushiSarugakyoPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -488,35 +482,27 @@ export default function GunmaHoushiSarugakyoPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の三国街道美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の法師・猿ヶ京で味わい尽くす上州極上肉と名水グルメ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の法師・猿ヶ京で味わい尽くす上州極上肉と名水グルメ</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰銘柄「上州牛すき焼き」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰銘柄「上州牛すき焼き」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 赤城山や榛名山の豊かな自然と清冽な利根川水系の水で育まれた黒毛和牛「上州牛」。きめ細やかなサシと芳醇な赤身の香りが特徴で、すき焼き鍋で甘辛く煮絡めれば、口の中でとろけるような感動をもたらします。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                猿ヶ京名物「出来立て豆富懐石」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                猿ヶ京名物「出来立て豆富懐石」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 谷川連峰の雪解け水が生み出す澄んだ名水と厳選国産大豆を用い、毎朝手作りされる猿ヶ京名物の豆腐。出来立ての温かいすくい豆腐や湯葉、豆乳鍋は、素材本来の大豆の濃厚な甘みと香りを極限まで楽しめます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                上州麦豚と利根沼田の地酒「谷川岳」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                上州麦豚と利根沼田の地酒「谷川岳」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 良質な大麦を食べて育つ「上州麦豚」は、くせのないさっぱりとした脂身と柔らかな肉質が自慢。利根沼田の酒蔵が仕込む地酒「谷川岳」のキレ味冴える辛口新酒と合わせれば、料理の旨味が何倍にも広がります。
               </p>
@@ -530,17 +516,13 @@ export default function GunmaHoushiSarugakyoPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の法師温泉＆猿ヶ京温泉 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の法師温泉＆猿ヶ京温泉 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：新幹線から三国街道へ・文化財秘湯と上州牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                上毛高原駅到着から「たくみの里」散策、足元湧出の湯治とすき焼き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">上毛高原駅到着から「たくみの里」散策、足元湧出の湯治とすき焼き</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東京駅から上越新幹線で上毛高原駅へ。レンタカーまたは路線バスで旧三国街道の宿場町「たくみの里」へ向かい、手打ち十割そばの昼食と和紙作りや陶芸体験を満喫。午後は初雪の気配漂う赤谷湖畔を経由して法師温泉長寿館または猿ヶ京温泉へチェックイン。鹿鳴館調の木造湯屋「法師乃湯」で玉石から湧き出す自噴泉にじっくり浸かり、冷えた身体を深部から温めます。夕食は霜降り上州牛のすき焼きや出来立て豆富懐石を地酒とともに堪能。
               </p>
@@ -550,9 +532,7 @@ export default function GunmaHoushiSarugakyoPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：赤谷湖の朝霧と湯けむり散策・地酒とガラス工芸体験
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                湖畔の朝散歩から「月夜野びーどろパーク」、水上温泉街巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">湖畔の朝散歩から「月夜野びーどろパーク」、水上温泉街巡り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、赤谷湖畔に立ち込める幻想的な川霧を眺めながらの雪見露天風呂で爽快な目覚め。朝食に炊き立ての上州米と手作り豆腐料理を味わい、チェックアウト。「まんてん星の湯」の足湯に立ち寄った後は、みなかみ町の「月夜野びーどろパーク」で美しいガラス工芸見学やお土産選びを楽しみ、名物みなかみプリンや焼きまんじゅうを味わいながら夕刻の新幹線で帰路へ。
               </p>
@@ -566,15 +546,11 @@ export default function GunmaHoushiSarugakyoPage() {
             <Snowflake className="w-4 h-4" />
             11月・12月の気候・雪道運転・服装完全ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の三国峠・法師温泉ドライブの注意点と寒さ対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の三国峠・法師温泉ドライブの注意点と寒さ対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Clock className="w-4 h-4 text-sky-700" />
-                気温の推移とおすすめの防寒着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Clock className="w-4 h-4 text-sky-700" />
+                気温の推移とおすすめの防寒着</h3>
               <p>
                 11月上旬の日中は12〜15℃前後ですが、朝晩は5℃以下まで冷え込みます。11月下旬から12月にかけては最高気温が5℃を下回り、朝晩や氷点下の日が続きます。
               </p>
@@ -584,10 +560,8 @@ export default function GunmaHoushiSarugakyoPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                雪道運転と国道17号線の注意点
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                雪道運転と国道17号線の注意点</h3>
               <p>
                 関越自動車道月夜野ICから国道17号線を経由して約20〜35分。11月中旬以降は急な降雪や夜間の路面凍結が発生するため、必ずスタッドレスタイヤを装着してください。
               </p>
@@ -598,10 +572,8 @@ export default function GunmaHoushiSarugakyoPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              足元湧出ぬる湯の入浴作法とヒートショック予防
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              足元湧出ぬる湯の入浴作法とヒートショック予防</h3>
             <p>
               法師乃湯の源泉は40度前後のぬる湯ですが、冬場は脱衣所や浴室内の外気との温度差が大きくなります。湯に入る前には足先から十分にかけ湯を行い、徐々に身体を慣らしましょう。
             </p>
@@ -617,16 +589,12 @@ export default function GunmaHoushiSarugakyoPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の法師温泉＆猿ヶ京温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の法師温泉＆猿ヶ京温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -638,10 +606,8 @@ export default function GunmaHoushiSarugakyoPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい群馬・北関東の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい群馬・北関東の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の谷川連峰と名湯、極上の上州牛すき焼きを味わい尽くす冬旅ガイド
             </p>
@@ -653,9 +619,7 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・四万温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                四万温泉の積善館と奥四万ブルー雪景色
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">四万温泉の積善館と奥四万ブルー雪景色</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 「四万の病を癒やす」名湯と千と千尋の世界観、上州牛すき焼きを味わう冬旅。
               </p>
@@ -666,9 +630,7 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・水上温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                谷川連峰の白銀雪見露天と上州牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">谷川連峰の白銀雪見露天と上州牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 利根川源流の渓谷雪景色と効能豊かな天然温泉、みなかみ舞茸と上州牛を堪能。
               </p>
@@ -679,9 +641,7 @@ export default function GunmaHoushiSarugakyoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・草津温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                草津温泉湯畑の雪景色と名湯巡り
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">草津温泉湯畑の雪景色と名湯巡り</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本一の湧出量を誇る酸性硫黄泉と湯もみ体験、極上上州牛ステーキを味わう休日。
               </p>

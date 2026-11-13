@@ -243,9 +243,7 @@ export default function Page() {
         {/* なぜ冬に訪れるべきかの3ポイント */}
         <section className="max-w-4xl mx-auto px-4 mb-14 space-y-4">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              この冬、住吉・堺・天王寺を訪れるべき3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">この冬、住吉・堺・天王寺を訪れるべき3つの理由</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               11月〜1月ならではの幻想的な光景、開運初詣、そして冬が一番美味しい旬の味覚
             </p>
@@ -257,9 +255,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   1
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  渡るだけでお祓いになる朱塗りの反橋と国宝四棟本殿！200万人が集う「住吉大社」新春初詣
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">渡るだけでお祓いになる朱塗りの反橋と国宝四棟本殿！200万人が集う「住吉大社」新春初詣</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 全国の住吉神社の総本社であり、摂津国一宮として古代から崇敬される名社。急勾配の反橋（太鼓橋）を渡り、檜皮葺の切妻屋根が連なる国宝本殿四棟に参拝する初詣は関西屈指の伝統行事。境内奥の「五所御前」で小石を探す「五大力（寿・福・力・智・財）」の開運守り集めも大人気です。
@@ -271,9 +267,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   2
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  明治より受け継がれる最高峰ブランド肉「河内鴨」の絶品鴨鍋と大阪の美食文化
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">明治より受け継がれる最高峰ブランド肉「河内鴨」の絶品鴨鍋と大阪の美食文化</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 大阪が全国に誇る極上肉「河内鴨」。無投薬で丁寧に育てられた肉質は驚くほど柔らかく、噛み締めるほどに深いコクが溢れ出します。冬に甘みを増す青ねぎとともに味わう鴨すき鍋や鴨刺し、なにわ黒牛のステーキなど、食い倒れの街の神髄を味わい尽くす冬の晩餐が楽しめます。
@@ -285,9 +279,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   3
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  千利休ゆかりの堺・茶の湯文化と世界遺産百舌鳥古墳群の歴史散歩
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">千利休ゆかりの堺・茶の湯文化と世界遺産百舌鳥古墳群の歴史散歩</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 黄金の日日を誇った中世の自治都市・堺。千利休屋敷跡や「さかい利晶の杜」での本格的な茶の湯体験、世界遺産・仁徳天皇陵古墳（百舌鳥・古市古墳群）を巡る歴史探訪など、大阪中心部の喧騒から離れた奥深い大人の文化体験を満喫できます。
@@ -301,9 +293,7 @@ export default function Page() {
           <div className="bg-cyan-950/5 border border-cyan-800/20 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-2">
               <Thermometer className="w-5 h-5 text-cyan-800" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                アクセス・気候・冬の服装ガイド
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">アクセス・気候・冬の服装ガイド</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line bg-white/70 p-5 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
@@ -323,9 +313,7 @@ export default function Page() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              住吉・堺・天王寺 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">住吉・堺・天王寺 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・立地に秀でた極上宿
             </p>
@@ -347,9 +335,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    大阪マリオット都ホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">大阪マリオット都ホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     あべのハルカス高層階の天空ホテル・息を呑む大阪パノラマ夜景
                   </p>
@@ -414,9 +400,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    スイスホテル南海大阪
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">スイスホテル南海大阪</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     南海なんば駅直結の最高級ホテル・住吉大社へ南海本線で1本直通
                   </p>
@@ -481,9 +465,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    シェラトン都ホテル大阪
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">シェラトン都ホテル大阪</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     大阪の歴史と文化が息づく上本町の名門・落ち着きある寛ぎの空間
                   </p>
@@ -548,9 +530,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ダイワロイネットホテル堺東
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ダイワロイネットホテル堺東</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     堺東駅前徒歩2分の好立地！利休のふるさと堺観光のベストハブ
                   </p>
@@ -615,9 +595,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル　アゴーラ　リージェンシー　大阪堺
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル　アゴーラ　リージェンシー　大阪堺</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     南海本線堺駅直結のフルサービスホテル・ベイエリアを望む優雅な滞在
                   </p>
@@ -676,9 +654,7 @@ export default function Page() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -700,36 +676,28 @@ export default function Page() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の住吉・堺・天王寺旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の住吉・堺・天王寺旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>住吉大社の初詣で反橋（太鼓橋）を渡る際の注意点は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>住吉大社の初詣で反橋（太鼓橋）を渡る際の注意点は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 反橋は非常に傾斜が急で、中央部分には段差があります。初詣の混雑時には一方通行規制（渡り専用・下りは迂回ルート）が敷かれることがあります。雨や夜露で滑りやすくなるため、足元に十分注意し、手すりを持ちながらゆっくりと渡りましょう。車椅子や足元に不安がある方は、橋の脇にある平坦な参道ルートを通ってお参りできます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>住吉大社で人気の「五大力（ごだいりき）」の石のお守りとは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>住吉大社で人気の「五大力（ごだいりき）」の石のお守りとは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 境内の第一本宮南側にある「五所御前（ごしょごぜん）」の玉砂利の中から、「五」「大」「力」と墨書きされた3つの小石を探し出し、専用のお守り袋に入れて身につけると、体力・智力・財力・福力・寿力の5つの運を授かると伝えられる人気の開運祈願です。新春の願掛けとして多くの参拝客が真剣に小石を探す姿が見られます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>本場の「河内鴨」料理を味わうためのおすすめの予約方法は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>本場の「河内鴨」料理を味わうためのおすすめの予約方法は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 河内鴨は生産量が限られた希少なブランド鴨のため、堺市街や大阪市内の専門店・割烹での事前予約が必須です。特に12月〜1月の忘年会・新年会シーズンは鴨鍋コースの予約が埋まりやすいため、宿泊予約と合わせて早めのディナー予約をおすすめします。
               </p>
@@ -741,9 +709,7 @@ export default function Page() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/osaka/"

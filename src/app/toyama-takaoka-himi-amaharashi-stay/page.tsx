@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             加賀百万石の美の極致と鋳物の町
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 国宝「瑞龍寺」（壮麗な禅宗様伽藍）＆高岡大仏・金屋町千本格子の石畳散歩
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 国宝「瑞龍寺」（壮麗な禅宗様伽藍）＆高岡大仏・金屋町千本格子の石畳散歩</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             前田利長公を弔うため三代利常公が約20年の歳月をかけて建立した曹洞宗の名刹「瑞龍寺」。総門・山門・仏殿・法堂が一直線に並び、左右に回廊がめぐる中国宋代の禅宗様伽藍配置は見事の極みであり、富山県で唯一の国宝に指定されています。高岡の街中には端正な顔立ちで愛される高さ約16mの青銅製「高岡大仏」や、加賀藩の保護のもと鋳物師が集まった「金屋町」の千本格子（さまのこ）と銅片が埋め込まれた石畳の風情ある町並みが広がります。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        高岡マンテンホテル駅前（マンテンホテルグループ）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">高岡マンテンホテル駅前（マンテンホテルグループ）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ◆高岡駅＆大駐車場【徒歩１分】　大浴場　◆全２３３室　【全室禁煙】　◆全室Wi-Fi、有線LAN接続
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルクラウンヒルズ高岡駅前（ＢＢＨホテルグループ）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルクラウンヒルズ高岡駅前（ＢＢＨホテルグループ）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         高岡駅から徒歩１分！大浴場、夕食、アルコールサービス等無料サービス充実！観光・ビジネスにオススメ♪
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルニューオータニ高岡
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルニューオータニ高岡</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         高岡市唯一の都市型ホテル。駅より徒歩5分。ホテル周辺は飲食店も充実。コンビニも近くに有り。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルセブンセブン高岡
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルセブンセブン高岡</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ホテルセブンセブン高岡は、高岡駅南口より徒歩１分・新高岡駅より車で５分、ビジネス・観光拠点に最適です
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             海越しに三千メートル級連峰を望む世界屈指の景観
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 雨晴海岸（義経岩・女岩）＆富山湾越しの立山連峰パノラマ・氷見線列車
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 雨晴海岸（義経岩・女岩）＆富山湾越しの立山連峰パノラマ・氷見線列車</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             万葉集にも詠まれた名勝「雨晴海岸（あまはらしかいがん）」。源義経が奥州へ落ち延びる途中に雨宿りをしたという「義経岩」や沖合に浮かぶ「女岩」がシンボル。冬の晴れた日には、富山湾の青い海を挟んで遠く標高3,000m級の北アルプス立山連峰が屏風のようにそびえ立つ奇跡のパノラマが出現します。海岸沿いを走るローカル線「JR氷見線」の列車と海、連峰が織りなす風景は国内外の写真家を魅了し続けています。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         北陸の富山を代表する、お魚処氷見の旅館。評判の魚料理と絶景の露天。海一望の客室。貸切風呂無料プランも
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        氷見温泉郷　民宿いけもり
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">氷見温泉郷　民宿いけもり</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】
                       </p>
@@ -446,9 +428,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             富山湾の王者・ひみ寒ぶりと名湯
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 本場「氷見寒ブリ」尽くし会席（刺身・ブリしゃぶ・ブリ大根）＆氷見温泉郷海沿い宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 本場「氷見寒ブリ」尽くし会席（刺身・ブリしゃぶ・ブリ大根）＆氷見温泉郷海沿い宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             富山湾の定置網漁で水揚げされる脂の乗った最高峰のブランド「氷見寒ブリ」。厳しい寒さの日本海で丸々と太ったブリは、とろけるような大トロの刺身、出汁にさっとくぐらせる「ブリしゃぶ」、旨味が染み渡った「ブリ大根」、香ばしい塩焼きとまさに贅の極み。海岸線沿いに広がる「氷見温泉郷」はナトリウム-塩化物強塩泉の名湯で、肌がすべすべになり体がポカポカと温まります。湯船から富山湾の日の出を拝む朝湯も最高です。
           </p>
@@ -473,8 +453,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        氷見旅館　たきの荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">氷見旅館　たきの荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         「ひみ番屋街」まで徒歩3分！！氷見や富山観光の拠点としてご利用くださいませ。
                       </p>
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">氷見温泉郷　魚巡りの宿　永芳閣（ＢＢＨホテルグループ）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         北陸の富山を代表する、お魚処氷見の旅館。評判の魚料理と絶景の露天。海一望の客室。貸切風呂無料プランも
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        氷見温泉郷　民宿いけもり
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">氷見温泉郷　民宿いけもり</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         魚処・氷見の山里に佇む、癒しの宿。露天風呂が自慢です☆【全室Wi-Fi完備！ 】
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        温泉めい想倶楽部　富士屋旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">温泉めい想倶楽部　富士屋旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【料理高評価】ライブラリ・ギャラリー・無料卓球・など嬉しいがいっぱい♪◆楽天トラベルアワード受賞の宿
                       </p>
@@ -687,9 +658,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】高岡マンテンホテル駅前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高岡マンテンホテル駅前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -722,9 +691,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高岡マンテンホテル駅前の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高岡マンテンホテル駅前の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

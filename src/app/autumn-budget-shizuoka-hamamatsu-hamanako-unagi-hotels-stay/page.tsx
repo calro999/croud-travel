@@ -58,10 +58,8 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-orange-600" />
-            実は秋こそが「天然うなぎ」の真の旬！賢く浮かせた宿泊費で名店へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+            実は秋こそが「天然うなぎ」の真の旬！賢く浮かせた宿泊費で名店へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             土用の丑の日のイメージが強いうなぎですが、本来最も脂がのってふっくら香ばしい旬は水温が下がる秋から初冬にかけて。浜松駅周辺の老舗鰻屋やカリッと焼き上げた浜松餃子など、ご当地グルメ巡りは最高の秋の贅沢です。駅前＆湖畔の優良格安ホテルに泊まって、グルメ旅を思い切り満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（価格破壊コスパ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル浜松　天然温泉　富士見の湯
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル浜松　天然温泉　富士見の湯</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ浜松駅より車で約５分</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ドライブ便利）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル玄　浜松インター
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル玄　浜松インター</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>東名高速道路「浜松IC」より車で３分</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近快適）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              くれたけイン浜松駅南口プレミアム
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">くれたけイン浜松駅南口プレミアム</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>JR浜松駅「南口」より徒歩１分</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（満足度◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ダイワロイネットホテル浜松
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル浜松</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>JR浜松駅「北口」より徒歩3分</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（レイクビュー）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルルートイン浜名湖
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルルートイン浜名湖</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ東海道本線「鷲津駅」より車で５分</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-950 to-orange-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の浜松・浜名湖旅の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300"><CheckCircle2 className="w-5 h-5" />
+            秋の浜松・浜名湖旅の満喫ポイント</h2>
           <p className="text-sm text-orange-100 leading-relaxed">
             弁天島海浜公園の赤鳥居越しに沈む秋の夕陽は、空気が澄む秋から冬にかけてが一番幻想的。人気の老舗うなぎ店は週末昼間に予約必須の店舗も多いため、宿と合わせて早めの席手配をしておくのが賢い旅の秘訣です。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「浜松・浜名湖：秋の旬うなぎと湖畔の絶景夕陽！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetHamamatsuHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 浜松・浜名湖エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">浜松・浜名湖エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -80,18 +80,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          満天の星と揺らめく焚き火。大自然の絶景をプライベート露天風呂から独占する究極のアウトドアステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">満天の星と揺らめく焚き火。大自然の絶景をプライベート露天風呂から独占する究極のアウトドアステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              完全プライベートな客室露天風呂・天然温泉で至福の湯浴み
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">完全プライベートな客室露天風呂・天然温泉で至福の湯浴み</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               他の宿泊者を気にすることなく、好きな時に何度でも大自然の絶景を眺めながら露天風呂に浸かれます。サウナや水風呂が併設された施設も充実。
             </p>
@@ -101,9 +97,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              手ぶらで楽しめる地元食材・高級銘柄肉の本格BBQディナー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">手ぶらで楽しめる地元食材・高級銘柄肉の本格BBQディナー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               甲州牛やあか牛、那須三元豚などの厳選肉や新鮮な高原野菜を、本格ガスグリルで焼き上げる贅沢な夕食。準備や片付けはすべてスタッフにお任せです。
             </p>
@@ -113,9 +107,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              焚き火ラウンジ・星空天体観測など非日常のアクティビティ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">焚き火ラウンジ・星空天体観測など非日常のアクティビティ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               パチパチと薪がはぜる音を聞きながらのスモア作りやウイスキーBAR、天体望遠鏡での星空観察など、大人から子どもまで心躍るナイトタイムが過ごせます。
             </p>
@@ -130,9 +122,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="fuji_glamping" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山梨県富士河口湖町ふるさと納税：雄大な富士山を正面に望む星空ドーム＆展望露天グランピング
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山梨県富士河口湖町ふるさと納税：雄大な富士山を正面に望む星空ドーム＆展望露天グランピング</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 朝日に輝く赤富士や夕暮れの富士山シルエットを目の前に望む特等席。木々の香りに包まれたウッドデッキでのBBQと、富士の伏流水に癒やされる特別なアウトドア体験です。
               </p>
@@ -160,9 +150,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町河口2092
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    河口湖カントリーコテージＢａｎ＆グランピングリゾート
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">河口湖カントリーコテージＢａｎ＆グランピングリゾート</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     富士山と河口湖が一望できる一棟貸切リゾート！楽天トラベル　グランピング人気宿「全国1位」
                   </p>
@@ -206,9 +194,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町勝山3283－1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＡＮＺ　ＯＵＴＤＯＯＲ　ＲＥＳＯＲＴ（旧：グランピングヴィラハンズ河口湖）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     Relax if you can... 自然と寄り添い、遊びつくす
                   </p>
@@ -252,9 +238,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町河口2044　Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">Ｍｔ．Ｆｕｊｉグランピングテラス嶺乃華　＾</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     　
                   </p>
@@ -283,9 +267,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="aso_glamping" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                熊本県阿蘇エリアふるさと納税：阿蘇五岳と満天の星空！天然温泉露天風呂付きカルデラグランピング
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">熊本県阿蘇エリアふるさと納税：阿蘇五岳と満天の星空！天然温泉露天風呂付きカルデラグランピング</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 世界最大級のカルデラが広がる阿蘇の大自然。見渡す限りの大草原と、夜には降るような星空が広がるドームテント。良質な阿蘇の天然温泉を独占できます。
               </p>
@@ -313,9 +295,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村長野1874-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇　Ｂｌｕｅ　Ｂｅｅ　Ｇａｒｄｅｎ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     9000坪の広大な敷地に11棟だけのグランピング★天然温泉など南阿蘇の大自然の中で贅沢なひと時を
                   </p>
@@ -359,9 +339,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村河陰3624
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南阿蘇フィールドホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇フィールドホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     Place To Life Sketch　人生の特別な1コマを描く場所。
                   </p>
@@ -405,9 +383,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     熊本県阿蘇郡南阿蘇村河陽5953-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南阿蘇ＳＴＡＹＨＡＰＰＹ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南阿蘇ＳＴＡＹＨＡＰＰＹ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     南阿蘇の大自然の中でグランピング＆地産地消食材で手ぶらでBBQ
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="nasu_glamping" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                栃木県那須町ふるさと納税：那須高原の清流と深い森に包まれるプライベート温泉ドーム＆焚き火ステイ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">栃木県那須町ふるさと納税：那須高原の清流と深い森に包まれるプライベート温泉ドーム＆焚き火ステイ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 御用邸の地としても名高い那須高原の豊かな森。木漏れ日の中で鳥のさえずりを聞き、専用露天風呂で温まりながら那須黒毛和牛のプレミアムBBQを堪能できます。
               </p>
@@ -466,9 +440,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須郡那須町高久甲5461-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    那須温泉グランピング　Ｎｅｎｎ（ネン）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">那須温泉グランピング　Ｎｅｎｎ（ネン）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     那須高原で天然温泉も楽しめる一味違ったグランピングで素敵な時間をお過ごしください。
                   </p>
@@ -512,9 +484,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市関谷1093-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    プライベートグランピング｜ＮＡＧＯＭＩ　ＣＡＭＰ那須
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">プライベートグランピング｜ＮＡＧＯＭＩ　ＣＡＭＰ那須</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     和モダンをコンセプトにした４組限定のプライベートグランピング｜サウナ有・犬と宿泊が可能
                   </p>
@@ -558,9 +528,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須郡那須町湯本213-333
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    フォレストグランピングリゾート稜「ＩＴＵ」
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">フォレストグランピングリゾート稜「ＩＴＵ」</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     総客室数５室のプライベート重視のグランピング施設！トイレや浴室も隣接ＢＢＱハウス兼水回り棟に常設！
                   </p>
@@ -621,9 +589,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">蔵サウナ＆一棟貸しプライベートヴィラ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 信濃町・八ヶ岳・丹波篠山の完全貸切ととのい旅。
               </p>
@@ -637,9 +603,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三大星空・天体観測リゾート×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三大星空・天体観測リゾート×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 阿智村・八ヶ岳清里・鳥取大山の満天星空リゾート。
               </p>
@@ -653,9 +617,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                全室離れの隠れ家おこもり宿×極上プライベートヴィラ
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">全室離れの隠れ家おこもり宿×極上プライベートヴィラ</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 由布院・伊豆高原・定山渓の静寂と美食ステイ。
               </p>
@@ -673,9 +635,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -754,9 +714,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「天空の露天風呂付きグランピング＆星空ドーム×ふるさと納税厳選ガイド富士山・阿蘇・那須の高級アウトドア宿」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

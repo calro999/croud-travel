@@ -298,10 +298,8 @@ export default function BandaiAtamiWinterPage() {
             <Feather className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 萩姫伝説の美肌ぬる湯と猪苗代湖白鳥飛来＆極上福島牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】<br className="hidden sm:inline" />
-            萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月磐梯熱海温泉の冬名湯と美肌ぬる湯】<br className="hidden sm:inline" />
+            萩姫伝説の美人の湯・猪苗代湖白鳥飛来と極上福島牛＆会津新酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             郡山の奥座敷に湧く800年の美肌名湯「磐梯熱海温泉」。pH9を超える柔らかなアルカリ性単純泉とぬる湯交互浴で潤い、11月に猪苗代湖へ飛来する白鳥の群れと雪化粧の磐梯山、とろける極上福島牛と会津新酒を味わう冬の旅。
           </p>
@@ -327,9 +325,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Bandai Atami Onsen Heritage & Beauty Water</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                萩姫を救った奇跡の霊泉と、五百川のせせらぎが奏でる初冬の静寂
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">萩姫を救った奇跡の霊泉と、五百川のせせらぎが奏でる初冬の静寂</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -344,10 +340,8 @@ export default function BandaiAtamiWinterPage() {
           
           <div className="bg-teal-50/70 rounded-2xl p-5 border border-teal-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-700" />
-                11月・12月磐梯熱海温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+                11月・12月磐梯熱海温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 萩姫伝説のpH9超美肌湯・あつ湯＆ぬる湯の極上交互浴・猪苗代湖白鳥飛来と磐梯山初冠雪・極上福島牛ステーキ会席・東北新幹線郡山駅乗換20分の近さ
               </p>
@@ -398,9 +392,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Natural Alkaline Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                1. 磐梯熱海温泉の魅力：pH9超の美人の湯と伝統の「あつ湯・ぬる湯」交互浴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">1. 磐梯熱海温泉の魅力：pH9超の美人の湯と伝統の「あつ湯・ぬる湯」交互浴</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -419,9 +411,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Lake Inawashiro Swans</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                2. 11月・12月の絶景：猪苗代湖に飛来する白鳥の群れと初冠雪の磐梯山
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">2. 11月・12月の絶景：猪苗代湖に飛来する白鳥の群れと初冠雪の磐梯山</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -440,9 +430,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Legendary Princess & River</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                3. 800年の歴史「萩姫伝説」と五百川沿いの静寂な宿場町
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">3. 800年の歴史「萩姫伝説」と五百川沿いの静寂な宿場町</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function BandaiAtamiWinterPage() {
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-4 py-1.5 rounded-full border border-teal-200">
               Selected 5 Luxury Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              4. 11・12月に泊まりたい磐梯熱海温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">4. 11・12月に泊まりたい磐梯熱海温泉の厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               pH9超の美肌湯、あつ湯＆ぬる湯の交互浴、客室露天風呂、極上福島牛と会津新酒地酒を堪能できる名旅館を厳選しました。
             </p>
@@ -498,9 +484,7 @@ export default function BandaiAtamiWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       
                       <p className="text-xs text-slate-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-teal-600 flex-shrink-0" />
@@ -559,9 +543,7 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Fukushima Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 福島の冬の味覚：霜降り極上福島牛・郷土料理こづゆ・会津新酒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 福島の冬の味覚：霜降り極上福島牛・郷土料理こづゆ・会津新酒</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -580,35 +562,25 @@ export default function BandaiAtamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Suggested 2-Day Plan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                6. 1泊2日 磐梯熱海温泉〜猪苗代湖白鳥鑑賞・野口英世記念館 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">6. 1泊2日 磐梯熱海温泉〜猪苗代湖白鳥鑑賞・野口英世記念館 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-teal-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-teal-800 uppercase tracking-wider">【1日目】新幹線で郡山経由〜磐梯熱海の名宿と美肌交互浴</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                13:00 東北新幹線「郡山駅」から磐越西線に乗換 → 「磐梯熱海駅」到着
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">13:00 東北新幹線「郡山駅」から磐越西線に乗換 → 「磐梯熱海駅」到着</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 東京から約1時間40分で到着。宿の無料送迎でチェックインし、荷物を置く。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 五百川沿いの温泉街散策＆足湯「湯のまち足湯」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 五百川沿いの温泉街散策＆足湯「湯のまち足湯」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 川沿いの遊歩道を散策し、萩姫神社を参拝。清流のせせらぎに耳を澄ませる。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                16:00 宿の露天風呂で伝統の「あつ湯・ぬる湯」交互浴
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">16:00 宿の露天風呂で伝統の「あつ湯・ぬる湯」交互浴</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 pH9超のアルカリ性美肌泉で体を温め、ぬる湯でリラックス。肌がつるつるに整う。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                18:30 極上福島牛会席＆会津郷土料理こづゆ・初冬新酒地酒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">18:30 極上福島牛会席＆会津郷土料理こづゆ・初冬新酒地酒</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろける福島牛ステーキと郷土の恵みを、福島の銘酒とともに心ゆくまで堪能。
               </p>
@@ -616,21 +588,15 @@ export default function BandaiAtamiWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】朝の渓流露天風呂〜猪苗代湖白鳥鑑賞＆野口英世記念館</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → 福島県産コシヒカリの朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">08:00 朝の露天風呂 → 福島県産コシヒカリの朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝の清々しい空気を吸いながら湯浴み。温泉卵や焼き魚、炊きたてご飯の朝食をいただく。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:30 猪苗代湖「志田浜」で白鳥鑑賞（車で約20分）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:30 猪苗代湖「志田浜」で白鳥鑑賞（車で約20分）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 初冠雪の磐梯山をバックに湖面を舞う白鳥群を間近に観察。冬ならではの絶景写真撮影。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                11:30 「野口英世記念館」見学＆猪苗代名物蕎麦ランチ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">11:30 「野口英世記念館」見学＆猪苗代名物蕎麦ランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 世界的医学者の生家と記念館を見学。香り高い会津・猪苗代の新そばを味わい、帰路へ。
               </p>
@@ -653,10 +619,8 @@ export default function BandaiAtamiWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -671,9 +635,7 @@ export default function BandaiAtamiWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-300 uppercase tracking-widest">Related Tohoku & Winter Hot Spring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・福島の冬雪見温泉＆極上美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・福島の冬雪見温泉＆極上美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               福島・会津や東北各地の美肌名湯、雪見露天風呂、極上和牛を堪能できる特集記事を多数掲載しています。
             </p>

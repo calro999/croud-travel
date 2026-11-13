@@ -280,10 +280,8 @@ export default function KasumiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上美食特集｜兵庫・但馬香住
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月兵庫・香住温泉】<br className="hidden sm:inline" />
-            最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月兵庫・香住温泉】<br className="hidden sm:inline" />
+            最高峰ブランド柴山ガニ＆香住松葉ガニ・但馬牛と海辺露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月6日の解禁とともに湧き立つ山陰の蟹王国。ピンクタグの頂点「柴山がに」と獲れたて活松葉ガニ、但馬牛の極上饗宴に酔いしれ、海辺の天然温泉で身体の芯から温まる冬の至福旅。
           </p>
@@ -301,9 +299,7 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Gourmet Kingdom of Matsuba Crab</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月6日解禁！山陰海岸ジオパークの荒波が育む「冬の味覚の王者」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月6日解禁！山陰海岸ジオパークの荒波が育む「冬の味覚の王者」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Natural Thermal Springs & Coastline</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山陰海岸ジオパークの潮風に抱かれる香住・柴山温泉の泉質と癒やし
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山陰海岸ジオパークの潮風に抱かれる香住・柴山温泉の泉質と癒やし</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Gastronomy & Craft Sake</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月に香住で味わう至高のカニ会席と但馬の冬グルメ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月に香住で味わう至高のカニ会席と但馬の冬グルメ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Travel Route & Scenic Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山陰海岸ジオパークの絶景を巡る初冬の香住・余部おすすめ散策ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山陰海岸ジオパークの絶景を巡る初冬の香住・余部おすすめ散策ルート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function KasumiOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Handpicked 5 Elite Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              香住温泉・柴山温泉で冬のカニを極める厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">香住温泉・柴山温泉で冬のカニを極める厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               競り権を持つ老舗割烹から網元直営の豪快宿、柴山港一望の隠れ宿まで、楽天APIから最新情報と評価を厳選した5軒をご紹介します。
             </p>
@@ -454,9 +442,7 @@ export default function KasumiOnsenWinterFeature() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>兵庫県美方郡香美町香住区</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                     </div>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -515,26 +501,20 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Guide & Packing Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の香住冬旅の気候・服装と雪道運転のアドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の香住冬旅の気候・服装と雪道運転のアドバイス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                防風・防水と重ね着対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                防風・防水と重ね着対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 初冬の日本海沿岸は「うらにし」と呼ばれる急な通り雨や冷たい海風が頻繁に吹きます。気温は11月で平均10〜14℃前後、12月に入ると最高気温でも5〜8℃、朝晩は0℃近くまで冷え込みます。防風性のあるフード付きダウンジャケットやウインドブレーカー、厚手のストール、撥水性のある靴を用意しましょう。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                峠越えの雪道対策・スタッドレスタイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                峠越えの雪道対策・スタッドレスタイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 海岸部の平地では11月に大雪になることは稀ですが、阪神・京阪神方面から北上する際の山間部（北近畿豊岡道や国道9号線の春日〜和田山〜八鹿周辺）では、11月下旬以降に夜間凍結や初雪が見られます。12月の車移動はスタッドレスタイヤ必須です。運転に不安のある方は特急はまかぜ・こうのとり利用が安心です。
               </p>
@@ -550,18 +530,14 @@ export default function KasumiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                香住温泉・柴山がに冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">香住温泉・柴山がに冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -574,9 +550,7 @@ export default function KasumiOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい関西・日本海の冬名湯＆極上カニ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい関西・日本海の冬名湯＆極上カニ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の味覚の王様・カニ料理や、歴史ある名湯を巡る人気特集もぜひチェックしてください。
             </p>

@@ -269,9 +269,7 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Sacred Valley & Beauty Elixir</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                奥紀州の山懐に湧く奇跡の美肌湯｜11月・12月に龍神温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">奥紀州の山懐に湧く奇跡の美肌湯｜11月・12月に龍神温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Primeval Forest & Gorge Silence</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日高川の清流と立ち込める朝霧｜原生林の静寂が育む秘湯の風情
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日高川の清流と立ち込める朝霧｜原生林の静寂が育む秘湯の風情</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -314,9 +310,7 @@ export default function WakayamaRyujinWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Heritage & Hidden Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月厳選】龍神温泉の美肌湯とぼたん鍋を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月厳選】龍神温泉の美肌湯とぼたん鍋を堪能する名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               徳川家ゆかりの有形文化財の宿から、川のせせらぎに癒やされる公共リゾート、温かいおもてなしの民宿まで、個性豊かな5軒を厳選。
             </p>
@@ -347,9 +341,7 @@ export default function WakayamaRyujinWinterFeature() {
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">{h.name}</h3>
                       <span className="text-lg sm:text-xl font-extrabold text-emerald-800">
                         {h.price} <span className="text-xs font-normal text-slate-500">/人〜</span>
                       </span>
@@ -413,9 +405,7 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                紀州天然猪ぼたん鍋の栄養価値と重曹泉の美肌作用メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">紀州天然猪ぼたん鍋の栄養価値と重曹泉の美肌作用メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -436,9 +426,7 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の熊野古道と日本三美人の湯・名物ぼたん鍋を巡る秘湯リトリート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の熊野古道と日本三美人の湯・名物ぼたん鍋を巡る秘湯リトリート</h2>
             </div>
           </div>
 
@@ -503,38 +491,30 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Local Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の龍神温泉旅行を快適に過ごすための3箇条
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の龍神温泉旅行を快適に過ごすための3箇条</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-slate-700">
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-emerald-600" />
-                ルート選びと冬道対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-emerald-600" />
+                ルート選びと冬道対策</h3>
               <p className="leading-relaxed">
                 高野龍神スカイラインは12月以降凍結や積雪のリスクが高まります。車でアクセスする際は、南側の有田ICまたは南紀田辺ICからの一般道（国道424号・311号）を利用すると安心です。
               </p>
             </div>
 
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-emerald-600" />
-                美肌湯の入り方のコツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-emerald-600" />
+                美肌湯の入り方のコツ</h3>
               <p className="leading-relaxed">
                 炭酸水素塩泉は肌の余分な油分や角質を優しく落とすため、ゴシゴシ体をこすらず湯船にゆっくり浸かるだけで十分。湯上がり後は水分が蒸発する前に保湿クリームで潤いを閉じ込めましょう。
               </p>
             </div>
 
             <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-emerald-600" />
-                特産「ぶどう山椒」の芳香
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+                特産「ぶどう山椒」の芳香</h3>
               <p className="leading-relaxed">
                 和歌山県は全国一の山椒生産地。大粒で爽快な柑橘香を持つ「ぶどう山椒」をぼたん鍋や川魚にかけると、料理の旨味が何倍にも引き立ちます。お土産にも喜ばれる逸品です。
               </p>
@@ -550,19 +530,15 @@ export default function WakayamaRyujinWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                龍神温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">龍神温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-emerald-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -575,9 +551,7 @@ export default function WakayamaRyujinWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！近畿・関西の冬美食＆美肌温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！近畿・関西の冬美食＆美肌温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               和歌山・兵庫・京都の極上ジビエ・クエ・蟹を巡る、厳選特集記事もぜひチェックしてください。
             </p>

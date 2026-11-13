@@ -298,10 +298,8 @@ export default function UnzenOnsenWinterPage() {
             <CloudFog className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 普賢岳霧氷と雲仙地獄の湯煙・乳白色硫黄泉旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】<br className="hidden sm:inline" />
-            雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月長崎雲仙温泉の冬名湯と普賢岳霧氷】<br className="hidden sm:inline" />
+            雲仙地獄の湯煙・乳白色の硫黄泉露天と極上雲仙あかね牛・島原郷土会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の冷気の中で轟音を響かせ白い湯煙を噴き上げる雲仙地獄。日本最初の国立公園に位置する歴史ある高原温泉街で、冷えた体を芯から解き放つ濃厚な乳白色の強酸性硫黄泉、仁田峠の純白の霧氷（花ぼうろ）と極上雲仙あかね牛を堪能する大人の冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Unzen Onsen Winter Geothermal Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本最初の国立公園に湧く大地の鼓動、湯煙と白濁の硫黄泉が紡ぐ癒やし
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本最初の国立公園に湧く大地の鼓動、湯煙と白濁の硫黄泉が紡ぐ癒やし</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -368,9 +364,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Geothermal Science & Spring Features</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                pH2.0の強酸性！乳白色の硫黄泉がもたらす強力な殺菌＆血行促進力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">pH2.0の強酸性！乳白色の硫黄泉がもたらす強力な殺菌＆血行促進力</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -389,9 +383,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Natural Ice Sculpture</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                雲仙岳の冬の華『霧氷（花ぼうろ）』仁田峠ロープウェイからの白銀絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">雲仙岳の冬の華『霧氷（花ぼうろ）』仁田峠ロープウェイからの白銀絶景</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -410,9 +402,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の雲仙温泉が旅人を惹きつける3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の雲仙温泉が旅人を惹きつける3つの理由</h2>
             </div>
           </div>
           
@@ -453,9 +443,7 @@ export default function UnzenOnsenWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              雲仙温泉 11月・12月におすすめの名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">雲仙温泉 11月・12月におすすめの名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベルの最新API公式データをもとに、雲仙地獄ビュー・自家源泉白濁露天・極上雲仙あかね牛会席を誇る名宿を厳選。
             </p>
@@ -491,11 +479,9 @@ export default function UnzenOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-emerald-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -555,9 +541,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Unzen & Shimabara Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                4. 雲仙・島原の初冬グルメ：雲仙あかね牛のステーキと島原伝統具雑煮
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">4. 雲仙・島原の初冬グルメ：雲仙あかね牛のステーキと島原伝統具雑煮</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -576,35 +560,25 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 1泊2日 雲仙温泉〜普賢岳仁田峠霧氷・雲仙地獄散策 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 1泊2日 雲仙温泉〜普賢岳仁田峠霧氷・雲仙地獄散策 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-emerald-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-wider">【1日目】諫早駅出発〜小浜温泉足湯＆雲仙地獄散策・白濁硫黄露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                11:30 JR諫早駅または長崎空港出発 → 小浜温泉で名物ちゃんぽんランチ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">11:30 JR諫早駅または長崎空港出発 → 小浜温泉で名物ちゃんぽんランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 橘湾を望む小浜温泉で日本一長い足湯「ほっとふっと105」に立ち寄り、海鮮ちゃんぽんを味わう。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 雲仙温泉到着 → 迫力ある「雲仙地獄」遊歩道散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 雲仙温泉到着 → 迫力ある「雲仙地獄」遊歩道散策</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 白い湯煙が立ち昇る大叫喚地獄やお糸地獄を見学。地獄の蒸気で作る「温泉たまご」を味わう。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                15:30 宿へチェックイン → 乳白色の強酸性硫黄泉露天風呂へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">15:30 宿へチェックイン → 乳白色の強酸性硫黄泉露天風呂へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 硫黄の香りに包まれ、白濁した濃厚な湯船に浸かって旅の疲れを芯から癒やす極上湯浴み。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:00 極上雲仙あかね牛ステーキ＆島原郷土具雑煮会席ディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:00 極上雲仙あかね牛ステーキ＆島原郷土具雑煮会席ディナー</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろけるあかね牛の旨みと、山海の恵みが溶け合った具雑煮を地酒とともに堪能。
               </p>
@@ -612,27 +586,19 @@ export default function UnzenOnsenWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】仁田峠雲仙ロープウェイ霧氷鑑賞〜島原武家屋敷散策</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝の湯煙露天風呂 → 島原の恵み朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝の湯煙露天風呂 → 島原の恵み朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 冷涼な高原の空気の中で朝風呂を満喫。島原野菜と自家製豆腐の温かい朝食で活力をチャージ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:00 仁田峠へ移動 → 雲仙ロープウェイで妙見岳の純白の霧氷（花ぼうろ）鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:00 仁田峠へ移動 → 雲仙ロープウェイで妙見岳の純白の霧氷（花ぼうろ）鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ロープウェイから見渡す白銀の山肌と有明海のパノラマ絶景。木々に咲く氷の花に息をのむ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                12:00 島原市街へ下り島原城＆湧水が流れる武家屋敷散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">12:00 島原市街へ下り島原城＆湧水が流れる武家屋敷散策</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 名水百選の湧水がめぐる風情ある城下町を散策し、伝統銘菓「かんざらし」で一服。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                15:00 島原港または諫早駅より帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">15:00 島原港または諫早駅より帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 島原港からフェリーで熊本へ渡るか、諫早駅より新幹線で帰路へ。充実の雲仙旅を締めくくります。
               </p>
@@ -648,9 +614,7 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Highland Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・山岳道路ドライブアドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・山岳道路ドライブアドバイス</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -669,18 +633,14 @@ export default function UnzenOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の雲仙温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の雲仙温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -693,9 +653,7 @@ export default function UnzenOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Kyushu & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の名湯＆冬の絶景・美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の名湯＆冬の絶景・美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの絶景露天風呂、温泉街の湯煙、旬の郷土グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

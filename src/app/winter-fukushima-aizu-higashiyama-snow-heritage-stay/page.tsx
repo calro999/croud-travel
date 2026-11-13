@@ -266,10 +266,8 @@ export default function HigashiyamaWinterPage() {
             <Sparkles className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 会津の奥座敷・初雪と名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月会津東山温泉の初雪と武家文化】<br className="hidden sm:inline" />
-            雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月会津東山温泉の初雪と武家文化】<br className="hidden sm:inline" />
+            雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             1300年の歴史を紡ぐ湯川渓谷の湯けむり。中庭を照らす温かな雪見ろうそく、白銀の山肌を望む雪見露天風呂に浸かり、会津漆器でいただく極上馬刺しと金賞受賞の会津美酒に酔いしれる至高の冬旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function HigashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Samurai Heritage & Snow Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                白銀の渓谷と登録文化財建築。会津武士と文豪が愛した1300年の奥座敷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀の渓谷と登録文化財建築。会津武士と文豪が愛した1300年の奥座敷</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function HigashiyamaWinterPage() {
           
           <div className="bg-red-50/70 rounded-2xl p-5 border border-red-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-red-700" />
-                <span>11月・12月 会津東山温泉の旅のハイライト</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-red-700" />
+                <span>11月・12月 会津東山温泉の旅のハイライト</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 国の登録有形文化財宿と雪見ろうそく・湯川渓谷の雪見露天風呂・会津極上赤身馬刺し・会津地鶏と金賞受賞酒
               </p>
@@ -334,9 +328,7 @@ export default function HigashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Travel Planning Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の会津 気候・防寒具・雪道運転のアドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の会津 気候・防寒具・雪道運転のアドバイス</h2>
             </div>
           </div>
 
@@ -376,9 +368,7 @@ export default function HigashiyamaWinterPage() {
             <span className="text-xs font-extrabold text-red-800 uppercase tracking-widest bg-red-100/60 px-3.5 py-1 rounded-full">
               SELECTED HERITAGE HOTELS
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">
-              【11・12月】会津東山温泉の初冬を満喫する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">【11・12月】会津東山温泉の初冬を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 max-w-2xl mx-auto">
               楽天トラベルで4.2以上の高評価を獲得している、登録有形文化財宿から絶景展望露天リゾート、自家源泉の隠れ宿まで、本物の会津の魅力が詰まった5軒を厳選しました。
             </p>
@@ -424,9 +414,7 @@ export default function HigashiyamaWinterPage() {
                       <span className="text-[11px] text-red-800 font-bold tracking-wider uppercase block mb-1">
                         {hotel.special}
                       </span>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-red-700" />
                         <span>{hotel.access}</span>
@@ -496,9 +484,7 @@ export default function HigashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初雪の東山温泉と城下町会津若松を巡る歴史旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初雪の東山温泉と城下町会津若松を巡る歴史旅</h2>
             </div>
           </div>
 
@@ -590,48 +576,38 @@ export default function HigashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                会津東山温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">会津東山温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>会津東山温泉の初雪や積雪の時期はいつ頃ですか？11月や12月の気候は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>会津東山温泉の初雪や積雪の時期はいつ頃ですか？11月や12月の気候は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 会津若松および東山温泉では、例年11月中旬から下旬にかけて初雪が降ります。本格的に温泉街や木造旅館の屋根に雪が積もり、雪見露天風呂のシーズンとなるのは12月上旬から中旬以降です。12月の平均気温は0〜3℃前後で、朝晩は氷点下に冷え込みます。ダウンコート、マフラー、手袋、滑り止め付きの暖かいスノーブーツが必須です。お車の場合は11月下旬以降スタッドレスタイヤが絶対不可欠です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>会津東山温泉の泉質や効能、歴史的特徴は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>会津東山温泉の泉質や効能、歴史的特徴は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 東山温泉は約1300年前、名僧・行基によって発見されたと伝わる歴史ある古湯です。江戸時代には会津藩の湯治場として栄え、新選組の土方歳三が戊辰戦争の傷を癒やした湯としても知られます。泉質はカルシウム・ナトリウム―硫酸塩・塩化物温泉（低張性・弱アルカリ性・高温泉）。サラサラとした無色透明の柔らかな湯で、切り傷や冷え性、神経痛、疲労回復に優れた効能があります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>会津の名物グルメ「馬刺し」の特徴と美味しい食べ方は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>会津の名物グルメ「馬刺し」の特徴と美味しい食べ方は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 会津の馬刺しは、サシ（霜降り）を重んじる熊本などとは異なり、鮮やかな赤身肉（モモやロース）を食べるのが最大の特徴です。脂っこさがなく肉本来の濃厚な旨味と甘みがあり、非常にヘルシー。これを醤油ではなく、すりおろした生ニンニクと唐辛子、味噌を練り合わせた特製の「辛子味噌（にんにく味噌）」を醤油に溶いて食べるのが会津伝統のスタイルです。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>会津若松駅から東山温泉へのアクセスや観光の移動手段は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>会津若松駅から東山温泉へのアクセスや観光の移動手段は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 JR磐越西線会津若松駅から東山温泉街までは、路線バスまたは観光周遊バス「あかべぇ」「ハイカラさん」で約15〜20分です。タクシーなら約10分（約1,500円〜2,000円）。鶴ヶ城や武家屋敷、飯盛山などの主要観光地を結ぶ周遊バスが約30分間隔で運行しているため、冬期でも雪道を運転することなく快適に観光地巡りが楽しめます。
               </p>
@@ -643,9 +619,7 @@ export default function HigashiyamaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-red-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆東北・甲信越名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆東北・甲信越名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -654,9 +628,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【小野川温泉】雪見露天風呂と最高峰米沢牛すき焼き・小野小町ゆかりの名湯宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【小野川温泉】雪見露天風呂と最高峰米沢牛すき焼き・小野小町ゆかりの名湯宿</h3>
             </Link>
 
             <Link 
@@ -664,9 +636,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東北の初雪</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【銀山温泉】白銀の木造建築に灯るガス灯と尾花沢牛会席・極上雪見宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【銀山温泉】白銀の木造建築に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -674,9 +644,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">秋田の秘湯雪見</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【乳頭温泉郷】ブナ原生林の雪見露天風呂と本場比内地鶏きりたんぽ鍋の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【乳頭温泉郷】ブナ原生林の雪見露天風呂と本場比内地鶏きりたんぽ鍋の宿</h3>
             </Link>
 
             <Link 
@@ -684,9 +652,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">北関東の雪見</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -694,9 +660,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山形の樹氷絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【蔵王温泉】スノーモンスター樹氷ライトアップと強酸性硫黄泉の老舗宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【蔵王温泉】スノーモンスター樹氷ライトアップと強酸性硫黄泉の老舗宿</h3>
             </Link>
 
             <Link 
@@ -704,9 +668,7 @@ export default function HigashiyamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">上州の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-fukushima-aizu-higashiyama-snow-heritage-stay" />

@@ -266,10 +266,8 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Trees className="w-6 h-6 text-emerald-500 shrink-0" />
-              白銀のスノーロードと神宿る湖中鳥居！冬の奥琵琶湖・高島が織りなす神秘の情景
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Trees className="w-6 h-6 text-emerald-500 shrink-0" />
+              白銀のスノーロードと神宿る湖中鳥居！冬の奥琵琶湖・高島が織りなす神秘の情景</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-emerald-500 shrink-0" />
-              高島＆マキノ・湖西エリアで泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-emerald-500 shrink-0" />
+              高島＆マキノ・湖西エリアで泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。メタセコイア並木至近のリゾート、秘湯の鴨鍋旅館、おごと温泉の極上宿を厳選。
             </p>
@@ -334,12 +330,10 @@ export default function ShigaTakashimaMakinoWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-emerald-700 bg-emerald-50 border border-emerald-200/60 rounded-md px-2.5 py-1 mt-2 inline-block font-medium">
                         {h.special}
@@ -396,10 +390,8 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-emerald-500 shrink-0" />
-              高島＆マキノの冬の気候と時期別おすすめの服装・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-emerald-500 shrink-0" />
+              高島＆マキノの冬の気候と時期別おすすめの服装・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -439,38 +431,30 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-emerald-500 shrink-0" />
-              冬の奥琵琶湖を美しく切り取る！絶景フォトスポット＆撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-emerald-500 shrink-0" />
+              冬の奥琵琶湖を美しく切り取る！絶景フォトスポット＆撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-600" />
-                メタセコイア並木の白銀スノーロード
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-600" />
+                メタセコイア並木の白銀スノーロード</h3>
               <p className="leading-relaxed">
                 降雪直後の晴れた早朝（7:30〜9:00）がベスト。マキノピックランド側の歩道から中望遠レンズ（85〜135mm）で道路の消失点に向けて構えると、左右の並木の圧縮効果で白銀のアーチが美しく重なり合い、吸い込まれるような遠近感を強調できます。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-600" />
-                白鬚神社湖中大鳥居の初日の出
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-600" />
+                白鬚神社湖中大鳥居の初日の出</h3>
               <p className="leading-relaxed">
                 元旦の日の出時刻（6:50〜7:10頃）に合わせて境内の展望台「藍湖白髭台」から撮影。湖面から昇る朝日が湖中鳥居をシルエットで浮かび上がらせ、水面に走る黄金色の光の道を標準レンズ（50mm前後）でドラマチックに収めるのが王道です。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-600" />
-                奥琵琶湖の朝霧（気嵐）と竹生島
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-600" />
+                奥琵琶湖の朝霧（気嵐）と竹生島</h3>
               <p className="leading-relaxed">
                 冷え込みの厳しい真冬の早朝、湖面温度と外気温の差によって立ち上る幻想的な「気嵐（けあらし）」。対岸の雪化粧した伊吹山や、湖水に浮かぶ神聖な竹生島の島影を望遠レンズで捉えると、水墨画のような幽玄な世界観を表現できます。
               </p>
@@ -482,38 +466,30 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Local Specialties</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-emerald-500 shrink-0" />
-              冬の近江・高島を味わう！天然真鴨鍋・近江牛すき焼き・発酵鮒寿司
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-emerald-500 shrink-0" />
+              冬の近江・高島を味わう！天然真鴨鍋・近江牛すき焼き・発酵鮒寿司</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                冬の最高峰「天然真鴨鍋」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                冬の最高峰「天然真鴨鍋」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 越冬のために琵琶湖へ飛来する野生の真鴨を使った伝統の鍋料理。引き締まった赤身は野趣あふれる香りと深いコクがあり、透き通った脂身は口に入れた瞬間にサラリととろけます。ネギやセリとともに熱々の割り下で炊く鴨鍋は、一度食べたら忘れられない本物の味です。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                日本三大和牛「近江牛」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                日本三大和牛「近江牛」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 約400年の歴史を誇る日本最古のブランド和牛・近江牛。きめ細やかなサシが全体に入り、融点が低いため舌の上でまろやかに溶けていきます。冬は甘辛い割下で野菜とともに炊き上げるすき焼きや、熱々の陶板焼きステーキが冷えた体を芯から温めてくれます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                高島の発酵文化と地酒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                高島の発酵文化と地酒</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 比良山系の清らかな伏流水に恵まれた高島市は「発酵の町」としても有名。伝統の発酵食品「鮒寿司」や、冬の新酒しぼりたてが並ぶ老舗酒蔵（福井弥平商店・萩乃露や上原酒造・不老泉など）が点在し、歴史ある発酵グルメとお酒のペアリングが楽しめます。
               </p>
@@ -525,10 +501,8 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-emerald-400 shrink-0" />
-              メタセコイア雪景色と白鬚神社を巡る1泊2日冬の王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-emerald-400 shrink-0" />
+              メタセコイア雪景色と白鬚神社を巡る1泊2日冬の王道モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -589,18 +563,14 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の高島・マキノ旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の高島・マキノ旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -613,9 +583,7 @@ export default function ShigaTakashimaMakinoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！滋賀・関西エリアの冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！滋賀・関西エリアの冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

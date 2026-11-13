@@ -285,9 +285,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-500 pl-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              きらめく東京湾岸と夜空の花火絵巻！冬のお台場・豊洲が旅人を魅了する理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">きらめく東京湾岸と夜空の花火絵巻！冬のお台場・豊洲が旅人を魅了する理由</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               海風が澄ませる1000万ドルの都会夜景、市場直送の江戸前美食、そして都会のオアシス天然温泉
             </p>
@@ -312,9 +310,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
         {/* 5 Hotels Detail Section */}
         <section className="space-y-10">
           <div className="text-center space-y-3">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-              東京ベイエリアで冬を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">東京ベイエリアで冬を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
               楽天トラベル公式APIからリアルタイムに取得した信頼の宿泊施設。お台場・有明・豊洲の冬夜景と温泉、美食を堪能する特選ラインナップです。
             </p>
@@ -364,12 +360,10 @@ export default function TokyoOdaibaToyosuWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
                         {hotel.special}
                       </p>
@@ -426,9 +420,7 @@ export default function TokyoOdaibaToyosuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-500 pl-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬のお台場＆豊洲を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬のお台場＆豊洲を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               豊洲千客万来の海鮮ランチ、お台場レインボー花火鑑賞、夜景ディナー、天然温泉を巡る充実プラン
             </p>
@@ -481,47 +473,37 @@ export default function TokyoOdaibaToyosuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-sky-500 pl-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の東京ベイエリア完全攻略：花火・グルメ・温泉・夜景の心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の東京ベイエリア完全攻略：花火・グルメ・温泉・夜景の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-sky-500" />
-                お台場レインボー花火の特等席と撮影のコツ
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-sky-500" />
+                お台場レインボー花火の特等席と撮影のコツ</h3>
               <p className="leading-relaxed">
                 花火の打上場所はお台場海浜公園の鳥の島沖です。定番のベストビュースポットは「自由の女神像前展望デッキ」や「デックス東京ビーチの3階シーサイドデッキ」ですが、風上にあたる位置を選ぶのが煙に遮られないポイント。また、「ヒルトン東京お台場」のバルコニー付客室や「グランドニッコー東京 台場」の高層ベイビュー客室を予約すれば、冷たい海風を受けることなく、暖かな室内からホットドリンク片手に至福のプライベート鑑賞が可能です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-500" />
-                豊洲千客万来の混雑回避と市場グルメ攻略
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-500" />
+                豊洲千客万来の混雑回避と市場グルメ攻略</h3>
               <p className="leading-relaxed">
                 豊洲千客万来は平日でも観光客で大いに賑わいます。特に昼食時の11:30〜14:00は人気海鮮丼店に行列が集中します。快適に楽しむ秘訣は、午前10:00の開業直後を狙う「ブランチ作戦」、または午後15:00以降のカフェ・軽食タイムの訪問です。温浴棟万葉倶楽部8階の「展望足湯庭園」は無料で利用可能ですが、足拭き用タオル（有料）を持参しておくと待ち時間なくスムーズに楽しめます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                レインボーブリッジ＆東京タワー夜景の黄金タイム
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                レインボーブリッジ＆東京タワー夜景の黄金タイム</h3>
               <p className="leading-relaxed">
                 冬の東京湾岸で最も美しい時間帯は、日没直後から約30分間の「マジックアワー（16:45〜17:20頃）」です。西の空がオレンジから藍色へとグラデーションを描く中、レインボーブリッジの主塔と東京タワーが点灯し、遠く富士山の稜線が黒い影絵のように浮かび上がります。お台場海浜公園のマリンハウス展望台や客室の窓際で、この奇跡の瞬間を見逃さないようスタンバイしましょう。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-teal-500" />
-                都会の天然温泉「泉天空の湯」と湯冷め防止策
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-teal-500" />
+                都会の天然温泉「泉天空の湯」と湯冷め防止策</h3>
               <p className="leading-relaxed">
                 有明ガーデン内に湧く「泉天空の湯」は、地下1,500mから汲み上げるナトリウム塩化物強塩温泉。塩分が肌に付着して汗の蒸発を防ぐため、非常に保温効果が高く「熱の湯」とも呼ばれます。冬の冷え性や疲労回復に抜群の効果を発揮します。入浴後は水分をしっかり拭き取り、館内着や防寒着を着込んでから移動することで、海風に吹かれても湯冷めせずポカポカが持続します。
               </p>
@@ -533,27 +515,21 @@ export default function TokyoOdaibaToyosuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-500 pl-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Logistics</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬（11月・12月・1月）の気候・海風防寒対策とスマートアクセス術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬（11月・12月・1月）の気候・海風防寒対策とスマートアクセス術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <ShieldCheck className="w-5 h-5 text-sky-500" />
-                海風の強さと服装選びの注意点
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-sky-500" />
+                海風の強さと服装選びの注意点</h3>
               <p className="leading-relaxed">
                 東京ベイエリアは東京湾に面した開けた地形のため、冬場は北西の季節風が遮るものなく吹き抜けます。気温が7℃〜8℃であっても、風速5m以上の風が吹くと体感温度は氷点下近くまで下がります。コート選びでは「防風性（ウインドプルーフ）」を最重視し、風を通さないダウンジャケットやマウンテンパーカーを着用してください。首元からの冷気侵入を防ぐマフラー、手袋、ニット帽、使い捨てカイロの携帯が必須です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-indigo-500" />
-                ゆりかもめ・りんかい線・空港リムジンの使い分け
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-500" />
+                ゆりかもめ・りんかい線・空港リムジンの使い分け</h3>
               <p className="leading-relaxed">
                 新橋や銀座、汐留方面からのアクセスには「新交通ゆりかもめ」が風光明媚で最適です。一方、渋谷、新宿、池袋、大宮方面からはJR埼京線直通の「りんかい線」を利用すれば、乗り換えなしで東京テレポート駅や国際展示場駅へスピーディーに直結します。また、グランドニッコー東京 台場や有明ワシントンホテルからは羽田空港・成田空港への空港リムジンバスが発着しており、遠方からの観光やビジネスでも重い荷物を持たずにスムーズに移動できます。
               </p>
@@ -565,18 +541,14 @@ export default function TokyoOdaibaToyosuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-500 pl-4">
             <span className="text-sky-600 font-bold text-xs uppercase tracking-wider block">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬のお台場・豊洲旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬のお台場・豊洲旅行 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-sky-100 text-sky-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-sky-100 text-sky-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {item.a}
                 </p>
@@ -587,10 +559,8 @@ export default function TokyoOdaibaToyosuWinterPage() {
 
         {/* Internal Feature Links Section */}
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-200">
-          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-sky-600" />
-            あわせて読みたい冬の特選特集記事
-          </h2>
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-sky-600" />
+            あわせて読みたい冬の特選特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             東日本・首都圏および全国の冬の厳選旅行特集もぜひご覧ください。
           </p>

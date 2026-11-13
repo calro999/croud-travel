@@ -270,10 +270,8 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Overview</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Droplets className="w-6 h-6 text-emerald-500 shrink-0" />
-              歴史ロマンと清らかな名水が息づく城下町！冬の島原のぬくもりと魅力
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Droplets className="w-6 h-6 text-emerald-500 shrink-0" />
+              歴史ロマンと清らかな名水が息づく城下町！冬の島原のぬくもりと魅力</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -293,10 +291,8 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-emerald-500 shrink-0" />
-              島原温泉＆南島原で泊まりたい冬の厳選宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-emerald-500 shrink-0" />
+              島原温泉＆南島原で泊まりたい冬の厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。海を望む絶景露天風呂、伝統の具雑煮会席、長崎和牛を堪能できる名宿を厳選。
             </p>
@@ -333,12 +329,10 @@ export default function NagasakiShimabaraAriakeWinterPage() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                         {h.access}
@@ -393,44 +387,34 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Sightseeing & Culture</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Landmark className="w-6 h-6 text-emerald-500 shrink-0" />
-              冬の島原・南島原を巡る！歴史と水のぬくもりを感じる必訪名所
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Landmark className="w-6 h-6 text-emerald-500 shrink-0" />
+              冬の島原・南島原を巡る！歴史と水のぬくもりを感じる必訪名所</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. 島原城の天守閣と初詣・城郭ライトアップ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. 島原城の天守閣と初詣・城郭ライトアップ</h3>
               <p className="text-xs sm:text-sm">
                 4万石の城下町として栄えた島原の誇り「島原城」。キリシタン史料館や民具資料館を併設し、冬の澄んだ空気の中で五層の天守閣が堂々とそびえ立ちます。年末年始には本丸広場での初日の出観賞や島原大神宮への初詣で賑わい、夜間には天守閣が白くライトアップされて幻想的な夜景を演出します。
               </p>
             </div>
 
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 湧水庭園 四明荘（しめいそう）と鯉の泳ぐまち
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 湧水庭園 四明荘（しめいそう）と鯉の泳ぐまち</h3>
               <p className="text-xs sm:text-sm">
                 湧水池の上に張り出すように建てられた数寄屋造りの茶席「四明荘」。透き通る池水には色鮮やかな錦鯉がゆったりと泳ぎ、まるで水面に浮いているかのような静謐な時間を過ごせます。周辺の「鯉の泳ぐまち」では水路に清流が流れ、島原名物の白玉スイーツ「かんざらし」を味わいながらの散策が楽しめます。
               </p>
             </div>
 
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                3. 世界文化遺産「原城跡（はらじょうあと）」の冬景色
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">3. 世界文化遺産「原城跡（はらじょうあと）」の冬景色</h3>
               <p className="text-xs sm:text-sm">
                 南島原市に位置する原城跡は、1637年の島原・天草一揆の最後の舞台となった国指定史跡。有明海に突き出た断崖の要害からは、冬の澄んだ海の向こうに天草諸島を一望できます。十字架のモニュメントや天草四郎像が静かに佇み、冬の潮風の中で深い祈りと歴史の息吹を感じられる聖地です。
               </p>
             </div>
 
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                4. 有明海フェリーのカモメクルーズ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">4. 有明海フェリーのカモメクルーズ</h3>
               <p className="text-xs sm:text-sm">
                 島原外港または多比良港と対岸の熊本を結ぶ有明海フェリー。冬期にはシベリア方面から飛来した数千羽のカモメがフェリーを追って飛び交い、船上デッキからパンやお菓子を手渡しで餌やりできる体験が大人気。冬晴れの海とカモメの群れ、雪化粧した雲仙岳の眺望は旅の最高の思い出になります。
               </p>
@@ -442,38 +426,30 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gastronomy</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-emerald-500 shrink-0" />
-              島原の冬を味わい尽くす！熱々「具雑煮」・有明海冬牡蠣・極上長崎和牛
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-emerald-500 shrink-0" />
+              島原の冬を味わい尽くす！熱々「具雑煮」・有明海冬牡蠣・極上長崎和牛</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                伝統の熱々郷土鍋「具雑煮」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                伝統の熱々郷土鍋「具雑煮」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 島原の冬の食卓に欠かせない郷土鍋。餅に加えて地鶏、焼き穴子、ごぼう、椎茸、凍り豆腐など10種以上の贅沢な具材が土鍋で煮込まれ、上品な出汁と具材の旨味が溶け合います。栄養満点で、体の芯からポカポカ温まります。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                有明海の冬牡蠣＆ガンバ（ふぐ）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                有明海の冬牡蠣＆ガンバ（ふぐ）</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 干潟の豊かな栄養で育つ有明海の冬牡蠣は、大粒でクリーミーな甘みが格別。炭火焼きや酒蒸しで味わえます。また島原名物のガンバ（ふぐ）は、湯引きや唐揚げ、てっちり鍋など、本場ならではの鮮度と価格で贅沢に楽しめます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-emerald-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-500" />
-                霜降りと赤身の調和「長崎和牛」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-500" />
+                霜降りと赤身の調和「長崎和牛」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 全国和牛能力共進会で日本一に輝いた実績を持つ「長崎和牛」。肉本来の旨味を持つ赤身と、甘くまろやかな脂身のバランスが絶妙で、すき焼きや陶板焼きステーキで至福のとろける美味しさを堪能できます。
               </p>
@@ -485,26 +461,20 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Scenic Spots & Photography</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-emerald-500 shrink-0" />
-              日本一海に近い無人駅「大三東駅」と冬のシーサイドドライブ
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-emerald-500 shrink-0" />
+              日本一海に近い無人駅「大三東駅」と冬のシーサイドドライブ</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. 黄色いハンカチが風にたなびく「大三東駅（おおみさきえき）」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. 黄色いハンカチが風にたなびく「大三東駅（おおみさきえき）」</h3>
               <p className="text-xs sm:text-sm">
                 島原鉄道の「大三東駅」は、ホームのすぐ真下が有明海という「日本一海に近い駅」として全国的に有名です。柵のない開放的なホームからは、干満差日本一を誇る有明海の雄大な干潟や満ち潮時のきらめく水面が眼前に広がります。冬の澄んだ青空の下、駅舎に設置された「幸せの黄色いハンカチ」に旅の願いを込めて結びつける体験は、SNSでも大人気。黄色い列車と青い海が織りなすコントラストは冬の絶景シャッターチャンスです。
               </p>
             </div>
 
             <div className="border-l-4 border-emerald-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 国道251号線「島原街道」と冬の雲仙岳パノラマ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 国道251号線「島原街道」と冬の雲仙岳パノラマ</h3>
               <p className="text-xs sm:text-sm">
                 島原半島をぐるりと巡る国道251号線は、冬でも積雪が極めて少なく快適なドライブが楽しめる絶景ロード。左手に穏やかな有明海、右手に雪帽子をかぶった雲仙岳や平成新山を眺めながらの爽快なシーサイドクルージングが楽しめます。途中の道の駅「みずなし本陣ふかえ」では、雲仙普賢岳噴火災害の遺構である土石流被災家屋が保存展示されており、大自然の畏敬と復興の歩みに深く触れることができます。
               </p>
@@ -516,10 +486,8 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-emerald-400 shrink-0" />
-              島原城初詣と有明海朝日・温泉を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-emerald-400 shrink-0" />
+              島原城初詣と有明海朝日・温泉を満喫する1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -580,18 +548,14 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の島原温泉・有明海旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の島原温泉・有明海旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -604,9 +568,7 @@ export default function NagasakiShimabaraAriakeWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！九州・西日本の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！九州・西日本の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

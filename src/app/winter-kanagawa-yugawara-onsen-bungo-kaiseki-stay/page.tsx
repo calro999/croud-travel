@@ -285,10 +285,8 @@ export default function YugawaraWinterPage() {
             <BookOpen className="w-4 h-4 text-orange-300" />
             <span>11月・12月限定 万葉の古湯と関東最遅の紅葉・相模湾海の幸会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】<br className="hidden sm:inline" />
-            文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月湯河原温泉の名湯と奥湯河原晩秋紅葉】<br className="hidden sm:inline" />
+            文豪が愛した万葉の隠れ家・相模湾の伊勢海老＆地魚会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             万葉集に唯一詠まれ、漱石・芥川・藤村ら文豪が執筆に籠もった関東最古の名湯。11月下旬から12月上旬にかけて奥湯河原を彩る遅咲きの真紅のもみじ。相模湾の冬の味覚・伊勢海老と寒金目鯛に舌鼓を打つ静寂の隠れ家へ。
           </p>
@@ -314,9 +312,7 @@ export default function YugawaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Literary Sanctuary & Manyo Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                『万葉集』に唯一詠まれた関東最古の名湯。数多の文豪が愛した静寂の奥座敷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">『万葉集』に唯一詠まれた関東最古の名湯。数多の文豪が愛した静寂の奥座敷</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function YugawaraWinterPage() {
           
           <div className="bg-orange-50/70 rounded-2xl p-5 border border-orange-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-orange-700" />
-                11月・12月湯河原温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-orange-700" />
+                11月・12月湯河原温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 関東で最も遅い奥湯河原の紅葉・文豪ゆかりの登録有形文化財宿・相模湾の伊勢海老＆寒金目鯛会席
               </p>
@@ -380,26 +374,20 @@ export default function YugawaraWinterPage() {
             <div className="p-2 rounded-xl bg-orange-50 text-orange-800">
               <Calendar className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              関東で最も遅い紅葉：11月下旬〜12月上旬の奥湯河原ともみじの郷
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">関東で最も遅い紅葉：11月下旬〜12月上旬の奥湯河原ともみじの郷</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Sparkles className="w-4 h-4 text-orange-600" />
-                もみじの郷（池峰山池周辺）の圧巻のパノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-orange-600" />
+                もみじの郷（池峰山池周辺）の圧巻のパノラマ</h3>
               <p className="leading-relaxed">
                 奥湯河原の池峰山周辺には、約540本ものイロハモミジが群生する「もみじの郷」が広がります。温暖な湯河原では、例年11月中旬に色づき始め、11月下旬から12月上旬にかけてピークを迎えます。山一面が燃え上がるような真紅や橙色に包まれ、池の水面に映り込む紅葉のグラデーションは息をのむ美しさです。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-orange-600" />
-                万葉公園「湯河原惣湯 Books and Retreat」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Waves className="w-4 h-4 text-orange-600" />
+                万葉公園「湯河原惣湯 Books and Retreat」</h3>
               <p className="leading-relaxed">
                 千歳川のせせらぎ沿いに広がる万葉公園。初冬には渓流沿いのモミジが美しく色づき、散策路を歩けば川のせせらぎと落葉の絨毯が楽しめます。公園内にある日帰りリトリート施設「湯河原惣湯 Books and Retreat」では、源泉かけ流しの露天風呂とライブラリーで静かな読書時間を過ごせます。
               </p>
@@ -413,9 +401,7 @@ export default function YugawaraWinterPage() {
             <div className="p-2 rounded-xl bg-orange-50 text-orange-800">
               <Waves className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              万葉の「薬師の湯」泉質と文豪逗留の歴史
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">万葉の「薬師の湯」泉質と文豪逗留の歴史</h2>
           </div>
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <p>
@@ -434,9 +420,7 @@ export default function YugawaraWinterPage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>Rakuten Travel Verified Pure Springs Inns</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              11・12月湯河原温泉 泊まりたい名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">11・12月湯河原温泉 泊まりたい名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               文化財宿の格式、奥湯河原の紅葉眺望、自家源泉の泉質、相模湾の新鮮魚介を堪能できる最高峰の5宿を厳選。
             </p>
@@ -478,9 +462,7 @@ export default function YugawaraWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -492,10 +474,8 @@ export default function YugawaraWinterPage() {
                       </p>
 
                       <div className="pt-2 space-y-2">
-                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-orange-800">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-orange-600" />
-                          宿の魅力と客室・温泉・美食のこだわり
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-orange-800"><CheckCircle2 className="w-3.5 h-3.5 text-orange-600" />
+                          宿の魅力と客室・温泉・美食のこだわり</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {h.story}
                         </p>
@@ -549,9 +529,7 @@ export default function YugawaraWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Utensils className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              相模湾の冬の贅：伊勢海老・寒金目鯛の姿煮と湯河原みかん
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">相模湾の冬の贅：伊勢海老・寒金目鯛の姿煮と湯河原みかん</h2>
           </div>
           
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
@@ -560,19 +538,15 @@ export default function YugawaraWinterPage() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-orange-600" />
-                  相模湾の伊勢海老とお造り・寒金目鯛の煮付け
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-600" />
+                  相模湾の伊勢海老とお造り・寒金目鯛の煮付け</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   真鶴港や小田原港から届く伊勢海老は、透き通る身のプリプリとした弾力と上品な甘みが格別。お造りで味わった後の頭は翌朝の濃厚なお味噌汁に仕立てられます。また、脂の乗った金目鯛を秘伝の甘辛いタレでふっくら炊き上げた「金目鯛の姿煮」は、ご飯もお酒も止まらない湯河原の定番の贅沢です。
                 </p>
               </div>
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-orange-600" />
-                  太陽の恵み「湯河原みかん」と伝統の自家製湯葉
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-orange-600" />
+                  太陽の恵み「湯河原みかん」と伝統の自家製湯葉</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   南向きの段々畑で太陽の光と潮風を浴びて育つ「湯河原みかん」。11月から12月は甘みとコクが凝縮した温州みかんの最盛期です。また、料亭旅館で供される毎朝絞りたての豆乳から手作業で引き上げる「自家製湯葉」や豆腐料理は、大豆の優しい甘みが広がる至高のヘルシー美味です。
                 </p>
@@ -587,9 +561,7 @@ export default function YugawaraWinterPage() {
             <div className="p-2 rounded-xl bg-orange-50 text-orange-800">
               <Clock className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              1泊2日 理想の冬のモデルコース：奥湯河原の紅葉と文豪ゆかりの名宿で過ごす週末
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 理想の冬のモデルコース：奥湯河原の紅葉と文豪ゆかりの名宿で過ごす週末</h2>
           </div>
 
           <div className="space-y-6">
@@ -598,9 +570,7 @@ export default function YugawaraWinterPage() {
                 <span className="px-2.5 py-1 bg-orange-100 text-orange-800 font-bold text-xs rounded-md">
                   1日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  特急踊り子号で湯河原へ・万葉公園散策と名湯・伊勢海老ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">特急踊り子号で湯河原へ・万葉公園散策と名湯・伊勢海老ディナー</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>11:30 東京駅より特急踊り子号に乗車：</strong>車窓に広がる相模湾の青い海を眺めながら湯河原駅へ（約75分）。</li>
@@ -616,9 +586,7 @@ export default function YugawaraWinterPage() {
                 <span className="px-2.5 py-1 bg-orange-100 text-orange-800 font-bold text-xs rounded-md">
                   2日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  奥湯河原もみじの郷ハイク＆真鶴岬の絶景・みかん狩り
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">奥湯河原もみじの郷ハイク＆真鶴岬の絶景・みかん狩り</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>08:00 朝の清冽な空気で朝風呂＆和朝食：</strong>伊勢海老の頭で出汁をとった味噌汁や焼き魚の朝食。</li>
@@ -646,10 +614,8 @@ export default function YugawaraWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -663,10 +629,8 @@ export default function YugawaraWinterPage() {
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-orange-700" />
-              あわせて読みたい関東・東伊豆の冬温泉特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-orange-700" />
+              あわせて読みたい関東・東伊豆の冬温泉特集</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               冬の味覚、名湯露天風呂、雪景色を楽しむ日本全国の厳選特集記事。旅の目的に合わせてぜひご覧ください。
             </p>

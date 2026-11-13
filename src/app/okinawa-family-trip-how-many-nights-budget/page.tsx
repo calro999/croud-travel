@@ -182,10 +182,8 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
       {/* 内部リンク・関連予算ガイドナビゲーション */}
       <nav className="bg-sky-50/80 border border-sky-200/80 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-sky-950 flex items-center gap-2">
-            <span className="w-2.5 h-2.5 rounded-full bg-sky-600"></span>
-            沖縄旅行の費用・予算シミュレーション（あわせて読みたい）
-          </h2>
+          <h2 className="text-sm md:text-base font-black text-sky-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-sky-600"></span>
+            沖縄旅行の費用・予算シミュレーション（あわせて読みたい）</h2>
           <span className="text-[10px] text-sky-700 bg-sky-100/70 font-bold px-2 py-0.5 rounded">
             予算詳細ガイド
           </span>
@@ -219,9 +217,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <div className="flex items-center gap-2 text-sky-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>📅 HOW MANY NIGHTS?</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            2泊3日 vs 3泊4日 vs 4泊5日！子連れファミリー向け徹底比較
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">2泊3日 vs 3泊4日 vs 4泊5日！子連れファミリー向け徹底比較</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             子どもの年齢、移動の体力、予算のバランスから最適な日数を選びましょう。
           </p>
@@ -234,9 +230,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
               className="p-6 rounded-2xl bg-gradient-to-br from-sky-50/40 via-cyan-50/20 to-white border border-sky-200/70 shadow-sm space-y-4"
             >
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-sky-100 pb-3">
-                <h3 className="text-base md:text-lg font-black text-sky-950 flex items-center gap-2">
-                  <span className="text-sky-600">🌴</span> {item.plan}
-                </h3>
+                <h3 className="text-base md:text-lg font-black text-sky-950 flex items-center gap-2">{item.plan}</h3>
                 <span className="text-xs font-bold text-amber-900 bg-amber-100 border border-amber-300 px-3 py-1 rounded-full">
                   費用目安：{item.budget}
                 </span>
@@ -273,9 +267,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <div className="flex items-center gap-2 text-sky-800 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>👶 AGE-BY-AGE GUIDE</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-sky-950">
-            我が子にピッタリなのはどこ？子どもの年齢別エリア選び＆過ごし方
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-sky-950">我が子にピッタリなのはどこ？子どもの年齢別エリア選び＆過ごし方</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
@@ -283,9 +275,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
             <div key={idx} className="bg-white border border-sky-100 rounded-2xl p-5 shadow-sm space-y-3">
               <div className="flex items-center gap-2">
                 <span className="text-2xl">{adv.icon}</span>
-                <h3 className="text-sm font-bold text-sky-950 leading-snug">
-                  {adv.age}
-                </h3>
+                <h3 className="text-sm font-bold text-sky-950 leading-snug">{adv.age}</h3>
               </div>
               <div className="text-xs font-bold text-cyan-800 bg-cyan-50 border border-cyan-200 p-2 rounded-lg">
                 📍 おすすめ宿泊エリア：{adv.stay}
@@ -304,9 +294,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <div className="flex items-center gap-2 text-sky-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>💰 BUDGET BREAKDOWN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            家族4人（大人2＋子ども2）沖縄3泊4日のリアル総額費用内訳
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">家族4人（大人2＋子ども2）沖縄3泊4日のリアル総額費用内訳</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             何にいくらかかるかを把握して、無駄な出費を抑える予算シミュレーションです。
           </p>
@@ -340,9 +328,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
           <div className="flex items-center gap-2 text-sky-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🏨 RECOMMENDED FAMILY RESORTS</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            キッズプール・大浴場・ビーチ直結！子連れに大人気の沖縄リゾートホテル
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">キッズプール・大浴場・ビーチ直結！子連れに大人気の沖縄リゾートホテル</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             オーシャンビュー、充実のプール施設、観光に便利な立地を兼ね備えたファミリー高評価宿。
           </p>
@@ -384,9 +370,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
                       </div>
                     ) : null}
                     
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
 
                     <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
                       {hotel.hotelSpecial || ""}
@@ -425,9 +409,7 @@ export default function OkinawaFamilyTripNightsBudgetPage() {
               子連れ沖縄の必須ノウハウ
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            空港到着からスムーズに出発！レンタカー選びと持ち物3原則
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">空港到着からスムーズに出発！レンタカー選びと持ち物3原則</h2>
         </div>
 
         <ul className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm text-sky-100">

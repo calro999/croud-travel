@@ -184,9 +184,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
         <section>
           <div className="border-l-4 border-rose-600 pl-4 mb-8">
             <span className="text-rose-700 text-xs font-black tracking-widest uppercase">RAIN GARDENS & CAFES</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              晴れの日より圧倒的に美しい！雨の京都が魅せる3大情景
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">晴れの日より圧倒的に美しい！雨の京都が魅せる3大情景</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -214,9 +212,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
         <section className="bg-stone-900 text-stone-100 rounded-3xl p-6 sm:p-8 border border-rose-950/80 shadow-xl">
           <div className="border-l-4 border-rose-500 pl-4 mb-8">
             <span className="text-rose-400 text-xs font-black tracking-widest uppercase">DAY PLAN</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              雨露と静寂に包まれる！大人の京都しっとり1日スケジュール
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">雨露と静寂に包まれる！大人の京都しっとり1日スケジュール</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               市街地の雑踏を離れ、八瀬・大原の山里と中心部の町家カフェを心地よいテンポで結ぶ雨宿りルート。
             </p>
@@ -238,9 +234,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
         <section>
           <div className="border-l-4 border-rose-600 pl-4 mb-8">
             <span className="text-rose-700 text-xs font-black tracking-widest uppercase">COZY ONSEN RETREATS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              雨音を聞きながら湯に浸かる「京都の天然温泉＆おこもり宿」
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">雨音を聞きながら湯に浸かる「京都の天然温泉＆おこもり宿」</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               雨で冷えた体を包み込む自家源泉の天然温泉。駅直結や中心街立地で、雨天でも移動ストレスなくチェックイン。
             </p>
@@ -278,9 +272,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
                         </div>
                       )}
                       <div className="p-5">
-                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-rose-600 transition leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-rose-600 transition leading-snug">{hotel.hotelName}</h3>
                         <p className="text-xs text-stone-500 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -325,9 +317,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
 
         {/* セクション4：雨の日京都の移動指南（市バス混雑回避） */}
         <section className="bg-white border-2 border-rose-200 rounded-3xl p-6 sm:p-8 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <span>💡</span> 雨の京都をスマートに楽しむ！混雑回避の移動術
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-4 flex items-center gap-2">雨の京都をスマートに楽しむ！混雑回避の移動術</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 text-xs sm:text-sm text-stone-700">
             <div className="p-4 bg-rose-50/50 rounded-2xl border border-rose-100">
               <strong className="text-rose-900 block mb-1 text-sm">① 雨の日は「地下鉄＋私鉄」が鉄則</strong>
@@ -370,9 +360,7 @@ export default function KyotoRainyDayTempleCafeGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と緑鮮やかな苔寺・瑠璃光院・三千院＆おこもり温泉宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

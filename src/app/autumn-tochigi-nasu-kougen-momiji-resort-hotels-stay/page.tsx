@@ -196,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              標高1,900mの山肌を染める紅葉の絨毯。那須連山の雄大美と御用邸ゆかりの名湯
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">標高1,900mの山肌を染める紅葉の絨毯。那須連山の雄大美と御用邸ゆかりの名湯</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             都心から東北新幹線で約70分。関東屈指の高原リゾート「那須高原」は、雄大な主峰・茶臼岳の山頂から徐々に紅葉前線が降りてくる秋の絶景の宝庫です。「姥ヶ平（うばがだいら）」の水面に映る茶臼岳と鮮烈なカエデの赤、ロープウェイの窓から広がる360度の大パノラマは圧巻のスケール。散策後は開湯1300年の歴史を持つ那須温泉の鹿の湯源泉や御用邸ゆかりの名湯に浸かり、那須黒毛和牛や乳製品の恵みに癒やされる秋のリゾートステイをお楽しみください。
@@ -271,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -314,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】那須岳ロープウェイ紅葉＆名湯リゾート満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】那須岳ロープウェイ紅葉＆名湯リゾート満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-700 pl-4 md:pl-6 space-y-4">
@@ -349,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と那須高原旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と那須高原旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

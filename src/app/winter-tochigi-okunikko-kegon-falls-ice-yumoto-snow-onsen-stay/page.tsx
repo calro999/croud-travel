@@ -122,10 +122,8 @@ export default function WinterFeaturePage() {
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              冬の栃木県・奥日光・日光湯元温泉・中禅寺湖が特別な理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              冬の栃木県・奥日光・日光湯元温泉・中禅寺湖が特別な理由</h2>
             <div className="grid md:grid-cols-3 gap-4 pt-2">
               <div className="bg-cyan-50/50 p-4 rounded-xl border border-cyan-100">
                 <span className="text-xs font-bold text-cyan-800 block mb-1">01. 特徴</span>
@@ -150,9 +148,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              奥日光・日光湯元温泉・中禅寺湖 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">奥日光・日光湯元温泉・中禅寺湖 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,16 +170,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15755%2F15755.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 日光湯元温泉　奥日光　森のホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -228,10 +222,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「丁寧な接客と美味しい夕食、にごり湯に満足全体的に丁寧な接客でした。夕食は、手が掛かった料理で美味しかったです。朝食は一般的なものでした。温泉は奥日光のにごり湯で、他のホテル同様に満足するもので」
                     </p>
@@ -268,16 +260,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F135482%2F135482.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. 日光湯元温泉　日光グランドホテル　ほのかな宿樹林
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -322,10 +312,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「夕食で熱燗を注文したのですが無いと言われ冷やならあると言われました...それを温めてもらいたいと言ったらしふしぶ温めて来ました」
                     </p>
@@ -362,16 +350,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F111168%2F111168.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 日光湯元温泉　スパビレッジ　カマヤ
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -447,16 +433,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28759%2F28759.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 日光中禅寺温泉　中禅寺金谷ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -501,10 +485,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「みんなのことまんぞく到着時のお出迎えから、フロントスタッフの丁寧で細やかな説明まで、とても親切に対応していただきました。歴史を感じるホテルではありますが、館内はとても清潔に手入れされており、何」
                     </p>
@@ -541,16 +523,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8337%2F8337.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 奥日光湯元温泉　奥日光高原ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -595,10 +575,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「6回目の滞在、お湯も料理も最高で癒やされる6回目の宿泊ですスタッフの方もきさくで優しく、館内は清潔、お湯もお料理も最高!静かな奥湯元こちらのホテルにはただただ癒されまクチコミの詳細」
                     </p>
@@ -627,9 +605,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  栃木県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">栃木県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -648,10 +624,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の奥日光・日光湯元温泉・中禅寺湖旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の奥日光・日光湯元温泉・中禅寺湖旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/70">

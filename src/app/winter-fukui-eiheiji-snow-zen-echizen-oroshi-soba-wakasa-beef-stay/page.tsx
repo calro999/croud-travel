@@ -248,9 +248,7 @@ export default function FukuiEiheijiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              白銀の杉木立に響く禅の祈りと、越前国の風土が育んだ至高の冬美食
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白銀の杉木立に響く禅の祈りと、越前国の風土が育んだ至高の冬美食</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               道元禅師の教え息づく大本山の回廊と、冬の日本海がもたらす極上の味覚
             </p>
@@ -309,9 +307,7 @@ export default function FukuiEiheijiPage() {
         <section className="bg-gradient-to-r from-stone-900 to-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-teal-400 pl-4">
             <span className="text-teal-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
@@ -360,16 +356,12 @@ export default function FukuiEiheijiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき永平寺・福井の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき永平寺・福井の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-teal-600" /> 曹洞宗大本山永平寺（七堂伽藍）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-teal-600" /> 曹洞宗大本山永平寺（七堂伽藍）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 巨杉の山間に佇む禅の総本山。山門・仏殿・法堂・僧堂・庫院・東司・浴室の七堂伽藍が屋根付き回廊で結ばれ、冬の白銀世界でも厳かに参拝できます。傘松閣の絵天井や早朝の読経勤行は心を洗う体験です。
               </p>
@@ -379,9 +371,7 @@ export default function FukuiEiheijiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-teal-600" /> 永平寺門前町（おろしそば＆ごま豆腐）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" /> 永平寺門前町（おろしそば＆ごま豆腐）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 永平寺の門前に広がる歴史ある門前町。名物の越前おろしそばを提供する老舗蕎麦店や、もっちりとした弾力の永平寺ごま豆腐を販売する店が並びます。冬の参拝前後の温かいおもてなしが魅力です。
               </p>
@@ -391,9 +381,7 @@ export default function FukuiEiheijiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-teal-600" /> 一乗谷朝倉氏遺跡＆足羽山
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-teal-600" /> 一乗谷朝倉氏遺跡＆足羽山</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 戦国時代の城下町がそのまま発掘・復元された国の特別史跡。冬の雪に覆われた武家屋敷群や庭園跡は、戦国ロマンの哀愁と美しさを漂わせます。福井市街を一望する足羽山の冬景色もおすすめ。
               </p>
@@ -406,9 +394,7 @@ export default function FukuiEiheijiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の永平寺・福井を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の永平寺・福井を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-slate-700">
@@ -431,9 +417,7 @@ export default function FukuiEiheijiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              冬の永平寺・福井を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の永平寺・福井を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               永平寺門前の親禅の宿から新幹線直結マリオット・展望風呂付き老舗シティホテルまで
             </p>
@@ -467,9 +451,7 @@ export default function FukuiEiheijiPage() {
                 <div className="md:w-7/12 p-6 sm:p-8 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       <span className="text-sm sm:text-base font-bold text-teal-800">
                         {hotel.price}
                       </span>
@@ -528,9 +510,7 @@ export default function FukuiEiheijiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の永平寺・福井旅行 よくある質問とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の永平寺・福井旅行 よくある質問とアドバイス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               現地を熟知した専門視点から冬の旅をサポートする5つの疑問に回答
             </p>
@@ -539,10 +519,8 @@ export default function FukuiEiheijiPage() {
           <div className="space-y-6">
             {faqList.map((faq, idx) => (
               <div key={idx} className="border-b border-slate-100 pb-5 last:border-b-0 last:pb-0 space-y-2">
-                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5">
-                  <span className="w-6 h-6 rounded-full bg-teal-100 text-teal-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
-                  {faq.q}
-                </h3>
+                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5"><span className="w-6 h-6 rounded-full bg-teal-100 text-teal-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
+                  {faq.q}</h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-8">
                   {faq.a}
                 </p>
@@ -555,9 +533,7 @@ export default function FukuiEiheijiPage() {
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-10 border border-slate-200 space-y-6">
           <div className="border-l-4 border-slate-600 pl-4">
             <span className="text-slate-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Guides</span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              北陸・近畿の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">北陸・近畿の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

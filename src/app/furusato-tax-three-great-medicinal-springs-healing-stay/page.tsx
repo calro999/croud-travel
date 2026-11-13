@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            地中深くから湧き出る濃厚な大地のエネルギー。古より数多の文人・武将を癒やした名湯巡り
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">地中深くから湧き出る濃厚な大地のエネルギー。古より数多の文人・武将を癒やした名湯巡り</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本全国に数千ある温泉地の中でも、特に圧倒的な薬効とミネラル濃度を誇ることから古来「日本三大薬湯」と称えられてきた三つの名湯――約1200万年前の化石海水が地圧によって湧き出し一般海水の約90倍ものホウ酸を含む新潟の「松之山温泉」、釘を浸ければ数日で溶けてしまうほどの強酸性と豊富な湯量で万病を治す群馬の「草津温泉」、そして火山活動とは無関係に地下60kmのマントルから湧き上がる世界的にも奇跡の濃厚高温泉・兵庫の「有馬温泉」。ひとたび湯に浸かれば、身体の芯から温まり冷えや疲労を根本から解きほぐしてくれます。各温泉地の歴史ある老舗宿で、地元の滋味あふれる湯治会席を味わいながら心身をリセットする究極のヘルスツーリズムを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  新潟県十日町市ふるさと納税：太古の海水が湧き出るジオプレッシャー日本三大薬湯「松之山温泉」ひなの宿ちとせ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">新潟県十日町市ふるさと納税：太古の海水が湧き出るジオプレッシャー日本三大薬湯「松之山温泉」ひなの宿ちとせ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   約1200万年前の化石海水が自噴する奇跡の薬湯。塩分濃度とホウ酸含有量が極めて高く、温まり効果が持続する名湯露天風呂「月見の湯」と、魚沼産コシヒカリや妻有ポークの里山ごちそう料理を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      松之山温泉　ひなの宿　ちとせ
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">松之山温泉　ひなの宿　ちとせ</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>新潟県十日町市松之山湯本49-1</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  群馬県草津町ふるさと納税：万病を治す日本屈指の強酸性泉日本三大薬湯「草津温泉」名門望雲の極上かけ流し湯巡り
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">群馬県草津町ふるさと納税：万病を治す日本屈指の強酸性泉日本三大薬湯「草津温泉」名門望雲の極上かけ流し湯巡り</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   毎分3万リットル以上の自然湧出量を誇る天下の名湯。西の河原源泉と万代鉱源泉の2種類の名湯を引く創業慶長四年の名館「望雲」で、美しいしゃくなげ庭園を愛でながら上州牛ステーキ会席に舌鼓を打ちます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      草津温泉　望雲
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">草津温泉　望雲</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>群馬県吾妻郡草津町433-1</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  兵庫県神戸市北区ふるさと納税：秀吉が愛した鉄分・塩分超濃厚の金泉日本三大薬湯「有馬温泉」兵衛向陽閣ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">兵庫県神戸市北区ふるさと納税：秀吉が愛した鉄分・塩分超濃厚の金泉日本三大薬湯「有馬温泉」兵衛向陽閣ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   日本最古の温泉として神代から続く有馬温泉。空気に触れると赤褐色に濁る含鉄ナトリウム強塩泉「金泉」を三つの大浴場で湯巡りし、創業七百年の老舗「兵衛向陽閣」で最高級神戸牛や旬の会席料理を味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      有馬温泉　兵衛向陽閣
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">有馬温泉　兵衛向陽閣</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>兵庫県神戸市北区有馬町1904</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美肌の湯＆弱アルカリ性極上とろとろ温泉宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美肌の湯＆弱アルカリ性極上とろとろ温泉宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   嬉野・斐乃上・喜連川の美肌泉。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名湯＆歴史息づく老舗旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名湯＆歴史息づく老舗旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   草津・有馬・下呂の名湯巡り。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  源泉かけ流し100%！自噴秘湯宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">源泉かけ流し100%！自噴秘湯宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   混じり気なしの純生温泉。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】松之山温泉 ひなの宿 ちとせを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】松之山温泉 ひなの宿 ちとせを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と松之山温泉 ひなの宿 ちとせの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と松之山温泉 ひなの宿 ちとせの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

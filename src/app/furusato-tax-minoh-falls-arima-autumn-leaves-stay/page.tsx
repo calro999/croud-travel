@@ -89,9 +89,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            落差三十三メートルの瀑布を彩る燃えるような紅葉と、地球の恵み湧き出る濃厚な金泉。大人の極上関西秋旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">落差三十三メートルの瀑布を彩る燃えるような紅葉と、地球の恵み湧き出る濃厚な金泉。大人の極上関西秋旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             大阪都心から電車でわずか約30分、日本の滝百選にも選ばれている「箕面大滝（明治の森箕面国定公園）」。11月中旬から12月上旬にかけて、落差33mの大滝を取り囲むモミジが一斉に真紅に染まり、轟音とともに流れ落ちる清流と紅葉のコントラストは圧巻の美しさを誇ります。箕面名物の「もみじの天ぷら」を片手に紅葉狩りを楽しんだ後は、六甲山を越えて日本最古の名湯「神戸・有馬温泉」へ。地底深くから湧き出る濃厚な含鉄ナトリウム塩化物強塩高温泉「金泉」は、冷え性や関節痛を和らげ身体の芯から温めてくれる世界屈指の泉質。さらにラドンや炭酸を含む「銀泉」との贅沢な入り比べが叶います。数寄屋造りの静寂とミシュラン掲載の京風創作懐石を誇る最高級料亭旅館「有馬温泉 欽山」、有馬の中心街に位置し金泉・銀泉の両方と神戸牛を堪能できる「有馬御苑」、そして創業七百年・三つの趣異なる大浴場「一の湯・二の湯・三の湯」を誇る老舗名門「兵衛向陽閣」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、贅沢至極の秋の有馬温泉ステイを満喫しましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本の滝百選「箕面大滝」の紅葉ライトアップ＆伝統「もみじの天ぷら」散策
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本の滝百選「箕面大滝」の紅葉ライトアップ＆伝統「もみじの天ぷら」散策</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 滝道沿いに続く紅葉のアーチ。夜間にはライトアップされた箕面大滝が漆黒の闇に浮かび上がり、昼間とは一変した幽玄な美しさに包まれます。
@@ -122,9 +118,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本最古の名湯！赤褐色の濃厚「金泉」と肌を滑らかにする「銀泉」の湯巡り
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本最古の名湯！赤褐色の濃厚「金泉」と肌を滑らかにする「銀泉」の湯巡り</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 海水よりも塩分濃度が高く保温・保湿効果抜群の金泉と、新陳代謝を高める炭酸ラジウム銀泉。二つの異なる名湯を一度に味わう贅沢が叶います。
@@ -137,9 +131,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界に誇る「最高級神戸牛」のステーキ・しゃぶしゃぶ＆本格京風懐石料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界に誇る「最高級神戸牛」のステーキ・しゃぶしゃぶ＆本格京風懐石料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 きめ細やかな霜降りと上品な甘みが口の中でとろける神戸牛。旬の松茸や丹波栗を取り入れた繊細な秋の懐石料理が特別な夜を彩ります。
@@ -174,9 +166,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                       ★ 4.60 <span className="text-stone-400 text-xs">(498件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    有馬温泉　欽山
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">有馬温泉　欽山</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県神戸市北区有馬町1302-4 ｜ 神戸電鉄「有馬温泉駅」より徒歩５分・山陽新幹線「新神戸駅」よりバスにて約30分・大阪（梅田）より高速バスにて約55分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                       ★ 4.39 <span className="text-stone-400 text-xs">(2,832件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">神戸牛と有馬温泉　天然金泉・銀泉の宿　有馬御苑</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県神戸市北区有馬町1296 ｜ 神戸電鉄線有馬温泉駅から徒歩２分、阪急バス有馬停より徒歩２分、阪神高速有馬口ＩＣより車３分、中国道西宮北ＩＣより車１０分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
                       ★ 4.55 <span className="text-stone-400 text-xs">(2,597件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    有馬温泉　兵衛向陽閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">有馬温泉　兵衛向陽閣</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県神戸市北区有馬町1904 ｜ 神戸より電車で約３０分／神戸電鉄有馬温泉駅・バス有馬温泉駅より徒歩約６分／阪神高速道路北神戸線有馬口出口より約５分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】有馬温泉 欽山を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】有馬温泉 欽山を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoMinohFallsArimaAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と有馬温泉 欽山の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と有馬温泉 欽山の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -186,9 +186,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
         {/* セクション1: 東海・伊豆グランピングがシルバーウィークに選ばれる3大理由 */}
         <section aria-labelledby="tokai-features-heading" className="space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
-            <h2 id="tokai-features-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              なぜ秋連休は伊豆・静岡なのか？東海エリアが支持される3大理由
-            </h2>
+            <h2 id="tokai-features-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">なぜ秋連休は伊豆・静岡なのか？東海エリアが支持される3大理由</h2>
             <p className="text-slate-600 text-sm mt-1">
               朝晩の冷え込みが早い高原リゾートと比べ、海洋性気候の東伊豆・駿河湾沿いは9月下旬も心地よい暖かさが持続します。
             </p>
@@ -245,9 +243,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
         {/* セクション2: 厳選宿泊施設 */}
         <section aria-labelledby="hotels-heading" className="space-y-8">
           <div className="border-l-4 border-orange-600 pl-4">
-            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              【静岡・伊豆】秋連休におすすめの東海グランピング施設
-            </h2>
+            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">【静岡・伊豆】秋連休におすすめの東海グランピング施設</h2>
             <p className="text-slate-600 text-sm mt-1">
               本格熟成肉ディナー、源泉かけ流し貸切温泉、テーマパーク隣接ドームなど、個性豊かな厳選リゾート。
             </p>
@@ -292,9 +288,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
                       <span>📍</span>
                       <span>{hotel.address1} {hotel.address2} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-orange-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-orange-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
                       {hotel.hotelSpecial || "温暖な伊豆の自然に包まれたグランピングリゾート。専用ウッドデッキでの贅沢BBQや天然温泉を満喫できます。"}
                     </p>
@@ -327,9 +321,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-6 sm:p-10 border border-orange-800/40 space-y-6">
           <div>
             <span className="text-orange-400 font-black text-xs uppercase tracking-wider">Autumn Model Itinerary</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">
-              名古屋・静岡発！伊豆の海鮮BBQ＆みかん狩り1泊2日プラン
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">名古屋・静岡発！伊豆の海鮮BBQ＆みかん狩り1泊2日プラン</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-300">
@@ -389,16 +381,12 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
 
         {/* セクション4: FAQ（構造化データ連動） */}
         <section aria-labelledby="faq-heading" className="bg-white rounded-3xl border border-orange-200 p-6 sm:p-8">
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span className="text-orange-600">❓</span> 東海・静岡グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">東海・静岡グランピングのよくある質問</h2>
           <div className="divide-y divide-orange-100">
             {faqList.map((faq, idx) => (
               <div key={idx} className="py-4 first:pt-0 last:pb-0">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -412,9 +400,7 @@ export default function SilverWeekGlampingTokaiShizuokaAichiPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と静岡・伊豆・愛知おすすめ！海鮮BBQ＆みかん狩り体験の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

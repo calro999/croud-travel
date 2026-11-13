@@ -108,9 +108,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  刺身で味わう感動の甘み！朝掘りだからこそ実現する究極の鮮度
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">刺身で味わう感動の甘み！朝掘りだからこそ実現する究極の鮮度</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 一般的なスーパーの筍とは別次元の食体験がここにあります。筍は収穫後数時間でアクが生じ始めるため、本物の味を楽しむには産地に宿泊するしかありません。朝一番に収穫されたばかりの白子筍を薄くスライスした「筍のお造り」、皮ごと炭火でじっくり蒸し焼きにして芳ばしい香りを閉じ込めた「焼き筍」、昆布出汁と鳴門ワカメの香りが重なる「若竹煮」。歯を入れた瞬間のサクッとした心地よい歯ざわりと溢れ出る清らかなジュースは、まさに春の奇跡です。
@@ -123,9 +121,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  美しく手入れされた竹林の回廊と朝霧が織りなすマインドフルネス空間
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">美しく手入れされた竹林の回廊と朝霧が織りなすマインドフルネス空間</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三大筍の里の竹林は、筍を育てるために間伐や土入れが徹底され、まるで日本庭園のように美しく手入れされています。青々とした竹竿が整然と並び、風が通り抜ける竹林の散策路を歩けば、清々しい竹の香りとマイナスイオンが全身を満たします。朝の澄んだ空気の中で行う深呼吸や森林浴は、冬の間に縮こまっていた心身を一気にリフレッシュしてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  竹の郷の自家源泉温泉旅館や隠れ家リゾートホテルでの寛ぎ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">竹の郷の自家源泉温泉旅館や隠れ家リゾートホテルでの寛ぎ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 京都洛西の豊かな竹林に抱かれ2つの天然温泉を満喫できるホテル京都エミナース、鹿児島さつま町の静かな山あいに佇み全室温泉付きの隠れ家名宿「手塚ｒｙｏｋａｎ」、小倉駅直結で快適な滞在と九州の旬を誇るリーガロイヤルホテル小倉。ふるさと納税クーポンを使えば、春限定の筍づくし特別宿泊プランも実質2,000円で驚くほどお得に楽しめます。
@@ -181,9 +175,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市西京区大原野東境谷町2-4</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都竹の郷温泉　万葉の湯　ホテル京都エミナース
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都竹の郷温泉　万葉の湯　ホテル京都エミナース</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「売店割引や広いお風呂、種類豊富なビュッフェ売店が宿泊者は10%引きで安く買え、お風呂も十分広く、ゆったりした時間を過ごさせて貰いました。朝、晩はビュッフェでしたが、種類も多く、テーブルも個室タ…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 鹿児島県 薩摩郡さつま町湯田1482-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    宮之城温泉　手塚ｒｙｏｋａｎ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">宮之城温泉　手塚ｒｙｏｋａｎ</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「夕食時のスタッフが最高で感動しました従業員さんの対応がよかったです。特に夕食の時の女性の方!最高でした。素敵すぎて声をかけたかったけど、言えずに終わっちゃいました...。個人的に、外国人の従業員が…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 福岡県 北九州市小倉北区浅野2-14-2</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    リーガロイヤルホテル小倉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">リーガロイヤルホテル小倉</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「客によって態度を変える接客に疑問人、でしょうね明らかに客をみて態度を変えている」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都竹の郷温泉 万葉の湯 ホテル京都エミナースを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都竹の郷温泉 万葉の湯 ホテル京都エミナースを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都竹の郷温泉 万葉の湯 ホテル京都エミナースの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都竹の郷温泉 万葉の湯 ホテル京都エミナースの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

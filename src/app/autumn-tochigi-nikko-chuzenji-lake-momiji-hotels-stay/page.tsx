@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の紅葉絶景特集・奥日光名湯
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月中旬〜下旬！日光中禅寺湖の紅葉】<br className="hidden sm:inline" />いろは坂・男体山ビューと奥日光名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月中旬〜下旬！日光中禅寺湖の紅葉】<br className="hidden sm:inline" />いろは坂・男体山ビューと奥日光名湯宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             いろは坂のヘアピンカーブを彩る紅葉グラデーションから、青く澄んだ中禅寺湖と秀峰・男体山の絶景へ。早朝の渋滞を回避してゆったり楽しむ奥日光の名宿を厳選紹介。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              湖面に映える黄金と深紅のグラデーション。天下の名勝・奥日光の紅葉絵巻
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">湖面に映える黄金と深紅のグラデーション。天下の名勝・奥日光の紅葉絵巻</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             日光国立公園の中核をなす「中禅寺湖」は、周囲約25kmの広大さを誇る日本屈指の山上湖です。カエデやウルシ、ナナカマド、ブナの原生林が湖畔を取り囲み、秋晴れの青空と男体山の雄大な山影を背景に燃えるような赤と黄色に染まります。竜頭の滝や華厳の滝の水しぶきと紅葉のコントラスト、そして奥日光湯元温泉の上質な硫黄泉を心ゆくまで堪能する旅をお届けします。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】中禅寺湖・奥日光の紅葉をゆったり楽しむモデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】中禅寺湖・奥日光の紅葉をゆったり楽しむモデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-red-600 pl-4 md:pl-6 space-y-4">
@@ -350,9 +342,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日光中禅寺湖旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日光中禅寺湖旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -89,9 +89,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            夜の闇に浮かび上がる燃えるような真紅のモミジ。渡月橋のせせらぎと湯けむりに包まれる極上の古都時間へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">夜の闇に浮かび上がる燃えるような真紅のモミジ。渡月橋のせせらぎと湯けむりに包まれる極上の古都時間へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本人の美意識を揺さぶる「秋の京都・嵐山」。10月下旬から11月にかけて小倉山や嵐山の山々が一斉に色づき、渡月橋越しに広がる山肌はまるで一枚の巨大な錦織のよう。夜になれば宝厳院の「獅子吼の庭」や大覚寺大沢池などで幻想的な紅葉ライトアップが催され、光と影が織りなす幽玄の世界に息を呑みます。そんな嵐山観光の特等席となるのが、大堰川の畔や渡月橋のたもとに佇む「嵐山温泉」の名門旅館群です。弱アルカリ性のまろやかな天然温泉が旅の歩き疲れを優しく解きほぐし、板前が技を凝らした秋の京懐石（松茸・丹波栗・京野菜・若狭甘鯛）が舌を悦ばせます。創業百二十余年の伝統を誇り渡月橋南詰に佇む老舗料亭旅館「渡月亭」、全館畳敷きの和モダン空間に5つの無料貸切風呂を備えた人気宿「京都 嵐山温泉 花伝抄」、そして嵐山随一の絶景展望露天風呂から嵐山の紅葉を一望できる「嵐山温泉 彩四季の宿 花筏」。秋の京都旅を楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）でお得に予約し、一生モノの感動に出会う旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  宝厳院・天龍寺・常寂光寺！夜間特別拝観ライトアップを徒歩圏で満喫
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">宝厳院・天龍寺・常寂光寺！夜間特別拝観ライトアップを徒歩圏で満喫</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 嵐山エリアに宿泊する最大のメリットは、混雑する夜間ライトアップや早朝の静寂な竹林の小径・天龍寺を人混みを避けてゆったり散策できることです。
@@ -122,9 +118,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  とろりとした肌触りの天然嵐山温泉！展望露天風呂や多彩な貸切風呂で湯浴み
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">とろりとした肌触りの天然嵐山温泉！展望露天風呂や多彩な貸切風呂で湯浴み</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 肌に吸い付くような弱アルカリ性単純温泉。ライトアップ散策で冷えた身体を温め、渡月橋や愛宕山を眺めながら極上のリラクゼーションに浸れます。
@@ -137,9 +131,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  丹波松茸・秋鱧・栗ご飯・若狭甘鯛！職人の美意識が宿る極上京懐石料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">丹波松茸・秋鱧・栗ご飯・若狭甘鯛！職人の美意識が宿る極上京懐石料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 京都の秋は美食の最盛期。季節のうつろいを器の上に表現した繊細な京料理を、お部屋食や風情あふれる個室料亭でゆっくりと堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                       ★ 3.82 <span className="text-stone-400 text-xs">(253件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    京都　嵐山温泉　渡月亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">京都　嵐山温泉　渡月亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市西京区嵐山中尾下町54-4（渡月橋南詰め） ｜ 京都駅よりＪＲ嵯峨野線嵯峨嵐山駅下車徒歩１５分。阪急京都線桂駅より嵐山線嵐山駅下車徒歩５分。名神京都南ＩＣより約４０分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                       ★ 4.41 <span className="text-stone-400 text-xs">(1,961件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市西京区嵐山西一川町5-4 ｜ 阪急嵐山線「嵐山駅」より徒歩１分。JR「京都駅」より約30分、阪急「梅田駅」より約50分。
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
                       ★ 4.17 <span className="text-stone-400 text-xs">(309件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    嵐山温泉彩四季の宿　花筏
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">嵐山温泉彩四季の宿　花筏</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市西京区嵐山中尾下町57 ｜ 阪急嵐山駅より徒歩５分（渡月橋渡らず）、ＪＲ嵯峨嵐山駅より徒歩約１５分(渡月橋渡る)。JR京都駅３０分、阪急梅田駅５０分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoKyotoArashiyamaAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

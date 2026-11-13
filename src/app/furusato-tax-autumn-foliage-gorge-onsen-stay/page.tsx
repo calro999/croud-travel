@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>燃えるような赤と黄金のパノラマ。湯けむりに包まれて愛でる秋の最高峰リトリート</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>燃えるような赤と黄金のパノラマ。湯けむりに包まれて愛でる秋の最高峰リトリート</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             渓谷全体が赤や黄色、橙色のグラデーションに染まる日本の秋。湯船に身を沈めながら見上げる紅葉のトンネル、水面に浮かぶもみじ葉、そして澄み渡る秋空。季節限定の絶景露天風呂は、日本人の美意識を最も刺激する極上の癒やしです。楽天ふるさと納税を活用すれば、ハイシーズンで予約困難な名門紅葉宿も最大30%オフのトラベルクーポンで控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）優雅に滞在できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    紅葉シーズン最盛期の渓谷ビュー客室や露天風呂を優先確保
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">紅葉シーズン最盛期の渓谷ビュー客室や露天風呂を優先確保</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     1年で最も予約が集中する10月〜11月の紅葉期。ふるさと納税クーポンなら3年間有効なため、早期予約や連泊のアップグレードにも柔軟に活用できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    松茸・新米・戻り鰹・秋の味覚を味わい尽くす山里会席
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">松茸・新米・戻り鰹・秋の味覚を味わい尽くす山里会席</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     香り高い焼き松茸や土瓶蒸し、獲れたての秋サケやイクラ、実りの秋のブランド新米など、食欲の秋にふさわしい贅を尽くしたディナーを堪能できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    冷え込む秋の身体を芯から温める良質な源泉かけ流し温泉
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">冷え込む秋の身体を芯から温める良質な源泉かけ流し温泉</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     朝晩の冷え込みが心地よい秋だからこそ、濃厚な硫黄泉や塩化物泉の温もりが身体に染み渡ります。湯冷めしにくい極上の泉質で美肌と免疫力を高めましょう。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="jozankei_foliage" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>北海道札幌市ふるさと納税：定山渓温泉・豊平川の渓谷紅葉と支笏洞爺国立公園の森宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>北海道札幌市ふるさと納税：定山渓温泉・豊平川の渓谷紅葉と支笏洞爺国立公園の森宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       「札幌の奥座敷」定山渓。豊平峡ダム周辺の燃えるような紅葉パノラマと、ナトリウム塩化物泉の温まりの湯。北海道の豊かな大地の恵みを取り入れた贅沢な会席料理を楽しめます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              定山渓温泉　定山渓第一寶亭留　翠山亭
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">定山渓温泉　定山渓第一寶亭留　翠山亭</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               「体の内外からキレイになる」がコンセプト。身体にやさしいお料理とエステで自分にご褒美を。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              定山渓温泉　悠久の宿白糸
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">定山渓温泉　悠久の宿白糸</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ≪楽天トラベルアワード2016☆リトルスター賞受賞≫小規模ながら温かな宿の雰囲気をご満喫ください。
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="nikko_foliage" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>栃木県日光市ふるさと納税：奥日光中禅寺湖・男体山を映す錦秋の湖畔と乳白色硫黄泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>栃木県日光市ふるさと納税：奥日光中禅寺湖・男体山を映す錦秋の湖畔と乳白色硫黄泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       標高1,200mを超える高冷地・奥日光。いろは坂の絶景ドライブを経てたどり着く中禅寺湖畔では、カエデやナナカマドの鮮やかな紅葉と、美肌効果抜群のにごり湯硫黄泉が旅人を癒やします。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              日光東照宮晃陽苑
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">日光東照宮晃陽苑</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               4万坪（東京D約2個半）の敷地の中に、四季折々の自然とゆったりと時間を感じられる日光東照宮ゆかりの宿
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              湯西川温泉　ホテル湯西川（伊東園ホテルズ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">湯西川温泉　ホテル湯西川（伊東園ホテルズ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="arashiyama_foliage" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>京都府京都市ふるさと納税：京都嵐山・渡月橋と保津川渓谷の紅葉絵巻に抱かれる老舗料理旅館</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>京都府京都市ふるさと納税：京都嵐山・渡月橋と保津川渓谷の紅葉絵巻に抱かれる老舗料理旅館</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       平安の貴族たちが愛した嵐山の紅葉。嵐峡の山肌が茜色に染まる絶景を望みながら、繊細な京料理と嵐山温泉の肌に優しい湯を味わう、日本最高峰の雅な秋ステイです。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              京都　嵐山温泉　渡月亭
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都　嵐山温泉　渡月亭</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【料亭旅館】嵐山・嵯峨野散策に最適な京都・嵐山温泉の宿。
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              京都・嵐山　ご清遊の宿　らんざん
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都・嵐山　ご清遊の宿　らんざん</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               京都駅まで約15分。嵐電・嵐山駅から徒歩５分。嵐山の風光明媚な立地にある癒しの宿。
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホーム・ステイ・椛　嵐山　京都
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホーム・ステイ・椛　嵐山　京都</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               京都・嵐山の心安らぐ隠れ家で、地域の魅力に囲まれた滞在を。
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】定山渓温泉 定山渓第一寶亭留 翠山亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】定山渓温泉 定山渓第一寶亭留 翠山亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と定山渓温泉 定山渓第一寶亭留 翠山亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と定山渓温泉 定山渓第一寶亭留 翠山亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

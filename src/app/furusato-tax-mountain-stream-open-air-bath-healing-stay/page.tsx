@@ -108,9 +108,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  川のせせらぎによる「1/fゆらぎ効果」と豊かなマイナスイオンで脳疲労を解消
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">川のせせらぎによる「1/fゆらぎ効果」と豊かなマイナスイオンで脳疲労を解消</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 川の流れる音には、人間の脳波をα波へと導く「1/fゆらぎ」が含まれており、心拍を穏やかにして精神的ストレスを劇的に低減させます。さらに水しぶきから発生する豊富な天然マイナスイオンと森のフィトンチッドを全身で浴びることで、深い安らぎと快眠が得られます。
@@ -123,9 +121,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  新緑、紅葉、雪景色！四季折々のダイナミックな渓谷パノラマを湯船から一望
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">新緑、紅葉、雪景色！四季折々のダイナミックな渓谷パノラマを湯船から一望</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 春から初夏にかけての瑞々しい新緑のトンネル、秋に渓谷全体が燃え盛るような錦秋のグラデーション、そして冬の氷瀑や白銀の雪景色。川沿いにせり出すように造られた露天風呂からは、季節の移ろいを肌で感じる壮大な自然美を独占できます。
@@ -138,9 +134,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  清流の恵み！岩魚や山女魚の塩焼き、山の幸と地元ブランド牛の滋味あふれる料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">清流の恵み！岩魚や山女魚の塩焼き、山の幸と地元ブランド牛の滋味あふれる料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 清流の冷水で育った新鮮な川魚の炭火塩焼きや、山菜、きのこ、地元の清流米、そして厳選されたブランド和牛。渓流の景観を眺めながらいただく素朴で贅を尽くした郷土料理は、身体の内側を健やかに満たしてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     青森県十和田市・特別名勝奥入瀬渓流沿いに唯一佇む星野リゾートの名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    奥入瀬渓流ホテル　ｂｙ　星野リゾート
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">奥入瀬渓流ホテル　ｂｙ　星野リゾート</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     十和田八幡平国立公園の特別名勝・奥入瀬渓流のほとりに唯一建つ、星野リゾートが手掛ける極上のネイチャーリゾート。八甲田山から湧き出る優しい泉質の温泉を引いた「渓流露天風呂」からは、手が届きそうなほど間近に迫る奥入瀬の清流と原生林の絶景が広がります。岡本太郎作の巨大暖炉が迎えるロビーラウンジ、渓流沿いのテラスでいただく朝食、青森の特産リンゴをふんだんに使った贅沢ビュッフェなど、自然と共生する上質なリゾートライフをご体験いただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県南小国町・黒川温泉の最奥に佇む田の原川のせせらぎと多彩な露天風呂
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    黒川温泉　旅館　奥の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">黒川温泉　旅館　奥の湯</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     阿蘇の山々に囲まれた全国屈指の人気温泉地・黒川温泉の最奥部に位置し、茅葺き屋根と竹林の静寂が旅人を迎える隠れ宿。田の原川の清流を望む広大な敷地には、野趣あふれる混浴露天風呂や女性専用露天風呂、川のせせらぎを間近に感じる手湯や貸切風呂など多彩な湯殿が点在。川の音をBGMに源泉かけ流しの名湯を心ゆくまで満喫できます。夕食には熊本名物の馬刺しや肥後赤牛、地元小国の高原野菜を使った手作り会席が並び、心温まる九州の温泉情緒に包まれます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県那須塩原市・箒川の渓谷美と名物300段石段を下る野趣満点の露天風呂
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    塩原温泉　湯守田中屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">塩原温泉　湯守田中屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     塩原十一湯の一つ、歴史ある大網温泉に位置し、箒川の深い渓谷を見下ろす断崖に佇む老舗名旅館。宿の名物は、渓谷の底に向かって約300段の石段を下りた先にある野天風呂。川の流れとほぼ同じ目線で浸かる天然温泉は、大自然と一体化する圧倒的な開放感を誇ります。創業百余年の歴史が育んだ行き届いたおもてなしと、囲炉裏炭火でじっくり焼き上げる鮎や地場産食材を使った山里料理が評判で、本物の秘湯と渓流美を愛する旅人に支持されています。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】奥入瀬渓流ホテル ｂｙ 星野リゾートを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】奥入瀬渓流ホテル ｂｙ 星野リゾートを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoMountainStreamOpenAirStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と奥入瀬渓流ホテル ｂｙ 星野リゾートの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と奥入瀬渓流ホテル ｂｙ 星野リゾートの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

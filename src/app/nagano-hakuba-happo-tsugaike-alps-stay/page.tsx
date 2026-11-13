@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             標高二千六十メートル・天上の水鏡
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 白馬八方尾根トレッキング＆「八方池」鏡面絶景・うさぎ平雲上テラス
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 白馬八方尾根トレッキング＆「八方池」鏡面絶景・うさぎ平雲上テラス</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             長野冬季五輪の滑降競技の舞台となった八方尾根。ゴンドラ「アダム」とクワッドリフト2本を乗り継ぎ、標高1,830mの八方池山荘から往復約3時間の本格トレッキング。木道と岩場を進むと現れる「八方池」は、風の止んだ瞬間に白馬三山（白馬岳・杓子岳・白馬鑓ヶ岳）の残雪と岩肌を完璧に水面に映し出します。道中には珍しい高山植物が咲き乱れ、雲海を見下ろすうさぎ平テラスでのカフェタイムも格別です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬みずばしょう温泉　ホテル　シェラリゾート白馬
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬みずばしょう温泉　ホテル　シェラリゾート白馬</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         温泉リゾートホテル、フレンチが人気！楽天トラベルアワード２０２５ゴールド／日本の宿ＴＯＰ４７受賞★
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥白馬温泉　ホテルグリーンプラザ白馬
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥白馬温泉　ホテルグリーンプラザ白馬</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　白馬ハイランドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　白馬ハイランドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　白馬　山のホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　白馬　山のホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         白馬ジャンプ台を望む、欧州の山岳リゾートを思わせるクラシックなホテル。
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本屈指の高層湿原と白馬大雪渓ビュー
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 栂池自然園（高山植物と四百種の動植物）＆栂池ロープウェイ・栂池高原温泉
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 栂池自然園（高山植物と四百種の動植物）＆栂池ロープウェイ・栂池高原温泉</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             標高約1,900m、約100ヘクタールにおよぶ日本有数の高層湿原「栂池自然園」。ゴンドラリフト「イブ」と栂池ロープウェイを乗り継いで到達する雲上の楽園です。園内には約5.5kmの木道が整備され、みずばしょう湿原、ワタスゲ湿原、浮島湿原、展望湿原と巡ることができます。最奥の展望湿原からは、白馬大雪渓と白馬三山の大岩壁が手が届きそうな距離で迫り、息を呑む大迫力パノラマが広がります。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　アプライジングホテルズ　グランジャム栂池
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　アプライジングホテルズ　グランジャム栂池</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         2019年12月全館リニューアル★栂池自然園を散策したあとは天然温泉でリフレッシュ
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　白馬ハイランドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　白馬ハイランドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         地消地産！ こだわり料理＆白馬唯一、白馬三山を一望できる２つの露天風呂で心も体もポカポカに。
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥白馬温泉　ホテルグリーンプラザ白馬
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥白馬温泉　ホテルグリーンプラザ白馬</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　北アルプスを一望　ホテル白馬＜長野県＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         新しくレストラン棟が完成、ロビーもリニューアルして温泉露天風呂＆大浴場とともに更に快適に！
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             北アルプス外気浴と山岳シャレーリゾート
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 白馬山岳プライベートサウナ＆白馬岩岳マウンテンリゾート・信州牛ステーキ宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 白馬山岳プライベートサウナ＆白馬岩岳マウンテンリゾート・信州牛ステーキ宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             近年「サウナの聖地」としても急速に注目を集める白馬。薪ストーブを備えた本格的なフィンランド式サウナやバレルサウナを完備したプライベートシャレーやリゾートホテルが充実しています。アルプスの冷涼な天然地下水掛け流しの水風呂に浸かり、雄大な山並みを仰ぎながらの外気浴は究極のととのい体験。山頂テラス「HAKUBA MOUNTAIN HARBOR」からの絶景を堪能した後は、信州プレミアム牛ステーキに舌鼓を打てます。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬姫川温泉　白馬　山のホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬姫川温泉　白馬　山のホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         白馬ジャンプ台を望む、欧州の山岳リゾートを思わせるクラシックなホテル。
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬ログホテル　ミーティア
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬ログホテル　ミーティア</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★ペットと泊まれる宿★北アルプスが一望できる絶好のロケーション！全7室の大型ログハウス。
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥白馬温泉　ホテルグリーンプラザ白馬
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥白馬温泉　ホテルグリーンプラザ白馬</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         白馬の大自然＆温泉＆バイキングを満喫！夏レジャー、紅葉、スキー♪オールシーズン楽しめる高原リゾート
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        白馬樅の木ホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">白馬樅の木ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         貸切温泉OPEN★新しいビュッフェと和牛しゃぶしゃぶが好評♪敷地内に英国調パブ有★八方まで徒歩3分
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白馬みずばしょう温泉 ホテル シェラリゾート白馬を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白馬みずばしょう温泉 ホテル シェラリゾート白馬を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白馬みずばしょう温泉 ホテル シェラリゾート白馬の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白馬みずばしょう温泉 ホテル シェラリゾート白馬の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

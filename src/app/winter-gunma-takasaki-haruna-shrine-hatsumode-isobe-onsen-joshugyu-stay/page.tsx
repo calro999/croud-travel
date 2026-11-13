@@ -294,10 +294,8 @@ export default function GunmaTakasakiHarunaWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の群馬・西毛エリア旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の群馬・西毛エリア旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
                 <span className="font-bold text-amber-900 block mb-1">① 榛名神社初詣＆奇岩・御姿岩</span>
@@ -320,9 +318,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">GUNMA WINTER HIGHLIGHTS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                なぜ11〜1月の高崎・榛名・磯部温泉なのか？神聖な祈りと温もりの上州
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">なぜ11〜1月の高崎・榛名・磯部温泉なのか？神聖な祈りと温もりの上州</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
@@ -340,43 +336,33 @@ export default function GunmaTakasakiHarunaWinterPage() {
 
           {/* Section: Spots to visit */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-10 space-y-6">
-            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-amber-600" />
-              <span>冬の高崎・榛名・安中・磯部温泉で絶対に巡りたい名所</span>
-            </h3>
+            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-amber-600" />
+              <span>冬の高崎・榛名・安中・磯部温泉で絶対に巡りたい名所</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5">
-                  <Building className="w-4 h-4 text-amber-600" />
-                  <span>榛名神社（国指定重要文化財と御姿岩）</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-amber-600" />
+                  <span>榛名神社（国指定重要文化財と御姿岩）</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   どんな願いも叶える「万能のパワースポット」として知られる古刹。奇岩「御姿岩」と一体化した本社・拝殿の建築美や、参道途中の矢立杉（武田信玄が戦勝祈願したと伝わる巨木）など、歩くだけで神聖なパワーを感じられます。冬は参道が凍結することがあるため足元にご注意ください。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-red-900 flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-red-600" />
-                  <span>少林山達磨寺（縁起だるま発祥の地）</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-red-900 flex items-center gap-1.5"><Flame className="w-4 h-4 text-red-600" />
+                  <span>少林山達磨寺（縁起だるま発祥の地）</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   高崎だるまの発祥寺。境内には奉納された無数の色鮮やかなだるまが並ぶ達磨堂があり、圧巻の景観。毎年1月6日〜7日の「七草大祭だるま市」は夜通しだるまが売買される熱気あふれる行事です。絵付け体験も可能で、新年の願掛けに最適。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-stone-900 flex items-center gap-1.5">
-                  <Waves className="w-4 h-4 text-stone-600" />
-                  <span>磯部温泉街と「磯部せんべい」焼き立て巡り</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-stone-900 flex items-center gap-1.5"><Waves className="w-4 h-4 text-stone-600" />
+                  <span>磯部温泉街と「磯部せんべい」焼き立て巡り</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   温泉記号♨発祥の地。駅前の足湯や碓氷川遊歩道には文豪の歌碑が並びます。温泉水を使用した「磯部せんべい」はサクサクの軽い歯ごたえが特徴で、老舗店舗では焼きたてアツアツのせんべいをその場で試食・購入できます。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5">
-                  <Utensils className="w-4 h-4 text-emerald-600" />
-                  <span>本場下仁田ネギ＆上州牛の贅沢すき焼き</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5"><Utensils className="w-4 h-4 text-emerald-600" />
+                  <span>本場下仁田ネギ＆上州牛の贅沢すき焼き</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   11月下旬〜1月に最盛期を迎える「下仁田ネギ」。肉厚な白い軸は、加熱するとトロリと柔らかくなり、砂糖を入れたかのような濃厚な甘みを発揮します。サシの美しい上州牛と地元産こんにゃくを合わせたすき焼き鍋は、上州の冬のご馳走です。
                 </p>
@@ -388,9 +374,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                高崎・榛名・磯部温泉を満喫する厳選ホテル・宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">高崎・榛名・磯部温泉を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
@@ -422,9 +406,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -464,9 +446,7 @@ export default function GunmaTakasakiHarunaWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！榛名神社新春祈願と少林山達磨寺・磯部温泉を巡る冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！榛名神社新春祈願と少林山達磨寺・磯部温泉を巡る冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-amber-200 ml-4 pl-6 space-y-8 text-sm">
@@ -519,10 +499,8 @@ export default function GunmaTakasakiHarunaWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-amber-50/70 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>冬（11・12・1月）の高崎・榛名・磯部温泉旅行・お役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>冬（11・12・1月）の高崎・榛名・磯部温泉旅行・お役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-amber-950">
               <div className="bg-white/80 p-4 rounded-xl border border-amber-100">
                 <strong className="block mb-1 text-amber-900 font-bold">・榛名神社の参道凍結と冬の防寒対策</strong>
@@ -547,18 +525,14 @@ export default function GunmaTakasakiHarunaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                高崎・榛名・磯部温泉の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">高崎・榛名・磯部温泉の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -569,10 +543,8 @@ export default function GunmaTakasakiHarunaWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-amber-600" />
-              <span>群馬および関東甲信越の冬の厳選温泉特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-600" />
+              <span>群馬および関東甲信越の冬の厳選温泉特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-gunma-manza-onsen-snow-milky-sulfur-starry-joshugyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 ♨️ 万座温泉・白濁硫黄泉と雪見星空名宿

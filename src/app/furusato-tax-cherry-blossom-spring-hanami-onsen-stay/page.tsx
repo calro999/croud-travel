@@ -104,19 +104,15 @@ export default function Page() {
             <span className="text-xs font-bold text-amber-800 bg-amber-100 px-3 py-1 rounded-full uppercase tracking-wider">
               STRATEGY GUIDE
             </span>
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">
-              花びらが舞い散る露天風呂で盃を傾ける。年に一度、春だけに出会える日本最高の美しき休日へ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">花びらが舞い散る露天風呂で盃を傾ける。年に一度、春だけに出会える日本最高の美しき休日へ</h2>
           </div>
           <div className="space-y-6">
             
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：争奪戦の「お花見特等席客室」をふるさと納税クーポンでお得に確保</span>
-            </h3>
+              <span>ポイント①：争奪戦の「お花見特等席客室」をふるさと納税クーポンでお得に確保</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               桜が見える客室露天風呂付きプランは春の最高価格帯になりがち。ふるさと納税クーポンを使えば、割高なハイシーズン料金でも宿泊費の30％が補助され、実質自己負担2,000円で泊まれます。
             </p>
@@ -124,12 +120,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 2
               </span>
-              <span>ポイント②：混雑知らず！ライトアップされた「夜桜」や「早朝の桜」を独占</span>
-            </h3>
+              <span>ポイント②：混雑知らず！ライトアップされた「夜桜」や「早朝の桜」を独占</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               名所の宿に泊まる最大のメリットは、日帰り観光客が帰った後の幻想的な夜桜ライトアップや、朝露に輝く静寂の桜並木をゆったりと散策できることです。
             </p>
@@ -137,12 +131,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：早咲き（2月）から遅咲き（5月）まで日本全国を縦断して楽しめる</span>
-            </h3>
+              <span>ポイント③：早咲き（2月）から遅咲き（5月）まで日本全国を縦断して楽しめる</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               2月の河津桜から、4月の吉野山、4月下旬〜5月上旬の弘前城まで、日本の桜前線は3ヶ月にわたって北上します。3年有効クーポンなら、行きたい名所の満開時期に合わせて自由に旅行計画を組めます。
             </p>
@@ -160,9 +152,7 @@ export default function Page() {
               静岡県河津町・早春を告げる濃いピンクの桜並木
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            河津町ふるさと納税で泊まる、河津川沿いの桜並木を望むお花見露天風呂の宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">河津町ふるさと納税で泊まる、河津川沿いの桜並木を望むお花見露天風呂の宿</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             例年2月上旬から開花し、約1ヶ月にわたって見頃が続く早咲きの「河津桜」。河津川沿い約4kmにわたって約850本もの桜並木が続き、足元に咲く黄色い菜の花との鮮やかなコントラストは春の訪れを告げる絶景です。河津町のふるさと納税トラベルクーポンを使えば、川沿いの桜並木へ徒歩すぐの温泉旅館や、客室露天風呂からライトアップされた夜桜を望む名宿をお得に予約可能。伊豆の新鮮な海の幸と金目鯛を味わいながら、一足早い春のぬくもりに包まれる旅が叶います。
           </p>
@@ -192,9 +182,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -246,9 +234,7 @@ export default function Page() {
               奈良県吉野町・山を染め上げる三万本の一目千本桜
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            吉野町ふるさと納税で泊まる、世界遺産吉野山の桜絵巻をテラスから望む山岳旅館
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">吉野町ふるさと納税で泊まる、世界遺産吉野山の桜絵巻をテラスから望む山岳旅館</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             神木として古くから大切に保護され、下千本・中千本・上千本・奥千本と山麓から山頂へと順に咲き上がっていく世界遺産・吉野山。視界いっぱいに広がる約3万本の白山桜のスケールは「一目に千本見える豪華さ」から一目千本と称えられます。吉野町のふるさと納税クーポンを活用すれば、吉野山の尾根沿いに建つ老舗旅館や絶景テラスを持つ山宿にお得にステイ。早朝の山霧に浮かぶ幻想的な桜の海を眺め、名物の吉野葛料理や柿の葉寿司を味わう、日本屈指の歴史あるお花見ステイをご体験ください。
           </p>
@@ -278,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -332,9 +316,7 @@ export default function Page() {
               青森県弘前市・お濠を埋め尽くす奇跡の花筏
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            弘前市ふるさと納税で泊まる、弘前城の桜の絨毯と名湯津軽の春を満喫する名宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">弘前市ふるさと納税で泊まる、弘前城の桜の絨毯と名湯津軽の春を満喫する名宿</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             日本三大桜名所のひとつとして知られる青森県・弘前公園。約2,600本もの桜が一斉に咲き誇り、散り始めるとお濠の水面がピンクの花びらで完全に覆われる「花筏（はないかだ）」は、一生に一度は見たい奇跡の春の絶景です。弘前市のふるさと納税クーポンを使えば、弘前城公園へ徒歩圏内のシティホテルや、近隣の津軽名湯温泉旅館をお得にリザーブ。津軽三味線の生演奏や地元の嶽きみ・津軽リンゴ料理を堪能しながら、みちのくの遅い春の感動に包まれる旅へ出かけましょう。
           </p>
@@ -364,9 +346,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -418,30 +398,24 @@ export default function Page() {
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>桜の満開時期が年によってズレた場合、日程変更はできますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>桜の満開時期が年によってズレた場合、日程変更はできますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 宿泊施設が定めるキャンセル規定・日程変更期限内であれば、楽天トラベルの予約画面から日程の変更が可能です。また、万が一予約を取り直す場合でもクーポンはアカウントに戻るため、別の空室日へ再予約できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>桜が見える客室を確実に予約するにはどうすればいいですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>桜が見える客室を確実に予約するにはどうすればいいですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 宿泊プラン名に「桜側客室確約」「お花見ビュールーム」「庭園桜ビュースイート」と明記されている専用プランを選ぶのが確実です。予約時に備考欄で希望を伝えておくのも有効です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>お花見期間中の混雑や交通規制を避けるコツはありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>お花見期間中の混雑や交通規制を避けるコツはありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 河津桜や吉野山、弘前公園周辺は日中大変混雑します。宿に前泊して「早朝6時〜8時台」に散策するか、宿の客室からライトアップを鑑賞するのが混雑を避ける最高の裏ワザです。
               </p>
@@ -471,9 +445,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 春の温泉旅行にも最適！草津・有馬・伊豆の老舗宿をふるさと納税で予約するテクニック。
               </p>
@@ -490,9 +462,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【予約済みでも間に合う】「あとから割引」完全攻略ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【予約済みでも間に合う】「あとから割引」完全攻略ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 人気の桜宿をすでに予約していても大丈夫！チェックイン前日までにクーポンをあとから適用する方法。
               </p>
@@ -509,9 +479,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車の旅
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【絶景観光列車×ふるさと納税】トロッコ列車＆ローカル線途中下車の旅</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 桜並木を走り抜けるローカル列車の旅！車窓のお花見と温泉を楽しむ絶景鉄道紀行。
               </p>
@@ -541,9 +509,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】伊豆高原温泉ホテル 森の泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】伊豆高原温泉ホテル 森の泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -576,9 +542,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と伊豆高原温泉ホテル 森の泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と伊豆高原温泉ホテル 森の泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

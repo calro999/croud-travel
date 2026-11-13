@@ -405,10 +405,8 @@ export default function TochigiNasuItamuroWinterPage() {
         {/* Hotel List Section */}
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-              板室温泉のおすすめ名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
+              板室温泉のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
@@ -449,9 +447,7 @@ export default function TochigiNasuItamuroWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-emerald-900 transition-colors">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-emerald-900 transition-colors">{hotel.name}</h3>
 
                       <p className="text-xs text-stone-500 flex items-center gap-1 mt-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 shrink-0 text-stone-400" />
@@ -516,17 +512,13 @@ export default function TochigiNasuItamuroWinterPage() {
               <Compass className="w-4 h-4 text-emerald-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              下野の薬湯ぬる湯治と那須黒毛和牛・アート保養の旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">下野の薬湯ぬる湯治と那須黒毛和牛・アート保養の旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【1日目】黒磯のカフェ文化と板室の名湯チェックイン
-              </h3>
+              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【1日目】黒磯のカフェ文化と板室の名湯チェックイン</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -552,10 +544,8 @@ export default function TochigiNasuItamuroWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【2日目】綱の湯立ち湯体験と那須高原グルメめぐり
-              </h3>
+              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【2日目】綱の湯立ち湯体験と那須高原グルメめぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -585,27 +575,21 @@ export default function TochigiNasuItamuroWinterPage() {
               <ShoppingBag className="w-4 h-4 text-emerald-800" />
               板室・那須塩原・冬のおみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              板室温泉周辺で手に入れたい初冬の名産品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">板室温泉周辺で手に入れたい初冬の名産品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-700" />
-                木の俣渓谷とオオシラビソの原生林
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+                木の俣渓谷とオオシラビソの原生林</h3>
               <p>
                 板室温泉のすぐ近くを流れる那珂川の支流「木の俣川」は、川底の小石までくっきりと見える驚異的な透明度を誇る名所。初冬には巨岩に薄らと雪が積もり、エメラルドグリーンの水面とのコントラストが息を呑む美しさです。静寂に包まれた遊歩道を歩きながら、澄んだ山の空気を胸いっぱいに吸い込む森林浴が楽しめます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-emerald-700" />
-                御用邸チーズケーキと那須の高原乳製品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-emerald-700" />
+                御用邸チーズケーキと那須の高原乳製品</h3>
               <p>
                 那須塩原・那須高原といえば、日本有数の生乳生産量を誇る酪農地帯。「チーズガーデン」の看板商品である「御用邸チーズケーキ」は、しっとり濃厚なベイクドタイプで冬のお土産の定番です。また、地元牧場の手作りカマンベールチーズやフレッシュバター、搾りたて牛乳を使ったスイーツも絶品です。
               </p>
@@ -620,32 +604,24 @@ export default function TochigiNasuItamuroWinterPage() {
               <ThermometerSun className="w-4 h-4 text-emerald-800" />
               初冬の板室温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の板室温泉は「現代湯治の最高峰」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の板室温泉は「現代湯治の最高峰」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-emerald-700" />
-              刺激の少ない弱アルカリ性単純温泉が生み出す副交感神経の活性化
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-700" />
+              刺激の少ない弱アルカリ性単純温泉が生み出す副交感神経の活性化</h3>
             <p>
               板室温泉の泉質は、pH9.0前後のアルカリ性単純温泉。塩分や硫黄などの刺激成分が穏やかで、肌の角質を優しくオフしながら、入浴直後から肌がつるつるとなめらかになる「美肌の湯」です。何より特筆すべきは38〜40℃の低温泉設定。熱い湯に入った時に起こる交感神経の緊張（血管収縮や血圧上昇）を防ぎ、副交感神経を優位にすることで、脳と内臓を休ませ、深い睡眠と自然治癒力の回復を促します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-emerald-700" />
-              綱の湯（立ち湯）の静水圧による強力な血行・リンパ循環促進
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-emerald-700" />
+              綱の湯（立ち湯）の静水圧による強力な血行・リンパ循環促進</h3>
             <p>
               深さ約1.2〜1.4mの深湯に立って入る「綱の湯」は、水深が深くなるほど水圧が増す物理法則を活かした湯治法です。立った姿勢で入浴すると、ふくらはぎや足首にかかる水圧が最大になり、下半身に滞りがちな静脈血やリンパ液を心臓へと力強く押し戻します。これにより、立ち仕事やデスクワークによる足のむくみ、冷え性が一気に解消され、全身の関節の可動域が広がります。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-emerald-700" />
-              那須連山が遮る北風と静寂がもたらす極上の保養環境
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+              那須連山が遮る北風と静寂がもたらす極上の保養環境</h3>
             <p>
               板室温泉は那須連山の山懐、那珂川の谷間に位置するため、冬の強い北西風（からっ風）が山肌で遮られ、冬でも比較的穏やかで静かな気候に恵まれています。那須街道沿いの賑やかな観光エリアから一線を画したこの静けさこそが、多くの文人墨客や現代のクリエイターが保養地に選ぶ最大の理由です。初雪が静かに降る音と川のせせらぎに包まれながら、真の休息を得ることができます。
             </p>
@@ -659,18 +635,14 @@ export default function TochigiNasuItamuroWinterPage() {
               <HelpCircle className="w-4 h-4 text-emerald-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の板室温泉・那須高原旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の板室温泉・那須高原旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

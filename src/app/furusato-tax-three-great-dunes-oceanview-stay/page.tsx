@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              風が描き出す砂の芸術「風紋」と日本海・太平洋の圧倒的水平線
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">風が描き出す砂の芸術「風紋」と日本海・太平洋の圧倒的水平線</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               早朝の誰も足を踏み入れていない砂丘に広がる神秘的な風紋や、夕日に黄金色に輝く絶景を心ゆくまで堪能できます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              水平線に沈む夕日と満天の星を望むオーシャンビュー露天風呂
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">水平線に沈む夕日と満天の星を望むオーシャンビュー露天風呂</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               波の音をBGMに、刻一刻と表情を変える海と空のグラデーションを眺めながら入浴する至福のリラックスタイム。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              水揚げされたばかりの活伊勢海老・松葉ガニ・金目鯛など極上の海の幸
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">水揚げされたばかりの活伊勢海老・松葉ガニ・金目鯛など極上の海の幸</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               砂丘の海沿いだからこそ味わえる鮮度抜群の海鮮料理。職人の技が光る舟盛りや名物料理を満喫できます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -329,7 +319,7 @@ export default function FurusatoUpgradedPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・遠州砂丘・吹上浜：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大砂丘の壮大な風紋と夕日オーシャンビュー宿×ふるさと納税厳選ガイド鳥取砂丘・遠州砂丘・吹上浜：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -390,55 +380,55 @@ export default function FurusatoUpgradedPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. 定山渓温泉　定山渓第一寶亭留　翠山亭（北海道・★4.48）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. 定山渓温泉　定山渓第一寶亭留　翠山亭（北海道・4.48）</h4>
               <p><strong>【特徴】</strong>全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル</p>
               <p><strong>【交通・駐車場】</strong>札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間 ／ 駐車場：有り　１00台　無料</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. 海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼（・★4.67）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. 海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼（・4.67）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>霊丘公園体育館駅約３Ｈ⇒徒歩約5分／長崎空港⇒約２Ｈ／熊本港～フェリーで島原港約３０分⇒車約５分　霊丘神社２分 ／ 駐車場：有り</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「食事もお風呂も満足、アメニティも充実お食事もお風呂も、たいへんよかったです。アメニティも十分用意されており、ありがたいです。チェックアウトの時間がもう1時間遅ければなおよいですが、がんばっておられ…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. 甲斐のホテル（山梨県・★4.42）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. 甲斐のホテル（山梨県・4.42）</h4>
               <p><strong>【特徴】</strong>甲府昭和ＩＣから車で1分♪　無料駐車場100台♪　男女別大浴場は入替なしでワイン風呂が好評！</p>
               <p><strong>【交通・駐車場】</strong>【楽天トラベルアワード2025受賞記念プラン販売中】普通車駐車無料。甲府昭和ＩＣより車で3分。甲府駅より車で15分。 ／ 駐車場：有り　無料 （大型車は２日前までに要連絡）車いすや杖等対応の駐車は必ず事前にご相談ください。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「コスパ最強」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. 城のホテル甲府（山梨県・★4.49）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. 城のホテル甲府（山梨県・4.49）</h4>
               <p><strong>【特徴】</strong>最上階に展望露天風呂と温泉。やまなしグリーンゾーン認定で安心安全なご宿泊を。</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ中央本線甲府駅から徒歩で1分。 ／ 駐車場：お車は提携駐車場にご案内致します。玄関前は駐車不可。詳細は公式HPのアクセスページをご確認ください。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋は綺麗で朝食も満足、夜のお風呂はぬるめお部屋は綺麗で使いやすかったです。朝食も楽しみました。お風呂は夜と朝の2回入ったのですが、夜のお湯の温度が少し低かったのが残念でした。(体温を上げるた…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. ホテルニューオータニ博多（福岡県・★4.41）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. ホテルニューオータニ博多（福岡県・4.41）</h4>
               <p><strong>【特徴】</strong>地下鉄「渡辺通駅」より徒歩1分！地下鉄七隈線延伸で空港・博多駅からのアクセスがますます便利に！</p>
               <p><strong>【交通・駐車場】</strong>地下鉄七隈線「渡辺通駅」2番出口より徒歩約1分。ＪＲ博多駅より車で約5分。福岡空港より車で約20分。 ／ 駐車場：有り／370台／１泊(入庫時間より24時間）／1500円（税込み）</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「建物が少し古め少し古さはありますが、重厚感ありゆっくりと快適に過ごせました。」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

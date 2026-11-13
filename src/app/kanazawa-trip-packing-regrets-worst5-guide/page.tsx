@@ -195,9 +195,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-amber-600 pl-4 mb-8">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase">KANAZAWA REGRETS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              旅の満足度が激変！金沢観光でありがちな後悔ワースト5
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">旅の満足度が激変！金沢観光でありがちな後悔ワースト5</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               事前の下調べがないと当日必ず悔しい思いをするリアルな失敗パターン。
             </p>
@@ -223,9 +221,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                   </div>
                 </div>
 
-                <h3 className="text-lg sm:text-xl font-black text-stone-900 mb-3 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-lg sm:text-xl font-black text-stone-900 mb-3 leading-snug">{item.title}</h3>
 
                 <div className="text-xs sm:text-sm text-stone-600 leading-relaxed bg-amber-50/40 p-4 rounded-2xl border border-amber-100 mb-4">
                   <strong className="text-amber-950 block mb-1 font-bold">💥 実際に起きた失敗談：</strong>
@@ -245,9 +241,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
         <section className="bg-white border-2 border-amber-200/80 rounded-3xl p-6 sm:p-8 shadow-sm">
           <div className="border-l-4 border-amber-600 pl-4 mb-6">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase">PACKING SURVIVAL LIST</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              金沢散策を120%楽しむための持ち物＆準備リスト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">金沢散策を120%楽しむための持ち物＆準備リスト</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               石川・北陸ならではの気候と街歩きに最適化した必携アイテム。
             </p>
@@ -285,9 +279,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-amber-600 pl-4 mb-8">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase">STATION & DOWNTOWN HOTELS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              雨でも濡れない駅近＆観光拠点！金沢のおすすめホテル
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">雨でも濡れない駅近＆観光拠点！金沢のおすすめホテル</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               金沢駅直結・徒歩圏内、大浴場付きや近江町市場至近のコスパ抜群宿。
             </p>
@@ -325,9 +317,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
                         </div>
                       )}
                       <div className="p-5">
-                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-amber-600 transition leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-amber-600 transition leading-snug">{hotel.hotelName}</h3>
                         <p className="text-xs text-stone-500 mb-2">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -403,9 +393,7 @@ export default function KanazawaTripPackingRegretsWorst5Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と月曜定休トラップ＆21美予約忘れ！海鮮丼行列を回避する持ち物＆知恵袋の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

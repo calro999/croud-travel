@@ -154,7 +154,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
         {/* 目次 */}
         <nav className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 mb-12">
-          <h2 className="text-base font-bold text-stone-800 mb-3">📑 目次（タップでジャンプできます）</h2>
+          <h2 className="text-base font-bold text-stone-800 mb-3">目次（タップでジャンプできます）</h2>
           <ol className="space-y-2 text-xs sm:text-sm text-stone-600">
             <li><a href="#section-1" className="hover:text-amber-700 transition">1. 「ふるさと納税で旅行」ってどういうこと？基本の仕組み</a></li>
             <li><a href="#section-2" className="hover:text-amber-700 transition">2. なぜ「実質2,000円」になるの？お金の流れを図解</a></li>
@@ -170,9 +170,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-1" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">STEP 1</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              「ふるさと納税で旅行」ってどういうこと？基本の仕組み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">「ふるさと納税で旅行」ってどういうこと？基本の仕組み</h2>
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-4 text-sm text-stone-700 leading-relaxed">
             <p>
@@ -182,7 +180,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
               しかし、楽天ふるさと納税では<strong>「全国の自治体にあるホテル・温泉旅館で使える電子宿泊クーポン」</strong>が返礼品として用意されています。
             </p>
             <div className="bg-amber-50/80 rounded-xl p-4 border border-amber-200">
-              <h3 className="font-bold text-amber-900 mb-2">💡 一言で言うと…</h3>
+              <h3 className="font-bold text-amber-900 mb-2">一言で言うと…</h3>
               <p className="text-amber-950 font-medium">
                 「旅行先の市町村に寄付すると、その寄付額の最大30％相当の宿泊クーポンがもらえて、寄付したお金は翌年の税金から引かれる」制度です。
               </p>
@@ -198,9 +196,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-2" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">STEP 2</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              なぜ「実質2,000円」になるの？お金の流れを図解
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">なぜ「実質2,000円」になるの？お金の流れを図解</h2>
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-6 text-sm text-stone-700 leading-relaxed">
             <p>
@@ -210,9 +206,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
             {/* お金の流れボックス */}
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-300">
-              <h3 className="font-bold text-stone-900 text-base mb-4 text-center">
-                📊 【例】年収600万円の人が「50,000円」寄付した場合
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base mb-4 text-center">【例】年収600万円の人が「50,000円」寄付した場合</h3>
 
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-center">
                 <div className="bg-white p-4 rounded-xl border border-stone-200 shadow-xs">
@@ -254,9 +248,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-3" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">STEP 3</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              あなたはいくら寄付できる？年収別上限額の早見表
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">あなたはいくら寄付できる？年収別上限額の早見表</h2>
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-4 text-sm text-stone-700 leading-relaxed">
             <p>
@@ -339,9 +331,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-4" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">STEP 4</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              確定申告不要！「ワンストップ特例」のカンタン申請法
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">確定申告不要！「ワンストップ特例」のカンタン申請法</h2>
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-4 text-sm text-stone-700 leading-relaxed">
             <p>
@@ -350,14 +340,14 @@ export default function FurusatoTaxTravelBeginnersGuide() {
             </p>
 
             <div className="bg-emerald-50 rounded-xl p-4 border border-emerald-200">
-              <h3 className="font-bold text-emerald-900 mb-2">✅ ワンストップ特例が使える条件</h3>
+              <h3 className="font-bold text-emerald-900 mb-2">ワンストップ特例が使える条件</h3>
               <ul className="list-disc list-inside space-y-1 text-xs sm:text-sm text-emerald-950">
                 <li>もともと確定申告をする必要がない会社員・公務員であること</li>
                 <li>1年間（1月1日〜12月31日）で寄付する自治体の数が「5自治体以内」であること</li>
               </ul>
             </div>
 
-            <h3 className="font-bold text-stone-900 text-base pt-2">📱 いまは「スマホで完結（紙の郵送も不要）」が主流！</h3>
+            <h3 className="font-bold text-stone-900 text-base pt-2">いまは「スマホで完結（紙の郵送も不要）」が主流！</h3>
             <p>
               かつては申請書を印刷して身分証コピーを貼り、封筒に入れて切手を貼って郵送する必要がありましたが、現在は<strong>「自治体マイページ」等のオンラインワンストップアプリ</strong>に対応する自治体が急増しています。
             </p>
@@ -376,17 +366,13 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-5" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-amber-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">STEP 5</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              実際の予約手順（予約前・予約後の2パターン）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">実際の予約手順（予約前・予約後の2パターン）</h2>
           </div>
           <div className="space-y-6">
             {/* パターンA */}
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-              <h3 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">
-                <span className="bg-stone-800 text-white text-xs px-2.5 py-0.5 rounded-full">パターンA</span>
-                これから旅行先・ホテルを決めて予約する場合（通常手順）
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span className="bg-stone-800 text-white text-xs px-2.5 py-0.5 rounded-full">パターンA</span>
+                これから旅行先・ホテルを決めて予約する場合（通常手順）</h3>
               <div className="space-y-3 text-xs sm:text-sm text-stone-700">
                 <div className="flex items-start gap-3">
                   <span className="bg-amber-100 text-amber-800 w-6 h-6 rounded-full flex items-center justify-center font-bold shrink-0 mt-0.5">1</span>
@@ -414,10 +400,8 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
             {/* パターンB */}
             <div className="bg-gradient-to-r from-amber-50/70 to-orange-50/70 rounded-2xl shadow-sm border border-amber-300 p-6 md:p-8">
-              <h3 className="text-base font-bold text-amber-900 mb-3 flex items-center gap-2">
-                <span className="bg-amber-600 text-white text-xs px-2.5 py-0.5 rounded-full">パターンB</span>
-                【神機能】すでに予約しちゃった宿にあとから適用する場合
-              </h3>
+              <h3 className="text-base font-bold text-amber-900 mb-3 flex items-center gap-2"><span className="bg-amber-600 text-white text-xs px-2.5 py-0.5 rounded-full">パターンB</span>
+                【神機能】すでに予約しちゃった宿にあとから適用する場合</h3>
               <p className="text-xs sm:text-sm text-stone-700 mb-4">
                 「もう旅行の予約取っちゃったよ…」という方も諦める必要はありません！楽天トラベルは<strong>「クーポンあとから適用」</strong>に対応しています。
               </p>
@@ -450,9 +434,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-6" className="mb-14">
           <div className="flex items-center gap-2 mb-4">
             <span className="bg-rose-600 text-white text-xs font-bold px-2.5 py-1 rounded-lg">CAUTION</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">
-              初心者が絶対避けるべき「5つの落とし穴・失敗例」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-800">初心者が絶対避けるべき「5つの落とし穴・失敗例」</h2>
           </div>
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 space-y-4 text-sm text-stone-700 leading-relaxed">
             <p>
@@ -461,35 +443,35 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
             <div className="space-y-3">
               <div className="border-l-4 border-rose-500 pl-4 py-1">
-                <h3 className="font-bold text-stone-900 text-sm">❌ 落とし穴1：泊まりたい宿と自治体がズレている</h3>
+                <h3 className="font-bold text-stone-900 text-sm">落とし穴1：泊まりたい宿と自治体がズレている</h3>
                 <p className="text-xs text-stone-600 mt-1">
                   例えば「箱根温泉」に泊まりたい場合、寄付先は「神奈川県箱根町」でなければなりません。隣の小田原市や熱海市に寄付しても箱根の宿には使えません。必ず「宿の住所」を確認してから寄付してください。
                 </p>
               </div>
 
               <div className="border-l-4 border-rose-500 pl-4 py-1">
-                <h3 className="font-bold text-stone-900 text-sm">❌ 落とし穴2：楽天IDの名義と税金を払う人の名義が違う</h3>
+                <h3 className="font-bold text-stone-900 text-sm">落とし穴2：楽天IDの名義と税金を払う人の名義が違う</h3>
                 <p className="text-xs text-stone-600 mt-1">
                   専業主婦（夫）の楽天アカウントで寄付し、支払いを配偶者の名義にすると、住民税控除が正しく受けられなくなります。<strong>「住民税を納めている本人の楽天ID」</strong>でログインして寄付を行ってください。
                 </p>
               </div>
 
               <div className="border-l-4 border-rose-500 pl-4 py-1">
-                <h3 className="font-bold text-stone-900 text-sm">❌ 落とし穴3：控除上限額を大幅に超えて寄付してしまう</h3>
+                <h3 className="font-bold text-stone-900 text-sm">落とし穴3：控除上限額を大幅に超えて寄付してしまう</h3>
                 <p className="text-xs text-stone-600 mt-1">
                   上限6万円の人が10万円寄付した場合、オーバーした4万円は単なる寄付（自腹）になります。まずはシミュレーターで上限額を確かめてから金額を決めましょう。
                 </p>
               </div>
 
               <div className="border-l-4 border-rose-500 pl-4 py-1">
-                <h3 className="font-bold text-stone-900 text-sm">❌ 落とし穴4：ワンストップ特例の申請期限（翌年1月10日）を過ぎてしまう</h3>
+                <h3 className="font-bold text-stone-900 text-sm">落とし穴4：ワンストップ特例の申請期限（翌年1月10日）を過ぎてしまう</h3>
                 <p className="text-xs text-stone-600 mt-1">
                   期限内に申請しなかった場合、自動的には控除されません（その場合は確定申告をすれば後からでも控除を受けられますが、手間が増えます）。寄付したらその日のうちにオンライン申請を済ませるのが鉄則です。
                 </p>
               </div>
 
               <div className="border-l-4 border-rose-500 pl-4 py-1">
-                <h3 className="font-bold text-stone-900 text-sm">❌ 落とし穴5：年内に6自治体以上に寄付してワンストップが無効になる</h3>
+                <h3 className="font-bold text-stone-900 text-sm">落とし穴5：年内に6自治体以上に寄付してワンストップが無効になる</h3>
                 <p className="text-xs text-stone-600 mt-1">
                   ワンストップ特例が使えるのは「年間5自治体まで」です。6自治体以上に寄付した時点で、すべての寄付について確定申告が必須になります。
                 </p>
@@ -503,9 +485,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
 
         {/* 次のアクション案内（ハブページへの強力な導線） */}
         <section className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-10 shadow-xl border border-amber-900/40 text-center mb-12">
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold font-serif mb-3 text-amber-50">
-            仕組みが分かったら、泊まりたい宿を探してみよう！
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold font-serif mb-3 text-amber-50">仕組みが分かったら、泊まりたい宿を探してみよう！</h2>
           <p className="text-stone-300 text-xs sm:text-sm mb-6 max-w-2xl mx-auto leading-relaxed">
             当サイトでは、全国のふるさと納税対象宿を「三大和牛」「露天風呂」「名城」「大自然」「家族旅行」など13ジャンル・238テーマに分類して徹底ガイドしています。
           </p>
@@ -543,9 +523,7 @@ export default function FurusatoTaxTravelBeginnersGuide() {
         <section id="section-7" className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とふるさと納税で旅行・ホテルに安く泊まる完全マニュアルの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とふるさと納税で旅行・ホテルに安く泊まる完全マニュアルの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

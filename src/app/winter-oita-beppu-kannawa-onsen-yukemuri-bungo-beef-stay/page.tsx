@@ -298,10 +298,8 @@ export default function BeppuOnsenWinterPage() {
             <Waves className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 日本一の湧出量 鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】<br className="hidden sm:inline" />
-            初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月別府・鉄輪温泉の冬湯けむりと海鮮美食】<br className="hidden sm:inline" />
+            初冬の別府湾絶景露天・鉄輪湯けむり展望と極上豊後牛＆関アジ関サバ会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             毎分十万リットルを誇るおんせん県おおいたの至宝。冷気により白く輝く鉄輪の湯煙、海抜ゼロメートルから高原まで広がる別府湾の初冬絶景露天、旬を迎えた関アジ関サバと豊後牛ステーキを堪能する極上冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Beppu Kannawa Onsen Winter Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                源泉数・湧出量ともに日本一。初冬の冷気に映える壮大な湯けむりパノラマと豊後美味
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">源泉数・湧出量ともに日本一。初冬の冷気に映える壮大な湯けむりパノラマと豊後美味</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Beppu Springs & Jigokumushi</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                地球のエネルギーを五感で味わう「別府八湯」と「地獄蒸し」の魅力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">地球のエネルギーを五感で味わう「別府八湯」と「地獄蒸し」の魅力</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,9 +407,7 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の別府・鉄輪温泉が旅人を魅了する3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の別府・鉄輪温泉が旅人を魅了する3つの理由</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -453,9 +445,7 @@ export default function BeppuOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】別府・鉄輪温泉の至福を約束する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】別府・鉄輪温泉の至福を約束する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、別府湾や湯煙の絶景、大分県産豊後牛や関アジ関サバ会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
@@ -492,11 +482,9 @@ export default function BeppuOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-teal-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -556,9 +544,7 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Bungo Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                豊後水道の荒波が育む高級魚と大分県産ブランド黒毛和牛の贅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">豊後水道の荒波が育む高級魚と大分県産ブランド黒毛和牛の贅</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -588,9 +574,7 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の別府・鉄輪温泉を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の別府・鉄輪温泉を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -644,26 +628,20 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・アクセス＆エリア移動のコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・アクセス＆エリア移動のコツ</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-700" />
-                <span>気温と海風・高台の寒暖差対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                <span>気温と海風・高台の寒暖差対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 別府市街は温暖ですが、11月下旬〜12月は海からの北風や鶴見岳からの吹き下ろしにより、体感温度がぐっと下がります。特に海辺の散策や高台の露天風呂では風を通さないマウンテンパーカーやウールコート、ストールがあると安心です。12月朝晩は5℃前後まで冷え込むため、防寒インナーのご着用をおすすめします。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-teal-700" />
-                <span>空港特急バス・JR・レンタカー移動のポイント</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                <span>空港特急バス・JR・レンタカー移動のポイント</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 大分空港から別府駅・鉄輪温泉へは空港特急バス「エアライナー」で約45〜50分と極めて快適。JR博多駅からは特急「ソニック」で約2時間直通です。別府八湯の湯巡りや湯けむり展望台、アフリカンサファリ方面への観光はレンタカーが便利ですが、平野部では積雪の心配はほとんどありません（やまなみハイウェイや阿蘇越えをする場合はスタッドレス推奨）。
               </p>
@@ -679,18 +657,14 @@ export default function BeppuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の別府・鉄輪温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の別府・鉄輪温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -703,9 +677,7 @@ export default function BeppuOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-300 uppercase tracking-widest">Related Kyushu Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬名湯＆極上グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬名湯＆極上グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの湯けむり、夜景、旬の黒毛和牛や海鮮を味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

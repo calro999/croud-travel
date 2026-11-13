@@ -281,9 +281,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Volcanic Panorama & Satsuma Heritage</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬晴れの錦江湾に聳える雄峰桜島と、維新の英傑が息づく薩摩の祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬晴れの錦江湾に聳える雄峰桜島と、維新の英傑が息づく薩摩の祈り</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               東洋のナポリと謳われる風光明媚な景観と、南九州一の開運神社が迎える新春
             </p>
@@ -342,9 +340,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="bg-gradient-to-r from-slate-900 to-rose-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-rose-400 pl-4">
             <span className="text-rose-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月｜鹿児島市の月別見どころと旅のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月｜鹿児島市の月別見どころと旅のポイント</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               温暖な気候と冬の透明度を最大限に味わう、鹿児島トラベルカレンダー
             </p>
@@ -393,9 +389,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の鹿児島を満喫する1泊2日 王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の鹿児島を満喫する1泊2日 王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               新幹線・空港から身軽に巡る、桜島絶景と薩摩美食のパーフェクトプラン
             </p>
@@ -403,18 +397,14 @@ export default function KagoshimaCityWinterFeaturePage() {
 
           <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-rose-800">
-                【1日目】鹿児島中央駅到着 → 桜島フェリーで桜島へ → 湯之平展望所＆足湯 → 展望温泉宿で黒豚しゃぶしゃぶ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-rose-800">【1日目】鹿児島中央駅到着 → 桜島フェリーで桜島へ → 湯之平展望所＆足湯 → 展望温泉宿で黒豚しゃぶしゃぶ</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 昼頃、鹿児島中央駅へ到着。市電で水族館口電停へ向かい、桜島フェリーで名物うどんを味わいながら桜島へ。アイランドビューバスで湯之平展望所へ上がり、間近に迫る火山の迫力と鹿児島市街地を展望。溶岩なぎさ公園足湯で温まった後、フェリーで戻り城山ホテルやベイエリアの宿へチェックイン。展望温泉「さつま乃湯」で夕暮れの桜島を眺め、夜はかごしま黒豚しゃぶしゃぶと芋焼酎に舌鼓。
               </p>
             </div>
 
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-rose-800">
-                【2日目】照国神社で新春初詣 → 名勝・仙巌園で借景庭園散策 → 天文館でさつま揚げ＆お土産調達
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-rose-800">【2日目】照国神社で新春初詣 → 名勝・仙巌園で借景庭園散策 → 天文館でさつま揚げ＆お土産調達</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝、城山展望台から朝日を浴びる桜島を鑑賞後、照国神社へ参拝し新年の開運を祈願。カゴシマシティビューバスで名勝「仙巌園」へ向かい、桜島を借景にした雄大な庭園を散策、名物「両棒餅（ぢゃんぼもち）」を味わう。午後は天文館へ戻り、老舗店で揚げたてのさつま揚げやかるかん、銘酒芋焼酎を購入し、夕方の新幹線やフライトで快適に帰路へ。
               </p>
@@ -426,9 +416,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="space-y-8">
           <div>
             <span className="text-rose-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の鹿児島市を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の鹿児島市を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
               楽天トラベル公式APIを通じてレビュー評価、桜島眺望、展望露天風呂、黒豚プランを厳選した最高品質の宿です。
             </p>
@@ -474,11 +462,9 @@ export default function KagoshimaCityWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-700 transition">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-500 mt-1 italic">
                       {hotel.special}
@@ -533,18 +519,14 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-200/80 space-y-6">
           <div className="border-b border-slate-150 pb-4">
             <span className="text-rose-600 font-bold text-xs uppercase tracking-wider">FREQUENTLY ASKED QUESTIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の鹿児島市旅行 よくある質問と実用アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の鹿児島市旅行 よくある質問と実用アドバイス</h2>
           </div>
 
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -557,9 +539,7 @@ export default function KagoshimaCityWinterFeaturePage() {
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <Compass className="w-5 h-5 text-rose-700" />
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              九州・南国の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">九州・南国の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

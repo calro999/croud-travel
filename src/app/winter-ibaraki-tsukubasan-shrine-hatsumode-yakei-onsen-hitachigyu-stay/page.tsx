@@ -281,9 +281,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Sacred Peak & Night View</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              紫峰と謳われる名峰の澄んだ冬空と、関東平野を見晴らす天空の輝き
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">紫峰と謳われる名峰の澄んだ冬空と、関東平野を見晴らす天空の輝き</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               日本百名山で最も親しみやすく、万葉集の昔から愛された霊峰の冬情趣
             </p>
@@ -342,9 +340,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="bg-gradient-to-r from-slate-900 to-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-teal-400 pl-4">
             <span className="text-teal-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月｜筑波山の月別見どころと旅のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月｜筑波山の月別見どころと旅のポイント</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               紅葉のフィナーレから新春の厳かな祈りまで、季節ごとの見逃せないハイライト
             </p>
@@ -393,9 +389,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の筑波山を満喫する1泊2日 王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の筑波山を満喫する1泊2日 王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               つくばエクスプレスとシャトルバスを活用して冬の絶景と名湯を快適に楽しむプラン
             </p>
@@ -403,18 +397,14 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
 
           <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-teal-800">
-                【1日目】秋葉原・東京からTXでつくば駅へ → 筑波山神社へシャトルバス移動 → 門前町散策＆スターダスト夜景観賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-teal-800">【1日目】秋葉原・東京からTXでつくば駅へ → 筑波山神社へシャトルバス移動 → 門前町散策＆スターダスト夜景観賞</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 午前、つくばエクスプレスでつくば駅へ到着し、直行シャトルバスで筑波山神社入口へ。門前町で名物のつくばうどんや常陸牛コロッケを味わった後、老舗温泉宿へチェックイン。夕暮れ時にロープウェイで女体山頂へ上がり、夕焼けに染まる富士山と関東平野一面のスターダスト夜景を鑑賞。東京タワーやスカイツリーの光が地平線に瞬く絶景に感動した後は宿に戻り、pH10の美肌温泉露天風呂と常陸牛会席を堪能。
               </p>
             </div>
 
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-teal-800">
-                【2日目】筑波山神社で早朝初詣 → ケーブルカーで男体山山頂へ → 地酒蔵元やお土産散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-teal-800">【2日目】筑波山神社で早朝初詣 → ケーブルカーで男体山山頂へ → 地酒蔵元やお土産散策</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝、澄んだ清浄な空気の筑波山神社を参拝。夫婦杉や御神橋を巡り、新春の開運祈願。ケーブルカーで山頂駅へ上がり、澄みきった大気のパノラマを堪能。女体山・男体山の山頂連絡路を歩いて巨岩怪石（弁慶七戻りや出船入船）の自然美を体験。下山後は門前町の老舗酒蔵「稲葉酒造」で銘酒「男女川」の利き酒や名物福来みかん七味を購入。つくば駅経由で快適に帰路へ。
               </p>
@@ -426,9 +416,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="space-y-8">
           <div>
             <span className="text-teal-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の筑波山を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の筑波山を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
               楽天トラベル公式APIを通じてレビュー評価、泉質、立地、展望夜景、常陸牛プランを厳選した最高品質の宿です。
             </p>
@@ -474,11 +462,9 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-700 transition">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-500 mt-1 italic">
                       {hotel.special}
@@ -533,18 +519,14 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-200/80 space-y-6">
           <div className="border-b border-slate-150 pb-4">
             <span className="text-teal-600 font-bold text-xs uppercase tracking-wider">FREQUENTLY ASKED QUESTIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の筑波山旅行 よくある質問と実用アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の筑波山旅行 よくある質問と実用アドバイス</h2>
           </div>
 
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -557,9 +539,7 @@ export default function IbarakiTsukubasanWinterFeaturePage() {
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <Compass className="w-5 h-5 text-teal-700" />
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              北関東・東日本の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">北関東・東日本の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -215,19 +215,15 @@ export default function Page() {
           {/* イントロセクション */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-                <Compass className="w-6 h-6 text-cyan-700" />
-                <span>冬の新居浜・西条・石鎚山麓探訪：静寂と温もりに包まれる旅の魅力</span>
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-700" />
+                <span>冬の新居浜・西条・石鎚山麓探訪：静寂と温もりに包まれる旅の魅力</span></h2>
             </div>
             <p className="text-stone-700 leading-relaxed text-sm sm:text-base whitespace-pre-line">
               四国の屋根・西日本最高峰の霊峰「石鎚山（標高1,982m）」の白銀の峰々を仰ぎ、穏やかな瀬戸内海燧灘（ひうちなだ）を望む愛媛県東予エリア・新居浜＆西条。冬の訪れとともに山々は白雪と霧氷をまとい、麓の町には凛とした澄んだ空気が満ちわたります。新居浜市の険しい赤石山系、標高約750mの山中にひっそりと佇む「別子銅山 東平（とうなる）ゾーン」は、かつて日本の近代化を支え住友グループ発祥の礎となった巨大鉱山都市の遺跡。幾重にも積まれた重厚な石垣や、赤レンガ造りの貯鉱庫、索道停車場跡が白雪や霧氷の中に静まり返る姿は、まさに『東洋のマチュピチュ』と呼ばれるにふさわしい神秘の情景です。冬の静寂の中で巨石の遺構を見上げれば、かつて雲上の地に数千人が暮らした壮大な歴史のロマンに心が震えます。山を下り西条市へと向かえば、名水百選に選ばれる清冽な地下水「うちぬき」が町の至る所から自噴し、冬の寒造り地酒を清らかに仕込みます。そして石鎚山の麓に鎮座する「石鎚神社」本社は、日本七霊山のひとつとして古くから崇敬を集める大社。新春初詣には家内安全や諸願成就を祈る人々で賑わい、神体山たる石鎚山の霊威が新たな一年の活力を授けてくれます。冬の東予は、燧灘で獲れる脂の乗った寒ブリや渡り蟹、清らかな名水で育まれた愛媛のブランド牛「伊予牛」のすき焼き、弘法大師ゆかりの「湯之谷温泉」や「本谷温泉」の名湯など、旅人を癒やす極上の温もりに満ちています。産業遺産の偉容と名水、名峰の神気に包まれる冬の東予探訪へご案内します。
             </p>
 
             <div className="space-y-4 pt-4 border-t border-stone-100">
-              <h3 className="text-lg font-bold text-stone-900">
-                この冬、新居浜・西条・石鎚山麓を訪れるべき3つの理由
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">この冬、新居浜・西条・石鎚山麓を訪れるべき3つの理由</h3>
               <div className="grid grid-cols-1 gap-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-3">
@@ -235,9 +231,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  標高750mの雲上に眠る産業遺産！「別子銅山・東平」の冬霧氷と赤レンガ遺構
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">標高750mの雲上に眠る産業遺産！「別子銅山・東平」の冬霧氷と赤レンガ遺構</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 日本の近代化を牽引した別子銅山の採鉱本部跡・東平ゾーン。白雪をまとう巨大な石積みと赤レンガの遺構群は息を呑む迫力です。マインピア別子からの観光バスや展示館で、280年に及ぶ鉱山のドラマを深く学べます。
@@ -249,9 +243,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  西日本最高峰の神を祀る！霊峰「石鎚神社」新春開運初詣と名水うちぬきの里
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">西日本最高峰の神を祀る！霊峰「石鎚神社」新春開運初詣と名水うちぬきの里</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 霊峰石鎚山を神体山と仰ぐ石鎚神社本社。新春の澄み渡る大気の中で冠雪の石鎚連峰を望み、強力な開運厄除けの御神徳を授かります。西条市内に湧き出る「うちぬき」の名水巡りと地酒蔵探訪も冬ならではの楽しみです。
@@ -263,9 +255,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  瀬戸内寒ブリ・極上伊予牛・名水仕込みの地酒！名湯「湯之谷温泉」の癒やし
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">瀬戸内寒ブリ・極上伊予牛・名水仕込みの地酒！名湯「湯之谷温泉」の癒やし</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 冬の燧灘で揚がる脂の乗った旬の魚介と、とろけるような肉質の伊予牛。弘法大師空海開湯伝説の湯之谷温泉や瀬戸内海を一望する展望露天風呂で温まり、名水が醸す地酒とともに贅沢な一夜を過ごせます。
@@ -276,10 +266,8 @@ export default function Page() {
 
             {/* アクセス・気候・おすすめ服装 */}
             <div className="bg-cyan-50/60 border border-cyan-100 rounded-xl p-5 space-y-3 text-xs sm:text-sm text-stone-700">
-              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>アクセス・気候・おすすめの服装ガイド</span>
-              </h4>
+              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>アクセス・気候・おすすめの服装ガイド</span></h4>
               <pre className="font-sans whitespace-pre-line leading-relaxed text-stone-600 text-xs sm:text-sm">
                 【エリアへのアクセス】
 ・飛行機・松山空港から：松山空港より車・レンタカーで松山自動車道（いよ西条ICまたは新居浜IC経由）を利用し、新居浜・西条まで約1時間〜1時間15分。
@@ -299,9 +287,7 @@ export default function Page() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                新居浜・西条・石鎚山麓 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">新居浜・西条・石鎚山麓 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -316,9 +302,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第1位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      リーガロイヤルホテル新居浜
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">リーガロイヤルホテル新居浜</h3>
                     <p className="text-xs text-cyan-800 font-medium">新居浜駅前の格式あるシティホテル！上質なおもてなしと極上のディナーコース</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -382,9 +366,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第2位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテルルートイン新居浜
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテルルートイン新居浜</h3>
                     <p className="text-xs text-cyan-800 font-medium">新居浜IC近くの快適ロードサイドホテル！男女別大浴場と充実の無料朝食</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -448,9 +430,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第3位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      休暇村　瀬戸内東予
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">休暇村　瀬戸内東予</h3>
                     <p className="text-xs text-cyan-800 font-medium">瀬戸内海を一望する海岸高台のリゾート！パノラマ展望温泉露天と瀬戸内バイキング</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -514,9 +494,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第4位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      源泉かけ流しの宿　湯之谷温泉
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">源泉かけ流しの宿　湯之谷温泉</h3>
                     <p className="text-xs text-cyan-800 font-medium">開湯1300年の名湯・霊峰石鎚山の麓に湧く源泉かけ流しの秘湯旅館</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -580,9 +558,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第5位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      天然温泉　伊予の湯　スーパーホテル新居浜
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">天然温泉　伊予の湯　スーパーホテル新居浜</h3>
                     <p className="text-xs text-cyan-800 font-medium">天然温泉「伊予の湯」を完備！焼き立てパン朝食と快眠にこだわった高コスパホテル</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -645,9 +621,7 @@ export default function Page() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -670,37 +644,29 @@ export default function Page() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の新居浜・西条・石鎚山麓旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の新居浜・西条・石鎚山麓旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>冬期に別子銅山・東平（とうなる）へ行く際の注意点は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>冬期に別子銅山・東平（とうなる）へ行く際の注意点は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>東平へ至る山道（市道別子ライン）は道幅が狭く、12月〜2月の冬期は積雪や路面凍結が発生することがあります。マイカーでの通行には冬用タイヤ（スタッドレスまたはチェーン）が必要となる場合があります。道の駅「マインピア別子」から運行される定期観光バスツアーの利用が最も安全でおすすめです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>西条の「うちぬき」とはどのようなものですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>西条の「うちぬき」とはどのようなものですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>西条市内の平野部において、石鎚山系から浸透した清冽な地下水が鉄パイプを打ち込むだけで自然に自噴する井戸のことです。名水百選に選定されており、年間を通じて水温が約14℃前後と一定で、冬でもまろやかな名水を街中の自噴広場で自由に味わうことができます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>石鎚神社の新春初詣の見どころは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>石鎚神社の新春初詣の見どころは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>西条市西田に鎮座する本社（口之宮）は、荘厳な朱塗りの本殿と拝殿を備え、境内からは霊峰石鎚山の冠雪パノラマを遥拝できます。三が日には多くの参拝客で賑わい、招福の破魔矢や神矢を受ける人々で活気に満ちあふれます。
               </p>

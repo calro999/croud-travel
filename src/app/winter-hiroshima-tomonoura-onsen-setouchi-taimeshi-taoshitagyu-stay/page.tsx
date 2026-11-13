@@ -407,9 +407,7 @@ export default function HiroshimaTomonouraWinterPage() {
               <Landmark className="w-4 h-4 text-indigo-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              夕暮れの瀬戸内絶景と寒真鯛・峠下牛を味わう鞆の浦の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">夕暮れの瀬戸内絶景と寒真鯛・峠下牛を味わう鞆の浦の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -425,9 +423,7 @@ export default function HiroshimaTomonouraWinterPage() {
                       <span className="inline-block text-xs font-bold text-indigo-800 bg-indigo-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -471,9 +467,7 @@ export default function HiroshimaTomonouraWinterPage() {
 
                   {/* Highlights Bullet Points */}
                   <div className="space-y-1.5 pt-2">
-                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">
-                      この宿の初冬ステイおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">この宿の初冬ステイおすすめポイント</h4>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-stone-600">
                       {hotel.highlights.map((hl, hlIdx) => (
                         <li key={hlIdx} className="flex items-start gap-1.5">
@@ -513,35 +507,27 @@ export default function HiroshimaTomonouraWinterPage() {
             <Utensils className="w-4 h-4 text-sky-300" />
             初冬の鞆の浦美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の鞆の浦で味わい尽くす寒真鯛・峠下牛・伝統保命酒
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の鞆の浦で味わい尽くす寒真鯛・峠下牛・伝統保命酒</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-sky-400" />
-                越冬の脂が乗る「寒真鯛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-sky-400" />
+                越冬の脂が乗る「寒真鯛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 初冬の瀬戸内海で揉まれた真鯛は、脂乗りと身の締まりが最高潮に達します。土鍋でふっくら炊き上げる鯛めし、香ばしい皮目を味わう焼き霜造り、そして鯛の頭を甘辛く炊いた伝統の兜煮は現地ならではの贅沢です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-400" />
-                幻の黒毛和牛「峠下牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-sky-400" />
+                幻の黒毛和牛「峠下牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 広島県竹原の豊かな自然と清流で育てられる「峠下牛（たおしたぎゅう）」。雌牛のみを長期肥育することで、融点の低い上質な脂と赤身本来の深い甘みを実現。ステーキや陶板焼きでその芳醇な旨味が際立ちます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-sky-400" />
-                伝統薬味酒「保命酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-sky-400" />
+                伝統薬味酒「保命酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 江戸時代初期、大阪の医師・中村吉兵衛が鞆の浦で造り始めた薬味酒。十六種の和漢植物エキスが溶け込んだ自然な甘みとスパイシーな香りが特徴。冷え込む初冬の体を内側からポカポカと温めてくれます。
               </p>
@@ -555,17 +541,13 @@ export default function HiroshimaTomonouraWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の潮待ち港町と温泉を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の潮待ち港町と温泉を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-indigo-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-indigo-100 text-indigo-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：福山駅到着から古い町並み散策・夕暮れの仙酔島絶景と鯛料理宴
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                常夜燈と対潮楼を巡り、茜色に染まる海を眺めながら温泉と鯛づくし会席を満喫
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">常夜燈と対潮楼を巡り、茜色に染まる海を眺めながら温泉と鯛づくし会席を満喫</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 正午前に山陽新幹線福山駅に到着。駅前から路線バスで鞆の浦へ。まずは福禅寺「対潮楼」を訪れ、座敷から額縁のように広がる弁天島と仙酔島のパノラマに息を呑みます。名物の鯛茶漬けで昼食をとった後、江戸時代の面影を残す石畳の路地や保命酒の蔵元を散策。15時に温泉宿へチェックイン。ラジウム泉の露天風呂に浸かりながら、夕暮れの海が茜色から深い藍色へと移ろう絶景を鑑賞。夕食は寒真鯛の薄造り、鯛の兜煮、土鍋鯛めし、そして峠下牛ステーキに舌鼓を打ちます。
               </p>
@@ -575,9 +557,7 @@ export default function HiroshimaTomonouraWinterPage() {
               <div className="inline-block bg-indigo-100 text-indigo-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：常夜燈の静かな朝散歩・市営渡船でパワースポット仙酔島へ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                朝日に輝く港町の朝風呂を堪能し、五色岩が続く神秘の島で自然の息吹を感じる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">朝日に輝く港町の朝風呂を堪能し、五色岩が続く神秘の島で自然の息吹を感じる</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、観光客のいない静寂な港へ出かけ、朝日に照らされる常夜燈と石段の雁木を散歩。宿に戻って朝風呂に入り、鯛のアラで出汁をとった熱々の味噌汁と和朝食をいただきます。チェックアウト後、市営渡船「平成いろは丸」に乗ってわずか5分の仙酔島へ。日本で唯一といわれる「五色岩」が連なる海岸遊歩道を歩き、初冬の澄んだ瀬戸内海の風と自然のエネルギーをチャージ。鞆の浦に戻り、保命酒や鯛味噌のお土産を購入して帰路へ。
               </p>
@@ -591,25 +571,19 @@ export default function HiroshimaTomonouraWinterPage() {
             <Anchor className="w-4 h-4" />
             初冬の鞆の浦・おみやげ＆港町散策手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            歴史薫る港町で手に入れたい初冬の特産品と名物みやげ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">歴史薫る港町で手に入れたい初冬の特産品と名物みやげ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Wine className="w-4 h-4 text-indigo-600" />
-                伝統の保命酒蔵元めぐりと保命酒スイーツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Wine className="w-4 h-4 text-indigo-600" />
+                伝統の保命酒蔵元めぐりと保命酒スイーツ</h3>
               <p>
                 鞆の浦の古い町並みには、江戸時代から続く保命酒（ほうめいしゅ）の蔵元が現在も4軒残っています。重厚な格子戸の店先では、各蔵元ごとに微妙に異なる和漢薬草の風味や甘みの試飲ができ、お気に入りの一本を選ぶのが旅の楽しみ。また、保命酒の原酒を使ったパウンドケーキや保命酒飴、保命酒ジェラートなど、旅の途中に手軽に楽しめるご当地スイーツも豊富に揃っています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Waves className="w-4 h-4 text-indigo-600" />
-                名物「鯛味噌」と朝獲れ小魚の練り物「ガス天」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Waves className="w-4 h-4 text-indigo-600" />
+                名物「鯛味噌」と朝獲れ小魚の練り物「ガス天」</h3>
               <p>
                 鞆の浦の家庭で古くから愛されてきた「鯛味噌」は、ほぐした鯛の身を甘口の味噌とみりんでじっくり練り上げた逸品。熱々のご飯に乗せたり焼きおにぎりに塗ると香ばしい鯛の風味が広がります。さらに、瀬戸内海の小魚（ネブトなど）を骨ごとすり身にして揚げた名物「ガス天」や「鯛ちくわ」は、プリプリとした歯ごたえと魚本来の濃厚な旨味が詰まった最高のおつまみです。
               </p>
@@ -623,25 +597,19 @@ export default function HiroshimaTomonouraWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鞆の浦旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鞆の浦旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-600" />
-                温暖な瀬戸内気候と海風対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-600" />
+                温暖な瀬戸内気候と海風対策</h3>
               <p>
                 鞆の浦は冬でも比較的暖かく雪の心配はほとんどありませんが、海辺に面しているため夕方から朝にかけては冷たい海風が吹き抜けます。日中はセーターやジャケットで過ごせますが、朝夕の港散策や船のデッキでは風を通さないウィンドブレーカーやダウン、ストールが重宝します。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-indigo-600" />
-                新幹線福山駅からの公共交通アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-indigo-600" />
+                新幹線福山駅からの公共交通アクセス</h3>
               <p>
                 新幹線「のぞみ」や「さくら」が停車するJR福山駅南口から鞆鉄バスで約30分。日中は1時間に3〜4本運行しておりアクセスは極めて良好です。鞆の浦の歴史的町並みは道路が狭いため、車よりもバスでの移動がスムーズ。温泉街内は徒歩で隅々まで観光できます。
               </p>
@@ -655,16 +623,12 @@ export default function HiroshimaTomonouraWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鞆の浦温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鞆の浦温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-indigo-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-indigo-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -676,10 +640,8 @@ export default function HiroshimaTomonouraWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-sky-300" />
-              あわせて読みたい瀬戸内・山陽の冬海幸・温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-sky-300" />
+              あわせて読みたい瀬戸内・山陽の冬海幸・温泉特集</h3>
             <p className="text-xs sm:text-sm text-sky-200">
               冬の味覚と絶景オーシャンビュー露天風呂を堪能する厳選旅ガイド
             </p>
@@ -691,9 +653,7 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">広島・安芸宮島</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                厳島神社初冬夕暮れ＆極上焼き牡蠣・宮島温泉名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">厳島神社初冬夕暮れ＆極上焼き牡蠣・宮島温泉名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 大鳥居の荘厳な佇まいと旬を迎える大粒広島牡蠣、厳島神社ライトアップを満喫する旅。
               </p>
@@ -704,9 +664,7 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門海峡</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                鳴門海峡渦潮絶景＆鳴門真鯛・鳴門わかめ名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">鳴門海峡渦潮絶景＆鳴門真鯛・鳴門わかめ名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 鳴門海峡を望むオーシャンビュー展望露天風呂と、激流で引き締まった名物鳴門鯛を味わう冬旅。
               </p>
@@ -717,9 +675,7 @@ export default function HiroshimaTomonouraWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">岡山・美作三湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                湯原温泉 砂湯露天＆蒜山高原和牛・冬野菜名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">湯原温泉 砂湯露天＆蒜山高原和牛・冬野菜名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 西の横綱と称される天然自噴露天風呂「砂湯」と、初冬の蒜山高原・極上千屋牛を味わう秘湯旅。
               </p>

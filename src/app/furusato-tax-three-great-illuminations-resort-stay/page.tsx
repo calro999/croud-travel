@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          数百万から一千万球を超える光の海。寒さを忘れるほど幻想的なナイトエンターテインメントステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">数百万から一千万球を超える光の海。寒さを忘れるほど幻想的なナイトエンターテインメントステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              会場直結・徒歩圏内！閉園ギリギリまで光の世界をゆっくり鑑賞
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">会場直結・徒歩圏内！閉園ギリギリまで光の世界をゆっくり鑑賞</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               混雑する帰りの交通機関を気にせず、点灯の瞬間から消灯まで幻想的なイルミネーションをゆったりと満喫できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              冷え切った身体を芯から温める天然温泉＆展望サウナ完備
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">冷え切った身体を芯から温める天然温泉＆展望サウナ完備</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               冬の夜風で冷えた身体を、宿自慢の天然温泉露天風呂やサウナでじっくりと温め、極上のととのいとリラクゼーションを得られます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              パスポート付きプランや優先入場特典などふるさと納税でお得に活用
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">パスポート付きプランや優先入場特典などふるさと納税でお得に活用</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿泊代を最大30%オフのふるさと納税クーポンでセーブし、園内アトラクションやディナークルーズを豪華にアップグレードできます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="ashikaga_illumi" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                栃木県足利市ふるさと納税：500万球の奇跡「あしかがフラワーパーク 光の花の庭」と美肌温泉ステイ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">栃木県足利市ふるさと納税：500万球の奇跡「あしかがフラワーパーク 光の花の庭」と美肌温泉ステイ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 名木「奇跡の大藤」をはじめ園内全体が百花繚乱の光で埋め尽くされる足利。幻想的な藤棚イルミネーションに息をのんだ後は、天然温泉ホテルで足利シュウマイや佐野ラーメンなどご当地の味覚を楽しめます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市掘込町2460
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートイン第２足利ー国道50号沿ー
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン第２足利ー国道50号沿ー</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【朝食無料・大浴場完備・駐車場無料】あしかがフラワーパークや佐野プレミアムアウトレットへアクセス抜群
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市通1-2688-1　
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートイン足利駅前
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン足利駅前</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ＪＲ足利駅徒歩５分ビジネスや観光で是非ご利用くださいませ　あしかがフラワーパークまで電車で６分
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県足利市福富町2213-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　足利福富
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　足利福富</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     「日本一の足利三名所」の足利学校、あしかがフラワーパーク、鑁阿寺などに程近く、旅の宿泊拠点に最適♪
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="huistenbosch_illumi" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長崎県佐世保市ふるさと納税：世界最大1300万球「ハウステンボス光の王国」とオフィシャルホテル＆天然温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長崎県佐世保市ふるさと納税：世界最大1300万球「ハウステンボス光の王国」とオフィシャルホテル＆天然温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 ヨーロッパの街並みがそのまま光のキャンバスとなるハウステンボス。運河を流れる光の噴水ショーや巨大観覧車からの絶景パノラマを堪能し、パーク直営ホテルの極上フレンチと天然温泉に憩う至福の休日です。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市ハウステンボス町10
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルオークラＪＲハウステンボス
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオークラＪＲハウステンボス</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     スタッフのおもてなしに心和らぎ、天然温泉が疲れを癒す魅力あるリゾートホテルです。
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市ハウステンボス町6番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテル日航ハウステンボス
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル日航ハウステンボス</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ハウステンボスまでは徒歩３分♪花と緑に囲まれたリゾートホテル
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県佐世保市鹿子前町740
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルフラッグス佐世保九十九島
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルフラッグス佐世保九十九島</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">『the BEKKAN』リニューアル！長崎グルメ満載な朝食＆夕食ビュッフェ！
                   </p>
                   
@@ -434,9 +410,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="sapporo_illumi" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道札幌市ふるさと納税：雪と光が織りなす「さっぽろホワイトイルミネーション」と大通公園展望ホテル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道札幌市ふるさと納税：雪と光が織りなす「さっぽろホワイトイルミネーション」と大通公園展望ホテル</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本最初のイルミネーションとして昭和56年に始まった歴史ある祭典。大通公園の銀世界に輝く光のオブジェを眺め、北の味覚・毛ガニやジンギスカン、札幌味噌ラーメンに舌鼓を打つ極上の冬旅です。
               </p>
@@ -464,9 +438,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区北4条西13-1-53
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートイン札幌北四条
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン札幌北四条</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     駐車場38台完備！大浴場大好評♪
                   </p>
@@ -510,9 +482,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市北区北7条西4-2-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートイン　札幌駅前北口
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン　札幌駅前北口</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     札幌駅北口から徒歩1分■ＷＯＷＯＷ全室で無料視聴可■朝食無料サービス＆大浴場あり！
                   </p>
@@ -556,9 +526,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区南8条西6-289-193
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ビジネスホテルライン
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ビジネスホテルライン</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     宿泊者専用サウナ付浴場あり！便利なアクセス！ビジネスマン応援！
                   </p>
@@ -619,9 +587,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 長崎・神戸・函館の1000万ドル夜景ステイ。
               </p>
@@ -635,9 +601,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                冬の南国ぽかぽか避寒旅×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">冬の南国ぽかぽか避寒旅×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 沖縄・奄美・南紀白浜の常夏リゾート。
               </p>
@@ -651,9 +615,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三大星空・天体観測リゾート×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三大星空・天体観測リゾート×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 阿智村・八ヶ岳清里・鳥取大山の満天星空リゾート。
               </p>

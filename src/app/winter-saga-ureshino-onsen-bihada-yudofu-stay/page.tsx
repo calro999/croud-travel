@@ -259,10 +259,8 @@ export default function UreshinoWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三大美肌の湯＆名物とろける温泉湯豆腐・極上佐賀牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月嬉野温泉の日本三大美肌湯と冬情緒】<br className="hidden sm:inline" />
-            嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月嬉野温泉の日本三大美肌湯と冬情緒】<br className="hidden sm:inline" />
+            嬉野茶の香りと名物とろける温泉湯豆腐＆極上佐賀牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             神功皇后の伝説が息づく「日本三大美肌の湯」嬉野温泉。冬の寒さを優しく包むぬめりのある重曹泉。淡雪のようにとろける名物「嬉野温泉湯豆腐」と、香ばしい嬉野茶の茶香炉、そして最高峰A5ランク佐賀牛を味わう大人の九州冬旅。
           </p>
@@ -288,9 +286,7 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Three Great Skin Beautifying Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                「あな、うれしの」と神功皇后が喜んだ美肌の湯。初冬の茶香と至福の湯あみ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">「あな、うれしの」と神功皇后が喜んだ美肌の湯。初冬の茶香と至福の湯あみ</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -305,10 +301,8 @@ export default function UreshinoWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-700" />
-                11月・12月嬉野温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-700" />
+                11月・12月嬉野温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 名物とろける温泉湯豆腐・日本三大美肌湯のとろみ露天・嬉野茶香炉・極上A5佐賀牛ステーキ・西九州新幹線かもめ
               </p>
@@ -359,9 +353,7 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Skin Beautifying Secrets</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                日本三大美肌の湯の真髄：とろとろ重曹泉のスキンケア効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">日本三大美肌の湯の真髄：とろとろ重曹泉のスキンケア効果</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -380,9 +372,7 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Miraculous Hot Spring Tofu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                奇跡の郷土鍋「嬉野温泉湯豆腐」：淡雪のようにとろける秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">奇跡の郷土鍋「嬉野温泉湯豆腐」：淡雪のようにとろける秘密</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -402,9 +392,7 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Pottery Culture & Folklore</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                400年の歴史を紡ぐ「肥前吉田焼」と美肌の神使「白なまず様」の伝説
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">400年の歴史を紡ぐ「肥前吉田焼」と美肌の神使「白なまず様」の伝説</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -422,9 +410,7 @@ export default function UreshinoWinterPage() {
               <Flame className="w-3.5 h-3.5" />
               <span>Rakuten Travel Official API Verified Selection</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11・12月に泊まりたい嬉野温泉の名宿厳選5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい嬉野温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
               楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。日本三大美肌の湯と名物とろける温泉湯豆腐、最高峰A5佐賀牛を心ゆくまで堪能できる名宿5軒をご紹介します。
             </p>
@@ -464,9 +450,7 @@ export default function UreshinoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
                         「{hotel.special}」
@@ -478,10 +462,8 @@ export default function UreshinoWinterPage() {
 
                       {/* Highlights */}
                       <div className="space-y-2 bg-stone-50 p-4 rounded-2xl border border-stone-200/70 mb-5">
-                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide">
-                          <CheckCircle2 className="w-4 h-4 text-emerald-700" />
-                          冬の滞在おすすめポイント
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide"><CheckCircle2 className="w-4 h-4 text-emerald-700" />
+                          冬の滞在おすすめポイント</h4>
                         <ul className="text-xs text-stone-600 space-y-1.5 pl-1">
                           {hotel.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-1.5">
@@ -542,26 +524,20 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                佐賀冬の贅沢グルメ：最高峰A5佐賀牛と香り高き嬉野茶会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">佐賀冬の贅沢グルメ：最高峰A5佐賀牛と香り高き嬉野茶会席</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-700" />
-                全国屈指のブランド黒毛和牛「佐賀牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-700" />
+                全国屈指のブランド黒毛和牛「佐賀牛」</h3>
               <p className="leading-relaxed text-sm">
                 日本食肉格付協会の肉質等級5等級および4等級、BMS（霜降り度合い）7番以上の最高ランクのみに許される銘柄「佐賀牛」。穏やかな気候と良質な水、肥沃な佐賀平野で丹精込めて育てられた肉質は、艶やかな光沢ときめ細やかな「艶さし（つやさし）」が特徴です。熱を加えると上質な脂がとろけ出し、芳醇な香りとジューシーな甘みが口いっぱいに広がります。陶板焼きやしゃぶしゃぶでその極上の味を堪能できます。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-700" />
-                伝統の釜炒り茶「嬉野茶（うれしのちゃ）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-700" />
+                伝統の釜炒り茶「嬉野茶（うれしのちゃ）」</h3>
               <p className="leading-relaxed text-sm">
                 室町時代に中国から伝来したとされ、丸みを帯びた茶葉の形状から「玉緑茶（たまりょくちゃ）」としても親しまれる嬉野茶。霧深く昼夜の寒暖差が大きい嬉野の山あいで育つ茶葉は、豊かなコクと爽やかな香気が特徴です。冬の会席では、お茶の出汁で佐賀牛をくぐらせる「茶しゃぶ」や、茶葉の天ぷら、食後の淹れたて煎茶など、お茶処ならではの風雅な味覚を楽しめます。
               </p>
@@ -577,29 +553,21 @@ export default function UreshinoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：西九州新幹線で行く美肌の湯と足湯・お茶カフェ巡り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：西九州新幹線で行く美肌の湯と足湯・お茶カフェ巡り</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-emerald-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-wider">【1日目】かもめで快適アクセス〜温泉街散策と美肌の宿ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:30 西九州新幹線「かもめ」で嬉野温泉駅到着 → タクシーで温泉街へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:30 西九州新幹線「かもめ」で嬉野温泉駅到着 → タクシーで温泉街へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 博多から約1時間で到着。温泉街の有名食事処「宗庵 よこ長」で本場の元祖温泉湯豆腐ランチ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 シーボルトの湯＆豊玉姫神社で美肌祈願
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 シーボルトの湯＆豊玉姫神社で美肌祈願</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 大正ロマン風の公衆浴場「シーボルトの湯」を見学。美肌の神様として親しまれる豊玉姫神社の「白なまず様」にお参り。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 旅館へチェックイン → とろとろ重曹泉で至福の湯あみ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 旅館へチェックイン → とろとろ重曹泉で至福の湯あみ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本三大美肌の湯で肌をつるつるに磨き上げる。夕食は極上A5佐賀牛と旬の和会席に舌鼓。
               </p>
@@ -607,15 +575,11 @@ export default function UreshinoWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の温泉湯豆腐〜嬉野茶カフェと茶畑絶景へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝陽が差し込む露天風呂 → 宿自慢のとろける温泉湯豆腐朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝陽が差し込む露天風呂 → 宿自慢のとろける温泉湯豆腐朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の清々しい空気の中で露天風呂を満喫。熱々とろとろの嬉野温泉湯豆腐で身体を目覚めさせます。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 「茶心（ちゃしん）」カフェでお茶スイーツ＆肥前吉田焼の窯元巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 「茶心（ちゃしん）」カフェでお茶スイーツ＆肥前吉田焼の窯元巡り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 嬉野茶を使った抹茶パフェや煎茶をテイスティング。400年の歴史を持つ吉田焼の器をお土産に選び、嬉野温泉駅へ。
               </p>
@@ -638,10 +602,8 @@ export default function UreshinoWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -656,9 +618,7 @@ export default function UreshinoWinterPage() {
         <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州・西日本の冬・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州・西日本の冬・温泉特集</h2>
             <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed">
               11月・12月ならではの絶景や冬の美食を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

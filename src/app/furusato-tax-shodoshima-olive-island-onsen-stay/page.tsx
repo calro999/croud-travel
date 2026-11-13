@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            オリーブの風薫る瀬戸内の多島美と潮の満ち引きがつなぐエンジェルロード——天然温泉と島の豊かな恵みに癒やされる贅沢な島時間
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">オリーブの風薫る瀬戸内の多島美と潮の満ち引きがつなぐエンジェルロード——天然温泉と島の豊かな恵みに癒やされる贅沢な島時間</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             瀬戸内海で淡路島に次いで2番目に大きな島・香川県小豆郡小豆島。四方を穏やかな内海に囲まれ、温暖で雨の少ない地中海性気候を活かした「日本初・オリーブ栽培発祥の地」として知られています。干潮時だけに海の中から砂の道が現れる恋人の聖地「エンジェルロード」や、日本三大渓谷美に数えられる「寒霞渓（かんかけい）」のダイナミックな岩峰、400年の歴史を受け継ぐ醤油蔵や手延べそうめんなど、豊かな自然と伝統文化が息づいています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">香川県小豆島（小豆島町・土庄町）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  島宿真里＜小豆島＞
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">島宿真里＜小豆島＞</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   国の登録有形文化財に泊まる一日数組の隠れ宿！島伝統の醤油蔵文化を味わう伝説の「醤油会席」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  島宿 真里 —— 醤の郷の静寂に抱かれる珠玉の宿。自家源泉の温泉風呂と蔵仕込みの醤油が織りなす美食の極み
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">島宿 真里 —— 醤の郷の静寂に抱かれる珠玉の宿。自家源泉の温泉風呂と蔵仕込みの醤油が織りなす美食の極み</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 登録有形文化財に指定された歴史ある母屋と趣異なる客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">登録有形文化財に指定された歴史ある母屋と趣異なる客室</h5>
                     <p className="text-stone-600 leading-relaxed">梁や柱の温もりを活かした数寄屋の美。客室ごとに設えが異なり、自家源泉の湯を引いた専用風呂でゆったり寛げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自家製醤油や島のオリーブを贅沢に味わう名物「醤油会席」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自家製醤油や島のオリーブを贅沢に味わう名物「醤油会席」</h5>
                     <p className="text-stone-600 leading-relaxed">二段仕込み醤油や諸味など異なる醤油の風味を楽しむ極上ディナー。島の旬魚や野菜の旨味が極限まで引き出されます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 醤油樽の木を再利用した大浴場やプライベート貸切温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">醤油樽の木を再利用した大浴場やプライベート貸切温泉</h5>
                     <p className="text-stone-600 leading-relaxed">ほんのりと木の香りが漂う温泉空間。柔らかな単純温泉に浸かり、旅の疲れを優しく解き放てます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">香川県小豆島（小豆島町・土庄町）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">小豆島温泉　オリビアン小豆島　夕陽ヶ丘ホテル　＜小豆島＞</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   夕陽百選に選ばれる丘の上の絶景リゾート！天然温泉露天風呂と瀬戸内オリーブバイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  オリビアン小豆島 夕陽ヶ丘ホテル —— 瀬戸内海の多島美を見晴らす特等席。夕日と美肌温泉に包まれるリゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">オリビアン小豆島 夕陽ヶ丘ホテル —— 瀬戸内海の多島美を見晴らす特等席。夕日と美肌温泉に包まれるリゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 瀬戸内海と島々を茜色に染める夕日を望む天然温泉露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">瀬戸内海と島々を茜色に染める夕日を望む天然温泉露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">日本夕陽百選に選出された絶景。phの高いトロトロの美肌の湯に浸かりながら眺めるサンセットは圧巻です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> オリーブをふんだんに使った贅沢な和洋中ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">オリーブをふんだんに使った贅沢な和洋中ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">オリーブ牛や新鮮な海の幸、島野菜を味わうディナー。目の前で焼き上げるステーキや揚げたて天ぷらが人気です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 広大な敷地内でのテニスやミニゴルフ・ドッグラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">広大な敷地内でのテニスやミニゴルフ・ドッグラン</h5>
                     <p className="text-stone-600 leading-relaxed">充実のアウトドアアクティビティ。ペット同伴ルームも備え、家族みんなで自然を満喫できます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">香川県小豆島（小豆島町・土庄町）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ベイリゾートホテル小豆島
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ベイリゾートホテル小豆島</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室オーシャンビュー＆最上階展望温泉大浴場！オリーブ牛と瀬戸内の旬魚を味わう海辺のホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ベイリゾートホテル小豆島 —— 内海湾を一望するシーサイドリゾート。展望露天風呂と充実の貸切風呂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ベイリゾートホテル小豆島 —— 内海湾を一望するシーサイドリゾート。展望露天風呂と充実の貸切風呂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室の窓から穏やかな瀬戸内海の内海湾を一望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室の窓から穏やかな瀬戸内海の内海湾を一望</h5>
                     <p className="text-stone-600 leading-relaxed">朝日や夕暮れの海を部屋にいながら満喫。和室や和洋室など多彩な部屋タイプが揃っています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階12階に位置する展望露天風呂と5つの貸切温泉風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階12階に位置する展望露天風呂と5つの貸切温泉風呂</h5>
                     <p className="text-stone-600 leading-relaxed">海を見下ろすパノラマ温泉大浴場。プライベートに楽しめる貸切露天風呂も充実しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 小豆島名物「オリーブ牛」や地魚のお造りを味わう会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">小豆島名物「オリーブ牛」や地魚のお造りを味わう会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">柔らかく脂の甘いオリーブ牛ステーキや、新鮮な瀬戸内の旬魚。島の恵みを心ゆくまで堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 小豆島・エンジェルロード＆寒霞渓ロープウェイ・オリーブ公園観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 小豆島・エンジェルロード＆寒霞渓ロープウェイ・オリーブ公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                1日2回干潮時に現れる砂の道「エンジェルロード（天使の散歩道）」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                1日2回干潮時に現れる砂の道「エンジェルロード（天使の散歩道）」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 大切な人と手をつないで渡ると願いが叶うとされる恋人の聖地。弁天島と余島を結ぶ砂浜の道を潮風とともに歩く感動の体験です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                日本三大渓谷美「寒霞渓（かんかけい）」ロープウェイ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                日本三大渓谷美「寒霞渓（かんかけい）」ロープウェイ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 悠久の歳月が創り出した奇岩怪石の断崖絶壁。秋の紅葉、初夏の新緑の中をくぐり抜けるロープウェイからの瀬戸内海パノラマは息をのむ絶景です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                道の駅 小豆島オリーブ公園（白いギリシャ風車）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                道の駅 小豆島オリーブ公園（白いギリシャ風車）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 約2,000本のオリーブ畑とエーゲ海のような白い風車。魔法のほうきを借りてアニメの主人公のようにジャンプして写真を撮るのが人気です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              香川県小豆島町・土庄町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">香川県小豆島町・土庄町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】島宿真里＜小豆島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】島宿真里＜小豆島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と島宿真里＜小豆島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と島宿真里＜小豆島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

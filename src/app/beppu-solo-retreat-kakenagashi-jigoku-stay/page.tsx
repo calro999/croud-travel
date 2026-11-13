@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            湯煙たなびく鉄輪の町並みと、海と空が溶け合う別府湾の水平線——日本一の源泉力に身を委ねて魂をととのえる「別府温泉ひとり湯治」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">湯煙たなびく鉄輪の町並みと、海と空が溶け合う別府湾の水平線——日本一の源泉力に身を委ねて魂をととのえる「別府温泉ひとり湯治」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             毎分8万リットルを超える圧倒的な湧出量と、世界にある11の泉質のうち10種類が揃う奇跡の温泉都・大分県別府温泉。街のあちこちから立ち上る真っ白な湯煙、コバルトブルーや血の池のような色彩を放つ「地獄めぐり」、温泉の蒸気熱で野菜や魚介を蒸し上げる伝統の「地獄蒸し料理」、そして歴史ある市営の共同浴場巡りなど、温泉好きにとって生涯一度は訪れるべき聖地です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   観海寺温泉の高台に君臨する巨大温泉リゾート！別府湾と街並みを見下ろす大展望露天風呂「棚湯」
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府温泉 杉乃井ホテル —— 圧倒的なスケールと進化を続ける新館。海抜約250mの天空露天風呂と豪華ワールドビュッフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府温泉 杉乃井ホテル —— 圧倒的なスケールと進化を続ける新館。海抜約250mの天空露天風呂と豪華ワールドビュッフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全客室が源泉掛け流しの露天風呂付きオーシャンビュー！海と波の音に包まれる上質な海辺のリゾート
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  AMANE RESORT SEIKAI（潮騒の宿 晴海） —— 海抜0メートルのインフィニティ温泉。波打ち際のテラスとモダンデザイン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">AMANE RESORT SEIKAI（潮騒の宿 晴海） —— 海抜0メートルのインフィニティ温泉。波打ち際のテラスとモダンデザイン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   別府駅西口徒歩8分の閑静な高台！樹齢200年の楠が茂る庭園露天風呂と名物会席料理
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府温泉 ホテル白菊 —— 伝統とモダンが美しく調和する老舗宿。美肌の天然温泉と豊後牛・関アジ美食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府温泉 ホテル白菊 —— 伝統とモダンが美しく調和する老舗宿。美肌の天然温泉と豊後牛・関アジ美食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              別府温泉の「地獄めぐり＆共同浴場」を一人で味わい尽くす散策術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">別府温泉の「地獄めぐり＆共同浴場」を一人で味わい尽くす散策術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 鉄輪（かんなわ）温泉エリアの「地獄蒸し工房 鉄輪」で自炊体験
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 鉄輪（かんなわ）温泉エリアの「地獄蒸し工房 鉄輪」で自炊体験</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 温泉の蒸気釜を使って、持参または購入した卵、さつまいも、豚肉を蒸し上げる名物体験。塩分を含んだ温泉蒸気の自然な味付けが絶品です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 国指定名勝「海地獄」のコバルトブルーと極楽温室
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 国指定名勝「海地獄」のコバルトブルーと極楽温室</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 神秘的な青い湯面から立ち上る白い湯煙。温泉熱を利用した大鬼蓮（オオオニバス）の池など、ダイナミックな地球の息吹を体感できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 竹瓦温泉（たけがわらおんせん）の唐破風建築と砂湯体験
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 竹瓦温泉（たけがわらおんせん）の唐破風建築と砂湯体験</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 明治12年創設の別府のシンボル。温かい温泉砂を全身にかけてもらう「砂湯」でじっくり汗を流せば、老廃物が一気にデトックスされます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>大分空港から別府市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>大分空港から別府市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 大分空港から空港特急バス「エアライナー」が運行しており、別府駅前や別府北浜まで約45〜50分で直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>車がなくても別府の地獄めぐりは回れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>車がなくても別府の地獄めぐりは回れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 別府駅から亀の井バスの路線バスが頻発しており、鉄輪エリアや海地獄・血の池地獄へ簡単にアクセスできます。定期観光バス「別府地獄めぐりコース」を利用するのも便利です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別府温泉 杉乃井ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別府温泉 杉乃井ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

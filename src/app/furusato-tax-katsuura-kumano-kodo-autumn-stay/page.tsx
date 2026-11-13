@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              樹齢数百年の杉並木と錦秋の石畳！神仏宿る聖地・熊野と勝浦の生マグロ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">樹齢数百年の杉並木と錦秋の石畳！神仏宿る聖地・熊野と勝浦の生マグロ</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             紀伊山地の霊場と参詣道として世界遺産に登録される和歌山県・熊野。秋の絶景といえば、樹齢数百年の杉木立の間に苔むした石畳が続く「大門坂」から「熊野那智大社」「那智山青岸渡寺」へと至るルートです。10月下旬から11月中旬にかけて、落差133mを誇る日本一の名瀑「那智の滝」と三重塔を鮮やかな紅葉が包み込み、幽玄な美しさを放ちます。参詣の後は、太平洋の荒波が打ち寄せる天然の大洞窟温泉「忘帰洞」など個性豊かな源泉をめぐり、勝浦漁港で水揚げされた新鮮な生マグロや伊勢海老をふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                熊野古道・大門坂の石畳と那智の滝・三重塔紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                熊野古道・大門坂の石畳と那智の滝・三重塔紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 平安衣装をまとって歩く体験も人気の「大門坂」。朱塗りの那智山青岸渡寺三重塔と、真っ赤に染まる紅葉、豪快に流れ落ちる那智の滝が一枚の絵画のように重なる光景は圧巻です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                太平洋の荒波が迫る天然大洞窟露天風呂「忘帰洞」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                太平洋の荒波が迫る天然大洞窟露天風呂「忘帰洞」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 「帰るのを忘れるほど心地よい」と称された勝浦名物・忘帰洞。硫黄が香る白濁の源泉掛け流しに浸かりながら、眼前に広がる太平洋の絶景と潮騒を五感で楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                勝浦漁港直送！一度も凍らせない「生マグロ」会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                勝浦漁港直送！一度も凍らせない「生マグロ」会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 延縄漁法による生マグロの水揚げ日本一を誇る勝浦港。モチモチとした食感と濃厚な旨味の生マグロ食べ比べ、秋から冬にかけて旬を迎える伊勢海老や熊野牛の鉄板焼きを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.22 <span className="text-stone-400 text-xs">(6361件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    南紀勝浦温泉　ホテル浦島
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">南紀勝浦温泉　ホテル浦島</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 和歌山県東牟婁郡那智勝浦町勝浦1165-2 ｜ ＪＲ紀勢線　紀伊勝浦駅から徒歩6分で桟橋へ。更に専用ボート又は、シャトルバスで５分　詳しくは交通案内ページをご覧ください
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.41 <span className="text-stone-400 text-xs">(824件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 和歌山県東牟婁郡那智勝浦町勝浦448 ｜ JR「紀伊勝浦駅」より徒歩約7分／大阪から紀勢自動車道「すさみ南IC」経由で約3時間半
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.39 <span className="text-stone-400 text-xs">(630件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    勝浦温泉　休暇村　南紀勝浦
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">勝浦温泉　休暇村　南紀勝浦</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 和歌山県東牟婁郡那智勝浦町宇久井719 ｜ 送迎バス（要予約）
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】南紀勝浦温泉 ホテル浦島を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】南紀勝浦温泉 ホテル浦島を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と南紀勝浦温泉 ホテル浦島の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と南紀勝浦温泉 ホテル浦島の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

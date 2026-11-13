@@ -82,15 +82,12 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          国境の長いトンネルを抜けると雪国であった。名峰・谷川連峰のパノラマと本場の米・酒に酔いしれる湯沢の休日へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">国境の長いトンネルを抜けると雪国であった。名峰・谷川連峰のパノラマと本場の米・酒に酔いしれる湯沢の休日へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           ノーベル文学賞作家・川端康成の名作小説『雪国』の冒頭「国境の長いトンネルを抜けると雪国であった」の舞台として名高い、新潟県を代表する温泉郷「越後湯沢温泉（えちごゆざわおんせん）」。上越新幹線で東京駅から最速約70分という驚異的なアクセスの良さを誇りながら、冬は白銀のパウダースノーが山々を包み込み、春から秋には清々しい緑と澄んだ空気が広がる四季の彩り豊かな温泉地です。越後湯沢温泉のお湯は、無色透明でさらりとした肌あたりの単純温泉や弱アルカリ性低張性温泉。神経痛や冷え性に優れ、旅の疲れを芯から解きほぐしてくれます。雪見露天風呂に身を沈めながら、目の前に広がる谷川連峰の山並みを眺める時間はまさに至福のひととき。さらに越後湯沢の最大の醍醐味は、日本一の米どころ・酒どころが誇る圧倒的な美食文化です。炊き立てで艶やかに輝く本場「魚沼産コシヒカリ」の銀シャリ、清らかな雪解け水と伝統の杜氏技が醸し出す新潟の銘酒（八海山、鶴齢、上善如水など）の利き酒、そして日本海の荒波で育った新鮮な海の幸や山菜料理が、旅の満足度を最高潮に高めてくれます。本特集では、館内に二十八もの多彩な湯船が揃い最上階展望露天風呂「空の湯」が評判の「水が織りなす越後の宿 双葉」、広さ250坪の天然温泉大浴場と名門ニューオータニ伝統のフレンチ・和食が光るリゾート「NASPAニューオータニ」、そして駅西口徒歩2分の好立地で100％源泉掛け流し露天風呂が自慢の「越後のお宿 いなもと」の3宿を厳選。新潟県湯沢町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で越後湯沢温泉の極上旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">越後湯沢温泉 雪国名湯＆美酒名宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】越後湯沢温泉　水が織りなす越後の宿　双葉</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 越後湯沢温泉 雪国名湯＆美酒名宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">越後湯沢温泉 雪国名湯＆美酒名宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            越後湯沢温泉　水が織りなす越後の宿　双葉
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">越後湯沢温泉　水が織りなす越後の宿　双葉</h2>
           <p className="text-xs md:text-sm text-amber-100">新潟県湯沢町・館内に二十八の多彩なお風呂！最上階展望露天風呂「空の湯」＆本場魚沼産コシヒカリ・越後会席（水が織りなす越後の宿 双葉）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            越後湯沢温泉　ＮＡＳＰＡニューオータニ
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">越後湯沢温泉　ＮＡＳＰＡニューオータニ</h2>
           <p className="text-xs md:text-sm text-amber-100">新潟県湯沢町・JR越後湯沢駅より無料送迎3分！広さ250坪の天然温泉大浴場＆ニューオータニ伝統のフレンチと和会席（NASPAニューオータニ）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            越後湯沢温泉　越後のお宿　いなもと
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">越後湯沢温泉　越後のお宿　いなもと</h2>
           <p className="text-xs md:text-sm text-amber-100">新潟県湯沢町・JR越後湯沢駅西口より徒歩2分！純度100％源泉掛け流しの大浴場＆露天風呂と越後郷土料理が愛される老舗宿（いなもと）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoEchigoYuzawaOnsenStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

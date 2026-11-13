@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、余呉湖・長浜湖北・賤ヶ岳を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、余呉湖・長浜湖北・賤ヶ岳を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -204,9 +202,7 @@ export default function FeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              余呉湖・長浜湖北・賤ヶ岳 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">余呉湖・長浜湖北・賤ヶ岳 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -236,9 +232,7 @@ export default function FeaturePage() {
                         <span>4.26</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      ＹＡＭＡＴＯ　ＴＨＥ　ＳＥＡＳＯＮＳ　須賀谷温泉
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">ＹＡＭＡＴＯ　ＴＨＥ　ＳＥＡＳＯＮＳ　須賀谷温泉</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>浅井長政の居城であった小谷城の麓、山あいの静寂に佇む歴史ある名旅館。お市の方が湯治に訪れたと伝わる源泉は、空気に触れると赤褐色に変化する特異な含鉄炭酸泉で、浸かれば肌をじんわりと包み込み湯冷めしにくい極上の泉質を誇ります。</p>
                       <p>冬の夕食には、滋賀が誇る最高級A5ランク近江牛のすき焼きや陶板焼きに加え、湖北の伝統である冬限定の真鴨鍋を堪能できる会席プランが大好評。雪化粧した庭園を眺めながら、心静かに歴史と美食に浸る極上のひとときを過ごせます。</p>
@@ -298,9 +292,7 @@ export default function FeaturePage() {
                         <span>5.00</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      しずがたけ光明石之湯　想古亭　げんない
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">しずがたけ光明石之湯　想古亭　げんない</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>賤ヶ岳の緑豊かな麓、余呉湖と琵琶湖を分ける丘陵地に佇む静かな料理旅館。わずか数室の客室はそれぞれ意匠が異なり、都会の喧騒から完全に隔絶された大人のプライベートな時間を約束します。お風呂は肌に優しい光明石温泉で、旅の疲れをやさしく解きほぐしてくれます。</p>
                       <p>宿の真骨頂は、店主が腕を振るう冬の料理。厳選された天然真鴨を特製の秘伝出汁で味わう鴨鍋や、芳醇な近江牛、余呉湖のワカサギなど、湖北の旬を極めた滋味あふれる料理が並びます。</p>
@@ -355,9 +347,7 @@ export default function FeaturePage() {
                         <span>4.75</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      尾上　旅館　うをよし
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">尾上　旅館　うをよし</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>琵琶湖の北東岸、尾上（おのえ）漁港のすぐ目の前に位置するアットホームな老舗料理旅館。宿の窓からは冬の青く澄んだ琵琶湖と竹生島が一望でき、夕暮れ時には息を呑むような夕焼けが広がります。冬になると全国からリピーターが訪れる名物が、店主こだわりの「天然鴨すき鍋」。</p>
                       <p>丁寧に引いた出汁と新鮮な真鴨の脂、地元産白ネギの甘みが織りなすハーモニーは絶品そのもの。ビワマスや鮒ずしなど琵琶湖特有の湖魚料理も合わせて楽しめます。</p>
@@ -412,9 +402,7 @@ export default function FeaturePage() {
                         <span>4.60</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      レジーナリゾートびわ湖長浜
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">レジーナリゾートびわ湖長浜</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>豊臣秀吉ゆかりの長浜城下、琵琶湖のほとりに建つ上質なリゾートホテル。全客室が広々としたレイクビューとなっており、愛犬と一緒に贅沢なホテルステイが楽しめる設備も完備。館内には長浜太閤温泉が引かれ、鉄分を含んだ褐色の名湯で身体を温めることができます。</p>
                       <p>夕食は四季の彩りを映した本格的な和食会席。近江牛を贅沢に使った肉料理や、冬の北陸・近江の旬魚を洗練されたプレゼンテーションで楽しめ、夫婦やファミリーでの記念日旅行にも最適です。</p>
@@ -474,9 +462,7 @@ export default function FeaturePage() {
                         <span>4.78</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>長浜港のすぐ隣、琵琶湖をパノラマで一望する絶景の地に佇む老舗料亭旅館。館内に足を踏み入れると、数寄屋造りの格調高い和の空間と洗練されたもてなしが出迎えてくれます。</p>
                       <p>自慢の露天風呂からは、冬の澄んだ湖面と遠く比良山系の雪景色を一望。夕食は老舗料亭の伝統が息づく四季の会席料理で、とろけるような近江牛のしゃぶしゃぶやすき焼き、湖北の伝統食材を美しく仕立てた逸品が並び、上質な大人の贅沢ステイを叶えてくれます。</p>
@@ -521,9 +507,7 @@ export default function FeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  滋賀県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">滋賀県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -542,18 +526,14 @@ export default function FeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の余呉湖・長浜湖北・賤ヶ岳旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の余呉湖・長浜湖北・賤ヶ岳旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>余呉湖でのワカサギ釣りは初心者や観光客でも手ぶらで楽しめますか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>余呉湖でのワカサギ釣りは初心者や観光客でも手ぶらで楽しめますか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 はい、余呉湖の川並桟橋には管理事務所があり、竿や仕掛けのレンタル、エサの販売が行われているため、手ぶらで訪れても気軽にワカサギ釣りを体験できます。足場がしっかりした桟橋ですのでファミリーやカップルでも安心ですが、湖上の風は非常に冷たいため防寒対策（防寒着・カイロ）を万全にしてお出かけください。
               </p>
@@ -561,10 +541,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>湖北の「天然真鴨鍋」と一般的な合鴨鍋の違いは何ですか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>湖北の「天然真鴨鍋」と一般的な合鴨鍋の違いは何ですか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 合鴨（アヒルと鴨の交配種）に比べ、冬の自然の中で飛び交い越冬する野生の「天然真鴨」は、赤身の味が非常に濃厚で鉄分と旨味が凝縮されており、脂身が驚くほど甘くしつこさが全くありません。湖北地方では11月15日の狩猟解禁から2月頃までのみ味わえる冬限定の最高級の味覚です。
               </p>
@@ -572,10 +550,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>雪道運転が不安ですが、電車と送迎バスだけでも宿泊・観光できますか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>雪道運転が不安ですが、電車と送迎バスだけでも宿泊・観光できますか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 十分に可能です。JR北陸本線の新快速を利用すれば乗り換えなしでアクセスでき、須賀谷温泉や浜湖月など湖北の主要旅館では最寄り駅（河毛駅や長浜駅）からの無料送迎サービスを提供しています。余呉湖畔もJR余呉駅から徒歩圏内ですので、公共交通機関のみでも快適に冬の旅を満喫できます。
               </p>

@@ -406,9 +406,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <Landmark className="w-4 h-4 text-red-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              とろとろ美肌ぬる湯と熊本あか牛・極上馬刺しを堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">とろとろ美肌ぬる湯と熊本あか牛・極上馬刺しを堪能する名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -424,9 +422,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
                       <span className="inline-block text-xs font-bold text-red-800 bg-red-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -506,17 +502,13 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <Compass className="w-4 h-4 text-red-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              新玉名・熊本から行く！八千代座と平山美肌ぬる湯の至福周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">新玉名・熊本から行く！八千代座と平山美肌ぬる湯の至福周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【1日目】新玉名駅から山鹿へ＆八千代座とさくら湯
-              </h3>
+              <h3 className="font-bold text-red-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【1日目】新玉名駅から山鹿へ＆八千代座とさくら湯</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -546,10 +538,8 @@ export default function KumamotoYamagaHirayamaWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【2日目】平山温泉ぬる湯ハシゴ＆山鹿灯籠民芸館
-              </h3>
+              <h3 className="font-bold text-red-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【2日目】平山温泉ぬる湯ハシゴ＆山鹿灯籠民芸館</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -583,27 +573,21 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-red-800" />
               初冬の山鹿・平山・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              豊前街道と里山で手に入れたい初冬の肥後銘品＆立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">豊前街道と里山で手に入れたい初冬の肥後銘品＆立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-red-700" />
-                国指定伝統工芸・山鹿灯籠もなかと銘菓「山鹿羊羹」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-red-700" />
+                国指定伝統工芸・山鹿灯籠もなかと銘菓「山鹿羊羹」</h3>
               <p>
                 豊前街道沿いの老舗和菓子処には、頭に載せる金灯籠の優美な形をかたどった「山鹿灯籠もなか」が並びます。香ばしい皮と北海道産小豆の粒餡が絶妙。また、薄い求肥餅でこし餡をくるんだ昔ながらの素朴な「山鹿羊羹」は、日持ちは短いものの出来立ての柔らかな食感が旅人に愛され続けています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-red-700" />
-                平山温泉の源泉ミスト化粧水と水辺プラザかもとの温泉パン
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-red-700" />
+                平山温泉の源泉ミスト化粧水と水辺プラザかもとの温泉パン</h3>
               <p>
                 平山温泉街の各旅館や売店では、pH9.8超の濃厚な強アルカリ性硫黄源泉をそのままボトリングした「平山温泉ミスト化粧水」が大人気。防腐剤無添加で敏感肌にも優しく、自宅でも極上ぬる湯の潤いを再現できます。また、車で10分の「道の駅 水辺プラザかもと」では、天然温泉水で仕込むふわふわの「温泉食パン」や米粉スイーツがお土産に好評です。
               </p>
@@ -618,27 +602,21 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <Shield className="w-4 h-4 text-red-800" />
               11月・12月の気候・服装・快適アクセス案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の山鹿・平山旅行のポイントと防寒・移動のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の山鹿・平山旅行のポイントと防寒・移動のコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-red-700" />
-                肥後内陸の朝晩冷え込みと日中の穏やかさ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-red-700" />
+                肥後内陸の朝晩冷え込みと日中の穏やかさ</h3>
               <p>
                 熊本県北部は盆地状の地形のため、11月下旬以降は朝晩の気温が3〜7℃前後まで冷え込み、菊池川沿いには深い朝霧が発生します。しかし日中は南国の暖かな日差しで14〜18℃まで上昇し、散策には非常に過ごしやすい気候です。脱ぎ着しやすい上着やカーディガンを用意し、夜の露天風呂や八千代座周辺の散策にはマフラーやストールを携帯すると安心です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-red-700" />
-                九州新幹線新玉名駅・新大牟田駅＆九州道アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-red-700" />
+                九州新幹線新玉名駅・新大牟田駅＆九州道アクセス</h3>
               <p>
                 遠方からは九州新幹線が極めて快適。「新玉名駅」または「新大牟田駅」から路線バスまたはタクシーで約25〜30分で山鹿温泉へアクセスできます。車の場合は九州自動車道「菊水IC」から約15分、福岡市内中心部からも高速道路利用で約75分と良好なアクセス。平山温泉へは山鹿温泉街から山あいの県道を車で約10〜15分で到着します。
               </p>
@@ -653,9 +631,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <Utensils className="w-4 h-4 text-red-800" />
               名物グルメ＆泉質の深掘り
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の山鹿・平山を彩る3大美食と奇跡のぬる湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の山鹿・平山を彩る3大美食と奇跡のぬる湯</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -698,18 +674,14 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               <HelpCircle className="w-4 h-4 text-red-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の山鹿温泉＆平山温泉旅行・よくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の山鹿温泉＆平山温泉旅行・よくある質問（FAQ）</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-red-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-red-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -721,9 +693,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
         {/* Internal Links / Related Features Section */}
         <section className="bg-gradient-to-br from-stone-100 to-red-50/50 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-base sm:text-lg font-bold text-stone-900">
-              熊本・九州エリアのあわせて読みたい人気温泉特集
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-stone-900">熊本・九州エリアのあわせて読みたい人気温泉特集</h3>
             <p className="text-xs sm:text-sm text-stone-600">
               山鹿・平山温泉とあわせて巡りたい、九州屈指の名湯と冬の美味特集をご紹介します。
             </p>
@@ -735,9 +705,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・黒川温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">
-                黒川温泉の湯あかりイルミネーションと入湯手形めぐり名宿
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">黒川温泉の湯あかりイルミネーションと入湯手形めぐり名宿</h4>
             </Link>
 
             <Link
@@ -745,9 +713,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・阿蘇内牧温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">
-                阿蘇カルデラの初冬絶景とあか牛丼・自家源泉かけ流し宿
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">阿蘇カルデラの初冬絶景とあか牛丼・自家源泉かけ流し宿</h4>
             </Link>
 
             <Link
@@ -755,9 +721,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">佐賀・嬉野温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">
-                日本三大美肌の湯ととろける温泉湯豆腐・極上佐賀牛ステイ
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">日本三大美肌の湯ととろける温泉湯豆腐・極上佐賀牛ステイ</h4>
             </Link>
 
             <Link
@@ -765,9 +729,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">大分・日田＆天瀬温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">
-                水郷ひたの初冬川霧と天領小江戸・玖珠川渓流露天とおおいた豊後牛
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">水郷ひたの初冬川霧と天領小江戸・玖珠川渓流露天とおおいた豊後牛</h4>
             </Link>
 
             <Link
@@ -775,9 +737,7 @@ export default function KumamotoYamagaHirayamaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-red-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-red-700 bg-red-50 px-2 py-0.5 rounded-md">熊本・杖立温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">
-                立ちのぼる湯煙とむし湯体験・肥後牛と昭和レトロ温泉街
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-red-700 transition line-clamp-2">立ちのぼる湯煙とむし湯体験・肥後牛と昭和レトロ温泉街</h4>
             </Link>
 
             <Link

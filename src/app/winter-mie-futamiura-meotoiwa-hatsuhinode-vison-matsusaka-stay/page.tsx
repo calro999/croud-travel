@@ -243,9 +243,7 @@ export default function Page() {
         {/* なぜ冬に訪れるべきかの3ポイント */}
         <section className="max-w-4xl mx-auto px-4 mb-14 space-y-4">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              この冬、二見浦・多気・伊勢を訪れるべき3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">この冬、二見浦・多気・伊勢を訪れるべき3つの理由</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               11月〜1月ならではの幻想的な光景、開運初詣、そして冬が一番美味しい旬の味覚
             </p>
@@ -257,9 +255,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   1
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  伊勢神宮参拝前の禊の聖地！二見浦「夫婦岩」の荘厳な新春初日の出と冬の満月
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">伊勢神宮参拝前の禊の聖地！二見浦「夫婦岩」の荘厳な新春初日の出と冬の満月</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 猿田彦大神を祀る二見興玉神社。大注連縄で固く結ばれた夫婦岩は、夫婦円満や良縁成就の最強パワースポット。冬は空気が冴え冴えと澄み、海から昇る朝日の光芒が夫婦岩を黄金色に染め上げる瞬間は息を呑む神々しさ。新年の始まりに心身を清める最高の聖地です。
@@ -271,9 +267,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   2
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  東京ドーム24個分！日本最大級の美食と癒やしのリゾート「VISON」と本草湯
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">東京ドーム24個分！日本最大級の美食と癒やしのリゾート「VISON」と本草湯</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 薬草学の知恵を現代に甦らせた「本草湯」では、季節の薬草湯に浸かりながら奥伊勢の山並みを望む極上の湯浴みが楽しめます。敷地内には有名パティシエのスイーツ、ミシュラン星付きシェフのレストラン、三重の地酒や発酵文化を体感できるショップが並び、知的好奇心と五感を満たします。
@@ -285,9 +279,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   3
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  肉の芸術品「極上松阪牛」と冬に甘みが極まる伊勢海老・的矢牡蠣の饗宴
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">肉の芸術品「極上松阪牛」と冬に甘みが極まる伊勢海老・的矢牡蠣の饗宴</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 きめ細やかなサシと芳醇な香りを放つ日本最高峰ブランド牛「松阪牛」。甘辛い割り下で焼き上げる本場のすき焼きは至福の味わい。さらに冬の海が育む伊勢海老の弾力ある甘み、生でも焼きでも濃厚な旨味が弾ける的矢牡蠣など、伊勢志摩の豊かな自然が育んだ冬の味覚を心ゆくまで堪能できます。
@@ -301,9 +293,7 @@ export default function Page() {
           <div className="bg-cyan-950/5 border border-cyan-800/20 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-2">
               <Thermometer className="w-5 h-5 text-cyan-800" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                アクセス・気候・冬の服装ガイド
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">アクセス・気候・冬の服装ガイド</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line bg-white/70 p-5 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
@@ -323,9 +313,7 @@ export default function Page() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              二見浦・多気・伊勢 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">二見浦・多気・伊勢 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・立地に秀でた極上宿
             </p>
@@ -347,9 +335,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    上質の美味とおもてなし。オーシャンビューの宿　旅荘　海の蝶
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">上質の美味とおもてなし。オーシャンビューの宿　旅荘　海の蝶</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     伊勢湾を見渡すオーシャンフロントの贅沢宿・プライベートビーチと極上松阪牛
                   </p>
@@ -414,9 +400,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルヴィソン
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルヴィソン</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     VISON敷地内の高台に佇む次世代リゾート・山並みを望むテラスと本草湯
                   </p>
@@ -481,9 +465,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ジャズが流れる海辺のお宿　浜千代館
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ジャズが流れる海辺のお宿　浜千代館</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     二見浦海岸目の前の心地よい海辺宿・ジャズの音色と貸切風呂の温もり
                   </p>
@@ -548,9 +530,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルキャッスルイン伊勢夫婦岩（旧：ホテルリゾートイン二見）</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     二見浦の海を望む展望風呂と無料貸切風呂・夫婦岩観光の好拠点
                   </p>
@@ -615,9 +595,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     二見浦随一の歴史ある名湯「蘇民の湯」・伊勢湾一望の展望露天風呂
                   </p>
@@ -676,9 +654,7 @@ export default function Page() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -700,36 +676,28 @@ export default function Page() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の二見浦・多気・伊勢旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の二見浦・多気・伊勢旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>二見興玉神社の夫婦岩で「初日の出」を拝むためのおすすめスポットと時間は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>二見興玉神社の夫婦岩で「初日の出」を拝むためのおすすめスポットと時間は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 元旦の日の出時刻は午前6時55分〜7時00分頃です。夫婦岩の正面にある二見興玉神社境内や参道海岸沿いが定番のビュースポットです。冬期は太陽が夫婦岩の右側（南寄り）の水平線から昇り、茜色の朝焼けと夫婦岩のシルエットが美しく調和します。初日の出の時間帯は周辺駐車場が大変混雑するため、近隣の宿に宿泊して徒歩で向かうのが最も確実でおすすめです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>「VISON（ヴィソン）」を1日で効率よく楽しむためのポイントは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>「VISON（ヴィソン）」を1日で効率よく楽しむためのポイントは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 敷地が非常に広大なため、到着後はまず「マルシェ ヴィソン」で新鮮な地元食材やスイーツを巡り、午後は「サンセバスチャン通り」でバスク地方のバル文化を体験。夕方に「本草湯」で薬草温泉にゆっくり浸かり、夜は「和ヴィソン」で松阪牛や伊勢志摩の海鮮ディナーを味わう流れがスムーズです。敷地内巡回モビリティやバスも運行されています。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>「浜参宮」として二見浦にお参りしてから伊勢神宮へ向かう正式なルートは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>「浜参宮」として二見浦にお参りしてから伊勢神宮へ向かう正式なルートは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 古来の習わしでは、まず二見興玉神社でお祓い（無垢塩祓）を受け、身を清めてから伊勢神宮外宮、そして内宮へと参拝するのが正式な参宮ルートとされています。二見浦から伊勢神宮（外宮・内宮）へは車で15〜20分程度と近いため、朝一番に二見浦でお参りしてから伊勢神宮へ向かう行程が大変おすすめです。
               </p>
@@ -741,9 +709,7 @@ export default function Page() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/mie/"

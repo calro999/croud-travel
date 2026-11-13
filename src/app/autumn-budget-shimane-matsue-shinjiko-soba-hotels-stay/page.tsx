@@ -58,10 +58,8 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            水の都・松江の格安ステイ！浮いた予算で出雲そば割子と湖畔割烹を満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            水の都・松江の格安ステイ！浮いた予算で出雲そば割子と湖畔割烹を満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             国宝天守を擁する城下町・松江は、松江駅周辺から宍道湖畔にかけて源泉掛け流し温泉付きホテルやビジネス宿が充実。高級旅館街の松江しんじ湖温泉でも、お得な素泊まりプランを活用すれば3,000円台〜4,000円台で湖畔の温泉に浸かることができます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  松江アーバンホテルキュービックルーム
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">松江アーバンホテルキュービックルーム</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR松江駅北口より徒歩2分
@@ -151,9 +147,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  全室源泉温泉かけ流し　松江シティホテル本館
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">全室源泉温泉かけ流し　松江シティホテル本館</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   大橋川沿い / JR松江駅より徒歩10分
@@ -206,9 +200,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  松江しんじ湖温泉　ニューアーバンホテル本館・別館
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">松江しんじ湖温泉　ニューアーバンホテル本館・別館</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   一畑電車「松江しんじ湖温泉駅」より徒歩7分 / 松江城徒歩圏
@@ -261,9 +253,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ松江駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ松江駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR松江駅北口より徒歩2分
@@ -316,9 +306,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  松江エクセルホテル東急
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">松江エクセルホテル東急</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR松江駅北口正面より徒歩1分
@@ -353,10 +341,8 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の松江・宍道湖旅を格安に遊び尽くすポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の松江・宍道湖旅を格安に遊び尽くすポイント</h2>
           <ul className="space-y-2 text-sm text-teal-100/90 leading-relaxed">
             <li>・秋の宍道湖七珍（シジミ、スズキ、モロゲエビなど）を割烹や居酒屋で堪能し、シメには名物・出雲割子そばを注文。</li>
             <li>・日没の30分前には「とるぱ（宍道湖夕日スポット）」へ行き、嫁ヶ島と鳥居が夕陽にシルエットとなる絶景を鑑賞。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「松江・宍道湖：秋の宍道湖七珍・出雲そば＆国宝松江城！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetMatsueShinjikoHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 松江・宍道湖で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">松江・宍道湖で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

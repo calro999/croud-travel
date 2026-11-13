@@ -265,9 +265,7 @@ export default function KyotoOharaSanzeninPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の大原三千院が魅せる「静謐の極致」と里山の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の大原三千院が魅せる「静謐の極致」と里山の温もり</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               観光客の喧騒が消え去り、白雪と天台声明の静寂が包み込む大人の京都旅
             </p>
@@ -323,27 +321,21 @@ export default function KyotoOharaSanzeninPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              天台声明の聖地と、100年の伝承味噌が育む冬の里山文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">天台声明の聖地と、100年の伝承味噌が育む冬の里山文化</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-700" />
-                天台声明の響きと宝泉院「盤桓園」の額縁美学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-700" />
+                天台声明の響きと宝泉院「盤桓園」の額縁美学</h3>
               <p>
                 大原は平安時代初期、慈覚大師円仁によって天台声明（仏教の声楽曲）が伝えられた聖地です。声明の根本道場「勝林院」やその子院である「宝泉院」には、音が清らかに響く独特の空間が保たれています。宝泉院の庭園「盤桓園（ばんかんえん）」は「立ち去りがたい庭」を意味し、客殿の柱と鴨居を額縁に見立てて眺めることで、計算された遠近感と冬の山水画のような静寂の美が生まれます。雪が降る日に水琴窟の微かな滴の音に耳を傾けながらお抹茶をいただく体験は、古都の冬の静寂の象徴です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-700" />
-                100年続く伝承味噌と「京地鶏味噌鍋」・大原温泉の美肌湯
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-700" />
+                100年続く伝承味噌と「京地鶏味噌鍋」・大原温泉の美肌湯</h3>
               <p>
                 比叡山の清らかな伏流水と厳しい冬の寒暖差に恵まれた大原は、古くから無添加の味噌造りや柴漬けなどの発酵食文化が栄えてきました。100年以上受け継がれる木桶仕込みの希少味噌を贅沢に使った「京地鶏味噌鍋」は、引き締まった地鶏の旨みと冬根菜の甘みが味噌出汁に溶け合い、身体を芯から温めます。さらに2004年に湧出した「大原温泉」は、pH8.7前後の弱アルカリ性単純温泉で、肌の汚れをやさしく落とす美肌の湯。雪見の露天風呂に浸かりながら、心身ともに清められるひとときを過ごせます。
               </p>
@@ -355,9 +347,7 @@ export default function KyotoOharaSanzeninPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】大原三千院雪景色と宝泉院額縁庭園・地鶏味噌鍋を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】大原三千院雪景色と宝泉院額縁庭園・地鶏味噌鍋を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               京都市街の喧騒を離れ、白銀の洛北で古刹参拝と名物鍋料理・名湯を満喫する旅路。
             </p>
@@ -368,9 +358,7 @@ export default function KyotoOharaSanzeninPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:00 京都駅または国際会館からバスで大原へ ➔ 門前茶屋で熱々にしんそばランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:00 京都駅または国際会館からバスで大原へ  門前茶屋で熱々にしんそばランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JR京都駅または地下鉄烏丸線・国際会館駅から京都バスに乗車し、山間の雪景色を眺めながら大原バス停へ。門前の茶屋で名物の温かいにしんそばや甘酒で一息。冷え込んだ冬の空気に包まれながら、三千院の表参道へと歩みを進めます。
                 </p>
@@ -379,9 +367,7 @@ export default function KyotoOharaSanzeninPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 昼〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 三千院有清園の雪景色＆わらべ地蔵拝観 ➔ 宝泉院「額縁庭園」とお抹茶
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 三千院有清園の雪景色＆わらべ地蔵拝観  宝泉院「額縁庭園」とお抹茶</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   大原三千院へ参拝。白雪が積もる有清園の杉木立の中、雪帽子をかぶった愛らしい「わらべ地蔵」に心癒やされ、国宝往生極楽院で阿弥陀三尊像に合掌。続いて宝泉院へ向かい、柱を額縁に見立てた盤桓園の樹齢700年五葉松雪景色を眺めながら、温かいお抹茶と和菓子を味わいます。水琴窟の澄んだ響きに耳を傾け、心静かな時間を過ごします。
                 </p>
@@ -390,9 +376,7 @@ export default function KyotoOharaSanzeninPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 大原温泉の隠れ家宿へチェックイン ➔ 名物「京地鶏味噌鍋」と雪見露天
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 大原温泉の隠れ家宿へチェックイン  名物「京地鶏味噌鍋」と雪見露天</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   三千院門前のお宿芹生や味噌鍋本家の大原の里へチェックイン。弱アルカリ性の大原温泉雪見露天風呂に浸かり、身体の芯までぽかぽかに温まります。夕食は100年伝承の自家製味噌で仕込んだ熱々の「京地鶏味噌鍋」や草菜懐石。京都の銘酒とともに、静寂に包まれる洛北の冬夜を満喫します。
                 </p>
@@ -401,9 +385,7 @@ export default function KyotoOharaSanzeninPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 朝霧の里山散歩 ➔ 平家物語ゆかりの「寂光院」雪の石段参拝とお買い物
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 朝霧の里山散歩  平家物語ゆかりの「寂光院」雪の石段参拝とお買い物</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   朝風呂と大原野菜たっぷりの朝食を楽しんだ後、のどかな里山のあぜ道を歩いて建礼門院ゆかりの「寂光院」へ。雪化粧の風情ある石段を登り本堂を参拝。門前の漬物街道で名物の生志ば久や伝統味噌を買い求め、バスで京都駅方面へ戻り帰路へつきます。
                 </p>
@@ -416,9 +398,7 @@ export default function KyotoOharaSanzeninPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              大原三千院参拝と洛北の冬を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">大原三千院参拝と洛北の冬を満喫する厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               三千院門前の名門旅館から味噌鍋本家の民宿、洛北ラグジュアリーホテルまで
             </p>
@@ -442,9 +422,7 @@ export default function KyotoOharaSanzeninPage() {
                           厳選名宿
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-emerald-600 shrink-0" />
                         {hotel.access}
@@ -526,9 +504,7 @@ export default function KyotoOharaSanzeninPage() {
         <section className="bg-emerald-50/60 rounded-3xl p-6 sm:p-10 border border-emerald-200/80 space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs uppercase tracking-wider block">Winter Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の大原・洛北旅行で注意したい気候・服装・靴のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の大原・洛北旅行で注意したい気候・服装・靴のポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700">
@@ -568,20 +544,16 @@ export default function KyotoOharaSanzeninPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              大原三千院の冬参拝・味噌鍋に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">大原三千院の冬参拝・味噌鍋に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-emerald-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-emerald-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -594,9 +566,7 @@ export default function KyotoOharaSanzeninPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい京都・関西の冬景色・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい京都・関西の冬景色・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

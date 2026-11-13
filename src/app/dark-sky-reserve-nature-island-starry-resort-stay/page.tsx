@@ -125,9 +125,7 @@ export default function StargazingHubPage() {
                     🌌 {guide.timing}
                   </span>
                 </div>
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-indigo-950">
-                  {guide.title}
-                </h2>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-indigo-950">{guide.title}</h2>
                 <p className="text-xs md:text-sm text-stone-700 leading-relaxed font-medium">
                   {guide.desc}
                 </p>
@@ -153,9 +151,7 @@ export default function StargazingHubPage() {
               <div className="space-y-4 pt-4 border-t border-indigo-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base font-bold font-journal-serif text-indigo-950 flex items-center gap-2">
-                      <span>🏨</span> <span>{guide.title}におすすめの厳選宿</span>
-                    </h3>
+                    <h3 className="text-base font-bold font-journal-serif text-indigo-950 flex items-center gap-2"><span>{guide.title}におすすめの厳選宿</span></h3>
                   </div>
                   <span className="text-xs font-bold text-indigo-800 bg-indigo-50 border border-indigo-200 px-3 py-1 rounded-full">
                     星空展望宿
@@ -195,9 +191,7 @@ export default function StargazingHubPage() {
                               <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                             </div>
                           )}
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                            {hotel.hotelName}
-                          </h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h4>
                           {hotel.hotelSpecial && (
                             <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
                               {hotel.hotelSpecial}
@@ -232,9 +226,7 @@ export default function StargazingHubPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「国際星空保護区＆離島ネイチャーステイ：石垣島・西表島・神津島 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -313,9 +305,7 @@ export default function StargazingHubPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「国際星空保護区＆離島ネイチャーステイ」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「国際星空保護区＆離島ネイチャーステイ」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

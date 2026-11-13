@@ -265,9 +265,7 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              熱田の杜が放つ「神聖な静寂」と尾張名古屋の豪快な冬の美味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">熱田の杜が放つ「神聖な静寂」と尾張名古屋の豪快な冬の美味</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               三種の神器・草薙神剣が鎮まる開運の杜と、冬の食欲を刺激する伝統グルメの融合
             </p>
@@ -323,27 +321,21 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              草薙神剣の神秘と、尾張名古屋が誇る「極上名物」の真髄
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">草薙神剣の神秘と、尾張名古屋が誇る「極上名物」の真髄</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                熱田発祥「ひつまぶし」の完成された様式美と老舗のこだわり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                熱田発祥「ひつまぶし」の完成された様式美と老舗のこだわり</h3>
               <p>
                 「ひつまぶし」は明治時代、熱田の料亭「あつた蓬莱軒」で誕生したと伝えられます。出前時に器が割れないよう木のお櫃を使い、鰻を細かく刻んでご飯にまぶしたのが始まりです。備長炭の強火で外側をパリッと焼き上げ、中は蒸さずに地焼きすることで鰻本来の濃厚な脂の旨味を閉じ込めます。そのまま味わう一の膳、ネギやワサビと海苔を添える二の膳、熱々の上品な出汁を注ぐ三の膳と、三段階の味の変遷を楽しむ文化は、日本のうなぎ料理の最高峰として世界中の美食家を魅了し続けています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                日本三大地鶏「名古屋コーチン」の濃厚なコクと冬の鍋料理
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                日本三大地鶏「名古屋コーチン」の濃厚なコクと冬の鍋料理</h3>
               <p>
                 明治初期、元尾張藩士の手によって誕生した「純系名古屋コーチン」。一般的なブロイラーの約3倍もの日数をかけて平飼いでのびのびと育てられます。赤みを帯びた肉質は弾力に富み、噛めば噛むほどに芳醇なコクと旨味が溢れ出します。冬にはガラからじっくり引いた白濁スープで味わう「水炊き」や、尾張特産の八丁味噌で仕立てた「味噌すき鍋」が定番。冷えた冬の身体に活力を与える至高の地鶏グルメです。
               </p>
@@ -355,9 +347,7 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】熱田神宮新春参拝と本場ひつまぶし・名古屋城を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】熱田神宮新春参拝と本場ひつまぶし・名古屋城を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               新幹線アクセス抜群の名駅・金山を拠点に、開運初詣と名物グルメを制覇する冬の旅路。
             </p>
@@ -368,9 +358,7 @@ export default function AichiNagoyaAtsutaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:15 名古屋駅到着 ➔ 名鉄で神宮前駅へ＆あつた蓬莱軒の整理券確保
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:15 名古屋駅到着  名鉄で神宮前駅へ＆あつた蓬莱軒の整理券確保</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   東海道新幹線で名古屋駅へ到着後、名鉄特急でわずか6分の「神宮前駅」へ。まずは熱田神宮南門近くの名店「あつた蓬莱軒」へ向かい、店頭で整理券を確保。待ち時間を利用して、熱田神宮の神聖な境内へ足を踏み入れます。
                 </p>
@@ -379,9 +367,7 @@ export default function AichiNagoyaAtsutaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 昼〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 熱田神宮本宮開運祈願＆本場「ひつまぶし」の感動ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 熱田神宮本宮開運祈願＆本場「ひつまぶし」の感動ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   樹齢千年の大楠や織田信長寄進の信長塀を参拝し、本宮で新春の開運・厄除けを祈願。整理券の時間に合わせてあつた蓬莱軒へ戻り、備長炭でカリッと香ばしく焼き上げられた本場のひつまぶしを堪能。三段階のお茶漬け仕立てで味わう鰻の美味に心奪われます。
                 </p>
@@ -390,9 +376,7 @@ export default function AichiNagoyaAtsutaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 刀剣展示「草薙館」見学 ➔ 高層階ホテルチェックイン＆名古屋コーチン鍋
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 刀剣展示「草薙館」見学  高層階ホテルチェックイン＆名古屋コーチン鍋</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   名刀が並ぶ「草薙館」を見学した後、金山または名駅のホテルへチェックイン。高層階客室や大浴場で休息。夜は市内の名店で熱々の名古屋コーチン鍋を味わい、栄のオアシス21や名駅通りの煌めく冬イルミネーションを満喫します。
                 </p>
@@ -401,9 +385,7 @@ export default function AichiNagoyaAtsutaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:30 特別史跡「名古屋城」本丸御殿見学 ➔ 熱々味噌煮込みうどんランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:30 特別史跡「名古屋城」本丸御殿見学  熱々味噌煮込みうどんランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   ホテルで名古屋コーチン卵のこだわり朝食を楽しんだ後、地下鉄で名古屋城へ。冬の光に輝く金シャチと、豪華絢爛な「本丸御殿」の黄金障壁画を鑑賞。「金シャチ横丁」で熱々の味噌煮込みうどんをすすり、赤福やお土産を買い求めて新幹線で帰路へつきます。
                 </p>
@@ -416,9 +398,7 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              熱田神宮初詣と冬の名古屋を満喫する厳選ホテル5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">熱田神宮初詣と冬の名古屋を満喫する厳選ホテル5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               アクセス抜群の駅直結ホテルから老舗グランドホテル、天空の夜景宿まで
             </p>
@@ -442,9 +422,7 @@ export default function AichiNagoyaAtsutaPage() {
                           厳選名宿
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-amber-600 shrink-0" />
                         {hotel.access}
@@ -526,9 +504,7 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/80 space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs uppercase tracking-wider block">Winter Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の名古屋・熱田神宮旅行を快適に楽しむための注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の名古屋・熱田神宮旅行を快適に楽しむための注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700">
@@ -568,20 +544,16 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              熱田神宮初詣・ひつまぶしに関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">熱田神宮初詣・ひつまぶしに関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -594,9 +566,7 @@ export default function AichiNagoyaAtsutaPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい東海の冬景色・初詣・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい東海の冬景色・初詣・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

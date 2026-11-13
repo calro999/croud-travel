@@ -55,9 +55,7 @@ export default function SumatakyoAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            息を呑むエメラルドブルーの湖水とつり橋の中央で願う秋の奇跡
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">息を呑むエメラルドブルーの湖水とつり橋の中央で願う秋の奇跡</h2>
           <p className="mb-4 text-stone-700">
             南アルプスの渓谷深く位置する寸又峡。長さ90m、高さ8mの「夢の吊橋」は、微粒子が光を乱反射するチンダル現象によって驚くほど神秘的なエメラルドグリーンに染まります。秋になると渓谷全体が赤や黄色に染まり、湖水の青との対比は息を呑むほどの美しさ。「橋の真ん中で恋の願い事をすると叶う」というロマンチックな言い伝えでも有名です。
           </p>
@@ -69,10 +67,8 @@ export default function SumatakyoAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！寸又峡・川根温泉の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！寸又峡・川根温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function SumatakyoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.73</span>
                     <span className="text-stone-400 text-xs">(37件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    川根温泉ふれあいコテージ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">川根温泉ふれあいコテージ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 笹間渡駅 / 大井川鐵道 大井川本線 川根温泉笹間渡駅から徒歩２分
                   </p>
@@ -142,9 +136,7 @@ export default function SumatakyoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.65</span>
                     <span className="text-stone-400 text-xs">(690件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    大井川鐵道　川根温泉ホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">大井川鐵道　川根温泉ホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭・家山駅 / 新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分
                   </p>
@@ -189,9 +181,7 @@ export default function SumatakyoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.29</span>
                     <span className="text-stone-400 text-xs">(11件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    もりのくに
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">もりのくに</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭駅 / 千頭駅よりバスに乗車、 白沢温泉入り口で下車、徒歩10分
                   </p>
@@ -236,9 +226,7 @@ export default function SumatakyoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.22</span>
                     <span className="text-stone-400 text-xs">(999件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    翠紅苑
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">翠紅苑</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 千頭駅 / JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分
                   </p>
@@ -283,9 +271,7 @@ export default function SumatakyoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.86</span>
                     <span className="text-stone-400 text-xs">(178件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    民宿　奥大井
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">民宿　奥大井</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 奥泉駅 / 大井川鉄道千頭駅乗り換え井川線奥泉駅より徒歩5分／千頭駅より車で約１０分
                   </p>
@@ -330,9 +316,7 @@ export default function SumatakyoAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の寸又峡：夢の吊橋のエメラルド湖水と鮮烈な紅葉！美女づくりの湯を満喫するおすすめ秘境宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -384,9 +368,7 @@ export default function SumatakyoAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の寸又峡」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の寸又峡」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

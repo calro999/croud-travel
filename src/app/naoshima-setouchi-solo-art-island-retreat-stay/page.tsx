@@ -97,7 +97,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル</h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">本記事でご紹介する厳選ホテル</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. ベネッセハウス　＜直島＞（★4.82 / 最低目安：39,847円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. ＭＹ　ＬＯＤＧＥ　ｎａｏｓｈｉｍａ＜直島＞（★4.33 / 最低目安：13,400円〜）</a></li>
@@ -124,9 +124,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
               <span className="text-xs text-stone-500 font-medium">周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              ベネッセハウス　＜直島＞
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">ベネッセハウス　＜直島＞</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.82 <span className="text-xs text-stone-500 font-normal">（クチコミ 75件）</span>
@@ -156,7 +154,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>ベネッセハウスは美術館とホテルが一体となった施設です</span></li>
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>2022年には新ギャラリーもオープンしました</span></li>
@@ -192,9 +190,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第2位</span>
               <span className="text-xs text-stone-500 font-medium">周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              ＭＹ　ＬＯＤＧＥ　ｎａｏｓｈｉｍａ＜直島＞
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">ＭＹ　ＬＯＤＧＥ　ｎａｏｓｈｉｍａ＜直島＞</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.33 <span className="text-xs text-stone-500 font-normal">（クチコミ 22件）</span>
@@ -224,7 +220,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>全室瀬戸内海ビュー！無垢材の家具と天然素材のファブリックに囲まれたシンプルで居心地の良いホテルです</span></li>
               </ul>
@@ -259,9 +255,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第3位</span>
               <span className="text-xs text-stone-500 font-medium">宇野周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              ＵＮＯ　ＨＯＴＥＬ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">ＵＮＯ　ＨＯＴＥＬ</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.36 <span className="text-xs text-stone-500 font-normal">（クチコミ 175件）</span>
@@ -291,7 +285,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【直島・豊島アート巡りの観光で失敗したくない方】立地ならココ★直島行宇野港フェリー乗場から徒歩３分</span></li>
               </ul>
@@ -324,9 +318,7 @@ export default function ArticlePage() {
       {/* 現地滞在TIPS */}
       <section id="area-tips" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-white p-6 sm:p-8 rounded-2xl border border-stone-200 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">
-            <span>💡</span> 直島アート旅・高松港ステイを極める散策TIPS
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">直島アート旅・高松港ステイを極める散策TIPS</h2>
           <div className="grid sm:grid-cols-3 gap-6">
             <div className="space-y-2">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base">宿泊者限定！夜の「ベネッセハウス ミュージアム」貸切鑑賞</h3>
@@ -347,22 +339,18 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">滞在に関するよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>直島で一度は泊まるべき憧れのホテルはどこですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>直島で一度は泊まるべき憧れのホテルはどこですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「ベネッセハウス」は安藤忠雄氏が設計した美術館一体型ホテル。客室から瀬戸内海を一望でき、館内各所に現代アートが展示されています。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>直島フェリー乗り場に最も近くて便利な高松のホテルは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>直島フェリー乗り場に最も近くて便利な高松のホテルは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「ＪＲホテルクレメント高松」はJR高松駅・高松港フェリーターミナルに直結（徒歩約1分）。瀬戸内海の島々への拠点として抜群の利便性を誇ります。
               </p>
@@ -390,9 +378,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ベネッセハウス ＜直島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ベネッセハウス ＜直島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

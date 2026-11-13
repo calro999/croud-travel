@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            原生林の渓谷美と滾々と湧き出る名湯——札幌の奥座敷・定山渓で体験する五感を解き放つリトリート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">原生林の渓谷美と滾々と湧き出る名湯——札幌の奥座敷・定山渓で体験する五感を解き放つリトリート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北海道札幌市南区、都心部から車や直行バスで約1時間という好立地にありながら、支笏洞爺国立公園の雄大な大自然に抱かれた定山渓（じょうざんけい）温泉。慶応2年に修験僧・美泉定山（みいずみじょうざん）がアイヌの人々の案内で泉源を発見し、私財を投じて開いた歴史を持ちます。豊平川の清流が削り出した深い渓谷沿いに温泉街が広がり、春の新緑、夏の爽涼、秋の燃えるような紅葉、冬の白銀の雪景色と、四季折々の圧倒的な渓谷美が訪れる者を包み込みます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道札幌市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  定山渓温泉　定山渓第一寶亭留　翠山亭
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">定山渓温泉　定山渓第一寶亭留　翠山亭</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業から守り継ぐ自家源泉三本のブレンド湯！贅を尽くした客室展望風呂と職人技が光る炭火懐石
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  定山渓第一寶亭留 翠山亭（すいざんてい） —— 渓谷の静寂に抱かれる名門。濃厚な源泉掛け流しと上質な大人の時間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">定山渓第一寶亭留 翠山亭（すいざんてい） —— 渓谷の静寂に抱かれる名門。濃厚な源泉掛け流しと上質な大人の時間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する三本の自家源泉をブレンドした濃厚な名湯
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する三本の自家源泉をブレンドした濃厚な名湯</h5>
                     <p className="text-stone-600 leading-relaxed">濃厚な温泉成分をそのまま楽しめる大浴場や露天風呂。源泉掛け流しの客室風呂を備えた特別室では、24時間好きな時に贅沢な湯浴みが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ラウンジでのフリードリンクと自家製スイーツのおもてなし
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ラウンジでのフリードリンクと自家製スイーツのおもてなし</h5>
                     <p className="text-stone-600 leading-relaxed">宿泊者専用ラウンジでは、こだわりの珈琲やお茶、パティシエ特製のお菓子、夜にはアルコールが提供され、優雅な寛ぎの時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の旬魚と道産牛を炭火で香ばしく焼き上げる炭火会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の旬魚と道産牛を炭火で香ばしく焼き上げる炭火会席</h5>
                     <p className="text-stone-600 leading-relaxed">専用の食事処で料理人が目の前で炭火で焼き上げる極上の魚介や肉料理。炭の芳ばしい香りと素材本来の旨味が五感を刺激します。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道札幌市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  定山渓　ゆらく草庵（共立リゾート）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">定山渓　ゆらく草庵（共立リゾート）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室に天然温泉風呂を完備！豊平川の渓谷美を望む共立リゾート最高峰の純和風癒やしの宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  定山渓 ゆらく草庵 —— 全室畳敷きの和の温もり。客室の檜温泉風呂と四つの無料貸切露天風呂の贅
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">定山渓 ゆらく草庵 —— 全室畳敷きの和の温もり。客室の檜温泉風呂と四つの無料貸切露天風呂の贅</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室の窓辺に配された天然温泉が注ぐ客室風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室の窓辺に配された天然温泉が注ぐ客室風呂</h5>
                     <p className="text-stone-600 leading-relaxed">全室に天然温泉を楽しめる専用風呂を完備。渓谷の木々や雪景色を眺めながら、誰にも邪魔されないプライベートな湯浴みを満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 予約不要・無料で何度でも利用できる趣異なる四つの貸切露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">予約不要・無料で何度でも利用できる趣異なる四つの貸切露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">岩風呂や檜風呂など風情ある貸切風呂。大浴場の露天風呂とともに、館内だけで多彩な湯巡りを心ゆくまで楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の山海の幸を彩り豊かに仕立てた和食会席ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の山海の幸を彩り豊かに仕立てた和食会席ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">旬の味覚を散りばめた目にも鮮やかな会席料理。名物の「夜鳴きそば」サービスなど、共立リゾートならではの心憎いおもてなしも人気です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道札幌市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  定山渓鶴雅リゾートスパ森の謌
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">定山渓鶴雅リゾートスパ森の謌</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   森の物語を五感で楽しむリゾートスパ！大暖炉のラウンジと圧倒的クオリティを誇る森のビュッフェ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  定山渓 鶴雅リゾートスパ 森の謌（うた） —— 森に包まれるオアシス。巨大な樹木の暖炉と本格スパリゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">定山渓 鶴雅リゾートスパ 森の謌（うた） —— 森に包まれるオアシス。巨大な樹木の暖炉と本格スパリゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 巨大な木のオブジェと暖炉が印象的な森のラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">巨大な木のオブジェと暖炉が印象的な森のラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">靴を脱いで寛ぐ絨毯敷きのラウンジ。暖炉の炎を眺めながらハープの生演奏に耳を傾け、日常のストレスを優しく解き放てます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 緑豊かな森の空気を感じる露天風呂と本格サウナ・岩盤浴
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">緑豊かな森の空気を感じる露天風呂と本格サウナ・岩盤浴</h5>
                     <p className="text-stone-600 leading-relaxed">自然林に囲まれた開放感抜群の露天風呂。清潔でモダンな大浴場やスパトリートメントで、極上の癒やしを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 窯焼きピッツァやパティシエスイーツが並ぶ大人気ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">窯焼きピッツァやパティシエスイーツが並ぶ大人気ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">鶴雅グループが誇るハイレベルなビュッフェダイニング。オープンキッチンで焼き上げる肉料理や焼き立てパン、華やかなデザートがずらりと並びます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 定山渓温泉・豊平峡ダム＆二見吊橋観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 定山渓温泉・豊平峡ダム＆二見吊橋観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                豊平峡（ほうへいきょう）ダムの紅葉と電気バスツアー
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                豊平峡（ほうへいきょう）ダムの紅葉と電気バスツアー</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 「水源の森百選」にも選ばれる豊平峡。秋にはダム湖を取り囲む岸壁が一面赤や黄色に染まり、電気バスでトンネルを抜けた先に広がる大パノラマは北海道屈指の紅葉名所です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                二見吊橋（ふたみつりばし）と定山渓ネイチャールミナリエ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                二見吊橋（ふたみつりばし）と定山渓ネイチャールミナリエ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 豊平川の渓谷に架かる赤い吊橋。夏から秋にかけては光と映像が自然林を幻想的に彩るナイトウォーク「定山渓ネイチャールミナリエ」が開催されます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                定山源泉公園での足湯と「おんたま」作り体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                定山源泉公園での足湯と「おんたま」作り体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 美泉定山の生誕200年を記念して作られた公園。高温の源泉を利用して自分で温泉たまごを作ることができ、足湯に浸かりながら出来立てを味わえます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道札幌市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道札幌市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】定山渓温泉 定山渓第一寶亭留 翠山亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】定山渓温泉 定山渓第一寶亭留 翠山亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と定山渓温泉 定山渓第一寶亭留 翠山亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と定山渓温泉 定山渓第一寶亭留 翠山亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

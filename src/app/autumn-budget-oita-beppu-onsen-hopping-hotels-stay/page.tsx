@@ -55,9 +55,7 @@ export default function BeppuBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            湯量日本一の恵みを「低価格・素泊まり」で満喫する湯治スタイル
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">湯量日本一の恵みを「低価格・素泊まり」で満喫する湯治スタイル</h2>
           <p className="mb-4 text-stone-700">
             別府温泉郷（別府八湯）の魅力は、何と言っても圧倒的な湯量と泉質の多彩さ。市内には100円〜数百円で入れる共同浴場が点在し、宿に安く泊まって温泉街の湯めぐりを楽しむスタイルが古くから定着しています。
           </p>
@@ -69,10 +67,8 @@ export default function BeppuBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！別府温泉の格安名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！別府温泉の格安名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function BeppuBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.18</span>
                     <span className="text-stone-400 text-xs">(1271件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    別府温泉　ホテルニューツルタ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">別府温泉　ホテルニューツルタ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 大分駅 / ＪＲ別府駅より徒歩8分。別府ＩＣより車で約15分。駐車場先着順、入庫後21時間最大700円。全室ロビー無料Wi-fi
                   </p>
@@ -142,9 +136,7 @@ export default function BeppuBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.09</span>
                     <span className="text-stone-400 text-xs">(2392件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    別府温泉　別府ステーションホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">別府温泉　別府ステーションホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / ＪＲ別府駅が目の前（表玄関　東口）徒歩30秒
                   </p>
@@ -189,9 +181,7 @@ export default function BeppuBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.24</span>
                     <span className="text-stone-400 text-xs">(26件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    別府観光ホテルエース
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">別府観光ホテルエース</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / 別府ICから車で約１分、ＪＲ別府駅から車で約１２分、大分空港から車で約４０分
                   </p>
@@ -236,9 +226,7 @@ export default function BeppuBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.37</span>
                     <span className="text-stone-400 text-xs">(629件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    別府温泉　天空湯房　清海荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">別府温泉　天空湯房　清海荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / ＪＲ別府駅～徒歩１5分／別府ＩＣ～お車で１５分
                   </p>
@@ -283,9 +271,7 @@ export default function BeppuBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.49</span>
                     <span className="text-stone-400 text-xs">(237件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    別府温泉　ホテル三泉閣
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">別府温泉　ホテル三泉閣</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 別府（大分）駅 / JR別府駅より徒歩にて約10分（タクシーにて約3分）／別府国際観光港よりタクシーにて約6分／別府ICより車で約10分
                   </p>
@@ -330,9 +316,7 @@ export default function BeppuBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の別府温泉×格安：地獄めぐりと鶴見岳紅葉！源泉かけ流し1泊3,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function BeppuBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の別府温泉×格安」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の別府温泉×格安」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

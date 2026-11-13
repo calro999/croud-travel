@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            皮膚を強くし美肌をつくる強酸性の白濁湯——蔵王連峰の息吹と山形牛・郷土料理を味わう東北屈指の山岳温泉ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">皮膚を強くし美肌をつくる強酸性の白濁湯——蔵王連峰の息吹と山形牛・郷土料理を味わう東北屈指の山岳温泉ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山形県山形市、奥羽山脈の主峰・蔵王連峰の中腹標高約880メートルに位置する蔵王（ざおう）温泉。西暦110年、日本武尊の東征に従軍した吉備多賀由（きびのたかゆ）によって発見されたと伝わる、千九百年余の歴史を誇る日本屈指の古湯です。蔵王温泉の最大の特徴は、pH1.3〜1.6という日本トップクラスの強酸性を誇る含硫黄アルミニウム硫酸塩塩化物温泉。乳白色に濁る濃厚な湯は、高い殺菌作用と皮膚再生効果を持ち、「美人づくりの湯」「不老長寿の湯」として親しまれています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山形県山形市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  深山荘　高見屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">深山荘　高見屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業三百年余・享保年間から続く蔵王温泉最高峰の格式！総木造りの離れ湯屋と伝統の日本建築
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  深山荘 高見屋（たかみや） —— 歴史と格式を紡ぐ名門老舗。蔵王の自然湧出源泉を惜しみなく掛け流す至高の湯処
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">深山荘 高見屋（たかみや） —— 歴史と格式を紡ぐ名門老舗。蔵王の自然湧出源泉を惜しみなく掛け流す至高の湯処</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自然湧出する自家源泉を注ぐ総木造りの湯屋「せせらぎの湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自然湧出する自家源泉を注ぐ総木造りの湯屋「せせらぎの湯」</h5>
                     <p className="text-stone-600 leading-relaxed">釘を使わない伝統技法で組まれた美しい湯屋。乳白色の強酸性硫黄泉が掛け流され、ヒノキの香りと湯煙の中で極上の湯浴みが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和の情緒あふれる数寄屋造りの客室とアンティークの調度品
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和の情緒あふれる数寄屋造りの客室とアンティークの調度品</h5>
                     <p className="text-stone-600 leading-relaxed">文人墨客が愛した格式高い客室棟。静寂に包まれた空間で、日常を離れた大人の極上ステイを堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳選された山形牛ステーキや旬の山里会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">厳選された山形牛ステーキや旬の山里会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">料理人が丹精込めて仕立てる本格和会席。きめ細やかな霜降りの山形牛や清流魚、地元のきのこや山菜を優雅に味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山形県山形市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  蔵王温泉　蔵王国際ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">蔵王温泉　蔵王国際ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   木の温もりあふれる総木造り八右衛門の湯！乳白色掛け流しの天然温泉と山形牛すき焼きの贅沢リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  蔵王温泉 蔵王国際ホテル —— 木造建築の傑作大浴場。ゲレンデ直結の好立地と心温まるおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">蔵王温泉 蔵王国際ホテル —— 木造建築の傑作大浴場。ゲレンデ直結の好立地と心温まるおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 丸太の梁が組み上げられた総木造り大浴場「八右衛門の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">丸太の梁が組み上げられた総木造り大浴場「八右衛門の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">高い吹き抜け天井と木の香りが心地よい名物浴場。白濁した100％源泉掛け流しの湯船と露天風呂で至福のリラックスを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 蔵王温泉スキー場ゲレンデ直結の抜群のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">蔵王温泉スキー場ゲレンデ直結の抜群のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">冬はホテルからそのままゲレンデへ直行。春から秋にはトレッキングやロープウェイ観光の拠点として便利です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 山形牛のすき焼きやしゃぶしゃぶを味わう季節の創作和食会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">山形牛のすき焼きやしゃぶしゃぶを味わう季節の創作和食会席</h5>
                     <p className="text-stone-600 leading-relaxed">とろけるような山形牛の旨味を堪能できるディナーコース。地元の採れたて野菜や山形県産つや姫のご飯も絶品です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山形県山形市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  蔵王温泉　蔵王四季のホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">蔵王温泉　蔵王四季のホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   白樺林に囲まれた離れ湯「百八歩の湯」！乳白色の硫黄露天風呂と落ち着いた高原リゾートホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  蔵王温泉 蔵王四季のホテル —— 森林に抱かれる癒やしの館。離れ露天風呂と山形の恵み会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">蔵王温泉 蔵王四季のホテル —— 森林に抱かれる癒やしの館。離れ露天風呂と山形の恵み会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ホテルから百八歩歩いた白樺林の中に佇む離れ湯「百八歩の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ホテルから百八歩歩いた白樺林の中に佇む離れ湯「百八歩の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">木造りの風情ある独立した湯小屋。白濁した硫黄泉の露天風呂と内湯があり、森林浴をしながら名湯を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 館内大浴場「白樺の湯」には肌に優しい弱アルカリ性人工温泉も完備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">館内大浴場「白樺の湯」には肌に優しい弱アルカリ性人工温泉も完備</h5>
                     <p className="text-stone-600 leading-relaxed">酸性泉が苦手な方でも安心して入れる館内浴場。サウナも完備し、二つの異なる入浴体験が楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 山形牛の陶板焼きや郷土名物「芋煮」を取り入れた会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">山形牛の陶板焼きや郷土名物「芋煮」を取り入れた会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">山形ならではの滋味あふれる料理が並ぶ夕食。広々としたレストランでゆったりと食事を満喫できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 蔵王温泉・樹氷（スノーモンスター）＆御釜（おかま）観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 蔵王温泉・樹氷（スノーモンスター）＆御釜（おかま）観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                蔵王ロープウェイでの「樹氷（スノーモンスター）」観賞
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                蔵王ロープウェイでの「樹氷（スノーモンスター）」観賞</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 アオモリトドマツに過冷却水滴が吹き付けられてできる世界的奇観「樹氷」。山頂駅からの展望や、夜間の樹氷ライトアップ・ナイトクルーザー号ツアーが感動的です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                蔵王エコーラインとエメラルドグリーンの火口湖「御釜」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                蔵王エコーラインとエメラルドグリーンの火口湖「御釜」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 蔵王連峰のシンボルである円形の火口湖。太陽光の角度によってエメラルドグリーンに色を変える神秘的な「五色沼」の絶景を望めます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                蔵王温泉大露天風呂での大自然渓流湯浴み
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                蔵王温泉大露天風呂での大自然渓流湯浴み</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の奥、渓流沿いに造られた男女合わせて200名が入れる巨大露天風呂（春〜秋営業）。川のせせらぎと森林の緑に包まれながら開放感あふれる入浴が楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              山形県山形市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">山形県山形市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】深山荘 高見屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】深山荘 高見屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と深山荘 高見屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と深山荘 高見屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

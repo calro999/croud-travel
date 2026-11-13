@@ -266,10 +266,8 @@ export default function FukuokaChristmasPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の特選ガイド</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月福岡クリスマスアドベント】<br className="hidden sm:inline" />
-            博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月福岡クリスマスアドベント】<br className="hidden sm:inline" />
+            博多駅・天神の光の街と本場もつ鍋・水炊き極上宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             街全体が温かな光とホットワインの香りに包まれる冬の福岡。イルミネーションを満喫した後は、本場のもつ鍋や水炊きに舌鼓を打ち、極上の天然温泉付きホテルで芯から温まる贅沢な旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function FukuokaChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Introduction</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                光と美食が共鳴する、九州一華やかな冬の風物詩へようこそ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">光と美食が共鳴する、九州一華やかな冬の風物詩へようこそ</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function FukuokaChristmasPage() {
           </p>
           <div className="bg-rose-50/60 rounded-2xl p-5 border border-rose-200/60 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-rose-600" />
-                冬の博多ステイを最高にする秘訣
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-rose-600" />
+                冬の博多ステイを最高にする秘訣</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 屋外の光の祭典を楽しんだ後は、宿に大浴場や天然温泉があるかどうかが満足度を大きく左右します。
               </p>
@@ -332,9 +326,7 @@ export default function FukuokaChristmasPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Key Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の福岡博多旅で満喫すべき3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の福岡博多旅で満喫すべき3つの醍醐味</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function FukuokaChristmasPage() {
         <section id="hotel-list" className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">
-              福岡クリスマスアドベントを満喫する天然温泉・大浴場付き厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">福岡クリスマスアドベントを満喫する天然温泉・大浴場付き厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
               楽天トラベルの最新空室・料金データをもとに、アクセス・湯浴み・グルメ利便性に優れた5軒を厳選紹介。
             </p>
@@ -412,9 +402,7 @@ export default function FukuokaChristmasPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 mt-2 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-stone-400 shrink-0" />
@@ -423,10 +411,8 @@ export default function FukuokaChristmasPage() {
 
                       {/* Detailed Story & Deep Dive Review */}
                       <div className="mt-4 pt-4 border-t border-stone-100 space-y-3">
-                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Info className="w-4 h-4 text-rose-600" />
-                          宿の魅力と温泉・宿泊体験レビュー
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5"><Info className="w-4 h-4 text-rose-600" />
+                          宿の魅力と温泉・宿泊体験レビュー</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {hotel.story}
                         </p>
@@ -479,9 +465,7 @@ export default function FukuokaChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Comparison</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                厳選5ホテルの特徴・温泉・アクセス比較表
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">厳選5ホテルの特徴・温泉・アクセス比較表</h2>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -538,44 +522,34 @@ export default function FukuokaChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                現地編集部直伝！冬の博多・クリスマスアドベント満喫のコツとお土産
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">現地編集部直伝！冬の博多・クリスマスアドベント満喫のコツとお土産</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Coffee className="w-4 h-4 text-rose-600" />
-                会場間移動は地下鉄七隈線が圧倒的に便利！
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Coffee className="w-4 h-4 text-rose-600" />
+                会場間移動は地下鉄七隈線が圧倒的に便利！</h3>
               <p>
                 博多駅から天神南駅まで延伸された地下鉄七隈線を使えば、博多駅前広場会場から天神中央公園会場までわずか3分で移動可能。寒風の中を歩き続けることなく、複数のクリスマスマーケットをスムーズに梯子できます。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-rose-600" />
-                限定マグカップの持ち帰り用ビニール袋を持参
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-rose-600" />
+                限定マグカップの持ち帰り用ビニール袋を持参</h3>
               <p>
                 ホットワインを飲み終わったマグカップは、会場の洗い場で軽くすすぐことができますが、完全に乾かすのは難しいため、ジッパー付きのビニール袋やプチプチ（緩衝材）を持参しておくと、バッグを汚さず安全に持ち帰れます。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-600" />
-                中洲・天神の屋台めぐり初心者ルール
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-rose-600" />
+                中洲・天神の屋台めぐり初心者ルール</h3>
               <p>
                 冬の屋台は防寒用のビニールカーテンで覆われており、中は熱気で意外と暖か。長居は無粋とされるため、名物のおでんや焼きラーメン、一口餃子を2〜3品楽しんだら、次のお客さんに席を譲るのが粋な博多の屋台マナーです。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Award className="w-4 h-4 text-rose-600" />
-                冬に喜ばれる博多の鉄板お土産BEST3
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Award className="w-4 h-4 text-rose-600" />
+                冬に喜ばれる博多の鉄板お土産BEST3</h3>
               <p>
                 定番の「博多通りもん」はもちろん、冬限定のあまおう苺を使ったスイーツ、有名料亭（稚加榮やふくや）の「無着色辛子明太子」、ピリ辛がクセになる「めんべい」は、博多駅構内のマイングで全て揃います。
               </p>
@@ -587,9 +561,7 @@ export default function FukuokaChristmasPage() {
         <section className="bg-gradient-to-br from-rose-50/70 via-white to-stone-50 rounded-3xl p-6 sm:p-10 border border-rose-200/80 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Model Course</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              【1泊2日】光の街と冬グルメを味わい尽くす博多満喫モデルプラン
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">【1泊2日】光の街と冬グルメを味わい尽くす博多満喫モデルプラン</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               11月・12月ならではのイルミネーションと温かい名物グルメを最も効率よく巡るタイムスケジュール。
             </p>
@@ -664,9 +636,7 @@ export default function FukuokaChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の福岡・クリスマスアドベント旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の福岡・クリスマスアドベント旅行 よくある質問</h2>
             </div>
           </div>
 
@@ -721,9 +691,7 @@ export default function FukuokaChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Internal Links</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                九州エリアの宿・特集記事を探す
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">九州エリアの宿・特集記事を探す</h2>
             </div>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">

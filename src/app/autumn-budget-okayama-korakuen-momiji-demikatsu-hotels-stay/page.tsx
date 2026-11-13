@@ -58,10 +58,8 @@ export default function AutumnBudgetOkayamaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代2,000円台！浮いた予算で老舗洋食店のデミカツ丼＆高級フルーツパフェ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代2,000円台！浮いた予算で老舗洋食店のデミカツ丼＆高級フルーツパフェ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             山陽新幹線・四国方面への大ターミナルである岡山駅。駅前や表町商店街周辺にはハイクオリティでリーズナブルなビジネスホテルが集結しています。宿泊費を賢く2,000円〜4,000円台に抑えて、浮いた予算を元祖デミカツ丼の名店「味司 野村」や、岡山名物のばら寿司、旬のマスカットパフェに回すスマートな秋旅を楽しみましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              岡山スクエアホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">岡山スクエアホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岡山</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（素足リラックス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              岡山ビューホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">岡山ビューホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岡山</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（安心チェーン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アークホテル岡山　－ルートインホテルズ－
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アークホテル岡山　－ルートインホテルズ－</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岡山</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル　たちばな
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル　たちばな</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岡山</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（後楽園すぐ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルエクセル岡山＜後楽園・岡山城前＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエクセル岡山＜後楽園・岡山城前＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岡山</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetOkayamaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の岡山・後楽園散策の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の岡山・後楽園散策の満喫ポイント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             岡山後楽園の秋の夜間特別開園「秋の幻想庭園」は11月中旬〜下旬に開催。和傘のイルミネーションと紅葉が水鏡に映り込み息を呑む美しさです。路面電車（東山線・清輝橋線）を使えば市内の主要スポットをわずか140円で軽快に巡ることができます。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「岡山：後楽園・烏城の秋紅葉と名物デミカツ丼！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 岡山エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">岡山エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

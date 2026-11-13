@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、秩父・小鹿野・両神を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、秩父・小鹿野・両神を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -204,9 +202,7 @@ export default function FeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              秩父・小鹿野・両神 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">秩父・小鹿野・両神 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -236,9 +232,7 @@ export default function FeaturePage() {
                         <span>4.44</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      小鹿野温泉　香り豊かな花のおもてなし　須崎旅館
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">小鹿野温泉　香り豊かな花のおもてなし　須崎旅館</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>小鹿野の古き良き町並みに溶け込む、明治初年創業の歴史ある老舗旅館。女将の温かい笑顔と館内いっぱいに彩られた生花のおもてなしが旅人の心をほぐします。</p>
                       <p>敷地内にはとろみのある小鹿野温泉をたたえる大浴場のほか、趣ある貸切露天風呂も完備されており、冬の澄んだ星空を眺めながらの湯浴みは格別の贅沢。夕食には厳選された武州和牛のすき焼きや、地元農家の採れたて根菜を使った煮物、秩父名物のみそポテトなど、手作りの温もりが詰まった会席が並びます。</p>
@@ -298,9 +292,7 @@ export default function FeaturePage() {
                         <span>3.75</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      小鹿野温泉　越後屋旅館
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">小鹿野温泉　越後屋旅館</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>江戸時代から旅人を迎え続けてきた小鹿野宿の名宿。歴史を感じさせる重厚な梁や格子戸が随所に残り、まるでタイムスリップしたかのような静謐な時間が流れます。こちらの冬の名物といえば、代々受け継がれてきた特製ブレンド味噌でじっくり煮込む本場天然ぼたん鍋。</p>
                       <p>野性味あふれる猪肉の濃厚なコクとたっぷりの地元ネギやごぼうが絶妙に調和し、身体の芯から温まります。手入れの行き届いた温泉大浴場とともに、冬の奥秩父ならではの贅沢な逗留を約束してくれます。</p>
@@ -355,9 +347,7 @@ export default function FeaturePage() {
                         <span>4.29</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      両神温泉　国民宿舎　両神荘
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">両神温泉　国民宿舎　両神荘</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>名峰両神山の登山口近く、大自然の静寂に包まれた高台に位置する人気宿。最大の魅力は、国民保養温泉地にも指定された「両神温泉薬師の湯」。pH9.1を誇るアルカリ性温泉は石鹸のようなクレンジング効果があり、入浴後すぐに肌が滑らかになるのを実感できます。</p>
                       <p>露天風呂からは冬枯れの木立と奥秩父の山並みを一望。夕食は武州和牛の陶板焼きや地元産の手打ちそば、清流魚の塩焼きなど、滋味豊かな山の幸が満載でコストパフォーマンスの高さも抜群です。</p>
@@ -417,9 +407,7 @@ export default function FeaturePage() {
                         <span>4.70</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      二百年の農家屋敷　宮本家
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">二百年の農家屋敷　宮本家</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>江戸幕府の直轄地であった奥秩父に建つ、築約200年の重厚な農家屋敷を改装した個性豊かな名宿。当主は元幕内力士というユニークな経歴を持ち、囲炉裏端でいただく豪快な炭火焼き料理と秘伝の出汁で仕立てる本格ちゃんこ鍋、秩父の鹿肉料理は圧顔の美味しさです。</p>
                       <p>敷地内には蔵を改装した温泉風呂や五右衛門風呂など多彩なプライベート温泉があり、貸切でゆっくりと美肌湯を堪能可能。心身ともに温まる忘れられない冬の体験が待っています。</p>
@@ -479,9 +467,7 @@ export default function FeaturePage() {
                         <span>4.57</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      秩父七湯『御代の湯』　新木鉱泉旅館
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">秩父七湯『御代の湯』　新木鉱泉旅館</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>秩父盆地の東端、横瀬川のせせらぎ沿いに佇む創業文政十年の歴史を誇る名旅館。秩父七湯の中で最古の歴史を持つ自家源泉「御代の湯」は、ほのかな硫黄の香りととろりとした肌触りが特徴で、近郷近在から湯治客が集まる奇跡の美肌湯です。</p>
                       <p>総檜造りの大浴場や露天風呂に注がれる名湯で芯まで温まった後は、名物のすずらん鍋（きのこや旬菜と特製出汁の鍋）や武州和牛を盛り込んだ創作会席に舌鼓。静けさに包まれた老舗の風格が漂います。</p>
@@ -526,9 +512,7 @@ export default function FeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  埼玉県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">埼玉県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -547,18 +531,14 @@ export default function FeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の秩父・小鹿野・両神旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の秩父・小鹿野・両神旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>氷柱（三十槌・尾ノ内）の見学には車がないと行けませんか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>氷柱（三十槌・尾ノ内）の見学には車がないと行けませんか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 路線バスやツアーバスを利用して訪れることが可能です。三十槌の氷柱へは西武秩父駅から三峯神社行きの路線バスが運行しており、氷柱シーズン中には土休日を中心に臨時便や急行バスが増便されることがあります。尾ノ内氷柱へも小鹿野町営バスが運行しています。ただし本数が限られるため、事前に最新ダイヤをご確認ください。
               </p>
@@ -566,10 +546,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>小鹿野温泉の泉質や効能はどのような特徴がありますか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>小鹿野温泉の泉質や効能はどのような特徴がありますか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 小鹿野温泉（両神温泉や須崎旅館の源泉）は、pH9を超える高アルカリ性の単純温泉が多く、古い角質をやさしくオフして肌をすべすべにする美肌効果が特徴です。神経痛や冷え性、疲労回復にも効果があり、冬の冷え切った身体を温めるのに最適です。
               </p>
@@ -577,10 +555,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>冬の秩父・小鹿野ドライブで雪道対策は必要ですか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>冬の秩父・小鹿野ドライブで雪道対策は必要ですか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 はい、スタッドレスタイヤ（またはチェーン携行）を強く推奨します。降雪がない日でも、国道140号や国道299号の日陰部分、山間部の橋の上などは路面凍結（ブラックアイスバーン）が頻繁に発生します。特に早朝や夜間の移動には十分な車間距離と安全運転を心がけてください。
               </p>

@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の絶景特集・コキアカーニバル
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月見頃！国営ひたち海浜公園コキア紅葉】<br className="hidden sm:inline" />みはらしの丘と勝田・大洗の人気宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月見頃！国営ひたち海浜公園コキア紅葉】<br className="hidden sm:inline" />みはらしの丘と勝田・大洗の人気宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             丘一面が深紅に染まる国営ひたち海浜公園の秋！混雑を回避して朝一番に楽しむ駅前拠点から、太平洋の潮騒と海の幸に寛ぐ大洗の絶景宿まで、楽天API公式データを基に厳選紹介します。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              空の青と燃えるような紅のコントラスト。約4万本のコキアが描く秋の絶景パノラマ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">空の青と燃えるような紅のコントラスト。約4万本のコキアが描く秋の絶景パノラマ</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             茨城県ひたちなか市の「国営ひたち海浜公園」では、10月中旬から下旬にかけて「みはらしの丘」を約4万本のモコモコとしたコキアが真っ赤に染め上げます。丘の頂上からは太平洋の大海原と鮮烈な深紅の絨毯を一望でき、秋を代表する日本の絶景として多くの旅行者を惹きつけます。週末やピーク時は周辺道路が大変混雑するため、前泊して朝一番の澄んだ光の中で散策するのが快適に楽しむ秘訣です。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】コキア絶景と海の幸を満喫するおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】コキア絶景と海の幸を満喫するおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-red-500 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とひたちなか観光のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とひたちなか観光のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -262,9 +262,7 @@ export default function NaraHasederaOomiwaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-purple-600 pl-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              大和路の冬が誘う神聖な静寂、可憐な冬牡丹と日本最古の祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">大和路の冬が誘う神聖な静寂、可憐な冬牡丹と日本最古の祈り</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               雪化粧の登廊に咲く凛とした冬の花と、古代日本の原風景が広がる聖地巡礼
             </p>
@@ -320,9 +318,7 @@ export default function NaraHasederaOomiwaPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-purple-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】古代の祈りと冬牡丹・大和牛美食を巡る聖地黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】古代の祈りと冬牡丹・大和牛美食を巡る聖地黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               近鉄電車で京都・大阪から直通。神話の山裾と名刹を静かに巡る冬の休日。
             </p>
@@ -333,9 +329,7 @@ export default function NaraHasederaOomiwaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-purple-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-purple-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:45 三輪駅到着 ➔ 日本最古「大神神社」新春参拝＆熱々「三輪にゅうめん」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:45 三輪駅到着  日本最古「大神神社」新春参拝＆熱々「三輪にゅうめん」ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JR桜井線三輪駅へ到着。杉木立に囲まれた参道を歩き大神神社の拝殿へ。三ツ鳥居を通じてご神体の三輪山に祈りを捧げ、巳の神杉を参拝。門前の老舗茶屋で、冬限定の温かい出汁が染み渡る手延べ「三輪にゅうめん」と名物柿の葉すしを味わいます。
                 </p>
@@ -344,9 +338,7 @@ export default function NaraHasederaOomiwaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-purple-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-purple-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 橿原神宮の広大な神域を参拝 ➔ 長谷寺門前の温泉宿またはホテルへチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 橿原神宮の広大な神域を参拝  長谷寺門前の温泉宿またはホテルへチェックイン</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   近鉄電車で橿原神宮前へ。神武天皇を祀る壮大な外拝殿と畝傍山の冬景色を仰ぎ、新年の開運を祈願。午後は長谷寺門前の歴史ある温泉旅館や橿原のホテルへチェックイン。天然温泉やスカイスパの展望露天風呂で冷えた身体を芯から解きほぐします。
                 </p>
@@ -355,9 +347,7 @@ export default function NaraHasederaOomiwaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-purple-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-purple-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 伝統の銘柄牛「大和牛すき焼き」または名物「義経鍋」会席ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 伝統の銘柄牛「大和牛すき焼き」または名物「義経鍋」会席ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   宿自慢の夕食膳。きめ細やかなサシがとろける極上大和牛のすき焼き鍋や、兜型の鉄鍋で味わう多武峰名物の義経鍋を堪能。奈良の地酒「みむろ杉」や「春鹿」とともに、歴史の深みに抱かれる静かな冬の夜をゆったりと過ごします。
                 </p>
@@ -366,9 +356,7 @@ export default function NaraHasederaOomiwaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-purple-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-purple-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 花の御寺・長谷寺開門 ➔ 藁囲いの「冬牡丹」鑑賞＆国宝登廊・本堂舞台へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 花の御寺・長谷寺開門  藁囲いの「冬牡丹」鑑賞＆国宝登廊・本堂舞台へ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   朝の澄んだ光の中、長谷寺の仁王門へ。藁囲いの中で赤や白の大輪を咲かせる冬牡丹を愛でながら、399段の登廊を登りつめ国宝の本堂へ。舞台造りから見渡す白銀の初瀬渓谷を一望し、十一面観世音菩薩に参拝。門前町で名物の焼き立て草餅を味わい帰路へ。
                 </p>
@@ -381,27 +369,21 @@ export default function NaraHasederaOomiwaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              鎌倉時代から続く銘柄牛「大和牛」と、三輪手延べそうめんの歴史
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">鎌倉時代から続く銘柄牛「大和牛」と、三輪手延べそうめんの歴史</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-purple-700" />
-                歴史書にも名を残す幻の極上黒毛和牛「大和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-purple-700" />
+                歴史書にも名を残す幻の極上黒毛和牛「大和牛」</h3>
               <p>
                 大和牛の起源は鎌倉時代に遡り、名牛を描いた絵巻『国牛十図（こくぎゅうじゅうず）』にもその名が刻まれる歴史ある銘柄牛です。奈良の清らかな地下水と良質な飼料で丹精込めて育てられた肉質は、融点が低く上品な甘みを持つサシと、噛むほどに旨味が溢れる赤身のバランスが秀逸。寒い冬には、特製の割り下で吉野本葛や地元の大和野菜とともに煮立てるすき焼きが一番の贅沢です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Coffee className="w-4 h-4 text-purple-700" />
-                そうめん発祥の地・三輪が誇る冬の「温かいにゅうめん」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Coffee className="w-4 h-4 text-purple-700" />
+                そうめん発祥の地・三輪が誇る冬の「温かいにゅうめん」</h3>
               <p>
                 大神神社の周辺は、約1200年前の奈良時代に手延べそうめんが初めて作られた「そうめん発祥の地」。寒風が吹き下ろす冬に極細の手延べ製法で作られる三輪そうめんは、強いコシと小麦の豊かな風味が特徴です。冬には鰹と昆布の熱々出汁で仕立てる「にゅうめん」として親しまれ、柚子の皮や椎茸、生姜を添えて冷えた身体を芯から優しく温めてくれます。
               </p>
@@ -415,9 +397,7 @@ export default function NaraHasederaOomiwaPage() {
             <span className="text-purple-700 font-bold text-xs sm:text-sm tracking-wider uppercase block">
               Handpicked Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">
-              長谷寺冬牡丹＆大神神社・大和牛を愉しむ厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">長谷寺冬牡丹＆大神神社・大和牛を愉しむ厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
@@ -446,8 +426,7 @@ export default function NaraHasederaOomiwaPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group">
-                      <a 
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
                         rel="noopener noreferrer" 
@@ -455,8 +434,7 @@ export default function NaraHasederaOomiwaPage() {
                       >
                         {hotel.name}
                         <ExternalLink className="w-4 h-4 text-stone-400 group-hover:text-purple-700 inline" />
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-500 text-xs sm:text-sm flex items-center gap-1.5">
                       <MapPin className="w-4 h-4 text-purple-600 shrink-0" />
@@ -479,10 +457,8 @@ export default function NaraHasederaOomiwaPage() {
 
                   {/* Editorial Story */}
                   <div className="space-y-3 bg-stone-50/70 rounded-2xl p-4 sm:p-5 border border-stone-200/60">
-                    <h4 className="text-xs sm:text-sm font-bold text-purple-900 flex items-center gap-1.5">
-                      <Building className="w-4 h-4 text-purple-600" />
-                      宿の魅力と冬の滞在ストーリー
-                    </h4>
+                    <h4 className="text-xs sm:text-sm font-bold text-purple-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-purple-600" />
+                      宿の魅力と冬の滞在ストーリー</h4>
                     <p className="text-stone-700 text-xs sm:text-sm leading-relaxed">
                       {hotel.story}
                     </p>
@@ -540,9 +516,7 @@ export default function NaraHasederaOomiwaPage() {
         <section className="bg-purple-50/60 rounded-3xl p-6 sm:p-10 border border-purple-200/60 space-y-6">
           <div className="border-b border-purple-200/80 pb-4">
             <span className="text-purple-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-purple-950 font-serif">
-              長谷寺冬牡丹＆大神神社・橿原神宮を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-purple-950 font-serif">長谷寺冬牡丹＆大神神社・橿原神宮を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-purple-950">
@@ -582,20 +556,16 @@ export default function NaraHasederaOomiwaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-purple-600 pl-4">
             <span className="text-purple-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              長谷寺冬牡丹＆大神神社・大和牛グルメに関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">長谷寺冬牡丹＆大神神社・大和牛グルメに関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-purple-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-purple-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-purple-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -608,9 +578,7 @@ export default function NaraHasederaOomiwaPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい関西・全国の聖地・初詣・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい関西・全国の聖地・初詣・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

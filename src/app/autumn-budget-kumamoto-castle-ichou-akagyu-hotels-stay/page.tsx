@@ -58,10 +58,8 @@ export default function AutumnBudgetKumamotoHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代3,000円台！浮いた予算で阿蘇あか牛ステーキ＆極上霜降り馬刺しへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代3,000円台！浮いた予算で阿蘇あか牛ステーキ＆極上霜降り馬刺しへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             九州新幹線で博多からわずか30分〜40分の熊本。熊本城周辺や繁華街通りにはハイクオリティなホテルが多数競い合っており、3,000円台〜4,000円台で★4.0以上の良質ステイが手に入ります。浮かせた宿泊費で、老舗「勝烈亭」の厚切りとんかつや、桜町熊本の最新グルメエリアでの食べ歩きを贅沢に満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（城前立地）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アークホテル熊本城前　－ルートインホテルズ－
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アークホテル熊本城前　－ルートインホテルズ－</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>熊本</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（市場前格安）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              熊本市場前　ビジネス　クレナイホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">熊本市場前　ビジネス　クレナイホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>熊本</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（お洒落デザイン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ワン・ステーションホテル熊本（ＤＬＩＧＨＴ　ＬＩＦＥ　＆　ＨＯＴＥＬＳ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ワン・ステーションホテル熊本（ＤＬＩＧＨＴ　ＬＩＦＥ　＆　ＨＯＴＥＬＳ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>熊本</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価★4.48）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ベッセルホテル熊本空港
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ベッセルホテル熊本空港</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>肥後大津</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（名門ホテル★4.46）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              熊本ホテルキャッスル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">熊本ホテルキャッスル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>熊本</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetKumamotoHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の熊本城・阿蘇観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の熊本城・阿蘇観光を満喫するヒント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             熊本城の大イチョウの見頃は11月中旬〜下旬。天守閣最上階からの熊本市内パノラマビューも爽快です。路面電車（熊本市電）を使えば市内中心部を180円均一でスムーズに移動可能。夜は黒マー油の効いた熊本ラーメンをニンニクチップたっぷりで味わってください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「熊本：銀杏城の黄金イチョウと阿蘇あか牛！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「熊本」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「熊本」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

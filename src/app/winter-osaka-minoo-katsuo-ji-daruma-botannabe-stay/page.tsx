@@ -294,10 +294,8 @@ export default function OsakaMinooWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-rose-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の大阪・箕面旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-rose-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の大阪・箕面旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-rose-50/60 p-4 rounded-xl border border-rose-100">
                 <span className="font-bold text-rose-900 block mb-1">① 勝尾寺初詣＆勝ちダルマ</span>
@@ -322,9 +320,7 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-rose-600 pl-4">
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Spiritual Daruma & Waterfall</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                勝運の寺「勝尾寺」の勝ちダルマ初詣と日本の滝百選「箕面大滝」の冬静寂
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">勝運の寺「勝尾寺」の勝ちダルマ初詣と日本の滝百選「箕面大滝」の冬静寂</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -347,9 +343,7 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-500 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Winter Feast & Gourmet</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                狩猟解禁の冬が一番旨い！「能勢の天然猪鍋（ぼたん鍋）」と伝統「もみじの天ぷら」
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">狩猟解禁の冬が一番旨い！「能勢の天然猪鍋（ぼたん鍋）」と伝統「もみじの天ぷら」</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -372,9 +366,7 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-rose-600 pl-4">
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Recommended Accommodations</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                勝尾寺初詣と箕面大滝・天然ぼたん鍋を愉しむ厳選名宿5選
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">勝尾寺初詣と箕面大滝・天然ぼたん鍋を愉しむ厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
                 楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者レビューをリアルタイム取得して厳選紹介しています。
               </p>
@@ -399,9 +391,7 @@ export default function OsakaMinooWinterPage() {
                             {hotel.access.split('、')[0]}
                           </span>
                         </div>
-                        <h3 className="text-xl md:text-2xl font-bold text-slate-900">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl md:text-2xl font-bold text-slate-900">{hotel.name}</h3>
                       </div>
                       <div className="flex items-center gap-3">
                         <div className="text-right">
@@ -425,10 +415,8 @@ export default function OsakaMinooWinterPage() {
 
                     {/* Highlights */}
                     <div className="bg-slate-50 p-4 rounded-xl border border-slate-200/80">
-                      <h4 className="text-xs font-bold text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5">
-                        <Sparkles className="w-3.5 h-3.5 text-rose-600" />
-                        <span>この宿の特長・おすすめポイント</span>
-                      </h4>
+                      <h4 className="text-xs font-bold text-slate-700 uppercase tracking-wider mb-2 flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-rose-600" />
+                        <span>この宿の特長・おすすめポイント</span></h4>
                       <ul className="space-y-1.5">
                         {hotel.highlights.map((h, hIdx) => (
                           <li key={hIdx} className="text-xs md:text-sm text-slate-700 flex items-start gap-2">
@@ -479,9 +467,7 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-rose-600 pl-4">
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Itinerary Guide</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の箕面・能勢・池田を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の箕面・能勢・池田を満喫する1泊2日王道モデルコース</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-6">
@@ -518,9 +504,7 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-slate-600 pl-4">
               <span className="text-slate-600 font-bold text-sm tracking-wider uppercase">Travel Tips & Weather</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の箕面・能勢旅行の気候・服装とアクセスのアドバイス
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の箕面・能勢旅行の気候・服装とアクセスのアドバイス</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-4 text-slate-700 text-sm md:text-base leading-relaxed">
@@ -550,18 +534,14 @@ export default function OsakaMinooWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-rose-600 pl-4">
               <span className="text-rose-600 font-bold text-sm tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                箕面・勝尾寺初詣＆冬の北摂旅行に関するよくある質問
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">箕面・勝尾寺初詣＆冬の北摂旅行に関するよくある質問</h2>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                    <span className="text-rose-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-rose-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h3>
                   <p className="text-slate-700 text-sm md:text-base leading-relaxed pl-6 border-l-2 border-rose-100">
                     {faq.a}
                   </p>
@@ -574,9 +554,7 @@ export default function OsakaMinooWinterPage() {
           <section className="bg-gradient-to-br from-slate-900 to-rose-950 rounded-3xl p-8 text-white space-y-6 shadow-xl">
             <div>
               <span className="text-rose-400 text-xs font-bold uppercase tracking-wider">Related Destinations</span>
-              <h2 className="text-xl md:text-2xl font-bold mt-1">
-                あわせて読みたい関西・冬の厳選旅特集
-              </h2>
+              <h2 className="text-xl md:text-2xl font-bold mt-1">あわせて読みたい関西・冬の厳選旅特集</h2>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

@@ -298,10 +298,8 @@ export default function HimiOnsenWinterPage() {
             <Fish className="w-4 h-4 text-cyan-400" />
             <span>11月・12月開幕 旬の「ひみ寒ぶり宣言」と海越し雪化粧立山連峰の絶景</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】<br className="hidden sm:inline" />
-            海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月富山氷見温泉郷のひみ寒ぶりと雪化粧立山連峰】<br className="hidden sm:inline" />
+            海越しの白銀絶景露天風呂・極上氷見牛＆寒ブリづくし会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             富山湾を望む波打ち際で、海上に浮かぶ白銀の立山連峰に息をのむ。身体の芯まで温める強塩泉の名湯、脂が極限まで乗った本場「ひみ寒ぶり」の刺身とブリしゃぶ、幻の氷見牛を味わい尽くす冬の贅沢旅。
           </p>
@@ -327,9 +325,7 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">World Rare Miracle Landscape</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                海抜ゼロメートルから望む3,000m級の白銀立山。冬の富山湾が魅せる奇跡のパノラマ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">海抜ゼロメートルから望む3,000m級の白銀立山。冬の富山湾が魅せる奇跡のパノラマ</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Fossil Seawater Hot Spring & Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                太古の化石海水が育む「温まりの湯」と、冬の味覚の頂点「ひみ寒ぶり＆氷見牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">太古の化石海水が育む「温まりの湯」と、冬の味覚の頂点「ひみ寒ぶり＆氷見牛」</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,37 +407,29 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の氷見温泉郷が旅人を魅了してやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の氷見温泉郷が旅人を魅了してやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="space-y-4">
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">1</span>
-                <span>冬の富山湾の王様「ひみ寒ぶり宣言」直後の最高潮の脂の乗り</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">1</span>
+                <span>冬の富山湾の王様「ひみ寒ぶり宣言」直後の最高潮の脂の乗り</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 北海道から日本海を南下してきたブリは、富山湾の冷たい荒波で鍛えられ、脂の乗りが最高潮に達します。「ひみ寒ぶり宣言」が出された直後の11月下旬〜12月は、まさに年間で最も美味しい初物寒ブリに出会える黄金期。刺身に醤油を弾くほどの極上の脂、出汁に数秒くぐらせることで甘みが花開くブリしゃぶなど、本場氷見でしか味わえない感動が待っています。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">2</span>
-                <span>初雪を纏った白銀の立山連峰と海面の気嵐が創り出す世界遺産級の絶景</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">2</span>
+                <span>初雪を纏った白銀の立山連峰と海面の気嵐が創り出す世界遺産級の絶景</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 雨晴海岸や氷見海岸から富山湾を挟んで望む立山連峰は、冬にこそ真骨頂を発揮します。11月中旬以降に初雪が積もり、白銀に輝く3,000m級の峰々が朝日に照らされる光景は息をのむ美しさ。さらに海水温と冷え込んだ大気との温度差で発生する「気嵐」が海面を包み、まるで雲海の上に雪山が浮かんでいるかのような幻想的なパノラマが広がります。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">3</span>
-                <span>太古の化石海水強塩泉で楽しむ海辺のぬくもり露天風呂</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-cyan-900 text-white flex items-center justify-center text-xs">3</span>
+                <span>太古の化石海水強塩泉で楽しむ海辺のぬくもり露天風呂</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 日本海の寒風が吹き付ける初冬だからこそ、氷見の強塩泉の温まり効果が身体にしみわたります。湯船から富山湾の水平線を眺めながら波音を聞き、身体の奥底までじんわりと温める極上の湯浴み。塩分が肌に薄い膜を作るため、湯上がり後も暖房なしで過ごせるほど保温効果が持続し、旅の疲労をきれいに解消してくれます。
               </p>
@@ -455,9 +441,7 @@ export default function HimiOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】富山・氷見温泉郷の寒ぶりと海景を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】富山・氷見温泉郷の寒ぶりと海景を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、富山湾と立山連峰の眺望、寒ブリと氷見牛の料理内容、源泉掛け流しの湯質、口コミ評価で選び抜いた5軒。
             </p>
@@ -494,11 +478,9 @@ export default function HimiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-cyan-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -558,9 +540,7 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の氷見を満喫する1泊2日寒ぶり＆絶景モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の氷見を満喫する1泊2日寒ぶり＆絶景モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -614,26 +594,20 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・北陸冬道ドライブ対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・北陸冬道ドライブ対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-700" />
-                <span>気温と服装のポイント</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-700" />
+                <span>気温と服装のポイント</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 氷見の11月は最高気温15℃前後ですが、海からの北西風により体感温度は低くなります。12月に入ると最高気温は8℃前後、夜間や早朝は2℃〜0℃近くまで冷え込みます。海岸沿いは風が強いため、防風性のあるダウンジャケット、マフラー、手袋、耳当てなどの防寒小物が不可欠です。海辺散策の際は足元を冷やさない厚手の靴下と歩きやすい防水シューズが役立ちます。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>冬道ドライブとアクセス</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>冬道ドライブとアクセス</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 能越自動車道「氷見北IC」や「氷見IC」、国道160号線など主要幹線道路は消雪パイプや除雪体制が整っていますが、11月下旬以降は突然の降雪や早朝の凍結（ブラックアイスバーン）に注意が必要です。お車の場合はスタッドレスタイヤを必ず装着してください。公共交通機関利用の場合は、北陸新幹線・新高岡駅からJR氷見線または特急バス「わくライナー」の利用が便利です。
               </p>
@@ -649,18 +623,14 @@ export default function HimiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の氷見温泉郷旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の氷見温泉郷旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -673,9 +643,7 @@ export default function HimiOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest">Related Hokuriku & Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸の冬名湯＆全国の雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸の冬名湯＆全国の雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               越前ガニや加能ガニ、白銀の峡谷美など、北陸・中部の冬の絶景と美食を満喫する特集記事を多数公開中。
             </p>

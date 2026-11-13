@@ -222,9 +222,7 @@ export default function OkunikkoChuzenjiWinterPage() {
             <span>11月・12月 冬の奥日光・中禅寺湖特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月奥日光中禅寺温泉の初冬中禅寺湖と男体山雪絶景】乳白色硫黄泉露天風呂・極上とちぎ和牛＆日光湯波会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、栃木県・奥日光は標高2,486mの聖峰・男体山が初雪の純白を纏い、湖面標高1,269mに広がる中禅寺湖は静寂の青い水鏡となって冬の空を映し出します。秋の喧騒が去った奥日光の静けさの中、日光湯元から引かれる源泉掛け流しの乳白色硫黄泉に浸かる贅沢。湯煙の向こうに広がる湖畔と山々の雪景色、極上ブランド牛「とちぎ和牛」のサーロインや日光伝統の引き上げ生湯波料理を心ゆくまで味わう、至高の奥日光名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Sublime Winter Beauty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の奥日光・中禅寺湖がもたらす静寂と神秘の絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の奥日光・中禅寺湖がもたらす静寂と神秘の絶景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -283,26 +279,20 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Thermal Spring & Culinary Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                12kmを旅する乳白色硫黄泉と、日光「手繰り生湯波」の歴史
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">12kmを旅する乳白色硫黄泉と、日光「手繰り生湯波」の歴史</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>日光湯元から注ぐエメラルドから乳白色への泉質変化と血行促進の妙</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>日光湯元から注ぐエメラルドから乳白色への泉質変化と血行促進の妙</span></h3>
             <p>
               中禅寺温泉のお湯は、奥日光の最奥・日光湯元温泉（湯ノ平湿原）に位置する湧出地から、標高差を利用した専用送湯管を通じて約12kmの距離を引湯されています。湧出時点では淡いエメラルドグリーンの透明な温泉ですが、長い配管を旅しながら空気中の酸素に触れることで、溶存する硫化水素イオン（HS-）が酸化反応を起こし、微細な単体硫黄微粒子（コロイド粒子）となってお湯全体に分散します。
             </p>
             <p>
               これが中禅寺温泉特有の神秘的なミルキーホワイト（乳白色）のにごり湯の正体です。泉質は「含硫黄-ナトリウム・カルシウム-硫酸塩・炭酸水素塩温泉」。硫黄成分が末梢血管を拡張して血流を劇的に促進し、硫酸塩泉の引き締め効果と炭酸水素塩泉の清浄効果が相乗して、肌の古い角質をやさしく落としながらしっとり潤いを与えます。氷点下に達する初冬の中禅寺湖畔にあっても、湯上がりは湯冷め知らずの心地よいポカポカ感が長く持続します。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>日光修験道が育んだ二重巻き「日光湯波」とA5ランク「とちぎ和牛」</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>日光修験道が育んだ二重巻き「日光湯波」とA5ランク「とちぎ和牛」</span></h3>
             <p>
               食卓の主役である「日光湯波」は、日光の山岳信仰修験者や東照宮・輪王寺の僧侶たちの貴重なタンパク源として鎌倉時代から発達した精進料理の伝統です。京都の湯葉が膜の端から一重で薄く引き上げられるのに対し、日光の湯波は豆乳膜の中央に竹串を入れて二つ折りに引き上げるため、厚みがあり、噛むほどに大豆の濃厚な甘みとコクが溢れ出ます。
             </p>
@@ -316,9 +306,7 @@ export default function OkunikkoChuzenjiWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Selected Ryokans & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              奥日光・中禅寺湖の魅力を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">奥日光・中禅寺湖の魅力を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               湖畔クラシック、世界最高峰ラグジュアリー、2種の泉質めぐり、森の隠れ家まで、11・12月の中禅寺湖を満喫する至極の5宿。
             </p>
@@ -360,19 +348,15 @@ export default function OkunikkoChuzenjiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                         {h.story}
                       </p>
 
                       <div className="space-y-2 pt-2 border-t border-slate-100">
-                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Sparkles className="w-3.5 h-3.5 text-teal-700" />
-                          <span>この宿の宿泊ハイライト</span>
-                        </h4>
+                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-teal-700" />
+                          <span>この宿の宿泊ハイライト</span></h4>
                         <ul className="grid grid-cols-1 gap-1.5 text-xs text-slate-600">
                           {h.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-2">
@@ -430,17 +414,13 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Winter Lake Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月 中禅寺湖絶景と乳白色硫黄泉を巡る1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月 中禅寺湖絶景と乳白色硫黄泉を巡る1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs">1</span>
-                <span>1日目：いろは坂を登り神秘の湖畔へ</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs">1</span>
+                <span>1日目：いろは坂を登り神秘の湖畔へ</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-teal-800 shrink-0">11:00</span>
@@ -466,10 +446,8 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs">2</span>
-                <span>2日目：男体山朝焼けと大使館別荘記念公園</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs">2</span>
+                <span>2日目：男体山朝焼けと大使館別荘記念公園</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-teal-800 shrink-0">06:45</span>
@@ -504,26 +482,20 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Checklist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の奥日光旅行で知っておくべき重要注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の奥日光旅行で知っておくべき重要注意点</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-700" />
-                <span>標高1,269mの極寒対策と防寒着</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                <span>標高1,269mの極寒対策と防寒着</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 中禅寺湖周辺は11月下旬から真冬並みの厳しい寒さになります。12月の朝晩はマイナス5℃以下まで冷え込み、日中でも風が吹くと体感温度は氷点下になります。風を通さない防寒ダウン、厚手のマフラー、手袋、耳当て、保温インナーを必ず着用してください。滑り止めの効いた防水スノーブーツが安全です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-700" />
-                <span>いろは坂の冬用タイヤ規制とバス利用</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-700" />
+                <span>いろは坂の冬用タイヤ規制とバス利用</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月中旬以降、いろは坂の日陰やカーブ、橋梁部は路面凍結（ブラックアイスバーン）が多発します。マイカー利用の場合は必ずスタッドレスタイヤを装着してください。雪道運転に不慣れな方は、JR日光駅・東武日光駅から発着する東武バスを利用するのが最も安全で快適です。
               </p>
@@ -539,18 +511,14 @@ export default function OkunikkoChuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                中禅寺温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">中禅寺温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -563,9 +531,7 @@ export default function OkunikkoChuzenjiWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Hot Springs & Heritage Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北関東・東北の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北関東・東北の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、極上グルメを味わう人気の厳選特集もぜひご覧ください。
             </p>

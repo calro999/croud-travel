@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          ジュワッと響く至高の音と立ち上る芳香。専属シェフが目の前で焼き上げる極上黒毛和牛ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">ジュワッと響く至高の音と立ち上る芳香。専属シェフが目の前で焼き上げる極上黒毛和牛ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              五感で味わう鉄板焼きカウンター！焼き立て熱々の瞬間を堪能
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">五感で味わう鉄板焼きカウンター！焼き立て熱々の瞬間を堪能</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               フランベの炎、芳醇なガーリックと肉の香り、ナイフを入れた瞬間にあふれ出す肉汁を目の前で楽しむエンターテインメントディナー。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              A5ランク厳選部位のサーロイン・シャトーブリアン食べ比べ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">A5ランク厳選部位のサーロイン・シャトーブリアン食べ比べ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿自慢の仕入れルートだからこそ味わえる希少部位や熟成肉。海鮮グリルや地元契約農家の旬野菜とともに贅を尽くせます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税宿泊クーポンで憧れの高級鉄板焼きプランへ賢くアップグレード
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税宿泊クーポンで憧れの高級鉄板焼きプランへ賢くアップグレード</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               寄附額の最大30%がクーポンとして還元されるため、通常プランから鉄板焼きカウンター指定コースへ無理なくグレードアップできます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="matsusaka_wagyu" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                三重県松阪市・湯の山温泉ふるさと納税：「肉の芸術品」松阪牛A5ランクサーロイン鉄板焼きと名湯の宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">三重県松阪市・湯の山温泉ふるさと納税：「肉の芸術品」松阪牛A5ランクサーロイン鉄板焼きと名湯の宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 深みのある赤身と上質な脂肪が織りなす「松阪牛」。職人が鉄板で香ばしく焼き上げ、伊勢湾の鮑や伊勢海老とともに味わう至高の晩餐。御在所岳を望む湯の山温泉の美肌湯に癒やされます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県三重郡菰野町菰野8585
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湯の山温泉　旅館寿亭
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の山温泉　旅館寿亭</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     選べる6つの貸切風呂と部屋食で味わう三重の旬。大切な人と気兼ねなく過ごす湯の山温泉の老舗旅館
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県三重郡菰野町菰野8520-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湯の山温泉　鹿の湯ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の山温泉　鹿の湯ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     露天風呂付き客室・貸切風呂・無料スイーツカフェが人気■女性に色浴衣無料サービス■長島・鈴鹿近い温泉地
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県鳥羽市相差町1471 ◆千鳥ヶ浜沿い高台／伊勢神宮３５分
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">リゾートヒルズ豊浜蒼空の風　～ＳＯＲＡ　ｎｏ　ＫＡＺＥ～</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全プラン舟盛付！ハンモックやフィッシュ足湯で笑顔いっぱいの思い出を♪温泉を満喫できるアットホームな宿
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="omi_wagyu" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                滋賀県大津市・長浜太閤温泉ふるさと納税：日本最古のブランド牛「近江牛」の極上鉄板ステーキと琵琶湖畔リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">滋賀県大津市・長浜太閤温泉ふるさと納税：日本最古のブランド牛「近江牛」の極上鉄板ステーキと琵琶湖畔リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 約400年の歴史を誇る近江牛。融点が低く滑らかな肉質を、琵琶湖のレイクビューを望む鉄板焼きカウンターで満喫。太閤秀吉ゆかりの名湯とともに優雅な夜を過ごせます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県長浜市公園町4-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     琵琶湖を眺め、新鮮な湖国の幸を活かした料理自慢
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市松原町網代口1377
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    びわ湖畔　味覚の宿　双葉荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">びわ湖畔　味覚の宿　双葉荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     びわ湖まで徒歩1分。 レイクビューの客室で美しい夕日と料理を堪能！
                   </p>
@@ -389,9 +367,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="yonezawa_wagyu" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山形県米沢市・小野川温泉ふるさと納税：寒暖差が育む究極の霜降り「米沢牛」フィレステーキと美人の湯宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山形県米沢市・小野川温泉ふるさと納税：寒暖差が育む究極の霜降り「米沢牛」フィレステーキと美人の湯宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 盆地特有の厳しい気候が極上の肉質を育てる米沢牛。箸で切れるほど柔らかい極上フィレステーキと、小野小町ゆかりの含硫黄ナトリウム塩化物泉で心身がとろける美食湯治ステイです。
               </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県米沢市小野川町2436
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小野川温泉　湯杜　匠味庵　山川　ｙｕｍｏｒｉ－ｓｈｏｍｉａｎ　ＹＡＭＡＫＡＷＡ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ～名湯一門　高見屋～★ 湯×味 ★ 「美人の湯」で癒されて、ここでしか味わえない美食の時間♪
                   </p>
@@ -482,9 +456,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅。
               </p>
@@ -498,9 +470,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 比内地鶏・土佐ジロー・黒さつま鶏の美食宿。
               </p>
@@ -514,9 +484,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -534,9 +502,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -615,9 +581,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさと納税厳選ガイド松阪牛・近江牛・米沢牛の美食ホテル」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

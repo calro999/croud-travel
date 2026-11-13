@@ -208,9 +208,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               <span className="inline-block px-2.5 py-0.5 rounded bg-amber-500/20 text-amber-300 text-xs font-bold border border-amber-500/30 mb-1">
                 熱海・伊豆宿泊応援キャンペーン
               </span>
-              <h2 className="text-base sm:text-lg font-bold text-white">
-                楽天トラベル 熱海温泉ホテル割引クーポン配布中！
-              </h2>
+              <h2 className="text-base sm:text-lg font-bold text-white">楽天トラベル 熱海温泉ホテル割引クーポン配布中！</h2>
               <p className="text-xs text-amber-200/90">
                 オーシャンビュー露天風呂や金目鯛会席付きプランに使えるお得な限定クーポン
               </p>
@@ -234,9 +232,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest block mb-1">
               INDOOR ATTRACTIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">
-              雨でも濡れない＆風情深まる熱海の4大室内スポット
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">雨でも濡れない＆風情深まる熱海の4大室内スポット</h2>
           </div>
 
           <div className="space-y-8">
@@ -250,9 +246,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                     <span className="text-xl font-black text-amber-400 font-mono">
                       {spot.num}
                     </span>
-                    <h3 className="text-lg sm:text-xl font-bold text-white">
-                      {spot.title}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-white">{spot.title}</h3>
                   </div>
                   <span className="text-xs font-bold px-3 py-1 rounded-full bg-amber-950 border border-amber-700 text-amber-300">
                     {spot.badge}
@@ -288,9 +282,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest block mb-1">
               MODEL TIMELINE
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">
-              雨の熱海を満喫する日帰り〜1泊2日タイムスケジュール
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">雨の熱海を満喫する日帰り〜1泊2日タイムスケジュール</h2>
             <p className="text-xs sm:text-sm text-amber-200/80 mt-1">
               駅前アーケードからスタートし、直行バスとタクシーをスマートに組み合わせて雨を避ける王道行程です。
             </p>
@@ -322,9 +314,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest block mb-1">
               HOTEL & RESORT
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">
-              熱海のおすすめ温泉リゾート
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-amber-100">熱海のおすすめ温泉リゾート</h2>
             <p className="text-xs sm:text-sm text-amber-200/80 mt-1">
               海を望む展望風呂や美味しい海鮮料理、雨天時でも心地よい滞在ができる人気宿です。
             </p>
@@ -377,9 +367,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-base sm:text-lg font-bold text-white line-clamp-2 leading-snug">{hotel.hotelName}</h3>
 
                       {special && (
                         <p className="text-xs text-amber-200/90 line-clamp-3 leading-relaxed bg-stone-950/60 p-2.5 rounded-lg border border-amber-950">
@@ -421,9 +409,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
 
         {/* 内部リンク・関連ガイド */}
         <section className="bg-stone-900/60 rounded-2xl p-6 sm:p-8 border border-amber-900/60">
-          <h2 className="text-lg font-bold text-white mb-2 flex items-center gap-2">
-            <span>🔗</span> 熱海・伊豆旅行の役立つ関連ガイド
-          </h2>
+          <h2 className="text-lg font-bold text-white mb-2 flex items-center gap-2">熱海・伊豆旅行の役立つ関連ガイド</h2>
           <p className="text-xs text-amber-200/80 mb-4">
             日帰り温泉ランチや旅行費用の徹底検証ガイドも合わせてお読みいただけます。
           </p>
@@ -434,9 +420,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               className="group block p-4 rounded-xl bg-stone-950/80 border border-amber-900/70 hover:border-amber-500/60 transition-all"
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">日帰りプラン ♨️</span>
-              <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">
-                【熱海 日帰り温泉 ランチ付きおすすめ】絶景露天風呂＆海鮮ランチ・個室休憩プラン
-              </h3>
+              <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">【熱海 日帰り温泉 ランチ付きおすすめ】絶景露天風呂＆海鮮ランチ・個室休憩プラン</h3>
               <p className="text-xs text-amber-300/80 mt-1 line-clamp-2">
                 宿泊せずに贅沢ランチと名湯を堪能できる日帰りプランを徹底比較。
               </p>
@@ -447,9 +431,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
               className="group block p-4 rounded-xl bg-stone-950/80 border border-amber-900/70 hover:border-amber-500/60 transition-all"
             >
               <span className="text-xs font-bold text-amber-400 block mb-1">費用シミュレーション 💰</span>
-              <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">
-                【熱海・伊豆旅行 費用】日帰り・1泊2日・2泊3日いくら？新幹線代・宿代・温泉代
-              </h3>
+              <h3 className="text-sm font-bold text-white group-hover:text-amber-200 transition-colors">【熱海・伊豆旅行 費用】日帰り・1泊2日・2泊3日いくら？新幹線代・宿代・温泉代</h3>
               <p className="text-xs text-amber-300/80 mt-1 line-clamp-2">
                 交通費や食事代、観光入場料を含めたリアルな出費計算ガイド。
               </p>
@@ -462,9 +444,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とMOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とMOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -549,9 +529,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「熱海 雨の日の観光＆温泉：MOA美術館・起雲閣・昭和レトロ喫茶＆インフィニティ露天風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -621,9 +599,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「熱海 雨の日の観光＆温泉」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「熱海 雨の日の観光＆温泉」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

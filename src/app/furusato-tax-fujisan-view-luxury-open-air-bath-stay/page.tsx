@@ -108,9 +108,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  時間とともに色彩を変える霊峰の奇跡！朝焼けの赤富士から星空の富士まで
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">時間とともに色彩を変える霊峰の奇跡！朝焼けの赤富士から星空の富士まで</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 富士山ビュー宿の最大の魅力は、滞在する時間帯によってまったく異なる幻想的な姿を拝める点です。早朝の澄んだ空気の中で朝日を浴びて神々しく赤く染まる「紅富士（赤富士）」、日中の青空に映える凛とした雪化粧、夕暮れのグラデーションに浮かび上がる影富士、そして満天の星々と月光に照らされる深夜のシルエット。温泉に浸かりながら奇跡の瞬間を待つ時間は何物にも代えがたい感動です。
@@ -123,9 +121,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  富士五湖の「湖越し富士」と西伊豆の「駿河湾越し富士」の異なる美を堪能
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">富士五湖の「湖越し富士」と西伊豆の「駿河湾越し富士」の異なる美を堪能</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 山梨県側（河口湖・山中湖・富士吉田）からは、湖面に富士山が反転して映り込む神秘的な「逆さ富士」や、山裾まで大きく広がるダイナミックな山容が目の前に迫ります。一方、静岡県西伊豆側からは、紺碧の駿河湾の水平線の向こうに雪を戴く富士山が浮かび、黄金色の夕陽とともに染まりゆくドラマチックな絶景が広がります。視点が変わることで全く異なる美しさに出会えます。
@@ -138,9 +134,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  甲斐・駿河の山海の幸を味わい尽くす！甲州牛や駿河湾地魚の美食会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">甲斐・駿河の山海の幸を味わい尽くす！甲州牛や駿河湾地魚の美食会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 富士山麓の湧水で育まれた高原野菜や甲州ワインビーフ、富士桜ポーク、甲州信玄鶏などの山梨の恵み。そして駿河湾から水揚げされる高足ガニや金目鯛、桜えび、しらすといった静岡の海の幸。絶景温泉で心身を清めた後は、地域色豊かな極上料理と地酒・甲州ワインのペアリングに酔いしれる至極の食体験が待っています。
@@ -183,9 +177,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山梨県富士河口湖町・河口湖畔に建つ富士展望の名湯旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    富士河口湖温泉　富士山の見える温泉旅館　大池ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     河口湖畔の絶好のロケーションに位置し、本館最上階の展望大浴場や露天風呂、富士山ビュースイートから正面にそびえる雄大な富士山を仰ぎ見る老舗旅館。湯船から湯煙越しに眺める富士の姿は圧巻の一言。ジャグジー付き客室露天風呂や広々とした和洋室など多彩なお部屋が揃い、カップルからファミリーまで幅広く支持されています。夕食には山梨県産の厳選牛や甲斐サーモンなど地産地消の旬味覚を活かした本格会席を堪能できます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山梨県富士吉田市・二万五千坪の名庭園と富士山を仰ぐ名門宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    庭園と感動の宿　富士山温泉　ホテル鐘山苑
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     約2万5000坪もの広大で美しい日本庭園を誇る、富士五湖エリア屈指の名門温泉旅館。宿の目玉である屋上露天風呂「露天風呂 富士山」からは、遮るものが何一つない圧倒的なスケールで富士山の雄姿を目の前に拝むことができます。夕暮れ時には庭園で名物の霊峰太鼓ショーが毎夜開催され、館内全体が活気とおもてなしの心で包まれます。四季折々の茶室体験や贅を尽くした季節の創作会席料理とともに、心に残る最高峰の宿泊体験が約束されます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊豆市・西伊豆土肥温泉の駿河湾サンセットと富士山
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    土肥温泉　土肥ふじやホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">土肥温泉　土肥ふじやホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     西伊豆随一の湯量を誇る歴史ある土肥温泉に佇み、夕陽に染まる駿河湾の海の向こうに富士山の秀麗な山影を望む絶景宿。名湯・土肥温泉の源泉を引いた展望大浴場や貸切露天風呂からは、水平線に夕日が沈むマジックアワーと富士山の共演が楽しめます。駿河湾で獲れたばかりの新鮮な地魚のお造りや伊勢海老、鮑の踊り焼きなど、西伊豆ならではの豪快で鮮度抜群の海の恵みを心ゆくまでご堪能ください。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoFujisanViewLuxuryStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

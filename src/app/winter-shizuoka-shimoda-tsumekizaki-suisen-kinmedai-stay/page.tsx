@@ -282,9 +282,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
             <Sun className="w-4 h-4 text-emerald-300" />
             12月・1月 冬の伊豆半島・爪木崎300万本水仙まつり＆一本釣り地金目鯛特集
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">
-            【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-white mb-6">【12・1月静岡】300万本が咲き誇る爪木崎水仙まつりと富士山絶景・下田港直送極上「一本釣り地金目鯛」を堪能する下田・南伊豆の名宿5選</h1>
           <p className="text-slate-300 text-sm sm:text-base md:text-lg max-w-3xl leading-relaxed">
             真冬でも黒潮の暖流により温暖な風が吹き抜ける南伊豆・下田。須崎半島の突端「爪木崎」では、海を見渡す丘一面に300万本の野水仙が甘い香りを放ち、真っ赤なアロエの花と青い海の圧巻のパノラマが広がります。そして冬は下田港名物の一本釣り「地金目鯛」に上質な脂が乗る最高の季節。歴史あるペリーロードを散策し、海を望む名湯に浸り、濃厚な金目鯛の姿煮と海の幸に舌鼓を打つ極上の冬旅へご案内します。
           </p>
@@ -303,9 +301,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の訪れを忘れる陽光の岬と、甘い水仙の香りに包まれる南伊豆の至福
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の訪れを忘れる陽光の岬と、甘い水仙の香りに包まれる南伊豆の至福</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -328,9 +324,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の下田・爪木崎で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の下田・爪木崎で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               12月〜1月だからこそ出逢える、一面の水仙群生と本場の地金目鯛、温暖な美肌温泉。
             </p>
@@ -341,9 +335,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 岬を埋め尽くす300万本の野水仙と赤いアロエの花
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 岬を埋め尽くす300万本の野水仙と赤いアロエの花</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 須崎半島の爪木崎一面に広がる300万本の野生水仙。甘い香りに包まれながら、青い海と白亜の灯台、鮮やかなアロエの花が織りなすパノラマ絶景を堪能。
               </p>
@@ -353,9 +345,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬に脂が乗る下田港直送「一本釣り地金目鯛」の姿煮
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬に脂が乗る下田港直送「一本釣り地金目鯛」の姿煮</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 水揚げ量日本一の下田港が誇る日戻り地金目鯛。真冬の極上の脂が乗った身を丸ごと照り煮にした姿煮や、しゃぶしゃぶ、炙り刺身の贅沢な饗宴。
               </p>
@@ -365,9 +355,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 海洋美肌の下田温泉とレトロなペリーロード散策
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 海洋美肌の下田温泉とレトロなペリーロード散策</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 太平洋の海原や白砂のビーチを望む美肌の温泉露天風呂。湯上がりに石畳となまこ壁が美しいペリーロードを歩き、幕末の開国ロマンに浸れます。
               </p>
@@ -377,9 +365,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】爪木崎水仙まつりとペリーロード・極上地金目鯛を味わう南伊豆王道ドライブ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】爪木崎水仙まつりとペリーロード・極上地金目鯛を味わう南伊豆王道ドライブ</h2>
             <p className="text-slate-400 text-sm mt-1">
               伊豆急下田駅を拠点に、冬の花と絶景、そして名物グルメを贅沢に巡る冬のドライブコース。
             </p>
@@ -390,9 +376,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 下田到着 ➔ 下田港の魚市場食堂で名物「金目鯛バーガー」または「金目鯛海鮮丼」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 下田到着  下田港の魚市場食堂で名物「金目鯛バーガー」または「金目鯛海鮮丼」ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   特急踊り子号またはドライブで伊豆急下田駅へ到着。「道の駅 開国下田みなと」周辺の海鮮料理店で、揚げたての金目鯛カツを挟んだ下田バーガーや、厚切り金目鯛が乗った海鮮丼でランチ。港の活気と潮の香りを感じます。
                 </p>
@@ -401,9 +385,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 須崎半島へドライブ ➔ 300万本の花が咲き誇る「爪木崎水仙まつり」を散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 須崎半島へドライブ  300万本の花が咲き誇る「爪木崎水仙まつり」を散策</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   下田市街から車で約15分、須崎半島の爪木崎へ。岬の斜面一面に咲き乱れる野水仙の甘い香りに包まれ、白亜の爪木埼灯台までハイキング。赤いアロエの花と青い海のコントラストを楽しみ、俵磯の柱状節理の奇岩景観を鑑賞します。
                 </p>
@@ -412,9 +394,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 下田の温泉宿にチェックイン ➔ オーシャンビュー露天風呂＆「一本釣り地金目鯛姿煮」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 下田の温泉宿にチェックイン  オーシャンビュー露天風呂＆「一本釣り地金目鯛姿煮」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   宿にチェックインし、海を望む露天風呂へ。夕暮れの海原と潮風を感じながら美肌の湯を堪能。夕食には下田港直送の一本釣り地金目鯛の姿煮や金目鯛しゃぶしゃぶ、伊豆の地酒が並ぶ豪華会席を心ゆくまで味わいます。
                 </p>
@@ -423,9 +403,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:30 ペリーロードとなまこ壁の街並み散策 ➔ 寝姿山ロープウェイで絶景展望
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:30 ペリーロードとなまこ壁の街並み散策  寝姿山ロープウェイで絶景展望</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝食後は下田旧市街へ。平滑川沿いのペリーロードを散策し、レトロなカフェでひと休み。下田ロープウェイで寝姿山の山頂へ登り、下田港や爪木崎、伊豆諸島を一望する大パノラマを堪能して、大満足の帰路へ就きます。
                 </p>
@@ -438,9 +416,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の下田爪木崎水仙と極上地金目鯛を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の下田爪木崎水仙と極上地金目鯛を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、海景色・温泉・料理が高評価の宿。
             </p>
@@ -474,9 +450,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -536,27 +510,21 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              下田の港町が育んだ一本釣りの誇りと柑橘の恵み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">下田の港町が育んだ一本釣りの誇りと柑橘の恵み</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-700" />
-                漁師の情熱が生む「日戻り一本釣り地金目鯛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-700" />
+                漁師の情熱が生む「日戻り一本釣り地金目鯛」</h3>
               <p>
                 下田の金目鯛漁は、魚体に傷をつけず品質を最上級に保つため、深海延縄による「一本釣り」にこだわっています。中でも早朝に出港してその日の夕方に帰港する「日戻り地金目鯛」は、鮮度の良さと脂の質が桁違いです。熱を通すと身がふっくらと膨らみ、皮の下に蓄えられた良質な脂がジュワッと溢れ出します。煮付けのタレをご飯にかけて食べる漁師飯も絶品の極みです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-emerald-700" />
-                伊豆柑橘「ニューサマーオレンジ」と開国銘菓
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-emerald-700" />
+                伊豆柑橘「ニューサマーオレンジ」と開国銘菓</h3>
               <p>
                 南伊豆の温暖な傾斜地では、冬から初春にかけて様々な柑橘類が実を結びます。爽やかな酸味と上品な甘みが特徴の「ニューサマーオレンジ（日向夏）」を使ったゼリーやドレッシングはお土産に大人気。また、ペリー来航にちなんだ開国銘菓「黒船来航カステラ」や、地元酒蔵「白隠正宗」「萬燿」の地酒も、下田の歴史と旅情を感じさせる逸品です。
               </p>
@@ -568,9 +536,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="bg-emerald-50/60 rounded-3xl p-6 sm:p-10 border border-emerald-200/60 space-y-6">
           <div className="border-b border-emerald-200/80 pb-4">
             <span className="text-emerald-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-emerald-950">
-              冬の下田・爪木崎を心地よく旅するための装備とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-emerald-950">冬の下田・爪木崎を心地よく旅するための装備とアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-emerald-950">
@@ -610,20 +576,16 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の下田・爪木崎水仙まつりに関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の下田・爪木崎水仙まつりに関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-emerald-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-emerald-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-emerald-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -636,9 +598,7 @@ export default function ShizuokaShimodaTsumekizakiWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい東日本・伊豆半島の冬景色・グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい東日本・伊豆半島の冬景色・グルメ特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

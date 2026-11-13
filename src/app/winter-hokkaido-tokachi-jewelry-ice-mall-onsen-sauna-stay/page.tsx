@@ -122,10 +122,8 @@ export default function WinterFeaturePage() {
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              冬の北海道・十勝・十勝川温泉・帯広が特別な理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              冬の北海道・十勝・十勝川温泉・帯広が特別な理由</h2>
             <div className="grid md:grid-cols-3 gap-4 pt-2">
               <div className="bg-cyan-50/50 p-4 rounded-xl border border-cyan-100">
                 <span className="text-xs font-bold text-cyan-800 block mb-1">01. 特徴</span>
@@ -150,9 +148,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              十勝・十勝川温泉・帯広 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">十勝・十勝川温泉・帯広 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,16 +170,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5818%2F5818.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 十勝川温泉　第一ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -228,10 +222,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「高齢者への配慮ある食事に感謝、良い思い出に家族旅行の良い想い出を作ることができました。お食事も高齢者を考慮した切り方などに対応していただきとても感謝しております」
                     </p>
@@ -268,16 +260,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19237%2F19237.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. 十勝川温泉　観月苑
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -322,10 +312,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「一人旅でも落ち着けるカウンター席が最高 2回目の利用。一人旅での利用でビュッフェスタイルの食事の場合、落ち着いて食事が難しい場合もあるが、この宿は一人での利用者用に風景を見つつ食事ができるカウンタ」
                     </p>
@@ -362,16 +350,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54836%2F54836.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 十勝川温泉　ホテル大平原
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -416,10 +402,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「温泉付き客室が快適、庭にはリスの姿も大浴場が苦手な子どもがいるので、温泉付きのお部屋を選びました。もっと小さいお風呂かと思いきや、ゆったり入ることができる立派なお風呂でした!大浴場も利用し」
                     </p>
@@ -456,16 +440,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50753%2F50753.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 天然温泉　プレミアホテル―ＣＡＢＩＮ―帯広
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -510,10 +492,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「サウナと温泉が快適、朝食も種類豊富で満足サウナもあり温泉も快適です。朝食にバリエーションがあり楽しめました」
                     </p>
@@ -550,16 +530,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30897%2F30897.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 十勝川温泉　笹井ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -604,10 +582,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「食事もデザートも充実、バーの対応も最高朝食、夕食共種類豊富でデザートも充実してて良かったし、飲み放題を頼んだのですがバーテンダーの方も気さくに対応してくださってとても満足でしたクチコミの詳細は」
                     </p>
@@ -636,9 +612,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  北海道の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">北海道の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -657,10 +631,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の十勝・十勝川温泉・帯広旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の十勝・十勝川温泉・帯広旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/70">

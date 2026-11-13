@@ -105,9 +105,7 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">
-              【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【奇跡の自噴ラジウム温泉と日本海インフィニティ露天】2026-2027年11-1月冬の鳥取・三朝＆皆生温泉！国登録有形文化財「旅館 大橋」＆「皆生 游月」・鳥取松葉ガニと鳥取和牛名宿5選</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               世界屈指の高濃度ラドン含有量を誇り、「三たび朝を迎えると元気になる」と伝えられる三朝温泉と、白砂青松の弓ヶ浜に面し日本海の絶景と塩化物泉が広がる皆生温泉。山陰の冬は、11月の鳥取松葉ガニ漁解禁により最高峰の美食シーズンへと突入します。川床から湧出する自噴の巌窟風呂や海と一体化するインフィニティ露天風呂に浸かり、最高級ブランド「五輝星」をはじめとする鳥取松葉ガニとオレイン55鳥取和牛を味わう極上の湯治旅をご案内します。
             </p>
@@ -117,9 +115,7 @@ export default function Page() {
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              冬の三朝温泉・倉吉・皆生温泉・米子で過ごす至福のひととき
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の三朝温泉・倉吉・皆生温泉・米子で過ごす至福のひととき</h2>
             <p className="text-base leading-loose">
               中国山地の北麓、清流・三朝川のほとりに開湯850年の歴史を刻む『三朝温泉（みささおんせん）』と、日本海に面した白砂青松の弓ヶ浜沿いに湧く『皆生温泉（かいけおんせん）』。山陰・鳥取県を代表する二大温泉地は、11月のズワイガニ漁解禁とともに年間最高の賑わいを迎えます。三朝温泉は世界有数の高濃度ラドンを含有する放射能泉として名高く、微量の放射線が身体の細胞を刺激し免疫力を高める「ホルミシス効果」により、古くから多くの湯治客を癒やしてきました。一方の皆生温泉は、日本海の海底から湧き出る豊富な塩化物泉で、美肌と保温効果に優れた「海の温泉」として親しまれています。そして冬の鳥取といえば、最高峰の冬の味覚『鳥取松葉ガニ』。甲羅幅や重量、身入りなど厳しい基準をクリアした最高峰トップブランド『五輝星（いつきぼし）』をはじめ、鮮度抜群の活蟹が市場に並びます。この地に佇むのが、川床から自噴する奇跡の「巌窟の湯」と国登録有形文化財の数寄屋建築を誇る名門『三朝温泉 旅館 大橋』や、全室オーシャンビュー客室露天風呂と海に溶け込むインフィニティ天空露天風呂を備えた最新ラグジュアリー『皆生游月（ゆうげつ）』。さらには広大な回遊式大庭園露天風呂を誇る『依山楼 岩崎』など、本物の癒やしと贅を極めた宿が揃います。夕食には、鳥取松葉ガニの花咲く蟹刺し、炭火で香ばしく焼き上げる焼きガニ、濃厚な蟹味噌、そしてオリーブオイルの主成分であるオレイン酸を豊富に含み口どけ抜群の『鳥取和牛オレイン55』のステーキ。奇跡の名湯と日本海の至高の味覚に酔いしれる、至福の山陰冬リトリートです。
             </p>
@@ -127,10 +123,7 @@ export default function Page() {
 
           {/* 訪れるべき3つの理由 */}
           <section>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-              <span className="text-amber-600">★</span>
-              <span>2026-2027年冬に訪れるべき3つの理由</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2"><span>2026-2027年冬に訪れるべき3つの理由</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               
           <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition">
@@ -162,9 +155,7 @@ export default function Page() {
 
           
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
-              周辺観光スポット：世界屈指の高濃度ラドンを含む奇跡の治癒泉・三朝温泉（三朝川沿いの湯治場と三徳山三仏寺）
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">周辺観光スポット：世界屈指の高濃度ラドンを含む奇跡の治癒泉・三朝温泉（三朝川沿いの湯治場と三徳山三仏寺）</h2>
             
             <div className="relative rounded-xl overflow-hidden aspect-video shadow-md bg-slate-100">
               <img
@@ -186,10 +177,8 @@ export default function Page() {
           {/* 厳選ホテル5選 */}
           <section className="space-y-8">
             <div className="border-b border-slate-200 pb-4">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3">
-                <span className="text-amber-600">◆</span>
-                <span>厳選の最高級宿5選</span>
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3"><span className="text-amber-600">◆</span>
+                <span>厳選の最高級宿5選</span></h2>
               <p className="text-slate-500 text-xs md:text-sm mt-1">
                 ※宿泊料金・クチコミ評価は楽天トラベル公式生データ連携
               </p>
@@ -201,9 +190,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                三朝温泉　旅館　大橋
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">三朝温泉　旅館　大橋</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 国登録有形文化財の数寄屋建築！川底から湧く自噴「巌窟の湯」と現代の名工による極上会席
               </p>
@@ -238,10 +225,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>昭和7年創業、本館や離れのほぼすべてが国の登録有形文化財に指定された名門旅館。宮大工の精緻な木造建築美が息づきます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>名物「巌窟の湯」は三朝川の川床の岩間から温泉が自噴する奇跡の湯船。空気に触れずに湧き出る生まれたての名湯を満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>「現代の名工」に選ばれた料理長が手掛ける極上の会席料理。冬は活松葉ガニや鳥取和牛を素材の持ち味を極限まで引き出して提供します。</span></li>
                 </ul>
@@ -270,9 +255,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                皆生游月
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">皆生游月</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 全室フロントオーシャンビュー露天風呂付き！海と空に溶け込むインフィニティ天空露天と松葉ガニ
               </p>
@@ -307,10 +290,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2019年開業、全室が日本海を一望する温泉露天風呂付きのラグジュアリーリゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>最上階のインフィニティ露天風呂からは、水平線と湯船が一体化する息を呑む絶景。朝陽や夕暮れの海景に包まれます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は境港直送の活松葉ガニや鳥取和牛をふんだんに取り入れた和洋創作コース。洗練されたモダンな空間で贅沢な美食を堪能できます。</span></li>
                 </ul>
@@ -339,9 +320,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                三朝温泉　依山楼　岩崎
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">三朝温泉　依山楼　岩崎</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 回遊式大庭園露天風呂「山の湯」！文豪ゆかりの老舗旅館と鳥取松葉ガニ・鳥取牛
               </p>
@@ -376,10 +355,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>創業明治元年の歴史を誇り、与謝野晶子や島崎藤村ら多くの文豪が愛逗留した三朝温泉を代表する名門旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>千数百坪の敷地に配された回遊式大庭園風呂「山の湯・里の湯」には多彩な湯船が点在。三朝随一のラジウム湯めぐりが楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬は鳥取松葉ガニを贅沢に使った焼き蟹、蟹刺し、蟹すき鍋会席。伝統のおもてなしと手入れの行き届いた日本庭園が迎えてくれます。</span></li>
                 </ul>
@@ -408,9 +385,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                皆生温泉　華水亭
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">皆生温泉　華水亭</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 日本海のパノラマを一望する名門和風旅館！自家源泉の美肌湯と贅を尽くした海鮮会席
               </p>
@@ -445,10 +420,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>皆生海岸の波打ち際に佇み、客室や露天風呂から白砂青松の海岸美と日本海のパノラマを一望する高級和風旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内から湧き出る豊富な自家源泉「宝生の泉」を使用。肌を滑らかにする海のミネラル温泉をゆったりと満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>冬の味覚の王様・松葉ガニを中心に、日本海近海で獲れた新鮮な魚介と鳥取和牛を贅沢に盛り込んだ極上会席が自慢です。</span></li>
                 </ul>
@@ -477,9 +450,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                三朝温泉　三朝館
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">三朝温泉　三朝館</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 千坪の日本庭園に広がる自家源泉かけ流し庭園風呂！三朝随一の湯量と旬の味覚会席
               </p>
@@ -514,10 +485,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広大な千坪の日本庭園に包まれ、三朝温泉屈指の湯量を誇る自家源泉を惜しみなく注ぎ込む人気の老舗温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>庭園と調和した野趣あふれる大露天風呂や、バラを浮かべた女性限定風呂など多彩な湯浴みで心身を解きほぐせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は山陰の冬の恵みである松葉ガニや鳥取県産黒毛和牛を使った贅沢な会席コース。心温まる細やかなおもてなしが評判です。</span></li>
                 </ul>
@@ -545,9 +514,7 @@ export default function Page() {
 
           {/* エリアへのアクセス＆冬の過ごし方 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              エリアへのアクセス＆冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">エリアへのアクセス＆冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-700 leading-relaxed bg-slate-50 p-4 rounded-xl border border-slate-200">
               【エリアへのアクセス】
 ・飛行機・空港から：鳥取砂丘コナン空港より空港連絡バスで鳥取駅または倉吉駅経由三朝温泉まで約1時間15分。米子鬼太郎空港より空港連絡バスで米子駅または皆生温泉まで約25〜30分。羽田空港から約1時間15分で直行可能。
@@ -563,37 +530,29 @@ export default function Page() {
 
           {/* よくある質問 (FAQ) */}
           <section className="space-y-4">
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2">
-              <span className="text-amber-600">？</span>
-              <span>よくある質問（FAQ）</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2"><span className="text-amber-600">？</span>
+              <span>よくある質問（FAQ）</span></h2>
             <div className="space-y-3">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>三朝温泉の「ラジウム温泉（放射能泉）」にはどんな健康効果があるのですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>三朝温泉の「ラジウム温泉（放射能泉）」にはどんな健康効果があるのですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               三朝温泉は世界有数の高濃度ラドン（ラジウムが分解されて生じる気体）を含有しています。微量の放射線を浴びることで人体の自然治癒力や免疫力が活性化される「ホルミシス効果」があるとされ、新陳代謝の向上、冷え性改善、疲労回復、痛風や関節痛の緩和などに優れた効果を発揮します。温泉に浸かるだけでなく、湯気を吸い込む「吸入」や「飲泉」も効果的です。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>鳥取の松葉ガニのトップブランド「五輝星（いつきぼし）」とはどのような蟹ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>鳥取の松葉ガニのトップブランド「五輝星（いつきぼし）」とはどのような蟹ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               鳥取県で水揚げされる松葉ガニのうち、甲羅幅13.5cm以上、重量1.2kg以上、濁りのない鮮やかな体色、身詰まりの良さ、完全な脚揃いなど、極めて厳格な5つの基準をすべてクリアしたごく一部の最高峰だけに与えられるプレミアムブランドです。市場では高値で取引される幻の逸品です。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>三朝温泉と皆生温泉はどのくらい離れていますか？両方巡ることは可能ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>三朝温泉と皆生温泉はどのくらい離れていますか？両方巡ることは可能ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               三朝温泉と皆生温泉は車で約50分（山陰自動車道・国道9号経由）の距離にあります。公共交通機関でもJR山陰本線（倉吉駅〜米子駅）を利用して約40分で移動できるため、三朝の山あいの歴史ある湯治場と、皆生の開放的な日本海のオーシャンビューリゾートを組み合わせた連泊や周遊旅行が大変人気です。
             </p>
@@ -627,9 +586,7 @@ export default function Page() {
 
           {/* 内部リンク・関連特集 */}
           <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900">
-              関連特集・あわせて読みたい冬の極上旅
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900">関連特集・あわせて読みたい冬の極上旅</h2>
             <ul className="space-y-2">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

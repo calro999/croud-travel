@@ -269,9 +269,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Caldera Majesty & Akagyu Beef</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の大カルデラと豊かな湧水温泉｜11月・12月に阿蘇内牧温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の大カルデラと豊かな湧水温泉｜11月・12月に阿蘇内牧温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Caldera & Mythological Vistas</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                南北25kmの外輪山が抱く大カルデラと初冬の雲海に浮かぶ涅槃像
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">南北25kmの外輪山が抱く大カルデラと初冬の雲海に浮かぶ涅槃像</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Selected Onsen Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【阿蘇内牧温泉】初冬の絶景とあか牛・名湯掛け流しを堪能する厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【阿蘇内牧温泉】初冬の絶景とあか牛・名湯掛け流しを堪能する厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               文豪ゆかりの名宿、最上階パノラマ露天風呂、貸切風呂巡り、美食料理旅館など厳選して詳しく紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-700 transition-colors">
-                      <a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
                         {h.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       {h.story}
@@ -444,9 +436,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                阿蘇溶岩プレートの遠赤外線効果とあか牛の赤身肉イノシン酸
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">阿蘇溶岩プレートの遠赤外線効果とあか牛の赤身肉イノシン酸</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -467,9 +457,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の阿蘇大観峰雲海とあか牛溶岩焼き＆内牧名湯巡りの休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の阿蘇大観峰雲海とあか牛溶岩焼き＆内牧名湯巡りの休日</h2>
             </div>
           </div>
 
@@ -538,48 +526,38 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Advice & Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の阿蘇旅行を安全＆快適に満喫するための4大秘訣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の阿蘇旅行を安全＆快適に満喫するための4大秘訣</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-rose-50/40 rounded-2xl p-5 border border-rose-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-rose-600" />
-                九州とは思えない冷え込み！真冬並みの防寒着を
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-rose-600" />
+                九州とは思えない冷え込み！真冬並みの防寒着を</h3>
               <p className="leading-relaxed">
                 標高が高い阿蘇地域は、11月下旬以降朝晩の気温が氷点下まで下がります。特に風が吹き抜ける大観峰や草千里ヶ浜では体感温度が著しく低下するため、厚手ダウン、手袋、マフラー、ニット帽を必ず着用して観光しましょう。
               </p>
             </div>
 
             <div className="bg-rose-50/40 rounded-2xl p-5 border border-rose-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-rose-600" />
-                早朝の雲海狙いは「湿度高め＆無風の晴朝」が条件
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-rose-600" />
+                早朝の雲海狙いは「湿度高め＆無風の晴朝」が条件</h3>
               <p className="leading-relaxed">
                 大観峰やミルクロードからの雲海は、前日に雨が降り湿度が高く、翌朝が放射冷却で晴れて風がない日に高確率で発生します。早朝6時30分〜7時30分頃の日の出前後を狙って訪れると、息を呑む絶景に出会えます。
               </p>
             </div>
 
             <div className="bg-rose-50/40 rounded-2xl p-5 border border-rose-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-rose-600" />
-                峠道や山間部の凍結に備えてスタッドレスを
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-rose-600" />
+                峠道や山間部の凍結に備えてスタッドレスを</h3>
               <p className="leading-relaxed">
                 12月に入るとミルクロードや阿蘇パノラマラインなどの山道で初雪や路面凍結が発生することがあります。レンタカーを借りる際はスタッドレスタイヤ装着車を指定し、日没後の無理な山道運転は控えましょう。
               </p>
             </div>
 
             <div className="bg-rose-50/40 rounded-2xl p-5 border border-rose-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-rose-600" />
-                熊本の地酒「れいざん」や球磨焼酎との晩酌
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-rose-600" />
+                熊本の地酒「れいざん」や球磨焼酎との晩酌</h3>
               <p className="leading-relaxed">
                 阿蘇高森の銘酒「れいざん」は、阿蘇の清冽な湧水で仕込まれた辛口でキレのある地酒。あか牛の脂をさっぱりと包み込み、馬刺しの甘みを最大限に引き出してくれます。米焼酎の球磨焼酎もお湯割りで美味しくいただけます。
               </p>
@@ -595,19 +573,15 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                阿蘇内牧温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">阿蘇内牧温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -620,9 +594,7 @@ export default function KumamotoAsoUchinomakiWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-rose-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！九州の冬温泉＆美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！九州の冬温泉＆美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               熊本・大分・九州各地の厳選された名湯や極上和牛の特集記事もぜひあわせてチェックしてください。
             </p>

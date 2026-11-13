@@ -108,9 +108,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  同伴者に気兼ねゼロ！滞在のスケジュールも温泉に入るタイミングも完全に自由
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">同伴者に気兼ねゼロ！滞在のスケジュールも温泉に入るタイミングも完全に自由</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 誰かと行く旅行では食事の時間や行き先を合わせる必要がありますが、一人旅なら全てが思い通り。早朝の澄んだ空気の中で露天風呂に浸かるのも、昼寝をしてから遅めの温泉街散歩に出かけるのも自由。自分の体内時計に合わせて心のおもむくままに過ごすことで、深い精神的充足感が得られます。
@@ -123,9 +121,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  一人利用でも安心な「客室露天風呂」や「お部屋食・個室食事処」プランが充実
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">一人利用でも安心な「客室露天風呂」や「お部屋食・個室食事処」プランが充実</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 「大浴場で周囲の目が気になる」「一人で食事処に行くのが少し気恥ずかしい」という方でも安心。客室に専用露天風呂が付いたお部屋や、夕食をお部屋または仕切りのある個室ダイニングでいただけるプランを選ぶことで、プライバシーが完全に保たれた安心の休日が過ごせます。
@@ -138,9 +134,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  エステ・マッサージ・読書ラウンジで日頃のストレスや身体のコリを根底からデトックス
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">エステ・マッサージ・読書ラウンジで日頃のストレスや身体のコリを根底からデトックス</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 名湯で血行を促進した後は、熟練セラピストによるアロマトリートメントや整体マッサージで身体の緊張を完全にほぐすのがおすすめ。静かなカフェラウンジで温かいハーブティーを飲みながら本の世界に没頭する時間は、忙しい日常では決して得られない最高の心の栄養になります。
@@ -183,9 +177,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・須雲川の渓流沿いに佇む露天風呂付き客室と癒やしの宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    箱根湯本温泉　ホテル南風荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">箱根湯本温泉　ホテル南風荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根湯本駅から車で約7分、須雲川のせせらぎと緑豊かな山々に包まれた落ち着きある温泉ホテル。一人旅歓迎の露天風呂付き客室プランが用意されており、テラスの信楽焼浴槽で箱根の天然温泉を独り占めできます。アルカリ性単純温泉のやわらかな湯は美肌効果が高く、長時間の入浴でも疲れ知らず。夕食はお部屋または個室風の落ち着いた食事処で季節の会席料理を味わえ、周囲を気にせずマイペースに寛ぐ大人のリトリートステイに最適です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     群馬県草津町・湯畑まで徒歩すぐ！天下の名湯と家庭的な温もりの老舗宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    草津温泉　薬師の湯　湯元館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">草津温泉　薬師の湯　湯元館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     草津温泉のシンボル「湯畑」から徒歩すぐの好立地に佇む、歴史ある小さな名湯旅館。酸性度の高い強烈な殺菌力と治癒力を持つ草津の名湯「白旗源泉」を引く内湯は、源泉かけ流しで24時間いつでも入浴可能。一人旅の受け入れにも非常に積極的で、女将さんの温かなもてなしと地元群馬の旬食材を使った手作りの和食膳が身体に染み渡ります。下駄と浴衣で湯畑周辺の足湯や共同浴場をぶらりと散策する、情緒豊かな一人旅が楽しめます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県由布市・由布岳山麓に佇む神秘の青湯と離れの隠れ家温泉宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    由布院温泉　束ノ間
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">由布院温泉　束ノ間</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     由布院の喧騒から離れた高台に位置し、大自然に溶け込む広大な敷地を持つ大人の隠れ宿。宿の自慢は、空気に触れることでコバルトブルーからミルキーブルーへと色彩を変える神秘の「青湯」。メタケイ酸を国内屈指の濃度で含み、とろりとした湯触りは極上の化粧水に浸かっているかのよう。客室は独立した離れスタイルで、由布岳の雄大な姿と鳥のさえずりをBGMに、静かに瞑想や読書を楽しむ贅沢な一人時間が約束されます。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】箱根湯本温泉 ホテル南風荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】箱根湯本温泉 ホテル南風荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoSoloTravelRetreatStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と箱根湯本温泉 ホテル南風荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と箱根湯本温泉 ホテル南風荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

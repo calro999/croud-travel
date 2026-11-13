@@ -268,9 +268,7 @@ export default function NiigataSadoIslandPage() {
               <Sparkles className="w-4 h-4 text-teal-800" />
               初冬・真冬の佐渡島が日本屈指の美食パラダイスである理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              日本海の荒海が育てる極上寒ブリと本ズワイガニ・世界遺産を彩る白銀の静寂
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">日本海の荒海が育てる極上寒ブリと本ズワイガニ・世界遺産を彩る白銀の静寂</h2>
           </div>
 
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
@@ -293,9 +291,7 @@ export default function NiigataSadoIslandPage() {
               <ShieldCheck className="w-4 h-4" />
               厳選宿泊施設ガイド
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">
-              佐渡寒ブリと絶景温泉に浸る名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">佐渡寒ブリと絶景温泉に浸る名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
@@ -325,9 +321,7 @@ export default function NiigataSadoIslandPage() {
                         <Waves className="w-3.5 h-3.5" />
                         佐渡温泉＆極上寒ブリ美食宿
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -390,17 +384,13 @@ export default function NiigataSadoIslandPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              佐渡汽船で行く冬の寒ブリ三昧と世界遺産佐渡金山巡り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">佐渡汽船で行く冬の寒ブリ三昧と世界遺産佐渡金山巡り</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【1日目】新潟港から佐渡へ・世界遺産金山と寒ブリ会席
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【1日目】新潟港から佐渡へ・世界遺産金山と寒ブリ会席</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -430,10 +420,8 @@ export default function NiigataSadoIslandPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【2日目】冬の加茂湖畔と小木たらい舟体験・おみやげ購入
-              </h3>
+              <h3 className="font-bold text-teal-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【2日目】冬の加茂湖畔と小木たらい舟体験・おみやげ購入</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -467,27 +455,21 @@ export default function NiigataSadoIslandPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               佐渡島の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              島旅の記憶を持ち帰る佐渡の極上銘品と冬のおすすめ立ち寄り処
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">島旅の記憶を持ち帰る佐渡の極上銘品と冬のおすすめ立ち寄り処</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                佐渡の蔵元銘酒「北雪」「真野鶴」＆佐渡バター
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                佐渡の蔵元銘酒「北雪」「真野鶴」＆佐渡バター</h3>
               <p>
                 佐渡の寒冷な冬気と超軟水の清らかな水で醸される地酒は全国屈指の完成度。世界最高峰のレストランでも愛される「北雪」の大吟醸や、女性杜氏が醸す華やかな「真野鶴」は冬の寒ブリと最高の相性です。また、伝統の木製チャーンで作られる幻の「佐渡バター」も手に入れば絶対買いの逸品。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-teal-700" />
-                佐渡寒ブリ粕漬け＆伝統銘菓「おけさ柿のあんぽ柿」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-teal-700" />
+                佐渡寒ブリ粕漬け＆伝統銘菓「おけさ柿のあんぽ柿」</h3>
               <p>
                 旬の寒ブリを地酒の酒粕にじっくり漬け込んだ「寒ブリ粕漬け」は、自宅で焼くだけで芳醇な香りと脂の旨味が蘇る至高の逸品。また、種なしで上品な甘みを誇るブランド柿「おけさ柿」を冬の寒風で干し上げた「あんぽ柿」は、トロリとした羊羹のような自然の甘みが楽しめます。
               </p>
@@ -502,32 +484,24 @@ export default function NiigataSadoIslandPage() {
               <ThermometerSun className="w-4 h-4 text-teal-800" />
               佐渡寒ブリの海洋メカニズムと金山文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の佐渡沖は「寒ブリの奇跡の海域」なのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の佐渡沖は「寒ブリの奇跡の海域」なのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-teal-700" />
-              北の栄養豊かな海から南下するブリを迎え撃つ「両津湾の巨大定置網」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-700" />
+              北の栄養豊かな海から南下するブリを迎え撃つ「両津湾の巨大定置網」</h3>
             <p>
               ブリは夏の間、オホーツク海や北海道沿岸でイワシやイカなどを大量に捕食し、秋の深まりとともに産卵のために九州方面へと南下を開始します。そのルートのちょうど中間地点に位置するのが佐渡島です。佐渡の両津湾は水深が急激に深くなるすり鉢状の地形をしており、南下してきた巨大なブリの群れが湾内に自然と誘い込まれます。冬の荒海で筋肉が引き締まり、なおかつ極限まで脂を蓄えた状態で水揚げされるため、佐渡の寒ブリは「味・脂の乗り・身の締まり」の三拍子が奇跡的に揃うのです。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-teal-700" />
-              400年の歴史が息づく世界遺産「佐渡島の金山」と冬の幽玄美
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-teal-700" />
+              400年の歴史が息づく世界遺産「佐渡島の金山」と冬の幽玄美</h3>
             <p>
               1601年の開山以来、江戸幕府の財政を支え続け、最盛期には世界最大の産出量を誇った佐渡金山。手掘りで掘り進められた全長400kmにも及ぶ坑道網（宗太夫坑など）は、当時の高度な測量・採掘技術を今に伝えています。山頂がV字型に割れた「道遊の割戸」は、露頭を人力で掘り進めた結果生まれた巨大な遺構。冬の白い雪が岩肌に降り積もる姿は、400年にわたる鉱夫たちの祈りと歴史の重みを静かに語りかけてきます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              地質学的奇跡・離島に湧き出る多彩な高温泉と美肌泉質
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Flame className="w-4 h-4 text-teal-700" />
+              地質学的奇跡・離島に湧き出る多彩な高温泉と美肌泉質</h3>
             <p>
               離島でありながら、佐渡島には地下深層のプレート境界に起因する活発な温泉脈が数多く存在します。八幡温泉のように地下1,000m以上から自噴する弱アルカリ性高温泉や、加茂湖温泉の炭酸水素塩泉、小木温泉のpH9.2を誇る強アルカリ性美肌泉など、エリアごとに泉質が全く異なるのも特徴です。海水成分を含んだ塩化物泉は「温まりの湯」として冬の冷えを劇的に解消し、炭酸水素塩成分が肌をツルツルに磨き上げます。
             </p>
@@ -541,18 +515,14 @@ export default function NiigataSadoIslandPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の佐渡島旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の佐渡島旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

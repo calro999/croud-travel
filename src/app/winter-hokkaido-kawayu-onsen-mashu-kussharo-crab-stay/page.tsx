@@ -262,10 +262,8 @@ export default function HokkaidoKawayuPage() {
             川湯温泉・屈斜路湖の初冬の魅力
           </div>
           
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">
-            大地の息吹が噴き出す強酸性泉と、白鳥が遊ぶ静謐なカルデラ湖。<br />
-            氷点下の世界で出会う本物の湯力とオホーツク冬の幸
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">大地の息吹が噴き出す強酸性泉と、白鳥が遊ぶ静謐なカルデラ湖。<br />
+            氷点下の世界で出会う本物の湯力とオホーツク冬の幸</h2>
 
           <div className="text-stone-600 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
@@ -314,9 +312,7 @@ export default function HokkaidoKawayuPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の北海道・川湯温泉＆屈斜路湖で泊まるべき名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の北海道・川湯温泉＆屈斜路湖で泊まるべき名宿5選</h2>
             <p className="text-stone-500 text-sm mt-1">
               楽天トラベルで高評価を博す、本物の強酸性源泉と道東の至高グルメが自慢の宿
             </p>
@@ -357,9 +353,7 @@ export default function HokkaidoKawayuPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                         {hotel.story}
@@ -430,35 +424,27 @@ export default function HokkaidoKawayuPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の道東オホーツク美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の北海道・川湯で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の北海道・川湯で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                冬が旬のオホーツク産「極上毛ガニ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                冬が旬のオホーツク産「極上毛ガニ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 初冬のオホーツク海で水揚げされる毛ガニは、身入りがびっしりと詰まり、濃厚でクリーミーなカニ味噌が最高潮の美味しさを迎えます。塩茹でしたての熱々を一杯丸ごといただく贅沢は、冬の道東旅最大の歓びです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                北海道産「十勝和牛」ステーキ
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                北海道産「十勝和牛」ステーキ</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 澄んだ空気と広大な十勝平野で丹精込めて育てられた黒毛和牛「十勝和牛」。上質な赤身の力強い旨味ときめ細やかなサシが特徴で、陶板焼きや炭火焼きで香ばしく仕上げれば、肉汁が口いっぱいに広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                大粒ホタテと北海シマエビ・摩周そば
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                大粒ホタテと北海シマエビ・摩周そば</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 甘みと歯ごたえが際立つオホーツク海産の大粒ホタテや濃厚な北海シマエビのお造り。さらに弟子屈町特産の香り高い「摩周そば」の新そばなど、道東の海と大地が育んだ多彩な味覚が贅沢に並びます。
               </p>
@@ -472,17 +458,13 @@ export default function HokkaidoKawayuPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の川湯温泉＆屈斜路湖・摩周湖 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の川湯温泉＆屈斜路湖・摩周湖 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：女満別空港から白銀の道東へ・屈斜路湖砂湯の白鳥と強酸性名湯チェックイン
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                美幌峠の大パノラマから白鳥の砂湯、活火山・硫黄山の噴煙と極上毛ガニ会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">美幌峠の大パノラマから白鳥の砂湯、活火山・硫黄山の噴煙と極上毛ガニ会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 女満別空港またはJR釧網本線川湯温泉駅に到着後、まずは美幌峠へ立ち寄り、白銀に輝く日本最大のカルデラ湖・屈斜路湖の大パノラマを一望。続いて砂浜を掘ると温泉が湧き出す屈斜路湖畔の「砂湯」へ向かい、湯けむりに包まれて羽を休める無数のオオハクチョウの優美な姿を間近で観察。すぐ近くの活火山「硫黄山（アトサヌプリ）」では、黄色い硫黄結晶と轟音を立てて噴き出す白い噴煙の大迫力に圧倒されます。夕暮れ前に川湯温泉の宿へチェックインし、pH1.7の強酸性硫黄泉に浸かって移動の疲れを芯から癒やします。夜は濃厚な味噌が詰まったオホーツク海産茹で毛ガニと十勝和牛の陶板焼きに舌鼓。
               </p>
@@ -492,9 +474,7 @@ export default function HokkaidoKawayuPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：氷点下の朝風呂・神秘の摩周湖「摩周ブルー」と香り高い摩周そば
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                霧氷輝く神秘の摩周湖展望台から、弟子屈町名物摩周そばとクラフト温泉街散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">霧氷輝く神秘の摩周湖展望台から、弟子屈町名物摩周そばとクラフト温泉街散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 氷点下に冷え込む清々しい朝、湯の花が舞う強酸性泉で目覚めの湯浴み。朝食には炊き立ての北海道米と道産鮭の塩焼き、具だくさんの汁物をいただきチェックアウト。世界屈指の透明度を誇る「摩周湖第一展望台」へ向かい、冬の張り詰めた空気の中で深い藍色を湛える「摩周ブルー」と周囲の樹氷の絶景に息を呑みます。昼食には弟子屈町特産の風味豊かな「新そば（摩周そば）」を味わい、川湯温泉駅舎内のレトロな喫茶店で温かい珈琲を楽しんで、冬の道東ならではの忘れられない思い出とともに帰路へ。
               </p>
@@ -509,16 +489,12 @@ export default function HokkaidoKawayuPage() {
             初冬の川湯温泉・屈斜路湖 旅の心得とアクセスガイド
           </div>
 
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            氷点下の極寒地帯を安全に楽しむための実践知識
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">氷点下の極寒地帯を安全に楽しむための実践知識</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                女満別・釧路両空港からのスマートアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                女満別・釧路両空港からのスマートアクセス</h3>
               <p>
                 女満別空港からは美幌峠経由で車で約60分、釧路空港からは釧路湿原経由で約90分。
               </p>
@@ -528,10 +504,8 @@ export default function HokkaidoKawayuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-amber-700" />
-                完全凍結アイスバーンと地吹雪への備え
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-amber-700" />
+                完全凍結アイスバーンと地吹雪への備え</h3>
               <p>
                 11月中旬以降の道東は最高気温でも氷点下の「真冬日」が頻発し、路面は完全なミラーバーン・ブラックアイスバーン状態となります。
               </p>
@@ -542,10 +516,8 @@ export default function HokkaidoKawayuPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              pH1.7強酸性温泉の入浴エチケットと湯冷め対策
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              pH1.7強酸性温泉の入浴エチケットと湯冷め対策</h3>
             <p>
               川湯の湯は酸性度が非常に高いため、初めて浸かる際は足元からゆっくりとかけ湯を行い、身体を徐々に慣らすことが肝要です。
             </p>
@@ -561,16 +533,12 @@ export default function HokkaidoKawayuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の北海道・川湯温泉＆屈斜路湖旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の北海道・川湯温泉＆屈斜路湖旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -582,10 +550,8 @@ export default function HokkaidoKawayuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい北海道の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい北海道の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の大自然と名湯、極上の北海道牛・海鮮会席を満喫する厳選旅ガイド
             </p>
@@ -597,9 +563,7 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・阿寒湖温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                阿寒湖の奇跡フロストフラワーと北海道牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿寒湖の奇跡フロストフラワーと北海道牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 氷上に咲く霜の花とアイヌコタンの文化、冬の阿寒カルデラに湧く名湯で心身を解きほぐす旅。
               </p>
@@ -610,9 +574,7 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・十勝川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                植物性モール温泉と十勝牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">植物性モール温泉と十勝牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 琥珀色に輝く奇跡の美肌モール泉と白鳥飛来の十勝川、極上十勝牛を味わう冬の贅沢滞在。
               </p>
@@ -623,9 +585,7 @@ export default function HokkaidoKawayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">北海道・層雲峡温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                大雪山層雲峡の巨大氷瀑と雪見露天風呂
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">大雪山層雲峡の巨大氷瀑と雪見露天風呂</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 柱状節理の断崖に凍りつく滝と氷瀑まつり、冷えた身体を芯から温める山峡の名湯。
               </p>

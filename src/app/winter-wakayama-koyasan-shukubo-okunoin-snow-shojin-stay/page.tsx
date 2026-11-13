@@ -302,9 +302,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀に鎮もる天空の聖域と、千二百年の祈りに抱かれる冬の宿坊
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀に鎮もる天空の聖域と、千二百年の祈りに抱かれる冬の宿坊</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -327,9 +325,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の高野山を満喫する3大感動体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高野山を満喫する3大感動体験</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -337,9 +333,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-indigo-50 border border-indigo-200 flex items-center justify-center text-indigo-800">
                 <Mountain className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 白銀の奥之院参道と壇上伽藍の雪景色
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 白銀の奥之院参道と壇上伽藍の雪景色</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 樹齢数百年の杉巨木が雪をまとう奥之院の神秘的な参道。朱色の根本大塔と白銀の雪が織りなす壇上伽藍の鮮烈な美しさに圧倒される聖地体験。
               </p>
@@ -349,9 +343,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-purple-50 border border-purple-200 flex items-center justify-center text-purple-800">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 宿坊での阿字観瞑想体験＆早朝護摩祈祷
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 宿坊での阿字観瞑想体験＆早朝護摩祈祷</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 呼吸を整えて心を無にする阿字観や写経体験。翌朝、本堂で燃え上がる護摩の炎と僧侶の荘厳な読経・声明に包まれ、新年の無事と開運を祈る祈りの時間。
               </p>
@@ -361,9 +353,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-amber-50 border border-amber-200 flex items-center justify-center text-amber-800">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 冬の身体に染み渡る本格「精進料理」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 冬の身体に染み渡る本格「精進料理」</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 手練り生胡麻豆腐、伝統の高野豆腐含め煮、温かい根菜鍋など、五味五色五法の妙を極めた滋味あふれる料理。身体を内側から浄化する至高の美味。
               </p>
@@ -375,9 +365,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】白銀の高野山と宿坊体験を巡る天空の祈り旅黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】白銀の高野山と宿坊体験を巡る天空の祈り旅黄金モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               南海難波駅を起点に、特急こうやとケーブルカーを利用して冬の聖地リトリートを安全・快適に体験するプラン。
             </p>
@@ -388,9 +376,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 高野山駅到着 ➔ 門前通りで温かい精進うどんランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 高野山駅到着  門前通りで温かい精進うどんランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   極楽橋駅からケーブルカーで高野山駅へ。路線バスで山内中心部へ移動し、門前のお食事処で高野豆腐や山菜が入った熱々の精進うどんや名物笹すしを味わい、身体を温めます。
                 </p>
@@ -399,9 +385,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 壇上伽藍＆総本山金剛峯寺拝観 ➔ 白銀の根本大塔と蟠龍庭
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 壇上伽藍＆総本山金剛峯寺拝観  白銀の根本大塔と蟠龍庭</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   雪化粧した朱色の根本大塔、金堂が並ぶ壇上伽藍を散策。続いて総本山金剛峯寺へ。日本最大の石庭「蟠龍庭」の白砂と巨石が雪をまとう雄大な雪景色を鑑賞します。
                 </p>
@@ -410,9 +394,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 宿坊寺院チェックイン ➔ 阿字観（瞑想）体験＆伝統精進懐石ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 宿坊寺院チェックイン  阿字観（瞑想）体験＆伝統精進懐石ディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   暖房完備の静謐な宿坊へ。夕暮れの本堂で僧侶の手ほどきを受け阿字観瞑想を体験し、心を整えます。夕食は手練り生胡麻豆腐や高野豆腐含め煮など、滋味豊かな精進料理をお部屋食で堪能。
                 </p>
@@ -421,9 +403,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  06:30 本堂朝の勤行＆護摩祈祷 ➔ 白銀の奥之院参拝・弘法大師御廟へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">06:30 本堂朝の勤行＆護摩祈祷  白銀の奥之院参拝・弘法大師御廟へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   早朝、本堂で燃え上がる護摩の炎と声明に包まれ新春の開運祈祷。精進朝食後は雪の奥之院へ。杉巨木が雪をまとう静寂の参道を歩き、御廟で感謝の祈りを捧げて帰路へ就きます。
                 </p>
@@ -436,27 +416,21 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              密教の精神が宿る「精進料理」と高野山伝統の食の知恵
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">密教の精神が宿る「精進料理」と高野山伝統の食の知恵</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-indigo-800" />
-                五味五色五法の妙・生胡麻豆腐と凍み豆腐の誕生秘話
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-indigo-800" />
+                五味五色五法の妙・生胡麻豆腐と凍み豆腐の誕生秘話</h3>
               <p>
                 高野山の精進料理は、甘・辛・酸・苦・鹹（塩）の「五味」、赤・黄・青・黒・白の「五色」、生・煮る・焼く・揚げる・蒸すの「五法」を調和させる高度な食文化です。中でも白胡麻と吉野葛をすり鉢で丹念に練り上げる「胡麻豆腐」は、クリーミーで濃厚なコクが特徴。また、冬の厳しい寒風を利用して豆腐を凍結・乾燥させて保存性を高めた「高野豆腐」は、高野山の僧侶たちが生み出した日本を代表する伝統保存食です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-indigo-800" />
-                弘法大師ゆかりの銘菓「みろく石」と高野槙の香り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-indigo-800" />
+                弘法大師ゆかりの銘菓「みろく石」と高野槙の香り</h3>
               <p>
                 奥之院の御影堂近くにある重さを量る霊石「みろく石」にちなんだ名菓「みろく石」は、粒あんを風味豊かな求肥で包んだ素朴な銘菓でお土産に最適です。また、高野山では仏前に供える神聖な木として「高野槙（こうやまき）」が重宝され、清々しい木の香りが漂うお香や数珠など、聖地ならではの心洗われる品々が門前通りに並びます。
               </p>
@@ -468,9 +442,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の高野山で心身を清める厳選宿坊名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の高野山で心身を清める厳選宿坊名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、由緒・精進料理・暖房設備が高評価の宿。
             </p>
@@ -504,9 +476,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -566,9 +536,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="bg-indigo-50/60 rounded-3xl p-6 sm:p-10 border border-indigo-200/60 space-y-6">
           <div className="border-b border-indigo-200/80 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">
-              冬の高野山を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950">冬の高野山を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-indigo-950">
@@ -608,20 +576,16 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の高野山・宿坊滞在＆参拝に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の高野山・宿坊滞在＆参拝に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-indigo-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function WakayamaKoyasanShukuboWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・聖地・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・聖地・温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

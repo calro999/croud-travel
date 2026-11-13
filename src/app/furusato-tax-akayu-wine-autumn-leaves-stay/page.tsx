@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              上杉鷹山公も愛した名湯！赤湯ワインの故郷と最高峰「米沢牛」の贅
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">上杉鷹山公も愛した名湯！赤湯ワインの故郷と最高峰「米沢牛」の贅</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             寛治7年（1093年）、源義綱が発見したと伝わる山形県南陽市の「赤湯温泉」。上杉藩の指定湯治場として栄えた歴史を誇り、温泉街のすぐ裏手にある「烏帽子山公園」は秋になると約千本のモミジやサクラが紅葉し、置賜盆地を見渡す絶景が広がります。南陽スカイパーク（十分一山）から眺める朝の雲海も秋の風物詩。赤湯は東北最古のワイナリーが点在するワインの郷でもあり、宿自慢の源泉掛け流し温泉に浸かった後は、日本三大和牛「米沢牛」のステーキや極上すき焼きを地元産赤湯ワインとともにふるさと納税トラベルクーポンでお得に贅沢に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                烏帽子山公園の紅葉散策と十分一山（じゅうぶいちやま）の雲海
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                烏帽子山公園の紅葉散策と十分一山（じゅうぶいちやま）の雲海</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 山形百名山を望む烏帽子山公園の錦秋パノラマ。早朝には置賜盆地全体を真っ白な霧が覆い尽くす幻想的な「雲海」の絶景に出会えます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                上杉家の殿様が入浴した御殿湯の歴史と多彩な大浴場
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                上杉家の殿様が入浴した御殿湯の歴史と多彩な大浴場</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 重曹と食塩を含む肌当たりのやわらかな弱アルカリ性温泉。大石風呂や檜風呂など趣向を凝らした湯船で心ゆくまで名湯を満喫できます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                日本三大和牛「米沢牛」極上すき焼き＆赤湯ワインマリアージュ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                日本三大和牛「米沢牛」極上すき焼き＆赤湯ワインマリアージュ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 きめ細かな霜降りと上質な甘みがとろける「米沢牛」、地元4つのワイナリーが醸す赤湯ワイン、山形名物「赤湯辛味噌ラーメン」の深いコクを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.70 <span className="text-stone-400 text-xs">(753件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    赤湯温泉　上杉の御湯　御殿守
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">赤湯温泉　上杉の御湯　御殿守</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県南陽市赤湯989 ｜ JR奥羽本線赤湯駅／車：東北自動車道で米沢方面へ※福島大笹生ＩＣ－米沢北ＩＣ間無料～南陽高畠ＩＣで下り赤湯温泉へ車5分程
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.47 <span className="text-stone-400 text-xs">(659件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    赤湯温泉　森の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">赤湯温泉　森の湯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県南陽市赤湯548 ｜ JR山形新幹線赤湯駅よりタクシーで約５分、徒歩で約２５分。 東北自動車道福島飯坂ICよりお車で約７５分。
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.37 <span className="text-stone-400 text-xs">(282件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    赤湯温泉　大正ロマン香る癒しの宿　丹波館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">赤湯温泉　大正ロマン香る癒しの宿　丹波館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県南陽市赤湯1014 ｜ JR東北新幹線「赤湯駅」より車で５分 / 東北道 福島飯坂ICより１３号線経由５５㎞
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】赤湯温泉 上杉の御湯 御殿守を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】赤湯温泉 上杉の御湯 御殿守を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と赤湯温泉 上杉の御湯 御殿守の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と赤湯温泉 上杉の御湯 御殿守の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

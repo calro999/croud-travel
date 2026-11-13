@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>弾力ある肉質と濃厚なコク。炭火の香ばしさと地鶏出汁が染み渡る美食の極み</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>弾力ある肉質と濃厚なコク。炭火の香ばしさと地鶏出汁が染み渡る美食の極み</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             放し飼いや平飼いでじっくりと時間をかけて育てられた全国の最高峰ブランド地鶏。噛み締めるたびに溢れ出す濃厚な旨味、澄んだ黄金色の鶏ガラスープ、そして炭火でカリッと香ばしく焼き上げた地鶏もも肉。温泉地ならではの清らかな水と職人の技が融合した地鶏会席は、肉料理愛好家にとって忘れられない体験です。楽天ふるさと納税を活用して、本場でしか味わえない至高の鳥料理ステイをお得に堪能しましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    産地直送だからこそ実現する圧倒的な鮮度の地鶏刺身や炭火焼き
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">産地直送だからこそ実現する圧倒的な鮮度の地鶏刺身や炭火焼き</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     鮮度抜群の地鶏タタキやレバー、炭火の煙を纏った黒焼きなど、都市部ではなかなか口にできない本場ならではの調理法で地鶏本来の力強い風味を味わえます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    旨味が凝縮した濃厚地鶏スープでいただく名物水炊き・きりたんぽ鍋
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">旨味が凝縮した濃厚地鶏スープでいただく名物水炊き・きりたんぽ鍋</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     鶏ガラを何時間も煮込んで抽出したコラーゲンたっぷりの濃厚スープ。旬の地元野菜とともにいただく鍋料理は、身体の芯から滋養を与えてくれます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税返礼クーポンで郷土の食文化と銘柄鶏の保存を応援
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税返礼クーポンで郷土の食文化と銘柄鶏の保存を応援</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     伝統的な血統と飼育方法を守り続ける地鶏農家や自治体を寄付で支えながら、自己負担実質2,000円で贅沢な美食プランを楽しめます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="hinai_jidori" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>秋田県大館市ふるさと納税：比内地鶏の本場・本場大館きりたんぽ鍋と名湯大湯温泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>秋田県大館市ふるさと納税：比内地鶏の本場・本場大館きりたんぽ鍋と名湯大湯温泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       薩摩地鶏・名古屋コーチンと並ぶ日本三大美味鶏・比内地鶏。炭火で焼いた手作りきりたんぽと比内地鶏の濃厚な出汁が絡み合う本場の味を、十和田湖南麓の古湯で味わえます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              縄文のふる里　大湯温泉　ホテル鹿角
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">縄文のふる里　大湯温泉　ホテル鹿角</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               開湯800年の名湯と四季折々の彩りが添えられた料理を楽しむ。箱根・富士屋ホテルや花巻温泉もグループ。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              龍門亭　千葉旅館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">龍門亭　千葉旅館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ライトアップされた庭園を眺めながら露天に浸かる贅沢と、飽きることの無いお料理を堪能あれ。
                             </p>
@@ -286,10 +270,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="tosa_jidori" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>高知県ふるさと納税：土佐ジロー＆軍鶏・坂本龍馬も愛した軍鶏鍋と南国温泉ステイ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>高知県ふるさと納税：土佐ジロー＆軍鶏・坂本龍馬も愛した軍鶏鍋と南国温泉ステイ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       野性味あふれる肉質と濃厚な黄身が特徴の土佐ジロー。幕末の志士たちが好んだ軍鶏鍋や高知名物のカツオの藁焼きタタキとともに、南国土佐の温泉宿で豪快に食します。
                     </p>
@@ -317,9 +298,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              癒しの湯宿　龍河温泉
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">癒しの湯宿　龍河温泉</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               龍河洞・やなせたかし記念館がある田園と星空広がる街の温泉宿。季節料理、とろんとろんの天然温泉を堪能
                             </p>
@@ -354,10 +333,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="satsuma_jidori" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>鹿児島県霧島市ふるさと納税：黒さつま鶏・「黒の奇跡」炭火焼き会席と全室露天風呂付き離れ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>鹿児島県霧島市ふるさと納税：黒さつま鶏・「黒の奇跡」炭火焼き会席と全室露天風呂付き離れ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       黒豚・黒牛に続く鹿児島の新たなブランド「黒さつま鶏」。旨味成分のイノシン酸が多くジューシーな肉質を炭火焼きで堪能し、霧島連山を望む客室露天風呂でととのう極上ステイです。
                     </p>
@@ -385,9 +361,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">全室露天風呂付　ｏｎｓｅｎ　ｇａｒｄｅｎ　湯本庵　清姫</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               全９室離れのデザイナーズ客室は源泉掛流しの温泉露天風呂付！美肌の湯と旬のお食事をお楽しみください♪
                             </p>
@@ -493,9 +467,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】縄文のふる里 大湯温泉 ホテル鹿角を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】縄文のふる里 大湯温泉 ホテル鹿角を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -528,9 +500,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と縄文のふる里 大湯温泉 ホテル鹿角の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と縄文のふる里 大湯温泉 ホテル鹿角の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -625,9 +595,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -688,9 +656,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税厳選ガイド比内地鶏・土佐ジロー・黒さつま鶏の美食旅で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

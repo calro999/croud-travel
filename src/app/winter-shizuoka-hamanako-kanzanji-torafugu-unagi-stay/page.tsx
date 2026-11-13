@@ -301,9 +301,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              黒潮の恵み「遠州灘天然とらふぐ」と、冬にこそ脂が最高潮に達する「浜名湖うなぎ」の真髄
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">黒潮の恵み「遠州灘天然とらふぐ」と、冬にこそ脂が最高潮に達する「浜名湖うなぎ」の真髄</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              浜名湖・舘山寺・三ヶ日の冬絶景と美食を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">浜名湖・舘山寺・三ヶ日の冬絶景と美食を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の浜名湖・舘山寺・三ヶ日 2泊3日美食モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の浜名湖・舘山寺・三ヶ日 2泊3日美食モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：新幹線で浜松駅へ・老舗うなぎ重と舘山寺温泉レイクビュー宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：新幹線で浜松駅へ・老舗うなぎ重と舘山寺温泉レイクビュー宿</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東京または名古屋から東海道新幹線で浜松駅へ到着。レンタカーまたはバスで浜名湖へ向かい、まずは名店でふっくら香ばしい「冬の浜名湖うなぎ重」を昼食に堪能。午後は「かんざんじロープウェイ」で大草山展望台へ登り、澄んだ冬空に輝く富士山と浜名湖のパノラマビューを鑑賞。夕暮れには舘山寺温泉の宿へチェックイン。最上階展望露天風呂から茜色に染まる浜名湖を眺め、夜は遠州灘天然とらふぐ会席に舌鼓を打ちます。
               </p>
@@ -475,9 +465,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：三ヶ日みかん狩り＆名物みかん風呂と弁天島赤鳥居の夕日
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：三ヶ日みかん狩り＆名物みかん風呂と弁天島赤鳥居の夕日</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の温泉を満喫後、奥浜名湖・三ヶ日へドライブ。冬の風物詩である三ヶ日みかん狩り体験で甘いみかんをもぎたてで味わいます。昼食は浜名湖名物「牡蠣カバ丼」に舌鼓。午後は奥浜名湖の温泉リゾートへ。本物の三ヶ日みかんがプカプカ浮かぶ名物「三ヶ日みかん風呂」でリラックス。夕暮れには弁天島海浜公園を訪れ、湖中に立つシンボルの赤鳥居の中に夕日が沈む奇跡のマジックアワーを撮影します。
               </p>
@@ -486,9 +474,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-amber-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：はままつフラワーパーク・うなぎパイファクトリーとお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：はままつフラワーパーク・うなぎパイファクトリーとお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝食後、「はままつフラワーパーク」の大温室で冬咲きチューリップや熱帯植物を鑑賞。続いて浜松名菓の製造現場を見学できる「うなぎパイファクトリー」へ立ち寄り、焼きたてうなぎパイの香りを体感。浜松市街へ戻り、ランチはパリッと香ばしい名物「浜松餃子」を食べ比べ。浜松駅前で三ヶ日みかんバウムクーヘンやうなぎ白焼きを購入し、新幹線で帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
             <ThermometerSun className="w-4 h-4 text-amber-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の浜名湖を快適にドライブするための気候・風対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の浜名湖を快適にドライブするための気候・風対策</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【気候と服装：遠州の「からっ風」に注意】</span>
@@ -528,26 +512,20 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               浜名湖・浜松の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              名産みかんと湖の恵み・伝統が息づくご当地逸品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">名産みかんと湖の恵み・伝統が息づくご当地逸品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                三ヶ日みかんと「治一郎」のしっとりバウムクーヘン
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                三ヶ日みかんと「治一郎」のしっとりバウムクーヘン</h3>
               <p>
                 糖度が高くコクのある酸味で知られる「三ヶ日みかん（青島みかん）」。冬に旬を迎える箱詰めみかんはもちろん、みかん果汁を練り込んだゼリーやジュースも大人気。また、浜松発祥の全国的洋菓子ブランド「治一郎（じいちろう）」の極上バウムクーヘンは、飲み物が要らないほどしっとりとした口溶けで手土産の定番です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                浜名湖産うなぎの白焼き・春華堂「うなぎパイ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                浜名湖産うなぎの白焼き・春華堂「うなぎパイ」</h3>
               <p>
                 「夜のお菓子」として全国に名を馳せる春華堂の「うなぎパイ」。フレッシュバターとうなぎエキス、ガーリックを絶妙に調合したサクサクパイは誰からも愛される銘菓。さらに、浜名湖養魚漁協や老舗鰻屋の真空パック入り「うなぎ白焼き」は、ワサビ醤油でいただくと冬の脂の甘みが際立つ最高級のギフトになります。
               </p>
@@ -562,27 +540,21 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               浜名湖と遠州灘ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ浜名湖は汽水湖となり、遠州灘は天然トラフグの一大産地となったのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ浜名湖は汽水湖となり、遠州灘は天然トラフグの一大産地となったのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-amber-700" />
-                明応の大地震がつなげた海と湖：今切口（いまぎれぐち）の誕生
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-amber-700" />
+                明応の大地震がつなげた海と湖：今切口（いまぎれぐち）の誕生</h3>
               <p>
                 もともと淡水湖だった浜名湖が海とつながったのは、室町時代の明応7年（1498年）の大地震と大津波によるものです。海と湖を隔てていた砂州が決壊して「今切口」が開き、太平洋の海水が流入。これにより淡水と海水が混ざり合う日本屈指の「汽水湖」へと変貌しました。海水魚と淡水魚、プランクトンが豊富に混在する類まれな生態系が生まれ、うなぎ養殖や海苔養殖、牡蠣養殖が発展する土台となったのです。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-amber-700" />
-                黒潮と水深数百メートルの大陸棚が育む天然トラフグの宝庫
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-amber-700" />
+                黒潮と水深数百メートルの大陸棚が育む天然トラフグの宝庫</h3>
               <p>
                 遠州灘は太平洋を流れる黒潮の暖流と、南アルプスを源流とする天竜川の豊かな真水がぶつかり合う栄養豊かな海域です。水深100〜200メートルの広大な大陸棚には、トラフグの主食となるエビやカニ、小魚が豊富に生息。外海の激しい潮流の中で揉まれて育つため、身の筋肉が緻密で上質なアミノ酸を蓄えます。舞阪漁港では延縄（はえなわ）漁で一匹一匹丁寧に釣り上げられ、極上の状態で食卓へと届けられます。
               </p>
@@ -597,18 +569,14 @@ export default function ShizuokaHamanakoKanzanjiWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の浜名湖・舘山寺・三ヶ日旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の浜名湖・舘山寺・三ヶ日旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

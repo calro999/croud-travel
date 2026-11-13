@@ -104,19 +104,15 @@ export default function Page() {
             <span className="text-xs font-bold text-amber-800 bg-amber-100 px-3 py-1 rounded-full uppercase tracking-wider">
               STRATEGY GUIDE
             </span>
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">
-              日常のノイズを脱ぎ捨てて、自分と向き合う静寂の湯浴みと美食の時間を手に入れる
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">日常のノイズを脱ぎ捨てて、自分と向き合う静寂の湯浴みと美食の時間を手に入れる</h2>
           </div>
           <div className="space-y-6">
             
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：一人泊の割高感をふるさと納税クーポンで賢く相殺</span>
-            </h3>
+              <span>ポイント①：一人泊の割高感をふるさと納税クーポンで賢く相殺</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               2名利用に比べて1人あたりの単価が高くなりがちなソロ温泉プラン。ふるさと納税クーポンを使えば、例えば5万円の宿泊費が実質自己負担2,000円（寄付額に応じた控除）で大幅に抑えられ、普段なら選ばないハイグレード客室へ躊躇なく予約できます。
             </p>
@@ -124,12 +120,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 2
               </span>
-              <span>ポイント②：周囲の目を気にせず自分のペースで過ごせる「部屋食・客室風呂」</span>
-            </h3>
+              <span>ポイント②：周囲の目を気にせず自分のペースで過ごせる「部屋食・客室風呂」</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               食事処で家族連れやグループに囲まれるのが苦手な方でも安心な「お部屋食」や「個室ダイニング」プラン。客室に専用露天風呂があれば、24時間いつでも好きなタイミングで湯浴みを楽しめます。
             </p>
@@ -137,12 +131,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：Wi-Fi完備で温泉ワーケーションや読書合宿にも最適</span>
-            </h3>
+              <span>ポイント③：Wi-Fi完備で温泉ワーケーションや読書合宿にも最適</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               午前中はせせらぎを聞きながら客室でリモートワーク、午後は名湯に浸かって頭をクールダウン。充実した執筆や思考の時間を作り出す「大人の温泉ワーケーション」にぴったりの環境が整っています。
             </p>
@@ -160,9 +152,7 @@ export default function Page() {
               群馬県中之条町・四万ブルーと四万の病を癒やす霊泉
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            中之条町ふるさと納税で泊まる、清流のせせらぎとノスタルジーに包まれる四万温泉の隠れ宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">中之条町ふるさと納税で泊まる、清流のせせらぎとノスタルジーに包まれる四万温泉の隠れ宿</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             「四万（よんまん）の病を癒やす」という伝説から名付けられた群馬県四万温泉。コバルトブルーに輝く四万湖や奥四万湖の神秘的な景観と、昔ながらの湯治場情緒が旅人を包み込みます。中之条町のふるさと納税トラベルクーポンを使えば、清流沿いに建つ老舗旅館や、モダンにリノベーションされた客室露天風呂付き宿で贅沢な一人旅が実現。上州牛の陶板焼きや地元の山菜料理を部屋で味わい、肌に優しい弱アルカリ性の名湯を心ゆくまで堪能できます。
           </p>
@@ -192,9 +182,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -246,9 +234,7 @@ export default function Page() {
               長野県上田市・信州の鎌倉と呼ばれる古刹の里
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            上田市ふるさと納税で泊まる、文化人や文豪が愛した信州最古の名湯・別所温泉
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">上田市ふるさと納税で泊まる、文化人や文豪が愛した信州最古の名湯・別所温泉</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             枕草子にも登場する信州最古の温泉地・別所温泉。国宝・八角三重塔を擁する安楽寺や北向観音など由緒ある古刹が点在し、「信州の鎌倉」とも称される落ち着いた街並みが広がります。上田市のふるさと納税クーポンを活用すれば、木造建築の温もりあふれる温泉旅館で静かな読書・湯治ステイが可能。ほんのり硫黄が香る美肌の湯に浸かり、信州の地酒とともに信州サーモンや信州そばを味わう、滋味深いソロステイが待っています。
           </p>
@@ -278,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -332,9 +316,7 @@ export default function Page() {
               熊本県南小国町・阿蘇の渓谷美に抱かれる秘湯
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            南小国町ふるさと納税で泊まる、黒川温泉の里山情緒と渓流露天風呂
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">南小国町ふるさと納税で泊まる、黒川温泉の里山情緒と渓流露天風呂</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             阿蘇の外輪山に抱かれた静かな山あいに、統一された景観美を誇る黒川温泉。木々のざわめきと川のせせらぎの中、茅葺き屋根の門をくぐると別世界のような静寂が広がります。南小国町のふるさと納税クーポンを使えば、離れ形式の客室やプライベート温泉を持つ名宿をお得にリザーブ。名物「入湯手形」での露天風呂めぐりを楽しみつつ、夜は肥後あか牛のステーキと熊本名物の馬刺しに舌鼓を打つ極上のリトリートを体験できます。
           </p>
@@ -364,9 +346,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -418,30 +398,24 @@ export default function Page() {
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>おひとり様（1名利用）でもふるさと納税クーポンは問題なく使えますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>おひとり様（1名利用）でもふるさと納税クーポンは問題なく使えますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 はい、宿泊人数に関係なく、楽天トラベル上で予約可能なプランであれば1名予約でも通常通りふるさと納税クーポンが適用されます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>宿でのWi-Fi環境や仕事用のデスクはありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>宿でのWi-Fi環境や仕事用のデスクはありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 近年は温泉ワーケーション需要の高まりを受け、全館高速Wi-Fiや快適なワークスペースを完備した宿が急増しています。予約時の施設詳細やプラン説明で「Wi-Fi完備」「ワーケーション推奨」の記載を確認しておくと安心です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>一人旅でおすすめのチェックイン曜日や時期はありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>一人旅でおすすめのチェックイン曜日や時期はありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 旅館が最も静かで温泉も貸切状態になりやすいのは、日曜日の宿泊や火曜・水曜などの平日です。宿泊料金もリーズナブルに設定されており、ふるさと納税クーポンと併せて最高のコスパで贅沢な滞在が満喫できます。
               </p>
@@ -471,9 +445,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【奇跡の名湯】強炭酸泉・天然泥湯・美肌の湯で巡る湯治リトリート
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【奇跡の名湯】強炭酸泉・天然泥湯・美肌の湯で巡る湯治リトリート</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 一人でじっくり温泉効能を味わいたい方に！大分・長湯や鹿児島・霧島の特異な泉質を巡る旅。
               </p>
@@ -490,9 +462,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【車なし・雪道運転不要】新幹線駅直結の名湯温泉旅館ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【車なし・雪道運転不要】新幹線駅直結の名湯温泉旅館ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 一人旅なら電車移動が身軽で快適！新幹線を降りてすぐ歩いて行ける越後湯沢や熱海の名宿。
               </p>
@@ -509,9 +479,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 一人旅の楽しみは現地の旨い飯！全国のご当地ブランド食材を味わい尽くす美食ステイ。
               </p>
@@ -541,9 +509,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】四万温泉 寿屋旅館＜群馬県＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】四万温泉 寿屋旅館＜群馬県＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -576,9 +542,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と四万温泉 寿屋旅館＜群馬県＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と四万温泉 寿屋旅館＜群馬県＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

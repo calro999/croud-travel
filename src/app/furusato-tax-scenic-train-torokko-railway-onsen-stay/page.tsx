@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          カタコトと揺れるノスタルジー。渓谷美と鉄道の旅情に浸る大人のレイルウェイ温泉ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">カタコトと揺れるノスタルジー。渓谷美と鉄道の旅情に浸る大人のレイルウェイ温泉ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              列車の運行時間に合わせてゆったり滞在できるアクセス抜群の宿
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">列車の運行時間に合わせてゆったり滞在できるアクセス抜群の宿</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               始発駅や主要駅の至近、または宿の送迎付きで、時間に追われることなくローカル線の旅を満喫できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              トレインビュー客室や露天風呂から列車を眺められる特等席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">トレインビュー客室や露天風呂から列車を眺められる特等席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               お部屋でお茶を飲みながら、または湯船に浸かりながら鉄橋を渡る列車の姿を眺める贅沢な瞬間を楽しめます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ご当地の特急・観光列車チケットとセットで計画的にお得旅行
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ご当地の特急・観光列車チケットとセットで計画的にお得旅行</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               人気列車の予約に合わせて宿泊日を設定し、3年間有効な楽天ふるさと納税クーポンで宿泊費用を賢くセーブできます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="watarase_train" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                群馬県みどり市ふるさと納税：わたらせ渓谷鐵道・渡良瀬川の巨岩美を渡るトロッコ列車と梨木温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">群馬県みどり市ふるさと納税：わたらせ渓谷鐵道・渡良瀬川の巨岩美を渡るトロッコ列車と梨木温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 桐生から足尾まで渡良瀬川沿いを走る人気ローカル線。窓ガラスのないオープンタイプのトロッコ列車で風を感じ、山峡の静かな一軒宿で名湯とキジ鍋や上州牛を味わえます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県桐生市黒保根町宿廻285
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    梨木温泉　梨木館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">梨木温泉　梨木館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     赤城山の麓、周囲に民家も街灯もない豊かな自然のなかに建つ一軒宿。名物はきじ料理。露天風呂付客室が人気
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市足尾町5488
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    足尾の宿　かじか
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">足尾の宿　かじか</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     百名山「皇海山」麓に佇む湯宿。絶景の露天風呂でとろとろの湯に癒され、何度も訪れたくなる心地よさ
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     群馬県桐生市永楽町4-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ビジネスホテル西桐生
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ビジネスホテル西桐生</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     駐車場無料×温泉あり 最寄り駅も徒歩圏内の好立地！
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="oigawa_train" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                静岡県川根本町ふるさと納税：大井川鐵道SL蒸気機関車・アプト式列車と寸又峡美女づくりの湯
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">静岡県川根本町ふるさと納税：大井川鐵道SL蒸気機関車・アプト式列車と寸又峡美女づくりの湯</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本唯一のアプト式鉄道や毎日走る現役SLで有名な大井川鐵道。エメラルドグリーンの湖に架かる「夢の吊橋」と、とろとろの美容液のような良泉で心身を解きほぐします。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県掛川市倉真5795
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    倉真温泉　落合荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">倉真温泉　落合荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     掛川市の隠れ宿。素朴な山里に湧き出るいで湯。心づくしのおもてなしと懐かしい風情でお楽しみ下さい。
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県掛川市倉真5325
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    倉真温泉　翆月
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">倉真温泉　翆月</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     名物・お茶しゃぶしゃぶが人気です！１日５部屋の丁寧なおもてなしです◎
                   </p>
@@ -389,9 +367,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="tadamisen_train" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                福島県三島町ふるさと納税：世界が称賛する秘境路線・JR只見線と奥会津柳津温泉の風情宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">福島県三島町ふるさと納税：世界が称賛する秘境路線・JR只見線と奥会津柳津温泉の風情宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 只見川の渓谷美と鉄橋を渡る列車が織りなす絵画のような風景。赤べこ発祥の地・柳津温泉で川魚や山菜、手打ち蕎麦をいただき、静寂に包まれた秘湯を堪能できます。
               </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県河沼郡柳津町柳津下平乙150-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    会津柳津温泉　瀞流の宿　かわち
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">会津柳津温泉　瀞流の宿　かわち</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     奥会津の玄関口、会津柳津温泉の宿。只見川の眺めや会津の郷土料理（桜刺し・鯉の甘煮・岩魚等）が楽しめる
                   </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県河沼郡柳津町柳津寺家町甲174
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    柳津温泉　旅館　内田屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">柳津温泉　旅館　内田屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     柳津町のシンボル福満虚空蔵尊の膝元にある温泉旅館「内田屋」
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     福島県南会津郡只見町只見上ノ原1817-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    駅前旅館　只見荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">駅前旅館　只見荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     絶景ローカル只見線 旅の宿。手打ちそばと郷土料理が自慢。ネット予約は手打ちそばサービス。JR只見駅前
                   </p>
@@ -574,9 +544,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                秘境・渓谷の一軒宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">秘境・渓谷の一軒宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 黒部峡谷・祖谷・みちのく深山の完全遮断リトリート。
               </p>
@@ -590,9 +558,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>
@@ -606,9 +572,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 長良川・四万十川・保津川の舟旅。
               </p>
@@ -626,9 +590,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -707,9 +669,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納税厳選ガイドわたらせ・大井川SL・只見線の鉄道旅」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

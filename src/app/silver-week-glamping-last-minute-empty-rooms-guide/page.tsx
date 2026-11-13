@@ -180,9 +180,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
       <section className="bg-white border border-emerald-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">TACTICS FOR EMPTY ROOMS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            直前でも空室を掴み取る！グランピング「キャンセル拾い」4つの極意
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">直前でも空室を掴み取る！グランピング「キャンセル拾い」4つの極意</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             満室表示に騙されない！プロが実践する直前予約のタイミングと穴場選びのセオリー。
           </p>
@@ -200,9 +198,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
                   {tactic.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {tactic.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{tactic.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {tactic.desc}
               </p>
@@ -215,9 +211,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
       <section className="bg-white border border-emerald-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-emerald-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">COMPARISON ANALYSIS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            直前予約（キャンセル拾い） vs 通常早期予約 徹底比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">直前予約（キャンセル拾い） vs 通常早期予約 徹底比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             直前だからこそのメリットと注意点を把握して、スマートに秋の連休ステイを勝ち取りましょう。
           </p>
@@ -255,9 +249,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
       <section className="space-y-6" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">RECOMMENDED RESORTS</span>
-          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            直前空室チェック推奨！シルバーウィーク穴場の厳選アウトドア＆温泉ステイ
-          </h2>
+          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">直前空室チェック推奨！シルバーウィーク穴場の厳選アウトドア＆温泉ステイ</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             客室キャパシティや立地特性から直前でも予約が成立しやすい実力派リゾートです。空き枠を見つけたら即予約をおすすめします。
           </p>
@@ -307,9 +299,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "直前予約でも満足度の高い本格グランピング＆温泉リゾート。快適な客室空間と美味しい食事で秋の連休を彩ります。"}
@@ -346,18 +336,14 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
       <section className="bg-white rounded-3xl border border-emerald-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            連休直前予約・グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">連休直前予約・グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-emerald-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-emerald-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -368,9 +354,7 @@ export default function SilverWeekGlampingLastMinuteGuidePage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-800">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🚌</span> 連休の直前お出かけに！手軽な日帰りバスツアー特集
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">連休の直前お出かけに！手軽な日帰りバスツアー特集</h3>
         <p className="text-xs text-slate-300">
           もしグランピングの宿泊予約が間に合わなかった場合でも、直前予約可能な日帰りバスツアーならシルバーウィークのアウトドアや味覚狩りを手軽に満喫できます。
         </p>

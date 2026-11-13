@@ -121,9 +121,7 @@ export default function Page() {
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">
-            はじめに：秋の京都・嵐山・嵯峨野・保津川で味わう絶景と至高の温泉時間
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">はじめに：秋の京都・嵐山・嵯峨野・保津川で味わう絶景と至高の温泉時間</h2>
           <p className="text-slate-700 leading-relaxed mb-4">
             10月から11月にかけての京都府・京都・嵐山・嵯峨野・保津川は、豊かな自然美と歴史情緒が鮮やかに交差する特別なシーズンを迎えます。澄んだ秋空の下、山肌や街並みが織りなす錦秋のパノラマは息をのむ美しさで、訪れる人々を魅了してやみません。
           </p>
@@ -136,9 +134,7 @@ export default function Page() {
 
         {/* Highlight Points */}
         <section className="bg-amber-50 rounded-2xl p-6 sm:p-8 border border-amber-200 mb-12">
-          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
-            <span>🍁</span> 京都・嵐山・嵯峨野・保津川 秋旅の3大魅力ポイント
-          </h3>
+          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">京都・嵐山・嵯峨野・保津川 秋旅の3大魅力ポイント</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">① 圧巻の秋色パノラマ絶景</div>
@@ -199,17 +195,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 伝統の嵐山京懐石料理。京都丹波牛の陶板焼き、名物嵯峨豆腐の小鍋、旬の松茸土瓶蒸し（秋季限定）、京野菜の吹き寄せ
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 渡月橋や嵯峨野竹林、保津川下りの乗船場へも抜群のロケーション。秋の夕暮れに染まる嵐山を眺めながら味わう京料理が格別。
               </p>
@@ -268,17 +260,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 名物「自家製すくい豆腐会席」、京地鶏鍋、京都丹波牛ステーキ、秋の味覚吹き寄せ前菜、京漬物と炊きたてご飯
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 展望露天風呂から見晴らす錦秋の嵐山と渡月橋の眺望は息をのむ美しさ。保津川下りや嵯峨野トロッコ列車の旅とあわせて楽しめます。
               </p>
@@ -337,17 +325,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 季節の本格京会席、京都産黒毛和牛の陶板焼き、季節の旬魚お造り、湯葉と生麩の炊き合わせ、手作り和スイーツ
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 嵯峨野散策や天龍寺、竹林の小径へ徒歩すぐ。手入れの行き届いた日本庭園を眺めながら静かに過ごせる大人の隠れ家。
               </p>
@@ -368,7 +352,7 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、京都府内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
@@ -402,24 +386,18 @@ export default function Page() {
           <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 京都・嵐山・嵯峨野・保津川の秋の見頃時期はいつですか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 京都・嵐山・嵯峨野・保津川の秋の見頃時期はいつですか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 例年11月中旬〜11月下旬の嵐山渡月橋と保津峡を染める錦秋絵巻が見頃となります。標高差や気候に合わせて色づきが移り変わり、長期間にわたって楽しめます。
               </p>
             </div>
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 10月〜11月の京都・嵐山・嵯峨野・保津川は朝夕の冷え込みが予想されます。日中は薄手のアウターで快適ですが、早朝や夜間、散策時には厚手のフリースやジャケット、歩きやすい靴をご用意ください。
               </p>
@@ -439,9 +417,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

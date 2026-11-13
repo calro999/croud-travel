@@ -259,9 +259,7 @@ export default function HighwayBusArticlePage() {
         <div className="space-y-8">
           {itinerary.map((dayPlan: any, dIdx: number) => (
             <div key={dIdx} className="space-y-4">
-              <h3 className="text-base md:text-lg font-black text-slate-900 border-l-4 border-cyan-600 pl-3 py-0.5">
-                {dayPlan.day}
-              </h3>
+              <h3 className="text-base md:text-lg font-black text-slate-900 border-l-4 border-cyan-600 pl-3 py-0.5">{dayPlan.day}</h3>
               <div className="relative pl-6 space-y-6 before:absolute before:left-2 before:top-3 before:bottom-3 before:w-0.5 before:bg-slate-200">
                 {dayPlan.steps.map((step: any, sIdx: number) => (
                   <div key={sIdx} className="relative space-y-1">
@@ -270,9 +268,7 @@ export default function HighwayBusArticlePage() {
                       <span className="text-xs font-black text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-200">
                         {step.time}
                       </span>
-                      <h4 className="text-sm font-bold text-slate-900">
-                        {step.title}
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-900">{step.title}</h4>
                     </div>
                     <p className="text-xs text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                       {step.desc}
@@ -291,9 +287,7 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-amber-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🏨 RECOMMENDED HOTELS & RYOKAN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            熊本城・桜町バスターミナル徒歩圏内！天然温泉大浴場付き人気宿
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">熊本城・桜町バスターミナル徒歩圏内！天然温泉大浴場付き人気宿</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
           </p>
         </div>
@@ -332,9 +326,7 @@ export default function HighwayBusArticlePage() {
                         <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                       </div>
                     )}
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                         {hotel.hotelSpecial}

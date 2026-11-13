@@ -222,9 +222,7 @@ export default function HakoneSengokuharaWinterPage() {
             <span>11月・12月 冬の箱根・仙石原特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月箱根仙石原温泉の初冬ススキ絶景と白濁にごり湯】富士山望む露天風呂・足柄牛ステーキ＆美術館巡りの宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月下旬から12月にかけて、箱根火山のカルデラ北部に広がる仙石原高原は、一面の台ヶ岳山麓ススキ草原が黄金色から銀白色へと移ろい、静謐な初冬の空気に包まれます。大涌谷の活火山エネルギーが育む乳白色のにごり湯（硫酸塩温泉）、澄んだ冬晴れの空に映える富士山の雪景色、ポーラ美術館やラリック美術館が点在する高原のアート散策、そして地元神奈川が誇るブランド牛「足柄牛」や旬の箱根山麓グルメを堪能する、大人の至高の冬名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Charm</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の仙石原高原が旅人を引きつける理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の仙石原高原が旅人を引きつける理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Natural Healing & Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                大涌谷のにごり湯メカニズムと、初冬の「足柄牛」美食の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">大涌谷のにごり湯メカニズムと、初冬の「足柄牛」美食の秘密</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-amber-700" />
-              <span>酸性硫酸塩泉がもたらす天然ピーリングと保温のダブル美肌作用</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+              <span>酸性硫酸塩泉がもたらす天然ピーリングと保温のダブル美肌作用</span></h3>
             <p>
               大涌谷のにごり湯は、地下から自然湧出する良質な伏流水と、活発に噴出する火山性蒸気（硫化水素を含むガス）を人工的に気液混合させて造成する「造成温泉」の高度な技術によって生み出されています。この造成技術は昭和初期に確立されたもので、大涌谷の激しい火山エネルギーを安全で安定した名湯へと変え、仙石原や強羅の旅館街へと配湯パイプで供給しています。
             </p>
             <p>
               湧出直後は無色透明ですが、引湯管を通る過程で空気中の酸素と触れ合い、ガスに含まれる硫化水素が酸化して微細な単体硫黄微粒子がコロイド状に浮遊することで、美しいミルキーホワイトの白濁泉が完成します。泉質は「酸性・カルシウム・マグネシウム-硫酸塩・塩化物温泉」。pH2前後の酸性度が肌表面の古い角質をやさしく溶かしてターンオーバーを整え、硫酸塩泉の成分が肌の引き締めと水分保持を促進。冬の冷え性や乾燥肌、日頃のストレス疲労に抜群の癒やし効果を発揮します。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-amber-700" />
-              <span>地元神奈川の至宝：足柄茶配合飼料で育つ「足柄牛」と箱根山麓冬野菜</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-amber-700" />
+              <span>地元神奈川の至宝：足柄茶配合飼料で育つ「足柄牛」と箱根山麓冬野菜</span></h3>
             <p>
               ディナーで味わうべき地元食材の筆頭が「足柄牛（あしがらぎゅう）」です。丹沢・箱根山麓の清らかな伏流水と、地元特産「足柄茶」の粉末を配合した栄養満点の飼料を食べて丹念に肥育される黒毛和種で、カテキンの抗菌・抗酸化作用により健康でストレスなく育ちます。その肉質はきめ細やかなサシ（霜降り）が特徴で、融点の低い上質な不飽和脂肪酸を豊富に含みます。
             </p>
@@ -313,9 +303,7 @@ export default function HakoneSengokuharaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              仙石原温泉の魅力を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">仙石原温泉の魅力を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               富士山ビュー、源泉にごり湯露天、全室スイート、薪暖炉付きヴィラまで、11・12月の仙石原を最高に楽しむ名宿を徹底比較。
             </p>
@@ -357,19 +345,15 @@ export default function HakoneSengokuharaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                         {h.story}
                       </p>
 
                       <div className="space-y-2 pt-2 border-t border-slate-100">
-                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Sparkles className="w-3.5 h-3.5 text-amber-700" />
-                          <span>この宿の宿泊ハイライト</span>
-                        </h4>
+                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-amber-700" />
+                          <span>この宿の宿泊ハイライト</span></h4>
                         <ul className="grid grid-cols-1 gap-1.5 text-xs text-slate-600">
                           {h.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-2">
@@ -427,17 +411,13 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月 仙石原アートと白濁湯を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月 仙石原アートと白濁湯を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs">1</span>
-                <span>1日目：ススキ散策と高原アート鑑賞</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs">1</span>
+                <span>1日目：ススキ散策と高原アート鑑賞</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-amber-800 shrink-0">11:00</span>
@@ -463,10 +443,8 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs">2</span>
-                <span>2日目：富士山絶景パノラマと湖畔クルーズ</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs">2</span>
+                <span>2日目：富士山絶景パノラマと湖畔クルーズ</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-amber-800 shrink-0">07:00</span>
@@ -501,26 +479,20 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Checklist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の仙石原旅行で失敗しないための実践アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の仙石原旅行で失敗しないための実践アドバイス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                <span>標高650mの冷え込み対策と服装</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                <span>標高650mの冷え込み対策と服装</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 仙石原は箱根湯本に比べて気温が約5℃低く、11月下旬の夜間は5℃以下、12月の朝晩は0℃前後まで冷え込みます。風を通さない厚手のコートやダウンジャケット、手袋、マフラーを持参しましょう。美術館巡りや草原散策で歩く機会が多いため、歩きやすく暖かいフラットシューズが最適です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-700" />
-                <span>冬期ドライブと道路凍結への備え</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-700" />
+                <span>冬期ドライブと道路凍結への備え</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月中は一般にノーマルタイヤで問題ありませんが、急激な寒波の日は標高の高い乙女峠や芦ノ湖スカイラインで凍結のおそれがあります。12月中旬以降にマイカーやレンタカーで訪れる際は、スタッドレスタイヤの装着またはタイヤチェーンの携行を強く推奨します。公共交通機関利用なら箱根フリーパスがお得で安心です。
               </p>
@@ -536,18 +508,14 @@ export default function HakoneSengokuharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                仙石原冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">仙石原冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -560,9 +528,7 @@ export default function HakoneSengokuharaWinterPage() {
         <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Hot Springs & Winter Retreats</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい関東近郊の冬名湯＆富士見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい関東近郊の冬名湯＆富士見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬景色と美食を味わう、おすすめの温泉特集もぜひご覧ください。
             </p>

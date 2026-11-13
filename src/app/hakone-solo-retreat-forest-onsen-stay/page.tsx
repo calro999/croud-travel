@@ -97,7 +97,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル</h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">本記事でご紹介する厳選ホテル</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 箱根湯本温泉　天成園（★4.19 / 最低目安：10,769円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）（★4.5 / 最低目安：47,241円〜）</a></li>
@@ -124,9 +124,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
               <span className="text-xs text-stone-500 font-medium">箱根湯本周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              箱根湯本温泉　天成園
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">箱根湯本温泉　天成園</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.19 <span className="text-xs text-stone-500 font-normal">（クチコミ 4344件）</span>
@@ -156,7 +154,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>瀧の流れる庭園と、大自然に抱かれた天空大露天風呂が魅力な箱根湯本温泉の人気宿</span></li>
               </ul>
@@ -191,9 +189,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第2位</span>
               <span className="text-xs text-stone-500 font-medium">強羅周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.5 <span className="text-xs text-stone-500 font-normal">（クチコミ 118件）</span>
@@ -223,7 +219,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>【全室温泉露天風呂付◆ミシュランキー獲得】山海の絶景や六感で味わう美食を堪能するラグジュアリー旅館</span></li>
               </ul>
@@ -258,9 +254,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第3位</span>
               <span className="text-xs text-stone-500 font-medium">周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              箱根・芦ノ湖　はなをり（オリックスホテルズ＆リゾーツ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">箱根・芦ノ湖　はなをり（オリックスホテルズ＆リゾーツ）</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.38 <span className="text-xs text-stone-500 font-normal">（クチコミ 1483件）</span>
@@ -290,7 +284,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>SNSで話題の水盤テラス＆足湯♪ 色浴衣を身にまとい、五感が喜ぶ温泉リゾートでフォトジェニックな旅を</span></li>
               </ul>
@@ -323,9 +317,7 @@ export default function ArticlePage() {
       {/* 現地滞在TIPS */}
       <section id="area-tips" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-white p-6 sm:p-8 rounded-2xl border border-stone-200 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">
-            <span>💡</span> 箱根ひとり旅・おこもり滞在を豊かにする散策TIPS
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">箱根ひとり旅・おこもり滞在を豊かにする散策TIPS</h2>
           <div className="grid sm:grid-cols-3 gap-6">
             <div className="space-y-2">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base">箱根フリーパスを活用した登山電車・ロープウェイの空中散歩</h3>
@@ -346,22 +338,18 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">滞在に関するよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>箱根湯本駅から歩いて行けるおすすめの大型露天風呂付きホテルは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>箱根湯本駅から歩いて行けるおすすめの大型露天風呂付きホテルは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「箱根湯本温泉 天成園」は箱根湯本駅から徒歩圏内（または巡回バス）。全長17mの天空大露天風呂や敷地内の玉簾の滝が魅力です。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>客室露天風呂付きで贅沢なプライベートおこもりをしたいなら？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>客室露天風呂付きで贅沢なプライベートおこもりをしたいなら？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「箱根・強羅 佳ら久」は全室に温泉露天風呂を完備。強羅の自然を望む絶景展望露天風呂や質の高い料理で、至高のご褒美滞在が叶います。
               </p>
@@ -389,9 +377,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】箱根湯本温泉 天成園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】箱根湯本温泉 天成園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

@@ -108,9 +108,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  他の宿泊客に気兼ねゼロ！客室専用露天風呂やプライベートガーデン完備
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">他の宿泊客に気兼ねゼロ！客室専用露天風呂やプライベートガーデン完備</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 愛犬同伴旅行で最も重視されるのが「プライベート感」。客室に専用の天然温泉露天風呂やウッドデッキ、プライベートミニドッグランが備えられたお部屋なら、愛犬が庭で元気に駆け回る姿を湯船に浸かりながら見守ることができます。共用の大浴場に行くことなく、24時間いつでも好きな時に名湯を満喫できるのが最大の贅沢です。
@@ -123,9 +121,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然芝ドッグラン・愛犬用足湯・充実の専用アメニティで手ぶら旅行も安心
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然芝ドッグラン・愛犬用足湯・充実の専用アメニティで手ぶら旅行も安心</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 アジリティ付きの広大な屋外天然芝ドッグランや、雨の日でも安心な屋内プレイルーム、温水足洗い場、さらにはワンちゃん専用バスタブや足湯まで揃う充実度。ケージ、トイレシート、専用消臭スプレー、食器、タオルなどのかさばるアメニティも完備されており、最小限の荷物で快適なドッグトリップが実現します。
@@ -138,9 +134,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  愛犬と一緒にお部屋食！地元の厳選素材で作るワンちゃん専用グルメコース
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">愛犬と一緒にお部屋食！地元の厳選素材で作るワンちゃん専用グルメコース</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 食事処や客室で愛犬と一緒に食事ができるプランが大人気。伊豆の新鮮な地魚や那須高原牛、近江牛のステーキを人間が堪能する横で、愛犬には無添加・塩分控えめの特製ミートローフや温野菜ボウルが振る舞われます。記念日や誕生日のワンちゃん用ケーキを用意してくれる宿もあり、一生の思い出に残るお祝いが叶います。
@@ -183,9 +177,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊東市・伊豆高原の英国マナーハウス調隠れ家
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別邸　石の家　伊豆高原　ペットと泊まれる全室露天付き客室の宿</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊豆高原の閑静な別荘地に佇む、全室に客室露天風呂を備えた英国コッツウォルズ地方の館を思わせるアンティーク隠れ宿。大型犬から小動物まで同伴可能で、お部屋には愛犬専用の庭やテラス、さらには内風呂・露天風呂の両方が完備。夕食・朝食ともにお部屋食スタイルとなっており、他のワンちゃんが苦手なデリケートな愛犬でもストレスなく極上のひとときを過ごせます。伊豆の獲れたて地魚や厳選牛を使った和洋折衷コースを味わいながら、愛犬と至福の夜をお過ごしください。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県那須町・那須高原の雄大な自然に囲まれたスパリゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    那須温泉　ホテルサンバレー那須
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">那須温泉　ホテルサンバレー那須</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     那須連山の豊かな大自然に包まれた巨大温泉リゾート。敷地内には多彩な宿泊館が点在し、ペット同伴専用の宿泊フロアや戸建てコテージが用意されています。那須高原の爽快な風が吹き抜ける広大な天然芝ドッグランはワンちゃんが大喜び間違いなしの設備。乳白色の硫黄泉や弱アルカリ泉など異なる3つの泉質を誇る多彩な大浴場や温水アクアヴィーナスで飼い主もしっかりリフレッシュでき、高原野菜をふんだんに使った豪華バイキングも大好評です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     滋賀県守山市・琵琶湖畔の世界的ラグジュアリーステイ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    琵琶湖マリオットホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">琵琶湖マリオットホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     琵琶湖の東岸に位置し、世界水準のモダンなホスピタリティと美崎温泉の名湯を併せ持つ本格リゾートホテル。専用のプライベート温泉露天風呂を備えたドッグフレンドリールームが完備されており、愛犬と一緒の室内でゆったりと温泉浴が愉しめます。目の前には広大な琵琶湖の湖畔遊歩道が広がり、朝夕の清々しい愛犬散歩コースに最適。滋賀県が誇る三大和牛「近江牛」のディナーコースとともに、優雅で洗練されたレイクサイドアクティビティをご堪能ください。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoDogFriendlyLuxuryStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別邸 石の家 伊豆高原 ペットと泊まれる全室露天付き客室の宿の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              欄干のない沈下橋とエメラルドの清流！山一面が秋色に染まる四万十の原風景
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">欄干のない沈下橋とエメラルドの清流！山一面が秋色に染まる四万十の原風景</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             全長196km、本流に大規模なダムが建設されていないことから「日本最後の清流」と呼ばれる高知県「四万十川」。秋になると、川を取り囲む山々がモミジやクヌギで鮮やかに色づき、穏やかなエメラルドグリーンの川面に錦秋の山影が美しく映り込みます。増水時に水中に沈むよう欄干がない名物「佐田沈下橋」や「岩間沈下橋」からの眺望、のんびり川を下る「屋形船遊覧」は日本の原風景そのもの。散策後は、四万十川を一望する温泉宿で、脂の乗った「戻りガツオの藁焼き塩タタキ」や天然四万十うなぎ、四万十牛をふるさと納税トラベルクーポンでお得に心ゆくまで堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                佐田沈下橋・岩間沈下橋を巡る紅葉ドライブ＆屋形船
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                佐田沈下橋・岩間沈下橋を巡る紅葉ドライブ＆屋形船</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 山紫水明の四万十川に架かる沈下橋。屋形船の船上から見上げる紅葉の山々と、心地よい秋風を感じるクルージングは四万十観光のハイライトです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                清流四万十川カヌーツーリング＆サイクリング
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                清流四万十川カヌーツーリング＆サイクリング</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 透明度の高い清流をカヌーやSUPで進む爽快なアクティビティ。川沿いに整備されたルートを走る紅葉サイクリングも大人気です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                天然四万十うなぎ＆戻りガツオ藁焼き塩タタキ・四万十牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                天然四万十うなぎ＆戻りガツオ藁焼き塩タタキ・四万十牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 香ばしく焼き上げる貴重な四万十川天然うなぎ、秋に濃厚な脂を蓄えた戻りガツオを藁火で一気に焼き上げる絶品タタキ、四万十牛ステーキを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.26 <span className="text-stone-400 text-xs">(395件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    ホテル星羅四万十
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">ホテル星羅四万十</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 高知県四万十市西土佐用井1100 ｜ ＪＲ　江川崎駅から無料送迎（約５分）　要予約制
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.23 <span className="text-stone-400 text-xs">(735件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    四万十の宿
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">四万十の宿</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 高知県四万十市下田3370（四万十いやしの里内） ｜ 高知自動車道・四万十町中央ICより、国道56号線にて中村方面へ60分／中村駅よりタクシーまたはバスにて約15分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.10 <span className="text-stone-400 text-xs">(1309件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    新ロイヤルホテル四万十
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">新ロイヤルホテル四万十</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 高知県四万十市中村小姓町26 ｜ 高知市内より車で約2時間/JR(特急)にて1時間40分、土佐くろしお鉄道『中村駅』下車、お車にて約5分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル星羅四万十を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル星羅四万十を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル星羅四万十の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル星羅四万十の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

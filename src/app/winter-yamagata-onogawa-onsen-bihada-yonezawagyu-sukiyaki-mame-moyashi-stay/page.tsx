@@ -109,9 +109,7 @@ export default function WinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 11月〜12月初冬の厳選狙い目特集</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【小野小町ゆかりの美肌硫黄泉と初冬の米沢牛すき焼き】2026-2027年11-12月初冬の山形・小野川温泉！名物豆もやしラーメンと甲子大黒天参拝・情緒あふれる雪見露天風呂名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             平安の美女・小野小町が病を癒やしたと伝わる開湯1200年の名湯「小野川温泉」！毎分千リットルを超える豊富な源泉はラジウムと硫黄・塩分を含み、初冬の冷えた肌をしっとり潤す極上の美肌泉。温泉熱で冬に育てる冬の風物詩「小野川豆もやし」ラーメンや、日本屈指のブランド肉「米沢牛」の芳醇なすき焼き会席。湯煙たなびく温泉街で雪見風呂を心ゆくまで満喫する厳選名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function WinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが11〜12月の旅におすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが11〜12月の旅におすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>小野小町ゆかりの美肌ラジウム硫黄泉！メタケイ酸豊富な源泉掛け流し</span>
-            </h3>
+              <span>小野小町ゆかりの美肌ラジウム硫黄泉！メタケイ酸豊富な源泉掛け流し</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               平安の美女・小野小町が病を癒やした伝説が息づく名湯。高濃度のラジウムと硫黄、天然の保湿成分メタケイ酸がたっぷりと溶け込み、肌をしっとり潤して芯から温めます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>温泉熱が生み出す冬の奇跡「小野川豆もやし」と熱々のご当地ラーメン</span>
-            </h3>
+              <span>温泉熱が生み出す冬の奇跡「小野川豆もやし」と熱々のご当地ラーメン</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               江戸時代から温泉の熱と砂だけで育てる長さ30cmの伝統野菜。シャキシャキの強い歯ごたえと豊かな風味がたまらない『小野川豆もやしラーメン』は冬必食の郷土グルメです。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>日本三大和牛の最高峰「米沢牛」すき焼きと風情あふれる初冬の雪見露天</span>
-            </h3>
+              <span>日本三大和牛の最高峰「米沢牛」すき焼きと風情あふれる初冬の雪見露天</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               とろけるような極上のサシが入った本場米沢牛の濃厚なすき焼き会席を堪能。湯煙漂う温泉街をそぞろ歩き、雪化粧を始めた山並みを望む露天風呂で至福のひとときを過ごせます。
             </p>
@@ -177,9 +167,7 @@ export default function WinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                初冬を満喫する厳選名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">初冬を満喫する厳選名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  小野川温泉　名湯の宿　吾妻荘　
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">小野川温泉　名湯の宿　吾妻荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  小野川温泉　亀屋万年閣
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">小野川温泉　亀屋万年閣</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  小野川温泉　うめや旅館＜山形県＞
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">小野川温泉　うめや旅館＜山形県＞</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  小野川温泉　やな川屋旅館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">小野川温泉　やな川屋旅館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  美湯美食の離れ宿　小野川温泉　河鹿荘
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">美湯美食の離れ宿　小野川温泉　河鹿荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function WinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>「小野川豆もやし」はどこで食べられますか？お土産にも買えますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>「小野川豆もやし」はどこで食べられますか？お土産にも買えますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               小野川温泉街の食堂やラーメン店（「龍華食堂」や「佐藤豆腐店」など）で豆もやしラーメンや小鉢料理として味わえます。また温泉街の商店や朝市、宿泊旅館の売店でもパック詰めされた新鮮な豆もやしを購入できます。生産量が限られる貴重な伝統野菜のため、午前中の購入がおすすめです。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>小野川温泉の共同浴場には誰でも入れますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>小野川温泉の共同浴場には誰でも入れますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               温泉街には「滝の湯」と「尼湯（あまゆ）」というふたつの歴史ある共同浴場があり、どちらも宿泊客・日帰り客を問わず利用できます（入浴料数百円）。特に「尼湯」は小野小町が入浴したと伝わる風情ある湯小屋で、地元の方との温かいふれあいも楽しめます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月・12月の米沢・小野川温泉周辺の雪道運転の注意点は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月・12月の米沢・小野川温泉周辺の雪道運転の注意点は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               米沢エリアは豪雪地帯として知られており、11月中旬以降は平地でも初雪が降ることがあります。12月に入ると完全な圧雪路面やアイスバーンになるため、お車の場合は必ず高性能なスタッドレスタイヤを装着してください。急発進・急ブレーキを避け、車間距離を十分にとって慎重に運転しましょう。
             </p>

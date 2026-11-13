@@ -298,10 +298,8 @@ export default function KawaguchikoOnsenWinterPage() {
             <Mountain className="w-4 h-4 text-indigo-400" />
             <span>11月・12月限定 年間最高の富士山視認率 澄み渡る白銀富士と極上甲州牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】<br className="hidden sm:inline" />
-            湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月富士河口湖温泉郷の澄み渡る白銀富士と紅富士絶景】<br className="hidden sm:inline" />
+            湖畔展望露天・極上甲州牛すき焼き＆熱々名物ほうとう会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高830メートルの湖畔で仰ぐ、雪化粧を纏った霊峰富士の圧倒的な神々しさ。早朝の紅富士と静寂の逆さ富士を客室露天風呂から眺め、とろける甲州牛とあつあつの名物ほうとうに舌鼓を打つ至高の冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Fuji Peak Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                1年で最も空気が澄み渡る冬。霊峰富士が最も美しく輝く奇跡のシーズン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">1年で最も空気が澄み渡る冬。霊峰富士が最も美しく輝く奇跡のシーズン</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Natural Spring & Koshu Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                富士の恵み・硫酸塩美肌温泉と、冬を温める「甲州牛＆かぼちゃほうとう」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">富士の恵み・硫酸塩美肌温泉と、冬を温める「甲州牛＆かぼちゃほうとう」</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,37 +407,29 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の富士河口湖温泉郷が旅人を魅了してやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の富士河口湖温泉郷が旅人を魅了してやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="space-y-4">
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">1</span>
-                <span>富士山鑑賞の年間最高峰。澄み切った青空に輝く白銀の山肌</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">1</span>
+                <span>富士山鑑賞の年間最高峰。澄み切った青空に輝く白銀の山肌</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 夏場は雲や霞に覆われがちな富士山ですが、11月から12月は冬型の気圧配置によって湿度が急激に下がり、富士山の視認率が年間で最も高くなります。抜けるような冬の青空を背景に、山頂から八合目にかけて純白の雪を戴いた姿は、まさに葛飾北斎や歌川広重の浮世絵そのものの威厳をたたえています。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">2</span>
-                <span>早朝わずか10分間の奇跡「紅富士」と鏡のような「逆さ富士」</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">2</span>
+                <span>早朝わずか10分間の奇跡「紅富士」と鏡のような「逆さ富士」</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 風が止まり湖面が波立たない早朝、湖面に鏡のように富士山が映り込む「逆さ富士」。さらに日の出直後の限られた時間に、朝陽の斜光によって白い雪山が赤く染まる「紅富士」。この2つの奇跡が同時に重なる瞬間に出会えるのは、冷え込みと静寂が支配する初冬の朝ならではの特権です。客室露天風呂からこの瞬間を眺める贅沢は何ものにも代えがたい感動です。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">3</span>
-                <span>冷えた体を温める甲州牛すき焼きと熱々かぼちゃほうとう</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-900 text-white flex items-center justify-center text-xs">3</span>
+                <span>冷えた体を温める甲州牛すき焼きと熱々かぼちゃほうとう</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 氷点下近くまで冷え込む初冬の河口湖だからこそ、山梨の郷土鍋の美味しさが五臓六腑に染み渡ります。とろける霜降りのブランド黒毛和牛「甲州牛」のすき焼きや陶板焼き、甘みを凝縮させた地元産かぼちゃをたっぷり煮込んだ自家製味噌ほうとう。地元の老舗ワイナリーが仕込む熟成甲州赤ワインとともに味わう夕食は、冬旅の最高のハイライトです。
               </p>
@@ -455,9 +441,7 @@ export default function KawaguchikoOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】富士山ビューと名湯を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】富士山ビューと名湯を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、富士山と河口湖の眺望、源泉露天風呂の開放感、甲州牛会席やディナー、宿泊者レビュー評価で選び抜いた名宿。
             </p>
@@ -494,11 +478,9 @@ export default function KawaguchikoOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-indigo-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -558,9 +540,7 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の富士河口湖を満喫する1泊2日富士山絶景＆美食モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の富士河口湖を満喫する1泊2日富士山絶景＆美食モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -614,26 +594,20 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・冬道ドライブ＆アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・冬道ドライブ＆アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-700" />
-                <span>標高830mの気温と防寒対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-700" />
+                <span>標高830mの気温と防寒対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 河口湖は標高が高いため、平野部よりも気温が約5〜8℃低くなります。11月は日中でも12℃程度、朝晩は2℃近くまで下がります。12月は最高気温でも7℃前後、夜間や早朝はマイナス3℃〜5℃以下まで冷え込みます。風を通さないダウンコート、マフラー、手袋、ニット帽を必ずご用意ください。特に早朝の紅富士や逆さ富士鑑賞の際は底冷えするため、防寒ブーツや足元用カイロがあると重宝します。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-indigo-700" />
-                <span>冬道ドライブと直通電車・バス</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-indigo-700" />
+                <span>冬道ドライブと直通電車・バス</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 中央道「河口湖IC」や東富士五湖道路「富士吉田IC」周辺は11月下旬以降、早朝・夜間に路面凍結が発生することがあります。お車で訪れる場合は必ずスタッドレスタイヤを装着してください。雪道運転を避けたい方は、新宿駅から直通のJR特急「富士回遊号」や、都内主要ターミナルからの高速バスを利用すれば、ノーマルタイヤの心配なく快適に河口湖駅までアクセスできます。
               </p>
@@ -649,18 +623,14 @@ export default function KawaguchikoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の富士河口湖温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の富士河口湖温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -673,9 +643,7 @@ export default function KawaguchikoOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest">Related Kanto & Koshinetsu Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい甲信越・関東の冬名湯＆富士山絶景特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい甲信越・関東の冬名湯＆富士山絶景特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               雪化粧した富士山を望む箱根や甲州ワインの石和温泉など、初冬の澄んだ大気と名湯を満喫する人気特集を公開中。
             </p>

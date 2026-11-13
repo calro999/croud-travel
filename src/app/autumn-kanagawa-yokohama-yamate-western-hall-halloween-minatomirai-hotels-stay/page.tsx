@@ -295,9 +295,7 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Historic Western Mansions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                洋館7館が魅せる本格アート！洗練された「山手西洋館ハロウィーン装飾」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">洋館7館が魅せる本格アート！洗練された「山手西洋館ハロウィーン装飾」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -316,9 +314,7 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Autumn Roses & Halloween Walk</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                深紅に咲き誇る「港の見える丘公園」の秋バラと、賑わうハロウィーンウォーク
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">深紅に咲き誇る「港の見える丘公園」の秋バラと、賑わうハロウィーンウォーク</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -334,9 +330,7 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Classic Gourmet Heritage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                日本の洋食文化発祥の地！元祖プリン ア・ラ・モード＆老舗中華の秋の味覚
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">日本の洋食文化発祥の地！元祖プリン ア・ラ・モード＆老舗中華の秋の味覚</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -352,9 +346,7 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-6">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Yamate Promenade & Heritage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                異国情緒の薫る「山手本通り」！石畳の小道と名建築カフェ巡り
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">異国情緒の薫る「山手本通り」！石畳の小道と名建築カフェ巡り</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -370,9 +362,7 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-8">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】みなとみらい・山下公園周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】みなとみらい・山下公園周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -398,9 +388,7 @@ export default function YokohamaHalloweenFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-amber-500 shrink-0" />
@@ -423,9 +411,7 @@ export default function YokohamaHalloweenFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -457,17 +443,13 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Classic Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】山手西洋館巡り・港の秋バラ＆夜景ディナールート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】山手西洋館巡り・港の秋バラ＆夜景ディナールート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：元町中華街ランチ・山手西洋館ハロウィーン巡り＆夜景ステイ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：元町中華街ランチ・山手西洋館ハロウィーン巡り＆夜景ステイ</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">11:30 元町・中華街駅到着＆中華街「重慶飯店」で四川ランチ</strong><br />
@@ -493,10 +475,8 @@ export default function YokohamaHalloweenFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：山下公園朝散歩・赤レンガ倉庫＆みなとみらいショッピング
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：山下公園朝散歩・赤レンガ倉庫＆みなとみらいショッピング</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 山下公園の潮風散歩＆氷川丸の雄姿を眺める朝食</strong><br />
@@ -519,37 +499,29 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                横浜山手散策をスマートに楽しむための注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">横浜山手散策をスマートに楽しむための注意点</h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  坂道とスニーカーの準備
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  坂道とスニーカーの準備</h3>
                 <p className="text-stone-600 leading-relaxed">
                   元町から山手の丘へは急な坂道（谷戸坂・代官坂等）があります。歩きやすいスニーカーを着用し、アメリカ山公園のエレベーターを賢く活用しましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-rose-500" />
-                  ハロウィーンウォーク当日の混雑
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-rose-500" />
+                  ハロウィーンウォーク当日の混雑</h3>
                 <p className="text-stone-600 leading-relaxed">
                   10月最終日曜の「ハロウィーンウォーク」当日は洋館内が大変混雑し入場規制がかかることがあります。ゆっくり静かに鑑賞したい場合は平日が狙い目です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-amber-500" />
-                  アフタヌーンティーの事前予約
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-amber-500" />
+                  アフタヌーンティーの事前予約</h3>
                 <p className="text-stone-600 leading-relaxed">
                   ソマーハウスやラ・テラスなどのハロウィーンアフタヌーンティーは非常に人気が高いため、1〜2ヶ月前の事前予約が必須です。
                 </p>
@@ -561,18 +533,14 @@ export default function YokohamaHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                横浜山手西洋館ハロウィーン よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">横浜山手西洋館ハロウィーン よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-amber-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -583,9 +551,7 @@ export default function YokohamaHalloweenFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              異人館の秋の風情と煌めく港夜景に酔いしれる横浜ステイへ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">異人館の秋の風情と煌めく港夜景に酔いしれる横浜ステイへ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               クラシカルな洋館に息づくアート装飾、香り立つ秋バラ、そしてバルコニーから眺める大観覧車のイルミネーション。大人の感性を刺激する洗練された横浜の秋を体験してみませんか。
             </p>

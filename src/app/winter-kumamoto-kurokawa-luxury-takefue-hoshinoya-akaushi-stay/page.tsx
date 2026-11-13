@@ -102,9 +102,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">
-              【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【阿蘇の静寂と湯煙に抱かれる極上隠れ宿離れ】2026-2027年11-12月初冬の熊本・黒川温泉＆瀬の本！「深山山荘」＆「山あいの宿 山みず木」・初冬の静寂と阿蘇あか牛懐石名宿5選</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               阿蘇外輪山の北麓、幽玄な渓谷に湯煙が立ちのぼる黒川温泉郷と瀬の本高原。渓流沿いの大自然に抱かれた「黒川温泉 山みず木別邸 深山山荘」や、野趣あふれる名湯と至高のホスピタリティを誇る「山あいの宿 山みず木」、茅葺きや古民家造りの大人の隠れ家リゾート。冬枯れの美しい自然景観と、とろける阿蘇あか牛や郷土会席を五感で味わう至高の贅沢ステイ厳選5選。
             </p>
@@ -113,9 +111,7 @@ export default function LuxuryStayPage() {
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">
-              初冬の静寂が織りなす最高峰の贅沢リトリート
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
             <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
               阿蘇外輪山の北麓、幽玄な渓谷沿いに湯煙が立ちのぼる九州屈指の秘湯『黒川温泉（くろかわおんせん）』と、雄大な阿蘇五岳を望む『瀬の本高原』。標高700mの山間に位置するこの地は、11月から12月にかけての初冬、落葉した木々と凛とした冬枯れの自然美、そして立ちのぼる温泉の湯煙が織りなす幻想的な情緒に包まれます。冬の風物詩である竹灯籠のイルミネーション『湯あかり』が渓流を優しく照らし出し、黒川温泉全体が一つの大きな隠れ宿のように旅人を迎え入れます。この自然と共生する山あいの地に佇むのが、約4,000坪の原生林に抱かれた最高峰の離れ宿『黒川温泉 山みず木別邸 深山山荘（みやまさんそう）』や、創業300年の歴史を誇る『御客屋』、名湯露天風呂と野趣を極めた『山あいの宿 山みず木』。すべての客室が独立した離れや専用温泉風呂を備え、川のせせらぎと鳥のさえずりだけが響く圧倒的な静寂の空間を提供しています。夕食には、阿蘇の大自然で放牧されて育ったヘルシーで濃厚な赤身肉の旨味が際立つ『阿蘇あか牛』の炭火焼きステーキや溶岩焼き、熊本名物の極上馬刺し、そして山里の冬野菜をふんだんに盛り込んだ田舎会席。初冬の冷気の中で満天の星を仰ぎながら自家源泉かけ流しの露天風呂に身を委ねる時間は、魂の深呼吸とも言える究極の贅沢です。
             </p>
@@ -123,9 +119,7 @@ export default function LuxuryStayPage() {
 
           <section>
             <div className="text-center mb-8">
-              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                11月〜12月に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">11月〜12月に訪れるべき3つの理由</h2>
               <p className="text-slate-600 text-sm mt-2">
                 初冬だからこそ出会える絶景と美食、極上のプライベート空間
               </p>
@@ -173,9 +167,7 @@ export default function LuxuryStayPage() {
                 <span className="inline-block bg-amber-600 text-white font-bold text-xs px-3 py-1 rounded-full">
                   宿と合わせて巡る周辺名所
                 </span>
-                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">
-                  渓谷沿いに木造宿が寄り添う秘湯・黒川温泉（街全体が一つの宿・杉の入湯手形と田の原川）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">渓谷沿いに木造宿が寄り添う秘湯・黒川温泉（街全体が一つの宿・杉の入湯手形と田の原川）</h3>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   黒川温泉（くろかわおんせん）は、熊本県阿蘇郡南小国町にある温泉である。
                 </p>
@@ -188,9 +180,7 @@ export default function LuxuryStayPage() {
               <span className="text-amber-600 font-extrabold tracking-wider text-xs md:text-sm uppercase block mb-1">
                 Luxury Stays Selection
               </span>
-              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">
-                厳選の最高級名宿 5選
-              </h2>
+              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">厳選の最高級名宿 5選</h2>
               <p className="text-slate-600 text-sm mt-2">
                 楽天トラベル最新API生データに基づく客室露天風呂・極上会席のプレミアム宿
               </p>
@@ -203,9 +193,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                黒川温泉　山みず木別邸　深山山荘
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">黒川温泉　山みず木別邸　深山山荘</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 黒川の奥深くに佇む全室離れスイート！全室専用温泉風呂付きの隠れ里
               </p>
@@ -240,10 +228,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>山あいの宿 山みず木の別邸として誕生した最高峰の全室離れ宿。約4,000坪の敷地にプライベートな集落のように離れが点在します。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての客室に内湯または専用露天風呂を完備。敷地内のプライベートダイニング「みやま」で誰にも邪魔されない美食の時間を過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は厳選された阿蘇あか牛のステーキや旬の郷土料理をモダンに昇華させた会席コース。洗練されたおもてなしが至福の安らぎをもたらします。</span></li>
                 </ul>
@@ -272,9 +258,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                黒川温泉　お宿のし湯
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">黒川温泉　お宿のし湯</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 雑木林に溶け込む古民家の温もり！自家源泉の貸切露天風呂と大人の隠れ家
               </p>
@@ -309,10 +293,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>黒川温泉の中心部にありながら、木々に囲まれ静寂が支配する隠れ宿。茅葺きや古木を活かした温もりあふれる空間が広がります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>趣の異なる貸切露天風呂が点在し、湯の花が舞う源泉掛け流しの名湯を満喫。静かに流れる時間に身を委ねることができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は地元熊本の契約農家から届く冬野菜やあか牛を盛り込んだ創作会席。心温まる細やかな接客がリピーターを魅了し続けます。</span></li>
                 </ul>
@@ -341,9 +323,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                黒川温泉　山あいの宿　山みず木
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">黒川温泉　山あいの宿　山みず木</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 渓流のせせらぎと一体になる野趣あふれる露天風呂！黒川温泉を代表する名旅館
               </p>
@@ -378,10 +358,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>奥黒川の清流沿いに佇み、川のせせらぎを間近に感じる名物露天風呂「幽谷の湯」「破線の湯」で全国にその名を知られる名宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>裸足で歩く心地よい館内と、純和風の落ち着いた客室。自然の音だけに包まれる贅沢なひとときを過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は阿蘇の山の幸と熊本の厳選素材を贅沢に仕立てた旬彩会席。季節の恵みを丁寧に味わう贅沢な晩餐が旅の夜を彩ります。</span></li>
                 </ul>
@@ -410,9 +388,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                黒川温泉　歴史の宿　御客屋
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">黒川温泉　歴史の宿　御客屋</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 創業享保七年・黒川最古の歴史宿！薬湯として親しまれる名湯と囲炉裏会席
               </p>
@@ -447,10 +423,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>創業300年を超える歴史を誇る黒川温泉最古の湯宿。重厚な梁や柱が醸し出すレトロで趣深い佇まいが魅力です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>田の原川沿いに湧く良質な自家源泉は古くから名湯として愛され、歴史ある湯船でじっくりと芯まで温まることができます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は無農薬野菜や肥後あか牛、馬刺しを盛り込んだ滋味豊かな会席料理。素朴でありながら極上の味わいが旅情を深めます。</span></li>
                 </ul>
@@ -479,9 +453,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                黒川温泉　瀬の本高原ホテル
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">黒川温泉　瀬の本高原ホテル</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 阿蘇五岳と大草原を望む標高920m！絶景露天風呂と満天の星空パノラマ
               </p>
@@ -516,10 +488,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>やまなみハイウェイ沿い、阿蘇くじゅう国立公園の大草原に建つ高原リゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>遮るもののない大パノラマ露天風呂「絶景鼻の湯」からは、昼は阿蘇五岳、夜は降るような満天の星を一望できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は熊本の旬を彩る和洋創作バイキングまたは会席料理。黒川温泉街への無料シャトルバスも運行し、観光の拠点に最適です。</span></li>
                 </ul>
@@ -547,9 +517,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="bg-slate-900 text-slate-100 p-6 md:p-8 rounded-2xl shadow-md space-y-4">
-            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">
-              アクセス＆初冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">アクセス＆初冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-800/80 p-5 rounded-xl border border-slate-700">
               【エリアへのアクセス】
 ・飛行機・空港から：熊本空港（阿蘇くまもと空港）より特急バス「九州横断バス」で黒川温泉まで直通約2時間、またはレンタカーでミルクロード・やまなみハイウェイ経由で約1時間20分。福岡空港からも直行高速バスで約2時間15分。
@@ -573,30 +541,24 @@ export default function LuxuryStayPage() {
             <div className="space-y-4">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>黒川温泉の「湯あかり」はいつから開催されますか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>黒川温泉の「湯あかり」はいつから開催されますか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               黒川温泉の冬の風物詩「湯あかり」は、例年12月下旬頃から翌年3月末頃まで開催されます（日没から22時頃まで点灯）。丸鈴橋周辺の田の原川沿いに大小の竹灯籠や竹鞠が吊り下げられ、幻想的な温かい光が冬の渓流を優美に照らし出します。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>「深山山荘」と「山みず木」は同じ系列ですか？温泉を行き来できますか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>「深山山荘」と「山みず木」は同じ系列ですか？温泉を行き来できますか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               『深山山荘』は名宿『山あいの宿 山みず木』の別邸として誕生した全室離れの高級宿です。両宿は渓流沿いの美しい遊歩道で結ばれており、宿泊者は山みず木が誇る野趣あふれる名物渓流露天風呂も楽しむことができます。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>12月の黒川温泉は道路に雪が積もりますか？ノーマルタイヤでも行けますか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>12月の黒川温泉は道路に雪が積もりますか？ノーマルタイヤでも行けますか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               やまなみハイウェイや瀬の本高原周辺は標高が高いため、12月中旬以降は寒波が到来すると積雪や路面凍結が発生します。12月に車で向かう場合はスタッドレスタイヤ装着車を指定するか、天候予報を事前にご確認ください。
             </p>
@@ -609,9 +571,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-white/20 backdrop-blur-sm text-white font-bold text-xs px-3 py-1 rounded-full">
               賢く泊まる節税旅
             </span>
-            <h2 className="text-2xl md:text-3xl font-black">
-              楽天ふるさと納税で憧れの最高級宿に泊まる
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black">楽天ふるさと納税で憧れの最高級宿に泊まる</h2>
             <p className="text-white/90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
               寄附金額の最大30%相当が宿泊クーポンとして即時還元！3年間有効なので、初冬の記念日や憧れのラグジュアリーステイの予約に最適です。
             </p>
@@ -628,9 +588,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="space-y-4 pt-6">
-            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">
-              あわせて読みたい初冬の極上宿特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">あわせて読みたい初冬の極上宿特集</h2>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

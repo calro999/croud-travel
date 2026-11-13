@@ -265,9 +265,7 @@ export default function ShigaHieizanOgotoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の比叡山延暦寺が放つ「静寂と祈りの神髄」とおごと温泉の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の比叡山延暦寺が放つ「静寂と祈りの神髄」とおごと温泉の温もり</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               雪化粧の杉木立に包まれる天台宗総本山と、最澄開湯1200年の湖畔名湯
             </p>
@@ -323,27 +321,21 @@ export default function ShigaHieizanOgotoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              天台宗の聖地が育んだ歴史と、近江国が誇る最高峰の恵み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">天台宗の聖地が育んだ歴史と、近江国が誇る最高峰の恵み</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                伝教大師最澄の祈り・延暦寺三塔十六谷と「不滅の法灯」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                伝教大師最澄の祈り・延暦寺三塔十六谷と「不滅の法灯」</h3>
               <p>
                 比叡山延暦寺は「東塔（とうどう）」「西塔（さいとう）」「横川（よかわ）」の三塔から成り、それぞれに歴史的な堂宇が点在します。最澄が灯したとされる根本中堂の不滅の法灯は、毎日朝夕に油を注ぎ足すことで一度も絶えることなく継承されてきました。雪が静かに降る冬の山内では、木々の葉が落ちて視界が開け、白銀の琵琶湖と京都の街並みを同時に見渡すことができます。大改修中の根本中堂で体験できる「修学ステージ」は、普段は決して見ることのできない木組みや屋根瓦の葺き替えを間近で観察できる歴史的ハイライトです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                日本三大和牛「近江牛」の歴史と最澄開湯1200年「おごと温泉」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                日本三大和牛「近江牛」の歴史と最澄開湯1200年「おごと温泉」</h3>
               <p>
                 江戸時代、彦根藩が将軍家へ味噌漬けの養生肉として献上した歴史を持つ「近江牛」。琵琶湖を取り囲む豊かな自然と清冽な伏流水、栄養価の高い飼料で育てられることで、細やかな霜降りと融点の低い極上の脂を実現しています。冬には昆布出汁にくぐらせる熱々のしゃぶしゃぶやすき焼きが絶品。また、比叡山を下りた湖畔に湧く「おごと温泉」は、pH9.0前後の高アルカリ性単純温泉で、肌の不要な角質を落としすべすべにする美肌効果抜群の名湯。冬の冷え切った身体を芯から解きほぐします。
               </p>
@@ -355,9 +347,7 @@ export default function ShigaHieizanOgotoPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】比叡山延暦寺冬参拝とおごと温泉・極上近江牛を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】比叡山延暦寺冬参拝とおごと温泉・極上近江牛を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               坂本ケーブルで白銀の山頂へ登り、湖畔の名湯で心身を解きほぐす冬の旅路。
             </p>
@@ -368,9 +358,7 @@ export default function ShigaHieizanOgotoPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 比叡山坂本駅到着 ➔ 門前町散策＆日本一の「坂本ケーブル」乗車
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 比叡山坂本駅到着  門前町散策＆日本一の「坂本ケーブル」乗車</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JR京都駅から湖西線で約15分の比叡山坂本駅へ。穴太衆積みの美しい石垣が連なる門前町・坂本を抜け、全長2,025mを誇る日本最長の坂本ケーブルへ乗車。車窓から雪に煙る広大な琵琶湖を眺めながら、標高848mの延暦寺駅へ登ります。駅舎を出ると、白銀の静寂に包まれた比叡山頂が広がります。
                 </p>
@@ -379,9 +367,7 @@ export default function ShigaHieizanOgotoPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 昼〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 国宝「根本中堂」不滅の法灯参拝＆修学ステージ見学・比叡そば
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 国宝「根本中堂」不滅の法灯参拝＆修学ステージ見学・比叡そば</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   山内の茶屋で熱々の名物「比叡そば」を味わった後、延暦寺の総本堂・国宝「根本中堂」へ。1200年間絶えることなく灯る「不滅の法灯」の前で厳かに合掌。大改修限定の修学ステージから国宝建築の匠の技を間近に見学します。大講堂や阿弥陀堂を巡り、冬の凛とした冷気の中で心洗われる時間を過ごします。
                 </p>
@@ -390,9 +376,7 @@ export default function ShigaHieizanOgotoPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 ケーブル下山 ➔ おごと温泉名宿へチェックイン＆極上近江牛ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 ケーブル下山  おごと温泉名宿へチェックイン＆極上近江牛ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   ケーブルカーで下山後、おごと温泉の宿へチェックイン。客室露天風呂や大浴場のpH9.0の美肌温泉に浸かり、琵琶湖の雪景色を眺めながら芯まで温まります。夕食は極上近江牛のすき焼きやサーロインステーキ。きめ細やかなサシの甘みが口いっぱいに広がり、地酒とともに至福の冬夜を過ごします。
                 </p>
@@ -401,9 +385,7 @@ export default function ShigaHieizanOgotoPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 琵琶湖の朝焼け露天風呂 ➔ 三井寺参拝＆近江八幡水郷散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 琵琶湖の朝焼け露天風呂  三井寺参拝＆近江八幡水郷散策</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   琵琶湖の水平線から昇る美しい朝日に照らされながら朝風呂を満喫。滋賀県産米の朝食を楽しんだ後、車または電車で天台寺門宗総本山「三井寺（園城寺）」へ。国宝金堂や三井の晩鐘を拝観し、近江八幡の水郷や八幡堀を散策。クラブハリエのバームクーヘンをお土産に購入し帰路へつきます。
                 </p>
@@ -416,9 +398,7 @@ export default function ShigaHieizanOgotoPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              比叡山延暦寺参拝とおごと温泉を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">比叡山延暦寺参拝とおごと温泉を満喫する厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               琵琶湖レイクビュー露天風呂と極上近江牛、心温まるおもてなしの宿
             </p>
@@ -442,9 +422,7 @@ export default function ShigaHieizanOgotoPage() {
                           厳選名宿
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-amber-600 shrink-0" />
                         {hotel.access}
@@ -526,9 +504,7 @@ export default function ShigaHieizanOgotoPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/80 space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs uppercase tracking-wider block">Winter Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の比叡山・おごと温泉旅行で知っておきたい気候・交通・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の比叡山・おごと温泉旅行で知っておきたい気候・交通・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700">
@@ -568,20 +544,16 @@ export default function ShigaHieizanOgotoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              比叡山延暦寺・おごと温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">比叡山延暦寺・おごと温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -594,9 +566,7 @@ export default function ShigaHieizanOgotoPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい関西・近畿の冬景色・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい関西・近畿の冬景色・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -269,9 +269,7 @@ export default function HokkaidoAkankoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Akan Pristine Winter & Frost Flowers</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の静謐と奇跡の結晶｜11月・12月に阿寒湖温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の静謐と奇跡の結晶｜11月・12月に阿寒湖温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function HokkaidoAkankoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Caldera Ecology & Ainu Cultural Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                カルデラが生んだ神秘の生態系とアイヌ民族が紡ぐ自然共生の知恵
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">カルデラが生んだ神秘の生態系とアイヌ民族が紡ぐ自然共生の知恵</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +343,7 @@ export default function HokkaidoAkankoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Selected Lakeside Hot Spring Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月の阿寒湖温泉を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月の阿寒湖温泉を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               オホーツク産極上毛蟹と北海道黒毛和牛、阿寒湖を一望する雪見露天風呂を誇る、楽天トラベル高評価の特選宿をご紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function HokkaidoAkankoWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="text-right">
                         <span className="text-xs text-slate-500 block">参考宿泊料金（2名1室時1名）</span>
                         <span className="text-xl font-extrabold text-teal-800">{hotel.price}</span>
@@ -463,9 +455,7 @@ export default function HokkaidoAkankoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】阿寒湖の初冬絶景とアイヌ文化を極める1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】阿寒湖の初冬絶景とアイヌ文化を極める1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -494,31 +484,23 @@ export default function HokkaidoAkankoWinterFeature() {
         <section className="bg-gradient-to-br from-teal-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-800">
             <Compass className="w-6 h-6 text-teal-400" />
-            <h2 className="text-xl sm:text-2xl font-bold">
-              11月・12月の阿寒湖温泉旅行を満喫する実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">11月・12月の阿寒湖温泉旅行を満喫する実践ガイド</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-teal-300 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4" /> 気温と完全防寒スノーブーツ
-              </h3>
+              <h3 className="font-bold text-teal-300 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4" /> 気温と完全防寒スノーブーツ</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 12月は氷点下10度以下まで冷え込みます。厚手ダウンコート、ヒートテック、ニット帽、厚手手袋、ネックウォーマーに加え、圧雪・凍結路面を安全に歩ける防滑スノーブーツの着用が絶対条件です。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-teal-300 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4" /> アイヌコタンと伝統舞踊
-              </h3>
+              <h3 className="font-bold text-teal-300 flex items-center gap-1.5"><Footprints className="w-4 h-4" /> アイヌコタンと伝統舞踊</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 北海道最大級の阿寒湖アイヌコタンでは木彫り工芸店巡りや「阿寒湖アイヌシアターイコロ」での伝統古式舞踊上演が見逃せません。初冬の夜のライトアップされたコタンは温かい旅情に満ちています。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-teal-300 flex items-center gap-1.5">
-                <Fish className="w-4 h-4" /> オホーツク毛蟹とワカサギ
-              </h3>
+              <h3 className="font-bold text-teal-300 flex items-center gap-1.5"><Fish className="w-4 h-4" /> オホーツク毛蟹とワカサギ</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 冬の道東はオホーツク海から直送される毛蟹やズワイ蟹が絶品。濃厚な蟹味噌と甘い身を堪能しましょう。さらに阿寒湖名物の揚げたてワカサギ天ぷらはサクサクで一度食べたら忘れられない美味です。
               </p>
@@ -534,18 +516,14 @@ export default function HokkaidoAkankoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の阿寒湖温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の阿寒湖温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -558,9 +536,7 @@ export default function HokkaidoAkankoWinterFeature() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の温泉・美食旅行特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の温泉・美食旅行特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -568,9 +544,7 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・十勝川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 北海道遺産植物性モール温泉と白鳥の飛来を望む極上ステイ。
               </p>
@@ -580,9 +554,7 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・層雲峡</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                層雲峡温泉の大雪山初冬雪峡絶景と名湯雪見露天風呂宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">層雲峡温泉の大雪山初冬雪峡絶景と名湯雪見露天風呂宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 断崖絶壁の柱状節理と白い雪が織りなす大雪山の渓谷美。
               </p>
@@ -592,9 +564,7 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・函館湯の川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 津軽海峡にきらめくイカ釣り漁火と函館の冬の味覚を堪能。
               </p>
@@ -604,9 +574,7 @@ export default function HokkaidoAkankoWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・登別</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                登別温泉の初冬地獄谷雪景色と多彩な名湯白濁露天風呂宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">登別温泉の初冬地獄谷雪景色と多彩な名湯白濁露天風呂宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 白煙立ち込める地獄谷と日本屈指の豊富な泉質を巡る湯治旅。
               </p>

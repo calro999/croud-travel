@@ -266,10 +266,8 @@ export default function NozawaWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-200" />
             <span>12月シーズン開幕！天然雪100%＆名湯めぐり</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【12月開幕！野沢温泉パウダースノー】<br className="hidden sm:inline" />
-            天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【12月開幕！野沢温泉パウダースノー】<br className="hidden sm:inline" />
+            天然雪100%ゲレンデと名物13外湯めぐり＆信州牛美食宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高1,650mから降り積もる極上のサラサラ粉雪。滑走を楽しんだ後は、江戸時代から受け継がれる13の外湯を浴衣と下駄で巡り、信州牛ステーキと名物野沢菜に舌鼓を打つ日本最高峰のスノー＆温泉リトリート。
           </p>
@@ -295,9 +293,7 @@ export default function NozawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Snow & Onsen Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                白銀のゲレンデと湯煙が立ち上る石畳。世界を魅了する冬の野沢温泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀のゲレンデと湯煙が立ち上る石畳。世界を魅了する冬の野沢温泉</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function NozawaWinterPage() {
           </p>
           <div className="bg-teal-50/60 rounded-2xl p-5 border border-teal-200/60 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-teal-600" />
-                宿の内湯と13の外湯を組み合わせる「はしご湯」が醍醐味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-teal-600" />
+                宿の内湯と13の外湯を組み合わせる「はしご湯」が醍醐味</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 旅館の快適な内湯・露天風呂で温まったあと、浴衣姿で近所の外湯へ出かけるのが伝統的な楽しみ方です。
               </p>
@@ -332,9 +326,7 @@ export default function NozawaWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Village Charms</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の野沢温泉で体験すべき3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の野沢温泉で体験すべき3大ハイライト</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function NozawaWinterPage() {
         <section id="hotel-list" className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Selected Innn</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">
-              パウダースノーと外湯めぐりを満喫する野沢温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">パウダースノーと外湯めぐりを満喫する野沢温泉の厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
               楽天トラベル公式APIより取得した最新情報に基づき、自家源泉やゲレンデアクセス、料理評価に優れた名宿をご紹介。
             </p>
@@ -412,9 +402,7 @@ export default function NozawaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 mt-2 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-stone-400 shrink-0" />
@@ -423,10 +411,8 @@ export default function NozawaWinterPage() {
 
                       {/* Detailed Story & Deep Dive Review */}
                       <div className="mt-4 pt-4 border-t border-stone-100 space-y-3">
-                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Info className="w-4 h-4 text-teal-600" />
-                          宿の魅力と自家源泉・信州会席レビュー
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5"><Info className="w-4 h-4 text-teal-600" />
+                          宿の魅力と自家源泉・信州会席レビュー</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {hotel.story}
                         </p>
@@ -479,9 +465,7 @@ export default function NozawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Comparison</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                野沢温泉厳選5宿 自家源泉・ゲレンデ立地比較表
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">野沢温泉厳選5宿 自家源泉・ゲレンデ立地比較表</h2>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -538,26 +522,20 @@ export default function NozawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Local Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                野沢温泉スキー＆外湯めぐりを何倍も楽しむエキスパートTIPS
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">野沢温泉スキー＆外湯めぐりを何倍も楽しむエキスパートTIPS</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-teal-600" />
-                名物「集印めぐり（スタンプラリー）」で記念手ぬぐいをゲット
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Snowflake className="w-4 h-4 text-teal-600" />
+                名物「集印めぐり（スタンプラリー）」で記念手ぬぐいをゲット</h3>
               <p>
                 観光案内所や旅館で「集印帳（手ぬぐい）」を購入し、13の外湯や名所に設置された木版スタンプを押して巡るのが野沢温泉の王道の楽しみ方。10箇所以上集めると特製の記念岡本太郎デザインの記念品がもらえます。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-600" />
-                熱い外湯の入り方のコツ（かけ湯を念入りに）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-teal-600" />
+                熱い外湯の入り方のコツ（かけ湯を念入りに）</h3>
               <p>
                 野沢温泉の外湯は源泉温度が60度以上あり、浴槽も43〜46度とかなり熱めです。いきなり肩まで浸からず、足先から太もも、お腹へと20回以上かけ湯をして体を慣らしてから、静かに入浴するのが湯あたりを防ぐ秘訣です。
               </p>
@@ -569,9 +547,7 @@ export default function NozawaWinterPage() {
         <section className="bg-gradient-to-br from-teal-50/70 via-white to-stone-50 rounded-3xl p-6 sm:p-10 border border-teal-200/80 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Model Course</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              【1泊2日】極上パウダースノー滑走と名物外湯めぐり満喫コース
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">【1泊2日】極上パウダースノー滑走と名物外湯めぐり満喫コース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               初滑りパウダースノーの爽快感と、白銀の温泉街情景を味わい尽くす冬の理想プラン。
             </p>
@@ -650,9 +626,7 @@ export default function NozawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の野沢温泉・スキー旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の野沢温泉・スキー旅行 よくある質問</h2>
             </div>
           </div>
 
@@ -707,9 +681,7 @@ export default function NozawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Internal Links</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                長野・甲信越の雪見温泉＆スキーリゾート特集を探す
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">長野・甲信越の雪見温泉＆スキーリゾート特集を探す</h2>
             </div>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">

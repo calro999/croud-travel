@@ -109,9 +109,7 @@ export default function LuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【竹林の秘境・日本最高峰ラグジュアリー離れ「竹ふえ」と「月洸樹」】2026-2027年11-12月初冬の熊本・黒川温泉郷奥座敷！広大な客室専用露天風呂と幻のあか牛フィレ炭火焼き・大人の一生に一度は泊まりたい憧れ名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             阿蘇外輪山の奥深く、鬱蒼とした竹林と清らかな小川に包まれた南小国・黒川温泉郷の奥座敷。全国の温泉ファンが「一生に一度は泊まりたい」と憧れる日本最高峰のプライベート離れ「竹ふえ」や「月洸樹 黒川」。数百平米もの広さを誇る客室専用露天風呂や内湯に自家源泉が並々と掛け流され、冬の冷たい大気の中で竹林のライトアップを眺める至高の湯浴み。熊本が誇る幻の和牛「あか牛」の極上フィレ肉炭火焼きと季節の創作会席を味わう、究極の贅沢名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function LuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>全国屈指の憧れ！広大な竹林に佇む日本最高峰の離れ宿と巨大専用露天風呂</span>
-            </h3>
+              <span>全国屈指の憧れ！広大な竹林に佇む日本最高峰の離れ宿と巨大専用露天風呂</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               数千坪の敷地にわずかな客室のみを配した完全プライベートヴィラ。誰にも気兼ねせず、客室専用の巨大露天風呂で自家源泉掛け流しの湯を独り占めする贅沢が叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>冬の風物詩「湯あかり」ライトアップ！竹灯籠が田の原川を照らす幻想的な夜</span>
-            </h3>
+              <span>冬の風物詩「湯あかり」ライトアップ！竹灯籠が田の原川を照らす幻想的な夜</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               11月下旬から点灯する黒川温泉の冬名物『湯あかり』。職人が彫り上げた数百本の竹灯籠が川面や橋を幻想的な光で包み込み、初冬の温泉街をロマンチックに彩ります。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>阿蘇の大草原が育む幻の牛肉「あか牛」フィレ炭火焼きと馬刺しの極上会席</span>
-            </h3>
+              <span>阿蘇の大草原が育む幻の牛肉「あか牛」フィレ炭火焼きと馬刺しの極上会席</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               赤身の濃厚な旨味と上質なサシが調和した熊本の至宝『あか牛』。極上フィレ肉の炭火焼きや新鮮な特選馬刺し、地元の山の幸を贅沢に味わう至高のディナーを堪能できます。
             </p>
@@ -177,9 +167,7 @@ export default function LuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  黒川温泉　旅館　山河
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">黒川温泉　旅館　山河</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  黒川温泉　山みず木別邸　深山山荘
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">黒川温泉　山みず木別邸　深山山荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  黒川温泉　山の宿　新明館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">黒川温泉　山の宿　新明館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  黒川温泉　山あいの宿　山みず木
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">黒川温泉　山あいの宿　山みず木</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  滝の上温泉　お宿　花風月
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">滝の上温泉　お宿　花風月</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -546,28 +524,22 @@ export default function LuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>黒川温泉の有名な「入湯手形」は宿泊者以外でも購入できますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>黒川温泉の有名な「入湯手形」は宿泊者以外でも購入できますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               はい、黒川温泉観光旅館協同組合（風の舎）や各旅館のフロントで1枚1,500円（税込）で購入できます。手形1枚につき、参加旅館の中からお好きな3箇所の露天風呂に入浴可能です。有効期限は半年間あるため、宿泊当日のチェックイン前やチェックアウト後の湯巡りにも大活躍します。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>「あか牛」とはどのような牛肉ですか？黒毛和牛との違いは？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>「あか牛」とはどのような牛肉ですか？黒毛和牛との違いは？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               「あか牛（褐毛和種）」は熊本・阿蘇の大自然で放牧されて育つ和牛です。黒毛和牛に比べて無駄な脂肪分が少なく、赤身肉の中にアミノ酸と適度なサシが凝縮されているのが最大の特徴です。胃もたれせず、噛むほどに芳醇な赤身本来の濃厚な旨味が広がるヘルシーで贅沢な高級和牛です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月〜12月に阿蘇・黒川温泉へレンタカーで行く際の道路状況は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月〜12月に阿蘇・黒川温泉へレンタカーで行く際の道路状況は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               11月中旬までは概ねノーマルタイヤで通行できますが、11月下旬以降や12月に入ると阿蘇山周辺やミルクロード、やまなみハイウェイなどの峠道で突然の降雪や凍結が発生します。冬季に訪れる場合は、スタッドレスタイヤ装着のレンタカーを予約することを強くおすすめします。
             </p>

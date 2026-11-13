@@ -303,10 +303,8 @@ export default function TokyoOkutamaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-emerald-600" />
-            11・12・1月の奥多摩・青梅 冬旅ハイライト
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-emerald-600" />
+            11・12・1月の奥多摩・青梅 冬旅ハイライト</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="space-y-2 border-l-2 border-emerald-500 pl-4">
               <h3 className="font-bold text-slate-900">天空のパワースポット初詣</h3>
@@ -341,9 +339,7 @@ export default function TokyoOkutamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest block">SACRED PEAK & GEOLOGY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                都心から90分の深山幽谷：標高929m御岳山の狼信仰と多摩川源流の渓谷美
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">都心から90分の深山幽谷：標高929m御岳山の狼信仰と多摩川源流の渓谷美</h2>
             </div>
           </div>
 
@@ -368,9 +364,7 @@ export default function TokyoOkutamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest block">GOURMET & THERMAL SPRINGS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                東京の奥座敷が育む至高の美食：幻の秋川牛と清流生わさび、美肌の隠れ湯
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">東京の奥座敷が育む至高の美食：幻の秋川牛と清流生わさび、美肌の隠れ湯</h2>
             </div>
           </div>
 
@@ -394,9 +388,7 @@ export default function TokyoOkutamaWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-emerald-600" />
               HOTEL SELECTION BY RAKUTEN API
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              武蔵御嶽神社初詣と奥多摩美食を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">武蔵御嶽神社初詣と奥多摩美食を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
               楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。清流多摩川の絶景ロケーション、極上和牛・郷土会席、名湯露天風呂を備えた隠れ家宿を厳選しました。
             </p>
@@ -433,9 +425,7 @@ export default function TokyoOkutamaWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
                     <p className="text-xs text-slate-500 mb-3 line-clamp-2">
                       {hotel.special}
                     </p>
@@ -494,19 +484,15 @@ export default function TokyoOkutamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                1泊2日 武蔵御嶽神社新春初詣＆鳩ノ巣渓谷・秋川牛堪能モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">1泊2日 武蔵御嶽神社新春初詣＆鳩ノ巣渓谷・秋川牛堪能モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                都心から青梅線で御岳山へ、ケーブルカーで武蔵御嶽神社新春初詣と天空パノラマ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                都心から青梅線で御岳山へ、ケーブルカーで武蔵御嶽神社新春初詣と天空パノラマ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:00 新宿駅よりJR中央線・青梅線にて御嶽駅へ出発</strong><br />
                 都心を離れ約80分で御嶽駅に到着。駅前から西東京バスで「ケーブル下」へ向かい、御岳登山鉄道ケーブルカーで標高831mの御岳山駅へ。
@@ -527,10 +513,8 @@ export default function TokyoOkutamaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-cyan-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                鳩ノ巣渓谷・氷川渓谷の冬の静寂散策と奥多摩駅前のお土産めぐり
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                鳩ノ巣渓谷・氷川渓谷の冬の静寂散策と奥多摩駅前のお土産めぐり</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:00 宿で多摩の旬食材の朝食をいただきチェックアウト</strong><br />
                 澄み渡る朝の空気の中を出発。鳩ノ巣渓谷の吊り橋「鳩ノ巣小橋」から冬のエメラルドグリーンの水面と巨岩のコントラストを鑑賞。
@@ -559,19 +543,15 @@ export default function TokyoOkutamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                東京・奥多摩＆青梅 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">東京・奥多摩＆青梅 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-emerald-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function TokyoOkutamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！首都圏・東日本の厳選「冬の初詣＆名湯・絶景グルメ特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！首都圏・東日本の厳選「冬の初詣＆名湯・絶景グルメ特集」</h2>
             </div>
           </div>
 

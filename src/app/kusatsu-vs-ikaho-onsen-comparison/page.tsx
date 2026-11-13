@@ -79,18 +79,16 @@ export default function KusatsuVsIkahoPage() {
       </header>
 
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          1. 泉質の比較：刺激的な草津か、芯から温まる伊香保か
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">1. 泉質の比較：刺激的な草津か、芯から温まる伊香保か</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-white rounded-3xl p-6 shadow-sm border border-slate-100">
-            <h3 className="text-xl font-bold text-amber-600 mb-3">♨ 草津温泉：圧倒的な湯力</h3>
+            <h3 className="text-xl font-bold text-amber-600 mb-3">草津温泉：圧倒的な湯力</h3>
             <p className="text-slate-600">
               日本一の自然湧出量を誇り、pH2.1の「強酸性」が特徴。「恋の病以外効かない病はない」と言われるほどの殺菌力で、ピリッとした肌触りがたまりません。
             </p>
           </div>
           <div className="bg-white rounded-3xl p-6 shadow-sm border border-slate-100">
-            <h3 className="text-xl font-bold text-amber-600 mb-3">♨ 伊香保温泉：2種類の源泉</h3>
+            <h3 className="text-xl font-bold text-amber-600 mb-3">伊香保温泉：2種類の源泉</h3>
             <p className="text-slate-600">
               鉄分を含み茶褐色になる「黄金の湯」と、無色透明でマイルドな「白銀の湯」。特に黄金の湯は、子宝の湯としても知られ、じんわりと身体の芯まで温まります。
             </p>
@@ -99,9 +97,7 @@ export default function KusatsuVsIkahoPage() {
       </section>
 
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          2. 街歩きの魅力：シンボルを囲むか、登るか
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">2. 街歩きの魅力：シンボルを囲むか、登るか</h2>
         <div className="space-y-6 text-slate-700 leading-relaxed">
           <p>
             <strong>草津温泉</strong>といえば、何と言っても町の中心にある「湯畑」。もうもうと上がる湯けむりと、硫黄の香りが温泉情緒を掻き立てます。夜のライトアップは幻想的で、浴衣姿で周辺を散策するのが最高です。
@@ -113,19 +109,17 @@ export default function KusatsuVsIkahoPage() {
       </section>
 
       <section className="mb-14 bg-teal-50 rounded-3xl p-6 md:p-8">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-900 mb-6">
-          3. アクセスと交通費：東京からの行きやすさ
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-900 mb-6">3. アクセスと交通費：東京からの行きやすさ</h2>
         <div className="flex flex-col gap-4">
           <div className="bg-white p-5 rounded-2xl">
-            <h4 className="font-bold text-teal-800 mb-2">🚌 草津温泉へのアクセス</h4>
+            <h4 className="font-bold text-teal-800 mb-2">草津温泉へのアクセス</h4>
             <p className="text-sm text-slate-600">
               直行バスで約3時間半（片道約3,600円）。電車よりバスが安くて乗り換えなしで便利。<br/>
               詳細は<Link href="/tokyo-kusatsu-onsen-highway-bus-guide/" className="text-emerald-600 underline hover:text-emerald-500">東京から草津温泉への高速バスガイド</Link>をチェック！
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl">
-            <h4 className="font-bold text-teal-800 mb-2">🚌 伊香保温泉へのアクセス</h4>
+            <h4 className="font-bold text-teal-800 mb-2">伊香保温泉へのアクセス</h4>
             <p className="text-sm text-slate-600">
               東京方面から高速バスで約2時間半（片道約2,600円）。草津よりも1時間ほど近く、交通費も安く済みます。
             </p>
@@ -134,9 +128,7 @@ export default function KusatsuVsIkahoPage() {
       </section>
 
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          4〜6. 宿泊費・食べ歩き・外湯をサクッと比較
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">4〜6. 宿泊費・食べ歩き・外湯をサクッと比較</h2>
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
@@ -168,9 +160,7 @@ export default function KusatsuVsIkahoPage() {
       </section>
 
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          7. 結論：結局どっちがおすすめ？
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">7. 結論：結局どっちがおすすめ？</h2>
         <div className="bg-amber-50 p-6 rounded-3xl border border-amber-200">
           <p className="text-slate-700 mb-4">
             <strong>圧倒的な温泉力と活気ある温泉街を楽しみたいなら「草津温泉」。</strong><br/>
@@ -186,19 +176,17 @@ export default function KusatsuVsIkahoPage() {
       
       {/* 季節ごとの見どころ比較 */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          季節別の選び方：春・夏・秋・冬のベストシーズン
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">季節別の選び方：春・夏・秋・冬のベストシーズン</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-white rounded-3xl p-6 shadow-sm border border-slate-100">
-            <h3 className="font-bold text-lg text-emerald-900 mb-2">🌿 春・夏の避暑なら草津温泉</h3>
+            <h3 className="font-bold text-lg text-emerald-900 mb-2">春・夏の避暑なら草津温泉</h3>
             <p className="text-slate-600 text-sm leading-relaxed mb-3">
               草津は標高1,200mに位置するため、真夏でも最高気温が25度前後の圧倒的な涼しさ。都会の猛暑を逃れて湯畑周辺を夕涼み散歩する体験は格別です。
             </p>
             <p className="text-xs text-slate-500">※夜間は夏でも肌寒くなるため、薄手の羽織りものが1枚あると安心です。</p>
           </div>
           <div className="bg-white rounded-3xl p-6 shadow-sm border border-slate-100">
-            <h3 className="font-bold text-lg text-amber-800 mb-2">🍁 秋の紅葉ライトアップなら伊香保温泉</h3>
+            <h3 className="font-bold text-lg text-amber-800 mb-2">秋の紅葉ライトアップなら伊香保温泉</h3>
             <p className="text-slate-600 text-sm leading-relaxed mb-3">
               伊香保の「河鹿橋」は全国屈指の紅葉名所。朱塗りの太鼓橋と深紅のモミジが夜間ライトアップされる光景は息をのむ美しさです。石段街から徒歩10分でアクセス可能。
             </p>
@@ -209,9 +197,7 @@ export default function KusatsuVsIkahoPage() {
 
       {/* 現地で使える節約＆賢い回り方 */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          損しないための現地節約ハック＆予約のコツ
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">損しないための現地節約ハック＆予約のコツ</h2>
         <div className="bg-slate-50 rounded-3xl p-6 border border-slate-200 space-y-4">
           <div className="flex items-start gap-3">
             <span className="bg-emerald-600 text-white text-xs px-2.5 py-1 rounded-full font-bold">草津</span>
@@ -230,9 +216,7 @@ export default function KusatsuVsIkahoPage() {
 
       {/* よくある質問 FAQ */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          草津温泉 vs 伊香保温泉 よくある質問（FAQ）
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">草津温泉 vs 伊香保温泉 よくある質問（FAQ）</h2>
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
             <h3 className="font-bold text-slate-800 mb-2">Q. 電車とバスだけで行くならどっちが楽？</h3>
@@ -269,9 +253,7 @@ export default function KusatsuVsIkahoPage() {
   
       {hotels.length > 0 && (
         <section className="mb-14">
-          <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6">
-            草津・伊香保のおすすめ温泉宿
-          </h2>
+          <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6">草津・伊香保のおすすめ温泉宿</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {hotels.map((hotel, idx) => (
               <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-md border border-slate-100 flex flex-col">
@@ -306,9 +288,7 @@ export default function KusatsuVsIkahoPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と泉質・街歩き・アクセス・宿を7項目で徹底比較の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と泉質・街歩き・アクセス・宿を7項目で徹底比較の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -339,9 +319,7 @@ export default function KusatsuVsIkahoPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「草津温泉 vs 伊香保温泉 どっちがいい？：泉質・街歩き・アクセス・宿を7項目で徹底比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -420,9 +398,7 @@ export default function KusatsuVsIkahoPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「草津温泉 vs 伊香保温泉 どっちがいい？」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「草津温泉 vs 伊香保温泉 どっちがいい？」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

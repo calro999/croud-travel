@@ -96,7 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル</h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">本記事でご紹介する厳選ホテル</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉ホテルリブマックスＰＲＥＭＩＵＭ梅田ＥＡＳＴ（★4.2 / 最低目安：3,400円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. カプセルイン大阪（ニュージャパン梅田）（★4.27 / 最低目安：4,180円〜）</a></li>
@@ -123,9 +123,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
               <span className="text-xs text-stone-500 font-medium">中崎町周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉ホテルリブマックスＰＲＥＭＩＵＭ梅田ＥＡＳＴ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">天然温泉ホテルリブマックスＰＲＥＭＩＵＭ梅田ＥＡＳＴ</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.2 <span className="text-xs text-stone-500 font-normal">（クチコミ 740件）</span>
@@ -155,7 +153,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>最上階展望スパ「伊豆直送の天然温泉100％」展望大浴場＆展望露天風呂～サウナ有～</span></li>
               </ul>
@@ -190,9 +188,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第2位</span>
               <span className="text-xs text-stone-500 font-medium">東梅田周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              カプセルイン大阪（ニュージャパン梅田）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">カプセルイン大阪（ニュージャパン梅田）</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.27 <span className="text-xs text-stone-500 font-normal">（クチコミ 3196件）</span>
@@ -222,7 +218,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>※男性専用カプセルホテル※【日本初のカプセルホテル】建築家「黒川紀章氏」が設計！</span></li>
               </ul>
@@ -257,9 +253,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第3位</span>
               <span className="text-xs text-stone-500 font-medium">福島（大阪）周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              ホテル阪神大阪
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">ホテル阪神大阪</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.32 <span className="text-xs text-stone-500 font-normal">（クチコミ 7981件）</span>
@@ -289,7 +283,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>JR環状線「大阪駅」から1駅「福島駅」徒歩すぐ★全客室に天然温泉を供給！バスルームで楽しむ温泉♪</span></li>
               </ul>
@@ -322,9 +316,7 @@ export default function ArticlePage() {
       {/* 現地滞在TIPS */}
       <section id="area-tips" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-white p-6 sm:p-8 rounded-2xl border border-stone-200 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">
-            <span>💡</span> 梅田出張・サウナ滞在を快適にする現地TIPS
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">梅田出張・サウナ滞在を快適にする現地TIPS</h2>
           <div className="grid sm:grid-cols-3 gap-6">
             <div className="space-y-2">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base">グランフロント＆うめきた公園のオープンエア散策</h3>
@@ -345,22 +337,18 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">滞在に関するよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>部屋のプライベート空間で天然温泉に浸かりたい出張におすすめの宿は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>部屋のプライベート空間で天然温泉に浸かりたい出張におすすめの宿は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「ホテル阪神大阪」（大阪駅から1駅・福島駅すぐ）は、なんと全客室の個別バスルームに天然温泉が引かれており、24時間好きな時に客室内で温泉浴を楽しめます。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>梅田エリアで本格的なサウナと水風呂を満喫できる聖地は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>梅田エリアで本格的なサウナと水風呂を満喫できる聖地は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「カプセルイン大阪（ニュージャパン梅田）」は日本で初めてカプセルホテルを開業したサウナの殿堂。オートロウリュサウナや低温サウナ、冷水風呂を完備しています。
               </p>
@@ -388,9 +376,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル阪神大阪を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル阪神大阪を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

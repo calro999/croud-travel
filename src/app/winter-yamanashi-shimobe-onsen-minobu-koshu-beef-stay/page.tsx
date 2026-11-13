@@ -248,12 +248,10 @@ export default function WinterYamanashiShimobePage() {
             11月・12月 信玄公の隠し湯「ぬる湯治」と初冬富士山・甲州牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山梨・下部温泉＆身延】武田信玄公の隠し湯とぬる湯治
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               初冬富士山の絶景・自噴源泉の交互浴と極上甲州牛・名物ほうとうを味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、山梨県南部・富士川の支流である下部川沿いに湯けむりを上げる「下部温泉」は、静謐な初冬の空気に包まれます。戦国武将・武田信玄公が川中島の合戦で負った刀傷を癒やしたと伝わる名湯で、古くから湯治場として栄えてきました。最大の特徴は、体温に近い約30度のぬる湯源泉と、適度に温かい高温泉を交互に行き来する「ぬる湯治（交代浴）」。副交感神経を優位にし、身体の芯から疲労と凝りを解き放ちます。近隣には日蓮宗総本山「身延山久遠寺」が鎮座し、初冬の澄み渡る空気の中で厳かな参拝と白銀の富士山遠望が叶います。夕食には山梨の豊かな自然が育んだきめ細やかな霜降り「甲州牛」や「甲州ワインビーフ」の溶岩焼き、手打ちの平打ち麺を根菜と特製味噌で煮込んだ熱々の「名物ほうとう」、手作り身延湯葉など冬の身体を芯から温める逸品揃い。初冬の山梨で心身を解きほぐす厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterYamanashiShimobePage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の甲斐南部の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            信玄公の傷を癒やした奇跡のぬる湯・身延の静寂と富士の峰を望む初冬の隠れ里
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">信玄公の傷を癒やした奇跡のぬる湯・身延の静寂と富士の峰を望む初冬の隠れ里</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               山梨県南部、甲府盆地を抜けて富士川沿いに南下すると、山紫水明の美しい渓谷美の中にひっそりと佇む「下部温泉」に辿り着きます。歴史は古く、平安時代の開湯伝説に始まり、戦国時代には甲斐の虎・武田信玄公が川中島の戦いで受けた太刀傷を癒やすために滞在した「隠し湯」として天下にその名を轟かせました。さらに昭和の時代には文豪・井伏鱒二や大スター・石原裕次郎が療養のために長期逗留し、数々の名作や快復のエピソードを生み出したことでも知られています。
@@ -315,9 +311,7 @@ export default function WinterYamanashiShimobePage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              山梨・下部温泉＆身延 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">山梨・下部温泉＆身延 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               自噴源泉のぬる湯あつ湯交代浴、歴史ある名門宿や由緒ある宿坊、甲州牛会席を備えた極上の宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterYamanashiShimobePage() {
                         <span className="text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-amber-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterYamanashiShimobePage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の甲斐美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の山梨・身延で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の山梨・身延で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰銘柄「甲州牛＆ワインビーフ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰銘柄「甲州牛＆ワインビーフ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 名峰富士と南アルプスに囲まれた大自然の中で肥育される黒毛和牛「甲州牛」。きめ細やかな霜降りと上品な脂の甘みが特徴で、溶岩プレートで香ばしく焼き上げるステーキやすき焼きは、口の中でとろけるような至福の食感をもたらします。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                熱々の山梨ソウルフード「名物ほうとう」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                熱々の山梨ソウルフード「名物ほうとう」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 平打ちの太麺を、ホクホクのカボチャや里芋、大根、キノコなどの冬根菜と一緒に特製味噌仕立ての出汁でじっくり煮込んだ冬の代表料理。煮崩れたカボチャが出汁に溶け込み、濃厚で優しい甘みが身体の芯まで染み渡ります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                門前町伝統の味「身延手作り生湯葉」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                門前町伝統の味「身延手作り生湯葉」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 身延山久遠寺の開山以来、精進料理の貴重なタンパク源として受け継がれてきた伝統の湯葉。厳選された国産大豆と身延の清らかな湧水から作られる生湯葉は、幾重にも重なる層の豊かな歯ざわりと濃厚な大豆の甘みが絶品です。
               </p>
@@ -466,15 +450,11 @@ export default function WinterYamanashiShimobePage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の下部温泉＆身延 交通アクセス＆観光のポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の下部温泉＆身延 交通アクセス＆観光のポイント</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                電車・特急「ふじかわ」利用の快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                電車・特急「ふじかわ」利用の快適アクセス</h3>
               <p>
                 東京方面からはJR新宿駅から中央線特急で甲府駅へ（約1時間30分）、身延線特急「ふじかわ」に乗り換えて約40分でJR下部温泉駅に到着します。
               </p>
@@ -484,10 +464,8 @@ export default function WinterYamanashiShimobePage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                ぬる湯治（交代浴）の正しい作法と湯冷め予防
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                ぬる湯治（交代浴）の正しい作法と湯冷め予防</h3>
               <p>
                 30度前後のぬる湯に入る際は、かけ湯をしっかり行って身体を慣らしてから入浴します。15〜20分ほどゆっくり浸かることで副交感神経が働き、深いリラックス効果が得られます。
               </p>
@@ -504,16 +482,12 @@ export default function WinterYamanashiShimobePage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の山梨・下部温泉＆身延旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の山梨・下部温泉＆身延旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterYamanashiShimobePage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい山梨・富士山麓の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい山梨・富士山麓の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               富士山の絶景と名湯、極上の甲州ワイン・甲州牛会席を満喫する厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山梨・石和温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                石和温泉の美肌湯と甲州ワイン・甲州牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">石和温泉の美肌湯と甲州ワイン・甲州牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 甲府盆地の名湯と冬のワイナリー巡り、極上甲州牛すき焼きを堪能する冬旅。
               </p>
@@ -553,9 +523,7 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山梨・河口湖温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                富士山を望む絶景露天風呂と甲州ワインビーフ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">富士山を望む絶景露天風呂と甲州ワインビーフ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 初冬の澄み渡る湖畔から仰ぎ見る白銀富士と極上温泉リゾートの贅沢ステイ。
               </p>
@@ -566,9 +534,7 @@ export default function WinterYamanashiShimobePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                箱根の富士見露天風呂と冬の美食名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根の富士見露天風呂と冬の美食名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 初冬の芦ノ湖と雄大な富士山を望む名湯、伝統の懐石料理と癒やしの湯浴み。
               </p>

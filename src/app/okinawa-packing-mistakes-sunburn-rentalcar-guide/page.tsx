@@ -171,9 +171,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             <div className="flex items-center gap-2 text-cyan-400 text-xs font-black tracking-wider uppercase">
               <span>⚠️ TOP 5 REGRETS IN OKINAWA</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">
-              沖縄旅行で旅行者がガチ後悔したことワースト5
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">沖縄旅行で旅行者がガチ後悔したことワースト5</h2>
             <p className="text-xs sm:text-sm text-cyan-200/80">
               「知らなかった」では済まされない！出発前に知るだけで回避できる致命的トラブル。
             </p>
@@ -196,9 +194,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                   </div>
                 </div>
 
-                <h3 className="text-base sm:text-xl font-black text-white">
-                  {item.title}
-                </h3>
+                <h3 className="text-base sm:text-xl font-black text-white">{item.title}</h3>
 
                 <div className="bg-rose-950/20 border-l-4 border-rose-500 p-3.5 rounded-r-xl space-y-1">
                   <span className="text-xs font-black text-rose-300">💣 実際に起きた生々しい悲劇</span>
@@ -229,9 +225,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             <div className="flex items-center gap-2 text-cyan-400 text-xs font-black tracking-wider uppercase">
               <span>📋 PACKING ESSENTIALS CHECKLIST</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              「持って行って本当に助かった」沖縄必須持ち物リスト
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">「持って行って本当に助かった」沖縄必須持ち物リスト</h2>
             <p className="text-xs text-cyan-300/80">
               現地ホテルやコンビニで買うと観光地価格で高くつく、または手に入らない厳選10品。
             </p>
@@ -249,9 +243,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                   </span>
                   <span className="text-xs text-cyan-500">✓ 必需品</span>
                 </div>
-                <h3 className="text-sm font-black text-white">
-                  {pack.item}
-                </h3>
+                <h3 className="text-sm font-black text-white">{pack.item}</h3>
                 <p className="text-xs text-slate-400 leading-relaxed">
                   {pack.note}
                 </p>
@@ -266,9 +258,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             <div className="flex items-center gap-2 text-amber-400 text-xs font-black tracking-wider uppercase">
               <span>🚗 RENTAL CAR RETURN SURVIVAL</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white">
-              那覇空港レンタカー返却で「乗り遅れない」黄金タイムスケジュール
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white">那覇空港レンタカー返却で「乗り遅れない」黄金タイムスケジュール</h2>
             <p className="text-xs sm:text-sm text-cyan-200">
               フライト時刻が17:00の場合のモデルタイムライン。これより遅れると綱渡りになります！
             </p>
@@ -333,9 +323,7 @@ export default function OkinawaPackingMistakesGuidePage() {
             <div className="flex items-center gap-2 text-cyan-400 text-xs font-black tracking-wider uppercase">
               <span>🏨 RECOMMENDED OKINAWA RESORTS & HOTELS</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              那覇空港近＆渋滞知らず！プール・ビーチ充実の沖縄おすすめホテル
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">那覇空港近＆渋滞知らず！プール・ビーチ充実の沖縄おすすめホテル</h2>
             <p className="text-xs sm:text-sm text-slate-400">
               最終日の移動が楽な空港近接ホテルから、目の前が極上ビーチのリゾートまで楽天トラベルで高評価の宿泊施設です。
             </p>
@@ -380,9 +368,7 @@ export default function OkinawaPackingMistakesGuidePage() {
                           <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount || 0}件）</span>
                         </div>
                       )}
-                      <h3 className="text-sm font-black text-white line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-sm font-black text-white line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-xs text-slate-400 line-clamp-2">
                           {hotel.hotelSpecial}
@@ -421,9 +407,7 @@ export default function OkinawaPackingMistakesGuidePage() {
           <div className="flex items-center gap-2 text-cyan-400 text-xs font-black tracking-wider uppercase">
             <span>🔗 OKINAWA TRAVEL GUIDES</span>
           </div>
-          <h2 className="text-lg font-black text-white">
-            予算・泊数・家族旅行の計画もあわせてチェック
-          </h2>
+          <h2 className="text-lg font-black text-white">予算・泊数・家族旅行の計画もあわせてチェック</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
               href="/okinawa-travel-budget-plan/"
@@ -432,9 +416,7 @@ export default function OkinawaPackingMistakesGuidePage() {
               <div className="text-xs font-black text-cyan-400 group-hover:text-cyan-300">
                 💰 沖縄予算シュミレーション
               </div>
-              <h3 className="text-sm font-bold text-white">
-                沖縄旅行の予算相場と費用を安く抑える賢い節約術
-              </h3>
+              <h3 className="text-sm font-bold text-white">沖縄旅行の予算相場と費用を安く抑える賢い節約術</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 飛行機・ホテル・レンタカー・食事代の時期別リアル相場とコスパ重視の旅費設計。
               </p>
@@ -447,9 +429,7 @@ export default function OkinawaPackingMistakesGuidePage() {
               <div className="text-xs font-black text-cyan-400 group-hover:text-cyan-300">
                 👨‍👩‍👧 子連れ・ファミリー旅行
               </div>
-              <h3 className="text-sm font-bold text-white">
-                子連れ沖縄は何泊がベスト？年齢別モデルコース＆予算内訳
-              </h3>
+              <h3 className="text-sm font-bold text-white">子連れ沖縄は何泊がベスト？年齢別モデルコース＆予算内訳</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 無理のない移動スケジュールとキッズプール・離乳食対応ホテル選びの極意。
               </p>
@@ -474,9 +454,7 @@ export default function OkinawaPackingMistakesGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と本州の3倍の紫外線で大火傷！？レンタカー返却渋滞＆必須持ち物の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

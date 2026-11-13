@@ -222,9 +222,7 @@ export default function FukuiMikuniWinterPage() {
             <span>11月・12月 冬の福井・越前三国特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月越前三国温泉の解禁越前がにと東尋坊冬絶景】日本海パノラマ露天風呂・本場越前蟹フルコース＆若狭牛会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月6日のズワイガニ漁解禁を迎えると、福井県北部の港町・三国は冬の味覚の王者「越前がに」を求める美食家で熱気に包まれます。三国港に水揚げされる黄色いタグ付き越前がには、皇室献上ガニとしても名高い日本海の至宝。冬の荒波が打ち寄せる奇勝・東尋坊のダイナミックな景観、水平線に沈む夕日と漁火を望む三国温泉の展望露天風呂、職人が絶妙な塩加減で茹で上げる熱々の蟹、甘みが弾けるカニ刺し、甲羅焼き味噌、そして極上銘柄牛「若狭牛」を堪能する、贅を尽くした冬の名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function FukuiMikuniWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">King of Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月6日解禁！三国港の「越前がに」が日本一と称される理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月6日解禁！三国港の「越前がに」が日本一と称される理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function FukuiMikuniWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Ocean Thermal & Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                三国温泉の「熱の湯」効果と、越前がに＆若狭牛の黄金ペアリング
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">三国温泉の「熱の湯」効果と、越前がに＆若狭牛の黄金ペアリング</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-orange-700" />
-              <span>食塩とカルシウムが肌を包む「塩化物泉」の保温持続性と血行改善</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-orange-700" />
+              <span>食塩とカルシウムが肌を包む「塩化物泉」の保温持続性と血行改善</span></h3>
             <p>
               三国温泉の泉質は、塩分とカルシウムを主成分とする「ナトリウム・カルシウム-塩化物温泉（中性〜弱アルカリ性）」です。入浴すると、海水由来の塩分（塩化ナトリウム）が皮膚表面のタンパク質と結合して微細な皮膜（塩のベール）を形成し、毛穴からの水分の蒸発をブロックします。
             </p>
             <p>
               これにより身体の内部の熱が外気へ奪われにくくなり、入浴後も長時間にわたってポカポカとした温もりが持続することから、古くより漁師や湯治客に「熱の湯」「温まりの湯」として親しまれてきました。さらにカルシウム成分が鎮静・消炎作用をもたらし、荒れた冬肌をしっとりと整えます。東尋坊の冷たい海風に吹かれたあとに浸かる三国温泉の露天風呂は、血管を広げて旅の疲労や筋肉の緊張を芯からリセットしてくれます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-orange-700" />
-              <span>黄色タグの皇室献上越前がにと、若狭酒粕飼料で育つA5「若狭牛」の贅</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-orange-700" />
+              <span>黄色タグの皇室献上越前がにと、若狭酒粕飼料で育つA5「若狭牛」の贅</span></h3>
             <p>
               ディナーで蟹とともに味わいたい福井の最高峰食材が「若狭牛（わかさぎゅう）」です。若狭牛は、明治時代から続く伝統の黒毛和種で、若狭地方の清らかな水と澄んだ空気、地酒の酒粕を混ぜた栄養豊かな飼料で丹念に長期肥育されます。肉質等級4等級以上の厳格な基準を満たしたものだけが若狭牛と認定され、きめ細やかなサシ（霜降り）は融点が低く、口に入れた瞬間にとろけて上品な甘みが広がります。
             </p>
@@ -313,9 +303,7 @@ export default function FukuiMikuniWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Elite Oceanfront Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              越前三国温泉の魅力を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">越前三国温泉の魅力を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               競り権直営民宿、日本海パノラマホテル、国立公園オーシャンリゾート、ミシュラン町家オーベルジュ、現役漁師宿まで徹底比較。
             </p>
@@ -357,19 +345,15 @@ export default function FukuiMikuniWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                         {h.story}
                       </p>
 
                       <div className="space-y-2 pt-2 border-t border-slate-100">
-                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Sparkles className="w-3.5 h-3.5 text-orange-700" />
-                          <span>この宿の宿泊ハイライト</span>
-                        </h4>
+                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-orange-700" />
+                          <span>この宿の宿泊ハイライト</span></h4>
                         <ul className="grid grid-cols-1 gap-1.5 text-xs text-slate-600">
                           {h.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-2">
@@ -427,17 +411,13 @@ export default function FukuiMikuniWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Crab & Ocean Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月 越前がにと東尋坊絶景を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月 越前がにと東尋坊絶景を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs">1</span>
-                <span>1日目：東尋坊の奇岩美と本場越前蟹の宴</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs">1</span>
+                <span>1日目：東尋坊の奇岩美と本場越前蟹の宴</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-orange-800 shrink-0">11:30</span>
@@ -463,10 +443,8 @@ export default function FukuiMikuniWinterPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs">2</span>
-                <span>2日目：北前船の歴史散策と海鮮市場でお買い物</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-orange-700 text-white flex items-center justify-center text-xs">2</span>
+                <span>2日目：北前船の歴史散策と海鮮市場でお買い物</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-orange-800 shrink-0">07:00</span>
@@ -501,26 +479,20 @@ export default function FukuiMikuniWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Travel Checklist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の三国旅行で知っておくべき重要アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の三国旅行で知っておくべき重要アドバイス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-700" />
-                <span>日本海特有の強風と防寒対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-700" />
+                <span>日本海特有の強風と防寒対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 冬の東尋坊や三国海岸は、強い北西風が吹き抜けるため体感温度が実際の気温より5℃以上低く感じられます。防風性のあるフード付きダウンジャケット、マフラー、手袋、耳当てを用意しましょう。雨や雪が突然降ることも多いため、撥水加工のアウターや折りたたみ傘が重宝します。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-orange-700" />
-                <span>越前がにの早期予約と冬期ドライブ</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Footprints className="w-4 h-4 text-orange-700" />
+                <span>越前がにの早期予約と冬期ドライブ</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月解禁直後から12月の越前がにシーズンは、全国から予約が殺到するため、人気宿の週末は数ヶ月前から満室になります。旅行計画は早めの確保が鉄則です。また、12月に入ると北陸自動車道や一般道で積雪・凍結が発生するため、車の場合は必ずスタッドレスタイヤを装着してください。
               </p>
@@ -536,18 +508,14 @@ export default function FukuiMikuniWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                越前三国冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">越前三国冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -560,9 +528,7 @@ export default function FukuiMikuniWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-orange-400 uppercase tracking-widest">Related Winter Seafood & Coastal Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・日本海の冬名湯＆蟹・寒ブリ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・日本海の冬名湯＆蟹・寒ブリ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚解禁と絶景露天を味わう、おすすめの温泉特集もぜひご覧ください。
             </p>

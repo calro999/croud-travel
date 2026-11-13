@@ -235,9 +235,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
       <section className="bg-white rounded-3xl border border-indigo-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-wider">RETREAT PILLARS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            五感を満たし自律神経を整える！4つのリトリート体験
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">五感を満たし自律神経を整える！4つのリトリート体験</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2">
@@ -261,9 +259,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
       <section className="bg-white rounded-3xl border border-indigo-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-wider">SCHEDULE</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            心と体が呼吸を取り戻す！1泊2日デトックスタイムライン
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">心と体が呼吸を取り戻す！1泊2日デトックスタイムライン</h2>
         </div>
 
         <div className="space-y-4 pt-2">
@@ -287,9 +283,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
       <section className="space-y-6" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-wider">RECOMMENDED STAY</span>
-          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            朝ヨガ・森林浴・ウェルネスに浸れる厳選グランピング施設
-          </h2>
+          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">朝ヨガ・森林浴・ウェルネスに浸れる厳選グランピング施設</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             ヨガプログラムや広大な自然フォレスト、美肌の湯を備えた評判の施設を厳選。
           </p>
@@ -327,9 +321,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
                     {hotel.hotelSpecial || "森の静寂に包まれながらヨガや瞑想を満喫できるウェルネスリゾート。旬の自然食と心温まるおもてなしでお迎えします。"}
@@ -383,18 +375,14 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
       <section className="bg-white rounded-3xl border border-indigo-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-wider">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            朝ヨガ＆リトリートグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">朝ヨガ＆リトリートグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-indigo-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-indigo-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-indigo-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -405,9 +393,7 @@ export default function SilverWeekGlampingMorningYogaMindfulnessPage() {
 
       {/* 内部リンク・上高地ハイキング＆記念日ホテル */}
       <section className="bg-indigo-50/60 border border-indigo-100 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-indigo-950 flex items-center gap-2">
-          <span>🌿</span> あわせて読みたい自然散策＆ご褒美ステイ
-        </h3>
+        <h3 className="text-base font-bold text-indigo-950 flex items-center gap-2">あわせて読みたい自然散策＆ご褒美ステイ</h3>
         <p className="text-xs text-stone-600">
           自然の中でのリフレッシュを深める上高地の散策パッキングや、特別な記念日ステイのアイデアもチェック。
         </p>

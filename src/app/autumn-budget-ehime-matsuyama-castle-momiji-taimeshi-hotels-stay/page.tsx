@@ -58,10 +58,8 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代3,000円台！浮いた予算で道後温泉の湯巡り＆特選鯛めし食べ比べ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代3,000円台！浮いた予算で道後温泉の湯巡り＆特選鯛めし食べ比べ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             道後温泉街の老舗旅館は秋の行楽シーズンに高値になりがちですが、市内中心部の大街道やJR松山駅前に泊まれば3,000円台で極めて快適な宿を確保可能。市内電車（路面電車）を使えば道後温泉までわずか10分〜15分。賢く浮かせた宿泊費で、本場の宇和島鯛めしや地酒の飲み比べを思い切り堪能しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（キャッスルビュー）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルマイステイズ松山
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルマイステイズ松山</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>松山（愛媛）</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（自家源泉温泉）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　松山ニューグランドホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　松山ニューグランドホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>松山（愛媛）</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ターミナルホテル松山
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ターミナルホテル松山</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>松山（愛媛）</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駐車場無料）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルたいよう農園　松山古三津
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルたいよう農園　松山古三津</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>三津浜</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（市内最高峰評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ダイワロイネットホテル松山
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル松山</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span></span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-950 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の松山・道後温泉散策の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の松山・道後温泉散策の満喫ポイント</h2>
           <p className="text-sm text-teal-100 leading-relaxed">
             松山城天守閣からのパノラマビューは午前中の澄んだ空気の中が最も鮮やか。夕方は道後温泉本館や飛鳥乃湯泉で湯浴みを楽しみ、夜は大街道の老舗割烹で生の鯛の切り身を特製タレと生卵で和えてご飯に乗せる「宇和島鯛めし」をぜひ堪能してください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「松山：松山城の紅葉絵巻と本場宇和島鯛めし！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 松山で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">松山で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

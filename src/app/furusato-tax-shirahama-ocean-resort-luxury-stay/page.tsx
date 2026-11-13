@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            エメラルドグリーンの海と白砂ビーチ、悠久の古湯、世界屈指の建築美——南紀白浜で叶える贅沢リゾートステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">エメラルドグリーンの海と白砂ビーチ、悠久の古湯、世界屈指の建築美——南紀白浜で叶える贅沢リゾートステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             和歌山県・紀伊半島の南西部に位置し、万葉集や日本書紀にも「牟婁の湯」として記録が残る日本屈指の古湯・南紀白浜温泉。どこまでも透き通るエメラルドグリーンの海と、サラサラの真っ白な珪砂が広がる「白良浜（しららはま）」は、本州屈指のビーチリゾートとして年間を通じて多くの旅人を魅了します。海を間近に感じるナトリウム塩化物泉や炭酸水素塩泉は、疲れた体を癒すとともにしっとりとした肌触りをもたらします。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             さらに南紀白浜には、パンダファミリーに出会える「アドベンチャーワールド」や、夕陽の名所「円月島」「三段壁」など見どころが満載。そして冬には幻の高級魚「クエ」の鍋や刺身、伊勢海老、熊野牛といった和歌山最高峰の美食が並びます。海辺にそびえる芸術宮殿「ホテル川久」をはじめとする名門ホテルへの宿泊は、和歌山県白浜町へのふるさと納税トラベルクーポンを利用することで、実質負担を大幅に抑えながらワンランク上のラグジュアリー体験を手に入れられます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（南紀白浜温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（南紀白浜温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">和歌山県白浜町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  白浜温泉　ホテル川久
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">白浜温泉　ホテル川久</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   総工費四百億円・海に浮かぶ夢の芸術宮殿！全室スイートルームと豪華食材が舞い踊る「王様のビュッフェ」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  白浜温泉 ホテル川久 —— 世界の一流職人が技を競った建築博物館。非日常の極みを味わうキャッスルステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">白浜温泉 ホテル川久 —— 世界の一流職人が技を競った建築博物館。非日常の極みを味わうキャッスルステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 金箔22.5金が輝く天井とヨーロッパ古城のような建築美
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">金箔22.5金が輝く天井とヨーロッパ古城のような建築美</h5>
                     <p className="text-stone-600 leading-relaxed">ロビーに入ると広がる圧巻のドーム天井（ギネス記録認定の金箔天井）や、ローマンモザイクタイルの床、ダリやシャガールらの名画。館内全体がひとつの壮大な美術館です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 贅を尽くした美食の祭典「王様のビュッフェ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">贅を尽くした美食の祭典「王様のビュッフェ」</h5>
                     <p className="text-stone-600 leading-relaxed">黒毛和牛ステーキ、十勝産十勝牛、旬の高級魚介、パティシエ特製の華やかなスイーツなど、最高峰の食材をオープンキッチンで仕上げる豪華ディナー。贅沢を極めた食の体験です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 田辺湾を見渡す温泉サロン「ロイヤルスパ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">田辺湾を見渡す温泉サロン「ロイヤルスパ」</h5>
                     <p className="text-stone-600 leading-relaxed">邸宅リビングのような優雅な温泉サロン。オープンテラスデッキやシルキーバス、サウナなどを備え、穏やかな海のパノラマを眺めながら優雅な湯浴みを愉しめます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">和歌山県白浜町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  紀州・白浜温泉　むさし
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">紀州・白浜温泉　むさし</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   白良浜まで徒歩一分の絶好ロケーション！二種類の源泉掛け流しと紀州の美味が並ぶ贅沢バイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  紀州・白浜温泉 むさし —— 温泉情緒とビーチアクセスの両立。本格純和風旅館の温かなおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">紀州・白浜温泉 むさし —— 温泉情緒とビーチアクセスの両立。本格純和風旅館の温かなおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 白浜の名湯「生絹湯」と「斎明湯」の2つの自家源泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">白浜の名湯「生絹湯」と「斎明湯」の2つの自家源泉</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内から湧き出る2種類の源泉。重層泉と食塩泉の異なる泉質を館内大浴場や中庭露天風呂で入り比べることができ、本格的な湯治体験が味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 白良浜まで水着のまま歩いて行ける抜群の立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">白良浜まで水着のまま歩いて行ける抜群の立地</h5>
                     <p className="text-stone-600 leading-relaxed">白浜のメインビーチ「白良浜」まで徒歩わずか1分。夏場の海水浴はもちろん、夕暮れ時の浜辺散歩や朝の爽やかなウォーキングにも最高の環境です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 勝浦産マグロ解体ショーと紀州郷土バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">勝浦産マグロ解体ショーと紀州郷土バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">オープンキッチンで捌かれる新鮮なマグロの刺身や握り、揚げたて天ぷら、和歌山ラーメンなど、地元の郷土色豊かな料理が並ぶ人気のディナービュッフェです。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">和歌山県白浜町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  南紀白浜マリオットホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">南紀白浜マリオットホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   太平洋を見下ろす高台に建つインターナショナルリゾート！最上階展望露天風呂と和歌山の山海グリル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  南紀白浜マリオットホテル —— 洗練されたグローバルスタンダード。海と空が溶け合うインフィニティパノラマ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">南紀白浜マリオットホテル —— 洗練されたグローバルスタンダード。海と空が溶け合うインフィニティパノラマ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階11階の展望露天風呂から望む夕陽パノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階11階の展望露天風呂から望む夕陽パノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">太平洋を一望する高台の最上階に位置する大浴場＆露天風呂。「日本の夕陽百選」に選ばれた白浜のサンセットを湯船から望む時間は息をのむ美しさです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 広々とした客室とオーシャンビュー温泉付きルーム
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">広々とした客室とオーシャンビュー温泉付きルーム</h5>
                     <p className="text-stone-600 leading-relaxed">ゆとりある客室設計。プライベートな温泉展望風呂を備えた客室タイプでは、24時間いつでも好きな時に海を眺めながら白浜の名湯を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和歌山の新鮮素材を味わうモダンセミビュッフェ＆グリル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和歌山の新鮮素材を味わうモダンセミビュッフェ＆グリル</h5>
                     <p className="text-stone-600 leading-relaxed">開放的なダイニングで供されるディナー。熊野牛や紀州うめぶた、近海魚介のグリル料理をメインに、前菜やデザートが並ぶ洗練されたリゾートディナーです。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            南紀白浜の絶景スポット＆アドベンチャーワールド観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">南紀白浜の絶景スポット＆アドベンチャーワールド観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> アドベンチャーワールドでジャイアントパンダと出会う
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> アドベンチャーワールドでジャイアントパンダと出会う</h3>
               <p className="text-stone-700 text-sm leading-relaxed">日本屈指の動物ふれあいテーマパーク「アドベンチャーワールド」。ジャイアントパンダファミリーをはじめ、広大なサファリワールドやダイナミックなイルカライブなど、一日中家族で楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 円月島の夕陽・三段壁洞窟・千畳敷の海岸美
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 円月島の夕陽・三段壁洞窟・千畳敷の海岸美</h3>
               <p className="text-stone-700 text-sm leading-relaxed">中央に丸い海蝕洞が開いた「円月島」の夕景、波が打ち寄せる雄大な畳状の岩盤「千畳敷」、そしてエレベーターで地下36mへ降りる迫力の「三段壁洞窟」。自然の神秘を感じる海岸美は見逃せません。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> とれとれ市場で海鮮丼＆紀州梅干しのお土産探し
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> とれとれ市場で海鮮丼＆紀州梅干しのお土産探し</h3>
               <p className="text-stone-700 text-sm leading-relaxed">西日本最大級の海鮮マーケット「とれとれ市場 南紀白浜」。新鮮な魚介類の浜焼きや名物の海鮮丼をランチで味わい、紀州南高梅や和歌山地酒のお土産探しに最適です。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              和歌山県白浜町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">和歌山県白浜町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白浜温泉 ホテル川久を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白浜温泉 ホテル川久を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白浜温泉 ホテル川久の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白浜温泉 ホテル川久の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

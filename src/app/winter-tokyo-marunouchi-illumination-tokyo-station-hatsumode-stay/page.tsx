@@ -266,10 +266,8 @@ export default function MarunouchiTokyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Metropolitan Elegance</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
-              光の回廊と歴史の格式が調和する冬の丸の内・大手町・日本橋
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
+              光の回廊と歴史の格式が調和する冬の丸の内・大手町・日本橋</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function MarunouchiTokyoWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Prestige Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              丸の内＆大手町・日本橋で冬を過ごす名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">丸の内＆大手町・日本橋で冬を過ごす名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
               楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。東京の中心で最高の冬の思い出を刻む極上宿を厳選しました。
             </p>
@@ -349,12 +345,10 @@ export default function MarunouchiTokyoWinterPage() {
                           {h.access}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-amber-700 font-medium">{h.special}</p>
                     </div>
 
@@ -435,10 +429,8 @@ export default function MarunouchiTokyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tokyo Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-amber-500 shrink-0" />
-              1泊2日！冬の丸の内イルミネーション＆皇居散策・日本橋初詣 王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-amber-500 shrink-0" />
+              1泊2日！冬の丸の内イルミネーション＆皇居散策・日本橋初詣 王道モデルコース</h2>
           </div>
 
           <div className="relative border-l-2 border-amber-200 ml-4 pl-6 space-y-8 my-4">
@@ -520,18 +512,14 @@ export default function MarunouchiTokyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-amber-500 shrink-0" />
-              冬の丸の内観光！ビル風対策・地下通路活用術・混雑回避
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-amber-500 shrink-0" />
+              冬の丸の内観光！ビル風対策・地下通路活用術・混雑回避</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-amber-600" />
-                超高層ビル風への対策と服装のコツ
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-amber-600" />
+                超高層ビル風への対策と服装のコツ</h3>
               <p className="leading-relaxed">
                 丸の内や大手町は日本屈指の超高層オフィスビルが林立するため、冬は「ビル風」が強く吹き抜けます。気温が7度前後でも、風速が強いと体感温度は0度近くまで低下します。
               </p>
@@ -541,10 +529,8 @@ export default function MarunouchiTokyoWinterPage() {
             </div>
 
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Train className="w-5 h-5 text-amber-600" />
-                広大な地下歩行ネットワークを賢く活用
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Train className="w-5 h-5 text-amber-600" />
+                広大な地下歩行ネットワークを賢く活用</h3>
               <p className="leading-relaxed">
                 東京駅・丸の内・大手町・有楽町エリアは、地下通路が網の目のように連結しています。雨や寒風が強い日は、地下通路を活用することで寒さを一切感じることなく快適に移動できます。
               </p>
@@ -554,10 +540,8 @@ export default function MarunouchiTokyoWinterPage() {
             </div>
 
             <div className="space-y-3 md:col-span-2 bg-slate-50 p-4 rounded-xl border border-slate-150">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-600" />
-                無料の展望デッキ！新丸ビル＆KITTEテラスの撮影攻略法
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" />
+                無料の展望デッキ！新丸ビル＆KITTEテラスの撮影攻略法</h3>
               <p className="leading-relaxed">
                 東京駅丸の内駅舎を俯瞰できる絶景スポットとして絶対に見逃せないのが、新丸ビル7階「丸の内ハウス」の屋外テラスと、KITTE（キッテ）6階の屋上庭園「KITTEガーデン」です。いずれも無料で入場可能で、KITTEからは駅舎の南ドームと線路を行き交う新幹線の大パノラマを、新丸ビルテラスからは行幸通りと駅舎正面の壮大なライトアップをゆったりと鑑賞できます。日没直後のトワイライトブルーの空と温かなオレンジ色の駅舎照明が重なり合う約30分間が最も美しいゴールデンアワーです。
               </p>
@@ -569,18 +553,14 @@ export default function MarunouchiTokyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の丸の内・東京駅観光 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の丸の内・東京駅観光 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-amber-100 text-amber-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-amber-100 text-amber-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <div className="text-xs sm:text-sm text-slate-600 pl-6 leading-relaxed">
                   {item.a}
                 </div>
@@ -591,10 +571,8 @@ export default function MarunouchiTokyoWinterPage() {
 
         {/* Section 6: 関連内部リンク */}
         <section className="bg-gradient-to-br from-slate-950 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-400" />
-            あわせて読みたい！冬の人気特集記事
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-400" />
+            あわせて読みたい！冬の人気特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-300">
             当サイトでは、全国の冬のイルミネーション・新春初詣・絶景ホテルを徹底特集しています。冬の旅行計画にお役立てください。
           </p>

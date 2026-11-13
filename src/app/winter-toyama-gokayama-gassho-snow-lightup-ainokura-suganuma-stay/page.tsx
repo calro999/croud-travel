@@ -84,37 +84,29 @@ export default function WinterFeaturePage() {
         <section className="max-w-4xl mx-auto px-4 py-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
             <div className="space-y-1">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2026-2027年冬の五箇山・庄川温泉郷・南砺が格別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2026-2027年冬の五箇山・庄川温泉郷・南砺が格別な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 冬ならではの絶景・温泉・美食のハイライト
               </p>
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  静寂と素朴な暮らしが息づく世界遺産・五箇山合掌集落の雪景色
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  静寂と素朴な暮らしが息づく世界遺産・五箇山合掌集落の雪景色</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   相倉集落（20棟）や菅沼集落（9棟）は、三方を険しい山に囲まれた隠れ里。冬は観光客も少なく、雪を踏みしめる音だけが響く静寂の中で、雪化粧をまとった茅葺き屋根の美しい造形美を心ゆくまで堪能できます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  大豆の旨みが濃縮された「五箇山堅豆腐」と香ばしい「岩魚骨酒」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  大豆の旨みが濃縮された「五箇山堅豆腐」と香ばしい「岩魚骨酒」</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   縄で縛って持ち運べるほど硬く仕込まれた伝統の五箇山豆腐。大豆の甘みが極めて濃厚で、刺身やステーキで味わうと格別の美味しさです。囲炉裏端でじっくり炭火焼きにした岩魚に熱燗の地酒を注ぐ「骨酒」は冬の至福の味覚です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  庄川峡の雪見遊覧船と、渓谷美を眼下に望む庄川温泉郷の名湯
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  庄川峡の雪見遊覧船と、渓谷美を眼下に望む庄川温泉郷の名湯</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   庄川の深いエメラルドグリーンの水面を静かに進む雪見遊覧船。両岸にそびえる雪山が水鏡に映り込む絶景を眺めた後は、川沿いに湧く庄川温泉郷の露天風呂へ。湯煙の向こうに広がる白銀の渓谷パノラマに心身が芯から解きほぐされます。
                 </p>
@@ -126,10 +118,8 @@ export default function WinterFeaturePage() {
         {/* アクセス・気候・服装ガイド */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-600" />
-              冬のアクセス・気候とおすすめの服装
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-cyan-600" />
+              冬のアクセス・気候とおすすめの服装</h2>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 p-4 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
 ・北陸新幹線＆バス：JR新高岡駅または高岡駅より世界遺産バス（加越能バス）で「相倉口」まで約1時間、「菅沼」まで約1時間15分。
@@ -148,9 +138,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              五箇山・庄川温泉郷・南砺 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">五箇山・庄川温泉郷・南砺 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,9 +162,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     世界遺産菅沼集落近く・囲炉裏炭火料理と五箇山温泉の老舗
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    五箇山温泉　赤尾館
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">五箇山温泉　赤尾館</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.07
@@ -236,9 +222,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     庄川の清流沿い・名物鮎焼きと四季の会席料理が輝く隠れ宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    人肌の宿　川金
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">人肌の宿　川金</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.78
@@ -302,9 +286,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     赤尾谷の高台・露天風呂から白銀の山並みを望む公営温泉宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    白川郷にほど近い　五箇山温泉　五箇山荘
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">白川郷にほど近い　五箇山温泉　五箇山荘</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.42
@@ -368,9 +350,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     庄川温泉郷・美肌の湯と無料ラウンジサービスが充実のコスパ宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">庄川温泉郷　美肌の湯　となみ野庄川荘一萬亭（ＢＢＨホテルグループ）</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.08
@@ -434,9 +414,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     上平の山里・合掌造り集落の歴史を今に伝えるアットホーム旅館
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    五箇山　旅館　よしのや＜富山県＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">五箇山　旅館　よしのや＜富山県＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.50
@@ -486,9 +464,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  富山県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">富山県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -507,10 +483,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の五箇山・庄川温泉郷・南砺旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の五箇山・庄川温泉郷・南砺旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

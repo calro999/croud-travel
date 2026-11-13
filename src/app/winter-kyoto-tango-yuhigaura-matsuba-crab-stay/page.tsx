@@ -280,10 +280,8 @@ export default function YuhigauraOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜京都・丹後夕日ヶ浦温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月京都丹後・夕日ヶ浦温泉】<br className="hidden sm:inline" />
-            日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月京都丹後・夕日ヶ浦温泉】<br className="hidden sm:inline" />
+            日本海夕景と11月解禁松葉ガニ・幻の間人ガニ＆美人の湯の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月6日のカニ漁解禁で活気づく冬の丹後海岸。日本の夕陽百選に輝く雄大な水平線を望み、極上タグ付き松葉ガニととろり肌を潤す美肌湯に酔いしれる至高の冬旅。
           </p>
@@ -301,9 +299,7 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Sunset & Winter Matsuba Crab Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黄金の夕日が染める日本海と、11月解禁を告げる本場松葉ガニの饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黄金の夕日が染める日本海と、11月解禁を告げる本場松葉ガニの饗宴</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Alkaline Beauty Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                肌が喜ぶ天然の化粧水｜夕日ヶ浦「美人の湯」の泉質メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">肌が喜ぶ天然の化粧水｜夕日ヶ浦「美人の湯」の泉質メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">King of Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                冬の味覚の王者・松葉ガニと丹後但馬牛｜本場ならではの贅沢フルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の味覚の王者・松葉ガニと丹後但馬牛｜本場ならではの贅沢フルコース</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Tango Winter Scenic Course & Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の丹後・夕日ヶ浦散策モデルコース｜木製ブランコゆらりと久美浜湾の静寂
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の丹後・夕日ヶ浦散策モデルコース｜木製ブランコゆらりと久美浜湾の静寂</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function YuhigauraOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-orange-700 uppercase tracking-widest">Featured Sunset & Crab Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              日本海の夕景と本場カニ尽くし｜夕日ヶ浦温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">日本海の夕景と本場カニ尽くし｜夕日ヶ浦温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、カニの仕入れと展望露天風呂に格別のこだわりを持つ厳選宿。
             </p>
@@ -451,9 +439,7 @@ export default function YuhigauraOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の夕日ヶ浦冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の夕日ヶ浦冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-800" />
-                日本海の強い潮風と防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-800" />
+                日本海の強い潮風と防寒対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 初冬の日本海沿岸は北西の季節風が強く吹きつけます。気温表示が10℃前後であっても体感温度はぐっと低く感じられます。夕日の時間帯の海岸散策や露天風呂での湯冷めを防ぐため、防風仕様の厚手コートやダウン、マフラー、ニット帽をご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-orange-800" />
-                京都縦貫道での快適アクセスと冬用タイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-orange-800" />
+                京都縦貫道での快適アクセスと冬用タイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 車の場合は京都縦貫自動車道・京丹後大宮ICより約30分で到着します。12月に入ると山間部や内陸部で路面凍結や積雪が発生するため、冬用スタッドレスタイヤの装着が必須です。電車をご利用の場合は京都丹後鉄道・夕日ヶ浦木津温泉駅までの送迎サービスを事前に宿へ予約しておくと安心です。
               </p>
@@ -565,18 +545,14 @@ export default function YuhigauraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                京都丹後夕日ヶ浦温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">京都丹後夕日ヶ浦温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function YuhigauraOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-orange-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい関西・山陰の冬名湯＆カニ・フグ美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい関西・山陰の冬名湯＆カニ・フグ美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の松葉ガニ解禁、日本海冬の味覚、歴史ある名湯をめぐる人気の厳選特集もぜひご覧ください。
             </p>

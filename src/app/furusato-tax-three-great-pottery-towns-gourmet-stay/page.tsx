@@ -130,9 +130,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              佐賀県有田町・伊万里市ふるさと納税：日本磁器のふるさと「有田焼・伊万里焼」の器で味わう佐賀牛と武雄・嬉野温泉名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">佐賀県有田町・伊万里市ふるさと納税：日本磁器のふるさと「有田焼・伊万里焼」の器で味わう佐賀牛と武雄・嬉野温泉名宿</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               400年前に誕生した日本最初の磁器。柿右衛門様式や鍋島藩窯の気品ある器に盛られたA5等級佐賀牛や若楠ポークを味わい、日本三大美肌の湯・嬉野温泉や奇岩に囲まれた武雄温泉で至福の時間を過ごせます。
             </p>
@@ -157,11 +155,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40786%2F40786.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40786%2F40786.html" target="_blank" rel="sponsored noopener noreferrer">
                       嬉野温泉　旅館　吉田屋
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 佐賀県嬉野市嬉野町岩屋川内甲379
                   </p>
@@ -219,11 +215,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30159%2F30159.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30159%2F30159.html" target="_blank" rel="sponsored noopener noreferrer">
                       佐賀牛の宿　光陽閣
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 佐賀県嬉野市嬉野町大字下宿乙730-5
                   </p>
@@ -281,11 +275,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13775%2F13775.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13775%2F13775.html" target="_blank" rel="sponsored noopener noreferrer">
                       嬉野温泉　旅館　初音荘
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 佐賀県嬉野市嬉野町岩屋川内甲340-1
                   </p>
@@ -332,9 +324,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              岐阜県多治見市・土岐市ふるさと納税：志野・織部・黄瀬戸が彩る「美濃焼」の窯元散策と山あいの隠れ家名湯旅館
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">岐阜県多治見市・土岐市ふるさと納税：志野・織部・黄瀬戸が彩る「美濃焼」の窯元散策と山あいの隠れ家名湯旅館</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               千利休ら茶人たちに愛された茶陶の最高峰。多治見や土岐の窯元ギャラリーを巡り、緑豊かな渓谷に佇む隠れ家旅館で、織部焼の器に映える飛騨牛ステーキや鮎料理、天然温泉を堪能する大人の贅沢旅です。
             </p>
@@ -359,11 +349,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104671%2F104671.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F104671%2F104671.html" target="_blank" rel="sponsored noopener noreferrer">
                       了山
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 岐阜県可児郡御嵩町次月3420-7
                   </p>
@@ -410,9 +398,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              愛知県瀬戸市ふるさと納税：陶磁器の代名詞「瀬戸焼（せともの）」窯垣の小径散策と尾張名門ホテル・郷土会席ステイ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">愛知県瀬戸市ふるさと納税：陶磁器の代名詞「瀬戸焼（せともの）」窯垣の小径散策と尾張名門ホテル・郷土会席ステイ</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               窯道具を積み上げた風情ある「窯垣の小径」が続く瀬戸。本業窯やセトノベルティの歴史に触れ、ホテルでは地元三河湾の海の幸や八丁味噌料理、洗練された尾張会席を美しい器とともに味わえます。
             </p>
@@ -437,11 +423,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15472%2F15472.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15472%2F15472.html" target="_blank" rel="sponsored noopener noreferrer">
                       新瀬戸ステーションホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 愛知県瀬戸市東横山町53
                   </p>
@@ -499,11 +483,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F927%2F927.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F927%2F927.html" target="_blank" rel="sponsored noopener noreferrer">
                       小牧セントラルホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 愛知県小牧市北外山730
                   </p>
@@ -561,11 +543,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191947%2F191947.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F191947%2F191947.html" target="_blank" rel="sponsored noopener noreferrer">
                       大樹リーフホテル瀬戸
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 愛知県瀬戸市南菱野町465
                   </p>
@@ -641,9 +621,7 @@ export default function Page() {
               href="/furusato-tax-three-great-wagashi-tea-culture-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大銘菓＆歴史茶の湯・老舗和菓子めぐり風雅宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 金沢・長岡・松江の茶の湯と和菓子旅。
               </p>
@@ -654,9 +632,7 @@ export default function Page() {
               href="/furusato-tax-three-major-bihada-hotspring-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 嬉野・喜連川・玉造の名湯治宿。
               </p>
@@ -667,9 +643,7 @@ export default function Page() {
               href="/traditional-crafts-pottery-gold-leaf-washi-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                伝統工芸・職人技体験×ものづくり工房宿ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">伝統工芸・職人技体験×ものづくり工房宿ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 全国の伝統工芸と職人宿。
               </p>
@@ -680,9 +654,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】嬉野温泉 旅館 吉田屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】嬉野温泉 旅館 吉田屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -715,9 +687,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と嬉野温泉 旅館 吉田屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と嬉野温泉 旅館 吉田屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

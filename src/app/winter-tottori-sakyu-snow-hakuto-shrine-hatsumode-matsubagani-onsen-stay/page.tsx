@@ -303,10 +303,8 @@ export default function TottoriSakyuWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-blue-600" />
-            11・12・1月の鳥取・因幡 冬旅ハイライト
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-blue-600" />
+            11・12・1月の鳥取・因幡 冬旅ハイライト</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="space-y-2 border-l-2 border-blue-500 pl-4">
               <h3 className="font-bold text-slate-900">白銀に染まる鳥取砂丘</h3>
@@ -341,9 +339,7 @@ export default function TottoriSakyuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">NATURE ART & MYTHOLOGY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                千年の風が創る風紋と神話の海：白銀の鳥取砂丘と因幡の白兎伝説
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">千年の風が創る風紋と神話の海：白銀の鳥取砂丘と因幡の白兎伝説</h2>
             </div>
           </div>
 
@@ -368,9 +364,7 @@ export default function TottoriSakyuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">GOURMET & THERMAL SPRINGS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                冬の日本海の至宝「鳥取松葉がに」と幻のモサエビ、市街地に湧く鳥取温泉
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">冬の日本海の至宝「鳥取松葉がに」と幻のモサエビ、市街地に湧く鳥取温泉</h2>
             </div>
           </div>
 
@@ -394,9 +388,7 @@ export default function TottoriSakyuWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-blue-600" />
               HOTEL SELECTION BY RAKUTEN API
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              雪砂丘・白兎神社初詣と松葉がにを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">雪砂丘・白兎神社初詣と松葉がにを満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
               楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。自家源泉の天然温泉、活松葉ガニフルコース、鳥取砂丘や駅へのアクセスに優れた屈指の宿を厳選しました。
             </p>
@@ -433,9 +425,7 @@ export default function TottoriSakyuWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
                     <p className="text-xs text-slate-500 mb-3 line-clamp-2">
                       {hotel.special}
                     </p>
@@ -494,19 +484,15 @@ export default function TottoriSakyuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                1泊2日 白銀の鳥取砂丘＆白兎神社縁結び初詣・松葉がに堪能モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">1泊2日 白銀の鳥取砂丘＆白兎神社縁結び初詣・松葉がに堪能モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-blue-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-blue-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                特急スーパーはくとで鳥取到着、鳥取砂丘の冬絶景と砂の美術館、鳥取温泉
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-blue-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                特急スーパーはくとで鳥取到着、鳥取砂丘の冬絶景と砂の美術館、鳥取温泉</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 JR特急「スーパーはくと」にて鳥取駅に到着</strong><br />
                 大阪・京都から快適に到着。ホテルに荷物を預け、駅前バスターミナルから路線バスで鳥取砂丘へ向かう（約20分）。
@@ -527,10 +513,8 @@ export default function TottoriSakyuWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                神話の杜「白兎神社」で新春縁結び初詣、鳥取港海鮮市場でお土産調達
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                神話の杜「白兎神社」で新春縁結び初詣、鳥取港海鮮市場でお土産調達</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:30 宿で地元食材の和朝食をいただきチェックアウト</strong><br />
                 澄み渡る朝の空気の中を出発。車または路線バスで白兎海岸へ移動（約20分）。
@@ -559,19 +543,15 @@ export default function TottoriSakyuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                鳥取・鳥取砂丘＆白兎海岸 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">鳥取・鳥取砂丘＆白兎海岸 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-blue-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-blue-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function TottoriSakyuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！山陰・西日本の厳選「冬の初詣＆松葉ガニ・名湯特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！山陰・西日本の厳選「冬の初詣＆松葉ガニ・名湯特集」</h2>
             </div>
           </div>
 

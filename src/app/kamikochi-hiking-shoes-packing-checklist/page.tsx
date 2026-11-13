@@ -98,9 +98,7 @@ export default function KamikochiPackingChecklistPage() {
       <div className="bg-emerald-50 border-2 border-emerald-500/70 rounded-3xl p-6 md:p-8 shadow-sm space-y-4">
         <div className="flex items-center gap-3">
           <span className="bg-emerald-700 text-white text-xs font-black px-3 py-1 rounded-full uppercase">Quick Verdict</span>
-          <h2 className="text-lg md:text-xl font-black text-emerald-950">
-            結論：あなたの行き先はどこ？「靴の境界線」判定表
-          </h2>
+          <h2 className="text-lg md:text-xl font-black text-emerald-950">結論：あなたの行き先はどこ？「靴の境界線」判定表</h2>
         </div>
         <div className="grid sm:grid-cols-2 gap-4 text-sm">
           <div className="bg-white rounded-2xl p-5 border border-emerald-200 space-y-2">
@@ -133,9 +131,7 @@ export default function KamikochiPackingChecklistPage() {
       <section className="space-y-6">
         <div className="border-b-2 border-emerald-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-emerald-700">Honest Field Report</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            現地で身悶えした…上高地ハイキングのリアル失敗談4選
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">現地で身悶えした…上高地ハイキングのリアル失敗談4選</h2>
         </div>
 
         <div className="grid gap-6">
@@ -143,9 +139,7 @@ export default function KamikochiPackingChecklistPage() {
           <div className="bg-white rounded-2xl p-6 md:p-7 border border-emerald-100 shadow-sm border-l-8 border-l-emerald-700">
             <div className="flex items-center gap-2.5 mb-2.5">
               <span className="text-lg">🤦‍♂️</span>
-              <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                失敗1：白の新品スニーカーで行って、一瞬で泥水と砂利の犠牲に
-              </h3>
+              <h3 className="text-lg md:text-xl font-bold text-slate-900">失敗1：白の新品スニーカーで行って、一瞬で泥水と砂利の犠牲に</h3>
             </div>
             <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-3">
               「インスタ映えする写真を撮りたい」とおろしたての白いスニーカーを履いて行った旅行者。前夜の雨で木道脇の水たまりに足をとられ、乾いた砂利埃をかぶり、下山する頃には見る影もない灰色に。「洗っても落ちない汚れになり、旅行中ずっとテンションが下がった」という後悔の声が非常に多いです。
@@ -159,9 +153,7 @@ export default function KamikochiPackingChecklistPage() {
           <div className="bg-white rounded-2xl p-6 md:p-7 border border-emerald-100 shadow-sm border-l-8 border-l-teal-600">
             <div className="flex items-center gap-2.5 mb-2.5">
               <span className="text-lg">🥶</span>
-              <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                失敗2：真夏だからと半袖Tシャツ1枚…朝晩と日陰の寒さに震える
-              </h3>
+              <h3 className="text-lg md:text-xl font-bold text-slate-900">失敗2：真夏だからと半袖Tシャツ1枚…朝晩と日陰の寒さに震える</h3>
             </div>
             <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-3">
               上高地は標高約1,500m。東京や松本市街地が35℃の猛暑日でも、上高地の早朝は15℃以下、秋口には朝の気温が5℃前後まで落ちます。日向を歩いているときは汗ばむほど暑いのに、原生林の木陰に入った瞬間に冷たい山風が吹き抜けて汗冷えを起こします。
@@ -175,9 +167,7 @@ export default function KamikochiPackingChecklistPage() {
           <div className="bg-white rounded-2xl p-6 md:p-7 border border-emerald-100 shadow-sm border-l-8 border-l-emerald-600">
             <div className="flex items-center gap-2.5 mb-2.5">
               <span className="text-lg">☔</span>
-              <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                失敗3：折りたたみ傘しか持っておらず、山の急な横殴り雨でリュック全滅
-              </h3>
+              <h3 className="text-lg md:text-xl font-bold text-slate-900">失敗3：折りたたみ傘しか持っておらず、山の急な横殴り雨でリュック全滅</h3>
             </div>
             <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-3">
               山の天気は1時間で一変します。快晴から突如として雷雨になることも日常茶飯事。木道で傘を差すとすれ違う人の迷惑になるだけでなく、強風で骨が折れて使い物にならなくなります。リュックカバーを持っていなかったため、財布や着替えまでびしょ濡れになった旅行者が後を絶ちません。
@@ -191,9 +181,7 @@ export default function KamikochiPackingChecklistPage() {
           <div className="bg-white rounded-2xl p-6 md:p-7 border border-emerald-100 shadow-sm border-l-8 border-l-teal-800">
             <div className="flex items-center gap-2.5 mb-2.5">
               <span className="text-lg">🐻</span>
-              <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                失敗4：上高地はツキノワグマの生息地！熊鈴を持たずに奥へ進んで恐怖
-              </h3>
+              <h3 className="text-lg md:text-xl font-bold text-slate-900">失敗4：上高地はツキノワグマの生息地！熊鈴を持たずに奥へ進んで恐怖</h3>
             </div>
             <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-3">
               河童橋周辺は多くの観光客で賑わっていますが、明神池や徳沢方面、あるいは早朝の大正池周辺は原生林が広がる野生生物の生活圏です。近年も目撃情報が多数報告されています。「静かすぎて藪の中からガサガサ音がするたびに心臓が止まりそうになった」という体験談も。
@@ -209,9 +197,7 @@ export default function KamikochiPackingChecklistPage() {
       <section className="bg-white rounded-3xl p-6 md:p-10 border border-emerald-200 shadow-md space-y-6">
         <div className="text-center space-y-2">
           <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-3 py-1 rounded-full">Packing List</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            上高地ハイキング 持ち物完全チェックリスト
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">上高地ハイキング 持ち物完全チェックリスト</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             「大正池〜河童橋」観光組も「明神池」トレッキング組も使える装備一覧。
           </p>
@@ -219,9 +205,7 @@ export default function KamikochiPackingChecklistPage() {
 
         <div className="grid md:grid-cols-3 gap-4">
           <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-200/80 space-y-3">
-            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">
-              <span>🎒</span> 基本装備
-            </h3>
+            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">基本装備</h3>
             <ul className="text-xs md:text-sm text-slate-700 space-y-2">
               <li className="flex items-start gap-1.5">
                 <span className="text-emerald-600 font-bold">☑</span>
@@ -243,9 +227,7 @@ export default function KamikochiPackingChecklistPage() {
           </div>
 
           <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-200/80 space-y-3">
-            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">
-              <span>🧥</span> 服装・天候対策
-            </h3>
+            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">服装・天候対策</h3>
             <ul className="text-xs md:text-sm text-slate-700 space-y-2">
               <li className="flex items-start gap-1.5">
                 <span className="text-emerald-600 font-bold">☑</span>
@@ -267,9 +249,7 @@ export default function KamikochiPackingChecklistPage() {
           </div>
 
           <div className="bg-emerald-50/40 rounded-2xl p-5 border border-emerald-200/80 space-y-3">
-            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">
-              <span>💡</span> あると助かる山岳ギア
-            </h3>
+            <h3 className="font-bold text-emerald-950 flex items-center gap-1.5 text-sm md:text-base">あると助かる山岳ギア</h3>
             <ul className="text-xs md:text-sm text-slate-700 space-y-2">
               <li className="flex items-start gap-1.5">
                 <span className="text-emerald-600 font-bold">☑</span>
@@ -299,9 +279,7 @@ export default function KamikochiPackingChecklistPage() {
             <span className="bg-white/20 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider inline-block">
               Rakuten Travel Special
             </span>
-            <h3 className="text-xl md:text-2xl font-black">
-              上高地・さわんど温泉・松本駅前ホテルで使える限定クーポン
-            </h3>
+            <h3 className="text-xl md:text-2xl font-black">上高地・さわんど温泉・松本駅前ホテルで使える限定クーポン</h3>
             <p className="text-emerald-100 text-xs md:text-sm">
               マイカー規制のある上高地は、シャトルバス発着地の「さわんど温泉」か「松本駅前」の前泊が最もスムーズ！
             </p>
@@ -318,9 +296,7 @@ export default function KamikochiPackingChecklistPage() {
 
         <div className="border-b-2 border-emerald-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-emerald-700">Recommended Hotels</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            上高地散策の拠点に最適！さわんど温泉＆上高地周辺ホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">上高地散策の拠点に最適！さわんど温泉＆上高地周辺ホテル</h2>
           <p className="text-slate-600 text-xs md:text-sm mt-1">
             早朝の朝霧に包まれる大正池に直行できる絶好のロケーション宿をピックアップ。
           </p>
@@ -357,9 +333,7 @@ export default function KamikochiPackingChecklistPage() {
                   )}
                 </div>
 
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">
-                  {hotel.hotelName}
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
                 <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
                   {hotel.hotelSpecial || "上高地観光のゲートウェイに位置し、マイカー駐車やバスターミナルへのアクセスも抜群の宿です。"}

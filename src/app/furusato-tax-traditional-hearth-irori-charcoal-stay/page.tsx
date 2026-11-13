@@ -82,15 +82,12 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          じっくりと炙られる岩魚と郷土牛。赤々と灯る囲炉裏の火を囲み、懐かしき日本の温もりに帰る旅
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">じっくりと炙られる岩魚と郷土牛。赤々と灯る囲炉裏の火を囲み、懐かしき日本の温もりに帰る旅</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           現代の慌ただしい日常から離れ、どこか懐かしく温かい日本の原風景へと誘ってくれる「囲炉裏（いろり）のある温泉旅館」。自在鉤から吊るされた鉄瓶、赤々と燃える炭火の柔らかな遠赤外線、香ばしい煙の匂い、そしてパチッと小さくはぜる炭の音——。囲炉裏を囲んで過ごす時間は、人と人との距離を自然と縮め、忘れかけていた心のゆとりを取り戻させてくれます。炭火でじっくりと時間をかけて焼き上げる川魚の塩焼きは外はパリッと中は驚くほどふっくら。郷土のブランド牛や地野菜、焼きたての五平餅や朴葉味噌の香ばしさは、ガスや電気の調理では絶対に再現できない極上のごちそうです。本特集では、世界遺産・白川郷の合掌造り文化をモダンに昇華し、囲炉裏ラウンジと飛騨牛炭火焼き会席が絶賛される「御宿 結の庄」、明治8年築の国登録有形文化財の木造建築と囲炉裏のある本館、そして足元から自噴する奇跡の「法師乃湯」を誇る「法師温泉 長寿館」、そして日本三大秘境・祖谷渓の断崖に佇み、専用ケーブルカーで降りる谷底露天風呂と囲炉裏鮎塩焼き・祖谷そばを味わう「和の宿 ホテル祖谷温泉」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で心に灯がともる囲炉裏温泉旅に出かけましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">囲炉裏料理＆古民家名湯宿特集が旅人を惹きつけてやまない3つの魅力</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】御宿　結の庄（共立リゾート）</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 囲炉裏料理＆古民家名湯宿特集が旅人を惹きつけてやまない3つの魅力
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">囲炉裏料理＆古民家名湯宿特集が旅人を惹きつけてやまない3つの魅力</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            御宿　結の庄（共立リゾート）
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">御宿　結の庄（共立リゾート）</h2>
           <p className="text-xs md:text-sm text-amber-100">岐阜県白川村・世界遺産「白川郷」の玄関口！合掌造りを模した大屋根と囲炉裏ラウンジ、贅を尽くした飛騨牛会席</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            法師温泉　長寿館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">法師温泉　長寿館</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県みなかみ町・国登録有形文化財第1号！明治時代の囲炉裏本館と足元湧出の奇跡の湯「法師乃湯」</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            和の宿　ホテル祖谷温泉
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">和の宿　ホテル祖谷温泉</h2>
           <p className="text-xs md:text-sm text-amber-100">徳島県三好市・日本三大秘境「祖谷渓」の断崖絶壁！ケーブルカーで行く谷底露天風呂と囲炉裏炭火鮎会席</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -327,9 +316,7 @@ export default function FurusatoTraditionalHearthIroriStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい注目のふるさと納税温泉特集
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税温泉特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

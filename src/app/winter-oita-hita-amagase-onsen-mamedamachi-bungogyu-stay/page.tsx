@@ -407,9 +407,7 @@ export default function OitaHitaAmagaseWinterPage() {
               <Landmark className="w-4 h-4 text-teal-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の川霧絶景と豊後牛を堪能する日田・天瀬の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の川霧絶景と豊後牛を堪能する日田・天瀬の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -425,9 +423,7 @@ export default function OitaHitaAmagaseWinterPage() {
                       <span className="inline-block text-xs font-bold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -471,9 +467,7 @@ export default function OitaHitaAmagaseWinterPage() {
 
                   {/* Highlights Bullet Points */}
                   <div className="space-y-1.5 pt-2">
-                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">
-                      この宿の初冬ステイおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">この宿の初冬ステイおすすめポイント</h4>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-stone-600">
                       {hotel.highlights.map((hl, hlIdx) => (
                         <li key={hlIdx} className="flex items-start gap-1.5">
@@ -513,35 +507,27 @@ export default function OitaHitaAmagaseWinterPage() {
             <Utensils className="w-4 h-4 text-teal-300" />
             初冬の日田・天瀬美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の日田で味わい尽くす極上豊後牛・初冬鮎・名水地鶏
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の日田で味わい尽くす極上豊後牛・初冬鮎・名水地鶏</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-400" />
-                最高峰「おおいた豊後牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-400" />
+                最高峰「おおいた豊後牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 百年の歴史を誇る大分県産黒毛和牛の最高峰。オレイン酸を豊富に含み、舌の上でとろけるような口溶けと赤身の深い旨味が特徴。すき焼き小鍋や陶板ステーキで熱々のまま味わうのが冬の醍醐味です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-teal-400" />
-                冬の子持ち鮎甘露煮＆うるか
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-400" />
+                冬の子持ち鮎甘露煮＆うるか</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 三隈川の清流で育った鮎は日田の象徴。初冬には卵をたっぷり抱えた子持ち鮎を骨までじっくり煮込んだ甘露煮や、鮎の内臓を塩漬けにして熟成させた伝統の珍味「うるか」が地酒の最高の供になります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-teal-400" />
-                大山特産「熟成梅酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-teal-400" />
+                大山特産「熟成梅酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 「梅栗植えてハワイへ行こう」のキャッチフレーズで知られる奥日田・大山町。厳選された鶯宿梅や南高梅をじっくり漬け込み熟成させたプレミアム梅酒は、芳醇な香りと上品な酸味が肉料理の旨味を引き立てます。
               </p>
@@ -555,17 +541,13 @@ export default function OitaHitaAmagaseWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の水郷小江戸と渓流露天風呂を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の水郷小江戸と渓流露天風呂を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-teal-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-teal-100 text-teal-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：日田駅到着から豆田町天領小江戸散策・三隈川温泉ステイ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                白壁土蔵の町家と酒蔵を巡り、川沿いの展望露天風呂とおおいた豊後牛を堪能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">白壁土蔵の町家と酒蔵を巡り、川沿いの展望露天風呂とおおいた豊後牛を堪能</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中にJR日田駅へ到着。まずは豆田町へ向かい、草野本家や薫長酒造の白壁土蔵が連なる町並みを散策。名物の日田焼きそばでランチを済ませた後、伝統の日田下駄や柚子胡椒のお土産を購入。15時に三隈川沿いまたは天瀬の温泉宿へチェックイン。展望大浴場から三隈川や玖珠川のせせらぎを眺めながら、弱アルカリ性の柔らかな美肌湯を満喫。夕食には美しい霜降りのおおいた豊後牛すき焼き、冬の子持ち鮎甘露煮、大山特産の梅酒に舌鼓を打ちます。
               </p>
@@ -575,9 +557,7 @@ export default function OitaHitaAmagaseWinterPage() {
               <div className="inline-block bg-teal-100 text-teal-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：幻想的な川霧の朝風呂・天瀬温泉の渓流共同露天巡りへ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                黄金色に輝く川霧を眺め、桜滝の飛瀑と野趣あふれる川沿い名湯で心身を再生
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">黄金色に輝く川霧を眺め、桜滝の飛瀑と野趣あふれる川沿い名湯で心身を再生</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、三隈川の水面から立ち上る幻想的な「川霧」を展望露天風呂から鑑賞。朝食後にチェックアウトし、天瀬温泉方面へ移動。天瀬駅近くの名瀑「桜滝」を訪れ、初冬の澄んだ空気の中で豪快な瀑布を体感。川沿いに佇む風情ある共同露天風呂（神田湯など）を巡り、硫黄が香る掛け流しの湯で足元から温まります。水郷日田の豊かな自然と温かなおもてなしの記憶を胸に帰路へ。
               </p>
@@ -591,25 +571,19 @@ export default function OitaHitaAmagaseWinterPage() {
             <Footprints className="w-4 h-4" />
             初冬の日田・天瀬・おみやげ＆天領散策手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            天領の歴史と名水が育んだ初冬の伝統工芸と名物みやげ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">天領の歴史と名水が育んだ初冬の伝統工芸と名物みやげ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-teal-600" />
-                日田杉の伝統下駄と木工クラフト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-teal-600" />
+                日田杉の伝統下駄と木工クラフト</h3>
               <p>
                 江戸時代の天領時代から杉の産地として栄えた日田は、日本屈指の「下駄（げた）」の生産地です。豆田町の履物店には、日田杉の美しい木目を生かした素焼き下駄や塗り下駄、モダンな室内用サンダルなどが並びます。足裏に心地よくフィットする温もりある木製品は、旅の記念やお土産に大変喜ばれています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-600" />
-                創業160年原次郎左衛門の鮎魚醤と柚子胡椒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-600" />
+                創業160年原次郎左衛門の鮎魚醤と柚子胡椒</h3>
               <p>
                 安政6年創業の老舗蔵元「原次郎左衛門（まるはら）」が手がける「鮎魚醤（あゆぎょしょう）」は、新鮮な鮎と塩のみで長期熟成させた世界唯一の調味料。臭みが全くなく、上品で奥深い旨味がひと垂らしで料理を劇的に引き立てます。また、大分特産の青唐辛子と黄柚子で作る風味豊かな柚子胡椒や赤司羊羹も、初冬の温泉土産の定番です。
               </p>
@@ -623,25 +597,19 @@ export default function OitaHitaAmagaseWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の日田・天瀬旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の日田・天瀬旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-600" />
-                盆地特有の朝晩の寒暖差対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-600" />
+                盆地特有の朝晩の寒暖差対策</h3>
               <p>
                 日田市は周囲を山に囲まれた盆地のため、日中は穏やかでも朝晩の冷え込みが急速に進みます。11月・12月の早朝に川霧を見学したり豆田町を歩く際は、厚手のダウンコートや裏起毛のパンツ、マフラー、手袋を着用してください。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                福岡・大分からの快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                福岡・大分からの快適アクセス</h3>
               <p>
                 JR博多駅から特急「ゆふいんの森」や「ゆふ」で日田駅まで直通約1時間15分、天ヶ瀬駅まで約1時間30分。高速バス「ひた号」も頻発しています。車の場合は大分道日田ICまたは天瀬高塚ICから約15分。平野部は積雪の心配が少なく快適にドライブできます。
               </p>
@@ -655,16 +623,12 @@ export default function OitaHitaAmagaseWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の日田・天瀬温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の日田・天瀬温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-teal-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-teal-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -676,10 +640,8 @@ export default function OitaHitaAmagaseWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-teal-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい九州・豊後路の冬名湯・美食特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい九州・豊後路の冬名湯・美食特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の味覚と雪見露天風呂、極上豊後牛を堪能するおすすめ旅ガイド
             </p>
@@ -691,9 +653,7 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">大分・九重筋湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                筋湯温泉 うたせ湯雪見露天＆極上豊後牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">筋湯温泉 うたせ湯雪見露天＆極上豊後牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 九重連山の雄大な初冬雪景色と日本一の打たせ湯、豊後牛すき焼きを味わう秘湯旅。
               </p>
@@ -704,9 +664,7 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立わいた</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                杖立地獄蒸し＆わいた温泉郷・あか牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">杖立地獄蒸し＆わいた温泉郷・あか牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 立ちのぼる白い湯煙と名物地獄蒸し料理、阿蘇あか牛と青白く輝くコイン式露天風呂巡り。
               </p>
@@ -717,9 +675,7 @@ export default function OitaHitaAmagaseWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">福岡・筑後川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                原鶴温泉 W美肌湯＆博多和牛すき焼き名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">原鶴温泉 W美肌湯＆博多和牛すき焼き名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 弱アルカリ性と硫黄泉のダブル美肌湯と、筑後川の初冬夕景・博多和牛を味わう温泉旅。
               </p>

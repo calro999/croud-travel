@@ -354,9 +354,7 @@ export default function MieTobaOsaatsuWinterPage() {
               <Anchor className="w-4 h-4" />
               初冬の黒潮と鳥羽湾がもたらす、日本屈指の海の恵み
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              なぜ11月・12月の相差温泉が全国の魚好きを虜にするのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">なぜ11月・12月の相差温泉が全国の魚好きを虜にするのか</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -377,9 +375,7 @@ export default function MieTobaOsaatsuWinterPage() {
             <span className="text-blue-900 font-bold text-xs sm:text-sm tracking-wider uppercase bg-blue-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              鳥羽・相差温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">鳥羽・相差温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               特大木舟盛り自慢の海女宿から全室オーシャンビューの温泉旅館、大人の隠れ宿まで
             </p>
@@ -413,9 +409,7 @@ export default function MieTobaOsaatsuWinterPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-blue-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-blue-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-blue-900 font-medium">
                         {hotel.special}
                       </p>
@@ -478,35 +472,27 @@ export default function MieTobaOsaatsuWinterPage() {
             <Utensils className="w-4 h-4 text-blue-300" />
             初冬の伊勢志摩・相差美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の相差で味わい尽くす奇跡の海の恵みと極上肉
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の相差で味わい尽くす奇跡の海の恵みと極上肉</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-blue-400" />
-                一本釣り「答志島トロさわら」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-blue-400" />
+                一本釣り「答志島トロさわら」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 答志島周辺の急流で一本釣りされ、脂肪分15%以上を厳選した最高峰の寒鰆。皮目をサッと炙る「焼き霜造り」にすると、皮下の極上脂が溶け出して香ばしさと濃厚な甘みが口いっぱいに広がり、従来の鰆の概念を根底から覆します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-blue-400" />
-                解禁的矢牡蠣と活伊勢海老
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-blue-400" />
+                解禁的矢牡蠣と活伊勢海老</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 的矢湾の清浄海域で紫外線殺菌され、生で安心して味わえる大粒の「的矢牡蠣」。雑味が一切なく濃厚な海のミルクが弾けます。さらに生簀から揚げたばかりの活伊勢海老のお造りや香ばしい鬼殻焼きは、冬の相差旅行のクライマックスです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-blue-400" />
-                霜降り松阪牛＆海女のあら汁
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-blue-400" />
+                霜降り松阪牛＆海女のあら汁</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 三重県が誇る世界最高峰の黒毛和牛「松阪牛」。陶板でジューッと焼けば、上質な脂の芳醇な甘い香りが立ち上ります。翌朝には前夜の伊勢海老の頭で出汁をとった濃厚な海女の赤出汁が供され、身体の隅々まで旨味が染み渡ります。
               </p>
@@ -520,17 +506,13 @@ export default function MieTobaOsaatsuWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鳥羽・相差温泉を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鳥羽・相差温泉を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-blue-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-blue-100 text-blue-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：鳥羽駅到着からパールロード絶景ドライブ・相差の舟盛り宴
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                鳥羽展望台で初冬の海を眺め、温泉と海幸三昧の夜を満喫
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">鳥羽展望台で初冬の海を眺め、温泉と海幸三昧の夜を満喫</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中に近鉄鳥羽駅へ到着。駅前でレンタカーを借りるか、定期路線バスでパールロードを爽快ドライブ。標高163mの「鳥羽展望台 食国蔵王」に立ち寄り、初冬の澄みきった伊勢湾と遠く冠雪した富士山の絶景パノラマを鑑賞します。15時に相差の温泉宿へチェックイン。榊原温泉からの柔らかな美肌湯に浸かって日頃の疲れを癒やした後は、巨大木舟に盛られた答志島トロさわら、活伊勢海老、鮑踊り焼き、的矢牡蠣、松阪牛陶板焼きの豪華会席に舌鼓を打ちます。
               </p>
@@ -540,9 +522,7 @@ export default function MieTobaOsaatsuWinterPage() {
               <div className="inline-block bg-blue-100 text-blue-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：千鳥ヶ浜の日の出・石神さん朝参拝から伊勢神宮へ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                神明神社で願いを託し、伊勢神宮内宮の清らかな杜とおかげ横丁散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">神明神社で願いを託し、伊勢神宮内宮の清らかな杜とおかげ横丁散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、千鳥ヶ浜の水平線から昇る黄金色の朝日を眺めながら海辺を散歩。宿の朝食前に神明神社「石神さん」を訪れ、澄んだ空気の中で祈願用紙に一つだけ願いを書き込んで参拝。朝食で伊勢海老の濃厚な味噌汁を味わいチェックアウト。車で約35分移動して「伊勢神宮（内宮）」へ。五十鈴川の清流で手を清め、初冬の静かな神域を歩きます。参拝後はおはらい町・おかげ横丁で赤福ぜんざいや伊勢うどんを味わい、心もお腹も満たされて帰路へ。
               </p>
@@ -556,25 +536,19 @@ export default function MieTobaOsaatsuWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鳥羽相差旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鳥羽相差旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-600" />
-                温暖な気候と海風対策の服装
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-600" />
+                温暖な気候と海風対策の服装</h3>
               <p>
                 相差は黒潮の影響を受ける太平洋岸のため、冬でも比較的温暖で降雪はほとんどありません。11月の最高気温は約15〜18℃、12月は約10〜14℃です。ただし、千鳥ヶ浜や展望台など海岸線は冬の北西風が強く吹き抜けるため、体感温度は低くなります。朝日の鑑賞や石神さんの朝参拝には、風を通さない防風ウィンドブレーカーやダウンジャケット、手袋を着用することをおすすめします。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-blue-600" />
-                快適な道路と公共交通アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-blue-600" />
+                快適な道路と公共交通アクセス</h3>
               <p>
                 車の場合は、伊勢二見鳥羽ライン・第二伊勢道路「鳥羽南・白木IC」から約15分と極めて快適。積雪や路面凍結の心配は通常不要で、ノーマルタイヤでアクセスできます。電車利用の場合は、近鉄鳥羽駅から路線バス「かもめバス」で約35分。多くの宿が鳥羽駅からの無料送迎バス（要予約・14:30〜16:30頃運行）を実施しているため、電車派の方も安心です。
               </p>
@@ -588,16 +562,12 @@ export default function MieTobaOsaatsuWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の鳥羽・相差温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の鳥羽・相差温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-blue-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-blue-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -609,10 +579,8 @@ export default function MieTobaOsaatsuWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-blue-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-blue-300" />
-              あわせて読みたい東海道・近畿の冬海幸・温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-blue-300" />
+              あわせて読みたい東海道・近畿の冬海幸・温泉特集</h3>
             <p className="text-xs sm:text-sm text-blue-200">
               冬の味覚と絶景オーシャンビュー露天風呂を堪能する厳選旅ガイド
             </p>
@@ -624,9 +592,7 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">三重・伊勢志摩</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                伊勢神宮冬至朝日＆的矢かき温泉宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">伊勢神宮冬至朝日＆的矢かき温泉宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 宇治橋鳥居から昇る冬至の奇跡の朝日と、旬を迎えるブランド的矢牡蠣を味わう旅。
               </p>
@@ -637,9 +603,7 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">愛知・南知多</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                日間賀島天然とらふぐ＆知多牛ステーキ名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">日間賀島天然とらふぐ＆知多牛ステーキ名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 伊勢湾の夕日絶景露天風呂と、冬の王様天然とらふぐフルコースを味わう休日。
               </p>
@@ -650,9 +614,7 @@ export default function MieTobaOsaatsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">和歌山・南紀白浜</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                太平洋夕陽＆幻の天然本クエ鍋名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">太平洋夕陽＆幻の天然本クエ鍋名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白良浜のパノラマ露天風呂と、コラーゲンたっぷりの天然本クエ鍋を堪能する冬旅。
               </p>

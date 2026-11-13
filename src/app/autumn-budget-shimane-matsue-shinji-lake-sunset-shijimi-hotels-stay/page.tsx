@@ -58,10 +58,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代3,000円台〜！浮いた旅費で堀川遊覧船の紅葉舟旅＆宍道湖七珍グルメ三昧へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代3,000円台〜！浮いた旅費で堀川遊覧船の紅葉舟旅＆宍道湖七珍グルメ三昧へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             城下町の情緒を残す水の都・松江は、秋になると宍道湖越しに沈む夕日が息をのむ美しさを魅せます。出雲大社への参拝拠点としても利便性が高く、駅周辺やしんじ湖温泉街には源泉掛け流しの温泉付きホテルや駅直結ホテルがリーズナブルに展開。予算を賢く節約して、松江名物の割子そばや宍道湖七珍料理を堪能しましょう。
           </p>
@@ -84,9 +82,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー4561件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              松江しんじ湖温泉　ニューアーバンホテル本館・別館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">松江しんじ湖温泉　ニューアーバンホテル本館・別館</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -143,9 +139,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1685件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              松江エクセルホテル東急
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">松江エクセルホテル東急</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -202,9 +196,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー334件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              松江アーバンホテルキュービックルーム
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">松江アーバンホテルキュービックルーム</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -261,9 +253,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー2156件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              全室源泉温泉かけ流し　松江シティホテル別館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">全室源泉温泉かけ流し　松江シティホテル別館</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -320,9 +310,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー2440件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              全室源泉温泉かけ流し　松江シティホテル本館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">全室源泉温泉かけ流し　松江シティホテル本館</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -373,10 +361,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* 予約のアドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 space-y-3">
-          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2">
-            <AlertCircle className="w-5 h-5 text-amber-600" />
-            秋の格安旅を満喫するための予約ポイント
-          </h3>
+          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2"><AlertCircle className="w-5 h-5 text-amber-600" />
+            秋の格安旅を満喫するための予約ポイント</h3>
           <ul className="text-xs md:text-sm text-amber-800/90 space-y-2 list-disc list-inside leading-relaxed">
             <li>秋の紅葉・グルメシーズンは週末を中心に満室になりやすいため、平日の宿泊や早めの予約がお得です。</li>
             <li>表示価格は各宿の最安プラン目安（税込）です。日程や人数、予約時期によって変動するため最新状況をご確認ください。</li>
@@ -391,9 +377,7 @@ export default function AutumnBudgetFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「松江：宍道湖の夕日絶景＆旬の宍道湖七珍しじみ汁！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -463,9 +447,7 @@ export default function AutumnBudgetFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「松江」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「松江」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

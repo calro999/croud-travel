@@ -258,9 +258,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <span className="inline-block bg-rose-500 text-white text-[11px] font-black px-2.5 py-0.5 rounded">
               楽天トラベル 信州・上高地特集
             </span>
-            <h3 className="text-base sm:text-lg font-black font-journal-serif">
-              松本駅前ホテル＆上高地・美ヶ原温泉が最大割引クーポン対象！
-            </h3>
+            <h3 className="text-base sm:text-lg font-black font-journal-serif">松本駅前ホテル＆上高地・美ヶ原温泉が最大割引クーポン対象！</h3>
             <p className="text-xs text-rose-200">
               直行高速バス「さわやか信州号」予約や、駅前大浴場ホテルのタイムセールをチェック。
             </p>
@@ -291,9 +289,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <div className="text-xs font-black text-rose-700 tracking-wider uppercase flex items-center gap-1">
               <span>🚊 PUBLIC TRANSIT STEP-BY-STEP</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              東京・新宿から上高地へ！公共交通の乗り継ぎステップ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">東京・新宿から上高地へ！公共交通の乗り継ぎステップ</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               電車とバスの連絡が完璧にダイヤ設計されており、初めてでも一切迷わず移動できます。
             </p>
@@ -312,9 +308,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                     </span>
                     <span className="text-xs text-rose-800 font-bold">⏱ {leg.duration}</span>
                   </div>
-                  <h3 className="font-black text-stone-900 text-base font-journal-serif">
-                    {leg.title}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base font-journal-serif">{leg.title}</h3>
                   <div className="text-xs font-bold text-stone-700 bg-rose-100/70 inline-block px-2.5 py-1 rounded">
                     区間：{leg.route}
                   </div>
@@ -345,9 +339,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <div className="text-xs font-black text-rose-700 tracking-wider uppercase">
               🚶‍♂️ HIKING HIGHLIGHTS
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              初心者でも安心！大正池〜河童橋 黄金ハイキングルート（約3.5km）
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">初心者でも安心！大正池〜河童橋 黄金ハイキングルート（約3.5km）</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               高低差がほぼなく平坦な木道が整備されているため、スニーカーと歩きやすい服装で手軽に大自然を満喫できます。
             </p>
@@ -366,9 +358,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                       {item.timeSpent}
                     </span>
                   </div>
-                  <h3 className="text-sm font-bold text-stone-900 font-journal-serif">
-                    {item.spot}
-                  </h3>
+                  <h3 className="text-sm font-bold text-stone-900 font-journal-serif">{item.spot}</h3>
                   <p className="text-xs text-stone-600 leading-relaxed">
                     {item.highlight}
                   </p>
@@ -384,9 +374,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <div className="text-xs font-black text-rose-700 tracking-wider uppercase">
               🗓️ 1 NIGHT 2 DAYS ITINERARY
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              松本城下町と上高地を両方味わう！理想の1泊2日プラン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">松本城下町と上高地を両方味わう！理想の1泊2日プラン</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               1日目は松本市内で国宝とアート、夜は駅前大浴場で寛ぎ、2日目の朝一番に上高地へ突入する究極の時間配分。
             </p>
@@ -399,9 +387,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                   <span className="bg-rose-700 text-white font-black text-xs px-3 py-1 rounded-full">
                     DAY {dIdx + 1}
                   </span>
-                  <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">
-                    {dayPlan.day}
-                  </h3>
+                  <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">{dayPlan.day}</h3>
                 </div>
 
                 <div className="relative pl-6 space-y-6 before:absolute before:left-2.5 before:top-2 before:bottom-2 before:w-0.5 before:bg-rose-200">
@@ -412,9 +398,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                         <span className="text-xs font-black text-rose-900 bg-rose-100 px-2 py-0.5 rounded border border-rose-200">
                           {event.time}
                         </span>
-                        <h4 className="text-sm md:text-base font-bold text-stone-900">
-                          {event.title}
-                        </h4>
+                        <h4 className="text-sm md:text-base font-bold text-stone-900">{event.title}</h4>
                       </div>
                       <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-0.5">
                         {event.desc}
@@ -433,9 +417,7 @@ export default function KamikochiMatsumotoCarFreePage() {
             <div className="text-xs font-black text-rose-700 tracking-wider uppercase">
               🏨 SELECTED MATSUMOTO & KAMIKOCHI HOTELS
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              松本駅前大浴場ホテル ＆ 上高地リゾートの厳選宿
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">松本駅前大浴場ホテル ＆ 上高地リゾートの厳選宿</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               朝一番の上高地線に乗車しやすい松本駅前ホテルから、憧れの上高地大自然ステイまで。
             </p>
@@ -483,9 +465,7 @@ export default function KamikochiMatsumotoCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed font-medium">
@@ -525,9 +505,7 @@ export default function KamikochiMatsumotoCarFreePage() {
         <section className="bg-stone-100 border border-stone-200 rounded-3xl p-6 md:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-xl">🧭</span>
-            <h2 className="text-base md:text-lg font-black font-journal-serif text-stone-900">
-              あわせて読みたい東京・信州の交通比較ガイド
-            </h2>
+            <h2 className="text-base md:text-lg font-black font-journal-serif text-stone-900">あわせて読みたい東京・信州の交通比較ガイド</h2>
           </div>
           <div className="pt-1">
             <Link
@@ -535,9 +513,7 @@ export default function KamikochiMatsumotoCarFreePage() {
               className="block p-5 bg-white border border-stone-200 rounded-2xl hover:border-rose-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-rose-700 font-bold mb-1">特急あずさ vs 高速バス徹底比較</div>
-              <h3 className="text-sm md:text-base font-bold text-stone-900 group-hover:text-rose-700 transition">
-                【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース
-              </h3>
+              <h3 className="text-sm md:text-base font-bold text-stone-900 group-hover:text-rose-700 transition">【東京・新宿〜松本・上高地】特急あずさ vs 直行高速バス徹底比較！片道2,500円〜行く国宝松本城＆上高地1泊2日モデルコース</h3>
               <p className="text-xs text-stone-500 mt-1 leading-relaxed">
                 新宿から松本バスターミナルへの中央高速バスと、上高地直行「さわやか信州号」、JR特急あずさの料金差・メリット・注意点を徹底解説した大人気ガイド。
               </p>

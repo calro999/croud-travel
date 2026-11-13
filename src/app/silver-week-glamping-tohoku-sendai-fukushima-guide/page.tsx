@@ -209,9 +209,7 @@ export default function SilverWeekGlampingTohokuPage() {
       <section className="bg-white border border-rose-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">TOHOKU NATURE VALUE</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            圧倒的スケールの大自然！東北グランピングが選ばれる4つの理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">圧倒的スケールの大自然！東北グランピングが選ばれる4つの理由</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             冷涼な高原気候、美肌の名湯、極上の食材が揃う東北ならではの至福トリップ。
           </p>
@@ -229,9 +227,7 @@ export default function SilverWeekGlampingTohokuPage() {
                   {item.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {item.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{item.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {item.desc}
               </p>
@@ -244,9 +240,7 @@ export default function SilverWeekGlampingTohokuPage() {
       <section className="bg-white border border-rose-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-rose-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">REGIONAL COMPARISON</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            東北ディープ大自然リゾート vs 首都圏近郊キャンプ場 徹底比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">東北ディープ大自然リゾート vs 首都圏近郊キャンプ場 徹底比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             わざわざ足を伸ばす価値がある、東北グランピングの圧倒的ポテンシャル。
           </p>
@@ -284,9 +278,7 @@ export default function SilverWeekGlampingTohokuPage() {
       <section className="space-y-6" aria-labelledby="tohoku-hotels-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">SELECTED TOHOKU RESORTS</span>
-          <h2 id="tohoku-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            秋風薫る杜の楽園！東北・北関東エリアの厳選グランピング＆ロッジ4選
-          </h2>
+          <h2 id="tohoku-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">秋風薫る杜の楽園！東北・北関東エリアの厳選グランピング＆ロッジ4選</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             気仙沼大島のオーシャンビュー、裏磐梯の沼尻高原温泉ロッジ、安比高原リゾートまで。
           </p>
@@ -334,9 +326,7 @@ export default function SilverWeekGlampingTohokuPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "東北の豊かな自然に包まれた特別なアウトドアステイ。地元の滋味あふれる食材と天然温泉で心ほどける休日をお過ごしください。"}
@@ -373,18 +363,14 @@ export default function SilverWeekGlampingTohokuPage() {
       <section className="bg-white rounded-3xl border border-rose-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            東北グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">東北グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-rose-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-rose-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -395,9 +381,7 @@ export default function SilverWeekGlampingTohokuPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-stone-800">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🚄</span> 東北旅行のアクセス＆予算攻略おすすめガイド
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">東北旅行のアクセス＆予算攻略おすすめガイド</h3>
         <p className="text-xs text-stone-300">
           仙台・福島・北東北への移動手段や費用節約に役立つ実践ガイドをチェック。
         </p>

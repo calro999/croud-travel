@@ -58,10 +58,8 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            宿泊代5,000円台！浮いた予算で戸隠神社五社巡り＆名店「うずら家」の新そばへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            宿泊代5,000円台！浮いた予算で戸隠神社五社巡り＆名店「うずら家」の新そばへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             東京から北陸新幹線で約1時間20分の長野駅。上高地や志賀高原へのアクセス拠点としても抜群です。長野駅周辺のシティホテルは、天然温泉大浴場付きや格式ある老舗ホテルが5,000円台〜6,000円台で予約可能。浮かせた宿泊費で、戸隠名物のざるそばや信州牛の朴葉味噌焼き、搾りたてのリンゴジュースを存分に味わいましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（静寂快適）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              シティガーデン　ホテル信濃路
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">シティガーデン　ホテル信濃路</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>長野</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（名門の風格）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＴＨＥ　ＳＡＩＨＯＫＵＫＡＮ　ＨＯＴＥＬ（長野ホテル犀北館）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＴＨＥ　ＳＡＩＨＯＫＵＫＡＮ　ＨＯＴＥＬ（長野ホテル犀北館）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>長野</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉満喫）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉ホテルリブマックスＰＲＥＭＩＵＭ長野駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>長野</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆サウナ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルナガノアベニュー
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルナガノアベニュー</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>長野</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ハイクオリティJAL）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルＪＡＬシティ長野
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルＪＡＬシティ長野</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>長野</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の善光寺・長野観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の善光寺・長野観光を満喫するヒント</h2>
           <p className="text-sm text-emerald-100 leading-relaxed">
             善光寺本堂の朝事（あさじ・お朝事）は早朝の澄んだ空気の中で行われ、住職から頭を撫でて功徳を授かる「お数珠頂戴」は感動の体験。秋は善光寺仲見世通りで蒸したてのおやきやりんごソフトクリームを味わい、足を伸ばして戸隠神社の杉並木と紅葉を巡るのが王道コースです。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「長野：国宝善光寺の秋紅葉と信州新そば・完熟リンゴ！5,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 長野で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">長野で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

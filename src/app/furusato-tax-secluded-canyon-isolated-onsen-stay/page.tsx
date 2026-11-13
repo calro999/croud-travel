@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>都会のノイズを完全に遮断。轟く渓流の音と原生林の静寂に還る至高の湯守宿</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>都会のノイズを完全に遮断。轟く渓流の音と原生林の静寂に還る至高の湯守宿</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             深い峡谷を縫うように走るトロッコ列車や、切り立った断崖にかかる吊り橋を渡った先。日常のあらゆる喧騒や情報から切り離された「秘境の一軒宿」には、地球の鼓動を直接肌で感じる野生の贅沢があります。岩肌から滾々と湧き出る新鮮な自家源泉、木々のざわめきと野鳥のさえずり。楽天ふるさと納税を活用すれば、寄付額の最大30%が宿泊クーポンとして還元され、一生に一度は訪れたい憧れの秘境宿を賢くお得に予約できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    俗世を離れた大峡谷の川床露天風呂やケーブルカー野天風呂
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">俗世を離れた大峡谷の川床露天風呂やケーブルカー野天風呂</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     谷底へ向かう専用ケーブルカーで降りる秘湯露天風呂や、エメラルドグリーンの渓谷美を間近に臨む野天風呂。自然と一体化する圧倒的な開放感を味わえます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    山菜・岩魚・ジビエなど、山の恵みと清流の幸を味わう山里料理
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">山菜・岩魚・ジビエなど、山の恵みと清流の幸を味わう山里料理</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     宿の主人が朝採りした旬の山菜やキノコ、炭火でじっくり香ばしく焼き上げる川魚の塩焼き。素朴でありながら身体の芯まで染み渡る滋味あふれる郷土会席です。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税で過疎や豪雪と戦う秘境自治体・名湯文化の維持に貢献
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税で過疎や豪雪と戦う秘境自治体・名湯文化の維持に貢献</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     交通アクセスの厳しい秘境を維持し続ける地域の温泉文化やインフラ保全を寄付で応援しながら、実質自己負担2,000円でプレミアムな滞在を楽しめます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="kurobe_canyon" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>富山県黒部市ふるさと納税：黒部峡谷・宇奈月温泉からトロッコ列車で巡る険峰峡谷の一軒宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>富山県黒部市ふるさと納税：黒部峡谷・宇奈月温泉からトロッコ列車で巡る険峰峡谷の一軒宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       日本一深いV字峡谷として名高い黒部峡谷。トロッコ電車の車窓から望むエメラルドグリーンの黒部川と紅葉・新緑の断崖絶壁。峡谷沿いに湧く無色透明の名湯と、富山湾のキトキト鮮魚・白えび料理を堪能できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              黒部峡谷・宇奈月温泉　ホテル黒部
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">黒部峡谷・宇奈月温泉　ホテル黒部</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               『宇奈月温泉随一の眺望』四季折々の地元食材と透明な美肌湯を堪能
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              宇奈月温泉　延楽
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">宇奈月温泉　延楽</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               季節のお料理と樹齢四百年の総檜露天風呂。露天風呂付き客室でゆったり自分時間。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               おかげさまで連続受賞！「楽天トラベル 日本の宿アワード2025 TOP47」♪
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="iya_canyon" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>徳島県三好市ふるさと納税：日本三大秘境祖谷・かずら橋とケーブルカーで登る天空露天風呂</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>徳島県三好市ふるさと納税：日本三大秘境祖谷・かずら橋とケーブルカーで登る天空露天風呂</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       平家落人伝説が息づく四国山地の奥座敷。宿専用のケーブルカーで山肌を登った先にある展望露天風呂から見下ろす祖谷渓の雲海と大渓谷は圧巻。名物「祖谷そば」やアメゴの塩焼きに舌鼓を打ちます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              新祖谷温泉　ホテルかずら橋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">新祖谷温泉　ホテルかずら橋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="geto_canyon" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>岩手県北上市・深山秘湯ふるさと納税：ブナ原生林と栗駒山麓に抱かれる自家源泉かけ流し宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>岩手県北上市・深山秘湯ふるさと納税：ブナ原生林と栗駒山麓に抱かれる自家源泉かけ流し宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       みちのくの深い森に抱かれた歴史ある湯治場。足元から自噴する野趣あふれる湯舟や木造の素朴な佇まいの中で、日頃酷使した心と身体を自然本来のリズムへと優しくリセットできます。
                     </p>
@@ -437,9 +411,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              白布温泉　中屋別館　不動閣
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">白布温泉　中屋別館　不動閣</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【クーポン配布中】白布温泉で唯一の、渓谷を望む露天風呂！米沢牛と里山の幸に舌鼓！
                             </p>
@@ -489,9 +461,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              須川高原温泉
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">須川高原温泉</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               何もいらない、この湯けむりと暖かい陽ざし、植物を揺らす風が少しあればいい、そこが癒しの宿須川高原温泉
                             </p>
@@ -597,9 +567,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒部峡谷・宇奈月温泉 ホテル黒部を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒部峡谷・宇奈月温泉 ホテル黒部を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -632,9 +600,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒部峡谷・宇奈月温泉 ホテル黒部の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒部峡谷・宇奈月温泉 ホテル黒部の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -729,9 +695,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -810,9 +774,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリートで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秘境・渓谷の一軒宿×ふるさと納税厳選ガイド黒部峡谷・祖谷・みちのく深山の完全遮断リトリートで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

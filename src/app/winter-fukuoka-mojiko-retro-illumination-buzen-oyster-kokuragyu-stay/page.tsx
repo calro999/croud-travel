@@ -249,9 +249,7 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Destination Analysis</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              なぜ冬の門司港・小倉が旅人を魅了するのか？海峡イルミネーションと冬の港町美食文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ冬の門司港・小倉が旅人を魅了するのか？海峡イルミネーションと冬の港町美食文化</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               大正浪漫の赤煉瓦建築が放つノスタルジーと、関門海峡が育む奇跡の冬幸
             </p>
@@ -310,9 +308,7 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-amber-400 pl-4">
             <span className="text-amber-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆海峡気候ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆海峡気候ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -346,16 +342,12 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の門司港・小倉で外せない三大見どころ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の門司港・小倉で外せない三大見どころ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-amber-600" /> 門司港レトロ地区
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-600" /> 門司港レトロ地区</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 旧門司税関、旧大阪商船、国際友好記念図書館など、大正浪漫の赤煉瓦建築が連なるエリア。跳ね橋ブルーウィングもじからは関門橋と海峡を行き交う船を一望できます。
               </p>
@@ -365,9 +357,7 @@ export default function FukuokaMojikoKokuraPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> 小倉城＆八坂神社
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> 小倉城＆八坂神社</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 細川忠興が築城した名城・小倉城。天守閣最上階からは小倉市街を一望。隣接する八坂神社は小倉の総鎮守として新春初詣客で大いに賑わい、厄除け開運を祈願できます。
               </p>
@@ -377,9 +367,7 @@ export default function FukuokaMojikoKokuraPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" /> 関門海峡＆唐戸市場（連絡船）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" /> 関門海峡＆唐戸市場（連絡船）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 門司港桟橋から関門連絡船に乗ればわずか約5分で対岸の下関・唐戸市場へ。冬の荒波を進むミニクルーズを楽しみつつ、下関本場のふぐ汁や握り寿司を堪能できます。
               </p>
@@ -394,9 +382,7 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              門司港レトロ＆小倉の冬ステイを彩る厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">門司港レトロ＆小倉の冬ステイを彩る厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               海峡夜景・イルミネーション展望・大浴場・極上グルメを兼ね備えた名宿
             </p>
@@ -432,9 +418,7 @@ export default function FukuokaMojikoKokuraPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -492,9 +476,7 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の門司港・小倉を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の門司港・小倉を満喫する1泊2日モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               大正レトロ散策、イルミネーション、牡蠣小屋、小倉城を巡る充実プラン
             </p>
@@ -502,10 +484,8 @@ export default function FukuokaMojikoKokuraPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
-                門司港レトロ洋館めぐりと浪漫灯彩イルミネーション
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
+                門司港レトロ洋館めぐりと浪漫灯彩イルミネーション</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:30 JR門司港駅に到着</strong>：大正3年創建の木造重文駅舎を見学。駅前広場からレトロ散策へ出発。</li>
                 <li><strong className="text-slate-900">12:30 名物「焼きカレー」ランチ</strong>：老舗喫茶店でスパイスと熱々とろけるチーズが絶妙な元祖焼きカレーを堪能。</li>
@@ -516,10 +496,8 @@ export default function FukuokaMojikoKokuraPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
-                小倉城初詣と旦過市場・焼きうどん探訪
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
+                小倉城初詣と旦過市場・焼きうどん探訪</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:30 ホテルで朝食</strong>：博多明太子やがめ煮など九州の郷土の味覚をバイキングで楽しむ。</li>
                 <li><strong className="text-slate-900">09:45 JR鹿児島本線で小倉へ移動</strong>：約13分で小倉駅へ到着。荷物を預けて街歩きへ。</li>
@@ -535,16 +513,12 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              門司港・小倉へのアクセスと冬の海風対策
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">門司港・小倉へのアクセスと冬の海風対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-600" /> 新幹線・電車・飛行機
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" /> 新幹線・電車・飛行機</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">新幹線</strong>：山陽新幹線「小倉駅」下車。小倉駅からJR鹿児島本線で門司港駅まで快速・普通で直通約13〜15分。</li>
                 <li><strong className="text-slate-900">博多から</strong>：JR鹿児島本線の特急ソニック・きらめきで小倉まで約40分、新幹線なら約15分。</li>
@@ -553,9 +527,7 @@ export default function FukuokaMojikoKokuraPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-indigo-600" /> 海峡の強い季節風と防寒装備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-indigo-600" /> 海峡の強い季節風と防寒装備</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">海風への備え</strong>：関門海峡周辺は玄界灘からの北西季節風が強く吹き付けます。体感温度は氷点下近くまで下がることがあるため、防風仕様のコートやダウン、マフラー、手袋が必須です。</li>
                 <li><strong className="text-slate-900">マイカードライブ</strong>：関門橋（関門自動車道）または関門トンネル経由で本州・下関へ車で渡るのも簡単。路面凍結は稀ですが強風時の運転には注意しましょう。</li>
@@ -568,17 +540,13 @@ export default function FukuokaMojikoKokuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の門司港・小倉旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の門司港・小倉旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -589,10 +557,8 @@ export default function FukuokaMojikoKokuraPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600" />
-            あわせて読みたい！九州の冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" />
+            あわせて読みたい！九州の冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-fukuoka-dazaifu-tenmangu-hatsumode-futsukaichi-beef-stay/"

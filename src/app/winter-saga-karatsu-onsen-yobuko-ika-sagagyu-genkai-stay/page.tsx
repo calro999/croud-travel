@@ -248,12 +248,10 @@ export default function WinterSagaKaratsuPage() {
             11月・12月 冬の玄界灘・呼子活イカ＆佐賀牛美食特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月佐賀・唐津呼子温泉】冬の玄界灘と呼子活イカ
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月佐賀・唐津呼子温泉】冬の玄界灘と呼子活イカ
             <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
               極上佐賀牛ステーキ＆唐津城パノラマ・唐津焼の器で味わう海辺美食名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、佐賀県北西部に位置する城下町・唐津と港町・呼子は、玄界灘の冬の荒波が育む極上の海の幸と、唐津城や名勝「虹の松原」を望む絶景が旅人を魅了します。初冬の透き通る身の甘みとコリコリの歯ごたえがたまらない名物「呼子の活イカ（アオリイカ・ヤリイカ）」の透明な姿造りや後造りのサクサク天ぷら、日本屈指のサシの美しさを誇るブランド黒毛和牛「佐賀牛」のステーキ。伝統の「唐津焼」の温もりあふれる器に盛られる料理の数々と、唐津湾の汐湯や天然温泉露天風呂。冬の味覚と歴史・文化が息づく厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterSagaKaratsuPage() {
             <Landmark className="w-4 h-4" />
             唐津・呼子 初冬の歴史と海の情景
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            玄界灘の白波と唐津城の威容。透き通る活イカと佐賀牛を伝統の器で愛でる冬の旅
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">玄界灘の白波と唐津城の威容。透き通る活イカと佐賀牛を伝統の器で愛でる冬の旅</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               佐賀県の北西端、玄界灘の豊かな海原に面した「唐津（からつ）」と「呼子（よぶこ）」。古くは松浦党の根拠地として、江戸時代には唐津藩六万石の城下町として繁栄し、風光明媚な海岸線と格式ある文化が今に息づいています。
@@ -308,9 +304,7 @@ export default function WinterSagaKaratsuPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の唐津・呼子を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の唐津・呼子を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               冬の玄界灘の活魚と最高峰黒毛和牛、名工の器と海辺の絶景温泉
             </p>
@@ -321,9 +315,7 @@ export default function WinterSagaKaratsuPage() {
               <div className="w-12 h-12 rounded-xl bg-blue-50 flex items-center justify-center text-blue-600">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                透き通る本場呼子の活イカ姿造り
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">透き通る本場呼子の活イカ姿造り</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 冬に甘みが増すアオリイカとヤリイカ。コリコリの食感と後造りの熱々サクサク天ぷら、名物イカしゅうまいの至高の美味。
               </p>
@@ -333,9 +325,7 @@ export default function WinterSagaKaratsuPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                最高峰ブランド「佐賀牛」＆唐津焼
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">最高峰ブランド「佐賀牛」＆唐津焼</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 極めて厳しい基準をクリアしたA5佐賀牛ステーキ。中里太郎右衛門窯など400年の歴史を誇る名陶・唐津焼の器で愛でる会席。
               </p>
@@ -345,9 +335,7 @@ export default function WinterSagaKaratsuPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Eye className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                虹の松原・唐津城パノラマ絶景露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">虹の松原・唐津城パノラマ絶景露天</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 屋上インフィニティ温泉露天風呂や唐津城の天守を見晴らす客室。冬の澄み渡る玄界灘と夕暮れの海景に癒されるひととき。
               </p>
@@ -361,9 +349,7 @@ export default function WinterSagaKaratsuPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-blue-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              佐賀・唐津呼子温泉の海辺名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">佐賀・唐津呼子温泉の海辺名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,12 +397,10 @@ export default function WinterSagaKaratsuPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-blue-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug hover:text-blue-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 inline" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -474,9 +458,7 @@ export default function WinterSagaKaratsuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-blue-100">
             <Compass className="w-6 h-6 text-blue-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の佐賀・唐津呼子温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の佐賀・唐津呼子温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -506,33 +488,25 @@ export default function WinterSagaKaratsuPage() {
             <Utensils className="w-4 h-4" />
             玄界灘と城下町が誇る美食
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold leading-snug">
-            透明な甘みととろける霜降り。初冬の唐津・呼子で味わい尽くす二大味覚
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold leading-snug">透明な甘みととろける霜降り。初冬の唐津・呼子で味わい尽くす二大味覚</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-sky-300" />
-                呼子名物・透明活イカ姿造り
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Waves className="w-4 h-4 text-sky-300" />
+                呼子名物・透明活イカ姿造り</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 生簀から直行する鮮度抜群の活イカ。ガラス細工のように透き通る身のコリコリとした歯ごたえと濃厚な甘み。残ったゲソや耳は揚げたて熱々の天ぷらにして、素材の旨味を余すところなく味わえます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-amber-300" />
-                最高峰ブランド「佐賀牛」ステーキ
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Utensils className="w-4 h-4 text-amber-300" />
+                最高峰ブランド「佐賀牛」ステーキ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 全国屈指の厳しい基準を誇る佐賀牛。きめ細やかな霜降り「艶さし」と柔らかな赤身が特徴で、鉄板焼きや陶板焼きで香ばしく焼き上げると、上品な甘みと豊かな肉汁が口いっぱいに広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5">
-                <Landmark className="w-4 h-4 text-teal-300" />
-                唐津焼の器で愛でる会席美
-              </h3>
+              <h3 className="font-bold text-sky-300 text-base flex items-center gap-1.5"><Landmark className="w-4 h-4 text-teal-300" />
+                唐津焼の器で愛でる会席美</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 「料理は器の着物」と北大路魯山人が語ったように、土の温もりと力強い筆致を持つ唐津焼は料理を最高に引き立てます。名工の器に盛られた玄界灘の海の幸を五感で楽しむ贅沢な食体験です。
               </p>
@@ -546,15 +520,11 @@ export default function WinterSagaKaratsuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の唐津・呼子 交通アクセス＆散策のポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の唐津・呼子 交通アクセス＆散策のポイント</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-blue-600" />
-                福岡（博多・天神・空港）からのスムーズなアクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-blue-600" />
+                福岡（博多・天神・空港）からのスムーズなアクセス</h3>
               <p>
                 福岡空港駅または博多駅から地下鉄空港線・JR筑肥線直通電車で唐津駅まで約1時間15〜20分。博多・天神発の高速バス「からつ号」なら約1時間10分です。
               </p>
@@ -564,10 +534,8 @@ export default function WinterSagaKaratsuPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                玄界灘の冬の海風とおすすめ観光順路
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                玄界灘の冬の海風とおすすめ観光順路</h3>
               <p>
                 冬の玄界灘は北西の季節風が吹くため、海沿いや呼子大橋、波戸岬、唐津城天守周辺では風を通さないダウンジャケットやウインドブレーカーの着用がおすすめです。
               </p>
@@ -584,16 +552,12 @@ export default function WinterSagaKaratsuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の佐賀・唐津呼子旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の佐賀・唐津呼子旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-blue-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-blue-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -605,10 +569,8 @@ export default function WinterSagaKaratsuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-blue-950 to-indigo-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-sky-300" />
-              あわせて読みたい九州の冬名湯・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-sky-300" />
+              あわせて読みたい九州の冬名湯・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-sky-200">
               冬の味覚や名湯、ブランド牛を堪能する九州各地の厳選旅ガイド
             </p>
@@ -620,9 +582,7 @@ export default function WinterSagaKaratsuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                武雄温泉の朱塗り楼門と佐賀牛ステーキ名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">武雄温泉の朱塗り楼門と佐賀牛ステーキ名宿</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 国重文の楼門と1300年の名湯・佐賀牛会席を満喫。
               </p>
@@ -633,9 +593,7 @@ export default function WinterSagaKaratsuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・嬉野温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                嬉野温泉の日本三大美肌の湯と温泉湯豆腐宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">嬉野温泉の日本三大美肌の湯と温泉湯豆腐宿</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 とろける温泉湯どうふと重曹泉の滑らかな湯ざわり。
               </p>
@@ -646,9 +604,7 @@ export default function WinterSagaKaratsuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福岡・水郷柳川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                柳川の冬のこたつ舟川下りと元祖うなぎせいろ蒸し
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">柳川の冬のこたつ舟川下りと元祖うなぎせいろ蒸し</h4>
               <p className="text-[11px] text-sky-100 line-clamp-2">
                 冬の掘割巡りと城下町名宿・博多和牛会席を堪能。
               </p>

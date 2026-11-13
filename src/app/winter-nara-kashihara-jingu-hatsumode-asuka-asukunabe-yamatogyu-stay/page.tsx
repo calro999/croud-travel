@@ -303,10 +303,8 @@ export default function NaraKashiharaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の橿原・明日香旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の橿原・明日香旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
               <span className="font-bold text-amber-950 block mb-1">① 橿原神宮 新春初詣の混雑回避</span>
@@ -344,9 +342,7 @@ export default function NaraKashiharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">HISTORIC HEART OF YAMATO</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                万葉の山並みに朝霧が漂い、白木の社殿に新春の神風が吹き渡る
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">万葉の山並みに朝霧が漂い、白木の社殿に新春の神風が吹き渡る</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function NaraKashiharaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sunrise className="w-4 h-4 text-amber-700" /> 橿原神宮 新春大初詣
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Sunrise className="w-4 h-4 text-amber-700" /> 橿原神宮 新春大初詣</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 広大な境内と荘厳な白木社殿。第一代神武天皇を祀り、開運延寿・国家安泰を祈願する関西屈指の霊場。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-amber-700" /> 冬の明日香路・史跡巡礼
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-amber-700" /> 冬の明日香路・史跡巡礼</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 石舞台古墳、飛鳥寺、キトラ古墳。観光客が落ち着いた冬こそ、古代の息吹を静かに感じ取る絶好の時。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-700" /> 名物「飛鳥鍋」と大和牛
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-700" /> 名物「飛鳥鍋」と大和牛</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 牛乳仕立ての優しい旨味スープで煮込む地鶏と冬野菜。鎌倉時代から続く極上大和牛のすき焼きも絶品。
               </p>
@@ -398,9 +388,7 @@ export default function NaraKashiharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest block">ANCIENT GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                宮廷文化の知恵「飛鳥鍋」と、芳醇な霜降りを誇る「大和牛」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">宮廷文化の知恵「飛鳥鍋」と、芳醇な霜降りを誇る「大和牛」</h2>
             </div>
           </div>
 
@@ -425,9 +413,7 @@ export default function NaraKashiharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">HISTORIC EXPLORATION</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                石舞台の巨石と今井町の白壁格子、冬枯れが際立たせる古都の美
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">石舞台の巨石と今井町の白壁格子、冬枯れが際立たせる古都の美</h2>
             </div>
           </div>
 
@@ -446,10 +432,8 @@ export default function NaraKashiharaWinterPage() {
 
         {/* Section 4: Travel Practical Tips */}
         <section className="bg-slate-100/80 rounded-2xl p-6 md:p-8 border border-slate-200 space-y-4">
-          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-            <span>冬の橿原・明日香 旅の実践アドバイス（気候・服装・散策移動）</span>
-          </h2>
+          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+            <span>冬の橿原・明日香 旅の実践アドバイス（気候・服装・散策移動）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
             <div>
               <strong className="block text-slate-900 font-bold mb-1">【気温と服装】</strong>
@@ -468,9 +452,7 @@ export default function NaraKashiharaWinterPage() {
             <span className="text-xs font-black text-amber-800 uppercase tracking-widest bg-amber-100 px-3 py-1 rounded-full inline-block">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              橿原神宮初詣＆飛鳥路散策を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">橿原神宮初詣＆飛鳥路散策を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。橿原神宮駅前の温泉大浴場ホテルから、最上階スカイスパのモダンホテル、文化財古民家の一棟貸しまで厳選しました。
             </p>
@@ -510,11 +492,9 @@ export default function NaraKashiharaWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-amber-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -580,19 +560,15 @@ export default function NaraKashiharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">MODEL ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                橿原神宮初詣＆飛鳥路散策 1泊2日冬の黄金モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">橿原神宮初詣＆飛鳥路散策 1泊2日冬の黄金モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                古代史のロマンあふれる明日香村を巡り、熱々の飛鳥鍋へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                古代史のロマンあふれる明日香村を巡り、熱々の飛鳥鍋へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:00 近鉄橿原神宮前駅に到着</strong><br />
                 駅構内のロッカーまたはホテルに手荷物を預け、周遊バスまたは電動アシスト自転車で明日香村へ出発。
@@ -609,10 +585,8 @@ export default function NaraKashiharaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                橿原神宮で清らかな新春祈願、今井町の町並み散策へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                橿原神宮で清らかな新春祈願、今井町の町並み散策へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:00 朝の澄んだ空気の中、橿原神宮へ初詣</strong><br />
                 畝傍山を背にした壮大な外拝殿前へ。玉砂利を踏む音だけが響く静寂の中、新年の開運と家族の平安を祈願。
@@ -637,19 +611,15 @@ export default function NaraKashiharaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                橿原・明日香 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">橿原・明日香 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>

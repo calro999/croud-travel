@@ -96,7 +96,7 @@ export default function ArticlePage() {
       {/* 目次インデックス */}
       <section className="max-w-4xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-stone-100 p-5 rounded-xl border border-stone-200">
-          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2"><span>📑</span> 本記事でご紹介する厳選ホテル</h2>
+          <h2 className="text-base font-bold text-stone-900 mb-3 flex items-center gap-2">本記事でご紹介する厳選ホテル</h2>
           <ul className="space-y-2 text-sm text-stone-700">
             <li><a href="#hotel-1" className="text-amber-800 hover:underline">▶ 1. 天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ）（★4.51 / 最低目安：5,650円〜）</a></li>
             <li><a href="#hotel-2" className="text-amber-800 hover:underline">▶ 2. 天然温泉　剱の湯　ドーミーイン富山（★4.37 / 最低目安：5,650円〜）</a></li>
@@ -123,9 +123,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第1位</span>
               <span className="text-xs text-stone-500 font-medium">富山県 富山市総曲輪3-9-周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">天然温泉　剱の湯　御宿　野乃富山（ドーミーイン・御宿野乃　ホテルズグループ）</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.51 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -147,7 +145,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>全館畳敷きの和風ホテル！天然温泉檜風呂付客室もご用意☆ご当地逸品料理「海鮮丼」</span></li>
               </ul>
@@ -182,9 +180,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第2位</span>
               <span className="text-xs text-stone-500 font-medium">富山県 富山市大手町4-8周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　剱の湯　ドーミーイン富山
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">天然温泉　剱の湯　ドーミーイン富山</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.37 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -206,7 +202,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>リフレッシュオープン♪男性大浴場の高温サウナには「オートロウリュ」を新たに導入</span></li>
               </ul>
@@ -241,9 +237,7 @@ export default function ArticlePage() {
               <span className="bg-amber-800 text-white text-xs font-bold px-2.5 py-1 rounded">第3位</span>
               <span className="text-xs text-stone-500 font-medium">富山県 射水市三ケ3967-周辺</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">
-              天然温泉　東風の湯　スーパーホテル富山・射水
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-2">天然温泉　東風の湯　スーパーホテル富山・射水</h2>
             <div className="flex flex-wrap items-center gap-4 text-sm mb-4">
               <span className="text-amber-600 font-bold flex items-center gap-1 text-base">
                 ★ 4.46 <span className="text-xs text-stone-500 font-normal">（楽天トラベル高評価）</span>
@@ -265,7 +259,7 @@ export default function ArticlePage() {
             </div>
 
             <div className="bg-stone-50 rounded-xl p-4 sm:p-5 mb-6 border border-stone-100">
-              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5"><span>🌟</span> ひとり滞在・出張で選ばれる理由</h3>
+              <h3 className="text-sm font-bold text-stone-900 mb-2 flex items-center gap-1.5">ひとり滞在・出張で選ばれる理由</h3>
               <ul className="text-xs sm:text-sm text-stone-700 space-y-1.5">
                     <li className="flex items-start gap-2"><span className="text-amber-600 font-bold">✓</span><span>小杉駅北口より徒歩1分　無料の健康朝食ビュッフェ&男女別天然温泉完備</span></li>
               </ul>
@@ -298,9 +292,7 @@ export default function ArticlePage() {
       {/* 現地滞在TIPS */}
       <section id="area-tips" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-white p-6 sm:p-8 rounded-2xl border border-stone-200 shadow-sm">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">
-            <span>💡</span> 富山出張・一人滞在を深める現地TIPS
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-200 pb-3">富山出張・一人滞在を深める現地TIPS</h2>
           <div className="grid sm:grid-cols-3 gap-6">
             <div className="space-y-2">
               <h3 className="font-bold text-stone-900 text-sm sm:text-base">富山駅「とやま方舟」や駅前寿司処での富山湾鮨</h3>
@@ -321,22 +313,18 @@ export default function ArticlePage() {
       {/* FAQ セクション */}
       <section id="faq" className="max-w-4xl mx-auto px-4 sm:px-6 mt-16">
         <div className="bg-stone-100 p-6 sm:p-8 rounded-2xl border border-stone-200">
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3"><span>❓</span> 滞在に関するよくある質問（FAQ）</h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2 border-b border-stone-300 pb-3">滞在に関するよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>富山市内で天然温泉とサウナ、朝食のクオリティが最も高い宿は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>富山市内で天然温泉とサウナ、朝食のクオリティが最も高い宿は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「天然温泉 剱の湯 御宿 野乃富山」は全館畳敷きの和風プレミアム。自家源泉の天然温泉大浴場、セルフロウリュサウナ、豪華海鮮朝食が絶賛されています。
               </p>
             </div>
             <div className="bg-white p-4 sm:p-5 rounded-xl border border-stone-200">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                <span className="text-amber-700 font-bold">Q.</span>
-                <span>市内電車（トラム）でアクセスしやすくビジネスに便利な宿は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-700 font-bold">Q.</span>
+                <span>市内電車（トラム）でアクセスしやすくビジネスに便利な宿は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 「天然温泉 剱の湯 ドーミーイン富山」は市内電車「大手町」電停すぐ。天然温泉大浴場とサウナ、名物夜鳴きそばを完備しています。
               </p>
@@ -364,9 +352,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 剱の湯 御宿 野乃富山を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 剱の湯 御宿 野乃富山を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

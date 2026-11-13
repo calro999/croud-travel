@@ -294,10 +294,8 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-cyan-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の愛媛・南予旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-cyan-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の愛媛・南予旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-cyan-50/60 p-4 rounded-xl border border-cyan-100">
                 <span className="font-bold text-cyan-900 block mb-1">① 宇和島城現存天守と城下町</span>
@@ -320,9 +318,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest block">SOUTH EHIME WINTER GUIDE</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                なぜ11〜1月の南予・宇和島なのか？冬こそ輝く歴史と海の恵み
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">なぜ11〜1月の南予・宇和島なのか？冬こそ輝く歴史と海の恵み</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
@@ -340,43 +336,33 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
 
           {/* Section: Spots to visit */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-10 space-y-6">
-            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-cyan-600" />
-              <span>冬の南予・宇和島＆八幡浜で絶対に訪れたい見どころ</span>
-            </h3>
+            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-600" />
+              <span>冬の南予・宇和島＆八幡浜で絶対に訪れたい見どころ</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-cyan-900 flex items-center gap-1.5">
-                  <Building className="w-4 h-4 text-cyan-600" />
-                  <span>宇和島城（現存十二天守）と天赦園</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-cyan-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-cyan-600" />
+                  <span>宇和島城（現存十二天守）と天赦園</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   標高約74mの丘陵に建つ現存天守。城山全体が国の史跡に指定され、珍しい植物が生い茂る自然の宝庫です。天守からは市街と宇和海がパノラマで広がり、冬の澄んだ空気感は格別。麓にある「天赦園（てんしゃえん）」は伊達宗紀が隠居所として造営した名園で、池の周りの竹林や冬景色が静かな癒やしを与えてくれます。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-blue-900 flex items-center gap-1.5">
-                  <Anchor className="w-4 h-4 text-blue-600" />
-                  <span>八幡浜港と「道の駅 八幡浜みなっと」</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-blue-900 flex items-center gap-1.5"><Anchor className="w-4 h-4 text-blue-600" />
+                  <span>八幡浜港と「道の駅 八幡浜みなっと」</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   四国有数の魚市場を擁する八幡浜港。「みなっと」には、その日水揚げされたばかりの鮮魚が並ぶ「どーや市場」や、名物八幡浜ちゃんぽんを味わえるカフェ、柑橘の直売所が揃います。冬は寒サバやアジ、太刀魚が脂ノリ抜群で、お土産の買い出しや海鮮ランチに最適なスポットです。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5">
-                  <Utensils className="w-4 h-4 text-amber-600" />
-                  <span>本場宇和島鯛めし・ほづみ亭とかどや</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5"><Utensils className="w-4 h-4 text-amber-600" />
+                  <span>本場宇和島鯛めし・ほづみ亭とかどや</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   宇和島市内に本店を構える郷土料理の老舗。熱々のご飯に、出汁タレと生卵をしっかり混ぜ合わせた鯛の切り身をのせて豪快にかき込む体験は、現地でしか味わえない感動です。郷土料理「ふくめん（糸こんにゃくに紅白の鯛そぼろなどを彩った料理）」や「さつま汁」との食べ比べもおすすめ。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5">
-                  <Flower2 className="w-4 h-4 text-emerald-600" />
-                  <span>段々畑の冬景観と黄金色の真穴みかん</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5"><Flower2 className="w-4 h-4 text-emerald-600" />
+                  <span>段々畑の冬景観と黄金色の真穴みかん</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   「耕して天に至る」と称される宇和海沿岸の石積みの段々畑。11月〜12月には山肌一面が鮮やかなオレンジ色のみかんで埋め尽くされます。「日の丸みかん」や「真穴（まあな）みかん」は全国屈指の糖度を誇るブランド。海岸線を走るドライブコースからは、青い海と黄金のみかん畑のコントラストが楽しめます。
                 </p>
@@ -388,9 +374,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                宇和島＆八幡浜・南予を満喫する厳選ホテル・宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">宇和島＆八幡浜・南予を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
@@ -422,9 +406,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -464,9 +446,7 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！宇和島城と本場鯛めし・八幡浜港を巡る冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！宇和島城と本場鯛めし・八幡浜港を巡る冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-cyan-200 ml-4 pl-6 space-y-8 text-sm">
@@ -519,10 +499,8 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-amber-50/70 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>冬（11・12・1月）の南予旅行・知っておきたいお役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>冬（11・12・1月）の南予旅行・知っておきたいお役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-amber-950">
               <div className="bg-white/80 p-4 rounded-xl border border-amber-100">
                 <strong className="block mb-1 text-amber-900 font-bold">・宇和島城登城時の足元と服装</strong>
@@ -547,18 +525,14 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                宇和島＆八幡浜・南予の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">宇和島＆八幡浜・南予の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-cyan-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -569,10 +543,8 @@ export default function EhimeUwajimaYawatahamaWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              <span>四国・愛媛および冬の目的別おすすめ特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              <span>四国・愛媛および冬の目的別おすすめ特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-ehime-dogo-onsen-honkan-taimeshi-iyogyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-cyan-400 transition font-medium text-slate-700">
                 ♨️ 道後温泉本館と鯛めし・伊予牛名宿

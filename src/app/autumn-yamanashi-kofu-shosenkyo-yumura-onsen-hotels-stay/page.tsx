@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬〜11月中旬！日本一の渓谷美と信玄隠し湯特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月中旬！甲府昇仙峡の紅葉】<br className="hidden sm:inline" />日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月下旬〜11月中旬！甲府昇仙峡の紅葉】<br className="hidden sm:inline" />日本一の渓谷美と武田信玄の隠し湯・湯村温泉宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             国の特別名勝に指定された日本一の渓谷美「御岳昇仙峡」！天を突く奇岩「覚円峰」と名瀑「仙娥滝」を彩る深紅のモミジ。散策後は開湯1200年の武田信玄ゆかりの名湯・甲府湯村温泉へ。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              白銀の花崗岩と燃えるモミジのコントラスト。日本一の渓谷・昇仙峡の錦秋絵巻
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">白銀の花崗岩と燃えるモミジのコントラスト。日本一の渓谷・昇仙峡の錦秋絵巻</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             山梨県甲府市の北部に位置する「御岳昇仙峡（みたけしょうせんきょう）」は、国の特別名勝に指定された日本屈指の景勝地です。花崗岩が削り出されてできた断崖絶壁「覚円峰（かくえんぼう）」の白銀の岩肌と、地獄谷や仙娥滝を包み込む赤や黄色のカエデ・モミジの共演は、まさに息をのむ美しさ。遊歩道で渓谷の清流美を満喫した後は、武田信玄公の隠し湯として栄えた湯村温泉へ。自家源泉の掛け流し湯に浸かり、甲州牛や甲州ワインを味わう優雅な秋旅をお楽しみください。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】甲府昇仙峡紅葉＆湯村温泉満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】甲府昇仙峡紅葉＆湯村温泉満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-600 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と昇仙峡・湯村温泉旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と昇仙峡・湯村温泉旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

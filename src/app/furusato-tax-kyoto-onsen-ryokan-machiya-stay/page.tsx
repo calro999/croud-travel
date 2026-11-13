@@ -82,15 +82,12 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          川のせせらぎと竹林を渡る風。開湯以来愛される嵐山温泉の名湯と繊細な京料理に心酔する大人の京都旅へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">川のせせらぎと竹林を渡る風。開湯以来愛される嵐山温泉の名湯と繊細な京料理に心酔する大人の京都旅へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           千年の都・京都の中でも、平安貴族たちが風流な別荘を構え舟遊びや紅葉狩りに興じた風光明媚の地「嵐山」。名勝・渡月橋のたもとを流れる桂川（保津川）、青々と天に伸びる竹林の小径、世界遺産・天龍寺の壮麗な庭園など、日本が世界に誇る美意識が凝縮されています。そして散策の疲れを優しく包み込んでくれるのが、まろやかな肌触りで「美肌の湯」として親しまれる嵐山温泉の天然温泉。数奇屋造りの静閑な空間でいただく出汁の利いた本格京会席、保津川の渓谷美を眺めながら浸かる客室露天風呂、そして全館畳敷きの素足の心地よさは、日常を忘れさせる至高の癒やしをもたらします。本特集では、明治30年創業・渡月橋の南詰に佇み歴代の文人墨客に愛された老舗「京都 嵐山温泉 渡月亭」、保津川の清流沿いに建ち世界的ラグジュアリーと和の伝統が融合した最高峰ホテル「翠嵐 ラグジュアリーコレクションホテル 京都」、そして阪急嵐山駅徒歩1分・全館畳敷きで5つの無料貸切風呂と京都旬会席ビュッフェが評判の「京都 嵐山温泉 花伝抄」の3宿を厳選。京都市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの嵐山名門ステイを叶えましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">京都嵐山温泉＆名門宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】京都　嵐山温泉　渡月亭</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 京都嵐山温泉＆名門宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">京都嵐山温泉＆名門宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            京都　嵐山温泉　渡月亭
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">京都　嵐山温泉　渡月亭</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・創業百二十七年！名勝渡月橋南詰に佇む嵐山温泉の老舗料理旅館と本格京会席</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            翠嵐ラグジュアリーコレクションホテル京都
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">翠嵐ラグジュアリーコレクションホテル京都</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・保津川の清流を望む世界最高峰ラグジュアリー！全客室に天然温泉露天風呂完備の極上空間</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・阪急嵐山駅徒歩1分！全館畳敷き＆趣の異なる5つの無料貸切風呂と京の味覚バイキング</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

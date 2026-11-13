@@ -95,10 +95,8 @@ export default function IbusukiVsKirishimaPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>鹿児島二大温泉地・徹底比較エディトリアル</span>
           </div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-amber-50">
-            指宿 vs 霧島 どっちに泊まる？<br className="hidden sm:inline" />
-            泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の極上温泉旅
-          </h1>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-black tracking-tight leading-tight text-amber-50">指宿 vs 霧島 どっちに泊まる？<br className="hidden sm:inline" />
+            泉質・砂むし・絶景・観光スタイルで選ぶ鹿児島の極上温泉旅</h1>
           <p className="text-stone-300 text-base sm:text-lg leading-relaxed max-w-3xl">
             南国の潮風と海岸線に湧く天然砂むし温泉の「指宿（いぶすき）」か、原生林の山懐に白濁の硫黄泉が自噴する天孫降臨の地「霧島（きりしま）」か。鹿児島を代表する二大温泉地それぞれの圧倒的な魅力と、あなたに最適な宿選びを紐解きます。
           </p>
@@ -116,9 +114,7 @@ export default function IbusukiVsKirishimaPage() {
           </div>
           <div className="grid sm:grid-cols-2 gap-6 text-sm sm:text-base leading-relaxed text-stone-800">
             <div className="bg-white p-5 rounded-2xl border border-amber-200 space-y-2">
-              <h3 className="font-bold text-amber-800 flex items-center gap-1.5 text-lg">
-                <Waves className="w-5 h-5 text-amber-600" /> 指宿温泉が向いている人
-              </h3>
+              <h3 className="font-bold text-amber-800 flex items-center gap-1.5 text-lg"><Waves className="w-5 h-5 text-amber-600" /> 指宿温泉が向いている人</h3>
               <ul className="space-y-1.5 text-stone-700 text-sm">
                 <li>✔ 世界唯一の「天然砂むし温泉」で極上のデトックスと発汗を味わいたい</li>
                 <li>✔ 錦江湾や開聞岳（薩摩富士）を望む開放的なオーシャンビューが好き</li>
@@ -127,9 +123,7 @@ export default function IbusukiVsKirishimaPage() {
               </ul>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-amber-200 space-y-2">
-              <h3 className="font-bold text-emerald-800 flex items-center gap-1.5 text-lg">
-                <Mountain className="w-5 h-5 text-emerald-600" /> 霧島温泉が向いている人
-              </h3>
+              <h3 className="font-bold text-emerald-800 flex items-center gap-1.5 text-lg"><Mountain className="w-5 h-5 text-emerald-600" /> 霧島温泉が向いている人</h3>
               <ul className="space-y-1.5 text-stone-700 text-sm">
                 <li>✔ 乳白色の濃厚な硫黄泉や、原生林に佇む野趣あふれる秘湯露天が好き</li>
                 <li>✔ 鹿児島空港からのアクセスを最優先し、移動疲れなく宿に入りたい</li>
@@ -142,9 +136,7 @@ export default function IbusukiVsKirishimaPage() {
 
         {/* Detailed Comparison Table */}
         <section className="space-y-6">
-          <h2 className="text-2xl sm:text-3xl font-black text-stone-900 flex items-center gap-2">
-            <Compass className="w-7 h-7 text-amber-600" /> 指宿と霧島の徹底スペック比較
-          </h2>
+          <h2 className="text-2xl sm:text-3xl font-black text-stone-900 flex items-center gap-2"><Compass className="w-7 h-7 text-amber-600" /> 指宿と霧島の徹底スペック比較</h2>
           <div className="overflow-x-auto bg-white rounded-2xl border border-stone-200 shadow-xs">
             <table className="w-full text-left text-sm border-collapse">
               <thead>
@@ -189,9 +181,7 @@ export default function IbusukiVsKirishimaPage() {
         <section className="space-y-8">
           <div className="border-b-2 border-amber-600 pb-3">
             <div className="text-xs font-bold text-amber-700 tracking-wider uppercase">Ibusuki Hot Springs</div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              指宿温泉で泊まるべき厳選名宿3選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">指宿温泉で泊まるべき厳選名宿3選</h2>
             <p className="text-stone-600 text-sm mt-1">
               楽天トラベル公式連携の最新空室状況・宿泊プランをリアルタイム反映
             </p>
@@ -222,9 +212,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 4.48
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      鹿児島　砂むし温泉　指宿白水館
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">鹿児島　砂むし温泉　指宿白水館</h3>
                     <p className="text-amber-800 text-xs font-bold">
                       元禄風呂と松林に抱かれる日本屈指の温泉ミュージアム宿
                     </p>
@@ -272,9 +260,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 4.61
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）</h3>
                     <p className="text-amber-800 text-xs font-bold">
                       
                     </p>
@@ -322,9 +308,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 3.65
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      指宿砂むし温泉　指宿シーサイドホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">指宿砂むし温泉　指宿シーサイドホテル</h3>
                     <p className="text-amber-800 text-xs font-bold">
                       
                     </p>
@@ -356,9 +340,7 @@ export default function IbusukiVsKirishimaPage() {
         <section className="space-y-8">
           <div className="border-b-2 border-emerald-600 pb-3">
             <div className="text-xs font-bold text-emerald-700 tracking-wider uppercase">Kirishima Hot Springs</div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              霧島温泉で泊まるべき厳選名宿3選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">霧島温泉で泊まるべき厳選名宿3選</h2>
             <p className="text-stone-600 text-sm mt-1">
               原生林の秘湯から14源泉の温泉ワンダーランドまで、森と星空に抱かれる名宿
             </p>
@@ -389,9 +371,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 4.78
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      霧島温泉　霧島　旅行人山荘
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">霧島温泉　霧島　旅行人山荘</h3>
                     <p className="text-emerald-800 text-xs font-bold">
                       原生林の静寂と野生の鹿！標高700mの絶景貸切露天風呂に心洗われる宿
                     </p>
@@ -439,9 +419,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 4.63
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      霧島温泉郷　霧島ホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">霧島温泉郷　霧島ホテル</h3>
                     <p className="text-emerald-800 text-xs font-bold">
                       
                     </p>
@@ -489,9 +467,7 @@ export default function IbusukiVsKirishimaPage() {
                         ★ 4.42
                       </span>
                     </div>
-                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">
-                      霧島の森に佇むオーベルジュ　ＡＵＢＥＧＩＯ霧島観光ホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-tight">霧島の森に佇むオーベルジュ　ＡＵＢＥＧＩＯ霧島観光ホテル</h3>
                     <p className="text-emerald-800 text-xs font-bold">
                       
                     </p>
@@ -525,9 +501,7 @@ export default function IbusukiVsKirishimaPage() {
             <span className="text-xs font-bold text-amber-400 bg-amber-400/20 px-3 py-1 rounded-full inline-block">
               王道モデルコース
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white">
-              迷ったらこれ！2泊3日で指宿と霧島を両方ハシゴする至福の鹿児島満喫ルート
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white">迷ったらこれ！2泊3日で指宿と霧島を両方ハシゴする至福の鹿児島満喫ルート</h2>
             <p className="text-stone-300 text-sm sm:text-base leading-relaxed">
               「どちらか一方に絞りきれない！」という方は、鹿児島空港を起点に霧島と指宿を1泊ずつ巡るゴールデンルートが最もおすすめです。
             </p>
@@ -536,21 +510,21 @@ export default function IbusukiVsKirishimaPage() {
           <div className="grid sm:grid-cols-3 gap-4 pt-4">
             <div className="bg-white/10 rounded-2xl p-5 border border-white/10 space-y-2">
               <span className="text-amber-400 font-bold text-xs">DAY 1</span>
-              <h4 className="font-bold text-base text-white">空港到着 ➔ 霧島ステイ</h4>
+              <h4 className="font-bold text-base text-white">空港到着  霧島ステイ</h4>
               <p className="text-xs text-stone-300 leading-relaxed">
                 鹿児島空港から車で霧島神宮へ参拝。原生林の秘湯旅館（旅行人山荘など）にチェックインし、濃厚な硫黄泉と黒豚ディナーを堪能。
               </p>
             </div>
             <div className="bg-white/10 rounded-2xl p-5 border border-white/10 space-y-2">
               <span className="text-amber-400 font-bold text-xs">DAY 2</span>
-              <h4 className="font-bold text-base text-white">桜島フェリー ➔ 指宿へ南下</h4>
+              <h4 className="font-bold text-base text-white">桜島フェリー  指宿へ南下</h4>
               <p className="text-xs text-stone-300 leading-relaxed">
                 桜島を望みながら鹿児島市内へ。名物白熊や黒豚ランチを楽しんだ後、海沿いを指宿へ。白水館や吟松で波音と砂むし温泉を満喫。
               </p>
             </div>
             <div className="bg-white/10 rounded-2xl p-5 border border-white/10 space-y-2">
               <span className="text-amber-400 font-bold text-xs">DAY 3</span>
-              <h4 className="font-bold text-base text-white">知覧散策 ➔ 空港へ</h4>
+              <h4 className="font-bold text-base text-white">知覧散策  空港へ</h4>
               <p className="text-xs text-stone-300 leading-relaxed">
                 朝の錦江湾を眺め、開聞岳ドライブや知覧武家屋敷群・特攻平和会館を巡り、九州自動車道で鹿児島空港から帰路へ。
               </p>

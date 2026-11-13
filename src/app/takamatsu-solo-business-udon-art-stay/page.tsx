@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            穏やかな瀬戸内海の島影と波のきらめき、茹でたての讃岐うどんの力強いコシ——四国の玄関口で仕事と癒やしを極める「高松スマートステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">穏やかな瀬戸内海の島影と波のきらめき、茹でたての讃岐うどんの力強いコシ——四国の玄関口で仕事と癒やしを極める「高松スマートステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             瀬戸大橋を渡るJR快速マリンライナーで岡山から約55分。四国の経済・行政の中枢であり、四国各県へのハブとして多くのビジネスパーソンが訪れる香川県高松市。そして直島・豊島・小豆島といった世界的な現代アートの島々へのフェリーが発着するサンポート高松は、国内外のアートファンやひとり旅の旅行者で常に賑わっています。名物の讃岐うどん店巡りや、骨付鳥、オリーブ牛など、四国屈指の美食が揃っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR高松駅・高松港フェリー乗り場すぐ！瀬戸内海と屋島を一望する四国屈指のランドマークホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  JRホテルクレメント高松 —— 海と街が交差する特等席。オーシャンビュー客室と一流シェフが腕を振るう多彩なダイニング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">JRホテルクレメント高松 —— 海と街が交差する特等席。オーシャンビュー客室と一流シェフが腕を振るう多彩なダイニング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全客室の宿泊者が専用プレミアムラウンジを利用可能！アール・デコ調の気品あふれる大人の隠れ家ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ロイヤルパークホテル高松 —— 瓦町エリアのシティリゾート。ライブラリーラウンジでのカクテルタイムと充実の朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ロイヤルパークホテル高松 —— 瓦町エリアのシティリゾート。ライブラリーラウンジでのカクテルタイムと充実の朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   ことでん瓦町駅徒歩約5分！自家源泉の天然温泉大浴場「さぬきの湯」＆高温サウナ・夜鳴きそば完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  さぬきの湯 ドーミーイン高松 —— 繁華街至近の温泉ビジホ。手足を伸ばせる大浴場と讃岐うどん付き朝食バイキング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">さぬきの湯 ドーミーイン高松 —— 繁華街至近の温泉ビジホ。手足を伸ばせる大浴場と讃岐うどん付き朝食バイキング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              高松の「讃岐うどん＆骨付鳥」を一人旅で制覇する攻略法
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">高松の「讃岐うどん＆骨付鳥」を一人旅で制覇する攻略法</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 朝うどん（早朝6:00〜8:00オープンの名店へ）
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 朝うどん（早朝6:00〜8:00オープンの名店へ）</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 「さか枝」や「手打十段 うどんバカ一代」など朝から営業する名店へ。釜バターうどんやかけうどんに揚げたてちくわ天を乗せるのが王道です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 国の特別名勝「栗林公園（りつりんこうえん）」の一歩一景散歩
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 国の特別名勝「栗林公園（りつりんこうえん）」の一歩一景散歩</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ミシュラン・グリーンガイドで三つ星を獲得した名園。掬月亭（きくげつてい）で南湖を眺めながらいただく抹茶と和菓子は至高のひととき。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は香川の二大ソウルフード「骨付鳥（おや・ひな）」とビール
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は香川の二大ソウルフード「骨付鳥（おや・ひな）」とビール</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 スパイシーなニンニクと胡椒が効いた骨付鳥。柔らかくジューシーな「ひな」か、噛むほどに旨味が出る「おや」か、お好みで。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>高松空港から高松駅や市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>高松空港から高松駅や市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 高松空港から市内行きリムジンバスが飛行機の発着に合わせて運行しており、JR高松駅や瓦町駅まで約35〜45分で直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>直島や小豆島へのフェリーは予約なしでも乗れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>直島や小豆島へのフェリーは予約なしでも乗れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 旅客のみ（車なしの一人旅）であれば、フェリーは予約不要で当日高松港フェリーターミナルで切符を購入してそのまま乗船できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＪＲホテルクレメント高松を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＪＲホテルクレメント高松を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

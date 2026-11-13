@@ -89,9 +89,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            夜の闇に浮かび上がる紅葉のトンネルと、雪化粧を始めた霊峰富士。圧倒的な日本の美を愛でる秋の湖畔旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">夜の闇に浮かび上がる紅葉のトンネルと、雪化粧を始めた霊峰富士。圧倒的な日本の美を愛でる秋の湖畔旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             秋が深まる10月下旬から11月下旬、富士山麓の河口湖北岸で開催される「富士河口湖紅葉まつり」。梨川沿いに約150mにわたって続く「もみじ回廊」は、樹齢を重ねた巨木モミジが一斉に真紅や黄金に染まり、夜間のライトアップではまるで光のトンネルのような幽玄な絶景が広がります。さらに湖畔の各所からは、青く澄み渡る秋空と初冠雪の白いベールをまとった富士山、そして色づく紅葉が織りなす絵画のような大パノラマを堪能。そんな贅沢な秋のひとときをさらに格別なものにしてくれるのが、河口湖畔に湧き出る天然温泉と、富士山を真正面に望む展望露天風呂を誇る名宿の数々です。最上階の展望風呂や富士山ビュー露天風呂付き客室で名高い「大池ホテル」、リーズナブルに河口湖温泉の潤いを満喫できる「四季の宿 富士山」、そして二万坪の広大な日本庭園と三段露天風呂「きよみの湯」から富士山を一望する屈指の高級旅館「ホテル鐘山苑」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、感動に満ちた錦秋の富士山ステイへ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  幻想的な夜間ライトアップ！名所「もみじ回廊」と紅葉トンネルの散策
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">幻想的な夜間ライトアップ！名所「もみじ回廊」と紅葉トンネルの散策</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日没とともにライトアップされるもみじ回廊。足元を埋め尽くす落ち葉の赤い絨毯と、頭上に広がる鮮やかな紅葉のグラデーションは圧巻の美しさです。
@@ -122,9 +118,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  初冠雪の富士山×河口湖のダブル絶景！湯船から富士を仰ぐ展望露天風呂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">初冠雪の富士山×河口湖のダブル絶景！湯船から富士を仰ぐ展望露天風呂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 澄み切った秋の空気の中、初冠雪の富士山を眺めながら浸かる天然温泉。朝焼けに染まる「赤富士」や夕暮れのシルエット富士など、時間ごとの絶景に出会えます。
@@ -137,9 +131,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  甲州牛ステーキや名物ほうとう鍋！山梨の秋の味覚を贅沢に味わう会席料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">甲州牛ステーキや名物ほうとう鍋！山梨の秋の味覚を贅沢に味わう会席料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 旨味豊かな甲州牛の溶岩焼きや、旬の秋野菜がたっぷり入った郷土鍋、採れたての果実を使ったデザートなど、山梨ならではの滋味深いグルメを満喫できます。
@@ -174,9 +166,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                       ★ 4.35 <span className="text-stone-400 text-xs">(5,549件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    富士河口湖温泉　富士山の見える温泉旅館　大池ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県南都留郡富士河口湖町船津6713-103 ｜ 駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                       ★ 3.70 <span className="text-stone-400 text-xs">(381件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    富士河口湖温泉郷　四季の宿　富士山
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">富士河口湖温泉郷　四季の宿　富士山</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県南都留郡富士河口湖町船津6713-19 ｜ 富士急行線　河口湖駅より車で５分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
                       ★ 4.71 <span className="text-stone-400 text-xs">(1,132件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    庭園と感動の宿　富士山温泉　ホテル鐘山苑
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県富士吉田市上吉田東9-1-18 ｜ 富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoFujiKawaguchikoAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

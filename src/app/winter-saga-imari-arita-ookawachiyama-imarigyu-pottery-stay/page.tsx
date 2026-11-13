@@ -129,9 +129,7 @@ export default function Page() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              伊万里・有田・西松浦 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">伊万里・有田・西松浦 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -155,9 +153,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     伊万里駅徒歩1分・天然温泉大浴場と伊万里牛朝食が魅力
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    セントラルホテル伊万里
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">セントラルホテル伊万里</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.24
@@ -222,9 +218,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     本格サウナ＆露天風呂完備・地元愛あふれる老舗シティホテル
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    伊万里グランドホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">伊万里グランドホテル</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.18
@@ -289,9 +283,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     波佐見有田IC近く・コスパ抜群で波佐見焼巡りにも直結
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＨＯＴＥＬ　ＡＺ　長崎波佐見店
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＨＯＴＥＬ　ＡＺ　長崎波佐見店</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.69
@@ -356,9 +348,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     伊万里の街並みに溶け込むスマート＆快適なモダンステイ
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルステイ伊万里
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルステイ伊万里</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 0.00
@@ -420,9 +410,7 @@ export default function Page() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     1棟貸切ガレージハウス・家族やグループで寛ぐ完全プライベート宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＨＯＵＳＥ　ｘ　ＷＩＬＬ　ＳＴＹＬＥ　佐賀伊万里
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＨＯＵＳＥ　ｘ　ＷＩＬＬ　ＳＴＹＬＥ　佐賀伊万里</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 5.00
@@ -474,9 +462,7 @@ export default function Page() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  佐賀県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">佐賀県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -495,10 +481,8 @@ export default function Page() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の伊万里・有田・西松浦旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の伊万里・有田・西松浦旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

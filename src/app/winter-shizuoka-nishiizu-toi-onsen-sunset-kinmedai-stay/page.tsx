@@ -267,9 +267,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <Sparkles className="w-4 h-4 text-orange-800" />
               冬の西伊豆・土肥温泉が誇る奇跡の絶景と美食
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              茜色に染まる海越しの富士山、真冬の花見露天、そして駿河湾の極上美味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">茜色に染まる海越しの富士山、真冬の花見露天、そして駿河湾の極上美味</h2>
           </div>
 
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -291,9 +289,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
         {/* 5 Hot Spring Inns Cards */}
         <section className="space-y-8">
           <div className="border-l-4 border-orange-600 pl-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12・1月に泊まりたい土肥温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい土肥温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
             </p>
@@ -323,9 +319,7 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
                         <Flame className="w-3.5 h-3.5" />
                         夕日絶景＆早咲き土肥桜露天の宿
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-orange-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -388,17 +382,13 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <Compass className="w-4 h-4 text-orange-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              西伊豆海岸ドライブと夕日富士・土肥桜＆寒金目鯛三昧の旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">西伊豆海岸ドライブと夕日富士・土肥桜＆寒金目鯛三昧の旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-orange-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-orange-700" />
-                【1日目】海岸線ドライブと黄金夕日・寒金目鯛ディナー
-              </h3>
+              <h3 className="font-bold text-orange-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-orange-700" />
+                【1日目】海岸線ドライブと黄金夕日・寒金目鯛ディナー</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-orange-600 shrink-0 mt-1" />
@@ -424,10 +414,8 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-orange-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-orange-700" />
-                【2日目】日本一早咲きの土肥桜鑑賞と土肥金山めぐり
-              </h3>
+              <h3 className="font-bold text-orange-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-orange-700" />
+                【2日目】日本一早咲きの土肥桜鑑賞と土肥金山めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-orange-600 shrink-0 mt-1" />
@@ -457,27 +445,21 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-orange-800" />
               西伊豆・土肥温泉の冬みやげ＆立ち寄り手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              土肥で手に入れたい冬の逸品と名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">土肥で手に入れたい冬の逸品と名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-orange-700" />
-                金箔カステラ＆土肥の天日干し高級干物
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-orange-700" />
+                金箔カステラ＆土肥の天日干し高級干物</h3>
               <p>
                 土肥金山名物の純金箔を散りばめた贅沢な「黄金カステラ」はお祝いやお土産に大好評。また、冬の冷たい西風と天日で作られるアジやカマス、金目鯛の干物は、凝縮された旨味と脂の乗りが抜群で、お酒のつまみや朝食のお供に最高です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-orange-700" />
-                恋人岬のラブコールベル＆土肥桜スイーツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-orange-700" />
+                恋人岬のラブコールベル＆土肥桜スイーツ</h3>
               <p>
                 75mの断崖から駿河湾と富士山を一望する「恋人岬」。3回鳴らすと愛が実ると言われるラブコールベルはカップル旅行の聖地です。また土肥桜の開花シーズンには、桜葉の香りを生かした限定ロールケーキや桜餅、桜ソフトクリームが温泉街のカフェで楽しめます。
               </p>
@@ -492,32 +474,24 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-orange-800" />
               土肥温泉・泉質と冬の富士山絶景メカニズム解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の土肥温泉は「奇跡の絶景温泉」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の土肥温泉は「奇跡の絶景温泉」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-orange-700" />
-              硫酸塩泉と塩化物泉がもたらす「しっとり美肌」と「保温持続効果」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-orange-700" />
+              硫酸塩泉と塩化物泉がもたらす「しっとり美肌」と「保温持続効果」</h3>
             <p>
               土肥温泉の泉質は「カルシウム・ナトリウム-硫酸塩・塩化物温泉」。無色透明の澄んだ湯の中には、美肌成分として知られる硫酸イオンと、優れた保湿力を持つナトリウム・塩化物イオンが高濃度で溶け込んでいます。硫酸塩泉の働きで肌表面のキメが整い、みずみずしいハリと潤いが生まれるとともに、塩分が皮膚に保護膜を作って体温の放出を防止。潮風が心地よい冬の露天風呂に入浴した後も、手足の先までポカポカとした温もりが長時間持続します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sun className="w-4 h-4 text-orange-700" />
-              冬の偏西風と澄んだ大気が生み出す「富士山と黄金夕日の絶景角」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sun className="w-4 h-4 text-orange-700" />
+              冬の偏西風と澄んだ大気が生み出す「富士山と黄金夕日の絶景角」</h3>
             <p>
               冬場は大陸からの乾いた高気圧が日本列島を覆い、駿河湾上の水蒸気モヤが劇的に減少します。西伊豆の海岸線は富士山を北北東に、夕日を真西に見晴らす独特の地理的位置にあるため、日没前のわずか30分間、西に傾く太陽の光が湾を挟んだ富士山を横から照らし出し、雪の斜面が薄桃色から茜色へと美しく輝く「夕映え富士」が出現します。この劇的なコントラストは、大気が澄み渡る初冬から真冬にしか見られない特別な自然の芸術です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-orange-700" />
-              黒潮の恵みによる温暖な冬とノーマルタイヤで訪れられる安心感
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-orange-700" />
+              黒潮の恵みによる温暖な冬とノーマルタイヤで訪れられる安心感</h3>
             <p>
               豪雪地帯の温泉とは対照的に、西伊豆・土肥温泉は真冬でも日中の気温が10℃〜15℃近くまで上がる非常に温暖な地域です。海岸沿いの道路には積雪の心配がほとんどなく、冬用タイヤの準備がない旅行者でも気兼ねなくマイカーやレンタカーでドライブ旅行を楽しむことができます。寒さを過度に警戒することなく、海沿いの開放的なリゾートステイを満喫できるのが最大の強みです。
             </p>
@@ -531,18 +505,14 @@ export default function ShizuokaNishiizuToiOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-orange-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              冬の西伊豆・土肥温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">冬の西伊豆・土肥温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

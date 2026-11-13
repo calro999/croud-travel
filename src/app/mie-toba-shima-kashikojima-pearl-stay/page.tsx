@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             夕暮れの英虞湾とサミットの舞台
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 英虞湾パノラマ・賢島エスパーニャクルーズ＆横山展望台（真珠の海の黄昏）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 英虞湾パノラマ・賢島エスパーニャクルーズ＆横山展望台（真珠の海の黄昏）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             リアス式海岸の代表格として知られる英虞湾。標高140mの「横山展望台（天空カフェテラス）」から見下ろす複雑に入り組んだ海岸線と真珠筏のパノラマは息を呑む美しさ。湾内に浮かぶ最大の島「賢島」からは、スペイン帆船型遊覧船「エスペランサ」に乗って爽快なクルーズへ。真珠モデル工場への寄港などクルーズならではの体験も。湾を望む高台には世界的リゾートホテルが建ち並びます。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        都リゾート　奥志摩　アクアフォレスト
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">都リゾート　奥志摩　アクアフォレスト</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         豊かな大自然と美しい英虞湾に囲まれたシーサイドリゾート　天然温泉、天文館　わんちゃん宿泊可コテージ
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        グランドメルキュール伊勢志摩リゾート＆スパ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グランドメルキュール伊勢志摩リゾート＆スパ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         心と身体が満たされる、海と森に抱かれる贅沢なひととき
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテル志摩スペイン村
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテル志摩スペイン村</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         南スペインの優雅な雰囲気が漂うリゾートホテル
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＴＨＥ　ＨＩＲＡＭＡＴＳＵ　ＨＯＴＥＬＳ　＆　ＲＥＳＯＲＴＳ　賢島</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         伊勢志摩の豊かな食材を愉しむ料理、温泉、スパが心と体を癒す究極のスモールラグジュアリー
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             飼育種類日本一の水族館と真珠の聖地
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 鳥羽水族館（ジュゴン・ラッコ）＆ミキモト真珠島・海女の潜水実演
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 鳥羽水族館（ジュゴン・ラッコ）＆ミキモト真珠島・海女の潜水実演</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             約1,200種もの生きものを飼育する日本一のスケールを誇る「鳥羽水族館」。日本で唯一飼育展示されている人魚伝説のモデル「ジュゴン」のセレナや、大人気のラッコの食事タイムは見逃せません。隣接する「ミキモト真珠島」は、明治26年に御木本幸吉が世界で初めて真珠養殖に成功した島。島内では昔ながらの白い磯着を身にまとった海女による伝統の潜水実演や、豪華な真珠美術工芸品を鑑賞できます。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        鳥羽の宿　錦屋旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">鳥羽の宿　錦屋旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         駅徒歩1分×鳥羽水族館徒歩3分♪全室WiFi完備！ビジネス・観光に好立地！リーズナブル価格！
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        鳥羽　吉田屋　湯坊旅籠　和光
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">鳥羽　吉田屋　湯坊旅籠　和光</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         鳥羽駅に近く観光拠点に便利なお宿。。リーズナブルに利用できる素泊まり専門のお宿です。
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        湯めぐり海百景　鳥羽シーサイドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯めぐり海百景　鳥羽シーサイドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         伊勢神宮まで車で３０分　☆お客様が選ぶ４つ星以上の人気宿☆
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        鳥羽国際ホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">鳥羽国際ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         鳥羽駅からシャトルバスで5分。神宮から車で約20分。
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             海女のまち相差と極上の海の幸
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 本場伊勢海老・あわび炭火焼き＆海女小屋体験（海女の語らいと獲れたて魚介）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 本場伊勢海老・あわび炭火焼き＆海女小屋体験（海女の語らいと獲れたて魚介）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             日本で最も多くの現役海女が暮らす鳥羽市相差（おうさつ）や志摩地方。伝統の「海女小屋」では、海女さんが体を温め休む小屋の中で、炭火を囲みながら獲れたてのサザエ、大アサリ、ヒオウギ貝、そして伊勢海老やあわびを豪快に焼き上げてくれます。素朴で温かい海女さんとの会話とともに味わう海の幸は最高の旅の思い出。女性の願いを一つだけ叶えてくれる「石神さん（神明神社）」への参拝も定番です。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        鳥羽ビューホテル　花真珠
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">鳥羽ビューホテル　花真珠</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★★ファミリー旅おすすめ！【キッズパーク】完備★★　鳥羽でココだけ！【絶景露天】×【バラ風呂】
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        亀の井ホテル　鳥羽
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">亀の井ホテル　鳥羽</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         伊勢神宮（お伊勢さん）と　美し国（うましくに）の拠点になる場所　亀の井ホテル 鳥羽
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">伊勢志摩国立公園・二見浦　二見温泉　蘇民の湯　ホテル清海</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ※【重要なご案内】より、ご夕食のお品書きを季節に応じたお料理に変更いたします。
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        伊勢志摩の波音　海楼
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">伊勢志摩の波音　海楼</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         鳥羽湾を一望する全８室オーシャンビューの小宿。豪快な「網焼き料理」で伊勢志摩の滋味を満喫！
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】都リゾート 奥志摩 アクアフォレストを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】都リゾート 奥志摩 アクアフォレストを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と都リゾート 奥志摩 アクアフォレストの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と都リゾート 奥志摩 アクアフォレストの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

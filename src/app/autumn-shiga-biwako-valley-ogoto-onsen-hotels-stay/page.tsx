@@ -55,9 +55,7 @@ export default function BiwakoOgotoAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            天空のテラスから望む紅葉と琵琶湖ブルーの絶景コラボレーション
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">天空のテラスから望む紅葉と琵琶湖ブルーの絶景コラボレーション</h2>
           <p className="mb-4 text-stone-700">
             日本最速ロープウェイで登る「びわ湖バレイ」。標高1,100mの打見山と蓬莱山山頂に広がる「びわ湖テラス」からは、一面赤や黄に染まる山肌と眼下に広がる広大な琵琶湖のコントラストを一望できます。テラスのインフィニティラウンジで秋風を感じながら過ごす時間はまさに非日常です。
           </p>
@@ -69,10 +67,8 @@ export default function BiwakoOgotoAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！おごと温泉の厳選名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！おごと温泉の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function BiwakoOgotoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.67</span>
                     <span className="text-stone-400 text-xs">(2883件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    おごと温泉　暖灯館　きくのや
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">おごと温泉　暖灯館　きくのや</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / 京都駅より20分、JR湖西線おごと温泉駅下車、車5分＜送迎有＞。京都東ICより湖西道路経由20分558号線沿い
                   </p>
@@ -142,9 +136,7 @@ export default function BiwakoOgotoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.59</span>
                     <span className="text-stone-400 text-xs">(690件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    おごと温泉　びわ湖花街道
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">おごと温泉　びわ湖花街道</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / 車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）
                   </p>
@@ -189,9 +181,7 @@ export default function BiwakoOgotoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.54</span>
                     <span className="text-stone-400 text-xs">(928件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    多彩な湯めぐり四季の幸を愛でる宿　湯元館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">多彩な湯めぐり四季の幸を愛でる宿　湯元館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: おごと温泉駅 / ＪＲ　おごと温泉駅からお車で５分（送迎バスあり※要予約）無料駐車場有り
                   </p>
@@ -236,9 +226,7 @@ export default function BiwakoOgotoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.4</span>
                     <span className="text-stone-400 text-xs">(1926件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    里湯昔話　雄山荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">里湯昔話　雄山荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / JR湖西線おごと温泉駅送迎バス有/名神京都東IC～湖西道路(国道161号)経由約15分/栗東IC～琵琶湖大橋経由約40分
                   </p>
@@ -283,9 +271,7 @@ export default function BiwakoOgotoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.19</span>
                     <span className="text-stone-400 text-xs">(846件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    琵琶湖グランドホテル・京近江
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">琵琶湖グランドホテル・京近江</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 雄琴駅 / ＪＲ湖西線おごと温泉駅下車、車5分(送迎有)　名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り
                   </p>
@@ -330,9 +316,7 @@ export default function BiwakoOgotoAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の琵琶湖：びわ湖バレイの紅葉テラスとおごと温泉！近江牛とレイクビューを満喫するおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -384,9 +368,7 @@ export default function BiwakoOgotoAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の琵琶湖で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の琵琶湖で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

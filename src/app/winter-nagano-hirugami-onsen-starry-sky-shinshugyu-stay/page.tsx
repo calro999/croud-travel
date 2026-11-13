@@ -267,9 +267,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <Sparkles className="w-4 h-4 text-indigo-800" />
               冬の阿智村・昼神温泉が選ばれる理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              息を呑む満天の冬星空と、肌が生まれ変わるような奇跡の強アルカリ美肌湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">息を呑む満天の冬星空と、肌が生まれ変わるような奇跡の強アルカリ美肌湯</h2>
           </div>
 
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -291,9 +289,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
         {/* 5 Hot Spring Inns Cards */}
         <section className="space-y-8">
           <div className="border-l-4 border-indigo-600 pl-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12・1月に泊まりたい昼神温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい昼神温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
             </p>
@@ -323,9 +319,7 @@ export default function NaganoHirugamiOnsenWinterPage() {
                         <Flame className="w-3.5 h-3.5" />
                         pH9.7 強アルカリ美肌硫黄温泉
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-indigo-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -388,17 +382,13 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <Compass className="w-4 h-4 text-indigo-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              日本一の星空ナイトツアーと極上美肌湯・南信州牛を味わう旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">日本一の星空ナイトツアーと極上美肌湯・南信州牛を味わう旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-indigo-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-indigo-700" />
-                【1日目】信州の味覚と天空の楽園ナイトツアー
-              </h3>
+              <h3 className="font-bold text-indigo-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-indigo-700" />
+                【1日目】信州の味覚と天空の楽園ナイトツアー</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-indigo-600 shrink-0 mt-1" />
@@ -428,10 +418,8 @@ export default function NaganoHirugamiOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-indigo-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-indigo-700" />
-                【2日目】昼神温泉朝市とパワースポット阿智神社
-              </h3>
+              <h3 className="font-bold text-indigo-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-indigo-700" />
+                【2日目】昼神温泉朝市とパワースポット阿智神社</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-indigo-600 shrink-0 mt-1" />
@@ -461,27 +449,21 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-indigo-800" />
               南信州・阿智村の冬みやげ＆立ち寄り手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              阿智・昼神で手に入れたい冬の逸品と名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">阿智・昼神で手に入れたい冬の逸品と名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                冬の伝統高級和菓子「市田柿（いちだがき）」と柿スイーツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                冬の伝統高級和菓子「市田柿（いちだがき）」と柿スイーツ</h3>
               <p>
                 南信州を代表する冬の最高峰ギフト「市田柿」。天竜川から立ち上る川霧と山風が育む干し柿は、表面に吹いた真っ白な糖の粉ともっちりとした極上の食感、上品な甘みが特徴です。近年は市田柿に長野県産発酵バターをサンドした「市田柿ミルフィーユ」が大人気。ワインや珈琲との相性も抜群です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-indigo-700" />
-                昼神温泉水コスメ＆南信州の地酒「喜久水」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-indigo-700" />
+                昼神温泉水コスメ＆南信州の地酒「喜久水」</h3>
               <p>
                 pH9.7の美肌温泉水を贅沢に配合した化粧水ミストやフェイスパックは、お肌の保湿にぴったりな女性に大人気の定番土産。また、南信州唯一の酒蔵が南アルプスの伏流水で醸す名酒「喜久水」の冬限定しぼりたて生原酒は、信州牛や川魚の会席料理と最高の相性を誇ります。
               </p>
@@ -496,32 +478,24 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-indigo-800" />
               昼神温泉・泉質と阿智村の星空環境徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の昼神温泉は「奇跡の美肌＆天体リゾート」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の昼神温泉は「奇跡の美肌＆天体リゾート」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-indigo-700" />
-              pH9.7の強アルカリ性温泉が果たす「角質ケア」と「美白・保湿ダブル効果」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-indigo-700" />
+              pH9.7の強アルカリ性温泉が果たす「角質ケア」と「美白・保湿ダブル効果」</h3>
             <p>
               昼神温泉の泉質は「アルカリ性単純硫黄温泉」。日本の温泉の平均的なアルカリ性を大きく超えるpH9.7という強アルカリ度を誇ります。アルカリ性の温泉は肌表面の余分な皮脂や古い角質を石鹸のようにやさしく乳化して洗い流すクレンジング作用があります。さらに微量に含まれる硫黄成分が肌のメラニン生成を抑え、ナトリウムイオンや炭酸水素イオンが湯上がりの肌をしっとりと滑らかに整えます。冬の乾燥した大気でゴワつきがちな肌を、まるで美容液に浸かったかのように生まれ変わらせてくれる天然のエステ風呂です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Mountain className="w-4 h-4 text-indigo-700" />
-              すり鉢状の地形と冬の低湿度が創り出す「日本一の暗闇と透明度」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Mountain className="w-4 h-4 text-indigo-700" />
+              すり鉢状の地形と冬の低湿度が創り出す「日本一の暗闇と透明度」</h3>
             <p>
               阿智村が星空日本一に輝いた地理的要因は、南アルプスの山々に囲まれたすり鉢状の山間地形にあります。大都市の街明かりが完全に遮られるため、夜空が漆黒の闇に染まります。さらに11月から1月にかけては日本上空に冬型の気圧配置が定着し、大気中の湿度が急激に低下。光を拡散させる水蒸気や塵埃がほとんど存在しないため、星の光が減衰することなく地上へと届き、肉眼でも星の色の違い（ベテルギウスの赤、リゲルの青白さ）まではっきりと見分けられるほどの驚異的な星空が誕生します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-indigo-700" />
-              中央自動車道でアクセス至便な南信州の温暖な温泉街
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+              中央自動車道でアクセス至便な南信州の温暖な温泉街</h3>
             <p>
               北信や白馬などの豪雪地帯とは異なり、南信州・阿智村の昼神温泉街は標高約500mに位置し、積雪量は比較的少なめです。中央自動車道の園原ICや飯田山本ICからわずか10分という抜群のアクセス性を誇るため、首都圏や中京圏・関西圏からも短時間で訪れることができます。都会の日常からわずか数時間で、極限の暗闇に輝く星空とトロトロの名湯に包まれる贅沢が実現します。
             </p>
@@ -535,18 +509,14 @@ export default function NaganoHirugamiOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-indigo-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              冬の阿智村・昼神温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">冬の阿智村・昼神温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

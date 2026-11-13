@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            三日入れば三年風邪をひかない——北アルプスの懐に湧く乳白色の霊泉と信州深山の美味を味わう秘湯旅
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">三日入れば三年風邪をひかない——北アルプスの懐に湧く乳白色の霊泉と信州深山の美味を味わう秘湯旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             長野県松本市安曇、北アルプス乗鞍岳の東山麓、標高約1,400メートルの深い渓谷に佇む白骨（しらほね）温泉。鎌倉時代に湧出したと伝えられ、戦国時代には武田信玄が松本城主の鉱山採掘員たちの湯治場として保護した歴史を持ちます。白骨温泉の最大の特徴は、空気に触れることで湧出時の透明から神秘的な乳白色へと変化する弱酸性の含硫黄炭酸水素塩温泉。湯船の縁には長年の温泉成分が石灰華（湯の花）となって白く固まり、まさに「白い骨」のように見えることがその名の由来とも言われています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県松本市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  白骨温泉　湯元齋藤旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">白骨温泉　湯元齋藤旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   享保年間創業・文人墨客が愛した老舗名門！自家源泉かけ流しの白濁湯と伝統の信州会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  白骨温泉 湯元齋藤旅館 —— 創業三百年の格式と美学。大自然の渓流を望む野天風呂と極上の安らぎ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">白骨温泉 湯元齋藤旅館 —— 創業三百年の格式と美学。大自然の渓流を望む野天風呂と極上の安らぎ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自然湧出する自家源泉を惜しみなく注ぐ大浴場と野天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自然湧出する自家源泉を惜しみなく注ぐ大浴場と野天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内から自噴する良質な源泉を100%掛け流しで使用。渓谷の緑や雪景色を眺めながら入る野天風呂「鬼角の湯」は、乳白色の湯と自然が織りなす絶景の湯浴み場です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 中里介山や若山牧水ら文豪が愛した歴史と格式の空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">中里介山や若山牧水ら文豪が愛した歴史と格式の空間</h5>
                     <p className="text-stone-600 leading-relaxed">中里介山が名作『大菩薩峠』を執筆したことでも知られる老舗旅館。伝統の木造建築の趣を現代の快適性と融合させた客室で、静寂の深山ステイを味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 信州プレミアム牛や清流イワナを味わう本格山里会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">信州プレミアム牛や清流イワナを味わう本格山里会席</h5>
                     <p className="text-stone-600 leading-relaxed">長野県産の厳選食材をふんだんに取り入れた季節の会席。香ばしく焼き上げた岩魚や信州牛の陶板焼きなど、滋味豊かな山の幸に舌鼓を打てます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県松本市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  白骨温泉　小梨の湯　笹屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">白骨温泉　小梨の湯　笹屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   白樺林に囲まれた全八室の隠れ家！完全無料で楽しめる貸切野天風呂と囲炉裏炭火料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  白骨温泉 小梨の湯 笹屋 —— 白樺の静寂に抱かれる一軒宿。湯の華舞う乳白色の貸切露天風呂と炭火の温もり
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">白骨温泉 小梨の湯 笹屋 —— 白樺の静寂に抱かれる一軒宿。湯の華舞う乳白色の貸切露天風呂と炭火の温もり</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 白樺林の借景が美しい完全無料の貸切野天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">白樺林の借景が美しい完全無料の貸切野天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">木立の中に佇む貸切野天風呂は空いていれば何度でも自由に利用可能。乳白色の湯に浸かりながら、そよぐ白樺の葉音と野鳥のさえずりに耳を澄ます極上のプライベート時間。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 囲炉裏を囲んで味わう香ばしい岩魚炭火焼きと信州牛
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">囲炉裏を囲んで味わう香ばしい岩魚炭火焼きと信州牛</h5>
                     <p className="text-stone-600 leading-relaxed">食事処の囲炉裏でじっくり炭火で焼き上げる岩魚の塩焼きや、香ばしい朴葉味噌焼き。地元農家の無農薬野菜を使った心のこもった料理が五臓六腑に染み渡ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> わずか八室の静けさを守る大人の隠れ家空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">わずか八室の静けさを守る大人の隠れ家空間</h5>
                     <p className="text-stone-600 leading-relaxed">木造平屋の館内は木の温もりにあふれ、日常の喧騒を完全に遮断。過度な装飾のない素朴で温かいおもてなしが、心からのリフレッシュをもたらします。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県松本市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  白骨温泉　かつらの湯　丸永旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">白骨温泉　かつらの湯　丸永旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   樹齢数百年の桂の木の下に湧く混浴露天！素朴な信州の温もりと飲泉もできる名湯の宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  白骨温泉 かつらの湯 丸永旅館 —— 秘湯の風情を色濃く残す木造旅館。湧きたて乳白色の混浴露天と湯治の温もり
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">白骨温泉 かつらの湯 丸永旅館 —— 秘湯の風情を色濃く残す木造旅館。湧きたて乳白色の混浴露天と湯治の温もり</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 天然記念物の巨木の下に佇む野趣あふれる露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">天然記念物の巨木の下に佇む野趣あふれる露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">樹齢数百年の桂の木に抱かれるように作られた露天風呂。ぬるめと適温の二つの湯船があり、乳白色の湯の花が舞う極上の湯にゆっくりと長湯できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 胃腸に良いとされる白骨の湯の飲泉体験
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">胃腸に良いとされる白骨の湯の飲泉体験</h5>
                     <p className="text-stone-600 leading-relaxed">館内には飲泉所が設けられており、胃腸病に効能があると伝わる白骨温泉を体の中から取り入れることができます。温泉粥など朝食の演出も評判です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 素朴で温かな信州の手作り山里郷土料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">素朴で温かな信州の手作り山里郷土料理</h5>
                     <p className="text-stone-600 leading-relaxed">山菜の天ぷら、川魚の甘露煮、信州そばなど、信州の家庭の温もりを感じさせる手作り料理。どこか懐かしく温かいおもてなしに心が和みます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 白骨温泉・上高地＆乗鞍高原の大自然巡りガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 白骨温泉・上高地＆乗鞍高原の大自然巡りガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                上高地（大正池〜河童橋〜明神池）のトレッキング
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                上高地（大正池〜河童橋〜明神池）のトレッキング</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 白骨温泉から車やシャトルバスで上高地へ直行可能。穂高連峰の険しい岩肌と梓川のエメラルドグリーンの清流が織りなす日本屈指の山岳景勝地で、清涼なハイキングを楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                乗鞍高原・善五郎の滝と一の瀬園地
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                乗鞍高原・善五郎の滝と一の瀬園地</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 乗鞍岳の山麓に広がる広大な高原地帯。轟音とともに落ちる名瀑「善五郎の滝」や、白樺林と水芭蕉が美しい一の瀬園地など、四季折々の高原風景が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                白骨温泉名物「温泉粥」と地酒の味わい
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                白骨温泉名物「温泉粥」と地酒の味わい</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 弱炭酸水素塩泉の温泉水で炊き上げた温泉粥は、淡い青緑色を帯びてとろけるような滑らかさ。信州の辛口地酒とともに味わう朝のひとときは格別です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              長野県松本市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">長野県松本市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白骨温泉 湯元齋藤旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白骨温泉 湯元齋藤旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白骨温泉 湯元齋藤旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白骨温泉 湯元齋藤旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

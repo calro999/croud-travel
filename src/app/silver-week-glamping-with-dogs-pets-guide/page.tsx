@@ -180,9 +180,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         {/* セクション1: 愛犬連れで「プライベートドッグラン付き」を選ぶべき4つの理由 */}
         <section aria-labelledby="pet-reasons-heading" className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 id="pet-reasons-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              後悔しないドッググランピング選びのチェック基準
-            </h2>
+            <h2 id="pet-reasons-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">後悔しないドッググランピング選びのチェック基準</h2>
             <p className="text-slate-600 text-sm mt-1">
               「ペット同伴可」のホテルと「客室専用ドッグラン付きグランピング」では快適度が劇的に異なります。
             </p>
@@ -234,9 +232,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         {/* セクション2: 施設一覧 */}
         <section aria-labelledby="hotels-heading" className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              【愛犬同伴対応】シルバーウィークに泊まりたい厳選グランピング施設
-            </h2>
+            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">【愛犬同伴対応】シルバーウィークに泊まりたい厳選グランピング施設</h2>
             <p className="text-slate-600 text-sm mt-1">
               プライベートドッグラン付き客室や広大な敷地を誇る、全国の楽天トラベル高評価リゾートを厳選。
             </p>
@@ -281,9 +277,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                       <span>📍</span>
                       <span>{hotel.address1 || "リゾート"} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-amber-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-amber-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
                       {hotel.hotelSpecial || "愛犬と一緒に自然を満喫できる専用ドッグラン付きグランピング。広大な芝生と充実のペット用設備で、大切な家族みんなで特別な休日を過ごせます。"}
                     </p>
@@ -316,9 +310,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-6 sm:p-10 border border-amber-800/40 space-y-6">
           <div>
             <span className="text-amber-400 font-black text-xs uppercase tracking-wider">Dog Trip Packing Checklist</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">
-              愛犬と行くグランピング【秋の必需品リスト】
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">愛犬と行くグランピング【秋の必需品リスト】</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-slate-300">
@@ -345,16 +337,12 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
 
         {/* セクション4: FAQ（構造化データ連動） */}
         <section aria-labelledby="faq-heading" className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-8">
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span className="text-amber-600">❓</span> 愛犬グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">愛犬グランピングのよくある質問</h2>
           <div className="divide-y divide-amber-100">
             {faqList.map((faq, idx) => (
               <div key={idx} className="py-4 first:pt-0 last:pb-0">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -368,9 +356,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とプライベートドッグラン付き＆ノーリードOKの極上ヴィラの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とプライベートドッグラン付き＆ノーリードOKの極上ヴィラの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -456,9 +442,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「愛犬と泊まるシルバーウィーク グランピング：プライベートドッグラン付き＆ノーリードOKの極上ヴィラ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -528,9 +512,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 愛犬と泊まるシルバーウィーク グランピングエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">愛犬と泊まるシルバーウィーク グランピングエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

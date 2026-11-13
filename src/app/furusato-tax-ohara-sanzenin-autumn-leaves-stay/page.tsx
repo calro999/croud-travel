@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              一面の緑苔を埋める真紅の落葉！わらべ地蔵が微笑む静寂の古都・大原
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">一面の緑苔を埋める真紅の落葉！わらべ地蔵が微笑む静寂の古都・大原</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             京都市内から少し足を延ばした比叡山麓の山里「大原」。秋の三千院では、樹齢数百年を数える杉やヒノキの木立の下、一面に広がる青苔の絨毯「有清園」に真っ赤なカエデが降り注ぎ、息をのむほど優雅な錦秋絵巻が広がります。苔の中から顔をのぞかせる愛らしい「わらべ地蔵」や、平家物語ゆかりの寂光院の石段を彩る紅葉トンネルは必見。散策の後は、肌触りのやわらかな単純温泉「大原温泉」に浸かり、100年受け継がれる秘伝の味噌を使った名物「味噌鍋」や京地鶏、朝採れ京野菜会席をふるさと納税トラベルクーポンでお得に贅沢に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                三千院・有清園の苔庭紅葉とわらべ地蔵
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                三千院・有清園の苔庭紅葉とわらべ地蔵</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 国宝・阿弥陀三尊像を安置する往生極楽院を包む紅葉。緑の苔の上に散り敷く紅葉の絨毯と、微笑むわらべ地蔵の姿は京都屈指の情緒を誇ります。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                平家物語ゆかりの古刹「寂光院」の紅葉石段アプローチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                平家物語ゆかりの古刹「寂光院」の紅葉石段アプローチ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 建礼門院が隠棲した寂光院。山門へと続く石段の両脇をもみじが覆い尽くし、秋の深まりとともに赤と黄のグラデーションに染まります。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                大原名物「味噌鍋」＆京地鶏・自家製大原野菜会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                大原名物「味噌鍋」＆京地鶏・自家製大原野菜会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 大原の清らかな水と厳選素材で仕込む自家製熟成味噌を使った名物味噌鍋、旨味の強い京地鶏、しば漬けや季節の京野菜を使った本格懐石を満喫。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.78 <span className="text-stone-400 text-xs">(41件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    大原温泉湯元　旬味草菜　お宿　芹生
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大原温泉湯元　旬味草菜　お宿　芹生</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市左京区大原勝林院町22 ｜ 地下鉄　国際会館駅よりバスにて２５分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.45 <span className="text-stone-400 text-xs">(370件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    大原温泉　湯元のお宿　民宿大原山荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大原温泉　湯元のお宿　民宿大原山荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市左京区大原草生町17 ｜ 京都バス　大原バス停より田舎道をきれいな景色を眺めながらブラブラ歩いて約１５分。午後３時以降大原バス停より送迎あります。
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.21 <span className="text-stone-400 text-xs">(506件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    京都大原の民宿～１００年続く希少味噌～大原温泉　大原の里
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">京都大原の民宿～１００年続く希少味噌～大原温泉　大原の里</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府京都市左京区大原草生町41 ｜ JR京都駅より京都バス 大原行きで「大原」下車 徒歩１２分★「四条河原町」～「大原」はバスで約５０分♪
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】大原温泉湯元 旬味草菜 お宿 芹生を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】大原温泉湯元 旬味草菜 お宿 芹生を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と大原温泉湯元 旬味草菜 お宿 芹生の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と大原温泉湯元 旬味草菜 お宿 芹生の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

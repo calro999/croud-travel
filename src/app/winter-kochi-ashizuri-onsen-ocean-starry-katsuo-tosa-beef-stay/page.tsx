@@ -269,9 +269,7 @@ export default function KochiAshizuriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Southernmost Kuroshio & Stargazing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黒潮が包む常春の岬と宇宙の瞬き｜11月・12月に足摺岬を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒潮が包む常春の岬と宇宙の瞬き｜11月・12月に足摺岬を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function KochiAshizuriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Kuroshio Marine Terroir & History</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黒潮が打ち寄せる断崖のジオパークと幻の和牛「土佐あかうし」の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒潮が打ち寄せる断崖のジオパークと幻の和牛「土佐あかうし」の秘密</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +343,7 @@ export default function KochiAshizuriWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Selected Ocean View Retreats</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月の足摺温泉郷を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月の足摺温泉郷を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               豪快な藁焼き鰹タタキと幻の土佐あかうし、四国最南端の絶景露天風呂と満天の星空を誇る、楽天トラベル高評価の特選宿をご紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function KochiAshizuriWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-blue-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-blue-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="text-right">
                         <span className="text-xs text-slate-500 block">参考宿泊料金（2名1室時1名）</span>
                         <span className="text-xl font-extrabold text-blue-800">{hotel.price}</span>
@@ -463,9 +455,7 @@ export default function KochiAshizuriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】四国最南端の絶景と美食を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】四国最南端の絶景と美食を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -494,31 +484,23 @@ export default function KochiAshizuriWinterFeature() {
         <section className="bg-gradient-to-br from-blue-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md">
           <div className="flex items-center gap-3 pb-3 border-b border-blue-800">
             <Compass className="w-6 h-6 text-blue-400" />
-            <h2 className="text-xl sm:text-2xl font-bold">
-              11月・12月の足摺温泉旅行を満喫する実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">11月・12月の足摺温泉旅行を満喫する実践ガイド</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-blue-300 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4" /> 気候・星空観察の服装
-              </h3>
+              <h3 className="font-bold text-blue-300 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4" /> 気候・星空観察の服装</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 日中は日差しがあり15〜18℃と暖かいですが、夜間の星空観察や岬の展望台では海風が吹くため体感温度が一気に下がります。防風性の高いジャケットやフリース、マフラーを持参すると快適です。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-blue-300 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4" /> 白山洞門と金剛福寺散策
-              </h3>
+              <h3 className="font-bold text-blue-300 flex items-center gap-1.5"><Footprints className="w-4 h-4" /> 白山洞門と金剛福寺散策</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 花崗岩が波の浸食で削られた日本最大級の海蝕洞「白山洞門」や、四国霊場第38番札所の金剛福寺、白亜の足摺岬灯台など見どころ多数。スニーカーなど歩きやすい靴での散策がおすすめです。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-blue-300 flex items-center gap-1.5">
-                <Fish className="w-4 h-4" /> 旬魚と土佐あかうしの美味
-              </h3>
+              <h3 className="font-bold text-blue-300 flex items-center gap-1.5"><Fish className="w-4 h-4" /> 旬魚と土佐あかうしの美味</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 脂の乗った戻り鰹のタタキは塩タタキが本場の味。さらに土佐清水ならではのブランド魚「清水サバ」や、希少な黒毛和牛「土佐あかうし」を味わう特選会席プランの予約がイチオシです。
               </p>
@@ -534,18 +516,14 @@ export default function KochiAshizuriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の足摺温泉郷旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の足摺温泉郷旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-blue-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-blue-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -558,9 +536,7 @@ export default function KochiAshizuriWinterFeature() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-blue-100">
             <Compass className="w-6 h-6 text-blue-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の温泉・美食旅行特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の温泉・美食旅行特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -568,9 +544,7 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">
-                鳴門温泉の初冬鳴門海峡絶景と名物鳴門鯛づくし会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">鳴門温泉の初冬鳴門海峡絶景と名物鳴門鯛づくし会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 引き締まった鳴門鯛の旨味と渦潮の雄大なパノラマを堪能。
               </p>
@@ -580,9 +554,7 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">
-                ことひら温泉の初冬こんぴら参拝と極上オリーブ牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">ことひら温泉の初冬こんぴら参拝と極上オリーブ牛会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 金刀比羅宮の初冬参拝と讃岐の名湯、オリーブ牛の贅沢ステイ。
               </p>
@@ -592,9 +564,7 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">愛媛・道後</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">
-                道後温泉本館全館営業再開と冬の鯛めし・伊予牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">道後温泉本館全館営業再開と冬の鯛めし・伊予牛会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 日本最古の名湯の歴史ロマンと瀬戸内の極上鯛めしに舌鼓。
               </p>
@@ -604,9 +574,7 @@ export default function KochiAshizuriWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-blue-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-700 bg-blue-100/60 px-2 py-0.5 rounded-full inline-block">宮崎・青島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">
-                青島温泉の初冬パームビーチ絶景と宮崎牛・伊勢海老宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-blue-800 transition line-clamp-2">青島温泉の初冬パームビーチ絶景と宮崎牛・伊勢海老宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 南国リゾートの心地よい潮風と極上の宮崎牛を味わう海辺ステイ。
               </p>

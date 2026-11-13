@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          風が描く風紋のアートと見渡す限りの砂丘美。異国情緒漂うダイナミックな海岸リゾート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">風が描く風紋のアートと見渡す限りの砂丘美。異国情緒漂うダイナミックな海岸リゾート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              砂丘越しに望む水平線！息をのむサンセット＆星空観賞
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">砂丘越しに望む水平線！息をのむサンセット＆星空観賞</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               夕方には黄金色に輝く砂の丘、夜には人工の灯りが遮られた砂丘から見上げる満天の星空。幻想的な自然のドラマを体感できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              松葉ガニ・浜名湖うなぎ・黒毛和牛など各地域を代表する最高峰美食
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">松葉ガニ・浜名湖うなぎ・黒毛和牛など各地域を代表する最高峰美食</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               鳥取の冬の味覚・松葉ガニや岩牡蠣、浜松名物の香ばしい鰻重、鹿児島の黒豚・さつま揚げなど、豪華なご当地ディナーを満喫できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ラクダ乗り・サンドボード・パラグライダーなど砂丘アクティビティ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ラクダ乗り・サンドボード・パラグライダーなど砂丘アクティビティ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               広大な砂のフィールドを活かした爽快なアクティビティが充実。子どもから大人まで心躍る特別な休日を過ごせます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="tottori_dune" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                鳥取県鳥取市・米子ふるさと納税：東西16kmの雄大な砂の芸術「鳥取砂丘」と皆生温泉オーシャンリゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">鳥取県鳥取市・米子ふるさと納税：東西16kmの雄大な砂の芸術「鳥取砂丘」と皆生温泉オーシャンリゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 国の天然記念物・鳥取砂丘。「馬の背」から見下ろす日本海の青と砂のコントラストは圧巻。海から湧く皆生温泉の塩化物泉で温まり、冬の松葉ガニや鳥取和牛を堪能できる贅沢な滞在です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鳥取県米子市皆生温泉3-4-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    皆生温泉　皆生シーサイドホテル　海の四季
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">皆生温泉　皆生シーサイドホテル　海の四季</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【楽天アワード2025受賞】14年連続＆通算17回目！全室オーシャンフロント！
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県美方郡新温泉町湯1610
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    山陰湯村温泉　湧泉の宿　ゆあむ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">山陰湯村温泉　湧泉の宿　ゆあむ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【和モダンな温泉宿】2023年2月温泉付客室＜かわみ＞3タイプ誕生。全34室
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鳥取県米子市皆生温泉4-19-10
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    皆生温泉　華水亭
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">皆生温泉　華水亭</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
                   </p>
                   
@@ -281,9 +265,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="nakatajima_dune" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                静岡県浜松市ふるさと納税：遠州のからっ風が描く風紋美「中田島砂丘」と浜名湖天然温泉・うなぎ宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">静岡県浜松市ふるさと納税：遠州のからっ風が描く風紋美「中田島砂丘」と浜名湖天然温泉・うなぎ宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 アカウミガメの産卵地としても知られる遠州灘の中田島砂丘。広大な砂浜を渡る潮風を感じ、浜名湖畔の天然温泉で癒やされながら、本場浜松のふっくら香ばしい鰻蒲焼きを味わえます。
               </p>
@@ -311,9 +293,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県浜松市中央区西伊場町58-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    スーパーホテル浜松　天然温泉「浜松出世の湯」
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">スーパーホテル浜松　天然温泉「浜松出世の湯」</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【無料駐車場＆無料健康朝食＆男女別天然温泉】※駐車場利用不可プランにご注意。駐車は普通自動車のみ可能
                   </p>
@@ -357,9 +337,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県湖西市古見1049-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートイン浜名湖
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートイン浜名湖</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     朝食無料！大浴場完備！全室BS・WOWOW視聴無料！
                   </p>
@@ -388,9 +366,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="fukiage_dune" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                鹿児島県南さつま市・日置・指宿ふるさと納税：日本最長47kmの白砂青松「吹上浜」と指宿名物天然砂むし温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">鹿児島県南さつま市・日置・指宿ふるさと納税：日本最長47kmの白砂青松「吹上浜」と指宿名物天然砂むし温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 東シナ海に面してどこまでも続く日本最長の砂丘・吹上浜。「砂の祭典」でも有名で、夕日の名所としても名高い海岸美を巡り、指宿の温かい砂に包まれる砂むし温泉と黒豚しゃぶしゃぶを満喫できます。
               </p>
@@ -418,9 +394,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県日置市吹上町湯之浦1106
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    中島温泉旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">中島温泉旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     西郷隆盛も訪れた名湯、歴史ある老舗純和風旅館。一日三組限定で一組に三部屋使用。天然かけ流しの硫黄泉。
                   </p>
@@ -481,9 +455,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 日御碕・犬吠埼・室戸岬の岬リゾート。
               </p>
@@ -497,9 +469,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 堂ヶ島・由良・白浜の茜色マジックアワー温泉。
               </p>
@@ -513,9 +483,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天。
               </p>
@@ -533,9 +501,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -614,9 +580,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふるさと納税厳選ガイド鳥取砂丘・中田島砂丘・吹上浜の海宿」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

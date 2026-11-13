@@ -285,10 +285,8 @@ export default function OkuhidaWinterPage() {
             <Mountain className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 北アルプス白銀の山岳美と日本一の雪見露天特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】<br className="hidden sm:inline" />
-            圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月奥飛騨温泉郷の雪見露天と北アルプス絶景】<br className="hidden sm:inline" />
+            圧倒的湯量と雄大な山岳美・飛騨牛朴葉味噌焼き会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             槍ヶ岳・穂高連峰の麓に湧く毎分44,000Lの天然名湯。11月下旬の初雪から12月の白銀世界へと染まる渓谷で、息をのむ大自然と湯けむりに包まれる雪見露天風呂。香ばしい飛騨牛朴葉味噌焼きと囲炉裏の温もりに浸る至福の冬旅。
           </p>
@@ -314,9 +312,7 @@ export default function OkuhidaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Northern Alps Hot Spring Paradise</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                北アルプスの懐に抱かれた露天風呂天国。初冬の奥飛騨が魅せる白銀と湯煙の神秘
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">北アルプスの懐に抱かれた露天風呂天国。初冬の奥飛騨が魅せる白銀と湯煙の神秘</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function OkuhidaWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-600" />
-                11月・12月奥飛騨温泉郷 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-600" />
+                11月・12月奥飛騨温泉郷 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 日本一の露天風呂数と圧倒的湯量・新穂高ロープウェイから望む360度大雪山パノラマ・本場飛騨牛朴葉味噌会席
               </p>
@@ -380,17 +374,13 @@ export default function OkuhidaWinterPage() {
             <div className="p-2 rounded-xl bg-sky-50 text-sky-800">
               <Snowflake className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11月・12月の気候特性と雪道・服装の完全準備ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の気候特性と雪道・服装の完全準備ガイド</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Calendar className="w-4 h-4 text-emerald-600" />
-                初冬の気温推移と降雪の時期
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Calendar className="w-4 h-4 text-emerald-600" />
+                初冬の気温推移と降雪の時期</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 奥飛騨温泉郷は標高が約800m（平湯）から1,000m超（新穂高）に位置するため、東京や名古屋などの平野部と比べて気温が約8〜10度低くなります。
               </p>
@@ -402,10 +392,8 @@ export default function OkuhidaWinterPage() {
             </div>
             
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Car className="w-4 h-4 text-amber-600" />
-                自動車アクセスとスタッドレス必須条件
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Car className="w-4 h-4 text-amber-600" />
+                自動車アクセスとスタッドレス必須条件</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 11月中旬以降にマイカーやレンタカーで奥飛騨温泉郷を訪れる場合、<strong>全行程でスタッドレスタイヤの装着が絶対に必須</strong>です。
               </p>
@@ -427,9 +415,7 @@ export default function OkuhidaWinterPage() {
             <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
               <Landmark className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              個性豊かな5つの温泉地：平湯・福地・新平湯・栃尾・新穂高
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">個性豊かな5つの温泉地：平湯・福地・新平湯・栃尾・新穂高</h2>
           </div>
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
             奥飛騨温泉郷の魅力は、車で十数分圏内に趣も泉質もまったく異なる5つの温泉地が点在している点にあります。旅のスタイルやお好みの泉質に合わせて最適な滞在拠点を選べます。
@@ -437,28 +423,22 @@ export default function OkuhidaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Flame className="w-4 h-4 text-emerald-600" />
-                平湯温泉（ひらゆ）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Flame className="w-4 h-4 text-emerald-600" />
+                平湯温泉（ひらゆ）</h3>
               <p className="text-stone-600 leading-relaxed">
                 奥飛騨最古の温泉地。戦国時代、武田信玄の軍勢が毒霧に倒れた際、白猿が導いて発見した伝説を持ちます。ナトリウム・カルシウム-炭酸水素塩・塩化物泉など、湯の花が舞う褐色の濃厚な濁り湯が特徴。バスターミナルがあり交通の要衝。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Sparkles className="w-4 h-4 text-emerald-600" />
-                福地温泉（ふくじ）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Sparkles className="w-4 h-4 text-emerald-600" />
+                福地温泉（ふくじ）</h3>
               <p className="text-stone-600 leading-relaxed">
                 平安時代に村上天皇が湯治に訪れたことから「天皇泉」とも呼ばれる隠れ里。古民家が建ち並び、静寂に包まれた大人向けの高級旅館が集まります。エメラルドグリーンに輝く自家源泉など、驚異的な湧出量の純生掛け流しが自慢。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Mountain className="w-4 h-4 text-emerald-600" />
-                新穂高温泉（しんほたか）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Mountain className="w-4 h-4 text-emerald-600" />
+                新穂高温泉（しんほたか）</h3>
               <p className="text-stone-600 leading-relaxed">
                 北アルプス槍ヶ岳や穂高連峰の登山口に位置する山岳秘湯。蒲田川の清流沿いに巨岩を配した野趣あふれる川床露天風呂が点在し、雪化粧した3,000m峰を真正面に仰ぎ見る日本屈指の大自然ロケーションを誇ります。
               </p>
@@ -473,9 +453,7 @@ export default function OkuhidaWinterPage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>Rakuten Travel Verified Luxury Inns</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              11・12月奥飛騨温泉郷 泊まりたい名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">11・12月奥飛騨温泉郷 泊まりたい名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの高評価データと現地取材をもとに、雪見露天風呂の風情、飛騨牛料理のクオリティ、おもてなしの格式を兼ね備えた最高峰の5宿を厳選。
             </p>
@@ -517,9 +495,7 @@ export default function OkuhidaWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -531,10 +507,8 @@ export default function OkuhidaWinterPage() {
                       </p>
 
                       <div className="pt-2 space-y-2">
-                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-emerald-800">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
-                          宿の魅力と客室・温泉・美食のこだわり
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-emerald-800"><CheckCircle2 className="w-3.5 h-3.5 text-emerald-600" />
+                          宿の魅力と客室・温泉・美食のこだわり</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {h.story}
                         </p>
@@ -588,9 +562,7 @@ export default function OkuhidaWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Utensils className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の味覚の真髄：極上A5飛騨牛の朴葉味噌焼きと炭火囲炉裏会席
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の味覚の真髄：極上A5飛騨牛の朴葉味噌焼きと炭火囲炉裏会席</h2>
           </div>
           
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
@@ -599,19 +571,15 @@ export default function OkuhidaWinterPage() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-amber-600" />
-                  伝統の郷土料理「朴葉味噌焼き」の奥深さ
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-600" />
+                  伝統の郷土料理「朴葉味噌焼き」の奥深さ</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   朴（ほお）の木の枯葉は火に強く、独特の芳香を持ちます。この葉の上に、地元の麹味噌、みりん、刻みネギ、椎茸などを合わせ、その上に上質な飛騨牛を乗せて炭火でじっくりと炙ります。味噌の焦げる香ばしい香りが立ち上り、レアに仕上がった飛騨牛を絡めて頬張れば、肉の脂の甘みと味噌の熟成されたコクが混然一体となり、至福の美味しさが広がります。
                 </p>
               </div>
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-amber-600" />
-                  囲炉裏でじっくり焼く清流の恵みと骨酒
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-amber-600" />
+                  囲炉裏でじっくり焼く清流の恵みと骨酒</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   北アルプスの雪解け水で育つ清流の女王「岩魚（いわな）」。囲炉裏の炭火の周りに串を立て、遠火で数時間かけてじっくりと焼き上げます。皮はパリッと香ばしく、身はふっくらジューシー。さらに、素焼きした熱々の岩魚に辛口の熱燗を注ぎ込む名物「岩魚の骨酒」は、魚の旨味と脂が酒に溶け出し、冷え切った冬の体を芯から温めてくれます。
                 </p>
@@ -626,9 +594,7 @@ export default function OkuhidaWinterPage() {
             <div className="p-2 rounded-xl bg-emerald-50 text-emerald-800">
               <Clock className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              1泊2日 理想の冬の王道モデルコース：白銀アルプスと名湯・飛騨牛を満喫
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 理想の冬の王道モデルコース：白銀アルプスと名湯・飛騨牛を満喫</h2>
           </div>
 
           <div className="space-y-6">
@@ -638,9 +604,7 @@ export default function OkuhidaWinterPage() {
                 <span className="px-2.5 py-1 bg-emerald-100 text-emerald-800 font-bold text-xs rounded-md">
                   1日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  高山から奥飛騨へ・平湯大滝の氷瀑予兆と雪見露天風呂
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">高山から奥飛騨へ・平湯大滝の氷瀑予兆と雪見露天風呂</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>11:30 JR高山駅到着：</strong>特急ひだ号で高山駅へ。駅前で濃飛バス新穂高温泉行きに乗車、またはスタッドレス装着レンタカーで出発。</li>
@@ -657,9 +621,7 @@ export default function OkuhidaWinterPage() {
                 <span className="px-2.5 py-1 bg-emerald-100 text-emerald-800 font-bold text-xs rounded-md">
                   2日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  新穂高ロープウェイで標高2,156mの白銀パノラマ＆飛騨高山観光へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">新穂高ロープウェイで標高2,156mの白銀パノラマ＆飛騨高山観光へ</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>07:30 朝の澄んだ空気で朝風呂＆郷土朝食：</strong>朝の露天風呂で目覚め、朴葉味噌や温泉水で炊いたご飯で活力をチャージ。</li>
@@ -687,10 +649,8 @@ export default function OkuhidaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -704,10 +664,8 @@ export default function OkuhidaWinterPage() {
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-emerald-700" />
-              あわせて読みたい全国の冬特集・関連温泉ガイド
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-emerald-700" />
+              あわせて読みたい全国の冬特集・関連温泉ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               冬の味覚、名湯露天風呂、雪景色を楽しむ日本全国の厳選特集記事。旅の目的に合わせてぜひご覧ください。
             </p>

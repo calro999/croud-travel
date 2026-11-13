@@ -201,9 +201,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-rose-200">
           <div className="border-l-4 border-rose-600 pl-4 mb-6">
             <span className="text-rose-600 text-xs font-black tracking-widest uppercase block">Autumn Front Progression</span>
-            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">
-              箱根紅葉前線2026 標高1,000mから湯本へと下る4大ゾーン
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">箱根紅葉前線2026 標高1,000mから湯本へと下る4大ゾーン</h2>
           </div>
           <p className="text-neutral-600 text-sm sm:text-base leading-relaxed mb-6">
             カルデラ地形の箱根は、芦ノ湖や仙石原（標高700m前後）から色づき始め、強羅（500m）、そして箱根湯本（100m）へと紅葉がリレーされます。
@@ -226,9 +224,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                     </span>
                   </div>
 
-                  <h3 className="text-lg font-black text-neutral-900 mb-1">
-                    {item.zone}
-                  </h3>
+                  <h3 className="text-lg font-black text-neutral-900 mb-1">{item.zone}</h3>
                   <p className="text-xs font-bold text-stone-500 mb-3">
                     {item.elevation} ｜ <span className="text-rose-700">{item.tag}</span>
                   </p>
@@ -260,9 +256,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         <section className="bg-gradient-to-br from-rose-950 via-stone-900 to-red-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl border border-rose-800">
           <div className="border-l-4 border-rose-500 pl-4 mb-6">
             <span className="text-rose-400 text-xs font-black tracking-widest uppercase block">Smart Travel Tips</span>
-            <h2 className="text-xl sm:text-3xl font-black text-rose-100">
-              紅葉シーズンの箱根を快適に巡る3大攻略ルール
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-rose-100">紅葉シーズンの箱根を快適に巡る3大攻略ルール</h2>
           </div>
 
           <div className="space-y-4">
@@ -275,9 +269,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                   {tip.icon}
                 </div>
                 <div>
-                  <h3 className="text-base sm:text-lg font-bold text-rose-100 mb-1">
-                    {tip.title}
-                  </h3>
+                  <h3 className="text-base sm:text-lg font-bold text-rose-100 mb-1">{tip.title}</h3>
                   <p className="text-rose-200/80 text-xs sm:text-sm leading-relaxed">
                     {tip.desc}
                   </p>
@@ -291,17 +283,13 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-rose-200">
           <div className="border-l-4 border-rose-600 pl-4 mb-6">
             <span className="text-rose-600 text-xs font-black tracking-widest uppercase block">Night Scenic Moments</span>
-            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">
-              秋の夜長を彩るライトアップ＆夜間絶景スポット
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">秋の夜長を彩るライトアップ＆夜間絶景スポット</h2>
           </div>
 
           <div className="grid md:grid-cols-3 gap-5">
             <div className="border border-rose-200 rounded-2xl p-5 bg-rose-50/30">
               <span className="text-rose-700 font-bold text-xs block mb-1">箱根登山鉄道</span>
-              <h3 className="font-black text-neutral-900 text-base mb-2">
-                出山の鉄橋 夜間徐行ライトアップ
-              </h3>
+              <h3 className="font-black text-neutral-900 text-base mb-2">出山の鉄橋 夜間徐行ライトアップ</h3>
               <p className="text-neutral-600 text-xs sm:text-sm leading-relaxed">
                 塔ノ沢〜出山信号場間の早川橋梁で、列車内の照明を落としてライトアップされた渓谷の紅葉を車窓から鑑賞。夜闇に浮かぶ真っ赤なカエデが幻想的。
               </p>
@@ -309,9 +297,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
 
             <div className="border border-rose-200 rounded-2xl p-5 bg-rose-50/30">
               <span className="text-rose-700 font-bold text-xs block mb-1">箱根強羅公園</span>
-              <h3 className="font-black text-neutral-900 text-base mb-2">
-                秋の夜間特別開園＆イルミネーション
-              </h3>
+              <h3 className="font-black text-neutral-900 text-base mb-2">秋の夜間特別開園＆イルミネーション</h3>
               <p className="text-neutral-600 text-xs sm:text-sm leading-relaxed">
                 噴水池を中心に歴史ある洋風庭園の紅葉樹がライトアップ。澄み切った秋の夜空の下、温かいホットワインやショコラを味わいながら散策できます。
               </p>
@@ -319,9 +305,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
 
             <div className="border border-rose-200 rounded-2xl p-5 bg-rose-50/30">
               <span className="text-rose-700 font-bold text-xs block mb-1">小涌谷 岡田美術館</span>
-              <h3 className="font-black text-neutral-900 text-base mb-2">
-                開化亭とモミジ庭園の夕暮れライト
-              </h3>
+              <h3 className="font-black text-neutral-900 text-base mb-2">開化亭とモミジ庭園の夕暮れライト</h3>
               <p className="text-neutral-600 text-xs sm:text-sm leading-relaxed">
                 名画鑑賞の後は、敷地内の日本庭園へ。夕暮れ時から仄かに照らされる紅葉と、足湯カフェから眺める大壁画「風・刻」の贅沢な時間。
               </p>
@@ -333,9 +317,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-rose-200">
           <div className="border-l-4 border-rose-600 pl-4 mb-4">
             <span className="text-rose-600 text-xs font-black tracking-widest uppercase block">Featured Onsen Ryokan</span>
-            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">
-              紅葉露天風呂と秋懐石に酔いしれる！箱根の厳選宿
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-neutral-900">紅葉露天風呂と秋懐石に酔いしれる！箱根の厳選宿</h2>
           </div>
           <p className="text-neutral-600 text-sm sm:text-base leading-relaxed mb-8">
             白濁した大涌谷源泉のにごり湯露天風呂、客室専用露天から望む箱根外輪山の山紅葉、そして松茸や戻り鰹など秋の味覚満載の懐石料理。
@@ -375,9 +357,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
                   </div>
 
                   <div className="p-5">
-                    <h3 className="font-bold text-base text-neutral-900 mb-2 leading-snug line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-base text-neutral-900 mb-2 leading-snug line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-rose-950 line-clamp-2 mb-3 bg-rose-100/60 p-2 rounded-lg border border-rose-200">
                         {hotel.hotelSpecial}
@@ -428,9 +408,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
               <span className="bg-rose-600 text-white text-[10px] font-black px-2 py-0.5 rounded-full">
                 直行・快適アクセス
               </span>
-              <h4 className="text-base sm:text-lg font-black text-rose-950">
-                新宿・東京発！楽天トラベル 箱根紅葉めぐり特選バスツアー＆宿泊パック
-              </h4>
+              <h4 className="text-base sm:text-lg font-black text-rose-950">新宿・東京発！楽天トラベル 箱根紅葉めぐり特選バスツアー＆宿泊パック</h4>
               <p className="text-xs sm:text-sm text-neutral-600">
                 箱根海賊船クルーズ・箱根美術館入場券・強羅温泉の入浴がセットになった人気秋プランが楽天ポイント対象でお得に予約可能。
               </p>
@@ -448,18 +426,14 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
 
         {/* 5. 内部リンク＆関連記事 */}
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-8 border border-stone-300/80">
-          <h2 className="text-lg sm:text-xl font-bold text-neutral-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> あわせて読みたい箱根トラベルガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-neutral-900 mb-4 flex items-center gap-2">あわせて読みたい箱根トラベルガイド</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/hakone-travel-budget-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-500 hover:shadow transition group"
             >
               <span className="text-xs text-rose-700 font-bold block mb-1">予算・費用ガイド</span>
-              <h3 className="text-sm sm:text-base font-bold text-neutral-800 group-hover:text-rose-700 transition">
-                【箱根旅行 予算シミュレーション】宿泊費・ロマンスカー・飲食代まとめ →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-neutral-800 group-hover:text-rose-700 transition">【箱根旅行 予算シミュレーション】宿泊費・ロマンスカー・飲食代まとめ →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 カップル・家族旅行で賢く楽しむ箱根のベストコスパ旅行術。
               </p>
@@ -470,9 +444,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-rose-500 hover:shadow transition group"
             >
               <span className="text-xs text-rose-700 font-bold block mb-1">雨の日・室内プラン</span>
-              <h3 className="text-sm sm:text-base font-bold text-neutral-800 group-hover:text-rose-700 transition">
-                【箱根 雨の日の観光モデルコース】ポーラ美術館＆おこもり温泉旅館 →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-neutral-800 group-hover:text-rose-700 transition">【箱根 雨の日の観光モデルコース】ポーラ美術館＆おこもり温泉旅館 →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 雨天でも濡れずに楽しめる室内アート＆工芸体験の決定版。
               </p>
@@ -485,9 +457,7 @@ export default function HakoneAutumnLeavesHotspringGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と箱根登山鉄道・強羅公園・美術館の紅葉巡り＆にごり湯旅館の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

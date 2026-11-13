@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            神秘の湖畔に広がる太古の森とアイヌの魂——雄阿寒岳・雌阿寒岳の雄姿を望む名湯リゾートで過ごす至高の休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">神秘の湖畔に広がる太古の森とアイヌの魂——雄阿寒岳・雌阿寒岳の雄姿を望む名湯リゾートで過ごす至高の休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北海道釧路市阿寒町、阿寒摩周国立公園の中心に位置する阿寒湖（あかんこ）温泉。特別天然記念物「マリモ」が生息する神秘のカルデラ湖の南岸に湧き出る名湯です。阿寒湖温泉の歴史は古く、1858年に松浦武四郎が調査した際、すでにアイヌの人々が温泉を利用していた記録が残されています。湖の向こうには雄大な円錐形の山容を誇る「雄阿寒岳」がそびえ、四季折々の針葉樹林と穏やかな湖面が織りなす大自然のパノラマは、息を呑むほどの美しさです。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道釧路市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  あかん遊久の里鶴雅
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">あかん遊久の里鶴雅</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   最上階展望大浴場「天頂の湯」と阿寒湖一望の空中露天風呂！鶴雅グループのフラッグシップ名門リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  あかん遊久の里 鶴雅（つるが） —— 阿寒湖と連峰を見晴らす天空の湯。大自然と調和する圧倒的スケール
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">あかん遊久の里 鶴雅（つるが） —— 阿寒湖と連峰を見晴らす天空の湯。大自然と調和する圧倒的スケール</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 阿寒湖と雄阿寒岳の絶景を眼下に望む展望大浴場「天頂の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">阿寒湖と雄阿寒岳の絶景を眼下に望む展望大浴場「天頂の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">最上階に位置するパノラマ露天風呂。湖面を渡る清らかな風を感じながら、まるで空に浮かんでいるかのような極上の開放感を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 阿寒湖の波打ち際に湧く一階大浴場「鹿泉の湯」の野天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">阿寒湖の波打ち際に湧く一階大浴場「鹿泉の湯」の野天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">巨岩を配した野趣あふれる庭園露天風呂。丸太風呂や洞窟風呂など多彩な湯船で、阿寒の名湯を贅沢に満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> オープンキッチンで道東の山海の幸が並ぶ豪華ディナービュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">オープンキッチンで道東の山海の幸が並ぶ豪華ディナービュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">目の前で焼き上げるステーキや新鮮な握り寿司、北海道スイーツがずらりと並ぶ人気ビュッフェ。個室料亭での本格和食会席も選べます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道釧路市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  阿寒湖温泉　あかん鶴雅別荘鄙の座
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">阿寒湖温泉　あかん鶴雅別荘鄙の座</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全二十五室すべてに温泉露天風呂を完備！十三歳未満お断りの大人のための至極のオールインクルーシブ宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  阿寒湖温泉 あかん鶴雅別荘 鄙の座（ひなのざ） —— 故郷のような温もりと最高峰の贅。客室露天風呂と阿寒湖の静寂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">阿寒湖温泉 あかん鶴雅別荘 鄙の座（ひなのざ） —— 故郷のような温もりと最高峰の贅。客室露天風呂と阿寒湖の静寂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室に阿寒湖を望むプライベート温泉露天風呂を完備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室に阿寒湖を望むプライベート温泉露天風呂を完備</h5>
                     <p className="text-stone-600 leading-relaxed">ゆったりとした広さの専用露天風呂。誰にも邪魔されず、静かな湖面と森を眺めながら贅沢な源泉掛け流し温泉を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> バーラウンジや客室冷蔵庫のドリンクが無料のオールインクルーシブ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">バーラウンジや客室冷蔵庫のドリンクが無料のオールインクルーシブ</h5>
                     <p className="text-stone-600 leading-relaxed">宿泊代金に飲食が含まれるストレスフリーなシステム。バーカウンターで阿寒湖の夜景を眺めながら銘酒を心ゆくまで味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 個室料亭でいただく道東の厳選素材を極めた創作茶懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">個室料亭でいただく道東の厳選素材を極めた創作茶懐石</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が一品一品に情熱を注ぎ込む芸術的な懐石料理。オホーツクの海鮮や十勝牛など、北海道の旬の旨味が凝縮されています。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道釧路市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ニュー阿寒ホテル（グランベルホテルズ&リゾーツ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ニュー阿寒ホテル（グランベルホテルズ&リゾーツ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   阿寒湖と一体化する屋上インフィニティ温泉「天空ガーデンスパ」！パノラマ絶景と豪華リゾートバイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ニュー阿寒ホテル —— 屋上インフィニティスパからの絶景。阿寒湖畔に建つ大人気エンタメ温泉ホテル
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ニュー阿寒ホテル —— 屋上インフィニティスパからの絶景。阿寒湖畔に建つ大人気エンタメ温泉ホテル</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 阿寒湖と空が一体化する屋上インフィニティ温泉「天空ガーデンスパ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">阿寒湖と空が一体化する屋上インフィニティ温泉「天空ガーデンスパ」</h5>
                     <p className="text-stone-600 leading-relaxed">専用の湯浴み着を着て男女一緒に楽しめる屋上絶景スパ。阿寒湖の大パノラマと満天の星空を仰ぐ唯一無二の入浴体験が人気です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階展望大浴場「雲海」とガラス張りのサウナ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階展望大浴場「雲海」とガラス張りのサウナ</h5>
                     <p className="text-stone-600 leading-relaxed">阿寒湖を見下ろす広々とした大浴場。セルフロウリュが楽しめる本格サウナと冷水風呂で、極上の「ととのい」を体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の食材をふんだんに取り入れた豪華和洋中リゾートバイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の食材をふんだんに取り入れた豪華和洋中リゾートバイキング</h5>
                     <p className="text-stone-600 leading-relaxed">出来立ての鉄板焼きや握り寿司、北海道スイーツが並ぶ充実のディナー。家族連れやグループ旅行にも最適です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 阿寒湖温泉・アイヌコタン＆マリモ観光船ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 阿寒湖温泉・アイヌコタン＆マリモ観光船ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                阿寒湖アイヌコタンでの伝統芸能「古式舞踊」鑑賞と木彫り工芸
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                阿寒湖アイヌコタンでの伝統芸能「古式舞踊」鑑賞と木彫り工芸</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 約120名が暮らす北海道最大のアイヌの集落。アイヌシアター「イコロ」でのユネスコ無形文化遺産「アイヌ古式舞踊」や「ロストカムイ」の上演、民芸品店巡りが楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                阿寒湖遊覧船でのマリモ観察（チュウルイ島）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                阿寒湖遊覧船でのマリモ観察（チュウルイ島）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 湖上を巡る定期遊覧船。途中で立ち寄るチュウルイ島のマリモ展示観察センターでは、巨大で美しい球状マリモを間近で見学できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                ボッケ遊歩道（泥火山）の原生林散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                ボッケ遊歩道（泥火山）の原生林散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街のすぐ裏手に広がる遊歩道。地中の泥が熱いガスとともに湧き出る「ボッケ（泥火山）」や、エゾシカやエゾリスが生息する豊かな森の散歩を楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道釧路市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道釧路市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】あかん遊久の里鶴雅を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】あかん遊久の里鶴雅を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とあかん遊久の里鶴雅の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とあかん遊久の里鶴雅の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

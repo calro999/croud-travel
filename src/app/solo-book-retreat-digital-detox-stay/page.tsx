@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            紙の温もりをめくる音と、ほのかに漂う檜と源泉の香り——言葉の森に迷い込み、自分を取り戻す「静寂の読書リトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">紙の温もりをめくる音と、ほのかに漂う檜と源泉の香り——言葉の森に迷い込み、自分を取り戻す「静寂の読書リトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             毎日のように届くメッセージ、SNSのタイムライン、仕事のメール……気付けば私たちは1日中画面をスクロールし、脳が絶え間ない情報過多に晒されています。「一度頭を空っぽにして、じっくり本の世界に浸りたい」「誰の連絡も気にせず、心に残る一冊と向き合いたい」。そんな現代人の願いを叶えるのが、「読書特化型ホテル」や「文豪たちが愛した歴史ある湯宿」です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   「美食と本」がテーマの現代の知の拠点！蔦屋書店が選書した約2,500冊の本に囲まれるライブラリーホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  芝パークホテル —— 芝大門・増上寺近くの文化の隠れ家。館内随所に広がるブックラウンジと客室読書ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">芝パークホテル —— 芝大門・増上寺近くの文化の隠れ家。館内随所に広がるブックラウンジと客室読書ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   夏目漱石や島崎藤村が筆を走らせた創業三百余年の老舗！木造四階建ての登録有形文化財と自家源泉掛け流し
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  湯河原温泉 源泉 上野屋 —— 万葉集にも詠まれた名湯。文豪の足跡が残る書斎風の空間と肌を潤す天然温泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">湯河原温泉 源泉 上野屋 —— 万葉集にも詠まれた名湯。文豪の足跡が残る書斎風の空間と肌を潤す天然温泉</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   志賀直哉『城の崎にて』誕生の舞台！安土桃山以来の歴史を誇る国登録有形文化財・日本旅館の最高峰
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉 西村屋本館 —— 約160年の歴史を紡ぐ数奇屋造りの名建築。日本庭園を眺める静寂の客室と極上の松葉ガニ・但馬牛
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">城崎温泉 西村屋本館 —— 約160年の歴史を紡ぐ数奇屋造りの名建築。日本庭園を眺める静寂の客室と極上の松葉ガニ・但馬牛</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              デジタルデトックス＆読書泊を成功させる3つのステップ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">デジタルデトックス＆読書泊を成功させる3つのステップ</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. チェックインと同時にスマホをフロントの金庫または引き出しへ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. チェックインと同時にスマホをフロントの金庫または引き出しへ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 「急ぎの連絡が入るかも」という不安を断ち切るため、親しい人には事前に「週末はデジタルデトックス中」と伝えておくのがコツです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 読みたい本は「ジャンルの異なる3冊」を用意する
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 読みたい本は「ジャンルの異なる3冊」を用意する</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 物語に没入できる長編小説、気軽に読めるエッセイや詩集、視野を広げる新書や教養本を各1冊ずつ。気分に合わせて読み分けると飽きずに楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 読書ノートと万年筆を持参して思考をアウトプット
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 読書ノートと万年筆を持参して思考をアウトプット</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 心に刺さったフレーズや、本を読んでふと浮かんだ自分の本音をノートに手書きでメモ。手で書くことで思考が整理され、深い気づきが得られます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で歴史ある高級旅館に泊まっても居心地は悪くありませんか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で歴史ある高級旅館に泊まっても居心地は悪くありませんか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 西村屋本館や上野屋などの老舗宿は、もともと文豪たちがひとりで長期滞在して執筆を行っていた歴史があるため、ひとり客への気配りと適度な距離感が非常に洗練されています。安心して宿泊できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>館内Wi-Fiは使えますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>館内Wi-Fiは使えますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ご紹介した宿はいずれも現代的な高速Wi-Fiを完備しています。完全に通信を遮断するだけでなく、「調べ物だけネットを使い、SNSは見ない」といった柔軟な読書滞在が可能です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】湯河原温泉 源泉 上野屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】湯河原温泉 源泉 上野屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

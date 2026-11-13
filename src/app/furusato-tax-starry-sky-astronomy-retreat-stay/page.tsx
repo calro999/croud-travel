@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>都会では見られない天の川と無数の星々を、返礼クーポンで泊まる絶景宿で</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>都会では見られない天の川と無数の星々を、返礼クーポンで泊まる絶景宿で</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             澄み切った夜空に広がる無数の星、肉眼でくっきりと捉えられる天の川。光害の少ない高原や山麓のリゾートホテルでは、専任ガイドによる天体観測ツアーや大型望遠鏡を備えた専用ドーム、星空を仰ぐ露天風呂など、非日常の感動体験が待っています。楽天ふるさと納税を活用して、天空のパノラマと天然温泉に包まれる極上リトリートを叶えましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    満天の星空ナイトツアーや天体望遠鏡プログラム付き
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">満天の星空ナイトツアーや天体望遠鏡プログラム付き</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     ゴンドラで標高1,400mの山頂へ向かうナイトツアーや、ホテル屋上テラスでの星空解説会など、宿泊者ならではのプレミアムな観測体験がセットになったプランをふるさと納税で賢く手配できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    星空を映すインフィニティ露天風呂と清涼な高原空気
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">星空を映すインフィニティ露天風呂と清涼な高原空気</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     湯面に星々が反射する幻想的な露天風呂や、心地よい夜風を感じるウッドデッキテラス。日常の喧騒から完全に解放され、心身が深くほどけていくリラクゼーションを味わえます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    3年間有効！新月期や流星群のベストシーズンを逃さず予約
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">3年間有効！新月期や流星群のベストシーズンを逃さず予約</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     楽天トラベルふるさと納税クーポンは獲得から最大3年間利用可能。ペルセウス座流星群やふたご座流星群、月明かりのない新月の日など、天体観測のベストコンディションを狙って柔軟に旅程を組むことができます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="achi_starry_sky" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県阿智村ふるさと納税：環境省認定「日本一の星空」ナイトツアー＆美肌温泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県阿智村ふるさと納税：環境省認定「日本一の星空」ナイトツアー＆美肌温泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       「日本一星空が美しい村」として全国に名を馳せる南信州・阿智村。ヘブンスそのはらの天空の楽園ナイトツアーと、pH9.7を誇る全国屈指の「美肌の湯・昼神温泉」が融合した贅沢な湯宿ステイが楽しめます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              昼神温泉　信州公共の宿　鶴巻荘
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">昼神温泉　信州公共の宿　鶴巻荘</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               やわらかな畳敷きの浴場で和の粋と深いやさしさに包まれる、ツルツルの温泉と豊かな自然に囲まれた純和風宿
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              昼神温泉　癒楽（ゆら）の宿　清風苑
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">昼神温泉　癒楽（ゆら）の宿　清風苑</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              昼神温泉　石苔亭いしだ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">昼神温泉　石苔亭いしだ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               平屋造り全17室純和風旅館◇露天風呂付き客室◇能舞台定期公演◇信州会席、美肌の湯、スパ、貸切風呂
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kiyosato_starry_sky" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県北杜市ふるさと納税：八ヶ岳南麓・清里高原の星空テラス＆本格天体望遠鏡</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県北杜市ふるさと納税：八ヶ岳南麓・清里高原の星空テラス＆本格天体望遠鏡</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       標高1,000mを超える八ヶ岳南麓は、空気が澄み渡り晴天率も日本トップクラス。ホテル専用の天文台やウッドデッキテラスから、天の川や四季の星座をじっくり観察できる極上の高原リゾートです。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八ヶ岳・清里高原　清泉寮　ホテル＆コテージ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八ヶ岳・清里高原　清泉寮　ホテル＆コテージ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               標高１４００ｍ！八ヶ岳南麓に位置する清泉寮◆眺望の良さと温かいおもてなしが自慢の宿
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八ヶ岳グレイスホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八ヶ岳グレイスホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               全客室より八ヶ岳を一望★星空観察会★毎晩開催中！清里まで車で5分。直前割や一人旅も大歓迎！
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="daisen_starry_sky" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>鳥取県伯耆町ふるさと納税：「星取県」大山山麓のダイナミックな星空＆名峰温泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>鳥取県伯耆町ふるさと納税：「星取県」大山山麓のダイナミックな星空＆名峰温泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       どの市町村からも天の川が見えることから「星取県」を宣言した鳥取県。名峰・大山の山懐に抱かれたリゾートホテルで、大山山麓の豊かな自然と夜空を埋め尽くす無数の星々、そして良質な天然温泉に癒やされます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテル大山　しろがね
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテル大山　しろがね</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               四季の移ろいを肌で感じながら自然と対話する。そんなひとときをお過ごし下さい。
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              休暇村　奥大山　（旧　大山鏡ヶ成）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">休暇村　奥大山　（旧　大山鏡ヶ成）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               自然豊かな高原で、四季折々くつろぎ楽しめる公共の宿
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ＨＯＴＥＬ星取テラスせきがね
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＨＯＴＥＬ星取テラスせきがね</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【クチコミ4.5点】現代の名工の会席料理と源泉かけ流し露天風呂を満天の星空の下心から堪能できる宿
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】昼神温泉 信州公共の宿 鶴巻荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】昼神温泉 信州公共の宿 鶴巻荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と昼神温泉 信州公共の宿 鶴巻荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と昼神温泉 信州公共の宿 鶴巻荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

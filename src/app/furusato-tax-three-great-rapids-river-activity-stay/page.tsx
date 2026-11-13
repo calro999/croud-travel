@@ -130,9 +130,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              山形県戸沢村・大蔵村ふるさと納税：松尾芭蕉が愛した「最上川舟下り」と雄大な峡谷美を望む温泉旅館
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">山形県戸沢村・大蔵村ふるさと納税：松尾芭蕉が愛した「最上川舟下り」と雄大な峡谷美を望む温泉旅館</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               「五月雨をあつめて早し最上川」の名句で知られる名勝。船頭の唄う舟唄に耳を傾けながら四季折々の峡谷美を愛でる風雅な舟下りを体験し、最上川を眼下に望む展望露天風呂と山形の山海の幸に舌鼓を打つ極上の時間です。
             </p>
@@ -157,11 +155,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147592%2F147592.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147592%2F147592.html" target="_blank" rel="sponsored noopener noreferrer">
                       高見屋　最上川別邸　紅
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山形県最上郡戸沢村古口3058
                   </p>
@@ -219,11 +215,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128473%2F128473.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128473%2F128473.html" target="_blank" rel="sponsored noopener noreferrer">
                       瀬見温泉　旅館　小川屋
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山形県最上郡最上町大堀990
                   </p>
@@ -281,11 +275,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72727%2F72727.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72727%2F72727.html" target="_blank" rel="sponsored noopener noreferrer">
                       羽根沢温泉　加登屋旅館
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山形県最上郡鮭川村中渡1312
                   </p>
@@ -332,9 +324,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              山梨県身延町・富士川町ふるさと納税：日本一の急流美「富士川ラフティング」と信玄公ゆかりの名湯・下部温泉
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">山梨県身延町・富士川町ふるさと納税：日本一の急流美「富士川ラフティング」と信玄公ゆかりの名湯・下部温泉</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               南アルプスと八ヶ岳の水を集め駿河湾へと注ぐ富士川。大迫力の白波を乗り越える爽快ラフティングを満喫した後は、武田信玄の隠し湯として知られる名湯・下部温泉の源泉ぬる湯でじっくりと筋肉の疲れを癒やすリフレッシュ旅です。
             </p>
@@ -359,11 +349,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40916%2F40916.html" target="_blank" rel="sponsored noopener noreferrer">
                       山梨県の温泉旅館　下部温泉郷　下部ホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県南巨摩郡身延町上之平1900
                   </p>
@@ -421,11 +409,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54648%2F54648.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54648%2F54648.html" target="_blank" rel="sponsored noopener noreferrer">
                       身延山三門前　旅館田中屋
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県南巨摩郡身延町身延3660
                   </p>
@@ -483,11 +469,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2501%2F2501.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2501%2F2501.html" target="_blank" rel="sponsored noopener noreferrer">
                       健康・旬彩の宿　下部温泉　ホテル守田
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県南巨摩郡身延町下部990
                   </p>
@@ -534,9 +518,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              熊本県人吉市ふるさと納税：豪快な「球磨川下り」と清流沿いに佇む美肌の名湯・人吉温泉＆球磨焼酎名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">熊本県人吉市ふるさと納税：豪快な「球磨川下り」と清流沿いに佇む美肌の名湯・人吉温泉＆球磨焼酎名宿</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               九州山地から八代海へと流れ出る球磨川。伝統の木造船で激流を縫うように下る豪快な体験の後は、ph値が高くトロリとした肌触りの人吉温泉に浸かり、500年の歴史を誇る球磨焼酎と極上の鮎料理を味わい尽くせます。
             </p>
@@ -561,11 +543,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16280%2F16280.html" target="_blank" rel="sponsored noopener noreferrer">
                       国登録有形文化財の宿　人吉温泉　芳野旅館
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 熊本県人吉市上青井町180
                   </p>
@@ -623,11 +603,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19539%2F19539.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19539%2F19539.html" target="_blank" rel="sponsored noopener noreferrer">
                       人吉温泉　あゆの里
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 熊本県人吉市九日町30
                   </p>
@@ -685,11 +663,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107813%2F107813.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107813%2F107813.html" target="_blank" rel="sponsored noopener noreferrer">
                       ひとよし温泉　旅館　翠嵐楼（すいらんろう）
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 熊本県人吉市温泉町2461-1
                   </p>
@@ -765,9 +741,7 @@ export default function Page() {
               href="/furusato-tax-three-great-fireworks-riverside-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大清流（四万十川・長良川・柿田川）リバーサイド宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大清流（四万十川・長良川・柿田川）リバーサイド宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 日本が誇る奇跡の透明度を誇る清流宿。
               </p>
@@ -778,9 +752,7 @@ export default function Page() {
               href="/furusato-tax-three-famous-waterfalls-healing-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                全国名瀑・日本三大名瀑とマイナスイオン温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">全国名瀑・日本三大名瀑とマイナスイオン温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 那智の滝・袋田の滝・華厳の滝の絶景癒やし旅。
               </p>
@@ -791,9 +763,7 @@ export default function Page() {
               href="/furusato-tax-japan-three-great-hot-springs-heritage-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大峡谷（清津峡・黒部峡谷・瀞峡）絶景秘湯宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大峡谷（清津峡・黒部峡谷・瀞峡）絶景秘湯宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 大自然の造形美と渓谷美を愛でる秘境ステイ。
               </p>
@@ -804,9 +774,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】高見屋 最上川別邸 紅を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高見屋 最上川別邸 紅を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -839,9 +807,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高見屋 最上川別邸 紅の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高見屋 最上川別邸 紅の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

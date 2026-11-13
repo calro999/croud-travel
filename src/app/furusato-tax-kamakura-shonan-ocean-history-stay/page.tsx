@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            青い海と緑の古都が織りなす極上の休日——七里ヶ浜の波音と鶴岡八幡宮の杜に癒やされる洗練の湘南リゾートステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">青い海と緑の古都が織りなす極上の休日——七里ヶ浜の波音と鶴岡八幡宮の杜に癒やされる洗練の湘南リゾートステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             神奈川県南部に位置し、源頼朝が武家政権を開いた歴史の街・鎌倉。三方を緑豊かな山に囲まれ、南は相模湾に開けた天然の要害の地には、鶴岡八幡宮や高徳院の高徳院大仏、長谷寺、円覚寺など名だたる古刹・寺社が点在しています。江ノ電（江ノ島電鉄）が海沿いの住宅街を縫うように走り、七里ヶ浜や由比ヶ浜の海岸線からは江の島と富士山を望む絶景が広がります。歴史散歩と洗練されたコーストカルチャーが見事に融合した、首都圏屈指の憧れリゾートエリアです。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県鎌倉市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鎌倉プリンスホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鎌倉プリンスホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   七里ヶ浜の高台に建つ全室オーシャンビュー！相模湾と江の島、雄大な富士山を望む絶景リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鎌倉プリンスホテル —— 海と空が広がるパノラマビュー。七里ヶ浜の風を感じながら過ごす優雅なリゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鎌倉プリンスホテル —— 海と空が広がるパノラマビュー。七里ヶ浜の風を感じながら過ごす優雅なリゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 客室の窓一面に広がる七里ヶ浜・相模湾と江の島のパノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">客室の窓一面に広がる七里ヶ浜・相模湾と江の島のパノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">全客室がオーシャンビュー。波打ち際のサーファーや美しい夕焼け、遠くに浮かぶ富士山を眺めながらリゾート時間を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 江ノ電「七里ヶ浜駅」から斜行エレベーターですぐのアクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">江ノ電「七里ヶ浜駅」から斜行エレベーターですぐのアクセス</h5>
                     <p className="text-stone-600 leading-relaxed">海沿いの国道134号線から少し上がった高台。駅や海へのアクセスがスムーズで、海辺のカフェ巡りにも最適です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 相模湾の海の幸と鎌倉野菜を取り入れた本格フレンチ＆和食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">相模湾の海の幸と鎌倉野菜を取り入れた本格フレンチ＆和食</h5>
                     <p className="text-stone-600 leading-relaxed">絶景を望むレストラン「ル・トリアノン」でのフレンチコースや鉄板焼き。海を眺めながら優雅なディナーや朝食を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県鎌倉市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＨＯＴＥＬ　ＡＯ　ＫＡＭＡＫＵＲＡ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＨＯＴＥＬ　ＡＯ　ＫＡＭＡＫＵＲＡ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   腰越の海を目前にする洗練のデザイナーズ！名店「松原庵」の本格蕎麦料理と美酒に酔いしれる
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  HOTEL AO KAMAKURA —— 青く澄む海と大人の隠れ家。腰越の潮風に抱かれ、蕎麦と厳選ワインを味わう美食宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">HOTEL AO KAMAKURA —— 青く澄む海と大人の隠れ家。腰越の潮風に抱かれ、蕎麦と厳選ワインを味わう美食宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 腰越海岸の目の前に佇むモダンで洗練された建築デザイン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">腰越海岸の目の前に佇むモダンで洗練された建築デザイン</h5>
                     <p className="text-stone-600 leading-relaxed">潮風を感じる開放的なテラスや中庭。シンプルかつ上質なインテリアが落ち着きと特別感を醸し出します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鎌倉屈指の蕎麦の名店「松原庵」が手がける美食ダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鎌倉屈指の蕎麦の名店「松原庵」が手がける美食ダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">毎朝手打ちされる香り高い蕎麦と、地魚や鎌倉野菜を活かした逸品料理。厳選された日本酒やナチュールワインとのペアリングが絶品です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ゆったりとリラックスできる上質な客室空間とアメニティ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ゆったりとリラックスできる上質な客室空間とアメニティ</h5>
                     <p className="text-stone-600 leading-relaxed">畳敷きのモダン和室や海を望むテラス付きルーム。随所にこだわりが散りばめられ、心地よい大人のエスケープを楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県鎌倉市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルメトロポリタン鎌倉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルメトロポリタン鎌倉</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   若宮大路沿いに佇む洗練の和モダンホテル！鶴岡八幡宮の参道を望み、鎌倉散策の拠点に最高
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ホテルメトロポリタン 鎌倉 —— 古都の風情と現代の快適性が融合。鶴岡八幡宮まで徒歩数分の極上ロケーション
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ホテルメトロポリタン 鎌倉 —— 古都の風情と現代の快適性が融合。鶴岡八幡宮まで徒歩数分の極上ロケーション</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 若宮大路に面し、JR鎌倉駅東口から徒歩2分の抜群の立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">若宮大路に面し、JR鎌倉駅東口から徒歩2分の抜群の立地</h5>
                     <p className="text-stone-600 leading-relaxed">鶴岡八幡宮や小町通りへ徒歩すぐ。朝一番の静かな参拝や夜の落ち着いた鎌倉の街並みをゆったりと楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 中庭の緑を望む吹き抜けロビーと全室バストイレ別の快適客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">中庭の緑を望む吹き抜けロビーと全室バストイレ別の快適客室</h5>
                     <p className="text-stone-600 leading-relaxed">縁側をイメージした小上がりや大きな窓。木の温もりあふれる和モダン空間で、旅の疲れを心地よく癒やせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 「Café&Meal MUJI」での地元食材を活かした朝食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">「Café&Meal MUJI」での地元食材を活かした朝食</h5>
                     <p className="text-stone-600 leading-relaxed">鎌倉野菜や湘南しらす、手作りのお惣菜を取り入れた彩り豊かな朝食。体に優しい味わいで清々しい一日が始まります。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 鎌倉・湘南・鶴岡八幡宮＆江ノ電沿線観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 鎌倉・湘南・鶴岡八幡宮＆江ノ電沿線観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                鶴岡八幡宮参拝と若宮大路・段葛（だんかずら）の散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                鶴岡八幡宮参拝と若宮大路・段葛（だんかずら）の散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 鎌倉武士の守護神として信仰を集めた鎌倉の象徴。春には段葛の桜のトンネルが見事です。参道沿いには小町通りのグルメやスイーツ店が並びます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                江ノ電に乗って巡る極楽寺・長谷寺・鎌倉大仏
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                江ノ電に乗って巡る極楽寺・長谷寺・鎌倉大仏</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 緑のトンネルや海沿いをコトコト走るレトロな江ノ電。紫陽花で名高い長谷寺や、高さ11m余の高徳院国宝大仏など見どころが凝縮しています。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                七里ヶ浜海岸のカフェテラスと江の島サンセット
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                七里ヶ浜海岸のカフェテラスと江の島サンセット</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 「パシフィック ドライブイン」や「bills」など人気カフェが並ぶ七里ヶ浜。富士山と江の島を茜色に染める夕景は湘南随一の絶景です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              神奈川県鎌倉市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">神奈川県鎌倉市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鎌倉プリンスホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鎌倉プリンスホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鎌倉プリンスホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鎌倉プリンスホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

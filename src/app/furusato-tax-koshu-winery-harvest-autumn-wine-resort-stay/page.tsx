@@ -89,9 +89,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            ぶどう畑が黄金に染まる勝沼の丘、樽から注がれる出来立て新酒。美肌温泉と甲州牛マリアージュに酔いしれる秋の休日
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">ぶどう畑が黄金に染まる勝沼の丘、樽から注がれる出来立て新酒。美肌温泉と甲州牛マリアージュに酔いしれる秋の休日</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本ワインの銘醸地として世界から注目を集める山梨県・甲州市勝沼および笛吹市エリア。10月から11月にかけては、ぶどうの収穫が最盛期を迎え、毎年11月3日には出来立ての新酒「山梨ヌーボー（甲州・マスカット・ベーリーA）」が一斉に解禁されます。丘一面に広がるぶどう畑が秋色に色づく中、歴史あるワイナリーを巡って限定ワインや搾りたてのぶどうジュースを試飲し、お気に入りの一本を見つける旅はワイン愛好家にとって至福の体験。そして観光の後は、山梨屈指の湧出量を誇る「石和温泉」のアルカリ性単純温泉でゆったりと湯浴み。さらりとして肌に優しい名湯でリフレッシュした後は、最高級「甲州牛」の鉄板焼きや溶岩焼きとともに、地元ソムリエが厳選した勝沼ワインとの極上ペアリングを心ゆくまで満喫できます。屋上展望露天風呂から甲府盆地の夜景と南アルプスを望む「ホテル古柏園」、広大な日本庭園と自家源泉掛け流しの大浴場を誇る「ホテル平安」、そして勝沼ぶどうの丘やワイナリーへのアクセス抜群な老舗「中村屋旅館」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円でお得に予約し、芳醇な秋のワインリゾート旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  11月3日「山梨ヌーボー」解禁！30軒以上の勝沼ワイナリー試飲＆ぶどう畑巡り
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">11月3日「山梨ヌーボー」解禁！30軒以上の勝沼ワイナリー試飲＆ぶどう畑巡り</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本固有の品種「甲州」と「マスカット・ベーリーA」の新酒が味わえる秋限定の特別シーズン。ワインカーヴやワイナリーレストランで出来立ての味を堪能できます。
@@ -122,9 +118,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  アルカリ性単純温泉の美肌湯！湯量豊富な石和温泉で湯巡りとリラクゼーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">アルカリ性単純温泉の美肌湯！湯量豊富な石和温泉で湯巡りとリラクゼーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 刺激が少なく肌触り滑らかな石和の湯は、老若男女問わず何度でも浸かれる美肌の名湯。展望露天風呂からは甲府盆地の夜景や富士山を望むことができます。
@@ -137,9 +131,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  極上「甲州牛」ステーキ×地元ワイナリー厳選ワインの至高のペアリング会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">極上「甲州牛」ステーキ×地元ワイナリー厳選ワインの至高のペアリング会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 山梨の自然が育んだきめ細やかな霜降り甲州牛や、富士桜ポーク、甲斐サーモンなど地場食材の贅を尽くしたディナーと、芳醇な山梨ワインのマリアージュを堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                       ★ 4.20 <span className="text-stone-400 text-xs">(979件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    石和温泉　ホテル古柏園
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">石和温泉　ホテル古柏園</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県笛吹市石和町市部822 ｜ ＪＲ中央線 石和温泉駅下車徒歩7分、高速バス徒歩１０分（送迎無料）。中央高速 御坂一宮ＩＣよりＲ２０経由で１０分。
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                       ★ 3.49 <span className="text-stone-400 text-xs">(204件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    石和温泉　ホテル平安
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">石和温泉　ホテル平安</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県笛吹市石和町川中島538 ｜ ＪＲ石和温泉駅：徒歩15分無料送迎5分（15～17時）有/中央道一宮・御坂IC車10分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
                       ★ 4.09 <span className="text-stone-400 text-xs">(168件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    中村屋旅館＜山梨県＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">中村屋旅館＜山梨県＞</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県甲州市塩山上於曽1225 ｜ 中央高速道勝沼IC15分／JR中央線塩山駅北口より徒歩10分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】石和温泉 ホテル古柏園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】石和温泉 ホテル古柏園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoKoshuWineryHarvestStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と石和温泉 ホテル古柏園の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と石和温泉 ホテル古柏園の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

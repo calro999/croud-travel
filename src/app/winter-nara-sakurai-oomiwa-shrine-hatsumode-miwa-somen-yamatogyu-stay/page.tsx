@@ -215,19 +215,15 @@ export default function Page() {
           {/* イントロセクション */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-                <Compass className="w-6 h-6 text-cyan-700" />
-                <span>冬の桜井・三輪・山の辺の道探訪：静寂と温もりに包まれる旅の魅力</span>
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-700" />
+                <span>冬の桜井・三輪・山の辺の道探訪：静寂と温もりに包まれる旅の魅力</span></h2>
             </div>
             <p className="text-stone-700 leading-relaxed text-sm sm:text-base whitespace-pre-line">
               古の都・大和国（奈良）の南東部に位置する桜井・三輪エリア。背後に美しい円錐形の神奈備「三輪山（標高467m）」を抱き、古代日本の黎明期を今に伝える歴史の重層的な息吹が満ちわたる聖地です。冬の訪れとともに大和盆地は底冷えのする澄んだ空気に包まれ、森厳な静けさが神々の山を包み込みます。三輪山の麓に鎮座する「大神神社（おおみわじんじゃ、三輪明神）」は、本殿を持たず、背後の三輪山そのものを神体山として直接拝するという、原初の神道信仰の姿を今に伝える日本最古の神社。祭神は大物主大神（おおものぬしのおおかみ）で、農業・商業・酒造・医薬などあらゆる産業の守護神として全国から篤い崇敬を集めます。新春初詣には全国から数十万人もの参拝客が訪れ、重要文化財の拝殿の前で新たな一年の招福と厄除けを祈願します。神社の北へと続く「山の辺の道（やまのべのみち）」は、『古事記』や『万葉集』にも歌われた日本最古の官道。冬枯れの木々とみかん畑、古代豪族の古墳群が点在する古道を歩けば、古代の万葉人たちが抱いた風情が胸に迫ります。そして冬の三輪を語る上で欠かせないのが、約1200年の伝統を誇る手延べそうめん発祥の地・三輪の冬の味覚。冷え込む寒風に晒して旨味を凝縮させた「三輪そうめん」を、熱々の出汁と季節の具材でいただく「三輪にゅうめん」は、冷えた身体に染み渡る極上の温もり。さらに古代奈良の飛鳥鍋や、霜降りの極上大和牛のすき焼き、三輪の酒造神ゆかりの寒仕込み銘酒など、心と身体を温める冬の美食が揃っています。悠久の古代史ロマンと神域の清らかな気に満たされる、冬の大和・桜井の旅をお届けします。
             </p>
 
             <div className="space-y-4 pt-4 border-t border-stone-100">
-              <h3 className="text-lg font-bold text-stone-900">
-                この冬、桜井・三輪・山の辺の道を訪れるべき3つの理由
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">この冬、桜井・三輪・山の辺の道を訪れるべき3つの理由</h3>
               <div className="grid grid-cols-1 gap-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-3">
@@ -235,9 +231,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日本最古の神域で新春開運祈願！「大神神社（三輪明神）」三輪山信仰と三ツ鳥居
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日本最古の神域で新春開運祈願！「大神神社（三輪明神）」三輪山信仰と三ツ鳥居</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 本殿がなく三輪山そのものを拝する古代の祈りを今に伝える大和国一之宮。拝殿奥の神聖なる三ツ鳥居や、酒造りのシンボル「杉玉」発祥の地。新春には開運厄除け・商売繁盛を願う参拝者で賑わい、清々しい神気に満たされます。
@@ -249,9 +243,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日本最古の古道「山の辺の道」冬の静寂ハイクと万葉ロマン漂う古墳群巡り
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日本最古の古道「山の辺の道」冬の静寂ハイクと万葉ロマン漂う古墳群巡り</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 大神神社から石上神宮へと続く日本最古の道。冬の澄んだ空気の中、天理や桜井の田園風景と点在する古墳、万葉歌碑を眺めながら歩くハイキングは格別の趣。途中の無人販売所で冬のみかんを味わうのも楽しみです。
@@ -263,9 +255,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  手延べそうめん発祥の地！熱々「三輪にゅうめん」と極上霜降り「大和牛すき焼き」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">手延べそうめん発祥の地！熱々「三輪にゅうめん」と極上霜降り「大和牛すき焼き」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 冬の厳寒期に仕込まれる三輪そうめんは強いコシと滑らかな喉越しが特徴。熱々の出汁が香る三輪にゅうめんで温まり、夕食には奈良のブランド牛「大和牛」のすき焼きや飛鳥鍋を堪能する口福のひとときが待っています。
@@ -276,10 +266,8 @@ export default function Page() {
 
             {/* アクセス・気候・おすすめ服装 */}
             <div className="bg-cyan-50/60 border border-cyan-100 rounded-xl p-5 space-y-3 text-xs sm:text-sm text-stone-700">
-              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>アクセス・気候・おすすめの服装ガイド</span>
-              </h4>
+              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>アクセス・気候・おすすめの服装ガイド</span></h4>
               <pre className="font-sans whitespace-pre-line leading-relaxed text-stone-600 text-xs sm:text-sm">
                 【エリアへのアクセス】
 ・電車：JR万葉まほろば線（桜井線）「三輪駅」より大神神社参道入口まで徒歩約5分。JR・近鉄「桜井駅」よりタクシーで約7〜10分、路線バスで約10分。近鉄京都線・橿原線「大和八木駅」や「橿原神宮前駅」からも桜井駅経由で約20〜30分。
@@ -299,9 +287,7 @@ export default function Page() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                桜井・三輪・山の辺の道 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">桜井・三輪・山の辺の道 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -316,9 +302,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第1位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      多武峰観光ホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">多武峰観光ホテル</h3>
                     <p className="text-xs text-cyan-800 font-medium">談山神社の門前に佇む名門観光旅館！四季の絶景と大和牛・名物義経鍋会席</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -382,9 +366,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第2位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）奈良橿原
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ＣＡＮＤＥＯ　ＨＯＴＥＬＳ（カンデオホテルズ）奈良橿原</h3>
                     <p className="text-xs text-cyan-800 font-medium">大和八木駅徒歩３分の極上デザイナーズホテル！最上階展望露天風呂「スカイスパ」</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -448,9 +430,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第3位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      グランドメルキュール奈良橿原
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">グランドメルキュール奈良橿原</h3>
                     <p className="text-xs text-cyan-800 font-medium">橿原神宮前駅徒歩1分の大型プレミアムリゾート！温泉大浴場とオールインクルーシブステイ</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -514,9 +494,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第4位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテルルートイン桜井駅前
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテルルートイン桜井駅前</h3>
                     <p className="text-xs text-cyan-800 font-medium">JR桜井駅南口徒歩1分の好立地！天然温泉大浴場と無料バイキング朝食完備</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -580,9 +558,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第5位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      門前おかげ楼
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">門前おかげ楼</h3>
                     <p className="text-xs text-cyan-800 font-medium">生駒山中腹に佇む隠れ家旅館！大阪平野の煌めく夜景と大和牛の特選料理</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -642,9 +618,7 @@ export default function Page() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -667,37 +641,29 @@ export default function Page() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の桜井・三輪・山の辺の道旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の桜井・三輪・山の辺の道旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>大神神社の新春初詣の混雑状況とおすすめの参拝時間帯は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>大神神社の新春初詣の混雑状況とおすすめの参拝時間帯は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>大晦日の深夜から元旦にかけて、および正月三が日の昼間（10:00〜15:30）は大鳥居周辺や国道169号線を含めて大変混雑します。比較的スムーズにお参りしたい場合は、早朝（朝7:30〜9:00頃）または夕方（16:00以降）の参拝がおすすめです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>三輪山の登拝（登山）は誰でもできますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>三輪山の登拝（登山）は誰でもできますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>三輪山は現在も神体山であるため、一般的な観光登山やハイキングとは異なり、厳格な信仰心に基づく「登拝（とうはい）」となります。境内摂社の狭井神社で受け付けを行い、白木綿の襷（たすき）を掛けて登拝します。水分補給以外の飲食・喫煙・写真撮影・動植物の採取は一切禁止されています。受付時間や催事による登拝禁止日があるため事前確認が必要です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>「三輪そうめん」と他のそうめんの違いは何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>「三輪そうめん」と他のそうめんの違いは何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>三輪は手延べそうめん発祥の地とされ、小麦粉と塩水を練り上げ、綿実油を使って手作業で極細に延ばしていきます。特に11月〜3月の厳寒期に作られるそうめんは「寒造り」と呼ばれ、時間をかけて熟成されるため、茹で伸びしにくく、熱い出汁に入れても弾力のある強いコシが持続するのが最大の特徴です。
               </p>

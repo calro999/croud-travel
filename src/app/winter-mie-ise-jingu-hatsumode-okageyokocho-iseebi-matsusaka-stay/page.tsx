@@ -301,9 +301,7 @@ export default function MieIseJinguWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              悠久の森が冬の静寂に染まる刻、日本人の原風景と至高の美味に出逢う伊勢詣で
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">悠久の森が冬の静寂に染まる刻、日本人の原風景と至高の美味に出逢う伊勢詣で</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function MieIseJinguWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の伊勢神宮を深く味わう3つの特別な体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の伊勢神宮を深く味わう3つの特別な体験</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、神秘的な光景と冬限定の極上グルメ。
             </p>
@@ -339,9 +335,7 @@ export default function MieIseJinguWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Sunrise className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 宇治橋大鳥居の朝日と五十鈴川の朝霧
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 宇治橋大鳥居の朝日と五十鈴川の朝霧</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬至前後（11月下旬〜1月中旬）の朝7時半頃、宇治橋大鳥居の中央から太陽が昇る神々しい絶景。五十鈴川に立ち込める幻想的な川霧の中を歩く早朝参拝は宿泊者だけの特権です。
               </p>
@@ -351,9 +345,7 @@ export default function MieIseJinguWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬のおかげ横丁「赤福ぜんざい」と食べ歩き
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬のおかげ横丁「赤福ぜんざい」と食べ歩き</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬季限定で提供される赤福本店の「赤福ぜんざい」は、香ばしい焼き餅と上質な小豆汁がたまらない逸品。熱々の伊勢うどんや松阪牛にぎりなど、湯気立つ参道グルメが満喫できます。
               </p>
@@ -363,9 +355,7 @@ export default function MieIseJinguWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 冬が旬の二大贅沢「本場伊勢海老」＆「松阪牛」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 冬が旬の二大贅沢「本場伊勢海老」＆「松阪牛」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 真冬の冷たい海で身が引き締まり甘みを増した伊勢海老のお造りや鬼殻焼き、そして極上の霜降りを誇る松阪牛のすき焼き。三重が世界に誇る冬の二大味覚を宿の会席で心ゆくまで味わえます。
               </p>
@@ -375,9 +365,7 @@ export default function MieIseJinguWinterPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】外宮先参りと早朝の内宮参拝・冬の伊勢神宮満喫王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】外宮先参りと早朝の内宮参拝・冬の伊勢神宮満喫王道モデルコース</h2>
             <p className="text-stone-400 text-sm mt-1">
               混雑を避け、古来の正しい作法で外宮・内宮を巡り、冬の旬味とおかげ横丁を楽しみ尽くす旅の提案。
             </p>
@@ -388,9 +376,7 @@ export default function MieIseJinguWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 近鉄伊勢市駅に到着 ➔ 外宮参道散策＆まずは「外宮（豊受大神宮）」へ参拝
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 近鉄伊勢市駅に到着  外宮参道散策＆まずは「外宮（豊受大神宮）」へ参拝</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   近鉄特急で伊勢市駅へ。まずは伝統に倣い「外宮先参り」からスタート。外宮参道をそぞろ歩き、食と産業の神様である豊受大御神をお祀りする外宮の正宮へ。樹齢数百年の杉並木に囲まれた参道を歩き、御幌（みとばり）が揺れる正宮で感謝の祈りを捧げます。多賀宮や土宮、風宮などの別宮もお参り。
                 </p>
@@ -399,9 +385,7 @@ export default function MieIseJinguWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 禊の地「二見浦・夫婦岩」へ立ち寄り ➔ 伊勢名宿へチェックイン＆温泉
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 禊の地「二見浦・夫婦岩」へ立ち寄り  伊勢名宿へチェックイン＆温泉</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   バスまたは車で二見浦へ。夫婦岩と二見興玉神社をお参りし、冬の荒々しくも美しい伊勢湾の波音に耳を傾けます。16時半頃、宿泊する伊勢の宿へチェックイン。大浴場や客室露天風呂で冷えた体を芯まで温め、旅の疲れをほぐします。
                 </p>
@@ -410,9 +394,7 @@ export default function MieIseJinguWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 冬の伊勢の至宝「活伊勢海老」と「極上松阪牛」を味わう豪華夕食会席
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 冬の伊勢の至宝「活伊勢海老」と「極上松阪牛」を味わう豪華夕食会席</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   宿のダイニングまたはお部屋で贅を尽くした夕食。引き締まった伊勢海老の透明感あふれるお造りと濃厚な味噌汁、そしてきめ細やかな霜降り松阪牛の陶板焼きやすき焼き。地元の銘酒「作（ざく）」や「伊勢嶋」とともに、至福の美食時間を堪能します。
                 </p>
@@ -421,9 +403,7 @@ export default function MieIseJinguWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 早朝</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  06:45 五十鈴川の朝霧と宇治橋大鳥居の日の出 ➔ 人影のない「内宮（皇大神宮）」早朝参拝
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">06:45 五十鈴川の朝霧と宇治橋大鳥居の日の出  人影のない「内宮（皇大神宮）」早朝参拝</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   まだ観光客が押し寄せる前の清らかな早朝、内宮へ。冬至前後は大鳥居の中央から昇る黄金色の朝日を拝み、息をのむ美しさに感動。五十鈴川の御手洗場で心身を清め、玉砂利を踏みしめて正宮へ。朝露に濡れる神宮の杜で、誰にも邪魔されず凛とした空気の中で新年の祈願を行います。
                 </p>
@@ -432,9 +412,7 @@ export default function MieIseJinguWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:30 「おかげ横丁・おはらい町」散策 ➔ 赤福ぜんざいと熱々伊勢うどんの食べ歩き
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:30 「おかげ横丁・おはらい町」散策  赤福ぜんざいと熱々伊勢うどんの食べ歩き</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   参拝を終えた後は、開店直後のおかげ横丁へ。赤福本店で香ばしい焼き餅入りの「赤福ぜんざい」をいただき、名店「ふくすけ」でふわふわ熱々の「伊勢うどん」を堪能。おみやげに伊勢茶や伊勢木綿、真珠小物を買い求め、充実した気持ちで帰路の近鉄特急へ乗車します。
                 </p>
@@ -447,9 +425,7 @@ export default function MieIseJinguWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の伊勢神宮参拝に最適な厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の伊勢神宮参拝に最適な厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               早朝の内宮参拝に便利な神宮至近の湯宿から、外宮参道沿いの露天風呂付温泉旅館、駅前快適ホテルまで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function MieIseJinguWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function MieIseJinguWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Souvenir Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の伊勢路で味わい尽くす郷土の至宝とおすすめ名物土産
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の伊勢路で味わい尽くす郷土の至宝とおすすめ名物土産</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                冬の赤福ぜんざいと伊勢うどんの秘密
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                冬の赤福ぜんざいと伊勢うどんの秘密</h3>
               <p>
                 伊勢参りの名物として全国に知られる「赤福」。冬季限定で登場する「赤福ぜんざい」は、粒のそろった北海道産小豆を丁寧に炊き上げ、注文を受けてから炭火で香ばしく焼き上げる角餅を入れた絶品です。口直しに添えられる塩昆布とかり守（かりもり）の粕漬けが甘みを引き立てます。また、長時間茹で上げた極太の柔らかい麺に、カツオや煮干し、昆布の出汁を効かせたたまり醤油タレを絡めて食べる「伊勢うどん」は、長旅で疲れた参拝者の胃腸に優しく染み渡るよう工夫された歴史ある知恵の結晶です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-amber-700" />
-                伊勢海老の旨味と三重の伝統工芸品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-amber-700" />
+                伊勢海老の旨味と三重の伝統工芸品</h3>
               <p>
                 真冬の伊勢志摩で味わう伊勢海老は、水温低下とともに身の水分が抜け、甘み成分であるグリシンやアルギニンが凝縮されています。お土産には、伊勢海老の濃厚なエキスを練り込んだ「伊勢海老せんべい」や、伊勢湾の良質な海藻を加工した「あおさ海苔」が定番。また、江戸時代からの伝統を継承する藍染めの「伊勢木綿」の手ぬぐいやがま口ポーチ、神宮の神聖な杉をあしらったお守り入れなど、旅の記憶をいつまでも温かく留めてくれる上質な品々が揃います。
               </p>
@@ -577,9 +545,7 @@ export default function MieIseJinguWinterPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/60 space-y-6">
           <div className="border-b border-amber-200/80 pb-4">
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">
-              冬の伊勢参宮を安全・快適に楽しむための装備とアクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">冬の伊勢参宮を安全・快適に楽しむための装備とアクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-amber-950">
@@ -619,20 +585,16 @@ export default function MieIseJinguWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の伊勢神宮初詣・宿泊に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の伊勢神宮初詣・宿泊に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function MieIseJinguWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Travels</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬特集・名湯宿ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬特集・名湯宿ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

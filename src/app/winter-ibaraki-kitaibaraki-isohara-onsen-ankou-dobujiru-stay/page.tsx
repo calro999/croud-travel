@@ -269,9 +269,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Heritage & Ocean Views</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                本場・北茨城で味わう冬の最高峰｜11月・12月に訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">本場・北茨城で味わう冬の最高峰｜11月・12月に訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">High-Saline Mineral Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                太古の化石海水が育む「温まりの湯」｜磯原・五浦・平潟の泉質効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">太古の化石海水が育む「温まりの湯」｜磯原・五浦・平潟の泉質効能</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Legendary Dobujiru & Hitachi Beef</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                水を一滴も使わない漁師直伝の究極鍋「どぶ汁」と銘柄牛「常陸牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">水を一滴も使わない漁師直伝の究極鍋「どぶ汁」と銘柄牛「常陸牛」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +341,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Kitaibaraki Scenic Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の北茨城1泊2日ドライブモデルコース｜五浦海岸・六角堂から絶景温泉宿へ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の北茨城1泊2日ドライブモデルコース｜五浦海岸・六角堂から絶景温泉宿へ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -371,9 +363,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Kitaibaraki Onsen Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              元祖どぶ汁と太平洋絶景に癒やされる｜北茨城温泉郷の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">元祖どぶ汁と太平洋絶景に癒やされる｜北茨城温泉郷の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、本場のあんこう料理や高濃度塩化物温泉、絶景オーシャンビューを誇る本物の宿を厳選。
             </p>
@@ -404,9 +394,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -483,26 +471,20 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Advice</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の北茨城旅行｜快適な服装と冬のドライブ注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の北茨城旅行｜快適な服装と冬のドライブ注意点</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                浜風対策と脱ぎ着しやすい防寒着
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                浜風対策と脱ぎ着しやすい防寒着</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 北茨城の沿岸部は冬でも降雪は少ないですが、太平洋から吹き付ける海風が強く感じられる日があります。五浦海岸の六角堂や展望台散策には風を通さないウィンドブレーカーやダウンジャケット、手袋が役立ちます。館内や食事処は暖房がしっかり効いているため、温度調節しやすいインナーが最適です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                常磐道利用と早めのチェックイン
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                常磐道利用と早めのチェックイン</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 常磐自動車道は三郷JCTから北茨城ICまでほぼ直線的で走りやすい高速道路です。日没が早い11月・12月は16時30分頃には暗くなるため、15時頃の明るい時間帯に宿へチェックインするのがベスト。夕暮れ前の露天風呂にゆっくり浸かり、旅の疲れをほぐしてから至極のあんこうディナーを迎えましょう。
               </p>
@@ -518,18 +500,14 @@ export default function IbarakiKitaibarakiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                茨城・北茨城温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">茨城・北茨城温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -542,9 +520,7 @@ export default function IbarakiKitaibarakiWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Winter Hot Springs & Gourmet Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東日本・関東近郊の冬名湯＆極上鍋特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東日本・関東近郊の冬名湯＆極上鍋特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚、伊勢海老、金目鯛、温泉リゾートをめぐる人気特集もぜひご覧ください。
             </p>

@@ -108,9 +108,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  職人技が光る「大皿てっさ」から「ひれ酒」「ふぐ雑炊」まで余すところなく堪能
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">職人技が光る「大皿てっさ」から「ひれ酒」「ふぐ雑炊」まで余すところなく堪能</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 本場のとらふぐコースはまさに一魚尽くし。薄造りのてっさを自家製ポン酢ともみじおろしでいただく贅沢に始まり、骨周りの濃厚な旨味を味わう熱々の唐揚げ、ふっくらとした白身と野菜の出汁が染み出たてっちり（ふぐ鍋）、そして最後の米一粒まで旨味を吸い込ませた黄金色のふぐ雑炊まで、至福のフルコースが続きます。
@@ -123,9 +121,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  水揚げ港のすぐそばだから実現する「別格の鮮度」と「熟成の極み」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">水揚げ港のすぐそばだから実現する「別格の鮮度」と「熟成の極み」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ふぐは締め方と寝かせ方で味が激変する魚。産地の名宿では、朝獲れの活魚を熟練の板前が適切な時間寝かせることで、イノシン酸などの旨味成分を極限まで引き出します。都心の料亭では味わえない、産地ならではの濃厚なコクとモチモチとした強い歯ごたえに誰もが感動します。
@@ -138,9 +134,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  冬の日本海や関門海峡を望むオーシャンビュー展望風呂で心身を温める
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">冬の日本海や関門海峡を望むオーシャンビュー展望風呂で心身を温める</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 冷たい潮風が吹き抜ける冬の海を眺めながら、湯気立ち上るあたたかな温泉に身を浸す時間は格別の心地よさ。波音を聞きながら身体の芯までポカポカに温まり、湯上がりにいただく熱燗のひれ酒とふぐ料理の組み合わせは、まさに大人の冬旅の最高峰です。
@@ -183,9 +177,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山口県下関市・関門海峡を眼前に望む下関屈指の名門ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    下関グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">下関グランドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     本州最西端・関門海峡の目の前に建ち、昭和天皇をはじめ国内外のVIPを迎えてきた歴史と格式を誇る下関の迎賓館ホテル。唐戸市場まで徒歩すぐの好立地に位置し、下関名物「天然とらふぐ」を熟練の料理人が腕によりをかけて仕立てる極上フルコースが大好評。大皿に菊花のように美しく盛られたてっさ、ふぐちり鍋、香ばしいひれ酒など本場ならではの深い味わいを堪能できます。客室やレストランの大きな窓から行き交う巨大客船や関門橋のライトアップを眺めながら、洗練されたひとときをお過ごしいただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     愛知県南知多町・三河湾のタコとふぐの島・日間賀島の漁師宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    日間賀島　漁師民宿やまに
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">日間賀島　漁師民宿やまに</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     名古屋から約1時間半、三河湾に浮かぶ日間賀島に佇む、現役漁師が営む温もりあふれる料理民宿。日間賀島は「とらふぐの島」として全国的に知られ、島周辺の良質な漁場で獲れた新鮮なとらふぐを豪快かつ繊細に味わえます。ぷりぷりとした歯ごたえのてっさや唐揚げはもちろん、名物のタコ料理や三河湾の旬魚介が舟盛りで並ぶ贅沢さは漁師宿ならでは。あたたかな島民のおもてなしと潮風に包まれ、飾らない本物の海の幸を心ゆくまでお楽しみください。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     福井県小浜市・若狭湾の静かな入り江に佇む若狭ふぐの名旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    若狭小川　潮路の宿　とね旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">若狭小川　潮路の宿　とね旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本海の美しいリアス式海岸が広がる若狭小川の入り江に建ち、目の前に透き通る海が広がる海辺の隠れ宿。若狭湾の日本海最北限の冷たい海水で育てられるブランド「若狭ふぐ」は、身がギュッと引き締まり脂の乗りが抜群と高い評価を得ています。てっさ、てっちり、皮の湯引き、ひれ酒に加え、福井の地酒「黒龍」や若狭牛など郷土の味覚がずらりと並ぶ豪華ディナーは圧巻。海を一望するお風呂で温まった後は、波音に耳を傾けながら穏やかな夜をお過ごしいただけます。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】下関グランドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】下関グランドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoTorafuguKaisekiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と下関グランドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と下関グランドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

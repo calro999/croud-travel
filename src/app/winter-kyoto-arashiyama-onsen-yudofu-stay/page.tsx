@@ -266,10 +266,8 @@ export default function ArashiyamaWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の京都名所選</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月冬の嵐山と静寂の名刹】<br className="hidden sm:inline" />
-            嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月冬の嵐山と静寂の名刹】<br className="hidden sm:inline" />
+            嵯峨野の竹林雪景色と嵐山温泉・熱々湯豆腐宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             晩秋の深紅の紅葉が去り、研ぎ澄まされた静寂が訪れる初冬の嵐山・嵯峨野。渡月橋にかかる幻想的な朝霧を歩き、嵐山温泉のまろやかな湯に寛ぎ、老舗の熱々湯豆腐に舌鼓を打つ極上の冬旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function ArashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Atmosphere & Spirit</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                観光の喧騒が消え、古都本来の祈りと静寂が宿る初冬の嵐山
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">観光の喧騒が消え、古都本来の祈りと静寂が宿る初冬の嵐山</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function ArashiyamaWinterPage() {
           </p>
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-700" />
-                冬の嵐山温泉ステイを120%楽しむ極意
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-700" />
+                冬の嵐山温泉ステイを120%楽しむ極意</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 嵐山に宿泊すれば、観光客が押し寄せる前の「静寂の早朝嵯峨野」を独占できます。宿での温泉と部屋食を組み合わせれば最高の贅沢に。
               </p>
@@ -332,9 +326,7 @@ export default function ArashiyamaWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の嵐山で味わうべき3つの情景
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の嵐山で味わうべき3つの情景</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function ArashiyamaWinterPage() {
         <section id="hotel-list" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の嵐山温泉と極上会席を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の嵐山温泉と極上会席を堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルで高評価を獲得している嵐山・嵯峨野の厳選宿。露天風呂の眺望、湯豆腐や京料理の質、立地の良さにこだわって選び抜きました。
             </p>
@@ -418,11 +408,9 @@ export default function ArashiyamaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition-colors">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-700 text-sm leading-relaxed">
                       {hotel.story}
@@ -480,9 +468,7 @@ export default function ArashiyamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200 space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              【1泊2日】冬の嵐山・嵯峨野を満喫する大人の静寂旅モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】冬の嵐山・嵯峨野を満喫する大人の静寂旅モデルコース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               混雑を巧みに回避しながら、名刹の冬景色、湯豆腐ランチ、早朝の竹林散策をゆったり味わう理想のスケジュール。
             </p>
@@ -553,40 +539,30 @@ export default function ArashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Local Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月に嵐山で味わうべき冬の京都グルメ4選
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月に嵐山で味わうべき冬の京都グルメ4選</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-700">●</span> 嵯峨名物・森嘉の嵯峨豆腐
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-700">●</span> 嵯峨名物・森嘉の嵯峨豆腐</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 安政年間創業の老舗「森嘉」。国産大豆と良質な地下水で作られる豆腐は、滑らかな口当たりと豊かなコクが別格。湯豆腐にするととろけるような食感になります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-700">●</span> 伝統冬野菜・聖護院かぶらの「千枚漬け」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-700">●</span> 伝統冬野菜・聖護院かぶらの「千枚漬け」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冬の訪れとともに旬を迎える聖護院かぶら。昆布とともに薄く漬け込まれた千枚漬けは、上品な甘みと酸味、パリッとした食感がお土産にも大人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-700">●</span> 濃厚な出汁が香る「鰊（にしん）そば」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-700">●</span> 濃厚な出汁が香る「鰊（にしん）そば」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 甘辛く炊き上げた身欠きニシンを、熱々の上品な利尻昆布出汁の蕎麦にのせた京都発祥の名物。冬の冷え切った身体に熱々のスープが染み渡ります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-700">●</span> 丹波栗と小豆の温かい「嵐山ぜんざい」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-700">●</span> 丹波栗と小豆の温かい「嵐山ぜんざい」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 大粒の丹波栗と香ばしく焼き上げられたお餅が入ったぜんざい。竹林散策の途中に甘味処で立ち寄り、温かいほうじ茶とともにいただく時間は至福のひとときです。
               </p>
@@ -602,48 +578,38 @@ export default function ArashiyamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Q&A Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の嵐山温泉旅行 よくある質問と解決アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の嵐山温泉旅行 よくある質問と解決アドバイス</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                11月下旬〜12月の嵐山の紅葉の残り具合と混雑状況は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                11月下旬〜12月の嵐山の紅葉の残り具合と混雑状況は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年11月下旬までが紅葉のピークで、12月上旬には名残の紅葉（敷きもみじ）へと移り変わります。12月中旬以降は木々の葉が落ち、観光客が一段落するため、静かに古都の風情を楽しみたい方には1年で最もおすすめの季節です。特に朝8時前の竹林の小径は人影もまばらで写真撮影にも最適です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                嵐山温泉の泉質や特徴は？冷え性に効果はありますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                嵐山温泉の泉質や特徴は？冷え性に効果はありますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 嵐山温泉は低張性弱アルカリ性温泉（単純温泉）で、刺激が少なく肌あたりが非常にまろやかです。湯上がり後もポカポカとした温感が長く持続するため、京都特有の底冷えによる冷え性や神経痛、関節痛の緩和に高い効果を発揮します。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                冬の嵐山散策に必要な持ち物や防寒対策は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                冬の嵐山散策に必要な持ち物や防寒対策は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 京都の冬は足元から冷え込みます。寺院の拝観では靴を脱いで冷たい板の間を歩くため、厚手の靴下やカイロを持参しましょう。保津川沿いは風が抜けるため、マフラーや手袋、ニット帽などの防寒小物が大いに役立ちます。歩きやすいスニーカーや防寒ブーツでの散策をおすすめします。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                車なし（電車・バス）でも嵐山温泉旅行は快適に楽しめますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                車なし（電車・バス）でも嵐山温泉旅行は快適に楽しめますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 嵐山はJR嵯峨野線（京都駅から快速で約11分）、阪急嵐山線、京福電鉄（嵐電）の3路線が乗り入れており、車がなくても非常に快適に移動できます。冬の京都は市内の道路混雑や駐車場の満車も多いため、公共交通機関でのアクセスを強くおすすめします。今回ご紹介した宿はいずれも駅から徒歩圏内または送迎対応があります。
               </p>
@@ -655,9 +621,7 @@ export default function ArashiyamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -670,9 +634,7 @@ export default function ArashiyamaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">11・12月北陸</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                金沢兼六園の雪吊りと加賀百万石美食宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">金沢兼六園の雪吊りと加賀百万石美食宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 11月1日開幕の伝統の雪吊りと近江町市場のカニ・のどぐろ、山代温泉。
               </p>
@@ -683,9 +645,7 @@ export default function ArashiyamaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">関西イルミネーション</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">
-                神戸ルミナリエと有馬温泉・神戸牛ステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">神戸ルミナリエと有馬温泉・神戸牛ステイ</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 光の芸術作品と日本三名泉・有馬温泉の金湯銀湯、極上神戸ビーフ。
               </p>
@@ -696,9 +656,7 @@ export default function ArashiyamaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬の味覚ランキング</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                全国の活カニ・カニ尽くし名宿ランキング
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">全国の活カニ・カニ尽くし名宿ランキング</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 松葉ガニ、越前ガニ、ズワイガニのフルコースを味わう極上の冬旅。
               </p>
@@ -707,9 +665,7 @@ export default function ArashiyamaWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              近隣・全国の都道府県別おすすめ宿
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">近隣・全国の都道府県別おすすめ宿</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/kyoto/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>
               <Link href="/prefectures/osaka/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">大阪府の宿一覧</Link>

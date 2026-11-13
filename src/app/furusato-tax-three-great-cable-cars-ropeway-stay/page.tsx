@@ -183,9 +183,7 @@ export default function Page() {
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            空へと駆け上がるゴンドラ。手の届きそうな白雲と大山脈の絶景リゾート
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">空へと駆け上がるゴンドラ。手の届きそうな白雲と大山脈の絶景リゾート</h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
             高低差数百メートルを一気に昇り、四季折々の絶壁や高山植物、満天の星空が広がる別天地へと案内してくれる「日本の絶景山岳ロープウェイ」――日本最高の高低差（950m）を誇り氷河地形の千畳敷カールと富士山・南アルプス連峰を望む長野の「中央アルプス駒ヶ岳ロープウェイ」、景観保護のため支柱を1本も設けないワンスパン方式として日本最長を誇り黒部湖を眼下に見下ろす富山の「立山ロープウェイ」、そして芦ノ湖畔から箱根最高峰の神山・富士山と相模湾の全景を一望する神奈川の「箱根 駒ヶ岳ロープウェイ」。澄んだ空気に包まれる雲上ステイや温泉露天風呂、地元牛ステーキディナーを満喫する爽快な旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -194,9 +192,7 @@ export default function Page() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              ふるさと納税×山岳ロープウェイ雲上パノラマ 3つのメリット
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">ふるさと納税×山岳ロープウェイ雲上パノラマ 3つのメリット</h2>
             <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
@@ -208,9 +204,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   01
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  朝一番のロープウェイで混雑知らず！雲海や朝日に染まるアルプス・富士山を特等席で体感
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">朝一番のロープウェイで混雑知らず！雲海や朝日に染まるアルプス・富士山を特等席で体感</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   山麓や雲上の宿に宿泊するからこそ、一般観光客が訪れる前の澄んだ時間帯に大自然を満喫。
                 </p>
@@ -221,9 +215,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   02
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  信州牛ステーキ・富山湾の白えびや紅ズワイガニ、相模湾の鮮魚や箱根山麓豚の美食会席
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">信州牛ステーキ・富山湾の白えびや紅ズワイガニ、相模湾の鮮魚や箱根山麓豚の美食会席</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   標高差が生み出す清らかな伏流水と、山海の新鮮食材を活かした高原リゾートディナーを堪能。
                 </p>
@@ -234,9 +226,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   03
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  楽天ふるさと納税宿泊クーポンで山岳リゾートホテルや温泉展望宿をお得に予約
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">楽天ふるさと納税宿泊クーポンで山岳リゾートホテルや温泉展望宿をお得に予約</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   登山や紅葉ドライブ、記念日旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
                 </p>
@@ -260,9 +250,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -287,9 +275,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -404,9 +390,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の名所・絶景と歴史の宿特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の名所・絶景と歴史の宿特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-scenic-drives-highland-resort-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -438,9 +422,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】早太郎温泉 駒ヶ根高原リゾートリンクスを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】早太郎温泉 駒ヶ根高原リゾートリンクスを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -473,9 +455,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と早太郎温泉 駒ヶ根高原リゾートリンクスの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と早太郎温泉 駒ヶ根高原リゾートリンクスの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

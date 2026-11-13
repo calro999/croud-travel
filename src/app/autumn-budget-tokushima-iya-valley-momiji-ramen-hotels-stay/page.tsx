@@ -58,10 +58,8 @@ export default function AutumnBudgetTokushimaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代4,000円台！浮いた予算で鳴門鯛・阿波牛・すだち酒を堪能
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代4,000円台！浮いた予算で鳴門鯛・阿波牛・すだち酒を堪能</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             本州から明石海峡大橋・大鳴門橋経由で直行できる四国の玄関口・徳島。秘境温泉宿は秋に高額になりがちですが、徳島駅前に泊まれば4,000円台で快適なホテルを確保可能。浮いた予算をレンタカーや吉野川観光遊覧船、夜の鳴門鯛会席や徳島ラーメン食べ比べに贅沢に充てるのがスマートです。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（新規開業）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）新規オープン
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＣＯＺＹ　ＣＯＭＦＯＲＴＳ　ＨＯＴＥＬ（コージーコンフォーツホテル）新規オープン</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>徳島</span>
@@ -122,9 +118,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結便利）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＪＲホテルクレメント徳島
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＪＲホテルクレメント徳島</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>徳島</span>
@@ -162,9 +156,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（眉山夜景）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天空のスカイビューホテル　眉山海月
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天空のスカイビューホテル　眉山海月</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>徳島</span>
@@ -202,9 +194,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル千秋閣＜徳島県＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル千秋閣＜徳島県＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>徳島</span>
@@ -242,9 +232,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル　グランドパレス徳島
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル　グランドパレス徳島</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>徳島</span>
@@ -275,10 +263,8 @@ export default function AutumnBudgetTokushimaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の大歩危・祖谷渓ドライブの満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の大歩危・祖谷渓ドライブの満喫ポイント</h2>
           <p className="text-sm text-teal-100 leading-relaxed">
             大歩危峡の遊覧船から見上げる紅葉の渓谷美は11月中旬が見頃。祖谷のかずら橋周辺の茶屋でいただく「祖谷そば」や「あゆの塩焼き」も絶品です。夜は徳島駅前で甘辛く煮込んだ豚バラ肉が乗った徳島ラーメンを白ご飯とともに味わってみてください。
           </p>
@@ -296,9 +282,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「徳島：大歩危・祖谷渓の秘境紅葉と阿波尾鶏！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -359,9 +343,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 徳島で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">徳島で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

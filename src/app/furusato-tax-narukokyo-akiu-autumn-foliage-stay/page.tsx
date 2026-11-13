@@ -89,9 +89,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            大峡谷を染め上げる紅葉のグラデーションと、立ちのぼる硫黄の湯煙。国内屈指の湯力を誇る名湯巡りの秋旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">大峡谷を染め上げる紅葉のグラデーションと、立ちのぼる硫黄の湯煙。国内屈指の湯力を誇る名湯巡りの秋旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             東北地方を代表する秋の絶景スポット、宮城県大崎市の「鳴子峡」。大谷川が削り出した深さ約100m、長さ約2.6kmにわたるV字峡谷の絶壁が、10月中旬から11月上旬にかけてブナ、カエデ、モミジなどで一面鮮やかに色づき、大深沢橋の上から見渡すパノラマやトンネルから姿を現すJR陸羽東線の列車が織りなす情景は絵画のように感動的です。そして峡谷美を堪能した後に訪れたいのが、千百年以上の歴史を刻む「鳴子温泉郷」。日本に存在する11の旧泉質のうち実に8種類もの泉質が集結する稀有な温泉地であり、白濁の硫黄泉から琥珀色の重曹泉、とろりとした美肌湯まで、宿ごとに異なる本物の源泉掛け流しを堪能できます。裏山の離れに佇むプライベート貸切露天風呂と現代湯治が評判の「旅館大沼」、純度100％の美肌自家源泉と貸切風呂を満喫できる「旅館すがわら」、そして鳴子名物のこけしと温かいおもてなしに心和む「旅館弁天閣」。仙台牛や宮城の秋鮭・新米会席とともに、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で予約し、心身が解き放たれる秋の湯治旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  深さ100mの断崖絶壁が赤や黄に染まる！鳴子峡レストハウスからの大パノラマ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">深さ100mの断崖絶壁が赤や黄に染まる！鳴子峡レストハウスからの大パノラマ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 大深沢橋から見下ろす紅葉の大峡谷と渓流。遊歩道の散策では、頭上を覆うモミジのトンネルと落ち葉の絨毯を踏みしめる贅沢な秋の自然美を体感できます。
@@ -122,9 +118,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本にある11泉質中8種類が集結！宿ごとに異なる極上の自家源泉かけ流し
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本にある11泉質中8種類が集結！宿ごとに異なる極上の自家源泉かけ流し</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 肌をつるつるにする弱アルカリ性炭酸水素塩泉から、濃厚な硫黄泉、温まり効果抜群の塩化物泉まで。多彩な湯殿や貸切風呂で湯巡りを満喫できます。
@@ -137,9 +131,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  最高ランク仙台牛ステーキ＆宮城の新米ひとめぼれ・秋の山菜きのこ会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">最高ランク仙台牛ステーキ＆宮城の新米ひとめぼれ・秋の山菜きのこ会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 宮城の豊かな大地が育んだ最高級A5ランク仙台牛の陶板焼きや、秋の郷土料理はらこ飯、山のきのこ鍋など、滋味豊かな秋の美食が並びます。
@@ -174,9 +166,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                       ★ 4.58 <span className="text-stone-400 text-xs">(613件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    鳴子温泉郷　極上の貸切露天風呂　旅館大沼
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">鳴子温泉郷　極上の貸切露天風呂　旅館大沼</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮城県大崎市鳴子温泉赤湯34 ｜ 東北新幹線『古川駅』よりＪＲ陸羽東線に乗り換え、『鳴子御殿湯駅』下車、徒歩５分。鳴子温泉からはタクシーで約5分。
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                       ★ 4.44 <span className="text-stone-400 text-xs">(447件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    鳴子温泉　旅館すがわら
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">鳴子温泉　旅館すがわら</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮城県大崎市鳴子温泉新屋敷5 ｜ ＪＲ陸羽東線『鳴子温泉駅』より徒歩10分／東北自動車道『古川ＩＣ』より約３５分/高速バス「仙台駅前」から８５分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
                       ★ 3.00 <span className="text-stone-400 text-xs">(67件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    鳴子温泉　旅館弁天閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">鳴子温泉　旅館弁天閣</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮城県大崎市鳴子温泉車湯87 ｜ 【お車】東北道古川ICより約40分【電車】鳴子御殿湯駅より徒歩10分【高速バス】東鳴子赤湯より徒歩10分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳴子温泉郷 極上の貸切露天風呂 旅館大沼を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳴子温泉郷 極上の貸切露天風呂 旅館大沼を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoNarukokyoAkiuAutumnFoliageStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳴子温泉郷 極上の貸切露天風呂 旅館大沼の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳴子温泉郷 極上の貸切露天風呂 旅館大沼の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

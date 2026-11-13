@@ -108,9 +108,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  青く透き通る奇跡の水底とマイナスイオンに満たされる涼感散歩
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">青く透き通る奇跡の水底とマイナスイオンに満たされる涼感散歩</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大湧水群の湧水池は、底に沈む小石や水草の一本一本まで鮮明に見通せる圧倒的な透明度を誇ります。忍野八海の「湧池」や「鏡池」に映る逆さ富士、柿田川の第2展望台から見下ろすコバルトブルーの幻想的な砂吹き、安曇野の黒澤明監督映画の舞台となった水車小屋とバイカモの花。水辺の木道を歩くだけで、天然のクーラーのような心地よい冷気とマイナスイオンが全身を包み込みます。
@@ -123,9 +121,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  名水仕込みの手打ち十割蕎麦、名水豆腐、清流育ちの岩魚・虹鱒
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">名水仕込みの手打ち十割蕎麦、名水豆腐、清流育ちの岩魚・虹鱒</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 「水が良ければ料理のすべてが旨くなる」という言葉通り、湧水群の里は美食の宝庫です。富士山の伏流水で打つ喉越し爽やかな忍野蕎麦、三島の富士山伏流水に晒して泥臭さを完全に抜いたふっくら香ばしい鰻重、安曇野の生わさび丼や信州サーモンのお造り。素材本来の味を極限まで引き立てる名水の魔力を、舌の上で存分に体感できます。
@@ -138,9 +134,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  富士山パノラマビューリゾートや北アルプス山麓の温泉ホテルステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">富士山パノラマビューリゾートや北アルプス山麓の温泉ホテルステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 忍野八海近くで富士山と山中湖を一望する名門リゾートホテル、新幹線三島駅直結で展望露天風呂から富士山を仰ぐスタイリッシュホテル、安曇野の赤松林に抱かれ美肌の穂高温泉を堪能できるリゾートホテルなど、水と自然に囲まれた素晴らしい滞在拠点が点在しています。3年間有効なふるさと納税クーポンなら、避暑の夏旅はもちろん、紅葉の秋や新緑の春にも自在に活用できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 山梨県 南都留郡山中湖村山中1360-83</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    富士山と湖を望むリゾート　ホテル　マウント富士
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">富士山と湖を望むリゾート　ホテル　マウント富士</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「富士山を望む絶景と美味しい食事に大満足2階の温泉から富士山がよく見えました!お部屋からも、朝からキレイな富士山がよく見えて満足です。夕飯朝食とも美味しいお食事がいただけて、良い旅行になりました…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 静岡県 三島市一番町17-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    富士山三島東急ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">富士山三島東急ホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「三島駅を見下ろす眺望と豪華な朝食に満足いつも利用している三島駅を上空から眺める楽しい滞在を家族と過ごしました。朝食も豪華でとても良かった」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 長野県 安曇野市穂高牧2200-3</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    穂高温泉郷　安曇野穂高ビューホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">穂高温泉郷　安曇野穂高ビューホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「ワインのコイン返却でリンゴジュースをゲットワインのコインを利用しなかったので、チェックアウトの時返したらリンゴジュース(缶)をもらいました。おいしかった」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士山と湖を望むリゾート ホテル マウント富士を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士山と湖を望むリゾート ホテル マウント富士を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士山と湖を望むリゾート ホテル マウント富士の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士山と湖を望むリゾート ホテル マウント富士の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

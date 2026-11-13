@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              100mにわたり滑り落ちる粟又の滝！房総半島の大自然と神秘の黒湯温泉
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">100mにわたり滑り落ちる粟又の滝！房総半島の大自然と神秘の黒湯温泉</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             都心から車やアクアラインで約1時間半、房総半島の中心部に位置する「養老渓谷」。温暖な気候のため本州で最も遅く見頃を迎える紅葉名所として知られ、11月下旬から12月上旬にかけて渓谷全体が黄金や真紅に染まりあがります。約100mにわたって岩肌を滑らかに流れる名瀑「粟又の滝（あわまたのたき）」沿いの遊歩道散策や、弘文洞跡のダイナミックな断崖は圧巻。散策後は、植物由来のフミン酸を豊富に含み「美肌の湯」として親しまれる養老渓谷独特の琥珀色・黒湯の温泉に浸かり、房総の旬の地魚や郷土料理をふるさと納税トラベルクーポンでお得に楽しみましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                名瀑「粟又の滝」と滝めぐり遊歩道の紅葉トンネル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                名瀑「粟又の滝」と滝めぐり遊歩道の紅葉トンネル</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 落差約30m、長さ約100mの滑り台のような岩床を清流が流れる粟又の滝。川沿いに整備された遊歩道を歩けば、見上げる頭上をもみじが覆い尽くす圧巻の光景に出会えます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                太古の植物成分が溶け込む神秘の琥珀色「黒湯温泉」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                太古の植物成分が溶け込む神秘の琥珀色「黒湯温泉」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 養老渓谷温泉郷の最大の特徴は、コーヒーのような黒褐色をした独特の「黒湯」。肌の角質をやさしく落とし、湯上がりには肌がつるつるになると評判の名湯です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                房総の海の幸＆かずさ和牛・地元旬野菜の会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                房総の海の幸＆かずさ和牛・地元旬野菜の会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 外房の勝浦・鴨川港から直送される金目鯛や伊勢海老、千葉の銘柄牛「かずさ和牛」、秋の地元産タケノコやキノコ、山菜をふんだんに使った山海料理を満喫できます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.22 <span className="text-stone-400 text-xs">(199件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    養老渓谷温泉郷　旅館　喜代元
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">養老渓谷温泉郷　旅館　喜代元</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 千葉県市原市戸面397-3 ｜ 養老渓谷駅から徒歩で２０分（１．７ｋｍ）／バスで５分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.36 <span className="text-stone-400 text-xs">(242件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    養老渓谷温泉郷　鶴乃家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">養老渓谷温泉郷　鶴乃家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 千葉県市原市戸面327 ｜ 小湊鉄道　養老渓谷駅より徒歩２０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.57 <span className="text-stone-400 text-xs">(134件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    養老渓谷温泉郷　温泉旅館　川の家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">養老渓谷温泉郷　温泉旅館　川の家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 千葉県夷隅郡大多喜町葛藤932 ｜ 養老渓谷駅よりお車にて５分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】養老渓谷温泉郷 旅館 喜代元を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】養老渓谷温泉郷 旅館 喜代元を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と養老渓谷温泉郷 旅館 喜代元の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と養老渓谷温泉郷 旅館 喜代元の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

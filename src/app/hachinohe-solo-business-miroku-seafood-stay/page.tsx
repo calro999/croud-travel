@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            夜風に揺れる屋台の赤提灯と炭火で焼かれる前沖サバ、三陸の荒波が育む極上イカ——人情横丁と海の恵みに癒やされる「八戸プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">夜風に揺れる屋台の赤提灯と炭火で焼かれる前沖サバ、三陸の荒波が育む極上イカ——人情横丁と海の恵みに癒やされる「八戸プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線「はやぶさ」で東京から最短約2時間45分。日本屈指の水揚げ量を誇る八戸港を抱え、臨海部には巨大な製紙・鉄鋼・化学工場が連なる北東北の産業拠点・青森県八戸市。出張の夜に訪れるべき最大の魅力は、中心街に広がる「みろく横丁（八戸屋台村）」をはじめとする8つの横丁文化です。地元の人々や全国からの旅人が肩を寄せ合い、新鮮なイカ刺しや八戸前沖サバ、名物「せんべい汁」を肴に地酒「八仙」「陸奥男山」を酌み交わす温かな夜が待っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   八戸市中心街のど真ん中！みろく横丁まで徒歩1分の最強立地と広々としたモダン快適客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル八戸 —— 屋台街へ直行できる特等席。ワイドデスクと充実のアメニティで出張を完全サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル八戸 —— 屋台街へ直行できる特等席。ワイドデスクと充実のアメニティで出張を完全サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR八戸駅東口から徒歩わずか2分！新幹線改札からすぐの抜群の機動力と無料ヘルシー朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  コンフォートホテル八戸 —— 新幹線利用に最強のアクセス。快眠枕「チョイスピロー」と無料オープンスペースラウンジ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">コンフォートホテル八戸 —— 新幹線利用に最強のアクセス。快眠枕「チョイスピロー」と無料オープンスペースラウンジ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   八戸市中心街の高台にそびえる迎賓館ホテル！最上階ラウンジから八戸市街と太平洋を一望
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  八戸グランドホテル —— 伝統と格式が息づく老舗シティホテル。ゆとりある客室と地元八戸食材の美食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">八戸グランドホテル —— 伝統と格式が息づく老舗シティホテル。ゆとりある客室と地元八戸食材の美食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              八戸の「みろく横丁＆八食センター」を一人旅で味わい尽くすコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">八戸の「みろく横丁＆八食センター」を一人旅で味わい尽くすコツ</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. みろく横丁では屋台のカウンターで「八戸前沖サバの串焼き」を注文
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. みろく横丁では屋台のカウンターで「八戸前沖サバの串焼き」を注文</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 日本一脂の乗りが良いとされる八戸前沖サバ。炭火でじっくり焼かれ、ジュワッと溢れる脂の甘みを辛口地酒「八仙」で流し込む至福。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 翌朝は巨大市場「八食センター」へ移動し「七厘村」で炭火BBQ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 翌朝は巨大市場「八食センター」へ移動し「七厘村」で炭火BBQ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 市場内の魚屋で好きなホタテ、カキ、イカ、マグロを買い、七輪をレンタルしてその場で焼いて食べる名物体験。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 日曜朝なら日本最大級の朝市「館鼻岸壁朝市（たてはながんぺきあさいち）」へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 日曜朝なら日本最大級の朝市「館鼻岸壁朝市（たてはながんぺきあさいち）」へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 約300店が並ぶ圧巻の巨大朝市。夜明けとともに賑わい、名物の焼きウニや手羽先唐揚げをほおばるお祭り騒ぎを体感できます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>「八戸駅」と「中心街（本八戸駅周辺）」は離れていますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>「八戸駅」と「中心街（本八戸駅周辺）」は離れていますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、新幹線が発着する「八戸駅」と、みろく横丁や飲食店が集まる「中心街（本八戸）」は約5km離れており、青い森鉄道・JR八戸線で約8分、または定額シャトルバス（八戸市営バス等）で約20分で結ばれています。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でみろく横丁の屋台に入っても浮きませんか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でみろく横丁の屋台に入っても浮きませんか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 みろく横丁の屋台は全店舗がカウンター6〜8席の小さな造りで、一人客の割合が非常に高く、店主や隣の客と自然に会話が弾むアットホームな雰囲気です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ダイワロイネットホテル八戸を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ダイワロイネットホテル八戸を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

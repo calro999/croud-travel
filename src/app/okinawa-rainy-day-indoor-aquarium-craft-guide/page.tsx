@@ -188,9 +188,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
         <section>
           <div className="border-l-4 border-cyan-500 pl-4 mb-8">
             <span className="text-cyan-600 text-xs font-black tracking-widest uppercase">ALL-WEATHER ATTRACTIONS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              雨だからこそ行く価値がある！沖縄4大インドアエンタメ
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">雨だからこそ行く価値がある！沖縄4大インドアエンタメ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -223,17 +221,13 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-8 border border-cyan-900 shadow-xl">
           <div className="border-l-4 border-cyan-400 pl-4 mb-8">
             <span className="text-cyan-400 text-xs font-black tracking-widest uppercase">RAINY DAY PLANS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              天候に合わせて選べる！沖縄雨の日ドライブコース2選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">天候に合わせて選べる！沖縄雨の日ドライブコース2選</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {courseOptions.map((course, idx) => (
               <div key={idx} className="bg-slate-800/80 border border-cyan-900/60 rounded-2xl p-6">
-                <h3 className="text-base sm:text-lg font-bold text-cyan-300 mb-4 pb-2 border-b border-cyan-800/80">
-                  {course.title}
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-cyan-300 mb-4 pb-2 border-b border-cyan-800/80">{course.title}</h3>
                 <ol className="space-y-3">
                   {course.steps.map((step, sIdx) => (
                     <li key={sIdx} className="text-xs sm:text-sm text-slate-300 flex items-start gap-2">
@@ -253,9 +247,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
         <section>
           <div className="border-l-4 border-cyan-500 pl-4 mb-8">
             <span className="text-cyan-600 text-xs font-black tracking-widest uppercase">HOTEL & RESORT</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              雨の日も館内で遊び尽くす！屋内プール＆立地抜群リゾート
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">雨の日も館内で遊び尽くす！屋内プール＆立地抜群リゾート</h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-1">
               屋根付きアーケード直結ホテルや、屋内温水プール・スパ完備の大型リゾートを厳選。
             </p>
@@ -293,9 +285,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
                         </div>
                       )}
                       <div className="p-6">
-                        <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-cyan-600 transition">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-xl font-bold text-slate-900 mb-2 group-hover:text-cyan-600 transition">{hotel.hotelName}</h3>
                         <p className="text-xs text-slate-500 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -340,9 +330,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
 
         {/* セクション4：沖縄の雨天ドライブ注意点＆快適テク */}
         <section className="bg-gradient-to-r from-cyan-900 to-slate-900 text-white rounded-3xl p-6 sm:p-8 shadow-lg">
-          <h2 className="text-xl sm:text-2xl font-bold mb-4 flex items-center gap-2">
-            <span>⚠️</span> 沖縄の雨・スコール時レンタカードライブの必須知識
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold mb-4 flex items-center gap-2"><span>️</span> 沖縄の雨・スコール時レンタカードライブの必須知識</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 text-xs sm:text-sm text-slate-300">
             <div className="p-4 bg-slate-800/80 rounded-2xl border border-cyan-800/50">
               <strong className="text-cyan-300 block mb-1 text-sm">① 琉球石灰岩のアスファルトは超滑る！</strong>
@@ -385,9 +373,7 @@ export default function OkinawaRainyDayIndoorAquariumCraftGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテルの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と美ら海水族館・DMMかりゆし・やちむん通り陶芸体験＆屋内プール付きホテルの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            二畳の極小空間に広がる無限の宇宙。利休と有楽斎の美学を受け継ぐ数寄屋ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">二畳の極小空間に広がる無限の宇宙。利休と有楽斎の美学を受け継ぐ数寄屋ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             戦国武将たちが命を懸けた時代の最中に、心の平穏と究極の美意識を求めて極められた日本建築の宝庫「国宝三大茶室」――千利休が築き、わずか二畳の藁すさ壁の中に緊張感と侘びの真髄を凝縮した京都大山崎の「妙喜庵・待庵」、織田信長の実弟・織田有楽斎が武士の気品と自由な遊び心を込めて造営した愛知犬山の「有楽苑・如庵」、そして大徳寺龍光院に現存する密庵席や小堀遠州ゆかりの孤篷庵・忘筌。無駄を極限まで削ぎ落とした露地や躙口（にじりぐち）、床の間の掛け軸を愛でる時間は、忙しい日常でささくれ立った心を優しく整えてくれます。名門旅館の本格茶室でのお抹茶体験や、洗練された茶懐石・京料理を味わう優雅な旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府大山崎町ふるさと納税：千利休唯一現存の国宝茶室「妙喜庵・待庵」とホテル京都エミナース
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府大山崎町ふるさと納税：千利休唯一現存の国宝茶室「妙喜庵・待庵」とホテル京都エミナース</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   茶の湯の聖地・山崎の地。天王山やサントリー山崎蒸溜所を巡った後は、天然温泉「京都竹の郷温泉 万葉の湯」を備えるホテル京都エミナースで、二種類の自家源泉温泉と京都牛・京野菜会席に癒やされます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      京都竹の郷温泉　万葉の湯　ホテル京都エミナース
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">京都竹の郷温泉　万葉の湯　ホテル京都エミナース</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府京都市西京区大原野東境谷町2-4</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  愛知県犬山市ふるさと納税：織田有楽斎の傑作・国宝茶室「如庵」隣接のホテルインディゴ犬山有楽苑
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">愛知県犬山市ふるさと納税：織田有楽斎の傑作・国宝茶室「如庵」隣接のホテルインディゴ犬山有楽苑</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国宝犬山城と有楽苑に抱かれたライフスタイルブティックホテル。如庵の美しい建築意匠をモチーフにしたスタイリッシュな空間で、犬山温泉「白帝の湯」と地元愛知・岐阜の旬菜フレンチを贅沢に堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルインディゴ犬山有楽苑　ｂｙ　ＩＨＧ
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルインディゴ犬山有楽苑　ｂｙ　ＩＨＧ</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>愛知県犬山市犬山北古券103-1</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府京都市右京区嵐山ふるさと納税：小堀遠州の美意識息づく嵐山の風情と割烹旅館城山ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府京都市右京区嵐山ふるさと納税：小堀遠州の美意識息づく嵐山の風情と割烹旅館城山ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   渡月橋のすぐそば、嵐山の自然に包まれる老舗「割烹旅館 城山」。静寂の日本庭園を愛でながら、料理長が毎朝市場で厳選する京地魚や湯豆腐、旬の京会席を味わう風雅な古都の休日です。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      割烹旅館　城山
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">割烹旅館　城山</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>茨城県笠間市笠間14-1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   越前和紙・美濃和紙・小川和紙。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   兼六園・後楽園・偕楽園。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  職人技が光る伝統工芸＆数寄屋大工の名旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">職人技が光る伝統工芸＆数寄屋大工の名旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   匠の技が息づく建築宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都竹の郷温泉 万葉の湯 ホテル京都エミナースを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都竹の郷温泉 万葉の湯 ホテル京都エミナースを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都竹の郷温泉 万葉の湯 ホテル京都エミナースの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都竹の郷温泉 万葉の湯 ホテル京都エミナースの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -269,9 +269,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Sunny Winter Lake Retreat</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                温暖な気候と冬の美食二大巨頭｜11月・12月に浜名湖・舘山寺温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">温暖な気候と冬の美食二大巨頭｜11月・12月に浜名湖・舘山寺温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Scenery & Landscape</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                澄み渡る冬晴れの湖面と冠雪富士山｜初冬の浜名湖が魅せる絶景パノラマ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">澄み渡る冬晴れの湖面と冠雪富士山｜初冬の浜名湖が魅せる絶景パノラマ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -314,9 +310,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月厳選】舘山寺温泉の美食と絶景を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月厳選】舘山寺温泉の美食と絶景を堪能する名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               楽天トラベルで高評価を獲得する宿の中から、とらふぐ・うなぎ料理、展望露天風呂、上質なもてなしを兼ね備えた宿を厳選。
             </p>
@@ -347,9 +341,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">{h.name}</h3>
                       <span className="text-lg sm:text-xl font-extrabold text-amber-800">
                         {h.price} <span className="text-xs font-normal text-slate-500">/人〜</span>
                       </span>
@@ -413,9 +405,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                遠州灘とらふぐの極上美味と「熱の湯」塩化物強塩泉の温浴効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">遠州灘とらふぐの極上美味と「熱の湯」塩化物強塩泉の温浴効果</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -436,9 +426,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の浜名湖・舘山寺温泉を満喫する絶景＆美食ドライブプラン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の浜名湖・舘山寺温泉を満喫する絶景＆美食ドライブプラン</h2>
             </div>
           </div>
 
@@ -503,38 +491,30 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Local Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の舘山寺温泉旅行を120％楽しむための知恵袋
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の舘山寺温泉旅行を120％楽しむための知恵袋</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-slate-700">
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sunset className="w-5 h-5 text-amber-600" />
-                日没時間と夕景の狙い目
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sunset className="w-5 h-5 text-amber-600" />
+                日没時間と夕景の狙い目</h3>
               <p className="leading-relaxed">
                 11月下旬〜12月の浜名湖の日没は16時30分〜16時45分頃。露天風呂や大草山展望台から茜色のマジックアワーを狙うなら、16時前後のチェックインまたは入浴がベストです。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" />
-                遠州のからっ風対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" />
+                遠州のからっ風対策</h3>
               <p className="leading-relaxed">
                 冬晴れの日が多い遠州地方ですが、西寄りの季節風（からっ風）が強く吹くことがあります。湖畔散策やクルーズ船の甲板では風を通さないアウターやストールが必須です。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-amber-600" />
-                静岡地酒とのマリアージュ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-amber-600" />
+                静岡地酒とのマリアージュ</h3>
               <p className="leading-relaxed">
                 遠州灘とらふぐの繊細な旨味には、静岡酵母で醸された「花の舞」や「開運」など、すっきりとした辛口の静岡地酒が相性抜群。冷酒でも熱燗のひれ酒でも至福の味わいです。
               </p>
@@ -550,19 +530,15 @@ export default function ShizuokaKanzanjiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                舘山寺温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">舘山寺温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -575,9 +551,7 @@ export default function ShizuokaKanzanjiWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！11月・12月の冬美食＆温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！11月・12月の冬美食＆温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               日本各地の旬の味覚と絶景露天風呂を巡る、厳選特集記事もぜひチェックしてください。
             </p>

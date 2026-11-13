@@ -222,9 +222,7 @@ export default function YunohanaOnsenWinterPage() {
             <span>11月・12月 冬の京都・亀岡 湯の花温泉特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月京都湯の花温泉の幻想的な亀岡霧雲海と名物ぼたん鍋】初冬の京奥座敷露天・最高級丹波牛ステーキ＆丹波黒豆会席の隠れ宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて京都の奥座敷・亀岡盆地は、厳しい冷え込みによって街全体が真っ白な霧に沈む幻想的な「丹波霧（かめおか雲海）」の季節を迎えます。戦国武将も刀傷を癒やしたと伝わる万病の薬湯・湯の花温泉の露天風呂、静寂に包まれた里山に佇む上質な隠れ宿、冬の丹波を代表する名物「本場猪肉のぼたん鍋」、きめ細やかな霜降りと芳醇な旨味を誇る「丹波牛」のステーキ、丹波黒豆や聖護院大根など旬の京野菜会席を堪能する、大人のための至福の冬旅をお届けします。
@@ -254,9 +252,7 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の京都奥座敷・湯の花温泉が大人に選ばれる理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の京都奥座敷・湯の花温泉が大人に選ばれる理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kyoto Mountain Wellness & Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                戦国武将を癒やしたラジウム薬湯と、丹波ぼたん鍋・丹波牛の美味構造
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">戦国武将を癒やしたラジウム薬湯と、丹波ぼたん鍋・丹波牛の美味構造</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-rose-700" />
-              <span>微量放射能が生み出す「ホルミシス効果」と万病を癒やす鎮静作用</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+              <span>微量放射能が生み出す「ホルミシス効果」と万病を癒やす鎮静作用</span></h3>
             <p>
               湯の花温泉の最大の特徴は、微量のラドンガスを含有する「単純弱放射能温泉（ラジウム温泉）」である点です。放射能泉と聞くと驚かれるかもしれませんが、自然界に存在するごく微量の放射線は、生体にとって有益な刺激をもたらす「放射線ホルミシス効果」を発揮します。
             </p>
             <p>
               入浴時に皮膚や呼吸を通じて微量のラドンが体内に取り込まれると、抗酸化酵素（SOD）の活性が高まり、細胞の修復や免疫機能の向上が促されます。古く戦国時代に傷ついた武士たちが刀傷を癒やしに隠れ湯として通ったという伝説も、この優れた細胞活性化と鎮痛・消炎作用に裏打ちされたものです。刺激が極めて少なく肌当たりが柔らかいため、病後回復や神経痛、冬場の冷え性に絶大な効果をもたらします。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-rose-700" />
-              <span>丹波猪肉の「白脂」と秘伝味噌出汁、幻の丹波牛が奏でる極上冬鍋</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-rose-700" />
+              <span>丹波猪肉の「白脂」と秘伝味噌出汁、幻の丹波牛が奏でる極上冬鍋</span></h3>
             <p>
               冬の丹波を代表する名物「ぼたん鍋」の真髄は、猪肉の脂身（白脂＝しろあぶら）の質にあります。秋に丹波の豊かな山々で実った栗やドングリ、キノコを豊富に食べて越冬準備に入った天然猪は、11月から12月にかけて真っ白で分厚い良質な脂をまといます。この脂は人間の体温に近い融点を持ち、豚肉のようにギトギトせず、噛むほどに上品な甘みとナッツのような香ばしさが溢れ出します。
             </p>
@@ -316,9 +306,7 @@ export default function YunohanaOnsenWinterPage() {
               <Star className="w-3.5 h-3.5 fill-rose-700 text-rose-700" />
               <span>Rakuten Travel Verified Kyoto Retreats</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月におすすめの京都湯の花温泉・厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの京都湯の花温泉・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、里山の静寂な露天風呂、本場ぼたん鍋・丹波牛の料理評価、おもてなしの満足度が高い宿を厳選しました。
             </p>
@@ -353,9 +341,7 @@ export default function YunohanaOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-rose-700 transition-colors">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-rose-700 transition-colors">{h.name}</h3>
                     </div>
                     <p className="text-xs text-rose-800 font-semibold flex items-center gap-1">
                       <Sparkles className="w-3.5 h-3.5 text-rose-600" />
@@ -420,9 +406,7 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                京都奥座敷で雲海とぼたん鍋を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">京都奥座敷で雲海とぼたん鍋を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4 text-slate-700 text-sm sm:text-base">
@@ -476,26 +460,20 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                <span>亀岡盆地の底冷えと服装の工夫</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                <span>亀岡盆地の底冷えと服装の工夫</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 亀岡盆地は「底冷え」と呼ばれる独特の厳しい寒さがあり、京都市内よりも気温が3℃〜5℃低くなります。11月下旬からは朝晩の気温が0℃〜5℃近くまで冷え込み、濃い霧によって湿気を含んだ冷気が身に染みます。早朝の雲海鑑賞や夜間の散策には、風を通さない厚手のダウンコート、マフラー、手袋、カイロをご用意ください。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-rose-700" />
-                <span>濃霧時の運転と電車・無料送迎</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-rose-700" />
+                <span>濃霧時の運転と電車・無料送迎</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月・12月の早朝は丹波霧によって視界が数十メートル程度まで狭まることがあります。車を運転される際はフォグランプを点灯し、十分な車間距離を確保してください。京都駅からJR山陰本線快速で亀岡駅までわずか約20分、各宿が亀岡駅から無料送迎バスを運行しているため、電車利用が非常に安全で快適です。
               </p>
@@ -511,18 +489,14 @@ export default function YunohanaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と湯の花温泉の冬旅アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と湯の花温泉の冬旅アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -535,9 +509,7 @@ export default function YunohanaOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Related Kansai & Gourmet Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい近畿の冬名湯＆全国の味覚会席特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい近畿の冬名湯＆全国の味覚会席特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの冬の味覚や情緒ある温泉街を味わう人気の厳選特集もぜひご覧ください。
             </p>

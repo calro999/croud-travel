@@ -280,10 +280,8 @@ export default function ShogawaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜富山・北陸
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月富山・庄川温泉郷】<br className="hidden sm:inline" />
-            雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月富山・庄川温泉郷】<br className="hidden sm:inline" />
+            雪見庄川峡遊覧船と富山湾紅ズワイガニ・寒ブリ・白えびの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             水墨画のように静まり返る庄川峡の断崖絶壁とエメラルドグリーンの水鏡。開湯以来の美肌名湯に身を委ね、旬を迎えた富山湾の紅ズワイガニ、寒ブリ、白えびを堪能する大人の冬旅。
           </p>
@@ -301,9 +299,7 @@ export default function ShogawaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Winter Heritage Cruise & Onsen</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の庄川峡が魅せる水墨画の世界と、小牧ダム遊覧船の情趣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の庄川峡が魅せる水墨画の世界と、小牧ダム遊覧船の情趣</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,26 +340,20 @@ export default function ShogawaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Thermal Science & Coastal Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白湯と赤茶色炭酸鉄泉の地質構造と、富山湾「天然の生簀」冬の味覚サイエンス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白湯と赤茶色炭酸鉄泉の地質構造と、富山湾「天然の生簀」冬の味覚サイエンス</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>同一敷地で湧出する2つの異なる自家源泉とファンゴセラピーの治癒力</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>同一敷地で湧出する2つの異なる自家源泉とファンゴセラピーの治癒力</span></h3>
             <p>
               庄川温泉郷が温泉通から絶賛される最大の理由は、その複雑な断層地質によって生み出される泉質の多様性にあります。代表格である「鳥越の宿 三楽園」では、地下深層から湧き出る「白湯（炭酸水素塩・塩化物泉）」と、地上近くの鉱床を通る「赤茶色の炭酸鉄泉（含鉄-ナトリウム-塩化物泉）」という、色も主成分も全く異なる2つの源泉を同一館内で引き分けています。
             </p>
             <p>
               赤茶色の炭酸鉄泉には、溶存遊離炭酸（CO2）と二価の鉄イオンが極めて高濃度で含まれており、皮膚毛細血管をダイレクトに拡張して血流量を数倍に高めます。冷え切った手足の抹消まで温かい血液が巡り、入浴後数時間が経過してもポカポカとした保温持続効果が実感できます。さらに、イタリア・アバノ温泉群に匹敵する天然温泉泥を用いた「ファンゴセラピー」は、ミネラルを熟成させた温熱泥パックが関節痛や筋肉のコリを和らげ、老廃物の排出を強力に促進します。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>海底谷「あいがめ」が生む紅ズワイガニの甘みと、初冬の寒ブリ・白えびの贅沢</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>海底谷「あいがめ」が生む紅ズワイガニの甘みと、初冬の寒ブリ・白えびの贅沢</span></h3>
             <p>
               庄川温泉郷は山間の秘境でありながら、富山湾沿岸の新湊漁港や氷見漁港まで車で約40分という距離に位置します。富山湾は岸からわずか数キロで水深数百メートルから1,000メートルに達する急峻な海底谷「あいがめ」を持ち、立山連峰から注ぐ冷涼でミネラル豊富な雪解け水が満ちる「天然の生簀（いけす）」です。
             </p>
@@ -377,9 +367,7 @@ export default function ShogawaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              庄川温泉郷・冬の滞在を彩る厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">庄川温泉郷・冬の滞在を彩る厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
@@ -405,11 +393,9 @@ export default function ShogawaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                     </div>
                     <div className="text-right flex sm:flex-col items-baseline sm:items-end justify-between sm:justify-center">
                       <span className="text-xs text-slate-500">1名あたり参考料金（税込）</span>
@@ -498,9 +484,7 @@ export default function ShogawaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">1泊2日 満喫ルート</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                庄川温泉郷＆庄川峡雪見遊覧船と五箇山合掌集落を巡るモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">庄川温泉郷＆庄川峡雪見遊覧船と五箇山合掌集落を巡るモデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -533,26 +517,20 @@ export default function ShogawaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Advisory</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の庄川温泉郷 冬旅の注意点と服装・交通アクセス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の庄川温泉郷 冬旅の注意点と服装・交通アクセス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                気温と防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                気温と防寒対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月上旬から中旬は朝晩の冷え込みが厳しくなり、11月下旬からは雪が舞い始めます。12月は日中でも5℃を下回り、朝晩は氷点下に達します。庄川峡遊覧船のデッキは川風が非常に冷たいため、防風性の高いダウンジャケット、耳まで覆えるニット帽、手袋、マフラーが欠かせません。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                雪道運転とスタッドレスタイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                雪道運転とスタッドレスタイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月下旬以降にレンタカーや自家用車で訪れる場合は、スタッドレスタイヤの装着が必須です。特に庄川沿いの国道156号線や五箇山方面は路面凍結（ブラックアイスバーン）が頻発します。急発進・急ブレーキを避け、車間距離を十分に確保してください。
               </p>
@@ -568,18 +546,14 @@ export default function ShogawaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                庄川温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">庄川温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -592,9 +566,7 @@ export default function ShogawaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・甲信越の冬名湯＆蟹・寒ブリ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・甲信越の冬名湯＆蟹・寒ブリ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、富山湾・日本海の極上海の幸を味わう人気の厳選特集もぜひご覧ください。
             </p>

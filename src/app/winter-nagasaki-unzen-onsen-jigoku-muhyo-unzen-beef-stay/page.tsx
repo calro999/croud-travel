@@ -267,9 +267,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <Sparkles className="w-4 h-4 text-emerald-800" />
               冬の島原半島・雲仙温泉の圧倒的な魅力
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              大地の熱気みなぎる雲仙地獄と、純白に輝く樹氷群・異国情緒漂う高原リゾート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">大地の熱気みなぎる雲仙地獄と、純白に輝く樹氷群・異国情緒漂う高原リゾート</h2>
           </div>
 
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -291,9 +289,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
         {/* 5 Hot Spring Inns Cards */}
         <section className="space-y-8">
           <div className="border-l-4 border-emerald-700 pl-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12・1月に泊まりたい雲仙温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい雲仙温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
             </p>
@@ -323,9 +319,7 @@ export default function NagasakiUnzenOnsenWinterPage() {
                         <Flame className="w-3.5 h-3.5" />
                         乳白色の酸性硫黄泉＆雲仙地獄ビュー
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-emerald-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -388,17 +382,13 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <Compass className="w-4 h-4 text-emerald-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              大迫力の雲仙地獄と冬の仁田峠霧氷・極上雲仙牛を味わう旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">大迫力の雲仙地獄と冬の仁田峠霧氷・極上雲仙牛を味わう旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【1日目】雲仙地獄の白煙散策と極上温泉・雲仙牛ディナー
-              </h3>
+              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【1日目】雲仙地獄の白煙散策と極上温泉・雲仙牛ディナー</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -424,10 +414,8 @@ export default function NagasakiUnzenOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【2日目】仁田峠ロープウェイの冬霧氷とクラシック建築めぐり
-              </h3>
+              <h3 className="font-bold text-emerald-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【2日目】仁田峠ロープウェイの冬霧氷とクラシック建築めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -457,27 +445,21 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-emerald-800" />
               雲仙・島原半島の冬みやげ＆立ち寄り手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              雲仙で手に入れたい冬の逸品と伝統銘菓
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">雲仙で手に入れたい冬の逸品と伝統銘菓</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-700" />
-                伝統銘菓「湯せんぺい（温泉煎餅）」手焼き体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+                伝統銘菓「湯せんぺい（温泉煎餅）」手焼き体験</h3>
               <p>
                 小麦粉に卵、砂糖、そして雲仙の温泉水を練り込んで焼き上げる伝統銘菓「湯せんぺい」。サクサクとした軽い歯ざわりと素朴で優しい甘さが特徴です。温泉街の工房では焼きたての温かい湯せんぺいや、職人の耳落とし（端っこ）が格安で販売されており、散策のお供に大人気です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-emerald-700" />
-                島原手延べそうめん（冬の温にゅうめん）＆雲仙地獄たまご
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-emerald-700" />
+                島原手延べそうめん（冬の温にゅうめん）＆雲仙地獄たまご</h3>
               <p>
                 手延べの技法でコシと喉越しを追求した「島原手延べそうめん」。冬は温かい出汁で煮込む「にゅうめん」が格別の味わいです。また、雲仙地獄の蒸気熱で蒸し上げた名物「地獄たまご」は、「1個食べれば1年長生き、2個食べれば2年長生き」と言い伝えられる縁起の良い定番グルメです。
               </p>
@@ -492,32 +474,24 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-emerald-800" />
               雲仙温泉・泉質と冬霧氷の自然科学徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の雲仙温泉は「奇跡の活火山リゾート」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の雲仙温泉は「奇跡の活火山リゾート」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-emerald-700" />
-              乳白色の酸性・含硫黄泉が誇る驚異的な「殺菌力」と「血管拡張作用」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-700" />
+              乳白色の酸性・含硫黄泉が誇る驚異的な「殺菌力」と「血管拡張作用」</h3>
             <p>
               雲仙温泉の源泉は、地下深くのマグマだまりから発生する高温の火山ガスが地下水と激しく反応して生まれる「酸性・含硫黄-単純温泉」です。pH2前後の強い酸性を示し、皮膚の雑菌を殺菌・清浄化する作用が極めて強力。さらに豊富に溶け込んだ硫黄成分（硫化水素）が皮膚から吸収されると、末梢血管が拡張して全身の血流が劇的にアップします。入浴直後から全身がカッと熱を帯び、湯上がり後も芯からポカポカとした温もりが持続。冬の頑固な冷え性や関節痛、肌荒れに劇的な効果をもたらす本物の薬湯です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Snowflake className="w-4 h-4 text-emerald-700" />
-              有明海・橘湾からの湿った季節風が生む「奇跡の霧氷（花ぼうろ）」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Snowflake className="w-4 h-4 text-emerald-700" />
+              有明海・橘湾からの湿った季節風が生む「奇跡の霧氷（花ぼうろ）」</h3>
             <p>
               冬の雲仙岳（標高1,359m）は、西からの強い冬期季節風が橘湾や有明海の水蒸気を巻き上げながら一気に山肌を駆け上がります。気温が氷点下まで下がると、雲の中の水分が凍らないまま浮遊する「過冷却状態」となり、山頂付近の樹木にぶつかった瞬間に急速凍結。これが幾重にも重なって美しい氷の花「霧氷」を形成します。海に囲まれた島原半島ならではの豊富な水蒸気と高低差が合致して生まれる、世界でも極めて稀有な海洋性山岳霧氷です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-emerald-700" />
-              明治・大正から続く国際避暑地のモダンな歴史とサロン文化
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-emerald-700" />
+              明治・大正から続く国際避暑地のモダンな歴史とサロン文化</h3>
             <p>
               雲仙は古くから欧米人のリゾート地として発展したため、日本の伝統的な温泉街の風情の中に、西洋風の瀟洒な建築やバー文化、洋食の技法が自然に溶け込んでいます。浴衣に下駄で地獄を散策した後、暖炉の灯るラウンジでワインやウイスキーを嗜み、極上のフレンチや懐石に舌鼓を打つ。和と洋が高度に融合したこの贅沢な居心地の良さは、他の温泉地にはない雲仙だけの唯一無二の魅力です。
             </p>
@@ -531,18 +505,14 @@ export default function NagasakiUnzenOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-emerald-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              冬の雲仙温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">冬の雲仙温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

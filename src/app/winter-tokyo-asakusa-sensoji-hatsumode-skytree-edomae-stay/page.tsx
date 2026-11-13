@@ -285,9 +285,7 @@ export default function TokyoAsakusaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              朱塗りの雷門と冬空のスカイツリー！江戸の粋とぬくもりが息づく下町の冬
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">朱塗りの雷門と冬空のスカイツリー！江戸の粋とぬくもりが息づく下町の冬</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               1400年の祈りが息づく浅草寺、澄み切った大気に輝く光の塔、伝統の江戸前滋味
             </p>
@@ -328,9 +326,7 @@ export default function TokyoAsakusaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-red-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の浅草＆スカイツリーを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の浅草＆スカイツリーを満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルAPIから最新取得した、浅草寺徒歩圏・黒湯天然温泉・絶景パノラマビューの信頼宿
             </p>
@@ -365,9 +361,7 @@ export default function TokyoAsakusaWinterPage() {
                       <span>{hotel.access}</span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-sm text-slate-600 leading-relaxed">
                       {hotel.story}
@@ -419,9 +413,7 @@ export default function TokyoAsakusaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の浅草・押上を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の浅草・押上を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               初詣参拝、仲見世食べ歩き、スカイツリー夕景＆夜景、老舗すき焼きと黒湯温泉の贅沢旅
             </p>
@@ -474,47 +466,37 @@ export default function TokyoAsakusaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の浅草・スカイツリー完全攻略：初詣・夜景・老舗グルメを巡る極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の浅草・スカイツリー完全攻略：初詣・夜景・老舗グルメを巡る極意</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-amber-500" />
-                浅草寺新春初詣の混雑回避と早朝参拝の魅力
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+                浅草寺新春初詣の混雑回避と早朝参拝の魅力</h3>
               <p className="leading-relaxed">
                 三が日の昼間は雷門前から大行列となりますが、早朝6時〜8時の時間帯は驚くほど静寂に包まれます。澄み切った朝の光を浴びながら仲見世を抜け、煙立つ常香炉で身を清めて本堂でお参り。宿泊者だからこそ体験できる特別な朝の贅沢です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                東京スカイツリーの夕景グラデーション＆冬夜景
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                東京スカイツリーの夕景グラデーション＆冬夜景</h3>
               <p className="leading-relaxed">
                 冬の展望台は16時30分頃の入場がベスト。日没とともに西の空に富士山の雄姿がシルエットで現れ、やがて眼下に東京の街の無数の明かりが点灯する「トワイライトタイム」を鑑賞できます。地上からの限定ライトアップ撮影は隅田公園テラスが絶好スポットです。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-red-500" />
-                浅草老舗すき焼き・天ぷら・どぜう鍋の予約術
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-red-500" />
+                浅草老舗すき焼き・天ぷら・どぜう鍋の予約術</h3>
               <p className="leading-relaxed">
                 年末年始や冬の週末は老舗店が大混雑します。「浅草今半」やすき焼きの名店は事前予約が確実。予約なしで訪れる場合は開店直後（11時台）または14時〜16時のアイドルタイムを狙うとスムーズに入店できます。出来立て熱々の出汁と肉の旨味は冬の極上ご馳走です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-500" />
-                下町名物の黒湯天然温泉で芯から温まる
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-sky-500" />
+                下町名物の黒湯天然温泉で芯から温まる</h3>
               <p className="leading-relaxed">
                 浅草エリアの地下から湧く黒湯は、植物由来の有機フミン酸を多く含む美肌の湯。湯上がり後もポカポカとした温もりが長く持続し、冬の冷たい風に吹かれた体を優しく包み込みます。サウナと水風呂で整う時間も冬旅の大きな醍醐味です。
               </p>
@@ -526,26 +508,20 @@ export default function TokyoAsakusaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の浅草・東京下町：気候・服装・散策の注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の浅草・東京下町：気候・服装・散策の注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-red-500" />
-                ビル風と川風対策の防寒具
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-red-500" />
+                ビル風と川風対策の防寒具</h4>
               <p>
                 東京の冬はからっ風と呼ばれる冷たい北風が吹きます。特に隅田川沿いやスカイツリー周辺は強い風が吹き抜けるため、風を通さないダウンコートやマフラー、手袋が欠かせません。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-4 h-4 text-indigo-500" />
-                初詣期間中の交通規制と電車利用
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Building className="w-4 h-4 text-indigo-500" />
+                初詣期間中の交通規制と電車利用</h4>
               <p>
                 三が日は浅草寺周辺の雷門通りや並木通りが交通規制となり車両の通行が大幅に制限されます。マイカーは避け、東京メトロ銀座線、都営浅草線、東武線などの鉄道機関を利用しましょう。
               </p>
@@ -557,18 +533,14 @@ export default function TokyoAsakusaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の浅草・スカイツリー観光・初詣 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の浅草・スカイツリー観光・初詣 よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-red-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-red-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -579,10 +551,8 @@ export default function TokyoAsakusaWinterPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選都市＆初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選都市＆初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-tokyo-marunouchi-illumination-luxury-stay/"

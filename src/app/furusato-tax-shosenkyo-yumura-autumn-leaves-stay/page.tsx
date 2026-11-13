@@ -89,9 +89,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            主峰・覚円峰の白い花崗岩に映える真紅のモミジ。武田信玄公が愛した名湯と甲州の秋の味覚に憩う歴史旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">主峰・覚円峰の白い花崗岩に映える真紅のモミジ。武田信玄公が愛した名湯と甲州の秋の味覚に憩う歴史旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             国の特別名勝に指定され「日本一の渓谷美」と称される山梨県甲府市の「御岳昇仙峡（みたけしょうせんきょう）」。10月下旬から11月下旬にかけて、落差30mの壮大な「仙娥滝（せんがたき）」や高さ約180mの白く切り立つ主峰「覚円峰（かくえんぼう）」を取り囲む花崗岩の岸壁が一斉にモミジやカエデ、ナナカマドで鮮やかに色づき、清流沿いの遊歩道を歩けば大自然が創り出した彫刻美と紅葉の競演に息を呑みます。そして昇仙峡から車でわずか約20分、甲府の奥座敷に位置するのが、弘法大師が開湯し武田信玄公が陣中傷を癒やす隠し湯とした「甲府湯村温泉」です。弱アルカリ性単純温泉の源泉が毎分豊富に湧き出し、肌触りまろやかで神経痛や疲労回復に優れた効能を発揮。広大な日本庭園と数々の将棋名人戦の舞台として知られる名門「常磐ホテル」、太宰治が名作『パンドラの匣』を執筆した歴史を伝える老舗「旅館明治」、そして豊富な自家源泉を贅沢に掛け流す数寄屋造りの宿「柳屋」。極上の甲州牛溶岩焼きや旬の松茸・甲斐サーモンとともに、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で予約し、風情あふれる甲府の秋旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  特別名勝「昇仙峡」の覚円峰・仙娥滝＆昇仙峡ロープウェイからの富士山ビュー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">特別名勝「昇仙峡」の覚円峰・仙娥滝＆昇仙峡ロープウェイからの富士山ビュー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 花崗岩の絶壁と清流、紅葉が織りなす圧倒的な渓谷美。ロープウェイ山頂パノラマ台からは紅葉の山々と遠く富士山を望む大パノラマが広がります。
@@ -122,9 +118,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  開湯千二百年！武田信玄公の隠し湯「甲府湯村温泉」の豊富な自家源泉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">開湯千二百年！武田信玄公の隠し湯「甲府湯村温泉」の豊富な自家源泉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 太宰治や井伏鱒二など多くの文豪にも愛された名湯。弱アルカリ性の柔らかな湯が身体を芯から温め、旅の歩き疲れを心地よく解きほぐします。
@@ -137,9 +131,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  最高峰「甲州牛」の鉄板焼き・すき焼き＆甲斐サーモン・名物ほうとう会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">最高峰「甲州牛」の鉄板焼き・すき焼き＆甲斐サーモン・名物ほうとう会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 山梨の自然が育んだきめ細やかな霜降り甲州牛や、清流で育った甲斐サーモンのお造り、具だくさんの手打ちほうとう鍋など地場グルメを満喫できます。
@@ -174,9 +166,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                       ★ 4.80 <span className="text-stone-400 text-xs">(1,568件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    信玄の湯　湯村温泉　常磐ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">信玄の湯　湯村温泉　常磐ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県甲府市湯村2-5-21 ｜ 中央自動車道、甲府昭和ICから20分／甲府駅南口バスターミナル4番線15分「湯村温泉入口」下車。武田神社は車で15分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                       ★ 4.43 <span className="text-stone-400 text-xs">(132件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    信玄の湯　湯村温泉　旅館明治　太宰治ゆかりの宿
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">信玄の湯　湯村温泉　旅館明治　太宰治ゆかりの宿</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県甲府市湯村3-10-14 ｜ 甲府駅よりお車で約10分、中央自動車双葉ＩＣより約10分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
                       ★ 3.96 <span className="text-stone-400 text-xs">(180件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    甲州湯村温泉　柳屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">甲州湯村温泉　柳屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県甲府市湯村3-16-2 ｜ 甲府駅よりお車にて約１５分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】信玄の湯 湯村温泉 常磐ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】信玄の湯 湯村温泉 常磐ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoShosenkyoYumuraAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と信玄の湯 湯村温泉 常磐ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と信玄の湯 湯村温泉 常磐ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            石造り倉庫とガス灯の温もり——港町小樽の歴史浪漫と朝里川温泉のいで湯、新鮮な北海の幸を味わう優雅な休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">石造り倉庫とガス灯の温もり——港町小樽の歴史浪漫と朝里川温泉のいで湯、新鮮な北海の幸を味わう優雅な休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北海道西海岸、石狩湾に面した歴史ある港町・小樽（おたる）。明治から大正、昭和初期にかけて北海道開拓の海の玄関口として栄え、日本銀行旧小樽支店をはじめとする重厚な近代建築や石造り倉庫群が建ち並び、「北のウォール街」と称された面影を今なお色濃く残しています。夕暮れ時にガス灯が灯る「小樽運河」の水面に映る倉庫群のシルエットは息をのむ美しさ。オルゴール堂や北一硝子、堺町通りのレトロな街並みは散策するだけでタイムスリップしたかのような情緒に浸れます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道小樽市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  運河の宿　おたる　ふる川
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">運河の宿　おたる　ふる川</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   小樽運河の目の前に佇む明治の商家風情！自家源泉の天然温泉と地元産こだわり朝食バイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  運河の宿 おたる ふる川 —— 小樽運河を一望する特等席。どこか懐かしい木と光の温もりに癒やされる宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">運河の宿 おたる ふる川 —— 小樽運河を一望する特等席。どこか懐かしい木と光の温もりに癒やされる宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 小樽運河の石造り倉庫群を窓から眺める絶好のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">小樽運河の石造り倉庫群を窓から眺める絶好のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">運河側の客室からは夕暮れのガス灯や朝の静かな運河の景色を一望。堺町通りや寿司屋通りへの散策にも最高の拠点です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 檜と小樽軟石をあしらった自家源泉の天然温泉大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">檜と小樽軟石をあしらった自家源泉の天然温泉大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">壱の湯・弐の湯の二つの大浴場には露天風呂やよもぎ寝湯を完備。柔らかな湯ざわりで心身ともに温まります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の新鮮な旬食材が並ぶ評判の朝食バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の新鮮な旬食材が並ぶ評判の朝食バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">地元後志の採れたて野菜や手作り豆腐、焼き立てクロワッサン、海の幸など、体に優しいこだわり和洋メニューが充実しています。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道小樽市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  おたる　宏楽園
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">おたる　宏楽園</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   八千坪の広大な日本庭園に抱かれた和の名宿！自家源泉の美肌湯と露天風呂付き客室で過ごす休日
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  おたる 宏楽園 —— 四季折々の花々が咲き誇る名園の宿。自家源泉の滑らかな湯と北海道の旬を織り込んだ会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">おたる 宏楽園 —— 四季折々の花々が咲き誇る名園の宿。自家源泉の滑らかな湯と北海道の旬を織り込んだ会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 樹齢数百年の古木や桜・ツツジが彩る八千坪の日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">樹齢数百年の古木や桜・ツツジが彩る八千坪の日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">四季を通じて表情を変える回遊式日本庭園。春の桜、初夏の新緑、秋の紅葉、冬の雪景色と、散策するだけで心が洗われます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から湧出するアルカリ性単純温泉の自家源泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から湧出するアルカリ性単純温泉の自家源泉</h5>
                     <p className="text-stone-600 leading-relaxed">肌がつるつるになると評判の美肌の湯。庭園を望む大浴場や露天風呂、露天風呂付き客室で源泉の恵みを存分に楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 後志・北海道の山海の幸を丹精込めて仕立てる創作会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">後志・北海道の山海の幸を丹精込めて仕立てる創作会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理人が一品一品手作りする美しい日本料理。ゆったりとお部屋や食事処で旬の美味と地酒を味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道小樽市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  料亭湯宿　銀鱗荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">料亭湯宿　銀鱗荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   平磯岬の高台にそびえる本物の鰊御殿！石狩湾を一望する岩露天風呂と最高峰の会席料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  料亭湯宿 銀鱗荘 —— 「北の迎賓館」と謳われる文化財の宿。海を見晴らす高台のいで湯と伝統の料亭美禄
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">料亭湯宿 銀鱗荘 —— 「北の迎賓館」と謳われる文化財の宿。海を見晴らす高台のいで湯と伝統の料亭美禄</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 明治初期の豪壮な鰊御殿を移築した北海道有形文化財の建築
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">明治初期の豪壮な鰊御殿を移築した北海道有形文化財の建築</h5>
                     <p className="text-stone-600 leading-relaxed">銘木を贅沢に使った入母屋造りの堂々たる建築美。天望笠や格調高い調度品が往時の小樽の繁栄を今に伝えています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 石狩湾の大海原と小樽市街を見下ろす絶景露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">石狩湾の大海原と小樽市街を見下ろす絶景露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">高台の断崖にせり出すように造られた野趣あふれる岩露天風呂。朝焼けの海や夜景を眺めながらの名湯入浴は至高の体験です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 創業以来の伝統を受け継ぐ一流料亭の技と旬の極上懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">創業以来の伝統を受け継ぐ一流料亭の技と旬の極上懐石</h5>
                     <p className="text-stone-600 leading-relaxed">小樽前浜の新鮮な魚介をはじめ、厳選された北の味覚を心ゆくまで。料理の盛り付けや器にも細やかな美意識が息づきます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 小樽・朝里川温泉・小樽運河＆堺町通り観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 小樽・朝里川温泉・小樽運河＆堺町通り観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                小樽運河散策＆ナイトクルーズ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                小樽運河散策＆ナイトクルーズ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 全長1140mの運河沿いにガス灯が並ぶ小樽のシンボル。日中の歴史散歩はもちろん、運河クルーズ船に乗って水上から石造り倉庫や港を巡る体験も人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                堺町通り・小樽オルゴール堂＆北一硝子めぐり
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                堺町通り・小樽オルゴール堂＆北一硝子めぐり</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 歴史的建造物を活用したショップやガラス工房、スイーツ店が並ぶメインストリート。「ルタオ本店」の限定ドゥーブルフロマージュや蒸気時計も見逃せません。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                小樽天狗山ロープウェイからの「北海道三大夜景」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                小樽天狗山ロープウェイからの「北海道三大夜景」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 標高532mの天狗山山頂から見下ろす小樽市街と石狩湾のパノラマ。夜には宝石箱を散りばめたようなロマンチックな夜景が広がります。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道小樽市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道小樽市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】運河の宿 おたる ふる川を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】運河の宿 おたる ふる川を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と運河の宿 おたる ふる川の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と運河の宿 おたる ふる川の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -79,15 +79,13 @@ export default function OkinawaTravelBudgetPage() {
 
       {/* Plan Comparisons */}
       <div className="space-y-8">
-        <h2 className="text-2xl font-black text-center text-sky-950 mb-4">
-          あなたの旅はどれ？3つの予算プラン
-        </h2>
+        <h2 className="text-2xl font-black text-center text-sky-950 mb-4">あなたの旅はどれ？3つの予算プラン</h2>
 
         <div className="grid md:grid-cols-3 gap-6">
           {/* プラン1 */}
           <div className="bg-white border-2 border-stone-100 rounded-3xl p-6 shadow-sm hover:shadow-md transition relative overflow-hidden">
             <div className="absolute top-0 right-0 bg-stone-100 text-stone-600 text-xs font-bold px-3 py-1 rounded-bl-xl">1人 3.5〜5万円</div>
-            <h3 className="text-xl font-bold text-stone-800 mb-2 mt-4">🎒 最安プラン</h3>
+            <h3 className="text-xl font-bold text-stone-800 mb-2 mt-4">最安プラン</h3>
             <p className="text-sm text-stone-500 mb-4">LCC＋ゆいレール・路線バス。とにかく安く！</p>
             <ul className="space-y-2 text-sm text-stone-700">
               <li className="flex justify-between border-b border-stone-100 pb-1">
@@ -108,7 +106,7 @@ export default function OkinawaTravelBudgetPage() {
           {/* プラン2 */}
           <div className="bg-sky-50 border-2 border-sky-200 rounded-3xl p-6 shadow-md relative overflow-hidden transform md:-translate-y-2">
             <div className="absolute top-0 right-0 bg-sky-500 text-white text-xs font-bold px-3 py-1 rounded-bl-xl">1人 7〜10万円</div>
-            <h3 className="text-xl font-bold text-sky-900 mb-2 mt-4">🚗 中間王道プラン</h3>
+            <h3 className="text-xl font-bold text-sky-900 mb-2 mt-4">中間王道プラン</h3>
             <p className="text-sm text-sky-700/80 mb-4">レンタカー必須！美ら海＆西海岸リゾート</p>
             <ul className="space-y-2 text-sm text-sky-900">
               <li className="flex justify-between border-b border-sky-100 pb-1">
@@ -130,7 +128,7 @@ export default function OkinawaTravelBudgetPage() {
           {/* プラン3 */}
           <div className="bg-gradient-to-br from-amber-50 to-orange-50 border-2 border-amber-200 rounded-3xl p-6 shadow-sm relative overflow-hidden">
             <div className="absolute top-0 right-0 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-bl-xl">1人 15万円〜</div>
-            <h3 className="text-xl font-bold text-amber-900 mb-2 mt-4">🥂 贅沢プラン</h3>
+            <h3 className="text-xl font-bold text-amber-900 mb-2 mt-4">贅沢プラン</h3>
             <p className="text-sm text-amber-700/80 mb-4">最高級ホテルでおこもりステイ。</p>
             <ul className="space-y-2 text-sm text-amber-900">
               <li className="flex justify-between border-b border-amber-100 pb-1">
@@ -146,15 +144,11 @@ export default function OkinawaTravelBudgetPage() {
 
       {/* 食費＆アクティビティ */}
       <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200">
-        <h2 className="text-2xl font-black font-journal-serif text-stone-800 mb-8 border-b-2 border-cyan-200 pb-2 inline-block">
-          現地での出費：食費＆遊び代の相場
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-stone-800 mb-8 border-b-2 border-cyan-200 pb-2 inline-block">現地での出費：食費＆遊び代の相場</h2>
         
         <div className="grid md:grid-cols-2 gap-10">
           <div>
-            <h3 className="text-lg font-bold text-orange-600 mb-4 flex items-center gap-2">
-              <span>🍽</span> 沖縄グルメ相場
-            </h3>
+            <h3 className="text-lg font-bold text-orange-600 mb-4 flex items-center gap-2">沖縄グルメ相場</h3>
             <ul className="space-y-3 text-sm text-stone-700 bg-orange-50/50 p-5 rounded-2xl border border-orange-100">
               <li className="flex justify-between items-center">
                 <span>沖縄そば</span> <span className="font-bold text-lg">約650円</span>
@@ -175,9 +169,7 @@ export default function OkinawaTravelBudgetPage() {
           </div>
           
           <div>
-            <h3 className="text-lg font-bold text-cyan-600 mb-4 flex items-center gap-2">
-              <span>🐠</span> アクティビティ＆その他
-            </h3>
+            <h3 className="text-lg font-bold text-cyan-600 mb-4 flex items-center gap-2">アクティビティ＆その他</h3>
             <ul className="space-y-3 text-sm text-stone-700 bg-cyan-50/50 p-5 rounded-2xl border border-cyan-100">
               <li className="flex justify-between items-center">
                 <span>美ら海水族館（大人）</span> <span className="font-bold text-lg">2,180円</span>
@@ -199,9 +191,7 @@ export default function OkinawaTravelBudgetPage() {
       {/* Recommended Hotels from Rakuten */}
       {hotels.length > 0 && (
         <section className="pt-8">
-          <h2 className="text-2xl font-black font-journal-serif text-sky-900 text-center mb-8">
-            沖縄のおすすめホテル・リゾート
-          </h2>
+          <h2 className="text-2xl font-black font-journal-serif text-sky-900 text-center mb-8">沖縄のおすすめホテル・リゾート</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
               <div key={hotel.hotelNo} className="bg-white rounded-2xl shadow-sm border border-stone-200 overflow-hidden flex flex-col">
@@ -246,9 +236,7 @@ export default function OkinawaTravelBudgetPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「沖縄旅行 予算：2泊3日・3泊4日それぞれいくら？航空券・レンタカー・リゾートホテルのリアル費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -327,9 +315,7 @@ export default function OkinawaTravelBudgetPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「沖縄旅行 予算」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「沖縄旅行 予算」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

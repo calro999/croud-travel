@@ -55,9 +55,7 @@ export default function IzuShuzenjiAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            伊豆の小京都・修善寺温泉で体験する風雅な紅葉小路
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">伊豆の小京都・修善寺温泉で体験する風雅な紅葉小路</h2>
           <p className="mb-4 text-stone-700">
             開湯1200年以上の歴史を誇る修善寺温泉。秋が深まると、温泉街の中心を流れる桂川沿いの「竹林の小径」では、青々とした竹林と鮮やかに色づいた紅葉のコントラストが見事な絵巻物を生み出します。中央に置かれた円形ベンチに腰を下ろして見上げる紅葉の空は、日常の喧騒を忘れさせてくれる特別な空間です。
           </p>
@@ -69,10 +67,8 @@ export default function IzuShuzenjiAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！修善寺温泉の厳選名旅館5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！修善寺温泉の厳選名旅館5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function IzuShuzenjiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 5</span>
                     <span className="text-stone-400 text-xs">(36件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    修善寺温泉　柳生の庄
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">修善寺温泉　柳生の庄</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分　
                   </p>
@@ -142,9 +136,7 @@ export default function IzuShuzenjiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.71</span>
                     <span className="text-stone-400 text-xs">(633件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    修善寺温泉　宙ＳＯＲＡ　渡月荘金龍
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">修善寺温泉　宙ＳＯＲＡ　渡月荘金龍</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道修善寺駅から路線バスまたはタクシー（送迎不可）/東名高速沼津ICから伊豆縦貫道・伊豆中央道経由約３５分
                   </p>
@@ -234,9 +226,7 @@ export default function IzuShuzenjiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.57</span>
                     <span className="text-stone-400 text-xs">(125件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    修善寺温泉　五葉館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">修善寺温泉　五葉館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道　修善寺駅よりバスで８分／お車は、東名沼津ICより伊豆縦貫道・伊豆中央道・修善寺道路で約30分
                   </p>
@@ -281,9 +271,7 @@ export default function IzuShuzenjiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.34</span>
                     <span className="text-stone-400 text-xs">(1988件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    湯めぐりの宿　修善寺温泉　桂川（共立リゾート）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">湯めぐりの宿　修善寺温泉　桂川（共立リゾート）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 修善寺駅 / 伊豆箱根鉄道修善寺駅よりタクシーで８分。
                   </p>
@@ -328,9 +316,7 @@ export default function IzuShuzenjiAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策！歴史薫る風雅なおすすめ名旅館5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -400,9 +386,7 @@ export default function IzuShuzenjiAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の伊豆・修善寺温泉」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の伊豆・修善寺温泉」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

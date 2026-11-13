@@ -266,10 +266,8 @@ export default function KurokawaWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 阿蘇名湯・冬の竹灯籠と秘湯情緒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月黒川温泉の湯あかりと秘湯情緒】<br className="hidden sm:inline" />
-            竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月黒川温泉の湯あかりと秘湯情緒】<br className="hidden sm:inline" />
+            竹灯籠が彩る渓流露天風呂と阿蘇あか牛・肥後会席の名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             阿蘇外輪山の深い緑と渓谷に佇む山あいの秘湯。12月中旬の夜、田の原川を照らし出す無数の竹毬灯籠「湯あかり」が幻想的な光景を創り出す。名物「入湯手形」を手に巡る野趣あふれる露天風呂と、阿蘇あか牛・極上馬刺しの美食に満たされる贅沢な冬の旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function KurokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Heritage & Winter Spirit</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                街全体がひとつの宿。里山と調和する黒川の冬の奇跡「湯あかり」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">街全体がひとつの宿。里山と調和する黒川の冬の奇跡「湯あかり」</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function KurokawaWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Moon className="w-5 h-5 text-emerald-800" />
-                <span>冬の「湯あかり」鑑賞のベストタイム</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Moon className="w-5 h-5 text-emerald-800" />
+                <span>冬の「湯あかり」鑑賞のベストタイム</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 点灯は17:00〜22:00。夕暮れ直後の17:30〜18:30が青暗い空と灯籠のコントラストが最も美しい時間帯です。
               </p>
@@ -365,9 +359,7 @@ export default function KurokawaWinterPage() {
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest bg-emerald-50 px-3.5 py-1.5 rounded-full border border-emerald-200">
               Selected 5 Ryokan
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              【11・12月】黒川温泉で泊まりたい極上名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">【11・12月】黒川温泉で泊まりたい極上名旅館5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
               楽天トラベルで高評価を獲得する実力派から、渓流露天・星空パノラマ・美食自慢の宿まで、初冬の黒川を満喫できる名宿を厳選してご紹介します。
             </p>
@@ -412,9 +404,7 @@ export default function KurokawaWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-emerald-800 transition">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-emerald-800 transition">{hotel.name}</h3>
 
                     <p className="text-stone-700 leading-relaxed text-sm">
                       {hotel.story}
@@ -480,9 +470,7 @@ export default function KurokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の黒川温泉 湯あかり＆阿蘇美食満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の黒川温泉 湯あかり＆阿蘇美食満喫モデルコース</h2>
             </div>
           </div>
 
@@ -574,48 +562,38 @@ export default function KurokawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                黒川温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">黒川温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>黒川温泉の「湯あかり」はいつからいつまで開催されますか？点灯時間は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>黒川温泉の「湯あかり」はいつからいつまで開催されますか？点灯時間は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 黒川温泉の冬の風物詩「湯あかり」は、例年12月中旬（または下旬）から翌年3月末〜4月上旬まで開催されます。点灯時間は日没（概ね17時頃）から22時までです。田の原川の渓流沿いや丸鈴橋周辺、川端通りなどに数百個の竹毬灯籠や筒灯籠が設置され、柔らかな橙色の光が水面と湯けむりを照らし出す幻想的な光景を楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>黒川温泉の11月・12月の気温と積雪、車でのアクセス注意点は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>黒川温泉の11月・12月の気温と積雪、車でのアクセス注意点は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 黒川温泉は標高約700m前後の阿蘇外輪山山麓に位置するため、熊本市内や福岡市内よりも気温が約5〜7度低くなります。11月は朝晩の冷え込みが強く（最低気温3〜5度）、12月に入ると朝晩は氷点下に達します。12月中旬以降は寒波によって積雪や路面凍結が発生することがあるため、お車の場合は冬用タイヤ（スタッドレスタイヤ）の装着またはチェーンの携行が必須です。厚手の防寒コート、手袋、マフラーを必ずご用意ください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>「入湯手形」の仕組みと使い方のルールを教えてください。</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>「入湯手形」の仕組みと使い方のルールを教えてください。</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 入湯手形は地元小国杉で作られた木製の手形で、黒川温泉旅館組合の案内所「風の舎」または加盟各旅館で1枚1,500円（税込）で購入できます。手形1枚につき加盟旅館の指定露天風呂の中からお好きな3箇所に入浴できるか、または2箇所入浴＋飲食やお土産の利用券1回分として使えます。有効期限は半年間あり、日帰りだけでなく宿泊中の湯めぐりにも最適です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>黒川温泉で絶対に味わうべき地元名物グルメは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>黒川温泉で絶対に味わうべき地元名物グルメは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 阿蘇の広大な草原で放牧された脂肪分が少なく赤身の旨味が濃厚な「阿蘇あか牛」のステーキ・溶岩焼き、本場熊本ならではの新鮮な「極上霜降り馬刺し」、具だくさんの汁に小麦粉を練った団子を入れた郷土料理「だご汁」、濃厚でコクのある「小国ジャージー牛乳」のスイーツやプリン、ピリッとした辛みが食欲をそそる「高菜めし」が定番の名物グルメです。
               </p>
@@ -627,9 +605,7 @@ export default function KurokawaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-emerald-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆全国の名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆全国の名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -638,9 +614,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州の冬グルメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【博多】クリスマスアドベント＆本場もつ鍋・水炊きを堪能する冬宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【博多】クリスマスアドベント＆本場もつ鍋・水炊きを堪能する冬宿</h3>
             </Link>
 
             <Link 
@@ -648,9 +622,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">九州のイルミ名所</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【ハウステンボス】世界最大級1300万球の光の街＆極上ホテルステイ
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【ハウステンボス】世界最大級1300万球の光の街＆極上ホテルステイ</h3>
             </Link>
 
             <Link 
@@ -658,9 +630,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">西日本の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
             </Link>
 
             <Link 
@@ -668,9 +638,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関東の石段名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -678,9 +646,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">山陰の冬の味覚</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
             </Link>
 
             <Link 
@@ -688,9 +654,7 @@ export default function KurokawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-kumamoto-kurokawa-onsen-yuakari-stay" />

@@ -58,10 +58,8 @@ export default function AutumnBudgetToyohashiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-rose-600" />
-            宿泊代2,000円台！浮いた予算で奥三河の秘境ドライブ＆豊橋ご当地グルメ制覇
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-rose-600" />
+            宿泊代2,000円台！浮いた予算で奥三河の秘境ドライブ＆豊橋ご当地グルメ制覇</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             東海道新幹線ひかり・こだまが停車し、東京・大阪・名古屋のどこからでもアクセス抜群な豊橋。名古屋市内よりも宿泊費が大幅にリーズナブルで、2,000円台〜4,000円台で大浴場付きの快適ホテルが利用可能。宿代を賢く浮かせ、レンタカーで奥三河の紅葉名所を巡り、夜は路面電車が走る街角でご当地グルメを満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場無料◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＡＢホテル豊橋
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＡＢホテル豊橋</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>豊橋</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（備長炭の湯）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">備長炭の湯　ホテルクラウンヒルズ豊橋（ＢＢＨホテルグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>豊橋</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（シモンズベッド）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ジャストインプレミアム豊橋駅新幹線口
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ジャストインプレミアム豊橋駅新幹線口</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>豊橋</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（格安アットホーム）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              豊橋ビジネスホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">豊橋ビジネスホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>豊橋</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（タワーホテル★4.40）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ロワジールホテル豊橋
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ロワジールホテル豊橋</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>豊橋</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetToyohashiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-rose-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の鳳来寺山・豊橋観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300"><CheckCircle2 className="w-5 h-5" />
+            秋の鳳来寺山・豊橋観光を満喫するヒント</h2>
           <p className="text-sm text-rose-100 leading-relaxed">
             鳳来寺山のもみじまつりは11月中旬〜下旬に開催。参道の1425段の石段を登る本格トレッキングや、鳳来寺山パークウェイからのドライブが人気です。「豊橋カレーうどん」はどんぶりの底にとろろとご飯が入っており、うどんを食べ終わった後にカレー雑炊として2度楽しめる絶品グルメ。ぜひ本場で味わってみてください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「豊橋：鳳来寺山・香嵐渓紅葉ドライブ拠点＆豊橋カレーうどん！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 豊橋エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">豊橋エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

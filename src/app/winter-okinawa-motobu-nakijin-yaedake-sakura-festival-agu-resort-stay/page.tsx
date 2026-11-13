@@ -266,10 +266,8 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Flower2 className="w-6 h-6 text-pink-500 shrink-0" />
-              日本一早い春！冬の本部・今帰仁が魅せるピンクの桜並木と美ら海
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Flower2 className="w-6 h-6 text-pink-500 shrink-0" />
+              日本一早い春！冬の本部・今帰仁が魅せるピンクの桜並木と美ら海</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,9 +287,7 @@ export default function OkinawaMotobuWinterPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-pink-600 pl-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の本部・今帰仁を満喫する美ら海リゾート＆天然温泉名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の本部・今帰仁を満喫する美ら海リゾート＆天然温泉名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。桜まつりアクセス・オーシャンビュー・やんばる美食に優れた宿を厳選
             </p>
@@ -320,9 +316,7 @@ export default function OkinawaMotobuWinterPage() {
                     <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
                       <div>
                         <span className="text-xs font-semibold text-pink-600 block mb-0.5">{h.access}</span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       </div>
                       <div className="flex items-center gap-1 bg-amber-50 px-3 py-1 rounded-lg border border-amber-200">
                         <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
@@ -394,10 +388,8 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Packing</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-pink-500 shrink-0" />
-              1月の沖縄・本部半島の気候推移と快適な服装・持ち物ガイド
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-pink-500 shrink-0" />
+              1月の沖縄・本部半島の気候推移と快適な服装・持ち物ガイド</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -443,38 +435,30 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photography Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-pink-500 shrink-0" />
-              ピンクと青の対比を撮る！八重岳桜並木＆今帰仁城跡の絶景撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-pink-500 shrink-0" />
+              ピンクと青の対比を撮る！八重岳桜並木＆今帰仁城跡の絶景撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-pink-600" />
-                八重岳の桜のトンネル
-              </h3>
+              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-pink-600" />
+                八重岳の桜のトンネル</h3>
               <p className="leading-relaxed">
                 午前中の順光時に山頂付近のヘアピンカーブから撮影するのがベスト。濃いピンク色の寒緋桜が覆い尽くす道路を望遠気味に狙うと、桜の圧縮効果で密度感あふれる華やかな並木道が撮影できます。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-pink-600" />
-                今帰仁城跡の城壁と夜桜ライトアップ
-              </h3>
+              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-pink-600" />
+                今帰仁城跡の城壁と夜桜ライトアップ</h3>
               <p className="leading-relaxed">
                 夕暮れのブルーアワーから点灯直後が狙い目。世界遺産の流麗な石垣の曲線と、青や紫のライトに照らされる寒緋桜を重ねると、琉球王国の神秘的な夜の静寂がドラマチックに写し出されます。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-pink-600" />
-                冬の美ら海水族館「黒潮の海」
-              </h3>
+              <h3 className="font-bold text-pink-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-pink-600" />
+                冬の美ら海水族館「黒潮の海」</h3>
               <p className="leading-relaxed">
                 混雑の少ない開館直後（8:30〜9:30）に大水槽前へ。巨大なアクリルガラス越しに泳ぐジンベエザメのシルエットと、水槽の青いグラデーションをローアングルから広角で捉える構図が美しく決まります。
               </p>
@@ -486,28 +470,22 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Souvenirs</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-pink-500 shrink-0" />
-              やんばるの豊かな恵み＆本部・名護の厳選冬特産品・お土産
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-pink-500 shrink-0" />
+              やんばるの豊かな恵み＆本部・名護の厳選冬特産品・お土産</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-pink-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-pink-500" />
-                極上の脂の甘み「やんばる島豚アグーの出汁しゃぶしゃぶ」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-pink-500" />
+                極上の脂の甘み「やんばる島豚アグーの出汁しゃぶしゃぶ」</h3>
               <p className="leading-relaxed">
                 コレステロール値が低く、一般豚の数倍の旨味成分（グルタミン酸）を含む沖縄の宝「アグー豚」。澄んだ出汁にさっとくぐらせると、真っ白な脂身がとろけるような甘みに変わり、口いっぱいに上品なコクが広がります。たっぷりの島ネギや海ぶどうとともに味わう鍋は、冬の沖縄旅で絶対に味わいたい至高の逸品です。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-pink-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-pink-500" />
-                冬が旬のタンカン＆老舗の生沖縄そばセット
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-pink-500" />
+                冬が旬のタンカン＆老舗の生沖縄そばセット</h3>
               <p className="leading-relaxed">
                 1月下旬から収穫が始まる沖縄の柑橘「タンカン」は、濃厚な甘みと果汁たっぷりのジューシーさが特徴で冬の沖縄土産の一番人気。さらに本部町の老舗「きしもと食堂」の特製出汁付き生そばや、ハナサキマルシェの島チョコレート、名護のクラフトビールなど、やんばるならではの上質なお土産が揃います。
               </p>
@@ -519,10 +497,8 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-pink-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-pink-400 shrink-0" />
-              八重岳桜まつりと美ら海水族館を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-pink-400 shrink-0" />
+              八重岳桜まつりと美ら海水族館を満喫する1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -577,18 +553,14 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-pink-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の本部・八重岳桜まつり旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の本部・八重岳桜まつり旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-pink-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-pink-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -601,9 +573,7 @@ export default function OkinawaMotobuWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-pink-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！沖縄の人気リゾート＆冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！沖縄の人気リゾート＆冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

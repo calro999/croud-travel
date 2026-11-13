@@ -266,10 +266,8 @@ export default function IseshimaWinterPage() {
             <Sun className="w-4 h-4 text-amber-200" />
             <span>冬至・年末限定 神域の絶景と冬の味覚</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊勢神宮の冬至・年越し参拝】<br className="hidden sm:inline" />
-            宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月伊勢神宮の冬至・年越し参拝】<br className="hidden sm:inline" />
+            宇治橋の朝日絶景と伊勢志摩の冬の至宝・的矢かき＆伊勢海老宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             1年で最も昼が短い冬至の前後、大鳥居の中央から黄金色の光が差し込む神秘の光景。1年間の感謝を捧げるお礼参りと、旬を迎えた的矢かき・伊勢海老に舌鼓を打ち、鳥羽の絶景名湯に心洗われる旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function IseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Sacred Winter</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬至の朝、神域に差し込む一条の光。心洗われる伊勢志摩の冬参り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬至の朝、神域に差し込む一条の光。心洗われる伊勢志摩の冬参り</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function IseshimaWinterPage() {
           </p>
           <div className="bg-amber-50/60 rounded-2xl p-5 border border-amber-200/60 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-600" />
-                早朝の宇治橋日の出拝観と温泉宿の組み合わせがベスト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-600" />
+                早朝の宇治橋日の出拝観と温泉宿の組み合わせがベスト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 前夜に鳥羽の温泉旅館に宿泊し、翌朝7時に宇治橋へ向かうプランが最もスムーズで快適です。
               </p>
@@ -332,9 +326,7 @@ export default function IseshimaWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Divine Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の伊勢志摩で体験すべき3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の伊勢志摩で体験すべき3大ハイライト</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function IseshimaWinterPage() {
         <section id="hotel-list" className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">
-              冬至参拝と的矢かき・伊勢海老を堪能する鳥羽・伊勢志摩の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">冬至参拝と的矢かき・伊勢海老を堪能する鳥羽・伊勢志摩の厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
               楽天トラベル公式APIより取得した最新データに基づき、おもてなし・温泉・料理評価が卓越した5宿をご紹介。
             </p>
@@ -412,9 +402,7 @@ export default function IseshimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 mt-2 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-stone-400 shrink-0" />
@@ -423,10 +411,8 @@ export default function IseshimaWinterPage() {
 
                       {/* Detailed Story & Deep Dive Review */}
                       <div className="mt-4 pt-4 border-t border-stone-100 space-y-3">
-                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Info className="w-4 h-4 text-amber-600" />
-                          宿の魅力と温泉・お食事体験レビュー
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5"><Info className="w-4 h-4 text-amber-600" />
+                          宿の魅力と温泉・お食事体験レビュー</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {hotel.story}
                         </p>
@@ -479,9 +465,7 @@ export default function IseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Comparison</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                伊勢志摩・鳥羽の厳選5宿 特徴・温泉・お料理比較
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">伊勢志摩・鳥羽の厳選5宿 特徴・温泉・お料理比較</h2>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -538,44 +522,34 @@ export default function IseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Worship Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                宇治橋の冬至日の出撮影＆参拝を成功させるエキスパートTIPS
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">宇治橋の冬至日の出撮影＆参拝を成功させるエキスパートTIPS</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sun className="w-4 h-4 text-amber-600" />
-                宇治橋前でのベスト立ち位置と撮影時間
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sun className="w-4 h-4 text-amber-600" />
+                宇治橋前でのベスト立ち位置と撮影時間</h3>
               <p>
                 大鳥居の中央から朝日が顔を出す瞬間を撮影するには、宇治橋手前の広場中央よりやや左手側が絶好のポジション。太陽が顔を出すのは午前7:30〜7:40頃ですが、良い位置を確保するためには朝7:00前には到着しておくのが理想的です。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-600" />
-                早朝参拝後の「赤福ぜんざい」で極楽の温もり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-amber-600" />
+                早朝参拝後の「赤福ぜんざい」で極楽の温もり</h3>
               <p>
                 早朝参拝で冷え切った体には、おはらい町にある赤福本店（または五十鈴川店）の冬季限定「赤福ぜんざい」が最高のご褒美。炭火でこんがり焼いたお餅と上品な甘さの小豆汁が、冷えた体を芯から温めてくれます。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-600" />
-                冬のおかげ横丁・あったか食べ歩き名物4選
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+                冬のおかげ横丁・あったか食べ歩き名物4選</h3>
               <p>
                 冬至参拝の行き帰りに立ち寄りたいのが、熱々の「伊勢うどん」、香ばしい「松阪牛ミンチカツ」、炭火で焼く「檜扇貝やアワビの串焼き」、そしてふかし立ての「豚捨のコロッケ」。冷たい空気の中で頬張るご馳走は格別です。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Coffee className="w-4 h-4 text-amber-600" />
-                内宮参拝のマナーと五十鈴川御手洗場
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Coffee className="w-4 h-4 text-amber-600" />
+                内宮参拝のマナーと五十鈴川御手洗場</h3>
               <p>
                 手水舎で清めた後、ぜひ五十鈴川の「御手洗場（みたらし）」へ降りてみてください。元禄時代に徳川綱吉の生母・桂昌院が寄進した石畳から、清らかな清流に手を浸して身心を清めるのが古くからの正式な作法です。
               </p>
@@ -587,9 +561,7 @@ export default function IseshimaWinterPage() {
         <section className="bg-gradient-to-br from-amber-50/70 via-white to-stone-50 rounded-3xl p-6 sm:p-10 border border-amber-200/80 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Model Course</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              【1泊2日】宇治橋冬至日の出参拝と的矢かき・名湯満喫コース
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">【1泊2日】宇治橋冬至日の出参拝と的矢かき・名湯満喫コース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               外宮・内宮の正式参拝と、冬至の朝日絶景、伊勢志摩の至高の海の幸を網羅するタイムスケジュール。
             </p>
@@ -664,9 +636,7 @@ export default function IseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の伊勢志摩・宇治橋日の出参拝 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の伊勢志摩・宇治橋日の出参拝 よくある質問</h2>
             </div>
           </div>
 
@@ -721,9 +691,7 @@ export default function IseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Internal Links</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                三重・東海・近畿エリアの温泉＆旬の美食特集
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">三重・東海・近畿エリアの温泉＆旬の美食特集</h2>
             </div>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">

@@ -197,9 +197,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-rose-600 pl-4 mb-8">
             <span className="text-rose-700 text-xs font-black tracking-widest uppercase">REGRET RANKING</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              夢の国が一瞬で修羅場に！ディズニー後悔ワースト5
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">夢の国が一瞬で修羅場に！ディズニー後悔ワースト5</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               現地で実際に「これさえ知っていれば…」と痛感するリアルなトラブルと回避策。
             </p>
@@ -225,9 +223,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                   </div>
                 </div>
 
-                <h3 className="text-lg sm:text-xl font-black text-stone-900 mb-3 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-lg sm:text-xl font-black text-stone-900 mb-3 leading-snug">{item.title}</h3>
 
                 <div className="text-xs sm:text-sm text-stone-600 leading-relaxed bg-rose-50/40 p-4 rounded-2xl border border-rose-100 mb-4">
                   <strong className="text-rose-950 block mb-1 font-bold">💥 実際に起きた大惨事：</strong>
@@ -247,9 +243,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
         <section className="bg-white border-2 border-rose-200 rounded-3xl p-6 sm:p-8 shadow-sm">
           <div className="border-l-4 border-rose-600 pl-4 mb-6">
             <span className="text-rose-700 text-xs font-black tracking-widest uppercase">PACKING SURVIVAL LIST</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              ディズニー完全攻略！パッキング・サバイバル装備表
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">ディズニー完全攻略！パッキング・サバイバル装備表</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               リュックにこれが入っているだけで安心感が100倍変わる必須アイテム一覧。
             </p>
@@ -287,9 +281,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-rose-600 pl-4 mb-8">
             <span className="text-rose-700 text-xs font-black tracking-widest uppercase">PARK ACCESS HOTELS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">
-              閉園後の満員電車を完全回避！大浴場・シャトル付きおすすめ拠点
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 mt-1">閉園後の満員電車を完全回避！大浴場・シャトル付きおすすめ拠点</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               2万歩歩いた足を大浴場や温泉で伸ばせる！舞浜アクセス抜群の楽天トラベル高評価ホテル。
             </p>
@@ -327,9 +319,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
                         </div>
                       )}
                       <div className="p-5">
-                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-rose-600 transition leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-2 group-hover:text-rose-600 transition leading-snug">{hotel.hotelName}</h3>
                         <p className="text-xs text-stone-500 mb-2">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -398,9 +388,7 @@ export default function DisneyTripPackingRegretsWorst5Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とスマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とスマホ電池切れ・開園待ち寒暖差・靴擦れで地獄を見たリアル失敗談の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

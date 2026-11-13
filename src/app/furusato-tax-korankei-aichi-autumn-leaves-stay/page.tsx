@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              飯盛山を埋め尽くす4,000本のもみじ！巴川の水面に輝く黄金のトンネル
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">飯盛山を埋め尽くす4,000本のもみじ！巴川の水面に輝く黄金のトンネル</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             江戸時代初期に香積寺の三栄和尚が植樹したことに始まり、現在では約4,000本ものモミジが飯盛山を覆い尽くす愛知県豊田市の「香嵐渓（こうらんけい）」。11月になると、イロハモミジやオオモミジなど11種類のもみじが赤・橙・黄・緑の「五色もみじ」となって巴川（ともえがわ）沿いを染め上げます。朱塗りの「待月橋（たいげつきょう）」周辺の絶景や、巴川に映る夜間ライトアップは息をのむ美しさ。散策後は、飲泉もできる医学の湯「猿投温泉（さなげおんせん）」などの名宿で、三河牛や香ばしい名物五平餅、清流鮎の塩焼きをふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                香嵐渓のシンボル「待月橋」と巴川沿いの紅葉トンネル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                香嵐渓のシンボル「待月橋」と巴川沿いの紅葉トンネル</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 巴川にかかる朱塗りの待月橋から眺める紅葉のグラデーション。川面に映り込む木々と清流のせせらぎが織りなす景観は、東海地方屈指の紅葉スポットです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                夕暮れから始まる幻想的な巴川紅葉ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                夕暮れから始まる幻想的な巴川紅葉ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 香嵐渓もみじまつり期間中の日没から21時まで実施されるライトアップ。黄金色に照らされた飯盛山と巴川の水鏡が創り出す幽玄な夜景は必見です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                愛知のブランド牛「三河牛」＆名物五平餅・清流鮎の塩焼き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                愛知のブランド牛「三河牛」＆名物五平餅・清流鮎の塩焼き</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 きめ細かな肉質と深いコクの「三河牛」サーロイン、特製味噌ダレを香ばしく炭火で焼き上げた「五平餅」、秋に脂が乗る子持ち鮎の塩焼きなど郷土の味覚が充実。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.59 <span className="text-stone-400 text-xs">(257件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 愛知県豊田市加納町馬道通21 ｜ 東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.25 <span className="text-stone-400 text-xs">(753件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    名鉄トヨタホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">名鉄トヨタホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 愛知県豊田市喜多町1-140 ｜ 名鉄　豊田市駅から徒歩１分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.49 <span className="text-stone-400 text-xs">(484件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    湯谷温泉　旅荘　みつい
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">湯谷温泉　旅荘　みつい</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 愛知県新城市豊岡大谷下35-1 ｜ ＪＲ飯田線　湯谷温泉駅より徒歩３分／新東名　新城ICより車で15分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）としあわせ隠れ里 猿投温泉 癒しの宿 金泉閣の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）としあわせ隠れ里 猿投温泉 癒しの宿 金泉閣の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -190,10 +190,8 @@ export default function KamakuraTsurugaokaPage() {
       <main className="max-w-5xl mx-auto px-4 py-12">
         {/* リード文・見どころ詳細解説 */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4">
-            <Gem className="w-6 h-6 text-rose-600" />
-            祈りと光が交差する冬の湘南・鎌倉：新春の厳かさと夜景の幻想美
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4"><Gem className="w-6 h-6 text-rose-600" />
+            祈りと光が交差する冬の湘南・鎌倉：新春の厳かさと夜景の幻想美</h2>
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -212,10 +210,8 @@ export default function KamakuraTsurugaokaPage() {
 
           {/* 現地攻略インフォボックス */}
           <div className="mt-8 bg-rose-50/70 border border-rose-100 rounded-xl p-5 sm:p-6">
-            <h3 className="text-base font-bold text-rose-950 mb-3 flex items-center gap-2">
-              <Info className="w-5 h-5 text-rose-600" />
-              鎌倉初詣＆湘南の宝石：スマートに楽しむ3つの裏技
-            </h3>
+            <h3 className="text-base font-bold text-rose-950 mb-3 flex items-center gap-2"><Info className="w-5 h-5 text-rose-600" />
+              鎌倉初詣＆湘南の宝石：スマートに楽しむ3つの裏技</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-rose-900">
               <div className="bg-white p-3.5 rounded-lg border border-rose-100">
                 <span className="font-bold text-rose-700 block mb-1">1. 初詣は早朝6〜8時が快適の極み</span>
@@ -239,9 +235,7 @@ export default function KamakuraTsurugaokaPage() {
             <span className="text-xs sm:text-sm font-extrabold text-rose-600 tracking-wider uppercase bg-rose-50 px-3.5 py-1.5 rounded-full border border-rose-100">
               Selected 5 Kamakura & Enoshima Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">
-              鎌倉初詣と湘南の宝石を満喫する海辺の厳選ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">鎌倉初詣と湘南の宝石を満喫する海辺の厳選ホテル5選</h2>
             <p className="text-sm text-slate-600 mt-2 max-w-2xl mx-auto">
               七里ヶ浜の全室オーシャンビューホテルから、若宮大路沿いの洗練モダン邸宅、由比ヶ浜の天然温泉宿、江の島島内の絶景ホテルまで、大人の冬旅に最適な名宿を厳選しました。
             </p>
@@ -266,16 +260,14 @@ export default function KamakuraTsurugaokaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1679%2F1679.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     鎌倉プリンスホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -296,10 +288,8 @@ export default function KamakuraTsurugaokaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-rose-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-rose-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>全客室から相模湾と江の島、冬の澄んだ青空に映える富士山を一望</span></li>
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>江ノ電「七里ヶ浜駅」徒歩8分！冬の湘南海岸ドライブにも最適な立地</span></li>
@@ -353,16 +343,14 @@ export default function KamakuraTsurugaokaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177689%2F177689.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ホテルメトロポリタン鎌倉
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -383,10 +371,8 @@ export default function KamakuraTsurugaokaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-rose-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-rose-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>鎌倉駅東口徒歩2分・鶴岡八幡宮の参道「若宮大路」沿いの一等ロケーション</span></li>
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>古都鎌倉の自然と歴史に調和する木の温もりあふれるモダンなデザイン客室</span></li>
@@ -440,16 +426,14 @@ export default function KamakuraTsurugaokaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68515%2F68515.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ＫＫＲ鎌倉わかみや（国家公務員共済組合連合会鎌倉保養所）
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -470,10 +454,8 @@ export default function KamakuraTsurugaokaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-rose-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-rose-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>鎌倉エリアでは極めて希少な「熱海温泉」から毎日直送される天然温泉大浴場</span></li>
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>由比ガ浜の静かな海辺まで徒歩2分！海風を感じるリゾートステイ</span></li>
@@ -527,16 +509,14 @@ export default function KamakuraTsurugaokaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F179415%2F179415.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     江の島ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -557,10 +537,8 @@ export default function KamakuraTsurugaokaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-rose-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-rose-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>江の島島内に位置し「湘南の宝石」シーキャンドルまで徒歩で直行可能</span></li>
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>天然温泉「江の島アイランドスパ（えのすぱ）」の絶景展望風呂を堪能</span></li>
@@ -614,16 +592,14 @@ export default function KamakuraTsurugaokaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147040%2F147040.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-rose-600 transition-colors"
                   >
                     ＢＲＥＡＴＨ　ＨＯＴＥＬ（ブレスホテル）
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -644,10 +620,8 @@ export default function KamakuraTsurugaokaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-rose-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-rose-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>全室に大型ジャグジーバス・マイクロバブル・ミストサウナを完備した極上スパ</span></li>
                         <li className="flex items-start gap-2"><span className="text-rose-500 font-bold">•</span><span>湘南海岸の静かな松林に佇み、客室バルコニーから海と江の島を望む特等席</span></li>
@@ -688,18 +662,14 @@ export default function KamakuraTsurugaokaPage() {
 
         {/* 1泊2日モデルコース */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <Compass className="w-6 h-6 text-amber-600" />
-            【1泊2日】鶴岡八幡宮の初詣・冬牡丹と湘南の宝石イルミネーションモデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5"><Compass className="w-6 h-6 text-amber-600" />
+            【1泊2日】鶴岡八幡宮の初詣・冬牡丹と湘南の宝石イルミネーションモデルコース</h2>
 
           <div className="space-y-6">
             <div className="border-l-2 border-rose-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-rose-600 uppercase tracking-wider mb-1">1日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                JR鎌倉駅到着 ➔ 鶴岡八幡宮で新春初詣 ➔ 神苑ぼたん庭園で冬牡丹観賞 ➔ 小町通り食べ歩き
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">JR鎌倉駅到着  鶴岡八幡宮で新春初詣  神苑ぼたん庭園で冬牡丹観賞  小町通り食べ歩き</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 午前中に鎌倉駅へ到着し、若宮大路を歩いて鶴岡八幡宮へ。本宮で新春のご祈祷や初詣を済ませ、源平池の「神苑ぼたん庭園」で藁囲いの中の愛らしい冬牡丹を愛でます。お昼は小町通りの老舗店で熱々のけんちん汁や釜揚げしらす丼、焼きたてのお団子を堪能します。
               </p>
@@ -708,9 +678,7 @@ export default function KamakuraTsurugaokaPage() {
             <div className="border-l-2 border-pink-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-pink-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-pink-600 uppercase tracking-wider mb-1">1日目：夕方〜夜</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                江ノ電で江の島へ移動 ➔ シーキャンドル「湘南の宝石」点灯＆夕富士鑑賞 ➔ 海辺ホテルへ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">江ノ電で江の島へ移動  シーキャンドル「湘南の宝石」点灯＆夕富士鑑賞  海辺ホテルへ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 江ノ電に揺られながら江ノ島駅へ。日没前に江の島サムエル・コッキング苑へ入り、茜色に染まる海と富士山の絶景トワイライトを鑑賞。17時の点灯とともに「湘南の宝石」の光のトンネルとシーキャンドルの大迫力イルミネーションに包まれます。ホテルへチェックインし、相模湾の冬魚料理や温泉で至福の夜を。
               </p>
@@ -719,9 +687,7 @@ export default function KamakuraTsurugaokaPage() {
             <div className="border-l-2 border-indigo-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-indigo-600 uppercase tracking-wider mb-1">2日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                七里ヶ浜の朝カフェ ➔ 長谷寺で冬の境内散策＆十一面観音参拝 ➔ 帰路へ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">七里ヶ浜の朝カフェ  長谷寺で冬の境内散策＆十一面観音参拝  帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝、七里ヶ浜のオーシャンビューカフェで波音を聴きながらパンケーキやコーヒーのブレックファスト。江ノ電で長谷へ移動し、花の寺として名高い長谷寺へ。見晴台から由比ヶ浜の海を一望し、十一面観世音菩薩に参拝。お土産に鎌倉銘菓・鳩サブレーを購入し、心地よい余韻とともに帰路につきます。
               </p>
@@ -734,10 +700,8 @@ export default function KamakuraTsurugaokaPage() {
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">
-          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2">
-            <Heart className="w-5 h-5 text-rose-400" />
-            あわせて読みたい！冬の神奈川・関東初詣＆イルミネーション特集
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2"><Heart className="w-5 h-5 text-rose-400" />
+            あわせて読みたい！冬の神奈川・関東初詣＆イルミネーション特集</h2>
           <p className="text-xs sm:text-sm text-slate-300 mb-6 leading-relaxed">
             神奈川・首都圏には、歴史ある社寺の初詣やみなとみらいの夜景、箱根の温泉など、冬の週末を特別にするデスティネーションが揃っています。
           </p>

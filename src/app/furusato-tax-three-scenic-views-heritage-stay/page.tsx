@@ -80,18 +80,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          古の旅人たちを魅了し続けた日本の原風景。神聖なる三名勝を客室や露天風呂から独占する至高の滞在
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">古の旅人たちを魅了し続けた日本の原風景。神聖なる三名勝を客室や露天風呂から独占する至高の滞在</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              世界遺産・国指定特別名勝の特等席ビューを客室から独占
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">世界遺産・国指定特別名勝の特等席ビューを客室から独占</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               松島湾に浮かぶ260余の島々、天橋立のダイナミックな砂嘴、宮島の大鳥居が海に浮かぶ荘厳な景観を、混雑を避けてプライベート空間からゆったり堪能できます。
             </p>
@@ -101,9 +97,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              三陸の牡蠣・丹後の旬魚・広島名物牡蠣と穴子を味わう名門会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">三陸の牡蠣・丹後の旬魚・広島名物牡蠣と穴子を味わう名門会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日本三景の地はいずれも名だたる漁場に面した美食の宝庫。朝獲れの海の幸、銘柄牛、伝統の郷土料理を地酒とともに味わい尽くせます。
             </p>
@@ -113,9 +107,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              3年間有効な楽天ふるさと納税宿泊クーポンで計画的に予約
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">3年間有効な楽天ふるさと納税宿泊クーポンで計画的に予約</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               寄附の翌日には付与され、有効期間3年で予約可能。桜の春、新緑の初夏、紅葉の秋、雪景色の冬など、好みのベストシーズンに合わせて自由に宿泊できます。
             </p>
@@ -130,9 +122,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="matsushima_view" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                宮城県松島町ふるさと納税：松島湾パノラマ露天風呂と三陸の極上海鮮を味わう海浜名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">宮城県松島町ふるさと納税：松島湾パノラマ露天風呂と三陸の極上海鮮を味わう海浜名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 芭蕉も言葉を失ったとされる松島の美景。朝日が昇る松島湾の多島美を展望露天風呂から愛で、夕食には三陸の鮑、カキ、仙台牛を堪能できる贅沢な滞在です。
               </p>
@@ -160,9 +150,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島字仙随８番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    松島温泉　松島センチュリーホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　松島センチュリーホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     日本三景松島の中心部に位置し、主な観光施設へは徒歩圏内。目の前に広がる松島湾の風景は最高の贅沢。
                   </p>
@@ -206,9 +194,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島東浜4-6
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    松島温泉　ホテル絶景の館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　ホテル絶景の館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     お部屋から刻々変化する180°のパノラマを体験しませんか
                   </p>
@@ -252,9 +238,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町松島字仙随35-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    松島温泉　小松館　好風亭
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松島温泉　小松館　好風亭</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     貸切露天風呂が大人気　　松島で一番海に近い宿/最高の料理といい景色と天然温泉
                   </p>
@@ -283,9 +267,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="amanohashidate_view" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                京都府宮津市ふるさと納税：天橋立の白砂青松を眼下に望む老舗名湯旅館と丹後の海の恵み
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">京都府宮津市ふるさと納税：天橋立の白砂青松を眼下に望む老舗名湯旅館と丹後の海の恵み</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 天に架かる橋の如く伸びる約3.6kmの砂嘴。神話の息づく宮津湾の絶景と、美肌効果抜群の天橋立温泉、松葉ガニや丹後とり貝など極上の海の幸が旅人を迎えます。
               </p>
@@ -313,9 +295,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠460
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天橋立温泉　旅館　松月＜京都府＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立温泉　旅館　松月＜京都府＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ＜天橋立で海の幸に舌鼓＞お料理と温泉を満喫◎天橋立観光に便利
                   </p>
@@ -359,9 +339,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠463-5
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天橋立温泉　料理旅館　鳥喜
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立温泉　料理旅館　鳥喜</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     「一度食べたら本物だとわかる」天然にこだわる四季折々の旨いもんを堪能する天橋立の料理旅館
                   </p>
@@ -405,9 +383,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市文珠赤岩584
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天橋立荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天橋立荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     日本三景天橋立の奥座敷、あたたかいおもてなしと漁港直送の新鮮素材を使った海鮮料理自慢の宿
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="miyajima_view" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                広島県廿日市市ふるさと納税：世界遺産嚴島神社・大鳥居を望む歴史の島・宮島のおもてなし宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">広島県廿日市市ふるさと納税：世界遺産嚴島神社・大鳥居を望む歴史の島・宮島のおもてなし宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 島全体が神の宿る地として崇められてきた宮島。潮の干満で姿を変える大鳥居のライトアップや瀬戸内海を望み、名物の穴子飯や広島牛に舌鼓を打つ雅な時間です。
               </p>
@@ -466,9 +440,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町755
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宮島ホテルまこと
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島ホテルまこと</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     いにしえの歴史と自然にふれる宿
                   </p>
@@ -512,9 +484,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町335
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宮島　ホテル菊乃家
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島　ホテル菊乃家</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ２０２５年８月菊乃家別邸オープン。宮島の自然に囲まれひっそりと佇む、大人の隠れ家宿。
                   </p>
@@ -558,9 +528,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮島町南町364
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宮島グランドホテル　有もと
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮島グランドホテル　有もと</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     すべてはお客様の満足と笑顔のために。宮島の歴史とともに時を重ねる、世界遺産「厳島神社」に最も近い宿。
                   </p>
@@ -621,9 +589,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 兼六園・後楽園・偕楽園の四季折々の庭園美を愛でる歴史宿。
               </p>
@@ -637,9 +603,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天。
               </p>
@@ -653,9 +617,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 伊勢神宮・熊野三山・出雲大社の祈願ステイ。
               </p>

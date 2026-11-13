@@ -108,9 +108,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  数千冊の蔵書がすべて自由に読み放題！部屋への持ち込みも可能な読書パラダイス
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">数千冊の蔵書がすべて自由に読み放題！部屋への持ち込みも可能な読書パラダイス</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 小説、写真集、ビジネス書、詩集、コミックまで、専門のブックディレクターが独自のテーマで選書。ロビーの特等席ラウンジはもちろん、自分の客室のベッドやソファで時間を気にせず読みふけることができます。
@@ -123,9 +121,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  スマホを置いてデジタルデトックス！脳疲労をリセットする圧倒的没入感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">スマホを置いてデジタルデトックス！脳疲労をリセットする圧倒的没入感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 SNSやメールの通知から完全に解放され、文字の世界に深く没入することで、乱れがちな自律神経が整い深い安らぎが得られます。間接照明や読書灯、上質なベッドなど読書を快適にする空間設計も魅力です。
@@ -138,9 +134,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  こだわりのハンドドリップ珈琲や夜のブックバー！読書を彩る極上カフェタイム
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">こだわりのハンドドリップ珈琲や夜のブックバー！読書を彩る極上カフェタイム</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 本を読みながら味わう淹れたてのスペシャルティコーヒーや紅茶、夜には物語をイメージしたオリジナルカクテルやワイン。読書の時間をさらに豊かにする上質なドリンクとスイーツが揃っています。
@@ -183,9 +177,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県福崎町・民俗学の父柳田國男ゆかり！三百年大庄屋邸宅を再生した歴史ある蔵書の宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＮＩＰＰＯＮＩＡ　播磨福崎　蔵書の館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＮＩＰＰＯＮＩＡ　播磨福崎　蔵書の館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本民俗学の父・柳田國男の故郷である兵庫県福崎町に位置し、約三百年前に建てられた大庄屋・三木家の旧邸宅を洗練された宿泊施設として再生した名門古民家ホテル。柳田國男の著書や民俗学、妖怪文化、日本の歴史に関する膨大な書籍が書架に並び、歴史ある木造日本建築の陰影の中で静かに読書を楽しめる贅沢な空間が広がります。地元の新鮮な野菜や但馬牛を使った手作りの創作フレンチ会席、檜風呂の温もりとともに、まるで学問の館にタイムスリップしたかのような静謐な読書リトリートが叶います。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     東京都千代田区・世界一の本の街神保町！「本を愉しむ」ためにデザインされた隠れ家ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＢＯＯＫ　ＨＯＴＥＬ　神保町
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＢＯＯＫ　ＨＯＴＥＬ　神保町</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     古書店や出版社が立ち並ぶ世界一の本の街・神田神保町の中心に位置し、「本を愉しむためのホテル」をコンセプトに誕生した話題のデザインホテル。各フロアや客室ごとに「恋愛」「旅」「食」「人生」など異なるテーマでキュレーションされた本が並び、スタッフによる選書サービスも好評です。客室にはこだわりの読書照明やフットマッサージャー、コーヒー器具を完備。神保町名物のカレーや喫茶店巡りを楽しみながら、都会の真ん中で本の世界に深く溺れる至福のステイを体験できます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     愛知県名古屋市・本の世界に没頭する読書特化型ホテル！24時間オープンのブックカフェ併設
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ランプライトブックスホテル名古屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ランプライトブックスホテル名古屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     名古屋・伏見の緑豊かな白川公園にほど近く、「本の世界を旅するホテル」をテーマに創られた新感覚のブティックホテル。1階には約3,000冊の書籍を揃えた24時間営業の本格ブックカフェを併設し、読書のお供にぴったりの焼き立てミニバーガーやスイーツを提供。客室は間接照明やリーディングライト、ゆったりとしたオットマン付きチェアなど、読書のために徹底的に計算された設計となっています。読書好きな一人旅やカップルの週末リフレッシュに最適な空間です。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoBookLibraryHotelStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＮＩＰＰＯＮＩＡ 播磨福崎 蔵書の館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

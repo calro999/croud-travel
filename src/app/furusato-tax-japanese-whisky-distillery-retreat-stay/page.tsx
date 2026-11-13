@@ -130,9 +130,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              北海道余市町ふるさと納税：マッサンが築いた北のウイスキーの聖地「ニッカ余市蒸溜所」と積丹半島の絶景オーベルジュ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">北海道余市町ふるさと納税：マッサンが築いた北のウイスキーの聖地「ニッカ余市蒸溜所」と積丹半島の絶景オーベルジュ</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               世界で唯一今なお石炭直火蒸溜を続ける伝統の蒸溜所。ピート香豊かな重厚モルトの試飲を楽しんだ後は、日本海のウニや鮑、余市ワインとウイスキーに舌鼓を打つ極上の北国グルメステイを満喫できます。
             </p>
@@ -157,11 +155,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41017%2F41017.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F41017%2F41017.html" target="_blank" rel="sponsored noopener noreferrer">
                       ホテル　水明閣
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 北海道余市郡余市町山田町687
                   </p>
@@ -219,11 +215,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70930%2F70930.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F70930%2F70930.html" target="_blank" rel="sponsored noopener noreferrer">
                       エーヴランド　ホテル＆ゴルフクラブ
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 北海道余市郡余市町登町2361-1
                   </p>
@@ -277,11 +271,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196232%2F196232.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F196232%2F196232.html" target="_blank" rel="sponsored noopener noreferrer">
                       ＡＳＯＢＩＢＡ　Ｙｏｉｃｈｉ　Ｏｎｓｅｎ　ｓｉｄｅ
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 北海道余市郡余市町栄町8
                   </p>
@@ -328,9 +320,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              山梨県北杜市ふるさと納税：甲斐駒ヶ岳の森に佇む「サントリー白州蒸溜所」と八ヶ岳高原の星空リゾートホテル
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">山梨県北杜市ふるさと納税：甲斐駒ヶ岳の森に佇む「サントリー白州蒸溜所」と八ヶ岳高原の星空リゾートホテル</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               野鳥がさえずる森の蒸溜所で作られる軽快で爽やかな白州モルト。南アルプスの澄み切った大気の中でテイスティングを満喫し、八ヶ岳の高原野菜と甲州ワインビーフ、満天の星空に癒やされる休日です。
             </p>
@@ -355,11 +345,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28780%2F28780.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F28780%2F28780.html" target="_blank" rel="sponsored noopener noreferrer">
                       八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内
                   </p>
@@ -413,11 +401,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199236%2F199236.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F199236%2F199236.html" target="_blank" rel="sponsored noopener noreferrer">
                       ＳＵＩＳＵＩ白州ホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県北杜市白州町白須559-3
                   </p>
@@ -471,11 +457,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193264%2F193264.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F193264%2F193264.html" target="_blank" rel="sponsored noopener noreferrer">
                       ショークディー　清里
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 山梨県北杜市高根町清里3545-1619
                   </p>
@@ -522,9 +506,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              静岡県御殿場市ふるさと納税：富士山の伏流水が育む「キリン富士御殿場蒸溜所」と霊峰富士一望の展望温泉リゾート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">静岡県御殿場市ふるさと納税：富士山の伏流水が育む「キリン富士御殿場蒸溜所」と霊峰富士一望の展望温泉リゾート</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               富士山の東麓、標高620メートルの冷涼な高原に位置する蒸溜所。多彩な原酒のブレンド技術を体感し、ホテルでは富士山を正面に望む露天風呂や地元富士山麓のブランド豚・静岡そだち牛ステーキを堪能できます。
             </p>
@@ -549,11 +531,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19810%2F19810.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19810%2F19810.html" target="_blank" rel="sponsored noopener noreferrer">
                       飲める温泉、自家源泉の宿　ホテルサンバレー富士見
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 静岡県伊豆の国市古奈185-1
                   </p>
@@ -611,11 +591,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158555%2F158555.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158555%2F158555.html" target="_blank" rel="sponsored noopener noreferrer">
                       箱根リトリートｆｏｒｅ
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 神奈川県足柄下郡箱根町仙石原1286-116
                   </p>
@@ -691,9 +669,7 @@ export default function Page() {
               href="/furusato-tax-distillery-whisky-pairing-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 余市・白州・秩父のモルト旅。
               </p>
@@ -704,9 +680,7 @@ export default function Page() {
               href="/furusato-tax-winery-craft-beer-auberge-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                ワイン＆地ビール×醸造オーベルジュ旅ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">ワイン＆地ビール×醸造オーベルジュ旅ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 勝沼・富良野・余市のワイナリーホテル。
               </p>
@@ -717,9 +691,7 @@ export default function Page() {
               href="/furusato-tax-sake-brewery-pairing-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -730,9 +702,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル 水明閣を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル 水明閣を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -765,9 +735,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル 水明閣の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル 水明閣の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -89,9 +89,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            爽快な風とともに駆け抜ける錦秋のV字峡谷。清流黒部川のせせらぎと弱アルカリ性美肌湯に癒やされる秘境ステイへ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">爽快な風とともに駆け抜ける錦秋のV字峡谷。清流黒部川のせせらぎと弱アルカリ性美肌湯に癒やされる秘境ステイへ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             北アルプスの険しい山々を黒部川が削り出して形成された、日本一深いV字谷「富山県・黒部峡谷」。10月中旬から11月中旬にかけての紅葉シーズンには、エメラルドグリーンの清流を挟んで両岸の絶壁が一斉に赤や黄色に染まり、息を呑むダイナミックな大自然の絵巻物が広がります。その絶景を間近で体感できるのが「黒部峡谷鉄道トロッコ電車」。窓のないオープン客車に揺られながら、赤い新山彦橋や後曳橋、猿飛峡などの名所を駆け抜ける体験は唯一無二の感動をもたらします。そしてトロッコ観光の拠点となるのが、黒部峡谷の玄関口に広がる名湯「宇奈月温泉」です。無色透明で弱アルカリ性の単純温泉は「日本一の透明度」と称され、肌をつるつるにする「つべつべ美肌の湯」として大人気。全客室・露天風呂から黒部峡谷の絶景を望む老舗高級旅館「延楽」、棚田状に広がる大パノラマ展望露天風呂を誇る「やまのは」、そしてトロッコ電車の走る姿をロビーや客室から眺められる「ホテル黒部」。富山湾の秋の味覚（紅ズワイガニ・白えび・寒ブリ・氷見牛）とともに、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で予約し、大迫力の秘境紅葉旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  爽快なオープン客車！黒部峡谷トロッコ電車で巡る日本一のV字峡紅葉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">爽快なオープン客車！黒部峡谷トロッコ電車で巡る日本一のV字峡紅葉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 窓のない開放的なトロッコ電車から見上げる紅葉の断崖絶壁。澄んだ秋風を受けながらエメラルドグリーンの黒部川と紅葉のコントラストを間近に体感できます。
@@ -122,9 +118,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本屈指の透明度！肌がつるつるになる宇奈月温泉「つべつべ美肌の湯」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本屈指の透明度！肌がつるつるになる宇奈月温泉「つべつべ美肌の湯」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 黒部川上流の黒薙温泉から引湯する無色透明の弱アルカリ性単純温泉。刺激が少なく肌触りが滑らかで、峡谷美を眺めながら心身ともにリフレッシュできます。
@@ -137,9 +131,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  富山湾の宝石「白えび」＆秋解禁「紅ズワイガニ」・寒ブリの極上日本海海鮮
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">富山湾の宝石「白えび」＆秋解禁「紅ズワイガニ」・寒ブリの極上日本海海鮮</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 「天然の生簀」と称される富山湾から直送される新鮮魚介。甘み濃厚な紅ズワイガニや香ばしい白えびのかき揚げ、脂が乗った寒ブリを会席料理で満喫できます。
@@ -174,9 +166,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                       ★ 4.55 <span className="text-stone-400 text-xs">(544件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宇奈月温泉　延楽
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宇奈月温泉　延楽</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 富山県黒部市宇奈月温泉347-1 ｜ 富山地方鉄道「宇奈月温泉駅」より徒歩3分 / 北陸自動車道 黒部ICより約２０分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                       ★ 4.31 <span className="text-stone-400 text-xs">(4,215件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒部・宇奈月温泉　やまのは（オリックスホテルズ＆リゾーツ）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 富山県黒部市宇奈月温泉352番地7 ｜ 富山地方鉄道「宇奈月温泉駅」下車徒歩３分　無料送迎バス有※要確認／北陸自動車道黒部IC下車約２０分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
                       ★ 4.45 <span className="text-stone-400 text-xs">(1,244件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒部峡谷・宇奈月温泉　ホテル黒部
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒部峡谷・宇奈月温泉　ホテル黒部</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 富山県黒部市宇奈月温泉７番地 ｜ 北陸新幹線黒部宇奈月温泉駅から富山地鉄乗り換え25分。 宇奈月温泉駅から歩10分／北陸道 黒部ＩＣから約20分。
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宇奈月温泉 延楽を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宇奈月温泉 延楽を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoKurobeGorgeAutumnTorokkoStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宇奈月温泉 延楽の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宇奈月温泉 延楽の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

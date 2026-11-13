@@ -405,10 +405,8 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
         {/* Hotel List Section */}
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-              津和野・益田のおすすめ名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
+              津和野・益田のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
@@ -449,9 +447,7 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-red-900 transition-colors">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-red-900 transition-colors">{hotel.name}</h3>
 
                       <p className="text-xs text-stone-500 flex items-center gap-1 mt-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 shrink-0 text-stone-400" />
@@ -516,17 +512,13 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <Compass className="w-4 h-4 text-red-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              山陰の小京都散策と新酒蔵元めぐり・石見牛を味わう旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">山陰の小京都散策と新酒蔵元めぐり・石見牛を味わう旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【1日目】殿町通りの鯉と朱塗りの千本鳥居参拝
-              </h3>
+              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【1日目】殿町通りの鯉と朱塗りの千本鳥居参拝</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -552,10 +544,8 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【2日目】早朝の朝霧雲海と森鴎外ゆかりの文化巡礼
-              </h3>
+              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【2日目】早朝の朝霧雲海と森鴎外ゆかりの文化巡礼</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -589,27 +579,21 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-red-800" />
               津和野・冬のおみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              津和野で手に入れたい初冬の銘菓・地酒と名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">津和野で手に入れたい初冬の銘菓・地酒と名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-red-700" />
-                津和野伝統銘菓「源氏巻」の素朴な甘み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-red-700" />
+                津和野伝統銘菓「源氏巻」の素朴な甘み</h3>
               <p>
                 江戸時代、元禄赤穂事件の際に吉良上野介への進物として贈られたことが起源とされる津和野の伝統銘菓「源氏巻」。薄く伸ばしたカステラ生地で上質なこしあんをくるりと巻いた上品な和菓子で、町内の各和菓子店で焼き立ての実演販売が行われています。冬はお茶請けとして熱い緑茶やコーヒーとの相性も抜群です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-red-700" />
-                冬仕込みの新酒日本酒と石見焼の器
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-red-700" />
+                冬仕込みの新酒日本酒と石見焼の器</h3>
               <p>
                 11月下旬から出荷が始まる初冬の新酒は、津和野旅行の最高のお土産。古橋酒造の「初陣」や華泉酒造の生原酒など、フルーティーでキレのある地酒が揃います。また、島根県西部で受け継がれる「石見焼（いわみやき）」のぐい呑みや徳利を合わせれば、自宅でも津和野の冬情趣をそのまま楽しむことができます。
               </p>
@@ -624,32 +608,24 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-red-800" />
               初冬の津和野・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の津和野は「大人の静謐な冬旅」に選ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の津和野は「大人の静謐な冬旅」に選ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-red-700" />
-              炭酸水素塩泉と塩化物泉がもたらす角質ケアと保温効果
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-red-700" />
+              炭酸水素塩泉と塩化物泉がもたらす角質ケアと保温効果</h3>
             <p>
               津和野温泉の泉質は、ナトリウム-炭酸水素塩・塩化物温泉（低張性弱アルカリ性温泉）。炭酸水素塩成分（重曹成分）が肌の余分な皮脂や角質をやわらかく洗い流す「クレンジング作用」を持ち、入浴中から肌がつるつると滑らかになります。さらに塩化物成分が薄い塩のベールを肌表面に形成して熱を閉じ込めるため、湯上がりの保温効果が非常に長く持続。盆地特有の初冬の冷気に対して、芯からポカポカと温めてくれる理想的な美肌湯です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-red-700" />
-              盆地地形が生み出す「朝霧雲海」と酒造りに適した清冽な冬環境
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-red-700" />
+              盆地地形が生み出す「朝霧雲海」と酒造りに適した清冽な冬環境</h3>
             <p>
               津和野は四方を標高数百メートルの山々に囲まれた典型的な盆地地形です。秋から初冬にかけて、放射冷却によって夜間の気温が急激に下がると、津和野川の水蒸気が冷やされて深い霧となり、盆地全体を覆い尽くす「朝霧雲海」が発生します。この昼夜の大きな寒暖差と、冬の厳しい冷え込みこそが、雑菌の繁殖を防ぎ、きめ細やかで芳醇な名酒を醸す酒造りの絶好の条件となっています。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-red-700" />
-              年間わずか数百頭の幻のブランド黒毛和牛「石見牛」の希少価値
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-red-700" />
+              年間わずか数百頭の幻のブランド黒毛和牛「石見牛」の希少価値</h3>
             <p>
               島根県西部の大自然の中で、澄んだ地下水と厳選された良質な穀物飼料で丹精込めて育てられる「石見牛」。出荷頭数が極めて少ないため全国的な流通は稀で、「幻の和牛」と称されます。石見牛の特徴は、人間の体温で溶け出すほど融点の低い上質なオレイン酸豊富な脂身と、噛むほどに旨味が溢れるきめ細やかな赤身の絶妙なバランス。初冬の陶板焼きやすき焼きで火を入れると、芳醇な香りが立ち上り、至福の口どけを堪能できます。
             </p>
@@ -663,18 +639,14 @@ export default function ShimaneTsuwanoOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-red-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の津和野・益田旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の津和野・益田旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-red-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-red-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

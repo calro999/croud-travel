@@ -280,10 +280,8 @@ export default function HagiOnsenWinterFeature() {
             <Landmark className="w-4 h-4" />
             11月・12月 維新歴史と美食特集｜山口・萩温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山口・萩温泉郷】<br className="hidden sm:inline" />
-            維新城下町と11月解禁本場天然とらふぐ・日本海夕景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山口・萩温泉郷】<br className="hidden sm:inline" />
+            維新城下町と11月解禁本場天然とらふぐ・日本海夕景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             世界遺産の白壁武家屋敷に初冬の日差しが注ぐ維新のふるさと。本場山口の「天然とらふぐ」と高級魚「萩の甘鯛」、長州黒毛和牛を堪能し、菊ヶ浜夕景露天に癒やされる大人の歴史旅。
           </p>
@@ -301,9 +299,7 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">World Heritage Samurai Town & Fugu Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白壁となまこ壁に映える初冬の陽光｜幕末の情熱息づく城下町萩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白壁となまこ壁に映える初冬の陽光｜幕末の情熱息づく城下町萩</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Thermal Mineral Relaxation Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「塩分が温もりを包み込む」萩温泉郷の泉質と癒やしの効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「塩分が温もりを包み込む」萩温泉郷の泉質と癒やしの効能</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Choshu Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山口・萩の冬の美食極まる｜天然とらふぐ・萩甘鯛・長州黒毛和牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山口・萩の冬の美食極まる｜天然とらふぐ・萩甘鯛・長州黒毛和牛</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Historic Town Walk & Coastal Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の萩散策モデルコース｜松下村塾・城下町横町と菊ヶ浜夕景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の萩散策モデルコース｜松下村塾・城下町横町と菊ヶ浜夕景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function HagiOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Featured Historic & Oceanview Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              維新の歴史と日本海夕景に抱かれる｜萩温泉郷の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">維新の歴史と日本海夕景に抱かれる｜萩温泉郷の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、自家源泉や本場とらふぐ会席に強いこだわりを持つ本物の名旅館だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function HagiOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Winter Travel Tips & Access</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の萩冬旅｜日本海の海風対策と新山口駅からの快適アクセス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の萩冬旅｜日本海の海風対策と新山口駅からの快適アクセス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-800" />
-                日本海からの季節風と防風装備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-800" />
+                日本海からの季節風と防風装備</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月下旬以降の萩は、日本海からの北西の季節風が吹く日が増え、実際の気温以上に肌寒さを感じます。菊ヶ浜の散策や城下町歩きには、風を通さない防風コートやウインドブレーカー、厚手のストール、手袋をご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-indigo-800" />
-                新山口駅直行バスと小郡萩道路のドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-indigo-800" />
+                新山口駅直行バスと小郡萩道路のドライブ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 山陽新幹線・新山口駅から直行特急バス「はぎ号」で約60分と、首都圏や関西からのアクセスが極めて快適です。車でお越しの場合は無料の小郡萩道路を経由して約20分。大雪に見舞われることは稀ですが、朝晩の路面凍結にはご注意ください。
               </p>
@@ -562,18 +542,14 @@ export default function HagiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山口萩温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山口萩温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function HagiOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest">Related Winter Features & Chugoku Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山陰・中国地方の冬名湯＆極上海鮮グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山陰・中国地方の冬名湯＆極上海鮮グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月のとらふぐ、松葉ガニ、美肌温泉をめぐる人気の厳選特集もぜひご覧ください。
             </p>

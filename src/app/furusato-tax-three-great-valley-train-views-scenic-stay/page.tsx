@@ -108,9 +108,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  SLの汽笛、オープンデッキの風、川霧を抜ける息をのむ車窓体験
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">SLの汽笛、オープンデッキの風、川霧を抜ける息をのむ車窓体験</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大渓谷鉄道の魅力は、移動そのものが最高のエンターテインメントになる点です。嵯峨野トロッコのリッチ号ではガラスのない開放的な窓から保津川の飛沫と渓谷美を全身で体感。大井川鐵道では昭和初期のレトロな客車で昭和歌謡のオルゴールを聴きながらノスタルジーに浸り、只見線では第一只見川橋梁から見下ろす水鏡の渓谷美に息を呑みます。四季折々の桜、新緑、紅葉、そして一面の白銀世界へと移ろう沿線の情景は、何度訪れても新しい感動を与えてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  寸又峡の「美女づくりの湯」や嵐山温泉、秘境渓谷の名湯に寛ぐ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">寸又峡の「美女づくりの湯」や嵐山温泉、秘境渓谷の名湯に寛ぐ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 渓谷鉄道の終点や沿線には、豊かな大自然の恵みを受けた名湯が湧き出ています。トロトロの肌触りで湯上がり爽快な寸又峡温泉、桂川のせせらぎと渡月橋の夜景を望む嵐山温泉、只見川沿いに湧く秘湯・柳津温泉。車窓観光で心地よく高揚した身体を源泉かけ流しの湯船に沈め、川のせせらぎをBGMに星空を眺める時間は、日常のストレスを芯から洗い流してくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  沿線の老舗料理旅館で味わう季節の京会席や奥大井の郷土美食
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">沿線の老舗料理旅館で味わう季節の京会席や奥大井の郷土美食</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 嵐山で創業百余年の歴史を誇る料理旅館の洗練された京会席、寸又峡で味わう山女魚の塩焼きや山菜・猪鍋会席、会津の馬刺しや岩魚の骨酒、手打ち十割蕎麦。その土地の風土と清流が育んだ素朴で力強い旬の味覚がテーブルを彩ります。ふるさと納税クーポンを使えば、宿泊費が大幅に割引されるため、特別料理へのアップグレードや銘酒の追加も気兼ねなく楽しめます。
@@ -181,9 +175,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市西京区嵐山中尾下町54-4（渡月橋南詰め）</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都　嵐山温泉　渡月亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都　嵐山温泉　渡月亭</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     清らかな環境と行き届いたおもてなし、地元の旬の素材を活かした極上料理と名湯が自慢の名宿です。
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 静岡県 榛原郡川根本町千頭279</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    翠紅苑
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">翠紅苑</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「山奥の秘湯感と大正浪漫の雰囲気に癒やされる辿り着くまでにすれ違い不可道路を延々と走らなければならないような山奥にありますがこれはこれで秘湯っぽくて私個人としては良かったです 施設は古いですが清掃も…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 福島県 河沼郡柳津町柳津下平乙150-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    会津柳津温泉　瀞流の宿　かわち
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">会津柳津温泉　瀞流の宿　かわち</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

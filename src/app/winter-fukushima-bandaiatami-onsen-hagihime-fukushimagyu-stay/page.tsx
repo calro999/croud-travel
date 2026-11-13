@@ -248,12 +248,10 @@ export default function WinterFukushimaBandaiatamiPage() {
             11月・12月 萩姫伝説の美肌ぬる湯と猪苗代湖白鳥・福島牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福島・磐梯熱海温泉】萩姫伝説の美肌ぬる湯
             <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
               初冬猪苗代湖の白鳥と白銀磐梯山・極上福島牛と名物鯉料理・地酒を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、福島県の中央部・郡山市の奥座敷として清流五百川（ごひゃくがわ）沿いに広がる「磐梯熱海温泉（ばんだいあたみおんせん）」は、初冬の澄み渡る冷気と静寂に包まれます。南北朝時代、難病に苦しんでいた京の都の美しい「萩姫（はぎひめ）」が不動明王のお告げに従い、都から数えて五百本目の川を遡って辿り着き、湯に浸かることで見事に全快したというロマンあふれる「萩姫伝説」が息づく古湯です。pH9前後のアルカリ性単純温泉は、肌にまとわりつくように滑らかで、古くから「美人をつくるぬる湯」として親しまれてきました。初冬には近隣の猪苗代湖にシベリアから何千羽もの白鳥が飛来し、冠雪した磐梯山を背景に優雅に舞う姿は息を呑む絶景です。夕食にはきめ細やかな霜降りと上品な脂の甘みが特徴の「福島牛」の陶板焼きやすき焼き、郡山伝統の鯉料理、全国新酒鑑評会で金賞を誇る福島地酒のしぼりたて新酒。初冬の中通りで心身を解きほぐす厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterFukushimaBandaiatamiPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の磐梯熱海と猪苗代の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            都の姫の難病を治した奇跡の美肌霊泉・白鳥舞う猪苗代湖と極上福島牛の饗宴
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">都の姫の難病を治した奇跡の美肌霊泉・白鳥舞う猪苗代湖と極上福島牛の饗宴</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               東北新幹線が停まるビッグターミナル・JR郡山駅から、磐越西線に揺られることわずか15分。車窓に広がる阿武隈山地の穏やかな風景を抜け、安達太良山と磐梯山に挟まれた山あいに差し掛かると、清流五百川沿いに優美な旅館街が広がる「磐梯熱海温泉」に到着します。平安時代末期、伊豆熱海出身の領主・伊東祐長が故郷の熱海温泉を偲んで名付けたとも言われ、古くから東北の街道を行き交う旅人の宿場町として栄えてきました。
@@ -315,9 +311,7 @@ export default function WinterFukushimaBandaiatamiPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              福島・磐梯熱海温泉 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">福島・磐梯熱海温泉 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               萩姫の美肌ぬる湯、老舗庭園露天風呂、露天風呂付き客室、極上の福島牛会席を備えた名宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterFukushimaBandaiatamiPage() {
                         <span className="text-xs font-bold text-rose-800 bg-rose-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-rose-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterFukushimaBandaiatamiPage() {
             <Utensils className="w-4 h-4 text-rose-300" />
             初冬の福島・中通り美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の磐梯熱海で味わい尽くす極上ブランド牛と名物料理
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の磐梯熱海で味わい尽くす極上ブランド牛と名物料理</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-400" />
-                最高峰黒毛和牛「福島牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-400" />
+                最高峰黒毛和牛「福島牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 福島県の豊かな風土と清らかな湧水で肥育される極上黒毛和牛。きめ細やかなサシと芳醇な香り、融点の低い上質な脂が舌の上でさらりととろけます。陶板ステーキやすき焼きで肉本来の濃厚な旨味を満喫できます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-400" />
-                百年の歴史を誇る「郡山伝統の鯉料理」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-400" />
+                百年の歴史を誇る「郡山伝統の鯉料理」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 猪苗代湖からの清冽な疎水を利用して養殖される郡山の名物鯉。冷たい清流で身が引き締まり、一切の臭みがありません。コリコリとした歯ごたえの「あらい」や、骨まで柔らかく甘辛く炊き上げた「甘煮」は絶品です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-rose-400" />
-                美酒王国ふくしまの「しぼりたて新酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-rose-400" />
+                美酒王国ふくしまの「しぼりたて新酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国新酒鑑評会で金賞受賞数日本一の記録を誇る福島県。11月から12月にかけては、その年に収穫された新米で仕込まれたフレッシュな「しぼりたて生酒」が解禁されます。フルーティーな香りと弾けるような酸味が冬の料理を引き立てます。
               </p>
@@ -466,15 +450,11 @@ export default function WinterFukushimaBandaiatamiPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の磐梯熱海温泉 交通アクセス＆猪苗代観光のポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の磐梯熱海温泉 交通アクセス＆猪苗代観光のポイント</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-rose-700" />
-                新幹線＋磐越西線で雪道知らずの好アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-rose-700" />
+                新幹線＋磐越西線で雪道知らずの好アクセス</h3>
               <p>
                 東京駅から東北新幹線で郡山駅まで約1時間20分、磐越西線に乗り換えてわずか約15分でJR磐梯熱海駅に到着します。主要旅館は駅から徒歩3〜10分圏内、または無料送迎が利用可能です。
               </p>
@@ -484,10 +464,8 @@ export default function WinterFukushimaBandaiatamiPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                萩姫美肌ぬる湯の入浴法と温冷交互浴
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                萩姫美肌ぬる湯の入浴法と温冷交互浴</h3>
               <p>
                 pH9前後のアルカリ性単純温泉は肌への刺激が非常に少なく、赤ちゃんからお年寄りまで安心して長湯が楽しめます。ぬる湯に15〜20分浸かり、あつ湯で身体を温める交互浴が効果的です。
               </p>
@@ -504,16 +482,12 @@ export default function WinterFukushimaBandaiatamiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の福島・磐梯熱海温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の福島・磐梯熱海温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-rose-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-rose-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterFukushimaBandaiatamiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-rose-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-rose-300" />
-              あわせて読みたい福島の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-rose-300" />
+              あわせて読みたい福島の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-rose-200">
               白濁硫黄泉から高原リゾートまで、福島が誇る名湯と極上美食を巡る厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・高湯温泉＆土湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                吾妻連峰の雪見露天と白濁完全掛け流し薬湯
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">吾妻連峰の雪見露天と白濁完全掛け流し薬湯</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 奥羽三高湯の濃厚な青白い硫黄泉とこけしの里、極上福島牛と地酒名宿。
               </p>
@@ -553,9 +523,7 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                裏磐梯・五色沼の白銀絶景と高原雪見リゾート
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 磐梯山の雄大な初冬雪景色とナトリウム塩化物泉の温もり、福島牛ディナー。
               </p>
@@ -566,9 +534,7 @@ export default function WinterFukushimaBandaiatamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 武家屋敷情緒と渓谷雪景色、極上馬刺しや郷土こづゆを巡る名宿。
               </p>

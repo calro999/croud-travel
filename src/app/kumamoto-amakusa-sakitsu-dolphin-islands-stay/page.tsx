@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             世界遺産・潜伏キリシタンと海の天主堂
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 世界文化遺産「崎津集落」＆崎津天主堂（畳敷きのゴシック教会と漁村景観）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 世界文化遺産「崎津集落」＆崎津天主堂（畳敷きのゴシック教会と漁村景観）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             禁教期にも仏教や神道と共生しながら信仰を守り続けた「天草の崎津集落」。穏やかな羊角湾に面した静かな漁港にそびえる「崎津天主堂」は、ハルブ神父によって再建された国内でも極めて珍しい「内部が畳敷き」のゴシック建築。海辺の家々が海に向かってせり出す伝統の「カケ」や、細い小路「トーヤ」が網の目のように続く独特の漁村景観が心を打ちます。丘の上の崎津諏訪神社からは集落全体と天主堂を一望できます。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        松島温泉　天草渚亭
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">松島温泉　天草渚亭</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天草でも珍しいオーシャンフロント旅館★鮮度バツグンの海鮮料理、魚釣り…いざ！渚亭
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天草下田温泉　富士広旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草下田温泉　富士広旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天然かけ流しの天草下田温泉。家族で営む小さくて古い建物ですが四季折々の海の幸を低価格で楽しめます。
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        下田温泉　伊賀屋旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">下田温泉　伊賀屋旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         伊勢海老まつり【夕食は部屋食】下田温泉一の老舗温泉旅館で、天草のとれたて地魚を堪能
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        植木温泉発祥の宿　旅館　松乃湯
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">植木温泉発祥の宿　旅館　松乃湯</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         開湯130年植木温泉発祥の宿で美肌の湯を堪能★熊本ICから車で7分！夕食は熊本の和会席に舌鼓　
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             島々を渡る日本屈指のシーサイドウェイ
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 天草五橋「天草パールライン」ドライブ＆千巌山展望台（多島美パノラマ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 天草五橋「天草パールライン」ドライブ＆千巌山展望台（多島美パノラマ）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             宇土半島先端の三角から大矢野島、永浦島、大池島、前島を経て天草上島までを結ぶ国道266号線・天草五橋。1号橋（天門橋）から5号橋（松島橋）まで、異なる構造の美しい橋で島々を渡る日本屈指のドライブコースです。名勝「千巌山展望台」からは、紺碧の海に浮かぶ天草の島々と五橋の全貌を360度の大パノラマで見渡せます。橋のたもとには海の見えるお洒落なリゾートカフェやマリーナが点在します。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天草温泉　ホテルアレグリアガーデンズ天草
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテルアレグリアガーデンズ天草</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">Ｈｏｔｅｌ　Ｓｅａ　Ｓｈｅｌｌ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         全室オーシャンビューのゲストルーム。 東京から2時間のリゾート
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        亀の井ホテル　阿蘇
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">亀の井ホテル　阿蘇</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         お部屋の随所で「くまモン」と出会えるくまモンルームがおすすめ◆阿蘇五岳を一望できる温泉リゾートホテル
                       </p>
@@ -492,9 +472,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             遭遇率98％の奇跡と極上の車海老
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 通詞島沖「野生イルカウォッチング」＆本場天草車海老・下田温泉夕日宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 通詞島沖「野生イルカウォッチング」＆本場天草車海老・下田温泉夕日宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             天草下島北部の通詞島（つうじしま）周辺の海域には、約200頭の野生のミナミハンドウイルカが定住しており、クルーザーに乗って沖合わずか10分ほどでイルカの群れに出逢えます。船のすぐ横をジャンプしたり親子で泳ぐ姿は感動の連続。また天草は車海老養殖発祥の地として知られ、踊り食いや塩焼き、サクサクの天ぷらで味わう車海老は格別。天草最古の歴史を誇る西海岸の「下田温泉」からは東シナ海に沈む感動の夕日を望めます。
           </p>
@@ -519,8 +497,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天草温泉　ホテルアレグリアガーデンズ天草
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテルアレグリアガーデンズ天草</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         広大なリゾート、ゆっくりと楽しめる楽園、藍の島をお楽しみ下さい。
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        大江戸温泉物語　天草ホテル亀屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">大江戸温泉物語　天草ホテル亀屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         「日本の夕陽百選」に選ばれた絶景を眺める温泉と 天草ならではの海の幸をご堪能ください
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天草プリンスホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草プリンスホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         『天草生うに三昧』開催中！5/31まで。有明海を一望！新鮮な海の幸が自慢の宿です。
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天草温泉　ホテル松竜園　海星
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天草温泉　ホテル松竜園　海星</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         眼下にひろがる海のパノラマ。天草発！豪快な海鮮料理。やさしさあふれる海の温泉をたっぷりどうぞ。
                       </p>
@@ -733,9 +702,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】松島温泉 天草渚亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】松島温泉 天草渚亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -768,9 +735,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と松島温泉 天草渚亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と松島温泉 天草渚亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -105,9 +105,7 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">
-              【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【世界屈指のパウダースノーと羊蹄山ビュー雪見スイート】2026-2027年12-1月冬の北海道・ニセコ！「雪ニセコ」＆「パーク ハイアット ニセコ HANAZONO」・北海道冬の極上食材名宿5選</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               世界中のスキーヤーや富裕層が「JAPOW（奇跡の粉雪）」を求めて熱狂する冬の北海道ニセコ。眼前に聳え立つ白銀の蝦夷富士・羊蹄山の神々しいパノラマと、極上のパウダースノーが広がるゲレンデ。国際的ラグジュアリーホテルや源泉掛け流しの高級和風別荘で過ごし、北海道産黒毛和牛や蝦夷鹿、噴火湾のタラバガニ・雲丹に舌鼓を打つ、世界最高峰のウィンターリゾートステイをご提案します。
             </p>
@@ -117,9 +115,7 @@ export default function Page() {
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              冬のニセコ・倶知安・羊蹄山で過ごす至福のひととき
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬のニセコ・倶知安・羊蹄山で過ごす至福のひととき</h2>
             <p className="text-base leading-loose">
               北海道西部に位置し、雄大な名峰『羊蹄山（蝦夷富士）』を望む日本屈指の国際的スノーリゾート『ニセコ（倶知安町・ニセコ町）』。シベリア大陸からの凍てつく寒気が日本海の湿気を吸い上げ、ニセコ連峰にぶつかることで生み出される雪は、水分含有率がわずか8％前後という世界最高峰の超極上ドライパウダースノー『JAPOW（ジャパウ）』として世界中のスキーヤー・スノーボーダーから憧れの的となっています。12月から1月にかけてのハイシーズンには、ゲレンデだけでなく街全体が白銀の世界に包まれ、夜には幻想的なイルミネーションと洗練された国際色豊かなナイトライフが広がります。近年ニセコには、世界的な五つ星ホテルブランドや世界的建築家が手掛けたモダンラグジュアリーリゾートが続々と誕生。全室スイート仕様の広大な客室とプライベート天然温泉、ウェルネススパを備えた『雪ニセコ（Setsu Niseko）』をはじめ、花園ゲレンデ直結のスキーイン・スキーアウトを誇る最高峰『パーク ハイアット ニセコ HANAZONO』、そして閑静な原生林に抱かれ和の贅を極めた『ニセコ昆布温泉 鶴雅別荘 杢の抄』など、世界水準のホスピタリティを提供する宿が揃います。ディナーには、北海道産黒毛和牛（白老牛）のステーキやジビエの蝦夷鹿、噴火湾や日本海から直送されるタラバガニ、雲丹、ホタテを贅沢に使ったフレンチや本格和食会席。パウダースノーで遊んだ後は、雪景色を望む自家源泉の露天風呂に浸かり、北海道の大地の恵みを五感で味わう――それは一生の記憶に残る、世界最高峰のウィンターリトリートです。
             </p>
@@ -127,10 +123,7 @@ export default function Page() {
 
           {/* 訪れるべき3つの理由 */}
           <section>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-              <span className="text-amber-600">★</span>
-              <span>2026-2027年冬に訪れるべき3つの理由</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2"><span>2026-2027年冬に訪れるべき3つの理由</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               
           <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition">
@@ -162,9 +155,7 @@ export default function Page() {
 
           
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
-              周辺観光スポット：冬の青空に聳え立つ白銀の蝦夷富士・羊蹄山（世界が羨望するJAPOWとニセコのパノラマ絶景）
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">周辺観光スポット：冬の青空に聳え立つ白銀の蝦夷富士・羊蹄山（世界が羨望するJAPOWとニセコのパノラマ絶景）</h2>
             
             <div className="relative rounded-xl overflow-hidden aspect-video shadow-md bg-slate-100">
               <img
@@ -186,10 +177,8 @@ export default function Page() {
           {/* 厳選ホテル5選 */}
           <section className="space-y-8">
             <div className="border-b border-slate-200 pb-4">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3">
-                <span className="text-amber-600">◆</span>
-                <span>厳選の最高級宿5選</span>
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3"><span className="text-amber-600">◆</span>
+                <span>厳選の最高級宿5選</span></h2>
               <p className="text-slate-500 text-xs md:text-sm mt-1">
                 ※宿泊料金・クチコミ評価は楽天トラベル公式生データ連携
               </p>
@@ -201,9 +190,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                雪ニセコ
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">雪ニセコ</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 グラン・ヒラフを望むウェルネスリゾート！全室キッチン＆天然温泉大浴場・スパ
               </p>
@@ -238,10 +225,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2022年オープンの最新ラグジュアリーホテル。全室にフルキッチンと最新設備を備え、羊蹄山またはアンヌプリの絶景を望みます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ニセコの豊かな天然温泉を引き入れた大浴場、露天風呂、貸切温泉サウナを完備。最高峰のウェルネススパで疲れた身体を癒やせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>館内にはミシュラン星付きレストランを含む多彩なダイニングが集結。北海道の旬の食材を使った美食の饗宴を愉しめます。</span></li>
                 </ul>
@@ -270,9 +255,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                パークハイアットニセコＨＡＮＡＺＯＮＯ
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">パークハイアットニセコＨＡＮＡＺＯＮＯ</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 スキーイン・スキーアウトの最高峰ラグジュアリー！羊蹄山ビューとミシュラン星付きダイニング
               </p>
@@ -307,10 +290,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>HANAZONOゲレンデに直結し、スキーを履いたまま出入りできる世界最高峰のラグジュアリーホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広々とした客室には床から天井までの大窓が配され、白銀の羊蹄山や白樺の森をパノラマで一望できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ピエール・エルメ監修のラウンジやミシュラン三つ星シェフのフレンチなど多彩な食の体験。25mインドア温水プールや温泉大浴場も完備。</span></li>
                 </ul>
@@ -339,9 +320,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                ニセコ昆布温泉鶴雅別荘　杢の抄
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">ニセコ昆布温泉鶴雅別荘　杢の抄</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 閑静な森と渓流に佇む大人の和風隠れ宿！自家源泉掛け流しと北海道旬彩和食会席
               </p>
@@ -376,10 +355,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ニセコ昆布温泉の静かな森と渓流沿いに建つ、鶴雅グループ最高峰の大人のための和風温泉リゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>暖炉の火が揺らめくラウンジや木の温もりあふれる客室。自家源泉の滑らかな美肌湯を露天風呂や客室温泉で満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は北海道各地から集めた極上の海の幸・山の幸を一皿ごとに美しく仕立てた創作和食会席。静寂の中で贅沢な時間を過ごせます。</span></li>
                 </ul>
@@ -408,9 +385,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                木ニセコ
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">木ニセコ</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 ヒラフゴンドラ直結のブティックホテル！天然温泉と地元食材フレンチ
               </p>
@@ -445,10 +420,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>グラン・ヒラフ高速ゴンドラまで徒歩わずか1分の好立地。スキーイン・スキーアウトが可能な洗練されたブティックホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>自家源泉の天然温泉大浴場や露天風呂、サウナ、家族風呂を完備。滑り終えた直後に温かい名湯に浸かる贅沢が味わえます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>メインダイニング「アンダイニング」では、北海道の厳選素材を独創的に昇華させたモダンフレンチと豊富なワインを楽しめます。</span></li>
                 </ul>
@@ -477,9 +450,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                綾ニセコ
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">綾ニセコ</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 グラン・ヒラフの麓に建つ洗練のコンドミニアム！天然温泉大浴場と羊蹄山パノラマ
               </p>
@@ -514,10 +485,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>グラン・ヒラフファミリーコースの麓に位置し、スキーリフト直結の優れた利便性を誇るラグジュアリーコンドミニアムです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大きな窓から羊蹄山またはスキー場を一望する広々とした客室。天然温泉大浴場や露天風呂、貸切温泉風呂も充実しています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>館内にはスキーバレーサービス、ジム、スパ、クラフトレストランを完備し、長期滞在でも快適なリゾートライフを提供します。</span></li>
                 </ul>
@@ -545,9 +514,7 @@ export default function Page() {
 
           {/* エリアへのアクセス＆冬の過ごし方 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              エリアへのアクセス＆冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">エリアへのアクセス＆冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-700 leading-relaxed bg-slate-50 p-4 rounded-xl border border-slate-200">
               【エリアへのアクセス】
 ・飛行機・空港から：新千歳空港より「ホワイトライナー」や「北海道リゾートライナー」などの直行リゾートスキーバスでニセコ各ホテル・ヒラフまで直通約2時間30分〜3時間。またはJR快速エアポートで小樽駅へ出て函館本線に乗り換え「倶知安駅」まで約2時間。
@@ -563,37 +530,29 @@ export default function Page() {
 
           {/* よくある質問 (FAQ) */}
           <section className="space-y-4">
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2">
-              <span className="text-amber-600">？</span>
-              <span>よくある質問（FAQ）</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2"><span className="text-amber-600">？</span>
+              <span>よくある質問（FAQ）</span></h2>
             <div className="space-y-3">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>ニセコが世界中から絶賛されるパウダースノーの理由は何ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>ニセコが世界中から絶賛されるパウダースノーの理由は何ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               シベリアからの極めて乾燥した寒気が日本海を渡る際に水蒸気を取り込み、標高1,000mを超えるニセコアンヌプリ連峰にぶつかって上昇気流を起こすためです。水分含有率がわずか8％前後という驚異的に軽くシルキーな粉雪が毎晩のように降り積もり、浮遊感あふれる滑走体験が叶います。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>スキーやスノーボードをしない人でもニセコ滞在を楽しめますか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>スキーやスノーボードをしない人でもニセコ滞在を楽しめますか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               もちろん大満足できます。各ラグジュアリーホテルには源泉掛け流しの大浴場や露天風呂、極上のウェルネススパ、羊蹄山を眺めるラウンジが完備されています。また、スノーシューによる雪の森散策や、世界レベルのレストランでの美食ディナー、冬の北海道ワインのテイスティングなど、リゾートステイそのものを心ゆくまで満喫できます。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>新千歳空港からのアクセスで一番おすすめの交通手段は何ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>新千歳空港からのアクセスで一番おすすめの交通手段は何ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               冬期は天候や路面凍結の影響を受けにくく、重い荷物やスキー用具を運ぶ手間が省ける「直行リゾートバス（ホワイトライナー等）」の利用が最もおすすめです。各ホテルのエントランスまたはヒラフウェルカムセンターまで乗り換えなしでアクセスできます。
             </p>
@@ -627,9 +586,7 @@ export default function Page() {
 
           {/* 内部リンク・関連特集 */}
           <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900">
-              関連特集・あわせて読みたい冬の極上旅
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900">関連特集・あわせて読みたい冬の極上旅</h2>
             <ul className="space-y-2">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

@@ -248,12 +248,10 @@ export default function WinterEhimeDogoOnsenPage() {
             11月・12月 日本三古湯・本館全館営業再開＆宇和島鯛めし特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月愛媛・道後温泉】日本三古湯と冬の瀬戸内味覚
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月愛媛・道後温泉】日本三古湯と冬の瀬戸内味覚
             <span className="block text-orange-300 text-lg sm:text-2xl mt-3 font-normal">
               名物宇和島鯛めし＆伊予牛・本館全館営業再開の名湯を巡る名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、三千年の歴史を誇り『日本書紀』や『万葉集』にも記された日本三古湯の筆頭「愛媛・道後温泉（どうごおんせん）」は、保存修理工事を終えて約5年半ぶりに全館営業を再開した「道後温泉本館」を中心に、冬ならではの落ち着いた情緒と美食のハイシーズンを迎えます。源泉温度42〜51度のアルカリ性単純温泉は、肌に刺激の少ない滑らかな泉質で、湯冷めしにくく冬の身体をやさしく温めてくれます。11月・12月は瀬戸内海で潮流に揉まれた真鯛が最も脂を蓄える旬。名物の「宇和島風鯛めし」や香ばしい「松山鯛めし」、とろけるような肉質の「伊予牛（いよぎゅう）」、みかん果汁を飼料に育つ「みかん鰤」。レトロな坊っちゃん列車や松山城城下町の冬散策とともに至福の滞在を叶える厳選名宿5選を徹底解説します。
@@ -290,9 +288,7 @@ export default function WinterEhimeDogoOnsenPage() {
               <Landmark className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                本館全館営業再開で輝きを増す！初冬の道後温泉が旅情をそそる理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">本館全館営業再開で輝きを増す！初冬の道後温泉が旅情をそそる理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 3000年の歴史が息づく名湯、冬の瀬戸内海の旬魚、温暖な気候で楽しむ城下町歩き
               </p>
@@ -310,9 +306,7 @@ export default function WinterEhimeDogoOnsenPage() {
               <Sparkles className="w-3.5 h-3.5" />
               厳選5宿の徹底比較
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              初冬の道後温泉を満喫するおすすめ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">初冬の道後温泉を満喫するおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 max-w-2xl mx-auto">
               楽天トラベル最新APIから取得したリアルタイムの宿泊料金・客室情報・アクセス・料理プランを基に、独自の視点で徹底解説します。
             </p>
@@ -357,9 +351,7 @@ export default function WinterEhimeDogoOnsenPage() {
                         <span className="text-xs font-bold text-orange-800 tracking-wide uppercase">
                           {hotel.special}
                         </span>
-                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">{hotel.name}</h3>
                       </div>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -439,9 +431,7 @@ export default function WinterEhimeDogoOnsenPage() {
             <Footprints className="w-4 h-4" />
             冬の1泊2日 満喫モデルコース
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            道後本館の湯めぐりと瀬戸内真鯛・伊予牛を味わう冬の愛媛旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">道後本館の湯めぐりと瀬戸内真鯛・伊予牛を味わう冬の愛媛旅</h2>
           <div className="space-y-4 border-l-2 border-orange-200 pl-4 sm:pl-6 ml-2 sm:ml-4">
             <div className="space-y-2">
               <div className="flex items-center gap-2 font-bold text-stone-900 text-sm sm:text-base">
@@ -470,35 +460,27 @@ export default function WinterEhimeDogoOnsenPage() {
             <Flame className="w-4 h-4" />
             愛媛・伊予冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            瀬戸内海と四国山地が育む三大至宝「冬の真鯛」「伊予牛」「紅まどんな」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">瀬戸内海と四国山地が育む三大至宝「冬の真鯛」「伊予牛」「紅まどんな」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-orange-400" />
-                愛媛が誇る二大名物「冬真鯛と鯛めし」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-orange-400" />
+                愛媛が誇る二大名物「冬真鯛と鯛めし」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 来島海峡の激流に揉まれて育つ愛媛の真鯛。冬は脂の乗りが最高潮に達し、コリコリとした歯ごたえと甘みが格別です。出汁で炊き上げる伝統の「松山鯛めし」と、新鮮な刺身を生卵・特製醤油ダレに絡めてご飯にのせる「宇和島鯛めし」は必食の美味です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-orange-400" />
-                とろける極上の舌触り「伊予牛 絹の味」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-orange-400" />
+                とろける極上の舌触り「伊予牛 絹の味」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 愛媛の温暖な気候と清らかな名水で丹精込めて育てられる黒毛和牛。その名の通り絹のようになめらかな肉質ときめ細やかなサシが特徴で、口に含むと上質な脂がふわりととろけ、赤身の芳醇な旨味が広がります。すき焼きやステーキで至福の味を堪能できます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-orange-400" />
-                ゼリーのような果肉「高級柑橘 紅まどんな」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-orange-400" />
+                ゼリーのような果肉「高級柑橘 紅まどんな」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月下旬から12月にかけてのわずか約1ヶ月間しか出回らない愛媛の奇跡の柑橘。外皮が非常に薄く、ゼリーのようにぷるぷるの果肉から果汁が溢れ出します。甘みが極めて強く酸味が穏やかで、冬の道後旅行のデザートや贈答品として圧倒的な人気を誇ります。
               </p>
@@ -512,15 +494,11 @@ export default function WinterEhimeDogoOnsenPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の道後温泉 交通アクセス＆外湯めぐりのアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の道後温泉 交通アクセス＆外湯めぐりのアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-orange-700" />
-                空港・駅からのアクセスと移動の利便性
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-orange-700" />
+                空港・駅からのアクセスと移動の利便性</h3>
               <p>
                 松山空港からは道後温泉駅直行のリムジンバスで約40分。JR松山駅からも市内電車（路面電車）で約25分と、公共交通機関でのアクセスが極めてスムーズです。
               </p>
@@ -530,10 +508,8 @@ export default function WinterEhimeDogoOnsenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-700" />
-                外湯めぐりと冬の気候・服装
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-700" />
+                外湯めぐりと冬の気候・服装</h3>
               <p>
                 道後温泉は温暖ですが、夜間の湯めぐり時は冷え込みます。宿に用意されている羽織や足袋靴下を着用し、首元にストールを巻いて出かけましょう。
               </p>
@@ -550,16 +526,12 @@ export default function WinterEhimeDogoOnsenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の愛媛道後温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の愛媛道後温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-orange-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-orange-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -571,10 +543,8 @@ export default function WinterEhimeDogoOnsenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-orange-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-orange-300" />
-              あわせて読みたい四国・瀬戸内の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-orange-300" />
+              あわせて読みたい四国・瀬戸内の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-orange-200">
               歴史ある名湯と瀬戸内の旬魚・ブランド牛を巡る四国各地の厳選旅ガイド
             </p>
@@ -586,9 +556,7 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">香川・琴平</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">
-                こんぴら温泉郷の石段参拝とオリーブ牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">こんぴら温泉郷の石段参拝とオリーブ牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 金刀比羅宮の初冬参拝と讃岐の美肌温泉、香川県産オリーブ牛を味わう旅。
               </p>
@@ -599,9 +567,7 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">徳島・鳴門</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">
-                鳴門温泉の渦潮絶景露天と鳴門鯛・阿波牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">鳴門温泉の渦潮絶景露天と鳴門鯛・阿波牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 大鳴門橋と鳴門海峡を望むオーシャンビュー温泉と名物鳴門鯛のフルコース。
               </p>
@@ -612,9 +578,7 @@ export default function WinterEhimeDogoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-orange-300 bg-orange-400/20 px-2 py-0.5 rounded-full inline-block">高知・あしずり温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">
-                足摺岬の太平洋パノラマ絶景と戻り鰹・土佐あかうし
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-orange-200 transition line-clamp-2">足摺岬の太平洋パノラマ絶景と戻り鰹・土佐あかうし</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 四国最南端の暖かな冬リゾートと黒潮の絶景露天、極上の土佐グルメ。
               </p>

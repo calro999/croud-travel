@@ -407,9 +407,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               <Landmark className="w-4 h-4 text-amber-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              富士山眺望と金目鯛・伊豆牛を堪能する伊豆長岡の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">富士山眺望と金目鯛・伊豆牛を堪能する伊豆長岡の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -425,9 +423,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
                       <span className="inline-block text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -471,9 +467,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
 
                   {/* Highlights Bullet Points */}
                   <div className="space-y-1.5 pt-2">
-                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">
-                      この宿の初冬ステイおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">この宿の初冬ステイおすすめポイント</h4>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-stone-600">
                       {hotel.highlights.map((hl, hlIdx) => (
                         <li key={hlIdx} className="flex items-start gap-1.5">
@@ -513,35 +507,27 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の伊豆長岡美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の伊豆長岡で味わい尽くす金目鯛・幻の伊豆牛・駿河湾地魚
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の伊豆長岡で味わい尽くす金目鯛・幻の伊豆牛・駿河湾地魚</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-amber-400" />
-                冬の王道「金目鯛の姿煮」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-400" />
+                冬の王道「金目鯛の姿煮」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 初冬に越冬の脂を蓄える金目鯛。伊豆伝統の濃厚な甘辛タレでじっくりと煮含めた姿煮は、箸を入れるとホロリと崩れる柔らかさ。染み出した魚油とタレのコクは絶品で、煮汁をご飯にかけるのが伊豆の醍醐味です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                幻の銘柄和牛「伊豆牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                幻の銘柄和牛「伊豆牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 伊豆の国市のひらい牧場で手塩にかけて育てられる希少黒毛和牛。年間約150頭しか出荷されないため幻の牛と呼ばれます。脂の融点が低く、口に入れた瞬間にサラリと溶ける軽やかな甘みと赤身の深い旨味が特徴です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                沼津港直送「駿河湾地魚舟盛り」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                沼津港直送「駿河湾地魚舟盛り」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 日本一深い駿河湾に面した沼津港から毎朝届く新鮮な地魚。初冬に身が締まるアジや真鯛、寒ブリ、脂の乗った本マグロなど、透明感あふれるお造りを伊豆天城産の生わさびとともに贅沢に味わえます。
               </p>
@@ -555,17 +541,13 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の富士山絶景パノラマと古奈名湯を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の富士山絶景パノラマと古奈名湯を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：三島駅到着から伊豆パノラマパーク碧テラス・伊豆長岡温泉ステイ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                葛城山頂から冠雪富士と駿河湾を望み、アルカリ性単純温泉と金目鯛姿煮に舌鼓
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">葛城山頂から冠雪富士と駿河湾を望み、アルカリ性単純温泉と金目鯛姿煮に舌鼓</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中に東海道新幹線三島駅へ到着。伊豆箱根鉄道で伊豆長岡駅へ。タクシーで「伊豆パノラマパーク」へ向かい、ロープウェイで葛城山頂の「碧テラス」へ登ります。初冬の澄み渡る大気の中、水盤越しにそびえる純白の冠雪富士と駿河湾の大パノラマに感動。展望カフェで一息ついた後、15時に温泉宿へチェックイン。肌に吸い付くような柔らかな古奈名湯に浸かり、日頃の疲れを癒やします。夕食には沼津港直送の地魚舟盛り、金目鯛のこってり姿煮、そして幻の伊豆牛ステーキを贅沢に味わいます。
               </p>
@@ -575,9 +557,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：源氏山の朝散歩・韮山反射炉と修善寺温泉街散策へ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                世界遺産の歴史に触れ、晩秋名残の修善寺竹林の小径を歩いて地魚ランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">世界遺産の歴史に触れ、晩秋名残の修善寺竹林の小径を歩いて地魚ランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、温泉街中心の源氏山公園を散歩し、朝露の木立と爽快な空気を体感。宿の朝風呂で体を温め、干物や温泉卵の和朝食をいただきます。チェックアウト後、車で約10分の世界文化遺産「韮山反射炉」を訪れ、幕末の歴史に触れます。続いて伊豆箱根鉄道で修善寺へ足を伸ばし、初冬の静寂に包まれた修禅寺参拝や竹林の小径を散策。名物の生わさび丼や蕎麦を味わい、温暖な中伊豆の心地よい温もりを胸に帰路へ。
               </p>
@@ -591,25 +571,19 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <Sun className="w-4 h-4" />
             初冬の伊豆長岡・おみやげ＆温泉街散策手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            中伊豆の温暖な恵みと伝統が育んだ初冬の名物みやげ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">中伊豆の温暖な恵みと伝統が育んだ初冬の名物みやげ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-600" />
-                温泉街名物「元祖温泉まんじゅう」食べ比べ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+                温泉街名物「元祖温泉まんじゅう」食べ比べ</h3>
               <p>
                 伊豆長岡温泉には、大正時代から続く「黒柳」や「柳月」をはじめとする温泉まんじゅうの老舗が軒を連ねています。黒糖の芳醇な香りと薄皮のしっとり感、甘さ控えめのこし餡のバランスが絶妙で、店舗ごとに皮の食感や餡の練り具合が異なります。温泉街を歩きながら出来立ての温かいおまんじゅうを食べ比べるのが、冬の伊豆長岡散策の醍醐味です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Waves className="w-4 h-4 text-amber-600" />
-                伊豆天城の生わさびと特産三ヶ日・伊豆みかん
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Waves className="w-4 h-4 text-amber-600" />
+                伊豆天城の生わさびと特産三ヶ日・伊豆みかん</h3>
               <p>
                 伊豆半島の中央部・天城連峰の清流で育つ「伊豆生わさび」は、爽やかな香りとツンとした心地よい辛味が特徴。わさび一本とおろし器のセットや、酒粕に漬け込んだ伝統の「わさび漬け」はお土産の定番です。また、11月から12月にかけては中伊豆の温暖な斜面で実る「伊豆みかん」の収穫最盛期。甘みと酸味が凝縮したもぎたてみかんは直売所で手に入ります。
               </p>
@@ -623,25 +597,19 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の伊豆長岡旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の伊豆長岡旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                温暖な気候と山頂テラスでの防寒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                温暖な気候と山頂テラスでの防寒</h3>
               <p>
                 伊豆長岡は冬でも雪の心配がほぼない温暖な気候です。平野部では日中12〜17℃前後まで気温が上がり、日差しがあればポカポカと暖かく過ごせます。ただし、伊豆パノラマパークの山頂テラスや朝晩の露天風呂では風が冷たくなるため、脱ぎ着しやすいコートやウインドブレーカー、ストールを用意しておくと便利です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-600" />
-                新幹線三島駅・東名高速からの抜群アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-600" />
+                新幹線三島駅・東名高速からの抜群アクセス</h3>
               <p>
                 東京駅から東海道新幹線で三島駅まで約45分、伊豆箱根鉄道で伊豆長岡駅まで約20分（特急踊り子号なら直通約2時間）。車の場合は東名沼津ICまたは新東名長泉沼津ICから伊豆縦貫道で約25分。平野部は積雪や凍結の心配が極めて少なく、ノーマルタイヤで快適にアクセスできます。
               </p>
@@ -655,16 +623,12 @@ export default function ShizuokaIzunagaokaWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の伊豆長岡温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の伊豆長岡温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -676,10 +640,8 @@ export default function ShizuokaIzunagaokaWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい東海・伊豆・富士の冬名湯・海幸特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい東海・伊豆・富士の冬名湯・海幸特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               冬の味覚と富士山絶景露天風呂を堪能する厳選旅ガイド
             </p>
@@ -691,9 +653,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・焼津温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                駿河湾富士山絶景露天＆天然南まぐろ名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">駿河湾富士山絶景露天＆天然南まぐろ名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 海越しに望む冠雪富士パノラマと、焼津港直送の極上天然南マグロ・高濃度温泉を満喫する冬旅。
               </p>
@@ -704,9 +664,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">千葉・南房総館山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                海越し冠雪富士＆解禁房州伊勢海老・地魚名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">海越し冠雪富士＆解禁房州伊勢海老・地魚名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 鏡ヶ浦越しに夕暮れの紅富士を望む温暖避寒リゾートと、獲れたて房州伊勢海老を味わう休日。
               </p>
@@ -717,9 +675,7 @@ export default function ShizuokaIzunagaokaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・浜名湖</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                かんざんじ温泉 遠州灘天然とらふぐ＆浜名湖うなぎ宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">かんざんじ温泉 遠州灘天然とらふぐ＆浜名湖うなぎ宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 浜名湖夕景を望む露天風呂と、冬の味覚天然とらふぐフルコース・名物鰻を堪能する冬旅。
               </p>

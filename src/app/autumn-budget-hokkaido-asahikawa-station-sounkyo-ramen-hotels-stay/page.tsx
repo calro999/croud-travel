@@ -58,10 +58,8 @@ export default function AutumnBudgetHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            忠別川を望む美しい旭川駅前に格安宿が集結！浮いた予算で梅光軒・青葉の特製ラーメンを満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            忠別川を望む美しい旭川駅前に格安宿が集結！浮いた予算で梅光軒・青葉の特製ラーメンを満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             近代的な美観を誇るJR旭川駅前は、平和通買物公園沿いに飲食店やホテルが集まる観光ハブ。天然温泉大浴場付きホテルやスタイリッシュな格安宿が、秋の平日なら1泊2,000円台〜3,000円台で予約可能。浮いた予算で大雪山旭岳ロープウェイや旭山動物園、駅前居酒屋での北海海鮮を贅沢に楽しめます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ワイズホテル　旭川駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ワイズホテル　旭川駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   旭川
@@ -152,9 +148,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ＫＯＫＯ　ＨＯＴＥＬ　旭川駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ＫＯＫＯ　ＨＯＴＥＬ　旭川駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   旭川
@@ -208,9 +202,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  天人峡天然温泉　「旅人の湯」ホテルルートインＧｒａｎｄ旭川駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">天人峡天然温泉　「旅人の湯」ホテルルートインＧｒａｎｄ旭川駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   旭川
@@ -264,9 +256,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルテトラ旭川駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルテトラ旭川駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   旭川
@@ -320,9 +310,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ルートイン旭川駅前一条通
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ルートイン旭川駅前一条通</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   旭川
@@ -386,9 +374,7 @@ export default function AutumnBudgetHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「旭川駅前：大雪山層雲峡の紅葉＆名物旭川醤油ラーメン！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -458,9 +444,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旭川駅前で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旭川駅前で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

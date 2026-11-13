@@ -91,9 +91,7 @@ export default function Page() {
               森の樽型サウナ＆薪火の温もり
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['barrel_sauna_forest_stay']?.label || '森の樽型サウナ＆薪火の温もり'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['barrel_sauna_forest_stay']?.label || '森の樽型サウナ＆薪火の温もり'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             木々の合間に佇む樽型のバレルサウナ。円形壁面が熱と蒸気を効率的に循環させ、天井から降り注ぐ極上のロウリュ蒸気を体感できます。薪ストーブならではの遠赤外線の優しい温もりが体の芯まで染み渡ります。
           </p>
@@ -118,9 +116,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -169,9 +165,7 @@ export default function Page() {
               湖畔ダイブ＆清流クールダウン
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['lakeside_sauna_tent_stay']?.label || '湖畔ダイブ＆清流クールダウン'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['lakeside_sauna_tent_stay']?.label || '湖畔ダイブ＆清流クールダウン'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             火照った体を冷水浴としてそのまま湖や清流へ。天然のシングル水温や澄み切った伏流水に身を委ね、インフィニティチェアで木漏れ日を見上げながらととのう、自然派サウナー憧れのワイルドな体験が待っています。
           </p>
@@ -196,9 +190,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -247,9 +239,7 @@ export default function Page() {
               本場フィンランド式・白樺ヴィヒタ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['hokkaido_forest_sauna_stay']?.label || '本場フィンランド式・白樺ヴィヒタ'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['hokkaido_forest_sauna_stay']?.label || '本場フィンランド式・白樺ヴィヒタ'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             北の大地・北海道をはじめとする冷涼な森のリゾート。生白樺の枝葉を束ねたヴィヒタで全身を叩いて血行を促進し、天然アロマオイルの蒸気に包まれる本格的な北欧流サウナリトリートを満喫できます。
           </p>
@@ -274,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -320,37 +308,29 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">
-            <span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
+            よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>バレルサウナとはどのような特徴がありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>バレルサウナとはどのような特徴がありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 樽型（バレル）の形状により角がないため、発生したロウリュの熱気・蒸気が部屋全体を円滑に循環し、温度ムラが少なく全身を均一に温めることができます。木の香りと温もりをダイレクトに味わえるのも大きな魅力です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>水着の着用は必要ですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>水着の着用は必要ですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 男女共用の屋外バレルサウナや湖畔テントサウナの場合、水着やサウナポンチョ・サウナハットの着用が必要な施設が一般的です。客室専用や貸切サウナの場合は施設ごとの規定をご確認ください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナ初心者でも薪ストーブサウナを楽しめますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>サウナ初心者でも薪ストーブサウナを楽しめますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 スタッフが薪のくべ方やロウリュのコツを丁寧にレクチャーしてくれる施設が多く、初心者でも安心して楽しめます。電気ストーブにはない柔らかな輻射熱は息苦しさが少なく、初心者の方にも心地よく過ごせます。
               </p>
@@ -360,9 +340,7 @@ export default function Page() {
 
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
-          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">
-            他のサウナ＆ウェルネス・癒しの宿を探す
-          </h3>
+          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>
           <p className="text-stone-600 text-sm mb-6">
             バレルサウナ、絶景パノラマ、名水水風呂、ハーブ蒸し、完全プライベートサウナ付き客室など、全国の極上サウナ旅をご提案します。
           </p>
@@ -403,9 +381,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＫＯＳＵＧＩ ＲＥＳＯＲＴを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＫＯＳＵＧＩ ＲＥＳＯＲＴを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +414,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＫＯＳＵＧＩ ＲＥＳＯＲＴの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＫＯＳＵＧＩ ＲＥＳＯＲＴの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

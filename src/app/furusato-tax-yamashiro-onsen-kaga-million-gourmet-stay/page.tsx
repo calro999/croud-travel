@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            紅殻格子の「湯の曲輪」、魯山人が愛した器と料理の美学——加賀山代温泉で叶える上質な北陸美食ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">紅殻格子の「湯の曲輪」、魯山人が愛した器と料理の美学——加賀山代温泉で叶える上質な北陸美食ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             霊峰白山を望む石川県加賀市に位置し、行基菩薩が傷を癒やすカラスを見て発見したと伝わる開湯1300年の名湯・山代温泉。温泉街の中心には、共同浴場「総湯」と明治時代の姿を復元した「古総湯」を宿が取り囲む「湯の曲輪（ゆのがわ）」と呼ばれる独特の町並みが今も美しく息づいています。九谷焼の鮮やかなステンドグラスが光を反射する古総湯で湯浴みし、紅殻格子の街並みを歩く時間は、加賀百万石の雅な文化を肌で感じさせてくれます。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             美食家として名高い北大路魯山人が逗留し、陶芸と料理の腕を磨いた山代温泉は、北陸随一の美食郷でもあります。日本海の高級魚「のどぐろ」の塩焼き、橋立港で水揚げされた極上の「加賀ずわい蟹」、そして豊かな加賀野菜を職人の技で仕立てた会席料理は感動の極み。石川県加賀市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門温泉宿へ驚くほどお得に滞在でき、贅を尽くした北陸の休日を満喫できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（山代温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（山代温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県加賀市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  山代温泉　ゆのくに天祥
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">山代温泉　ゆのくに天祥</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   自家源泉100％の「一薬三湯」！趣異なる三つの大浴場と十八趣の湯巡りを誇る加賀屈指の人気宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  山代温泉 ゆのくに天祥 —— 豊富な湯量と充実の温泉エンターテインメント。のどぐろと蟹の贅沢会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">山代温泉 ゆのくに天祥 —— 豊富な湯量と充実の温泉エンターテインメント。のどぐろと蟹の贅沢会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する良質な自家源泉を引く三つの大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する良質な自家源泉を引く三つの大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">「滝見の湯屋」「悠久の湯」「九谷の湯処」と趣の異なる三つの大浴場を時間帯ごとの男女入れ替えで巡る「一薬三湯」。館内だけで18種類もの湯船を贅沢に愉しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 橋立港の旬魚・のどぐろ・加賀カニを味わう豪華ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">橋立港の旬魚・のどぐろ・加賀カニを味わう豪華ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">脂ののったのどぐろの塩焼きや、冬の味覚の王様・ズワイガニ、能登牛の陶板焼きなど、北陸の味覚をふんだんに盛り込んだ贅沢な会席料理が宿泊客を魅了します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自家製温泉たまご手作り体験や多彩な館内イベント
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自家製温泉たまご手作り体験や多彩な館内イベント</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内の源泉で作る温泉たまご体験や、伝統工芸村「ゆのくにの森」との連携など、ファミリーからシニアまで一日中楽しく過ごせるおもてなしが充実しています。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県加賀市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  山代温泉　葉渡莉（はとり）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">山代温泉　葉渡莉（はとり）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   人と自然に優しい木の温もり！総檜造りの名湯大浴場と加賀野菜・地酒を味わう和モダン旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  山代温泉 葉渡莉（はとり） —— 木漏れ日揺れる和のやすらぎ。手作りの温かみと古総湯への絶好アクセス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">山代温泉 葉渡莉（はとり） —— 木漏れ日揺れる和のやすらぎ。手作りの温かみと古総湯への絶好アクセス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 檜の香りに包まれる総檜大浴場「九月九日」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">檜の香りに包まれる総檜大浴場「九月九日」</h5>
                     <p className="text-stone-600 leading-relaxed">天然檜を贅沢に使った大浴場と石造りの露天風呂。肌触りの滑らかな山代の湯に身を浸しながら、木の温もりと森林浴のようなリラックス効果を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 湯の曲輪・古総湯まで徒歩1分の温泉街散策に最適な立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">湯の曲輪・古総湯まで徒歩1分の温泉街散策に最適な立地</h5>
                     <p className="text-stone-600 leading-relaxed">山代温泉の中心街に位置し、古総湯や総湯、九谷焼のギャラリー散策に抜群のロケーション。夕暮れの温泉街のそぞろ歩きも気軽に楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 契約農家から届く加賀野菜と地元食材の月替わり会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">契約農家から届く加賀野菜と地元食材の月替わり会席</h5>
                     <p className="text-stone-600 leading-relaxed">加賀蓮根や金時草などの伝統野菜、日本海直送の旬魚を取り入れた身体に優しい創作料理。地酒との相性も抜群です。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県加賀市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  山代温泉　たちばな四季亭
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">山代温泉　たちばな四季亭</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   明治元年創業・桐工芸と加賀友禅の美学！全館生花が彩る全二十室の大人の隠れ家料亭旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  山代温泉 たちばな四季亭 —— 創業百五十余年の伝統と美意識。お部屋食で極める加賀懐石の至宝
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">山代温泉 たちばな四季亭 —— 創業百五十余年の伝統と美意識。お部屋食で極める加賀懐石の至宝</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室・館内を華やかに彩る四季折々の生花
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室・館内を華やかに彩る四季折々の生花</h5>
                     <p className="text-stone-600 leading-relaxed">一歩足を踏み入れると香る花の匂いと磨き上げられた桐の床。全館に生花が贅沢にいけられ、静寂と気品に満ちた特別な大人の空間が広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 朝夕ともにゆったりと味わう完全お部屋食スタイル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">朝夕ともにゆったりと味わう完全お部屋食スタイル</h5>
                     <p className="text-stone-600 leading-relaxed">伝統の料亭旅館ならではの細やかな配慮。周りを気にせずプライベートな客室で、のどぐろや能登牛、四季の加賀懐石を一品ずつ出来立てで味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 源泉掛け流しの展望大浴場と露天風呂付き客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">源泉掛け流しの展望大浴場と露天風呂付き客室</h5>
                     <p className="text-stone-600 leading-relaxed">山代の良質な名湯を引く清潔な大浴場。プライベート露天風呂を備えた客室タイプでは、誰にも邪魔されない至極の入浴が叶います。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            山代温泉・湯の曲輪散策＆加賀伝統工芸体験ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">山代温泉・湯の曲輪散策＆加賀伝統工芸体験ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 古総湯（こそうゆ）での明治の入浴体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 古総湯（こそうゆ）での明治の入浴体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed">明治時代の総湯を忠実に復元した「古総湯」。浴室の床や壁には九谷焼のタイルの絵付けが施され、ステンドグラスから差し込む光の中で、洗い場のない昔ながらの入浴スタイルを体験できます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 北大路魯山人寓居跡「いろは草庵」の見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 北大路魯山人寓居跡「いろは草庵」の見学</h3>
               <p className="text-stone-700 text-sm leading-relaxed">魯山人が大正4年に逗留した旧宿坊を公開。文人墨客が集った茶室や庭園、魯山人が削った木彫りの看板など、食と美の巨人の足跡を肌で感じられます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 加賀伝統工芸村「ゆのくにの森」と九谷焼絵付け
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 加賀伝統工芸村「ゆのくにの森」と九谷焼絵付け</h3>
               <p className="text-stone-700 text-sm leading-relaxed">茅葺き屋根の古民家が点在する広大な工芸村。九谷焼の絵付けやろくろ体験、山中漆器の沈金、金箔貼りなど、北陸の豊かなものづくり文化を体験できます。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              石川県加賀市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">石川県加賀市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】山代温泉 ゆのくに天祥を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】山代温泉 ゆのくに天祥を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と山代温泉 ゆのくに天祥の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と山代温泉 ゆのくに天祥の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

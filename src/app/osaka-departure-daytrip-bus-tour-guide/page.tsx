@@ -203,9 +203,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official Bus Tour
             </span>
-            <h2 className="text-xl md:text-2xl font-black leading-snug">
-              楽天トラベル「関西・大阪発 日帰りバスツアー」公式特集
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black leading-snug">楽天トラベル「関西・大阪発 日帰りバスツアー」公式特集</h2>
             <p className="text-rose-100 text-xs md:text-sm max-w-xl">
               カニ食べ放題・有馬温泉・天橋立・淡路島・伊勢神宮ツアーが勢揃い！楽天ポイントが貯まる＆高速バス・バスツアー限定クーポンが使える。
             </p>
@@ -227,9 +225,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>TOP SELECTION</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【大阪・梅田・難波発】満足度で選ぶ日帰りバスツアー4大プラン徹底比較
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【大阪・梅田・難波発】満足度で選ぶ日帰りバスツアー4大プラン徹底比較</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               冬の味覚カニ食べ放題から、名湯有馬温泉、絶景淡路島、伊勢参りまで。
             </p>
@@ -251,9 +247,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
                     </span>
                   </div>
 
-                  <h3 className="text-base font-black text-slate-900 leading-snug">
-                    {item.title}
-                  </h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug">{item.title}</h3>
 
                   <p className="text-xs text-slate-600 leading-relaxed">
                     {item.highlight}
@@ -285,9 +279,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>DECISION MATRIX</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              日帰りバスツアー vs 自家用車 vs 特急電車 比較対決
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">日帰りバスツアー vs 自家用車 vs 特急電車 比較対決</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               特に「カニツアー」「温泉ツアー」において、なぜ関西では日帰りバスツアーが圧倒的に支持されるのかを徹底検証。
             </p>
@@ -323,9 +315,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>DAY SCHEDULE</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【贅沢女子旅・夫婦旅】有馬温泉「太閤の湯」＆三田神戸牛すき焼き 1日モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【贅沢女子旅・夫婦旅】有馬温泉「太閤の湯」＆三田神戸牛すき焼き 1日モデルコース</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               梅田からたった1時間で別世界！名湯と絶品グルメを満喫するゆったり日帰り旅。
             </p>
@@ -339,9 +329,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
                   <span className="text-xs font-black text-rose-950 bg-rose-100 px-2 py-0.5 rounded border border-rose-300">
                     {step.time}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-slate-900">
-                    {step.title}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-slate-900">{step.title}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                   {step.desc}
@@ -357,9 +345,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-rose-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>LUXURY HOTELS & RYOKAN</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              日帰りツアーの目的地で泊まるならここ！城崎温泉・有馬温泉の極上宿
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">日帰りツアーの目的地で泊まるならここ！城崎温泉・有馬温泉の極上宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               「日帰りで下見して、次は1泊2日でゆっくり訪れたい！」という方に選ばれている名宿です。
             </p>
@@ -400,9 +386,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                           {hotel.hotelSpecial}
@@ -431,22 +415,16 @@ export default function OsakaDepartureDaytripBusTourPage() {
 
         {/* 💡 5. 大阪発バスツアー攻略法＆集合場所案内 */}
         <section className="bg-rose-950/5 rounded-3xl p-6 md:p-8 border border-rose-900/10 space-y-6">
-          <h2 className="text-lg md:text-xl font-black text-rose-950">
-            大阪発バスツアーを120%楽しむための攻略ポイント
-          </h2>
+          <h2 className="text-lg md:text-xl font-black text-rose-950">大阪発バスツアーを120%楽しむための攻略ポイント</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <div className="bg-white p-5 rounded-2xl border border-rose-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-rose-950 flex items-center gap-1.5">
-                <span>📍</span> 梅田の集合場所（プラザモータープール注意点）
-              </h3>
+              <h3 className="font-bold text-rose-950 flex items-center gap-1.5">梅田の集合場所（プラザモータープール注意点）</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 大阪発バスツアーの多くは中津寄りの「プラザモータープール」または「ヨドバシ梅田前」「新大阪駅」です。地下鉄御堂筋線中津駅から徒歩約5分、JR大阪駅からは徒歩約12分かかるため、初めての方は時間に余裕を持って集合しましょう。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-rose-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-rose-950 flex items-center gap-1.5">
-                <span>🦀</span> カニツアーの持ち物テクニック
-              </h3>
+              <h3 className="font-bold text-rose-950 flex items-center gap-1.5">カニツアーの持ち物テクニック</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 カニ食べ放題はお手拭きが何枚あっても足りません！除菌アルコールウェットティッシュや、手の匂いを消すレモンシートを持参すると超快適。お持ち帰り用のカニや海産物を購入するなら、折りたたみ保冷バッグが活躍します。
               </p>
@@ -456,9 +434,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
 
         {/* 🔗 関連記事（内部リンク） */}
         <section className="border-t border-slate-200 pt-8 space-y-4">
-          <h2 className="text-base font-bold text-slate-800">
-            あわせて読みたい関西発の交通・モデルコースガイド
-          </h2>
+          <h2 className="text-base font-bold text-slate-800">あわせて読みたい関西発の交通・モデルコースガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/osaka-kanazawa-highway-bus-model-course/"
@@ -490,9 +466,7 @@ export default function OsakaDepartureDaytripBusTourPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とカニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とカニ食べ放題・有馬温泉・天橋立・淡路島の人気プラン比較の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -109,9 +109,7 @@ export default function LuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【世界基準ルレ・エ・シャトー加盟「明神館」と山峡の秘湯】2026-2027年11-12月初冬の長野・松本奥座敷！渓流立ち湯雪見露天風呂と信州オーガニックフレンチ・自然に抱かれる最高峰ウェルネスリトリート名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             国定公園の豊かな山峡、薄川の清流沿いに佇む長野・松本の奥座敷「扉温泉」。世界の一流ホテル・レストランのみが加盟を許される「ルレ・エ・シャトー」に名を連ねる名門「明神館」をはじめ、初冬の静寂と自然の調和を五感で味わう最高峰リゾート。渓流と一体化する名物「雪見立ち湯露天風呂」や、無農薬自家農園野菜と信州プレミアム牛を用いたモダンフレンチ・創作和食懐石。日常の喧騒から完全に解き放たれる極上リトリート名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function LuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>世界基準「ルレ・エ・シャトー」加盟の誇り！原生林に抱かれた最高峰リトリート</span>
-            </h3>
+              <span>世界基準「ルレ・エ・シャトー」加盟の誇り！原生林に抱かれた最高峰リトリート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               厳格な審査基準をクリアした宿のみが認められる世界基準のホスピタリティ。山峡の静寂の中で、日常のストレスから完全に解放される至高の休日を過ごせます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>渓流と一体化する深さ120cmの「雪見立ち湯」！神秘的な大自然のパノラマ露天</span>
-            </h3>
+              <span>渓流と一体化する深さ120cmの「雪見立ち湯」！神秘的な大自然のパノラマ露天</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               立ったまま肩まで浸かる名物露天風呂『雪月花』や、寝湯、三輪の湯など多彩な湯処。目の前を流れる清流と初雪の渓谷美を間近に感じる湯浴みは圧巻です。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>自家農園の無農薬野菜と信州プレミアム牛！心身が喜ぶモダンオーガニックフレンチ</span>
-            </h3>
+              <span>自家農園の無農薬野菜と信州プレミアム牛！心身が喜ぶモダンオーガニックフレンチ</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               直営農園で手塩にかけて育てられた新鮮野菜が主役のナチュレフレンチディナー。信州ワインとの完璧なマリアージュとともに、身体の内側から浄化される美食を堪能できます。
             </p>
@@ -177,9 +167,7 @@ export default function LuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  扉温泉　明神館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">扉温泉　明神館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  美ヶ原温泉　追分屋旅館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">美ヶ原温泉　追分屋旅館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  松本ホテル花月
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">松本ホテル花月</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  浅間温泉　菊之湯
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">浅間温泉　菊之湯</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  浅間温泉　和泉荘
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">浅間温泉　和泉荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function LuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>扉温泉「明神館」の立ち湯露天風呂は混浴ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>扉温泉「明神館」の立ち湯露天風呂は混浴ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               立ち湯露天風呂『雪月花』は大浴場エリアに併設されており、時間帯による男女完全入れ替え制、または男女別に分かれておりますので、どなたでも安心してご利用いただけます。水着の着用は不要で、自然の息吹を肌でダイレクトに感じながらご入浴いただけます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>夕食の「ナチュレフレンチ」と「創作和食」はどのように選べますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>夕食の「ナチュレフレンチ」と「創作和食」はどのように選べますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               宿泊予約時にフレンチコースまたは和食コースを選択できます。連泊される場合は、1泊目をフレンチ、2泊目を和食と組み合わせて両方の味を楽しむスタイルが大変人気です。アレルギーや苦手な食材についても事前相談に応じて細やかに対応してくれます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月〜12月に車で扉温泉へ行く場合、冬用タイヤは必須ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月〜12月に車で扉温泉へ行く場合、冬用タイヤは必須ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               標高1000mを超える山峡に位置するため、11月中旬以降は平野部で雨でも現地では雪になることが珍しくありません。また渓谷沿いの道路は日陰が多く凍結しやすいため、11月中旬以降にお車でアクセスする場合はスタッドレスタイヤの装着が絶対に必須です。運転に不安のある方は松本駅からの無料送迎バスのご利用を強くおすすめします。
             </p>

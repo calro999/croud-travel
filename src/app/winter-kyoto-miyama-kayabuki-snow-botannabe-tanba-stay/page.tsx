@@ -270,10 +270,8 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Overview</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Home className="w-6 h-6 text-amber-500 shrink-0" />
-              雪積もる茅葺き屋根と薪ストーブの煙！日本の原風景に出会う冬の美山
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Home className="w-6 h-6 text-amber-500 shrink-0" />
+              雪積もる茅葺き屋根と薪ストーブの煙！日本の原風景に出会う冬の美山</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -293,10 +291,8 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-amber-500 shrink-0" />
-              美山＆湯の花温泉で泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-amber-500 shrink-0" />
+              美山＆湯の花温泉で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。本場ぼたん鍋、極上丹波牛、風情あふれる雪見露天風呂を誇る名宿を厳選。
             </p>
@@ -333,12 +329,10 @@ export default function KyotoMiyamaTanbaWinterPage() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                         {h.access}
@@ -393,38 +387,30 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gastronomy</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-6 h-6 text-amber-500 shrink-0" />
-              丹波・美山が誇る冬の最高峰グルメ！天然猪肉「ぼたん鍋」と銘柄黒毛和牛「丹波牛」
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Flame className="w-6 h-6 text-amber-500 shrink-0" />
+              丹波・美山が誇る冬の最高峰グルメ！天然猪肉「ぼたん鍋」と銘柄黒毛和牛「丹波牛」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                本場仕込みの「天然ぼたん鍋」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                本場仕込みの「天然ぼたん鍋」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 丹波の山野を駆け巡り、秋の実りをたっぷり食べた天然猪の肉は、真っ白な上質脂と鮮やかな赤身が美しい牡丹の花のように盛り付けられます。煮込むほどにコクが増す特製味噌仕立てのスープに、地元産のごぼうや白菜、美山豆腐を合わせて熱々をいただく極上の鍋料理です。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                京都の誇り「丹波牛（京都肉）」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                京都の誇り「丹波牛（京都肉）」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 古くから名牛の産地として知られる丹波地方。澄んだ空気と清らかな水で丹精込めて育てられた丹波牛は、繊細な霜降りと芳醇な香りが特徴。石焼きステーキやしゃぶしゃぶで味わえば、口の中でとろけるような極上の食感を楽しめます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                美山手打ち蕎麦と美山牛乳スイーツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                美山手打ち蕎麦と美山牛乳スイーツ</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 寒暖差のある美山の高原地帯で育ったそば粉を使った香り高い「美山そば」。温かい地鶏南蛮そばは散策後の体を温めてくれます。また、濃厚な風味が全国区の人気を誇る「美山牛乳」のプリンやソフトクリーム、チーズも見逃せません。
               </p>
@@ -436,44 +422,34 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Sightseeing & Culture</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
-              白銀の茅葺き集落と雪灯籠！冬の美山・丹波を彩る必訪スポット
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
+              白銀の茅葺き集落と雪灯籠！冬の美山・丹波を彩る必訪スポット</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-amber-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. 美山かやぶきの里「雪灯廊（ゆきとうろう）」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. 美山かやぶきの里「雪灯廊（ゆきとうろう）」</h3>
               <p className="text-xs sm:text-sm">
                 1月下旬に開催される美山冬の最大イベント。雪に包まれた茅葺き民家が温かい光でライトアップされ、集落の小道には訪れた人々が作った雪灯籠や花灯籠が幻想的に灯ります。冬の凛とした夜空に打ち上がる花火と、雪の茅葺き屋根が織りなす情景は、まるでおとぎ話の世界に入り込んだかのような感動を与えてくれます。
               </p>
             </div>
 
             <div className="border-l-4 border-amber-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 美山民俗資料館とかやぶきカフェ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 美山民俗資料館とかやぶきカフェ</h3>
               <p className="text-xs sm:text-sm">
                 約200年前の茅葺き農家を復元した「美山民俗資料館」では、囲炉裏に薪がくべられ、昔の暮らしの道具や屋根裏の構造を見学できます。また集落内にある「カフェ美卵（みらん）」では、平飼い卵の手作りプリンや温かい珈琲をいただきながら、窓の外に舞う雪景色を眺めてほっと一息つけます。
               </p>
             </div>
 
             <div className="border-l-4 border-amber-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                3. 京都の奥座敷・亀岡「湯の花温泉」の美肌湯めぐり
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">3. 京都の奥座敷・亀岡「湯の花温泉」の美肌湯めぐり</h3>
               <p className="text-xs sm:text-sm">
                 美山から車で約40分、山あいにひっそりと湯煙を上げる湯の花温泉。微量のラドンを含む単純弱放射能泉は保温効果が高く、入浴後も体が冷めにくい名湯です。静かな雪景色を眺める庭園露天風呂や貸切風呂で過ごす時間は、冬の大人旅の至福のひとときです。
               </p>
             </div>
 
             <div className="border-l-4 border-amber-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                4. 道の駅「美山ふれあい広場」と京都丹波の冬の特産市
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">4. 道の駅「美山ふれあい広場」と京都丹波の冬の特産市</h3>
               <p className="text-xs sm:text-sm">
                 美山の玄関口に位置する人気の道の駅。名物の美山牛乳を使ったスイーツショップ「美山のめぐみ 郷の駅」や観光案内所が併設され、冬の地場産野菜や手打ちそば、丹波の地酒、天然ジビエの加工品などのお土産が豊富に揃います。
               </p>
@@ -485,28 +461,22 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-amber-50/60 rounded-2xl p-6 sm:p-10 border border-amber-100 space-y-6">
           <div className="border-b border-amber-200/60 pb-4">
             <span className="text-amber-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Access & Preparation</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-amber-600 shrink-0" />
-              雪の美山を安全に楽しむ！スタッドレスタイヤ＆防寒レイヤリングの心得
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-amber-600 shrink-0" />
+              雪の美山を安全に楽しむ！スタッドレスタイヤ＆防寒レイヤリングの心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700 leading-relaxed">
             <div className="bg-white p-5 rounded-xl border border-amber-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-600" />
-                集落散策の服装と靴の選び方
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-600" />
+                集落散策の服装と靴の選び方</h3>
               <p>
                 美山町は京都府内屈指の豪雪地帯で、冬期は集落の小道に圧雪や凍結が生じます。靴は防水性があり滑り止めのしっかりしたスノーブーツまたは長靴が必須です。また夕暮れ以降は急激に冷え込み氷点下になるため、防風・防水の厚手ダウンコート、マフラー、手袋、耳当て付き帽子、カイロをご用意ください。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-xl border border-amber-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-600" />
-                マイカー・レンタカーの雪道運転
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-4 h-4 text-amber-600" />
+                マイカー・レンタカーの雪道運転</h3>
               <p>
                 京都縦貫自動車道の園部ICから美山へ続く府道19号線は、冬期には路面凍結や積雪が頻発します。必ずスタッドレスタイヤを装着し、念のためタイヤチェーンを車載してください。日没後の山道運転は路面のブラックアイスバーンに注意し、スピードを抑えて安全運転を心がけましょう。雪道運転に不安がある方は、京都駅や園部駅発着の直行周遊バスの利用が安心です。
               </p>
@@ -518,10 +488,8 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Sake & Fermentation</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-6 h-6 text-amber-500 shrink-0" />
-              名水と寒仕込みが醸す冬の恵み！丹波杜氏の銘酒と美山の発酵食
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Flame className="w-6 h-6 text-amber-500 shrink-0" />
+              名水と寒仕込みが醸す冬の恵み！丹波杜氏の銘酒と美山の発酵食</h2>
           </div>
 
           <div className="space-y-4 text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -538,10 +506,8 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-amber-400 shrink-0" />
-              美山かやぶきの里雪灯廊と湯の花温泉ぼたん鍋を満喫する1泊2日コース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-amber-400 shrink-0" />
+              美山かやぶきの里雪灯廊と湯の花温泉ぼたん鍋を満喫する1泊2日コース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -602,18 +568,14 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の美山かやぶきの里＆丹波旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の美山かやぶきの里＆丹波旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -626,9 +588,7 @@ export default function KyotoMiyamaTanbaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！関西・近畿の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！関西・近畿の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

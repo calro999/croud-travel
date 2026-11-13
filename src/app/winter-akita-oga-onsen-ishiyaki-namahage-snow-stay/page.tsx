@@ -280,10 +280,8 @@ export default function OgaOnsenWinterFeature() {
             <Zap className="w-4 h-4" />
             11月・12月 冬の荒波海鮮＆伝統文化特集｜秋田・男鹿温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月秋田・男鹿温泉郷】<br className="hidden sm:inline" />
-            初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月秋田・男鹿温泉郷】<br className="hidden sm:inline" />
+            初冬名物ハタハタと豪快石焼き鍋・なまはげ伝承＆雪見露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             初冬の雷鳴とともに押し寄せる秋田の県魚「ハタハタ」と、千度の溶岩石で瞬間沸騰させる豪快「石焼き鍋」。なまはげの魂が息づく半島で、海水の温まり湯と荒波雪見露天を満喫する男鹿旅。
           </p>
@@ -301,9 +299,7 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Hatahata Season & Namahage Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                雷鳴とともに押し寄せる「ハタハタ」と、千度の石が爆ぜる豪快石焼き鍋
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">雷鳴とともに押し寄せる「ハタハタ」と、千度の石が爆ぜる豪快石焼き鍋</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Ancient Seawater Thermal Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「太古の海水が芯まで温める」男鹿温泉の塩化物泉メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「太古の海水が芯まで温める」男鹿温泉の塩化物泉メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Oga Winter Fishermen's Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                男鹿の冬を喰らう｜ハタハタ刺し・しょっつる鍋・秋田錦牛と地酒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">男鹿の冬を喰らう｜ハタハタ刺し・しょっつる鍋・秋田錦牛と地酒</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Namahage & Coastal Scenic Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の男鹿散策モデルコース｜なまはげ館・真山伝承館と入道崎の絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の男鹿散策モデルコース｜なまはげ館・真山伝承館と入道崎の絶景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function OgaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-red-700 uppercase tracking-widest">Featured Historic & Oceanview Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              荒波の絶景となまはげの温もりに抱かれる｜男鹿温泉郷の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">荒波の絶景となまはげの温もりに抱かれる｜男鹿温泉郷の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、自家源泉や名物石焼き鍋・ハタハタ料理に強いこだわりを持つ本物の宿だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function OgaOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Winter Travel Tips & Access</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の男鹿冬旅｜日本海の冬荒波・強風対策と男鹿線の利用
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の男鹿冬旅｜日本海の冬荒波・強風対策と男鹿線の利用</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-red-800" />
-                厳しい季節風と完全防寒装備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-red-800" />
+                厳しい季節風と完全防寒装備</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 男鹿半島は海からの強風が吹き抜けるため、実際の気温以上に寒さを感じます。11月下旬以降は雪やあられが降る日が増えるため、防風・防水の厚手ダウンコート、フードや耳当て、滑り止めの付いたスノーブーツを必ず着用してください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-red-800" />
-                JR男鹿線・なまはげシャトルと冬道ドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-red-800" />
+                JR男鹿線・なまはげシャトルと冬道ドライブ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 秋田駅からJR男鹿線で羽立駅へ向かい、そこから予約制の「なまはげシャトル」や宿の送迎を利用するのが雪道運転の不安なく最も安全です。車でお越しの場合は秋田道・昭和男鹿半島ICから約40分ですが、11月下旬以降はスタッドレスタイヤ必須です。
               </p>
@@ -562,18 +542,14 @@ export default function OgaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                秋田男鹿温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">秋田男鹿温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-red-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function OgaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-red-400 uppercase tracking-widest">Related Winter Features & Tohoku Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい秋田・東北の冬名湯＆極上雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい秋田・東北の冬名湯＆極上雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の雪見露天、郷土鍋、本マグロや前沢牛をめぐる人気の厳選特集もぜひご覧ください。
             </p>

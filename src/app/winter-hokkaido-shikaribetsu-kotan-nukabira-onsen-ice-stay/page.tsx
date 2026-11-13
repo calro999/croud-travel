@@ -270,10 +270,8 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Arctic Wonderland Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-sky-500 shrink-0" />
-              マイナス30度の奇跡！雪と氷が織りなす大雪山国立公園の厳冬のアート
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-sky-500 shrink-0" />
+              マイナス30度の奇跡！雪と氷が織りなす大雪山国立公園の厳冬のアート</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -293,10 +291,8 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-sky-500 shrink-0" />
-              然別湖＆ぬかびら・十勝で泊まりたい冬の厳選宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-sky-500 shrink-0" />
+              然別湖＆ぬかびら・十勝で泊まりたい冬の厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。絶景レイクビュー、源泉掛け流し秘湯、モール温泉、冬サウナを誇る名宿を厳選。
             </p>
@@ -333,12 +329,10 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                         {h.access}
@@ -393,44 +387,34 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Sightseeing Highlights</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-sky-500 shrink-0" />
-              厳冬期にしか出会えない奇跡！然別湖・ぬかびら・十勝の必訪絶景
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-sky-500 shrink-0" />
+              厳冬期にしか出会えない奇跡！然別湖・ぬかびら・十勝の必訪絶景</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-sky-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. しかりべつ湖コタンの「アイスバー」と「氷のグラス」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. しかりべつ湖コタンの「アイスバー」と「氷のグラス」</h3>
               <p className="text-xs sm:text-sm">
                 雪のドーム内に広がる「アイスバー」は、カウンターも椅子もすべて氷でできています。自ら削って作るオリジナルの「氷のグラス」に注がれるカクテルやソフトドリンクは、氷点下の室内でも冷たさを保ち、青白く照らされた氷の空間で味わう一杯は格別の体験。夜にはキャンドルが灯り、静謐でロマンチックな大人のバータイムへと表情を変えます。
               </p>
             </div>
 
             <div className="border-l-4 border-sky-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 氷結糠平湖にそびえる「タウシュベツ川橋梁」スノートレッキング
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 氷結糠平湖にそびえる「タウシュベツ川橋梁」スノートレッキング</h3>
               <p className="text-xs sm:text-sm">
                 発電用ダム湖である糠平湖に架かる11連の美しいアーチ橋。冬には湖全体が厚い氷で覆われ、白銀の雪原をスノーシューで歩いて橋の真下までアプローチできます。経年劣化と氷圧によって削られたコンクリートの質感は、まるで古代ローマの水道橋のような荘厳さを醸し出します。崩落が進んでおり「今しか見られない絶景」として世界中から写真愛好家が訪れます。
               </p>
             </div>
 
             <div className="border-l-4 border-sky-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                3. 十勝川の白鳥飛来地と豊頃町大津海岸の「ジュエリーアイス」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">3. 十勝川の白鳥飛来地と豊頃町大津海岸の「ジュエリーアイス」</h3>
               <p className="text-xs sm:text-sm">
                 十勝川温泉のすぐそばを流れる十勝川には、冬期に数百羽のオオハクチョウが越冬のために飛来し、優美に羽を休める姿を間近に観察できます。また車で約1時間の太平洋沿岸（豊頃町大津海岸）では、十勝川の氷が海に流出し、波に洗われてクリスタルのように丸みを帯びて砂浜に打ち上げられる自然現象「ジュエリーアイス（1月中旬〜2月）」が発生。朝日に照らされて黄金色に輝く氷の宝石は息を呑む絶景です。
               </p>
             </div>
 
             <div className="border-l-4 border-sky-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                4. 十勝サホロリゾートの白銀パウダースノーと圧雪車ナイトツアー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">4. 十勝サホロリゾートの白銀パウダースノーと圧雪車ナイトツアー</h3>
               <p className="text-xs sm:text-sm">
                 内陸性気候のため湿り気が極めて少なく、サラサラとした極上のパウダースノーを楽しめるサホロリゾート。日高山脈の雄大な景観を望む全21コースのゲレンデに加え、夜にはキャタピラ付きの巨大な圧雪車に乗って夜の山頂を目指す「圧雪車ナイトツアー」も人気。満天の星空と十勝平野の夜景を見下ろす特別なアクティビティが楽しめます。
               </p>
@@ -442,38 +426,30 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tokachi Winter Gourmet</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-sky-500 shrink-0" />
-              極寒の大地が育む至福の美味！十勝ハーブ牛・ラクレットチーズ・幻のオショロコマ
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-sky-500 shrink-0" />
+              極寒の大地が育む至福の美味！十勝ハーブ牛・ラクレットチーズ・幻のオショロコマ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                旨味凝縮「十勝ハーブ牛」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                旨味凝縮「十勝ハーブ牛」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 ハーブを配合した飼料でストレスなく育てられた十勝のブランド黒毛和牛。赤身の旨味が非常に濃く、適度なサシが舌の上でとろけます。陶板焼きやステーキ、熱々のすき焼きで味わえば、寒さを忘れさせる豊かなエネルギーが体に満ちていきます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                熱々とろ〜り「十勝チーズ料理」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                熱々とろ〜り「十勝チーズ料理」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 日本一の酪農王国・十勝。冬のご馳走といえば、ラクレットチーズをとろとろに溶かして蒸したてジャガイモやソーセージにかけるラクレット料理や、濃厚なチーズフォンデュ。芳醇なミルクの香りとコクが冷えた体を優しく温めてくれます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                幻の渓流魚「オショロコマ」と新得そば
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                幻の渓流魚「オショロコマ」と新得そば</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 大雪山の標高の高い冷水域にしか生息しないイワナの仲間「オショロコマ」。然別湖周辺でのみ養殖が許されており、じっくり炭火で焼いた塩焼きは淡白ながら上品な甘みが絶品。新得町特産の手打ち新得そばとともに味わうのが伝統の贅沢です。
               </p>
@@ -485,28 +461,22 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-sky-50/60 rounded-2xl p-6 sm:p-10 border border-sky-100 space-y-6">
           <div className="border-b border-sky-200/60 pb-4">
             <span className="text-sky-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Cold Weather Equipment & Safety</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-sky-600 shrink-0" />
-              氷点下20度の世界を楽しむ！万全の防寒レイヤリング＆冬道ドライブの心得
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-sky-600 shrink-0" />
+              氷点下20度の世界を楽しむ！万全の防寒レイヤリング＆冬道ドライブの心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700 leading-relaxed">
             <div className="bg-white p-5 rounded-xl border border-sky-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-sky-600" />
-                服装の基本は「3層レイヤリング」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-sky-600" />
+                服装の基本は「3層レイヤリング」</h3>
               <p>
                 しかりべつ湖コタンやタウシュベツ散策では、肌着（吸湿発熱インナー）、中間着（フリースやインナーダウン）、外層（防風・防水の厚手ダウンパーカ）の3層構造が基本。首・手首・足首の「3つの首」を温めるため、ネックウォーマー、防風スノーグローブ、厚手ウールソックスを着用。足元は底が厚く滑り止めが効いたスノーブーツ（足首まであるハイカット）が必須です。カイロはスマホのバッテリー保温用にも用意しておきましょう。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-xl border border-sky-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-4 h-4 text-sky-600" />
-                レンタカー運転とホワイトアウト対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-4 h-4 text-sky-600" />
+                レンタカー運転とホワイトアウト対策</h3>
               <p>
                 帯広空港や新得駅でレンタカーを利用する際は、必ず4WD＋最新スタッドレスタイヤを指定してください。然別湖へ向かう山道（道道85号）は急カーブや圧雪凍結路面が続きます。日没（16時頃）以降は気温が一気に下がりブラックアイスバーンになるため、夕方前の宿到着を計画しましょう。強風による地吹雪で視界ゼロ（ホワイトアウト）になった場合は、ハザードランプを点灯して無理な走行を避けてください。
               </p>
@@ -518,10 +488,8 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-sky-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-sky-400 shrink-0" />
-              氷上露天風呂とタウシュベツ橋梁を巡る2泊3日完全満喫コース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-sky-400 shrink-0" />
+              氷上露天風呂とタウシュベツ橋梁を巡る2泊3日完全満喫コース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -585,18 +553,14 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の然別湖＆ぬかびら・十勝旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の然別湖＆ぬかびら・十勝旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -609,9 +573,7 @@ export default function HokkaidoShikaribetsuNukabiraWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-sky-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！北海道の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！北海道の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

@@ -108,9 +108,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界に誇る国産漆のルーツ、深紅に染まるうるしの美林トレッキング
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界に誇る国産漆のルーツ、深紅に染まるうるしの美林トレッキング</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大漆の森の最大の魅力は、人の手によって丁寧に植樹され管理されてきた美しい里山景観です。特に秋のうるしの紅葉は、モミジよりも鮮烈な赤色に染まり、息をのむようなコントラストを見せてくれます。木肌に残る職人の掻き傷（目立て）を観察し、数百年受け継がれてきた持続可能な自然利用の知恵に触れるウォーキングは、心洗われる知的好奇心と深い癒やしをもたらします。
@@ -123,9 +121,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  漆器ギャラリーを備えた名宿で、本物の器の手触りと美食に酔いしれる
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">漆器ギャラリーを備えた名宿で、本物の器の手触りと美食に酔いしれる</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 漆林を抱く地域周辺には、館内に貴重な漆器コレクションやギャラリーを併設し、食事の器にも地元の作家物が惜しみなく使われる宿が点在しています。前沢牛や岩手短角牛、会津地鶏、丹波黒豆や地元の山菜。温かい料理が冷めにくく口当たりが吸い付くように優しい本物の漆器で味わう料理は、素材本来の旨味を何倍にも引き立ててくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  八幡平の秘湯や喜多方の名湯、日本三景を望む静寂のリゾートステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">八幡平の秘湯や喜多方の名湯、日本三景を望む静寂のリゾートステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 安比八幡平の豊かな自然に包まれ美食と癒やしの空間を誇る「四季館 彩冬」、会津喜多方の奥座敷で塩分を含み身体が芯から温まる熱塩温泉の「山形屋」、そして天橋立の廻旋橋を目の前に望み文人たちに愛された「対橋楼」。自然の静けさと極上のおもてなしに満ちた宿で過ごす夜は、日頃のストレスを完璧にリセットしてくれます。
@@ -181,9 +175,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 岩手県 八幡平市赤坂田254-9</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    安比八幡平の食の宿　四季館　彩冬
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">安比八幡平の食の宿　四季館　彩冬</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「朝食のクオリティーが凄い部屋、大浴場ともにお風呂はとても寛げます。夕食は、鮑、ステーキ、しゃぶしゃぶの3品をセレクトするプランでしたが、全体的に量が多いので、完食するのに大変でした。朝食のブッ…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 福島県 喜多方市熱塩加納町熱塩字北平田甲347番地2</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    創作料理が自慢の宿　会津　喜多方　熱塩温泉　山形屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">創作料理が自慢の宿　会津　喜多方　熱塩温泉　山形屋</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事は美味しくロケーションも最高夕朝食共に美味しかった。と思いました。ロケーションはゆっくりするには最適で…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 宮津市文珠471</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    天橋立温泉　対橋楼
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">天橋立温泉　対橋楼</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事と眺望に満足、また利用したい夕食も朝食も美味しく食べ過ぎてしまいました。お風呂が狭くて入った時は混雑してました。お部屋からの眺望は橋が見え、船が通る時の旋回も見ることができました。…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】安比八幡平の食の宿 四季館 彩冬を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】安比八幡平の食の宿 四季館 彩冬を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と安比八幡平の食の宿 四季館 彩冬の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と安比八幡平の食の宿 四季館 彩冬の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

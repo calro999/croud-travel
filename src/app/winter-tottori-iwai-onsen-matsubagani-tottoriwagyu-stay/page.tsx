@@ -409,9 +409,7 @@ export default function TottoriIwaiUradomeWinterPage() {
               <Landmark className="w-4 h-4 text-sky-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              本場鳥取松葉ガニと山陰最古の湯かむり温泉を満喫する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">本場鳥取松葉ガニと山陰最古の湯かむり温泉を満喫する名宿</h2>
           </div>
 
           <div className="space-y-10">
@@ -428,9 +426,7 @@ export default function TottoriIwaiUradomeWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>鳥取県岩美町・鳥取市エリア</span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3 shrink-0">
                       <div className="flex items-center gap-1 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200/60 text-amber-900 text-xs font-bold">
@@ -519,17 +515,13 @@ export default function TottoriIwaiUradomeWinterPage() {
               <Calendar className="w-4 h-4 text-sky-800" />
               11月・12月おすすめ1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              解禁松葉ガニと山陰最古の湯かむり・世界ジオパークを巡る冬旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">解禁松葉ガニと山陰最古の湯かむり・世界ジオパークを巡る冬旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-sky-700" />
-                【1日目】鳥取砂丘散策と解禁松葉ガニフルコース
-              </h3>
+              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-sky-700" />
+                【1日目】鳥取砂丘散策と解禁松葉ガニフルコース</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-sky-600 shrink-0 mt-1" />
@@ -555,10 +547,8 @@ export default function TottoriIwaiUradomeWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-sky-700" />
-                【2日目】世界ジオパーク浦富海岸と海産市場めぐり
-              </h3>
+              <h3 className="font-bold text-sky-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-sky-700" />
+                【2日目】世界ジオパーク浦富海岸と海産市場めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-sky-600 shrink-0 mt-1" />
@@ -588,27 +578,21 @@ export default function TottoriIwaiUradomeWinterPage() {
               <ShoppingBag className="w-4 h-4 text-sky-800" />
               初冬の因幡・岩美・おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              港町と温泉街で手に入れたい初冬の山陰銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">港町と温泉街で手に入れたい初冬の山陰銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                幻のエビ「モサエビ」と浜茹で松葉ガニ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                幻のエビ「モサエビ」と浜茹で松葉ガニ</h3>
               <p>
                 地元以外では滅多に出回らない幻のエビ「モサエビ（クロザコエビ）」。鮮度落ちが早いため産地でしか食べられませんが、その甘みと旨味は甘エビ以上と絶賛されます。また港近くの直売所では、職人が絶妙な塩加減で茹で上げた「浜茹で松葉ガニ」が並び、タグ付きのブランドガニを自宅へ産地直送できます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-sky-700" />
-                因久山焼・岩井窯の民藝陶器と二十世紀梨リキュール
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-sky-700" />
+                因久山焼・岩井窯の民藝陶器と二十世紀梨リキュール</h3>
               <p>
                 鳥取は全国有数の民藝の地。岩美町には「岩井窯」や歴史ある「因久山焼」などの窯元が点在し、用の美を極めた素朴で温かい器はおみやげに最適です。また、鳥取名産の二十世紀梨を使ったフルーティーな梨酒や、冷酒でキリリと冴える地酒「日置桜」「弁天娘」はカニ料理の余韻を深めてくれます。
               </p>
@@ -623,32 +607,24 @@ export default function TottoriIwaiUradomeWinterPage() {
               <ThermometerSun className="w-4 h-4 text-sky-800" />
               初冬の岩井温泉・泉質と湯かむりの歴史徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ1300年続く「湯かむり」が冬の湯治に最も適しているのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ1300年続く「湯かむり」が冬の湯治に最も適しているのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-sky-700" />
-              硫酸塩泉の優れた保湿被膜と血管拡張作用
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-sky-700" />
+              硫酸塩泉の優れた保湿被膜と血管拡張作用</h3>
             <p>
               岩井温泉の泉質は、カルシウム・ナトリウム-硫酸塩泉（低張性中性高温泉）。無色透明でわずかに石膏臭を帯びた源泉は、湯船の底や岩の間から直接自噴する極めてピュアな状態です。硫酸塩泉は「傷の湯」「脳卒中の湯」とも呼ばれ、皮膚の角質をなめらかに保護するだけでなく、末梢血管を拡張して血圧を安定させ、血行を力強く促進します。冬の厳しい寒風にさらされた冷えた体に、これ以上ない温まりをもたらします。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-sky-700" />
-              手ぬぐいを乗せ柄杓で湯を注ぐ「湯かむり」の医学的合理性
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-sky-700" />
+              手ぬぐいを乗せ柄杓で湯を注ぐ「湯かむり」の医学的合理性</h3>
             <p>
               江戸時代から伝わる「湯かむり」は、頭に手ぬぐいを乗せ、柄杓で源泉を頭頂部の百会（ひゃくえ）のツボへ百回以上かぶりながら長湯する独特の入浴作法です。一見ユニークな奇習に見えますが、頭部に温湯をかけ続けることで脳血管の急激な血圧変動を防ぎ、のぼせを予防しながら全身を均一に深部体温まで温めるという、極めて高度な医学的合理性を備えています。先人の知恵が結晶したこの入浴法こそ、岩井温泉が長寿の湯治場として栄えた理由です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-sky-700" />
-              活松葉ガニの鮮度見極めと芳醇な甲羅酒の極意
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-sky-700" />
+              活松葉ガニの鮮度見極めと芳醇な甲羅酒の極意</h3>
             <p>
               初冬の松葉ガニの真骨頂は、網代港や田後港から届く「活ガニ」にあります。甲羅に黒い粒状のカニビル卵が多く付着しているのは、脱皮から長い期間が経過し身入りが極限まで充実している証拠。カニ味噌を半分ほど味わった後の甲羅に、熱々に燗をつけた鳥取の辛口地酒を注ぎ、炭火で軽く炙る「甲羅酒」は、カニの脂と旨味が出汁のように日本酒に溶け出し、冬の山陰でしか味わえない至高の贅沢です。
             </p>
@@ -662,18 +638,14 @@ export default function TottoriIwaiUradomeWinterPage() {
               <HelpCircle className="w-4 h-4 text-sky-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の鳥取・岩井温泉・松葉ガニ旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の鳥取・岩井温泉・松葉ガニ旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

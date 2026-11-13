@@ -363,9 +363,7 @@ export default function YamagataShirabuYonezawaPage() {
               <Mountain className="w-4 h-4" />
               白馬が導いた霊泉と、伊達政宗・上杉鷹山公が愛した豪雪の奥座敷
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。ブナ原生林の雪化粧と滝のように注ぐ自噴名湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。ブナ原生林の雪化粧と滝のように注ぐ自噴名湯</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -386,9 +384,7 @@ export default function YamagataShirabuYonezawaPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              白布温泉＆新高湯温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">白布温泉＆新高湯温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               開湯700年の名物打たせ湯の老舗から茅葺き屋根の歴史宿、雲上の野趣露天まで
             </p>
@@ -423,9 +419,7 @@ export default function YamagataShirabuYonezawaPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -488,35 +482,27 @@ export default function YamagataShirabuYonezawaPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の西吾妻・置賜美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の米沢・白布温泉で味わい尽くす日本三大和牛と冬の郷土料理
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の米沢・白布温泉で味わい尽くす日本三大和牛と冬の郷土料理</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰和牛「米沢牛A5特選すき焼き」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰和牛「米沢牛A5特選すき焼き」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 寒暖差の激しい置賜盆地で長期肥育された「米沢牛」。細かく入ったサシは融点が極めて低く、口に入れた瞬間にとろける極上の脂の甘みと赤身の濃厚な旨味が広がります。伝統の割下で煮絡めるすき焼きは至福の体験です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                置賜名物「米沢牛入り熱々芋煮鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                置賜名物「米沢牛入り熱々芋煮鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 山形の秋から冬の風物詩である芋煮。置賜地方（米沢）の芋煮は、贅沢にも米沢牛をふんだんに使い、醤油仕立ての出汁にねっとりとした里芋、ごぼう、ネギ、こんにゃくの旨味が染み出した心まで温まる冬鍋です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                伝統冷汁と老舗銘酒「東光」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                伝統冷汁と老舗銘酒「東光」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 米沢藩の倹約令から生まれた伝統の郷土料理「冷汁」。干し椎茸や貝柱の出汁で季節の青菜や食用菊（延命楽）を和えた上品な一品。創業四百余年の名蔵・小嶋総本店が醸す地酒「東光」の純米大吟醸と抜群の調和を見せます。
               </p>
@@ -530,17 +516,13 @@ export default function YamagataShirabuYonezawaPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の白布温泉＆新高湯温泉 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の白布温泉＆新高湯温泉 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：新幹線から米沢城下町へ・開湯700年の打たせ湯と米沢牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                米沢駅到着から「上杉神社」散策、白布温泉チェックインと名物湯滝
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">米沢駅到着から「上杉神社」散策、白布温泉チェックインと名物湯滝</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 山形新幹線でJR米沢駅に到着後、まずは上杉謙信公を祀る名刹「上杉神社」や「上杉伯爵邸」で城下町散策と米沢牛ステーキ丼の昼食を堪能。米沢駅から山交バス（白布温泉行き）に乗車し、山間の雪景色を眺めながら白布温泉へ。チェックイン後は、石造りの浴場に毎分1500Lの源泉が轟音を立てて注ぐ名物「打たせ湯（湯滝）」に打たれ、肩や腰の疲れを爽快にリフレッシュ。夕食は霜降り特選A5米沢牛のすき焼きや芋煮汁を地酒「東光」とともに満喫。
               </p>
@@ -550,9 +532,7 @@ export default function YamagataShirabuYonezawaPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：雪見朝露天風呂と天元台絶景・酒蔵見学とつや姫の味覚
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                雪景色を仰ぐ朝風呂から「天元台高原ロープウェイ」、酒蔵見学へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">雪景色を仰ぐ朝風呂から「天元台高原ロープウェイ」、酒蔵見学へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、大樽川渓谷を見下ろす雪見露天風呂で身体を目覚めさせ、朝食には山形県産特A米「つや姫」と熱々の味噌汁を味わってチェックアウト。天元台高原ロープウェイで白銀の樹氷原や雲海を望む空中散歩を楽しんだ後、米沢市街地の老舗「東光の酒蔵」で歴史ある酒蔵見学とお土産選び。米沢名物の米沢ラーメンを味わい、新幹線で心地よい余韻とともに帰路へ。
               </p>
@@ -566,15 +546,11 @@ export default function YamagataShirabuYonezawaPage() {
             <Snowflake className="w-4 h-4" />
             11月・12月の気候・雪道運転・服装完全ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の米沢・白布温泉ドライブの注意点と寒冷地対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の米沢・白布温泉ドライブの注意点と寒冷地対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Clock className="w-4 h-4 text-sky-700" />
-                標高900mの気温とおすすめの防寒着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Clock className="w-4 h-4 text-sky-700" />
+                標高900mの気温とおすすめの防寒着</h3>
               <p>
                 11月中旬の最高気温は6〜8℃前後、朝晩は0℃を下回ります。12月に入ると日中でも氷点下の真冬日が増加し、降雪量が一気に増します。
               </p>
@@ -584,10 +560,8 @@ export default function YamagataShirabuYonezawaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                雪道運転と西吾妻スカイバレー通行止め
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                雪道運転と西吾妻スカイバレー通行止め</h3>
               <p>
                 米沢八幡原ICから白布温泉までは除雪が行われますが、完全な圧雪・凍結路面となります。11月上旬以降は4WD車に高性能スタッドレスタイヤを装着して訪れてください。
               </p>
@@ -598,10 +572,8 @@ export default function YamagataShirabuYonezawaPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              高温の硫酸塩泉・湯滝の安全な入浴作法
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              高温の硫酸塩泉・湯滝の安全な入浴作法</h3>
             <p>
               白布温泉の源泉は約55〜60℃と高温です。各宿では適温に調整されていますが、湯船に入る前には必ず入念にかけ湯を行い、急激な血圧変動を防ぎましょう。
             </p>
@@ -617,16 +589,12 @@ export default function YamagataShirabuYonezawaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の白布温泉＆新高湯温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の白布温泉＆新高湯温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -638,10 +606,8 @@ export default function YamagataShirabuYonezawaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい山形・置賜地方の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい山形・置賜地方の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の蔵王連峰や米沢の銘醸ワイン、極上のブランド和牛を味わう冬旅ガイド
             </p>
@@ -653,9 +619,7 @@ export default function YamagataShirabuYonezawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・赤湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                赤湯温泉の老舗宿と米沢牛・地ワイン
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">赤湯温泉の老舗宿と米沢牛・地ワイン</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 開湯920年の美肌湯と高畠ワイナリー、本場米沢牛ステーキを堪能する大人の冬旅。
               </p>
@@ -666,9 +630,7 @@ export default function YamagataShirabuYonezawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・小野川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                小野小町ゆかりの美肌湯と米沢牛すき焼き
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">小野小町ゆかりの美肌湯と米沢牛すき焼き</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 ラジウム豊富な美肌温泉と名物豆もやしラーメン、熱々の米沢牛すき焼きを味わう休日。
               </p>
@@ -679,9 +641,7 @@ export default function YamagataShirabuYonezawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                蔵王の樹氷スノーモンスターと強酸性硫黄泉
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">蔵王の樹氷スノーモンスターと強酸性硫黄泉</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白銀の樹氷ライトアップと釘をも溶かす強酸性温泉、山形牛すき焼きを堪能。
               </p>

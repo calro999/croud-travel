@@ -248,9 +248,7 @@ export default function FukuokaMunakataPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              神宿る島の祈りと玄界灘の冬の恵み、古代と現代が交差する響灘の宿場
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">神宿る島の祈りと玄界灘の冬の恵み、古代と現代が交差する響灘の宿場</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               世界遺産・宗像三女神への新春初詣と、冬の荒波が育む天然ふぐ・宗像牛の贅
             </p>
@@ -309,9 +307,7 @@ export default function FukuokaMunakataPage() {
         <section className="bg-gradient-to-r from-stone-900 to-blue-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-blue-400 pl-4">
             <span className="text-blue-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
@@ -360,16 +356,12 @@ export default function FukuokaMunakataPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき宗像・岡垣の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき宗像・岡垣の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-blue-600" /> 宗像大社（辺津宮＆神宝館）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Landmark className="w-5 h-5 text-blue-600" /> 宗像大社（辺津宮＆神宝館）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 世界文化遺産の中心。日本神話の三女神を祀る総本宮で、国の重要文化財である本殿・拝殿が荘厳に佇みます。神宝館には沖ノ島から出土した国宝約8万点が収蔵・展示され、古代祭祀の息吹を間近に感じられます。
               </p>
@@ -379,9 +371,7 @@ export default function FukuokaMunakataPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-blue-600" /> さつき松原＆波津海岸
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-blue-600" /> さつき松原＆波津海岸</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 玄界灘沿いに約5kmにわたって広がる白砂青松の名勝。冬の荒波と力強い黒松並木が織りなす景観は圧巻。隣接する岡垣町の波津海岸では冬のサーフィンや海辺のウォーキング、夕暮れのマジックアワーを楽しめます。
               </p>
@@ -391,9 +381,7 @@ export default function FukuokaMunakataPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-blue-600" /> 宮地嶽神社（日本一大注連縄）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-blue-600" /> 宮地嶽神社（日本一大注連縄）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 開運商売繁盛で全国に名高い古社。直径2.6m・重さ3トンの日本一の大注連縄が拝殿に掲げられ、参道の石段最上段から望む玄界灘の冬景色は息を呑む絶景。「光の道」の舞台としても世界的に有名です。
               </p>
@@ -406,9 +394,7 @@ export default function FukuokaMunakataPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の宗像・岡垣を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の宗像・岡垣を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-slate-700">
@@ -431,9 +417,7 @@ export default function FukuokaMunakataPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              冬の宗像・岡垣を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の宗像・岡垣を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               玄海さつき温泉リゾートから全室離れコテージ・白亜のデザイナーズホテルまで
             </p>
@@ -467,9 +451,7 @@ export default function FukuokaMunakataPage() {
                 <div className="md:w-7/12 p-6 sm:p-8 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       <span className="text-sm sm:text-base font-bold text-blue-800">
                         {hotel.price}
                       </span>
@@ -528,9 +510,7 @@ export default function FukuokaMunakataPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-blue-600 pl-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の宗像・岡垣旅行 よくある質問とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の宗像・岡垣旅行 よくある質問とアドバイス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               現地を熟知した専門視点から冬の旅をサポートする5つの疑問に回答
             </p>
@@ -539,10 +519,8 @@ export default function FukuokaMunakataPage() {
           <div className="space-y-6">
             {faqList.map((faq, idx) => (
               <div key={idx} className="border-b border-slate-100 pb-5 last:border-b-0 last:pb-0 space-y-2">
-                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5">
-                  <span className="w-6 h-6 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
-                  {faq.q}
-                </h3>
+                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5"><span className="w-6 h-6 rounded-full bg-blue-100 text-blue-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
+                  {faq.q}</h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-8">
                   {faq.a}
                 </p>
@@ -555,9 +533,7 @@ export default function FukuokaMunakataPage() {
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-10 border border-slate-200 space-y-6">
           <div className="border-l-4 border-slate-600 pl-4">
             <span className="text-slate-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Guides</span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              九州・西日本の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">九州・西日本の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

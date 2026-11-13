@@ -176,9 +176,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
 
       {/* ナビゲーションメニュー */}
       <nav aria-label="目次ナビゲーション" className="bg-gradient-to-r from-violet-50 via-purple-50/50 to-white rounded-2xl p-6 border border-violet-200 shadow-sm">
-        <h2 className="text-lg font-black text-violet-950 mb-3 flex items-center gap-2">
-          <span>🏝️</span> このリゾートガイドの目次
-        </h2>
+        <h2 className="text-lg font-black text-violet-950 mb-3 flex items-center gap-2"><span>️</span> このリゾートガイドの目次</h2>
         <ul className="grid sm:grid-cols-2 gap-2.5 text-xs md:text-sm text-violet-900 font-bold">
           <li>
             <a href="#villa-features" className="hover:text-violet-600 flex items-center gap-1.5 transition">
@@ -209,9 +207,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
           <span className="text-xs font-black tracking-widest text-violet-600 uppercase bg-violet-100 px-3 py-1 rounded-full">
             THE LUXURY VILLA ESSENCE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            なぜ記念日には「大型ホテル」ではなく「プライベートヴィラ」なのか
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">なぜ記念日には「大型ホテル」ではなく「プライベートヴィラ」なのか</h2>
           <p className="text-xs md:text-sm text-slate-600">
             ロビーの混雑やエレベーターの待ち時間は一切なし。チェックインからチェックアウトまで、二人きりの完全な隠れ家が手に入ります。
           </p>
@@ -232,9 +228,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
                     {feat.accent}
                   </span>
                 </div>
-                <h3 className="text-base font-bold text-slate-900 leading-snug">
-                  {feat.title}
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 leading-snug">{feat.title}</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   {feat.desc}
                 </p>
@@ -248,9 +242,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
       <section id="villa-hotels" className="space-y-8">
         <div className="border-l-4 border-violet-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-violet-600 tracking-wider">EXCLUSIVE VILLAS & RESORTS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            宮古島 プライベートプール＆絶景を誇る最高峰ヴィラ
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">宮古島 プライベートプール＆絶景を誇る最高峰ヴィラ</h2>
           <p className="text-xs md:text-sm text-slate-600">
             楽天トラベルで予約可能な、記念日・ハネムーン特典が充実した大人の隠れ家ヴィラです。
           </p>
@@ -312,9 +304,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
                       ) : null}
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-violet-700 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-violet-700 transition">{hotel.hotelName}</h3>
 
                     {specialText ? (
                       <p className="text-xs md:text-sm text-slate-700 leading-relaxed bg-violet-50/60 p-3.5 rounded-xl border border-violet-100">
@@ -362,9 +352,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
           <span className="text-xs font-black tracking-widest text-violet-300 uppercase bg-violet-900/80 px-3 py-1 rounded-full border border-violet-500/30">
             LUXURY STAY SCHEDULE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">
-            プールヴィラで過ごす至高の記念日ステイ時間割
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">プールヴィラで過ごす至高の記念日ステイ時間割</h2>
           <p className="text-xs md:text-sm text-violet-200/80">
             チェックインから星空ジェットバス、フローティング朝食までの極上タイムライン。
           </p>
@@ -379,9 +367,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
                   <span className="text-violet-300 font-mono font-black text-xs md:text-sm">
                     {step.time}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-white">
-                    {step.headline}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-white">{step.headline}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-violet-100/80 leading-relaxed">
                   {step.detail}
@@ -396,9 +382,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
       <section id="budget-guides" className="bg-white rounded-3xl p-6 md:p-8 border border-violet-200 shadow-sm space-y-6">
         <div className="space-y-1">
           <span className="text-xs font-bold text-violet-600">TRIP PLANNING</span>
-          <h2 className="text-xl md:text-2xl font-black text-slate-900">
-            沖縄・宮古島旅行の予算＆日程計画ガイド
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-slate-900">沖縄・宮古島旅行の予算＆日程計画ガイド</h2>
           <p className="text-xs md:text-sm text-slate-600">
             航空券やレンタカー代を含めたトータル旅費や、何泊するのが最適かを詳しく解説しています。
           </p>
@@ -412,9 +396,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
             <div className="text-xs font-bold text-violet-600 mb-1 flex items-center gap-1">
               <span>✈️</span> 旅費・予算シミュレーション
             </div>
-            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">
-              【沖縄旅行 費用】2泊3日・3泊4日でいくら？航空券・ホテル・レンタカーの全予算
-            </h3>
+            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">【沖縄旅行 費用】2泊3日・3泊4日でいくら？航空券・ホテル・レンタカーの全予算</h3>
             <p className="text-xs text-slate-500 mt-2 line-clamp-2">
               シーズン別の航空券相場から、リゾートホテル宿泊費、アクティビティ代までリアルな費用内訳を大公開。
             </p>
@@ -427,9 +409,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
             <div className="text-xs font-bold text-violet-600 mb-1 flex items-center gap-1">
               <span>📅</span> 泊数＆スケジュール設計
             </div>
-            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">
-              【沖縄旅行 何泊がベスト？】2泊3日〜4泊5日のモデルコースと費用総額まとめ
-            </h3>
+            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-violet-700 transition">【沖縄旅行 何泊がベスト？】2泊3日〜4泊5日のモデルコースと費用総額まとめ</h3>
             <p className="text-xs text-slate-500 mt-2 line-clamp-2">
               宮古島・離島巡りやのんびりヴィラ滞在に最適な宿泊数と、失敗しない旅程の組み立て方を徹底アドバイス。
             </p>
@@ -439,9 +419,7 @@ export default function OkinawaLuxuryAnniversaryResortGuidePage() {
 
       {/* サプライズ＆プロポーズ成功のポイント */}
       <section className="bg-slate-50 rounded-3xl p-6 md:p-8 border border-slate-200 space-y-6">
-        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">
-          <span>💍</span> ヴィラでのプロポーズ・記念日サプライズを成功させる秘訣
-        </h2>
+        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">ヴィラでのプロポーズ・記念日サプライズを成功させる秘訣</h2>
 
         <div className="grid md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
           <div className="bg-white p-4 rounded-xl border border-slate-200 space-y-1">

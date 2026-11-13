@@ -259,9 +259,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  香取・佐原・銚子 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">香取・佐原・銚子 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -284,9 +282,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    佐原商家町ホテルＮＩＰＰＯＮＩＡ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">佐原商家町ホテルＮＩＰＰＯＮＩＡ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     小江戸佐原の国登録有形文化財・歴史的商家に泊まる分散型ラグジュアリーホテル
                   </p>
@@ -348,9 +344,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルルートイン香取佐原駅前
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルルートイン香取佐原駅前</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR佐原駅徒歩1分！旅人の湯天然ラジウム人工温泉と充実の無料朝食バイキング
                   </p>
@@ -415,9 +409,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    犬吠埼潮の湯温泉　犬吠埼観光ホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">犬吠埼潮の湯温泉　犬吠埼観光ホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     犬吠埼の波打ち際に建つ絶景宿・海一望の露天風呂と銚子港直送金目鯛料理
                   </p>
@@ -482,9 +474,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     犬吠埼の白亜の灯台を望むパノラマ温泉リゾート・黒潮の湯と多彩なリフレッシュ空間
                   </p>
@@ -549,9 +539,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    別邸　海と森
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">別邸　海と森</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     伏流水とクスノキの深森に抱かれた離れの隠れ家・全室客室露天風呂付き極上ステイ
                   </p>
@@ -627,10 +615,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・特急：JR東京駅よりJR総武本線・成田線特急「あやめ祭り」「しおさい」等、または総武快速・成田線快速で佐原駅まで約1時間40分。香取神宮へは佐原駅よりタクシー約10分、または初詣期間運行の臨時バスで約15分。銚子・犬吠埼へは佐原駅からJR成田線・総武本線で銚子駅へ約45分、銚子電鉄に乗り換えて犬吠駅まで約18分。</p>
@@ -645,9 +631,7 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の香取・佐原・銚子旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の香取・佐原・銚子旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <details className="group bg-white rounded-xl border border-stone-200/80 overflow-hidden">
             <summary className="p-4 text-xs sm:text-sm font-bold text-stone-900 cursor-pointer flex items-center justify-between list-none">

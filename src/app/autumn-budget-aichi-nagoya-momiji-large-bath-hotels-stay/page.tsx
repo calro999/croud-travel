@@ -55,9 +55,7 @@ export default function NagoyaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            市内中心部の紅葉美と「名古屋めし」をコスパ良く楽しむ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">市内中心部の紅葉美と「名古屋めし」をコスパ良く楽しむ</h2>
           <p className="mb-4 text-stone-700">
             名古屋の秋の風物詩といえば「東山動植物園の紅葉ライトアップ」。約500本以上のモミジが色づく植物園エリアの奥池や日本庭園では、水鏡に映る夜の紅葉が息を呑む幻想的な世界を作り出します。
           </p>
@@ -69,10 +67,8 @@ export default function NagoyaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！名古屋の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！名古屋の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function NagoyaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.15</span>
                     <span className="text-stone-400 text-xs">(9933件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ─都心の天然温泉─　名古屋クラウンホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">─都心の天然温泉─　名古屋クラウンホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 名古屋駅 / 地下鉄（東山線・鶴舞線）「伏見駅」６番出口より徒歩約５分。ＪＲ「名古屋駅」より車で約５分・徒歩約２０分。
                   </p>
@@ -142,9 +136,7 @@ export default function NagoyaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.09</span>
                     <span className="text-stone-400 text-xs">(3763件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ＡＢホテル名古屋栄
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ＡＢホテル名古屋栄</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（愛知）駅 / 地下鉄東山線・名城線　栄駅１３番出口より徒歩６分、地下鉄名城線　矢場町駅１番出口より徒歩５分　　繁華街まで徒歩圏内
                   </p>
@@ -189,9 +181,7 @@ export default function NagoyaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.07</span>
                     <span className="text-stone-400 text-xs">(731件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    グリーンリッチホテル名古屋錦　人工温泉・二股湯の華
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">グリーンリッチホテル名古屋錦　人工温泉・二股湯の華</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 名古屋駅 / 名古屋駅より車で１０分■丸の内駅から徒歩１分・地下鉄伏見駅から徒歩４分■丸の内ＩＣより車で５分■
                   </p>
@@ -236,9 +226,7 @@ export default function NagoyaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.19</span>
                     <span className="text-stone-400 text-xs">(505件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル・アンドルームス名古屋栄
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル・アンドルームス名古屋栄</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 久屋大通駅 / 名古屋市営地下鉄名城線・桜通線「久屋大通駅」２A出口より徒歩５分
                   </p>
@@ -283,9 +271,7 @@ export default function NagoyaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.14</span>
                     <span className="text-stone-400 text-xs">(2676件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルルートイン名古屋栄
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルルートイン名古屋栄</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（愛知）駅 / 地下鉄東山線　栄駅１２番出口より徒歩約10分／名古屋高速　東新町インターより車で約２分 　新栄・鶴舞からも至近！
                   </p>
@@ -330,9 +316,7 @@ export default function NagoyaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の名古屋×格安：東山動植物園の紅葉ライトアップと名古屋めし！大浴場付き1泊3,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function NagoyaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の名古屋×格安エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の名古屋×格安エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

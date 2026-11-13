@@ -301,9 +301,7 @@ export default function FukuiWakasaFuguWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              日本海の冷海水が生み出す奇跡の弾力「若狭ふぐ」と、新幹線直通で沸く敦賀・若狭湾の冬
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">日本海の冷海水が生み出す奇跡の弾力「若狭ふぐ」と、新幹線直通で沸く敦賀・若狭湾の冬</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function FukuiWakasaFuguWinterPage() {
               <Sparkles className="w-4 h-4 text-teal-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              若狭湾・三方五湖・敦賀の冬絶景と美食を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">若狭湾・三方五湖・敦賀の冬絶景と美食を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function FukuiWakasaFuguWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function FukuiWakasaFuguWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の若狭湾・三方五湖・敦賀 2泊3日美食モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の若狭湾・三方五湖・敦賀 2泊3日美食モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：北陸新幹線で敦賀駅へ・気比神宮参拝と若狭湾オーシャンビュー温泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：北陸新幹線で敦賀駅へ・気比神宮参拝と若狭湾オーシャンビュー温泉</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東京または関西から敦賀駅に到着。駅前でレンタカーを借り、北陸道総鎮守・氣比神宮へ。日本三大木造大鳥居をくぐり、清らかな空気の中で旅の安全を祈願。昼食は敦賀港近くの「日本海さかな街」で獲れたての越前がにや敦賀真鯛の海鮮丼を堪能。午後は美浜方面へドライブし、若狭湾の絶景海辺宿へチェックイン。日本海に沈む冬の夕陽を露天風呂から眺め、夕食は厚切りの若狭ふぐてっさと熱々のてっちりに舌鼓。
               </p>
@@ -475,9 +465,7 @@ export default function FukuiWakasaFuguWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：レインボーライン山頂公園の天空足湯と水月湖畔の静謐ステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：レインボーライン山頂公園の天空足湯と水月湖畔の静謐ステイ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の温泉を満喫後、三方五湖レインボーラインへ。リフトで山頂公園へ登り、冬の澄んだ大気の中で五色の湖面と若狭湾の360度大パノラマを「天空の足湯」から一望。続いて「福井県年縞博物館」を見学し、7万年分の神秘的な縞模様の地層に感動。午後は水月湖畔の温泉旅館へ。静かな湖畔の遊歩道を散策し、夕暮れには美肌のきらら温泉で温まります。夜は越前がに一杯丸ごとと若狭ふぐの豪華競演会席を地酒早瀬浦とともに味わいます。
               </p>
@@ -486,9 +474,7 @@ export default function FukuiWakasaFuguWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：小浜の国宝古刹めぐり・敦賀赤レンガ倉庫とお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：小浜の国宝古刹めぐり・敦賀赤レンガ倉庫とお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の静かな水月湖を眺めながらの朝食後、若狭小浜へ。国宝の本堂と三重塔が雪に映える「明通寺」を参拝し、伝統の若狭塗箸の手作り体験。昼食は小浜名物の焼き鯖寿司や冬の寒うなぎ重を堪能。午後は敦賀市街へ戻り、明治の風情漂う「敦賀赤レンガ倉庫」でジオラマ館を見学。敦賀駅前でお土産の小鯛笹漬けや羽二重餅を購入し、新幹線または特急で帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function FukuiWakasaFuguWinterPage() {
             <ThermometerSun className="w-4 h-4 text-teal-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の若狭・敦賀を快適にドライブするための気候・路面情報
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の若狭・敦賀を快適にドライブするための気候・路面情報</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【服装：海風と湖畔の冷え込み対策】</span>
@@ -528,26 +512,20 @@ export default function FukuiWakasaFuguWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               若狭・敦賀の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              御食国（みけつくに）の誇りと海が育んだ逸品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">御食国（みけつくに）の誇りと海が育んだ逸品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                小浜名産「小鯛の笹漬け」と香ばしい「焼き鯖寿司」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                小浜名産「小鯛の笹漬け」と香ばしい「焼き鯖寿司」</h3>
               <p>
                 古代から朝廷に海の幸を献上してきた「御食国・若狭」。レンコダイの幼魚を三枚におろし、塩と米酢、昆布、笹の葉で漬け込んだ「小鯛の笹漬け」は、爽やかな酸味と繊細な旨みが広がる若狭の伝統珍味です。また、肉厚の脂が乗った鯖を香ばしく焼き上げ、酢飯と合わせた「焼き鯖寿司」は駅弁や手土産の王道として全国的な人気を誇ります。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                若狭の銘酒「早瀬浦」と伝統工芸「若狭塗箸」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                若狭の銘酒「早瀬浦」と伝統工芸「若狭塗箸」</h3>
               <p>
                 三方五湖の美浜町・早瀬浦漁港に蔵を構える三宅彦右衛門酒造の「早瀬浦」。日本海の荒波を思わせる骨太でキレのある辛口純米酒は、若狭ふぐのてっさや越前がにの濃厚な甘みと完璧に調和します。また、小浜市の伝統工芸「若狭塗箸」は、貝殻や卵殻を漆に埋め込んで研ぎ出す優美な文様が特徴で、旅の記念や大切な人への贈り物に選ばれています。
               </p>
@@ -562,27 +540,21 @@ export default function FukuiWakasaFuguWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               若狭湾と三方五湖ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ水月湖の「年縞」は世界の年代標準となり、若狭湾はフグの名産地となったのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ水月湖の「年縞」は世界の年代標準となり、若狭湾はフグの名産地となったのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-teal-700" />
-                奇跡の湖・水月湖が刻んだ7万年のタイムカプセル「年縞」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-teal-700" />
+                奇跡の湖・水月湖が刻んだ7万年のタイムカプセル「年縞」</h3>
               <p>
                 三方五湖の水月湖は、直接注ぎ込む大きな川がなく土砂の流入が少ないこと、湖底に酸素のない無酸素層が形成され底生生物が生息しないこと、断層運動によって湖底が沈降し続けていることという3つの奇跡的条件が重なっています。これにより、春のプランクトンの死骸（白）と秋〜冬の土砂（黒）が乱されることなく交互に堆積し、過去7万年にわたる45メートルの縞模様「年縞」を形成。現在、考古学や古気候学における「世界標準の年代測定目盛り（時計）」として国際的に採用されています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-teal-700" />
-                リアス海岸の深い入江と対馬暖流・雪解け水の黄金バランス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-teal-700" />
+                リアス海岸の深い入江と対馬暖流・雪解け水の黄金バランス</h3>
               <p>
                 若狭湾は複雑に入り組んだリアス海岸によって天然の良港が多く、外海の激しい波浪を遮る静かな入江が点在します。そこに対馬暖流の豊かな栄養塩と、白山山系や周囲の山々からの冷たい伏流水・雪解け水が注ぎ込みます。この低水温が冬場にトラフグの運動量を抑制し、じっくりと旨みアミノ酸を身に蓄えさせるため、天然トラフグにも匹敵する極上の歯ごたえと甘みを持つ「若狭ふぐ」が誕生するのです。
               </p>
@@ -597,18 +569,14 @@ export default function FukuiWakasaFuguWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の若狭・三方五湖・敦賀旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の若狭・三方五湖・敦賀旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

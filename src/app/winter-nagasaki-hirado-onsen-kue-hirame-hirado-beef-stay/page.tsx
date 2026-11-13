@@ -220,12 +220,10 @@ export default function WinterNagasakiHiradoPage() {
             11月・12月 冬の美食＆歴史探訪特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月長崎・平戸温泉郷】初冬黒潮絶景と天然クエ＆寒ヒラメ
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月長崎・平戸温泉郷】初冬黒潮絶景と天然クエ＆寒ヒラメ
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               幻の高級魚クエ鍋＆特選平戸和牛会席を堪能する城下町名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、長崎県北西端の平戸温泉郷は、平戸瀬戸の激流が育む冬の味覚の王様「天然クエ（アラ）」と「寒ヒラメ」が最盛期を迎える最高の旬を迎えます。日本初の西洋貿易港として栄えたオランダ商館跡やカトリック教会、平戸城が織りなす和洋折衷の歴史散策を楽しみ、美肌効果の高い重曹泉の露天風呂から海峡を行き交う船を眺める極上の時間。幻の高級魚クエ鍋、透き通るヒラメのお造り、特選平戸和牛の陶板ステーキを味わう厳選5宿を徹底解説します。
@@ -259,9 +257,7 @@ export default function WinterNagasakiHiradoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Sparkle className="w-6 h-6 text-teal-700" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              歴史ロマンと黒潮の恩恵｜11月・12月に平戸温泉郷を訪れるべき理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">歴史ロマンと黒潮の恩恵｜11月・12月に平戸温泉郷を訪れるべき理由</h2>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
             <p>
@@ -312,9 +308,7 @@ export default function WinterNagasakiHiradoPage() {
             <span className="text-xs sm:text-sm font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
               Selected 5 Historic & Ocean View Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の平戸温泉郷を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の平戸温泉郷を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               平戸城を見渡す格式ある老舗旅館から、ウミガメが泳ぐ海底温泉、豪華バイキングと平戸大橋パノラマを誇るリゾートまで、冬の平戸旅に最適な宿を厳選。
             </p>
@@ -354,9 +348,7 @@ export default function WinterNagasakiHiradoPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                     <p className="text-xs text-slate-500 flex items-start gap-1">
                       <MapPin className="w-3.5 h-3.5 text-teal-700 flex-shrink-0 mt-0.5" />
@@ -425,9 +417,7 @@ export default function WinterNagasakiHiradoPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】平戸城とオランダ商館・天然クエ鍋を堪能する1泊2日歴史美食モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】平戸城とオランダ商館・天然クエ鍋を堪能する1泊2日歴史美食モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -456,34 +446,26 @@ export default function WinterNagasakiHiradoPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              平戸の初冬グルメ完全ガイド！クエ・寒ヒラメ・平戸和牛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">平戸の初冬グルメ完全ガイド！クエ・寒ヒラメ・平戸和牛</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                天然クエ鍋（アラ料理）
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                天然クエ鍋（アラ料理）</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 『フグより旨い』と食通を唸らせる幻の高級魚クエ。初冬は皮下にたっぷりと良質な脂を蓄え、熱々の出汁で煮るクエ鍋は、引き締まった白身の旨味とプルプルとしたゼラチン質が溶け合う至高の逸品です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-sky-300" />
-                平戸名物・寒ヒラメ活き造り
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Waves className="w-4 h-4 text-sky-300" />
+                平戸名物・寒ヒラメ活き造り</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 11月〜12月に平戸港へ大量に水揚げされる寒ヒラメ。平戸瀬戸の急流で育ったヒラメは、薄造りにしても抜群の弾力と上品な甘みがあり、自家製ポン酢や肝醤油で味わう贅沢は産地ならではの醍醐味です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                特選平戸和牛ステーキ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                特選平戸和牛ステーキ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 ミネラル豊富な海風が吹き抜ける平戸の牧草地で育てられる「平戸和牛」。全国の銘柄牛の素牛としても名高く、肉質のキメが細かく融点の低い上品なサシが特徴。陶板ステーキでジューシーに楽しめます。
               </p>
@@ -495,9 +477,7 @@ export default function WinterNagasakiHiradoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Footprints className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              11月・12月の平戸観光！気候・服装・散策のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の平戸観光！気候・服装・散策のアドバイス</h2>
           </div>
           <div className="space-y-4 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -505,19 +485,15 @@ export default function WinterNagasakiHiradoPage() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ThermometerSun className="w-4 h-4 text-teal-700" />
-                  防風性の高いアウターを用意
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                  防風性の高いアウターを用意</h4>
                 <p className="text-slate-600">
                   海風を遮る防風ジャケットやウールコート、ダウンがおすすめ。朝晩の冷え込みに備えてストールや薄手の手袋があると、夜の平戸城ライトアップ散策も快適です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-teal-700" />
-                  歩きやすい靴での散策
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                  歩きやすい靴での散策</h4>
                 <p className="text-slate-600">
                   平戸城や教会群、寺院が並ぶ坂道は石畳や階段が多いため、クッション性の高いスニーカーやフラットシューズが最適です。
                 </p>
@@ -530,9 +506,7 @@ export default function WinterNagasakiHiradoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Map className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              平戸温泉郷へのアクセス情報
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">平戸温泉郷へのアクセス情報</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
@@ -562,18 +536,14 @@ export default function WinterNagasakiHiradoPage() {
             <HelpCircle className="w-6 h-6 text-teal-800" />
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の平戸温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の平戸温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +556,7 @@ export default function WinterNagasakiHiradoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の九州＆海鮮・温泉特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の九州＆海鮮・温泉特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -596,9 +564,7 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">長崎・雲仙</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                雲仙温泉の初冬地獄白煙と普賢岳霧氷・長崎和牛宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">雲仙温泉の初冬地獄白煙と普賢岳霧氷・長崎和牛宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 立ち込める地獄の湯けむりと白濁硫黄泉・島原名物を堪能。
               </p>
@@ -608,9 +574,7 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・武雄</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                武雄温泉の歴史楼門と弱アルカリ美肌湯・佐賀牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">武雄温泉の歴史楼門と弱アルカリ美肌湯・佐賀牛会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 辰野金吾設計の朱塗り楼門と1300年の名湯を楽しむ冬旅。
               </p>
@@ -620,9 +584,7 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">佐賀・嬉野</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                嬉野温泉の日本三大美肌の湯と名物温泉湯豆腐宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">嬉野温泉の日本三大美肌の湯と名物温泉湯豆腐宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 とろとろの重曹泉と熱々とろける温泉湯豆腐で温まるひととき。
               </p>
@@ -632,9 +594,7 @@ export default function WinterNagasakiHiradoPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・天草</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                天草下田温泉の東シナ海夕陽絶景と極上冬海鮮宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">天草下田温泉の東シナ海夕陽絶景と極上冬海鮮宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 茜色に染まる夕陽と天草の車海老・地魚会席を満喫。
               </p>

@@ -209,9 +209,7 @@ export default function KyotoHubPage() {
               #京都観光 #京都観光モデルコース #京都1泊2日 #京都2泊3日
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-            京都観光モデルコース ｜ 1泊2日＆2泊3日で巡る王道・車なしルート
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都観光モデルコース ｜ 1泊2日＆2泊3日で巡る王道・車なしルート</h2>
           <p className="text-xs text-stone-700 leading-relaxed font-medium">
             初めての京都旅行からリピーターまで。渋滞を避けて電車と徒歩でスムーズに名所を制覇する鉄板スケジュール。
           </p>
@@ -221,9 +219,7 @@ export default function KyotoHubPage() {
           {/* 1泊2日コース */}
           <div className="p-6 rounded-2xl bg-amber-50/50 border border-amber-300/40 space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-amber-200 pb-3">
-              <h3 className="text-base font-black text-amber-950 flex items-center gap-2">
-                <span>📍</span> <span>王道！京都1泊2日モデルコース（東山・祇園・嵐山・伏見稲荷）</span>
-              </h3>
+              <h3 className="text-base font-black text-amber-950 flex items-center gap-2"><span>王道！京都1泊2日モデルコース（東山・祇園・嵐山・伏見稲荷）</span></h3>
               <span className="text-[10px] font-extrabold bg-amber-200 text-amber-900 px-3 py-0.5 rounded-full">
                 初心者・車なし推奨
               </span>
@@ -258,9 +254,7 @@ export default function KyotoHubPage() {
 
           {/* 2泊3日コース */}
           <div className="p-6 rounded-2xl bg-rose-50/40 border border-rose-200 space-y-3">
-            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-2">
-              <span>🧭</span> <span>贅沢満喫！京都2泊3日モデルコース（金閣寺・銀閣寺・宇治・温泉宿ステイ）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-2"><span>贅沢満喫！京都2泊3日モデルコース（金閣寺・銀閣寺・宇治・温泉宿ステイ）</span></h3>
             <p className="text-xs text-stone-700 leading-relaxed">
               1日目・2日目の主要観光に加え、3日目は宇治（世界遺産・平等院鳳凰堂と宇治茶本場の茶房巡り）や、北山エリア（金閣寺・龍安寺・北野天満宮）、あるいは大原三千院・貴船神社まで足を伸ばす贅沢なゆったりプラン。2泊目は嵐山温泉や湯の花温泉の温泉旅館に宿泊するのが至高です。
             </p>
@@ -279,9 +273,7 @@ export default function KyotoHubPage() {
               #京都カップル旅行 #京都子連れ旅行 #京都女子旅
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-            京都 カップル旅行・子連れ旅行・女子旅 ｜ 同行者別おすすめプラン
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都 カップル旅行・子連れ旅行・女子旅 ｜ 同行者別おすすめプラン</h2>
           <p className="text-xs text-stone-700 leading-relaxed font-medium">
             大切なパートナーとの記念日デート、子どもが喜ぶ体験型ファミリー旅行、友達同士で楽しむ写真映え女子旅。
           </p>
@@ -294,9 +286,7 @@ export default function KyotoHubPage() {
               <span className="text-[10px] font-extrabold text-rose-800 bg-white border border-rose-300 px-2.5 py-0.5 rounded-full">
                 👩‍❤️‍👨 京都 カップル旅行・デート
               </span>
-              <h3 className="text-sm font-bold text-rose-950">
-                風情ある小路と露天風呂付き客室で過ごす大人の記念日
-              </h3>
+              <h3 className="text-sm font-bold text-rose-950">風情ある小路と露天風呂付き客室で過ごす大人の記念日</h3>
               <p className="text-stone-700 leading-relaxed">
                 鴨川の川床ディナー、祇園白川の夕暮れ散策、嵐山の屋形船、そして夜は客室露天風呂や部屋食のある温泉旅館で二人だけの特別な時間を満喫。
               </p>
@@ -312,9 +302,7 @@ export default function KyotoHubPage() {
               <span className="text-[10px] font-extrabold text-amber-800 bg-white border border-amber-300 px-2.5 py-0.5 rounded-full">
                 👨‍👩‍👧‍👦 京都 子連れ旅行・ファミリー
               </span>
-              <h3 className="text-sm font-bold text-amber-950">
-                梅小路公園エリアや体験型スポットで家族みんなが笑顔に
-              </h3>
+              <h3 className="text-sm font-bold text-amber-950">梅小路公園エリアや体験型スポットで家族みんなが笑顔に</h3>
               <p className="text-stone-700 leading-relaxed">
                 本物のSLが並ぶ「京都鉄道博物館」、イルカショーが楽しい「京都水族館」、和菓子作りや友禅染の体験教室など、子どもが飽きずに楽しめるスポットが満載。
               </p>
@@ -330,9 +318,7 @@ export default function KyotoHubPage() {
               <span className="text-[10px] font-extrabold text-teal-800 bg-white border border-teal-300 px-2.5 py-0.5 rounded-full">
                 👘 京都 女子旅・カフェ巡り
               </span>
-              <h3 className="text-sm font-bold text-teal-950">
-                着物レンタル・映えスイーツ・町家カフェ＆縁結び神社
-              </h3>
+              <h3 className="text-sm font-bold text-teal-950">着物レンタル・映えスイーツ・町家カフェ＆縁結び神社</h3>
               <p className="text-stone-700 leading-relaxed">
                 レトロモダンな着物を着て南禅寺水路閣や八坂庚申堂で記念撮影。町家を改装した隠れ家カフェで本格抹茶スイーツを味わい、よーじやでコスメ選び。
               </p>
@@ -355,9 +341,7 @@ export default function KyotoHubPage() {
               #京都穴場 #京都雨の日 #京都夜観光 #京都紅葉 #京都桜
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-            京都 穴場・雨の日・夜観光・紅葉・桜 ｜ 季節とシーン別の楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都 穴場・雨の日・夜観光・紅葉・桜 ｜ 季節とシーン別の楽しみ方</h2>
           <p className="text-xs text-stone-700 leading-relaxed font-medium">
             混雑を避けた静かな名所から、雨天時の快適スポット、幻想的な夜のライトアップ、四季の絶景まで。
           </p>
@@ -366,9 +350,7 @@ export default function KyotoHubPage() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 text-xs">
           {/* 京都 穴場 */}
           <div className="p-5 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-            <h3 className="text-sm font-bold text-stone-900 flex items-center gap-1.5">
-              <span>🌿</span> <span>京都 穴場スポット（静寂と庭園）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 flex items-center gap-1.5"><span>京都 穴場スポット（静寂と庭園）</span></h3>
             <p className="text-stone-700 leading-relaxed">
               観光客の喧騒から離れた「蓮華寺」の額縁庭園、「源光庵」の悟りの窓と迷いの窓、「詩仙堂」の四季の草花。静かに心洗われる時間を過ごせます。
             </p>
@@ -376,9 +358,7 @@ export default function KyotoHubPage() {
 
           {/* 京都 雨の日 */}
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-200 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>☔</span> <span>京都 雨の日 観光（濡れずに満喫）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>京都 雨の日 観光（濡れずに満喫）</span></h3>
             <p className="text-stone-700 leading-relaxed">
               1001体の観音像が圧巻の「三十三間堂」、アーケードのある「錦市場」での食べ歩き、「京都国立博物館」や「京都駅ビル」のインドア施設が雨の日でも快適。
             </p>
@@ -386,9 +366,7 @@ export default function KyotoHubPage() {
 
           {/* 京都 夜 観光 */}
           <div className="p-5 rounded-2xl bg-indigo-50/50 border border-indigo-200 space-y-2">
-            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5">
-              <span>🌙</span> <span>京都 夜 観光・ライトアップ・夜景</span>
-            </h3>
+            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5"><span>京都 夜 観光・ライトアップ・夜景</span></h3>
             <p className="text-stone-700 leading-relaxed">
               行灯が灯る「祇園白川・花見小路」、東寺の五重塔ライトアップ、京都タワー展望台からの大パノラマ夜景、先斗町の石畳BAR巡りが大人の夜を彩ります。
             </p>
@@ -396,9 +374,7 @@ export default function KyotoHubPage() {
 
           {/* 京都 紅葉 */}
           <div className="p-5 rounded-2xl bg-rose-50/50 border border-rose-200 space-y-2">
-            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5">
-              <span>🍁</span> <span>京都 紅葉（11月中旬〜12月上旬）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5"><span>京都 紅葉（11月中旬〜12月上旬）</span></h3>
             <p className="text-stone-700 leading-relaxed">
               東福寺の通天橋から望む紅葉の雲海、永観堂（禅林寺）の「みかえり阿弥陀」とライトアップ、嵐山トロッコ列車から見下ろす保津峡の錦秋は一生の思い出に。
             </p>
@@ -406,9 +382,7 @@ export default function KyotoHubPage() {
 
           {/* 京都 桜 */}
           <div className="p-5 rounded-2xl bg-pink-50/50 border border-pink-200 space-y-2">
-            <h3 className="text-sm font-bold text-pink-950 flex items-center gap-1.5">
-              <span>🌸</span> <span>京都 桜（3月下旬〜4月上旬）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-pink-950 flex items-center gap-1.5"><span>京都 桜（3月下旬〜4月上旬）</span></h3>
             <p className="text-stone-700 leading-relaxed">
               哲学の道の桜並木トンネル、円山公園の祇園しだれ桜、嵐山渡月橋沿いの桜景色、平安神宮神苑の紅しだれ桜など、春の京都は街全体がピンクに染まります。
             </p>
@@ -416,9 +390,7 @@ export default function KyotoHubPage() {
 
           {/* 京都 グルメ */}
           <div className="p-5 rounded-2xl bg-amber-50/50 border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
-              <span>🍵</span> <span>京都 グルメ・おばんざい・スイーツ</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>京都 グルメ・おばんざい・スイーツ</span></h3>
             <p className="text-stone-700 leading-relaxed">
               朝引き湯葉や名物湯豆腐、出汁の効いた京うどん、旬の京野菜おばんざい、老舗茶商（辻利・中村藤吉）の濃厚抹茶パフェは絶対外せません。
             </p>
@@ -438,9 +410,7 @@ export default function KyotoHubPage() {
                 
               </span>
             </div>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-              京都駅 ホテル ｜ 新幹線・観光アクセス抜群の駅チカ人気宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都駅 ホテル ｜ 新幹線・観光アクセス抜群の駅チカ人気宿</h2>
             <p className="text-xs text-stone-700 leading-relaxed font-medium">
               新幹線改札から徒歩1〜5分圏内。荷物を預けて手ぶら観光に出発できる、口コミ高評価の駅周辺ホテルを楽天トラベル公式APIから直接厳選。
             </p>
@@ -479,9 +449,7 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-stone-600 line-clamp-2">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
@@ -516,9 +484,7 @@ export default function KyotoHubPage() {
                 
               </span>
             </div>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-              京都 朝食付きホテル ｜ おばんざい・和洋ビュッフェが絶賛される宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">京都 朝食付きホテル ｜ おばんざい・和洋ビュッフェが絶賛される宿</h2>
             <p className="text-xs text-stone-700 leading-relaxed font-medium">
               京野菜の小鉢、炊きたて土鍋ご飯、出汁巻き卵など、贅沢な朝食バイキングで一日をスタートできる楽天トラベル人気ホテル。
             </p>
@@ -557,9 +523,7 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-stone-600 line-clamp-2">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
@@ -595,9 +559,7 @@ export default function KyotoHubPage() {
               </span>
             </div>
 
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">
-              京都 温泉旅館 ＆ おすすめ宿（楽天トラベルでリアルタイム空室確認）
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">京都 温泉旅館 ＆ おすすめ宿（楽天トラベルでリアルタイム空室確認）</h2>
 
             <p className="text-xs md:text-sm text-rose-100/90 leading-relaxed font-medium">
               楽天トラベルAPIから直接取得した、京都の温泉旅館・風情ある京町家宿。客室露天風呂や会席料理プランの最安値・空室状況をリアルタイムで確認してご予約いただけます。
@@ -637,9 +599,7 @@ export default function KyotoHubPage() {
                         </span>
                       )}
                     </div>
-                    <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-rose-100/70 line-clamp-2">
                       {hotel.hotelSpecial || hotel.access}
                     </p>
@@ -667,9 +627,7 @@ export default function KyotoHubPage() {
 
       {/* 回遊・関連リンクフッター */}
       <section className="p-8 rounded-3xl bg-rose-50/50 border border-rose-900/10 text-center space-y-4">
-        <h3 className="text-lg font-bold font-journal-serif text-stone-900">
-          京都旅行の準備は整いましたか？
-        </h3>
+        <h3 className="text-lg font-bold font-journal-serif text-stone-900">京都旅行の準備は整いましたか？</h3>
         <p className="text-xs text-stone-600 max-w-xl mx-auto leading-relaxed">
           楽天トラベルの限定クーポンやキャンペーンを活用して、憧れの京都旅行・温泉宿ステイをお得に予約しましょう。
         </p>

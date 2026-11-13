@@ -263,9 +263,7 @@ export default function ShizuokaMishimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Panoramic Vista</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬晴れの霊峰富士を仰ぎ、伊豆国一宮の勝運と日本一深い湾の恵みに酔いしれる
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬晴れの霊峰富士を仰ぎ、伊豆国一宮の勝運と日本一深い湾の恵みに酔いしれる</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               源頼朝が天下を期した古社と、駿河湾の深海魚・寒魚が織りなす冬の饗宴
             </p>
@@ -326,9 +324,7 @@ export default function ShizuokaMishimaPage() {
           <div className="border-b border-slate-200 pb-4 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
             <div>
               <span className="text-sky-600 font-bold text-xs uppercase tracking-wider block">SELECTED ACCOMMODATIONS</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-                冬の三島・沼津を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の三島・沼津を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
               ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
@@ -364,9 +360,7 @@ export default function ShizuokaMishimaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -430,9 +424,7 @@ export default function ShizuokaMishimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三島・沼津を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三島・沼津を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               白銀富士を渡る大吊橋、源頼朝ゆかりの古社初詣、駿河湾深海魚と名湯をめぐる旅
             </p>
@@ -485,25 +477,19 @@ export default function ShizuokaMishimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Winter Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三島・沼津旅を快適に楽しむための気候・富士山眺望・アクセスのアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三島・沼津旅を快適に楽しむための気候・富士山眺望・アクセスのアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                気候と服装・風対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                気候と服装・風対策</h4>
               <p>
                 平野部は太平洋側の温暖な気候ですが、三島スカイウォークなどの高台や沼津港の海岸沿いでは冬の強い西風が吹き抜けます。体感温度がぐっと下がるため、防風性のあるジャケットやマフラー、手袋を着用してください。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-sky-500" />
-                富士山観賞のベストタイミング
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Mountain className="w-4 h-4 text-sky-500" />
+                富士山観賞のベストタイミング</h4>
               <p>
                 午前8時〜11時頃が最も雲が少なくクッキリと富士山が見える時間帯です。午後になると気温上昇に伴い上昇気流で雲が湧きやすくなるため、富士山ビュースポットは午前中に訪れるのが鉄則です。
               </p>
@@ -515,18 +501,14 @@ export default function ShizuokaMishimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三島・沼津観光・気候・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三島・沼津観光・気候・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-sky-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-sky-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -537,10 +519,8 @@ export default function ShizuokaMishimaPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"

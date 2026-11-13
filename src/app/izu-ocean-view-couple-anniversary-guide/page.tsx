@@ -176,9 +176,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
 
       {/* 目次・イントロダクション */}
       <nav aria-label="記事の目次" className="bg-gradient-to-r from-cyan-50 via-teal-50/50 to-white rounded-2xl p-6 border border-cyan-200 shadow-sm">
-        <h2 className="text-lg font-black text-cyan-950 mb-3 flex items-center gap-2">
-          <span>📑</span> この記事のインデックス
-        </h2>
+        <h2 className="text-lg font-black text-cyan-950 mb-3 flex items-center gap-2">この記事のインデックス</h2>
         <ul className="grid sm:grid-cols-2 gap-2.5 text-xs md:text-sm text-cyan-900 font-bold">
           <li>
             <a href="#points" className="hover:text-cyan-600 flex items-center gap-1.5 transition">
@@ -209,9 +207,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
           <span className="text-xs font-black tracking-widest text-cyan-600 uppercase bg-cyan-100 px-3 py-1 rounded-full">
             FOR SPECIAL OCCASION
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            熱海・伊豆で特別な記念日を叶える客室露天風呂選びの極意
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">熱海・伊豆で特別な記念日を叶える客室露天風呂選びの極意</h2>
           <p className="text-xs md:text-sm text-slate-600">
             写真だけで選ぶと「隣から丸見えだった」「海が遠かった」という失敗も。大人のカップル旅で重視すべきチェックリストです。
           </p>
@@ -232,9 +228,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
                     {item.badge}
                   </span>
                 </div>
-                <h3 className="text-base font-bold text-slate-900 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 leading-snug">{item.title}</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   {item.desc}
                 </p>
@@ -248,9 +242,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
       <section id="hotels" className="space-y-8">
         <div className="border-l-4 border-cyan-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 tracking-wider">RECOMMENDED HOTELS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            熱海・伊豆高原 海絶景と美食に酔いしれるカップル向け厳選宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">熱海・伊豆高原 海絶景と美食に酔いしれるカップル向け厳選宿</h2>
           <p className="text-xs md:text-sm text-slate-600">
             楽天トラベルで今すぐ予約可能な、客室露天風呂・オーシャンビュー・記念日プラン対応の名宿です。
           </p>
@@ -312,9 +304,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
                       ) : null}
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-cyan-700 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-cyan-700 transition">{hotel.hotelName}</h3>
 
                     {specialText ? (
                       <p className="text-xs md:text-sm text-slate-700 leading-relaxed bg-cyan-50/60 p-3.5 rounded-xl border border-cyan-100">
@@ -362,9 +352,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
           <span className="text-xs font-black tracking-widest text-cyan-300 uppercase bg-cyan-900/60 px-3 py-1 rounded-full border border-cyan-500/30">
             MODEL ITINERARY
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">
-            相模湾オーシャンビュー宿で過ごす 1泊2日記念日旅
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">相模湾オーシャンビュー宿で過ごす 1泊2日記念日旅</h2>
           <p className="text-xs md:text-sm text-cyan-200/80">
             チェックインから日の出露天まで、パートナーを喜ばせるスマートな過ごし方の時間割です。
           </p>
@@ -379,9 +367,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
                   <span className="text-cyan-300 font-mono font-black text-xs md:text-sm">
                     {step.time}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-white">
-                    {step.spot}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-white">{step.spot}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-cyan-100/80 leading-relaxed">
                   {step.desc}
@@ -396,9 +382,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
       <section id="internal-guides" className="bg-white rounded-3xl p-6 md:p-8 border border-cyan-200 shadow-sm space-y-6">
         <div className="space-y-1">
           <span className="text-xs font-bold text-cyan-600">RELATED GUIDES</span>
-          <h2 className="text-xl md:text-2xl font-black text-slate-900">
-            熱海・伊豆旅行をさらに満喫する関連ガイド
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-slate-900">熱海・伊豆旅行をさらに満喫する関連ガイド</h2>
           <p className="text-xs md:text-sm text-slate-600">
             記念日旅行の交通費計算や日帰りグルメコースもあわせてチェックしておきましょう。
           </p>
@@ -412,9 +396,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
             <div className="text-xs font-bold text-cyan-600 mb-1 flex items-center gap-1">
               <span>💰</span> 費用・交通費詳細
             </div>
-            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">
-              【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用
-            </h3>
+            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">【熱海・伊豆旅行 費用】日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用</h3>
             <p className="text-xs text-slate-500 mt-2 line-clamp-2">
               JR普通列車・新幹線・踊り子号の料金比較から、ランチ海鮮丼や入場料を含めたリアル予算を徹底シミュレーション。
             </p>
@@ -427,9 +409,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
             <div className="text-xs font-bold text-cyan-600 mb-1 flex items-center gap-1">
               <span>♨️</span> 日帰り温泉＆ランチ
             </div>
-            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">
-              【熱海 日帰り温泉＆海鮮ランチおすすめ】絶景露天風呂と獲れたて地魚を堪能する大人の週末リセット旅
-            </h3>
+            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-cyan-700 transition">【熱海 日帰り温泉＆海鮮ランチおすすめ】絶景露天風呂と獲れたて地魚を堪能する大人の週末リセット旅</h3>
             <p className="text-xs text-slate-500 mt-2 line-clamp-2">
               宿泊前後の寄り道にも最適！相模湾を望む立ち寄り露天風呂と金目鯛・アジのたたきが絶品のお食事処まとめ。
             </p>
@@ -439,9 +419,7 @@ export default function IzuOceanViewCoupleAnniversaryGuidePage() {
 
       {/* 予約前チェックリスト＆FAQ */}
       <section className="bg-slate-50 rounded-3xl p-6 md:p-8 border border-slate-200 space-y-6">
-        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">
-          <span>💡</span> カップル旅行・記念日ステイの予約前確認ポイント
-        </h2>
+        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">カップル旅行・記念日ステイの予約前確認ポイント</h2>
 
         <div className="grid md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
           <div className="bg-white p-4 rounded-xl border border-slate-200 space-y-1">

@@ -35,9 +35,7 @@ export default function NextSearchQuestions({
           </span>
           <span className="text-[11px] font-bold text-teal-900/60">旅の疑問を先回り解決</span>
         </div>
-        <h3 className="text-base md:text-xl font-black font-journal-serif text-emerald-950">
-          {title}
-        </h3>
+        <h3 className="text-base md:text-xl font-black font-journal-serif text-emerald-950">{title}</h3>
         <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
           {subtitle}
         </p>
@@ -55,10 +53,8 @@ export default function NextSearchQuestions({
                   {item.badge}
                 </span>
               )}
-              <h4 className="text-xs md:text-sm font-black text-emerald-950 leading-snug flex items-start gap-1.5">
-                <span className="text-teal-800 font-bold shrink-0">Q.</span>
-                <span>{item.question}</span>
-              </h4>
+              <h4 className="text-xs md:text-sm font-black text-emerald-950 leading-snug flex items-start gap-1.5"><span className="text-teal-800 font-bold shrink-0">Q.</span>
+                <span>{item.question}</span></h4>
               <p className="text-xs text-emerald-950/70 leading-relaxed pl-4">
                 {item.answerSnippet}
               </p>

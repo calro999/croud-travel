@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>1200年の祈りと歴史が息づく寺院で、心と身体を整える静寂のひととき</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>1200年の祈りと歴史が息づく寺院で、心と身体を整える静寂のひととき</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             早朝の静まり返った境内に響く読経の声、立ち上る清浄な線香の香り、凛とした朝の空気。寺院に宿泊する「宿坊」体験は、観光地を巡る旅とは一線を画す深い精神的リフレッシュをもたらしてくれます。動物性食材を使わずに旬の野菜や豆腐、乾物で彩られた本格精進料理は、身体に優しく滋養たっぷり。楽天ふるさと納税を活用して、日々の忙しさを手放し自分自身と静かに向き合う極上の宿坊ステイへ。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    朝のお勤め・護摩焚き・阿字観瞑想・写経など非日常の仏教体験
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">朝のお勤め・護摩焚き・阿字観瞑想・写経など非日常の仏教体験</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     宿泊者だけが参加できる早朝の勤行や、僧侶による法話、炎が立ち上る迫力の護摩祈祷など、普段の旅行では味わえない貴重な文化体験がセットになっています。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    胡麻豆腐や季節の山菜・大豆肉を彩り豊かに味わう本格精進料理
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">胡麻豆腐や季節の山菜・大豆肉を彩り豊かに味わう本格精進料理</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     高野山名物の生胡麻豆腐や京都の生麩、職人技が光る繊細な包丁細工の精進料理。身体の内側からデトックスされ、食への感謝が深まります。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    歴史的庭園や重要文化財に囲まれた格式ある和室で過ごす贅沢
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">歴史的庭園や重要文化財に囲まれた格式ある和室で過ごす贅沢</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     小堀遠州作庭の名園を望む客室や、襖絵が彩る重厚な広間など、歴史ある寺院ならではの趣ある空間でゆったりとくつろげます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="koyasan_shukubo" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>和歌山県高野町ふるさと納税：世界遺産高野山・弘法大師開創の霊場に佇む歴史ある名刹宿坊</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>和歌山県高野町ふるさと納税：世界遺産高野山・弘法大師開創の霊場に佇む歴史ある名刹宿坊</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       117ヶ寺が集まる天空の宗教都市・高野山。50以上の宿坊寺院があり、重厚な門構えと美しい日本庭園、毎朝の勤行体験、そして高野豆腐やごま豆腐を贅沢に使った本場精進料理を堪能できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              高野山別格本山　宿坊　西門院
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山別格本山　宿坊　西門院</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               高野山街の中央.お買い物や各所観光に便利な宿坊。手作りごま豆腐と伝統の「精進料理」は好評です。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              高野山　熊谷寺
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山　熊谷寺</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               アットホームなおもてなしを心がけ、満足していただけるよう精一杯御奉仕しております。
                             </p>
@@ -296,9 +280,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              高野山　宿坊　大明王院
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高野山　宿坊　大明王院</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               四季折々の精進料理や総高野槙風呂でおもてなし。美しい庭園を眺めながら当院で四季の高野山をご満喫下さい
                             </p>
@@ -333,10 +315,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="zenkoji_shukubo" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県長野市ふるさと納税：信州善光寺・「お朝事」と「お数珠頂戴」を体験する門前宿坊</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県長野市ふるさと納税：信州善光寺・「お朝事」と「お数珠頂戴」を体験する門前宿坊</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       「一生に一度は善光寺参り」と称される信州の名刹。本堂で行われる毎朝の法要「お朝事」への参列や、住職によるお数珠頂戴を受け、信州の恵みを活かした精進料理に舌鼓を打ちます。
                     </p>
@@ -364,9 +343,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              善光寺宿坊　兄部坊
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">善光寺宿坊　兄部坊</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               善光寺境内の宿坊。趣ある空間と自慢の精進料理でおもてなし。翌朝は善光寺の「お朝事法要」へご案内。
                             </p>
@@ -416,9 +393,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              善光寺宿坊　淵之坊
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">善光寺宿坊　淵之坊</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               善光寺境内表参道沿いにある宿坊。介助用エレベーターご利用できます。
                             </p>
@@ -468,9 +443,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              信州善光寺　薬王院
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">信州善光寺　薬王院</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               善光寺本堂まで徒歩3分の好立地。善光寺が建立された1400年前に、阿弥陀堂として建てられた伝統の宿坊
                             </p>
@@ -505,10 +478,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kyoto_shukubo" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>京都府京都市ふるさと納税：京都・古都の歴史的寺院や門前に泊まる静寂の朝時間</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>京都府京都市ふるさと納税：京都・古都の歴史的寺院や門前に泊まる静寂の朝時間</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       観光客で賑わう前の早朝の京都寺院を静かに拝観できる特別な宿泊体験。枯山水の庭園を眺めながらの坐禅体験や、京料理の美意識が息づく精進料理で心身を清めます。
                     </p>
@@ -536,9 +506,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              京都センチュリーホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都センチュリーホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               旅するように過ごす、京都駅前より新しい「旅」が始まります
                             </p>
@@ -588,9 +556,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              三井ガーデンホテル京都河原町浄教寺
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">三井ガーデンホテル京都河原町浄教寺</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               先斗町・祇園へ徒歩圏内。朝食も人気な、寺院と一体の”寺のホテル”
                             </p>
@@ -640,9 +606,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              アルモントホテル京都
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">アルモントホテル京都</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               男女別の大浴場完備。ＪＲ京都駅八条東口より徒歩約５分と、観光やビジネスにも最適です。
                             </p>
@@ -748,9 +712,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】高野山別格本山 宿坊 西門院を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高野山別格本山 宿坊 西門院を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -783,9 +745,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高野山別格本山 宿坊 西門院の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高野山別格本山 宿坊 西門院の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

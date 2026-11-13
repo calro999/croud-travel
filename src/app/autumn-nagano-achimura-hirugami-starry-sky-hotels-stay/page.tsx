@@ -55,9 +55,7 @@ export default function AchimuraHirugamiAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            秋こそ最高の星空シーズン！「天空の楽園」と奇跡の美肌湯
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">秋こそ最高の星空シーズン！「天空の楽園」と奇跡の美肌湯</h2>
           <p className="mb-4 text-stone-700">
             長野県南端に位置する阿智村は、山々に囲まれた地形により街の明かりが遮られ、環境省の全国星空継続観察で「日本一星が輝いて見える場所」第1位に認定されました。特に秋は湿度が下がり大気の透明度が抜群に高まるため、肉眼で天の川や秋の星座がくっきりと見渡せます。
           </p>
@@ -69,10 +67,8 @@ export default function AchimuraHirugamiAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！昼神温泉の厳選名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！昼神温泉の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function AchimuraHirugamiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.58</span>
                     <span className="text-stone-400 text-xs">(358件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    昼神温泉四季の織　はなや（旧ホテルはなや）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">昼神温泉四季の織　はなや（旧ホテルはなや）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 飯田（長野）駅 / 飯田駅より路線バスにて３０分
                   </p>
@@ -142,9 +136,7 @@ export default function AchimuraHirugamiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.37</span>
                     <span className="text-stone-400 text-xs">(899件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    昼神温泉　ひるがみの森
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">昼神温泉　ひるがみの森</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天竜峡駅 / 中央自動車道・園原ICより車にて10分(名古屋・関西方面)、中央自動車道・飯田山本ICより車にて10分(関東・長野方面)
                   </p>
@@ -189,9 +181,7 @@ export default function AchimuraHirugamiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.37</span>
                     <span className="text-stone-400 text-xs">(1371件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    昼神温泉　癒楽（ゆら）の宿　清風苑
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">昼神温泉　癒楽（ゆら）の宿　清風苑</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 唐笠駅 / 中央道飯田山本ＩＣ～Ｒ１５３～R２５６（約10分）/　中央道園原IC～（約10分）
                   </p>
@@ -236,9 +226,7 @@ export default function AchimuraHirugamiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.37</span>
                     <span className="text-stone-400 text-xs">(1074件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    昼神温泉　おとぎ亭　光風
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">昼神温泉　おとぎ亭　光風</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 飯田（長野）駅 / 【お車でお越しの方】中央道　飯田山本ICから約15分・園原ICから約5分【電車でお越しの方】飯田駅からバス等で約30分
                   </p>
@@ -283,9 +271,7 @@ export default function AchimuraHirugamiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.31</span>
                     <span className="text-stone-400 text-xs">(299件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    昼神温泉　信州公共の宿　鶴巻荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">昼神温泉　信州公共の宿　鶴巻荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天竜峡駅 / 天竜峡駅よりお車にて約３０分（車でお迎えあり）
                   </p>
@@ -330,9 +316,7 @@ export default function AchimuraHirugamiAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌温泉！南信州の秋を満喫するおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -393,9 +377,7 @@ export default function AchimuraHirugamiAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の阿智村・昼神温泉エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の阿智村・昼神温泉エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の絶景鉄道特集・黒部峡谷トロッコ列車
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】<br className="hidden sm:inline" />日本一のV字峡谷と宇奈月温泉おすすめ宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月下旬〜11月！黒部峡谷トロッコ電車紅葉】<br className="hidden sm:inline" />日本一のV字峡谷と宇奈月温泉おすすめ宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             日本一深いV字峡谷をトロッコ電車で駆け抜ける大迫力の秋アドベンチャー！断崖絶壁を彩る紅葉グラデーションと、黒部川を望む名湯・宇奈月温泉の極上宿を徹底紹介。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              断崖絶壁を駆け抜ける爽快感！エメラルドグリーンの清流と燃える峡谷美
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">断崖絶壁を駆け抜ける爽快感！エメラルドグリーンの清流と燃える峡谷美</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             富山県黒部市に位置する「黒部峡谷」は、国の特別天然記念物および特別名勝に指定された日本屈指の大峡谷です。宇奈月駅から欅平駅まで全長約20.1kmを片道約1時間20分かけて走るトロッコ電車は、日本有数の絶景鉄道。車窓から見上げる山肌はブナ、カエデ、ナナカマドによって黄色や朱色のグラデーションに染まり、エメラルドグリーンの黒部川と見事なコントラストを描きます。冒険気分を満喫した後は、黒部川沿いの宇奈月温泉で極上の美肌湯と富山湾の海の幸に酔いしれましょう。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒部峡谷トロッコ電車＆宇奈月温泉満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒部峡谷トロッコ電車＆宇奈月温泉満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-red-600 pl-4 md:pl-6 space-y-4">
@@ -350,9 +342,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒部峡谷旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒部峡谷旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

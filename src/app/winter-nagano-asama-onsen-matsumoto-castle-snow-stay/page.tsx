@@ -280,10 +280,8 @@ export default function AsamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜長野・信州松本
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月信州松本浅間温泉】<br className="hidden sm:inline" />
-            国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月信州松本浅間温泉】<br className="hidden sm:inline" />
+            国宝松本城の初雪と開湯1300年名湯・新そば＆信州牛すき焼きの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             雪冠の北アルプスを仰ぐ城下町の奥座敷。松本藩主が愛した弱アルカリ性単純温泉に浸かり、11月解禁の香り高い信州新そばと最高峰ブランド信州プレミアム牛を堪能する大人の贅沢旅。
           </p>
@@ -301,9 +299,7 @@ export default function AsamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Heritage Castle Town & Alpine Beauty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                国宝松本城の黒漆と白漆喰に映える北アルプス冠雪美と城下町情緒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">国宝松本城の黒漆と白漆喰に映える北アルプス冠雪美と城下町情緒</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,26 +340,20 @@ export default function AsamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Heritage Spring & Soba Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                飛鳥時代開湯1300年の藩主御殿湯と「信州新そば・プレミアム牛」の食文化
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">飛鳥時代開湯1300年の藩主御殿湯と「信州新そば・プレミアム牛」の食文化</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>毎分4,000L超の湧出量を誇る弱アルカリ単純泉と天然保湿メタケイ酸</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>毎分4,000L超の湧出量を誇る弱アルカリ単純泉と天然保湿メタケイ酸</span></h3>
             <p>
               浅間温泉の起源は、飛鳥時代の天武天皇（白鳳年間）の時代、束間邑（つかまのむら）の湯として『日本書紀』や貴族の文献に記されたことに始まります。江戸時代に入ると、松本城主（石川氏・小笠原氏・戸田氏）がこの地に別邸と専用の湯殿「御殿湯」を設置。武士たちの心身を癒やす格式高い湯治場として栄えました。
             </p>
             <p>
               泉質は無色透明・無味無臭の「アルカリ性単純温泉（低張性 アルカリ性 高温泉）」。pH値は8.5〜9.0の弱アルカリ性を示し、肌への刺激が非常に少なく、赤ちゃんの産湯にも使われるほど優しい肌触りです。角質を軟化させる作用に加え、天然の保湿成分として知られる「メタケイ酸」が豊富に含まれており、入浴後は肌がスベスベになるとともに、身体の芯まで蓄熱された温かさが長時間持続します。冬の厳しい底冷えに晒された松本平にあって、芯から温まる極上の治癒泉です。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>11月収穫「信州新そば」の芳香と、基準をクリアした「信州プレミアム牛肉」</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>11月収穫「信州新そば」の芳香と、基準をクリアした「信州プレミアム牛肉」</span></h3>
             <p>
               11月から12月にかけての信州旅行最大の醍醐味は、年に一度の「秋の新そば（信州新そば）」です。昼夜の寒暖差が大きい信州の高原で秋口に収穫されたばかりのソバの実は、薄緑色を帯び、ルチンやアミノ酸、香気成分（ヘキサナールなど）が最高潮に達します。浅間温泉の多くの宿では、毎朝料理人や館主が自ら石臼挽きの粉を手打ちし、茹でたての十割・二八そばを供します。噛みしめた瞬間に鼻に抜ける爽やかな甘い香りとコシは、この季節だけの贅沢です。
             </p>
@@ -377,9 +367,7 @@ export default function AsamaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              浅間温泉・冬の滞在を彩る厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">浅間温泉・冬の滞在を彩る厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
@@ -405,11 +393,9 @@ export default function AsamaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                     </div>
                     <div className="text-right flex sm:flex-col items-baseline sm:items-end justify-between sm:justify-center">
                       <span className="text-xs text-slate-500">1名あたり参考料金（税込）</span>
@@ -498,9 +484,7 @@ export default function AsamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">1泊2日 満喫ルート</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                国宝松本城＆中町通りクラフト散策と浅間温泉新そば三昧モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">国宝松本城＆中町通りクラフト散策と浅間温泉新そば三昧モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -533,26 +517,20 @@ export default function AsamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Advisory</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の松本・浅間温泉 冬旅の注意点と服装・足元の心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の松本・浅間温泉 冬旅の注意点と服装・足元の心得</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                盆地特有の厳しい底冷え
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                盆地特有の厳しい底冷え</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 松本平は標高600m前後の内陸性盆地のため、日没後の冷え込みが非常に急激です。12月の夜間はマイナス5℃前後まで下がります。国宝松本城の城内見学は土足厳禁でスリッパでの見学となるため、厚手の靴下を着用し、暖かいダウンジャケットと手袋をご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                夜間・早朝の路面凍結注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                夜間・早朝の路面凍結注意</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月下旬以降は降雪がなくても路面凍結が発生します。マイカー利用の場合は必ずスタッドレスタイヤを装着してください。松本駅から浅間温泉へは路線バスが頻繁に運行しているため、雪道運転を避けたい方は公共交通機関の利用がおすすめです。
               </p>
@@ -568,18 +546,14 @@ export default function AsamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                浅間温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">浅間温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -592,9 +566,7 @@ export default function AsamaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい長野・信州の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい長野・信州の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、極上グルメを味わう人気の厳選特集もぜひご覧ください。
             </p>

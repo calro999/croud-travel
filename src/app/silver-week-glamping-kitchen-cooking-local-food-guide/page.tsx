@@ -225,9 +225,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
       <section className="bg-white rounded-3xl border border-rose-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-wider">KITCHEN COMFORTS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            料理好きが唸る！キッチン付きヴィラ滞在の4つの魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">料理好きが唸る！キッチン付きヴィラ滞在の4つの魅力</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2">
@@ -251,9 +249,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
       <section className="bg-white rounded-3xl border border-rose-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-wider">COOKING FLOW</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            道の駅直売所から始まる！絶品自炊グランピングの過ごし方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">道の駅直売所から始まる！絶品自炊グランピングの過ごし方</h2>
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2">
@@ -265,9 +261,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
               <span className="text-xs font-black text-rose-600 tracking-wider">
                 STEP {course.stepNumber}
               </span>
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 relative z-10">
-                {course.title}
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 relative z-10">{course.title}</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed relative z-10">
                 {course.detail}
               </p>
@@ -280,9 +274,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
       <section className="space-y-6" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-wider">RECOMMENDED STAY</span>
-          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            本格キッチン・大型冷蔵庫完備の厳選グランピング・ヴィラ
-          </h2>
+          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">本格キッチン・大型冷蔵庫完備の厳選グランピング・ヴィラ</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             周辺に道の駅や直売所があり、調理設備が充実した自炊派向け高評価リゾートを厳選。
           </p>
@@ -320,9 +312,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
                     {hotel.hotelSpecial || "調理器具やキッチンが充実した独立型コテージ・ヴィラ。地元の食材を買い込んで自由気ままに料理が楽しめる宿泊体験を提供します。"}
@@ -376,18 +366,14 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
       <section className="bg-white rounded-3xl border border-rose-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-wider">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            自炊＆キッチン付きグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">自炊＆キッチン付きグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-rose-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-rose-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-rose-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -398,9 +384,7 @@ export default function SilverWeekGlampingKitchenCookingLocalFoodPage() {
 
       {/* 内部リンク・山梨ぶどう狩り＆草津温泉 */}
       <section className="bg-rose-50/60 border border-rose-100 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-rose-950 flex items-center gap-2">
-          <span>🍇</span> あわせて読みたい旬の味覚＆温泉旅ガイド
-        </h3>
+        <h3 className="text-base font-bold text-rose-950 flex items-center gap-2">あわせて読みたい旬の味覚＆温泉旅ガイド</h3>
         <p className="text-xs text-stone-600">
           秋のフルーツ狩りやワイナリーツアー、温泉街の散策予算ガイドも合わせてチェック。
         </p>

@@ -266,10 +266,8 @@ export default function GinzanWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の東北名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月銀山温泉の初雪と大正浪漫】<br className="hidden sm:inline" />
-            白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月銀山温泉の初雪と大正浪漫】<br className="hidden sm:inline" />
+            白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             しんしんと降り積もる初雪が、銀山川沿いの木造三層四層の旅館群を白く染め上げる。黄昏の藍色の空に灯るオレンジ色のガス灯、湯けむり立ち上る雪見露天、そしてとろける極上の尾花沢牛に酔いしれる至高の冬宵へ。
           </p>
@@ -295,9 +293,7 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Winter Romance</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                まるで絵画の世界。雪とガス灯が紡ぎ出す大正浪漫の奇跡
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">まるで絵画の世界。雪とガス灯が紡ぎ出す大正浪漫の奇跡</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function GinzanWinterPage() {
           </p>
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-700" />
-                冬の銀山温泉は「宿泊者限定」の静寂を狙うべし
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-700" />
+                冬の銀山温泉は「宿泊者限定」の静寂を狙うべし</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 日帰り観光客の入場が規制される夕暮れ以降や早朝の時間帯こそ、銀山温泉が最も美しい瞬間。温泉街の宿を押さえてゆったりと滞在するのが鉄則です。
               </p>
@@ -332,9 +326,7 @@ export default function GinzanWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の銀山温泉で体験したい3つの贅沢
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の銀山温泉で体験したい3つの贅沢</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function GinzanWinterPage() {
         <section id="hotel-list" className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月に泊まりたい銀山温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月に泊まりたい銀山温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの最新空室状況・宿泊プランと連携。大正ロマンの木造老舗から絶景露天を備える名宿までを厳選。
             </p>
@@ -399,9 +389,7 @@ export default function GinzanWinterPage() {
                           <span className="text-stone-400">({hotel.reviews}件のクチコミ)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                         {hotel.access}
@@ -430,17 +418,13 @@ export default function GinzanWinterPage() {
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-amber-800 flex items-center gap-1.5 mb-1">
-                            <Coffee className="w-3.5 h-3.5" /> 客室選びのポイント
-                          </h4>
+                          <h4 className="text-xs font-bold text-amber-800 flex items-center gap-1.5 mb-1"><Coffee className="w-3.5 h-3.5" /> 客室選びのポイント</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.roomTip}
                           </p>
                         </div>
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1">
-                            <Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり
-                          </h4>
+                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1"><Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.gourmetTip}
                           </p>
@@ -451,10 +435,8 @@ export default function GinzanWinterPage() {
 
                   {/* Highlights */}
                   <div className="bg-amber-50/50 rounded-2xl p-4 sm:p-5 border border-amber-100/80 space-y-2.5">
-                    <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                      この宿のおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                      この宿のおすすめポイント</h4>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                       {hotel.highlights.map((hl, hIdx) => (
                         <div key={hIdx} className="flex items-start gap-2 text-xs text-stone-700">
@@ -494,9 +476,7 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の銀山温泉を満喫する「1泊2日 夢の大正浪漫モデルコース」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の銀山温泉を満喫する「1泊2日 夢の大正浪漫モデルコース」</h2>
             </div>
           </div>
 
@@ -608,18 +588,14 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Onsen Science & Wellness</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                銀山温泉の泉質特徴と冬の安全な雪見入浴法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">銀山温泉の泉質特徴と冬の安全な雪見入浴法</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-600" />
-                ナトリウム―塩化物・硫酸塩温泉の効能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-600" />
+                ナトリウム―塩化物・硫酸塩温泉の効能</h3>
               <p>
                 銀山温泉の源泉は泉温が約60℃〜63℃と高く、湯量も豊富です。塩化物泉の成分（塩分）が皮膚の表面をコーティングして汗の蒸発を防ぐため、入浴後も非常に湯冷めしにくいのが最大の特徴です。
               </p>
@@ -629,10 +605,8 @@ export default function GinzanWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                冬の雪見露天風呂でのヒートショック予防
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                冬の雪見露天風呂でのヒートショック予防</h3>
               <p>
                 冬の銀山温泉は氷点下の外気と熱い温泉の温度差が40℃以上にも達します。急激な血圧変動による立ちくらみやヒートショックを防ぐため、露天風呂に向かう前に必ず内湯で身体を十分に温めましょう。
               </p>
@@ -651,9 +625,7 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Souvenirs & Delights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の銀山温泉で手に入れたい厳選名物土産＆冬スイーツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の銀山温泉で手に入れたい厳選名物土産＆冬スイーツ</h2>
             </div>
           </div>
 
@@ -692,18 +664,14 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest">Practical Winter Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の銀山温泉 旅の実用アドバイスと散策心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の銀山温泉 旅の実用アドバイスと散策心得</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-sky-600" />
-                冬の服装と足元の装備について
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Snowflake className="w-4 h-4 text-sky-600" />
+                冬の服装と足元の装備について</h3>
               <p>
                 11月中旬以降の銀山温泉は気温が氷点下近くまで下がり、12月には日中でも0℃前後の厳しい寒さとなります。ダウンコートやベンチコートなど風を通さない防寒着、ヒートテック、耳当て、手袋、マフラーが必須です。
               </p>
@@ -713,10 +681,8 @@ export default function GinzanWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                冬のアクセス・交通機関の選び方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                冬のアクセス・交通機関の選び方</h3>
               <p>
                 山形新幹線「大石田駅」から銀山温泉行きの路線バス（銀山はながさ号）が運行されています。多くの宿では大石田駅からの宿泊者専用送迎バスを運行しているため、宿泊予約時に送迎便の予約を済ませておくのが最もスムーズです。
               </p>
@@ -735,48 +701,38 @@ export default function GinzanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の銀山温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の銀山温泉旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                初雪と本格的な雪景色の時期はいつ頃ですか？11月中に行っても雪は見られますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                初雪と本格的な雪景色の時期はいつ頃ですか？11月中に行っても雪は見られますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年、初雪が舞うのは11月中旬から下旬頃です。温泉街全体が白銀に包まれ、屋根にしっかりと雪が積もる光景を確実に楽しみたい場合は、12月上旬から中旬以降の予約が狙い目です。11月下旬は晩秋の落ち着いた静寂と初雪が重なる風情ある時期となります。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                冬期の銀山温泉で日帰り観光と宿泊の違いは何ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                冬期の銀山温泉で日帰り観光と宿泊の違いは何ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 近年、冬期の銀山温泉では混雑と安全確保のため夕方以降の日帰り観光客の入場規制が実施されることがあります。温泉街の旅館に宿泊していれば、観光客が引き揚げた後の静寂な夜のガス灯や早朝の雪景色を誰にも邪魔されずにゆったり散策・撮影できる特権があります。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                銀山温泉の泉質や温泉の特徴、効能について教えてください。
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                銀山温泉の泉質や温泉の特徴、効能について教えてください。</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 泉質は含硫黄―ナトリウム―塩化物・硫酸塩温泉で、無色透明ながらかすかな硫黄の香りと細かい湯花が特徴です。塩分と硫酸塩成分が肌を包み込んで熱を逃さないため、冷え性や疲労回復、筋肉痛に優れた効果を発揮します。冬の厳しい寒さのなかで入る雪見風呂は格別の心地よさです。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                名物「尾花沢牛（雪降り和牛尾花沢）」とはどんなお肉ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                名物「尾花沢牛（雪降り和牛尾花沢）」とはどんなお肉ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 山形県尾花沢市は夏と冬の寒暖差が激しい豪雪地帯です。この過酷な寒さに耐えるために身につけたきめ細やかな霜降り（サシ）が特徴で、融点が非常に低いため舌の上でサラリと溶けます。良質な不飽和脂肪酸が豊富で胃もたれしにくく、すき焼きや温泉しゃぶしゃぶで抜群の旨味を楽しめます。
               </p>
@@ -788,9 +744,7 @@ export default function GinzanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -803,9 +757,7 @@ export default function GinzanWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">山形冬特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                蔵王樹氷スノーモンスターと強酸性硫黄泉の湯宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">蔵王樹氷スノーモンスターと強酸性硫黄泉の湯宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 世界的奇観のスノーモンスター樹氷ライトアップと名湯・蔵王温泉。
               </p>
@@ -816,9 +768,7 @@ export default function GinzanWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形グルメ温泉</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                米沢牛すき焼きと小野川温泉・小野小町ゆかりの美肌湯
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">米沢牛すき焼きと小野川温泉・小野小町ゆかりの美肌湯</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 米沢の奥座敷・小野川温泉とかまくら雪見風呂、極上A5米沢牛。
               </p>
@@ -829,9 +779,7 @@ export default function GinzanWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 豪雪地帯のヒバ千人風呂と白濁した酸性硫黄泉、冬の八甲田樹氷。
               </p>
@@ -840,9 +788,7 @@ export default function GinzanWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              山形県および東北エリアのおすすめ温泉宿一覧
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">山形県および東北エリアのおすすめ温泉宿一覧</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/yamagata/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
               <Link href="/prefectures/akita/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>

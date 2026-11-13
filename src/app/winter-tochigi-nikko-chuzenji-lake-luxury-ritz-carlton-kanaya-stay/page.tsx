@@ -109,9 +109,7 @@ export default function UltraLuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【標高1200mの奥日光・中禅寺湖畔に佇む最高峰リゾート】2026-2027年11-12月初冬の栃木・日光中禅寺湖！「ザ・リッツ・カールトン日光」＆「中禅寺金谷ホテル」・男体山の初雪と日光湯元白濁硫黄泉・極上とちぎ和牛名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             標高約1200mの高地に位置し、霊峰・男体山と青く澄み渡る中禅寺湖を望む奥日光。マリオット最高峰「ザ・リッツ・カールトン日光」やクラシックホテルの名門「中禅寺金谷ホテル」など、世界基準のホスピタリティと日光湯元から引湯する乳白色の硫黄泉露天風呂。澄んだ大気のもとで味わう最高ランク「とちぎ和牛」のステーキや本格フレンチディナーを堪能する極上の贅沢リトリート厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>世界最高峰「ザ・リッツ・カールトン日光」！ブランド初となる白濁硫黄温泉の贅沢</span>
-            </h3>
+              <span>世界最高峰「ザ・リッツ・カールトン日光」！ブランド初となる白濁硫黄温泉の贅沢</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               奥日光・日光湯元の良質な源泉を引き込んだ世界初のリッツ・カールトン温泉。全室プライベートバルコニーから中禅寺湖と男体山の雄姿を望む最高峰の滞在が叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>標高1269mの天空リゾート！男体山の初雪と湖畔に息づく名門クラシックホテルの美学</span>
-            </h3>
+              <span>標高1269mの天空リゾート！男体山の初雪と湖畔に息づく名門クラシックホテルの美学</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               歴史ある大使館別荘文化が息づく中禅寺湖畔。重厚な暖炉が燃える『中禅寺金谷ホテル』など、冬の静寂と歴史の重みに浸る大人の休日を心ゆくまで楽しめます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>最高ランク「とちぎ和牛」ステーキと伝統のクラシックフレンチディナー</span>
-            </h3>
+              <span>最高ランク「とちぎ和牛」ステーキと伝統のクラシックフレンチディナー</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               とろけるようなサシと芳醇な肉の旨味を誇るブランド牛「とちぎ和牛」の極上鉄板焼きや、140年以上の伝統を受け継ぐ金谷ホテルの本格フレンチコースを満喫できます。
             </p>
@@ -177,9 +167,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  ザ・リッツ・カールトン日光
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">ザ・リッツ・カールトン日光</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日光中禅寺温泉　中禅寺金谷ホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日光中禅寺温泉　中禅寺金谷ホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  奥日光　ホテル四季彩
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">奥日光　ホテル四季彩</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日光湯元温泉　奥日光　森のホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日光湯元温泉　奥日光　森のホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  オーベルジュ　はなぶさ日光
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">オーベルジュ　はなぶさ日光</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function UltraLuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>ザ・リッツ・カールトン日光の温泉は天然温泉ですか？泉質は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>ザ・リッツ・カールトン日光の温泉は天然温泉ですか？泉質は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               はい、ザ・リッツ・カールトン日光の温泉は、日光湯元温泉から直接引湯している本格的な天然温泉（含硫黄-カルシウム・ナトリウム-硫酸塩・炭酸水素塩温泉）です。空気に触れることで美しい乳白色に変化し、硫黄の香りと肌をなめらかに整える美肌成分を豊富に含んでいます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月〜12月の中禅寺湖周辺はいろは坂の渋滞がありますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月〜12月の中禅寺湖周辺はいろは坂の渋滞がありますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               10月中旬〜11月上旬の紅葉最盛期はいろは坂で激しい渋滞が発生しますが、11月中旬以降になると紅葉ピークが去るため渋滞は完全に解消し、スムーズにアクセスできます。静かにラグジュアリーステイを楽しみたい方には11月中旬〜12月が最も狙い目です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>初冬の中禅寺湖へ車で行く場合、スタッドレスタイヤは必要ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>初冬の中禅寺湖へ車で行く場合、スタッドレスタイヤは必要ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               標高が高いため、11月中旬以降はいろは坂や中禅寺湖畔で降雪や早朝・夜間の路面凍結が発生することがあります。11月中旬以降にお車で訪れる場合は、安全のためスタッドレスタイヤの装着が必須です。
             </p>

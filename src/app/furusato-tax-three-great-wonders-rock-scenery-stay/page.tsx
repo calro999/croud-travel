@@ -130,9 +130,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              群馬県安中市・下仁田町ふるさと納税：天を突く奇岩怪石のパノラマ「妙義山」妙義神社参拝と美肌の妙義温泉リゾート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">群馬県安中市・下仁田町ふるさと納税：天を突く奇岩怪石のパノラマ「妙義山」妙義神社参拝と美肌の妙義温泉リゾート</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               白雲山・金洞山などの岩峰が連なる上毛三山の一角。妙義温泉の自家源泉露天風呂から眼前に迫る荒々しい岩壁パノラマを眺め、上州牛ステーキや下仁田こんにゃく、下仁田ねぎ鍋を味わう感動の温泉ステイです。
             </p>
@@ -157,11 +155,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29835%2F29835.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F29835%2F29835.html" target="_blank" rel="sponsored noopener noreferrer">
                       妙義温泉　妙義グリーンホテル＆テラス
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 群馬県富岡市妙義町菅原2678
                   </p>
@@ -219,11 +215,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11200%2F11200.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11200%2F11200.html" target="_blank" rel="sponsored noopener noreferrer">
                       四万温泉　寿屋旅館＜群馬県＞
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 群馬県吾妻郡中之条町四万4367-6
                   </p>
@@ -281,11 +275,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17837%2F17837.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F17837%2F17837.html" target="_blank" rel="sponsored noopener noreferrer">
                       草津温泉　喜びの宿　高松
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 群馬県吾妻郡草津町草津312
                   </p>
@@ -332,9 +324,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              大分県中津市本耶馬渓ふるさと納税：日本新三景「耶馬渓」競秀峰の巨岩断崖と禅海和尚の手掘り「青の洞門」＆金色温泉
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">大分県中津市本耶馬渓ふるさと納税：日本新三景「耶馬渓」競秀峰の巨岩断崖と禅海和尚の手掘り「青の洞門」＆金色温泉</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               山国川の清流沿いにそびえる巨大な岩峰群。禅海和尚が30年かけて掘り抜いた青の洞門の歴史ロマンに触れ、離れ客室が点在する温泉旅館で黄金色の名湯露天風呂と耶馬渓地鶏炭火焼きを堪能できます。
             </p>
@@ -359,11 +349,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78077%2F78077.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F78077%2F78077.html" target="_blank" rel="sponsored noopener noreferrer">
                       八面山金色温泉　こがね山荘
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 大分県中津市三光田口金色584-1
                   </p>
@@ -410,9 +398,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80 space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase bg-indigo-50 px-2.5 py-1 rounded-md">Featured Region</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">
-              香川県小豆島町ふるさと納税：日本三大渓谷美「寒霞渓」奇岩絶壁ロープウェイと瀬戸内海パノラマ・小豆島温泉リゾート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mt-2">香川県小豆島町ふるさと納税：日本三大渓谷美「寒霞渓」奇岩絶壁ロープウェイと瀬戸内海パノラマ・小豆島温泉リゾート</h2>
             <p className="text-slate-600 mt-2 text-sm sm:text-base leading-relaxed">
               表十二景・裏八景の巨岩がそびえる寒霞渓。ロープウェイの車窓から奇岩と瀬戸内海を同時に見下ろす大絶景を体験し、宿では小豆島オリーブ牛ステーキや新鮮な小豆島そうめん、潮騒露天風呂に癒やされる島旅です。
             </p>
@@ -437,11 +423,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44874%2F44874.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44874%2F44874.html" target="_blank" rel="sponsored noopener noreferrer">
                       ベイリゾートホテル小豆島
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 香川県小豆郡小豆島町古江乙16-3
                   </p>
@@ -499,11 +483,9 @@ export default function Page() {
 
               <div className="p-5 sm:p-7 w-full flex flex-col justify-between space-y-4">
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors">
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14108%2F14108.html" target="_blank" rel="sponsored noopener noreferrer">
+                  <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14108%2F14108.html" target="_blank" rel="sponsored noopener noreferrer">
                       小豆島温泉“瀬戸の御湯”ホテルニュー海風　＜小豆島＞
-                    </a>
-                  </h3>
+                    </a></h3>
                   <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                     📍 香川県小豆郡土庄町甲2111-1
                   </p>
@@ -579,9 +561,7 @@ export default function Page() {
               href="/furusato-tax-three-great-gorges-canyon-onsen-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 清津峡・黒部峡谷・大杉谷の絶景名湯。
               </p>
@@ -592,9 +572,7 @@ export default function Page() {
               href="/furusato-tax-three-karst-plateaus-mountain-resort-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大カルスト台地＆白亜の石灰岩パノラマ高原宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大カルスト台地＆白亜の石灰岩パノラマ高原宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 秋吉台・四国カルスト・平尾台の絶景リゾート。
               </p>
@@ -605,9 +583,7 @@ export default function Page() {
               href="/furusato-tax-emerald-valley-gorge-hot-spring-stay/"
               className="block p-4 rounded-xl border border-slate-200 hover:border-indigo-400 hover:shadow-sm transition-all group bg-slate-50/50"
             >
-              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">
-                日本三大渓谷美＆エメラルドグリーンの峡谷温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="font-bold text-slate-800 text-sm group-hover:text-indigo-600 transition-colors">日本三大渓谷美＆エメラルドグリーンの峡谷温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-slate-500 mt-2 leading-relaxed">
                 大歩危・黒部峡谷・清津峡の絶景秘湯。
               </p>
@@ -618,9 +594,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】妙義温泉 妙義グリーンホテル＆テラスを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】妙義温泉 妙義グリーンホテル＆テラスを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -653,9 +627,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と妙義温泉 妙義グリーンホテル＆テラスの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と妙義温泉 妙義グリーンホテル＆テラスの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

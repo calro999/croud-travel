@@ -220,12 +220,10 @@ export default function WinterKumamotoHitoyoshiPage() {
             11月・12月 朝霧絶景＆城下町名湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月熊本・人吉温泉郷】球磨川初冬朝霧絶景と美肌名湯
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物子持ち落ち鮎塩焼き＆極上球磨黒毛和牛・球磨焼酎会席を味わう老舗宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、相良700年の城下町の歴史が息づく人吉盆地は、冷え込みとともに日本三急流・球磨川から立ち上る深い朝霧が街を包み込む「朝霧の都」の幻想的なベストシーズンを迎えます。朝日に輝き晴れゆく幽玄な川霧、国宝・青井阿蘇神社の厳かな佇まい、肌をしっとり潤す弱アルカリ炭酸水素塩泉。香ばしい子持ち落ち鮎の塩焼き、とろける極上球磨黒毛和牛、伝統の米焼酎「球磨焼酎」を味わう厳選老舗名宿5選を徹底解説します。
@@ -259,9 +257,7 @@ export default function WinterKumamotoHitoyoshiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Sparkle className="w-6 h-6 text-teal-700" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              朝霧の都と相良700年の誇り｜11月・12月に人吉温泉郷を訪れるべき理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">朝霧の都と相良700年の誇り｜11月・12月に人吉温泉郷を訪れるべき理由</h2>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
             <p>
@@ -312,9 +308,7 @@ export default function WinterKumamotoHitoyoshiPage() {
             <span className="text-xs sm:text-sm font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
               Selected 5 Historic & Riverview Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の人吉温泉郷を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の人吉温泉郷を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               球磨川の朝霧を望む和モダン名旅館から、登録有形文化財の数寄屋建築、3つの自家源泉を持つ発祥の宿まで、冬の人吉旅を格別にする宿を厳選。
             </p>
@@ -354,9 +348,7 @@ export default function WinterKumamotoHitoyoshiPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                     <p className="text-xs text-slate-500 flex items-start gap-1">
                       <MapPin className="w-3.5 h-3.5 text-teal-700 flex-shrink-0 mt-0.5" />
@@ -425,9 +417,7 @@ export default function WinterKumamotoHitoyoshiPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】球磨川の朝霧絶景と国宝青井阿蘇神社・子持ち鮎を味わう1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】球磨川の朝霧絶景と国宝青井阿蘇神社・子持ち鮎を味わう1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -456,34 +446,26 @@ export default function WinterKumamotoHitoyoshiPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              人吉の初冬グルメ完全ガイド！落ち鮎・球磨黒毛和牛・球磨焼酎
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">人吉の初冬グルメ完全ガイド！落ち鮎・球磨黒毛和牛・球磨焼酎</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                子持ち落ち鮎の炭火塩焼き
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                子持ち落ち鮎の炭火塩焼き</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 晩秋から初冬にかけて球磨川を下る「落ち鮎」。卵をたっぷりと抱えたメスの鮎は身が締まり、炭火でじっくり時間をかけて焼き上げることで、皮はパリッと香ばしく、中はホクホクとした卵の濃厚な旨味が広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                極上球磨黒毛和牛ステーキ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                極上球磨黒毛和牛ステーキ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 人吉球磨の豊かな水と良質な牧草で手塩にかけて肥育されるブランド黒毛和牛。赤身の旨味とサシの甘みが調和し、熱々の陶板焼きやしゃぶしゃぶで味わうと口の中でとろける極上の柔らかさを誇ります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                伝統の球磨焼酎＆郷土つぼん汁
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                伝統の球磨焼酎＆郷土つぼん汁</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 良質な米と球磨川の伏流水のみで作られる純米焼酎「球磨焼酎」。28の蔵元が独自の風味を競います。初冬の夜は直火の器「ガラ」でぬる燗に温め、郷土の具だくさん根菜汁「つぼん汁」とともに味わうのが最高です。
               </p>
@@ -495,9 +477,7 @@ export default function WinterKumamotoHitoyoshiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Footprints className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              11月・12月の人吉観光！気候・服装・散策のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の人吉観光！気候・服装・散策のアドバイス</h2>
           </div>
           <div className="space-y-4 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -505,19 +485,15 @@ export default function WinterKumamotoHitoyoshiPage() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ThermometerSun className="w-4 h-4 text-teal-700" />
-                  朝晩の寒暖差に対応できる重ね着
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                  朝晩の寒暖差に対応できる重ね着</h4>
                 <p className="text-slate-600">
                   早朝の朝霧観賞には厚手のダウンコートやマフラー、手袋が必須です。日中の城下町散策時はコートを脱いで軽快に歩けるよう、温度調整しやすい重ね着スタイルをおすすめします。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-teal-700" />
-                  城下町・神社の散策靴選び
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                  城下町・神社の散策靴選び</h4>
                 <p className="text-slate-600">
                   国宝・青井阿蘇神社の砂利道や人吉城跡の石段、鍛冶屋町通りの石畳など、歩く見どころが多いため、歩きやすく疲れにくいスニーカーが最適です。
                 </p>
@@ -530,9 +506,7 @@ export default function WinterKumamotoHitoyoshiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Map className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              人吉温泉郷へのアクセス情報
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">人吉温泉郷へのアクセス情報</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
@@ -562,18 +536,14 @@ export default function WinterKumamotoHitoyoshiPage() {
             <HelpCircle className="w-6 h-6 text-teal-800" />
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の人吉温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の人吉温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +556,7 @@ export default function WinterKumamotoHitoyoshiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！九州の冬名湯＆黒毛和牛特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！九州の冬名湯＆黒毛和牛特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -596,9 +564,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                阿蘇内牧温泉のカルデラ初冬絶景とあか牛ステーキ宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">阿蘇内牧温泉のカルデラ初冬絶景とあか牛ステーキ宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 阿蘇五岳の初雪景色とヘルシーなあか牛・町湯巡りを堪能。
               </p>
@@ -608,9 +574,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">熊本・黒川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                黒川温泉の湯あかり竹灯籠イルミネーションと入湯手形宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">黒川温泉の湯あかり竹灯籠イルミネーションと入湯手形宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 渓流を温かく照らす竹灯籠と風情ある露天風呂巡りの旅。
               </p>
@@ -620,9 +584,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">鹿児島・霧島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                霧島温泉郷の白煙立ち込める硫黄泉と黒豚しゃぶしゃぶ宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">霧島温泉郷の白煙立ち込める硫黄泉と黒豚しゃぶしゃぶ宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 坂本龍馬の新婚旅行の地・霧島連山の雄大な自然と名湯。
               </p>
@@ -632,9 +594,7 @@ export default function WinterKumamotoHitoyoshiPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ名宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ名宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 由布岳を望む露天風呂と初冬の幻想的な朝霧を巡る癒やし旅。
               </p>

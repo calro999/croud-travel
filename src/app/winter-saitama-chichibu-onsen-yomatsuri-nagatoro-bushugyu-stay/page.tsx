@@ -248,12 +248,10 @@ export default function WinterSaitamaChichibuPage() {
             11月・12月 秩父夜祭＆長瀞こたつ舟・武州和牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月埼玉・秩父温泉郷】秩父夜祭と長瀞こたつ舟
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月埼玉・秩父温泉郷】秩父夜祭と長瀞こたつ舟
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               名物武州和牛すき焼き＆秩父みそ豚・創業文政の美肌鉱泉を満喫する山里名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、都心から特急でわずか80分あまりの近さにありながら、奥武蔵の山々に抱かれた埼玉県「秩父・長瀞」は、冬ならではの活気と幽玄な静けさが同居する最もドラマチックな季節を迎えます。12月2日・3日にはユネスコ無形文化遺産に登録された日本三大曳山祭の一つ「秩父夜祭」が開催され、絢爛豪華な屋台や笠鉾が街を練り歩き、冬の澄み渡る夜空に壮大な花火が打ち上がります。荒川の清流を暖かなぬくもりで巡る「長瀞こたつ舟」、日本通貨発祥の地に湧く和銅鉱泉をはじめとする肌触り滑らかな名湯。夕食には埼玉が誇る最高峰の黒毛和牛「武州和牛（ぶしゅうわぎゅう）」のすき焼き、秩父伝統の「豚肉の味噌漬け」、秩父名水手打ち蕎麦。秩父路の冬情緒を心ゆくまで堪能できる厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterSaitamaChichibuPage() {
             <Landmark className="w-4 h-4" />
             初冬の奥武蔵・秩父路の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-            日本三大曳山祭の熱気と長瀞の冬景色、美肌鉱泉が織りなす極上の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">日本三大曳山祭の熱気と長瀞の冬景色、美肌鉱泉が織りなす極上の休日</h2>
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
             <p>
               西武池袋駅から黄色い西武特急ラビューに乗り込み、トンネルを抜けると、そこには雄大な武甲山（ぶこうさん）がそびえる秩父盆地が広がります。都心からわずか1時間20分ほどでアクセスできるとは思えないほど、手つかずの自然と悠久の歴史が色濃く残る秩父地方。晩秋の紅葉が落ち着きを見せる11月下旬から12月、秩父は1年で最も活気と風情が最高潮に達する季節を迎えます。
@@ -308,9 +304,7 @@ export default function WinterSaitamaChichibuPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の秩父路を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の秩父路を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               伝統の冬祭り、ぬくもりの長瀞舟下り、山里の美肌鉱泉と美食
             </p>
@@ -321,9 +315,7 @@ export default function WinterSaitamaChichibuPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                ユネスコ無形文化遺産「秩父夜祭」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">ユネスコ無形文化遺産「秩父夜祭」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 12月2日・3日開催の日本三大曳山祭。豪華絢爛な笠鉾・屋台が街を揺らし、冬の澄んだ夜空に打ち上がる壮大な花火との競演。
               </p>
@@ -333,9 +325,7 @@ export default function WinterSaitamaChichibuPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-700">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                冬の風物詩「長瀞ぽかぽかこたつ舟」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">冬の風物詩「長瀞ぽかぽかこたつ舟」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 荒川の清らかな流れと名勝・長瀞岩畳を温かいこたつに入って優雅に遊覧。船頭の巧みな竿さばきと冬の渓谷美を堪能。
               </p>
@@ -345,9 +335,7 @@ export default function WinterSaitamaChichibuPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                和銅鉱泉の美肌湯＆極上武州和牛
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">和銅鉱泉の美肌湯＆極上武州和牛</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 和同開珎ゆかりの薬師の湯。しっとり潤う美肌鉱泉に癒やされ、霜降り武州和牛すき焼きや香ばしい秩父みそ豚に舌鼓。
               </p>
@@ -358,9 +346,7 @@ export default function WinterSaitamaChichibuPage() {
         {/* Hotel Cards Section */}
         <section className="space-y-10">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              秩父温泉郷で11月・12月に泊まりたい名湯宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">秩父温泉郷で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
               楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
@@ -404,11 +390,9 @@ export default function WinterSaitamaChichibuPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-amber-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-amber-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {h.story}
@@ -470,9 +454,7 @@ export default function WinterSaitamaChichibuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-amber-100">
             <Compass className="w-6 h-6 text-amber-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の秩父・長瀞を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の秩父・長瀞を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -502,35 +484,27 @@ export default function WinterSaitamaChichibuPage() {
             <Utensils className="w-4 h-4" />
             秩父路 冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            山里の豊かな風土が育む「武州和牛」「秩父みそ豚」「本格ちゃんこ鍋」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">山里の豊かな風土が育む「武州和牛」「秩父みそ豚」「本格ちゃんこ鍋」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                埼玉の誇る銘柄牛「武州和牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                埼玉の誇る銘柄牛「武州和牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 厳選された黒毛和牛を入念に育て上げた埼玉県の最高峰ブランド「武州和牛」。鮮やかな霜降りとキメ細かな肉質は、火を通すことで上品な脂の甘みが広がり、熱々のすき焼きや陶板ステーキで口の中で至福のとろけ具合を魅せます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-amber-400" />
-                伝統保存食「秩父豚の味噌漬け」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Landmark className="w-4 h-4 text-amber-400" />
+                伝統保存食「秩父豚の味噌漬け」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 秩父山地で猟師や農家が保存食として受け継いできた伝統の味。上質な豚ロース肉を特製の秩父味噌にじっくり漬け込み、炭火や陶板で香ばしく焼き上げることで、味噌のコクと豚肉のジューシーな旨味が絶妙に調和します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-amber-400" />
-                秩父の名水仕込み「新そば＆地酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-amber-400" />
+                秩父の名水仕込み「新そば＆地酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 武甲山や荒川源流の清冽な伏流水で打つ秩父の手打ち蕎麦は、11月から香り高い「新そば」の季節に。創業寛延2年の老舗蔵元が醸す地酒「秩父錦」や、世界中のウイスキー愛好家を魅了する「イチローズモルト」とともに味わう贅沢は格別です。
               </p>
@@ -544,15 +518,11 @@ export default function WinterSaitamaChichibuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の秩父・長瀞 交通アクセス＆冬旅のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の秩父・長瀞 交通アクセス＆冬旅のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                電車・車でのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                電車・車でのアクセス方法</h3>
               <p>
                 電車の場合は、池袋駅より西武特急ラビューで西武秩父駅まで最速約77分。秩父鉄道への乗り換えで長瀞駅へも約20分と抜群のアクセスを誇ります。
               </p>
@@ -562,10 +532,8 @@ export default function WinterSaitamaChichibuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                気候と防寒・夜祭観覧の注意点
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                気候と防寒・夜祭観覧の注意点</h3>
               <p>
                 秩父盆地は夜間の冷え込みが非常に厳しく、12月の夜間は氷点下まで下がります。秩父夜祭の花火見物や夜間散策には、厚手ダウン、手袋、マフラー、足元用カイロの完全防寒が必須です。
               </p>
@@ -582,16 +550,12 @@ export default function WinterSaitamaChichibuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の埼玉秩父・長瀞旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の埼玉秩父・長瀞旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -603,10 +567,8 @@ export default function WinterSaitamaChichibuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい関東近郊の冬温泉・冬花火特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい関東近郊の冬温泉・冬花火特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               都心から好アクセスで楽しめる関東近郊の名湯や冬の風物詩ガイド
             </p>
@@ -618,9 +580,7 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">群馬・伊香保温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                伊香保温泉の石段街と黄金の湯・上州牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">伊香保温泉の石段街と黄金の湯・上州牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 365段の石段街の初冬情景と二大名湯、上州牛を味わう温泉情緒。
               </p>
@@ -631,9 +591,7 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                箱根温泉の雪化粧富士山パノラマと老舗名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根温泉の雪化粧富士山パノラマと老舗名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 澄み切った冬空に映える白銀の富士を望む展望露天風呂と美食会席。
               </p>
@@ -644,9 +602,7 @@ export default function WinterSaitamaChichibuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">静岡・熱海温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                熱海海上冬花火と名物金目鯛・オーシャンビュー温泉
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">熱海海上冬花火と名物金目鯛・オーシャンビュー温泉</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の夜空に響く圧巻の熱海海上花火と脂の乗った金目鯛の煮付けを堪能。
               </p>

@@ -301,9 +301,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の大気だけが魅せる富士山と光の海。古都の静寂と湘南の華やぎが交差する季節へ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の大気だけが魅せる富士山と光の海。古都の静寂と湘南の華やぎが交差する季節へ</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の鎌倉・江の島を彩る3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の鎌倉・江の島を彩る3大ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月の湘南だからこそ出逢える、光と絶景と古都の初詣。
             </p>
@@ -339,9 +335,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-blue-100 flex items-center justify-center text-blue-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 関東三大イルミ「湘南の宝石」シーキャンドル
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 関東三大イルミ「湘南の宝石」シーキャンドル</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 江の島島内が数十万球のクリスタルイルミネーションで光の宮殿へと変わる祭典。夕暮れの富士山夕景と光のタワーが競演する絶景は一生忘れられない美しさです。
               </p>
@@ -351,9 +345,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 鶴岡八幡宮の新春初詣と段葛の厳かな冬景色
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 鶴岡八幡宮の新春初詣と段葛の厳かな冬景色</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 新年の開運・厄除けを祈願する鶴岡八幡宮の初詣。早朝の若宮大路や段葛の凛とした神聖な空気を味わい、長谷寺や鎌倉大仏へと続く古都散策が楽しめます。
               </p>
@@ -363,9 +355,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 相模湾の冬魚「寒平目・カワハギ肝」＆葉山牛
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 相模湾の冬魚「寒平目・カワハギ肝」＆葉山牛</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 真冬の低水温で極上の脂を蓄えた寒平目の刺身やカワハギの肝和え、冬の地魚料理。そして幻の黒毛和牛「葉山牛」のステーキなど、湘南の贅沢な美食を堪能できます。
               </p>
@@ -375,9 +365,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】古都の初詣と海越しの富士山・光の江の島周遊モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】古都の初詣と海越しの富士山・光の江の島周遊モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               江ノ電に揺られながら鎌倉の歴史と江の島のイルミネーションを最高潮に味わう黄金ルート。
             </p>
@@ -388,9 +376,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:00 鎌倉駅到着 ➔ 小町通り食べ歩き＆「鶴岡八幡宮」新春参拝
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:00 鎌倉駅到着  小町通り食べ歩き＆「鶴岡八幡宮」新春参拝</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   JR鎌倉駅に降り立ち、活気ある小町通りで温かいしらすまんや出来立てのわらび餅を楽しみながら散策。段葛を抜けて鶴岡八幡宮へ。大石段を上り、舞殿と本宮で新年の無病息災と開運を厳かに祈願します。
                 </p>
@@ -399,9 +385,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 江ノ電で長谷へ ➔ 長谷寺の冬景色観賞＆鎌倉大仏（高徳院）
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 江ノ電で長谷へ  長谷寺の冬景色観賞＆鎌倉大仏（高徳院）</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   江ノ電に乗って長谷駅へ。十一面観音を祀る花の寺・長谷寺の見晴台から、冬の穏やかな由比ヶ浜のパノラマを一望。続いて高徳院の国宝・鎌倉大仏を仰ぎ、冬の青空を背にした堂々たるお姿に圧倒されます。
                 </p>
@@ -410,9 +394,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 七里ヶ浜・江の島へ ➔ 富士山夕景＆「湘南の宝石」イルミネーション観賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 七里ヶ浜・江の島へ  富士山夕景＆「湘南の宝石」イルミネーション観賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   七里ヶ浜海岸から茜色に染まる海と富士山の絶景夕景を撮影後、江の島へ。サムエル・コッキング苑に輝く「湘南の宝石」の光の宮殿を散策。シーキャンドル展望台から望む夜景とイルミネーションの幻想的な光景に包まれます。
                 </p>
@@ -421,9 +403,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:00 湘南名宿へチェックイン ➔ 相模湾の冬魚と葉山牛ディナー＆天然温泉
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:00 湘南名宿へチェックイン  相模湾の冬魚と葉山牛ディナー＆天然温泉</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   宿にチェックインし、温泉大浴場やスパで冷えた体をポカポカに温めます。夕食は、脂の乗った寒平目やカワハギの肝和え、幻の葉山牛ステーキなど、冬の湘南の至宝を贅沢に味わい、夜の波音を聴きながら寛ぎます。
                 </p>
@@ -432,9 +412,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 海を望むモーニング ➔ 稲村ヶ崎散策＆鎌倉みやげのお買い物
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 海を望むモーニング  稲村ヶ崎散策＆鎌倉みやげのお買い物</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝日に輝く相模湾を望みながら優雅な朝食。チェックアウト後は稲村ヶ崎の岬から朝の富士山を仰ぎ、鎌倉駅周辺で鳩サブレーや鎌倉紅谷のクルミッ子などのお土産を選んで、心地よい余韻とともに帰路へ。
                 </p>
@@ -447,9 +425,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の鎌倉・江の島ステイを彩る厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の鎌倉・江の島ステイを彩る厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               七里ヶ浜越しの富士山を望む名門ホテルから、若宮大路のモダンホテル、江の島島内スパ温泉宿まで。
             </p>
@@ -483,9 +459,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Souvenir Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の湘南・鎌倉を深く知る美食カルチャーと厳選銘菓
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の湘南・鎌倉を深く知る美食カルチャーと厳選銘菓</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-blue-700" />
-                相模湾の冬魚と幻の黒毛和牛「葉山牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-blue-700" />
+                相模湾の冬魚と幻の黒毛和牛「葉山牛」</h3>
               <p>
                 冬の相模湾は、海底深く潜る寒平目やカワハギが旬を迎えます。特にカワハギの肝は冬に最も肥大化し、濃厚なコクとクリーミーな旨味が絶品。肝を醤油に溶いて刺身に絡める「肝醤油」は冬の湘南を訪れたなら必食の味です。また、三浦半島で丹精込めて育てられる「葉山牛」は出荷頭数が少なく「幻の牛」と呼ばれ、きめ細かい肉質と甘い脂の芳香が舌の上でとろけます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-blue-700" />
-                鎌倉の伝統銘菓と湘南クラフト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-blue-700" />
+                鎌倉の伝統銘菓と湘南クラフト</h3>
               <p>
                 お土産には、明治創業の豊島屋「鳩サブレー」や、キャラメルとクルミをバター生地で挟んだ鎌倉紅谷の「クルミッ子」が大定番。また、鎌倉彫の伝統工芸品や、湘南の海をモチーフにしたハンドメイドキャンドル、江の島の貝殻をあしらったアクセサリーなど、冬の海街の思い出を彩るハイセンスな雑貨も人気を集めています。
               </p>
@@ -577,9 +545,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="bg-blue-50/60 rounded-3xl p-6 sm:p-10 border border-blue-200/60 space-y-6">
           <div className="border-b border-blue-200/80 pb-4">
             <span className="text-blue-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-blue-950">
-              冬の鎌倉・江の島旅行を安全・快適に楽しむための装備とアクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-blue-950">冬の鎌倉・江の島旅行を安全・快適に楽しむための装備とアクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-blue-950">
@@ -619,20 +585,16 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の鎌倉・江の島観光・宿泊に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の鎌倉・江の島観光・宿泊に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-blue-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-blue-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-blue-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function KanagawaKamakuraEnoshimaWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Travels</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい関東・全国の冬特集・名湯宿ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい関東・全国の冬特集・名湯宿ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -9,11 +9,8 @@ export default function AllFeaturesAccordion() {
             <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100/80 px-2.5 py-0.5 rounded-full uppercase tracking-wider inline-block">
               ALL SPECIAL FEATURES (2014+)
             </span>
-            <h3 className="text-base md:text-lg font-bold text-emerald-950 flex items-center gap-2">
-              <span>📚</span>
-              <span>全国 特集・特設テーマ記事一覧をすべて表示する（全2014特集）</span>
-              <span className="text-xs font-normal text-emerald-800/70">（クリックで展開）</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-emerald-950 flex items-center gap-2"><span>全国 特集・特設テーマ記事一覧をすべて表示する（全2014特集）</span>
+              <span className="text-xs font-normal text-emerald-800/70">（クリックで展開）</span></h3>
           </div>
           <span className="text-xs font-bold text-teal-800 bg-white border border-teal-800/20 px-3 py-1.5 rounded-xl group-open:rotate-180 transition-transform duration-200">
             ▼
@@ -27,10 +24,8 @@ export default function AllFeaturesAccordion() {
 
           {/* 冬・新春・雪見・カニ特集 */}
           <div className="space-y-2">
-            <h4 className="text-xs font-black text-slate-800 flex items-center gap-1.5 pb-1 border-b border-slate-200">
-              <span>❄️</span>
-              <span>冬・新春初詣・雪見露天・旬のカニ特集 (453選)</span>
-            </h4>
+            <h4 className="text-xs font-black text-slate-800 flex items-center gap-1.5 pb-1 border-b border-slate-200"><span>️</span>
+              <span>冬・新春初詣・雪見露天・旬のカニ特集 (453選)</span></h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
                 href="/winter-shizuoka-izu-shuzenji-luxury-asaba-sora-onsen-stay/"
@@ -3348,10 +3343,7 @@ export default function AllFeaturesAccordion() {
 
           {/* 秋・紅葉・ふるさと納税特集 */}
           <div className="space-y-2">
-            <h4 className="text-xs font-black text-amber-900 flex items-center gap-1.5 pb-1 border-b border-amber-200">
-              <span>🍁</span>
-              <span>秋・紅葉・ふるさと納税トラベル特集 (681選)</span>
-            </h4>
+            <h4 className="text-xs font-black text-amber-900 flex items-center gap-1.5 pb-1 border-b border-amber-200"><span>秋・紅葉・ふるさと納税トラベル特集 (681選)</span></h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
                 href="/autumn-nagano-kamikochi-karamatsu-shirahone-onsen-hotels-stay/"
@@ -9266,10 +9258,7 @@ export default function AllFeaturesAccordion() {
 
           {/* 春・桜・初夏・避暑地特集 */}
           <div className="space-y-2">
-            <h4 className="text-xs font-black text-rose-900 flex items-center gap-1.5 pb-1 border-b border-rose-200">
-              <span>🌸</span>
-              <span>春・お花見・初夏・避暑地特集 (32選)</span>
-            </h4>
+            <h4 className="text-xs font-black text-rose-900 flex items-center gap-1.5 pb-1 border-b border-rose-200"><span>春・お花見・初夏・避暑地特集 (32選)</span></h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
                 href="/spring-biwa-fruit-loquat-spa-retreat-stay/"
@@ -9500,10 +9489,7 @@ export default function AllFeaturesAccordion() {
 
           {/* 高級宿・ひとり旅・テーマ別特集 */}
           <div className="space-y-2">
-            <h4 className="text-xs font-black text-teal-900 flex items-center gap-1.5 pb-1 border-b border-teal-200">
-              <span>✨</span>
-              <span>高級宿・ひとり旅・テーマ別・全国エリア特集 (858選)</span>
-            </h4>
+            <h4 className="text-xs font-black text-teal-900 flex items-center gap-1.5 pb-1 border-b border-teal-200"><span>高級宿・ひとり旅・テーマ別・全国エリア特集 (858選)</span></h4>
             <div className="flex flex-wrap gap-1.5 pt-1">
               <Link
                 href="/aichi-chita-minamichita-himakajima-stay/"

@@ -222,9 +222,7 @@ export default function KotohiraOnsenWinterPage() {
             <span>11月・12月 冬の香川・琴平 ことひら温泉郷特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月ことひら温泉郷のこんぴら参りと讃岐富士冬絶景】初冬の金刀比羅宮門前名湯・讃岐オリーブ牛ステーキ＆本場手打ち讃岐うどん会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて香川県・琴平町は、空気が澄み渡り讃岐富士（飯野山）や讃岐平野の美しい冬景色が広がる、年間で最も快適に金刀比羅宮の石段（御本宮785段・奥社1368段）を登れる参拝のベストシーズンを迎えます。参拝後にじんわりと足の疲れを癒やす門前町の天然温泉露天風呂、初冬の澄んだ夜空を仰ぐ展望露天、小豆島のオリーブ粕で育った香川最高峰の黒毛和牛「讃岐オリーブ牛」の鉄板焼きや陶板ステーキ、伊吹島産いりこ出汁が香る本場手打ち讃岐うどん、瀬戸内の冬真鯛を堪能する名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のことひら温泉郷とこんぴら参りが選ばれる理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のことひら温泉郷とこんぴら参りが選ばれる理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Kotohira Wellness & Sanuki Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                参拝の疲労を瞬時に癒やす門前名湯と、讃岐オリーブ牛・いりこうどんの科学
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">参拝の疲労を瞬時に癒やす門前名湯と、讃岐オリーブ牛・いりこうどんの科学</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-orange-700" />
-              <span>弱アルカリ性単純温泉がもたらす乳酸分解と関節・筋肉疲労の回復作用</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-orange-700" />
+              <span>弱アルカリ性単純温泉がもたらす乳酸分解と関節・筋肉疲労の回復作用</span></h3>
             <p>
               金刀比羅宮の石段（御本宮往復1,570段、奥社往復2,736段）を登り終えた後の身体は、下半身の筋肉に乳酸が蓄積し、適度な疲労感に包まれています。これを瞬時にリセットしてくれるのが、ことひら温泉郷の「アルカリ性単純温泉」および「単純弱放射能冷鉱泉」です。
             </p>
             <p>
               pH8.0前後のマイルドなアルカリ性の湯は、運動によって酸性に傾いた皮膚表面を中和し、毛穴に詰まった皮脂汚れを優しく乳化して洗い流します。さらに、温浴効果による末梢血管の拡張が血流を飛躍的に促進し、筋肉に溜まった疲労物質（乳酸）の代謝と排出をスムーズに後押しします。湯船に浸かりながら足指やふくらはぎを優しく揉みほぐすことで、翌朝に筋肉痛を残さず、爽快な目覚めを迎えられます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-orange-700" />
-              <span>オレイン酸が生む奇跡の霜降り「讃岐オリーブ牛」と、伊吹島産いりこ出汁の深遠</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-orange-700" />
+              <span>オレイン酸が生む奇跡の霜降り「讃岐オリーブ牛」と、伊吹島産いりこ出汁の深遠</span></h3>
             <p>
               香川県が誇るプレミアム黒毛和牛「讃岐オリーブ牛」は、小豆島でオリーブオイルを搾った後の果実粕を独自の技術でじっくり乾燥・焙煎し、出荷前の肥育牛に一定期間給餌して育てられます。オリーブ果実に含まれる豊富なオレイン酸が牛の脂肪交雑（サシ）に移行することで、脂の融点が劇的に下がり、人肌程度の温度でさらりと溶ける極上の口どけを実現しています。抗酸化成分ポリフェノールも豊富で、脂っこさを感じさせない上品な後味が特徴です。
             </p>
@@ -316,9 +306,7 @@ export default function KotohiraOnsenWinterPage() {
               <Star className="w-3.5 h-3.5 fill-orange-700 text-orange-700" />
               <span>Rakuten Travel Verified Kotohira Stays</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月におすすめのことひら温泉郷・厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめのことひら温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、金刀比羅宮へのアクセス、讃岐富士の展望露天風呂、讃岐オリーブ牛＆手打ちうどん料理の満足度が高い宿を厳選しました。
             </p>
@@ -353,9 +341,7 @@ export default function KotohiraOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-orange-700 transition-colors">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-orange-700 transition-colors">{h.name}</h3>
                     </div>
                     <p className="text-xs text-orange-800 font-semibold flex items-center gap-1">
                       <Sparkles className="w-3.5 h-3.5 text-orange-600" />
@@ -420,9 +406,7 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                こんぴら参りと讃岐富士絶景を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">こんぴら参りと讃岐富士絶景を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4 text-slate-700 text-sm sm:text-base">
@@ -476,26 +460,20 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・石段参拝の注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・石段参拝の注意点</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-700" />
-                <span>気候と石段参拝時の服装</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-700" />
+                <span>気候と石段参拝時の服装</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 琴平の初冬は瀬戸内気候で日中は12℃〜16℃と穏やかですが、朝晩は5℃前後まで冷え込みます。石段を登る際は体温が急上昇して汗をかくため、吸汗速乾性のインナーの上に脱ぎ着しやすいウインドブレーカーやジップアップフリースを羽織る重ね着がベストです。足元は滑りにくいクッション性の高いスニーカーを必ず着用してください。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-orange-700" />
-                <span>参拝杖の活用と水分補給</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-orange-700" />
+                <span>参拝杖の活用と水分補給</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 表参道のお土産店や旅館では参拝用の木製杖を無料または安価で貸し出しています。杖があるだけで膝や腰への負担が大幅に軽減されます。冬でも石段登りは水分を消費するため、ボトル飲料を持参し、無理のないペースで小休止を挟みながら登りましょう。
               </p>
@@ -511,18 +489,14 @@ export default function KotohiraOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）とことひら温泉郷の冬旅アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）とことひら温泉郷の冬旅アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -535,9 +509,7 @@ export default function KotohiraOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-orange-400 uppercase tracking-widest">Related Shikoku & Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい四国・西日本の冬名湯＆全国絶景特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい四国・西日本の冬名湯＆全国絶景特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの歴史ある名湯や冬の郷土会席を味わう全国の人気特集もぜひご覧ください。
             </p>

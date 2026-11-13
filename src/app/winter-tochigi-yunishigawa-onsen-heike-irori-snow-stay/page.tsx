@@ -248,12 +248,10 @@ export default function WinterTochigiYunishigawaPage() {
             11月・12月 平家落人の隠れ里＆本場囲炉裏料理特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月栃木・日光湯西川温泉】初雪渓谷美と平家落人伝説
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月栃木・日光湯西川温泉】初雪渓谷美と平家落人伝説
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               名物囲炉裏会席・平家狩場焼＆とちぎ和牛・源泉かけ流し雪見露天名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、栃木県日光市の深山幽谷に抱かれた「湯西川温泉」は、広葉樹の紅葉が散り落ちるとともに白銀の初雪が舞い始め、茅葺き屋根の古民家や湯西川渓谷が静謐な冬景色に包まれます。壇ノ浦の戦いに敗れた平家の落人たちが落ち延び、河原の炭火で野鳥や川魚を焼いたことに端を発する伝統の「本場囲炉裏（いろり）料理」平家狩場焼、山椒香るばんだい餅、とろける霜降りの「とちぎ和牛」、香ばしいイワナの骨酒。そして湯守が守り継ぐpH9前後の柔らかな源泉かけ流し雪見露天風呂。深山に佇む平家伝承の厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterTochigiYunishigawaPage() {
             <Landmark className="w-4 h-4" />
             日光・湯西川温泉 初冬の深山情景
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">
-            800年の歴史息づく平家落人の隠れ里。赤々と燃える囲炉裏の炭火と初雪舞う渓谷の静謐
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">800年の歴史息づく平家落人の隠れ里。赤々と燃える囲炉裏の炭火と初雪舞う渓谷の静謐</h2>
           <div className="text-sm sm:text-base text-stone-600 leading-relaxed space-y-4">
             <p>
               栃木県北西部、日光国立公園の奥深き山峡に沿って細長く広がる「湯西川温泉（ゆにしがわおんせん）」。文治元（1185）年の壇ノ浦の合戦で源氏に敗れた平家一門が、追手の追撃を逃れてこの険しい山深き地に隠れ住み、河原に湧き出る温泉を見つけて傷を癒したという伝説が今なお息づく、日本を代表する落人の隠れ里です。
@@ -308,9 +304,7 @@ export default function WinterTochigiYunishigawaPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の湯西川温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の湯西川温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               平家伝承の食文化と雪見の秘湯、奥日光深山の静寂を五感で堪能する
             </p>
@@ -321,9 +315,7 @@ export default function WinterTochigiYunishigawaPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                本場囲炉裏会席・平家狩場焼
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">本場囲炉裏会席・平家狩場焼</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 炭火で香ばしく炙る清流イワナの塩焼き、一升べら、ばんだい餅。霜降りとちぎ和牛ステーキや熱々イワナ骨酒の深いコク。
               </p>
@@ -333,9 +325,7 @@ export default function WinterTochigiYunishigawaPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                湯西川渓谷の初雪と雪見露天風呂
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">湯西川渓谷の初雪と雪見露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 11月下旬からの初雪景色。pH9前後の肌触り優しい源泉かけ流し天然温泉に浸かりながら望む、白銀の渓流パノラマ。
               </p>
@@ -345,9 +335,7 @@ export default function WinterTochigiYunishigawaPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                平家落人800年の歴史ロマン
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">平家落人800年の歴史ロマン</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 鶏を飼わず鯉のぼりを揚げない落人の掟。茅葺き古民家や「平家の里」に息づく、静寂に満ちた山里の文化遺産。
               </p>
@@ -361,9 +349,7 @@ export default function WinterTochigiYunishigawaPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-amber-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">
-              日光湯西川温泉 平家伝承と囲炉裏料理の名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">日光湯西川温泉 平家伝承と囲炉裏料理の名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,12 +397,10 @@ export default function WinterTochigiYunishigawaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -474,9 +458,7 @@ export default function WinterTochigiYunishigawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-amber-100">
             <Compass className="w-6 h-6 text-amber-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の日光湯西川温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の日光湯西川温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -506,33 +488,25 @@ export default function WinterTochigiYunishigawaPage() {
             <Utensils className="w-4 h-4" />
             深山と平家の食文化
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold leading-snug">
-            炭火の香ばしさと極上の旨味。初冬の湯西川で味わい尽くす郷土の贅
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold leading-snug">炭火の香ばしさと極上の旨味。初冬の湯西川で味わい尽くす郷土の贅</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-400" />
-                伝統の平家狩場焼＆ばんだい餅
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-400" />
+                伝統の平家狩場焼＆ばんだい餅</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 落人たちが炭火で炙ったことに始まる狩場焼。竹串に刺した岩魚の塩焼きや、鶏ひき肉と山芋を練り合わせた「一升べら」、特製山椒味噌を塗って香ばしく焼き上げる「ばんだい餅」の素朴で力強い美味しさ。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                とろける霜降り「とちぎ和牛」
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Utensils className="w-4 h-4 text-amber-400" />
+                とろける霜降り「とちぎ和牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 栃木の豊かな自然と良質な水で育まれた「とちぎ和牛」。きめ細やかな霜降りと上品な甘みが特徴で、囲炉裏の炭火陶板焼きや熱々のすき焼き鍋で味わえば、口の中でとろけるような贅沢な肉汁が溢れます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-amber-400" />
-                香ばしい清流イワナの骨酒
-              </h3>
+              <h3 className="font-bold text-amber-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-amber-400" />
+                香ばしい清流イワナの骨酒</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 じっくり素焼きにした新鮮なイワナを青竹や特製徳利に入れ、熱々の辛口地酒を注ぎ込んで出汁を抽出する「骨酒」。魚の旨味と香ばしさが溶け出した琥珀色の酒は、初冬の冷えた身体を芯から温めます。
               </p>
@@ -546,15 +520,11 @@ export default function WinterTochigiYunishigawaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の湯西川温泉 交通アクセス＆冬道運転のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の湯西川温泉 交通アクセス＆冬道運転のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                車・電車・バスでのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                車・電車・バスでのアクセス方法</h3>
               <p>
                 車の場合は、日光宇都宮道路今市ICより国道121号・県道249号経由で約60分です。11月下旬以降は路面凍結や積雪が発生するため、スタッドレスタイヤの装着が必須となります。
               </p>
@@ -564,10 +534,8 @@ export default function WinterTochigiYunishigawaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                気候と防寒・散策時の注意事項
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                気候と防寒・散策時の注意事項</h3>
               <p>
                 12月の湯西川温泉は朝晩の気温が-5℃前後に達します。厚手のダウンコート、ニット帽、手袋、マフラーに加え、雪道でも滑りにくい溝の深い防寒スノーブーツをご用意ください。
               </p>
@@ -584,16 +552,12 @@ export default function WinterTochigiYunishigawaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の日光湯西川温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の日光湯西川温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -605,10 +569,8 @@ export default function WinterTochigiYunishigawaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい栃木・北関東の雪見温泉・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい栃木・北関東の雪見温泉・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               冬の雪景色や名湯、ブランド牛を堪能する栃木・北関東各地の厳選旅ガイド
             </p>
@@ -620,9 +582,7 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鬼怒川温泉の渓谷雪見露天と老舗旅館ステイ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鬼怒川温泉の渓谷雪見露天と老舗旅館ステイ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 鬼怒川渓谷のパノラマ絶景と名湯、日光ゆば会席を満喫する名宿。
               </p>
@@ -633,9 +593,7 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・奥日光中禅寺湖</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                奥日光中禅寺湖の初雪レイクビューと乳白色硫黄泉
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">奥日光中禅寺湖の初雪レイクビューと乳白色硫黄泉</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白銀の男体山を望むレイクサイドリゾートと濃厚な源泉かけ流し。
               </p>
@@ -646,9 +604,7 @@ export default function WinterTochigiYunishigawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">栃木・那須塩原温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                塩原十一湯の渓流雪見露天ととちぎ和牛すき焼き宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">塩原十一湯の渓流雪見露天ととちぎ和牛すき焼き宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 箒川渓谷の雪景色と名物塩原高原大根・とちぎ和牛を堪能。
               </p>

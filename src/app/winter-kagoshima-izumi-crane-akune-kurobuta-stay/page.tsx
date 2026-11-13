@@ -272,9 +272,7 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Winter Highlights</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の北薩摩が旅人を惹きつける理由：天を舞う一万羽のツルと武士の誇りが息づく古都
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の北薩摩が旅人を惹きつける理由：天を舞う一万羽のツルと武士の誇りが息づく古都</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -293,9 +291,7 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-              出水＆阿久根・さつま！ツル観察と極上美肌湯・黒豚を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-stone-900">出水＆阿久根・さつま！ツル観察と極上美肌湯・黒豚を堪能する名宿5選</h2>
             <p className="text-stone-600 text-xs md:text-sm">
               楽天トラベルで卓越した評価を獲得し、ツル観察拠点や神の湯・阿久根鮮魚を誇る宿を厳選
             </p>
@@ -318,9 +314,7 @@ export default function KagoshimaIzumiAkunePage() {
                           <span className="text-stone-400 ml-1">({hotel.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 flex items-center gap-1.5 mt-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 flex-shrink-0" />
                         {hotel.access}
@@ -340,10 +334,8 @@ export default function KagoshimaIzumiAkunePage() {
 
                   {/* ハイライト3点 */}
                   <div className="bg-rose-50/50 rounded-2xl p-4 md:p-5 border border-rose-100 space-y-2.5">
-                    <h4 className="text-xs font-black text-rose-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <Sparkles className="w-3.5 h-3.5 text-rose-600" />
-                      この宿の注目ポイント＆こだわり
-                    </h4>
+                    <h4 className="text-xs font-black text-rose-900 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-rose-600" />
+                      この宿の注目ポイント＆こだわり</h4>
                     <ul className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-xs text-stone-700">
                       {hotel.highlights.map((hl, hIdx) => (
                         <li key={hIdx} className="flex items-start gap-1.5">
@@ -392,37 +384,29 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Local Food & Culture</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の北薩摩で絶対に味わうべき三大味覚：阿久根華アジ・かごしま黒豚・出水赤鶏
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の北薩摩で絶対に味わうべき三大味覚：阿久根華アジ・かごしま黒豚・出水赤鶏</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-stone-700">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
-                東シナ海の至宝「阿久根華アジ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
+                東シナ海の至宝「阿久根華アジ」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 阿久根沖の激しい潮流にもまれて育つ瀬付きのアジ。全身に細やかな霜降りの脂が乗り、獲れたてのお造りはコリコリとした歯ごたえと甘みが秀逸。さらに冬が旬の天然紫ウニやタカエビとともに味わう海鮮料理は全国の魚好きを虜にしています。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
-                本場「かごしま黒豚しゃぶしゃぶ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
+                本場「かごしま黒豚しゃぶしゃぶ」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 サツマイモを餌に与えて育てられる鹿児島の黒豚（バークシャー種）。融点が高くべたつかない白身（脂身）の甘みと、繊維が細かく柔らかい赤身が極上。冬は昆布出汁や蕎麦つゆにくぐらせる熱々のしゃぶしゃぶで、肉本来の旨味を心ゆくまで堪能できます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
-                出水特産「出水赤鶏」と本格芋焼酎
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-rose-600" />
+                出水特産「出水赤鶏」と本格芋焼酎</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 出水市の澄んだ空気と清流で平飼い飼育される銘柄鶏「出水赤鶏」。適度な歯ごたえとコクのある赤身肉は、炭火焼きやタタキ、親子丼で本領を発揮。地元阿久根・出水の代表的な芋焼酎「さつま島美人」や「紫尾の露」のお湯割りとの相性は抜群です。
               </p>
@@ -434,9 +418,7 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">History & Heritage</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              薩摩武士の誇り「郷中教育」と、地元農家が400年守り継ぐツルの絆
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">薩摩武士の誇り「郷中教育」と、地元農家が400年守り継ぐツルの絆</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -452,9 +434,7 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Model Itinerary</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              【1泊2日】出水のツル大群舞と武家屋敷初詣・神の湯と黒豚満喫コース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">【1泊2日】出水のツル大群舞と武家屋敷初詣・神の湯と黒豚満喫コース</h2>
           </div>
 
           <div className="space-y-6 text-sm text-stone-700">
@@ -504,18 +484,14 @@ export default function KagoshimaIzumiAkunePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-xs font-bold text-rose-700 tracking-wider uppercase">Frequently Asked Questions</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の出水・阿久根・さつま旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の出水・阿久根・さつま旅行に関するよくある質問</h2>
           </div>
 
           <div className="divide-y divide-stone-100">
             {faqs.map((f, idx) => (
               <div key={idx} className="py-4 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2">
-                  <span className="text-rose-600 font-black">Q.</span>
-                  <span>{f.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2"><span className="text-rose-600 font-black">Q.</span>
+                  <span>{f.q}</span></h3>
                 <p className="text-xs md:text-sm text-stone-600 pl-6 leading-relaxed">
                   {f.a}
                 </p>
@@ -526,9 +502,7 @@ export default function KagoshimaIzumiAkunePage() {
 
         {/* 内部リンク・関連特集 */}
         <section className="bg-stone-100 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">
-            あわせて読みたい！九州の冬旅＆名湯特集
-          </h3>
+          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">あわせて読みたい！九州の冬旅＆名湯特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
             <Link href="/winter-kagoshima-kirishima-onsen-ryoma-black-pork-stay/" className="p-3 bg-white rounded-xl hover:text-rose-700 shadow-xs transition">
               ♨️ 霧島温泉郷！霧島神宮初詣と黒豚しゃぶしゃぶ名宿

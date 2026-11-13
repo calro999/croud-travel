@@ -406,9 +406,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <Landmark className="w-4 h-4 text-teal-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のぬる湯と佐賀牛・三瀬鶏を堪能する極上宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のぬる湯と佐賀牛・三瀬鶏を堪能する極上宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -444,9 +442,7 @@ export default function SagaFuruyuKumanokawaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -496,17 +492,13 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の佐賀富士町・ぬる湯と三瀬高原グルメを巡る週末周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の佐賀富士町・ぬる湯と三瀬高原グルメを巡る週末周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【1日目】三瀬高原そばランチと古湯温泉ぬる湯体験
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【1日目】三瀬高原そばランチと古湯温泉ぬる湯体験</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -532,10 +524,8 @@ export default function SagaFuruyuKumanokawaWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【2日目】共同浴場「英龍温泉」と三瀬高原ファーム巡り
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【2日目】共同浴場「英龍温泉」と三瀬高原ファーム巡り</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -569,27 +559,21 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               初冬の富士町・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街で手に入れたい初冬の佐賀銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街で手に入れたい初冬の佐賀銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                三瀬そば街道と石臼挽き手打ち十割そば
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                三瀬そば街道と石臼挽き手打ち十割そば</h3>
               <p>
                 古湯温泉から車で約15分の三瀬村を貫く国道263号線沿いには、名店が軒を連ねる「三瀬そば街道」があります。脊振山系の清らかな湧水と寒暖差の大きい気候で育った新そば粉を使った手打ち蕎麦は、11月から12月がまさに新そばのベストシーズン。喉越しの良さと豊かな香りが際立ち、名物「板そば」を地元の仲間や家族とシェアして味わうのが定番の楽しみ方です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-teal-700" />
-                佐賀銘酒「鍋島」「東一」と三瀬高原の乳製品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-teal-700" />
+                佐賀銘酒「鍋島」「東一」と三瀬高原の乳製品</h3>
               <p>
                 佐賀県は全国有数の酒どころ。世界最高峰のワイン品評会IWCでチャンピオンサケに輝いた「鍋島」をはじめ、「東一」「七田」「天吹」など芳醇旨口の純米酒が揃い、温泉街の酒屋や宿で入手できます。また三瀬高原の牧場直営店では、初冬の濃厚なジャージー牛乳で作られたソフトクリームやカマンベールチーズ、ロールケーキが並び、ドライブの立ち寄りに最適です。
               </p>
@@ -604,24 +588,18 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <ThermometerSun className="w-4 h-4 text-teal-800" />
               初冬の古湯・熊の川温泉・泉質と入浴メカニズム徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ38℃の「ぬる湯」は冬の心身を極限までリラックスさせるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ38℃の「ぬる湯」は冬の心身を極限までリラックスさせるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-teal-700" />
-              体温同等の「不感温度帯」がもたらす自律神経の劇的リセット
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-700" />
+              体温同等の「不感温度帯」がもたらす自律神経の劇的リセット</h3>
             <p>
               古湯温泉の源泉温度である38℃前後は、医学的に「不感温度帯」と呼ばれます。これは熱さや冷たさを感知する皮膚の受容器が刺激されず、体温調節のためのエネルギー消費が最も少なくなる理想的な温度域です。高温の温泉に入った際に起こる急激な血圧上昇や交感神経の緊張が一切生じないため、心身を急速に副交感神経優位（リラックス状態）へと導きます。初冬の冷気で無意識にこわばった筋肉が自然と弛緩し、30分以上ゆったりと浸かることで脳の緊張が解きほぐされていきます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-teal-700" />
-              pH9.5の高アルカリ性泉質が生み出す天然の乳液効果
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-teal-700" />
+              pH9.5の高アルカリ性泉質が生み出す天然の乳液効果</h3>
             <p>
               古湯・熊の川の湯は、重曹成分やメタケイ酸を含むpH9.0〜9.5のアルカリ性単純温泉。アルカリ性の湯は肌表面の余分な皮脂や古い角質を石鹸のように乳化させて洗い流す作用があり、入浴中から肌がツルツルと滑らかになります。さらに湯上がりの肌は水分を吸収しやすい状態になるため、乾燥しがちな初冬の素肌に驚くほどのしっとり感と透明感をもたらします。熊の川温泉に含まれる微量ラドン成分との相乗効果により、湯冷めしにくい体質改善効果も期待できます。
             </p>
@@ -635,18 +613,14 @@ export default function SagaFuruyuKumanokawaWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の古湯温泉・熊の川温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の古湯温泉・熊の川温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

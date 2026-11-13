@@ -58,10 +58,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            新幹線延伸で注目の福井！格安ホテルに泊まって越前ガニ解禁や恐竜博物館へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            新幹線延伸で注目の福井！格安ホテルに泊まって越前ガニ解禁や恐竜博物館へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             駅前に恐竜モニュメントが並び大賑わいの福井駅前ですが、ビジネスホテルが豊富で1泊3,000円台〜5,000円前後とリーズナブル。浮いた宿泊費で11月解禁の越前ガニ（黄色いタグ付き）や、福井名物水ようかん、黒龍など銘酒の飲み比べを存分に堪能できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルフクイキャッスル
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルフクイキャッスル</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   福井城址公園のお堀端 / JR福井駅西口より徒歩10分
@@ -151,9 +147,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテル京福　福井駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル京福　福井駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR福井駅東口より徒歩1分（えちぜん鉄道駅隣接）
@@ -206,9 +200,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ９ＳＴＡＹ福井駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">９ＳＴＡＹ福井駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR福井駅西口より徒歩2分
@@ -261,9 +253,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルフジタ福井
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルフジタ福井</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   福井市中心街・片町徒歩1分 / JR福井駅西口徒歩8分
@@ -316,9 +306,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ福井駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ福井駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR福井駅西口より徒歩1分
@@ -353,10 +341,8 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の福井グルメ＆城下町旅を格安に遊び尽くすポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の福井グルメ＆城下町旅を格安に遊び尽くすポイント</h2>
           <ul className="space-y-2 text-sm text-emerald-100/90 leading-relaxed">
             <li>・秋収穫の「越前新そば」は風味抜群。辛み大根の絞り汁と出汁をぶっかけたおろしそばはハシゴ必須の郷土食。</li>
             <li>・ヨーロッパ軒のソースカツ丼はテイクアウトも人気。ホテルのお部屋でビールとともに楽しむのも最高。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「福井駅前：越前おろしそば＆ソースカツ丼・福井城跡！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 福井駅前エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">福井駅前エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

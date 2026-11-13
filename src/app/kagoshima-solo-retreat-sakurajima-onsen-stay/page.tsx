@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            噴煙たなびく桜島の雄姿と、錦江湾の青い海——南国の力強い生命力と極上温泉に身を委ねる「鹿児島リフレッシュステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">噴煙たなびく桜島の雄姿と、錦江湾の青い海——南国の力強い生命力と極上温泉に身を委ねる「鹿児島リフレッシュステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             九州新幹線「みずほ」「さくら」の終着駅であり、南九州の政治・経済の中枢・鹿児島。活火山「桜島」が錦江湾越しに日常の風景としてそびえ立ち、南国特有の陽光とヤシの並木が旅人を迎えます。西郷隆盛や大久保利通を輩出した明治維新の熱気が息づく街であり、夜になれば南九州最大の歓楽街「天文館」から漂う黒豚しゃぶしゃぶ、地鶏の炭火焼き、キビナゴの刺身、そして本場芋焼酎の芳醇な香りが五感を満たします。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   標高108mの城山山頂にそびえる迎賓館！桜島と錦江湾、鹿児島市街を一望する絶景露天風呂「さつま乃湯」
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島） —— 鹿児島を代表する名門ホテル。美肌の展望露天温泉と80種の贅沢朝食ビュッフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">SHIROYAMA HOTEL kagoshima（城山ホテル鹿児島） —— 鹿児島を代表する名門ホテル。美肌の展望露天温泉と80種の贅沢朝食ビュッフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR鹿児島中央駅東口正面直結！駅前広場と桜島を見下ろすスタイリッシュ高層ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ソラリア西鉄ホテル鹿児島 —— 新幹線改札すぐ。7階ロビーから広がる桜島ビューと洗い場付き快適客室
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ソラリア西鉄ホテル鹿児島 —— 新幹線改札すぐ。7階ロビーから広がる桜島ビューと洗い場付き快適客室</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   天文館通電停から徒歩約2分！天然温泉大浴場とサウナ・名物「黒豚しゃぶしゃぶ」朝食バイキング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 霧桜の湯 ドーミーイン鹿児島 —— 歓楽街の中心。自家源泉の天然温泉と夜鳴きそば完備の安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 霧桜の湯 ドーミーイン鹿児島 —— 歓楽街の中心。自家源泉の天然温泉と夜鳴きそば完備の安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              鹿児島の夜をひとり旅で満喫するスマートグルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">鹿児島の夜をひとり旅で満喫するスマートグルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 天文館の居酒屋では芋焼酎を「前割り（まえわり）」で頼む
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 天文館の居酒屋では芋焼酎を「前割り（まえわり）」で頼む</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 あらかじめ水と焼酎を5:5などで馴染ませて寝かせた前割り。まろやかでカドが取れた極上の口当たりを黒じょかで温めていただきます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 黒豚料理は「しゃぶしゃぶ」または「とんかつ」の専門店へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 黒豚料理は「しゃぶしゃぶ」または「とんかつ」の専門店へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 きめ細かく甘みのある脂身が特徴のかごしま黒豚。ポン酢ではなく出汁つゆで食べる黒豚しゃぶしゃぶは絶品です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. フェリーで桜島へ渡り「溶岩なぎさ公園の足湯」でリフレッシュ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. フェリーで桜島へ渡り「溶岩なぎさ公園の足湯」でリフレッシュ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 鹿児島港から桜島フェリーでわずか約15分（24時間運航）。錦江湾の海風を感じながら浸かる全長100mの無料足湯は最高の癒やしです。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>鹿児島空港から市内中心部まではどうやって行きますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>鹿児島空港から市内中心部まではどうやって行きますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 鹿児島空港から市内行きリムジンバスが頻発しており、鹿児島中央駅や天文館まで約40〜50分で直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>桜島の火山灰が降ってきた時の注意点はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>桜島の火山灰が降ってきた時の注意点はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 降灰時はコンタクトレンズより眼鏡の着用が推奨されます。ホテルでは傘の貸出を行っており、市街地では衣服を軽く払うだけで問題なく観光できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＳＨＩＲＯＹＡＭＡ ＨＯＴＥＬ ｋａｇｏｓｈｉｍａを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

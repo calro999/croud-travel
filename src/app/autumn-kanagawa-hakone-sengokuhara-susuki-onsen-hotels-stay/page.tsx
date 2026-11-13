@@ -55,9 +55,7 @@ export default function HakoneSengokuharaAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            黄金の海が広がる仙石原すすき草原と白濁湯の魅力
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">黄金の海が広がる仙石原すすき草原と白濁湯の魅力</h2>
           <p className="mb-4 text-stone-700">
             「かながわの景勝50選」にも選ばれる仙石原すすき草原は、秋の訪れとともに銀色から黄金色へと姿を変え、山肌一面をまばゆく埋め尽くします。草原の中央には一本の散策路が貫通しており、背丈を超えるススキの波の中を歩く体験はまるで別世界に迷い込んだかのよう。特に午後遅く、西日が差し込む時間帯の輝きは言葉を失うほどの美しさです。
           </p>
@@ -69,10 +67,8 @@ export default function HakoneSengokuharaAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！仙石原・強羅温泉の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！仙石原・強羅温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function HakoneSengokuharaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.67</span>
                     <span className="text-stone-400 text-xs">(175件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。
                   </p>
@@ -142,9 +136,7 @@ export default function HakoneSengokuharaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.59</span>
                     <span className="text-stone-400 text-xs">(300件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ＢＬＩＳＳＴＩＡ箱根仙石原
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ＢＬＩＳＳＴＩＡ箱根仙石原</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / バス停「仙石原小学校前」徒歩2分／箱根湯本駅よりバスで約25分／バスタ新宿より高速バスにて約2時間
                   </p>
@@ -189,9 +181,7 @@ export default function HakoneSengokuharaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.33</span>
                     <span className="text-stone-400 text-xs">(18件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    箱根仙石原温泉　金時山荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">箱根仙石原温泉　金時山荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅から箱根登山バス乗車３０分。「仙石バス亭」下車・御殿場方面に向かって徒歩１０分
                   </p>
@@ -236,9 +226,7 @@ export default function HakoneSengokuharaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.11</span>
                     <span className="text-stone-400 text-xs">(1838件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    仙石原温泉　箱根ホテル花月園
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">仙石原温泉　箱根ホテル花月園</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 小田原駅 / 東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。
                   </p>
@@ -283,9 +271,7 @@ export default function HakoneSengokuharaAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.97</span>
                     <span className="text-stone-400 text-xs">(101件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    フォートリート箱根仙石原
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">フォートリート箱根仙石原</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 箱根湯本駅 / 箱根湯本駅／箱根登山バス湖尻桃源台行約２５分、俵石・箱根ガラスの森前徒歩約１５分
                   </p>
@@ -330,9 +316,7 @@ export default function HakoneSengokuharaAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり湯！秋絶景を愛でるおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function HakoneSengokuharaAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の箱根エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の箱根エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

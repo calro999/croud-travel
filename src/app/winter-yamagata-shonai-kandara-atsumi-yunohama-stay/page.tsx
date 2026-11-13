@@ -301,9 +301,7 @@ export default function YamagataShonaiKandaraWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の日本海が育む熱き漁師の魂「寒鱈汁」と、ユネスコ食文化創造都市・鶴岡の真髄
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の日本海が育む熱き漁師の魂「寒鱈汁」と、ユネスコ食文化創造都市・鶴岡の真髄</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function YamagataShonaiKandaraWinterPage() {
               <Sparkles className="w-4 h-4 text-indigo-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              庄内・鶴岡・酒田の冬絶景と美食を味わい尽くす名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">庄内・鶴岡・酒田の冬絶景と美食を味わい尽くす名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function YamagataShonaiKandaraWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function YamagataShonaiKandaraWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の庄内・鶴岡・酒田 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の庄内・鶴岡・酒田 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：庄内空港到着・出羽三山羽黒山の雪景色と湯野浜温泉オーシャンビュー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：庄内空港到着・出羽三山羽黒山の雪景色と湯野浜温泉オーシャンビュー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 おいしい庄内空港またはJR鶴岡駅に到着後、バスまたはレンタカーで羽黒山へ。巨杉が立ち並ぶ雪の参道を歩き、荘厳な国宝・羽黒山五重塔を参拝。冬の冷気の中で心を清めた後、世界一のクラゲ展示を誇る「加茂水族館（クラゲドリーム館）」へ。夜は日本海に面した湯野浜温泉へチェックイン。荒波寄せる日本海の夕景を露天風呂から眺め、夕食には熱々の寒鱈汁や庄内牛会席を堪能します。
               </p>
@@ -475,9 +465,7 @@ export default function YamagataShonaiKandaraWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：酒田の北前船歴史探訪・山居倉庫雪景色とあつみ温泉の名園ステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：酒田の北前船歴史探訪・山居倉庫雪景色とあつみ温泉の名園ステイ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中は港町・酒田へ。雪化粧したケヤキ並木と黒塗りの土蔵が美しい「山居倉庫」を散策し、庄内米や地酒のお土産を購入。昼食は酒田港の海鮮市場で獲れたての寒ブリやズワイガニの海鮮丼、または魚介出汁香る名物酒田ラーメンを味わいます。午後は南下して温海川沿いの名湯「あつみ温泉」へ。雪化粧した広大な日本庭園を眺め、開湯1000年以上の歴史ある美肌の湯に浸かり、冬限定の寒鱈白子小鍋や山形牛すき焼きに舌鼓。
               </p>
@@ -486,9 +474,7 @@ export default function YamagataShonaiKandaraWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：あつみ温泉朝市・鶴岡市街のユネスコ食文化巡りとお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：あつみ温泉朝市・鶴岡市街のユネスコ食文化巡りとお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝は温海川沿いで開かれる名物「あつみ温泉朝市」へ。名物の赤かぶ漬けや栃餅、干物を地元の人々と交流しながらお買い物。チェックアウト後は鶴岡市街へ戻り、庄内藩主酒井家の歴史を伝える致道博物館や藩校致道館を見学。昼食は老舗の割烹で弁慶飯や庄内の冬郷土料理を堪能。庄内空港または鶴岡駅から帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function YamagataShonaiKandaraWinterPage() {
             <ThermometerSun className="w-4 h-4 text-indigo-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の庄内を快適に巡るための防寒装備・道路凍結注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の庄内を快適に巡るための防寒装備・道路凍結注意点</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【服装と足元：地吹雪と防水対策】</span>
@@ -528,26 +512,20 @@ export default function YamagataShonaiKandaraWinterPage() {
               <ShoppingBag className="w-4 h-4 text-indigo-800" />
               庄内・鶴岡・酒田の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              北前船の文化と肥沃な庄内平野が育んだ伝統の銘品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">北前船の文化と肥沃な庄内平野が育んだ伝統の銘品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                温海かぶの甘酢漬け・民芸菓子「からから煎餅」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                温海かぶの甘酢漬け・民芸菓子「からから煎餅」</h3>
               <p>
                 あつみ温泉周辺の焼畑農法で育つ伝統野菜「温海かぶ」。鮮やかな赤紫色とパリッとした歯ごたえ、甘酸っぱい風味が冬の食卓の最高のお供になります。また、鶴岡の伝統駄菓子「からから煎餅」は、黒糖風味の三角煎餅を割ると中から可愛らしい民芸玩具や鈴が出てくる縁起菓子。子どもから大人まで笑顔になれる庄内ならではの名物手土産です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                庄内名酒「初孫」「麓井」「楯野川」の冬のしぼりたて生酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                庄内名酒「初孫」「麓井」「楯野川」の冬のしぼりたて生酒</h3>
               <p>
                 日本有数の米どころ・庄内平野は、鳥海山や出羽三山の超軟水の伏流水に恵まれた日本酒の聖地です。「初孫」の生酛造り、「麓井」「楯野川」の純米大吟醸など、11月から1月にかけて各蔵から登場する「しぼりたて新酒」や「にごり酒」は、冬の寒鱈汁や寒ブリ、庄内牛の脂と抜群のマリアージュを奏でます。酒田や鶴岡の酒販店や旅館の売店で購入可能です。
               </p>
@@ -562,27 +540,21 @@ export default function YamagataShonaiKandaraWinterPage() {
               <Compass className="w-4 h-4 text-indigo-800" />
               庄内食文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ鶴岡はユネスコ食文化創造都市に選ばれ、冬の寒鱈が神聖視されるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ鶴岡はユネスコ食文化創造都市に選ばれ、冬の寒鱈が神聖視されるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-indigo-700" />
-                出羽三山の山岳信仰と北前船貿易が生んだ食の重層性
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-indigo-700" />
+                出羽三山の山岳信仰と北前船貿易が生んだ食の重層性</h3>
               <p>
                 鶴岡市が日本で初めてユネスコ食文化創造都市に認定された理由は、数百年にわたり農家が一子相伝で受け継いできた数十種もの「在来作物」、出羽三山の修験道から生まれた精神性の高い「精進料理」、そして江戸時代に日本海を行き交った北前船がもたらした京都・上方文化の融合にあります。冬の厳しい自然と対峙しながら、食材の命を余すところなく尊ぶ精神が、寒鱈を骨から肝まで一滴も無駄にせず食す「どんがら汁」の文化を生み出しました。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-indigo-700" />
-                恵比寿講と寒鱈：庄内の人々の冬の感謝の祈り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-indigo-700" />
+                恵比寿講と寒鱈：庄内の人々の冬の感謝の祈り</h3>
               <p>
                 庄内地方では古くから、初冬の12月上旬に行われる商売繁盛と家内安全の神事「恵比寿講（えびすこう）」のお供え物として、丸ごと一本の寒鱈を神棚に捧げる風習があります。荒れ狂う冬の日本海に命がけで漕ぎ出し、海の恵みを持ち帰ってくれた漁師への敬意と、神への感謝を込めて家族揃って寒鱈汁をいただく。一杯のどんがら汁には、庄内の厳しくも豊かな風土と人々の温かな祈りが凝縮されているのです。
               </p>
@@ -597,18 +569,14 @@ export default function YamagataShonaiKandaraWinterPage() {
               <HelpCircle className="w-4 h-4 text-indigo-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の庄内・鶴岡・酒田旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の庄内・鶴岡・酒田旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

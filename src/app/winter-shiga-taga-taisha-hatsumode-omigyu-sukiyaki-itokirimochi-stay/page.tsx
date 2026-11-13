@@ -259,9 +259,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  多賀・彦根・八日市 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">多賀・彦根・八日市 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -284,9 +282,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    料亭旅館やす井
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">料亭旅館やす井</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     明治2年創業・彦根城下の数寄屋造り料亭旅館・美しい日本庭園と極上近江牛懐石
                   </p>
@@ -351,9 +347,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    彦根キャッスル　リゾート＆スパ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">彦根キャッスル　リゾート＆スパ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     国宝彦根城天守を真正面に望むキャッスルビュー温泉・近江牛ダイニング
                   </p>
@@ -418,9 +412,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルビワドッグ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルビワドッグ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     琵琶湖畔に佇む愛犬同伴ラグジュアリーリゾート・全室レイクビューと創作和会席
                   </p>
@@ -485,9 +477,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    永源寺温泉　八風の湯　宿「八風別館」
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">永源寺温泉　八風の湯　宿「八風別館」</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     鈴鹿山脈の清流沿いに佇む美肌天然温泉・全室露天風呂付き離れ宿で癒やす冬
                   </p>
@@ -552,9 +542,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    クレフィール湖東
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">クレフィール湖東</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     湖東の丘陵に広がるパノラマビュー・近江牛会席と弱アルカリ性展望温泉
                   </p>
@@ -630,10 +618,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・新幹線：JR東海道新幹線「米原駅」よりJR琵琶湖線（新快速）で彦根駅まで約5分。多賀大社へは彦根駅より近江鉄道本線・多賀線で「多賀大社前駅」まで約15分、駅より徒歩約10分。正月三が日および初詣期間は彦根駅・多賀大社前駅発着の臨時シャトルバスも運行。京都駅から彦根駅までJR新快速で約50分。</p>
@@ -648,9 +634,7 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の多賀・彦根・八日市旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の多賀・彦根・八日市旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <details className="group bg-white rounded-xl border border-stone-200/80 overflow-hidden">
             <summary className="p-4 text-xs sm:text-sm font-bold text-stone-900 cursor-pointer flex items-center justify-between list-none">

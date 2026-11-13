@@ -270,10 +270,8 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Overview</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-blue-500 shrink-0" />
-              白銀に灯るかまくらの温もりと大噴湯の湯煙！冬の秋田県南の息吹
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-blue-500 shrink-0" />
+              白銀に灯るかまくらの温もりと大噴湯の湯煙！冬の秋田県南の息吹</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -293,10 +291,8 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-blue-500 shrink-0" />
-              横手＆湯沢・小安峡で泊まりたい冬の厳選宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-blue-500 shrink-0" />
+              横手＆湯沢・小安峡で泊まりたい冬の厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。駅前天然温泉、秋田杉の名湯、幻の皆瀬牛、文人ゆかりの極上離れ宿を厳選。
             </p>
@@ -333,12 +329,10 @@ export default function AkitaYokoteOyasukyoWinterPage() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                         {h.access}
@@ -393,44 +387,34 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Sightseeing & Nature</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Thermometer className="w-6 h-6 text-blue-500 shrink-0" />
-              雪と氷が創り出す奇跡！横手・湯沢エリアの冬の必訪スポット
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Thermometer className="w-6 h-6 text-blue-500 shrink-0" />
+              雪と氷が創り出す奇跡！横手・湯沢エリアの冬の必訪スポット</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-blue-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. 小安峡大噴湯の「巨大氷柱しがっこ」と立ち上る白煙
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. 小安峡大噴湯の「巨大氷柱しがっこ」と立ち上る白煙</h3>
               <p className="text-xs sm:text-sm">
                 皆瀬川が削り出した深さ60mのV字谷。谷底の岩壁から98度の高熱蒸気が勢いよく噴き出す「大噴湯」は、冬期には断崖絶壁に巨大な氷柱群「しがっこ」がびっしりと垂れ下がります。湯煙とつららが交差する神秘的な光景は、遊歩道から間近に体感でき、地球の鼓動を肌で感じる大迫力のスポットです。
               </p>
             </div>
 
             <div className="border-l-4 border-blue-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 横手市ふれあいセンター「かまくら館」常設かまくら体験
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 横手市ふれあいセンター「かまくら館」常設かまくら体験</h3>
               <p className="text-xs sm:text-sm">
                 横手市役所本庁舎前に位置するかまくら館では、室温マイナス10度に保たれた冷凍室の中に本物の雪で作られたかまくらが常設されています。防寒用の半纏（はんてん）を羽織ってかまくらの中に入れば、外の音が遮断された静けさと、雪壁の不思議な温もりを一年中体感できます。
               </p>
             </div>
 
             <div className="border-l-4 border-blue-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                3. 日本三大うどん「佐藤養助 総本店」の稲庭うどん手綯い見学
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">3. 日本三大うどん「佐藤養助 総本店」の稲庭うどん手綯い見学</h3>
               <p className="text-xs sm:text-sm">
                 湯沢市稲庭町にある創業万延元年の老舗「佐藤養助 総本店」。職人たちが熟練の技で麺を一本一本手作業で綯（な）う製造工程をガラス越しに見学できます。併設の食事処では、出来立ての温かい稲庭うどんを比内地鶏の極上つけ汁でいただく贅沢なランチが楽しめます。
               </p>
             </div>
 
             <div className="border-l-4 border-blue-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                4. 川原毛地獄（かわらげじごく）と秋の宮温泉郷の秘湯散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">4. 川原毛地獄（かわらげじごく）と秋の宮温泉郷の秘湯散策</h3>
               <p className="text-xs sm:text-sm">
                 日本三大霊地の一つに数えられる川原毛地獄。冬期は積雪のため一部立ち入りが制限されますが、山麓の秋の宮温泉郷は湯量豊富な名湯が点在。荒川渓谷沿いに湧く硫黄泉に浸かり、雪に包まれた静かな温泉街を歩く時間は、大人の湯治旅に最高の癒やしをもたらします。
               </p>
@@ -442,38 +426,30 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gastronomy</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-blue-500 shrink-0" />
-              雪国秋田が誇る極上グルメ！手綯い稲庭うどん・幻の皆瀬牛・横手やきそば
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-blue-500 shrink-0" />
+              雪国秋田が誇る極上グルメ！手綯い稲庭うどん・幻の皆瀬牛・横手やきそば</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                伝統手綯い「本場稲庭うどん」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                伝統手綯い「本場稲庭うどん」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 練る・綯う・延ばすの工程を職人が全て手作業で行う伝統の平打ち麺。繊細な細さでありながら強いコシがあり、ツルツルとしたシルクのような喉越しが絶品です。冬は熱々の比内地鶏鍋の〆や温かいかけうどんで至福の味を堪能できます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                幻の希少黒毛和牛「皆瀬牛」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                幻の希少黒毛和牛「皆瀬牛」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 小安峡のある皆瀬地区で丹精込めて育てられる極少生産の黒毛和牛。きめ細やかな霜降りと肉本来の力強い旨味が特徴で、県外には滅多に出回らない幻の味。陶板焼きやステーキで噛みしめれば、芳醇な肉汁が溢れます。
               </p>
             </div>
 
             <div className="border-l-4 border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                横手やきそばと熱々きりたんぽ鍋
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                横手やきそばと熱々きりたんぽ鍋</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 B-1グランプリ王者に輝いた「横手やきそば」。ストレートの太麺に特製ソースを絡め、半熟の目玉焼きと福神漬けを添えたソウルフードです。また新米あきたこまちで作る本場のきりたんぽ鍋は、冬の寒さを吹き飛ばす最高のあったか鍋です。
               </p>
@@ -485,28 +461,22 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-blue-50/60 rounded-2xl p-6 sm:p-10 border border-blue-100 space-y-6">
           <div className="border-b border-blue-200/60 pb-4">
             <span className="text-blue-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Access & Preparation</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-blue-600 shrink-0" />
-              豪雪地帯を安全に旅する！スタッドレスタイヤ＆完全防寒の心得
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-blue-600 shrink-0" />
+              豪雪地帯を安全に旅する！スタッドレスタイヤ＆完全防寒の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700 leading-relaxed">
             <div className="bg-white p-5 rounded-xl border border-blue-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-blue-600" />
-                服装と足元の完全防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-blue-600" />
+                服装と足元の完全防寒対策</h3>
               <p>
                 横手・湯沢は厳冬期には積雪が1メートルを超え、気温も氷点下に達します。厚手のダウンコート、保温性の高いインナー、フリースの重ね着が必須。足元は圧雪やシャーベット状の雪で濡れやすいため、完全防水で滑り止めの付いた防寒スノーブーツをご着用ください。耳当て付き帽子、手袋、ネックウォーマーも必須携行品です。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-xl border border-blue-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-4 h-4 text-blue-600" />
-                雪道運転とレンタカーの選び方
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-4 h-4 text-blue-600" />
+                雪道運転とレンタカーの選び方</h3>
               <p>
                 レンタカーを利用する場合は、必ず「4WD（四輪駆動）＋最新スタッドレスタイヤ」を選択してください。国道13号・398号は除雪体制が整っていますが、吹雪による視界不良（ホワイトアウト）やわだち（轍）でのハンドル取られに注意が必要です。時間に余裕を持ったスケジュールを組み、日没前のチェックインを心がけましょう。
               </p>
@@ -518,10 +488,8 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-blue-400 shrink-0" />
-              かまくら体験と小安峡大噴湯雪見露天を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-blue-400 shrink-0" />
+              かまくら体験と小安峡大噴湯雪見露天を満喫する1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -582,18 +550,14 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の横手＆湯沢・小安峡旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の横手＆湯沢・小安峡旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -606,9 +570,7 @@ export default function AkitaYokoteOyasukyoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！東北・秋田の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！東北・秋田の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

@@ -121,9 +121,7 @@ export default function Page() {
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">
-            はじめに：秋の日光・中禅寺湖・奥日光が魅せる極上の錦秋美と温泉旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">はじめに：秋の日光・中禅寺湖・奥日光が魅せる極上の錦秋美と温泉旅</h2>
           <p className="text-slate-700 leading-relaxed mb-4">
             10月から11月にかけて、栃木県・日光・中禅寺湖・奥日光エリアは一年で最も艶やかでドラマチックな季節を迎えます。澄み渡る秋空の下、木々が深紅や山吹色、黄金色へと染まりゆく圧巻のグラデーションは、訪れる旅人の心を奪ってやみません。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
 
         {/* Highlight Map / Summary Points */}
         <section className="bg-amber-50 rounded-2xl p-6 sm:p-8 border border-amber-200 mb-12">
-          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
-            <span>🍁</span> 日光・中禅寺湖・奥日光 秋旅の3大魅力ポイント
-          </h3>
+          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">日光・中禅寺湖・奥日光 秋旅の3大魅力ポイント</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">① 標高差が織りなす絶景パノラマ</div>
@@ -202,17 +198,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とちぎ和牛の陶板焼き、日光名物の引き上げ湯波・揚巻湯波、奥日光の清流で育った岩魚の塩焼き、旬の山の幸と契約農家直送の高原野菜会席
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 白樺やカラマツの森に囲まれた露天風呂「樹林の湯」では、湯花が舞う白濁の湯に浸かりながら、黄金色に染まる奥日光の紅葉パノラマを堪能できます。
               </p>
@@ -271,17 +263,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 郷土料理をモダンにアレンジした山里和食膳。日光湯波の炊き合わせ、栃木県産ハーブ豚のしゃぶしゃぶ鍋、地場産根菜の滋味豊かな小鉢
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 奥日光の澄んだ空気と静けさのなか、硫黄の香りに包まれて心身を芯からリセット。リーズナブルながら温かなもてなしと絶品温泉が評判です。
               </p>
@@ -340,17 +328,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 板長が腕を振るう季節の本格懐石。厳選とちぎ和牛のフィレステーキ、極上生湯波のお造り、日光岩魚の姿造り、手打ち十割そば
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 全室わずか5室だからこそ叶うプライベート感と、一切薄めない極上の源泉。湯上がりに楽しむ地酒と、静寂に包まれた奥日光の夜が格別です。
               </p>
@@ -371,7 +355,7 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-amber-900 to-stone-900 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、栃木県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
@@ -405,24 +389,18 @@ export default function Page() {
           <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 日光・中禅寺湖・奥日光の紅葉の見頃時期はいつですか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 日光・中禅寺湖・奥日光の紅葉の見頃時期はいつですか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 例年10月中旬〜11月上旬の錦秋グラデーションと奥日光の白濁名湯が見頃となります。標高の高い山頂付近から徐々に色づきが始まり、山麓の温泉街へと紅葉前線が降りてくるため、長期間にわたって楽しめます。
               </p>
             </div>
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 10月〜11月の日光・中禅寺湖・奥日光は朝晩の冷え込みが厳しくなります。脱ぎ着しやすいフリースや厚手のジャケット、歩きやすいスニーカーやトレッキングシューズの着用をおすすめします。
               </p>
@@ -442,9 +420,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日光湯元温泉 日光グランドホテル ほのかな宿樹林を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日光湯元温泉 日光グランドホテル ほのかな宿樹林を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

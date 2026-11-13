@@ -259,9 +259,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  雨晴・高岡・氷見 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">雨晴・高岡・氷見 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -284,9 +282,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    移り住みたくなる宿『イミグレ』
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">移り住みたくなる宿『イミグレ』</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     氷見の海岸沿いに佇む絶景オーシャンビューホテル・富山湾フレンチと波の音
                   </p>
@@ -351,9 +347,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ブリと氷見牛の宿　ひみ栄和温泉元湯　民宿　叶
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ブリと氷見牛の宿　ひみ栄和温泉元湯　民宿　叶</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     天然温泉かけ流し！店主自ら競り落とす極上「ひみ寒ぶり」尽くし専門旅館
                   </p>
@@ -418,9 +412,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    氷見温泉郷　くつろぎの宿　うみあかり
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">氷見温泉郷　くつろぎの宿　うみあかり</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     海に浮かぶような絶景インフィニティ露天風呂・富山湾一望の天然温泉リゾート
                   </p>
@@ -485,9 +477,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    雨晴温泉　磯はなび
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">雨晴温泉　磯はなび</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     雨晴海岸の高台に位置する和風温泉旅館・海と立山連峰を望む絶景露天風呂
                   </p>
@@ -552,9 +542,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルルートイン高岡駅前
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルルートイン高岡駅前</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR高岡駅徒歩1分！国宝瑞龍寺へのアクセス抜群・ラジウム人工温泉大浴場完備
                   </p>
@@ -630,10 +618,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・新幹線：JR北陸新幹線「新高岡駅」下車。JR城端線に乗り換えて高岡駅まで約3分。雨晴海岸へは高岡駅よりJR氷見線で「雨晴駅」まで約22分、駅より徒歩約5分。国宝瑞龍寺へは新高岡駅北口より徒歩約15分、または高岡駅瑞龍寺口より徒歩約10分。氷見温泉郷へは高岡駅よりJR氷見線で氷見駅まで約30分、各宿の無料送迎バス運行。</p>
@@ -648,9 +634,7 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の雨晴・高岡・氷見旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の雨晴・高岡・氷見旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <details className="group bg-white rounded-xl border border-stone-200/80 overflow-hidden">
             <summary className="p-4 text-xs sm:text-sm font-bold text-stone-900 cursor-pointer flex items-center justify-between list-none">

@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             海の驚異と世界の名画千点超の陶板美術館
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 鳴門の渦潮（うずしお観潮船・渦の道）＆大塚国際美術館（システィーナ・礼拝堂）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 鳴門の渦潮（うずしお観潮船・渦の道）＆大塚国際美術館（システィーナ・礼拝堂）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             瀬戸内海と紀伊水道の干満差によって発生する「鳴門の渦潮」。大潮の際には最大直径20m、時速20kmに達し世界三大潮流の一つに数えられます。大鳴門橋の橋桁に作られた遊歩道「渦の道」のガラス床からは45mの高さから真下に渦潮を見下ろせます。隣接する「大塚国際美術館」は、西洋名画を陶板で原寸大再現した世界初の美術館。ミケランジェロのシスティーナ礼拝堂やモネの「大睡蓮」など約1,000点の名画を歩いて巡れます。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ベイリゾートホテル　鳴門海月
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ベイリゾートホテル　鳴門海月</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         部屋食で鳴門の会席を♪鳴門うず潮に一番近い景色に感動の旅館
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         夕日百選に選ばれる慶野松原に臨む海辺のリゾートホテル。夕食は淡路島の素材を活かした自慢の和食会席。
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        アオアヲナルトリゾート
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">アオアヲナルトリゾート</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         温泉もお部屋もオーシャンビュー！瀬戸内海国立公園内に位置する南欧風リゾートホテルです。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        グランドメルキュール淡路島リゾート＆スパ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グランドメルキュール淡路島リゾート＆スパ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【オールインクルーシブ】海と空を愉しむ！淡路島の癒しの絶景リゾートで上質な滞在を
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             国指定重要有形民俗文化財・平家落人の隠れ里
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 祖谷のかずら橋（スリル満点の空中渡橋）＆小便小僧・祖谷温泉ケーブルカー露天風呂
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 祖谷のかずら橋（スリル満点の空中渡橋）＆小便小僧・祖谷温泉ケーブルカー露天風呂</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             四国山地の急峻な山岳地帯に広がる日本三大秘境「祖谷渓（いやけい）」。平家落人が追っ手を防ぐためいつでも切り落とせるように自生するシラクチカズラを編んで架けたと伝わる「祖谷のかずら橋」。長さ45m、川面からの高さ14m、歩くたびにギシギシと揺れ、足元のすき間から清流が見えるスリルは満点。祖谷川沿いの断崖に立つ「小便小僧」や、専用ケーブルカーで高低差170mの谷底へ下りて入浴する秘湯・祖谷温泉の白濁湯は忘れられない体験です。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        新祖谷温泉　ホテルかずら橋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新祖谷温泉　ホテルかずら橋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                       </p>
@@ -400,9 +384,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             二億年の吉野川激流が刻んだ奇岩大峡谷
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 大歩危峡遊覧船＆吉野川激流ラフティング・祖谷そばと阿波尾鶏会席宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 大歩危峡遊覧船＆吉野川激流ラフティング・祖谷そばと阿波尾鶏会席宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             吉野川の上流が結晶片岩を削り取って形成した大渓谷「大歩危（おおぼけ）・小歩危（こぼけ）」。「大股で歩いても小股で歩いても危ない」ことから名付けられた奇岩絶壁が約8kmにわたって続きます。約30分間の「大歩危峡遊覧船」では、船頭の解説を聞きながら天然記念物の含礫片岩の彫刻美を間近に鑑賞。激流を下るラフティングは世界選手権が開催されるほどの世界的名所。夕食にはつなぎを使わない素朴な「祖谷そば」や徳島地鶏「阿波尾鶏」を味わえます。
           </p>
@@ -427,8 +409,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -447,9 +428,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        祖谷渓温泉　ホテル秘境の湯
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">祖谷渓温泉　ホテル秘境の湯</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         静寂な空間に古え時がよみがえる…平家伝説の里。落人伝説の地『祖谷渓』は歴史の香り漂う秘湯です。
                       </p>
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        新祖谷温泉　ホテルかずら橋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">新祖谷温泉　ホテルかずら橋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ケーブルカーで登る天空露天風呂と囲炉裏の宿。渓谷の絶景と郷土料理、温かなおもてなしでお迎えいたします
                       </p>
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        和の宿　ホテル祖谷温泉
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">和の宿　ホテル祖谷温泉</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ケーブルカーで行く谷底の源泉掛け流しの露天風呂
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        スーパーホテル徳島・小松島天然温泉
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">スーパーホテル徳島・小松島天然温泉</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">オープン！！駐車場87台無料！男女別天然温泉「金長の湯」★焼立てパン健康朝食無料
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -640,9 +613,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ベイリゾートホテル 鳴門海月を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ベイリゾートホテル 鳴門海月を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -675,9 +646,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とベイリゾートホテル 鳴門海月の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とベイリゾートホテル 鳴門海月の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

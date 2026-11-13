@@ -248,12 +248,10 @@ export default function WinterNaganoKakeyuPage() {
             11月・12月 国民保養温泉地の霊泉と名物投じ蕎麦・信州牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と雪見露天
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月長野・鹿教湯温泉＆信州上田】文殊菩薩の霊泉と雪見露天
             <span className="block text-indigo-300 text-lg sm:text-2xl mt-3 font-normal">
               屋根付き五台橋の初冬雪景色・名物信州投じ蕎麦と極上信州牛を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、信州上田の奥座敷・内村川の渓流沿いに佇む「鹿教湯温泉（かけゆおんせん）」は、初冬の静けさと美しい初雪の情景に包まれます。その昔、信仰心の厚い猟師が鹿に姿を変えた文殊菩薩に導かれて発見したという伝説から「鹿が教えた湯＝鹿教湯」と名付けられたこの地は、環境省から国民保養温泉地に指定される日本屈指の湯治場です。名所である屋根付き木造橋「五台橋（ごだいばし）」や文殊堂に初雪が降り積もる姿は息を呑むほどの旅情を醸し出します。無色透明でまろやかな弱アルカリ性単純温泉は、入浴だけでなく飲泉も可能で、身体の外側と内側の両面から疲労を癒やし血行を促進してくれます。夕食には信州の厳しい冬に生まれた伝統の郷土鍋「投じ蕎麦（とうじそば）」が登場。小分けにした新蕎麦を竹編みの「とうじ籠」に入れ、旬のキノコや冬根菜が煮立つ熱々の鍋出汁にさっとくぐらせてすする一杯は、身体の芯まで温もりを届けてくれます。さらにきめ細やかな霜降りの「信州プレミアム牛」や地酒とともに、初冬の信州で極上のリトリートを叶える厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterNaganoKakeyuPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の信州丸子・鹿教湯の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            文殊菩薩の化身が授けた名湯・屋根付き五台橋の雪化粧と熱々投じ蕎麦の温もり
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">文殊菩薩の化身が授けた名湯・屋根付き五台橋の雪化粧と熱々投じ蕎麦の温もり</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               長野県の中央部、真田氏ゆかりの城下町・上田と、国宝松本城を擁する松本の中間に位置する山あいの渓谷。内村川の清流沿いに石畳の小道と木造旅館が落ち着いた風情を漂わせる「鹿教湯温泉」は、平安時代の開湯伝説に始まる歴史ある名湯です。文殊菩薩が傷ついた鹿の姿となって猟師を導き、湯の湧き出る場所を教えたという神秘的な伝説が今も大切に語り継がれています。その卓越した効能と豊かな自然環境から、昭和31年には環境庁（現環境省）より国民保養温泉地の指定を受け、古くから中風や神経痛、リウマチの湯治場として多くの人々を救ってきました。
@@ -315,9 +311,7 @@ export default function WinterNaganoKakeyuPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              長野・鹿教湯温泉＆信州上田 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">長野・鹿教湯温泉＆信州上田 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               国民保養温泉地の源泉掛け流し、渓流雪見露天、本場信州投じ蕎麦、極上の信州牛会席を備えた名宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterNaganoKakeyuPage() {
                         <span className="text-xs font-bold text-indigo-800 bg-indigo-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-indigo-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterNaganoKakeyuPage() {
             <Utensils className="w-4 h-4 text-indigo-300" />
             初冬の信州美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の信州上田で味わい尽くす温もり郷土鍋と銘柄牛
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の信州上田で味わい尽くす温もり郷土鍋と銘柄牛</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-400" />
-                冬の伝統「信州手打ち投じ蕎麦」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-400" />
+                冬の伝統「信州手打ち投じ蕎麦」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 冷たい新蕎麦を竹編みの「とうじ籠」に入れ、キノコや鶏肉、冬根菜の旨味が凝縮された熱々の醤油出汁鍋にさっとくぐらせる伝統の味。熱々の蕎麦の喉ごしと出汁のコクが冷えた身体に染み渡ります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-indigo-400" />
-                最高峰銘柄「信州プレミアム牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-indigo-400" />
+                最高峰銘柄「信州プレミアム牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 長野県独自の美味しさ基準（オレイン酸含有率と脂肪交雑）をクリアした極上黒毛和牛。口に入れた瞬間に広がる芳醇な香りと、とろけるような滑らかな舌触りは、ステーキやすき焼きで真価を発揮します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-400" />
-                清流育ちの「信州サーモン＆地酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-400" />
+                清流育ちの「信州サーモン＆地酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 信州の冷たく清らかな湧水で丹精込めて育てられる信州サーモン。きめ細やかな肉質とクセのない上品な脂が特徴でお造りに最適。上田・真田ゆかりの地酒とともに、冬の夜を優雅に演出します。
               </p>
@@ -466,15 +450,11 @@ export default function WinterNaganoKakeyuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の鹿教湯温泉 交通アクセス＆冬道・防寒対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の鹿教湯温泉 交通アクセス＆冬道・防寒対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-indigo-700" />
-                北陸新幹線上田駅・松本駅からのバスアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-indigo-700" />
+                北陸新幹線上田駅・松本駅からのバスアクセス</h3>
               <p>
                 東京方面からは北陸新幹線上田駅より千曲バス（約50〜60分）、名古屋方面からはJR松本駅より路線バス（約50分）で鹿教湯温泉バスターミナルへ直通します。
               </p>
@@ -484,10 +464,8 @@ export default function WinterNaganoKakeyuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-700" />
-                国民保養温泉地の入浴法と飲泉の楽しみ方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-700" />
+                国民保養温泉地の入浴法と飲泉の楽しみ方</h3>
               <p>
                 鹿教湯の弱アルカリ性単純温泉は肌に優しく、1日に何度でも安心して湯浴みを楽しめます。内村川沿いの露天風呂では、外気と湯温の心地よいコントラストを味わいながらゆっくり長湯を堪能できます。
               </p>
@@ -504,16 +482,12 @@ export default function WinterNaganoKakeyuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長野・鹿教湯温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長野・鹿教湯温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-indigo-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-indigo-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterNaganoKakeyuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-indigo-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-indigo-300" />
-              あわせて読みたい信州の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-indigo-300" />
+              あわせて読みたい信州の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-indigo-200">
               歴史ある名湯と郷土の温もり鍋・信州牛を堪能する長野県各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">
-                信州の鎌倉・別所温泉の厄除け名湯と信州牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">信州の鎌倉・別所温泉の厄除け名湯と信州牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 国宝安楽寺の初冬静寂と外湯めぐり、信州プレミアム牛すき焼きの名宿。
               </p>
@@ -553,9 +523,7 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">
-                国宝松本城の白銀絶景と浅間温泉の名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">国宝松本城の白銀絶景と浅間温泉の名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 城下町松本の文化薫る奥座敷、弱アルカリ性単純温泉と信州郷土会席。
               </p>
@@ -566,9 +534,7 @@ export default function WinterNaganoKakeyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-indigo-300 bg-indigo-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">
-                外湯十三湯めぐりと極上パウダースノー
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-indigo-200 transition line-clamp-2">外湯十三湯めぐりと極上パウダースノー</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 豪雪地帯に湧く熱々の硫黄泉と名物野沢菜新漬け、信州牛すき焼きの冬旅。
               </p>

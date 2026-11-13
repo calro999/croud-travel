@@ -266,10 +266,8 @@ export default function OnogawaWinterPage() {
             <Flame className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 みちのく美肌温泉＆肉会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月米沢牛すき焼きと小野川温泉】<br className="hidden sm:inline" />
-            小野小町ゆかりの美肌名湯とかまくら雪見宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月米沢牛すき焼きと小野川温泉】<br className="hidden sm:inline" />
+            小野小町ゆかりの美肌名湯とかまくら雪見宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             白銀の里山に立ち上る湯けむりと、平安の美女・小野小町を癒やした奇跡の美肌硫黄泉。日本三大和牛「米沢牛」のとろける極上すき焼きと冬限定の豆もやしに心まで温まる贅沢旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function OnogawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Heritage & Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1200年の歴史が息づく美肌の湯と、冬こそ輝く米沢牛の真髄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1200年の歴史が息づく美肌の湯と、冬こそ輝く米沢牛の真髄</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function OnogawaWinterPage() {
           </p>
           <div className="bg-rose-50/70 rounded-2xl p-5 border border-rose-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-rose-700" />
-                新幹線からバス直行！雪国ビギナーにも優しい温泉街
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-rose-700" />
+                新幹線からバス直行！雪国ビギナーにも優しい温泉街</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 東京から山形新幹線で米沢駅まで直通約2時間10分。駅前から路線バスで約25分と、雪道運転なしで快適にアクセスできます。
               </p>
@@ -332,9 +326,7 @@ export default function OnogawaWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Winter Delights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の小野川温泉・米沢で絶対に外せない3つの魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の小野川温泉・米沢で絶対に外せない3つの魅力</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function OnogawaWinterPage() {
         <section id="hotel-list" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              米沢牛と小野川の名湯を堪能する厳選温泉旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">米沢牛と小野川の名湯を堪能する厳選温泉旅館5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルで高評価を誇る小野川温泉の名宿。源泉かけ流しの雪見風呂、米沢牛の調理法へのこだわり、心温まるもてなしで厳選しました。
             </p>
@@ -418,11 +408,9 @@ export default function OnogawaWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-rose-800 transition-colors">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-rose-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-700 text-sm leading-relaxed">
                       {hotel.story}
@@ -480,9 +468,7 @@ export default function OnogawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200 space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              【1泊2日】米沢牛と小野川美肌温泉を満喫する冬の温もり旅モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】米沢牛と小野川美肌温泉を満喫する冬の温もり旅モデルコース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               山形新幹線でスマートにアクセス！上杉神社の冬景色、小野川温泉街そぞろ歩き、米沢牛すき焼きを心ゆくまで堪能するスケジュール。
             </p>
@@ -562,40 +548,30 @@ export default function OnogawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Gourmet Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の米沢・小野川温泉で味わうべき至福の味覚4選
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の米沢・小野川温泉で味わうべき至福の味覚4選</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-rose-700">●</span> 日本三大和牛「米沢牛すき焼き」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-rose-700">●</span> 日本三大和牛「米沢牛すき焼き」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 人肌でとろける良質な脂と、深い甘みを持つ霜降り肉。冬の寒さの中、甘辛の割り下がグツグツと煮える鉄鍋を囲む時間は至福の極みです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-rose-700">●</span> 冬限定の伝統野菜「小野川豆もやし」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-rose-700">●</span> 冬限定の伝統野菜「小野川豆もやし」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 温泉熱と温泉水のみで栽培される300年の歴史を持つ名産品。長さ30cm以上あり、大豆の芳ばしいコクと驚きのシャキシャキ感が魅力。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-rose-700">●</span> 温泉街名物「ラジウム温泉卵」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-rose-700">●</span> 温泉街名物「ラジウム温泉卵」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 小野川温泉の高温泉に浸けて作られる温泉卵。白身はプリンのようにプルプル、黄身は濃厚な半熟に仕上がり、ほんのり香る硫黄が絶妙なアクセント。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-rose-700">●</span> 寒仕込みの地酒「東光・雅山流」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-rose-700">●</span> 寒仕込みの地酒「東光・雅山流」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 吾妻連峰の伏流水と山形県産酒造好適米で醸される米沢の地酒。11月〜12月は新酒の絞りたてが登場し、芳醇な旨味が米沢牛の脂をすっきりと流します。
               </p>
@@ -611,48 +587,38 @@ export default function OnogawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Q&A Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の小野川温泉・米沢旅行 よくある質問と交通ガイド
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の小野川温泉・米沢旅行 よくある質問と交通ガイド</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-rose-700 font-extrabold">Q.</span>
-                11月・12月の米沢や小野川温泉の雪の状況はどうですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                11月・12月の米沢や小野川温泉の雪の状況はどうですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年11月中旬から下旬にかけて初雪が観測され、12月中旬以降は本格的な雪景色（積雪30〜50cm以上）となります。温泉街の道路には温泉水を利用した消雪パイプが敷設されているため道路上の雪は溶けやすいですが、朝晩の冷え込みによる路面凍結があります。車でお越しの際は必ずスタッドレスタイヤを装着してください。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-rose-700 font-extrabold">Q.</span>
-                車がなくても小野川温泉へ行けますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                車がなくても小野川温泉へ行けますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 非常に快適に行けます。山形新幹線「米沢駅」西口のバス停から、山交バス「白布温泉・小野川温泉行き」が定期運行しており、約25分（運賃約580円）で小野川温泉街の目の前まで直通します。雪道運転に慣れていない首都圏からの旅行者には新幹線＋バスのルートが圧倒的におすすめです。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-rose-700 font-extrabold">Q.</span>
-                冬の服装や必要な防寒グッズは何ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                冬の服装や必要な防寒グッズは何ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 12月の米沢は最高気温でも2〜4℃、朝晩はマイナス数度まで下がります。ロング丈の厚手ダウンジャケット、ヒートテック等の保温インナー、手袋、マフラー、ニット帽をご用意ください。また、道路には消雪パイプから水が出ているため、靴は撥水・防水機能があり滑り止めがついたスノーブーツや長靴が最適です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-rose-700 font-extrabold">Q.</span>
-                名物「巨大かまくら」はいつから体験できますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                名物「巨大かまくら」はいつから体験できますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年、十分な積雪が確保される1月中旬から2月下旬頃まで温泉街にかまくらが登場します。11月・12月はかまくら設営前の初冬シーズンとなりますが、その分混雑が少なく、名湯をゆっくり独占でき、旬の初物「小野川豆もやし」や極上の米沢牛すき焼きを落ち着いて味わえる絶好の時期です。
               </p>
@@ -664,9 +630,7 @@ export default function OnogawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -679,9 +643,7 @@ export default function OnogawaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">山形冬の絶景</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">
-                蔵王樹氷スノーモンスターと蔵王強酸性温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">蔵王樹氷スノーモンスターと蔵王強酸性温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 世界的奇観「樹氷ライトアップ」と強酸性硫黄泉の極上雪見露天風呂。
               </p>
@@ -692,9 +654,7 @@ export default function OnogawaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北豪雪名湯</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                青森酸ヶ湯温泉の千人風呂と八甲田雪見宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 日本屈指の豪雪地帯！ヒバ千人風呂の白濁硫黄泉と津軽の滋味鍋。
               </p>
@@ -705,9 +665,7 @@ export default function OnogawaWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-rose-50/60 border border-stone-200 hover:border-rose-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">東北スノーリゾート</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                安比高原シルキースノーと白樺美肌温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">安比高原シルキースノーと白樺美肌温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 東北屈指のロングゲレンデと白樺の湯、前沢牛ディナーリゾート。
               </p>
@@ -716,9 +674,7 @@ export default function OnogawaWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              東北・全国の都道府県別おすすめ宿
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">東北・全国の都道府県別おすすめ宿</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/yamagata/" className="px-3 py-1.5 bg-stone-100 hover:bg-rose-100 text-stone-700 hover:text-rose-900 rounded-lg transition-colors font-medium">山形県の宿一覧</Link>
               <Link href="/prefectures/miyagi/" className="px-3 py-1.5 bg-stone-100 hover:bg-rose-100 text-stone-700 hover:text-rose-900 rounded-lg transition-colors font-medium">宮城県の宿一覧</Link>

@@ -297,10 +297,8 @@ export default function TsukiokaWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 エメラルドグリーン美肌硫黄泉＆村上牛・新潟新酒地酒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】<br className="hidden sm:inline" />
-            国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月月岡温泉のエメラルド美肌名湯と初冬味覚】<br className="hidden sm:inline" />
+            国内屈指の硫黄泉雪見露天と村上牛・初冬寒ブリ＆新潟地酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             国内第2位の硫黄含有量を誇り、神秘のエメラルドグリーンに輝く「白玉の湯」。11月下旬の初雪から12月の白銀雪化粧へと移ろう越後の原風景。とろける極上肉「村上牛」と日本海の寒ブリ、新米コシヒカリと搾りたて地酒に心酔する初冬の名宿ガイド。
           </p>
@@ -326,9 +324,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Tsukioka Emerald Waters & Echigo Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                石油発掘から生まれた奇跡の碧湯。「もっと美人になれる温泉」の真髄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">石油発掘から生まれた奇跡の碧湯。「もっと美人になれる温泉」の真髄</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -343,10 +339,8 @@ export default function TsukiokaWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-700" />
-                11月・12月月岡温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-700" />
+                11月・12月月岡温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 国内屈指のエメラルドグリーン硫黄泉・初冬の白銀雪見露天風呂・最高峰A5村上牛ステーキ・日本海寒ブリ造り・新潟新酒地酒巡り＆あしゆ湯足美ライトアップ
               </p>
@@ -397,9 +391,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Emerald Miracle</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                なぜエメラルド色に輝くのか？硫黄と光が織りなす七色の変幻
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">なぜエメラルド色に輝くのか？硫黄と光が織りなす七色の変幻</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -418,9 +410,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Winter Atmosphere</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月下旬の初雪から12月の白銀雪景色：五感で味わう雪見露天
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月下旬の初雪から12月の白銀雪景色：五感で味わう雪見露天</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -439,9 +429,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Niigata Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                幻のブランド「村上牛」と日本海寒ブリ・冬の搾りたて地酒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">幻のブランド「村上牛」と日本海寒ブリ・冬の搾りたて地酒</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function TsukiokaWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
               <span>Rakuten Travel Official API Verified</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい月岡温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい月岡温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。エメラルド美肌湯と村上牛会席で高評価を獲得している宿を厳選。
             </p>
@@ -500,9 +486,7 @@ export default function TsukiokaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -563,9 +547,7 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Town Attractions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                足湯湯足美と地酒・地魚のテーマショップ巡り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">足湯湯足美と地酒・地魚のテーマショップ巡り</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -601,29 +583,21 @@ export default function TsukiokaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Suggested Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 新潟・月岡温泉〜新発田城下町 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 新潟・月岡温泉〜新発田城下町 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-emerald-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-wider">【1日目】上越新幹線で新潟へ〜月岡温泉街散策とエメラルド美肌湯</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:30 新潟駅到着 → ぽんしゅ館＆名物へぎそばランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:30 新潟駅到着 → ぽんしゅ館＆名物へぎそばランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 新潟駅直結のぽんしゅ館で地酒を試飲し、布海苔をつなぎに使ったツルツルのへぎそばを堪能。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 月岡温泉の名宿にチェックイン → エメラルド硫黄泉で雪見湯浴み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 月岡温泉の名宿にチェックイン → エメラルド硫黄泉で雪見湯浴み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本第2位の硫黄泉に浸かり、美肌効果を実感。露天風呂から初冬の庭園を眺める至福の時間。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 A5村上牛ステーキ＆日本海寒ブリの極上会席ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 A5村上牛ステーキ＆日本海寒ブリの極上会席ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 とろける村上牛サーロインと獲れたて寒ブリ、新米コシヒカリを新潟のしぼりたて新酒とともに味わう。
               </p>
@@ -631,15 +605,11 @@ export default function TsukiokaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】足湯湯足美散歩〜国指定名勝・旧新発田藩庭園へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:30 朝の露天風呂入浴 → 新潟郷土料理バイキング
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:30 朝の露天風呂入浴 → 新潟郷土料理バイキング</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 のっぺ汁や鮭の塩引き、コシヒカリの炊き立てご飯で大満足の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 あしゆ湯足美＆温泉街の地酒「蔵」で買い物 → 新発田城見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 あしゆ湯足美＆温泉街の地酒「蔵」で買い物 → 新発田城見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 温泉街をぶらりと散策し、国の重要文化財・新発田城表門や旧新発田藩下屋敷「清水園」の初冬庭園を見学。
               </p>
@@ -662,10 +632,8 @@ export default function TsukiokaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -680,9 +648,7 @@ export default function TsukiokaWinterPage() {
         <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい甲信越・北陸の冬・雪見・美食温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい甲信越・北陸の冬・雪見・美食温泉特集</h2>
             <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed">
               11月・12月ならではの旬の味覚や雪景色を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

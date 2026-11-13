@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            空が割れ大地が震える大音響と頭上を埋め尽くす光のシャワー。一生に一度は浴びたい奇跡の夜空
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">空が割れ大地が震える大音響と頭上を埋め尽くす光のシャワー。一生に一度は浴びたい奇跡の夜空</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             長い歴史と花火師たちの研ぎ澄まされた技術によって世界一の美しさと称賛される「日本三大花火大会」――慰霊と復興の祈りを込め信濃川の夜空に幅2kmに及ぶ黄金の光が広がる新潟の「長岡まつり大花火大会」、全国の一流花火師が日本一の座を懸けて魂の作品を打ち上げる秋田雄物川の「全国花火競技大会（大曲の花火）」、そしてスターマインの迫力と秋の澄み切った大気に冴える芸術玉が競演する茨城桜川の「土浦全国花火競技大会」。数万発の花火が連続して夜空を昼間のように照らし出す光景は、観る者すべての涙を誘う圧倒的な感動。混雑を避けて駅前ホテルや温泉宿を確保し、地元の美酒と美食を味わう至高の観覧旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  新潟県長岡市ふるさと納税：幅2kmの黄金フェニックスと正三尺玉「長岡まつり大花火大会」とホテルルートイン長岡駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">新潟県長岡市ふるさと納税：幅2kmの黄金フェニックスと正三尺玉「長岡まつり大花火大会」とホテルルートイン長岡駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   信濃川河川敷を埋め尽くす100万人の大歓声。復興祈願花火フェニックスに心を揺さぶられた後は、長岡駅東口徒歩1分の「ホテルルートイン長岡駅前」の大浴場で寛ぎ、長岡の地酒吉乃川や生姜醤油ラーメンを堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン長岡駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン長岡駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>新潟県長岡市城内町1-1-5</span>
@@ -207,9 +201,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  秋田県大仙市ふるさと納税：最高峰の栄誉・内閣総理大臣賞を争う「大曲の花火」とホテルルートイン大曲駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">秋田県大仙市ふるさと納税：最高峰の栄誉・内閣総理大臣賞を争う「大曲の花火」とホテルルートイン大曲駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   花火師自らが打ち上げる国内最高峰の競技大会。夜空を彩る創造花火に息をのんだ後は、大曲駅直結の「ホテルルートイン大曲駅前」で、活性石人工温泉大浴場に浸かり、秋田名物の比内地鶏やきりたんぽ鍋を満喫します。
                 </p>
@@ -231,9 +223,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン　大曲駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン　大曲駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>秋田県大仙市大曲通町3-14</span>
@@ -278,9 +268,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  茨城県土浦市ふるさと納税：秋の澄んだ空に響く競技玉の最高峰「土浦全国花火競技大会」とホテルクラウンヒルズ土浦駅東
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">茨城県土浦市ふるさと納税：秋の澄んだ空に響く競技玉の最高峰「土浦全国花火競技大会」とホテルクラウンヒルズ土浦駅東</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   秋晴れの夜空に開く大輪のスターマイン。桜川畔の迫力を体感した後は、土浦駅東口徒歩1分の「ホテルクラウンヒルズ土浦駅東」で、霞ヶ浦のうなぎ料理や茨城名物アンコウ鍋に舌鼓を打ちます。
                 </p>
@@ -302,9 +290,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      駅チカ快適　ホテルクラウンヒルズ土浦駅東（ＢＢＨホテルグループ）
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">駅チカ快適　ホテルクラウンヒルズ土浦駅東（ＢＢＨホテルグループ）</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>茨城県土浦市港町1-5-5</span>
@@ -372,9 +358,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   長崎・神戸・函館の夜景。
                 </p>
@@ -390,9 +374,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   皿倉山・若草山・フルーツ公園。
                 </p>
@@ -408,9 +390,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   那智・野沢温泉・鞍馬。
                 </p>
@@ -425,9 +405,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルルートイン 大曲駅前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルルートイン 大曲駅前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -460,9 +438,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルルートイン 大曲駅前の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルルートイン 大曲駅前の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -557,9 +533,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -611,9 +585,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大花火大会＆リバーサイド展望宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -301,9 +301,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              海と暮らしが溶け合う奇跡の舟屋集落と、冬の日本海が鍛え上げた王者の脂
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">海と暮らしが溶け合う奇跡の舟屋集落と、冬の日本海が鍛え上げた王者の脂</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -350,17 +348,13 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gastronomy & Landscape</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              極寒の荒波が育む至高の寒ブリと、奥伊根・宮津の名湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">極寒の荒波が育む至高の寒ブリと、奥伊根・宮津の名湯</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 leading-relaxed text-sm sm:text-base">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-orange-600" />
-                なぜ「伊根ブリ」は別格の旨さなのか
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+                なぜ「伊根ブリ」は別格の旨さなのか</h3>
               <p>
                 丹後半島の伊根町は、日本で最初にブリの定置網漁が始まった地とも言われ、江戸時代から「伊根の寒ブリ」として全国に名を馳せてきました。伊根沖は水深が一気に深くなる天然の好漁場で、日本海の荒海と豊かなプランクトンがブリを大きく育てます。
               </p>
@@ -372,10 +366,8 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Waves className="w-5 h-5 text-orange-600" />
-                pH8.4の重曹泉と天橋立温泉の温もり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Waves className="w-5 h-5 text-orange-600" />
+                pH8.4の重曹泉と天橋立温泉の温もり</h3>
               <p>
                 伊根から宮津にかけての沿岸には、それぞれ個性的な名湯が湧出しています。伊根の高台に湧く「奥伊根温泉」は、炭酸水素塩泉（重曹泉）で、pH8.4の弱アルカリ性。角質を柔らかくして肌をすべすべにする「美肌の湯」として知られ、湯上がりの肌がしっとりと潤います。
               </p>
@@ -389,10 +381,8 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
           </div>
 
           <div className="bg-amber-50/70 p-5 sm:p-6 rounded-2xl border border-amber-200/60">
-            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-600" />
-              古代米の赤米で醸す名酒「伊根満開」とのマリアージュ
-            </h4>
+            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+              古代米の赤米で醸す名酒「伊根満開」とのマリアージュ</h4>
             <p className="text-amber-900 text-xs sm:text-sm leading-relaxed">
               伊根の舟屋群の一角にある老舗酒蔵「向井酒造」。女性杜氏が手がける「伊根満開（いねまんかい）」は、古代米である赤米を使って醸造された鮮やかなロゼ色の日本酒です。果実のようにフルーティーな甘酸っぱさと米の旨味が調和し、脂の乗った伊根ブリのしゃぶしゃぶや照り焼きとの相性は抜群。伊根の冬景色を眺めながら味わう最高の地酒体験です。
             </p>
@@ -403,9 +393,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              【京都・伊根＆天橋立】海を望む絶景温泉宿＆老舗料理旅館5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">【京都・伊根＆天橋立】海を望む絶景温泉宿＆老舗料理旅館5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               伊根の舟屋や天橋立に近く、本場の寒ブリしゃぶや雪見露天風呂を満喫できる厳選宿
             </p>
@@ -439,9 +427,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>奥伊根温泉・天橋立・宮津温泉エリア</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">{h.name}</h3>
                       <p className="text-stone-500 text-xs mt-1 flex items-center gap-1">
                         <Compass className="w-3.5 h-3.5" /> {h.access}
                       </p>
@@ -495,9 +481,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の伊根の舟屋＆天橋立 絶景と寒ブリを巡る1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の伊根の舟屋＆天橋立 絶景と寒ブリを巡る1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -563,19 +547,15 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-orange-600" />
-              冬の伊根・天橋立旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-orange-600" />
+              冬の伊根・天橋立旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="p-4 sm:p-5 bg-stone-50 rounded-2xl border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
         <section className="bg-gradient-to-br from-slate-900 to-stone-900 rounded-3xl p-6 sm:p-10 text-white space-y-6 shadow-xl">
           <div className="border-b border-slate-700 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               冬の日本海・極上カニ・寒ブリ・雪見露天を味わい尽くす厳選旅ガイド
             </p>
@@ -605,9 +583,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福井・若狭ふぐ＆越前がに
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -622,9 +598,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   新潟・佐渡島寒ブリ
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の王者佐渡寒ブリと活本ズワイガニ・雪化粧の佐渡金山＆温泉名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の王者佐渡寒ブリと活本ズワイガニ・雪化粧の佐渡金山＆温泉名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -639,9 +613,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   京都・貴船＆鞍馬
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  白銀の貴船神社積雪ライトアップと冬の奥座敷・天然猪肉ぼたん鍋名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">白銀の貴船神社積雪ライトアップと冬の奥座敷・天然猪肉ぼたん鍋名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -656,9 +628,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   兵庫・播州赤穂温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  大粒で縮まない坂越牡蠣フルコースと赤穂温泉インフィニティ露天名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">大粒で縮まない坂越牡蠣フルコースと赤穂温泉インフィニティ露天名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -673,9 +643,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   富山・雨晴海岸＆新湊
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冠雪立山連峰奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリ富山湾鮨名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冠雪立山連峰奇跡絶景と新湊昼セリ本ズワイガニ・寒ブリ富山湾鮨名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -690,9 +658,7 @@ export default function KyotoIneFunayaMiyazuWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   石川・金沢湯涌温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  兼六園雪吊りと奥金沢湯涌温泉・冬限定の幻「香箱ガニ」加能ガニ名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">兼六園雪吊りと奥金沢湯涌温泉・冬限定の幻「香箱ガニ」加能ガニ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

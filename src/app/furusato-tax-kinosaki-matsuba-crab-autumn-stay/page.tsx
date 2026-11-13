@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              1300年の歴史誇る城崎温泉！11月6日解禁の極上松葉ガニと外湯めぐり
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">1300年の歴史誇る城崎温泉！11月6日解禁の極上松葉ガニと外湯めぐり</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             志賀直哉の小説『城の崎にて』の舞台としても知られ、大谷川沿いの柳並木と木造三階建ての町家が情緒を醸し出す兵庫県「城崎温泉」。毎年11月6日に日本海の松葉ガニ漁が解禁されると、全国から本場の味を求める食通たちが集います。近隣の津居山港や柴山港で水揚げされた最高品質のブランドガニを、茹で・焼き・刺し・カニすきで贅沢に味わい尽くす喜びは別格。下駄の音を響かせながら「七つの外湯めぐり」を楽しみ、贅を尽くした名門老舗旅館での宿泊を、楽天ふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                11月6日解禁！津居山港・柴山港の極上ブランド松葉ガニ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                11月6日解禁！津居山港・柴山港の極上ブランド松葉ガニ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 青いタグが付けられた津居山ガニをはじめ、日帰り漁で鮮度抜群のまま水揚げされる松葉ガニ。ぎっしり詰まった繊細な身の甘みと濃厚なカニ味噌は一度食べたら忘れられない極上の美味です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                浴衣と下駄でカラコロ歩く「七つの外湯めぐり」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                浴衣と下駄でカラコロ歩く「七つの外湯めぐり」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 一の湯、御所の湯、鴻の湯など個性豊かな7つの外湯。紅葉で色づく大谷川沿いの石造りの太鼓橋を渡りながら、湯めぐりパスポートを使って情緒たっぷりの温泉街散策が楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                神戸牛・松阪牛の素牛「但馬牛（たじまぎゅう）」の美味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                神戸牛・松阪牛の素牛「但馬牛（たじまぎゅう）」の美味</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 日本が誇る数々の有名ブランド和牛のルーツである「但馬牛」。上質な赤身とさらりとした脂の旨味を、カニ料理とともに会席料理で贅沢に食べ比べできます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.72 <span className="text-stone-400 text-xs">(1178件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    城崎温泉　西村屋ホテル招月庭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">城崎温泉　西村屋ホテル招月庭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県豊岡市城崎町湯島1016-2 ｜ 【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 5.00 <span className="text-stone-400 text-xs">(338件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    城崎温泉　西村屋本館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">城崎温泉　西村屋本館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県豊岡市城崎町湯島469 ｜ 【車】北近畿豊岡自動車道　豊岡出石ICより約18分　【電車】城崎温泉駅より徒歩15分（旅館組合無料バス有）
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.79 <span className="text-stone-400 text-xs">(208件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    城崎温泉　ときわ別館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">城崎温泉　ときわ別館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県豊岡市城崎町湯島1013番地 ｜ JR山陰本線「城崎温泉駅」、無料バスで5分 ／北近畿豊岡道「但馬空港IC」より国道312号線、県道3号線経由で約30分。
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 西村屋ホテル招月庭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 西村屋ホテル招月庭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 西村屋ホテル招月庭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 西村屋ホテル招月庭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

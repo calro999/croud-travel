@@ -58,10 +58,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代2,000円台〜！浮いた旅費で繁華街「ニシタチ」のハシゴ酒＆極上宮崎牛焼肉へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代2,000円台〜！浮いた旅費で繁華街「ニシタチ」のハシゴ酒＆極上宮崎牛焼肉へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             温暖な気候に恵まれた宮崎は、秋の行楽シーズンに訪れたい絶品グルメの宝庫。宮崎随一の繁華街「西橘通り（ニシタチ）」周辺には、徒歩でハシゴ酒が楽しめるリーズナブルなホテルが多数点在しています。浮いた予算を絶品肉グルメに回して、宮崎の夜を心ゆくまで堪能しましょう。
           </p>
@@ -84,9 +82,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1375件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルエリアワン宮崎（ホテルエリアワングループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエリアワン宮崎（ホテルエリアワングループ）</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -143,9 +139,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1828件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              クセになる林荘
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">クセになる林荘</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -202,9 +196,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー3627件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル　メリージュ
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル　メリージュ</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -261,9 +253,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1082件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">たまゆら温泉＆サウナ完備の宿　宮崎ライオンズホテル</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -320,9 +310,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1865件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＪＲ九州ホテル宮崎
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＪＲ九州ホテル宮崎</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -373,10 +361,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* 予約のアドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 space-y-3">
-          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2">
-            <AlertCircle className="w-5 h-5 text-amber-600" />
-            秋の格安旅を満喫するための予約ポイント
-          </h3>
+          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2"><AlertCircle className="w-5 h-5 text-amber-600" />
+            秋の格安旅を満喫するための予約ポイント</h3>
           <ul className="text-xs md:text-sm text-amber-800/90 space-y-2 list-disc list-inside leading-relaxed">
             <li>秋の行楽・連休シーズンは週末を中心に満室になりやすいため、平日の宿泊や早めの予約がお得です。</li>
             <li>表示価格は各宿の最安プラン目安（税込）です。日程や人数、予約時期によって変動するため最新状況をご確認ください。</li>
@@ -391,9 +377,7 @@ export default function AutumnBudgetFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「宮崎市街：本場チキン南蛮＆極上宮崎牛！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -463,9 +447,7 @@ export default function AutumnBudgetFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「宮崎市街」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「宮崎市街」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

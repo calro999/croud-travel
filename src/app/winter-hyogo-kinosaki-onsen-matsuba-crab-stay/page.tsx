@@ -266,10 +266,8 @@ export default function KinosakiWinterPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             <span>11月解禁！冬の味覚の王様・津居山ガニ</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11月解禁！城崎温泉の青タグ津居山ガニ】<br className="hidden sm:inline" />
-            名物7つの外湯めぐりと極上活ズワイガニ会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11月解禁！城崎温泉の青タグ津居山ガニ】<br className="hidden sm:inline" />
+            名物7つの外湯めぐりと極上活ズワイガニ会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日解禁の青タグ付き津居山ガニを、カニ刺し・焼きガニ・茹で姿・カニすきで食べ尽くす贅沢。雪舞う柳並木を浴衣と下駄でカラコロ歩く「7大外湯めぐり」へ。
           </p>
@@ -295,9 +293,7 @@ export default function KinosakiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">King of Winter Flavors</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                「街全体が一つの大きな温泉宿」。冬の城崎温泉が放つ唯一無二の旅情
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">「街全体が一つの大きな温泉宿」。冬の城崎温泉が放つ唯一無二の旅情</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function KinosakiWinterPage() {
           </p>
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-cyan-700" />
-                特急こうのとり・はまかぜ直通！カニの季節は早期予約必須
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-cyan-700" />
+                特急こうのとり・はまかぜ直通！カニの季節は早期予約必須</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 大阪・京都から特急電車で約2時間半。カニ解禁後の11月・12月は週末を中心に予約が殺到するため、早めのプラン確保が鉄則です。
               </p>
@@ -332,9 +326,7 @@ export default function KinosakiWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の城崎温泉で心震える3つの至福体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の城崎温泉で心震える3つの至福体験</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function KinosakiWinterPage() {
         <section id="hotel-list" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Recommended Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              本場松葉ガニと外湯めぐりを満喫する城崎の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">本場松葉ガニと外湯めぐりを満喫する城崎の名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルで高評価を獲得している城崎温泉の厳選宿。カニの鮮度・仕入れルート、外湯へのアクセス、おもてなしの質で選び抜きました。
             </p>
@@ -418,11 +408,9 @@ export default function KinosakiWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-cyan-800 transition-colors">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-cyan-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-700 text-sm leading-relaxed">
                       {hotel.story}
@@ -480,9 +468,7 @@ export default function KinosakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200 space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              【1泊2日】津居山ガニと7大外湯めぐりを満喫する城崎温泉王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】津居山ガニと7大外湯めぐりを満喫する城崎温泉王道モデルコース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               JR特急でアクセス抜群！浴衣と下駄で温泉街をそぞろ歩き、熱々のカニ会席に酔いしれる理想の滞在スケジュール。
             </p>
@@ -562,40 +548,30 @@ export default function KinosakiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Seafood & Wagyu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の城崎温泉で絶対に食べ尽くしたい贅沢グルメ4選
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の城崎温泉で絶対に食べ尽くしたい贅沢グルメ4選</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-700">●</span> 津居山港直送「青タグ活松葉ガニ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-700">●</span> 津居山港直送「青タグ活松葉ガニ」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日帰り小型船が獲るため鮮度抜群。繊維一本一本が瑞々しく弾けるカニ刺しと、炭火で水分を飛ばし旨味を凝縮させた焼きガニは究極の美味。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-700">●</span> 濃厚芳醇な「カニ味噌の甲羅酒」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-700">●</span> 濃厚芳醇な「カニ味噌の甲羅酒」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 甲羅に残った新鮮なカニ味噌を炭火でフツフツと温め、そこに熱々の辛口地酒を注ぐ大人の贅沢。香ばしい香りと濃厚なコクが喉を通り抜けます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-700">●</span> 黒毛和牛のルーツ「但馬牛ステーキ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-700">●</span> 黒毛和牛のルーツ「但馬牛ステーキ」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 神戸牛や松阪牛の血統の母体となる但馬牛。赤身の力強い旨味と繊細なサシの脂が、海の幸の合間に極上のアクセントを添えてくれます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-700">●</span> 生酛仕込みの名醸「香住鶴」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-700">●</span> 生酛仕込みの名醸「香住鶴」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 但馬の厳しい冬に伝統の生酛造りで醸される辛口酒。カニの繊細な甘みを引き立て、口の中の油分を心地よくリフレッシュしてくれます。
               </p>
@@ -611,48 +587,38 @@ export default function KinosakiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Q&A Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の城崎温泉カニ旅行 よくある質問と外湯攻略法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の城崎温泉カニ旅行 よくある質問と外湯攻略法</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                11月・12月の城崎温泉の雪の状況と車のタイヤ規制は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                11月・12月の城崎温泉の雪の状況と車のタイヤ規制は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年11月中旬までは平野部での積雪は稀ですが、12月中旬以降は強い寒波の到来とともに日本海側のドカ雪（積雪20〜50cm）に見舞われることがあります。車でお越しの場合は12月以降スタッドレスタイヤの装着が必須です。雪道に不慣れな方は、遅延の少ないJR特急（大阪・京都直通）の利用を強くおすすめします。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                7つの外湯すべてに入ることはできますか？おすすめの回り方は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                7つの外湯すべてに入ることはできますか？おすすめの回り方は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 1泊2日ですべての外湯（7箇所）を制覇することは十分可能ですが、湯あたりを防ぐために1回あたりの入浴は10分程度にし、水分補給をこまめに行うのが鉄則です。中でも人気が高いのは、滝が見える開放的な「御所の湯」、洞窟風呂の「一の湯」、庭園露天風呂の「鴻の湯」の3つ。まずはこの3湯を軸に回るのがおすすめです。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                カニの「活ガニ」と「冷凍カニ」はどう見分ければいいですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                カニの「活ガニ」と「冷凍カニ」はどう見分ければいいですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 宿泊プランに「活ガニ（活ズワイガニ・活松葉ガニ）」と明記されているか、また「タグ付き」と記載されているかをご確認ください。活ガニは直前まで生け簀で生きていたもので、カニ刺しにした時に花が美しく開き、身離れが良く甘みが強いのが特徴です。冷凍ガニのプランは価格がリーズナブルになるメリットがありますので、予算に合わせて選びましょう。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                外湯めぐりの際に持って行くべき必須アイテムは？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                外湯めぐりの際に持って行くべき必須アイテムは？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 外湯にはシャンプーやボディソープは備え付けられていますが、タオル類はありません。宿から提供される「外湯めぐり用フェイスタオル・バスタオル」と、濡れたタオルを入れる「ビニール巾着袋」を必ず持参してください。また、脱衣所のロッカー用（一部返却式）の小銭や、宿の鍵を入れる小さなポシェットがあると便利です。
               </p>
@@ -664,9 +630,7 @@ export default function KinosakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -679,9 +643,7 @@ export default function KinosakiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山陰カニ名湯</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                鳥取松葉ガニと世界屈指の三朝ラジウム温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">鳥取松葉ガニと世界屈指の三朝ラジウム温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 境港直送の活松葉ガニフルコースと高濃度ラジウム泉の奇跡の治癒力。
               </p>
@@ -692,9 +654,7 @@ export default function KinosakiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">幻の最高峰ガニ</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">
-                越前ガニ・間人ガニ（たいざがに）極上高級宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">越前ガニ・間人ガニ（たいざがに）極上高級宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 黄色いタグの越前ガニと幻の間人ガニを味わう一生に一度の贅沢ステイ。
               </p>
@@ -705,9 +665,7 @@ export default function KinosakiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">幻の高級魚鍋</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                和歌山白浜・日高の本クエ鍋と絶景露天風呂宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">和歌山白浜・日高の本クエ鍋と絶景露天風呂宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 冬の南紀が誇る幻の高級魚クエ！ぷりぷりゼラチン質と濃厚クエ鍋。
               </p>
@@ -716,9 +674,7 @@ export default function KinosakiWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              関西・山陰・全国の都道府県別おすすめ宿
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">関西・山陰・全国の都道府県別おすすめ宿</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/hyogo/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">兵庫県の宿一覧</Link>
               <Link href="/prefectures/kyoto/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">京都府の宿一覧</Link>

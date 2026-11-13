@@ -55,9 +55,7 @@ export default function KoyasanShukuboAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            天空の聖地を彩る錦秋の輝きと宿坊ステイの魅力
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">天空の聖地を彩る錦秋の輝きと宿坊ステイの魅力</h2>
           <p className="mb-4 text-stone-700">
             標高約800mの盆地に位置する高野山は、近畿地方でも最も早く紅葉が訪れる名所の一つです。10月下旬を迎えると、金剛峯寺の正門周辺や壇上伽藍へと続く「蛇腹道（じゃばらみち）」が一面真紅と黄金色の紅葉トンネルへと姿を変えます。朱塗りの根本大塔と紅葉が青空に映える景観は神々しいまでの美しさです。
           </p>
@@ -69,10 +67,8 @@ export default function KoyasanShukuboAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！高野山の厳選歴史宿坊5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！高野山の厳選歴史宿坊5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KoyasanShukuboAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.71</span>
                     <span className="text-stone-400 text-xs">(213件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    高野山　別格本山　明王院
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">高野山　別格本山　明王院</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋・高野山駅 / 高野山駅より大門行バス乗車、金剛峯寺前又は大塔口下車徒歩３分～７分
                   </p>
@@ -142,9 +136,7 @@ export default function KoyasanShukuboAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.67</span>
                     <span className="text-stone-400 text-xs">(163件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    宿坊　不動院
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">宿坊　不動院</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋・高野山駅 / 南海電鉄高野山駅下車、南海りんかんバスで１５分（蓮花谷下車徒歩３分）
                   </p>
@@ -189,9 +181,7 @@ export default function KoyasanShukuboAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.67</span>
                     <span className="text-stone-400 text-xs">(411件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    西禅院
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">西禅院</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海電鉄　高野山駅より車で５分
                   </p>
@@ -236,9 +226,7 @@ export default function KoyasanShukuboAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.56</span>
                     <span className="text-stone-400 text-xs">(594件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    恵光院
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">恵光院</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海『難波駅』より南海電鉄高野線で『高野山駅』より南海バス10分
                   </p>
@@ -283,9 +271,7 @@ export default function KoyasanShukuboAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.48</span>
                     <span className="text-stone-400 text-xs">(375件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    高野山　持明院
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">高野山　持明院</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 極楽橋駅 / 南海電車林間高野線『極楽橋駅』
                   </p>
@@ -330,9 +316,7 @@ export default function KoyasanShukuboAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院！心洗われるおすすめ歴史宿坊5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -384,9 +368,7 @@ export default function KoyasanShukuboAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の高野山エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の高野山エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

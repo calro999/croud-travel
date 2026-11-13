@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            伊豆の小京都に流れる桂川のせせらぎ——竹林の小径と文人墨客が愛した名建築で過ごすタイムレスな休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">伊豆の小京都に流れる桂川のせせらぎ——竹林の小径と文人墨客が愛した名建築で過ごすタイムレスな休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             静岡県伊豆市、天城連峰の北麓に位置する修善寺温泉。平安時代初期の大同2年（807年）、弘法大師空海が桂川の河原で病気の実父の体を洗う少年を見て心を打たれ、独鈷杵（とっこしょ）で岩を砕いて温泉を湧出させた「独鈷の湯」がその起源と伝わる、千二百年余の歴史を誇る伊豆最古の名湯です。温泉街の中心を流れる桂川沿いには、青々とした竹が天に向かって伸びる「竹林の小径」や朱塗りの橋が架かり、「伊豆の小京都」と称される優美な情景が広がります。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊豆市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  湯回廊　菊屋（共立リゾート）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">湯回廊　菊屋（共立リゾート）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業四百年・夏目漱石が静養した歴史宿！桂川を渡る渡り廊下と趣異なる四つの貸切露天風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  湯回廊 菊屋（共立リゾート） —— 桂川のせせらぎに包まれる回廊。時を忘れる湯巡りと漱石ゆかりの和モダン空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">湯回廊 菊屋（共立リゾート） —— 桂川のせせらぎに包まれる回廊。時を忘れる湯巡りと漱石ゆかりの和モダン空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内を流れる桂川を渡る風情豊かな「湯回廊」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内を流れる桂川を渡る風情豊かな「湯回廊」</h5>
                     <p className="text-stone-600 leading-relaxed">時の流れを感じさせる美しい渡り廊下。清流のせせらぎを聞きながら、緑豊かな庭園や客室、大浴場へと続く回廊を歩く贅沢を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 予約不要・無料で何度でも楽しめる四つの貸切風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">予約不要・無料で何度でも楽しめる四つの貸切風呂</h5>
                     <p className="text-stone-600 leading-relaxed">趣の異なる露天風呂や内湯の貸切風呂。名湯修善寺の湯に身を浸しながら、プライベートな癒やしの時間をゆったりと過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 選べる夕食スタイル「台の物」と旬の味覚を散りばめた月替わり会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">選べる夕食スタイル「台の物」と旬の味覚を散りばめた月替わり会席</h5>
                     <p className="text-stone-600 leading-relaxed">静岡の銘柄肉や駿河湾の魚介を活かした本格会席。夜には名物の「夜鳴きそば」や湯上がりドリンクサービスも楽しめます。</p>
                   </div>
                 </div>
@@ -248,27 +236,19 @@ export default function FurusatoArticlePage() {
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  修善寺温泉 国の登録文化財の宿 新井旅館 —— 明治・大正の宮大工の技が息づく最高峰。文化財の中で泊まる奇跡の体験
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">修善寺温泉 国の登録文化財の宿 新井旅館 —— 明治・大正の宮大工の技が息づく最高峰。文化財の中で泊まる奇跡の体験</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 総檜造りと伊豆石が織りなす国の登録文化財「天平大浴堂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">総檜造りと伊豆石が織りなす国の登録文化財「天平大浴堂」</h5>
                     <p className="text-stone-600 leading-relaxed">昭和9年に完成した名建築。高い吹き抜け天井と太い檜の柱、天平時代の寺院建築を模した荘厳な空間で、源泉掛け流しの名湯を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 桂川の清流と池の鯉を望む歴史ある木造客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">桂川の清流と池の鯉を望む歴史ある木造客室</h5>
                     <p className="text-stone-600 leading-relaxed">芥川龍之介や安田靫彦らが逗留した客室棟。職人の細やかな木彫りや欄間の意匠など、日本の伝統建築美に囲まれた滞在が叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 天城山麓の採れたて本わさびと伊豆の山海の幸会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">天城山麓の採れたて本わさびと伊豆の山海の幸会席</h5>
                     <p className="text-stone-600 leading-relaxed">清流で育った風味豊かな伊豆産わさびや、駿河湾の地魚、旬の野菜を熟練の板前が仕立てる本格和食会席。お部屋で優雅に味わえます。</p>
                   </div>
                 </div>
@@ -323,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊豆市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  修善寺温泉　宙ＳＯＲＡ　渡月荘金龍
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">修善寺温泉　宙ＳＯＲＡ　渡月荘金龍</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   一万五千坪の日本庭園に抱かれるデザイナーズ旅館！光の露天風呂とドラマ撮影地としても名高い美空間
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  修善寺温泉 宙 SORA 渡月荘金龍 —— 自然と光が織りなす別世界。円形露天風呂とモダンな日本庭園テラス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">修善寺温泉 宙 SORA 渡月荘金龍 —— 自然と光が織りなす別世界。円形露天風呂とモダンな日本庭園テラス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 山林の木々を見晴らす森の露天風呂「光の露天風呂」と「夕鶴」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">山林の木々を見晴らす森の露天風呂「光の露天風呂」と「夕鶴」</h5>
                     <p className="text-stone-600 leading-relaxed">夜には幻想的なライティングで照らし出される露天風呂。澄んだ星空と森の息吹を感じながら、心地よい名湯に浸かることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一万五千坪の広大な日本庭園とモダンな足湯ラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一万五千坪の広大な日本庭園とモダンな足湯ラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">ドラマのロケ地としても有名な美しい庭園。四季折々の花木や紅葉を眺めながら散策を楽しんだり、テラス席で寛ぐことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 料理長厳選の伊豆牛や駿河湾の海の幸を味わう創作和会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">料理長厳選の伊豆牛や駿河湾の海の幸を味わう創作和会席</h5>
                     <p className="text-stone-600 leading-relaxed">伝統の日本料理に現代のセンスを取り入れた華やかなディナー。盛り付けの美しさと繊細な出汁の味わいに心奪われます。</p>
                   </div>
                 </div>
@@ -390,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 修善寺温泉街・竹林の小径＆修禅寺めぐりガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 修善寺温泉街・竹林の小径＆修禅寺めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                竹林の小径（ちくりんのこみち）と円形ベンチでの休息
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                竹林の小径（ちくりんのこみち）と円形ベンチでの休息</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 桂川沿いに続く石畳の散策路。天高く伸びる竹林の中央には竹製の大きな円形ベンチがあり、寝転がって竹の梢と青空を見上げる癒やしの時間を過ごせます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                福地山 修禅寺（しゅぜんじ）への参拝
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                福地山 修禅寺（しゅぜんじ）への参拝</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の名の由来となった古刹。弘法大師空海が開創し、鎌倉幕府の源氏一族の悲劇の舞台としても知られる歴史の寺。秋の紅葉期には庭園の特別公開も行われます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                恋の橋めぐり（桂川に架かる五つの橋）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                恋の橋めぐり（桂川に架かる五つの橋）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 桂川に架かる「渡月橋」「虎渓橋」「桂橋」「楓橋」「滝下橋」。それぞれに恋にまつわる願いが込められており、すべて渡ると恋が実ると伝わる人気のパワースポットです。
               </p>
@@ -429,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              静岡県伊豆市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">静岡県伊豆市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -507,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】湯回廊 菊屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】湯回廊 菊屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -542,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と湯回廊 菊屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と湯回廊 菊屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

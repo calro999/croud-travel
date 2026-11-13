@@ -285,10 +285,8 @@ export default function ShirahoneWinterPage() {
             <Eye className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 北アルプス標高1400m秘湯＆信州牛・投汁そば特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】<br className="hidden sm:inline" />
-            3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月白骨温泉の北アルプス初冬雪景色と乳白色秘湯】<br className="hidden sm:inline" />
+            3日入れば3年風邪ひかぬ霊泉・信州プレミアム牛＆投汁そばの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス乗鞍岳の東山麓、標高1,400メートルの深い渓谷に抱かれた奇跡の霊泉「白骨温泉」。炭酸カルシウムが結晶化してミルクブルーに輝く神秘の湯船。11月中旬の初雪から12月の白銀静寂世界に浸り、霜降り信州プレミアム牛と郷土伝統の投汁そばに舌鼓を打つ極上の秘湯ステイ。
           </p>
@@ -314,9 +312,7 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Shirahone Secret Onsen Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                武田信玄の隠し湯と文豪が愛した秘境。乳白色の湯に抱かれる至高の冬
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">武田信玄の隠し湯と文豪が愛した秘境。乳白色の湯に抱かれる至高の冬</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function ShirahoneWinterPage() {
           
           <div className="bg-teal-50/70 rounded-2xl p-5 border border-teal-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-700" />
-                11月・12月白骨温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+                11月・12月白骨温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 北アルプス標高1400mの白銀雪景色・3日入れば3年風邪ひかぬ乳白色炭酸水素塩泉・信州プレミアム牛炭火焼き・伝統の郷土鍋「投汁そば」・源泉で炊く名物温泉粥
               </p>
@@ -385,9 +379,7 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Alps Winter Solitude</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                乗鞍岳山麓の初冬静寂：白樺林の雪景色と湯川渓谷の氷瀑
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">乗鞍岳山麓の初冬静寂：白樺林の雪景色と湯川渓谷の氷瀑</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -406,35 +398,27 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Secret Spring Qualities</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                神秘の乳白色と炭酸ガス：含硫黄-カルシウム・マグネシウム-炭酸水素塩泉の力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">神秘の乳白色と炭酸ガス：含硫黄-カルシウム・マグネシウム-炭酸水素塩泉の力</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                空気に触れて輝くミルクブルー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                空気に触れて輝くミルクブルー</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 地下から湧き出る源泉は透明ですが、空気に触れると炭酸カルシウムが微結晶化して光を乱反射し、乳白色や神秘的な淡いブルーへと表情を変えます。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                血管を広げる天然炭酸ガス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                血管を広げる天然炭酸ガス</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 硫黄と炭酸ガスが豊富に含まれ、ぬるめの湯でも血行が劇的に促進。入浴後も身体のポカポカ感が驚くほど長続きし、湯冷めを防ぎます。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                飲泉で胃腸を内側から整える
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                飲泉で胃腸を内側から整える</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 弱酸性〜中性の優しい泉質は飲泉許可も受けており、胃腸病や便秘、疲労回復に効果的。毎朝の温泉粥として美味しくいただける健康の源泉です。
               </p>
@@ -450,9 +434,7 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Historical Legend</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                武田信玄の隠し湯伝承と文豪中里介山が愛した白骨
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">武田信玄の隠し湯伝承と文豪中里介山が愛した白骨</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -467,9 +449,7 @@ export default function ShirahoneWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-extrabold text-teal-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい白骨温泉の厳選秘湯宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい白骨温泉の厳選秘湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               白銀の北アルプス雪見露天風呂、信州プレミアム牛と郷土伝統の投汁そばを心ゆくまで堪能できる宿を厳選。
             </p>
@@ -508,9 +488,7 @@ export default function ShirahoneWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -569,26 +547,20 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                信州の冬を味わう郷土の極み：「信州プレミアム牛」と伝統「投汁そば」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">信州の冬を味わう郷土の極み：「信州プレミアム牛」と伝統「投汁そば」</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-700" />
-                オレイン酸基準をクリアした「信州プレミアム牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-700" />
+                オレイン酸基準をクリアした「信州プレミアム牛」</h3>
               <p className="leading-relaxed text-sm">
                 長野県の豊かな自然と清流で育まれ、霜降り度合いだけでなく独自の「オレイン酸含有率」基準をクリアした最高峰の黒毛和牛。口に入れた瞬間に上質な脂がサラリと溶け出し、香ばしい和牛香と濃厚な赤身の旨味が広がります。石焼きステーキや陶板焼きですぐに火を通し、岩塩や山葵でいただくのが格別です。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-700" />
-                奈川の郷土伝統「投汁（とうじ）そば」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-700" />
+                奈川の郷土伝統「投汁（とうじ）そば」</h3>
               <p className="leading-relaxed text-sm">
                 竹で編まれた小さな「とうじ籠」に手打ち蕎麦を一口分取り、山菜やキノコ、地鶏の旨味が溶け出した熱々の鍋つゆにサッとくぐらせて温める郷土料理。温かい出汁をまとった蕎麦の喉越しと芳醇な香りは、北アルプスの厳しい冬の寒さを一瞬で忘れさせてくれる温もりあふれるご馳走です。
               </p>
@@ -604,35 +576,25 @@ export default function ShirahoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：松本駅から秘境白骨へ！乳白色雪見露天と信州美食の旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：松本駅から秘境白骨へ！乳白色雪見露天と信州美食の旅</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-teal-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-teal-800 uppercase tracking-wider">【1日目】松本城散策から秘湯白骨へ〜乳白色雪見風呂と名宿ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:00 特急あずさまたはしなのでJR松本駅に到着 → 国宝・松本城見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:00 特急あずさまたはしなのでJR松本駅に到着 → 国宝・松本城見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 北アルプスの雪山を背景に凛と佇む黒漆の国宝・松本城を見学。城下町でお蕎麦ランチ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 松本電鉄上高地線で新島々駅へ → 路線バスに乗換えて白骨温泉へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 松本電鉄上高地線で新島々駅へ → 路線バスに乗換えて白骨温泉へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 梓川の渓谷沿いを登るにつれ、車窓の木々が白銀の雪化粧へと変わる感動的な車窓風景。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:15 白骨温泉到着・旅館へチェックイン → 名物の乳白色露天風呂へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:15 白骨温泉到着・旅館へチェックイン → 名物の乳白色露天風呂へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 ミルクブルーの湯船に身を委ね、静かに降りしきる雪を眺める至福の雪見風呂体験。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 信州プレミアム牛＆伝統の投汁そば会席を堪能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 信州プレミアム牛＆伝統の投汁そば会席を堪能</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 香ばしい炭火焼きの川魚や熱々の投汁そば、信州の地酒で心まで温まる贅沢な夜。
               </p>
@@ -640,15 +602,11 @@ export default function ShirahoneWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の雪見風呂〜名物温泉粥と冬の上高地山麓めぐり</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の清涼露天風呂 → 身体に染みる源泉「温泉粥」の朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の清涼露天風呂 → 身体に染みる源泉「温泉粥」の朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 氷点下の凛とした空気の中で浴びる朝の雪見風呂。温泉水でふっくら炊き上げた温泉粥で胃腸を癒やす。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 竜神の滝や湯川渓谷の樹氷散策＆路線バスで松本駅へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 竜神の滝や湯川渓谷の樹氷散策＆路線バスで松本駅へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白骨温泉街の雪景色を記念撮影。松本駅でおやきや野沢菜、信州味噌をお土産に購入して帰路へ。
               </p>
@@ -671,10 +629,8 @@ export default function ShirahoneWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -689,9 +645,7 @@ export default function ShirahoneWinterPage() {
         <section className="bg-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい甲信越・北アルプスの冬・秘湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい甲信越・北アルプスの冬・秘湯特集</h2>
             <p className="text-xs sm:text-sm text-teal-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

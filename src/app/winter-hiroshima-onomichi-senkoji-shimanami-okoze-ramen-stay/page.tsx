@@ -248,9 +248,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination In-Depth</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の尾道水道が魅せる光の陰影、千年の古刹に祈る新年の幸福
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の尾道水道が魅せる光の陰影、千年の古刹に祈る新年の幸福</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               坂道と海が織りなす日本遺産の美と、瀬戸内の冬の豊穣が紡ぐ特別な旅
             </p>
@@ -309,9 +307,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-gradient-to-r from-slate-900 to-cyan-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-cyan-400 pl-4">
             <span className="text-cyan-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -345,16 +341,12 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき尾道の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき尾道の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-cyan-600" /> 大宝山 千光寺
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-cyan-600" /> 大宝山 千光寺</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 巨岩怪石が連なる千光寺山の中腹に建つ名刹。朱塗りの本堂から尾道水道を一望する絶景は圧巻。除夜の鐘楼や縁起物の玉の岩、新春限定の御朱印やお守りを授かる新春参拝が人気です。
               </p>
@@ -364,9 +356,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sun className="w-5 h-5 text-amber-600" /> 千光寺公園展望台「PEAK」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sun className="w-5 h-5 text-amber-600" /> 千光寺公園展望台「PEAK」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 全長約63メートルの曲線美を誇るモダンな展望台。尾道水道、向島、因島、そして遠く四国の稜線までを360度の大パノラマで見渡せます。冬の夕刻に訪れると、絵画のようなマジックアワーを体感できます。
               </p>
@@ -376,9 +366,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> ONOMICHI U2＆尾道水道プロムナード
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> ONOMICHI U2＆尾道水道プロムナード</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 海運倉庫を再生した複合商業施設。ホテル、ベーカリー、レストラン、カフェ、サイクルショップが集結。海沿いの木製デッキを散策しながら、冬の海風と波の音を楽しむ心地よいひとときを過ごせます。
               </p>
@@ -393,9 +381,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の尾道を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の尾道を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               水道ハーバービュー・話題のリノベーションホテル・天然温泉・初詣至近の名宿
             </p>
@@ -431,9 +417,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -491,9 +475,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の尾道を満喫する1泊2日絶景・美食・初詣モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の尾道を満喫する1泊2日絶景・美食・初詣モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               尾道水道の夕景、千光寺新春開運初詣、オコゼ会席と名物ラーメンを味わい尽くす旅日程
             </p>
@@ -501,10 +483,8 @@ export default function HiroshimaOnomichiSenkojiPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-cyan-600 text-white text-xs rounded-md font-bold">1日目</span>
-                尾道水道プロムナード散策・ロープウェイ絶景夕景とオコゼ会席
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-cyan-600 text-white text-xs rounded-md font-bold">1日目</span>
+                尾道水道プロムナード散策・ロープウェイ絶景夕景とオコゼ会席</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:30 JR尾道駅に到着</strong>：駅前の海沿いプロムナードを散策し、海運倉庫を改装した複合施設「ONOMICHI U2」へ。</li>
                 <li><strong className="text-slate-900">12:30 本場尾道ラーメンランチ</strong>：尾道本通り商店街の老舗ラーメン店で、熱々の小魚出汁＆背脂醤油ラーメンを堪能。</li>
@@ -515,10 +495,8 @@ export default function HiroshimaOnomichiSenkojiPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-slate-800 text-white text-xs rounded-md font-bold">2日目</span>
-                千光寺新春開運初詣と向島渡船体験・しまなみ島巡り
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-slate-800 text-white text-xs rounded-md font-bold">2日目</span>
+                千光寺新春開運初詣と向島渡船体験・しまなみ島巡り</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:00 宿で朝食を堪能</strong>：名物の鯛茶漬けや地元野菜の和朝食で温まり、チェックアウト。</li>
                 <li><strong className="text-slate-900">09:00 千光寺へ新春開運参拝</strong>：朝の清々しい空気の中、朱塗りの赤堂で本尊千手観音に参拝し、玉の岩や鐘楼を見学。</li>
@@ -534,16 +512,12 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              尾道への交通アクセスと冬期の移動注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">尾道への交通アクセスと冬期の移動注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-cyan-600" /> 電車・新幹線・航空便アクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-600" /> 電車・新幹線・航空便アクセス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">新幹線でのアクセス</strong>：山陽新幹線「福山駅」よりJR山陽本線乗り換えで尾道駅まで約20分。または「新尾道駅」下車、路線バスで尾道駅まで約15分。</li>
                 <li><strong className="text-slate-900">飛行機でのアクセス</strong>：広島空港よりリムジンバス・連絡バスで福山・三原経由、尾道市街地まで約50〜60分。</li>
@@ -551,9 +525,7 @@ export default function HiroshimaOnomichiSenkojiPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆海風・防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆海風・防寒対策</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：山陽自動車道「尾道IC」または「福山西IC」より市街地まで約15〜20分。西瀬戸自動車道（しまなみ海道）「尾道大橋出入口」直結。</li>
                 <li><strong className="text-slate-900">冬の気候と橋の走行</strong>：瀬戸内海沿岸のため積雪の心配はほとんどありませんが、しまなみ海道の大型橋梁上は強風が吹く日があります。二輪車や自転車での走行時は横風に十分注意してください。</li>
@@ -566,17 +538,13 @@ export default function HiroshimaOnomichiSenkojiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の尾道旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の尾道旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-cyan-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -587,10 +555,8 @@ export default function HiroshimaOnomichiSenkojiPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-cyan-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-hiroshima-miyajima-etajima-oyster-onsen-stay/"

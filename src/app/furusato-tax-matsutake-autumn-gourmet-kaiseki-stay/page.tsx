@@ -108,9 +108,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  焼き・土瓶蒸し・天ぷら・すき焼き・ご飯！松茸をあらゆる調理法で味わい尽くす贅沢
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">焼き・土瓶蒸し・天ぷら・すき焼き・ご飯！松茸をあらゆる調理法で味わい尽くす贅沢</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 産地だからこそ叶う惜しみないボリューム。香り豊かな土瓶蒸しから始まり、炭火でジュワッと焼き上げる焼き松茸、信州牛や黒毛和牛と合わせた贅沢な松茸すき焼き、締めくくりの炊きたて松茸釜飯まで、松茸の真価を五感で堪能できます。
@@ -123,9 +121,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  香りと鮮度が命！地元のアカマツ林から朝獲れ・当日入荷される極上国産松茸
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">香りと鮮度が命！地元のアカマツ林から朝獲れ・当日入荷される極上国産松茸</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 輸入物とは香りの深さとみずみずしさが根本から異なる本場の国産松茸。信州や丹波の山々で名人が朝収穫したばかりの地松茸は、軸の引き締まりと濃厚な薫香が格別で、本物の秋の恵みに出逢えます。
@@ -138,9 +134,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  紅葉で染まる山並みと名湯露天風呂！秋の風情に包まれる至極の湯治リトリート
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">紅葉で染まる山並みと名湯露天風呂！秋の風情に包まれる至極の湯治リトリート</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 信州最古の温泉地・別所温泉の硫黄泉や京都奥座敷の湯の花温泉など、身体の芯から温まる名湯に身を委ね、錦秋の美しい日本庭園を眺めながらいただく松茸会席は、旅の幸福感を最高潮に高めてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県上田市・信州松茸の本場！創業百有余年の数寄屋造りと信州牛×松茸会席の名門
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別所温泉　観音様となりの宿　かしわや本店
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別所温泉　観音様となりの宿　かしわや本店</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     信州最古の温泉地・別所温泉の北向観音の隣に佇み、百有余年の歴史を刻む数寄屋造りの格調高い老舗名門宿。秋には周辺の山々で採れる良質な信州松茸をふんだんに盛り込んだ「松茸会席」が目玉で、炭火焼きや土瓶蒸し、信州牛とのすき焼きなど贅を尽くした料理が食通を魅了します。全館畳敷きの心地よい空間、四季の彩り豊かな日本庭園を望む客室、ほのかに硫黄の香る弱アルカリ性単純硫黄泉の大浴場や檜露天風呂など、純和風の極上のおもてなしに心から癒やされる秋旅が叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県丹波篠山市・最高峰丹波松茸の聖地！創業四百年を誇る登録有形文化財の老舗料理旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    丹波篠山　近又
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">丹波篠山　近又</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本農業遺産・丹波篠山の城下町に位置し、慶長十四年創業・四百年以上の歴史を誇る国の登録有形文化財の料理旅館。松茸の最高級ブランドとして古来皇室や貴族にも献上されてきた「丹波松茸」を本場で味わう至福の体験を提供。秋には芳醇な薫香が漂う丹波松茸尽くし会席や名物ぼたん鍋との競演が楽しめます。職人の技が息づく繊細な料理と歴史ある佇まい、丹波篠山城跡や古い町並み散策の拠点としても最適で、日本の食文化の頂点を体感できます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     京都府亀岡市・丹波の地松茸とオーストリアワイン！露天風呂付き客室で過ごす大人の隠れ宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都　湯の花温泉　すみや亀峰菴
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都　湯の花温泉　すみや亀峰菴</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     京都の奥座敷・湯の花温泉の豊かな自然に包まれた、大人の静かな休日にふさわしい数寄屋風の名旅館。秋の特別献立では、丹波の山々で採れる朝獲れ地松茸を惜しみなく使用した京会席が登場。ソムリエが厳選するオーストリアワインとのペアリングも提案され、洗練された美食の時間を過ごせます。広々とした露天風呂や専用露天付き客室、ライブラリーラウンジなど上質なファシリティを備え、古都の喧騒を離れて秋の豊かな味覚と温泉に浸る贅沢な滞在が叶います。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別所温泉 観音様となりの宿 かしわや本店を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別所温泉 観音様となりの宿 かしわや本店を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoMatsutakeAutumnGourmetStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別所温泉 観音様となりの宿 かしわや本店の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別所温泉 観音様となりの宿 かしわや本店の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

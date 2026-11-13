@@ -407,9 +407,7 @@ export default function FukushimaDakeWinterPage() {
               <Landmark className="w-4 h-4 text-blue-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              奇跡のミルキー酸性泉と極上福島牛を堪能する岳温泉の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">奇跡のミルキー酸性泉と極上福島牛を堪能する岳温泉の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -425,9 +423,7 @@ export default function FukushimaDakeWinterPage() {
                       <span className="inline-block text-xs font-bold text-blue-800 bg-blue-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -471,9 +467,7 @@ export default function FukushimaDakeWinterPage() {
 
                   {/* Highlights Bullet Points */}
                   <div className="space-y-1.5 pt-2">
-                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">
-                      この宿の初冬ステイおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-stone-800 tracking-wider">この宿の初冬ステイおすすめポイント</h4>
                     <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-stone-600">
                       {hotel.highlights.map((hl, hlIdx) => (
                         <li key={hlIdx} className="flex items-start gap-1.5">
@@ -513,35 +507,27 @@ export default function FukushimaDakeWinterPage() {
             <Utensils className="w-4 h-4 text-blue-300" />
             初冬の岳温泉・安達太良美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の岳温泉で味わい尽くす極上福島牛・川俣シャモ・二本松銘酒
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の岳温泉で味わい尽くす極上福島牛・川俣シャモ・二本松銘酒</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-blue-400" />
-                最高ランク「福島牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-blue-400" />
+                最高ランク「福島牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 福島県の豊かな自然と澄んだ水で丹精込めて肥育された黒毛和牛。鮮やかな霜降りと融点の低い良質な脂は、すき焼きや陶板焼きで熱を加えると甘い芳香を放ち、噛むほどに赤身の上品な旨味が溢れます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-blue-400" />
-                地鶏の最高峰「川俣シャモ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-blue-400" />
+                地鶏の最高峰「川俣シャモ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 阿武隈山系の冷涼な気候の中で平飼いされ、十分な運動によって引き締まった肉質を誇る高級地鶏。シャモ特有の力強い歯ごたえと噛むほどに広がる野趣あふれる旨味は、冬の水炊きやつみれ鍋で真価を発揮します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-blue-400" />
-                二本松が誇る名蔵「大七・奥の松」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-blue-400" />
+                二本松が誇る名蔵「大七・奥の松」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 伝統の生酛（きもと）造りを頑なに守り、世界的な評価を受ける「大七酒造」や、全国新酒鑑評会金賞常連の「奥の松酒造」。11月下旬以降に登場する新酒しぼりたてのフレッシュな香りと濃厚なコクは冬の料理に抜群です。
               </p>
@@ -555,17 +541,13 @@ export default function FukushimaDakeWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬のほんとの空とミルキー美肌湯を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬のほんとの空とミルキー美肌湯を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-blue-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-blue-100 text-blue-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：二本松駅到着から霞ヶ城公園・岳温泉のミルキー湯治ステイ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                歴史ある城下町と智恵子記念館を巡り、安達太良山元湯のまろやか酸性泉に癒やされる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">歴史ある城下町と智恵子記念館を巡り、安達太良山元湯のまろやか酸性泉に癒やされる</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 正午前にJR二本松駅へ到着。駅前で昼食をとった後、二本松藩の居城「霞ヶ城公園」を訪れ、箕輪門や石垣の初冬風情を見学。さらに智恵子の生家を訪ね、高村光太郎が愛した「ほんとの空」を仰ぎ見ます。路線バスで岳温泉へ移動し15時にチェックイン。安達太良山元湯から8kmを流下した名物ミルキー酸性泉に肩まで浸かり、体の芯からぽかぽかに温まります。夕食には極上福島牛の陶板焼き、川俣シャモ鍋、二本松銘酒「大七」の冷酒に舌鼓を打ちます。
               </p>
@@ -575,9 +557,7 @@ export default function FukushimaDakeWinterPage() {
               <div className="inline-block bg-blue-100 text-blue-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：鏡ヶ池の朝散歩・安達太良連峰のパノラマ絶景と酒蔵巡りへ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                水鳥が集う初冬の湖畔を歩き、冠雪の安達太良山を眺めて新酒しぼりたてを購入
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">水鳥が集う初冬の湖畔を歩き、冠雪の安達太良山を眺めて新酒しぼりたてを購入</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、鏡ヶ池の周囲に整備された遊歩道を散策。湖面に映る初冬の安達太良山と水鳥の羽ばたきを眺め、澄み切った高原の空気を深呼吸。宿に戻り朝風呂で肌を整え、福島米の炊きたてご飯と郷土の味噌汁で朝食。チェックアウト後、ヒマラヤ大通りの足湯や名物の温泉卵、くろがね焼き（あんこ入り焼き菓子）を購入。二本松市街の酒蔵直営店で初冬限定のしぼりたて新酒を手に入れて帰路へ。
               </p>
@@ -591,25 +571,19 @@ export default function FukushimaDakeWinterPage() {
             <Mountain className="w-4 h-4" />
             初冬の岳温泉・おみやげ＆高原散策手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            安達太良山麓で手に入れたい初冬の名物菓子と蔵元直送みやげ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">安達太良山麓で手に入れたい初冬の名物菓子と蔵元直送みやげ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-blue-600" />
-                名物「くろがね焼き」と二本松伝統「玉羊羹」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-blue-600" />
+                名物「くろがね焼き」と二本松伝統「玉羊羹」</h3>
               <p>
                 岳温泉のヒマラヤ大通り沿いで香ばしい匂いを漂わせる「くろがね焼き」は、安達太良山のくろがね小屋にちなんだ名物焼き菓子。香ばしい生地の中に上質な粒あんやカスタードがぎっしり詰まり、初冬の街歩きのおやつに最適です。また、昭和初期に二本松で考案された「玉羊羹」は、ゴム風船に詰められた羊羹を爪楊枝でプチッと刺すとツルンと皮が剥ける伝統銘菓。甘さ控えめで小豆の豊かな風味が楽しめます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Wine className="w-4 h-4 text-blue-600" />
-                二本松城下の酒蔵限定酒と安達太良高原の乳製品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Wine className="w-4 h-4 text-blue-600" />
+                二本松城下の酒蔵限定酒と安達太良高原の乳製品</h3>
               <p>
                 二本松市街には「大七」や「奥の松」をはじめとする歴史ある蔵元が直営店を構えており、初冬にしか味わえない限定の無濾過生原酒や純米大吟醸が購入できます。さらに、安達太良高原の豊かな牧場で搾られた新鮮な生乳から作られる濃厚なカマンベールチーズやクリームチーズ、手作りバターなども、ワインや地酒のお供に最高のお土産です。
               </p>
@@ -623,25 +597,19 @@ export default function FukushimaDakeWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岳温泉旅行のポイントと防寒・移動のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岳温泉旅行のポイントと防寒・移動のコツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-600" />
-                標高600mの高原気候と積雪・防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-600" />
+                標高600mの高原気候と積雪・防寒対策</h3>
               <p>
                 岳温泉は高原に位置するため、平野部よりも気温がぐっと低くなります。11月下旬以降は朝晩に氷点下となる日が多く、12月には初雪や路面凍結が発生します。風を通さない厚手のダウンコート、手袋、マフラー、滑り止めの効いた歩きやすい靴を着用してください。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-blue-600" />
-                新幹線・高速道路アクセスと冬タイヤ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-blue-600" />
+                新幹線・高速道路アクセスと冬タイヤ</h3>
               <p>
                 新幹線郡山駅から東北本線で二本松駅まで約25分、二本松駅前から路線バスで約25分。車の場合は東北自動車道二本松ICから約15分です。11月下旬以降に車でアクセスする場合は、朝晩の凍結や降雪に備えて必ずスタッドレスタイヤを装着してください。
               </p>
@@ -655,16 +623,12 @@ export default function FukushimaDakeWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岳温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岳温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-blue-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-blue-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -676,10 +640,8 @@ export default function FukushimaDakeWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-blue-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-blue-300" />
-              あわせて読みたい福島・東北の冬名湯・美食特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-blue-300" />
+              あわせて読みたい福島・東北の冬名湯・美食特集</h3>
             <p className="text-xs sm:text-sm text-blue-200">
               冬の味覚と雪見露天風呂、極上和牛を堪能するおすすめ旅ガイド
             </p>
@@ -691,9 +653,7 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・吾妻高湯土湯</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                高湯温泉 白濁硫黄泉雪見露天＆福島牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">高湯温泉 白濁硫黄泉雪見露天＆福島牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 吾妻連峰の静寂と白濁硫黄泉完全かけ流し、福島牛すき焼きを味わう冬の湯治旅。
               </p>
@@ -704,9 +664,7 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・郡山奥座敷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                磐梯熱海温泉 美肌ぬる湯＆福島牛ステーキ宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">磐梯熱海温泉 美肌ぬる湯＆福島牛ステーキ宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 萩姫伝説のアルカリ性美肌ぬる湯交互浴と、五百川のせせらぎに癒やされる冬のリトリート。
               </p>
@@ -717,9 +675,7 @@ export default function FukushimaDakeWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-blue-300 bg-blue-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津若松</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
-                会津東山温泉・芦ノ牧温泉 雪見露天と郷土料理宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-blue-200 transition line-clamp-2">会津東山温泉・芦ノ牧温泉 雪見露天と郷土料理宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 渓谷美を望む雪見露天風呂と鶴ヶ城雪景色、会津馬刺しと会津地酒を満喫する冬旅。
               </p>

@@ -303,10 +303,8 @@ export default function IshikawaHakusanWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-sky-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の白山・辰口温泉旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-sky-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の白山・辰口温泉旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-sky-50/60 p-4 rounded-xl border border-sky-100">
               <span className="font-bold text-sky-950 block mb-1">① 白山比咩神社 新春祈願の作法</span>
@@ -344,9 +342,7 @@ export default function IshikawaHakusanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">AREA ATMOSPHERE</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                白山信仰の神域が白銀に染まる、静謐と生命力に満ちた北陸の冬
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">白山信仰の神域が白銀に染まる、静謐と生命力に満ちた北陸の冬</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function IshikawaHakusanWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-sky-50/70 border border-sky-100">
-              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-sky-700" /> 白山比咩神社 表参道
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-sky-700" /> 白山比咩神社 表参道</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 巨杉と苔むす石垣が雪化粧する約250メートルの参道。歩みを進めるごとに雑念が消え去る神聖な道です。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-sky-50/70 border border-sky-100">
-              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-sky-700" /> 開湯1400年の辰口温泉
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5"><Flame className="w-4 h-4 text-sky-700" /> 開湯1400年の辰口温泉</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 泰澄大師が開いたと伝わる古湯。硫酸塩泉のまろやかな湯が血行を促進し、湯上がり後もポカポカが持続。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-sky-50/70 border border-sky-100">
-              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-sky-700" /> 冬の手取川新酒と寒魚
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm mb-1 flex items-center gap-1.5"><Wine className="w-4 h-4 text-sky-700" /> 冬の手取川新酒と寒魚</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 白山の雪解け伏流水で醸す名酒「手取川」「菊姫」のしぼりたて新酒と、橋立港の加能ガニ・寒ブリの饗宴。
               </p>
@@ -398,9 +388,7 @@ export default function IshikawaHakusanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                青タグの誇り「加能ガニ」と滋養あふれる「加賀丸いも」、冬の味覚の頂点
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">青タグの誇り「加能ガニ」と滋養あふれる「加賀丸いも」、冬の味覚の頂点</h2>
             </div>
           </div>
 
@@ -425,9 +413,7 @@ export default function IshikawaHakusanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">CULTURAL HIGHLIGHTS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                九谷焼の美意識と鶴来の醸造文化、冬景色に映える名所探訪
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">九谷焼の美意識と鶴来の醸造文化、冬景色に映える名所探訪</h2>
             </div>
           </div>
 
@@ -446,10 +432,8 @@ export default function IshikawaHakusanWinterPage() {
 
         {/* Section 4: Travel Practical Tips */}
         <section className="bg-slate-100/80 rounded-2xl p-6 md:p-8 border border-slate-200 space-y-4">
-          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-            <span>冬の白山・辰口温泉 旅の実践アドバイス（気候・服装・雪道対策）</span>
-          </h2>
+          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+            <span>冬の白山・辰口温泉 旅の実践アドバイス（気候・服装・雪道対策）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
             <div>
               <strong className="block text-slate-900 font-bold mb-1">【気温と服装】</strong>
@@ -468,9 +452,7 @@ export default function IshikawaHakusanWinterPage() {
             <span className="text-xs font-black text-sky-800 uppercase tracking-widest bg-sky-100 px-3 py-1 rounded-full inline-block">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              白山比咩神社参拝＆辰口温泉を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">白山比咩神社参拝＆辰口温泉を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。創業万治年間の数寄屋造り名宿から、北陸最大級の露天風呂旅館、駅直結ホテルまで目的に応じて選定しました。
             </p>
@@ -510,11 +492,9 @@ export default function IshikawaHakusanWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-sky-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-sky-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -580,19 +560,15 @@ export default function IshikawaHakusanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">MODEL ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                白山比咩神社初詣＆辰口温泉 1泊2日冬の黄金モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">白山比咩神社初詣＆辰口温泉 1泊2日冬の黄金モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-sky-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-sky-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                手取川の扇状地を巡り、辰口温泉の雪見露天風呂へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-sky-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                手取川の扇状地を巡り、辰口温泉の雪見露天風呂へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 小松空港またはJR金沢駅を出発</strong><br />
                 レンタカーまたは電車で能美・白山方面へ。道中で地元名物の加賀丸いも料理店に立ち寄り、熱々のとろろ汁御膳で温まる。
@@ -609,10 +585,8 @@ export default function IshikawaHakusanWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                白山比咩神社で新春祈願、鶴来の酒蔵と雪景色を堪能
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                白山比咩神社で新春祈願、鶴来の酒蔵と雪景色を堪能</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:30 旅館を出発し、白山比咩神社へ</strong><br />
                 朝の澄み切った空気の中、加賀一ノ宮「白山比咩神社」へ参拝。樹齢数百年の老杉が雪を抱く表参道を静かに歩み、御本殿にて新年の開運と和合を祈念。
@@ -637,19 +611,15 @@ export default function IshikawaHakusanWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                白山・辰口温泉 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">白山・辰口温泉 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-sky-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-sky-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>

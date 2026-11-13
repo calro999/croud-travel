@@ -303,10 +303,8 @@ export default function KyotoTangoWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-blue-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の京都・丹後旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-blue-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の京都・丹後旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-blue-50/60 p-4 rounded-xl border border-blue-100">
               <span className="font-bold text-blue-950 block mb-1">① 幻雪の天橋立と元伊勢初詣</span>
@@ -344,9 +342,7 @@ export default function KyotoTangoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">AREA ATMOSPHERE & GEO OVERVIEW</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                神話の海が白銀をまとう、幽玄なる海の京都の冬景色
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">神話の海が白銀をまとう、幽玄なる海の京都の冬景色</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function KyotoTangoWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-blue-50/70 border border-blue-100">
-              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-blue-700" /> 日本三景 天橋立・幻雪飛龍観
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-blue-700" /> 日本三景 天橋立・幻雪飛龍観</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 股のぞきで望む銀鱗の龍。白砂青松が雪をかぶり、静寂の水面に浮かび上がる冬限りの神聖な美観。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-blue-50/70 border border-blue-100">
-              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-blue-700" /> 伊根の舟屋群 水墨画の海景
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-blue-700" /> 伊根の舟屋群 水墨画の海景</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 重要伝統的建造物群保存地区。海に浮かぶ家並みと雪の瓦屋根が織りなす静謐な冬の浦の情緒。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-blue-50/70 border border-blue-100">
-              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sparkles className="w-4 h-4 text-blue-700" /> 丹後一ノ宮 元伊勢籠神社
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm mb-1 flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-blue-700" /> 丹後一ノ宮 元伊勢籠神社</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 天照大神と豊受大神の元宮。雪の神門と五色の座玉（すえたま）が厳かな新春の光を放ちます。
               </p>
@@ -398,9 +388,7 @@ export default function KyotoTangoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                緑タグの幻「間人ガニ」と伊根湾が育む極上「寒ブリしゃぶしゃぶ」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">緑タグの幻「間人ガニ」と伊根湾が育む極上「寒ブリしゃぶしゃぶ」</h2>
             </div>
           </div>
 
@@ -418,9 +406,7 @@ export default function KyotoTangoWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
             <div className="p-5 rounded-xl bg-emerald-50/70 border border-emerald-100">
-              <h3 className="font-bold text-emerald-950 text-sm mb-2 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-emerald-700" /> 幻の間人ガニが特別な理由
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm mb-2 flex items-center gap-1.5"><Flame className="w-4 h-4 text-emerald-700" /> 幻の間人ガニが特別な理由</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>わずか5隻の小型船：</strong>日帰り操業による圧倒的鮮度と、徹底した品質選別の証。</li>
                 <li>・<strong>緑タグの保証：</strong>間人港で水揚げされた極上ズワイガニにのみ許される誇りのタグ。</li>
@@ -428,9 +414,7 @@ export default function KyotoTangoWinterPage() {
               </ul>
             </div>
             <div className="p-5 rounded-xl bg-emerald-50/70 border border-emerald-100">
-              <h3 className="font-bold text-emerald-950 text-sm mb-2 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-emerald-700" /> 伊根寒ブリしゃぶしゃぶの極意
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm mb-2 flex items-center gap-1.5"><Wine className="w-4 h-4 text-emerald-700" /> 伊根寒ブリしゃぶしゃぶの極意</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>絶妙な湯通し：</strong>出汁に2〜3回くぐらせ、表面が白く中心がレアの状態で。</li>
                 <li>・<strong>京都の薬味：</strong>香り高い九条ネギとすりおろし大根、さっぱりポン酢で極上の調和。</li>
@@ -444,9 +428,7 @@ export default function KyotoTangoWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-blue-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              天橋立雪景色＆間人ガニ・伊根寒ブリを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">天橋立雪景色＆間人ガニ・伊根寒ブリを満喫する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
               楽天トラベルAPIから最新の空室状況・評価を取得。駅前温泉ホテルから吉村順三の数寄屋宿、高台のミシュラン掲載宿まで網羅。
             </p>
@@ -486,9 +468,7 @@ export default function KyotoTangoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0" />
@@ -547,19 +527,15 @@ export default function KyotoTangoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                11・12・1月を満喫する「天橋立飛龍観と伊根の舟屋・間人ガニ」1泊2日黄金コース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">11・12・1月を満喫する「天橋立飛龍観と伊根の舟屋・間人ガニ」1泊2日黄金コース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-blue-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-blue-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                特急はしだて号で天橋立へ、飛龍観雪景色と知恩寺初詣、名宿へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-blue-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                特急はしだて号で天橋立へ、飛龍観雪景色と知恩寺初詣、名宿へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:00 京都駅より特急はしだて号にて天橋立駅へ到着</strong><br />
                 乗り換えなしで約2時間。駅前で荷物を預け、文珠エリアの散策へ。
@@ -580,10 +556,8 @@ export default function KyotoTangoWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                元伊勢籠神社新春祈願、伊根の舟屋遊覧船と冬の浦散策
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                元伊勢籠神社新春祈願、伊根の舟屋遊覧船と冬の浦散策</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:00 観光船で阿蘇海を渡り、元伊勢 籠神社へ</strong><br />
                 丹後国一ノ宮・元伊勢籠神社で新春の清々しい祈り。奥宮・真名井神社の天の真名井水で心身を清める。
@@ -612,19 +586,15 @@ export default function KyotoTangoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                京都・丹後＆天橋立 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">京都・丹後＆天橋立 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-blue-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-blue-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -641,9 +611,7 @@ export default function KyotoTangoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！日本海＆近畿の厳選「冬の初詣＆カニ・名湯特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！日本海＆近畿の厳選「冬の初詣＆カニ・名湯特集」</h2>
             </div>
           </div>
 

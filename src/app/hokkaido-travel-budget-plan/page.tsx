@@ -72,9 +72,7 @@ export default function HokkaidoBudgetGuide() {
 
       <div className="max-w-4xl mx-auto px-4 py-12">
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">
-            レンタカーあり vs なし（JR＆バス）費用差
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">レンタカーあり vs なし（JR＆バス）費用差</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white shadow-lg rounded-2xl p-6 border border-gray-100">
               <div className="text-4xl mb-4 text-center">🚗</div>
@@ -115,9 +113,7 @@ export default function HokkaidoBudgetGuide() {
         </section>
 
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">
-            日数別おすすめエリアとモデルコース
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">日数別おすすめエリアとモデルコース</h2>
           <div className="space-y-6">
             <div className="bg-gray-50 rounded-xl p-6">
               <h3 className="font-bold text-lg text-blue-900 mb-2">【2泊3日】レンタカー不要！札幌・小樽 集中コース</h3>
@@ -145,9 +141,7 @@ export default function HokkaidoBudgetGuide() {
         </section>
 
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-6 pb-2">
-            見逃せない！北海道グルメの予算感
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-6 pb-2">見逃せない！北海道グルメの予算感</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="bg-orange-50 rounded-lg p-4 text-center">
               <div className="text-2xl mb-2">🐟</div>
@@ -173,9 +167,7 @@ export default function HokkaidoBudgetGuide() {
         </section>
 
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-6 pb-2">
-            航空券＆宿泊費の相場（1人あたり）
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-6 pb-2">航空券＆宿泊費の相場（1人あたり）</h2>
           <ul className="list-disc list-inside text-gray-700 space-y-3 bg-white border border-gray-200 p-6 rounded-xl shadow-sm mb-8">
             <li><strong>LCC (ピーチ/ジェットスター):</strong> 片道 5,000〜15,000円</li>
             <li><strong>大手 (JAL/ANA):</strong> 片道 15,000〜35,000円</li>
@@ -189,9 +181,7 @@ export default function HokkaidoBudgetGuide() {
           
         {/* 旅費を大幅に節約する5つのウラ技 */}
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">
-            北海道旅行の費用をガッツリ抑える5つの節約術
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">北海道旅行の費用をガッツリ抑える5つの節約術</h2>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="bg-blue-50/50 p-6 rounded-2xl border border-blue-100">
               <h3 className="font-bold text-blue-900 mb-2">1. 航空券は2〜3ヶ月前のLCCセールを狙う</h3>
@@ -210,9 +200,7 @@ export default function HokkaidoBudgetGuide() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16">
-          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">
-            北海道旅行 予算・日程のよくある質問（FAQ）
-          </h2>
+          <h2 className="text-2xl font-bold text-gray-900 border-b-4 border-blue-200 inline-block mb-8 pb-2">北海道旅行 予算・日程のよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm">
               <h3 className="font-bold text-gray-800 mb-2">Q. レンタカーなしでも観光できますか？</h3>
@@ -269,9 +257,7 @@ export default function HokkaidoBudgetGuide() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「北海道旅行 予算：2泊3日・3泊4日はいくら必要？レンタカーなしでも回れる費用計画ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -350,9 +336,7 @@ export default function HokkaidoBudgetGuide() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 北海道旅行 予算エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">北海道旅行 予算エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>四季折々の雅を映す名園の静寂。江戸の大名が愛した庭園美と伝統のおもてなし</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>四季折々の雅を映す名園の静寂。江戸の大名が愛した庭園美と伝統のおもてなし</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             雪吊りが美しい金沢・兼六園、岡山城を借景とする岡山・後楽園、梅の名所として名高い水戸・偕楽園。江戸時代の大名たちが美の極致を追求して作庭した日本三名園の周辺には、格式高い老舗旅館や上質なシティホテルが息づいています。早朝の開園直後、観光客のいない静まり返った庭園を散策できるのは近隣宿の特権。楽天ふるさと納税を活用して、日本庭園の美意識と伝統会席に酔いしれる優雅な旅へ。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    開園直後の早朝散策で誰もいない名園の静寂と朝露を独占
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">開園直後の早朝散策で誰もいない名園の静寂と朝露を独占</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     名園に隣接・至近の宿なら、朝食前の清々しい時間帯に庭園をゆっくり散策可能。鳥のさえずりと水音だけが響く静寂の美を心ゆくまで堪能できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    加賀百万石・備前・水戸徳川家の歴史と結びついた伝統会席料理
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">加賀百万石・備前・水戸徳川家の歴史と結びついた伝統会席料理</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     治部煮をはじめとする繊細な加賀料理、瀬戸内の新鮮魚介や備前ばら寿司、常陸牛など、各藩の豊かな食文化を現代に受け継ぐ名店の味を楽しめます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税で文化財庭園の保全と地域観光をダブルで支援
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税で文化財庭園の保全と地域観光をダブルで支援</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     世界に誇る日本庭園の維持管理に取り組む自治体に寄付しながら、最大30%オフのトラベルクーポンでお得に格式ある宿に宿泊できます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="kenrokuen_garden" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>石川県金沢市ふるさと納税：加賀百万石・兼六園至近の料理旅館金沢茶屋＆大正ロマンホテル</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>石川県金沢市ふるさと納税：加賀百万石・兼六園至近の料理旅館金沢茶屋＆大正ロマンホテル</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       徽軫灯籠や雪吊りで世界的に知られる兼六園。加賀友禅や九谷焼が彩る名宿で、日本海のノドグロやズワイガニ、金沢じわもん野菜を使った極上会席と名湯を満喫できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              加賀屋グループ　料理旅館　金沢茶屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">加賀屋グループ　料理旅館　金沢茶屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               金沢駅から徒歩3分の料理旅館。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              アパホテル〈金沢駅前〉
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">アパホテル〈金沢駅前〉</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               コンパクトながらも機能性を追求した金沢駅目前の大浴殿付ホテル！ビジネス、観光に最適な駅前立地！
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              金沢マンテンホテル駅前（マンテンホテルグループ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">金沢マンテンホテル駅前（マンテンホテルグループ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               露天感覚の男女別大浴場（男性：高温サウナ&amp;水風呂、女性：ミストサウナ）／敷地内駐車場１３４台
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="korakuen_garden" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>岡山県岡山市ふるさと納税：岡山後楽園・旭川の清流と岡山城烏城を借景とする名園リゾート</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>岡山県岡山市ふるさと納税：岡山後楽園・旭川の清流と岡山城烏城を借景とする名園リゾート</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       元禄文化を今に伝える回遊式庭園・後楽園。広大な芝生と延養亭を散策した後は、瀬戸内の鰆やままかり、千屋牛を味わい、快適なホテルでリラクゼーションに浸れます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルアベストグランデ岡山　なごみの湯
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルアベストグランデ岡山　なごみの湯</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ～岡山駅徒歩5分～大浴場＆サウナで癒し、岡山名物朝食は口コミ高評価4.45以上★
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kairakuen_garden" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>茨城県水戸市ふるさと納税：水戸偕楽園・千波湖の自然と徳川斉昭公ゆかりの梅林名宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>茨城県水戸市ふるさと納税：水戸偕楽園・千波湖の自然と徳川斉昭公ゆかりの梅林名宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       約3,000本の梅が咲き誇る偕楽園。好文亭から千波湖を見晴らし、夜は茨城の誇る極上肉・常陸牛のステーキやすき焼きを老舗温泉宿で堪能する知的な歴史旅です。
                     </p>
@@ -437,9 +411,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              内原鉱泉　湯泉荘
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">内原鉱泉　湯泉荘</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【駐車場無料】超音波龍紋石風呂は湧き水を沸かしており、一晩中入れます。（朝9時からの清掃時を除く）
                             </p>
@@ -545,9 +517,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】加賀屋グループ 料理旅館 金沢茶屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】加賀屋グループ 料理旅館 金沢茶屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -580,9 +550,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と加賀屋グループ 料理旅館 金沢茶屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と加賀屋グループ 料理旅館 金沢茶屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -677,9 +645,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -749,9 +715,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税厳選ガイド兼六園・後楽園・偕楽園の歴史宿エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

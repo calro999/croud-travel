@@ -298,10 +298,8 @@ export default function MinakamiOnsenWinterPage() {
             <Mountain className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 谷川岳初冠雪と利根川渓谷雪見露天・極上上州牛旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】<br className="hidden sm:inline" />
-            利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月みなかみ温泉郷の冬名湯と谷川岳雪見風呂】<br className="hidden sm:inline" />
+            利根川渓谷露天と谷川岳初冠雪・極上上州牛＆旬きのこ会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の静寂に包まれる谷川連峰の雄大な初冠雪。利根川源流の渓谷露天風呂や天下一の宝川大露天風呂に浸かり、冷えた体を芯から解き放ち、最高峰ブランド肉「上州牛」すき焼きと地元特産の肉厚舞茸きのこ会席を堪能する大人の冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Minakami Onsen Gorge Winter Serenity</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                谷川連峰の懐に抱かれた利根川源流、雪景色と渓谷美が織り成す名湯郷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">谷川連峰の懐に抱かれた利根川源流、雪景色と渓谷美が織り成す名湯郷</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -368,9 +364,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Natural Spring Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                個性豊かな「みなかみ18湯」の泉質力と雪見露天風呂の至福
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">個性豊かな「みなかみ18湯」の泉質力と雪見露天風呂の至福</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -389,9 +383,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">World Renowned Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                天下一の広さ！宝川温泉『汪泉閣』延べ470畳の巨石雪見大露天風呂
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">天下一の広さ！宝川温泉『汪泉閣』延べ470畳の巨石雪見大露天風呂</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -410,9 +402,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のみなかみ温泉郷が旅人を魅了する3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のみなかみ温泉郷が旅人を魅了する3つの理由</h2>
             </div>
           </div>
           
@@ -453,9 +443,7 @@ export default function MinakamiOnsenWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              みなかみ温泉郷 11月・12月におすすめの名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">みなかみ温泉郷 11月・12月におすすめの名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベルの最新公式APIデータをもとに、利根川渓谷露天・源泉掛け流し・極上上州牛会席を誇る名宿を厳選。
             </p>
@@ -491,11 +479,9 @@ export default function MinakamiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-teal-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -555,9 +541,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Minakami Winter Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                4. みなかみの初冬グルメ：最高級上州牛・採れたて舞茸・清流イワナ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">4. みなかみの初冬グルメ：最高級上州牛・採れたて舞茸・清流イワナ</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -576,35 +560,25 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 1泊2日 みなかみ温泉郷〜谷川岳ロープウェイ・利根川雪見露天 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 1泊2日 みなかみ温泉郷〜谷川岳ロープウェイ・利根川雪見露天 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-teal-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-teal-800 uppercase tracking-wider">【1日目】東京出発〜谷川岳ロープウェイ絶景＆利根川渓谷雪見露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                10:30 上越新幹線上毛高原駅または関越道水上IC到着 → 谷川岳ロープウェイへ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">10:30 上越新幹線上毛高原駅または関越道水上IC到着 → 谷川岳ロープウェイへ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ロープウェイで天神平へ上がり、初冠雪した谷川岳の圧倒的な岩壁パノラマを鑑賞。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                13:00 水上温泉街で名物「水上きのこそば・舞茸天ぷら」ランチ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">13:00 水上温泉街で名物「水上きのこそば・舞茸天ぷら」ランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 肉厚の舞茸天ぷらと香り高い手打ち蕎麦で体を温める。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                15:00 宿へチェックイン → 利根川渓谷を望む露天風呂で雪見湯浴み
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">15:00 宿へチェックイン → 利根川渓谷を望む露天風呂で雪見湯浴み</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 川のせせらぎと冷たい冬風を感じながら、体の芯までじっくり温まる至福のひととき。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:00 極上上州牛すき焼き＆旬の山里懐石ディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:00 極上上州牛すき焼き＆旬の山里懐石ディナー</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろける上州牛と地元特産の舞茸、岩魚の塩焼きを群馬の地酒とともに堪能。
               </p>
@@ -612,27 +586,19 @@ export default function MinakamiOnsenWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】朝の渓流露天風呂〜諏訪峡遊歩道＆たくみの里散策</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝陽に輝く渓谷露天風呂 → 郷土朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝陽に輝く渓谷露天風呂 → 郷土朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝霧が立ち込める利根川の渓流を眺めながらの朝風呂でリフレッシュ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:30 名勝「諏訪峡」笹笛橋からの奇岩と雪景色鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:30 名勝「諏訪峡」笹笛橋からの奇岩と雪景色鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 利根川沿いに整備された遊歩道から、巨岩と清流の冬景色を散策。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                11:30 「道の駅 たくみの里」で伝統工芸体験＆地元スイーツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">11:30 「道の駅 たくみの里」で伝統工芸体験＆地元スイーツ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 里山の古民家が並ぶ街並みで和紙漉きや陶芸を体験し、飲むヨーグルトやリンゴを購入。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:30 水上ICまたは上毛高原駅より帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:30 水上ICまたは上毛高原駅より帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 生どら焼きや温泉まんじゅうをお土産に購入し、快適アクセスで東京へ帰路。
               </p>
@@ -648,9 +614,7 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Snowy Road Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・雪道運転対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・雪道運転対策</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -669,18 +633,14 @@ export default function MinakamiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬のみなかみ温泉郷旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬のみなかみ温泉郷旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -693,9 +653,7 @@ export default function MinakamiOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-300 uppercase tracking-widest">Related Gunma & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい群馬・関東の名湯＆雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい群馬・関東の名湯＆雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪見露天風呂、温泉街の石段情緒、旬の上州グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

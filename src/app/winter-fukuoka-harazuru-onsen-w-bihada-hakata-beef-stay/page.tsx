@@ -269,9 +269,7 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Double Beautifying Sanctuary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                大河のせせらぎと奇跡のW美肌の湯｜11月・12月の福岡原鶴温泉が選ばれる理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">大河のせせらぎと奇跡のW美肌の湯｜11月・12月の福岡原鶴温泉が選ばれる理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Atmospheric River Mist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                筑後川の幻想的な朝霧と朝倉の富有柿｜初冬の筑後路を彩る自然の風物詩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">筑後川の幻想的な朝霧と朝倉の富有柿｜初冬の筑後路を彩る自然の風物詩</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -318,9 +314,7 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Harazuru Winter Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の原鶴温泉1泊2日満喫モデルコース｜白壁の町散策とW美肌の湯・博多和牛紀行
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の原鶴温泉1泊2日満喫モデルコース｜白壁の町散策とW美肌の湯・博多和牛紀行</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -339,9 +333,7 @@ export default function FukuokaHarazuruWinterFeature() {
         <section className="space-y-12">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Selected Harazuru Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の原鶴温泉を満喫する厳選おすすめ宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の原鶴温泉を満喫する厳選おすすめ宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               老舗の名物ジャングル風呂から、筑後川一望のインフィニティ露天、全面畳敷き大浴場まで、現地取材に基づき厳選しました。
             </p>
@@ -383,9 +375,7 @@ export default function FukuokaHarazuruWinterFeature() {
                             福岡県朝倉市杷木志波
                           </span>
                         </div>
-                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                         <p className="text-xs sm:text-sm text-violet-800 font-medium bg-violet-50/70 px-3 py-1.5 rounded-lg border border-violet-100/80">
                           {h.special}
                         </p>
@@ -453,28 +443,22 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Chikugo Gourmet Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                最高峰ブランド「博多和牛」と実りの朝倉・筑後路冬グルメ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">最高峰ブランド「博多和牛」と実りの朝倉・筑後路冬グルメ</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-slate-700 leading-relaxed">
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-500" />
-                きめ細やかなサシと芳醇な旨味「博多和牛」会席
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-amber-500" />
+                きめ細やかなサシと芳醇な旨味「博多和牛」会席</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 福岡県内の指定生産農家が丹精込めて育てる博多和牛。良質な稲わらを豊富に食べて育つため、脂がしつこくなく、赤身に深いコクと旨味が凝縮しています。陶板焼きで表面を香ばしく炙って特製タレで味わうステーキや、甘辛い割り下で楽しむすき焼き鍋は、冬の温泉旅行の最高の満足感をもたらします。
               </p>
             </div>
 
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Sun className="w-5 h-5 text-amber-600" />
-                富有柿の王様と朝倉の旬彩・地鶏鍋
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sun className="w-5 h-5 text-amber-600" />
+                富有柿の王様と朝倉の旬彩・地鶏鍋</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝倉市杷木地域は、全国有数の富有柿（ふゆうがき）の生産地。11月から12月にかけて糖度を極限まで高めた完熟富有柿は、デザートはもちろん前菜や白和えにも使われます。さらに朝倉のブランド地鶏を使った水炊きや地鶏鍋、採れたての冬野菜など、豊かな大地が育んだ優しい味わいが身体を芯から温めます。
               </p>
@@ -490,9 +474,7 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-300 uppercase tracking-widest">Miraculous Double Beautifying Spa</span>
-              <h2 className="text-xl sm:text-2xl font-bold">
-                弱アルカリ性×単純硫黄泉｜原鶴温泉「奇跡のW美肌泉」のメカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold">弱アルカリ性×単純硫黄泉｜原鶴温泉「奇跡のW美肌泉」のメカニズム</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-200 leading-relaxed">
@@ -525,9 +507,7 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Travel Planning & Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                原鶴温泉へのアクセスと週末リフレッシュのモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">原鶴温泉へのアクセスと週末リフレッシュのモデルコース</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -559,18 +539,14 @@ export default function FukuokaHarazuruWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                福岡・原鶴温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">福岡・原鶴温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-violet-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-violet-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -583,9 +559,7 @@ export default function FukuokaHarazuruWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-violet-400 uppercase tracking-widest">Related Kyushu & Onsen Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬名湯＆美肌温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬名湯＆美肌温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の九州各地の冬の味覚、名湯めぐり、絶景露天風呂をめぐる厳選特集もぜひご覧ください。
             </p>

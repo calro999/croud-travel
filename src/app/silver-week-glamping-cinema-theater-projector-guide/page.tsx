@@ -205,9 +205,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
       <section className="bg-white border border-indigo-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Cinema & Theater Highlights</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            秋の夜長を遊び尽くす！シアターグランピング4つの極上ポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">秋の夜長を遊び尽くす！シアターグランピング4つの極上ポイント</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             映画館でも自宅でも味わえない、自然の中の秘密基地で楽しむ臨場感とワクワク感。
           </p>
@@ -230,9 +228,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
       <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md border border-indigo-900/40">
         <div className="space-y-1">
           <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest font-mono">Cinema Night Flow</span>
-          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-            映画祭＆推し活ナイト！シアターグランピングの理想スケジュール
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">映画祭＆推し活ナイト！シアターグランピングの理想スケジュール</h2>
           <p className="text-xs sm:text-sm text-indigo-200/80">
             日没後のBBQから深夜の上映会まで。時間を忘れて熱中する特別なナイトルーティン。
           </p>
@@ -255,9 +251,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Selected Theater Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            プロジェクター・シアター設備付き！おすすめ宿泊施設
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">プロジェクター・シアター設備付き！おすすめ宿泊施設</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             伊豆や瀬戸内の絶景グランピングから都内・福岡の話題のシアタールームまで厳選。
           </p>
@@ -294,9 +288,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
                     🎬 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "シアタープロジェクターや快適なドーム空間で、映画鑑賞や推し活ステイを満喫できる話題のスポット。"}
@@ -344,18 +336,14 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
       <section className="bg-white rounded-3xl border border-indigo-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            シアターグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">シアターグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-indigo-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-indigo-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-indigo-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -366,9 +354,7 @@ export default function SilverWeekGlampingCinemaTheaterProjectorPage() {
 
       {/* 内部リンク・東京駅早朝カフェ＆ディズニーパッキング */}
       <section className="bg-indigo-50/60 border border-indigo-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🎒</span> あわせて読みたい女子旅・旅行準備お役立ちガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい女子旅・旅行準備お役立ちガイド</h3>
         <p className="text-xs text-stone-600">
           お泊まり会や旅行出発前の朝時間活用と、後悔しない持ち物パッキングのコツ。
         </p>

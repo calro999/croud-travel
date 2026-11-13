@@ -108,9 +108,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  薩摩切子の「ぼかし」と江戸切子の「シャープさ」、小樽の幻想的なランプ灯
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">薩摩切子の「ぼかし」と江戸切子の「シャープさ」、小樽の幻想的なランプ灯</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大ガラスの街は、それぞれまったく異なる光の個性を放っています。厚い色ガラスを削ることで生み出される薩摩切子の独特なグラデーションのグラデーション美。薄いガラスに寸分の狂いもなく施される江戸切子の鮮烈なカッティング。そして小樽の167灯の石油ランプが灯る喫茶ホールや、吹きガラスの温もりある気泡。手にとって光にかざすたびにきらめく無数の光線は、旅の記憶をいつまでも鮮やかに照らし続けてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  手作り吹きガラス・サンドブラスト・切子カッティング体験で自分だけの器作り
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">手作り吹きガラス・サンドブラスト・切子カッティング体験で自分だけの器作り</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 各都市のガラス工房では、熟練の職人の指導のもとで本格的なガラス制作体験が楽しめます。真っ赤に熱せられたガラスを竿に巻き取って息を吹き込む吹きガラス体験、精密なグラインダーを使って文様を刻む切子体験。完成した世界に一つだけのオリジナルグラスを自宅に持ち帰り、旅先で買った地酒やウイスキーを注いで味わう瞬間は、旅の最高の余韻となります。
@@ -138,9 +134,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  小樽の岬にそびえるオーシャンフロント城塞や鹿児島の桜島ビュー名門ホテル
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">小樽の岬にそびえるオーシャンフロント城塞や鹿児島の桜島ビュー名門ホテル</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 小樽の断崖絶壁に佇み全室オーシャンビューと露天風呂を備えたホテルノイシュロス小樽、桜島と錦江湾の絶景パノラマを露天風呂から仰ぐ名門SHIROYAMA HOTEL kagoshima、東京スカイツリーの煌めく夜景を間近に望むロッテシティホテル錦糸町。ふるさと納税クーポンを使えば、憧れのパノラマビュールームも実質2,000円で驚くほどお得に予約可能です。
@@ -181,9 +175,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 北海道 小樽市祝津3-282</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ホテルノイシュロス小樽
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ホテルノイシュロス小樽</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事や景色は最高、接客の向上に期待お食事もお風呂もお部屋も景色も最高でした。送迎も融通をきかせていただくなど、接客に関しては素晴らしい面もありましたが、敢えて申し上げると若いスタッフの方への教育に…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 鹿児島県 鹿児島市新照院町41-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＳＨＩＲＯＹＡＭＡ　ＨＯＴＥＬ　ｋａｇｏｓｈｉｍａ（城山ホテル鹿児島）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＳＨＩＲＯＹＡＭＡ　ＨＯＴＥＬ　ｋａｇｏｓｈｉｍａ（城山ホテル鹿児島）</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 東京都 墨田区錦糸4-6-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ロッテシティホテル錦糸町
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ロッテシティホテル錦糸町</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「スカイツリーが見える広い部屋と便利な立地東京スカイツリーの見えるお部屋で、ロケーションがとにかく最高でした。東京スカイツリーまではホテルから地下鉄で一駅なので移動も楽です。お部屋もきれいで大変広く…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルノイシュロス小樽を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルノイシュロス小樽を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルノイシュロス小樽の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルノイシュロス小樽の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -248,12 +248,10 @@ export default function WinterAkitaYuzePage() {
             11月・12月 日本三大美人の湯と本場きりたんぽ鍋・比内地鶏特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月秋田・湯瀬温泉＆鹿角】美人の湯と本場きりたんぽ
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月秋田・湯瀬温泉＆鹿角】美人の湯と本場きりたんぽ
             <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal">
               米代川雪渓谷の絶景露天風呂・新米あきたこまちと比内地鶏出汁の熱々鍋を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、十和田八幡平国立公園の南麓に位置する秋田県鹿角市（かづのし）は、澄み切った冷気とともに初雪を迎え、白銀の冬景色へと姿を変えます。清流・米代川の渓谷沿いに湧き出る「湯瀬温泉（ゆぜおんせん）」は、「川の瀬から湯が湧き出す」情景がその名の由来となった名湯で、和歌山県の龍神温泉、群馬県の川中島温泉とともに「日本三大美人の湯」のひとつに数えられます。pH9を超える高アルカリ性の単純温泉は、化粧水のようにトロリとした滑らかな肌触りが特徴で、湯から上がった瞬間に肌がツルツルになると称賛されます。初冬の冷え込みの中で米代川の雪見渓流露天風呂に浸かる心地よさは格別。夕食には発祥の地・鹿角ならではの「本場きりたんぽ鍋」が登場。収穫されたばかりの新米あきたこまちを香ばしく焼き、日本三大地鶏「比内地鶏」の濃厚なガラ出汁、香り高いセリや舞茸とともに煮込む熱々の一杯は、冬の東北旅の真骨頂です。希少なかづの牛や名酒とともに、初冬の秋田で温まる厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterAkitaYuzePage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の鹿角・湯瀬渓谷の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            清流の瀬から湧き出る奇跡の美肌霊泉・白銀の渓谷露天と黄金出汁が薫る冬の温もり
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">清流の瀬から湧き出る奇跡の美肌霊泉・白銀の渓谷露天と黄金出汁が薫る冬の温もり</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               秋田新幹線や東北新幹線が通る盛岡駅から、JR花輪線に乗り換えて北へ。車窓の風景が秋田杉の鬱蒼とした森と渓谷へと移り変わる頃、米代川の清流沿いに湯けむりを立ち上らせる「湯瀬温泉」に到着します。その歴史は古く、川の瀬（川床）のあちこちから豊富なお湯が自然湧出していたことからその名が付けられました。和歌山の龍神温泉、群馬の川中島温泉と並び「日本三大美人の湯」に数えられる泉質は、pH9を超える高アルカリ性の単純温泉。無色透明の湯に身を沈めた瞬間、化粧水を全身に浴びたかのようなトロトロとした感触に驚かされます。肌の古い角質を洗い流し、しっとりとした潤いを与えてくれる極上の湯は、冬の乾燥しがちな肌を美しく蘇らせてくれます。
@@ -315,9 +311,7 @@ export default function WinterAkitaYuzePage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              秋田・湯瀬温泉＆鹿角 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">秋田・湯瀬温泉＆鹿角 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               日本三大美人の湯の雪見露天風呂、本場比内地鶏きりたんぽ鍋、かづの牛会席を備えた本物の宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterAkitaYuzePage() {
                         <span className="text-xs font-bold text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-emerald-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterAkitaYuzePage() {
             <Utensils className="w-4 h-4 text-emerald-300" />
             初冬の秋田・鹿角美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の鹿角で味わい尽くす郷土の至宝と新米の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の鹿角で味わい尽くす郷土の至宝と新米の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                発祥の地「本場きりたんぽ鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-400" />
+                発祥の地「本場きりたんぽ鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 新米あきたこまちをすり鉢で潰して杉串に巻き、香ばしく焼き上げた手作りたんぽ。比内地鶏の鶏ガラから抽出した極上の黄金スープを吸い込んだたんぽのモチモチ感と、セリの根の鮮烈な風味は、まさに冬の東北を代表する至福の鍋料理です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-400" />
-                日本三大地鶏「比内地鶏」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-400" />
+                日本三大地鶏「比内地鶏」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 広大な自然の中で放し飼いされ、十分な運動量で引き締まった肉質を誇る比内地鶏。噛むほどに溢れ出す濃厚な肉汁と、野性味あふれる芳醇なコクは別格。炭火串焼きや鍋の具材として、一度食べたら忘れられない奥深い味わいです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-400" />
-                幻の赤身肉「かづの短角牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-400" />
+                幻の赤身肉「かづの短角牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 十和田八幡平の広大な牧草地で健康的に育つ日本短角種「かづの牛」。サシ（脂）に頼らない赤身肉本来の濃厚なアミノ酸の旨味と柔らかさが特徴で、陶板焼きやすき焼きで肉本来の力強い美味しさを余すところなく堪能できます。
               </p>
@@ -466,15 +450,11 @@ export default function WinterAkitaYuzePage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の湯瀬温泉・鹿角 交通アクセス＆冬道・防寒対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の湯瀬温泉・鹿角 交通アクセス＆冬道・防寒対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-700" />
-                盛岡駅経由の列車アクセス＆雪道運転の心得
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-700" />
+                盛岡駅経由の列車アクセス＆雪道運転の心得</h3>
               <p>
                 東京駅から東北新幹線で盛岡駅へ行き、JR花輪線または高速バス「みちのく号」を利用すれば、雪道運転の不安なく湯瀬温泉駅にアクセスできます。主要旅館は駅から徒歩圏内です。
               </p>
@@ -484,10 +464,8 @@ export default function WinterAkitaYuzePage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-700" />
-                アルカリ性美肌泉の入浴法と冬の保湿ケア
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-700" />
+                アルカリ性美肌泉の入浴法と冬の保湿ケア</h3>
               <p>
                 pH9を超えるアルカリ単純温泉は角質を軟化させる作用が強いため、身体をゴシゴシ擦らず、手で優しくお湯を撫でるように入浴するのが美肌の秘訣です。
               </p>
@@ -504,16 +482,12 @@ export default function WinterAkitaYuzePage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の秋田・湯瀬温泉＆鹿角旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の秋田・湯瀬温泉＆鹿角旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterAkitaYuzePage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい北東北の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい北東北の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               白銀の絶景露天風呂と郷土鍋・ブランド牛を堪能する秋田・岩手・青森の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                乳頭温泉郷・鶴の湯の雪見白濁露天と山の芋鍋
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">乳頭温泉郷・鶴の湯の雪見白濁露天と山の芋鍋</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 秘境ブナ林に湧く日本屈指の白濁薬湯とランプの宿、秋田郷土料理の冬ごもり。
               </p>
@@ -553,9 +523,7 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・男鹿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                男鹿半島の日本海荒波雪景色と名物石焼料理
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">男鹿半島の日本海荒波雪景色と名物石焼料理</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 灼熱の小石を桶に投入する豪快な石焼料理となまはげ文化、塩化物泉の温もり。
               </p>
@@ -566,9 +534,7 @@ export default function WinterAkitaYuzePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                鶯宿温泉の雪見露天と小岩井農場・極上雫石牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鶯宿温泉の雪見露天と小岩井農場・極上雫石牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 岩手山麓に湧く450年の名湯と冬のイルミネーション、盛岡三大麺の美食旅。
               </p>

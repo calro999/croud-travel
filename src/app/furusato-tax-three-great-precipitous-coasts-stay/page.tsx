@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            足元に砕け散る白波と見渡す限りの水平線。地球の雄大な鼓動を体感する断崖リゾート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">足元に砕け散る白波と見渡す限りの水平線。地球の雄大な鼓動を体感する断崖リゾート</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本列島を取り巻く外海の荒波と風雨が数百万年の歳月をかけて岩盤を削り出し、息をのむような断崖絶壁の景観美を創り出した「日本三大名勝海岸（三大断崖・奇岩海岸）」――高さ200mもの大絶壁が約8kmにわたって連なり「海のアルプス」と称賛される三陸復興国立公園・岩手の「北山崎」、輝石安山岩の巨大な五角形・六角形の柱状節理が海にそそり立つ世界三大奇勝の一つ・福井の「東尋坊」、そして黒潮打ち寄せる四国最南端に位置し270度の大パノラマで地球の丸さを実感できる高知の「足摺岬」。展望台から見下ろす吸い込まれそうな海景と、海鳥たちが飛び交う雄大な自然美は圧巻。断崖を望む温泉露天風呂に浸かり、名産のウニ・アワビ・越前ガニ・戻り鰹を味わう至高の旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岩手県田野畑村ふるさと納税：高さ200mの海のアルプス「北山崎」大断崖パノラマと全室海側・ホテル羅賀荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岩手県田野畑村ふるさと納税：高さ200mの海のアルプス「北山崎」大断崖パノラマと全室海側・ホテル羅賀荘</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   日本交通公社全国観光資源評価「自然の部」最高ランク特A級の北山崎。サッパ船アドベンチャークルーズを楽しんだ後は、全室オーシャンビューの「ホテル羅賀荘」で、三陸のウニ・ホタテ・三陸アワビ会席に酔いしれます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル羅賀荘
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル羅賀荘</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岩手県下閉伊郡田野畑村羅賀60-1</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福井県坂井市三国町ふるさと納税：世界的三大奇勝の柱状節理「東尋坊」と三国オーシャンリゾート＆ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福井県坂井市三国町ふるさと納税：世界的三大奇勝の柱状節理「東尋坊」と三国オーシャンリゾート＆ホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の名勝・天然記念物に指定される東尋坊の巨岩美。遊覧船で海から断崖を見上げた後は、高台から日本海を見下ろす「三国オーシャンリゾート＆ホテル」で、東尋坊温泉の展望風呂と越前ガニ・若狭牛会席を堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">東尋坊温泉　三国オーシャンリゾート＆ホテル（旧：三国観光ホテル）</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福井県坂井市三国町緑ヶ丘4-4-8</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  高知県土佐清水市ふるさと納税：黒潮洗う四国最南端「足摺岬」地球が丸く見える展望台と足摺サニーサイドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">高知県土佐清水市ふるさと納税：黒潮洗う四国最南端「足摺岬」地球が丸く見える展望台と足摺サニーサイドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   紺碧の太平洋に突き出た足摺岬灯台。白山洞門や遊歩道を散策した後は、全室太平洋向きの「あしずり温泉郷 足摺サニーサイドホテル」で、名湯あしずり温泉露天風呂と土佐名物カツオの藁焼きタタキを満喫します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      あしずり温泉郷　足摺サニーサイドホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">あしずり温泉郷　足摺サニーサイドホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>高知県土佐清水市松尾19-2</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   海を間近に感じる名宿。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大松原・海岸グランピング宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大松原・海岸グランピング宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   虹の松原・気比松原・三保松原。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル羅賀荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル羅賀荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル羅賀荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル羅賀荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

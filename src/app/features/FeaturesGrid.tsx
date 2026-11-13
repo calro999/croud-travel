@@ -213,9 +213,7 @@ export default function FeaturesGrid({ initialPosts }: { initialPosts: FeaturePo
 
               <div className="p-6 flex flex-col flex-grow justify-between space-y-4">
                 <div className="space-y-2.5">
-                  <h3 className="font-bold text-base md:text-lg text-emerald-950 font-journal-serif leading-snug group-hover:text-teal-700 transition-colors line-clamp-2">
-                    {post.title}
-                  </h3>
+                  <h3 className="font-bold text-base md:text-lg text-emerald-950 font-journal-serif leading-snug group-hover:text-teal-700 transition-colors line-clamp-2">{post.title}</h3>
                   {post.description && (
                     <p className="text-xs text-emerald-950/70 line-clamp-2 leading-relaxed font-medium">
                       {post.description}

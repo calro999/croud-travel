@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             北前船の繁栄と明治の白壁土蔵群
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 山居倉庫（白壁土蔵造・ケヤキ並木）＆豪商・本間家旧本邸・日和山公園
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 山居倉庫（白壁土蔵造・ケヤキ並木）＆豪商・本間家旧本邸・日和山公園</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             明治26年に酒田米穀取引所の付属倉庫として建設された「山居倉庫」。12棟の漆喰白壁の土蔵が連なり、夏の西日と日本海の強風を遮るために植えられたケヤキ並木との景観は酒田の象徴。内部は庄内米歴史資料館や観光物産館として活用されています。また日本一の地主と謳われた「本間家旧本邸」では武家造りと商家造りが一体となった格式高い建築美を鑑賞できます。日和山公園からの日本海夕景も見事です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        日和山ホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日和山ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         故郷に帰ったような温かい昭和の宿。Wifi無料・館内イノベーション済・日和山公園すぐそば。
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        湯野浜ホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯野浜ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         本格的な韓国料理を楽しめる海辺の温泉旅館。全部屋トイレ付でプライバシーも安心です&amp;#9836;
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＫＡＭＥＹＡ　ＨＯＴＥＬ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＫＡＭＥＹＡ　ＨＯＴＥＬ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         水平線に沈む絶景の夕陽を全てのお部屋から。 庄内の豊かな海の幸、山の幸を生かした極上の美食宿。
                       </p>
@@ -263,9 +254,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             ミシュラン三ツ星・生まれ変わりの聖地
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 出羽三山羽黒山「国宝五重塔」＆二千四百四十六段の石段・樹齢数百年の杉並木宿坊
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 出羽三山羽黒山「国宝五重塔」＆二千四百四十六段の石段・樹齢数百年の杉並木宿坊</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             月山・湯殿山とともに「出羽三山」を構成し、現世の幸福を祈る山として信仰を集める「羽黒山」。表参道随神門をくぐり渓谷を下ると、木漏れ日の中に東北最古の木造塔「国宝 羽黒山五重塔」が素木造りの圧倒的な威厳を放ちます。山頂の三神合祭殿へ続く2,446段の石段には樹齢300〜500年の巨大な杉並木が連なり、歩くこと自体が魂の浄化（生まれ変わり）の儀式。麓の手向（とうげ）地区には歴史ある宿坊が並びます。
           </p>
@@ -290,8 +279,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -310,9 +298,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        羽黒山　三光院
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">羽黒山　三光院</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         羽黒山の玄関「隋神門」まで徒歩約7分の宿坊。東北の山岳信仰の中心地で自然と伝統をじっくり体験
                       </p>
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        旅館　羽黒館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　羽黒館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         羽黒の歴史を感じ、伝統息づく料理に舌鼓。国宝「羽黒山五重塔」の入り口までは、当館より徒歩約10分。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        大進坊
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">大進坊</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         三百年の歴史ある宿坊。地元の素材に拘った手作り精進料理、ごま豆腐・栃餅が好評。希望者は祈祷体験可能。
                       </p>
@@ -446,9 +428,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本海屈指の魚場と幻のブランド豚
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 庄内浜の朝獲れ地魚握り寿司＆平田牧場金華豚・三元豚美食ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 庄内浜の朝獲れ地魚握り寿司＆平田牧場金華豚・三元豚美食ステイ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             対馬暖流とリマン寒流が交差する豊かな漁場「庄内浜」。酒田や鶴岡の寿司店では、鳥海山の伏流水が注ぐ海で獲れたのどぐろ、アラ、平目、ヤリイカなどの天然地魚を職人が極上の握りで提供します。また酒田発祥の世界的ブランド豚「平田牧場」の金華豚・三元豚は、きめ細かな肉質と上品な甘みの白身（脂身）がとろける美味しさ。とんかつやしゃぶしゃぶで地元の銘酒とともに味わう至福の夜が待っています。
           </p>
@@ -473,8 +453,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        湯野浜温泉　竹屋ホテル（鶴岡・酒田）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">湯野浜温泉　竹屋ホテル（鶴岡・酒田）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         日本海に面した砂浜に位置し夕陽が大変美しい宿。出来たてを大切にした料理で名物「浜焼き」が好評です。
                       </p>
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルルートイン鶴岡インター
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン鶴岡インター</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         WOWOW全室で無料視聴可能！！山形自動車道鶴岡ICより車で3分のホテルルートイン鶴岡インター
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルルートイン鶴岡駅前
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン鶴岡駅前</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         鶴岡駅より徒歩１分の好立地。男女別ラジウム人工温泉大浴場を完備。朝食は、品数豊富な和洋バイキング。
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        東京第一ホテル鶴岡
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">東京第一ホテル鶴岡</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         鶴岡駅より徒歩約5分、バスターミナル隣接、ショッピングモール直結の好立地。
                       </p>
@@ -687,9 +658,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日和山ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日和山ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -722,9 +691,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日和山ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日和山ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

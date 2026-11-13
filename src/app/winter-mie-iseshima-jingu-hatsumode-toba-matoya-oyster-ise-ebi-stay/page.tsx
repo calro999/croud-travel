@@ -303,10 +303,8 @@ export default function MieIseshimaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の伊勢志摩・鳥羽旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の伊勢志摩・鳥羽旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
               <span className="font-bold text-amber-950 block mb-1">① 宇治橋日の出と内宮早朝参宮</span>
@@ -344,9 +342,7 @@ export default function MieIseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">AREA ATMOSPHERE & GEO OVERVIEW</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                常若（とこわか）の神域に差す冬の光と、リアス式海岸の優美な海景
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">常若（とこわか）の神域に差す冬の光と、リアス式海岸の優美な海景</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function MieIseshimaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-amber-700" /> 伊勢神宮 内宮・外宮参宮
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-amber-700" /> 伊勢神宮 内宮・外宮参宮</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 外宮から内宮へと巡る正式参拝。玉砂利を踏みしめる音と巨杉の杜に包まれる新春の厳粛な祈り。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sunrise className="w-4 h-4 text-amber-700" /> 宇治橋大鳥居 冬至の朝光
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Sunrise className="w-4 h-4 text-amber-700" /> 宇治橋大鳥居 冬至の朝光</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 大鳥居の中心から昇る神聖な朝日。光が宇治橋を渡る人々を照らし出す冬だけの奇跡の絶景。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-amber-700" /> 鳥羽湾＆英虞湾リアス海岸
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-1 flex items-center gap-1.5"><Waves className="w-4 h-4 text-amber-700" /> 鳥羽湾＆英虞湾リアス海岸</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 伊勢志摩サミットの舞台となった英虞湾の夕景と、鳥羽温泉郷の多彩な名湯露天風呂。
               </p>
@@ -398,9 +388,7 @@ export default function MieIseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                甘美なる清浄「的矢かき」と伊勢海老・松阪牛、三重が誇る至高の三代美食
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">甘美なる清浄「的矢かき」と伊勢海老・松阪牛、三重が誇る至高の三代美食</h2>
             </div>
           </div>
 
@@ -418,9 +406,7 @@ export default function MieIseshimaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
             <div className="p-5 rounded-xl bg-rose-50/70 border border-rose-100">
-              <h3 className="font-bold text-rose-950 text-sm mb-2 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-rose-700" /> 的矢かきの美味しさの真髄
-              </h3>
+              <h3 className="font-bold text-rose-950 text-sm mb-2 flex items-center gap-1.5"><Flame className="w-4 h-4 text-rose-700" /> 的矢かきの美味しさの真髄</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>生牡蠣：</strong>渋みがなく絹のように滑らかな舌触り。清浄滅菌による圧倒的な安心感。</li>
                 <li>・<strong>焼き牡蠣：</strong>殻の中で煮立つ熱々の貝汁と、凝縮された旨味のジュースを最後の一滴まで。</li>
@@ -428,9 +414,7 @@ export default function MieIseshimaWinterPage() {
               </ul>
             </div>
             <div className="p-5 rounded-xl bg-rose-50/70 border border-rose-100">
-              <h3 className="font-bold text-rose-950 text-sm mb-2 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-700" /> 伊勢海老＆松阪牛の饗宴
-              </h3>
+              <h3 className="font-bold text-rose-950 text-sm mb-2 flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-700" /> 伊勢海老＆松阪牛の饗宴</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>伊勢海老姿造り：</strong>透明感あふれる身のプリプリとした弾力と、後を引く上品な甘み。</li>
                 <li>・<strong>松阪牛すき焼き：</strong>人肌でとろける不飽和脂肪酸の極上サシと、香ばしい醤油だれの芳香。</li>
@@ -444,9 +428,7 @@ export default function MieIseshimaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              伊勢参宮＆的矢かき・伊勢海老を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">伊勢参宮＆的矢かき・伊勢海老を堪能する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
               楽天トラベルAPIから最新の空室状況・評価を取得。内宮徒歩圏の露天付き宿から鳥羽湾の迎賓館、サミット舞台の賢島リゾートまで網羅。
             </p>
@@ -486,9 +468,7 @@ export default function MieIseshimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0" />
@@ -547,19 +527,15 @@ export default function MieIseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                11・12・1月を満喫する「外宮・内宮早朝参宮と鳥羽・的矢かき」1泊2日黄金コース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">11・12・1月を満喫する「外宮・内宮早朝参宮と鳥羽・的矢かき」1泊2日黄金コース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                近鉄特急で伊勢市へ、外宮参拝とおはらい町散策、鳥羽の名宿へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                近鉄特急で伊勢市へ、外宮参拝とおはらい町散策、鳥羽の名宿へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>10:30 近鉄「伊勢市駅」または「宇治山田駅」に到着</strong><br />
                 名古屋・大阪・京都から快適な近鉄特急（観光特急しまかぜ等）で到着。駅前から徒歩で外宮へ向かう。
@@ -580,10 +556,8 @@ export default function MieIseshimaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                宇治橋大鳥居の冬日の出と内宮早朝参拝、鳥羽水族館または賢島クルーズ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                宇治橋大鳥居の冬日の出と内宮早朝参拝、鳥羽水族館または賢島クルーズ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>07:15 宇治橋前にて大鳥居の日の出を拝観</strong><br />
                 澄み切った冷気の中、大鳥居の中央から昇る黄金色の朝日を拝む。光に包まれながら宇治橋を渡る清々しい瞬間。
@@ -612,19 +586,15 @@ export default function MieIseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                三重・伊勢志摩＆鳥羽 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">三重・伊勢志摩＆鳥羽 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -641,9 +611,7 @@ export default function MieIseshimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！近畿・東海の厳選「冬の初詣＆名所・温泉特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！近畿・東海の厳選「冬の初詣＆名所・温泉特集」</h2>
             </div>
           </div>
 

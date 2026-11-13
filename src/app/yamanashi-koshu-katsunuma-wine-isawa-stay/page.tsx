@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本ワイン発祥の醸造の聖地
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 勝沼ワイナリー巡り・ぶどうの丘＆甲州テロワール（地下ワインカーヴとテイスティング）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 勝沼ワイナリー巡り・ぶどうの丘＆甲州テロワール（地下ワインカーヴとテイスティング）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             約140年の歴史を誇る日本ワインの本場・勝沼。盆地の傾斜地にぶどう畑が連なり、歴史ある老舗醸造所からブティックワイナリーまで30軒以上の個性豊かなワイナリーが点在します。「甲州市勝沼ぶどうの丘」の地下ワインカーヴでは、専用タートヴァンを購入すると約200種類のワインを自由にテイスティング可能。ぶどう畑のレストランで楽しむペアリングランチも極上です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        富士櫻温泉旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">富士櫻温泉旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         桜並木の川辺に佇む、癒しの温泉と贅沢な露天風呂を楽しむ至福のひととき。
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        石和温泉　美と健康と癒しの宿　ホテル八田
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　美と健康と癒しの宿　ホテル八田</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【美肌の湯◇認証】県内最大級の露天風呂・展望ワイン風呂・貸切風呂で癒しの湯を堪能。甲州の旬を味わう宿
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        石和温泉　ホテル花いさわ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル花いさわ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         駅からすぐの好立地。PH9.1のヌルとろ自噴源泉が人気！3つの源泉を楽しめる姉妹館湯めぐりが大好評！
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        シャトレーゼホテル　旅館　富士野屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">シャトレーゼホテル　旅館　富士野屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【PH値8.8】肌に優しい「アルカリ性単純温泉」で最大7つの湯巡り
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             ぶどう畑から湧き出た美肌の名湯
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 石和温泉郷・名湯美肌露天風呂＆甲州会席・武田信玄ゆかりの老舗宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 石和温泉郷・名湯美肌露天風呂＆甲州会席・武田信玄ゆかりの老舗宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             昭和36年、ぶどう畑の中から突如として毎分何トンもの高温泉が湧き出し「青空温泉」として全国に名を馳せた石和温泉。アルカリ性単純温泉の柔らかな湯は刺激が少なく、入浴後はお肌がつるつるになると女性客にも大人気。甲州ワインビーフや鮑の煮貝、ほうとうなど山梨自慢の郷土会席料理と県産ワインの贅沢なマリアージュを宿の客室や料亭で堪能できます。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        石和温泉　ホテル花いさわ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル花いさわ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         駅からすぐの好立地。PH9.1のヌルとろ自噴源泉が人気！3つの源泉を楽しめる姉妹館湯めぐりが大好評！
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        石和温泉　糸柳こやど　ゆわ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　糸柳こやど　ゆわ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         心ほどける、くつろぎの時を。嵐の湯に癒される全19室の小さな宿。
                       </p>
@@ -446,9 +428,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             春は桃色、夏秋は完熟果実のパラダイス
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 日本一の桃源郷・フルーツ王国笛吹果樹園＆甲州富士山ビュー展望宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 日本一の桃源郷・フルーツ王国笛吹果樹園＆甲州富士山ビュー展望宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             日本一の桃とぶどうの生産量を誇る山梨県笛吹市。春になると甲府盆地一帯が鮮やかなピンク色の桃の花で埋め尽くされ、「桃源郷」の絶景が広がります。初夏から秋にかけては、甘い香りに包まれながら完熟の桃やシャインマスカットの収穫体験（くだもの狩り）が楽しめます。高台の宿や公園からは、澄み渡る甲府盆地の夜景と遠くそびえる霊峰富士の絶景を一望できます。
           </p>
@@ -473,8 +453,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        石和温泉　ホテル古柏園
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">石和温泉　ホテル古柏園</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         楽天ブロンズアワード2025受賞★甲州会席が好評の宿◆展望ラウンジで山梨ワインを堪能！
                       </p>
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        富士山石和温泉郷　ホテル石庭
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">富士山石和温泉郷　ホテル石庭</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         2025ブロンズアワード受賞★2026年1月展望露天風呂リニューアルオープン！
                       </p>
@@ -595,9 +570,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士櫻温泉旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士櫻温泉旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -630,9 +603,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士櫻温泉旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士櫻温泉旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

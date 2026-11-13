@@ -108,9 +108,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  一本の竹から広がる無数の編み目と光と影の芸術
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">一本の竹から広がる無数の編み目と光と影の芸術</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 竹細工の奥深さは、同じ一本の真竹から削り出されたとは思えないほど多彩な表情にあります。八つ目編み、網代（あじろ）編み、六つ目編みなど数百種に及ぶ別府の技法。極細の丸ひごが鳥籠のように軽やかな曲線を描く駿河の技。そして極限まで無駄を削ぎ落とし、節の景色そのものを味わう京都の茶道具。工房や展示館で職人の手さばきを間近に見学し、日常の暮らしを彩る器やバッグ、照明を手に取る時間は、心豊かな知的好奇心を刺激します。
@@ -123,9 +121,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  竹林の小径、青竹のライトアップ、凛とした静寂に癒やされる空間美
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">竹林の小径、青竹のライトアップ、凛とした静寂に癒やされる空間美</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 別府の湯けむりたなびく温泉街、駿河の駿府城跡や名勝庭園、嵐山の嵯峨野竹林の小径。竹の産地は、その景観そのものが素晴らしいヒーリングスポットです。風が吹き抜けるたびにサワサワと葉が擦れ合う微かな音、竹林の間から差し込む柔らかな木漏れ日。宿の露天風呂や回廊に配された竹のあしらいが、都会の喧騒で疲れた神経を優しく解きほぐしてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  別府の源泉かけ流し絶景露天風呂や嵐山の風雅な料理旅館での逗留
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">別府の源泉かけ流し絶景露天風呂や嵐山の風雅な料理旅館での逗留</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 別府湾を一望し波打ち際で客室露天風呂を満喫できるモダンラグジュアリー旅館、静岡駅直結で快適な機能美と美食を誇る名門ホテル、渡月橋のたもとで旬の京懐石と嵐山温泉に癒やされる老舗料理宿など、いずれも工芸旅の拠点にふさわしい名宿ばかり。ふるさと納税クーポンを活用すれば、上質な特別会席プランも自己負担わずか2,000円で驚くほど賢く手に入ります。
@@ -181,9 +175,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 大分県 別府市上人ヶ浜町6-24</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「他の画像や…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 静岡県 静岡市葵区黒金町56</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ホテルアソシア静岡
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ホテルアソシア静岡</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「浴槽の汚れと鏡の手跡が気になり清潔感に疑問概ね良いホテル。朝食ビュッフェの味はいまいち。ブロッコリーにかけるソースは長い間補充されてなく空っぽのまま。一番驚いたのは、浴槽。お湯をためて浸か…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市西京区嵐山中尾下町57</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    嵐山温泉彩四季の宿　花筏
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">嵐山温泉彩四季の宿　花筏</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事と温泉は良いが接客と設備に難ありご飯は美味しかったですし、立地も良かったです。ただ中居さんが強気な方で、気分が悪かったです。洗面所からは床まで滴るほどの水漏れもありました。温泉は気持ちがよく、…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＡＭＡＮＥ ＲＥＳＯＲＴ ＳＥＩＫＡＩを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＡＭＡＮＥ ＲＥＳＯＲＴ ＳＥＩＫＡＩを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＡＭＡＮＥ ＲＥＳＯＲＴ ＳＥＩＫＡＩの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＡＭＡＮＥ ＲＥＳＯＲＴ ＳＥＩＫＡＩの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

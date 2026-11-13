@@ -58,10 +58,8 @@ export default function AutumnBudgetHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            JR岐阜駅・名鉄岐阜駅前に天然温泉付き＆格安宿が集結！浮いた予算で飛騨牛ディナーを満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            JR岐阜駅・名鉄岐阜駅前に天然温泉付き＆格安宿が集結！浮いた予算で飛騨牛ディナーを満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             名古屋駅から快速で約20分の岐阜駅周辺は、駅前黄金の信長像が迎える広場から玉宮町の居酒屋街へ続く賑やかなエリア。大浴場付きホテルや最新ビジネスホテルが、秋の平日なら1泊2,000円台〜3,000円台で予約可能。浮いた旅費で飛騨牛炭火焼きや岐阜の銘酒「三諸杉」「百春」を贅沢に楽しめます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ）
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　金華の湯　ドーミーイン岐阜駅前（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   岐阜
@@ -152,9 +148,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルリブマックス岐阜駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックス岐阜駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   岐阜
@@ -208,9 +202,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ＡＢホテル岐阜
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ＡＢホテル岐阜</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   岐阜
@@ -264,9 +256,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ダイワロイネットホテル岐阜
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル岐阜</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   岐阜
@@ -320,9 +310,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  コンフォートホテル岐阜（　リニューアル）
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">コンフォートホテル岐阜（　リニューアル）</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   岐阜
@@ -386,9 +374,7 @@ export default function AutumnBudgetHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「岐阜駅前：岐阜城金華山パノラマ＆名物飛騨牛・鮎料理！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -458,9 +444,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「岐阜駅前」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「岐阜駅前」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

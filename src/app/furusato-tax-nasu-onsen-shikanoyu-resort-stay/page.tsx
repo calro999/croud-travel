@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            那須連山の噴煙と御用邸の気品——硫黄香る白濁名湯「鹿の湯」と極上とちぎ和牛を味わうロイヤルリゾートステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">那須連山の噴煙と御用邸の気品——硫黄香る白濁名湯「鹿の湯」と極上とちぎ和牛を味わうロイヤルリゾートステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             栃木県北部に位置する那須温泉郷（なすおんせんきょう）。飛鳥時代の舒明天皇2年（630年）、狩人に射られた白鹿が傷を癒やしているところを発見されたという開湯伝説を持つ「鹿の湯」をはじめ、大丸、弁天、北、八幡、高雄、三斗小屋など「那須七湯」と呼ばれる個性豊かな温泉が那須連山の山裾に広がります。皇室の静養地「那須御用邸」があることでも名高く、品格ある高原リゾートの雰囲気と、昔ながらの野趣あふれる湯治場の情緒が見事に調和しています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県那須町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  那須温泉山楽
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">那須温泉山楽</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業大正十二年・歴代の皇族や文人が愛した那須最高峰の純和風旅館！三十畳の大露天風呂と源泉掛け流し
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  那須温泉 山楽（さんらく） —— 御用邸の気品を受け継ぐ名門。四季の日本庭園と贅を尽くしたお部屋食会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">那須温泉 山楽（さんらく） —— 御用邸の気品を受け継ぐ名門。四季の日本庭園と贅を尽くしたお部屋食会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自家源泉を惜しみなく注ぐ三十畳の広大な大露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自家源泉を惜しみなく注ぐ三十畳の広大な大露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">緑豊かな自然林に囲まれた野趣あふれる大露天風呂。肌に優しい良質な単純温泉が掛け流され、日頃の疲れを芯から癒やしてくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 数寄屋造りの贅沢な純和風客室と手入れの行き届いた日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">数寄屋造りの贅沢な純和風客室と手入れの行き届いた日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">回廊を歩くだけで心が落ち着く格式ある空間。手入れされた庭園を眺めながら、静かで贅沢な大人の休日を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最高ランクA5等級とちぎ和牛を堪能するお部屋食会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最高ランクA5等級とちぎ和牛を堪能するお部屋食会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">旬の食材を一品ずつ丹精込めて仕立てた極上和食。周囲を気にせずお部屋でゆっくりと美食を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県那須町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  那須温泉　ホテルエピナール那須
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">那須温泉　ホテルエピナール那須</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   那須高原の森にそびえる五つ星総合リゾート！大型露天風呂と温泉大浴場、口コミ絶賛の豪華バイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  那須温泉 ホテルエピナール那須 —— 家族三世代からカップルまで。充実のアクティビティとフレンチ＆ビュッフェ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">那須温泉 ホテルエピナール那須 —— 家族三世代からカップルまで。充実のアクティビティとフレンチ＆ビュッフェ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 那須の自然林に抱かれた大型露天風呂と檜風呂・ジャグジー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">那須の自然林に抱かれた大型露天風呂と檜風呂・ジャグジー</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした温泉大浴場。緑の風を感じながら入る露天風呂や室内温水プール、サウナ完備で家族みんなでリフレッシュできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> シェフが目の前で仕上げる豪華和洋中ディナーバイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">シェフが目の前で仕上げる豪華和洋中ディナーバイキング</h5>
                     <p className="text-stone-600 leading-relaxed">那須の高原野菜や出来立てステーキ、天ぷら、握り寿司、スイーツがずらりと並ぶ人気レストラン「エルバージュ」。フレンチコースも選べます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 展望ラウンジやエステ、陶芸体験など充実の館内施設
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">展望ラウンジやエステ、陶芸体験など充実の館内施設</h5>
                     <p className="text-stone-600 leading-relaxed">最上階のフレンチレストラン＆バーからの夜景や、森のアクティビティ、託児施設など、あらゆる旅行者に対応した万全のサービス。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県那須町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  那須温泉　ホテルサンバレー那須
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">那須温泉　ホテルサンバレー那須</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   敷地内に三つの異なる源泉とアトラクションプール！広大な敷地で湯巡りを愉しむ一大温泉リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  那須温泉 ホテルサンバレー那須 —— 温泉天国の名門。硫黄泉・弱アルカリ泉・マグネシウム泉の湯巡り
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">那須温泉 ホテルサンバレー那須 —— 温泉天国の名門。硫黄泉・弱アルカリ泉・マグネシウム泉の湯巡り</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 本館大浴場「湯遊天国」に湧く三種類の異なる天然温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">本館大浴場「湯遊天国」に湧く三種類の異なる天然温泉</h5>
                     <p className="text-stone-600 leading-relaxed">乳白色の硫黄泉、滑らかな弱アルカリ泉、マグネシウム泉。それぞれ異なる効能を持つ湯船を館内でじっくり巡ることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 水着で楽しむ屋外温泉ゾーン「アクアヴィーナス」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">水着で楽しむ屋外温泉ゾーン「アクアヴィーナス」</h5>
                     <p className="text-stone-600 leading-relaxed">ジャグジーや洞窟風呂、流れるプールなど多彩なスパゾーン。ファミリーやグループで一年中楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和食・洋食・中華から選べる専門レストランの豪華バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和食・洋食・中華から選べる専門レストランの豪華バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">本格中華バイキングや高原ビュッフェなど、宿泊館や好みに合わせて選べる充実のディナー。出来立ての美味しさを満喫できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 那須温泉郷・殺生石＆那須高原展望台ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 那須温泉郷・殺生石＆那須高原展望台ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                名湯「鹿の湯」での昔ながらの木造湯治体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                名湯「鹿の湯」での昔ながらの木造湯治体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 千三百年前に開湯した那須温泉の元湯。41度から48度まで温度別に分かれた木造の湯船があり、かぶり湯をして濃厚な乳白色の硫黄泉に浸かる伝統入浴が体験できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                国指定名勝「殺生石（せっしょうせき）」と千体地蔵
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                国指定名勝「殺生石（せっしょうせき）」と千体地蔵</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 九尾の狐伝説が残る溶岩地帯。現在も硫黄ガスが噴出し、草木の生えない荒涼とした岩場に無数の千体地蔵が並ぶ独特の景観が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                那須高原展望台（恋人の聖地）からの関東平野パノラマビュー
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                那須高原展望台（恋人の聖地）からの関東平野パノラマビュー</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 標高1,048メートルの高台に位置する展望台。晴れた日には那須甲子連山から遠く関東平野まで見渡せ、夜には満天の星と夜景が美しい名所です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              栃木県那須町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">栃木県那須町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】那須温泉山楽を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】那須温泉山楽を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と那須温泉山楽の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と那須温泉山楽の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

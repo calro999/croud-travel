@@ -108,9 +108,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  滞在中の飲食・ラウンジ利用が全て無料！お財布いらずのストレスフリー滞在
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">滞在中の飲食・ラウンジ利用が全て無料！お財布いらずのストレスフリー滞在</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 館内のラウンジやカフェ、食事処でのドリンクや軽食がすべて宿泊代金に含まれているため、会計のたびに財布を取り出したり明細を気にするストレスが一切ありません。チェックイン直後の生ビールから、読書のお供の挽きたてコーヒー、夕食時の地酒飲み比べまで、好きな時に好きなだけ自由に楽しめる究極の解放感を味わえます。
@@ -123,9 +121,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  生ビール、スパークリングワイン、地酒、湯上がりスイーツまで贅沢フリーフロー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">生ビール、スパークリングワイン、地酒、湯上がりスイーツまで贅沢フリーフロー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 多くの宿では、夕食時だけでなく湯上がり処や暖炉ラウンジでもアルコールやスイーツが提供されます。温泉で火照った身体に染み渡る冷たい生ビールやスパークリングワイン、地元蔵元自慢の銘酒、さらには濃厚なご当地アイスクリームや焼きマシュマロまで、五感を満たす多彩なサービスが旅の満足度を何倍にも引き上げます。
@@ -138,9 +134,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  温泉街を散策しなくても宿の中だけで1日中満喫できる充実の館内アクティビティ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">温泉街を散策しなくても宿の中だけで1日中満喫できる充実の館内アクティビティ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 暖炉を囲むライブラリーラウンジ、レコードの音色に浸るミュージックルーム、温泉卓球やボードゲーム、ヨガや朝の自然散策ツアーなど、館内だけで充実した1日を過ごせる仕掛けが満載。天候に左右されることなく、チェックインからチェックアウトまで館内のお気に入りスポットで思い思いの贅沢な時間を過ごせます。
@@ -183,9 +177,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     宮城県仙台市・広瀬川渓流の絶景と暖炉サロンで寛ぐ名門温泉宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    仙台・作並温泉　ゆづくしＳａｌｏｎ一の坊
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">仙台・作並温泉　ゆづくしＳａｌｏｎ一の坊</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     仙台の奥座敷・作並温泉の豊かな自然の中に佇む、「理想の日常の休息」をテーマにしたオールインクルーシブ温泉リゾート。広瀬川の清流に面した3つの異なる露天風呂では、せせらぎを聞きながら四季折々の渓谷美を堪能。広々とした「くつろぎSalon」では、挽きたて珈琲や生ビール、ワイン、手作りスイーツ、夜には特製おつまみやウィスキーが自由に楽しめます。夕食は料理人が目の前で焼き上げる宮城牛や旬の三陸魚介を出来たてで味わうオーダービュッフェスタイルで、心ゆくまで美食に浸れます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・全室露天風呂付き離れと和モダンサロンの上質ステイ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    Ｎａｚｕｎａ箱根宮ノ下
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">Ｎａｚｕｎａ箱根宮ノ下</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根登山鉄道・宮ノ下駅から徒歩すぐの好立地に佇み、全室に自家源泉の客室露天風呂を備えた大人の隠れ宿。宿泊者専用ラウンジでは、厳選されたワインや日本酒、クラフトビール、こだわりのソフトドリンクとフィンガーフードが常時フリーフロー。お部屋の温泉露天風呂で宮ノ下の豊かな自然を眺めながらプライベートに癒やされた後は、ラウンジで静かにグラスを傾ける優雅な時間が流れます。細部までこだわり抜かれた上質なホスピタリティが記念日やご褒美旅行に最適です。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     福島県郡山市・磐梯熱海温泉の美肌湯と銘酒ペアリングを愛でる宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    磐梯熱海温泉　ＡＳＡＫＡＳＯ　～五の香を感じる宿　浅香荘～
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">磐梯熱海温泉　ＡＳＡＫＡＳＯ　～五の香を感じる宿　浅香荘～</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     「萩姫伝説」が残る名湯・磐梯熱海温泉に位置し、五感で楽しむおもてなしが評判の純和風旅館。館内では日本屈指の酒処・福島の銘酒やワイン、湯上がりビールが自由に楽しめるオールインクルーシブスタイルを導入。天然保湿成分メタケイ酸を豊富に含むトロリとした美肌の湯に浸かった後は、ラウンジで地酒とおつまみを片手にゆったりと休息。夕食には福島牛や地元契約農家の旬野菜を使った本格会席が並び、料理一品一品に合わせた地酒との極上マリアージュをご堪能いただけます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoAllInclusiveLuxuryStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と仙台・作並温泉 ゆづくしＳａｌｏｎ一の坊の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

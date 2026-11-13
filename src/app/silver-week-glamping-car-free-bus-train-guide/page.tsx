@@ -195,9 +195,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
       <section className="bg-teal-50/50 border border-teal-200/80 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-teal-700 uppercase tracking-wider">Public Transit Journey</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            「車を使わないグランピング」が今、大人気な3つの理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">「車を使わないグランピング」が今、大人気な3つの理由</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             レンタカー代やガソリン代の高騰、連休の高速道路渋滞を完全回避。到着した瞬間からリラックスが始まります。
           </p>
@@ -218,9 +216,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Selected Accessible Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            電車と無料送迎で行ける！シルバーウィークおすすめグランピング宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">電車と無料送迎で行ける！シルバーウィークおすすめグランピング宿</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             駅前シャトルバス・高速バス直結・空港送迎に対応した全国屈指の人気リゾート。
           </p>
@@ -268,9 +264,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
                     <span>最寄駅: {hotel.nearestStation || hotel.address1}</span>
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "公共交通機関と専用送迎で快適アクセス。大自然に囲まれた充実設備のリゾートグランピング。"}
@@ -309,9 +303,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
         <div className="max-w-3xl space-y-6">
           <div className="space-y-1">
             <span className="text-teal-400 font-black text-xs uppercase tracking-widest">Travel Smart Tips</span>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              電車・バスで行くグランピングを120%楽しむための実践ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">電車・バスで行くグランピングを120%楽しむための実践ポイント</h2>
             <p className="text-xs sm:text-sm text-stone-300">
               重い荷物を持たずに快適に目的地へ到達するためのチェックリストです。
             </p>
@@ -333,18 +325,14 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
       <section className="bg-white rounded-3xl border border-teal-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            車なしグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">車なしグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-teal-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-teal-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-teal-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -355,9 +343,7 @@ export default function SilverWeekGlampingCarFreeBusTrainPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-50 border border-stone-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🚆</span> あわせて読みたい車なし・電車旅ガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい車なし・電車旅ガイド</h3>
         <p className="text-xs text-stone-600">
           レンタカーなし・免許なしでも巡れる大人気の観光特化モデルコース。
         </p>

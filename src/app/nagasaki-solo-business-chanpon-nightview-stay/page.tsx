@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            すり鉢状の丘陵に瞬く無数の街明かりと、長崎港に入港する大型客船——異国情緒あふれる坂の街で仕事と心を解き放つ「長崎プレミアムステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">すり鉢状の丘陵に瞬く無数の街明かりと、長崎港に入港する大型客船——異国情緒あふれる坂の街で仕事と心を解き放つ「長崎プレミアムステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             西九州新幹線「かもめ」が発着し、大規模な駅周辺再開発で劇的な進化を遂げた国際観光都市・長崎。出島やグラバー園、大浦天主堂など江戸の鎖国期から明治の開国期にかけて培われた独自の和華蘭（わからん）文化が息づき、世界新三大夜景に認定された稲佐山からの夜景は圧巻の美しさを誇ります。日中の商談や視察をこなした後の楽しみは、本場の長崎ちゃんぽんや皿うどん、卓袱料理、そして新鮮なヒラス（ヒラマサ）の刺身と壱岐焼酎です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR長崎駅西口直結・出島メッセ長崎隣接！世界的ブランドの格式と温浴施設・サウナ完備の最新ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ヒルトン長崎 —— 西九州の新たなシンボル。広々とした洗練客室とエグゼクティブラウンジで味わう極上ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ヒルトン長崎 —— 西九州の新たなシンボル。広々とした洗練客室とエグゼクティブラウンジで味わう極上ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR長崎駅東口から徒歩約5分！最上階11階の男女別天然温泉大浴場「鶴港の湯」＆名物カステラ朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 鶴港の湯 ドーミーインPREMIUM長崎駅前 —— 駅前の天然温泉オアシス。サウナ・水風呂と夜鳴きそば完備の安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 鶴港の湯 ドーミーインPREMIUM長崎駅前 —— 駅前の天然温泉オアシス。サウナ・水風呂と夜鳴きそば完備の安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR長崎駅東口正面！路面電車電停やアミュプラザ長崎直結の伝統ある名門シティホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルニュー長崎 —— 駅前のランドマーク。落ち着きある客室と一流シェフが手がける本格中国料理・和洋朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルニュー長崎 —— 駅前のランドマーク。落ち着きある客室と一流シェフが手がける本格中国料理・和洋朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              長崎の夜を一人旅で満喫するスマートグルメ＆夜景ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">長崎の夜を一人旅で満喫するスマートグルメ＆夜景ガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 新地中華街や思案橋の老舗で「長崎ちゃんぽん」をすすり、ハトシをつまむ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 新地中華街や思案橋の老舗で「長崎ちゃんぽん」をすすり、ハトシをつまむ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 豚骨と鶏ガラの濃厚白湯スープに、牡蠣やイカ、キャベツが山盛り。エビのすり身をパンで挟んで揚げた「ハトシ」も必食です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 思案橋横丁のディープな酒場で地酒「六十餘洲（ろくじゅうよしゅう）」と一口餃子
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 思案橋横丁のディープな酒場で地酒「六十餘洲（ろくじゅうよしゅう）」と一口餃子</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 歴史ある横丁のカウンター席。パリッと香ばしい一口餃子を肴に、壱岐の麦焼酎や長崎の地酒を傾ける大人の時間。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 稲佐山展望台または鍋冠山（なべかんむりやま）展望台からの夜景鑑賞
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 稲佐山展望台または鍋冠山（なべかんむりやま）展望台からの夜景鑑賞</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 街明かりが港を包み込む「鶴の港」の壮大な夜景。長崎駅前から路線バスやロープウェイで手軽にアクセスできます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>長崎空港から長崎駅や市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>長崎空港から長崎駅や市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 長崎空港から市内行きリムジンバス（出島道路経由）が運行しており、約40〜45分でJR長崎駅前へ直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>市内の路面電車（長崎電気軌道）は交通系ICカードが使えますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>市内の路面電車（長崎電気軌道）は交通系ICカードが使えますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、SuicaやICOCA、nimocaなど全国の主要交通系ICカードが全線で利用可能で、均一運賃で手軽に移動できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルニュー長崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルニュー長崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

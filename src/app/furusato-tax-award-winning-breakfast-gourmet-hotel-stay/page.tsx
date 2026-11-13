@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>旅のメインディッシュは「朝食」！日本一に輝く至高の朝ごはんを返礼クーポンで</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>旅のメインディッシュは「朝食」！日本一に輝く至高の朝ごはんを返礼クーポンで</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             朝起きて暖簾をくぐると、目の前に広がる宝石のようないくら、職人が目の前で焼き上げる旬魚やオムレツ、焼き立ての芳醇なパンの香り。朝食に徹底的にこだわり抜いた名門ホテルは、今やそれ自体が旅の最大の目的地となっています。楽天ふるさと納税を活用すれば、プレミアム朝食付きの上質な宿泊プランを実質自己負担2,000円で贅沢に満喫できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    いくら盛り放題や地元名物・職人握りの朝食を朝から満喫
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">いくら盛り放題や地元名物・職人握りの朝食を朝から満喫</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     函館の朝獲れ海鮮丼や神戸の洋食ビュッフェ、金沢のじわもん郷土料理など、各地の食文化を朝一番から余すことなく味わい尽くす贅沢。一日の始まりが最高の幸福感で満たされます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    天然温泉大浴場や展望サウナとセットで朝からととのう
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">天然温泉大浴場や展望サウナとセットで朝からととのう</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     多くの朝食名門ホテルは、最上階の展望露天風呂や本格サウナを完備。朝風呂で身体を目覚めさせた後にいただく至高の朝ごはんは、まさに人生最高のご褒美体験です。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    観光・出張・女子旅など幅広いシーンで高コスパに消化
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">観光・出張・女子旅など幅広いシーンで高コスパに消化</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     高級旅館だけでなく都市型プレミアムホテルも対象。出張に少し贅沢をプラスしたい時や、気軽な週末の女子旅・ひとり旅でも返礼クーポンを使いやすく、満足度の極めて高いふるさと納税活用が可能です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="hakodate_breakfast" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>北海道函館市ふるさと納税：ラビスタ函館ベイ・朝食日本一いくら盛り放題の聖地</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>北海道函館市ふるさと納税：ラビスタ函館ベイ・朝食日本一いくら盛り放題の聖地</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       全国の朝食ランキングで殿堂入りを果たした伝説のホテル。名物の「海鮮セルフ丼」ではいくらや甘海老、イカを好きなだけ盛り付け可能。赤レンガ倉庫群を望む最上階の展望天然温泉とともに函館の美を五感で味わえます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ラビスタ函館ベイ（共立リゾート）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ラビスタ函館ベイ（共立リゾート）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               最上階の展望温泉と和洋朝食バイキングが彩る、どこよりも「函館らしい」ホテル。
                             </p>
@@ -234,10 +220,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kobe_breakfast" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>兵庫県神戸市ふるさと納税：神戸ベイシェラトン・地産地消ビュッフェ＆自家源泉温泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>兵庫県神戸市ふるさと納税：神戸ベイシェラトン・地産地消ビュッフェ＆自家源泉温泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       六甲山と瀬戸内海の恵みが集う神戸屈指のインターナショナルホテル。地元契約農家の新鮮野菜や焼き立てパン、兵庫の郷土料理をビュッフェ形式で堪能。敷地内から湧出する自家源泉天然温泉「濱泉」も絶品です。
                     </p>
@@ -265,9 +248,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              神戸ベイシェラトンホテル＆タワーズ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">神戸ベイシェラトンホテル＆タワーズ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               天然自家源泉100％・神戸六甲温泉「濱泉」（宿泊者無料）。三宮・新神戸から直通バス（有料）運行。
                             </p>
@@ -302,10 +283,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kanazawa_breakfast" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>石川県金沢市ふるさと納税：金沢白鳥路ホテル山楽・加賀じわもん朝食＆大正ロマン</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>石川県金沢市ふるさと納税：金沢白鳥路ホテル山楽・加賀じわもん朝食＆大正ロマン</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       金沢城公園に隣接し、兼六園まで徒歩5分のクラシックホテル。金沢の伝統野菜「じわもん」や治部煮、のどぐろの一夜干しなど加賀百万石の美味を凝縮した朝食御膳と、市内でも希少な天然美肌温泉が旅人を迎えます。
                     </p>
@@ -333,9 +311,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              金沢白鳥路　ホテル山楽
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">金沢白鳥路　ホテル山楽</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               金沢城のすぐ側で美肌の湯と金沢美食、そして心温まるおもてなしに癒されて日常をひと休みしませんか。
                             </p>
@@ -385,9 +361,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＴＨＥ　ＨＯＴＥＬ　ＳＡＮＲＡＫＵ　ＫＡＮＡＺＡＷＡ（ザ　ホテル山楽　金沢）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">開業！クラブラウンジや四季を彩る中庭を誇るラグジュアリーホテル
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -492,9 +466,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ラビスタ函館ベイを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ラビスタ函館ベイを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -527,9 +499,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とラビスタ函館ベイの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とラビスタ函館ベイの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -624,9 +594,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -687,9 +655,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳選ガイド函館・神戸・金沢の美食宿」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

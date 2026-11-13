@@ -263,9 +263,7 @@ export default function IwateMoriokaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Panoramic Snowscape</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              凛冽の雪空に聳える「南部片富士」と、杜の都・盛岡が紡ぐ四百年の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">凛冽の雪空に聳える「南部片富士」と、杜の都・盛岡が紡ぐ四百年の温もり</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               世界が称賛した歩いて巡れる城下町と、源義家伝説が息づく名湯のぬくもり
             </p>
@@ -326,9 +324,7 @@ export default function IwateMoriokaPage() {
           <div className="border-b border-slate-200 pb-4 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
             <div>
               <span className="text-indigo-600 font-bold text-xs uppercase tracking-wider block">SELECTED ACCOMMODATIONS</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-                冬の盛岡＆繋温泉を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の盛岡＆繋温泉を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
               ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
@@ -364,9 +360,7 @@ export default function IwateMoriokaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -430,9 +424,7 @@ export default function IwateMoriokaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の盛岡＆繋温泉を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の盛岡＆繋温泉を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               白銀の岩手山を仰ぎ、歴史の小路を歩き、名湯と三大麺で温まる冬の完璧プラン
             </p>
@@ -485,25 +477,19 @@ export default function IwateMoriokaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Winter Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の盛岡旅を快適に楽しむための気候・服装・移動のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の盛岡旅を快適に楽しむための気候・服装・移動のアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                気候と防寒対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                気候と防寒対策</h4>
               <p>
                 盛岡の11月下旬〜1月は氷点下を記録する日が多く、朝晩はマイナス5度以下まで冷え込みます。吸湿発熱インナー、厚手のセーター、防風性のあるロングダウンコートが必須。手袋、耳当て、マフラー、貼るカイロを用意し、建物内との温度差に対応できるよう着脱しやすい服装を心がけてください。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-cyan-500" />
-                靴選びと路面凍結
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-4 h-4 text-cyan-500" />
+                靴選びと路面凍結</h4>
               <p>
                 市街地の歩道や横断歩道は圧雪やブラックアイスバーン状に凍結します。靴底に深い溝がある滑り止めの効いたスノーブーツや防水防寒シューズを必ず着用してください。歩幅を小さくし、足裏全体で地面を踏みしめる「ペンギン歩き」が転倒防止の基本です。
               </p>
@@ -515,18 +501,14 @@ export default function IwateMoriokaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の盛岡観光・交通・防寒対策 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の盛岡観光・交通・防寒対策 よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-indigo-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-indigo-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -537,10 +519,8 @@ export default function IwateMoriokaPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-kanagawa-hakone-yumoto-ashinoko-shrine-fuji-stay/"

@@ -204,10 +204,8 @@ export default function FeatureDetailPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」へは、ＪＲ湖西線おごと温泉駅下車、車5分(送迎有) 名神高速道路、京都東ＩＣより湖西道路経由仰木雄琴より5分無料駐車場有り。最寄りの雄琴駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「琵琶湖グランドホテル・京近江」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」は『お1人様～カップル・ファミリー・グループ様大歓迎。大切な方と琵琶湖ステイ。京都や延暦寺へア。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「琵琶湖グランドホテル・京近江」と「琵琶湖ホテル」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Award className="w-6 h-6 text-amber-600" />
-            琵琶湖SUPクルージング＆おごと温泉リゾートの楽しみ方＆おすすめの選び方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Award className="w-6 h-6 text-amber-600" />
+            琵琶湖SUPクルージング＆おごと温泉リゾートの楽しみ方＆おすすめの選び方</h2>
           <p className="text-slate-600 leading-relaxed text-sm sm:text-base">楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
@@ -228,9 +226,7 @@ export default function FeatureDetailPage() {
 
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-2xl font-bold text-slate-900">
-              編集部が選ぶおすすめ名宿一覧（全5選）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全5選）</h2>
             <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
@@ -256,11 +252,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">滋賀県</span>
                       <span>大津市雄琴6-5-1</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106122%2F106122.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106122%2F106122.html" target="_blank" rel="sponsored noopener noreferrer">
                         琵琶湖グランドホテル・京近江
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -315,11 +309,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">滋賀県</span>
                       <span>大津市浜町2-40</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4843%2F4843.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4843%2F4843.html" target="_blank" rel="sponsored noopener noreferrer">
                         琵琶湖ホテル
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -374,11 +366,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">滋賀県</span>
                       <span>守山市今浜町十軒家2876</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160835%2F160835.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F160835%2F160835.html" target="_blank" rel="sponsored noopener noreferrer">
                         琵琶湖マリオットホテル
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -433,11 +423,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">滋賀県</span>
                       <span>高島市マキノ町西浜763-2</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9254%2F9254.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F9254%2F9254.html" target="_blank" rel="sponsored noopener noreferrer">
                         奥琵琶湖マキノグランドパークホテル
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -492,11 +480,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">滋賀県</span>
                       <span>長浜市大島町38</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2922%2F2922.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2922%2F2922.html" target="_blank" rel="sponsored noopener noreferrer">
                         グランドメルキュール琵琶湖リゾート＆スパ
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -557,9 +543,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】琵琶湖グランドホテル・京近江を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】琵琶湖グランドホテル・京近江を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -592,9 +576,7 @@ export default function FeatureDetailPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と琵琶湖グランドホテル・京近江の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と琵琶湖グランドホテル・京近江の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -689,9 +671,7 @@ export default function FeatureDetailPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「2026年：湖上に浮かぶ大鳥居へ！琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -761,9 +741,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「湖上に浮かぶ大鳥居へ（琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選）」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「湖上に浮かぶ大鳥居へ（琵琶湖SUP体験＆レイクサイド絶景温泉リゾート5選）」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

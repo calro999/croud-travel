@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            汽笛を鳴らして大海原へと滑り出す豪華客船。海風に吹かれながら味わうフレンチと極上ホテル
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">汽笛を鳴らして大海原へと滑り出す豪華客船。海風に吹かれながら味わうフレンチと極上ホテル</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             海から陸を眺めることで初めて出会える圧倒的なパノラマと贅沢な時間「日本三大港クルーズ」――六甲山の山並みとポートタワー、神戸海洋博物館が夕日に染まるハーバービューを眺めながら鉄板焼きフレンチを味わう兵庫の「神戸港クルーズ（コンチェルト・ルミナス神戸2）」、横浜ベイブリッジや大さん橋、みなとみらいの超高層ビル群のイルミネーションを海から見上げる神奈川の「横浜港クルーズ（マリーンルージュ）」、そして長崎港を出航し世界文化遺産の端島を巡る「軍艦島クルーズ」や稲佐山夜景を望む長崎のクルーズ船。乗船場直結や至近のラグジュアリーホテルに泊まり、潮風薫るバルコニーで余韻に浸る洗練された大人の港町旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  兵庫県神戸市中央区ふるさと納税：ルミナス神戸2とモザイク夜景「神戸港クルーズ」とホテルラ・スイート神戸ハーバーランド
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">兵庫県神戸市中央区ふるさと納税：ルミナス神戸2とモザイク夜景「神戸港クルーズ」とホテルラ・スイート神戸ハーバーランド</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   全室オーシャンビュー＆テラス・大型ジャグジー付きの極上スモールラグジュアリーホテル「ラ・スイート神戸」。コンチェルトでのティークルーズや夜景ディナークルーズを満喫した後は、神戸牛鉄板焼きと極上の朝食パンを堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル　ラ・スイート神戸ハーバーランド
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル　ラ・スイート神戸ハーバーランド</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>兵庫県神戸市中央区波止場町7-2</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  神奈川県横浜市西区ふるさと納税：マリーンルージュとベイブリッジの煌めき「横浜港クルーズ」と横浜ベイホテル東急
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">神奈川県横浜市西区ふるさと納税：マリーンルージュとベイブリッジの煌めき「横浜港クルーズ」と横浜ベイホテル東急</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   大観覧車コスモクロック21の目の前に佇む「横浜ベイホテル東急」。大さん橋からのマリーンルージュディナークルーズを楽しんだ後は、バルコニー付き客室からみなとみらいの夜景を独占し、至高のフレンチに酔いしれます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      横浜ベイホテル東急
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">横浜ベイホテル東急</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>神奈川県横浜市西区みなとみらい2-3-7</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  長崎県長崎市ふるさと納税：世界遺産への船出「軍艦島上陸クルーズ」と南蛮情緒漂うホテルモントレ長崎
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">長崎県長崎市ふるさと納税：世界遺産への船出「軍艦島上陸クルーズ」と南蛮情緒漂うホテルモントレ長崎</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   大波止ターミナルから出航する軍艦島クルーズ。海底炭鉱の巨大廃墟に圧倒された後は、ポルトガルの館をイメージした異国情緒あふれる「ホテルモントレ長崎」で、長崎牛ステーキや地元海鮮イタリアンを満喫します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルモントレ長崎
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルモントレ長崎</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>長崎県長崎市大浦町1-22</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   神戸・横浜・長崎の港町。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   長崎・神戸・函館の夜景。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   海を間近に感じる名宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル ラ・スイート神戸ハーバーランドを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル ラ・スイート神戸ハーバーランドを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル ラ・スイート神戸ハーバーランドの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル ラ・スイート神戸ハーバーランドの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三大港クルーズ＆夜景ディナークルーズ宿×ふるさと納税ガイド」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

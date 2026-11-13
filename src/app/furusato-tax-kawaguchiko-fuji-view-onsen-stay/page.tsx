@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            朝日に染まる紅富士、静寂の湖面に映る逆さ富士——名湯に浸かりながら霊峰の雄姿を仰ぐ至高のひととき
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">朝日に染まる紅富士、静寂の湖面に映る逆さ富士——名湯に浸かりながら霊峰の雄姿を仰ぐ至高のひととき</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山梨県南都留郡富士河口湖町、富士五湖の中心に位置する河口湖温泉郷。四季折々に表情を変える霊峰富士の圧倒的な美しさと、穏やかな湖面が織りなす絵画のような風景は、古くから多くの旅人を魅了してきました。春の湖畔を彩る桜並木、初夏のラベンダー、秋の燃えるような紅葉トンネル、そして冬の澄み渡る青空と白雪を纏う富士の頂。どの季節に訪れても息を呑む絶景が待っています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山梨県富士河口湖町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  富士河口湖温泉　秀峰閣　湖月
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">富士河口湖温泉　秀峰閣　湖月</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室＆露天風呂から富士山と河口湖を一望！真正面に逆さ富士を望む河口湖北岸の特等席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  富士河口湖温泉 秀峰閣 湖月（こげつ） —— 遮るもののない大パノラマ。湯上がりのビールサービスと至高の富士山ビュー
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">富士河口湖温泉 秀峰閣 湖月（こげつ） —— 遮るもののない大パノラマ。湯上がりのビールサービスと至高の富士山ビュー</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が富士山と河口湖に面した絶好のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が富士山と河口湖に面した絶好のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">河口湖北岸の湖畔に建ち、すべての客室の窓から雄大な富士山と湖を一望。天候に恵まれ風のない日には、湖面に美しく映り込む「逆さ富士」を部屋にいながら拝むことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 富士山と湖が一体化するインフィニティ風の庭園露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">富士山と湖が一体化するインフィニティ風の庭園露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">天然温泉が溢れる露天風呂からは、遮るもののない富士の絶景。湯上がり処では富士山を眺めながら無料の生ビールや名水サービスが提供される心憎いおもてなしも魅力です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 甲州の恵みを盛り込んだ目にも鮮やかな月替わり創作会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">甲州の恵みを盛り込んだ目にも鮮やかな月替わり創作会席</h5>
                     <p className="text-stone-600 leading-relaxed">山梨の旬魚や山菜、厳選された肉料理を組み合わせた料理長自慢の会席。ゆったりとした個室食事処やお部屋で贅沢な美食時間を過ごせます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山梨県富士河口湖町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  富士河口湖温泉　若草の宿　丸栄
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">富士河口湖温泉　若草の宿　丸栄</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   最上階の見晴らし展望風呂「富士の湯」！心温まる日本の情緒と匠の技が光る本格季節会席料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  富士河口湖温泉 若草の宿 丸栄（まるえい） —— 湖畔に佇む純和風のやすらぎ。富士と湖を望む二つの展望風呂とお部屋食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">富士河口湖温泉 若草の宿 丸栄（まるえい） —— 湖畔に佇む純和風のやすらぎ。富士と湖を望む二つの展望風呂とお部屋食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階から富士山を仰ぐ「富士の湯」と河口湖を望む「湖の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階から富士山を仰ぐ「富士の湯」と河口湖を望む「湖の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">屋上に設けられた展望風呂からは、雄大にそびえる霊峰富士と穏やかな河口湖の二つの異なる絶景を堪能。朝夕で男女入れ替えとなり両方の景色を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本旅館の伝統を守るお部屋食スタイルの本格会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本旅館の伝統を守るお部屋食スタイルの本格会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">旬の食材を吟味し、出汁の引き方から盛り付けまで細心のこだわりを注いだ本格和食会席。周囲を気にせずお部屋でゆっくりと味わうことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 畳敷きの温もりと風情ある数寄屋造りの贅沢な空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">畳敷きの温もりと風情ある数寄屋造りの贅沢な空間</h5>
                     <p className="text-stone-600 leading-relaxed">館内随所に生花が飾られ、落ち着いた和の美意識が漂う純和風旅館。細やかな仲居さんの心遣いが旅の疲れを優しく解きほぐしてくれます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">山梨県富士河口湖町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  河口湖温泉　富士レークホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">河口湖温泉　富士レークホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   昭和七年創業・湖畔の歴史を紡ぐクラシックホテル！富士山ビュー客室と安心のバリアフリー対応
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  河口湖温泉 富士レークホテル —— 伝統と近代性の融合。富士山と湖を望む展望ラウンジと河口湖畔の絶好アクセス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">河口湖温泉 富士レークホテル —— 伝統と近代性の融合。富士山と湖を望む展望ラウンジと河口湖畔の絶好アクセス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 昭和初期の面影を残すクラシカルな建築美と現代の快適性
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">昭和初期の面影を残すクラシカルな建築美と現代の快適性</h5>
                     <p className="text-stone-600 leading-relaxed">1932年創業の伝統を誇り、国内外の賓客を迎えてきた名門。ユニバーサルデザインを取り入れ、車椅子利用の方や三世代家族でも安心して快適に過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 富士山温泉を引き込んだ大浴場と富士山展望露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">富士山温泉を引き込んだ大浴場と富士山展望露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">河口湖の豊かな温泉を満喫できる大浴場。天気の良い日には富士山を望む露天風呂や貸切風呂でプライベートな癒やしの時間を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伝統のフランス料理または旬の和食会席から選べる極上ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伝統のフランス料理または旬の和食会席から選べる極上ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">伝統を受け継ぐ本格フレンチフルコースと、山梨の恵みを活かした日本料理。旅のスタイルに合わせて選べる贅沢なディナーが旅を彩ります。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 富士河口湖・富士山絶景スポット＆湖畔アクティビティガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 富士河口湖・富士山絶景スポット＆湖畔アクティビティガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                河口湖畔の桜並木・紅葉回廊の散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                河口湖畔の桜並木・紅葉回廊の散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 北岸沿いには春にソメイヨシノが咲き乱れる湖畔遊歩道、秋には約60本の巨木モミジが鮮やかに色づく「もみじ回廊」があり、富士山を背景にした絶好の写真撮影スポットです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                富士山パノラマロープウェイでの天上山展望
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                富士山パノラマロープウェイでの天上山展望</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 太宰治の小説『カチカチ山』の舞台となった天上山へ。山頂の展望台からは、裾野まで広がる雄大な富士山と河口湖の全景を360度の大パノラマで見渡せます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                大石公園とハーブフェスティバル
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                大石公園とハーブフェスティバル</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 湖越しに富士山を望む花の名所。初夏には紫色のラベンダーが咲き誇り、秋には真っ赤に染まるコキアの群生が見事な景観を作り出します。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              山梨県富士河口湖町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">山梨県富士河口湖町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士河口湖温泉 秀峰閣 湖月を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士河口湖温泉 秀峰閣 湖月を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士河口湖温泉 秀峰閣 湖月の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士河口湖温泉 秀峰閣 湖月の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -67,9 +67,7 @@ export default function AreaTopicClusterCard({
               <span className="text-[9px] font-extrabold text-teal-800 bg-teal-50 px-1.5 py-0.5 rounded">
                 {np.area || prefecture}
               </span>
-              <h4 className="text-xs font-bold text-teal-950 group-hover:text-teal-700 transition line-clamp-1">
-                {np.hotel_name || np.title}
-              </h4>
+              <h4 className="text-xs font-bold text-teal-950 group-hover:text-teal-700 transition line-clamp-1">{np.hotel_name || np.title}</h4>
               <p className="text-[10px] text-stone-500 line-clamp-1">
                 {np.rating ? `⭐ ${np.rating}` : ""} {np.price ? `・¥${Number(np.price).toLocaleString()}〜` : ""}
               </p>

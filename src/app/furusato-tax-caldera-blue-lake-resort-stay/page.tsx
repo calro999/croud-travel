@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          鏡のように澄み渡る瑠璃色の湖水。水と森の静寂に抱かれる究極のレイクサイドリトリート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">鏡のように澄み渡る瑠璃色の湖水。水と森の静寂に抱かれる究極のレイクサイドリトリート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              湖を一望するレイクビュー客室＆水辺のパノラマ温泉露天
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">湖を一望するレイクビュー客室＆水辺のパノラマ温泉露天</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               部屋の窓一面に広がる穏やかなカルデラ湖の青。時間とともに茜色から宵闇へと移ろう美しい湖水の表情を独占できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ヒメマス（チップ）や八幡平ポークなど湖畔ならではの清流グルメ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ヒメマス（チップ）や八幡平ポークなど湖畔ならではの清流グルメ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               清らかな湖水で育ったヒメマスの塩焼きやお造り、地元の大地が育んだブランド肉と旬野菜の創作会席を堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              湖上カヌーやSUP、湖畔サイクリングなど充実のアクティビティ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">湖上カヌーやSUP、湖畔サイクリングなど充実のアクティビティ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               透明度抜群の湖水へ漕ぎ出す爽快なアクティビティ。大自然と調和する感動体験をふるさと納税でお得に楽しめます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="shikotsu_lake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道千歳市ふるさと納税：水質日本一の支笏湖・「支笏湖ブルー」を望む極上温泉リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道千歳市ふるさと納税：水質日本一の支笏湖・「支笏湖ブルー」を望む極上温泉リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 環境省の水質測定で何度も日本一に輝く支笏湖。吸い込まれそうなエメラルドグリーンの湖水と風不死岳のシルエットを望み、とろりとした美肌温泉と北海道の大地が育むフレンチ・会席に癒やされます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道新冠郡新冠町西泊津16-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    夕陽と音楽を堪能する眺望リゾート　新冠温泉　ホテルヒルズ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">夕陽と音楽を堪能する眺望リゾート　新冠温泉　ホテルヒルズ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【ブロンズアワード2021受賞】真っ赤に染まる夕陽と音楽に癒される～2022年4月温泉リニューアル～
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道有珠郡壮瞥町壮瞥温泉88-26
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    洞爺湖　鶴雅リゾート　洸の謌
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">洞爺湖　鶴雅リゾート　洸の謌</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     北海道の持つ自然の力を体感する、北国ならではのライフスタイルをテーマとした新しい形の北海道リゾート
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道網走市呼人159
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    北天の丘あばしり湖鶴雅リゾート
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">北天の丘あばしり湖鶴雅リゾート</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     いにしえの文化を五感で感じる北天の休日をお楽しみ下さい。
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kussharo_lake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道弟子屈町ふるさと納税：日本最大のカルデラ屈斜路湖＆神秘の摩周湖・砂湯露天リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道弟子屈町ふるさと納税：日本最大のカルデラ屈斜路湖＆神秘の摩周湖・砂湯露天リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 阿寒摩周国立公園に位置する屈斜路湖と摩周湖。湖畔の砂を掘ると温泉が湧き出す砂湯や、深い藍色をたたえる摩周ブルーの美観を堪能し、オホーツクの海の幸と野趣あふれる露天風呂を満喫できます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道斜里郡斜里町港町16-10
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    知床天然温泉ルートイングランティア知床斜里駅前
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">知床天然温泉ルートイングランティア知床斜里駅前</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ■知床斜里駅目の前■源泉100％かけ流しの大浴場・露天風呂■知床の海と山々の眺望が人気
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道標津郡中標津町東20条北1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    中標津温泉　トーヨーグランドホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">中標津温泉　トーヨーグランドホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     中標津空港車で10分！全室セミダブルベッド、自家源泉露天のあるホテル。知床、釧路、阿寒への拠点に♪
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道川上郡標茶町桜8-38
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテル・テレーノ　気仙
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル・テレーノ　気仙</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     アルカリ性のモール温泉★茶褐色のお湯はお肌ツルツルの美肌の湯♪タンチョウが飛来する温泉宿でのんびり！
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="tazawa_lake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                秋田県仙北市ふるさと納税：水深423m日本最深の田沢湖・瑠璃色の湖水と乳頭温泉郷秘湯ステイ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">秋田県仙北市ふるさと納税：水深423m日本最深の田沢湖・瑠璃色の湖水と乳頭温泉郷秘湯ステイ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 辰子姫伝説が残る神秘の田沢湖。金色のたつこ像とコバルトブルーの水面を巡り、車で30分ほどの秘湯・乳頭温泉郷の白濁した名湯と秋田名物きりたんぽ鍋に舌鼓を打つ極上の東北旅です。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     秋田県仙北市田沢湖生保内駒ヶ岳2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    田沢湖高原温泉　田沢高原ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">田沢湖高原温泉　田沢高原ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     家族で営む、山の温泉宿。　施設は古くなってまいりましたが、ハードよりハートを大切にしております。
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     秋田県仙北市田沢湖生保内字下高野82-117
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天然温泉　田沢湖レイクリゾート
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　田沢湖レイクリゾート</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     静寂の美、田沢湖まで車で約15分　わんちゃんと一緒の宿泊も人気です♪
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     秋田県仙北市田沢湖生保内駒ケ岳2-32
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    亀の井ホテル　田沢湖
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">亀の井ホテル　田沢湖</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ブナの森に包まれる泉質自慢の温泉と旬の郷土料理を味わうくつろぎの宿
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 長良川・四万十川・保津川の舟旅。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 しまなみ海道・尾道・琵琶湖ビワイチの絶景リゾート。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 上高地・白馬・立山の雲上ホテル。
               </p>

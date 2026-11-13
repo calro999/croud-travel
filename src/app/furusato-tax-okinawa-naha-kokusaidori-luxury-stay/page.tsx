@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            ガジュマルの木陰と国際通りの熱気、首里城の朱色の祈り——都会の洗練と南国の極上オアシスに浸る那覇ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">ガジュマルの木陰と国際通りの熱気、首里城の朱色の祈り——都会の洗練と南国の極上オアシスに浸る那覇ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             沖縄県の政治・経済・交通の中枢であり、琉球王国の歴史が息づく街・那覇。約1.6kmにわたって土産物店や沖縄料理店、カフェが立ち並ぶ「国際通り（奇跡の1マイル）」や、色鮮やかな魚や南国フルーツが並ぶ「第一牧志公設市場」、石畳の坂道が風情ある「首里城公園」など、沖縄文化の熱気と魅力が凝縮しています。那覇空港からゆいレール（モノレール）で中心街へ直結する世界屈指の都市アクセスの良さも誇ります。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県那覇市（国際通り・首里）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ハイアットリージェンシー那覇沖縄
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ハイアットリージェンシー那覇沖縄</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   国際通りまで徒歩3分の好立地！屋外プール＆最上階18階クラブラウンジを備えた最高峰シティホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ハイアット リージェンシー 那覇 沖縄 —— 都会の真ん中に広がる洗練のオアシス。開放感あふれるプールと最上階ダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ハイアット リージェンシー 那覇 沖縄 —— 都会の真ん中に広がる洗練のオアシス。開放感あふれるプールと最上階ダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国際通りの喧騒から少し離れた閑静で上質なロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国際通りの喧騒から少し離れた閑静で上質なロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">壺屋やちむん通りへも徒歩すぐ。観光やショッピングに最高の立地でありながら、館内は静寂と品格に満ちています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 開放的な屋外ジェットバス付きプールとフィットネスセンター
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">開放的な屋外ジェットバス付きプールとフィットネスセンター</h5>
                     <p className="text-stone-600 leading-relaxed">那覇の心地よい風を感じる屋外プール（季節営業）。都会にいながら本格的なリゾート気分を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階18階「MILANO｜GRILL」での本格イタリアンディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階18階「MILANO｜GRILL」での本格イタリアンディナー</h5>
                     <p className="text-stone-600 leading-relaxed">那覇の煌めく夜景を見下ろす特等席。ローストビーフや厳選牛、近海魚のグリルをワインとともに優雅に堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県那覇市（国際通り・首里）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルコレクティブ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルコレクティブ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   国際通りのど真ん中に誕生したフルスペックリゾート！屋外プール・サウナ付き大浴場完備
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ホテル コレクティブ —— 国際通りを眼下に見下ろす最新鋭のオアシス。広々客室と充実のウェルネス施設
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ホテル コレクティブ —— 国際通りを眼下に見下ろす最新鋭のオアシス。広々客室と充実のウェルネス施設</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国際通りの中心に位置し雨の日でも買い物・食事へ直行可能
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国際通りの中心に位置し雨の日でも買い物・食事へ直行可能</h5>
                     <p className="text-stone-600 leading-relaxed">ショッピングや食べ歩きにこれ以上ない立地。ホテルを出ればすぐに賑やかな国際通りの活気にアクセスできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 那覇の市街地を一望する25m屋外プールとサウナ・大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">那覇の市街地を一望する25m屋外プールとサウナ・大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">屋外プールやスチームサウナ、ジェットバスを完備。街の真ん中で優雅にととのう極上のリラクゼーションです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室30㎡以上のゆとりある客室と最新のスマート設備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室30㎡以上のゆとりある客室と最新のスマート設備</h5>
                     <p className="text-stone-600 leading-relaxed">洗練されたモダンインテリアに大型バスタブと独立洗面台。高い防音性で外の喧騒を感じさせない快適な空間です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">沖縄県那覇市（国際通り・首里）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ロワジールスパタワー那覇
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ロワジールスパタワー那覇</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   那覇市内では希少な地下約8,000万年前の化石海水天然温泉！全室バルコニー付きのベイサイドリゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ロワジール スパタワー 那覇 —— 空港から車で7分の極上温泉リゾート。天然温泉「三重城温泉」と充実のスパ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ロワジール スパタワー 那覇 —— 空港から車で7分の極上温泉リゾート。天然温泉「三重城温泉」と充実のスパ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下深くから湧き出す本格的な含ヨウ素ナトリウム塩化物泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下深くから湧き出す本格的な含ヨウ素ナトリウム塩化物泉</h5>
                     <p className="text-stone-600 leading-relaxed">保温・美肌効果抜群の本格天然温泉。タラソテラピーを取り入れた贅沢なスパ施設で心身ともにリフレッシュできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 那覇港のベイビューと夕暮れのサンセットを望むバルコニー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">那覇港のベイビューと夕暮れのサンセットを望むバルコニー</h5>
                     <p className="text-stone-600 leading-relaxed">客室のプライベートバルコニーから眺める海と船の往来。リゾート感あふれる開放的な滞在を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 那覇空港から車でわずか約7分の抜群のアクセス環境
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">那覇空港から車でわずか約7分の抜群のアクセス環境</h5>
                     <p className="text-stone-600 leading-relaxed">到着日や帰国日の宿泊にも最適。ホテル内には屋内温水プールや多彩なレストランが揃っています。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 国際通り・第一牧志公設市場＆首里城公園・やちむん通り観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 国際通り・第一牧志公設市場＆首里城公園・やちむん通り観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                国際通り散策＆第一牧志公設市場の「持ち上げ（持ち込み調理）」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                国際通り散策＆第一牧志公設市場の「持ち上げ（持ち込み調理）」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 色鮮やかなイラブチャーや夜光貝、石垣牛。市場の1階で購入した新鮮食材を2階の食堂ですぐに調理して味わう名物体験が人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                世界遺産「首里城跡」と守礼門・金城町石畳道
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                世界遺産「首里城跡」と守礼門・金城町石畳道</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 琉球王国の栄華を伝える歴史の舞台。復興が進む首里城正殿や、樹齢数百年の大アカギが立つ風情豊かな石畳の散策が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                壺屋やちむん通り（沖縄の伝統陶器工房めぐり）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                壺屋やちむん通り（沖縄の伝統陶器工房めぐり）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 赤瓦の屋敷や登り窯が残る石畳の通り。個性豊かな陶芸作家の工房やショップが並び、自分だけのお気に入りの器探しに最適です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              沖縄県那覇市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">沖縄県那覇市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ハイアットリージェンシー那覇沖縄を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ハイアットリージェンシー那覇沖縄を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とハイアットリージェンシー那覇沖縄の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とハイアットリージェンシー那覇沖縄の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

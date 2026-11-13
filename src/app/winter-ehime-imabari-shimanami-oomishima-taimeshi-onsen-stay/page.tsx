@@ -281,9 +281,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Setouchi Strait & Sacred Island</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              世界初の三連吊橋が架かる激流の海峡と、国宝武具が眠る日本総鎮守の島
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">世界初の三連吊橋が架かる激流の海峡と、国宝武具が眠る日本総鎮守の島</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               村上海賊の歴史が息づく瀬戸の海と、冬晴れの多島美に包まれる至高の旅情
             </p>
@@ -345,9 +343,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="bg-gradient-to-r from-slate-900 to-cyan-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-cyan-400 pl-4">
             <span className="text-cyan-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月｜今治＆しまなみの月別見どころと旅のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月｜今治＆しまなみの月別見どころと旅のポイント</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               温暖な瀬戸内の気候を活かして快適に巡る、冬の今治カレンダー
             </p>
@@ -396,9 +392,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の今治＆しまなみ海道を満喫する1泊2日 黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の今治＆しまなみ海道を満喫する1泊2日 黄金モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               レンタカーで来島海峡大橋を渡り、神の島と名湯をゆったり巡る爽快プラン
             </p>
@@ -406,18 +400,14 @@ export default function EhimeImabariWinterFeaturePage() {
 
           <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-cyan-800">
-                【1日目】松山空港または今治駅からレンタカー出発 → 今治城見学 → 亀老山展望台で冬夕景 → 温泉宿で来島真鯛会席
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-cyan-800">【1日目】松山空港または今治駅からレンタカー出発 → 今治城見学 → 亀老山展望台で冬夕景 → 温泉宿で来島真鯛会席</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 昼前、今治に到着。海水を引き入れた堀が有名な「今治城」を散策し、今治名物の鉄板焼き鳥ランチ。しまなみ海道に入り、大島「亀老山展望台」へ。夕暮れ時、茜色に染まる来島海峡大橋と瀬戸内海の多島美を一望。夜は今治国際ホテルや鈍川温泉・湯ノ浦温泉の宿へチェックイン。名物の鯛めしや伊予牛会席を堪能し、美肌の天然温泉で旅の疲れをほぐします。
               </p>
             </div>
 
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-cyan-800">
-                【2日目】しまなみ海道を渡り大三島へ → 大山祇神社初詣＆宝物館鑑賞 → 今治タオル美術館でお土産調達
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-cyan-800">【2日目】しまなみ海道を渡り大三島へ → 大山祇神社初詣＆宝物館鑑賞 → 今治タオル美術館でお土産調達</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝、伯方島を経由して大三島へ。日本総鎮守・大山祇神社で新春初詣を行い、樹齢2600年の大楠に祈願。紫陽殿で国宝の武具甲冑をじっくり鑑賞。島内の道の駅「多々羅しまなみ公園」で新鮮なみかんや海産物を購入。午後は今治へ戻り、「タオル美術館」で高品質な今治タオルをお土産に選び、快適に帰路へ。
               </p>
@@ -429,9 +419,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="space-y-8">
           <div>
             <span className="text-cyan-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の今治＆しまなみ海道を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の今治＆しまなみ海道を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
               楽天トラベル公式APIを通じてレビュー評価、立地、展望露天風呂、来島鯛プランを厳選した最高品質の宿です。
             </p>
@@ -477,11 +465,9 @@ export default function EhimeImabariWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-700 transition">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-cyan-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-500 mt-1 italic">
                       {hotel.special}
@@ -536,18 +522,14 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-200/80 space-y-6">
           <div className="border-b border-slate-150 pb-4">
             <span className="text-cyan-600 font-bold text-xs uppercase tracking-wider">FREQUENTLY ASKED QUESTIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の今治・しまなみ海道旅行 よくある質問と実用アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の今治・しまなみ海道旅行 よくある質問と実用アドバイス</h2>
           </div>
 
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -560,9 +542,7 @@ export default function EhimeImabariWinterFeaturePage() {
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <Compass className="w-5 h-5 text-cyan-700" />
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              四国・瀬戸内の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">四国・瀬戸内の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -82,9 +82,7 @@ export default function AtamiBudgetGuidePage() {
       {/* 交通費の安さが圧倒的 */}
       <section className="px-4 md:px-0">
         <div className="bg-white border-2 border-slate-800 rounded-3xl p-8 shadow-[8px_8px_0px_0px_rgba(30,41,59,1)]">
-          <h2 className="text-2xl font-black text-slate-800 mb-4 flex items-center gap-2">
-            <span>🚆</span> 東京〜熱海の交通費比較（片道）
-          </h2>
+          <h2 className="text-2xl font-black text-slate-800 mb-4 flex items-center gap-2">東京〜熱海の交通費比較（片道）</h2>
           <div className="grid sm:grid-cols-3 gap-4 text-center">
             <div className="p-4 border-2 border-rose-200 bg-rose-50 rounded-2xl relative">
               <div className="absolute -top-3 left-1/2 -translate-x-1/2 bg-rose-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full">最安！</div>
@@ -113,9 +111,7 @@ export default function AtamiBudgetGuidePage() {
       <section className="grid md:grid-cols-2 gap-8 px-4 md:px-0">
         {/* 日帰り */}
         <div className="space-y-4">
-          <h2 className="text-xl font-black text-slate-800 border-b-2 border-rose-200 pb-2">
-            サクッと！日帰りプラン（約8,000円）
-          </h2>
+          <h2 className="text-xl font-black text-slate-800 border-b-2 border-rose-200 pb-2">サクッと！日帰りプラン（約8,000円）</h2>
           <ul className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 space-y-4 text-sm">
             <li className="flex justify-between items-center border-b border-slate-50 pb-2">
               <span className="text-slate-600">🚆 交通費（普通列車往復）</span>
@@ -142,9 +138,7 @@ export default function AtamiBudgetGuidePage() {
         
         {/* 1泊2日 */}
         <div className="space-y-4">
-          <h2 className="text-xl font-black text-slate-800 border-b-2 border-rose-200 pb-2">
-            ゆったり！1泊2日プラン（2〜5万円）
-          </h2>
+          <h2 className="text-xl font-black text-slate-800 border-b-2 border-rose-200 pb-2">ゆったり！1泊2日プラン（2〜5万円）</h2>
           <ul className="bg-white rounded-2xl p-6 shadow-sm border border-slate-100 space-y-4 text-sm">
             <li className="flex justify-between items-center border-b border-slate-50 pb-2">
               <span className="text-slate-600">🚆 交通費・食費・観光等</span>
@@ -177,7 +171,7 @@ export default function AtamiBudgetGuidePage() {
 
       {/* グルメ・入場料相場 */}
       <section className="bg-rose-50/50 rounded-3xl p-8 border border-rose-100">
-        <h2 className="text-lg font-black text-slate-800 mb-4 text-center">👛 その他のお金事情メモ</h2>
+        <h2 className="text-lg font-black text-slate-800 mb-4 text-center">その他のお金事情メモ</h2>
         <div className="grid sm:grid-cols-2 gap-6 text-sm">
           <div>
             <h3 className="font-bold text-rose-800 mb-2">グルメ相場</h3>
@@ -200,9 +194,7 @@ export default function AtamiBudgetGuidePage() {
 
       {/* 🏨 ホテルセクション */}
       <section className="px-4 md:px-0">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">
-          🏨 熱海・伊豆エリアの絶景温泉宿
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">熱海・伊豆エリアの絶景温泉宿</h2>
         {hotels.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
@@ -235,9 +227,7 @@ export default function AtamiBudgetGuidePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「熱海・伊豆旅行 費用：日帰り・1泊2日でいくら？東京から片道2,000円で行ける温泉リゾートの全費用」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -316,9 +306,7 @@ export default function AtamiBudgetGuidePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「熱海・伊豆旅行 費用」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「熱海・伊豆旅行 費用」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

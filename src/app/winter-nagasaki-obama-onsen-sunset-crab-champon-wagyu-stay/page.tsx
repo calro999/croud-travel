@@ -354,9 +354,7 @@ export default function NagasakiObamaWinterPage() {
               <Flame className="w-4 h-4" />
               雲仙岳のマグマ熱が生み出す、日本一のパワフル高温泉
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。橘湾を染める夕暮れマジックアワーと湯煙のぬくもり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。橘湾を染める夕暮れマジックアワーと湯煙のぬくもり</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -380,9 +378,7 @@ export default function NagasakiObamaWinterPage() {
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              小浜温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">小浜温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               全室客室露天付きの老舗から展望露天リゾート、伝統の地獄蒸し湯治宿まで
             </p>
@@ -416,9 +412,7 @@ export default function NagasakiObamaWinterPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -481,35 +475,27 @@ export default function NagasakiObamaWinterPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の島原半島・小浜温泉美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の小浜温泉で味わい尽くす橘湾の海の幸と地獄蒸し
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の小浜温泉で味わい尽くす橘湾の海の幸と地獄蒸し</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Soup className="w-4 h-4 text-amber-400" />
-                内子たっぷり「橘湾冬ワタリガニ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Soup className="w-4 h-4 text-amber-400" />
+                内子たっぷり「橘湾冬ワタリガニ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 橘湾の激流にもまれて育つワタリガニは、水温が下がる初冬に身の甘みが最高潮に達します。特に雌ガニにぎっしりと詰まった濃厚なオレンジ色の内子（うちこ）は絶品。塩茹でや地獄蒸し、味噌汁で余すところなく味わえます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                105℃の猛烈温泉蒸気「地獄蒸し」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                105℃の猛烈温泉蒸気「地獄蒸し」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 源泉温度105度の高温蒸気で一気に蒸し上げる伝統の調理法。地元産の殻付き牡蠣、サザエ、車海老、島原野菜などを蒸すと、素材の水分と甘みがギュッと閉じ込められ、天然の塩分とミネラルが素材の旨味を最大限に引き出します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                元祖小浜ちゃんぽん＆雲仙あかね牛
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                元祖小浜ちゃんぽん＆雲仙あかね牛</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 長崎ちゃんぽんのルーツの一つである小浜ちゃんぽんは、橘湾の魚介出汁と豚骨スープのコク、殻付きエビが特徴。さらに雲仙岳の麓で育てられた希少な「雲仙あかね牛」のステーキは、赤身の芳醇な旨味が口いっぱいに広がります。
               </p>
@@ -523,17 +509,13 @@ export default function NagasakiObamaWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の小浜温泉を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の小浜温泉を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：ほっとふっと105足湯から茜色の落日露天・冬ワタリガニの夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                全長105mの海辺足湯で地獄蒸し卵を味わい、橘湾の夕陽露天に浸かる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">全長105mの海辺足湯で地獄蒸し卵を味わい、橘湾の夕陽露天に浸かる</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午後、JR諫早駅または長崎空港からバスやレンタカーで小浜温泉へ到着。海岸沿いの「ほっとふっと105」で足湯に浸かりながら、温泉蒸気で蒸したアツアツの温泉卵や蒸し野菜を味わいます。15時に宿へチェックイン。夕暮れ時、橘湾が燃えるような茜色に染まるマジックアワーを客室露天風呂や展望大浴場からじっくり鑑賞。夕食には内子たっぷりの橘湾冬ワタリガニ姿蒸し、雲仙あかね牛ステーキ、熱々の小浜ちゃんぽんを堪能します。
               </p>
@@ -543,9 +525,7 @@ export default function NagasakiObamaWinterPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：雲仙地獄の白煙ハイキングと島原城下町の湧水めぐり
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                雲仙岳の雄大な自然を体感し、名水湧く武家屋敷街散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">雲仙岳の雄大な自然を体感し、名水湧く武家屋敷街散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝風呂で濃厚な食塩泉に浸かり、身体を芯から温めた後にチェックアウト。車で約25分登って標高700mの「雲仙地獄」へ向かい、激しい噴煙と硫黄の香りに包まれる遊歩道を散策。その後は島原城下町へ移動し、清流が流れる武家屋敷街や「湧水庭園 四明荘」で名物スイーツ「かんざらし」を味わい、有明海フェリーまたは長崎空港経由で帰路につきます。
               </p>
@@ -559,25 +539,19 @@ export default function NagasakiObamaWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の小浜温泉旅行のポイントと寒さ対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の小浜温泉旅行のポイントと寒さ対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                沿岸部の温暖さと山岳部（雲仙）の寒暖差
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                沿岸部の温暖さと山岳部（雲仙）の寒暖差</h3>
               <p>
                 海岸沿いの小浜温泉は11月の最高気温が16〜19℃、12月でも12〜15℃と温暖です。ただし、橘湾からの海風があるため、夕暮れの足湯散策には風を通さないジャケットが必要。一方、標高700m以上の雲仙温泉や仁田峠へ登る場合は気温が5〜8℃低下し、12月には路面凍結のおそれもあるため、暖かい防寒着の準備とスタッドレスタイヤの確認が安心です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                海上フェリーと陸路のスムーズな移動
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                海上フェリーと陸路のスムーズな移動</h3>
               <p>
                 福岡・長崎方面からは長崎道諫早ICより国道57号経由で約45分。JR諫早駅から路線バス（島鉄バス）も運行しています。熊本方面からは「有明フェリー（長洲港〜多比良港・45分）」や「熊本フェリー（熊本港〜島原港・30分）」を利用すれば、海をショートカットして快適に島原半島へアクセスできます。
               </p>
@@ -591,16 +565,12 @@ export default function NagasakiObamaWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長崎・小浜温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長崎・小浜温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -612,10 +582,8 @@ export default function NagasakiObamaWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい九州の冬名湯・美食特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい九州の冬名湯・美食特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               湯煙立ち上る名泉と極上の地元和牛・海の幸を味わう九州冬旅ガイド
             </p>
@@ -627,9 +595,7 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長崎・雲仙温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                雲仙地獄の湯煙と普賢岳霧氷・雲仙あかね牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">雲仙地獄の湯煙と普賢岳霧氷・雲仙あかね牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白濁の濃厚硫黄泉と初冬の雲仙地獄、山上の静寂と極上和牛を堪能する休日。
               </p>
@@ -640,9 +606,7 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・杖立温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                元祖むし湯と地獄蒸し＆肥後あか牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">元祖むし湯と地獄蒸し＆肥後あか牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 立ち上る湯けむりと開湯1800年の天然サウナ、名物杖立プリンと阿蘇あか牛。
               </p>
@@ -653,9 +617,7 @@ export default function NagasakiObamaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">国重文朱塗り楼門美肌古湯＆最高峰A5佐賀牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 辰野金吾設計の楼門と1300年の美肌湯、極上佐賀牛すき焼きを味わう冬旅。
               </p>

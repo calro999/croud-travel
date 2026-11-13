@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          全身を包み込む炭酸ガスの微細な泡。芯から温まり血流を促す奇跡の天然スパ体験
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">全身を包み込む炭酸ガスの微細な泡。芯から温まり血流を促す奇跡の天然スパ体験</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              希少な天然自噴の炭酸泉で究極の血行促進＆美肌リセット
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">希少な天然自噴の炭酸泉で究極の血行促進＆美肌リセット</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               人工炭酸泉とは一線を画す天然ミネラル豊富な炭酸源泉。湯上がりの肌のなめらかさと持続する保温感は格別です。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              低温の炭酸泉と温かい温泉を交互に楽しむ温冷交互浴
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">低温の炭酸泉と温かい温泉を交互に楽しむ温冷交互浴</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               30度台前半のぬる湯炭酸泉と高温の天然温泉を交互に浸かることで、自律神経が整い深いリラクゼーションが得られます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              大分豊後牛・飛騨牛・神戸牛などご当地最高級ブランド牛会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">大分豊後牛・飛騨牛・神戸牛などご当地最高級ブランド牛会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               名湯の地が誇る日本最高峰のブランド和牛と、清らかな水で育まれた山里の幸・川魚会席を地酒と堪能できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="nagayu_carbonated" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                大分県竹田市ふるさと納税：長湯温泉・日本一の炭酸泉「ラムネ温泉館」と芹川渓谷の名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">大分県竹田市ふるさと納税：長湯温泉・日本一の炭酸泉「ラムネ温泉館」と芹川渓谷の名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 世界屈指の炭酸ガス含有量を誇る竹田市・長湯温泉。「飲んで効き 浸かって効く」と称えられる名湯で、シュワシュワと肌を包む気泡と大分の大自然を満喫できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市直入町長湯7996
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長湯温泉　紅葉館＜大分県＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長湯温泉　紅葉館＜大分県＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     長湯名物カニ湯は目の前！温泉情緒あふれる老舗で心落ち着く静かな時間を♪自慢のチャンコ鍋はボリューム◎
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市直入町長湯7992-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長湯温泉　大丸旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長湯温泉　大丸旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     長湯温泉の老舗宿。全室・芹川に面し温泉街散策にも便利。泡付き炭酸泉「ラムネ温泉館」入浴無料。
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     大分県竹田市久住町仏原1066-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    三船温泉　民宿城山＜大分県＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">三船温泉　民宿城山＜大分県＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     炭酸泉の100％源泉掛け流し天然温泉宿☆野菜やお米は自家栽培♪
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="gero_carbonated" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岐阜県下呂市ふるさと納税：下呂温泉奥座敷・湯屋温泉の自噴天然炭酸泉と飛騨牛づくし会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岐阜県下呂市ふるさと納税：下呂温泉奥座敷・湯屋温泉の自噴天然炭酸泉と飛騨牛づくし会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 名湯下呂の奥に位置する湯屋温泉。飲泉所も備えるシュワシュワの炭酸泉で炊いた温泉粥や名物鉱泉鍋など、身体の内外から炭酸パワーを享受できる秘湯宿です。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県下呂市小坂町湯屋427番地1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    下呂の奥座敷　炭酸泉の宿　泉岳舘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">下呂の奥座敷　炭酸泉の宿　泉岳舘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     天然炭酸泉を飲む　浸かる　美容。炭酸泉づくしを楽しむ宿
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市朝日町胡桃島8
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    くるみ温泉＆キャンプ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">くるみ温泉＆キャンプ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     御嶽山から流れる清流秋神川　広がる大自然を眺めながら、くつろぎのひとときをご堪能ください。
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県下呂市小坂町落合2376-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    濁河温泉　湯の谷荘
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">濁河温泉　湯の谷荘</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     秘湯 濁河温泉 御嶽山北麓 標高1800m 源泉掛け流し 静謐なひと時を
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="yokawa_carbonated" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                兵庫県神戸市ふるさと納税：有馬温泉・太閤秀吉ゆかりの銀の湯炭酸泉と極上神戸牛ステーキ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">兵庫県神戸市ふるさと納税：有馬温泉・太閤秀吉ゆかりの銀の湯炭酸泉と極上神戸牛ステーキ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本三古湯・有馬温泉。鉄分と塩分を含む金泉とともに愛される無色透明の「銀の湯」炭酸泉に浸かり、洗練された有馬温泉街の散策と極上の神戸牛ディナーを味わえます。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市北区有馬町1537-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    有馬温泉　ねぎや陵楓閣
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">有馬温泉　ねぎや陵楓閣</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     有馬温泉・落葉山（おちばやま）の中腹に位置し、自然を満喫できるくつろぎの宿。
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町2411-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    クリスタル旅館　白浜　灯りや
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">クリスタル旅館　白浜　灯りや</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     南紀白浜の人気ビーチ「白良浜」まで徒歩約7分！リニューアルし人気宿！好立地でリピーター様多数 ♪
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市中央区熊内町4-3-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    料亭旅館　ほてるＩＳＡＧＯ神戸
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">料亭旅館　ほてるＩＳＡＧＯ神戸</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     料理口コミ高評価！証明書付き神戸牛会席は絶品♪新神戸駅徒歩5分、貸切天然温泉が人気の和モダン旅館
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三大美肌の湯×炭酸水素塩泉・美肌温泉ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 嬉野・喜連川・玉造の名湯治宿。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                秘境・渓谷の一軒宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">秘境・渓谷の一軒宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 黒部峡谷・祖谷・みちのく深山の完全遮断リトリート。
               </p>
@@ -672,9 +634,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -753,9 +713,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選ガイド長湯・下呂・有馬の極上泡風呂」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

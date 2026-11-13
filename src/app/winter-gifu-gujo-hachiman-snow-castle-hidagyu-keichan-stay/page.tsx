@@ -248,9 +248,7 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              白銀に染まる日本最古の木造山城と名水のせせらぎ、奥美濃の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白銀に染まる日本最古の木造山城と名水のせせらぎ、奥美濃の温もり</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               雪化粧の小京都に息づく城下町の誇りと、熱々の郷土鍋が紡ぐ冬の贅沢
             </p>
@@ -309,9 +307,7 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-gradient-to-r from-slate-900 to-teal-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-cyan-400 pl-4">
             <span className="text-cyan-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -345,16 +341,12 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき奥美濃の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき奥美濃の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-cyan-600" /> 郡上八幡城（積翠城）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-cyan-600" /> 郡上八幡城（積翠城）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 日本最古の木造再建城。雪の日に現れる白銀の姿は「積翠城」と呼ばれ、日本屈指の美しさを誇ります。天守閣内の木造建築美や、最上階から望む魚の形をした城下町全体の雪景色は圧巻の眺望です。
               </p>
@@ -364,9 +356,7 @@ export default function GifuGujoHachimanPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-teal-600" /> 名水・宗祇水＆いがわ小径
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-teal-600" /> 名水・宗祇水＆いがわ小径</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 名水百選第1号の湧水。連歌師・飯尾宗祇ゆかりの泉で、上流から順に使い分ける水舟の風習が現存。すぐ近くの「いがわ小径」では、民家の裏手を流れる水路に丸々と太った鯉が泳ぎ、冬の散策に癒やしを与えます。
               </p>
@@ -376,9 +366,7 @@ export default function GifuGujoHachimanPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> 美濃市「うだつの上がる町並み」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> 美濃市「うだつの上がる町並み」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 美濃和紙の豪商たちが江戸から明治にかけて築いた重厚な町屋群（重伝建）。精緻な細工が施された防火壁「うだつ」が並ぶ通りには、美濃和紙のあかりアート展示やレトロカフェが点在し、ゆったりとした時間が流れます。
               </p>
@@ -393,9 +381,7 @@ export default function GifuGujoHachimanPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の奥美濃を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の奥美濃を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               城下町至近の温泉旅館・スタイリッシュなマリオット・雪山リゾート・IC至近ホテル
             </p>
@@ -431,9 +417,7 @@ export default function GifuGujoHachimanPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -491,9 +475,7 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の奥美濃を満喫する1泊2日小京都雪景色・美食モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の奥美濃を満喫する1泊2日小京都雪景色・美食モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               美濃うだつの町並み、宗祇水散策、雪化粧の郡上八幡城と名物鶏ちゃん・飛騨牛を味わい尽くす旅日程
             </p>
@@ -501,10 +483,8 @@ export default function GifuGujoHachimanPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-cyan-600 text-white text-xs rounded-md font-bold">1日目</span>
-                美濃うだつの町並み見学と宗祇水・名物鶏ちゃんディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-cyan-600 text-white text-xs rounded-md font-bold">1日目</span>
+                美濃うだつの町並み見学と宗祇水・名物鶏ちゃんディナー</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 東海北陸道美濃ICに到着</strong>：美濃市「うだつの上がる町並み」へ。美濃和紙あかりアート館を鑑賞し、江戸の豪商町屋を散策。</li>
                 <li><strong className="text-slate-900">12:30 美濃和紙うどんランチ</strong>：ツルツルのコシが美味しい名物うどんや鮎の甘露煮を堪能。</li>
@@ -515,10 +495,8 @@ export default function GifuGujoHachimanPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-teal-800 text-white text-xs rounded-md font-bold">2日目</span>
-                白銀の郡上八幡城登城と職人町・鍛冶屋町散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-teal-800 text-white text-xs rounded-md font-bold">2日目</span>
+                白銀の郡上八幡城登城と職人町・鍛冶屋町散策</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:00 宿で朝食</strong>：地元野菜と温かい具だくさん味噌汁、炊きたてご飯を味わってチェックアウト。</li>
                 <li><strong className="text-slate-900">09:00 郡上八幡城へ登城</strong>：朝の澄んだ空気の中、八幡山山頂の木造天守閣へ。雪化粧した白壁と城下町全体を一望する大パノラマを堪能。</li>
@@ -534,16 +512,12 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              郡上八幡＆美濃への交通アクセスと冬道運転の重要注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">郡上八幡＆美濃への交通アクセスと冬道運転の重要注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-cyan-600" /> 高速バス・鉄道アクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-600" /> 高速バス・鉄道アクセス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速バス（名古屋・岐阜発）</strong>：名鉄バスセンターまたはJR岐阜駅より郡上八幡直通の高速バスが毎日運行（名古屋から約1時間40分）。</li>
                 <li><strong className="text-slate-900">長良川鉄道</strong>：JR高山本線「美濃太田駅」より観光列車「ながら」等が走る長良川鉄道で「郡上八幡駅」まで約1時間20分。</li>
@@ -551,9 +525,7 @@ export default function GifuGujoHachimanPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆積雪・冬用タイヤ注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆積雪・冬用タイヤ注意</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：東海北陸自動車道「美濃IC」または「郡上八幡IC」直結。名古屋ICから約1時間15分と抜群の近さ。</li>
                 <li><strong className="text-slate-900">豪雪・路面凍結の注意点</strong>：美濃市以北は降雪地帯となり、12月中旬〜1月は積雪やブラックアイスバーンが頻発します。冬用タイヤ（スタッドレスタイヤ）の装着が法的に義務付けられる規制日も多いため、必ず冬用タイヤで訪れてください。</li>
@@ -566,17 +538,13 @@ export default function GifuGujoHachimanPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-600 pl-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の郡上八幡＆美濃旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の郡上八幡＆美濃旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-cyan-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -587,10 +555,8 @@ export default function GifuGujoHachimanPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-cyan-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-cyan-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-gifu-hida-takayama-onsen-snow-beef-stay/"

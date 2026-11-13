@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            計算し尽くされた回遊式庭園の借景と四季の移ろい。日本の美意識の頂点を味わう風雅な休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">計算し尽くされた回遊式庭園の借景と四季の移ろい。日本の美意識の頂点を味わう風雅な休日</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             江戸時代の各大名が粋を凝らして造営し、国の特別名勝に指定されている「日本三大名園（三名園）」――六つの優れた景勝（広大・幽邃・人力・蒼古・水泉・眺望）を兼ね備えた加賀前田家の「兼六園」、岡山城を借景に芝生と池、曲水が開放的に広がる池田家の「後楽園」、そして徳川斉昭公が民と楽しむために創設し約三千本もの梅が咲き誇る水戸徳川家の「偕楽園」。春の梅や桜、初夏の新緑、秋の紅葉、冬の雪吊りと、季節ごとに表情を変える庭園の早朝開園を静かに散策するのは旅人だけの特権です。名園を散策した後は、加賀懐石や瀬戸内海鮮、常陸牛など各藩ゆかりの美味を名門ホテルや料亭旅館で味わう贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  石川県金沢市ふるさと納税：徽軫灯籠と雪吊りの美学「兼六園」と加賀屋グループ料理旅館金沢茶屋ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">石川県金沢市ふるさと納税：徽軫灯籠と雪吊りの美学「兼六園」と加賀屋グループ料理旅館金沢茶屋ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   加賀百万石の文化の粋を集めた特別名勝・兼六園。金沢城公園を散策した後は、加賀屋のおもてなしを受け継ぐ「料理旅館 金沢茶屋」で、輪島塗の器に美しく盛られた加賀懐石と能登牛に舌鼓を打ちます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      加賀屋グループ　料理旅館　金沢茶屋
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">加賀屋グループ　料理旅館　金沢茶屋</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>石川県金沢市本町2-17-21</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岡山県岡山市北区ふるさと納税：漆黒の岡山城と旭川の借景美「後楽園」とホテルグランヴィア岡山
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岡山県岡山市北区ふるさと納税：漆黒の岡山城と旭川の借景美「後楽園」とホテルグランヴィア岡山</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   元禄文化の息吹を伝える回遊式庭園・後楽園。延養亭から望む大池のパノラマを楽しんだ後は、岡山駅直結のシティホテル「ホテルグランヴィア岡山」で、瀬戸内の鰆やシャインマスカットを贅沢に味わいます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルグランヴィア岡山
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルグランヴィア岡山</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岡山県岡山市北区駅元町1-5</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  茨城県水戸市ふるさと納税：三千本の梅林と好文亭「偕楽園」千波湖展望とホテル・ザ・ウエストヒルズ・水戸
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">茨城県水戸市ふるさと納税：三千本の梅林と好文亭「偕楽園」千波湖展望とホテル・ザ・ウエストヒルズ・水戸</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   偕楽園に隣接する水戸の名門ホテル。千波湖畔の四季折々の自然を感じながら、水戸藩ゆかりの好文亭を訪ね、茨城が誇る極上霜降り黒毛和牛「常陸牛」やすき焼き会席に舌鼓を打つ雅やかな休日です。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル・ザ・ウエストヒルズ・水戸（リッチモンドホテルズ提携ホテル）
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル・ザ・ウエストヒルズ・水戸（リッチモンドホテルズ提携ホテル）</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>茨城県水戸市大工町1-2-1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   今治城・高松城・中津城の水城。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名水＆清冽な湧水仕込み宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名水＆清冽な湧水仕込み宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   南阿蘇・八ヶ岳・京都伏見の湧水。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大松原・砂州＆白砂青松オーシャンビュー宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   天橋立・気比松原・三保松原。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】加賀屋グループ 料理旅館 金沢茶屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】加賀屋グループ 料理旅館 金沢茶屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と加賀屋グループ 料理旅館 金沢茶屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と加賀屋グループ 料理旅館 金沢茶屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

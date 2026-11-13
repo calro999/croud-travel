@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、寺泊・長岡・蓬平を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、寺泊・長岡・蓬平を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -181,9 +179,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     1
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    日本海の冬の至宝が集結！寺泊「魚のアメ横」でズワイガニと寒ブリを爆買い＆食べ歩き
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">日本海の冬の至宝が集結！寺泊「魚のアメ横」でズワイガニと寒ブリを爆買い＆食べ歩き</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   通り沿いに大型鮮魚店が並ぶ寺泊の市場通り。冬は店頭に茹でたての本ズワイガニが並び、威勢のいい掛け声が響き渡ります。その場で味わえる浜焼きやカニ汁、日本海の新鮮なお造りは絶品。全国への地方発送も充実しており、冬の味覚を心ゆくまで堪能できます。
@@ -196,9 +192,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     2
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    全国の経営者が集う奇跡のパワースポット！商売繁盛の龍神「高龍神社」新春開運祈願
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">全国の経営者が集う奇跡のパワースポット！商売繁盛の龍神「高龍神社」新春開運祈願</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   太田川上流の険しい断崖に建ち、白蛇の使いと龍神を祀る高龍神社。商売繁盛・金運招福のご利益が全国に知られ、本殿の壁一面紙垂のように奉納された無数の名刺は圧巻の光景。冬の雪景色の中に浮かぶ朱塗りの社殿で、新年の強力な運気を授かることができます。
@@ -211,9 +205,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     3
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    天然の化粧水と称される極上のとろみ湯「蓬平温泉」雪見露天と越後牛・美酒の宴
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">天然の化粧水と称される極上のとろみ湯「蓬平温泉」雪見露天と越後牛・美酒の宴</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   高龍神社の麓に湧く蓬平温泉は、とろりとした極上のぬめり感が特徴の強アルカリ性美肌泉。雪化粧した渓谷を眺める露天風呂は至福の心地よさ。夕食には新潟県産ブランド牛「越後牛」や旬の日本海の幸、長岡の銘酒の数々が並び、心も身体も温まる極上の雪国ステイが叶います。
@@ -230,17 +222,13 @@ export default function FeaturePage() {
             <div className="flex items-center justify-between border-b border-stone-100 pb-3">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-cyan-700" />
-                <h2 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の現地アクセス・気候・おすすめの服装
-                </h2>
+                <h2 className="text-base sm:text-lg font-bold text-stone-900">冬の現地アクセス・気候・おすすめの服装</h2>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -257,10 +245,8 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -284,9 +270,7 @@ export default function FeaturePage() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              寺泊・長岡・蓬平 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">寺泊・長岡・蓬平 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・眺望に秀でた極上宿
             </p>
@@ -319,11 +303,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（372件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109516%2F109516.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109516%2F109516.html" target="_blank" rel="sponsored noopener noreferrer">
                         よもぎひら温泉　和泉屋
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>長岡の奥座敷・蓬平温泉を代表する屈指の高級和風旅館。館内にはそれぞれ趣の異なる三つの大浴場があり、時間帯によって男女入れ替えで多彩な湯巡りが楽しめます。雪化粧した山肌を眺めながら浸かる露天風呂はまさに極楽の心地よさ。</p>
                       <p>とろりとした美肌泉がお肌をしっとりと包み込みます。夕食には新潟が誇るブランド牛「越後牛」をメインに、寺泊直送の新鮮な海の幸や雪国の滋味豊かな郷土料理が美しく並び、全国の温泉通から絶大な支持を集めています。</p>
@@ -385,11 +367,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（785件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108739%2F108739.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108739%2F108739.html" target="_blank" rel="sponsored noopener noreferrer">
                         寺泊岬温泉　ホテル飛鳥
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>寺泊の海岸線を見下ろす高台に建ち、館内のいたるところから壮大な日本海の海景色を望む絶景温泉ホテル。冬の澄んだ日には遠く佐渡島までくっきりと見渡せます。夕食は寺泊港から直接仕入れる新鮮そのものの海の幸。</p>
                       <p>冬の本ズワイガニの甲羅盛りやお造り、脂が乗った寒ブリのしゃぶしゃぶなど、海の恵みを存分に味わい尽くすプランが大人気。潮風を感じながら浸かる露天風呂も格別で、波の音とともに贅沢な時間を過ごせます。</p>
@@ -451,11 +431,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（282件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54616%2F54616.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54616%2F54616.html" target="_blank" rel="sponsored noopener noreferrer">
                         かにと活魚料理の宿　海風亭　寺泊　日本海
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>寺泊海岸通りに位置し、新鮮な海の幸を心ゆくまで堪能するために建てられた料理自慢の宿。玄関を入ると大型の生簀があり、冬には活ズワイガニや近海の活魚が元気に泳いでいます。</p>
                       <p>夕食には茹でガニ、焼きガニ、カニすき鍋など、カニの旨味を余すところなく味わえる本格カニ会席が並び、カニ好きにはたまらない幸福な時間が訪れます。食後は手入れの行き届いた和室でゆったりとくつろぎ、港町の旅情を満喫できます。</p>
@@ -517,11 +495,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（686件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198972%2F198972.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198972%2F198972.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホテルニューグリーンプラザ（オープン）
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>長岡市の中心部、JR長岡駅前に2026年にオープンした最新鋭のホテル。新幹線を降りてすぐチェックインできる抜群の機動性を誇り、寺泊や高龍神社、蓬平温泉への周遊旅行のベースとして極めて機能的です。</p>
                       <p>最新の空調や防音設備、上質なベッドが導入されており、旅の疲れをしっかり癒やしてくれます。朝食には魚沼産コシヒカリの新米と郷土色豊かな和洋メニューが提供され、爽快な朝のスタートが切れます。</p>
@@ -583,11 +559,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（220件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109523%2F109523.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109523%2F109523.html" target="_blank" rel="sponsored noopener noreferrer">
                         蓬平温泉　蓬莱館　福引屋
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>高龍神社の鳥居のすぐそばに佇み、商売繁盛の参拝客や湯治客を長年温かく迎えてきた老舗温泉旅館。館内には龍神信仰にまつわる神秘的な雰囲気が漂い、心静かな時間を過ごせます。</p>
                       <p>自慢のお湯は蓬平温泉特有の強いぬめり感を持つ名湯で、湯上がりの肌のすべすべ感に誰もが驚かされます。夕食には地元新潟のブランド豚「越後もちぶた」のしゃぶしゃぶや、岩魚の塩焼き、契約栽培の炊きたてコシヒカリなど、素朴で温かい郷土の味が並びます。</p>
@@ -633,9 +607,7 @@ export default function FeaturePage() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -657,18 +629,14 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の寺泊・長岡・蓬平旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の寺泊・長岡・蓬平旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
 
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    寺泊「魚のアメ横」の年末年始の営業や買い出しの混雑はどうですか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">寺泊「魚のアメ横」の年末年始の営業や買い出しの混雑はどうですか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -682,9 +650,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    高龍神社への参拝時に必要な持ち物やマナーはありますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">高龍神社への参拝時に必要な持ち物やマナーはありますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -698,9 +664,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    蓬平温泉のお湯のとろみはなぜそんなに強いのですか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">蓬平温泉のお湯のとろみはなぜそんなに強いのですか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -717,9 +681,7 @@ export default function FeaturePage() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/niigata/"

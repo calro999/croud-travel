@@ -220,12 +220,10 @@ export default function WinterShizuokaAtagawaPage() {
             11月・12月 湯けむり＆日の出オーシャンビュー特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月静岡・熱川温泉】湯けむりと水平線日の出露天
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物地金目鯛姿煮＆伊豆牛石焼きステーキを満喫するオーシャンビュー名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、東伊豆の熱川温泉は約100度の高温泉が噴き出す温泉櫓から白い湯けむりが街一面に立ち込める初冬の温泉情緒に包まれます。相模灘と伊豆大島の水平線から昇る神々しい日の出を望む絶景露天風呂、温泉玉子作りや足湯散策。そして脂が乗り切った東伊豆名物「地金目鯛」のこってり姿煮やしゃぶしゃぶ、伊豆牛ステーキを心ゆくまで堪能する厳選オーシャンビュー名宿5選を徹底解説します。
@@ -259,9 +257,7 @@ export default function WinterShizuokaAtagawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Sparkle className="w-6 h-6 text-teal-700" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              立ち上る湯けむりと水平線の輝き｜11月・12月に熱川温泉を訪れるべき理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">立ち上る湯けむりと水平線の輝き｜11月・12月に熱川温泉を訪れるべき理由</h2>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
             <p>
@@ -312,9 +308,7 @@ export default function WinterShizuokaAtagawaPage() {
             <span className="text-xs sm:text-sm font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
               Selected 5 Oceanfront Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の熱川温泉＆東伊豆を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の熱川温泉＆東伊豆を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               屋上天空露天風呂からの日の出絶景宿から、波打ち際のお部屋食旅館、インフィニティ空中露天風呂の大人の宿まで、至福の伊豆旅を約束する5軒を厳選。
             </p>
@@ -354,9 +348,7 @@ export default function WinterShizuokaAtagawaPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                     <p className="text-xs text-slate-500 flex items-start gap-1">
                       <MapPin className="w-3.5 h-3.5 text-teal-700 flex-shrink-0 mt-0.5" />
@@ -425,9 +417,7 @@ export default function WinterShizuokaAtagawaPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】熱川の湯けむりと水平線日の出・地金目鯛を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】熱川の湯けむりと水平線日の出・地金目鯛を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -456,34 +446,26 @@ export default function WinterShizuokaAtagawaPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              熱川・東伊豆の初冬グルメ完全ガイド！地金目鯛・伊豆牛・伊勢海老
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">熱川・東伊豆の初冬グルメ完全ガイド！地金目鯛・伊豆牛・伊勢海老</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                名物・地金目鯛の姿煮
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                名物・地金目鯛の姿煮</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 東伊豆で水揚げされる地金目鯛は、脂の乗りと身の甘みが最高峰。甘辛い秘伝のタレで骨まで旨味を行き渡らせた姿煮は、ふっくらとした肉厚の白身と濃厚な煮汁が絡み合う至福のごちそうです。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                伊豆牛ステーキ＆活鮑踊り焼き
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                伊豆牛ステーキ＆活鮑踊り焼き</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 伊豆半島の自然の中で年間約150頭しか出荷されない幻のブランド牛「伊豆牛」。キメが細かく赤身の旨味が濃厚で、熱々の石焼きステーキでジューシーに楽しめます。また目の前で焼く活鮑も絶品です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-sky-300" />
-                伊勢海老のお造り＆鬼殻焼き
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Waves className="w-4 h-4 text-sky-300" />
+                伊勢海老のお造り＆鬼殻焼き</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 秋に解禁を迎えた伊豆の伊勢海老は、初冬に一層甘みが増します。プリプリと弾けるお造りや、香ばしい鬼殻焼き、翌朝の朝食に供される濃厚な伊勢海老の味噌汁は、旅の記憶を鮮やかに彩ります。
               </p>
@@ -495,9 +477,7 @@ export default function WinterShizuokaAtagawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Footprints className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              11月・12月の熱川観光！気候・服装・散策のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の熱川観光！気候・服装・散策のアドバイス</h2>
           </div>
           <div className="space-y-4 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -505,19 +485,15 @@ export default function WinterShizuokaAtagawaPage() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ThermometerSun className="w-4 h-4 text-teal-700" />
-                  海風に対応できる軽めのアウター
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                  海風に対応できる軽めのアウター</h4>
                 <p className="text-slate-600">
                   日中は日差しが温かいですが、早朝の日の出観賞や夜の露天風呂・散策時には海風で冷え込むため、トレンチコートや軽めのダウン、ストールを用意すると重宝します。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-teal-700" />
-                  足湯や温泉街散策に便利なタオル
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                  足湯や温泉街散策に便利なタオル</h4>
                 <p className="text-slate-600">
                   駅前の「熱川湯の華ぱぁーく」など無料の足湯が点在しているため、すぐに足を拭ける小さなハンドタオルを鞄に入れておくと散策をより一層楽しめます。
                 </p>
@@ -530,9 +506,7 @@ export default function WinterShizuokaAtagawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Map className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              熱川温泉へのアクセス情報
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">熱川温泉へのアクセス情報</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
@@ -562,18 +536,14 @@ export default function WinterShizuokaAtagawaPage() {
             <HelpCircle className="w-6 h-6 text-teal-800" />
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の熱川温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の熱川温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +556,7 @@ export default function WinterShizuokaAtagawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！伊豆の冬名湯＆金目鯛特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！伊豆の冬名湯＆金目鯛特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -596,9 +564,7 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・下田</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                下田温泉の水揚げ日本一地金目鯛姿煮と海絶景露天宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">下田温泉の水揚げ日本一地金目鯛姿煮と海絶景露天宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 爪木崎水仙まつりと伊豆半島南端のオーシャンビューを満喫。
               </p>
@@ -608,9 +574,7 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・稲取</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                稲取温泉の稲取キンメ姿煮と海一望インフィニティ露天宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">稲取温泉の稲取キンメ姿煮と海一望インフィニティ露天宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 ブランド稲取金目鯛の極上会席と雛のつるし飾り発祥の地。
               </p>
@@ -620,9 +584,7 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                熱海温泉の冬海上花火大会と夜景オーシャンビュー露天宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">熱海温泉の冬海上花火大会と夜景オーシャンビュー露天宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 澄み渡る夜空に咲く冬の花火と老舗の名湯・近海鮮魚会席。
               </p>
@@ -632,9 +594,7 @@ export default function WinterShizuokaAtagawaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">静岡・修善寺</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                修善寺温泉の竹林の小径と伊豆最古の美肌名湯宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">修善寺温泉の竹林の小径と伊豆最古の美肌名湯宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 伊豆の小京都・桂川のせせらぎと歴史ある静寂の温泉街。
               </p>

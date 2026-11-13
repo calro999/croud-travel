@@ -58,10 +58,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            1泊2,000円台からの衝撃価格！浮いた費用で極上うな重を味わう
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            1泊2,000円台からの衝撃価格！浮いた費用で極上うな重を味わう</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             浜松駅周辺は宿泊施設の競争が非常に活発で、1泊2,000円台〜3,000円台で泊まれるコスパ最強ホテルが豊富。浮いた宿泊予算をそのまま秋の贅沢なうな重御膳や、地元有名餃子店でのビール＆餃子三昧に充てることができます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルリブマックスＢＵＤＧＥＴ浜松駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックスＢＵＤＧＥＴ浜松駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR浜松駅北口より徒歩6分 / 遠州鉄道第一通り駅徒歩3分
@@ -151,9 +147,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルセレクトイン浜松駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルセレクトイン浜松駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR浜松駅南口より徒歩3分の駅チカ立地
@@ -206,9 +200,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  くれたけイン浜松駅南口 プレミアム
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">くれたけイン浜松駅南口 プレミアム</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR浜松駅南口より徒歩わずか1分
@@ -261,9 +253,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル〈浜松駅南〉
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈浜松駅南〉</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR浜松駅南口より徒歩1分
@@ -316,9 +306,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ浜松駅北口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ浜松駅北口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR浜松駅北口より徒歩5分 / 有楽街飲食店街すぐ
@@ -353,10 +341,8 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の浜松グルメ旅を格安に遊び尽くすポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の浜松グルメ旅を格安に遊び尽くすポイント</h2>
           <ul className="space-y-2 text-sm text-amber-100/90 leading-relaxed">
             <li>・秋の浜名湖うなぎは身が厚く脂が乗る旬。老舗店ではランチや事前予約を活用するとスムーズです。</li>
             <li>・浜松餃子は駅構内の「石松餃子」や北口・南口の専門店でテイクアウトも可能。ホテル部屋飲みにも最適。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 浜松駅前：秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">浜松駅前：秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「浜松駅前：秋の浜名湖うなぎ＆浜松餃子ハシゴ旅！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「浜松駅前」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「浜松駅前」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

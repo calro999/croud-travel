@@ -269,9 +269,7 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Pristine Winter Lake & Snow Peaks</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                凍らぬ神秘の湖と白銀の羊蹄山｜初冬の洞爺湖が特別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">凍らぬ神秘の湖と白銀の羊蹄山｜初冬の洞爺湖が特別な理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Tri-Action Mineral Spa</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                美肌の三大泉質が融合する奇跡の名湯｜洞爺湖温泉の泉質と効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">美肌の三大泉質が融合する奇跡の名湯｜洞爺湖温泉の泉質と効能</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Hokkaido Winter Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                噴火湾の極上「冬ホタテ」と最高峰黒毛和牛「白老牛」の贅沢
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">噴火湾の極上「冬ホタテ」と最高峰黒毛和牛「白老牛」の贅沢</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +341,7 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Toyako Winter Scenic Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の洞爺湖1泊2日モデルコース｜パノラマ展望台と光のトンネル・温泉リゾート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の洞爺湖1泊2日モデルコース｜パノラマ展望台と光のトンネル・温泉リゾート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -371,9 +363,7 @@ export default function HokkaidoToyakoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Toyako Onsen Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              全室レイクビューと美食に癒やされる｜洞爺湖温泉の厳選リゾート5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">全室レイクビューと美食に癒やされる｜洞爺湖温泉の厳選リゾート5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、冠雪羊蹄山を望む展望露天風呂や白老牛・噴火湾冬ホタテを誇る本物の宿を厳選。
             </p>
@@ -404,9 +394,7 @@ export default function HokkaidoToyakoWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -483,26 +471,20 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Advice</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の洞爺湖旅行｜雪道運転と冬の服装のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の洞爺湖旅行｜雪道運転と冬の服装のポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                本格的な防寒具と滑り止め付きスノーブーツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                本格的な防寒具と滑り止め付きスノーブーツ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 12月の洞爺湖は日中でも気温が氷点下になる日があります。特に夜間のイルミネーション散策や湖畔歩きには、防風・防水性に優れたロングダウンコートやベンチコート、耳あて付きニット帽、厚手の手袋が不可欠です。また、歩道が凍結して滑りやすくなるため、靴底に深い溝がある滑り止め付きスノーブーツをご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                札幌・新千歳空港からの無料送迎バス活用
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                札幌・新千歳空港からの無料送迎バス活用</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 冬の北海道でのレンタカー運転に慣れていない方は、各ホテルが運行する札幌駅や新千歳空港発着の無料・有料送迎バスの利用を強くおすすめします。雪道の運転ストレスやスリップの危険がなく、車窓から白銀の北海道風景を眺めながら快適にホテル玄関まで直行できます。事前予約制のため早めの予約が安心です。
               </p>
@@ -518,18 +500,14 @@ export default function HokkaidoToyakoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                北海道・洞爺湖温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">北海道・洞爺湖温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -542,9 +520,7 @@ export default function HokkaidoToyakoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Hokkaido & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北海道の冬名湯＆極上リゾート特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北海道の冬名湯＆極上リゾート特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の雪見風呂、蟹・海鮮バイキング、名門リゾートをめぐる人気特集もぜひご覧ください。
             </p>

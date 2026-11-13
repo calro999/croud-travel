@@ -301,9 +301,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              急峻な断崖に閉ざされた神話と平家落人の里、冬にだけ現れる崇高な静寂美
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">急峻な断崖に閉ざされた神話と平家落人の里、冬にだけ現れる崇高な静寂美</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の徳島・祖谷渓谷＆大歩危で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の徳島・祖谷渓谷＆大歩危で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、雪の吊り橋と谷底の自噴秘湯、囲炉裏の郷土美味。
             </p>
@@ -339,9 +335,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-100 flex items-center justify-center text-teal-700 font-bold">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 白銀の日本三大秘境「祖谷のかずら橋」雪景色渡橋
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 白銀の日本三大秘境「祖谷のかずら橋」雪景色渡橋</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 国指定重要有形民俗文化財の吊り橋。粉雪をまとったカズラのツルと、14m下の澄み切ったエメラルドグリーンの祖谷川を望むスリルと絶景の調和。
               </p>
@@ -351,9 +345,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 傾斜42度ケーブルカーで下る高低差170m谷底自噴露天風呂
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 傾斜42度ケーブルカーで下る高低差170m谷底自噴露天風呂</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 断崖を下る専用ケーブルカーで行く秘湯。川岸に湧き出る毎分大量自噴のシルク泡温泉に浸かり、冬の渓谷のせせらぎと雪景色を愛でる贅沢。
               </p>
@@ -363,9 +355,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 囲炉裏炭火焼き阿波尾鶏＆でこまわし・温まる十割祖谷そば
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 囲炉裏炭火焼き阿波尾鶏＆でこまわし・温まる十割祖谷そば</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 炭火の周りで焼き上げる川魚アマゴや岩豆腐の味噌田楽「でこまわし」、地鶏阿波尾鶏の鍋。素朴で芳醇な手打ち祖谷そばが心身を温めます。
               </p>
@@ -375,9 +365,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】かずら橋雪景色と大歩危こたつ舟・秘湯露天風呂を巡る冬の秘境探訪ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】かずら橋雪景色と大歩危こたつ舟・秘湯露天風呂を巡る冬の秘境探訪ルート</h2>
             <p className="text-slate-400 text-sm mt-1">
               井川池田ICまたはJR大歩危駅を起点に、四国屈指の渓谷絶景と名湯、郷土料理を網羅する1泊2日旅。
             </p>
@@ -388,9 +376,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 大歩危峡に到着 ➔ 渓谷を望む食堂で名物「祖谷そば」＆「でこまわし」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 大歩危峡に到着  渓谷を望む食堂で名物「祖谷そば」＆「でこまわし」ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   大歩危駅周辺または「大歩危峡まんなか」のレストランへ。太打ちで素朴な風味の十割手打ち「祖谷そば」と、甘辛い柚子味噌が香ばしい「でこまわし」でランチ。四国の秘境に入った旅情が高まります。
                 </p>
@@ -399,9 +385,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 冬限定「大歩危峡こたつ舟遊覧船」乗船 ➔ 祖谷渓谷の小便小僧絶壁へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 冬限定「大歩危峡こたつ舟遊覧船」乗船  祖谷渓谷の小便小僧絶壁へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   ぽかぽかのこたつに入りながら、吉野川の結晶片岩が迫る大歩危峡を遊覧船で巡ります。下船後は県道32号を北上し、高さ200mの断崖絶壁に立つ「小便小僧の像」を見学。吸い込まれそうな深いV字谷の絶景パノラマを体感します。
                 </p>
@@ -410,9 +394,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 祖谷の温泉宿へチェックイン ➔ ケーブルカー谷底露天風呂＆「阿波尾鶏囲炉裏会席」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 祖谷の温泉宿へチェックイン  ケーブルカー谷底露天風呂＆「阿波尾鶏囲炉裏会席」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   秘境宿にチェックインし、専用ケーブルカーで谷底の川岸露天風呂、または天空露天風呂へ。夕暮れの山並みとせせらぎに包まれながら美肌温泉を満喫。夕食は囲炉裏を囲み、炭火で焼いたアマゴや阿波尾鶏、熱々の味噌鍋に地酒を合わせます。
                 </p>
@@ -421,9 +403,7 @@ export default function TokushimaIyaValleyWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝の澄み切った「祖谷のかずら橋」渡橋体験 ➔ 琵琶の滝を見学して帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝の澄み切った「祖谷のかずら橋」渡橋体験  琵琶の滝を見学して帰路へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   観光客が少ない朝の時間帯にかずら橋へ。白銀の渓谷に架かるカズラの吊り橋を一歩ずつ慎重に渡り、すぐ隣にある落差50mの「琵琶の滝」の清涼な水しぶきを鑑賞。道の駅大歩危で徳島銘菓や地酒を購入し、大満足の帰路へ就きます。
                 </p>
@@ -436,9 +416,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の祖谷かずら橋と秘境温泉を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の祖谷かずら橋と秘境温泉を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、露天風呂・料理・渓谷眺望が高評価の宿。
             </p>
@@ -472,9 +450,7 @@ export default function TokushimaIyaValleyWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -534,27 +510,21 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              祖谷の山懐が受け継ぐ平家落人伝説と伝統の囲炉裏料理
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">祖谷の山懐が受け継ぐ平家落人伝説と伝統の囲炉裏料理</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                香ばしい炭火の薫香「でこまわし」と清流アマゴ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                香ばしい炭火の薫香「でこまわし」と清流アマゴ</h3>
               <p>
                 「でこまわし」は、祖谷の伝統的な堅豆腐「岩豆腐」やこんにゃく、里芋を串に刺し、柚子味噌を塗って炭火で焼き上げる郷土料理。表面が香ばしく焦げた味噌の甘みと豆腐の濃厚な大豆の旨味が絶妙です。また、吉野川や祖谷川の清流で育った川魚「あめのうお（アマゴ）」は、塩焼きにすることで皮はパリッと、身はしっとりホクホクとした甘みが口いっぱいに広がります。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-teal-700" />
-                地鶏「阿波尾鶏」と竹筒の熱燗「かっぽ酒」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-teal-700" />
+                地鶏「阿波尾鶏」と竹筒の熱燗「かっぽ酒」</h3>
               <p>
                 徳島県が誇るブランド地鶏「阿波尾鶏」は、肉の旨味成分であるアスパラギン酸が多く含まれ、適度な歯ごたえとジューシーな肉汁が特徴。冬の鍋料理や炭火焼きの主役です。また、青竹を切り落とした筒に地酒を注ぎ、囲炉裏の灰に差し込んで温める「かっぽ酒」は、注ぐ際に「かっぽ、かっぽ」と音が鳴ることから名付けられた風雅な酒器。竹の爽やかな香りが移った熱燗は、冬の夜の秘境宿で格別の酔い心地を届けてくれます。
               </p>
@@ -566,9 +536,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="bg-teal-50/60 rounded-3xl p-6 sm:p-10 border border-teal-200/60 space-y-6">
           <div className="border-b border-teal-200/80 pb-4">
             <span className="text-teal-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">
-              冬の祖谷渓谷・大歩危を安全に楽しむための装備と山岳道路の心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">冬の祖谷渓谷・大歩危を安全に楽しむための装備と山岳道路の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-teal-950">
@@ -608,20 +576,16 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の祖谷渓谷・かずら橋＆大歩危に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の祖谷渓谷・かずら橋＆大歩危に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-teal-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function TokushimaIyaValleyWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・秘境・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・秘境・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          轟音とともに落ちる清冽な飛瀑と立ち込める水煙。大自然の神気とマイナスイオンに満たされる湯浴み
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">轟音とともに落ちる清冽な飛瀑と立ち込める水煙。大自然の神気とマイナスイオンに満たされる湯浴み</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              滝の轟音と水しぶきを肌で感じる絶景露天風呂＆展望テラス
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">滝の轟音と水しぶきを肌で感じる絶景露天風呂＆展望テラス</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               マイナスイオンが充満する渓流沿いの露天風呂や、客室の展望窓から滝を望む特別なロケーションで、日常の疲れを完全に浄化できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              生マグロ・奥久慈しゃも・湯波料理など名瀑の郷が育む郷土会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">生マグロ・奥久慈しゃも・湯波料理など名瀑の郷が育む郷土会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               勝浦の獲れたて生マグロ尽くし、大子の肉質引き締まる奥久慈軍鶏鍋、日光の伝統ある湯波会席など、水清き里の馳走を堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税宿泊クーポンで名瀑周辺の老舗料理旅館をお得に予約
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税宿泊クーポンで名瀑周辺の老舗料理旅館をお得に予約</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               寄附額の最大30%がクーポンとして還元されるため、ハイシーズンの紅葉期や新緑期でも賢く贅沢に宿泊できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="nachi_waterfall" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                和歌山県那智勝浦町ふるさと納税：落差日本一133m・世界遺産「那智の滝」と南紀勝浦温泉の生マグロ会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">和歌山県那智勝浦町ふるさと納税：落差日本一133m・世界遺産「那智の滝」と南紀勝浦温泉の生マグロ会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 熊野那智大社の別宮・飛瀧神社の御神体として尊崇される那智の滝。世界遺産熊野古道の祈りの道を歩き、勝浦港で水揚げされた新鮮な生まぐろ料理と硫黄香る名湯に癒やされる聖地リトリートです。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦448
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kegon_waterfall" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                栃木県日光市ふるさと納税：中禅寺湖の湖水が一気に落下する大瀑布「華厳の滝」と日光温泉郷名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">栃木県日光市ふるさと納税：中禅寺湖の湖水が一気に落下する大瀑布「華厳の滝」と日光温泉郷名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 高さ97mの岸壁を一気に落下する豪快な華厳の滝。エレベーターで行く観瀑台からの迫力ある景観を堪能し、日光東照宮ゆかりの格式高い宿で湯波料理やとちぎ和牛会席を味わえます。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市瀬尾1640-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    日光東照宮晃陽苑
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日光東照宮晃陽苑</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     4万坪（東京D約2個半）の敷地の中に、四季折々の自然とゆったりと時間を感じられる日光東照宮ゆかりの宿
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市湯西川597
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湯西川温泉　ホテル湯西川（伊東園ホテルズ）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯西川温泉　ホテル湯西川（伊東園ホテルズ）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     平家の落人伝説の残る温泉地。Ph9.2のアルカリ性単純泉『美肌の湯』と言われています。
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市鬼怒川温泉大原1021
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鬼怒川温泉　鬼怒川グランドホテル　夢の季（ゆめのとき）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【９つの湯めぐり】緑美しい山並みに包まれて、四季の味わいと天然温泉で喧騒から離れた癒しの季に。
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="fukuroda_waterfall" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                茨城県大子町ふるさと納税：西行法師も絶賛した「四度の滝」袋田の滝と奥久慈しゃも・袋田温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">茨城県大子町ふるさと納税：西行法師も絶賛した「四度の滝」袋田の滝と奥久慈しゃも・袋田温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 長さ120m・幅73mの巨岩を四段に落下する袋田の滝。冬の完全氷結「氷瀑」でも名高く、アルカリ性単純温泉の柔らかな湯に浸かりながら、名物奥久慈しゃもや鮎の塩焼きに舌鼓を打てます。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     茨城県久慈郡大子町袋田978
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    袋田温泉　思い出浪漫館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">袋田温泉　思い出浪漫館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【オールインクルーシブ】日本三名瀑・袋田の滝まで車で5分。奥久慈さとやまバイキングと天然温泉の宿。
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿。
               </p>
@@ -452,9 +426,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 清津峡・黒部峡谷・大杉谷の絶景名湯。
               </p>
@@ -468,9 +440,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">お伊勢参り＆熊野古道×聖地巡礼・門前宿ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 伊勢神宮・熊野三山・出雲大社の祈願ステイ。
               </p>
@@ -488,9 +458,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三名瀑＆ダイナミック滝見露天風呂宿×ふるさと納税厳選ガイド那智の滝・華厳の滝・袋田の滝の豪快名湯」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

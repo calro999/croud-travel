@@ -294,9 +294,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
             </span>
             <div>
               <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider">Exact Fare Math</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                通常運賃 vs フリーパス：いくら得するのか1円単位で計算
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">通常運賃 vs フリーパス：いくら得するのか1円単位で計算</h2>
             </div>
           </div>
           <p className="text-slate-600 leading-relaxed mb-6">
@@ -370,9 +368,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
         <section>
           <div className="text-center max-w-2xl mx-auto mb-10">
             <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider">Crucial Strategy</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              損しないための「箱根フリーパス乗りこなし鉄則」
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">損しないための「箱根フリーパス乗りこなし鉄則」</h2>
             <p className="text-slate-600 text-sm mt-2">
               単純に購入するだけでは勿体ない！最大限のコストパフォーマンスを引き出す3大セオリー。
             </p>
@@ -408,9 +404,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
             </span>
             <div>
               <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider">Model Itinerary</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                1泊2日 箱根周遊ゴールデンモデルルート（時系列タイムテーブル）
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">1泊2日 箱根周遊ゴールデンモデルルート（時系列タイムテーブル）</h2>
             </div>
           </div>
 
@@ -467,9 +461,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
             <span className="text-emerald-400 font-black text-xs uppercase tracking-wider">
               Strategic Base Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              フリーパス周遊が劇的に快適になる「強羅・湯本温泉宿」
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">フリーパス周遊が劇的に快適になる「強羅・湯本温泉宿」</h2>
             <p className="text-emerald-200/80 text-xs sm:text-sm mt-2 leading-relaxed">
               フリーパスの乗り換え拠点である「箱根湯本駅」または「強羅駅」至近に宿を取ることで、1日目・2日目の移動ロスをゼロに抑えられます。楽天トラベルの割引クーポン対象宿を厳選。
             </p>
@@ -510,9 +502,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
                     <div className="text-[11px] font-bold text-emerald-700 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "箱根・強羅・湯本"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "箱根の大自然と自家源泉を満喫。フリーパス利用旅行の拠点に最適な名湯宿。"}
                     </p>
@@ -543,33 +533,25 @@ export default function HakoneFreepassBreakEvenRoutePage() {
 
         {/* セクション5：よくある疑問・FAQ */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-emerald-100">
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">
-            箱根フリーパスのよくある質問（FAQ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">箱根フリーパスのよくある質問（FAQ）</h2>
           <div className="space-y-4">
             <div className="p-4 rounded-2xl bg-emerald-50/60 border border-emerald-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <span className="text-emerald-700 font-black">Q.</span>
-                ロマンスカーに乗る場合、追加料金は必要ですか？
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><span className="text-emerald-700 font-black">Q.</span>
+                ロマンスカーに乗る場合、追加料金は必要ですか？</h3>
               <p className="text-xs sm:text-sm text-slate-600 mt-2 leading-relaxed">
                 フリーパスには乗車券部分（普通運賃）が含まれているため、別途「特急券（新宿〜箱根湯本間 片道1,200円）」を購入するだけでロマンスカーに乗車できます。小田急アプリや券売機で特急券のみ追加購入してください。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-emerald-50/60 border border-emerald-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <span className="text-emerald-700 font-black">Q.</span>
-                日帰り旅行でもフリーパスはお得ですか？
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><span className="text-emerald-700 font-black">Q.</span>
+                日帰り旅行でもフリーパスはお得ですか？</h3>
               <p className="text-xs sm:text-sm text-slate-600 mt-2 leading-relaxed">
                 箱根フリーパスは2日間用（6,100円）が最短ですが、日帰りでも「新宿〜強羅〜大涌谷〜芦ノ湖海賊船〜湯本」とぐるり周遊すれば通常運賃が約6,760円になるため、日帰りであってもフリーパスを買った方がお得になります。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-emerald-50/60 border border-emerald-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <span className="text-emerald-700 font-black">Q.</span>
-                デジタルフリーパスと紙のチケットはどちらが良い？
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><span className="text-emerald-700 font-black">Q.</span>
+                デジタルフリーパスと紙のチケットはどちらが良い？</h3>
               <p className="text-xs sm:text-sm text-slate-600 mt-2 leading-relaxed">
                 スマートフォンで購入できる「EMotデジタル箱根フリーパス」なら窓口の行列に並ばず即利用できます。ただし充電切れや山間部での操作が不安な方は、小田急線各駅の自動券売機で買える磁気券（紙）も引き続きおすすめです。
               </p>
@@ -608,9 +590,7 @@ export default function HakoneFreepassBreakEvenRoutePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルートの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と徹底検証！通常運賃との差額シミュレーション＆1泊2日黄金ルートの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

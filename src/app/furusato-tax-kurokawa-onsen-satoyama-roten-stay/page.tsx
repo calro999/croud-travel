@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            田の原川のせせらぎと茅葺き屋根の情緒——杉木立の小径を入湯手形で巡る至高の里山リトリート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">田の原川のせせらぎと茅葺き屋根の情緒——杉木立の小径を入湯手形で巡る至高の里山リトリート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             熊本県阿蘇郡南小国町、阿蘇カルデラの北側、標高約700メートルの山間に湧き出る黒川（くろかわ）温泉。「街全体が一つの宿、通りは廊下、旅館は客室」という景観づくりの哲学のもと、派手な看板を排し、黒を基調とした木造建築と豊かな雑木林が調和した日本屈指の美しい里山温泉地です。ミシュラン・グリーンガイド・ジャポンでも二つ星を獲得し、国内外の温泉ファンから「一度は訪れたい憧れの秘湯」として熱狂的な支持を集めています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">熊本県南小国町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  黒川温泉　お宿のし湯
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">黒川温泉　お宿のし湯</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   雑木林の中に点在する離れと野趣あふれる大野天風呂！木々のぬくもりと静寂に包まれる全十一室の隠れ家
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  黒川温泉 お宿 のし湯 —— 木立の中に佇む大人の隠れ宿。茅葺き門をくぐると広がる安らぎの異空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">黒川温泉 お宿 のし湯 —— 木立の中に佇む大人の隠れ宿。茅葺き門をくぐると広がる安らぎの異空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 木漏れ日が揺れる大野天風呂「野天風呂」と趣異なる貸切風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">木漏れ日が揺れる大野天風呂「野天風呂」と趣異なる貸切風呂</h5>
                     <p className="text-stone-600 leading-relaxed">雑木林に囲まれた開放感抜群の野天風呂。自然石を配した湯船に浸かりながら、鳥のさえずりと風の音に包まれる至福の湯浴みを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 古木や自然素材を活かした温もりあふれる離れ客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">古木や自然素材を活かした温もりあふれる離れ客室</h5>
                     <p className="text-stone-600 leading-relaxed">過度な装飾のない落ち着いた和モダン空間。日常の喧騒を離れ、静かに読書をしたりお茶を楽しんだり、大人のプライベート時間を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 阿蘇あか牛や地元の旬野菜を取り入れた素朴で上質な会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">阿蘇あか牛や地元の旬野菜を取り入れた素朴で上質な会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">手作りの温かみが伝わる創作山里料理。素材本来の甘みと旨味を引き出した料理が旅情を心地よく深めてくれます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">熊本県南小国町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  黒川温泉　旅館　山河
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">黒川温泉　旅館　山河</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   三千坪の原生林に佇む秘湯の一軒宿！「薬師の湯」と「美肌の湯」の二つの自家源泉を引く名門
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  黒川温泉 旅館 山河（さんが） —— 渓流のほとりに佇む静寂の宿。二大自家源泉と四季折々の自然美
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">黒川温泉 旅館 山河（さんが） —— 渓流のほとりに佇む静寂の宿。二大自家源泉と四季折々の自然美</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 性質の異なる二本の自家源泉（単純硫黄泉と炭酸水素塩泉）
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">性質の異なる二本の自家源泉（単純硫黄泉と炭酸水素塩泉）</h5>
                     <p className="text-stone-600 leading-relaxed">飲泉もできる胃腸に良い「薬師の湯」と、肌をしっとり整える「美肌の湯」。露天風呂「もやいの湯」や貸切風呂で贅沢な掛け流しの湯巡りが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 三千坪の広大な森に囲まれた木造旅館の落ち着き
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">三千坪の広大な森に囲まれた木造旅館の落ち着き</h5>
                     <p className="text-stone-600 leading-relaxed">田の原川の支流沿いに建ち、春の新緑、夏のホタル、秋の紅葉、冬の雪景色と、手つかずの自然の中で静かに寛ぐことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 肥後あか牛や山菜、ヤマメを炭火や会席で味わう山里料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">肥後あか牛や山菜、ヤマメを炭火や会席で味わう山里料理</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が自ら吟味した地元熊本の食材。個室の食事処で、温かいものは温かいうちに一品一品丁寧に運ばれます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">熊本県南小国町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  黒川温泉　黒川荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">黒川温泉　黒川荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   田の原川の巨岩「びょうぶ岩」を望む名物露天風呂！淡いエメラルドグリーンの名湯と離れ客室の贅
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  黒川温泉 黒川荘 —— 巨岩の渓谷美を仰ぐ特等席。びょうぶ岩露天風呂と茅葺きの歴史空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">黒川温泉 黒川荘 —— 巨岩の渓谷美を仰ぐ特等席。びょうぶ岩露天風呂と茅葺きの歴史空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> そそり立つ「びょうぶ岩」を真正面に望む大露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">そそり立つ「びょうぶ岩」を真正面に望む大露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">自然のダイナミズムを間近に感じる大露天風呂。白濁から淡いグリーンへと色を変える良質な弱酸性温泉に浸かりながら、迫力の渓谷美を仰げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 茅葺き屋根の古民家を移築した重厚な離れ「温飩芽（うどんめ）」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">茅葺き屋根の古民家を移築した重厚な離れ「温飩芽（うどんめ）」</h5>
                     <p className="text-stone-600 leading-relaxed">歴史の風格が漂う専用風呂付きの離れ客室。プライベートな空間で、家族や大切な人とゆったりとした時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 肥後あか牛の溶岩焼きや馬刺しなど熊本の名物を極めた会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">肥後あか牛の溶岩焼きや馬刺しなど熊本の名物を極めた会席</h5>
                     <p className="text-stone-600 leading-relaxed">新鮮な特選馬刺しや柔らかいあか牛のステーキ、地元野菜の煮物など、熊本の豊かな山海の幸を存分に堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 黒川温泉・入湯手形散策＆平野台展望所ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 黒川温泉・入湯手形散策＆平野台展望所ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                入湯手形での温泉街露天風呂めぐりと足湯散歩
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                入湯手形での温泉街露天風呂めぐりと足湯散歩</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 1枚で3カ所の露天風呂に入れる名物「入湯手形」。川沿いの風情ある小径を浴衣姿で歩き、個性豊かな露天風呂や「顔湯」「足湯」を楽しむのが定番です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                平野台高原展望所（恋人の聖地）からの阿蘇パノラマビュー
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                平野台高原展望所（恋人の聖地）からの阿蘇パノラマビュー</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 黒川温泉街から車で約5分。阿蘇五岳や祖母連山を一望する大展望台。夕暮れどきには茜色に染まる阿蘇の大草原が息を呑む絶景を作り出します。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                温泉街の食べ歩きスイーツ（どらどらバーガー・シュークリーム）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                温泉街の食べ歩きスイーツ（どらどらバーガー・シュークリーム）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 「どら焼き家 どらどら」の名物どらドラバーガーや、「パティスリー麓」のサクサク極上シュークリームなど、湯上がりに食べたい絶品スイーツが満載です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              熊本県南小国町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">熊本県南小国町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒川温泉 お宿のし湯を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒川温泉 お宿のし湯を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒川温泉 お宿のし湯の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒川温泉 お宿のし湯の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

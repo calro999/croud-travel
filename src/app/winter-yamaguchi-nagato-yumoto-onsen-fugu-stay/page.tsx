@@ -285,10 +285,8 @@ export default function NagatoWinterPage() {
             <Eye className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 山口最古名湯の冬情緒＆下関直送本とらふぐ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長門湯本温泉の冬情緒と名湯】<br className="hidden sm:inline" />
-            音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月長門湯本温泉の冬情緒と名湯】<br className="hidden sm:inline" />
+            音信川の冬灯りと開湯600年美肌泉・本場下関直送本とらふぐ＆山口県産和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             室町時代に応永の神託により拓かれた山口県最古の名湯「長門湯本温泉」。清流・音信川の川床と竹林が揺らめく灯りに包まれる初冬。pH9.6を誇る化粧水のような美肌泉と、11月〜12月に最盛期を迎える下関直送の極上「活本とらふぐ」フルコースに酔いしれる優雅な冬旅。
           </p>
@@ -314,9 +312,7 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Nagato Yumoto 600-Year Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                住吉大明神の神託がもたらした霊泉。音信川の冬灯りと本場ふぐの贅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">住吉大明神の神託がもたらした霊泉。音信川の冬灯りと本場ふぐの贅</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function NagatoWinterPage() {
           
           <div className="bg-indigo-50/70 rounded-2xl p-5 border border-indigo-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-700" />
-                11月・12月長門湯本温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+                11月・12月長門湯本温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 音信川の幻想的な竹あかり冬情緒・開湯600年のpH9.6美肌泉・本場下関直送の活本とらふぐフルコース・最高峰やまぐち和牛ステーキ・足元湧出の名湯「恩湯」
               </p>
@@ -385,9 +379,7 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Otozure River Atmosphere</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                音信川の冬情緒：川床テラス・飛び石と竹あかりライトアップ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">音信川の冬情緒：川床テラス・飛び石と竹あかりライトアップ</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -406,35 +398,27 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Pure Mineral Qualities</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                まるで天然の化粧水：pH9.6以上の高アルカリ性単純温泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">まるで天然の化粧水：pH9.6以上の高アルカリ性単純温泉</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                とろりとした肌触りの美肌泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                とろりとした肌触りの美肌泉</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 pH9.6を超える強アルカリ性単純温泉。古い角質を優しく溶かしてクレンジングし、入浴した瞬間に肌がツルツルになる極上の「美肌の湯」です。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                刺激が少なく身体に優しい
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                刺激が少なく身体に優しい</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 成分がマイルドな単純温泉のため、赤ちゃんからご高齢の方まで安心して長湯を楽しめます。湯疲れしにくく、日々のストレスを穏やかに解きほぐします。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                岩盤から直接湧き出る新鮮な源泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                岩盤から直接湧き出る新鮮な源泉</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 共同浴場「恩湯」をはじめ、温泉街の各宿には深層の岩盤から空気に触れずに自噴する新鮮な源泉が注がれ、大自然の生命力をそのまま肌で吸収できます。
               </p>
@@ -450,9 +434,7 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Sacred Bath Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                開湯600年の元湯「恩湯」：岩盤から直接湧く奇跡の足元湧出
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">開湯600年の元湯「恩湯」：岩盤から直接湧く奇跡の足元湧出</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -467,9 +449,7 @@ export default function NagatoWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-extrabold text-indigo-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい長門湯本温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい長門湯本温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               音信川の冬情緒を望む露天風呂、本場下関直送の本とらふぐと山口県産牛を堪能できる宿を厳選。
             </p>
@@ -508,9 +488,7 @@ export default function NagatoWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -569,26 +547,20 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                本場山口が誇る冬の至高美味：「本とらふぐ」と「やまぐち和牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">本場山口が誇る冬の至高美味：「本とらふぐ」と「やまぐち和牛」</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-700" />
-                下関直送！冬の味覚の王様「本とらふぐ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-700" />
+                下関直送！冬の味覚の王様「本とらふぐ」</h3>
               <p className="leading-relaxed text-sm">
                 11月から2月にかけて、身の締まりと旨味が頂点を極める本とらふぐ。職人が熟練の包丁技で極限まで薄く引いた「てっさ」は、噛み締めるほどに上品で濃厚な甘みが口中に広がります。熱々の昆布出汁で野菜とともに煮込む「てっちり鍋」や、香ばしい「ふぐ唐揚げ」、炙ったヒレを注いだ熱々の「ひれ酒」まで、本場ならではのフルコースは冬の醍醐味です。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-700" />
-                清らかな水と温暖な風土が育む「やまぐち和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-700" />
+                清らかな水と温暖な風土が育む「やまぐち和牛」</h3>
               <p className="leading-relaxed text-sm">
                 山口県の美しい自然の中で、丹精込めて肥育された黒毛和牛。赤身のきめ細やかな肉質と、融点の低い上質な不飽和脂肪酸を含んだサシの甘みが特徴です。炭火ステーキやすき焼きで味わうと、肉汁がじゅわっと溢れ出し、重すぎず軽やかな旨味が喉を通り抜けます。
               </p>
@@ -604,35 +576,25 @@ export default function NagatoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：新山口駅から直行！音信川の冬灯りと本場ふぐ満喫の旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：新山口駅から直行！音信川の冬灯りと本場ふぐ満喫の旅</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-indigo-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-indigo-800 uppercase tracking-wider">【1日目】新幹線から直行バスへ〜音信川散策と名宿チェックイン</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:15 山陽新幹線でJR新山口駅に到着 → 直行バス「おとずれ号」に乗車
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:15 山陽新幹線でJR新山口駅に到着 → 直行バス「おとずれ号」に乗車</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 中国山地の穏やかな冬景色を眺めながら約60分で長門湯本温泉にスムーズ到着。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 温泉街のカフェでランチ＆音信川の飛び石と竹林の小径散歩
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 温泉街のカフェでランチ＆音信川の飛び石と竹林の小径散歩</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 川床カフェで長州鶏サンドや珈琲を味わい、木々の紅葉残る川沿いをのんびり散策。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 旅館へチェックイン → アルカリ性美肌泉の露天風呂へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 旅館へチェックイン → アルカリ性美肌泉の露天風呂へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 化粧水のような滑らかな名湯で肌を潤す。湯上がりは夕暮れの温泉街へ足湯散歩。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 本場下関直送の活本とらふぐフルコース＆山口県産和牛会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 本場下関直送の活本とらふぐフルコース＆山口県産和牛会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 てっさ、てっちり鍋、香ばしいひれ酒、そして極上牛ステーキの贅を尽くしたディナー。
               </p>
@@ -640,15 +602,11 @@ export default function NagatoWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の清涼露天風呂〜立ち寄り湯「恩湯」と元乃隅神社へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → 仙崎の干物と地産米の贅沢和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂 → 仙崎の干物と地産米の贅沢和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の清々しい川風を感じながら入る朝風呂。ふっくら炊き上がった山口県産コシヒカリの朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 立ち寄り公衆浴場「恩湯」で足元湧出の名湯体験＆元乃隅神社へドライブ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 立ち寄り公衆浴場「恩湯」で足元湧出の名湯体験＆元乃隅神社へドライブ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 岩盤から直接湧き出る霊泉で温まった後、日本海に面した朱色の鳥居が連なる「元乃隅神社」の絶景を見学して帰路へ。
               </p>
@@ -671,10 +629,8 @@ export default function NagatoWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -689,9 +645,7 @@ export default function NagatoWinterPage() {
         <section className="bg-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい中国・四国の冬・美食温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい中国・四国の冬・美食温泉特集</h2>
             <p className="text-xs sm:text-sm text-indigo-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

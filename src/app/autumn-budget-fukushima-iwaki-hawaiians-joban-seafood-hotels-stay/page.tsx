@@ -58,10 +58,8 @@ export default function AutumnBudgetIwakiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-cyan-600" />
-            宿泊代2,000円台！浮いた予算でハワイアンズ入場券＆常磐ものの刺身盛り合わせへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-cyan-600" />
+            宿泊代2,000円台！浮いた予算でハワイアンズ入場券＆常磐ものの刺身盛り合わせへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             ハワイアンズ直営ホテルは秋の連休に高額になりがちですが、JRいわき駅前に泊まれば2,000円〜3,000円台で極めて快適なホテルを確保可能。路線バスや無料送迎バスを利用してスマートに観光できます。浮かせた宿泊費で、いわき駅前の海鮮居酒屋で常磐ものの姿造りや福島地酒「又兵衛」を心ゆくまで堪能しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              クレストンホテルいわき（ＢＢＨホテルグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">クレストンホテルいわき（ＢＢＨホテルグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>いわき</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（お洒落空間）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ワンランク上の快適ステイ　ホテルソレイユ（ＢＢＨホテルグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ワンランク上の快適ステイ　ホテルソレイユ（ＢＢＨホテルグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>いわき</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（無料サービス充実）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルクラウンヒルズいわき（ＢＢＨホテルグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルクラウンヒルズいわき（ＢＢＨホテルグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>いわき</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結最新）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルＢ４Ｔいわき＜ＪＲ東日本ホテルズ＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルＢ４Ｔいわき＜ＪＲ東日本ホテルズ＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>いわき</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場完備）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルアーバングレイスヴィラ＜いわき駅前＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルアーバングレイスヴィラ＜いわき駅前＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>いわき</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetIwakiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-cyan-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-cyan-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋のいわき観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-cyan-300"><CheckCircle2 className="w-5 h-5" />
+            秋のいわき観光を満喫するヒント</h2>
           <p className="text-sm text-cyan-100 leading-relaxed">
             スパリゾートハワイアンズのフラガールショーは必見の迫力。世界最大の露天風呂「与市」での温泉浴も秋風が心地よく最高です。夕食はいわき駅周辺の居酒屋で、サクサクふわふわのメヒカリの唐揚げや地酒「いわき郷」をぜひ味わってみてください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「いわき：常磐ものの秋魚グルメ＆ハワイアンズ拠点！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「いわき」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「いわき」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

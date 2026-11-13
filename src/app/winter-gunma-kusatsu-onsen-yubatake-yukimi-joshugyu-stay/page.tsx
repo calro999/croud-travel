@@ -248,12 +248,10 @@ export default function WinterGunmaKusatsuOnsenPage() {
             11月・12月 湯畑雪景色＆湧出量日本一・極上上州牛すき焼き特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月群馬・草津温泉】湯畑雪景色と日本一の名湯
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月群馬・草津温泉】湯畑雪景色と日本一の名湯
             <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal">
               名物上州牛すき焼き＆湯もみ体験・冬の酸性美肌泉を愉しむ名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、毎分3万2300リットル以上という日本一の自然湧出量を誇る東の横綱「草津温泉（くさつおんせん）」は、標高約1200メートルの高原に初雪が舞い降り、温泉街の中心「湯畑（ゆばたけ）」から立ち上る豪快な湯けむりと冬のライトアップが織りなす最も幻想的な季節を迎えます。pH2前後の日本屈指の強酸性泉は、強力な殺菌力と新陳代謝促進効果を持ち、冷えた冬の身体を芯の芯まで熱く温めてくれます。西の河原公園の広大な雪見大露天風呂や熱乃湯の伝統「湯もみと踊り」。夕食には群馬の豊かな大自然が育んだ最高峰の黒毛和牛「上州牛（じょうしゅうぎゅう）」のすき焼きやしゃぶしゃぶ、冬に甘みを極める下仁田葱、名物舞茸料理。名実ともに日本を代表する名湯草津で、至福の冬籠りを叶える厳選名宿5選を徹底解説します。
@@ -290,9 +288,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
               <Landmark className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                日本一の湧出量と酸性美肌泉！初冬の草津温泉が圧倒的な理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">日本一の湧出量と酸性美肌泉！初冬の草津温泉が圧倒的な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 白煙立ち込める湯畑の冬景色、六大源泉の圧倒的湯力、上州の豊かな冬の味覚
               </p>
@@ -310,9 +306,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
               <Sparkles className="w-3.5 h-3.5" />
               厳選5宿の徹底比較
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              初冬の草津温泉を満喫するおすすめ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">初冬の草津温泉を満喫するおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 max-w-2xl mx-auto">
               楽天トラベル最新APIから取得したリアルタイムの宿泊料金・客室情報・アクセス・料理プランを基に、独自の視点で徹底解説します。
             </p>
@@ -357,9 +351,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
                         <span className="text-xs font-bold text-emerald-800 tracking-wide uppercase">
                           {hotel.special}
                         </span>
-                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">{hotel.name}</h3>
                       </div>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -439,9 +431,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
             <Footprints className="w-4 h-4" />
             冬の1泊2日 満喫モデルコース
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            湯畑ライトアップと名湯湯めぐり・上州牛を味わう草津冬旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">湯畑ライトアップと名湯湯めぐり・上州牛を味わう草津冬旅</h2>
           <div className="space-y-4 border-l-2 border-emerald-200 pl-4 sm:pl-6 ml-2 sm:ml-4">
             <div className="space-y-2">
               <div className="flex items-center gap-2 font-bold text-stone-900 text-sm sm:text-base">
@@ -470,35 +460,27 @@ export default function WinterGunmaKusatsuOnsenPage() {
             <Flame className="w-4 h-4" />
             上州・群馬冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            上州の大自然が育む三大味覚「上州牛」「下仁田葱」「六合村舞茸」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">上州の大自然が育む三大味覚「上州牛」「下仁田葱」「六合村舞茸」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-400" />
-                赤身とサシの調和「特選 上州牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-400" />
+                赤身とサシの調和「特選 上州牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 利根川水系の清冽な水と群馬の大自然で丹精込めて肥育されるブランド黒毛和牛。赤身の力強い旨味ときめ細やかなサシが絶妙なバランスで共存し、冬のすき焼き鍋や陶板焼きで口に入れた瞬間、肉本来の豊かな甘みがふわっと広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                冬に甘み極まる「本場 下仁田葱」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-400" />
+                冬に甘み極まる「本場 下仁田葱」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 殿様への献上品としても知られた群馬特産の伝統野菜。初冬の霜にあたることで甘みが凝縮し、加熱するとトロリととろけるような独特の食感に変化します。上州牛のすき焼きや鍋物には欠かせない、冬の上州路の主役級食材です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-400" />
-                香り高き山の恵み「六合村の舞茸」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-400" />
+                香り高き山の恵み「六合村の舞茸」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 草津温泉の隣に位置する日本で最も美しい村・中之条町六合（くに）地区で栽培される極上舞茸。肉厚で歯ごたえが抜群に良く、熱を加えると芳醇な香りが漂います。天ぷらや土瓶蒸し、炊き込みご飯で山の深呼吸を味わえます。
               </p>
@@ -512,15 +494,11 @@ export default function WinterGunmaKusatsuOnsenPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の草津温泉 交通アクセス＆冬道・強酸性泉の注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の草津温泉 交通アクセス＆冬道・強酸性泉の注意点</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-700" />
-                特急列車＆高速バス・車でのアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-700" />
+                特急列車＆高速バス・車でのアクセス</h3>
               <p>
                 上野駅よりJR特急「草津・四万号」で長野原草津口駅まで約2時間20分、接続バスで約25分。東京駅・新宿駅からの直通高速バスも多数運行されており、冬道運転が不安な方には公共交通機関が安心です。
               </p>
@@ -530,10 +508,8 @@ export default function WinterGunmaKusatsuOnsenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-700" />
-                強酸性泉の正しい入浴法と防寒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-700" />
+                強酸性泉の正しい入浴法と防寒</h3>
               <p>
                 草津の湯はpH2前後の強酸性で高温です。急激な血圧変化を防ぐため入念なかけ湯を行い、長湯は避けて3〜5分の短時間浴を繰り返しましょう。貴金属は変色するため必ず外してください。
               </p>
@@ -550,16 +526,12 @@ export default function WinterGunmaKusatsuOnsenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の群馬草津温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の群馬草津温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -571,10 +543,8 @@ export default function WinterGunmaKusatsuOnsenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい北関東・上信越の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい北関東・上信越の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               圧倒的な名湯とブランド牛・冬の雪景色を巡る北関東各地の厳選旅ガイド
             </p>
@@ -586,9 +556,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">埼玉・秩父</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                秩父夜祭と長瀞こたつ舟・武州和牛すき焼き名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">秩父夜祭と長瀞こたつ舟・武州和牛すき焼き名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 ユネスコ無形文化遺産の秩父夜祭と冬の長瀞こたつ舟、名物武州和牛を堪能。
               </p>
@@ -599,9 +567,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                鬼怒川渓谷の初冬雪景色ととちぎ和牛・美肌名湯
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鬼怒川渓谷の初冬雪景色ととちぎ和牛・美肌名湯</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 鬼怒川の雄大な渓谷美と日光湯波、極上とちぎ和牛を味わう癒やしの冬旅。
               </p>
@@ -612,9 +578,7 @@ export default function WinterGunmaKusatsuOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">長野・野沢温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                野沢温泉の13外湯めぐりと極上パウダースノー
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">野沢温泉の13外湯めぐりと極上パウダースノー</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白銀のスキー場と熱々の外湯めぐり、野沢菜本漬けと信州牛を味わう冬。
               </p>

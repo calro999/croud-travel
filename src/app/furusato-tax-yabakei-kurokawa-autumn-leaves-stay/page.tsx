@@ -89,9 +89,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            奇岩そびえる耶馬渓の錦秋と、渓流沿いに湯煙たなびく黒川の里。九州が誇る大自然と名湯に抱かれる癒やしの休日へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">奇岩そびえる耶馬渓の錦秋と、渓流沿いに湯煙たなびく黒川の里。九州が誇る大自然と名湯に抱かれる癒やしの休日へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本三大奇景の一つに数えられ、新日本三景でもある大分県中津市の「耶馬渓（やばけい）」。10月下旬から11月下旬にかけて、一目八景（いちもくはっけい）と呼ばれる展望台からは、夫婦岩や烏帽子岩などの奇岩群と色鮮やかなカエデ・イチョウが織りなすまるで山水画のような紅葉美が広がります。さらに九重連山の雄大なススキの草原「長者原」をドライブして辿り着くのが、熊本県南小国町の山あいに佇む憧れの温泉地「黒川温泉」です。黒川温泉の最大の魅力は、地域全体が一つの宿のように統一された木造の景観美と、名物「入湯手形」を使って巡る個性豊かな露天風呂の数々。渓流のせせらぎを聞きながら入る野天風呂や、森に包まれた洞窟風呂、竹林を望む露天風呂など、野趣あふれる湯浴みが楽しめます。田の原川の上流に佇み茅葺き屋根と多彩な湯船を誇る「旅館 奥の湯」、森の深閑とした静寂に包まれ二つの自家源泉を持つ名門「旅館 山河」、そして大仙人の湯など巨岩を配した名物大露天風呂を誇る「やまびこ旅館」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）賢く予約し、極上の九州秋旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本三大奇勝「耶馬渓・一目八景」＆九重やまなみハイウェイの紅葉ドライブ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本三大奇勝「耶馬渓・一目八景」＆九重やまなみハイウェイの紅葉ドライブ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 八つの奇岩を一望できる耶馬渓の絶景ポイント。秋風が心地よい九重連山の黄金ススキと紅葉のパノラマロードを駆け抜ける爽快な旅が叶います。
@@ -122,9 +118,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  名物「入湯手形」で巡る露天風呂！渓流露天・洞窟風呂・竹林の湯めぐり
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">名物「入湯手形」で巡る露天風呂！渓流露天・洞窟風呂・竹林の湯めぐり</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 杉の木で作られた入湯手形（1枚1,500円）で3つの旅館の露天風呂に入浴可能。宿ごとに泉質やロケーションが異なる本物の源泉を満喫できます。
@@ -137,9 +131,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  熊本名物「特選肥後あか牛」のステーキ・霜降り馬刺し＆旬の山里手作り会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">熊本名物「特選肥後あか牛」のステーキ・霜降り馬刺し＆旬の山里手作り会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 赤身の旨味が凝縮されたあか牛の溶岩焼きや、本場熊本の極上馬刺し、秋の味覚である小国米や清流ヤマメなど、山の恵みを味わい尽くせます。
@@ -174,9 +166,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                       ★ 4.19 <span className="text-stone-400 text-xs">(341件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　旅館　奥の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　旅館　奥の湯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町満願寺黒川6567 ｜ 【車】熊本ＩＣより約100分、日田ＩＣより約60分。湯布院ICより約70分。
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                       ★ 4.70 <span className="text-stone-400 text-xs">(149件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　旅館　山河
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　旅館　山河</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町 ｜ 阿蘇駅からバスで５０分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
                       ★ 4.59 <span className="text-stone-400 text-xs">(362件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　やまびこ旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　やまびこ旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町黒川6704 ｜ ＪＲ阿蘇駅より車で４０分。ＪＲ日田駅より車で６０分。バスは九州横断バスほか、福岡より直行バスも４往復ございます。　　
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒川温泉 旅館 奥の湯を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒川温泉 旅館 奥の湯を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoYabakeiKurokawaAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒川温泉 旅館 奥の湯の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒川温泉 旅館 奥の湯の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

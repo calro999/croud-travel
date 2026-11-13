@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              陶芸作家の一点ものの器でいただく目にも鮮やかな旬の日本料理
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">陶芸作家の一点ものの器でいただく目にも鮮やかな旬の日本料理</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               料理と器の調和を楽しむ日本の美意識。素朴ながら力強い焼き締めの器が、素材本来の旨味を引き立てます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              登り窯の煙突が立ち並ぶノスタルジックな窯元通りの散策と陶芸体験
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">登り窯の煙突が立ち並ぶノスタルジックな窯元通りの散策と陶芸体験</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               歴史ある工房を訪ねて作家と語り合い、自分だけのオリジナル器を作る体験プログラムも充実しています。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              里山の自然に抱かれた静かな温泉宿で心穏やかに過ごすおこもり時間
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">里山の自然に抱かれた静かな温泉宿で心穏やかに過ごすおこもり時間</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               都会の喧騒から離れたやきものの里。鳥のさえずりと澄んだ空気に包まれ、心豊かな休息が得られます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -334,9 +324,7 @@ export default function FurusatoUpgradedPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -388,9 +376,7 @@ export default function FurusatoUpgradedPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本六古窯の里を巡る陶芸美と作家の器で味わう名旅館×ふるさと納税厳選ガイド備前・信楽・丹波立杭」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

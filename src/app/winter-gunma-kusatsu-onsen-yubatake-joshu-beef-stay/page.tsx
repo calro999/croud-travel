@@ -298,10 +298,8 @@ export default function KusatsuOnsenWinterPage() {
             <Flame className="w-4 h-4 text-rose-400" />
             <span>11月・12月限定 日本三名泉の真骨頂 湯畑イルミネーションと極上上州牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月草津温泉の冬名湯と湯畑ライトアップ】<br className="hidden sm:inline" />
-            湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月草津温泉の冬名湯と湯畑ライトアップ】<br className="hidden sm:inline" />
+            湯畑の冬幻想イルミ・湯けむり露天と極上上州牛すき焼き・群馬地酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高1,200メートルの高地に広がる日本屈指の温泉天国。冬の澄んだ冷気に立ち昇る湯煙の柱、幻想的な湯畑イルミネーション、圧倒的な殺菌力と温まりを誇る酸性硫黄泉、とろける上州牛すき焼きを味わう冬の至高旅。
           </p>
@@ -327,9 +325,7 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kusatsu Onsen Winter Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本三名泉の頂点。冬の寒さこそが際立たせる、圧倒的な湧出量と酸性硫黄泉の奇跡
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本三名泉の頂点。冬の寒さこそが際立たせる、圧倒的な湧出量と酸性硫黄泉の奇跡</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kusatsu Springs Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                草津を極める「六大主要源泉」の泉質特性と湯巡りの極意
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">草津を極める「六大主要源泉」の泉質特性と湯巡りの極意</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,9 +407,7 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の草津温泉が旅行者を惹きつけてやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の草津温泉が旅行者を惹きつけてやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -453,9 +445,7 @@ export default function KusatsuOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】草津温泉の真髄を味わう厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】草津温泉の真髄を味わう厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、冬の郷土料理、露天風呂の眺望、宿泊者レビュー評価で選び抜いた5軒。
             </p>
@@ -492,11 +482,9 @@ export default function KusatsuOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-rose-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-rose-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -556,9 +544,7 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Joshu Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                冬の草津で味わう極上食。ブランド上州牛と群馬の郷土鍋文化
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の草津で味わう極上食。ブランド上州牛と群馬の郷土鍋文化</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -588,9 +574,7 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の草津温泉を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の草津温泉を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -644,26 +628,20 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・雪道ドライブ＆アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・雪道ドライブ＆アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                <span>気温とおすすめの服装ガイド</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                <span>気温とおすすめの服装ガイド</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 草津温泉は標高約1,200mに位置するため、平野部よりも7〜10℃気温が低くなります。11月は日中でも10℃前後、朝晩は氷点下に達します。12月は日中でも3℃程度、夜間はマイナス5℃以下まで冷え込みます。風を通さないダウンコート、ヒートテック等の保温インナー、手袋、ニット帽、マフラーを必ずご用意ください。また足元は雪や凍結で滑りやすくなるため、防滑ソールのブーツが必須です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-rose-700" />
-                <span>冬道ドライブと公共交通機関のポイント</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-rose-700" />
+                <span>冬道ドライブと公共交通機関のポイント</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 関越道「渋川伊香保IC」から国道353号・145号（八ッ場バイパス）・292号を経由して約80分。11月中旬以降は峠道や日陰を中心に路面凍結（ブラックアイスバーン）や積雪が発生するため、スタッドレスタイヤの装着が絶対に不可欠です。雪道運転に不安がある方は、JR吾妻線「長野原草津口駅」からJRバスを利用するか、東京・新宿・バスタ新宿から運行している直通高速バス「上州ゆめぐり号」の利用が安心かつ快適です。
               </p>
@@ -679,18 +657,14 @@ export default function KusatsuOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の草津温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の草津温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -703,9 +677,7 @@ export default function KusatsuOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Related Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい関東・甲信越の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい関東・甲信越の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色、温泉街のイルミネーション、旬の郷土グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

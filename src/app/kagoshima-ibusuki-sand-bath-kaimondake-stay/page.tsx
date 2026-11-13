@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             世界唯一・天然の蒸し風呂デトックス
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 天然砂むし温泉「砂楽」＆錦江湾オーシャンビュー露天・知林ヶ島砂州散歩
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 天然砂むし温泉「砂楽」＆錦江湾オーシャンビュー露天・知林ヶ島砂州散歩</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             海岸の砂浜から温泉が自噴する指宿特有の地熱を利用した「天然砂むし温泉」。専用の浴衣を着て砂の上に横たわると、砂かけさんが適温の温かい砂を全身にかけてくれます。心地よい砂の重みと約50度の熱により、わずか10〜15分で全身から大量の汗が噴き出し、老廃物が排出されます。指宿の温泉リゾートホテルでは、錦江湾と桜島・大隅半島を見渡す絶景オーシャンビュー露天風呂が満喫できます。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　いぶすき秀水園
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　いぶすき秀水園</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　こらんの湯　錦江楼
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　こらんの湯　錦江楼</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。
                       </p>
@@ -217,9 +210,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             標高九百二十四メートルの薩摩富士
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 薩摩富士「開聞岳」パノラマ・JR日本最南端「西大山駅」＆池田湖イッシー伝説
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 薩摩富士「開聞岳」パノラマ・JR日本最南端「西大山駅」＆池田湖イッシー伝説</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             薩摩半島の南端にすっくとそびえ立つ標高924mの秀峰「開聞岳」。見事な円錐形の山容から「薩摩富士」と称えられ、日本百名山にも選ばれています。JR日本最南端の駅「西大山駅」は、ホームから黄色い菜の花畑越しに開聞岳を望む絶景フォトスポット。駅前の「幸せを届ける黄色いポスト」から手紙を投函するのも人気。九州最大のカルデラ湖「池田湖」では大うなぎや幻の怪獣イッシー伝説に思いを馳せられます。
           </p>
@@ -244,8 +235,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -264,9 +254,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです
                       </p>
@@ -310,9 +298,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿砂むし温泉　指宿シーサイドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿砂むし温泉　指宿シーサイドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         錦江湾を目の前に望む海辺の絶好のロケーション！館内で名物砂むし温泉が楽しめる♪
                       </p>
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ローズマリーホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ローズマリーホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ハーブに囲まれた閑静な小さなお宿。手作りの家庭料理とアットホームなおもてなしでお出迎え。。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＨＯＴＥＬ　ＡＺ　鹿児島喜入店
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＨＯＴＥＬ　ＡＺ　鹿児島喜入店</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         全室禁煙、朝食無料、Wi-Fi無料、駐車場無料（大・中型車除く）ＪＲ指宿枕崎線　中名駅より徒歩５分。
                       </p>
@@ -446,9 +428,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             薩摩の小京都と至高の黒豚グルメ
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 薩摩の小京都「知覧武家屋敷庭園」＆特攻平和会館・本場かごしま黒豚会席
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 薩摩の小京都「知覧武家屋敷庭園」＆特攻平和会館・本場かごしま黒豚会席</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             江戸時代、薩摩藩の外城制度のもとで築かれた「知覧武家屋敷群」。約700mの通り沿いに整然と刈り込まれた茶垣や石垣が連なり、7つの庭園が国の名勝に指定されています。母ヶ岳を借景にした見事な枯山水庭園は薩摩の美意識の結晶。また第二次世界大戦末期の歴史を今に伝える「知覧特攻平和会館」は平和への祈りを深める地。夕食にはサツマイモを食べて育った本場「かごしま黒豚」のしゃぶしゃぶやとんかつが舌を唸らせます。
           </p>
@@ -473,8 +453,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿ロイヤルホテル　～すべての女性へ美と健康を楽しむホテル～</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         南九州鹿児島。薩摩半島最南端に位置するホテルからの海の眺めは最高！女性に喜ばれるホテルです
                       </p>
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　指宿フェニックスホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　指宿フェニックスホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★全室オーシャンビュー★名物砂蒸し温泉に貸切風呂も♪鹿児島特産を使ったお料理を味わう♪全館禁煙
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿砂むし温泉　指宿シーサイドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿砂むし温泉　指宿シーサイドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         錦江湾を目の前に望む海辺の絶好のロケーション！館内で名物砂むし温泉が楽しめる♪
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿温泉　休暇村　指宿
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿温泉　休暇村　指宿</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ～自然にときめくリゾート～砂むし温泉を愉しむ癒しの旅をどうぞ★
                       </p>
@@ -687,9 +658,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】指宿温泉 いぶすき秀水園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】指宿温泉 いぶすき秀水園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -722,9 +691,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と指宿温泉 いぶすき秀水園の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と指宿温泉 いぶすき秀水園の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

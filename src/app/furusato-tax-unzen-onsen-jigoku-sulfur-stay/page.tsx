@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            標高700mの雲上に広がる奇跡の白濁湯、異国情緒あふれるクラシックリゾート——雲仙温泉で味わう至高の湯治旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">標高700mの雲上に広がる奇跡の白濁湯、異国情緒あふれるクラシックリゾート——雲仙温泉で味わう至高の湯治旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             長崎県・島原半島の中央にそびえる雲仙岳の山懐、標高約700メートルの高地に広がる雲仙温泉。大地のエネルギーが白い湯煙とともに轟音を立てて噴き出す「雲仙地獄」を中心に、明治から昭和初期にかけて外国人の避暑地として栄えた異国情緒豊かな温泉リゾートです。酸性の強い濃厚な白濁硫黄泉は、殺菌効果と美肌効果に優れ、「一度浸かれば肌が生まれ変わる」と称される名湯として知られています。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             雲仙の魅力は温泉だけに留まりません。日本初の国立公園に指定された雄大な山岳風景、スイスの山岳ロッジを思わせるクラシックホテル建築、そして有明海と橘湾に囲まれた島原半島の豊かな山海の幸（長崎和牛、島原の手延べそうめん、新鮮な雲仙地魚）が旅人を魅了します。雲仙市へのふるさと納税を利用すれば、最高峰の伝統ホテルや隠れ家旅館に賢く宿泊でき、一生の思い出に残る上質な雲上ステイが実現します。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（雲仙温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（雲仙温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長崎県雲仙市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  雲仙温泉　雲仙宮崎旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">雲仙温泉　雲仙宮崎旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業九十有余年・全館リニューアルで生まれ変わった極上宿！雲仙地獄を望む絶景テラスと源泉かけ流し美肌湯
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  雲仙温泉 雲仙宮崎旅館 —— 地獄の息吹を間近に感じるパノラマビューと、四季の日本庭園に包まれるラグジュアリー
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">雲仙温泉 雲仙宮崎旅館 —— 地獄の息吹を間近に感じるパノラマビューと、四季の日本庭園に包まれるラグジュアリー</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地獄谷の湯煙と雄大な庭園を望む客室テラス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地獄谷の湯煙と雄大な庭園を望む客室テラス</h5>
                     <p className="text-stone-600 leading-relaxed">大改修を経て全室が広々としたテラス付き客室に一新。テラスの椅子に身を委ねれば、目の前に広がる雲仙地獄のダイナミックな噴気と澄んだ山の空気をプライベートに体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地獄から湧き出る濃厚な源泉かけ流し白濁硫黄泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地獄から湧き出る濃厚な源泉かけ流し白濁硫黄泉</h5>
                     <p className="text-stone-600 leading-relaxed">大浴場や露天風呂には、一切の加水・加温を行わない新鮮な硫黄泉が注がれます。乳白色の湯に身を浸すと、立ち上る硫黄の香りと絹のような肌触りが深い安らぎをもたらします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 長崎和牛と橘湾の鮮魚を堪能するプライベート会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">長崎和牛と橘湾の鮮魚を堪能するプライベート会席</h5>
                     <p className="text-stone-600 leading-relaxed">独立した個室ダイニングでいただく夕食。島原半島の新鮮な旬野菜、橘湾で獲れた地魚の造り、長崎和牛の炭火焼きなど、長崎の豊かな食文化を極上の仕立てで味わえます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長崎県雲仙市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  雲仙観光ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">雲仙観光ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   昭和十年創業・国登録有形文化財のクラシックホテル！手斧削りの梁が重なるスイス風山岳建築と伝統の本格フレンチ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  雲仙観光ホテル —— 日本の高原リゾートの原点。重厚な木造建築美とタイムレスな優雅さに浸る滞在
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">雲仙観光ホテル —— 日本の高原リゾートの原点。重厚な木造建築美とタイムレスな優雅さに浸る滞在</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 登録有形文化財に指定された美しい山岳建築
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">登録有形文化財に指定された美しい山岳建築</h5>
                     <p className="text-stone-600 leading-relaxed">外国人の避暑地として誕生した昭和10年当時の面影を今に伝える本館。手斧削りの重厚な丸太梁、アール・デコ調のステンドグラス、ビリヤード室や図書室など、まるで中世ヨーロッパの別荘に迷い込んだかのような空間です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> アール・デコ調のステンドグラス輝くドーム温泉浴室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">アール・デコ調のステンドグラス輝くドーム温泉浴室</h5>
                     <p className="text-stone-600 leading-relaxed">ホテル内の温泉浴室は、ドーム型の高い天井とステンドグラスが印象的なモダンレトロ空間。硫黄の香る良質な雲仙の源泉を、クラシックホテルの美学の中で堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 歴代シェフが守り継ぐ伝統の雲仙クラシックフレンチ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">歴代シェフが守り継ぐ伝統の雲仙クラシックフレンチ</h5>
                     <p className="text-stone-600 leading-relaxed">高い格天井が美しいメインダイニングで供されるディナーコース。地元の新鮮な食材を使い、伝統のフレンチ技法に現代の感性を重ねた至福のフルコースを味わえます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長崎県雲仙市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  雲仙温泉　民芸モダンの宿　雲仙福田屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">雲仙温泉　民芸モダンの宿　雲仙福田屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   民芸の温もりに包まれるハイセンスな温泉宿！露天風呂やパノラマサウナ、島原郷土鍋と長崎牛の饗宴
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  雲仙温泉 民芸モダンの宿 雲仙福田屋 —— 木と土の温かみを感じるモダン民芸空間と、多彩な湯巡りパラダイス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">雲仙温泉 民芸モダンの宿 雲仙福田屋 —— 木と土の温かみを感じるモダン民芸空間と、多彩な湯巡りパラダイス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 4つの内湯・露天風呂と2つの貸切風呂による湯巡り
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">4つの内湯・露天風呂と2つの貸切風呂による湯巡り</h5>
                     <p className="text-stone-600 leading-relaxed">自家源泉から引く濃厚な白濁湯。露天風呂「せせらぎの湯」や内湯「普賢の湯」、プライベートな貸切風呂など、館内だけで多彩な湯浴みを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ハイセンスな民芸モダンデザインと最新サウナ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ハイセンスな民芸モダンデザインと最新サウナ</h5>
                     <p className="text-stone-600 leading-relaxed">民芸家具と現代の快適性が融合した落ち着きある客室。近年新設されたパノラマサウナやリラクゼーションスペースも人気で、温泉とサウナの極上の「ととのい」を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名物「雲仙鍋」と長崎牛・島原旬素材の会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名物「雲仙鍋」と長崎牛・島原旬素材の会席</h5>
                     <p className="text-stone-600 leading-relaxed">島原半島の豊かな旬の幸をふんだんに盛り込んだ創作郷土会席。出汁の効いた特製鍋料理や長崎牛のステーキなど、滋味あふれる料理が旅の夜を華やかに彩ります。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            雲仙地獄めぐり＆島原半島観光ハイライトガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">雲仙地獄めぐり＆島原半島観光ハイライトガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 雲仙地獄の歩き方と名物「温泉卵」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 雲仙地獄の歩き方と名物「温泉卵」</h3>
               <p className="text-stone-700 text-sm leading-relaxed">大叫喚地獄、お糸地獄、清七地獄など、約30の地獄から湯煙が立ち上る雲仙地獄。遊歩道が整備されており、足元から伝わる大地の熱気を感じながら散策できます。地獄の蒸気で蒸し上げた名物の「温泉たまご」は、食べると1年長生きすると言われる人気の味覚です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 仁田峠循環道路と雲仙ロープウェイの絶景
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 仁田峠循環道路と雲仙ロープウェイの絶景</h3>
               <p className="text-stone-700 text-sm leading-relaxed">春のミヤマキリシマ、夏の深緑、秋の紅葉、冬の霧氷と、四季を通じて息をのむ絶景が広がる仁田峠。ロープウェイに乗って妙見岳山頂へ登れば、有明海や島原半島、遠く熊本の阿蘇連山まで見渡す大パノラマが広がります。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 島原城・武家屋敷と湧水群への立ち寄り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 島原城・武家屋敷と湧水群への立ち寄り</h3>
               <p className="text-stone-700 text-sm leading-relaxed">雲仙温泉から車で約30分の島原城下町。美しい石垣が残る武家屋敷街や、街のいたるところから清らかな名水が湧き出す「湧水庭園 四明荘」など、長崎の歴史と涼やかな水景色を楽しめる絶好の観光ルートです。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              長崎県雲仙市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">長崎県雲仙市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】雲仙温泉 雲仙宮崎旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】雲仙温泉 雲仙宮崎旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と雲仙温泉 雲仙宮崎旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と雲仙温泉 雲仙宮崎旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

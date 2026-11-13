@@ -266,10 +266,8 @@ export default function KyotoGionHigashiyamaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Kyoto Winter Solitude</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Landmark className="w-6 h-6 text-purple-500 shrink-0" />
-              静寂が魅せる本来の京都美！冬の祇園・東山散策の醍醐味
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Landmark className="w-6 h-6 text-purple-500 shrink-0" />
+              静寂が魅せる本来の京都美！冬の祇園・東山散策の醍醐味</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -328,9 +326,7 @@ export default function KyotoGionHigashiyamaWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Refined Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              祇園＆東山・清水寺周辺で冬を愉しむ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">祇園＆東山・清水寺周辺で冬を愉しむ名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
               楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の古都を雅に彩る至高の5軒を厳選しました。
             </p>
@@ -352,12 +348,10 @@ export default function KyotoGionHigashiyamaWinterPage() {
                           {h.access}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-purple-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-purple-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-purple-700 font-medium">{h.special}</p>
                     </div>
 
@@ -438,10 +432,8 @@ export default function KyotoGionHigashiyamaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Ancient Capital Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-purple-500 shrink-0" />
-              1泊2日！冬の八坂神社初詣＆雪の清水寺・祇園湯豆腐 雅モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-purple-500 shrink-0" />
+              1泊2日！冬の八坂神社初詣＆雪の清水寺・祇園湯豆腐 雅モデルコース</h2>
           </div>
 
           <div className="relative border-l-2 border-purple-200 ml-4 pl-6 space-y-8 my-4">
@@ -523,18 +515,14 @@ export default function KyotoGionHigashiyamaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-purple-500 shrink-0" />
-              冬の京都観光！「底冷え」対策と寺院拝観マナーの知恵
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-purple-500 shrink-0" />
+              冬の京都観光！「底冷え」対策と寺院拝観マナーの知恵</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Footprints className="w-5 h-5 text-purple-600" />
-                足元からの底冷え対策と脱ぎ履きしやすい靴
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Footprints className="w-5 h-5 text-purple-600" />
+                足元からの底冷え対策と脱ぎ履きしやすい靴</h3>
               <p className="leading-relaxed">
                 京都の冬の冷え込みは盆地特有で、足元からじわじわと芯に寒さが染み渡ります。特に清水寺や建仁寺、知恩院などの寺院本堂拝観では、靴を脱いで木造の板の間を歩くため、足裏が強烈に冷たくなります。
               </p>
@@ -544,10 +532,8 @@ export default function KyotoGionHigashiyamaWinterPage() {
             </div>
 
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Moon className="w-5 h-5 text-purple-600" />
-                早朝参拝の活用と市バス混雑回避
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Moon className="w-5 h-5 text-purple-600" />
+                早朝参拝の活用と市バス混雑回避</h3>
               <p className="leading-relaxed">
                 冬の東山は日中でも夏や秋ほど混雑しませんが、清水寺や八坂神社をゆったり参拝するなら「午前7時〜8時台の早朝散策」が圧倒的におすすめです。朝の澄んだ光と静寂は、昼間とは全く異なる神聖な美しさがあります。
               </p>
@@ -557,10 +543,8 @@ export default function KyotoGionHigashiyamaWinterPage() {
             </div>
 
             <div className="space-y-3 md:col-span-2 bg-slate-50 p-4 rounded-xl border border-slate-150">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-purple-600" />
-                夕暮れ〜夜の石畳と提灯明かり！冬の大人の夜散策マナー
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-purple-600" />
+                夕暮れ〜夜の石畳と提灯明かり！冬の大人の夜散策マナー</h3>
               <p className="leading-relaxed">
                 日が落ちた後の花見小路や祇園白川、ねねの道は、軒先の提灯や行灯が石畳にほの温かい光を落とし、京都屈指の情緒的な美しさを放ちます。冬は人通りが少なく静かに歩けるのが最大の魅力ですが、舞妓さん・芸妓さんへの撮影マナー（追いかけ撮影や無断撮影は禁止）や、私道での立ち入り禁止ルールは厳格に守りましょう。散策の合間に暖簾をくぐり、温かいお薄（抹茶）や甘酒、地酒を味わうのが冬の粋な過ごし方です。
               </p>
@@ -572,18 +556,14 @@ export default function KyotoGionHigashiyamaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-purple-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の京都・祇園＆東山・清水寺観光 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の京都・祇園＆東山・清水寺観光 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-purple-100 text-purple-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-purple-100 text-purple-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <div className="text-xs sm:text-sm text-slate-600 pl-6 leading-relaxed">
                   {item.a}
                 </div>
@@ -594,10 +574,8 @@ export default function KyotoGionHigashiyamaWinterPage() {
 
         {/* Section 6: 関連内部リンク */}
         <section className="bg-gradient-to-br from-slate-950 to-purple-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-purple-400" />
-            あわせて読みたい！冬の人気特集記事
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2"><Sparkles className="w-5 h-5 text-purple-400" />
+            あわせて読みたい！冬の人気特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-300">
             当サイトでは、全国の冬の絶景・歴史・温泉・美食を徹底取材したオリジナル特集を公開しています。冬の旅行計画にお役立てください。
           </p>

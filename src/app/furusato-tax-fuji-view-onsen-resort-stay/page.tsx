@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>湯けむりの向こうに聳える霊峰富士。圧倒的な絶景と名湯で至福の開運ステイ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>湯けむりの向こうに聳える霊峰富士。圧倒的な絶景と名湯で至福の開運ステイ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             朝日に赤く染まる紅富士、湖面に映り込む優美な逆さ富士、そして夕暮れのグラデーションに浮かび上がる黒富士。部屋のバルコニーや湯船から望む富士山の雄姿は、日本人に生まれた喜びを再確認させてくれます。楽天ふるさと納税を活用すれば、プレミアムな富士山ビュールームや展望露天風呂付き客室も最大30%割引で贅沢に予約可能です。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    客室露天風呂やテラスから遮るもののない富士山パノラマ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">客室露天風呂やテラスから遮るもののない富士山パノラマ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     視界一面に広がる霊峰富士と湖の大パノラマ。プライベート空間で誰にも邪魔されず、刻一刻と表情を変える富士の絶景を独り占めできます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    山梨・静岡の甲州牛や駿河湾鮮魚を味わう豪華ディナー
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">山梨・静岡の甲州牛や駿河湾鮮魚を味わう豪華ディナー</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     豊かな湧水で育まれた甲州牛のステーキ、富士桜ポーク、山中湖のワカサギ、駿河湾の由比桜えびなど、富士山麓の恵みを活かした極上料理に舌鼓。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税返礼クーポンで高額な富士山ビュースイートも大幅値引き
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税返礼クーポンで高額な富士山ビュースイートも大幅値引き</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     通年で人気の高い富士山絶景宿も、自治体への寄付枠を活用して自己負担実質2,000円で宿泊可能。記念日や長寿祝いにも最高の選択肢です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="kawaguchiko_fuji" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県富士河口湖町ふるさと納税：河口湖温泉・湖面に映る逆さ富士と天然温泉露天風呂</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県富士河口湖町ふるさと納税：河口湖温泉・湖面に映る逆さ富士と天然温泉露天風呂</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       河口湖畔に佇む名宿群。展望大浴場や露天風呂から真正面に富士山を望み、天気の良い朝には湖面に美しい逆さ富士が現れます。湯上がりにワインを傾けながら眺める夕景も格別です。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              富士河口湖温泉　富士山の見える温泉旅館　大池ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               山梨 富士山 河口湖 露天風呂 温泉 バイキング ブッフェ 温泉　貸切露天風呂
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              河口湖温泉　山岸旅館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">河口湖温泉　山岸旅館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               河口湖駅から徒歩７分好立地の宿。遊覧船やロープウエイは目の前。富士急ハイランドは車で１０分。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              山梨県の温泉旅館　下部温泉郷　下部ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">山梨県の温泉旅館　下部温泉郷　下部ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               泉質の異なる「三種類の源泉」を、七つの露天風呂を含む大浴場など「十二の湯舟」でご堪能いただけます
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="yamanakako_fuji" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県山中湖村ふるさと納税：山中湖・標高1,000mの高原から仰ぐダイナミックな紅富士</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県山中湖村ふるさと納税：山中湖・標高1,000mの高原から仰ぐダイナミックな紅富士</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       富士五湖の中で最も富士山に近い山中湖。冬の夕暮れに山頂が輝くダイヤモンド富士や、朝焼けに染まる紅富士を間近に体感できる高原リゾートステイが満喫できます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">Ｇｏｄｅｒｅ　ｈｏｔｅｌ　富士山中湖　Ｔａｂｉｓｔ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ワンちゃんと泊まれるグランピングドームあり！富士山を眺めながら楽しむ絶景BBQが自慢
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              庭園と感動の宿　富士山温泉　ホテル鐘山苑
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               富士山の見える絶景露天風呂！【２０２４年プロが選んだ旅館１００選・全国総合８位】
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              山中湖旭日丘温泉　ホテル清渓
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">山中湖旭日丘温泉　ホテル清渓</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               全室温泉＆大浴場完備！夕食はドリンク飲み放題付き。富士GCまで車で約4分！
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="nihondaira_fuji" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県静岡市ふるさと納税：日本平ホテル・富士山と駿河湾・清水港夜景のパノラマ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県静岡市ふるさと納税：日本平ホテル・富士山と駿河湾・清水港夜景のパノラマ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       「日本観光地百選」第1位の景勝地・日本平山頂に建つ美術館のようなホテル。全面ガラス張りのロビーや客室から、富士山と三保松原、駿河湾、きらめく清水港夜景が一枚の絵画のように広がります。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              日本平ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">日本平ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日本平が日本夜景遺産に認定★三保の松原を眼下に富士山を望む絶景を堪能
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルグランヒルズ静岡（ＢＢＨホテルグループ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルグランヒルズ静岡（ＢＢＨホテルグループ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               静岡駅南口徒歩1分、デッキ直結の好立地。全室18階以上の眺望と夜景が魅力のランドマークホテル
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルルートイン清水インター
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルルートイン清水インター</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               独立型デスクとソファで機能的な客室■人工温泉大浴場・ランドリー完備■朝食バイキング・駐車場無料
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士河口湖温泉 富士山の見える温泉旅館 大池ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士河口湖温泉 富士山の見える温泉旅館 大池ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

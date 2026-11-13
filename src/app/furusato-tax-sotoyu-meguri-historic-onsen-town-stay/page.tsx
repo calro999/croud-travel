@@ -108,9 +108,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  宿泊者特典で無料湯めぐり！趣の異なる複数の共同浴場を制覇する至福の達成感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">宿泊者特典で無料湯めぐり！趣の異なる複数の共同浴場を制覇する至福の達成感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 城崎の「デジタル外湯券（ゆめぱ）」や渋温泉の「宿泊者専用・九湯巡りの鍵」など、提携宿に宿泊することで街中の名湯共同浴場を自由に巡ることが可能。泉質や温度、浴室の造りが異なる湯船をハシゴする極上の湯浴みが楽しめます。
@@ -123,9 +121,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  選べる色浴衣と下駄で街歩き！射的やスマートボール、足湯、温泉卵作り体験
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">選べる色浴衣と下駄で街歩き！射的やスマートボール、足湯、温泉卵作り体験</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 夕暮れから夜にかけてライトアップされる情緒豊かな温泉街。レトロな遊技場で射的に興じたり、湯気の上がる温泉街のカフェで湯上がりプリンを味わったり、源泉で熱々の温泉卵を作ったりと、街歩きそのものが最高のエンターテインメントです。
@@ -138,9 +134,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  但馬牛、信州サーモン、信州牛！歩いて温まった身体を満たす極上の郷土会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">但馬牛、信州サーモン、信州牛！歩いて温まった身体を満たす極上の郷土会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 外湯巡りで心地よくお腹を空かせた後は、宿に戻って贅沢な夕餉。地元漁港直送の新鮮な魚介やブランド牛、山菜やきのこなど、土地の風土に根ざした料理長渾身の会席料理が待っています。
@@ -183,9 +177,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県豊岡市・志賀直哉ゆかりの国登録有形文化財！創業三百年と三千坪の日本庭園
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    城崎温泉　登録有形文化財の宿　三木屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">城崎温泉　登録有形文化財の宿　三木屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     文豪・志賀直哉が逗留し『城の崎にて』を執筆したことで知られる、創業三百年の歴史を誇る国の登録有形文化財の宿。三千坪の壮大な日本庭園を囲むように建つ木造の館内は、古き良き数寄屋の趣と現代のモダンな快適性が美しく調和しています。宿泊者は城崎名物の七つの外湯（さとの湯・一の湯・御所の湯・まんだら湯・地蔵湯・鴻の湯・柳湯）に何度でも入れる外湯パスを利用可能。夕食には本場・但馬牛や日本海の海の幸、冬には極上の松葉蟹を堪能できる、城崎温泉を代表する最高峰の名門旅館です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県野沢温泉村・国の天然記念物「麻釜」至近！十三箇所の外湯めぐりと自家源泉かけ流し
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    野沢温泉　村のホテル　住吉屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">野沢温泉　村のホテル　住吉屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     国の天然記念物に指定される名所「麻釜（おがま）」のすぐ隣に位置し、明治２年創業の歴史を紡ぐ野沢温泉屈指の老舗温泉宿。村内に点在する13箇所の外湯（大湯・真湯・熊の手洗湯など）への湯めぐり拠点として最高の立地を誇り、宿自慢の内湯には麻釜熱湯源泉が自然湧出で掛け流されています。信州の民芸美が薫る落ち着いた客室、地元契約農家の野沢菜や信州サーモン、みゆき豚を取り入れた滋味あふれる田舎会席料理が評判で、本物の温泉文化と温かな村のぬくもりに包まれる旅が叶います。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県山ノ内町・国の登録有形文化財「斉月楼」！九湯めぐりの結願と宮大工建築の極み
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    渋温泉　歴史の宿　金具屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">渋温泉　歴史の宿　金具屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     映画『千と千尋の神隠し』の湯屋を彷彿とさせる木造四階建ての「斉月楼」と大広間が国の登録有形文化財に指定されている、渋温泉の象徴的名旅館。宿泊客のみに手渡される専用の鍵を持ち、厄除け・不老長寿を祈願する「厄除巡浴九湯めぐり」を満喫できます。館内にも昭和初期の宮大工が腕を競った「浪漫風呂」をはじめとする４つの自家源泉と８つの風呂があり、館内だけでも贅沢な湯巡りが完結。夜のライトアップされた壮麗な木造建築を眺めながら、タイムスリップしたかのような歴史ステイをご堪能いただけます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 登録有形文化財の宿 三木屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 登録有形文化財の宿 三木屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoSotoyuMeguriTownStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 登録有形文化財の宿 三木屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 登録有形文化財の宿 三木屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

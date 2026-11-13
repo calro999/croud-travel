@@ -108,9 +108,7 @@ export default function FurusatoFireflyViewingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  限られた初夏のわずかな期間だけ！大自然の清流が残る地域でのみ出逢える奇跡の光景
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">限られた初夏のわずかな期間だけ！大自然の清流が残る地域でのみ出逢える奇跡の光景</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 農薬や生活排水のない美しい清流と苔むした岩場でのみ命を繋ぐホタル。手が届きそうなほど近くをふわりと漂う淡い黄緑色の光は、人工のイルミネーションとは全く異なる神秘的な温もりで心を癒やしてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoFireflyViewingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  宿主催のホタル観賞ナイトツアーや無料送迎で、穴場の鑑賞スポットへ安全にご案内
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">宿主催のホタル観賞ナイトツアーや無料送迎で、穴場の鑑賞スポットへ安全にご案内</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ホタルが見頃を迎える時期には、宿スタッフが熟知する秘密の群生地への送迎バスやガイド付きナイトツアーが実施されることも。暗い夜道でも安心して最高の観賞ポイントで幻想的な夕べを体験できます。
@@ -138,9 +134,7 @@ export default function FurusatoFireflyViewingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  川のせせらぎを聴きながら入る露天風呂と、初夏の味覚「若鮎・山菜」の美味会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">川のせせらぎを聴きながら入る露天風呂と、初夏の味覚「若鮎・山菜」の美味会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ホタル観賞の余韻に浸りながら夜風が心地よい露天風呂で身体を温め、夕食には清流で育った初夏の香魚「若鮎の塩焼き」や地元の採れたて山菜、初夏の涼やかな会席料理に舌鼓を打つ至福のひとときが待っています。
@@ -183,9 +177,7 @@ export default function FurusatoFireflyViewingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県菊池市・名水菊池渓谷の清流と目の前の川辺に舞うホタル！化粧水のような美肌温泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    菊池温泉　木立ちの中の宿　清流荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">菊池温泉　木立ちの中の宿　清流荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     名水百選・菊池渓谷の豊かな水に育まれた熊本の奥座敷・菊池温泉に佇む、緑の木立に囲まれた静かな温泉旅館。宿のすぐ脇を流れる清流沿いには初夏になると自生するゲンジボタルが飛び交い、夜の散策で息をのむ幻想的な光の乱舞に出逢えます。菊池温泉名物の「日本の名湯百選」にも選ばれるアルカリ性単純温泉は、まるで化粧水に浸かっているかのようなトロトロの肌触りで美肌効果抜群。熊本名物の馬刺しや肥後あか牛、菊池の清流米を使った彩り豊かな郷土会席とともに、心温まる九州の温泉情緒に浸れます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFireflyViewingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県豊岡市・神鍋高原の清らかな大自然！清流ホタルの夕べと北欧風高原温泉リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">神鍋温泉　自然に癒される高原ホテル　ブルーリッジホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     神鍋高原の豊かな森と澄んだ空気に包まれた、北欧の山岳ロッジを思わせる洗練された高原リゾートホテル。初夏にはホテルの周辺を流れる稲石川などの清流沿いでホタルが舞い、澄み切った満天の星空とともに大自然の美しい夜を体験できます。敷地内から湧出する神鍋温泉「ブルーリッジの湯」は筋肉疲労や冷え性に効能豊かな天然温泉で、開放的な露天風呂やサウナを完備。但馬牛のグリルステーキや地元契約農家の高原野菜を贅沢に取り入れたフレンチやバイキングディナーも大好評です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFireflyViewingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県湯河原町・千歳川のせせらぎと万葉公園ほたるの宴に近い大人の隠れ家名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    湯河原温泉　万葉の里　白雲荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">湯河原温泉　万葉の里　白雲荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     文豪たちに愛された名湯・湯河原温泉を流れる千歳川の清流沿いに佇む、全17室の落ち着きある大人の隠れ家旅館。毎年6月上旬に開催される風物詩「万葉公園 ほたるの宴」会場へのアクセスも良く、竹林のライトアップとともに飛び交うホタルの幽玄な世界を満喫できます。客室露天風呂や貸切風呂、広々とした大浴場で弱アルカリ性の柔らかな湯河原の名湯に浸かり、相模湾の獲れたて地魚や厳選された黒毛和牛を使った職人技が光る月替わり会席を心ゆくまでご堪能いただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoFireflyViewingStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】菊池温泉 木立ちの中の宿 清流荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】菊池温泉 木立ちの中の宿 清流荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoFireflyViewingStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と菊池温泉 木立ちの中の宿 清流荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と菊池温泉 木立ちの中の宿 清流荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

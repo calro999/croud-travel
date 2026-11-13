@@ -104,19 +104,15 @@ export default function Page() {
             <span className="text-xs font-bold text-amber-800 bg-amber-100 px-3 py-1 rounded-full uppercase tracking-wider">
               STRATEGY GUIDE
             </span>
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">
-              高騰するリフト券・宿泊代金をカバー！世界水準のパウダースノーと雪見温泉へ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">高騰するリフト券・宿泊代金をカバー！世界水準のパウダースノーと雪見温泉へ</h2>
           </div>
           <div className="space-y-6">
             
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：冬のスキー旅行総額をふるさと納税で一気に圧縮</span>
-            </h3>
+              <span>ポイント①：冬のスキー旅行総額をふるさと納税で一気に圧縮</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               宿泊費だけでなく、リフト券付きプランやスキー用具レンタル代が含まれたプランを選べば、旅行全体の費用に対して30％のクーポン割引が適用されます。浮いた予算で美味しいゲレ食や夜の地酒を贅沢に楽しめます。
             </p>
@@ -124,12 +120,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 2
               </span>
-              <span>ポイント②：滑り疲れたら即ベッド＆温泉！「ゲレンデ直結」の圧倒的快適さ</span>
-            </h3>
+              <span>ポイント②：滑り疲れたら即ベッド＆温泉！「ゲレンデ直結」の圧倒的快適さ</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               重い板やブーツを持ってシャトルバスを待つストレスから完全解放。ホテルのスキーロッカーからそのままコースへ滑り出し、疲れたら部屋に戻って休憩、夕方は雪見露天風呂へ直行できる夢のようなスノーライフが実現します。
             </p>
@@ -137,12 +131,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：万が一の雪不足でも「3年有効」だから別シーズン・別日程に振替可能</span>
-            </h3>
+              <span>ポイント③：万が一の雪不足でも「3年有効」だから別シーズン・別日程に振替可能</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               自然相手のスノースポーツでは暖冬や雪不足が心配ですが、ふるさと納税クーポンは3年間の有効期間があります。もし今シーズンに滑りに行けなくなっても、来年や再来年の冬にそのまま使えるため無駄になりません。
             </p>
@@ -160,9 +152,7 @@ export default function Page() {
               北海道倶知安町・世界が憧れるJAPOWの聖地
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            倶知安町・ニセコ町ふるさと納税で泊まる、極上パウダースノー直結プレミアムホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">倶知安町・ニセコ町ふるさと納税で泊まる、極上パウダースノー直結プレミアムホテル</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             「JAPOW（ジャパン・パウダー）」として世界中のスキーヤーから絶賛される北海道ニセコエリア。アンヌプリの裾野に広がる広大なゲレンデと、息を呑むほど軽いディープパウダーは世界屈指のクオリティです。倶知安町やニセコ町のふるさと納税トラベルクーポンを使えば、グラン・ヒラフや花園リゾート直結のラグジュアリーホテルをお得に予約可能。羊蹄山を望むインフィニティ温泉で筋肉をほぐし、北海道産食材を使った国際色豊かなディナーに酔いしれる世界水準のスノーステイが叶います。
           </p>
@@ -192,9 +182,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -246,9 +234,7 @@ export default function Page() {
               長野県白馬村・北アルプスの名峰パノラマ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            白馬村ふるさと納税で泊まる、白馬八方尾根ゲレンデサイド温泉リゾート
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">白馬村ふるさと納税で泊まる、白馬八方尾根ゲレンデサイド温泉リゾート</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             長野冬季オリンピックの舞台となった白馬八方尾根をはじめ、個性豊かな10のスキー場が集まるスノーリゾート白馬村。標高差1,000mを超えるロングクルージングと、北アルプス白馬連峰の息を呑む大パノラマが滑り手を迎えます。白馬村のふるさと納税クーポンを活用すれば、ゲレンデまで徒歩0分のスキーイン・スキーアウトホテルや、日本屈指の強アルカリ性美肌温泉「白馬八方温泉」を引く山岳リゾートにスマートに滞在。信州牛や地元野菜を味わいながら冬の山岳美を堪能できます。
           </p>
@@ -278,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -332,9 +316,7 @@ export default function Page() {
               新潟県湯沢町・新幹線直結のスノーパラダイス
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            湯沢町ふるさと納税で泊まる、越後湯沢駅周辺＆ファミリーゲレンデ直結温泉ホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">湯沢町ふるさと納税で泊まる、越後湯沢駅周辺＆ファミリーゲレンデ直結温泉ホテル</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             東京駅から上越新幹線で最速70分という最高のアクセビリティを誇る新潟県湯沢町。湯沢高原、GALA湯沢、苗場、神立など初心者から上級者、ファミリーまで楽しめるスノーパークが密集しています。湯沢町のふるさと納税クーポンを使えば、駅直結型ホテルやゲレンデ併設の大規模温泉リゾートホテルをお得にリザーブ。滑った後は川端康成の「雪国」の舞台となった名湯・越後湯沢温泉の広い大浴場で寛ぎ、名物の魚沼産コシヒカリと新潟の地酒を心ゆくまで味わえます。
           </p>
@@ -364,9 +346,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -418,30 +398,24 @@ export default function Page() {
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>リフト券付き宿泊パックでもふるさと納税クーポンは適用されますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>リフト券付き宿泊パックでもふるさと納税クーポンは適用されますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 はい、楽天トラベル上で「リフト券付き」「レンタル付き」として販売されている宿泊プランであれば、総額に対してふるさと納税クーポンが適用されます。個別にリフト券を買うよりも大幅にお得になります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>スキー用具の事前配送や乾燥室の利用は可能ですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>スキー用具の事前配送や乾燥室の利用は可能ですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 ゲレンデ直結ホテルの多くは、宅急便での事前荷物預かりサービスや、宿泊者専用のスキーロッカー・チューンナップルームを完備しています。手ぶらで新幹線に乗り、宿に到着したらすぐに滑り出すことができます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>春スキーの時期（3月・4月）でもクーポンは使えますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>春スキーの時期（3月・4月）でもクーポンは使えますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 もちろん利用可能です。ニセコや白馬、越後湯沢の標高の高いスキー場はゴールデンウィーク頃までロングラン営業を行っており、春の暖かな日差しの中で滑走する春スキー旅行にもクーポンをフル活用できます。
               </p>
@@ -471,9 +445,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 スキーと合わせて楽しみたい白馬・裏磐梯の本格サウナ宿。大自然の外気浴で究極の「ととのい」体験。
               </p>
@@ -490,9 +462,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【車なし・雪道運転不要】新幹線駅直結＆駅徒歩圏内の名湯温泉旅館</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 雪道の車の運転が不安な方に！新幹線直結の越後湯沢など、ノーマルタイヤでも行ける駅近名湯特集。
               </p>
@@ -509,9 +479,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【予約済みでも間に合う】「あとから割引」完全攻略ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【予約済みでも間に合う】「あとから割引」完全攻略ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 ハイシーズンのスキー宿をすでに予約していても大丈夫！チェックイン前日までにクーポンを適用する方法。
               </p>
@@ -541,9 +509,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ニセコノーザンリゾート・アンヌプリを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ニセコノーザンリゾート・アンヌプリを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -576,9 +542,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とニセコノーザンリゾート・アンヌプリの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とニセコノーザンリゾート・アンヌプリの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

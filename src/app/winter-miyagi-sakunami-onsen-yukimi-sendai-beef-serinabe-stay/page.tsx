@@ -269,9 +269,7 @@ export default function MiyagiSakunamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Sendai Okuzashiki & Winter Serinabe</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                広瀬川の雪渓と湯けむり旅情｜11月・12月に作並温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">広瀬川の雪渓と湯けむり旅情｜11月・12月に作並温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function MiyagiSakunamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Sendai Okuzashiki Terroir & Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                奥羽山脈の伏流水が生んだ美肌泉と仙台セリ・A5仙台牛の品質基準
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">奥羽山脈の伏流水が生んだ美肌泉と仙台セリ・A5仙台牛の品質基準</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +343,7 @@ export default function MiyagiSakunamiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Selected Luxury & Heritage Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月の作並温泉＆仙台奥座敷を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月の作並温泉＆仙台奥座敷を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               極上A5仙台牛ステーキと名物仙台せり鍋、広瀬川渓谷を望む雪見露天風呂を誇る、楽天トラベル高評価の特選宿をご紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function MiyagiSakunamiWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="text-right">
                         <span className="text-xs text-slate-500 block">参考宿泊料金（2名1室時1名）</span>
                         <span className="text-xl font-extrabold text-rose-800">{hotel.price}</span>
@@ -463,9 +455,7 @@ export default function MiyagiSakunamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】仙台奥座敷の雪見露天と仙台せり鍋を極める1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】仙台奥座敷の雪見露天と仙台せり鍋を極める1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -494,31 +484,23 @@ export default function MiyagiSakunamiWinterFeature() {
         <section className="bg-gradient-to-br from-rose-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md">
           <div className="flex items-center gap-3 pb-3 border-b border-rose-800">
             <Compass className="w-6 h-6 text-rose-400" />
-            <h2 className="text-xl sm:text-2xl font-bold">
-              11月・12月の作並温泉旅行を満喫する実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">11月・12月の作並温泉旅行を満喫する実践ガイド</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-rose-300 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4" /> 気候・冬用タイヤの準備
-              </h3>
+              <h3 className="font-bold text-rose-300 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4" /> 気候・冬用タイヤの準備</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 奥羽山脈の麓に位置するため仙台中心部より冷え込みます。11月下旬以降は降雪や夜間早朝の路面凍結があるため、マイカーやレンタカーはスタッドレスタイヤ必須です。防寒コートやマフラーも忘れずに。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-rose-300 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4" /> 宮城峡蒸溜所と定義如来
-              </h3>
+              <h3 className="font-bold text-rose-300 flex items-center gap-1.5"><Footprints className="w-4 h-4" /> 宮城峡蒸溜所と定義如来</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 ニッカウヰスキー宮城峡蒸溜所は作並駅から車で約5分。赤レンガの蒸溜棟と雪景色が美しく見学と試飲が楽しめます。また定義如来の揚げたて「三角油あげ」も初冬のドライブ立ち寄りに絶好です。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-rose-300 flex items-center gap-1.5">
-                <Utensils className="w-4 h-4" /> 根セリとA5仙台牛の旬
-              </h3>
+              <h3 className="font-bold text-rose-300 flex items-center gap-1.5"><Utensils className="w-4 h-4" /> 根セリとA5仙台牛の旬</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 11月〜12月は名物「仙台せり鍋」の最も美味しいシーズン。シャキシャキとした根っこの甘みが絶品です。A5ランク仙台牛のステーキやすき焼きとともに地酒と楽しむプランが一番人気です。
               </p>
@@ -534,18 +516,14 @@ export default function MiyagiSakunamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の作並温泉・仙台奥座敷旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の作並温泉・仙台奥座敷旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-rose-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -558,9 +536,7 @@ export default function MiyagiSakunamiWinterFeature() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-rose-100">
             <Compass className="w-6 h-6 text-rose-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の温泉・美食旅行特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の温泉・美食旅行特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -568,9 +544,7 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・秋保</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">
-                秋保温泉の初冬磊々峡雪景色と仙台牛・せり鍋会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">秋保温泉の初冬磊々峡雪景色と仙台牛・せり鍋会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 名取川の渓谷美と名門宿の至福の温泉で温まる仙台の休日。
               </p>
@@ -580,9 +554,7 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">宮城・松島</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">
-                松島温泉の初冬松島湾絶景と名物松島牡蠣・三陸海鮮宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">松島温泉の初冬松島湾絶景と名物松島牡蠣・三陸海鮮宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 日本三景・松島湾の絶景露天風呂とぷりぷりの冬牡蠣を堪能。
               </p>
@@ -592,9 +564,7 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・赤湯</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">
-                赤湯温泉の初冬ワイナリー巡りと米沢牛すき焼き宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">赤湯温泉の初冬ワイナリー巡りと米沢牛すき焼き宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 置賜盆地の名湯と極上の米沢牛、地ワインを味わう文化旅。
               </p>
@@ -604,9 +574,7 @@ export default function MiyagiSakunamiWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-rose-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-700 bg-rose-100/60 px-2 py-0.5 rounded-full inline-block">山形・銀山</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">
-                銀山温泉の大正ロマン初冬ガス灯雪景色と尾花沢牛宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-rose-800 transition line-clamp-2">銀山温泉の大正ロマン初冬ガス灯雪景色と尾花沢牛宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 銀世界にガス灯が灯る奇跡の温泉街と雪見露天風呂の風情。
               </p>

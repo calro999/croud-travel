@@ -55,9 +55,7 @@ export default function MatsuyamaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            道後温泉は「外湯めぐり」と「街中コスパホテル」の組み合わせがお得
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">道後温泉は「外湯めぐり」と「街中コスパホテル」の組み合わせがお得</h2>
           <p className="mb-4 text-stone-700">
             日本三古湯の一つ・道後温泉の最大の醍醐味は、重要文化財「道後温泉本館」、飛鳥時代の建築様式を取り入れた「飛鳥乃湯泉（あすかのゆ）」、地元民に愛される「椿の湯」の3大外湯めぐりです。
           </p>
@@ -69,10 +67,8 @@ export default function MatsuyamaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！松山・道後温泉の格安・コスパ宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！松山・道後温泉の格安・コスパ宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.43</span>
                     <span className="text-stone-400 text-xs">(2291件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ダイワロイネットホテル松山
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ダイワロイネットホテル松山</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山市駅・道後温泉駅 / 市内路面電車「大街道駅」より徒歩約1分の駅ちかホテル。松山空港からリムジンバス（約30分）大街道下車、徒歩約1分
                   </p>
@@ -142,9 +136,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.03</span>
                     <span className="text-stone-400 text-xs">(1721件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    道後温泉　にぎたつ会館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">道後温泉　にぎたつ会館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 道後温泉 / ＪＲ松山駅より路面電車２０分→道後温泉駅下車→徒歩５分 伊佐爾波神社の右手
                   </p>
@@ -189,9 +181,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.58</span>
                     <span className="text-stone-400 text-xs">(797件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    サウナ＆スパホテル　喜助の宿　松山駅前店
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">サウナ＆スパホテル　喜助の宿　松山駅前店</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山（愛媛） / ＪＲ　松山駅より徒歩約３分
                   </p>
@@ -236,9 +226,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.4</span>
                     <span className="text-stone-400 text-xs">(2017件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    道後温泉　ホテルパティオ・ドウゴ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">道後温泉　ホテルパティオ・ドウゴ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山空港 / 先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。
                   </p>
@@ -283,9 +271,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.49</span>
                     <span className="text-stone-400 text-xs">(1121件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">レフ松山市駅　ｂｙ　ベッセルホテルズ｜ＲＥＦ松山市駅｜サウナ付大浴場（松山市駅隣接）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松山市 / 伊予鉄「松山市駅」から徒歩1分■松山空港から約24分 ■松山自動車道松山ICから車で約15分■松山港から約26分
                   </p>
@@ -330,9 +316,7 @@ export default function MatsuyamaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の松山・道後温泉×格安：松山城の紅葉と最古の名湯外湯めぐり！1泊4,000円台〜のコスパ最強おすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function MatsuyamaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の松山・道後温泉×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の松山・道後温泉×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

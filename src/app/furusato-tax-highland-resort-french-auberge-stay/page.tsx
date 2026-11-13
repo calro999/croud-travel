@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>避暑地の澄み渡る森の静寂の中で、土地の滋味を凝縮した至高のフレンチを</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>避暑地の澄み渡る森の静寂の中で、土地の滋味を凝縮した至高のフレンチを</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             標高1,000mの高原に広がる白樺の林、小鳥のさえずりと涼やかなそよ風。日常を離れた高原リゾートやオーベルジュでは、地元農家が丹精込めた高原野菜やブランド黒毛和牛、清流のイワナなどを一流シェフが鮮やかなフレンチに昇華させます。楽天ふるさと納税クーポンを活用して、五感を潤す贅沢な高原バカンスへ出かけましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    宿泊者だけが味わえる地産地消のプレミアムフレンチフルコース
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">宿泊者だけが味わえる地産地消のプレミアムフレンチフルコース</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     採れたてアスパラやハーブ、とろける那須牛や甲州ワインビーフなど、高原ならではの力強い食材を生かした芸術的なディナーをソムリエ厳選ワインとともに。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    森のマイナスイオンに抱かれる露天風呂と暖炉ラウンジ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">森のマイナスイオンに抱かれる露天風呂と暖炉ラウンジ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     樹々のざわめきを聴きながら入る天然温泉露天風呂や、夜に薪がパチパチとはぜる暖炉の前で過ごす読書タイム。心身の緊張が自然とほどけていきます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    カップル記念日や女子旅、大人のひとり旅にも最適な贅沢プラン
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">カップル記念日や女子旅、大人のひとり旅にも最適な贅沢プラン</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     静けさを重視した隠れ家オーベルジュが多く、大切な記念日やご褒美ステイに最適。返礼クーポンでハイグレードな客室もお得に手配可能です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="nasu_auberge" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>栃木県那須町ふるさと納税：那須高原・ロイヤルリゾートの森に佇むフレンチオーベルジュ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>栃木県那須町ふるさと納税：那須高原・ロイヤルリゾートの森に佇むフレンチオーベルジュ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       御用邸の地として知られる那須高原。澄んだ空気と豊かな土壌で育った有機野菜や那須黒毛和牛を主役に据えた本格フレンチと、那須の名湯・美肌温泉に包まれる上質な休日を約束します。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              フォートリート＋那須高原
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">フォートリート＋那須高原</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               那須高原の絶景に癒される大人の高原リゾート旅。鹿の湯源泉の白濁硫黄泉で心ほどけるひとときを。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              那須高原の貸し切り温泉　ペンション　タム！（TAM！）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">那須高原の貸し切り温泉　ペンション　タム！（TAM！）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ペンションタムは楽しさいっぱいの宿です！
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              那須温泉　ホテルエピナール那須
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">那須温泉　ホテルエピナール那須</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               地元の旬菜にこだわる食事＆施設充実のトップリゾート
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kiyosato_auberge" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県北杜市ふるさと納税：八ヶ岳清里高原・自家菜園野菜と八ヶ岳ブルーを愛でる美食宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県北杜市ふるさと納税：八ヶ岳清里高原・自家菜園野菜と八ヶ岳ブルーを愛でる美食宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       南アルプスと富士山を望む清里高原。シェフ自らが毎朝収穫する無農薬ハーブと高原野菜、ジビエや甲州地鶏を使った独創的なキュイジーヌを星空の下で堪能できます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              清里高原リゾート（旧：清里高原ホテル）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">清里高原リゾート（旧：清里高原ホテル）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">（金）リニューアルオープン ―天空の青音リトリート‐Calm Blue―
                             </p>
                             <p className="text-xs text-slate-500 flex items-center gap-1">
@@ -472,9 +447,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              １０００Ｍのおもてなし　八ヶ岳　ホテル風か
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">１０００Ｍのおもてなし　八ヶ岳　ホテル風か</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               「オールインクルーシブ」ご夕食時約50種&amp;バータイム約80種のフリードリンク
                             </p>
@@ -509,10 +482,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="urabandai_auberge" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>福島県北塩原村ふるさと納税：裏磐梯高原・桧原湖と五色沼の神秘の自然に寄り添うクラシックリゾート</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>福島県北塩原村ふるさと納税：裏磐梯高原・桧原湖と五色沼の神秘の自然に寄り添うクラシックリゾート</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       磐梯山の雄姿とエメラルドグリーンに輝く五色沼が広がる裏磐梯。湖畔の静寂に包まれたホテルで、クラシックなフレンチディナーと源泉かけ流しの露天風呂で心洗われるひとときを。
                     </p>
@@ -540,9 +510,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              裏磐梯高原ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯高原ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               標高800ｍの裏磐梯高原。豊かな大自然に囲まれた、四季の移ろい感じる湖畔のリゾートホテルへようこそ！
                             </p>
@@ -592,9 +560,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　本館　五色の森（旧：裏磐梯猫魔ホテル）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               五色沼まで徒歩3分。エリア唯一の自噴式源泉かけ流しとライブキッチン＆会津野菜の50種バイキングを満喫
                             </p>
@@ -644,9 +610,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">裏磐梯レイクリゾート　迎賓館　猫魔離宮（旧：裏磐梯猫魔ホテル）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               気取らない贅沢、心やわらぐ宮殿リゾートで非日常体験を。宿泊者専用温泉を完備。
                             </p>
@@ -752,9 +716,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】フォートリート＋那須高原を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】フォートリート＋那須高原を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -787,9 +749,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とフォートリート＋那須高原の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とフォートリート＋那須高原の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

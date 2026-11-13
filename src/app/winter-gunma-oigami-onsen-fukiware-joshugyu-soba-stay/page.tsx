@@ -406,9 +406,7 @@ export default function GunmaOigamiWinterPage() {
               <Landmark className="w-4 h-4 text-amber-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の片品渓谷美と上州牛・手打ち蕎麦を堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の片品渓谷美と上州牛・手打ち蕎麦を堪能する名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -444,9 +442,7 @@ export default function GunmaOigamiWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -496,17 +492,13 @@ export default function GunmaOigamiWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の沼田・老神温泉と名勝吹割の滝を満喫するドライブ周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の沼田・老神温泉と名勝吹割の滝を満喫するドライブ周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】名勝吹割の滝観賞と老神の名湯チェックイン
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】名勝吹割の滝観賞と老神の名湯チェックイン</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -532,10 +524,8 @@ export default function GunmaOigamiWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】老神の朝市散策と沼田城下町の歴史巡り
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】老神の朝市散策と沼田城下町の歴史巡り</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -569,27 +559,21 @@ export default function GunmaOigamiWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               初冬の利根・沼田・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街で手に入れたい初冬の上州銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街で手に入れたい初冬の上州銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                尾瀬名物「花豆」の甘露煮と沼田の完熟りんご
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                尾瀬名物「花豆」の甘露煮と沼田の完熟りんご</h3>
               <p>
                 標高の高い冷涼な高原でしか育たない大粒の「高原花豆（紫花豆）」は、老神温泉を訪れたら必ず手に入れたい名物です。ふっくらと艶やかに炊き上げられた花豆の蜜煮は、上品な甘みとほくほくとした食感がお茶請けにぴったり。また、11月の沼田エリアは「ふじ」を中心とする完熟りんごの収穫最盛期で、道沿いのりんご園での直売やりんご狩りも大人気です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                名物「焼きまんじゅう」と群馬の地酒「水芭蕉」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                名物「焼きまんじゅう」と群馬の地酒「水芭蕉」</h3>
               <p>
                 蒸したふかふかの酒まんじゅうを竹串に刺し、甘じょっぱい濃厚な味噌ダレを塗って香ばしく焦がし焼きにした群馬のソウルフード「焼きまんじゅう」。焼きたての熱々を頬張ると、冬の散策で冷えた体が温まります。また、利根郡川場村の名蔵「永井酒造」が醸す純米大吟醸「水芭蕉」や「谷川岳」は、透明感あふれるキレの良さで上州牛料理との相性が抜群です。
               </p>
@@ -604,24 +588,18 @@ export default function GunmaOigamiWinterPage() {
               <ThermometerSun className="w-4 h-4 text-amber-800" />
               初冬の老神温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ初冬の片品渓谷の湯は「傷治しの名湯」と称えられるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ初冬の片品渓谷の湯は「傷治しの名湯」と称えられるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-amber-700" />
-              片品川の断層が生み出す毎分豊かな自噴泉と硫黄成分の働き
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-700" />
+              片品川の断層が生み出す毎分豊かな自噴泉と硫黄成分の働き</h3>
             <p>
               老神温泉は、片品川の浸食によって露出した深い断層崖に沿って多数の源泉が自然湧出しています。主泉質は単純硫黄温泉（アルカリ性低張性温泉）。無色透明でありながら、空気に触れると微かに湯の花を形成し、心地よい硫黄臭を漂わせます。微量の硫化水素イオンが毛細血管を拡張して血流を飛躍的に改善し、手足の先までしっかりと温熱を行き渡らせます。慢性皮膚疾患や神経痛、関節痛に対する効能が高く、昔から「傷の老神、目の川場」と並び称されてきた歴史がその確かな実力を物語っています。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-amber-700" />
-              メタケイ酸がもたらす天然の保湿ベールと弱アルカリ性のクレンジング力
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-amber-700" />
+              メタケイ酸がもたらす天然の保湿ベールと弱アルカリ性のクレンジング力</h3>
             <p>
               老神の湯には、天然の保湿成分として知られる「メタケイ酸」が基準値（50mg/kg）を大幅に上回る約80〜100mg/kg含まれています。弱アルカリ性のマイルドなクレンジング効果で肌の余分な古い角質を落とした後、メタケイ酸が肌の表面に潤いの保護膜を形成するため、入浴後の乾燥を防ぎ、湯上がりの肌がもっちりと吸い付くように仕上がります。初冬の乾いた冷風にさらされた素肌をケアするのに最も適したコンディションを備えています。
             </p>
@@ -635,18 +613,14 @@ export default function GunmaOigamiWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の老神温泉・吹割の滝旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の老神温泉・吹割の滝旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

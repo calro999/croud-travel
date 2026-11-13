@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              年間登山者数世界一の霊峰・高尾山が真っ赤に燃える秋
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">年間登山者数世界一の霊峰・高尾山が真っ赤に燃える秋</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             新宿から京王線で約50分という抜群のアクセスを誇る霊峰・高尾山。ミシュラン三ツ星観光地にも選ばれたこの山は、11月になると山頂から麓までが一斉に色づき、日本屈指の紅葉パラダイスとなります。日本一急勾配のケーブルカー車窓から眺める紅葉のアーチ、歴史ある薬王院の境内を彩るカエデの美しさは息をのむほど。登山や散策の後は、八王子市内の快適シティホテルや、大自然が残る秋川渓谷の老舗温泉旅館に宿泊し、名物の高尾山とろろそばや多摩の山の幸をふるさと納税トラベルクーポンでお得に楽しみましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                高尾山ケーブルカー＆リフトから見上げる紅葉のアーチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                高尾山ケーブルカー＆リフトから見上げる紅葉のアーチ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 清滝駅から高尾山駅まで最急勾配31度18分を誇るケーブルカー。両脇から迫る鮮やかなもみじのトンネルをくぐり抜ける体験は高尾山紅葉のハイライトです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                高尾山薬王院有喜寺の境内と山頂からの富士山眺望
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                高尾山薬王院有喜寺の境内と山頂からの富士山眺望</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 天狗信仰で知られる薬王院の朱塗りの社殿と紅葉のコントラスト。澄んだ秋晴れの山頂（標高599m）からは、雪化粧した富士山の絶景を一望できます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                名物・高尾山とろろそば＆多摩の地酒・炭火料理
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                名物・高尾山とろろそば＆多摩の地酒・炭火料理</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 高尾山参道に軒を連ねる蕎麦処で味わう滋養強壮「とろろそば」、秋川渓谷の清流で育った鮎や山菜、老舗旅館で味わう囲炉裏炭火焼き料理など秋の味覚が充実。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.28 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    京王プラザホテル八王子
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">京王プラザホテル八王子</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 東京都八王子市旭町14-1 ｜ JR京王八王子駅からは歩行者専用デッキ経由で徒歩2分の楽々アクセス／中央道八王子ICから車で15分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 3.99 <span className="text-stone-400 text-xs">(4100件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    ｔｈｅ　ｂ　八王子（ザビー　はちおうじ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">ｔｈｅ　ｂ　八王子（ザビー　はちおうじ）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 東京都八王子市明神町4-6-12 ｜ 京王線「京王八王子駅」中央口より徒歩1分、JR「八王子駅」北口より徒歩7分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.56 <span className="text-stone-400 text-xs">(232件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    兜家旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">兜家旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 東京都西多摩郡檜原村数馬2612 ｜ 武蔵五日市駅より西東京バス「数馬行き」乗車１時間。終点下車徒歩１０分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京王プラザホテル八王子を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京王プラザホテル八王子を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京王プラザホテル八王子の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京王プラザホテル八王子の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

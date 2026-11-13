@@ -262,10 +262,8 @@ export default function NiigataMatsunoyamaPage() {
             松之山温泉の初冬の魅力
           </div>
           
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">
-            太古の化石海水がもたらす驚異の保温力。<br />
-            雪深い越後妻有の山懐で出会う本物の薬湯と里山美食
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">太古の化石海水がもたらす驚異の保温力。<br />
+            雪深い越後妻有の山懐で出会う本物の薬湯と里山美食</h2>
 
           <div className="text-stone-600 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
@@ -314,9 +312,7 @@ export default function NiigataMatsunoyamaPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の新潟・松之山温泉で泊まるべき名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の新潟・松之山温泉で泊まるべき名宿5選</h2>
             <p className="text-stone-500 text-sm mt-1">
               楽天トラベルで最高水準の評価を集める、本物の薬湯と極上美食を誇る宿
             </p>
@@ -357,9 +353,7 @@ export default function NiigataMatsunoyamaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                         {hotel.story}
@@ -430,35 +424,27 @@ export default function NiigataMatsunoyamaPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の越後妻有美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の新潟・松之山で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の新潟・松之山で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                越後名産「銘柄豚 妻有ポーク」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                越後名産「銘柄豚 妻有ポーク」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 十日町の大自然の中で徹底した衛生管理のもと肥育される銘柄豚「妻有ポーク」。融点が低く甘みのある上質な脂身と柔らかい肉質が特長で、低温ローストや雪室熟成肉のしゃぶしゃぶは、一口で豚肉の常識を覆す美味しさです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                魚沼産特Aコシヒカリの土鍋ご飯
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                魚沼産特Aコシヒカリの土鍋ご飯</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 日本一の米処・魚沼地域に位置する松之山。棚田の清らかな雪解け湧水で育まれた新米コシヒカリを土鍋でふっくらと炊き上げた銀シャリは、一粒一粒が輝き、豊かな甘みと芳醇な香りが口いっぱいに広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                薬湯仕込み料理と越後美酒
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                薬湯仕込み料理と越後美酒</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 松之山温泉の自噴源泉熱を利用してじっくり火入れした「湯治豚」や名物「温泉玉子」。さらに越後杜氏が丹精込めて醸す搾りたての初冬新酒地酒は、里山の滋味あふれる料理と驚くほどのマリアージュを奏でます。
               </p>
@@ -472,17 +458,13 @@ export default function NiigataMatsunoyamaPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の新潟・松之山温泉 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の新潟・松之山温泉 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：美人林の白銀世界から日本三大薬湯へ・妻有ポークの美食夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                越後湯沢からほくほく線で里山へ、幻想的なブナ林散策と濃厚薬湯
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">越後湯沢からほくほく線で里山へ、幻想的なブナ林散策と濃厚薬湯</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 上越新幹線で越後湯沢駅に到着後、ほくほく線に乗り換えてまつだい駅へ。まずは十日町の名所「美人林」を訪れ、樹齢約100年のブナの巨木が一面に立ち並ぶ初冬の静謐な白銀雪景色を鑑賞。その後、松之山温泉街の宿へチェックイン。約1200万年前の化石海水が自噴する濃厚な塩化物泉に浸かり、毛穴から染み渡る熱で日頃の疲労を芯からデトックス。夕食は妻有ポークの雪室熟成肉や魚沼産コシヒカリの炊き立て土鍋ご飯、越後新酒地酒の極上ペアリングに酔いしれます。
               </p>
@@ -492,9 +474,7 @@ export default function NiigataMatsunoyamaPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：雪見朝風呂から大地の芸術祭・名物へぎそばランチへ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                窓外の雪景色を望む朝湯浴みから、現代アート鑑賞と十日町名物そば
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">窓外の雪景色を望む朝湯浴みから、現代アート鑑賞と十日町名物そば</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 静まり返った雪国の朝、清涼な冷気の中で楽しむ贅沢な雪見朝風呂。朝食には棚田米の銀シャリと薬湯で仕込んだ温泉玉子、温かい郷土汁を味わってチェックアウト。まつだい駅周辺の現代アート野外作品を見学し、十日町市内へ移動して布海苔をつなぎに使った喉越し抜群の「へぎそば」とサクサクの舞茸天ぷらを昼食に満喫。越後妻有里山現代美術館 MonETで文化体験を楽しんだ後、越後湯沢駅から新幹線で帰路へ。
               </p>
@@ -509,16 +489,12 @@ export default function NiigataMatsunoyamaPage() {
             初冬の松之山温泉 旅の心得とアクセスガイド
           </div>
 
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            日本有数の豪雪地帯を安全に楽しむための実践知識
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">日本有数の豪雪地帯を安全に楽しむための実践知識</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                新幹線＋ほくほく線まつだい駅の快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                新幹線＋ほくほく線まつだい駅の快適アクセス</h3>
               <p>
                 東京駅から上越新幹線で越後湯沢駅まで約1時間20分、北越急行ほくほく線に乗り換えてまつだい駅まで約40分。
               </p>
@@ -528,10 +504,8 @@ export default function NiigataMatsunoyamaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-amber-700" />
-                マイカー・レンタカー利用時の豪雪路面対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-amber-700" />
+                マイカー・レンタカー利用時の豪雪路面対策</h3>
               <p>
                 関越道六日町ICまたは越後川口ICより国道経由で約45〜60分。道路には消雪パイプが整備されていますが、山間部は急勾配と圧雪路面が続きます。
               </p>
@@ -542,10 +516,8 @@ export default function NiigataMatsunoyamaPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              日本三大薬湯の正しい入浴法と湯あたり予防
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              日本三大薬湯の正しい入浴法と湯あたり予防</h3>
             <p>
               松之山温泉は塩分とホウ酸の濃度が非常に高いため、一般的な単純温泉に比べて身体にかかる浸透圧の負荷が大きくなります。
             </p>
@@ -561,16 +533,12 @@ export default function NiigataMatsunoyamaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の新潟・松之山温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の新潟・松之山温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -582,10 +550,8 @@ export default function NiigataMatsunoyamaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい新潟・越後の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい新潟・越後の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の豪雪露天風呂と越後美酒・極上グルメを満喫する厳選旅ガイド
             </p>
@@ -597,9 +563,7 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・越後湯沢</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                越後湯沢の雪国温泉とぽんしゅ館・地酒の旅
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">越後湯沢の雪国温泉とぽんしゅ館・地酒の旅</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 新幹線直結のスノーリゾートと川端康成ゆかりの雪国名湯、越後日本酒飲み比べを満喫。
               </p>
@@ -610,9 +574,7 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・月岡温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                月岡温泉のエメラルドグリーン美肌硫黄泉
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">月岡温泉のエメラルドグリーン美肌硫黄泉</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本有数の硫黄含有量を誇る美肌の湯と越後銘菓・地酒を巡る温泉街歩き。
               </p>
@@ -623,9 +585,7 @@ export default function NiigataMatsunoyamaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">新潟・瀬波温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                日本海夕日露天風呂と村上牛・越後名物鮭会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">日本海夕日露天風呂と村上牛・越後名物鮭会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 波打ち際の熱狂名湯と冬の日本海に沈む夕陽、伝統の塩引き鮭と村上牛ステーキを堪能。
               </p>

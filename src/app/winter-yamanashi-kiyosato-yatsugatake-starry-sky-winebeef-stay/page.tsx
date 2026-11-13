@@ -301,9 +301,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              抜けるような冬晴れの青と、星々が降り注ぐ銀世界のリトリート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">抜けるような冬晴れの青と、星々が降り注ぐ銀世界のリトリート</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の清里・八ヶ岳を満喫する3つの絶対的ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の清里・八ヶ岳を満喫する3つの絶対的ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               晴天率80%の八ヶ岳ブルー、満天の冬星空観察、そして薪ストーブの温もりとワインビーフ。
             </p>
@@ -339,9 +335,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-indigo-100 flex items-center justify-center text-indigo-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 日本屈指の星空聖地！冬の満天星空観察
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 日本屈指の星空聖地！冬の満天星空観察</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 標高1,000m超の澄んだ大気と光害のない漆黒の夜空。天体望遠鏡での惑星観察や、グラウンドに寝転がって仰ぐ天の川と冬の大三角は息を呑む美しさです。
               </p>
@@ -351,9 +345,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 萌木の村の冬情緒＆極上「甲州ワインビーフ」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 萌木の村の冬情緒＆極上「甲州ワインビーフ」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 北欧の絵本のような雪の萌木の村と薪ストーブの温もり。ワイン粕で育つ芳醇な赤身とサシが調和した甲州ワインビーフのステーキやすき焼きを堪能。
               </p>
@@ -363,9 +355,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Mountain className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 八ヶ岳ブルーと富士見・南アルプス展望露天
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 八ヶ岳ブルーと富士見・南アルプス展望露天</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 快晴の冬空の下、白銀の八ヶ岳連峰と富士山を望む絶景ドライブ。高原温泉の雪見露天風呂で温まりながら眺める朝夕の山岳パノラマは格別です。
               </p>
@@ -377,9 +367,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の清里・八ヶ岳を優雅に楽しむ厳選高原リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の清里・八ヶ岳を優雅に楽しむ厳選高原リゾート宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-2">
               本格天文台完備の宿、全室八ヶ岳ビュー、オールインクルーシブの温泉リゾートまで、楽天トラベル公式データに基づき厳選。
             </p>
@@ -421,9 +409,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
                           {hotel.special}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">{hotel.name}</h3>
                       <p className="text-stone-600 text-sm leading-relaxed mb-4">
                         {hotel.story}
                       </p>
@@ -477,9 +463,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              八ヶ岳ブルーと星空に抱かれる冬の1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">八ヶ岳ブルーと星空に抱かれる冬の1泊2日モデルコース</h2>
             <p className="text-stone-600 text-sm mt-1">
               萌木の村散策、名物ROCKカレー、冬の高原温泉、星空観察会、翌朝の八ヶ岳絶景ドライブを巡る洗練された休日。
             </p>
@@ -554,37 +538,29 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-10 border border-stone-200 space-y-6">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の清里・八ヶ岳旅行を快適に楽しむための実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の清里・八ヶ岳旅行を快適に楽しむための実践ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4 text-indigo-600" />
-                星空観察の極寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-indigo-600" />
+                星空観察の極寒対策</h3>
               <p>
                 標高1,000m〜1,400mの清里は、夜間マイナス5度〜10度近くまで冷え込みます。星空観察には、ダウンコートの中にフリースを重ね、防寒手袋、ニット帽、厚手靴下、貼るカイロが必須です。風を通さない防寒パンツやブランケットもあると快適です。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Compass className="w-4 h-4 text-indigo-600" />
-                車のスタッドレスタイヤ必須
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Compass className="w-4 h-4 text-indigo-600" />
+                車のスタッドレスタイヤ必須</h3>
               <p>
                 晴天率は高いものの、寒冷地のため日陰や坂道、交差点では雪が凍結して圧雪アイスバーンになります。車で訪れる場合は必ずスタッドレスタイヤを装着してください。高速道路のチェーン規制に備えてチェーンの携行も推奨されます。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-indigo-600" />
-                新月前後の日程選び
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Calendar className="w-4 h-4 text-indigo-600" />
+                新月前後の日程選び</h3>
               <p>
                 天の川や淡い星団をより鮮明に観察したい場合は、月明かりの影響が少ない「新月の前後数日間」を狙って旅行日程を組むのが理想的です。満月の夜は雪山と月明かりの風情が美しいですが、星の数は新月期のほうが圧倒的に多く見られます。
               </p>
@@ -596,9 +572,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい甲信越・山梨の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい甲信越・山梨の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -608,9 +582,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・山中湖忍野</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">
-                  山中湖ダイヤモンド富士と忍野八海・熱々ほうとう鍋ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">山中湖ダイヤモンド富士と忍野八海・熱々ほうとう鍋ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -621,9 +593,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・河口湖</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">
-                  河口湖温泉から望む冬富士絶景と甲州牛会席露天風呂ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">河口湖温泉から望む冬富士絶景と甲州牛会席露天風呂ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -634,9 +604,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">山梨・石和温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">
-                  石和温泉の名湯大浴場と甲州ワイン・甲州牛すき焼きステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">石和温泉の名湯大浴場と甲州ワイン・甲州牛すき焼きステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -647,9 +615,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-indigo-700 bg-indigo-50 px-2 py-0.5 rounded block w-fit mb-2">長野・蓼科八ヶ岳</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">
-                  蓼科温泉の雪景色と八ヶ岳連峰・信州プレミアム牛肉ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-indigo-600 line-clamp-2">蓼科温泉の雪景色と八ヶ岳連峰・信州プレミアム牛肉ステイ</h3>
               </div>
               <span className="text-xs text-indigo-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -660,18 +626,14 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の清里・八ヶ岳旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の清里・八ヶ岳旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200 rounded-2xl p-5 hover:border-indigo-200 transition-colors">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                  <HelpCircle className="w-5 h-5 text-indigo-600 shrink-0 mt-0.5" />
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><HelpCircle className="w-5 h-5 text-indigo-600 shrink-0 mt-0.5" />
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-7">
                   {faq.a}
                 </p>
@@ -682,9 +644,7 @@ export default function YamanashiKiyosatoYatsugatakeWinterPage() {
 
         {/* Final Editorial Note */}
         <section className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 text-center space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold">
-            八ヶ岳ブルーの澄天と星々の輝きが紡ぐ、贅沢な冬の高原時間
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">八ヶ岳ブルーの澄天と星々の輝きが紡ぐ、贅沢な冬の高原時間</h2>
           <p className="text-slate-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             雪山を背景に広がる抜けるような青空、息を呑むほど近くに瞬く満天の星々、そして薪ストーブの暖炉が灯るホテルで味わう甲州ワインビーフ。11月から1月の清里・八ヶ岳には、日常の疲れを優しく解き放ち、心を満たす上質な静寂があります。澄んだ大気と極上の星空を体感する冬の高原旅へ出かけてみましょう。
           </p>

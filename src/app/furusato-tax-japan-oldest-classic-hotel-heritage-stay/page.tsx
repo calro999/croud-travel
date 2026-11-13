@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          時を超えて受け継がれる美と品格。文人や世界のVIPを魅了したクラシックホテルの物語
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">時を超えて受け継がれる美と品格。文人や世界のVIPを魅了したクラシックホテルの物語</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              登録有形文化財や近代化産業遺産に泊まる特別な文化体験
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">登録有形文化財や近代化産業遺産に泊まる特別な文化体験</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               東洋と西洋の建築美が融合した唯一無二の空間。館内ツアーや歴史展示室で、ホテルの歩んできた豊かなストーリーに触れられます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              歴代のVIPをもてなしてきた伝統のシグネチャー西洋料理
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">歴代のVIPをもてなしてきた伝統のシグネチャー西洋料理</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               名物のコンソメスープ、虹鱒のソテー、代々受け継がれるビーフカレーなど、伝統と革新が融合したクラシックディナーを堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税で歴史ある憧れの名門ホテルをお得にリザーブ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税で歴史ある憧れの名門ホテルをお得にリザーブ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               一度は泊まりたい名建築ホテル。有効期限3年間の楽天ふるさと納税クーポンを使えば、結婚記念日や節目のお祝い旅行にも最適です。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="nikko_kanaya" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                栃木県日光市ふるさと納税：現存する日本最古のリゾートホテル「日光金谷ホテル」と世界遺産日光東照宮
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">栃木県日光市ふるさと納税：現存する日本最古のリゾートホテル「日光金谷ホテル」と世界遺産日光東照宮</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 明治6年創業。ヘレン・ケラーやアインシュタインも宿泊した歴史の殿堂。日光東照宮の彫刻を模した社寺風の意匠と、名物「百年ライスカレー」や虹鱒料理を味わうクラシカルな休日です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県日光市上鉢石町1300
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    日光金谷ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日光金谷ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     創業明治６年、日本最古のクラシックリゾートホテル。明治の薫り漂う館内で時間旅行をご堪能下さい。
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="hakone_fujiya" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                神奈川県箱根町ふるさと納税：明治11年創業・箱根宮ノ下のシンボル「富士屋ホテル」と宮ノ下温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">神奈川県箱根町ふるさと納税：明治11年創業・箱根宮ノ下のシンボル「富士屋ホテル」と宮ノ下温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 数寄屋風の屋根に洋風の内装が調和する箱根富士屋ホテル。広大な日本庭園の散策、源泉かけ流しの温泉、そしてメインダイニング「ザ・フジヤ」の格調高きフレンチに酔いしれる滞在です。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町湯本256-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    箱根湯本温泉　湯本富士屋ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">箱根湯本温泉　湯本富士屋ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     箱根湯本駅より徒歩3分。箱根観光の拠点に最適。多彩な客室と自慢の温泉・本格料理で寛ぐ休日。
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町宮ノ下359
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    富士屋ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">富士屋ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ◇おかげさまで創業148周年◇明治11年創業の箱根のクラシックホテル
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     神奈川県足柄下郡箱根町湯本327-1　スタジオーネ箱根湯本ＥＡＳＴ－101
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＳＴＡＧＩＯＮＥ箱根湯本
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＳＴＡＧＩＯＮＥ箱根湯本</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     グループにおすすめ！
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="unzen_kanko" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長崎県雲仙市ふるさと納税：日本初の国立公園に誕生したスイス山小屋風「雲仙観光ホテル」と白濁硫黄泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長崎県雲仙市ふるさと納税：日本初の国立公園に誕生したスイス山小屋風「雲仙観光ホテル」と白濁硫黄泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 昭和10年創業。手斧削りの梁やアールデコ調のステンドグラスが美しい洋館。硫黄の香る雲仙地獄の名湯に浸かり、長崎の豊かな海山の幸フレンチを味わう大人の隠れ家リゾートです。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県雲仙市小浜町雲仙320
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    雲仙観光ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">雲仙観光ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     昭和10年創業。 過去と現在、そして未来へ。紡がれる伝統とくつろぎ｜進化するおもてなし。
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
               </p>
@@ -452,9 +426,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">文豪の愛した名湯・文学ゆかりの老舗旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 城崎・伊豆湯ヶ島・道後の文芸宿。
               </p>
@@ -468,9 +440,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
               </p>
@@ -488,9 +458,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本最古のクラシックリゾートホテル×ふるさと納税厳選ガイド日光金谷・箱根富士屋・雲仙観光ホテルの洋館ステイで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

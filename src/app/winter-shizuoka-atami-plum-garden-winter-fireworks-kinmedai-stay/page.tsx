@@ -122,10 +122,8 @@ export default function WinterFeaturePage() {
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              冬の静岡県・熱海・伊豆が特別な理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              冬の静岡県・熱海・伊豆が特別な理由</h2>
             <div className="grid md:grid-cols-3 gap-4 pt-2">
               <div className="bg-cyan-50/50 p-4 rounded-xl border border-cyan-100">
                 <span className="text-xs font-bold text-cyan-800 block mb-1">01. 特徴</span>
@@ -150,9 +148,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              熱海・伊豆 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">熱海・伊豆 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,16 +170,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16668%2F16668.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 熱海温泉　古屋旅館
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -228,10 +222,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか」
                     </p>
@@ -268,16 +260,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F142952%2F142952.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. ホテルグランバッハ熱海クレッシェンド
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -322,10 +312,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「とても最高です!年1のご褒美に食べ物よし、お風呂よし!眺めよし!部屋よし!ホスピタリティよし!いうことない!」
                     </p>
@@ -362,16 +350,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5417%2F5417.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. ホテルニューアカオ
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -416,10 +402,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「食事は満足だが館内の移動が少し複雑スタッフの方々の対応は大変良かったです。夕食・朝食もビュッフェスタイルで、少し食べすぎました。ただ、ホテルの立地条件で場所の移動が大変でした。エレベーターの乗」
                     </p>
@@ -456,16 +440,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1656%2F1656.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 熱海温泉　熱海後楽園ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -510,10 +492,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「地ビールと熱海プリンケーキに大満足子ども連れは露天風呂は楽しめないシステムなので、子どもが中学生になったらまた訪れたいです。部屋は和室でゆったり過ごせました。夕食朝食共に品数が少ないような」
                     </p>
@@ -550,16 +530,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F108115%2F108115.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 熱海温泉　伊東園ホテル熱海館
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -604,10 +582,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「駅近で便利、平日のお風呂とサウナは快適駅近で便利です。平日のだったので、お風呂もサウナも空いていてよかったです」
                     </p>
@@ -636,9 +612,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  静岡県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">静岡県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -657,10 +631,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の熱海・伊豆旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の熱海・伊豆旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/70">

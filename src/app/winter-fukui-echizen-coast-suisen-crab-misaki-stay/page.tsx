@@ -252,9 +252,7 @@ export default function FukuiEchizenCoastPage() {
             <Flower2 className="w-3.5 h-3.5 text-amber-400" />
             12月〜1月限定・冬の越前プレミアム特集
           </div>
-          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">
-            【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-3xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight md:leading-snug text-balance">【12・1月福井】越前海岸＆越前町！日本海に咲く「越前水仙まつり」群生美と越前岬灯台・黄色タグ付き本場「越前がに」フルコース＆絶景温泉宿5選</h1>
           <p className="text-stone-300 text-xs sm:text-sm md:text-base leading-relaxed max-w-3xl mx-auto font-medium">
             激しく砕け散る冬の日本海の荒波と、断崖を埋め尽くす可憐な越前水仙の芳香。本場越前町ならではの黄色いタグ付き活越前がにの極上フルコースと、海に浸かるような絶景露天風呂を愉しむ贅沢な冬旅をご案内します。
           </p>
@@ -274,9 +272,7 @@ export default function FukuiEchizenCoastPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Winter Highlights</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の越前海岸が旅人を魅了する理由：断崖の白い水仙と日本海の王者「越前がに」
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の越前海岸が旅人を魅了する理由：断崖の白い水仙と日本海の王者「越前がに」</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -295,9 +291,7 @@ export default function FukuiEchizenCoastPage() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-              越前海岸＆越前町！本場越前がにと絶景温泉を味わい尽くす名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-stone-900">越前海岸＆越前町！本場越前がにと絶景温泉を味わい尽くす名宿5選</h2>
             <p className="text-stone-600 text-xs md:text-sm">
               楽天トラベルで高評価を獲得し、直接競り落とす黄色タグ付き活蟹と海一望の露天風呂を誇る宿を厳選
             </p>
@@ -320,9 +314,7 @@ export default function FukuiEchizenCoastPage() {
                           <span className="text-stone-400 ml-1">({hotel.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 flex items-center gap-1.5 mt-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 flex-shrink-0" />
                         {hotel.access}
@@ -342,10 +334,8 @@ export default function FukuiEchizenCoastPage() {
 
                   {/* ハイライト3点 */}
                   <div className="bg-amber-50/50 rounded-2xl p-4 md:p-5 border border-amber-100 space-y-2.5">
-                    <h4 className="text-xs font-black text-amber-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <Sparkles className="w-3.5 h-3.5 text-amber-600" />
-                      この宿の注目ポイント＆こだわり
-                    </h4>
+                    <h4 className="text-xs font-black text-amber-900 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-amber-600" />
+                      この宿の注目ポイント＆こだわり</h4>
                     <ul className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-xs text-stone-700">
                       {hotel.highlights.map((hl, hIdx) => (
                         <li key={hIdx} className="flex items-start gap-1.5">
@@ -394,37 +384,29 @@ export default function FukuiEchizenCoastPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Local Food & Culture</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の越前町で絶対に味わうべき三大味覚：黄色タグ越前がに・せいこがに・越前そば
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の越前町で絶対に味わうべき三大味覚：黄色タグ越前がに・せいこがに・越前そば</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-stone-700">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
-                黄色タグ付き「越前がに」の極み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
+                黄色タグ付き「越前がに」の極み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 福井県で水揚げされるオスのズワイガニは、皇室献上ガニとしても名高い日本最高峰のブランド。太い脚にぎっしり詰まった繊維の甘みと、甲羅に詰まった芳醇な蟹味噌は別格です。炭火で香ばしく焼き上げる「焼きガニ」、繊細な花が咲く「カニ刺し」、そして熱々の甲羅酒まで、余すところなくカニの旨味を味わい尽くせます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
-                12月末までの幻「せいこがに」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
+                12月末までの幻「せいこがに」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 ズワイガニのメスである「せいこがに」は、漁期が11月上旬から12月末までのわずか2ヶ月足らずに限定される冬の至宝。小ぶりな甲羅の中に詰まった濃厚な赤い卵巣「内子」と、お腹に抱えたプチプチの「外子」、そして濃厚な蟹味噌が絶品。ご飯の上にほぐした身と内子外子を敷き詰めた「セイコ丼」は冬の贅沢の頂点です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
-                越前おろし蕎麦と冬の水ようかん
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-amber-600" />
+                越前おろし蕎麦と冬の水ようかん</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 石臼挽きのそば粉を使い、ピリッと辛い大根おろしと濃いめの出汁で味わう「越前おろし蕎麦」は福井県民のソウルフード。さらに福井県では、冬に暖かいこたつに入ってツルリと冷たい一枚を食べる「冬の水ようかん（丁稚羊羹）」の文化が根付いており、黒糖の優しい甘さが旅の締めくくりにぴったりです。
               </p>
@@ -436,9 +418,7 @@ export default function FukuiEchizenCoastPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">History & Heritage</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              断崖に咲く越前水仙の伝承と、日本六古窯「越前焼」の温もり
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">断崖に咲く越前水仙の伝承と、日本六古窯「越前焼」の温もり</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -454,9 +434,7 @@ export default function FukuiEchizenCoastPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Model Itinerary</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              【1泊2日】越前海岸水仙ロードと黄色タグ越前がに満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">【1泊2日】越前海岸水仙ロードと黄色タグ越前がに満喫モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm text-stone-700">
@@ -506,18 +484,14 @@ export default function FukuiEchizenCoastPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Frequently Asked Questions</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の越前海岸・越前がに旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の越前海岸・越前がに旅行に関するよくある質問</h2>
           </div>
 
           <div className="divide-y divide-stone-100">
             {faqs.map((f, idx) => (
               <div key={idx} className="py-4 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q.</span>
-                  <span>{f.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                  <span>{f.q}</span></h3>
                 <p className="text-xs md:text-sm text-stone-600 pl-6 leading-relaxed">
                   {f.a}
                 </p>
@@ -528,9 +502,7 @@ export default function FukuiEchizenCoastPage() {
 
         {/* 内部リンク・関連特集 */}
         <section className="bg-stone-100 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">
-            あわせて読みたい！冬の味覚＆温泉特集
-          </h3>
+          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">あわせて読みたい！冬の味覚＆温泉特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
             <Link href="/winter-fukui-mikuni-onsen-echizen-crab-tojinbo-stay/" className="p-3 bg-white rounded-xl hover:text-amber-700 shadow-xs transition">
               🦀 三国温泉＆東尋坊！越前がにと絶景露天

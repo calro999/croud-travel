@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          歴史の鼓動と荘厳な天守閣を客室から望む。日本人の美意識を刺激する城下町ラグジュアリー
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">歴史の鼓動と荘厳な天守閣を客室から望む。日本人の美意識を刺激する城下町ラグジュアリー</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ライトアップされた国宝天守を客室や展望ラウンジから独占鑑賞
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ライトアップされた国宝天守を客室や展望ラウンジから独占鑑賞</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               観光客で賑わう昼間とは一変し、夜空に浮かび上がる神秘的な名城のシルエットを、ワインを傾けながら心ゆくまで眺められます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              城下町ならではの武家文化・伝統工芸とおもてなしの心
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">城下町ならではの武家文化・伝統工芸とおもてなしの心</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               江戸時代の町割りが残る城下町の路地散策、武家屋敷の意匠を取り入れた格式高いロビーなど、歴史ロマンに満ちた滞在が叶います。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              播州名物穴子・信州蕎麦や信州サーモン・近江牛の極上会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">播州名物穴子・信州蕎麦や信州サーモン・近江牛の極上会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               城下町として栄えた地だからこそ発展した洗練された料理文化。各地域を代表する最高峰の食材を銘酒とともに堪能できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="himeji_castle" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                兵庫県姫路市ふるさと納税：世界遺産・国宝姫路城を望む展望ビューホテルと播州旬鮮グルメ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">兵庫県姫路市ふるさと納税：世界遺産・国宝姫路城を望む展望ビューホテルと播州旬鮮グルメ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 白漆喰総塗籠造の美しき白鷺城・姫路城。天守閣を正面に捉えるキャッスルビュー客室でのステイ、瀬戸内海の地魚や播州播磨の地酒を味わう特別な時間をお届けします。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県姫路市十二所前町22番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    姫路城下町　ホテルクレール日笠
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">姫路城下町　ホテルクレール日笠</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2022年★改装客室OPEN★駅チカ×江戸風湯屋有り
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県相生市相生金ケ崎5321
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＨＯＴＥＬ万葉岬
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＨＯＴＥＬ万葉岬</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     瀬戸内絶景パノラマ！瀬戸の山頂にひっそりと佇む癒しの宿。
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県神戸市中央区波止場町2-1  メリケンパーク内
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルオークラ神戸
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオークラ神戸</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     神戸ポートタワーのとなり、35階建てホテル。夜景が自慢。ホテル～三宮間無料シャトルバス毎日運行
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="matsumoto_castle" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長野県松本市ふるさと納税：五重六階の現存最古天守・国宝松本城下町と美ヶ原温泉の名門宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長野県松本市ふるさと納税：五重六階の現存最古天守・国宝松本城下町と美ヶ原温泉の名門宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 漆黒の天守とアルプスの残雪のコントラストが美しい松本城。中町通りの蔵造りの街並み散策や信州牛会席、美ヶ原温泉の湯守宿で城下町の情緒に浸れます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県塩尻市広丘吉田366-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    クア・アンド・ホテル　信州健康ランド
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">クア・アンド・ホテル　信州健康ランド</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ご宿泊のお客様は健康ランドのお風呂とサウナが無料！レストランなどの館内施設が充実、駐車場無料！
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県松本市浅間温泉1-28-16
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    松本　浅間温泉　ホテル玉之湯
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">松本　浅間温泉　ホテル玉之湯</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     「心と体を元気に」バリアフリーの宿  個室で愉しむ郷土の味＜3つの無料貸切露天風呂＞
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県東筑摩郡麻績村日3434
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    シェーンガルテンおみ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">シェーンガルテンおみ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     「シェーンガルテン」とは美しい庭園という意味。アルプスの眺望と四季折々に大自然を満喫できる公共の宿。
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="hikone_castle" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                滋賀県彦根市ふるさと納税：国宝彦根城と琵琶湖を望む名園リゾートホテル＆近江牛すき焼き会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">滋賀県彦根市ふるさと納税：国宝彦根城と琵琶湖を望む名園リゾートホテル＆近江牛すき焼き会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 井伊家三十五万石の居城・彦根城。名勝「玄宮園」の緑と天守閣を間近に望み、日本三大和牛・近江牛のすき焼きや湖魚料理を堪能する格式高いリゾート滞在です。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市松原町1836-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    トレイルイン彦根城（Ｔｒａｉｌ　ｉｎｎ　彦根城）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">トレイルイン彦根城（Ｔｒａｉｌ　ｉｎｎ　彦根城）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">オープン！！各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
                   </p>
                   
@@ -510,9 +482,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県守山市勝部一丁目1番17号　守山駅前近江鉄道ビル(フロント4F)
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ベッセルイン滋賀守山駅前（守山・栗東・草津）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     JR守山駅から徒歩1分でアクセス抜群◆ビジネスや観光の拠点に最適◆全室Ｗｉ－Ｆｉ無料！
                   </p>
@@ -556,9 +526,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     滋賀県彦根市西今町62-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルレイクランド彦根
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルレイクランド彦根</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     南彦根駅より徒歩１分観光にビジネスに最適■アパ直参画ホテル■全室43・49型ＴＶ設置
                   </p>
@@ -619,9 +587,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 兼六園・後楽園・偕楽園の四季折々の庭園美を愛でる歴史宿。
               </p>
@@ -635,9 +601,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
               </p>
@@ -651,9 +615,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>

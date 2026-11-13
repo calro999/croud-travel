@@ -130,9 +130,7 @@ export default function Page() {
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            秋の長野・白馬＆八方尾根を旅する魅力と贅沢なふるさと納税活用法
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の長野・白馬＆八方尾根を旅する魅力と贅沢なふるさと納税活用法</h2>
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「長野・白馬＆八方尾根」は、白馬三山初冠雪と山腹紅葉の「三段紅葉」・八方池水鏡・白馬マウンテンハーバーなど、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
@@ -180,9 +178,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 1</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                白馬東急ホテル
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">白馬東急ホテル</h3>
               <p className="text-xs text-stone-500 mt-1">長野県北安曇郡白馬村北城4688</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -230,9 +226,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 2</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                白馬樅の木ホテル
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">白馬樅の木ホテル</h3>
               <p className="text-xs text-stone-500 mt-1">長野県北安曇郡白馬村北城4683-2</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -280,9 +274,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 3</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                白馬八方温泉　白馬ホテル花乃郷
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">白馬八方温泉　白馬ホテル花乃郷</h3>
               <p className="text-xs text-stone-500 mt-1">長野県北安曇郡白馬村八方5025</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -327,9 +319,7 @@ export default function Page() {
 
         {/* 1泊2日おすすめモデルコース */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            【秋旅モデルコース】長野・白馬＆八方尾根を満喫する1泊2日の極上周遊ルート
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">【秋旅モデルコース】長野・白馬＆八方尾根を満喫する1泊2日の極上周遊ルート</h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
               <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
@@ -377,9 +367,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白馬東急ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白馬東急ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -412,9 +400,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白馬東急ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白馬東急ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -509,9 +495,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -563,9 +547,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">長野・白馬八方尾根の三段紅葉＆北アルプス！日本最高峰pH白馬八方温泉と信州牛フレンチ｜ふるさと納税で泊まれる名宿ガイドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

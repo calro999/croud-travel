@@ -269,9 +269,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Strait Splendor & Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                本州最西端・下関と響灘が輝く初冬｜11月・12月に訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">本州最西端・下関と響灘が輝く初冬｜11月・12月に訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Ancient Healing Radium Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                毛利侯の隠れ湯・開湯八百年の霊泉｜川棚温泉のラジウム泉と効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">毛利侯の隠れ湯・開湯八百年の霊泉｜川棚温泉のラジウム泉と効能</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Torafugu & Kawara Soba</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                本場下関とらふぐの極みと名物「元祖瓦そば」の至福
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">本場下関とらふぐの極みと名物「元祖瓦そば」の至福</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +341,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Shimonoseki Winter Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の下関・川棚1泊2日ドライブモデルコース｜海峡散策と角島大橋・美食温泉旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の下関・川棚1泊2日ドライブモデルコース｜海峡散策と角島大橋・美食温泉旅</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -371,9 +363,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Shimonoseki & Kawatana Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              本場とらふぐと名湯に癒やされる｜下関・川棚の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">本場とらふぐと名湯に癒やされる｜下関・川棚の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、本場とらふぐ料理や開湯800年ラジウム泉、絶景海峡ビューを誇る本物の宿を厳選。
             </p>
@@ -404,9 +394,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -483,26 +471,20 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Advice</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の下関・川棚旅行｜海峡の風とふぐシーズンの予約のコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の下関・川棚旅行｜海峡の風とふぐシーズンの予約のコツ</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                海峡風に備えた防寒と唐戸市場の訪問時間
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                海峡風に備えた防寒と唐戸市場の訪問時間</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 関門海峡周辺や響灘沿いは、冬期に北風が強く吹き抜けることがあります。唐戸市場の屋外デッキや関門橋周辺の散策には、風を遮る防風ジャケットやマフラーを用意しましょう。唐戸市場の屋台イベントは午前中が最も活気があるため、早めの時間帯（9時〜11時頃）の訪問がおすすめです。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                とらふぐ最盛期の宿泊予約はお早めに
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                とらふぐ最盛期の宿泊予約はお早めに</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月から12月は下関のふぐ料理が最も美味しくなる年間最大の繁忙期です。特に週末や祝前日は人気のふぐ料理旅館や展望風呂付き客室から埋まっていきます。希望の宿や料理プラン（天然とらふぐコース等）がある場合は、1〜2ヶ月前の早期予約をおすすめします。
               </p>
@@ -518,18 +500,14 @@ export default function YamaguchiShimonosekiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山口・下関と川棚温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山口・下関と川棚温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -542,9 +520,7 @@ export default function YamaguchiShimonosekiWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Western Japan & Winter Gourmet Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい中国・九州・西日本の冬名湯＆極上味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい中国・九州・西日本の冬名湯＆極上味覚特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚、日本海カニ会席、オーシャンビュー絶景露天をめぐる人気特集もぜひご覧ください。
             </p>

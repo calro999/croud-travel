@@ -102,9 +102,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">
-              【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【英虞湾の夕景リアス美と全室離れ露天風呂スイート】2026-2027年11-12月の三重・志摩賢島！「汀渚 ばさら邸」＆ベイスイート・冬の伊勢志摩天然伊勢海老・極上松阪牛名宿5選</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               リアス海岸の穏やかな英虞湾を眼下に望む三重県・志摩賢島。サミット開催舞台の「志摩観光ホテル ザ ベイスイート」や、広大な敷地にわずかな客室と海を望む貸切露天風呂が点在する「汀渚 ばさら邸」など、国内屈指の高級リゾート。冬に旬を迎える伊勢海老や鮑、とろけるA5松阪牛を味わう大人の記念日ステイ厳選5選。
             </p>
@@ -113,9 +111,7 @@ export default function LuxuryStayPage() {
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">
-              初冬の静寂が織りなす最高峰の贅沢リトリート
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
             <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
               伊勢志摩国立公園の南端、真珠養殖の発祥地として世界に知られる『英虞湾（あごわん）』。大小60余りの島々と複雑に入り組んだ入江が幾重にも重なり合うリアス海岸は、日本屈指の風光明媚な景観を誇ります。11月から12月にかけての初冬は、夏の喧騒が完全に引き、凛と澄み渡る大気の中で穏やかな水面が茜色から黄金色へと美しく染まりゆく『年間で最も夕景が美しい季節』を迎えます。また、秋に解禁された伊勢志摩名物の天然伊勢海老や鮑、そして三重が誇る世界最高峰の肉牛『A5ランク松阪牛』が最も旨味を増す美食のハイシーズンでもあります。この静謐な英虞湾の自然に溶け込むように佇むのが、約4,000坪の広大な敷地にわずか数室の離れ露天風呂付き客室と絶景の貸切露天が点在する『汀渚 ばさら邸』。さらには伊勢志摩サミットで各国の首脳を迎え入れた名門クラシックリゾート『志摩観光ホテル ザ ベイスイート』など、日本のホスピタリティの粋を集めたラグジュアリーホテルが揃います。初冬の凛とした澄み切った風を感じながら、客室のテラスや露天風呂から沈みゆく夕日と星空を眺め、極上の伊勢海老と松阪牛の饗宴に舌鼓を打つ――それは大人の記念日や人生の節目を祝福するのにふさわしい、至高のプライベートリトリートです。
             </p>
@@ -123,9 +119,7 @@ export default function LuxuryStayPage() {
 
           <section>
             <div className="text-center mb-8">
-              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                11月〜12月に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">11月〜12月に訪れるべき3つの理由</h2>
               <p className="text-slate-600 text-sm mt-2">
                 初冬だからこそ出会える絶景と美食、極上のプライベート空間
               </p>
@@ -173,9 +167,7 @@ export default function LuxuryStayPage() {
                 <span className="inline-block bg-amber-600 text-white font-bold text-xs px-3 py-1 rounded-full">
                   宿と合わせて巡る周辺名所
                 </span>
-                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">
-                  英虞湾のパノラマを一望する天空テラス・横山展望台（リアス海岸の島々と真珠筏の美）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">英虞湾のパノラマを一望する天空テラス・横山展望台（リアス海岸の島々と真珠筏の美）</h3>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   横山展望台（よこやまてんぼうだい）は志摩半島南部の三重県志摩市阿児町鵜方にある標高203 mの横山に設置されている展望台。横山の名は、沖合からこの山を眺めると横長に見えるからとされる。
                 </p>
@@ -188,9 +180,7 @@ export default function LuxuryStayPage() {
               <span className="text-amber-600 font-extrabold tracking-wider text-xs md:text-sm uppercase block mb-1">
                 Luxury Stays Selection
               </span>
-              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">
-                厳選の最高級名宿 5選
-              </h2>
+              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">厳選の最高級名宿 5選</h2>
               <p className="text-slate-600 text-sm mt-2">
                 楽天トラベル最新API生データに基づく客室露天風呂・極上会席のプレミアム宿
               </p>
@@ -203,9 +193,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                汀渚　ばさら邸
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">汀渚　ばさら邸</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 英虞湾の静寂に抱かれる4000坪の隠れ里！全室露天風呂付きの大人の極上離れ
               </p>
@@ -240,10 +228,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地面積約4,000坪の広大な森と海に抱かれ、わずか全室離れスタイルの露天風呂付き客室が点在するプライベートリゾートです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>英虞湾を見下ろす3つの絶景貸切露天風呂は圧巻のスケール。夜には満天の星が降り注ぎ、波の音と木々のさざめきだけが響き渡ります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は志摩の海で獲れた天然伊勢海老や鮑、A5松阪牛を贅沢に盛り込んだ新和食懐石。専用個室ダイニングで心ゆくまで美食に浸れます。</span></li>
                 </ul>
@@ -272,9 +258,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                志摩観光ホテル　ザ　ベイスイート
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">志摩観光ホテル　ザ　ベイスイート</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 伊勢志摩サミットの舞台！全室100平米超のオールスイートと海のフレンチ
               </p>
@@ -309,10 +293,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>2016年伊勢志摩サミットで各国首脳が集った歴史の舞台。全客室が100平米以上の優美なスイートルームで構成されています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室のテラスや展望バスからは、英虞湾の穏やかな入江と真珠筏が織りなすパノラマを一望。夕暮れ時のグラデーションは息を呑む美しさです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>ミシュラン掲載のレストラン「ラ・メール」で供される伝統の海の幸フランス料理。伊勢海老のクリームスープや鮑ステーキは至高の逸品です。</span></li>
                 </ul>
@@ -341,9 +323,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                志摩観光ホテル　ザ　クラシック
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">志摩観光ホテル　ザ　クラシック</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 昭和の文豪や皇室が愛した名門クラシック！格式あるおもてなしと英虞湾の絶景
               </p>
@@ -378,10 +358,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>昭和26年創業、山崎豊子の小説『華麗なる一族』の舞台としても名高い日本を代表する名門リゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>木の温もりあふれる客室やサミット円卓が展示された庭園、ライブラリーラウンジなど、知性と気品に満ちた大人の空間が広がります。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>伝統のフレンチコースと上質なワインのペアリング。窓外に広がる英虞湾のリアス美を眺めながら、時代を超えて愛される極上の味覚を堪能できます。</span></li>
                 </ul>
@@ -410,9 +388,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                賢島宝生苑
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">賢島宝生苑</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 庭園露天風呂から英虞湾を一望！天然温泉「伊勢志摩温泉」と伊勢海老三昧の湯宿
               </p>
@@ -447,10 +423,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>賢島の高台に位置し、英虞湾に面した雄大な庭園露天風呂「朝なぎの湯・夕なぎの湯」が自慢の大型高級温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>良質な療養泉「伊勢志摩温泉・朝なぎの湯」の滑らかな湯ざわり。海を渡る爽やかな風を感じながらの朝夕の露天風呂浴は格別です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食には伊勢志摩の活伊勢海老のお造り、焼き伊勢海老、鮑の陶板焼きなど豪華絢爛な会席料理。上質な和室スイートで寛げます。</span></li>
                 </ul>
@@ -479,9 +453,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                都リゾート　志摩　ベイサイドテラス
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">都リゾート　志摩　ベイサイドテラス</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 英虞湾を望む白亜の南欧リゾート！全室バルコニー付き＆本格フレンチ・和食会席
               </p>
@@ -516,10 +488,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>白壁とテラコッタ瓦が美しい南欧アンダルシア地方を思わせる優雅な佇まい。全室にオーシャンビューテラスを備えています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>地中海リゾートの開放感と伊勢志摩の豊かな自然が融合。英虞湾の入り江を見下ろすプールサイドやスパで上質なリラクゼーションが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>三重の地元食材をふんだんに取り入れたフレンチまたは和会席のディナー。愛犬と泊まれるヴィラルームも備えた多彩なプレミアムステイです。</span></li>
                 </ul>
@@ -547,9 +517,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="bg-slate-900 text-slate-100 p-6 md:p-8 rounded-2xl shadow-md space-y-4">
-            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">
-              アクセス＆初冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">アクセス＆初冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-800/80 p-5 rounded-xl border border-slate-700">
               【エリアへのアクセス】
 ・電車・特急から：近鉄名古屋駅より近鉄特急「しまかぜ」で賢島駅まで直通約2時間、大阪難波駅・京都駅からも特急「しまかぜ」で賢島駅まで直通約2時間10分〜2時間45分。賢島駅より各ホテルの専用送迎車（無料・要予約）にて約3〜10分。
@@ -573,30 +541,24 @@ export default function LuxuryStayPage() {
             <div className="space-y-4">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>志摩観光ホテル「ザ クラシック」と「ザ ベイスイート」の違いは何ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>志摩観光ホテル「ザ クラシック」と「ザ ベイスイート」の違いは何ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               『ザ クラシック』は昭和26年開業の伝統を受け継ぐ本館で、木の温もりとクラシックホテルの格式高い雰囲気が魅力です。一方『ザ ベイスイート』は2008年にオープンした全室100平米超のオールスイートルーム棟で、全室に展望風呂が備わり、屋上展望庭園やゲストラウンジなど大人のためのモダンラグジュアリーを極めた造りとなっています。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>「汀渚 ばさら邸」の貸切露天風呂は予約が必要ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>「汀渚 ばさら邸」の貸切露天風呂は予約が必要ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               ばさら邸には敷地内に趣の異なる3つの広大な貸切露天風呂（天の鏡、くぽくぽの湯、月の家）があり、チェックイン時のご予約にて無料で利用可能です（客室タイプにより優先枠あり）。いずれも英虞湾の自然に抱かれた圧倒的な開放感を味わえます。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>11月・12月の夕日を見るおすすめの時間は何時頃ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>11月・12月の夕日を見るおすすめの時間は何時頃ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               11月中旬は16:45〜17:00頃、12月は16:40〜16:50頃が日の入り時刻となります。日没の約30分前から始まる、海と空が刻一刻と茜色から紫紺へと移ろうトワイライトタイム（マジックアワー）に合わせて客室テラスや展望ラウンジ、露天風呂にスタンバイするのが最もおすすめです。
             </p>
@@ -609,9 +571,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-white/20 backdrop-blur-sm text-white font-bold text-xs px-3 py-1 rounded-full">
               賢く泊まる節税旅
             </span>
-            <h2 className="text-2xl md:text-3xl font-black">
-              楽天ふるさと納税で憧れの最高級宿に泊まる
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black">楽天ふるさと納税で憧れの最高級宿に泊まる</h2>
             <p className="text-white/90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
               寄附金額の最大30%相当が宿泊クーポンとして即時還元！3年間有効なので、初冬の記念日や憧れのラグジュアリーステイの予約に最適です。
             </p>
@@ -628,9 +588,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="space-y-4 pt-6">
-            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">
-              あわせて読みたい初冬の極上宿特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">あわせて読みたい初冬の極上宿特集</h2>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

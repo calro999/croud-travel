@@ -108,9 +108,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  輪島塗・会津塗・山中塗、三者三様の技法美と職人の息遣い
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">輪島塗・会津塗・山中塗、三者三様の技法美と職人の息遣い</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大漆器は、それぞれ独自の進化を遂げてきました。120工程を超える手作業と優美な沈金・蒔絵で一生モノと評される輪島塗。重厚で落ち着きある鉄錆塗や花塗りで会津武士の気骨を今に伝える会津塗。温泉逗留客への土産物として発展し、轆轤（ろくろ）技術の極致を誇る山中塗。工房見学やギャラリーを訪ね、職人たちの指先の技に触れることで、日常の道具に対する見方が根本から豊かに変わります。
@@ -123,9 +121,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  本物の漆器でいただくからこそ際立つ、出汁の香りとお米の艶
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">本物の漆器でいただくからこそ際立つ、出汁の香りとお米の艶</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 漆器の真価は、実際に温かい料理を盛り付けて口をつけたときにこそ現れます。熱が外に逃げにくく手のひらには熱さを伝えない優れた断熱性、唇に触れた瞬間のなめらかな口当たり。周辺の老舗旅館では、椀物や八寸に惜しげもなく代々受け継がれた名工の器が用いられます。ひと椀の吸い物がこれほどまでに深く染み入るのかという感動は、旅の何よりの記憶となります。
@@ -138,9 +134,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  登録有形文化財の老舗宿や渓谷美を愛でる名湯リゾートでの逗留
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">登録有形文化財の老舗宿や渓谷美を愛でる名湯リゾートでの逗留</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 名陶・名漆の産地には、建築そのものが文化遺産と呼ぶにふさわしい名旅館や、鶴仙渓のせせらぎを望む極上の温泉リゾートが揃っています。会津東山温泉の宮大工建築の美を誇る向瀧、山中温泉のせせらぎ露天風呂と加賀会席が評判の吉祥やまなか、能登の港町風情が残る料理旅館。ふるさと納税クーポンを使えば、憧れの特別室や露天風呂付き客室も実質2,000円で賢く予約可能です。
@@ -181,9 +175,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 石川県 金沢市十一屋町3-30</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    旅館　橋本屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">旅館　橋本屋</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「手作りの食事が美味しく、接客も丁寧で大満足皆さんとても優しく説明も丁寧でした。夕食も朝食もご家族で手作りされていると聞きました。一品ずつでてくるので時間はかかりますが、どれも美味しく、とて…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 福島県 会津若松市東山町湯本川向200</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    会津東山温泉　向瀧
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">会津東山温泉　向瀧</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「アレルギー対応の確認ミス?8月30日に宿泊しました。事前に「食品アレルギー」の有無をメールで尋ねられ、アレルギー無しと伝えてあったのですが、夕食時の説明で「エビアレルギーとの事でエビを抜いてありま…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 石川県 加賀市山中温泉東町1-ホ14-3</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    山中温泉　吉祥やまなか
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">山中温泉　吉祥やまなか</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「豪華な建物と温泉、鉄板焼きに大満足遅い夏休み旅行として家族四人で利用しました。建物も加賀らしく豪華絢爛で素晴らしく、温泉、食事(鉄板焼き)も非常に良かったです。雨の次の日であったため、川が…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】旅館 橋本屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】旅館 橋本屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅館 橋本屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と旅館 橋本屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

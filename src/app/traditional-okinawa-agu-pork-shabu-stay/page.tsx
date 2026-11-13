@@ -208,10 +208,8 @@ export default function FeatureDetailPage() {
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Award className="w-6 h-6 text-amber-600" />
-            特選あぐー豚しゃぶしゃぶ＆美ら海オーシャンリゾートの楽しみ方＆おすすめの選び方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Award className="w-6 h-6 text-amber-600" />
+            特選あぐー豚しゃぶしゃぶ＆美ら海オーシャンリゾートの楽しみ方＆おすすめの選び方</h2>
           <p className="text-slate-600 leading-relaxed text-sm sm:text-base">楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
@@ -233,9 +231,7 @@ export default function FeatureDetailPage() {
         {/* 厳選宿リスト */}
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-2xl font-bold text-slate-900">
-              編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
             <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
@@ -261,11 +257,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">沖縄県</span>
                       <span>宮古島市伊良部佐和田前原1725</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184118%2F184118.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184118%2F184118.html" target="_blank" rel="sponsored noopener noreferrer">
                         ウォーターマークホテル沖縄　宮古島＜伊良部島＞
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -320,11 +314,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">沖縄県</span>
                       <span>那覇市安里1-2-25</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177099%2F177099.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F177099%2F177099.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホテル沖縄　ｗｉｔｈ　サンリオキャラクターズ
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -379,11 +371,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">沖縄県</span>
                       <span>豊見城市豊崎3-82</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75371%2F75371.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75371%2F75371.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホテルグランビューガーデン沖縄
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -438,11 +428,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">沖縄県</span>
                       <span>中頭郡読谷村宇座1575</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30045%2F30045.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30045%2F30045.html" target="_blank" rel="sponsored noopener noreferrer">
                         グランドメルキュール沖縄残波岬リゾート
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -497,11 +485,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">沖縄県</span>
                       <span>国頭郡恩納村字山田2455-1</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184140%2F184140.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F184140%2F184140.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホーム・ステイ・ユミハ沖縄　ｂｙバンヤン・グループ
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -565,9 +551,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ウォーターマークホテル沖縄 宮古島＜伊良部島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ウォーターマークホテル沖縄 宮古島＜伊良部島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -600,9 +584,7 @@ export default function FeatureDetailPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とウォーターマークホテル沖縄 宮古島＜伊良部島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とウォーターマークホテル沖縄 宮古島＜伊良部島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -697,9 +679,7 @@ export default function FeatureDetailPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「2026年：旨味と甘み極まる幻の島豚！あぐー豚しゃぶしゃぶ＆美ら海・古宇利島リゾート5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -769,7 +749,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">🏨 2026年エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">2026年エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

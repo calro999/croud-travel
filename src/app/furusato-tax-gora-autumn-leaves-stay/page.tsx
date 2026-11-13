@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              約130本のモミジが苔庭を染める箱根随一の紅葉名所！五色に輝く強羅の名湯
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">約130本のモミジが苔庭を染める箱根随一の紅葉名所！五色に輝く強羅の名湯</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             箱根登山鉄道や箱根登山ケーブルカーでアクセスできる人気の高原温泉地「強羅温泉」。秋の最大の見どころは、国の名勝に指定された「箱根美術館」の神仙郷です。一面の青苔の上に約130本ものモミジが真紅のトンネルを織りなす「苔庭」の美しさは、箱根で最も優雅な錦秋の景観と称されます。隣接する「強羅公園」の秋のローズフェスタや噴水池の紅葉散策も大人気。散策の後は、大涌谷から引湯された乳白色の酸性硫酸塩泉や透明な自家源泉を満喫し、足柄牛ステーキや小田原港直送の旬魚会席を楽天ふるさと納税トラベルクーポンでお得に心ゆくまで堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                箱根美術館・神仙郷「苔庭」の真紅の紅葉グラデーション
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                箱根美術館・神仙郷「苔庭」の真紅の紅葉グラデーション</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 緑の絨毯のような苔庭と、頭上を覆う深紅のモミジのコントラスト。茶室「真和亭」で抹茶と季節の和菓子をいただきながら眺める庭園風景は至福のひとときです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                強羅公園の秋バラと紅葉＆クラフトハウス体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                強羅公園の秋バラと紅葉＆クラフトハウス体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 日本初のフランス式整型庭園。秋に咲き誇る色鮮やかな秋バラとイロハモミジの競演、吹きガラスや陶芸体験が楽しめる箱根クラフトハウスなど見どころが充実しています。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                大涌谷源泉の濃厚なにごり湯＆ブランド「足柄牛」会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                大涌谷源泉の濃厚なにごり湯＆ブランド「足柄牛」会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 美肌と血行促進に優れた白濁の硫黄泉。神奈川の銘柄牛「足柄牛」の陶板焼きやしゃぶしゃぶ、相模湾の獲れたて鮮魚のお造りなど、地元の厳選素材を贅沢に味わえます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.21 <span className="text-stone-400 text-xs">(4050件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    季の湯　雪月花（共立リゾート）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">季の湯　雪月花（共立リゾート）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町強羅1300-34 ｜ 箱根登山鉄道　強羅駅より徒歩1分　彫刻の森まで1駅、強羅公園まで徒歩約10分と観光スポットへのアクセスも良好！
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.40 <span className="text-stone-400 text-xs">(431件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    強羅温泉　自家源泉掛け流しの宿　強羅環翠楼
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">強羅温泉　自家源泉掛け流しの宿　強羅環翠楼</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町強羅1300-20 ｜ 箱根登山鉄道　強羅駅より徒歩３分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.29 <span className="text-stone-400 text-xs">(2418件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    強羅温泉　強羅にごりの湯宿　のうのう箱根
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">強羅温泉　強羅にごりの湯宿　のうのう箱根</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町強羅1320-1080 ｜ 【無料送迎あり（15時～18時）】 早雲山駅より徒歩8分、強羅駅より車で5分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】季の湯 雪月花を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】季の湯 雪月花を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と季の湯 雪月花の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と季の湯 雪月花の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

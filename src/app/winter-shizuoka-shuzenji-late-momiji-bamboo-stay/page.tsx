@@ -266,10 +266,8 @@ export default function ShuzenjiWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 伊豆の小京都・遅咲き紅葉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月修善寺温泉の遅咲き紅葉と竹林】<br className="hidden sm:inline" />
-            伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月修善寺温泉の遅咲き紅葉と竹林】<br className="hidden sm:inline" />
+            伊豆の小京都で桂川の静寂と伊豆牛会席を堪能する極上湯宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             日本で最も遅い紅葉が川面を赤く染め、凛と青い竹林が風にそよぐ。弘法大師ゆかりの開湯1200年の名湯に浸かり、芳醇な伊豆牛と天城生わさびの美食に酔いしれる静寂の初冬ステイ。
           </p>
@@ -295,9 +293,7 @@ export default function ShuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Little Kyoto in Izu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                12月まで続く奇跡の紅葉と竹林の静寂。文豪たちが愛した伊豆最古の湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">12月まで続く奇跡の紅葉と竹林の静寂。文豪たちが愛した伊豆最古の湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function ShuzenjiWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-emerald-700" />
-                <span>11月・12月 修善寺温泉の旅のハイライト</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-emerald-700" />
+                <span>11月・12月 修善寺温泉の旅のハイライト</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 12月上旬までの遅咲き紅葉・竹林の小径夕暮れライトアップ・弘法大師ゆかりの美肌名湯・天城生わさびと伊豆牛
               </p>
@@ -334,9 +328,7 @@ export default function ShuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Planning Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の修善寺 気温・見頃・散策の極意
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の修善寺 気温・見頃・散策の極意</h2>
             </div>
           </div>
 
@@ -376,9 +368,7 @@ export default function ShuzenjiWinterPage() {
             <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-widest bg-emerald-100/60 px-3.5 py-1 rounded-full">
               SELECTED LUXURY INNS
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">
-              【11・12月】修善寺温泉の極上ステイを叶える名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">【11・12月】修善寺温泉の極上ステイを叶える名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 max-w-2xl mx-auto">
               楽天トラベルで4.3〜5.0の絶大な評価を誇る、伊豆最古の名湯・洗練された伊豆牛会席・静寂のロケーションを極めた宿を厳選しました。
             </p>
@@ -424,9 +414,7 @@ export default function ShuzenjiWinterPage() {
                       <span className="text-[11px] text-emerald-800 font-bold tracking-wider uppercase block mb-1">
                         {hotel.special}
                       </span>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-emerald-700" />
                         <span>{hotel.access}</span>
@@ -496,9 +484,7 @@ export default function ShuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】遅咲き紅葉と竹林を愛でる修善寺温泉の休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】遅咲き紅葉と竹林を愛でる修善寺温泉の休日</h2>
             </div>
           </div>
 
@@ -590,48 +576,38 @@ export default function ShuzenjiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                修善寺温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">修善寺温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>修善寺温泉の紅葉の見頃はいつ頃ですか？12月でも楽しめますか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>修善寺温泉の紅葉の見頃はいつ頃ですか？12月でも楽しめますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 修善寺温泉および伊豆半島は温暖な気候のため、日本国内で最も紅葉が遅い地域の一つとして知られています。例年11月中旬から色づき始め、見頃のピークは11月下旬から12月上旬頃です。修善寺自然公園のもみじ林や竹林の小径、虹の郷などでは12月上旬まで鮮やかなモミジのグラデーションと朱塗りの橋の美しいコントラストを存分に鑑賞できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>修善寺温泉の泉質や効能、湯あたりの心配は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>修善寺温泉の泉質や効能、湯あたりの心配は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 修善寺温泉の泉質はアルカリ性単純温泉（低張性・弱アルカリ性・高温泉）です。無色透明で無臭、肌への刺激が非常に穏やかなため、赤ちゃんからご年配の方まで安心して長湯を楽しめます。湯上がりは肌がすべすべになり保温効果も高いため、初冬の冷え性改善や疲労回復、筋肉痛の緩和に高い効果を発揮します。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>「竹林の小径」や温泉街の散策におすすめの時間帯は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>「竹林の小径」や温泉街の散策におすすめの時間帯は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 おすすめは宿泊当日の夕暮れ時（16時半〜17時半）と、翌朝の早朝（7時〜8時半）です。夕暮れ時は竹林の小径や桂川沿いの橋が温かな光でライトアップされ、幻想的な大人の夜散歩が楽しめます。また早朝は観光客がほとんどおらず、澄んだ冷涼な空気の中で竹の葉が擦れ合う爽やかな音と鳥の声だけが響く極上の静寂を体験できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>修善寺温泉へのアクセス方法と道路の凍結や積雪の心配は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>修善寺温泉へのアクセス方法と道路の凍結や積雪の心配は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 電車の場合はJR三島駅から伊豆箱根鉄道駿豆線に乗り換え約35分で修善寺駅へ。そこから路線バスで約8分です。お車の場合は東駿河湾環状線や伊豆縦貫道が直結しており、首都圏から約2時間半〜3時間。伊豆半島は温暖なため11月・12月に修善寺温泉街で積雪することは極めて稀です。ただし天城峠や箱根越えのルートを通る場合、12月下旬は夜間の路面凍結の恐れがあるため念のため冬用タイヤ装着が安心です。
               </p>
@@ -643,9 +619,7 @@ export default function ShuzenjiWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-emerald-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆東海・伊豆の名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆東海・伊豆の名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -654,9 +628,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬エンタメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【伊豆高原】グランイルミ体験型イルミネーションと伊東温泉・金目鯛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【伊豆高原】グランイルミ体験型イルミネーションと伊東温泉・金目鯛会席</h3>
             </Link>
 
             <Link 
@@ -664,9 +636,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">伊豆の冬美食</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【東伊豆・稲取】脂の乗った極上金目鯛しゃぶしゃぶと絶景オーシャンビュー露天
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【東伊豆・稲取】脂の乗った極上金目鯛しゃぶしゃぶと絶景オーシャンビュー露天</h3>
             </Link>
 
             <Link 
@@ -674,9 +644,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【熱海温泉】冬の澄んだ夜空を彩る熱海海上花火大会と部屋食オーシャンビュー宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【熱海温泉】冬の澄んだ夜空を彩る熱海海上花火大会と部屋食オーシャンビュー宿</h3>
             </Link>
 
             <Link 
@@ -684,9 +652,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">富士見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【箱根芦ノ湖】冬晴れに輝く富士山絶景と名湯露天風呂・極上リゾート宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れに輝く富士山絶景と名湯露天風呂・極上リゾート宿</h3>
             </Link>
 
             <Link 
@@ -694,9 +660,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">東海の三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛朴葉味噌焼き
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉の美肌湯・飛騨牛朴葉味噌焼き</h3>
             </Link>
 
             <Link 
@@ -704,9 +668,7 @@ export default function ShuzenjiWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-emerald-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-emerald-800 uppercase block mb-1">関西の小京都</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">
-                【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-emerald-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と嵯峨野竹林散策・名物湯豆腐会席の名宿</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-shizuoka-shuzenji-late-momiji-bamboo-stay" />

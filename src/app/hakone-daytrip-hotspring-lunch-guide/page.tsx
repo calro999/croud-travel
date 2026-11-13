@@ -204,9 +204,7 @@ export default function HakoneDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-cyan-600 uppercase">費用シミュレーション</span>
-              <h3 className="text-sm font-black text-slate-900 group-hover:text-cyan-700 transition">
-                【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の全費用
-              </h3>
+              <h3 className="text-sm font-black text-slate-900 group-hover:text-cyan-700 transition">【箱根旅行 費用】日帰り・1泊2日それぞれいくら？フリーパス活用の全費用</h3>
             </div>
             <span className="text-cyan-600 font-bold ml-2">→</span>
           </Link>
@@ -217,9 +215,7 @@ export default function HakoneDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-cyan-600 uppercase">徹底比較</span>
-              <h3 className="text-sm font-black text-slate-900 group-hover:text-cyan-700 transition">
-                【箱根 vs 熱海 どっちに行く？】日帰り・1泊それぞれのおすすめを本気比較
-              </h3>
+              <h3 className="text-sm font-black text-slate-900 group-hover:text-cyan-700 transition">【箱根 vs 熱海 どっちに行く？】日帰り・1泊それぞれのおすすめを本気比較</h3>
             </div>
             <span className="text-cyan-600 font-bold ml-2">→</span>
           </Link>
@@ -230,9 +226,7 @@ export default function HakoneDaytripHotspringLunchPage() {
       <section id="plans-comparison" className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-8">
         <div className="border-b border-cyan-100 pb-4">
           <span className="text-xs font-black tracking-widest text-cyan-700 uppercase">PLAN SELECTION</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            箱根の日帰り温泉＆ランチ 3大スタイルの特徴と料金目安
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">箱根の日帰り温泉＆ランチ 3大スタイルの特徴と料金目安</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             箱根の日帰り温泉ランチプランは「エリア」「滞在スタイル」「ランチの内容」で大きく3タイプに分かれます。
           </p>
@@ -255,9 +249,7 @@ export default function HakoneDaytripHotspringLunchPage() {
                 </div>
 
                 <div>
-                  <h3 className="text-base font-black text-slate-900 leading-snug">
-                    {plan.type}
-                  </h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug">{plan.type}</h3>
                   <div className="mt-2 text-lg font-black text-cyan-700">
                     {plan.priceRange}
                   </div>
@@ -292,9 +284,7 @@ export default function HakoneDaytripHotspringLunchPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="border-b border-cyan-100 pb-4">
           <span className="text-xs font-black tracking-widest text-cyan-700 uppercase">BEST TIMELINE</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            日帰りで120%満喫する！至福の個室ステイ 1日タイムスケジュール
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">日帰りで120%満喫する！至福の個室ステイ 1日タイムスケジュール</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             都内から出発して夕方には優雅に帰宅できる、無駄のない大人のモデルコースです。
           </p>
@@ -308,9 +298,7 @@ export default function HakoneDaytripHotspringLunchPage() {
                 <span className="text-xs font-black text-cyan-800 bg-cyan-100 px-2.5 py-0.5 rounded-md border border-cyan-200">
                   {item.time}
                 </span>
-                <h3 className="text-sm md:text-base font-black text-slate-900">
-                  {item.title}
-                </h3>
+                <h3 className="text-sm md:text-base font-black text-slate-900">{item.title}</h3>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-1">
                 {item.desc}
@@ -331,9 +319,7 @@ export default function HakoneDaytripHotspringLunchPage() {
               運転なし・乗り換えなしで直行！
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            箱根名湯＆グルメ付き！楽天トラベル日帰りバスツアー
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">箱根名湯＆グルメ付き！楽天トラベル日帰りバスツアー</h2>
           <p className="text-xs md:text-sm text-cyan-100/80 leading-relaxed font-medium">
             電車やロマンスカーの乗り換えが面倒な方には、都内（新宿・東京・横浜など）から直行する「日帰り温泉＆ランチ付きバスツアー」が大人気！芦ノ湖遊覧船や大涌谷観光、海鮮・湯葉バイキングがセットになったお得な限定プランが多数ラインナップされています。
           </p>
@@ -384,9 +370,7 @@ export default function HakoneDaytripHotspringLunchPage() {
           <div className="flex items-center gap-2 text-cyan-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>RECOMMENDED RYOKAN & HOTELS</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            日帰りプラン・温泉自慢のおすすめ名旅館
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">日帰りプラン・温泉自慢のおすすめ名旅館</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             日帰り入浴や個室デイユース、宿泊でも高評価を誇る箱根の名湯宿を厳選。
           </p>
@@ -421,9 +405,7 @@ export default function HakoneDaytripHotspringLunchPage() {
                   </div>
 
                   <div className="p-5 space-y-2">
-                    <h3 className="text-sm md:text-base font-black font-journal-serif text-slate-900">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm md:text-base font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed">
                         {hotel.hotelSpecial}
@@ -454,9 +436,7 @@ export default function HakoneDaytripHotspringLunchPage() {
 
       {/* 失敗しない予約のポイント・注意点 */}
       <section className="bg-cyan-50/50 border border-cyan-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="text-base md:text-lg font-black font-journal-serif text-cyan-950 flex items-center gap-2">
-          <span>💡</span> 箱根の日帰り温泉＆ランチを予約する前の注意点
-        </h3>
+        <h3 className="text-base md:text-lg font-black font-journal-serif text-cyan-950 flex items-center gap-2">箱根の日帰り温泉＆ランチを予約する前の注意点</h3>
         <ul className="space-y-2 text-xs md:text-sm text-slate-700 leading-relaxed list-disc list-inside">
           <li>
             <strong className="text-slate-900">個室利用時間は11:00〜15:00頃が中心：</strong>

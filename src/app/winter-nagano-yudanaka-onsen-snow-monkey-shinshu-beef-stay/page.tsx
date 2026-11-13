@@ -222,9 +222,7 @@ export default function NaganoYudanakaWinterPage() {
             <span>11月・12月 冬の信州・湯田中渋温泉郷特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月信州湯田中渋温泉郷の雪中スノーモンキーと開湯1350年名湯】登録有形文化財風呂・信州プレミアム牛ステーキ＆雪見酒の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月下旬から12月にかけて、北信濃・志賀高原山麓の湯田中渋温泉郷は初雪が舞い降り、世界で唯一温泉に浸かる野生ザル「スノーモンキー」の感動的なシーズンを迎えます。開湯1350年の歴史が息づく石畳の小径、国の登録有形文化財に指定された壮麗な純木造「桃山風呂」や九湯めぐりの風情。白銀の山並みを眺めながら浸かる源泉掛け流しの雪見露天風呂、極上銘柄牛「信州プレミアム牛」の陶板ステーキや信州サーモン、名物信州そばと雪見酒に酔いしれる、至高の冬名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function NaganoYudanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Heritage & Nature Wonder</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の湯田中渋温泉郷：雪中スノーモンキーと開湯1350年の情緒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の湯田中渋温泉郷：雪中スノーモンキーと開湯1350年の情緒</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function NaganoYudanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Heritage Architecture & Shinshu Terroir</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                桃山風呂の建築美と、オレイン酸香る「信州プレミアム牛肉」の極み
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">桃山風呂の建築美と、オレイン酸香る「信州プレミアム牛肉」の極み</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-indigo-700" />
-              <span>釘を使わない純木造格天井の建築美と、肌をいたわる弱アルカリ単純泉</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+              <span>釘を使わない純木造格天井の建築美と、肌をいたわる弱アルカリ単純泉</span></h3>
             <p>
               湯田中温泉の象徴である「よろづや 桃山風呂」は、昭和初期の日本の宮大工の技が結集した純木造伽藍建築の傑作です。釘を一本も使わずに組み上げられた折上格天井（おりあげごうてんじょう）は高さ数メートルに達し、立ち上る湯煙が自然換気によって天井高く抜ける立体設計となっています。湯室内は常に清々しい木造の香りと湯気に満たされ、入浴自体が神聖な儀式のように感じられます。
             </p>
             <p>
               注がれるお湯は、敷地内の自家源泉から滾々と湧き出る無色透明の弱アルカリ性単純温泉。刺激が少なく肌にやさしい泉質で、赤ちゃんから高齢者まで安心して長湯を楽しめます。弱アルカリ性の成分が肌表面の角質を優しくなめらかに整え、入浴後も湯冷めしにくく、神経痛や筋肉痛、冬の冷え性に優れた効能をもたらします。雪見露天風呂の石造りの湯船からは、雪化粧した日本庭園の松や灯籠を眺めながら静かな瞑想の湯浴みが叶います。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-indigo-700" />
-              <span>オレイン酸基準クリアの極上「信州プレミアム牛」と手打ち信州そばの贅</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-indigo-700" />
+              <span>オレイン酸基準クリアの極上「信州プレミアム牛」と手打ち信州そばの贅</span></h3>
             <p>
               ディナーの主役となる「信州プレミアム牛肉」は、長野県が全国に先駆けて導入した美味しさの科学的基準（オレイン酸含有率55%以上かつサシ基準を満たすもの）をクリアした極上の黒毛和牛です。オレイン酸を豊富に含む脂は融点が約16℃と極めて低いため、口の中に入れた瞬間に体温でスッと溶け、舌の上に脂っぽさが残らず芳醇な甘みとナッツのような香ばしさが広がります。
             </p>
@@ -313,9 +303,7 @@ export default function NaganoYudanakaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Selected Ryokans & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              湯田中渋温泉郷の魅力を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">湯田中渋温泉郷の魅力を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               登録有形文化財の老舗宿、ルーフトップバーモダン宿、自家源泉100%宿、スノーモンキー送迎宿、九湯めぐり美食宿まで徹底比較。
             </p>
@@ -357,19 +345,15 @@ export default function NaganoYudanakaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                         {h.story}
                       </p>
 
                       <div className="space-y-2 pt-2 border-t border-slate-100">
-                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Sparkles className="w-3.5 h-3.5 text-indigo-700" />
-                          <span>この宿の宿泊ハイライト</span>
-                        </h4>
+                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-indigo-700" />
+                          <span>この宿の宿泊ハイライト</span></h4>
                         <ul className="grid grid-cols-1 gap-1.5 text-xs text-slate-600">
                           {h.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-2">
@@ -427,17 +411,13 @@ export default function NaganoYudanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Snow Monkey Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月 スノーモンキーと桃山風呂を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月 スノーモンキーと桃山風呂を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs">1</span>
-                <span>1日目：雪中の地獄谷スノーモンキーと温泉街</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs">1</span>
+                <span>1日目：雪中の地獄谷スノーモンキーと温泉街</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-indigo-800 shrink-0">11:00</span>
@@ -463,10 +443,8 @@ export default function NaganoYudanakaWinterPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs">2</span>
-                <span>2日目：渋温泉石畳散策と九湯めぐり</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs">2</span>
+                <span>2日目：渋温泉石畳散策と九湯めぐり</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-indigo-800 shrink-0">07:00</span>
@@ -501,26 +479,20 @@ export default function NaganoYudanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Travel Checklist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の湯田中渋温泉郷旅行で知っておくべき重要アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の湯田中渋温泉郷旅行で知っておくべき重要アドバイス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-700" />
-                <span>地獄谷野猿公苑散策の足元と防寒装備</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-700" />
+                <span>地獄谷野猿公苑散策の足元と防寒装備</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 上林温泉の駐車場から地獄谷野猿公苑までは約1.6kmの未舗装山道（遊歩道）を歩きます。11月下旬以降は雪やぬかるみ、凍結が発生するため、革靴やヒールは厳禁です。滑り止めの効いた防水スノーブーツまたはトレッキングシューズ、厚手のダウンジャケット、ニット帽、手袋を必ず着用してください。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-indigo-700" />
-                <span>冬期タイヤ規制と公共交通機関の利便性</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Footprints className="w-4 h-4 text-indigo-700" />
+                <span>冬期タイヤ規制と公共交通機関の利便性</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 志賀高原山麓の道路は11月中旬以降、朝晩を中心に路面凍結が発生します。マイカー利用の場合は必ずスタッドレスタイヤを装着してください。長野駅からは長野電鉄特急が直通運行しており、雪道運転の不安なくスムーズに移動できるため、電車・バスの利用が非常に快適です。
               </p>
@@ -536,18 +508,14 @@ export default function NaganoYudanakaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                湯田中渋温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">湯田中渋温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -560,9 +528,7 @@ export default function NaganoYudanakaWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest">Related Alpine & Snow Retreats</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい信州・甲信越の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい信州・甲信越の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪やパウダースノー、信州プレミアム牛を味わう厳選特集もぜひご覧ください。
             </p>

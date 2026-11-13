@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬限定・神降地カラマツ黄葉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬！上高地黄金のカラマツ黄葉】<br className="hidden sm:inline" />大正池・河童橋と乳白色の白骨名湯宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月下旬！上高地黄金のカラマツ黄葉】<br className="hidden sm:inline" />大正池・河童橋と乳白色の白骨名湯宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             梓川のエメラルドグリーンと、黄金色に輝くカラマツ林。初冠雪の穂高連峰が織りなす「三段紅葉」の奇跡！11月の閉山直前に訪れたい上高地と、秘湯・白骨温泉の極上宿を厳選。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              冠雪の穂高と黄金に輝くカラマツ林。息をのむ秋の神降地と秘湯・白骨温泉
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">冠雪の穂高と黄金に輝くカラマツ林。息をのむ秋の神降地と秘湯・白骨温泉</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             国の特別名勝・特別天然記念物に指定されている日本屈指の山岳リゾート「上高地」。10月中旬を過ぎると、梓川の岸辺を埋め尽くすカラマツが黄金色に染まり、初冠雪した穂高連峰の険しい山肌とのコントラストは言葉を失うほどの美しさです。早朝の大正池に立ち込める朝靄、河童橋からの絶景を歩いた後は、車で約30分の山あいに佇む白骨温泉へ。乳白色に濁る名湯に身を委ね、信州の秋の味覚に舌鼓を打つ極上の旅をお届けします。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】上高地カラマツ黄葉と白骨温泉満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】上高地カラマツ黄葉と白骨温泉満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-600 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と上高地旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と上高地旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

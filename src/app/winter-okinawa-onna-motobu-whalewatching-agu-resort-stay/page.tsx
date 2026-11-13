@@ -301,9 +301,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬こそが最高の大人の沖縄：平均20℃の静寂避寒と野生クジラが紡ぐ奇跡
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬こそが最高の大人の沖縄：平均20℃の静寂避寒と野生クジラが紡ぐ奇跡</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <Sparkles className="w-4 h-4 text-teal-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              ホエールウォッチングと冬美食を満喫する恩納村リゾート5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">ホエールウォッチングと冬美食を満喫する恩納村リゾート5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function OkinawaOnnaMotobuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の沖縄本島・恩納村＆本部 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の沖縄本島・恩納村＆本部 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：那覇空港到着・沖縄そばランチと万座毛夕陽＆恩納村スパリゾート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：那覇空港到着・沖縄そばランチと万座毛夕陽＆恩納村スパリゾート</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 那覇空港に到着後、レンタカーで沖縄自動車道を北上。途中、名護や恩納村の老舗店で熱々のソーキそばをランチに堪能。象の鼻の奇岩で知られる景勝地「万座毛」へ立ち寄り、冬の澄んだ東シナ海の波濤と夕陽パノラマを展望。夕方に恩納村のラグジュアリーリゾートへチェックイン。温水インドアプールやスパでリフレッシュした後、ディナーはやんばる島豚あぐーの出汁しゃぶしゃぶコースを堪能します。
               </p>
@@ -475,9 +465,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：本部沖ホエールウォッチングクルーズと美ら海水族館＆もとぶ牛鉄板焼き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：本部沖ホエールウォッチングクルーズと美ら海水族館＆もとぶ牛鉄板焼き</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中は本部港または恩納村マリーナからホエールウォッチング船に乗船。ザトウクジラの巨大なブロウやジャンプを間近に観察する感動の海洋体験。午後は混雑のない「沖縄美ら海水族館」へ。「黒潮の海」大水槽でジンベエザメが悠然と泳ぐ姿をゆったり観賞し、備瀬のフクギ並木を水牛車でのんびり散策。夜はリゾートのレストランで、最高等級もとぶ牛の鉄板焼きステーキとワインを楽しみます。
               </p>
@@ -486,9 +474,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：やちむんの里工芸めぐり・古民家カフェと首里城初詣＆お土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：やちむんの里工芸めぐり・古民家カフェと首里城初詣＆お土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 読谷村の「やちむんの里」へ立ち寄り、登り窯の赤瓦と緑に囲まれた工房で沖縄伝統の陶器（やちむん）の器を吟味。午後は那覇へ戻り、復興が進む首里城公園を散策して新年の安寧を祈願。那覇空港でお土産（冬の完熟タンカン、黒糖カヌレ、限定泡盛）を購入し帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function OkinawaOnnaMotobuWinterPage() {
             <ThermometerSun className="w-4 h-4 text-teal-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の沖縄を快適に満喫するための気候・服装・ホエールウォッチング準備
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の沖縄を快適に満喫するための気候・服装・ホエールウォッチング準備</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【気候と服装：北風対策のマウンテンパーカー】</span>
@@ -528,26 +512,20 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               沖縄・恩納村＆やんばるの冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              南国の太陽と豊かな森が育む冬の特産品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">南国の太陽と豊かな森が育む冬の特産品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                冬の柑橘の王様「やんばるタンカン」＆島らっきょう
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                冬の柑橘の王様「やんばるタンカン」＆島らっきょう</h3>
               <p>
                 12月下旬から1月にかけて旬を迎える「タンカン」は、温州みかんの甘みとオレンジの濃厚な香りを併せ持つ沖縄の冬の代表果実。果汁が非常に多く、濃厚な甘酸っぱさが旅の疲れを癒やします。また、冬から春に収穫が始まるシャキシャキの「島らっきょう」の塩漬けは、ビールや泡盛のアテに最高のお土産です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                やちむん（伝統陶器）の器＆熟成古酒泡盛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                やちむん（伝統陶器）の器＆熟成古酒泡盛</h3>
               <p>
                 ぽってりとした厚みと鮮やかなコバルトブルー・唐草模様が美しい「やちむん」。日々の食卓を華やかに彩るマグカップや平皿は旅の思い出にぴったり。さらに冬の静かな夜にじっくり味わいたい長期熟成の「古酒（クース）泡盛」は、バニラのような芳醇な香りとまろやかな口当たりが魅力です。
               </p>
@@ -562,27 +540,21 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               沖縄自然文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ沖縄近海が世界屈指のクジラの揺りかごと呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ沖縄近海が世界屈指のクジラの揺りかごと呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Anchor className="w-4 h-4 text-teal-700" />
-                慶良間・本部沖の穏やかなサンゴ礁と冬の適温海水
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Anchor className="w-4 h-4 text-teal-700" />
+                慶良間・本部沖の穏やかなサンゴ礁と冬の適温海水</h3>
               <p>
                 ザトウクジラは体長15mにもなる大型哺乳類ですが、生まれたばかりの赤ちゃんクジラは皮下脂肪が薄く、冷たい極北の海では体温を維持できません。沖縄周辺の海は冬でも水温が約21〜23℃と温かく、サンゴ礁や島々に囲まれた浅瀬は外洋の荒波や天敵（シャチ）から母子を守る理想的な「産院・保育所」となります。春先までの約3ヶ月間、母クジラは飲まず食わずで授乳し、子どもに泳ぎや呼吸を教え込みます。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                幻の在来豚アグーの復活劇：琉球王朝から続く食の誇り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                幻の在来豚アグーの復活劇：琉球王朝から続く食の誇り</h3>
               <p>
                 約600年前に中国から導入されたとされる在来豚「アグー」。戦後の混乱期に絶滅の危機に瀕し、わずか18頭まで激減しましたが、関係者の執念の交配努力によって奇跡の復活を遂げました。一般的な豚肉の何倍もの旨み成分とコラーゲンを含み、コレステロール値が低いアグー豚は、医食同源（クスイムン）を尊ぶ沖縄の人々の魂の味として今も愛されています。
               </p>
@@ -597,18 +569,14 @@ export default function OkinawaOnnaMotobuWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の沖縄・恩納村旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の沖縄・恩納村旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

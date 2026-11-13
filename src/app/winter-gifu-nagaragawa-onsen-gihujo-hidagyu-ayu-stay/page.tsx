@@ -354,9 +354,7 @@ export default function GifuNagaragawaWinterPage() {
               <Castle className="w-4 h-4" />
               信長公が愛した金華山の麓に湧く、黄金色の奇跡の湯
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              初冬の長良川温泉が大人の心を惹きつける3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">初冬の長良川温泉が大人の心を惹きつける3つの理由</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -380,9 +378,7 @@ export default function GifuNagaragawaWinterPage() {
             <span className="text-red-900 font-bold text-xs sm:text-sm tracking-wider uppercase bg-red-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              長良川温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">長良川温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               万延元年創業の老舗から展望露天絶景宿、名門シティリゾート、鵜匠ゆかりの料理宿まで
             </p>
@@ -416,9 +412,7 @@ export default function GifuNagaragawaWinterPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-red-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-red-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-red-900 font-medium">
                         {hotel.special}
                       </p>
@@ -481,35 +475,27 @@ export default function GifuNagaragawaWinterPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の岐阜・長良川温泉美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の長良川で味わい尽くすA5飛騨牛と冬の子持ち鮎
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の長良川で味わい尽くすA5飛騨牛と冬の子持ち鮎</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-red-400" />
-                最高峰A5ランク「飛騨牛すき焼き」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-red-400" />
+                最高峰A5ランク「飛騨牛すき焼き」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 飛騨の清冽な水と豊かな自然が育んだ黒毛和牛の頂点「飛騨牛」。寒さが増す初冬はサシの甘みが際立ち、すき焼き鍋で甘辛く煮絡めれば、口の中でとろけるような感動をもたらします。朴葉味噌焼きの香ばしさも格別です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-red-400" />
-                卵がぎっしり「冬の子持ち鮎甘露煮」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-red-400" />
+                卵がぎっしり「冬の子持ち鮎甘露煮」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 秋から初冬にかけて産卵のため川を下る落ち鮎は、腹いっぱいに卵を抱えています。炭火でじっくり焼き上げた塩焼きは皮がパリッと卵がプチプチ。番茶と醤油、みりんで骨まで柔らかく煮込んだ甘露煮は滋味あふれる名物です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-red-400" />
-                美濃の地酒「長良川」「三諸杉」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-red-400" />
+                美濃の地酒「長良川」「三諸杉」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 清流長良川の伏流水で仕込まれる岐阜の銘酒。初冬に搾られる新酒はフレッシュで華やかな香りとキレ味を誇り、濃厚な飛騨牛すき焼きや甘露煮の旨味を何倍にも引き立ててくれます。熱燗で身体を芯から温めるのも至高。
               </p>
@@ -523,17 +509,13 @@ export default function GifuNagaragawaWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長良川温泉を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長良川温泉を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-red-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-red-100 text-red-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：岐阜城登閣と川原町散策・黄金色の赤湯と飛騨牛すき焼きの夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                金華山ロープウェーで岐阜城へ、格子戸の川原町散策と名湯に浸かる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">金華山ロープウェーで岐阜城へ、格子戸の川原町散策と名湯に浸かる</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午後、JR岐阜駅よりバスで長良川温泉へ。金華山ロープウェーで山頂へ登り、信長公ゆかりの「岐阜城」天守閣から濃尾平野と日本アルプスの大パノラマを堪能。下山後は格子戸の町家が連なる「川原町」を散策し、美濃和紙の雑貨や名物カフェで一服。宿にチェックインし、黄金色の含鉄泉赤湯で身体を温めた後、A5飛騨牛すき焼きと冬の子持ち鮎甘露煮に舌鼓を打ちます。
               </p>
@@ -543,9 +525,7 @@ export default function GifuNagaragawaWinterPage() {
               <div className="inline-block bg-red-100 text-red-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：長良川の朝霧観賞と岐阜大仏・美濃和紙の里めぐり
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                長良川の幻想的な朝霧を眺め、岐阜大仏と歴史ある寺町を巡る
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">長良川の幻想的な朝霧を眺め、岐阜大仏と歴史ある寺町を巡る</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、長良川の川面から立ち上る幻想的な朝霧を眺めながら露天風呂で朝湯を満喫。朝食後は日本三大仏の一つに数えられる「岐阜大仏（正法寺）」を参拝し、堂々たる木心乾漆仏の迫力に圧倒されます。その後は足を延ばして「うだつの上がる町並み」で知られる美濃市へ。職人が漉く手漉き美濃和紙の工房見学を楽しみ、冬の岐阜の豊かな歴史文化を体感して帰路につきます。
               </p>
@@ -559,25 +539,19 @@ export default function GifuNagaragawaWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長良川温泉旅行のポイントと寒さ対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長良川温泉旅行のポイントと寒さ対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-red-700" />
-                伊吹おろしの風と防寒着の選び方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-red-700" />
+                伊吹おろしの風と防寒着の選び方</h3>
               <p>
                 岐阜市街地・長良川沿いは濃尾平野の北部に位置し、11月の最高気温は約15〜18℃、12月は約10〜13℃です。平野部のため11月や12月に積雪することは稀ですが、伊吹山方面から吹き付ける冷たい「伊吹おろし」によって体感温度が下がります。岐阜城見学や川原町散策には、風を通さない厚手のコートやダウン、マフラーの着用がおすすめです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-red-700" />
-                名古屋から約30分の抜群のアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-red-700" />
+                名古屋から約30分の抜群のアクセス</h3>
               <p>
                 東海道新幹線名古屋駅からJR東海道本線で岐阜駅まで約20分。岐阜駅バスターミナルから岐阜バスで約15分と、大都市圏からのアクセスは極めて良好です。車の場合は東海北陸自動車道岐阜各務原ICより約20分。冬用タイヤの心配も基本的には不要で、気軽に訪れることができる都市近郊の名湯です。
               </p>
@@ -591,16 +565,12 @@ export default function GifuNagaragawaWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岐阜・長良川温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岐阜・長良川温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-red-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-red-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -612,10 +582,8 @@ export default function GifuNagaragawaWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-950 to-red-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-red-300" />
-              あわせて読みたい中部の冬名湯・飛騨牛特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-red-300" />
+              あわせて読みたい中部の冬名湯・飛騨牛特集</h3>
             <p className="text-xs sm:text-sm text-red-200">
               歴史薫る宿と最高峰の飛騨牛・雪見露天を味わい尽くす冬旅ガイド
             </p>
@@ -627,9 +595,7 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・下呂温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">
-                下呂冬花火物語＆つるすべ名泉と飛騨牛すき焼き名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">下呂冬花火物語＆つるすべ名泉と飛騨牛すき焼き名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本三名泉の極上美肌湯と冬の澄んだ夜空を彩る花火、極上飛騨牛を堪能。
               </p>
@@ -640,9 +606,7 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・奥飛騨温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">
-                奥飛騨の雪見大露天風呂＆飛騨牛朴葉味噌焼き名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">奥飛騨の雪見大露天風呂＆飛騨牛朴葉味噌焼き名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 北アルプスの白銀絶景と湯量日本屈指の雪見露天、囲炉裏料理で温まる冬旅。
               </p>
@@ -653,9 +617,7 @@ export default function GifuNagaragawaWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-red-300 bg-red-400/20 px-2 py-0.5 rounded-full inline-block">滋賀・長浜太閤温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">
-                初冬琵琶湖夕景＆解禁名物天然真鴨鍋と極上近江牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-red-200 transition line-clamp-2">初冬琵琶湖夕景＆解禁名物天然真鴨鍋と極上近江牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 秀吉ゆかりの総鉄泉と初冬の琵琶湖、冬の味覚の王様天然真鴨鍋を味わう旅。
               </p>

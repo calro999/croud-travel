@@ -230,9 +230,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
             <span className="w-8 h-8 rounded-full bg-amber-500 text-slate-950 font-black flex items-center justify-center text-sm">
               💡
             </span>
-            <h2 className="text-lg sm:text-2xl font-bold text-white">
-              なぜ「朝7時〜8時台の近江町市場・金沢駅」が最強なのか？
-            </h2>
+            <h2 className="text-lg sm:text-2xl font-bold text-white">なぜ「朝7時〜8時台の近江町市場・金沢駅」が最強なのか？</h2>
           </div>
           <div className="space-y-4 text-sm text-slate-300 leading-relaxed">
             <p>
@@ -259,10 +257,8 @@ export default function KanazawaEarlyMorningBreakfastPage() {
         {/* メイン：金沢の早朝朝食おすすめ7選 */}
         <section className="space-y-6">
           <div className="border-b border-amber-500/30 pb-3">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-              <span className="text-amber-400 font-mono">SELECTION</span>
-              金沢の早朝朝食スポット厳選7店
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3"><span className="text-amber-400 font-mono">SELECTION</span>
+              金沢の早朝朝食スポット厳選7店</h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
               朝7:00〜8:00から営業している海鮮丼・おにぎり・名物喫茶の実力派リスト
             </p>
@@ -311,9 +307,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
 
         {/* 早朝到着リフレッシュ タイムライン */}
         <section className="bg-gradient-to-br from-amber-950/40 via-slate-900 to-slate-950 border border-amber-500/30 rounded-3xl p-6 sm:p-8">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-2 flex items-center gap-2">
-            <span>🎒</span> 夜行バス・始発到着者のための「完全リフレッシュ手順」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-2 flex items-center gap-2">夜行バス・始発到着者のための「完全リフレッシュ手順」</h2>
           <p className="text-xs sm:text-sm text-slate-400 mb-6">
             早朝6時台の到着からスムーズに金沢観光へ合流するための鉄板タイムライン
           </p>
@@ -341,10 +335,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
           <div className="border-b border-amber-500/30 pb-3">
             <div className="flex items-center justify-between flex-wrap gap-2">
               <div>
-                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-                  <span className="text-amber-400">🏨</span>
-                  金沢 朝食クチコミ高評価＆駅前好立地ホテル
-                </h2>
+                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">金沢 朝食クチコミ高評価＆駅前好立地ホテル</h2>
                 <p className="text-xs sm:text-sm text-slate-400 mt-1">
                   朝食バイキングで治部煮や金沢おでんが味わえる！早朝観光の拠点に最適な宿泊先
                 </p>
@@ -399,9 +390,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
                           )}
                         </div>
 
-                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">{hotel.hotelName}</h3>
 
                         {hotel.hotelSpecial && (
                           <p className="text-xs text-slate-300 line-clamp-3 mb-3 leading-relaxed">
@@ -448,9 +437,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
         {/* 内部リンク回遊ブロック */}
         <section className="pt-8 border-t border-slate-800">
           <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 text-center">
-            <h3 className="text-sm font-bold text-slate-300 mb-4">
-              あわせて読みたい金沢旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-slate-300 mb-4">あわせて読みたい金沢旅行ガイド</h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
                 href="/tokyo-kanazawa-bus-vs-shinkansen-guide/"
@@ -475,9 +462,7 @@ export default function KanazawaEarlyMorningBreakfastPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニングの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と朝7時から開いている海鮮丼・絶品おにぎり・純喫茶モーニングの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

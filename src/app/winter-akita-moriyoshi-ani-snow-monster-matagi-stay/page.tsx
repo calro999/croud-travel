@@ -268,9 +268,7 @@ export default function AkitaMoriyoshiAniPage() {
               <Sparkles className="w-4 h-4 text-blue-800" />
               森吉山阿仁の冬が特別な理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              日本三大樹氷の圧倒的造形美と秋田内陸線の雪景色・マタギの温かな知恵
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">日本三大樹氷の圧倒的造形美と秋田内陸線の雪景色・マタギの温かな知恵</h2>
           </div>
 
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
@@ -293,9 +291,7 @@ export default function AkitaMoriyoshiAniPage() {
               <ShieldCheck className="w-4 h-4" />
               厳選宿泊施設ガイド
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">
-              森吉山の樹氷とマタギ秘湯に浸る名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">森吉山の樹氷とマタギ秘湯に浸る名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
@@ -325,9 +321,7 @@ export default function AkitaMoriyoshiAniPage() {
                         <Flame className="w-3.5 h-3.5" />
                         森吉山樹氷アクセス＆マタギ秘湯
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -390,17 +384,13 @@ export default function AkitaMoriyoshiAniPage() {
               <Compass className="w-4 h-4 text-blue-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              秋田内陸線と森吉山樹氷鑑賞・マタギ秘湯を満喫する冬山紀行
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">秋田内陸線と森吉山樹氷鑑賞・マタギ秘湯を満喫する冬山紀行</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【1日目】角館から内陸線で阿仁へ・マタギの湯治宿へ
-              </h3>
+              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【1日目】角館から内陸線で阿仁へ・マタギの湯治宿へ</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -430,10 +420,8 @@ export default function AkitaMoriyoshiAniPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【2日目】森吉山ゴンドラで巨樹氷スノーモンスターと対面
-              </h3>
+              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【2日目】森吉山ゴンドラで巨樹氷スノーモンスターと対面</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -467,27 +455,21 @@ export default function AkitaMoriyoshiAniPage() {
               <ShoppingBag className="w-4 h-4 text-blue-800" />
               北秋田・阿仁の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              森吉山の旅で手に入れたい伝統銘品と冬のおすすめ立ち寄り処
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">森吉山の旅で手に入れたい伝統銘品と冬のおすすめ立ち寄り処</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-blue-700" />
-                マタギの保存食が生んだ名菓「バター餅」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-blue-700" />
+                マタギの保存食が生んだ名菓「バター餅」</h3>
               <p>
                 北秋田市阿仁地方の伝統銘菓「バター餅」。元々はマタギが冬の狩猟の際に、厳しい寒さの中でも固くならない携行食として餅にバターや砂糖、卵黄を練り込んだのが始まりです。ふんわりと柔らかく、上品な甘みとバターの芳醇な風味が後を引く美味しさで、全国的な人気を誇るご当地スイーツです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-blue-700" />
-                本場北秋田の比内地鶏スープ＆秋田内陸線オリジナルグッズ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-blue-700" />
+                本場北秋田の比内地鶏スープ＆秋田内陸線オリジナルグッズ</h3>
               <p>
                 日本三大地鶏の一つ「比内地鶏」。阿仁合駅や道の駅では、比内地鶏の旨味が凝縮された濃縮鍋スープやレトルトきりたんぽセットが手に入ります。また、秋田犬の愛らしいマスコットや内陸線の車両をモチーフにした鉄道グッズも旅の記念に最適です。
               </p>
@@ -502,32 +484,24 @@ export default function AkitaMoriyoshiAniPage() {
               <ThermometerSun className="w-4 h-4 text-blue-800" />
               森吉山樹氷のメカニズムとマタギ文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ森吉山に世界的な「スノーモンスター」が誕生するのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ森吉山に世界的な「スノーモンスター」が誕生するのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Snowflake className="w-4 h-4 text-blue-700" />
-              アオモリトドマツ原生林と日本海の季節風が生み出す「奇跡の造形」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Snowflake className="w-4 h-4 text-blue-700" />
+              アオモリトドマツ原生林と日本海の季節風が生み出す「奇跡の造形」</h3>
             <p>
               樹氷が形成されるためには、「過冷却水滴（0℃以下でも凍らない微細な水滴）」を含んだ強い季節風と、着氷の土台となる常緑針葉樹「アオモリトドマツ」の自生が不可欠です。森吉山は日本海からの寒気団を正面から受ける絶妙な地理的条件にあり、アオモリトドマツの枝葉に吹き付けられた過冷却水滴が瞬間的に凍結して「エビの尻尾」と呼ばれる氷の層を作ります。その隙間に粉雪が入り込んで固まる現象が何度も繰り返されることで、12月下旬から1月にかけて巨大なスノーモンスターへと成長します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-blue-700" />
-              自然を敬い命をいただく・阿仁マタギが数百年受け継いできた精神
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-blue-700" />
+              自然を敬い命をいただく・阿仁マタギが数百年受け継いできた精神</h3>
             <p>
               「マタギ」とは、単なる猟師ではなく、山を神聖な領域として敬い、厳しい掟と独自の言語（マタギ言葉）を守りながら自然と共生してきた集団です。獲物を必要な分だけ授かり、肉や皮、内臓、骨に至るまで余すことなく感謝して利用するその姿勢は、現代のSDGsや生態系保全の先駆けとも言えます。打当温泉をはじめとする阿仁の宿では、そうしたマタギの精神が息づく料理ともてなしを通じて、命の尊さと雪国の深い温もりに触れることができます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Mountain className="w-4 h-4 text-blue-700" />
-              初心者でも気軽にアクセスできる優れた樹氷鑑賞インフラ
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Mountain className="w-4 h-4 text-blue-700" />
+              初心者でも気軽にアクセスできる優れた樹氷鑑賞インフラ</h3>
             <p>
               蔵王や八甲田の樹氷原が広大なスキーエリアの中に位置するのに対し、森吉山阿仁スキー場はゴンドラ山頂駅から歩いてすぐの場所に専用の「樹氷平トレッキングコース」が整備されているのが大きな特徴です。スキーやスノーボードを装着しなくても、普段着の上に防寒着を羽織るだけで、誰でも安全にスノーモンスターの足元まで近づいて鑑賞・撮影できます。山頂駅舎の無料貸出装備やスタッフの温かなサポート体制も、森吉山が多くの旅行者に選ばれる大きな理由です。
             </p>
@@ -541,18 +515,14 @@ export default function AkitaMoriyoshiAniPage() {
               <HelpCircle className="w-4 h-4 text-blue-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の森吉山・阿仁旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の森吉山・阿仁旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

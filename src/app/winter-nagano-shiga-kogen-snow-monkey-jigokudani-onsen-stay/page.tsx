@@ -190,10 +190,8 @@ export default function ShigaKogenSnowMonkeyPage() {
       <main className="max-w-5xl mx-auto px-4 py-12">
         {/* リード文・見どころ詳細解説 */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4">
-            <Camera className="w-6 h-6 text-blue-600" />
-            白銀の北信濃が魅せる二大奇跡：スノーモンキーと国内屈指のパウダースノー
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4"><Camera className="w-6 h-6 text-blue-600" />
+            白銀の北信濃が魅せる二大奇跡：スノーモンキーと国内屈指のパウダースノー</h2>
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -209,10 +207,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
           {/* 現地攻略インフォボックス */}
           <div className="mt-8 bg-sky-50/70 border border-sky-100 rounded-xl p-5 sm:p-6">
-            <h3 className="text-base font-bold text-sky-950 mb-3 flex items-center gap-2">
-              <Info className="w-5 h-5 text-sky-600" />
-              冬の地獄谷野猿公苑・志賀高原散策：知っておくべき3つの鉄則
-            </h3>
+            <h3 className="text-base font-bold text-sky-950 mb-3 flex items-center gap-2"><Info className="w-5 h-5 text-sky-600" />
+              冬の地獄谷野猿公苑・志賀高原散策：知っておくべき3つの鉄則</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-sky-900">
               <div className="bg-white p-3.5 rounded-lg border border-sky-100">
                 <span className="font-bold text-sky-700 block mb-1">1. 足元はスノーブーツ必須</span>
@@ -236,9 +232,7 @@ export default function ShigaKogenSnowMonkeyPage() {
             <span className="text-xs sm:text-sm font-extrabold text-blue-600 tracking-wider uppercase bg-blue-50 px-3.5 py-1.5 rounded-full border border-blue-100">
               Selected 5 Winter Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">
-              志賀高原・湯田中渋温泉郷を満喫する厳選ホテル・老舗温泉宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">志賀高原・湯田中渋温泉郷を満喫する厳選ホテル・老舗温泉宿5選</h2>
             <p className="text-sm text-slate-600 mt-2 max-w-2xl mx-auto">
               ゲレンデ直結の高原メガリゾートから、登録有形文化財の木造建築、展望露天風呂の美食宿まで、冬の滞在を至福にする名宿を厳選しました。
             </p>
@@ -263,16 +257,14 @@ export default function ShigaKogenSnowMonkeyPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30695%2F30695.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     志賀高原プリンスホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -293,10 +285,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>焼額山スキー場が目の前！スキーイン・スキーアウト可能な圧倒的利便性</span></li>
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>標高1,500mを超える高地ならではの極上ドライパウダースノーを堪能</span></li>
@@ -350,16 +340,14 @@ export default function ShigaKogenSnowMonkeyPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52848%2F52848.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     湯田中温泉　よろづや
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -380,10 +368,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>日本の温泉文化を象徴する総木造の伽藍建築「桃山風呂」の圧倒的風格</span></li>
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>自家源泉3本を保有し、毎分豊富な湯量を誇る純度100%の源泉掛け流し</span></li>
@@ -437,16 +423,14 @@ export default function ShigaKogenSnowMonkeyPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32044%2F32044.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     渋温泉　歴史の宿　金具屋
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -467,10 +451,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>昭和初期の宮大工の技が凝縮された木造四階建て「斉月楼」の圧巻の佇まい</span></li>
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>館内だけで湯めぐりが完結する「八つの風呂（浪漫風呂・鎌倉風呂等）」</span></li>
@@ -524,16 +506,14 @@ export default function ShigaKogenSnowMonkeyPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4720%2F4720.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     湯田中温泉　ホテル椿野
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -554,10 +534,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>最上階展望露天風呂から北信五岳と湯田中の街並みを一望するパノラマビュー</span></li>
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>北信州の旬食材を彩り豊かに盛り込んだ創作和会席と地酒のペアリング</span></li>
@@ -611,16 +589,14 @@ export default function ShigaKogenSnowMonkeyPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30822%2F30822.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     志賀パレスホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -641,10 +617,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>天然記念物・ゲンジボタル生息地として知られる天然温泉「ほたる温泉」</span></li>
                         <li className="flex items-start gap-2"><span className="text-emerald-500 font-bold">•</span><span>横手山・熊の湯スキー場至近！標高1,700mの澄み切った満天の星空</span></li>
@@ -685,18 +659,14 @@ export default function ShigaKogenSnowMonkeyPage() {
 
         {/* 1泊2日モデルコース */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <Compass className="w-6 h-6 text-amber-600" />
-            【1泊2日】スノーモンキーと白銀パウダースノー＆渋温泉九湯めぐりモデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5"><Compass className="w-6 h-6 text-amber-600" />
+            【1泊2日】スノーモンキーと白銀パウダースノー＆渋温泉九湯めぐりモデルコース</h2>
 
           <div className="space-y-6">
             <div className="border-l-2 border-blue-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-blue-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-blue-600 uppercase tracking-wider mb-1">1日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                JR長野駅到着 ➔ 長野電鉄スノーモンキー号で湯田中へ ➔ 地獄谷野猿公苑でスノーモンキー見学
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">JR長野駅到着  長野電鉄スノーモンキー号で湯田中へ  地獄谷野猿公苑でスノーモンキー見学</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 北陸新幹線で長野駅へ到着後、長野電鉄の特急「スノーモンキー」に乗り換え終点の湯田中駅へ。駅前から路線バスで上林温泉へ移動し、白銀の杉木立に囲まれた遊歩道を30分トレッキング。湯烟立ち込める地獄谷野猿公苑で、温泉に浸かる野生猿たちの愛らしい表情を間近で観察・撮影します。
               </p>
@@ -705,9 +675,7 @@ export default function ShigaKogenSnowMonkeyPage() {
             <div className="border-l-2 border-indigo-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-indigo-600 uppercase tracking-wider mb-1">1日目：夕方〜夜</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                渋温泉・湯田中温泉の宿へチェックイン ➔ 石畳街の「九湯めぐり」と信州牛懐石
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">渋温泉・湯田中温泉の宿へチェックイン  石畳街の「九湯めぐり」と信州牛懐石</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 チェックイン後、浴衣と丹前を羽織り、宿で借りた専用鍵を持って渋温泉の共同浴場「九湯めぐり」へ。一番湯から九番湯の大湯まで巡り厄除け祈願。夜は宿で信州プレミアム牛肉のすき焼きや信州サーモン、地酒「縁喜（えんぎ）」を堪能。雪化粧した木造建築のライトアップを眺めて情緒に浸ります。
               </p>
@@ -716,9 +684,7 @@ export default function ShigaKogenSnowMonkeyPage() {
             <div className="border-l-2 border-emerald-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-emerald-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-emerald-600 uppercase tracking-wider mb-1">2日目：終日</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                志賀高原スキー場へ移動 ➔ 焼額山・横手山でパウダースノー滑走 ➔ 温泉で温まり帰路へ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">志賀高原スキー場へ移動  焼額山・横手山でパウダースノー滑走  温泉で温まり帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝食後、シャトルバスで志賀高原エリアへ。標高2,000mを超える横手山や焼額山で、サラサラの極上パウダースノーを満喫。スキーやスノーボードをしない方も、横手山頂展望台の「満天ビューテラス」へリフトで登り、雲海と北アルプスの大パノラマを楽しめます。午後、湯田中駅前で名物温泉まんじゅうをお土産に購入し帰路へ。
               </p>
@@ -731,10 +697,8 @@ export default function ShigaKogenSnowMonkeyPage() {
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">
-          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2">
-            <Heart className="w-5 h-5 text-rose-400" />
-            あわせて読みたい！冬の甲信越・北陸・温泉旅おすすめ特集
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2"><Heart className="w-5 h-5 text-rose-400" />
+            あわせて読みたい！冬の甲信越・北陸・温泉旅おすすめ特集</h2>
           <p className="text-xs sm:text-sm text-slate-300 mb-6 leading-relaxed">
             冬の信州や近隣エリアには、雪見露天風呂や初詣、歴史ある街並みが広がる魅力的な観光地が数多くあります。ぜひ次の旅行プランの参考にしてください。
           </p>

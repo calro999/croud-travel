@@ -113,9 +113,7 @@ export default function KyotoSubwayBusPassPage() {
               01
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                なぜ「市バスだけ」の観光は破綻するのか？
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">なぜ「市バスだけ」の観光は破綻するのか？</h2>
               <p className="text-xs text-teal-700 font-medium">京都駅前バスターミナルの現実と地下鉄ワープの威力</p>
             </div>
           </div>
@@ -126,9 +124,7 @@ export default function KyotoSubwayBusPassPage() {
             </p>
             <div className="grid sm:grid-cols-2 gap-4 my-6">
               <div className="bg-rose-50 border border-rose-200 rounded-xl p-5">
-                <h3 className="font-bold text-rose-800 flex items-center gap-2 mb-2">
-                  <span className="text-lg">❌</span> 市バスのみ利用の罠
-                </h3>
+                <h3 className="font-bold text-rose-800 flex items-center gap-2 mb-2">市バスのみ利用の罠</h3>
                 <ul className="text-sm text-rose-900/80 space-y-2 list-disc list-inside">
                   <li>京都駅のバス停で30〜50分の行列待ち</li>
                   <li>東大路・五条・四条通の激しい自然渋滞</li>
@@ -137,9 +133,7 @@ export default function KyotoSubwayBusPassPage() {
                 </ul>
               </div>
               <div className="bg-teal-50 border border-teal-200 rounded-xl p-5">
-                <h3 className="font-bold text-teal-800 flex items-center gap-2 mb-2">
-                  <span className="text-lg">⭕</span> 地下鉄＋バス併用の快感
-                </h3>
+                <h3 className="font-bold text-teal-800 flex items-center gap-2 mb-2"><span className="text-lg">⭕</span> 地下鉄＋バス併用の快感</h3>
                 <ul className="text-sm text-teal-900/80 space-y-2 list-disc list-inside">
                   <li>京都駅から烏丸線・東西線で渋滞エリアを地下ワープ</li>
                   <li>主要駅から近距離バス（1〜2停留所）で目的地へ直行</li>
@@ -161,9 +155,7 @@ export default function KyotoSubwayBusPassPage() {
               02
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                1,100円の元を取る「運賃計算シミュレーション」
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">1,100円の元を取る「運賃計算シミュレーション」</h2>
               <p className="text-xs text-teal-700 font-medium">地下鉄2回＋バス3回で確実に大幅プラスへ</p>
             </div>
           </div>
@@ -238,9 +230,7 @@ export default function KyotoSubwayBusPassPage() {
               03
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                渋滞完全回避！最速で回る1日黄金モデルコース
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">渋滞完全回避！最速で回る1日黄金モデルコース</h2>
               <p className="text-xs text-teal-700 font-medium">京都駅を拠点に午前二条城、午後東山、夕暮れ祇園を満喫</p>
             </div>
           </div>
@@ -335,9 +325,7 @@ export default function KyotoSubwayBusPassPage() {
               04
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                知らなきゃ損！パス提示で受けられる寺院・ミュージアム優待
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">知らなきゃ損！パス提示で受けられる寺院・ミュージアム優待</h2>
               <p className="text-xs text-teal-700 font-medium">交通費だけでなく拝観料や入場料もその場で割引</p>
             </div>
           </div>
@@ -369,9 +357,7 @@ export default function KyotoSubwayBusPassPage() {
               05
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                1日券をフル活用できる京都駅前・四条河原町のおすすめ拠点ホテル
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">1日券をフル活用できる京都駅前・四条河原町のおすすめ拠点ホテル</h2>
               <p className="text-xs text-teal-700 font-medium">地下鉄駅直結・徒歩圏で早朝から動き出せる高評価宿</p>
             </div>
           </div>
@@ -408,9 +394,7 @@ export default function KyotoSubwayBusPassPage() {
                   )}
 
                   <div className="p-5">
-                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-teal-700 transition-colors line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-teal-700 transition-colors line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-500 mt-1 line-clamp-2">
                       {hotel.access}
                     </p>
@@ -452,17 +436,13 @@ export default function KyotoSubwayBusPassPage() {
 
         {/* Internal Links */}
         <section className="bg-slate-100 rounded-2xl p-6 sm:p-8 border border-slate-200">
-          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> 京都旅行のあわせて読みたい完全ガイド
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">京都旅行のあわせて読みたい完全ガイド</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/kyoto-travel-budget-how-many-nights/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">
-                【京都旅行は何泊がベスト？】宿泊費・拝観料・食費のリアル予算相場
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">【京都旅行は何泊がベスト？】宿泊費・拝観料・食費のリアル予算相場</h3>
               <p className="text-xs text-slate-500">
                 1泊2日・2泊3日それぞれの所要費用総額とエリア別ホテル相場を徹底解説。
               </p>
@@ -471,9 +451,7 @@ export default function KyotoSubwayBusPassPage() {
               href="/kyoto-temple-walking-shoes-outfit-mistakes-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-teal-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">
-                【京都寺社めぐり服装＆靴選び】石段・砂利道で失敗しないリアル装備術
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-teal-600 mb-1">【京都寺社めぐり服装＆靴選び】石段・砂利道で失敗しないリアル装備術</h3>
               <p className="text-xs text-slate-500">
                 1日2万歩歩く京都観光の靴選び、お寺の靴脱ぎルールと脱ぎ履きしやすい対策。
               </p>
@@ -486,9 +464,7 @@ export default function KyotoSubwayBusPassPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と1,100円で元を取る黄金ルート＆市バス大渋滞を完全回避する裏ワザの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

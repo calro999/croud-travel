@@ -58,10 +58,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-sky-600" />
-            新幹線直結の大商業都市！激戦区だからこそ実現する驚きの低価格ステイ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-sky-600" />
+            新幹線直結の大商業都市！激戦区だからこそ実現する驚きの低価格ステイ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             新潟駅周辺はビジネス・観光需要が高く、大浴場やデザイナーズ設備を備えた最新ホテルが破格の料金で競い合っています。駅直結・駅徒歩数分の好立地に2,000円台〜泊まり、浮いた予算をピアBandaiの極上海鮮丼や老舗割烹の郷土料理に贅沢に充当できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルリブマックス新潟駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックス新潟駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR新潟駅万代口より徒歩約5分
@@ -151,9 +147,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  コンフォートホテル新潟駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">コンフォートホテル新潟駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR新潟駅万代口より徒歩3分
@@ -206,9 +200,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アートホテル新潟駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アートホテル新潟駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR新潟駅南口直結（連絡通路で徒歩2分）
@@ -261,9 +253,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル＆リゾート〈新潟駅前大通〉
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル＆リゾート〈新潟駅前大通〉</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR新潟駅万代口より徒歩7分 / 萬代橋至近
@@ -316,9 +306,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  新潟第一ホテル
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">新潟第一ホテル</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR新潟駅南口より徒歩2分
@@ -353,10 +341,8 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-sky-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-sky-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の新潟グルメ＆萬代橋散策を格安に満喫するポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-sky-300"><CheckCircle2 className="w-5 h-5" />
+            秋の新潟グルメ＆萬代橋散策を格安に満喫するポイント</h2>
           <ul className="space-y-2 text-sm text-sky-100/90 leading-relaxed">
             <li>・駅構内「ぽんしゅ館」では、500円でコイン5枚をもらい県内全蔵約100種類の地酒を利き酒できる大人気スポット。</li>
             <li>・みなとまちの市場「ピアBandai」で水揚げされたばかりの生南蛮エビや紅ズワイガニの浜焼きを格安に堪能。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「新潟駅前：新米コシヒカリ・南蛮エビ＆日本酒角打ち！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetNiigataStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 新潟駅前で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">新潟駅前で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

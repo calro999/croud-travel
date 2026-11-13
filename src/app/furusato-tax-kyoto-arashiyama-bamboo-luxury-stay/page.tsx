@@ -82,15 +82,12 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          保津川のせせらぎ、渡月橋を渡る風、青々と茂る竹林の小径。千年の雅に包まれる嵐山温泉の極上休日へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">保津川のせせらぎ、渡月橋を渡る風、青々と茂る竹林の小径。千年の雅に包まれる嵐山温泉の極上休日へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           かつて平安貴族たちが別荘を構え、風流を尽くした風光明媚の地「京都・嵐山（あらしやま）」。大堰川（保津川）に優美に架かる「渡月橋」、青竹が天を覆い涼やかな木漏れ日が降り注ぐ「竹林の小径」、そして世界遺産・天龍寺の壮大な回遊式庭園など、歩く先々で日本の美意識の粋に出会える古都屈指の観光名所です。この嵐山の奥座敷で愛され続けているのが、しっとりとした湯触りが心地よい「嵐山温泉」。弱アルカリ性の単純温泉は「美肌の湯」として親しまれ、観光で歩き疲れた体をやさしく包み込んで解きほぐしてくれます。夕暮れの保津川沿いで鵜飼の篝火を眺めたり、早朝の観光客が少ない竹林を散策したりできるのは、嵐山に宿泊する旅人だけに許された特別な贅沢。さらに食事は、京都の伝統工芸のような美しさを誇る本格京料理会席。旬の京野菜、湯葉、生麩、厳選された京都肉を、四季の彩りとともに器に映し出した料理の数々は、まさに五感で味わう芸術品です。本特集では、保津川のほとりに佇みプライベート温泉露天風呂付き客室と歴史的建造物カフェを誇る世界最高峰のラグジュアリーホテル「翠嵐 ラグジュアリーコレクションホテル 京都」、阪急嵐山駅徒歩1分・全館畳敷きで5つの趣異なる無料貸切風呂と四季の京会席が評判の「京都 嵐山温泉 花伝抄」、そして大堰川の清流を正面に望み伝統の京懐石と嵐山温泉の檜露天風呂を堪能できる老舗料理旅館「嵐山温泉 嵐山辨慶」の3宿を厳選。京都府京都市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの嵐山ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">京都嵐山 渡月橋＆名門旅館特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】翠嵐ラグジュアリーコレクションホテル京都</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 京都嵐山 渡月橋＆名門旅館特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">京都嵐山 渡月橋＆名門旅館特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            翠嵐ラグジュアリーコレクションホテル京都
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">翠嵐ラグジュアリーコレクションホテル京都</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・保津川の畔に佇むマリオット最高峰ラグジュアリー！天然嵐山温泉の露天風呂付き客室＆歴史的建造物でのシャンパンディライト</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・阪急嵐山駅徒歩1分の好立地！全館畳敷きの和の心地よさ＆5つの趣異なる無料貸切風呂と豪華京会席（共立リゾート）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            嵐山温泉　嵐山辨慶
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">嵐山温泉　嵐山辨慶</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・嵐山大井川のほとり、渡月橋を望む絶景！ミシュラン掲載の本格伝統京懐石と嵐山温泉の檜露天風呂を愉しむ名門料理旅館</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoKyotoArashiyamaBambooStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

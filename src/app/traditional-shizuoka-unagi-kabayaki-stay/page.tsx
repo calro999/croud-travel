@@ -183,10 +183,8 @@ export default function FeatureDetailPage() {
       />
         {/* 特集の魅力と選び方 */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Award className="w-6 h-6 text-amber-600" />
-            浜名湖うなぎ尽くし会席＆舘山寺レイクビュー温泉宿の楽しみ方＆おすすめの選び方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Award className="w-6 h-6 text-amber-600" />
+            浜名湖うなぎ尽くし会席＆舘山寺レイクビュー温泉宿の楽しみ方＆おすすめの選び方</h2>
           <p className="text-slate-600 leading-relaxed text-sm sm:text-base">楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
@@ -208,9 +206,7 @@ export default function FeatureDetailPage() {
         {/* 厳選宿リスト */}
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-2xl font-bold text-slate-900">
-              編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全{hotels.length}選）</h2>
             <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
@@ -236,11 +232,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">静岡県</span>
                       <span>浜松市中央区舘山寺町398番地</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2092%2F2092.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F2092%2F2092.html" target="_blank" rel="sponsored noopener noreferrer">
                         浜名湖かんざんじ温泉　ホテル鞠水亭
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -295,11 +289,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">静岡県</span>
                       <span>浜松市浜名区三ヶ日町都筑595-1</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7682%2F7682.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7682%2F7682.html" target="_blank" rel="sponsored noopener noreferrer">
                         月の名勝地　割烹旅館　琴水
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -354,11 +346,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">静岡県</span>
                       <span>浜松市中央区舘山寺町2268</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64543%2F64543.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F64543%2F64543.html" target="_blank" rel="sponsored noopener noreferrer">
                         旅館ふじや
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -413,11 +403,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">愛知県</span>
                       <span>田原市福江町中紺屋瀬古22-1</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39935%2F39935.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F39935%2F39935.html" target="_blank" rel="sponsored noopener noreferrer">
                         愛知渥美半島　伊良湖温泉　魚と貝のうまい宿　玉川
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -481,9 +469,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】浜名湖かんざんじ温泉 ホテル鞠水亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】浜名湖かんざんじ温泉 ホテル鞠水亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -516,9 +502,7 @@ export default function FeatureDetailPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と浜名湖かんざんじ温泉 ホテル鞠水亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と浜名湖かんざんじ温泉 ホテル鞠水亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -613,9 +597,7 @@ export default function FeatureDetailPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「2026年：香ばしい秘伝のタレとふっくら極上肉厚！浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -676,9 +658,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「香ばしい秘伝のタレとふっくら極上肉厚（浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選）」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「香ばしい秘伝のタレとふっくら極上肉厚（浜名湖うなぎ尽くし会席＆舘山寺名湯宿5選）」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -55,9 +55,7 @@ export default function KamikochiShirahoneAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            冠雪の穂高連峰とカラマツ黄葉、そして白濁の名湯へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">冠雪の穂高連峰とカラマツ黄葉、そして白濁の名湯へ</h2>
           <p className="mb-4 text-stone-700">
             標高約1,500mに位置する上高地は、10月中旬から11月上旬にかけてカラマツが一斉に黄金色へと変わり、落葉とともに梓川の遊歩道が黄金の絨毯で敷き詰められます。初冠雪を迎えた穂高の白、澄み切った秋空の青、そして山麓を彩る黄葉の三段紅葉は息を呑むスケールです。
           </p>
@@ -69,10 +67,8 @@ export default function KamikochiShirahoneAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！白骨温泉の厳選秘湯宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！白骨温泉の厳選秘湯宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KamikochiShirahoneAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.65</span>
                     <span className="text-stone-400 text-xs">(131件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    白骨温泉　小梨の湯　笹屋
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">白骨温泉　小梨の湯　笹屋</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松本駅 / ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分
                   </p>
@@ -142,9 +136,7 @@ export default function KamikochiShirahoneAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.61</span>
                     <span className="text-stone-400 text-xs">(863件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    白骨温泉　湯元齋藤旅館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">白骨温泉　湯元齋藤旅館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 松本・新島々駅 / お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。
                   </p>
@@ -189,9 +181,7 @@ export default function KamikochiShirahoneAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.6</span>
                     <span className="text-stone-400 text-xs">(107件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    白骨温泉　湯元齋藤別館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">白骨温泉　湯元齋藤別館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / 松本ICから約60分、高山西ICから約70分。国道158号線経由、沢渡（さわんど）より県道300号線が最短ルートです。
                   </p>
@@ -236,9 +226,7 @@ export default function KamikochiShirahoneAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.58</span>
                     <span className="text-stone-400 text-xs">(1221件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    白骨温泉　白船荘新宅旅館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">白骨温泉　白船荘新宅旅館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / JR松本駅から私鉄上高地線　新島々駅より白骨温泉行バス乗車→終点白骨温泉下車
                   </p>
@@ -283,9 +271,7 @@ export default function KamikochiShirahoneAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.12</span>
                     <span className="text-stone-400 text-xs">(428件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    白骨温泉　白船グランドホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">白骨温泉　白船グランドホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新島々駅 / 松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分
                   </p>
@@ -330,9 +316,7 @@ export default function KamikochiShirahoneAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯！閉山前に訪れたい絶景名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -393,9 +377,7 @@ export default function KamikochiShirahoneAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の上高地・白骨温泉」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の上高地・白骨温泉」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

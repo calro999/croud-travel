@@ -81,9 +81,7 @@ export default function HakoneVsAtamiPage() {
         </div>
 
         <div className="bg-white rounded-3xl p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 text-center">
-            結論から言うと、ズバリこう！
-          </h2>
+          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 text-center">結論から言うと、ズバリこう！</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-teal-50 rounded-2xl p-6 text-center">
               <h3 className="text-xl font-bold text-teal-900 mb-2">日帰りでサクッと行くなら</h3>
@@ -106,10 +104,8 @@ export default function HakoneVsAtamiPage() {
 
         <div className="space-y-12 mb-16">
           <section>
-            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3">
-              <span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">1</span>
-              交通費とアクセス：意外な差が出る移動コスト
-            </h3>
+            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3"><span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">1</span>
+              交通費とアクセス：意外な差が出る移動コスト</h3>
             <div className="grid md:grid-cols-2 gap-4">
               <div className="p-6 border border-slate-200 rounded-3xl bg-white">
                 <h4 className="font-bold text-lg mb-3">箱根へのアクセス</h4>
@@ -136,10 +132,8 @@ export default function HakoneVsAtamiPage() {
           </section>
 
           <section>
-            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3">
-              <span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">2</span>
-              宿泊費の相場：ピンキリの箱根、コスパの熱海
-            </h3>
+            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3"><span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">2</span>
+              宿泊費の相場：ピンキリの箱根、コスパの熱海</h3>
             <div className="bg-white p-6 rounded-3xl border border-slate-200">
               <p className="text-slate-700 mb-4">
                 <strong>箱根：1泊 8,000円〜40,000円</strong><br/>
@@ -153,10 +147,8 @@ export default function HakoneVsAtamiPage() {
           </section>
 
           <section>
-            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3">
-              <span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">3</span>
-              グルメ対決：名物を食べるか、海鮮を食らうか
-            </h3>
+            <h3 className="font-journal-serif text-2xl font-bold text-slate-800 mb-6 flex items-center gap-3"><span className="w-8 h-8 rounded-full bg-teal-600 text-white flex items-center justify-center text-sm">3</span>
+              グルメ対決：名物を食べるか、海鮮を食らうか</h3>
             <div className="grid grid-cols-2 gap-4 text-center">
               <div className="bg-white p-4 rounded-3xl border border-slate-200">
                 <div className="text-4xl mb-2">🥚</div>
@@ -183,9 +175,7 @@ export default function HakoneVsAtamiPage() {
         
       {/* 目的別おすすめ早見表 */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">
-          旅の目的別：あなたにぴったりの決定チャート
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">旅の目的別：あなたにぴったりの決定チャート</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-amber-50/60 rounded-3xl p-6 border border-amber-200">
             <h3 className="font-bold text-lg text-amber-900 mb-3">こんな人は「熱海」へGO！</h3>
@@ -210,9 +200,7 @@ export default function HakoneVsAtamiPage() {
 
       {/* よくある質問 FAQ */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">
-          箱根 vs 熱海 よくある質問（FAQ）
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-amber-800 mb-6 border-b-2 border-amber-200 pb-2">箱根 vs 熱海 よくある質問（FAQ）</h2>
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
             <h3 className="font-bold text-slate-800 mb-2">Q. 日帰りならどっちがおすすめ？</h3>
@@ -243,9 +231,7 @@ export default function HakoneVsAtamiPage() {
     
       {hotels.length > 0 && (
           <section>
-            <h2 className="font-journal-serif text-2xl font-bold text-slate-800 mb-8 text-center border-t border-slate-200 pt-12">
-              箱根・熱海のおすすめ宿ピックアップ
-            </h2>
+            <h2 className="font-journal-serif text-2xl font-bold text-slate-800 mb-8 text-center border-t border-slate-200 pt-12">箱根・熱海のおすすめ宿ピックアップ</h2>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {hotels.map((hotel, idx) => (
                 <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-md transition-shadow border border-slate-200">
@@ -280,9 +266,7 @@ export default function HakoneVsAtamiPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日帰り・1泊2日それぞれのおすすめを本気で比較の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日帰り・1泊2日それぞれのおすすめを本気で比較の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -313,9 +297,7 @@ export default function HakoneVsAtamiPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 箱根 vs 熱海 どっちに行く？：日帰り・1泊2日それぞれのおすすめを本気で比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根 vs 熱海 どっちに行く？：日帰り・1泊2日それぞれのおすすめを本気で比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「箱根 vs 熱海 どっちに行く？：日帰り・1泊2日それぞれのおすすめを本気で比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -394,9 +376,7 @@ export default function HakoneVsAtamiPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 箱根 vs 熱海 どっちに行く？で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">箱根 vs 熱海 どっちに行く？で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

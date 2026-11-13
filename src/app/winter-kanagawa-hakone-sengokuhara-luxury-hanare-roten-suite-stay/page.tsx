@@ -109,9 +109,7 @@ export default function LuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【全室露天風呂付き極上離れと白濁硫黄泉】2026-2027年11-12月初冬の箱根・仙石原！大人の隠れ家高級宿で味わう極上相州牛＆冬懐石・大涌谷にごり湯スイート名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             初冬の静寂に包まれる箱根・仙石原！黄金色に輝くすすき草原のフィナーレと、大涌谷から引湯する濃厚な乳白色の硫黄泉。全室に専用露天風呂を備えた大人の極上離れやスイートルームで、人目を気にせず名湯を独り占め。きめ細やかなサシの相州牛や駿河湾・相模湾の冬の味覚を散りばめた本格懐石料理に舌鼓を打つ、憧れの記念日ラグジュアリーステイ厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function LuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>大涌谷直送の白濁硫黄泉！全室専用露天風呂付きスイートで過ごす完全プライベート</span>
-            </h3>
+              <span>大涌谷直送の白濁硫黄泉！全室専用露天風呂付きスイートで過ごす完全プライベート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               ph2前後の強い酸性と硫黄成分が溶け込む本格的な濁り湯。誰にも邪魔されない客室露天風呂で、湯けむりと冬の澄んだ星空を眺めながら極上のプライベート湯浴みが叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>黄金色に輝くすすき草原のフィナーレと世界基準のアートミュージアム巡り</span>
-            </h3>
+              <span>黄金色に輝くすすき草原のフィナーレと世界基準のアートミュージアム巡り</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               初冬の柔らかな光に包まれる広大名すすき草原散策に加え、ポーラ美術館や箱根ガラスの森美術館など名門美術館が至近。感性を深く満たす大人のカルチャーツーリズムが楽しめます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>幻の銘柄「相州牛」と相模湾の冬魚介！一流料理人が腕を振るう至高の懐石ディナー</span>
-            </h3>
+              <span>幻の銘柄「相州牛」と相模湾の冬魚介！一流料理人が腕を振るう至高の懐石ディナー</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               きめ細やかな霜降りと上品な脂の甘みが特徴の地元・相州牛ステーキや、旬を迎える真鯛・鮑・金目鯛。選び抜かれた器と卓越した技が織りなす感動の美食体験を個室食事処で堪能できます。
             </p>
@@ -177,9 +167,7 @@ export default function LuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  金乃竹　仙石原
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">金乃竹　仙石原</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  金乃竹　茶寮
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">金乃竹　茶寮</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  仙石原温泉　きたの風茶寮
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">仙石原温泉　きたの風茶寮</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  箱根・翠松園
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">箱根・翠松園</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function LuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>仙石原の温泉はすべて白濁した硫黄泉なのですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>仙石原の温泉はすべて白濁した硫黄泉なのですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               仙石原エリアには、大涌谷から造成・引湯される乳白色の酸性硫酸塩泉と、自家源泉から湧出する無色透明で肌触りの柔らかな弱アルカリ性単純温泉の2つの系統があります。宿によって引湯している源泉が異なるため、にごり湯を希望される場合は大涌谷引湯のプランや大浴場を備えた宿（金乃竹やきたの風茶寮など）を選ぶのがおすすめです。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>客室露天風呂の温泉も源泉掛け流しですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>客室露天風呂の温泉も源泉掛け流しですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               今回厳選したハイクラス宿の多くは、客室露天風呂にも贅沢に天然温泉を引湯・掛け流し（または温度管理のための適温循環）しています。24時間いつでも好きな温度で入浴できるよう配慮されており、湯守の徹底した温度管理のもとで極上の湯浴みが楽しめます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月〜12月の箱根・仙石原へのドライブでスタッドレスタイヤは必要ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月〜12月の箱根・仙石原へのドライブでスタッドレスタイヤは必要ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               11月中旬まではノーマルタイヤでも走行可能な日が多いですが、11月下旬以降や12月に入ると乙女峠や芦ノ湖周辺で突然の降雪や早朝の路面凍結が発生することがあります。お車で訪れる場合は、11月下旬以降はスタッドレスタイヤの装着、またはチェーンの携行を強く推奨します。
             </p>

@@ -108,9 +108,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然芝ドッグラン＆充実の愛犬設備！足洗い場からアメニティまで完全完備
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然芝ドッグラン＆充実の愛犬設備！足洗い場からアメニティまで完全完備</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 アジリティ付きの広々とした屋外ドッグランや天候を気にせず遊べる室内プレイルーム。ペットシーツ、消臭スプレー、食器、バスタオルなど愛犬用アメニティがすべて揃い、手ぶら感覚で旅行を楽しめます。
@@ -123,9 +121,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  レストランも寝室もずっと一緒！愛犬用のごちそうビュッフェや記念日プレート
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">レストランも寝室もずっと一緒！愛犬用のごちそうビュッフェや記念日プレート</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 お留守番させることなく、食事処にも愛犬専用カートやリードフックで同伴可能。無添加・厳選食材で作られた愛犬用ディナーコースやビュッフェがあり、愛犬の誕生日や記念日のお祝いにも最適です。
@@ -138,9 +134,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  飼い主様も大満足！本格的な天然温泉露天風呂と豪華絢爛な郷土ディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">飼い主様も大満足！本格的な天然温泉露天風呂と豪華絢爛な郷土ディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ペット専用宿でありながら、飼い主のための温泉や料理も超一流。美肌の掛け流し温泉に浸かり、伊豆の金目鯛や那須高原牛、近江牛など各地の最高峰グルメを心ゆくまで満喫できます。
@@ -183,9 +177,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊東市・伊豆高原のバリ風温泉リゾート！室内外ドッグラン＆愛犬専用温泉ビュッフェ完備
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    愛犬と微笑む温泉リゾート　ウブドの森　伊豆高原
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">愛犬と微笑む温泉リゾート　ウブドの森　伊豆高原</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊豆高原の閑静な森の中に位置し、バリ島の高級リゾート「ウブド」の静寂と和の温もりが融合した愛犬同伴専用の極上温泉宿。ウッドチップ敷きの屋外ドッグランと雨でも安心の屋内ドッグランを完備し、愛犬用コミュニティラウンジでは無料の愛犬用おやつや特製ブッフェを用意。飼い主にはアルカリ性単純温泉の貸切露天風呂や大浴場が備わり、夕食には伊豆の新鮮な海の幸や特選牛の創作会席を愛犬同伴で堪能できます。愛犬専用の作務衣やフォトスタジオなど細部まで愛犬ファーストのおもてなしが徹底された名宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県那須町・那須高原の森に点在するコテージ！テニスコート2面分の広大天然芝ドッグラン
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">那須温泉　ホテルフォレストヒルズ那須　ｗｉｔｈ　ＤＯＧＳ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     那須岳の山麓、標高約1,000mの静かな森の中に約2万平米もの敷地を有する全室愛犬同伴のコテージリゾート。テニスコート2面分を誇る広大な天然芝ドッグランや森の散歩道があり、愛犬が思いきり走り回れる自然豊かな環境です。客室は全室に温泉引き込みの内湯や露天風呂、テラスを完備し、プライベートドッグラン付きコテージも大人気。夕食は那須高原野菜や特選那須牛を使った本格洋食コースをお部屋食または愛犬同伴レストランでゆったりと味わえます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     滋賀県長浜市・全室レイクビュー＆客室温泉露天風呂付き！最高峰のドッグフレンドリーホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    レジーナリゾートびわ湖長浜
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">レジーナリゾートびわ湖長浜</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     琵琶湖の北東部・長浜城歴史公園に隣接し、全客室から雄大な琵琶湖の夕陽とパノラマを望むハイクラスな愛犬同伴リゾート。客室のテラスには長浜太閤温泉を引いた客室専用露天風呂を備え、愛犬と一緒に琵琶湖の絶景を眺めながら極上のプライベートステイが楽しめます。館内には滑りにくい床材や愛犬用設備が完備され、夕食には近江牛や琵琶湖の湖魚を取り入れた本格日本料理を愛犬と一緒にレストランで満喫。一流のホスピタリティと快適性が約束された最高峰宿です。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】愛犬と微笑む温泉リゾート ウブドの森 伊豆高原を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】愛犬と微笑む温泉リゾート ウブドの森 伊豆高原を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoDogFriendlyResortStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と愛犬と微笑む温泉リゾート ウブドの森 伊豆高原の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と愛犬と微笑む温泉リゾート ウブドの森 伊豆高原の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

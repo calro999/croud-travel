@@ -266,10 +266,8 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-indigo-500 shrink-0" />
-              冬の新宿・西新宿が魅せる摩天楼の光と伝統の息吹
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-indigo-500 shrink-0" />
+              冬の新宿・西新宿が魅せる摩天楼の光と伝統の息吹</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,9 +287,7 @@ export default function TokyoShinjukuWinterPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の新宿を満喫する実力派ホテル・ラグジュアリー名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の新宿を満喫する実力派ホテル・ラグジュアリー名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。夜景・アクセス・美食に優れた宿を厳選
             </p>
@@ -320,9 +316,7 @@ export default function TokyoShinjukuWinterPage() {
                     <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
                       <div>
                         <span className="text-xs font-semibold text-indigo-600 block mb-0.5">{h.access}</span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       </div>
                       <div className="flex items-center gap-1 bg-amber-50 px-3 py-1 rounded-lg border border-amber-200">
                         <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
@@ -394,10 +388,8 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Packing</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-indigo-500 shrink-0" />
-              11月・12月・1月の気温推移と新宿・西新宿の冬防寒・ファッションガイド
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-indigo-500 shrink-0" />
+              11月・12月・1月の気温推移と新宿・西新宿の冬防寒・ファッションガイド</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -443,38 +435,30 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-indigo-500 shrink-0" />
-              新宿の冬を美しく切り取る！絶景フォトスポット＆撮影攻略テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-indigo-500 shrink-0" />
+              新宿の冬を美しく切り取る！絶景フォトスポット＆撮影攻略テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                都庁南展望室の夕暮れ富士山
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                都庁南展望室の夕暮れ富士山</h3>
               <p className="leading-relaxed">
                 冬の16時15分から16時45分頃がベストタイム。西側の窓ガラスにレンズを近づけて室内の映り込みを防ぎ、茜色に染まる夕焼け空と富士山の黒い稜線をコントラスト高く撮影するのがポイント。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                サザンテラスの光の回廊とトレイン
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                サザンテラスの光の回廊とトレイン</h3>
               <p className="leading-relaxed">
                 JR線の線路を見下ろすサザンテラスの陸橋から、手前のイルミネーションのボケ味と、眼下を行き交う電車のヘッドライトの光跡を重ねて撮る構図が都会的でドラマチックです。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-600" />
-                花園神社の朱塗り社殿と提灯
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-600" />
+                花園神社の朱塗り社殿と提灯</h3>
               <p className="leading-relaxed">
                 酉の市や初詣の時期、夜間に温かな提灯の灯りが連なる社殿前は絶好の撮影スポット。都会のビル群を背景に浮かび上がる朱塗りの鳥居と社殿の荘厳な対比が印象的な一枚を残せます。
               </p>
@@ -486,28 +470,22 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Souvenirs</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-indigo-500 shrink-0" />
-              新宿の冬を彩る厳選美食＆デパ地下お土産！老舗すき焼き・江戸前鮨・銘菓
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-indigo-500 shrink-0" />
+              新宿の冬を彩る厳選美食＆デパ地下お土産！老舗すき焼き・江戸前鮨・銘菓</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-indigo-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-500" />
-                老舗の極上すき焼き＆冬の江戸前鮨
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-500" />
+                老舗の極上すき焼き＆冬の江戸前鮨</h3>
               <p className="leading-relaxed">
                 寒さが深まる季節、新宿の老舗精肉店直営店や日本料理店で味わう熱々のすき焼きは格別の贅沢。美しいサシが入った特選黒毛和牛を甘辛い秘伝の割下でさっと炊き、濃厚なこだわり卵にくぐらせて頬張れば、とろけるような肉の旨味が口いっぱいに広がります。また、冬は寒ブリや本マグロ、白子など日本海の海の幸を職人が握る江戸前鮨も旬の極みです。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-indigo-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-indigo-500" />
-                伊勢丹＆タカシマヤの冬限定デパ地下スイーツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-indigo-500" />
+                伊勢丹＆タカシマヤの冬限定デパ地下スイーツ</h3>
               <p className="leading-relaxed">
                 新宿の旅を締めくくるなら、日本一の充実度を誇る伊勢丹新宿店やタカシマヤタイムズスクエアのデパ地下へ。老舗和菓子店の冬限定「花びら餅」や栗蒸し羊羹、有名パティスリーの濃厚シュトーレンやショコラなど、冬の東京でしか手に入らないプレミアムな逸品をお土産に選べます。
               </p>
@@ -519,10 +497,8 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-indigo-400 shrink-0" />
-              新宿・西新宿の冬を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-indigo-400 shrink-0" />
+              新宿・西新宿の冬を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -577,18 +553,14 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-indigo-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の新宿・西新宿旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の新宿・西新宿旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -601,9 +573,7 @@ export default function TokyoShinjukuWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！冬の都心＆人気イルミネーション名所特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！冬の都心＆人気イルミネーション名所特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

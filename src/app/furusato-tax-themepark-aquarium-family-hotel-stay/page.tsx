@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>パスポート付き宿泊やオフィシャル特典を楽天ふるさと納税で賢くお得に！</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>パスポート付き宿泊やオフィシャル特典を楽天ふるさと納税で賢くお得に！</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             子どもが大喜びする水族館や巨大テーマパークへの家族旅行は、チケット代や宿泊費がかさみがち。楽天ふるさと納税の「トラベルクーポン」なら、寄付額の最大30%が即座に割引クーポンとして付与され、テーマパーク直結ホテルやオフィシャルホテルのパスポート付きプラン・プレミアム宿泊に直接充当できます。家族みんなの笑顔と思い出を最大化する極上ステイを厳選紹介します。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    パスポート代も宿泊費も一括で実質2,000円に！
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">パスポート代も宿泊費も一括で実質2,000円に！</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     通常なら家族4人で数万円かかるテーマパークチケットや連泊費用も、自治体ふるさと納税クーポンを適用すれば自己負担実質2,000円の枠内で大幅に節約可能。浮いた予算で園内の限定グッズや特別ディナーを満喫できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    オフィシャルホテルならではの優先入園＆専用通路
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">オフィシャルホテルならではの優先入園＆専用通路</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     開園前のアーリーエントリーやホテル専用ゲートからの直結入場、疲れたらいつでも部屋に戻ってお昼寝できる圧倒的な利便性は直結宿だけの特権。小さな子ども連れのファミリーもストレスフリーで過ごせます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    あとから適用OK！予約済み旅行にも即時割引チャージ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">あとから適用OK！予約済み旅行にも即時割引チャージ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     「すでに家族旅行の日程を押さえてしまった」という場合でも安心。楽天トラベルふるさと納税クーポンなら、予約後でもマイページから返礼クーポンを後から適用して即座に割引差額を精算できます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="kamogawa_seaworld" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>千葉県鴨川市ふるさと納税：鴨川シーワールド直結＆シャチパフォーマンス最前席</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>千葉県鴨川市ふるさと納税：鴨川シーワールド直結＆シャチパフォーマンス最前席</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       シャチのダイナミックなジャンプで全国的な人気を誇る鴨川シーワールド。専用通路でパーク直結のオフィシャルホテルなら、滞在中は何度でも入園無料で再入場自由。夜の夜間水族館探検など宿泊者限定プログラムも充実しています。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              鴨川シーワールドホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">鴨川シーワールドホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               人気の鴨川シーワールドに隣接！入館無料！全ての客室がオーシャンビューのリゾートホテル。子供用品も充実
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              グランパークホテルエクセル木更津
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">グランパークホテルエクセル木更津</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               JR木更津駅徒歩4分／無料駐車場40台（先着順）／Wi-Fi／朝食バイキング
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              鴨川カントリーホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">鴨川カントリーホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【客室タイプ全5つ・47平米～92平米｜ペット専用98平米の特別室も完備】広々としたリゾートステイ
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shirahama_adventure" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>和歌山県白浜町ふるさと納税：アドベンチャーワールド＆白良浜温泉リゾート</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>和歌山県白浜町ふるさと納税：アドベンチャーワールド＆白良浜温泉リゾート</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       ジャイアントパンダやサファリワールドが人気の白浜アドベンチャーワールド。白浜温泉の名門リゾートホテルと組み合わせれば、昼は動物たちと触れ合い、夜は太平洋を望む展望大浴場でゆったり癒やされる贅沢な家族旅行が実現します。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              白浜温泉　ホテル三楽荘
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">白浜温泉　ホテル三楽荘</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               得旅ポイント最大15倍■全室オーシャンビュー&amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              白浜温泉　ホテルサンリゾート白浜
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">白浜温泉　ホテルサンリゾート白浜</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               本館”全室で露天壺湯が楽しめる温泉宿♪お得なクーポン配布中！
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              南紀白浜マリオットホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">南紀白浜マリオットホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               温泉露天風呂からの絶景と南紀の恵みをふんだんにあしらったお料理で贅沢な休日を。
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="fujikyu_highland" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県富士吉田市ふるさと納税：富士急ハイランド優先入園＆雄大な富士山ビュー</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県富士吉田市ふるさと納税：富士急ハイランド優先入園＆雄大な富士山ビュー</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       世界屈指の絶叫アトラクションとトーマスランドで三世代に愛される富士急ハイランド。優先入園特典や富士山を一望する極上スパ・展望露天風呂を備えたホテルステイで、アクティブな休日と至福のリラクゼーションを両立できます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              富士山と湖を望むリゾート　ホテル　マウント富士
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">富士山と湖を望むリゾート　ホテル　マウント富士</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               1,100ｍの高台に建つ、ホテル中庭から望む　“雄大な富士山”　をぜひご堪能下さい。
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              富士急ハイランド公式ホテル　ハイランドリゾート　ホテル＆スパ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">富士急ハイランド公式ホテル　ハイランドリゾート　ホテル＆スパ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               富士急ハイランド優先入園特典付き｜ふじやま温泉入館無料｜河口湖まで車で10分
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ＰＩＣＡ富士吉田
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＰＩＣＡ富士吉田</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               富士山に一番近いキャンプ場。コテージは全て屋根付き＋ＢＢＱグリルと冷暖房が完備。
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鴨川シーワールドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鴨川シーワールドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鴨川シーワールドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鴨川シーワールドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

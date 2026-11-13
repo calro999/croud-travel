@@ -108,9 +108,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  窓枠が一幅の日本画に！部屋やロビーから四季折々の名庭園を心ゆくまで鑑賞
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">窓枠が一幅の日本画に！部屋やロビーから四季折々の名庭園を心ゆくまで鑑賞</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 石組、築山、枯山水、池泉回遊式など、名作庭家が意匠を凝らした庭園美。朝靄が立ち込める静寂の朝から、夕暮れのライトアップまで、時間の移ろいとともに変化する表情を特等席で独占できます。
@@ -123,9 +121,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  庭園散策で浴びるマイナスイオン！鳥のさえずりと澄んだ空気でリフレッシュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">庭園散策で浴びるマイナスイオン！鳥のさえずりと澄んだ空気でリフレッシュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 草木が放つ豊かなフィトンチッドを感じながら、朝の清々しい空気の中で庭園をそぞろ歩き。砂利を踏みしめる音や木漏れ日の揺らめきが、日頃のストレスや脳疲労を綺麗に洗い流してくれます。
@@ -138,9 +134,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  加賀懐石、出雲郷土料理、佐賀牛！庭園を眺めながら味わう四季の美食会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">加賀懐石、出雲郷土料理、佐賀牛！庭園を眺めながら味わう四季の美食会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 九谷焼や有田焼、島根の漆器など、美しい伝統工芸の器に盛り付けられた目にも鮮やかな会席料理。旬の海の幸と厳選されたブランド和牛が、五感を満たす至福の晩餐を演出します。
@@ -183,9 +177,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     島根県松江市・足立美術館至近！米庭園ランキング上位常連の皆美館伝統を継ぐ名門宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    玉造温泉　佳翠苑　皆美
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">玉造温泉　佳翠苑　皆美</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本最古の美肌温泉として名高い玉造温泉に位置し、米国の庭園専門誌ランキングで常に上位に選ばれる松江「皆美館」の伝統を受け継ぐ格式高い名門旅館。館内に一歩足を踏み入れると、白砂青松の美しい日本庭園が広がり、訪れる人々を格調高い和の美意識で迎えます。出雲風土記に「ひとたび濯げば容姿端正になり、再び浴すれば万病ことごとく癒ゆ」と記された神の湯を大浴場や露天風呂で堪能。夕食には日本海の獲れたて松葉蟹やのどぐろ、しまね和牛など山陰の山海の恵みを散りばめた華やかな会席料理をお楽しみいただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     佐賀県武雄市・国登録記念物・御船山楽園五十万平米の壮大庭園とチームラボ常設展示
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    武雄温泉　御船山楽園ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">武雄温泉　御船山楽園ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     武雄領第28代領主・鍋島茂義公が約3年をかけて造園した五十万平米もの広大無辺な国登録記念物「御船山楽園」の麓に佇む唯一無二のホテル。御船山のダイナミックな岩肌を背景に、春の桜とツツジ、秋の錦秋の紅葉など息をのむ絶景が広がります。ロビーに足を踏み入れると、世界的アート集団チームラボによる常設ランプアート作品が幻想的な光で迎えてくれます。武雄温泉の柔らかな名湯大浴場「らかんの湯」はサウナシュラン殿堂入りのサウナを備え、世界基準のアート・庭園・サウナリトリートを体験できます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     石川県加賀市・加賀百万石の情緒！美しき日本庭園と三つの大浴場十八湯めぐりの名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    山代温泉　ゆのくに天祥
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">山代温泉　ゆのくに天祥</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     開湯千三百年を誇る名湯・山代温泉の中心に位置し、広大な敷地に見事な日本庭園を抱く北陸を代表する名旅館。敷地内に自家源泉を持ち、趣の異なる3つの大浴場と露天風呂で「十八湯めぐり」を心ゆくまで満喫できます。季節ごとに表情を変える中庭の緑を望みながらいただく会席料理は、日本海の新鮮な海の幸や加賀野菜、能登牛を取り入れ、伝統工芸・九谷焼や山中塗の器で華麗に供されます。行き届いた温かなおもてなしと充実した温泉施設で、家族旅行から夫婦の記念日旅まで最高峰の満足度を誇ります。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】玉造温泉 佳翠苑 皆美を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】玉造温泉 佳翠苑 皆美を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoJapaneseGardenViewStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と玉造温泉 佳翠苑 皆美の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と玉造温泉 佳翠苑 皆美の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -91,9 +91,7 @@ export default function Page() {
               富士の恵み・駿河湾沿岸の伏流水
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['shizuoka_shikiji_style_spring_stay']?.label || '富士の恵み・駿河湾沿岸の伏流水'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['shizuoka_shikiji_style_spring_stay']?.label || '富士の恵み・駿河湾沿岸の伏流水'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             サウナ愛好家の聖地として名高い静岡エリア。富士山や南アルプスから数十年の歳月をかけて湧き出る地下天然水は、軟水で飲用も可能。蛇口からドバドバと注がれる清純な水風呂で、極上の浮遊感とととのいを体感できます。
           </p>
@@ -118,9 +116,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -169,9 +165,7 @@ export default function Page() {
               阿蘇伏流水・名水百選のシングル＆秘湯
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['kurokawa_aso_pure_water_stay']?.label || '阿蘇伏流水・名水百選のシングル＆秘湯'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['kurokawa_aso_pure_water_stay']?.label || '阿蘇伏流水・名水百選のシングル＆秘湯'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             阿蘇カルデラの壮大な森が育んだ名水百選の湧水群。熊本・黒川や阿蘇の山間に佇む名旅館では、キリリと冷えた天然水掛け流し水風呂と、良質な硫黄泉や炭酸水素塩泉の温冷交代浴が至福の領域へ導きます。
           </p>
@@ -196,9 +190,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -247,9 +239,7 @@ export default function Page() {
               北アルプス雪解け水・安曇野清流クールダウン
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['nagano_alps_pure_spring_stay']?.label || '北アルプス雪解け水・安曇野清流クールダウン'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['nagano_alps_pure_spring_stay']?.label || '北アルプス雪解け水・安曇野清流クールダウン'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             白馬や安曇野、八ヶ岳山麓に位置する信州の宿。雪解けのピュアな天然水がそのまま注がれる水風呂は、冷たさの中に甘みすら感じる純度の高さ。爽快な高原の森林外気浴とのコンビネーションは格別です。
           </p>
@@ -274,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-emerald-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -320,37 +308,29 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-emerald-900/10 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">
-            <span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
-            よくある質問・サウナリゾートの楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-emerald-700 rounded-full inline-block"></span>
+            よくある質問・サウナリゾートの楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>天然水の水風呂は一般的な水道水の水風呂と何が違いますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>天然水の水風呂は一般的な水道水の水風呂と何が違いますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 塩素（カルキ）による刺激や臭いが一切なく、ミネラルバランスに優れているため肌触りが非常に柔らかく滑らかです。「いつまでも入っていたくなる」「水に溶け込むような感覚」と表現されるほどの違いがあります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>水温（水風呂の温度）はどのくらいですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>水温（水風呂の温度）はどのくらいですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 地下水は年間を通じて14〜17度前後の安定した水温を保つ施設が多く、過度な冷たさを感じさせずにしっかりとクールダウンできます。一部施設では10度前後のシングル水温を楽しめる場合もあります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
-                <span>サウナ後の水分補給としてその天然水を飲むことはできますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-700 font-serif font-black text-lg">Q.</span>
+                <span>サウナ後の水分補給としてその天然水を飲むことはできますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 飲用許可を取得している施設では、水風呂の注ぎ口や専用給水所から汲みたての天然水をそのまま飲むことができます。体の中からピュアな名水で満たされる感動を味わえます。
               </p>
@@ -360,9 +340,7 @@ export default function Page() {
 
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
-          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">
-            他のサウナ＆ウェルネス・癒しの宿を探す
-          </h3>
+          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のサウナ＆ウェルネス・癒しの宿を探す</h3>
           <p className="text-stone-600 text-sm mb-6">
             バレルサウナ、絶景パノラマ、名水水風呂、ハーブ蒸し、完全プライベートサウナ付き客室など、全国の極上サウナ旅をご提案します。
           </p>
@@ -403,9 +381,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＵＭＥＧＡＳＨＩＭＡ ＤＲＩＶＥーＩＮ ＆ ＳＡＵＮＡ ＶＩＬＬＡを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＵＭＥＧＡＳＨＩＭＡ ＤＲＩＶＥーＩＮ ＆ ＳＡＵＮＡ ＶＩＬＬＡを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +414,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＵＭＥＧＡＳＨＩＭＡ ＤＲＩＶＥーＩＮ ＆ ＳＡＵＮＡ ＶＩＬＬＡの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＵＭＥＧＡＳＨＩＭＡ ＤＲＩＶＥーＩＮ ＆ ＳＡＵＮＡ ＶＩＬＬＡの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            パチパチと爆ぜる大松明の火柱と男たちの勇壮な掛け声。厄を払い神仏と一体になる熱狂の祭り旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">パチパチと爆ぜる大松明の火柱と男たちの勇壮な掛け声。厄を払い神仏と一体になる熱狂の祭り旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             古来より火には穢れを祓い清める強大な霊力が宿ると信じられ、数多の人々の祈りとともに受け継がれてきた「日本三大火祭り」――熊野那智大社の扇立祭として重さ50kg以上の大松明12本が那智の滝へと炎の列をなす和歌山の「那智の火祭」、国の重要無形民俗文化財に指定され社殿を巡る激しい攻防戦と巨大な火柱が夜空を焦がす長野の「野沢温泉の道祖神祭り」、そして「サイレイ、サイリョウ」の掛け声とともに燃え盛る巨大松明が鞍馬の街並みを埋め尽くす京都洛北の「鞍馬の火祭」。飛び散る火の粉の熱風と人々の熱狂を肌で感じる体験は一生の記憶に残る感動です。祭りの後は、名湯温泉で身体を温め、地域の伝統美食を味わう旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  和歌山県那智勝浦町ふるさと納税：熊野那智大社の大松明と那智の滝「那智の火祭」と南紀勝浦温泉ホテル浦島
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">和歌山県那智勝浦町ふるさと納税：熊野那智大社の大松明と那智の滝「那智の火祭」と南紀勝浦温泉ホテル浦島</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   世界遺産・熊野古道の聖地で行われる扇祭り。12本の大松明が石段を駆け上がる勇壮な神事を見届けた後は、専用船で渡る名門「ホテル浦島」で、太平洋を望む天然大洞窟風呂「忘帰洞」と勝浦生マグロ食べ放題を満喫します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      南紀勝浦温泉　ホテル浦島
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">南紀勝浦温泉　ホテル浦島</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>和歌山県東牟婁郡那智勝浦町勝浦1165-2</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  長野県野沢温泉村ふるさと納税：火の粉飛び散る国指定重要無形民俗文化財「道祖神祭り」と野沢温泉河一屋旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">長野県野沢温泉村ふるさと納税：火の粉飛び散る国指定重要無形民俗文化財「道祖神祭り」と野沢温泉河一屋旅館</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   真冬の雪の中で繰り広げられる日本を代表する火祭り。巨大な社殿をめぐる激しい火の攻防を体感した後は、創業百余年の「河一屋旅館」で、源泉掛け流しの温泉湯巡りと信州牛のステーキ会席に心も身体も温まります。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      野沢温泉　河一屋旅館
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">野沢温泉　河一屋旅館</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>長野県下高井郡野沢温泉村豊郷8923-1</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府京都市左京区ふるさと納税：由岐神社の街道を焦がす炎の乱舞「鞍馬の火祭」とザ・プリンス京都宝ヶ池
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府京都市左京区ふるさと納税：由岐神社の街道を焦がす炎の乱舞「鞍馬の火祭」とザ・プリンス京都宝ヶ池</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   平安時代からの歴史を刻む京都三大奇祭の一つ。巨大な松明が洛北の夜空を染め上げる光景に息をのんだ後は、村野藤吾設計の円形名建築「ザ・プリンス 京都宝ヶ池」で、緑豊かな洛北の静寂と本格京会席・フレンチを味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ザ・プリンス　京都宝ヶ池、オートグラフコレクション
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ザ・プリンス　京都宝ヶ池、オートグラフコレクション</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府京都市左京区宝ヶ池</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   西馬音内・郡上おどり・阿波おどり。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   松之山温泉・草津温泉・有馬温泉。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名湯＆歴史息づく老舗旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名湯＆歴史息づく老舗旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   草津・有馬・下呂の名湯。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】南紀勝浦温泉 ホテル浦島を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】南紀勝浦温泉 ホテル浦島を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と南紀勝浦温泉 ホテル浦島の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と南紀勝浦温泉 ホテル浦島の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

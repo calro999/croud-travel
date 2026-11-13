@@ -109,9 +109,7 @@ export default function WinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 11月〜12月初冬の厳選狙い目特集</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【水郷日田の初冬川霧と天領小京都・豆田町の白壁通り散策】2026-2027年11-12月初冬の大分・日田温泉！三隈川の川霧を望む屋形船情緒と名物日田焼きそば・おおいた和牛と美肌の名湯5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             水郷（すいきょう）と称される大分県日田市。11月〜12月の寒暖差が生み出す三隈川の幻想的な「川霧」と、江戸幕府直轄の天領として栄えた「豆田町」の白壁土蔵が連なる歴史情緒。パリッとした麺の食感がやみつきになる元祖「日田焼きそば」や老舗酒蔵の吟醸酒、とろける豊後牛（おおいた和牛）を堪能し、三隈川を一望する源泉掛け流し美肌温泉に浸る初冬の厳選名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function WinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが11〜12月の旅におすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが11〜12月の旅におすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>三隈川を包む幻想的な「初冬の川霧」と美肌の湯・日田温泉のパノラマ露天</span>
-            </h3>
+              <span>三隈川を包む幻想的な「初冬の川霧」と美肌の湯・日田温泉のパノラマ露天</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               11〜12月の寒暖差が生み出す川霧が水面を白く染め上げる幽玄な絶景。三隈川を見下ろす源泉掛け流しの露天風呂から、刻一刻と表情を変える幻想的な朝景色を心ゆくまで堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>天領の栄華が息づく小京都「豆田町」！白壁土蔵と老舗酒蔵の冬情緒散策</span>
-            </h3>
+              <span>天領の栄華が息づく小京都「豆田町」！白壁土蔵と老舗酒蔵の冬情緒散策</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               国の重伝建地区に選ばれた豆田町には、江戸時代の町家や白壁の蔵が美しく残存。名水が醸す地酒の試飲や伝統の日田杉下駄、老舗味噌醤油蔵を巡る贅沢な歴史歩きが楽しめます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>麺のカリカリ食感がやみつき！元祖「日田焼きそば」と極上おおいた和牛の美食</span>
-            </h3>
+              <span>麺のカリカリ食感がやみつき！元祖「日田焼きそば」と極上おおいた和牛の美食</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               鉄板で香ばしく焼き固めた麺とたっぷりモヤシが絶妙なご当地グルメ「日田焼きそば」や、とろける旨味の「おおいた和牛」会席など、美食の宝庫・大分の旬の味覚を心ゆくまで味わえます。
             </p>
@@ -177,9 +167,7 @@ export default function WinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                初冬を満喫する厳選名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">初冬を満喫する厳選名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日田温泉　亀山亭ホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日田温泉　亀山亭ホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  奥日田温泉　うめひびき
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">奥日田温泉　うめひびき</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日田温泉　小京都の湯　みくまホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日田温泉　小京都の湯　みくまホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日田　琴平温泉　旅籠かやうさぎ
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日田　琴平温泉　旅籠かやうさぎ</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  日田温泉　はなの樹　ＲＩＶＥＲ　ＴＥＲＲＡＣＥ
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">日田温泉　はなの樹　ＲＩＶＥＲ　ＴＥＲＲＡＣＥ</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -546,28 +524,22 @@ export default function WinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>三隈川の「川霧」はいつ、どこで見ることができますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>三隈川の「川霧」はいつ、どこで見ることができますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               川霧は11月から12月の晴れた日の早朝（日の出直後から午前8時頃まで）に最もよく発生します。三隈川沿いの宿の露天風呂や客室からはもちろん、三隈川にかかる日ノ出橋や島内水辺公園周辺が絶好のビューポイントです。冷え込みが強く風が穏やかな朝ほど濃い霧が立ち込めます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>日田焼きそばの特徴とおすすめの食べ方は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>日田焼きそばの特徴とおすすめの食べ方は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               一般的な焼きそばと異なり、鉄板で麺の両面をじっくりと焼き、所々がパリパリ・ポリポリと香ばしく焦げ目がつくのが特徴です。そこに生モヤシと豚肉、ネギを加えて一気に炒め合わせます。卓上の紅生姜や胡椒、生卵をトッピングして味の変化を楽しむのが地元通の食べ方です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>冬でも日田温泉の「屋形船」は運航していますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>冬でも日田温泉の「屋形船」は運航していますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               屋形船といえば夏の鵜飼いが有名ですが、冬期間（11月〜4月）も「冬の屋形船」として障子を閉め、船内にストーブやこたつを備えた暖かな空間で川面を進みながら会席料理を楽しむプランを通年運行している旅館があります（要事前予約）。静寂の冬の川下りは大変風流でおすすめです。
             </p>

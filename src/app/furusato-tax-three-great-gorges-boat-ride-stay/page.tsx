@@ -183,9 +183,7 @@ export default function Page() {
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            水しぶきと風を浴びて進む木舟。日本の渓谷美を川面から見上げる特別な冒険
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">水しぶきと風を浴びて進む木舟。日本の渓谷美を川面から見上げる特別な冒険</h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
             数万年の歳月をかけて川の流れが岩肌を削り出し、息をのむ大自然の造形美を魅せる「日本の名舟下り・渓谷下り」――丹波亀岡から嵯峨嵐山までの約16kmにわたる渓谷をスリル満点に下る京都の「保津川下り」、山形の大地を貫き船頭の情緒あふれる最上川舟唄が峡谷に響き渡る山形の「最上川舟下り」、そして国の名勝・天然記念物に指定された荒川沿いの結晶片岩（岩畳）の壮観を優雅に巡る埼玉の「長瀞ライン下り」。春の桜、夏の深緑、秋の紅葉、冬の雪景色に彩られた渓谷美を体感し、川沿いの名湯露天風呂や川魚・鮎料理に舌鼓を打つ旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -194,9 +192,7 @@ export default function Page() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              ふるさと納税×日本三大渓谷清流舟下り 3つのメリット
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">ふるさと納税×日本三大渓谷清流舟下り 3つのメリット</h2>
             <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
@@ -208,9 +204,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   01
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  船着場へのアクセス良好！朝一番の澄み切った川風を感じる爽快な舟下り体験
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">船着場へのアクセス良好！朝一番の澄み切った川風を感じる爽快な舟下り体験</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   水辺の老舗旅館に泊まるからこそ、時間を気にせず乗船前後の渓谷散策や写真撮影を満喫。
                 </p>
@@ -221,9 +215,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   02
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  天然鮎の塩焼き・山形牛や芋煮、京料理の旬会席、秩父のぼたん鍋や川魚料理
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">天然鮎の塩焼き・山形牛や芋煮、京料理の旬会席、秩父のぼたん鍋や川魚料理</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   清流の恵みと豊かな山の幸をふんだんに取り入れた、水辺の宿ならではの贅沢ディナーを堪能。
                 </p>
@@ -234,9 +226,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   03
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  楽天ふるさと納税宿泊クーポンで川沿いの一軒宿や老舗温泉ホテルをお得に予約
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">楽天ふるさと納税宿泊クーポンで川沿いの一軒宿や老舗温泉ホテルをお得に予約</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   アクティブな家族旅行や風雅な夫婦旅でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
                 </p>
@@ -260,9 +250,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -287,9 +275,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -404,9 +390,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の名所・絶景と歴史の宿特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の名所・絶景と歴史の宿特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-clear-rivers-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -438,9 +422,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都 嵐山温泉 渡月亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -473,9 +455,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都 嵐山温泉 渡月亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -21,9 +21,7 @@ export default function NotFound() {
         <span className="inline-block text-[10px] font-extrabold tracking-widest text-amber-300 uppercase bg-amber-400/10 border border-amber-400/20 px-3.5 py-1 rounded-full">
           404 NOT FOUND 🧭
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-snug">
-          お探しのページが見つかりませんでした
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif tracking-tight leading-snug">お探しのページが見つかりませんでした</h1>
         <p className="text-xs md:text-sm text-emerald-100/80 max-w-xl mx-auto leading-relaxed">
           アクセスいただいた記事は、掲載期間の終了に伴い統合・更新されたか、URLが変更された可能性があります。以下の最新特集や全国の旅宿ガイドから、気になる旅先をお探しください。
         </p>
@@ -46,9 +44,7 @@ export default function NotFound() {
 
       {/* 注目のおすすめ特集＆お役立ちガイド */}
       <div className="space-y-4">
-        <h2 className="text-base md:text-lg font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-          <span>🌟</span> <span>いま注目の厳選旅行特集＆お得な予約術</span>
-        </h2>
+        <h2 className="text-base md:text-lg font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>いま注目の厳選旅行特集＆お得な予約術</span></h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <Link
             href="/winter-travel-special/"
@@ -57,9 +53,7 @@ export default function NotFound() {
             <span className="text-[9px] font-extrabold text-sky-800 bg-sky-100 px-2.5 py-0.5 rounded-full inline-block">
               ❄️ 秋冬〜年末年始特設
             </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">
-              冬の絶景温泉＆冬の味覚（カニ・フグ）特集
-            </h3>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">冬の絶景温泉＆冬の味覚（カニ・フグ）特集</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">
               越前がに・松葉ガニ解禁、雪見露天風呂、年末年始・お正月におすすめの名宿を厳選。
             </p>
@@ -72,9 +66,7 @@ export default function NotFound() {
             <span className="text-[9px] font-extrabold text-amber-800 bg-amber-100 px-2.5 py-0.5 rounded-full inline-block">
               🏷️ お得な割引情報
             </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-800 transition">
-              楽天トラベル最新セール＆限定クーポン
-            </h3>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-amber-800 transition">楽天トラベル最新セール＆限定クーポン</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">
               「5と0のつく日」最大20%OFFクーポンや宿限定クーポンの最新獲得リンク一覧。
             </p>
@@ -87,9 +79,7 @@ export default function NotFound() {
             <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">
               💰 実質2,000円で泊まる
             </span>
-            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">
-              ふるさと納税宿泊クーポンの賢い活用法
-            </h3>
+            <h3 className="text-sm font-bold text-emerald-950 group-hover:text-emerald-800 transition">ふるさと納税宿泊クーポンの賢い活用法</h3>
             <p className="text-xs text-emerald-950/70 line-clamp-2">
               予約済みの宿泊予約にも「あとから割引」可能！賢く旅費を節約する完全ガイド。
             </p>
@@ -100,9 +90,7 @@ export default function NotFound() {
       {/* 都道府県から探す */}
       <div className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-5 shadow-sm">
         <div className="flex items-center justify-between border-b border-emerald-950/5 pb-3">
-          <h2 className="text-sm md:text-base font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🗾</span> <span>人気の都道府県から探す</span>
-          </h2>
+          <h2 className="text-sm md:text-base font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>人気の都道府県から探す</span></h2>
           <Link href="/prefectures/" className="text-xs font-bold text-teal-800 hover:underline">
             全国47都道府県一覧 →
           </Link>

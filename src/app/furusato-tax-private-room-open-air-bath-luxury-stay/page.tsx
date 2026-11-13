@@ -108,9 +108,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  24時間いつでも好きな時に独占！移動ゼロで何度でも楽しめる専用露天風呂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">24時間いつでも好きな時に独占！移動ゼロで何度でも楽しめる専用露天風呂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 目が覚めてすぐに朝靄の中でひと風呂、夕暮れに茜色の空を眺めながら乾杯、星空の下で心ゆくまで長湯。自分たちだけの露天風呂だからこそ、湯浴みの回数や時間帯も自由自在。日常の緊張が芯からほどけていく贅沢を実感できます。
@@ -123,9 +121,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  他のお客様と会わずに寛げる完全プライベートな動線と贅沢なテラス空間
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">他のお客様と会わずに寛げる完全プライベートな動線と贅沢なテラス空間</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 客室に専用の露天風呂とデイベッドやデッキチェアを備えたテラスが直結。湯上がりには心地よい風に吹かれながらプライベートな読書やドリンクを楽しめ、静寂と安心感に包まれた非日常の寛ぎが約束されます。
@@ -138,9 +134,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  記念日やプロポーズ、ご夫婦の節目にふさわしい最高峰のおもてなしと美食会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">記念日やプロポーズ、ご夫婦の節目にふさわしい最高峰のおもてなしと美食会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 専任スタッフによるきめ細やかなサービス、伊豆の金目鯛や伊勢海老、京都の伝統京懐石など、各地の最高級食材を贅を尽くして仕上げた会席料理。大切な人と過ごす特別なひとときを生涯忘れられない思い出へと昇華させます。
@@ -183,9 +177,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊豆市・一万五千坪の日本庭園を望む客室露天風呂と修善寺の名湯
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    修善寺温泉　宙ＳＯＲＡ　渡月荘金龍
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">修善寺温泉　宙ＳＯＲＡ　渡月荘金龍</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊豆最古の歴史を誇る修善寺温泉の高台に位置し、一万五千坪に及ぶ広大な日本庭園の四季折々の美景を抱く名門温泉旅館。客室のウッドデッキに配された専用露天風呂からは、春の山桜、初夏の新緑、秋の紅葉など、移ろいゆく伊豆の自然を独り占めしながら無色透明のまろやかな名湯を堪能できます。館内にはデザイナーが手掛けた円形の幻想的な露天風呂や光のラウンジ、修善寺の竹林を望む散策路も完備。駿河湾の新鮮な地魚や伊豆牛を贅沢に盛り込んだ月替わりの創作会席とともに、極上のリトリート時間を約束してくれます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・竹取物語の世界観を体現した全室自家源泉露天風呂付きの大人の隠れ家
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    金乃竹　塔ノ澤
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">金乃竹　塔ノ澤</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根の塔ノ澤の豊かな森に抱かれ、専用の吊り橋を渡ってアプローチする静寂に包まれた大人のための隠れ宿。「竹取物語」をデザインコンセプトに創られた館内は、水盤に浮かぶバーラウンジや幻想的な竹林が広がる非日常の世界。全客室のテラスに自家源泉かけ流しの天然温泉露天風呂を備え、肌に優しく吸い付くようなアルカリ性単純温泉にいつでも浸かることができます。厳選された京都の食材と旬の味覚を融合させた本格京懐石を堪能し、日常の喧騒から完全に隔絶された静謐な大人の贅沢を満喫できます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     京都府京都市・嵐山保津川の特等席！プライベート天然温泉付き客室と最高峰ラグジュアリー
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    翠嵐ラグジュアリーコレクションホテル京都
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">翠嵐ラグジュアリーコレクションホテル京都</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     平安貴族の避暑地として栄えた京都・嵐山、大堰川（保津川）のほとりに佇み、歴史的建造物と現代ラグジュアリーが調和する世界的ホテルブランドの名宿。プライベート露天風呂付き客室「柚葉」などでは、嵐山温泉の肌触り豊かな天然温泉を部屋の専用湯船に湛え、中庭の緑を眺めながら至福の湯浴みが叶います。歴史ある延命閣での伝統的な京会席とフレンチが融合したディナー、川沿いのカフェ「茶寮 八翠」でのシャンパンディライトなど、古都の雅と世界最高水準のホスピタリティが融合した至高の京都ステイを体験できます。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】修善寺温泉 宙ＳＯＲＡ 渡月荘金龍を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】修善寺温泉 宙ＳＯＲＡ 渡月荘金龍を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoPrivateRoomOpenAirStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と修善寺温泉 宙ＳＯＲＡ 渡月荘金龍の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と修善寺温泉 宙ＳＯＲＡ 渡月荘金龍の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            青空に映える茅葺きの屋根と立ちのぼる囲炉裏の煙。時が止まったかのような日本の原風景ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">青空に映える茅葺きの屋根と立ちのぼる囲炉裏の煙。時が止まったかのような日本の原風景ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             先人たちの助け合いの精神「結（ゆい）」によって数百年もの風雪に耐え、今なお人々が暮らしを営み続ける「日本三大茅葺きの里（三大茅葺き・合掌造り集落）」――北山杉の山々に抱かれ美しい入母屋造りの民家群が清流沿いに残る京都南丹の「美山かやぶきの里」、江戸時代の会津西街道の宿場町として茅葺き屋根の長屋が街道沿いに整然と立ち並ぶ福島の「大内宿」、そして豪雪に耐える急勾配の屋根が美しい世界文化遺産・岐阜飛騨の「白川郷合掌造り集落」。囲炉裏の炭火でじっくり焼いた川魚や山菜、地元の名物料理を味わい、夜には満天の星空と虫の音に包まれる時間は、現代人が忘れかけていた深い癒やしを与えてくれます。心温まる原風景ステイを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府南丹市美山町ふるさと納税：清流美山川と約40棟の茅葺き民家「美山かやぶきの里」と料理旅館枕川楼
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府南丹市美山町ふるさと納税：清流美山川と約40棟の茅葺き民家「美山かやぶきの里」と料理旅館枕川楼</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の重要伝統的建造物群保存地区。のどかな日本の原風景を散策した後は、美山川の畔に佇む創業百年の「料理旅館 枕川楼」で、名物天然鮎の塩焼きや美山京地鶏のすき焼き、ぼたん鍋を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      京都美山　料理旅館　枕川楼
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">京都美山　料理旅館　枕川楼</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府南丹市美山町中上前26</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福島県下郷町・会津若松市ふるさと納税：江戸時代の宿場町景観「大内宿」ねぎそばと会津湯野上温泉ホテル大坂屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福島県下郷町・会津若松市ふるさと納税：江戸時代の宿場町景観「大内宿」ねぎそばと会津湯野上温泉ホテル大坂屋</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   寄棟造りの茅葺き民家が街道を埋め尽くす大内宿。名物の一本ねぎで食べる高遠そばを味わった後は、全館畳敷きと源泉100%掛け流しが自慢の「会津湯野上温泉 ホテル大坂屋」で、渓谷露天風呂と会津地酒に酔いしれます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      会津湯野上温泉　ホテル大坂屋
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">会津湯野上温泉　ホテル大坂屋</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福島県南会津郡下郷町湯野上居平乙766-2</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岐阜県白川村ふるさと納税：世界遺産の合掌造りと白山連峰パノラマ「白川郷」と天然温泉白川郷の湯ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岐阜県白川村ふるさと納税：世界遺産の合掌造りと白山連峰パノラマ「白川郷」と天然温泉白川郷の湯ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の宝・世界遺産白川郷荻町集落。展望台から集落全景を見渡した後は、白川郷内で唯一の天然温泉宿「白川郷の湯」で、庄川のせせらぎを聞く露天風呂と最高級A5ランク飛騨牛ステーキ会席を満喫します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      天然温泉白川郷の湯
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">天然温泉白川郷の湯</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岐阜県大野郡白川村荻町337</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美林＆天然木アロマ温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美林＆天然木アロマ温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   青森ヒバ・秋田スギ・木曽ヒノキ。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   越前和紙・美濃和紙・小川和紙。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  職人技が光る伝統工芸＆数寄屋建築の名旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">職人技が光る伝統工芸＆数寄屋建築の名旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有形文化財の名旅館。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都美山 料理旅館 枕川楼を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都美山 料理旅館 枕川楼を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都美山 料理旅館 枕川楼の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都美山 料理旅館 枕川楼の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大茅葺きの里＆原風景ノスタルジー宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

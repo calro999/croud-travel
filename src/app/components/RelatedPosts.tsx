@@ -125,9 +125,7 @@ export default function RelatedPosts({
             <span className="text-[10px] font-black tracking-widest text-amber-300 bg-amber-950/80 px-2.5 py-0.5 rounded-full border border-amber-400/40 uppercase">
               EDITORIAL EXCLUSIVE 2026-2027
             </span>
-            <h4 className="text-base md:text-lg font-black text-white mt-1 font-journal-serif">
-              🔥 編集部総力取材！日本全国メガヒット決定版キラー特集
-            </h4>
+            <h4 className="text-base md:text-lg font-black text-white mt-1 font-journal-serif">編集部総力取材！日本全国メガヒット決定版キラー特集</h4>
           </div>
           <span className="text-[11px] text-stone-400">楽天トラベル公式データ連携</span>
         </div>
@@ -209,9 +207,7 @@ export default function RelatedPosts({
 
       <div className="space-y-4">
         <div className="flex items-center justify-between">
-          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🧭</span> <span>あわせて読みたい【{prefecture}{cleanArea && cleanArea !== prefecture ? `・${cleanArea}` : ""}＆近隣エリア】よく比較される人気宿＆宿泊記</span>
-          </h3>
+          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>あわせて読みたい【{prefecture}{cleanArea && cleanArea !== prefecture ? `・${cleanArea}` : ""}＆近隣エリア】よく比較される人気宿＆宿泊記</span></h3>
           <Link href="/" className="text-xs font-bold text-teal-800 hover:underline">
             すべての記事を見る →
           </Link>
@@ -245,9 +241,7 @@ export default function RelatedPosts({
                 </span>
               </div>
               <div className="p-4 flex flex-col justify-between flex-grow space-y-2">
-                <h4 className="text-xs font-bold text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">
-                  {post.title}
-                </h4>
+                <h4 className="text-xs font-bold text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">{post.title}</h4>
                 <div className="flex items-center justify-between text-[10px] text-teal-900/60 font-semibold pt-2 border-t border-emerald-950/5">
                   <span className="truncate max-w-[140px]">{post.hotel_name}</span>
                   {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}

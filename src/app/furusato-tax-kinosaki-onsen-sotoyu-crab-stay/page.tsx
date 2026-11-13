@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            浴衣に下駄でカランコロン——柳揺れる大谿川と七つの外湯、冬の味覚の王様・松葉ガニに酔いしれる
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">浴衣に下駄でカランコロン——柳揺れる大谿川と七つの外湯、冬の味覚の王様・松葉ガニに酔いしれる</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             兵庫県豊岡市城崎町、日本海へと注ぐ大谿川（おおたにがわ）沿いに広がる城崎（きのさき）温泉。奈良時代の開湯以来千三百年の歴史を誇り、「駅は玄関、道路は廊下、旅館は客室、外湯は大浴場」という共生の理念のもと、温泉街全体が一つの大きな宿として旅人を温かく迎え入れます。柳並木と太鼓橋が織りなす情緒あふれる景観の中、色とりどりの浴衣に下駄を鳴らして「一の湯」「御所の湯」「鴻の湯」など趣の異なる七つの外湯をめぐる時間は、まさに日本の温泉旅の原点です。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋本館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">城崎温泉　西村屋本館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百六十年の歴史を誇る城崎最高峰の格式！伝統の数寄屋建築と名庭園、タグ付き松葉ガニ懐石
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋本館 —— 日本旅館の美意識を極める名門。美しい平庭を望む客室と至高のおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">城崎温泉 西村屋本館 —— 日本旅館の美意識を極める名門。美しい平庭を望む客室と至高のおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 登録有形文化財の数寄屋造りと四季を映す日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">登録有形文化財の数寄屋造りと四季を映す日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">伝統的な日本の木造建築美を受け継ぐ本館。手入れの行き届いた日本庭園を囲むように回廊が巡り、静寂と気品に満ちた特別な時間が流れます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 吉野檜香る「檜扇の湯」や中国の古瓦を配した「吉の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">吉野檜香る「檜扇の湯」や中国の古瓦を配した「吉の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">檜の温もりが心地よい大浴場と野趣あふれる露天風呂。城崎の名湯に身を浸しながら、贅沢なプライベートの湯浴みを満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳選された津居山港・柴山港水揚げの活松葉ガニ懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">厳選された津居山港・柴山港水揚げの活松葉ガニ懐石</h5>
                     <p className="text-stone-600 leading-relaxed">日本海屈指のブランド蟹を熟練の料理人が腕を振るって仕立てる至極の蟹会席。お部屋食で一品一品出来立ての最高峰の味を堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　西村屋ホテル招月庭
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">城崎温泉　西村屋ホテル招月庭</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   五万坪の広大な森林庭園に抱かれる極上リゾート！大自然のジャグジー露天風呂と多彩な蟹プラン
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 西村屋ホテル招月庭 —— 西村屋の伝統と現代リゾートの融合。癒やしのスパと贅沢なダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">城崎温泉 西村屋ホテル招月庭 —— 西村屋の伝統と現代リゾートの融合。癒やしのスパと贅沢なダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 豊かな緑に包まれる広大な大浴場「月下の湯」と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">豊かな緑に包まれる広大な大浴場「月下の湯」と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">森林の心地よい風が吹き抜ける露天風呂やジャグジー、ミストサウナを完備。自然と調和した開放感あふれる空間でリフレッシュできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 完全貸切で楽しめる森のプライベートスパ「かがり火の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">完全貸切で楽しめる森のプライベートスパ「かがり火の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">岩盤浴や専用ラウンジを備えたラグジュアリーな貸切風呂。カップルやご夫婦で誰にも邪魔されない贅沢な時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛と松葉ガニを贅沢に味わう季節の会席ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">但馬牛と松葉ガニを贅沢に味わう季節の会席ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">伝統の味を受け継ぎながら、オープンキッチンの要素や彩り豊かな盛り付けを取り入れた大満足のディナー。豊富な地酒やワインとともに味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">兵庫県豊岡市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城崎温泉　登録有形文化財の宿　三木屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">城崎温泉　登録有形文化財の宿　三木屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   文豪志賀直哉が名作『城の崎にて』を執筆した歴史宿！三百坪の日本庭園と登録有形文化財の木造建築
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  城崎温泉 登録有形文化財の宿 三木屋 —— 創業三百年の歴史が息づく文豪の宿。現代的なリノベーションと外湯への好アクセス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">城崎温泉 登録有形文化財の宿 三木屋 —— 創業三百年の歴史が息づく文豪の宿。現代的なリノベーションと外湯への好アクセス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国登録有形文化財に指定された木造建築と日本庭園の眺望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国登録有形文化財に指定された木造建築と日本庭園の眺望</h5>
                     <p className="text-stone-600 leading-relaxed">志賀直哉が滞在し、作品の着想を得た歴史ある空間。三百坪の美しい庭園を望む客室やブックラウンジで、文学と歴史のロマンに浸ることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 城崎の温泉街中心に位置し七つの外湯めぐりに絶好の立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">城崎の温泉街中心に位置し七つの外湯めぐりに絶好の立地</h5>
                     <p className="text-stone-600 leading-relaxed">温泉街のメインストリートに面し、「御所の湯」や「一の湯」へ浴衣と下駄で気軽にアクセス可能。外湯めぐり用パス「ゆめぱ」で湯巡りを満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 但馬牛ステーキや季節の松葉ガニを味わう本格日本料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">但馬牛ステーキや季節の松葉ガニを味わう本格日本料理</h5>
                     <p className="text-stone-600 leading-relaxed">地元の契約農家からの新鮮野菜と、但馬牛、日本海の鮮魚を取り入れた料理長こだわりの会席。器の美しさとともに楽しめます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 城崎温泉・七つの外湯めぐり＆玄武洞観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 城崎温泉・七つの外湯めぐり＆玄武洞観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                七つの外湯めぐりと「ゆめぱ」の楽しみ方
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                七つの外湯めぐりと「ゆめぱ」の楽しみ方</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 「御所の湯（美人の湯）」「一の湯（開運招福）」「鴻の湯（しあわせを招く湯）」など、それぞれ異なる御利益と風情を持つ七つの外湯。宿泊客専用のデジタル外湯券「ゆめぱ」を使えば何度でも無料で湯巡りできます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                城崎ロープウェイとお大師山山頂からの眺望
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                城崎ロープウェイとお大師山山頂からの眺望</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の奥から大師山山頂へと登るロープウェイ。山頂の「みはらしテラスカフェ」からは城崎の温泉街と日本海を一望でき、ミシュラン・グリーンガイドでも高評価を得ています。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                天然記念物「玄武洞公園」の六角柱状節理
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                天然記念物「玄武洞公園」の六角柱状節理</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 城崎温泉から車で約10分の場所にある奇勝。160万年前に起こった火山活動で流れ出た溶岩が冷却されてできた見事な六角形の玄武岩の柱状節理は、大自然の神秘を感じさせます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              兵庫県豊岡市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">兵庫県豊岡市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 西村屋本館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 西村屋本館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 西村屋本館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 西村屋本館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

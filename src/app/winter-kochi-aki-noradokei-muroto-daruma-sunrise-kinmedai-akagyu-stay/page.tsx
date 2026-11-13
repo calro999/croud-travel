@@ -215,19 +215,15 @@ export default function Page() {
           {/* イントロセクション */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-                <Compass className="w-6 h-6 text-cyan-700" />
-                <span>冬の安芸・室戸・東高知探訪：静寂と温もりに包まれる旅の魅力</span>
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-700" />
+                <span>冬の安芸・室戸・東高知探訪：静寂と温もりに包まれる旅の魅力</span></h2>
             </div>
             <p className="text-stone-700 leading-relaxed text-sm sm:text-base whitespace-pre-line">
               土佐湾の東岸、黒潮洗う太平洋の水平線が弧を描く高知県・安芸＆室戸エリア。冬の土佐は全国屈指の日照時間を誇り、抜けるような青空と群青の海がどこまでも広がります。安芸市は、明治の偉人・岩崎弥太郎（三菱財閥創業者）の生家や、土佐藩郷士の格式を今に伝える「土居廓中（どいかくちゅう）」武家屋敷が残る歴史と文化の薫る町。町外れののどかな田園風景の中に佇む「野良時計（のらどけい）」は、明治時代に地元の地主・畠中源馬氏がアメリカ製の掛時計を独学で分解・研究し、歯車から分銅まで全パーツを手作りで組み上げた木造の櫓時計。国の登録有形文化財であり、かつて農作業に励む人々に正確な時を知らせて愛された温もりの音色が、冬の澄んだ空気に今も優しく響き渡るかのようです。安芸から国道55号線を東へ、黒潮が激しく打ち寄せる室戸岬へと向かうシーサイドドライブは、冬ならではの奇跡の情景に出逢う道。海面と冷え込んだ大気との寒暖差によって、日の出の太陽がダルマのように二重に見える幻想的な現象「だるま朝日」は、11月から1月にかけての冬期にだけ現れる幸運の絶景です。そして冬の東高知の食卓を彩るのは、室戸の深海から水揚げされる脂の乗った「室戸キンメダイ」。甘辛い秘伝のタレでふっくら煮付けた金目鯛の煮付けや丼は、口の中でとろけるような極上の美味。さらに幻の和牛と呼ばれる赤身の旨味が凝縮された「土佐あかうし」のステーキなど、心身を震わせる冬の土佐グルメが待っています。太陽と海の生命力に満ちた冬の東高知の旅をご堪能ください。
             </p>
 
             <div className="space-y-4 pt-4 border-t border-stone-100">
-              <h3 className="text-lg font-bold text-stone-900">
-                この冬、安芸・室戸・東高知を訪れるべき3つの理由
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">この冬、安芸・室戸・東高知を訪れるべき3つの理由</h3>
               <div className="grid grid-cols-1 gap-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-3">
@@ -235,9 +231,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  手作り時計の温もりと土佐郷士の歴史！「野良時計」と土居廓中武家屋敷散策
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">手作り時計の温もりと土佐郷士の歴史！「野良時計」と土居廓中武家屋敷散策</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 明治の手作り時計職人魂が息づく野良時計と、武家屋敷の玉石垣やウバメガシの生垣が美しい土居廓中。岩崎弥太郎生家の星型の鬼瓦など、日本の近代化の礎を築いた土佐の風土と歴史ロマンを冬の静寂の中で体感できます。
@@ -249,9 +243,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  奇跡の冬絶景！室戸岬の「だるま朝日」と世界ジオパークのダイナミックな海岸美
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">奇跡の冬絶景！室戸岬の「だるま朝日」と世界ジオパークのダイナミックな海岸美</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 11月〜1月の冷え込んだ晴天の朝にだけ現れる幻想的な「だるま朝日」。地球の息吹を体感できる室戸ユネスコ世界ジオパークの隆起海岸や弘法大師空海修行の「御厨人窟（みくろど）」など、神秘のパワースポットが連続します。
@@ -263,9 +255,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  深海の赤いダイヤ「室戸キンメダイ」と幻の「土佐あかうし」！黒潮の恵みと絶景温泉
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">深海の赤いダイヤ「室戸キンメダイ」と幻の「土佐あかうし」！黒潮の恵みと絶景温泉</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 脂の乗りが抜群の冬の室戸キンメダイの煮付けや丼、赤身とサシのバランスが絶妙な土佐あかうし。太平洋の潮騒を間近に聴く展望露天風呂や海洋深層水の湯に浸かり、土佐の豪快な美味に舌鼓を打つ極上の冬旅が叶います。
@@ -276,10 +266,8 @@ export default function Page() {
 
             {/* アクセス・気候・おすすめ服装 */}
             <div className="bg-cyan-50/60 border border-cyan-100 rounded-xl p-5 space-y-3 text-xs sm:text-sm text-stone-700">
-              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>アクセス・気候・おすすめの服装ガイド</span>
-              </h4>
+              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>アクセス・気候・おすすめの服装ガイド</span></h4>
               <pre className="font-sans whitespace-pre-line leading-relaxed text-stone-600 text-xs sm:text-sm">
                 【エリアへのアクセス】
 ・飛行機・高知龍馬空港から：高知龍馬空港より車・レンタカーで国道55号線を経由し、安芸市街（野良時計）まで約35分。室戸岬までは約1時間40分。
@@ -299,9 +287,7 @@ export default function Page() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                安芸・室戸・東高知 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">安芸・室戸・東高知 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -316,9 +302,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第1位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテルＴＡＭＡＩ
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテルＴＡＭＡＩ</h3>
                     <p className="text-xs text-cyan-800 font-medium">安芸市中心部に建つランドマークホテル！最上階展望レストランと快適アクセス</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -382,9 +366,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第2位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテル　なはり
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテル　なはり</h3>
                     <p className="text-xs text-cyan-800 font-medium">室戸キンメダイの料理が自慢の海辺の宿！深層水風呂と新鮮魚介フルコース</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -448,9 +430,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第3位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      リゾートホテル海辺の果樹園
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">リゾートホテル海辺の果樹園</h3>
                     <p className="text-xs text-cyan-800 font-medium">太平洋を一望する南欧風丘の上リゾート！露天風呂と自家製果樹の贅沢ステイ</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -514,9 +494,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第4位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      高知黒潮ホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">高知黒潮ホテル</h3>
                     <p className="text-xs text-cyan-800 font-medium">天然温泉「龍馬の湯」を併設！太平洋に面した本格温泉リゾートホテル</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -580,9 +558,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第5位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      サザンシティホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">サザンシティホテル</h3>
                     <p className="text-xs text-cyan-800 font-medium">高知龍馬空港から至近の機能的シティホテル！大浴場完備と充実の朝食バイキング</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -645,9 +621,7 @@ export default function Page() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -670,37 +644,29 @@ export default function Page() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の安芸・室戸・東高知旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の安芸・室戸・東高知旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>室戸岬の「だるま朝日」が見られる条件とベストな時間帯は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>室戸岬の「だるま朝日」が見られる条件とベストな時間帯は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>11月中旬から1月下旬のよく晴れた冷え込んだ早朝（7:00前後）に現れます。海水温と大気の温度差が大きいこと、水平線上に雲がないことが条件です。出現率はシーズン中でも限られるため、見られたら幸運を呼ぶと言われています。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>野良時計の建物内は見学できますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>野良時計の建物内は見学できますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>野良時計は個人の私有地・住宅であるため、建物内部の見学はできません。外観の時計櫓や美しい庭先を道路から鑑賞する形となります。周辺ののどかな田園風景や水路とともに風情をお楽しみください。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>「土佐あかうし」の特徴とおすすめの食べ方は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>「土佐あかうし」の特徴とおすすめの食べ方は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>土佐あかうし（褐毛和種高知系）は、高知県内でのみ飼育される希少な和牛です。黒毛和牛に比べて赤身の割合が多く、噛むほどにアミノ酸の濃厚な旨味が溢れ出します。ステーキやタタキ、ローストビーフで赤身本来の美味しさを味わうのが最適です。
               </p>

@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            青空に突き抜ける一本道と緑の草原に点在する純白の奇岩。地球の息吹を感じる天空高原ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">青空に突き抜ける一本道と緑の草原に点在する純白の奇岩。地球の息吹を感じる天空高原ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             太古のサンゴ礁が地殻変動によって隆起し、数億年の雨風によって彫刻された「日本三大カルスト」――見渡す限りの緑の大草原に無数の石灰岩が顔を出す日本最大級の山口「秋吉台」、愛媛と高知の県境・標高1400mの天空を走る絶景ロード「四国カルスト（天狗高原）」、そしてまるで草原に羊の群れが戯れているかのような羊群原が広がる福岡の「平尾台」。窓を開けて爽やかな高原の風を感じながら走るスカイドライブは、日常のストレスを一瞬で吹き飛ばす圧倒的な開放感に満ちています。夜には手が届きそうな満天の星空を眺め、地元の高原牛や新鮮な海の幸を味わう特別な休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山口県美祢市ふるさと納税：日本最大のカルスト台地「秋吉台カルストロード」爽快ドライブと美祢グランドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山口県美祢市ふるさと納税：日本最大のカルスト台地「秋吉台カルストロード」爽快ドライブと美祢グランドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   特別天然記念物の大カルスト。白いピナクルが群生する草原を駆け抜けるカルストロードを巡り、美祢グランドホテルを拠点に名物長州チキンサルサや山口の地酒を味わう大自然満喫の旅です。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      美祢グランドホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">美祢グランドホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山口県美祢市大嶺町東分270-1</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  高知県檮原町・愛媛県久万高原町ふるさと納税：標高1400m天空の絶景「四国カルスト天狗高原」と星ふるヴィレッジTENGU
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">高知県檮原町・愛媛県久万高原町ふるさと納税：標高1400m天空の絶景「四国カルスト天狗高原」と星ふるヴィレッジTENGU</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   雲の上の別天地として知られる四国カルスト。県境を跨ぐ天空の高原ステイが叶う「星ふるヴィレッジTENGU」で、プラネタリウムや満天の星空観賞、土佐あかうしの溶岩焼きディナーを堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      星ふるヴィレッジＴＥＮＧＵ
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">星ふるヴィレッジＴＥＮＧＵ</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>高知県高岡郡津野町芳生野乙4921-22</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福岡県北九州市・苅田町ふるさと納税：羊群原の白い奇岩が広がる国定公園「平尾台」ケイビングとホテルルートイン苅田駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福岡県北九州市・苅田町ふるさと納税：羊群原の白い奇岩が広がる国定公園「平尾台」ケイビングとホテルルートイン苅田駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   北九州に広がる雄大なカルスト台地。千仏鍾乳洞での探検や千貫岩パノラマを楽しんだ後は、アクセス良好なホテルルートイン苅田駅前の大浴場で旅の疲れを癒やし、玄界灘の海の幸を満喫します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン苅田駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン苅田駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福岡県京都郡苅田町神田町1-8-1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   龍泉洞・龍河洞・秋芳洞の地底湖。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓の岩峰。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三霊山＆名峰パノラマリゾート×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三霊山＆名峰パノラマリゾート×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   富士山・白山・立山の天空宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】美祢グランドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】美祢グランドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と美祢グランドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と美祢グランドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

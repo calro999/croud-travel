@@ -294,10 +294,8 @@ export default function IwateSanrikuMiyakoWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-cyan-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の三陸沿岸旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-cyan-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の三陸沿岸旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-cyan-50/60 p-4 rounded-xl border border-cyan-100">
                 <span className="font-bold text-cyan-900 block mb-1">① 冬の浄土ヶ浜の奇岩絶景</span>
@@ -322,9 +320,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-cyan-600 font-bold text-sm tracking-wider uppercase">Scenic National Treasure</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                白雪と群青の海が織りなす幽玄美！国の名勝「浄土ヶ浜」冬の散策
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">白雪と群青の海が織りなす幽玄美！国の名勝「浄土ヶ浜」冬の散策</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -347,9 +343,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Winter Ocean Gourmet</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                親潮が育む海の至宝！冬に旨味が極まる「三陸毛ガニ」と名物「瓶ドン」
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">親潮が育む海の至宝！冬に旨味が極まる「三陸毛ガニ」と名物「瓶ドン」</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -372,9 +366,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-blue-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                白銀の浄土ヶ浜と三陸海鮮を満喫する厳選宿5選
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">白銀の浄土ヶ浜と三陸海鮮を満喫する厳選宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
                 楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。全室オーシャンビューから大浴場完備宿まで厳選。
               </p>
@@ -416,9 +408,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
 
                     <div className="w-full flex flex-col justify-between space-y-4">
                       <div>
-                        <h3 className="text-xl font-bold text-slate-900 leading-snug mb-2">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl font-bold text-slate-900 leading-snug mb-2">{hotel.name}</h3>
                         <p className="text-xs text-blue-800 bg-blue-50 px-3 py-1.5 rounded-lg font-medium mb-3 inline-block">
                           {hotel.special}
                         </p>
@@ -476,9 +466,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-cyan-600 pl-4">
               <span className="text-cyan-600 font-bold text-sm tracking-wider uppercase">Travel Itinerary</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                白銀の浄土ヶ浜と三陸毛ガニ・瓶ドンを味わう1泊2日モデルコース
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">白銀の浄土ヶ浜と三陸毛ガニ・瓶ドンを味わう1泊2日モデルコース</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-6">
@@ -518,9 +506,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-blue-600 font-bold text-sm tracking-wider uppercase">Travel Tips & Weather</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の三陸海岸旅行の気候・服装と交通アクセスのアドバイス
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の三陸海岸旅行の気候・服装と交通アクセスのアドバイス</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-4 text-slate-700 text-sm md:text-base leading-relaxed">
@@ -550,18 +536,14 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-blue-600 font-bold text-sm tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                岩手・浄土ヶ浜＆三陸冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">岩手・浄土ヶ浜＆三陸冬旅行に関するよくある質問</h2>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                    <span className="text-blue-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-blue-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h3>
                   <p className="text-slate-700 text-sm md:text-base leading-relaxed pl-6 border-l-2 border-blue-100">
                     {faq.a}
                   </p>
@@ -574,9 +556,7 @@ export default function IwateSanrikuMiyakoWinterPage() {
           <section className="bg-gradient-to-br from-slate-900 to-blue-950 rounded-3xl p-8 text-white space-y-6 shadow-xl">
             <div>
               <span className="text-blue-400 text-xs font-bold uppercase tracking-wider">Related Destinations</span>
-              <h2 className="text-xl md:text-2xl font-bold mt-1">
-                あわせて読みたい東北・冬の厳選旅特集
-              </h2>
+              <h2 className="text-xl md:text-2xl font-bold mt-1">あわせて読みたい東北・冬の厳選旅特集</h2>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

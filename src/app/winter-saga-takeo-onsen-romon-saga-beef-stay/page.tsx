@@ -298,10 +298,8 @@ export default function TakeoWinterPage() {
             <Crown className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 国重文朱塗り楼門と1300年美肌古湯＆最高峰A5佐賀牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月武雄温泉の冬名湯と最高峰佐賀牛】<br className="hidden sm:inline" />
-            国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月武雄温泉の冬名湯と最高峰佐賀牛】<br className="hidden sm:inline" />
+            国重文・朱塗り楼門と1300年美肌古湯・御船山初冬風情＆極上佐賀牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             東京駅の辰野金吾が遺した朱塗りの楼門が迎える1300年の名湯「武雄温泉」。宮本武蔵も癒やされたトロリとした弱アルカリ性美肌泉、御船山の初冬の庭園美、全国最高峰の肉質等級を誇るA5佐賀牛と温泉湯豆腐を堪能する極上の冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Takeo Onsen 1300 Years History & Saga Beef</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                東京駅の巨匠が遺した朱塗りの楼門と、歴史の英傑が愛したトロリ美肌の古湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">東京駅の巨匠が遺した朱塗りの楼門と、歴史の英傑が愛したトロリ美肌の古湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -344,10 +340,8 @@ export default function TakeoWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                11月・12月武雄温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                11月・12月武雄温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 国重文朱塗り楼門の十二支ロマン・1300年美肌古湯トロリ露天風呂・御船山楽園の初冬風情・最高峰A5佐賀牛ステーキ会席・西九州新幹線直通アクセス
               </p>
@@ -398,9 +392,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Ancient Beauty Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1. 武雄温泉の魅力：1300年の歴史とトロリと肌を包む弱アルカリ性美肌泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1. 武雄温泉の魅力：1300年の歴史とトロリと肌を包む弱アルカリ性美肌泉</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -419,9 +411,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Tatsuno Kingo Architectural Mystery</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2. 辰野金吾が遺した朱塗りの楼門：東京駅と対になる十二支のミステリー
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2. 辰野金吾が遺した朱塗りの楼門：東京駅と対になる十二支のミステリー</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -440,9 +430,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Mifuneyama Rakuen Gardens</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                3. 50万平米の大庭園「御船山楽園」の晩秋紅葉と初冬の静寂美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">3. 50万平米の大庭園「御船山楽園」の晩秋紅葉と初冬の静寂美</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function TakeoWinterPage() {
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest bg-amber-50 px-4 py-1.5 rounded-full border border-amber-200">
               Selected 5 Luxury Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              4. 11・12月に泊まりたい武雄温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">4. 11・12月に泊まりたい武雄温泉の厳選名宿5選</h2>
             <p className="text-sm text-stone-600 max-w-2xl mx-auto">
               1300年美肌古湯、サウナ日本一らかんの湯、客室露天風呂、最高峰A5佐賀牛と名物温泉湯豆腐を心ゆくまで堪能できる名旅館を厳選しました。
             </p>
@@ -498,9 +484,7 @@ export default function TakeoWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       
                       <p className="text-xs text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-amber-600 flex-shrink-0" />
@@ -559,9 +543,7 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Saga Gastronomy Supreme</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                5. 佐賀の冬の贅：最高峰A5佐賀牛ステーキ・若楠ポーク・温泉湯豆腐
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">5. 佐賀の冬の贅：最高峰A5佐賀牛ステーキ・若楠ポーク・温泉湯豆腐</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -580,35 +562,25 @@ export default function TakeoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Suggested 2-Day Plan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                6. 1泊2日 武雄温泉〜御船山楽園・楼門・武雄市図書館 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">6. 1泊2日 武雄温泉〜御船山楽園・楼門・武雄市図書館 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-amber-800 uppercase tracking-wider">【1日目】新幹線で武雄温泉へ〜国重文楼門見学と御船山初冬庭園</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:45 西九州新幹線「武雄温泉駅」到着 → タクシーで温泉街へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:45 西九州新幹線「武雄温泉駅」到着 → タクシーで温泉街へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 博多から約50分、長崎から約28分の好アクセス。宿にチェックインし荷物を預ける。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 国重要文化財「武雄温泉楼門」見学＆元湯・新館の歴史探訪
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 国重要文化財「武雄温泉楼門」見学＆元湯・新館の歴史探訪</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 辰野金吾が設計した朱塗りの楼門と、天井に隠された干支の彫刻を見学。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 50万平米の大庭園「御船山楽園」散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 50万平米の大庭園「御船山楽園」散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 御船山の断崖を背景に広がる庭園美と、夕暮れのライトアップを鑑賞。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 最高峰A5佐賀牛ステーキ＆名物温泉湯豆腐会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 最高峰A5佐賀牛ステーキ＆名物温泉湯豆腐会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 極上佐賀牛の鉄板ステーキ、若楠ポーク、佐賀銘酒「鍋島」を味わう贅沢な夕宴。
               </p>
@@ -616,21 +588,15 @@ export default function TakeoWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の美肌露天風呂〜武雄市図書館＆武雄の大楠参拝</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → 嬉野茶粥と郷土朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂 → 嬉野茶粥と郷土朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 トロリとした美肌湯で肌を整え、温かいお茶粥と地元産卵かけご飯の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                09:30 「武雄神社」参拝＆樹齢3000年「武雄の大楠」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">09:30 「武雄神社」参拝＆樹齢3000年「武雄の大楠」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 巨木ファン必見のパワースポット。大楠の圧倒的な生命力と初冬の澄んだ空気に触れる。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                11:00 カフェ併設の話題の文化拠点「武雄市図書館」でブレイク → 帰路へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">11:00 カフェ併設の話題の文化拠点「武雄市図書館」でブレイク → 帰路へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 広大な書架が並ぶ美しい図書館で珈琲を味わい、武雄温泉駅より新幹線で帰路へ。
               </p>
@@ -653,10 +619,8 @@ export default function TakeoWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -671,9 +635,7 @@ export default function TakeoWinterPage() {
         <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Related Kyushu Winter Hot Spring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬名湯＆美食温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬名湯＆美食温泉特集</h2>
             <p className="text-xs sm:text-sm text-stone-300 leading-relaxed">
               佐賀・長崎・熊本・鹿児島など九州各地の美肌名湯、絶景露天風呂、極上和牛を堪能できる特集記事を多数掲載しています。
             </p>

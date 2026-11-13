@@ -301,9 +301,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              太平洋の朝陽を一番に迎える岬と、親潮・黒潮が交差する深海の王「銚子つりきんめ」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">太平洋の朝陽を一番に迎える岬と、親潮・黒潮が交差する深海の王「銚子つりきんめ」</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <Sparkles className="w-4 h-4 text-orange-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              初日の出と銚子つりきんめを堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">初日の出と銚子つりきんめを堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function ChibaChoshiInubosakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の銚子・犬吠埼＆九十九里 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の銚子・犬吠埼＆九十九里 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-orange-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-orange-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：特急しおさい号で銚子到着・銚子電鉄レトロ旅＆白亜の犬吠埼灯台
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：特急しおさい号で銚子到着・銚子電鉄レトロ旅＆白亜の犬吠埼灯台</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東京駅からJR総武本線の特急「しおさい」で約1時間50分、銚子駅に到着。銚子電鉄のレトロな車両に乗り換え、名物のぬれ煎餅をかじりながら犬吠駅へ。国の登録有形文化財・犬吠埼灯台に登り、荒波打ち寄せる太平洋の丸みを帯びた水平線を展望。夕方に犬吠埼温泉の宿へチェックイン。露天風呂から波音と満天の星空を眺め、夕食は銚子港直送の金目鯛の姿煮と地魚会席に舌鼓。
               </p>
@@ -475,9 +465,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-orange-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-orange-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：本州一早い日の出鑑賞・君ヶ浜散策とウォッセ21＆九十九里焼き蛤ランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：本州一早い日の出鑑賞・君ヶ浜散策とウォッセ21＆九十九里焼き蛤ランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、水平線から昇る神々しい日の出を宿の部屋や展望露天風呂から拝み、日本の渚百選「君ヶ浜海岸」を朝散歩。チェックアウト後は銚子港の魚市場「ウオッセ21」で脂の乗った寒サバや干物をお買い物。昼は九十九里浜沿いの浜焼き小屋へ移動し、大粒の天然地蛤や伊勢海老を網焼きで香ばしくいただきます。午後は飯岡刑部岬展望館で夕陽を眺め、九十九里の温泉リゾートに宿泊。
               </p>
@@ -486,9 +474,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-orange-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-orange-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：銚子伝統の醤油蔵見学（ヒゲタ・ヤマサ）とぬれ煎餅手焼き体験＆帰路へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：銚子伝統の醤油蔵見学（ヒゲタ・ヤマサ）とぬれ煎餅手焼き体験＆帰路へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は江戸時代から続く銚子の醤油造りの歴史を訪ねて、ヤマサ醤油またはヒゲタ醤油の工場見学施設へ。巨大な木桶や醤油の仕込み工程を見学し、名物の「しょうゆソフトクリーム」を味わいます。銚子電鉄の仲ノ町駅でぬれ煎餅の手焼き体験を楽しんだ後、銚子駅または東関東自動車道経由で東京方面へ帰路につきます。
               </p>
@@ -502,9 +488,7 @@ export default function ChibaChoshiInubosakiWinterPage() {
             <ThermometerSun className="w-4 h-4 text-orange-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の銚子・犬吠埼を快適に巡るための初日の出混雑・寒風対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の銚子・犬吠埼を快適に巡るための初日の出混雑・寒風対策</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【初日の出対策：大晦日からの宿泊と交通規制】</span>
@@ -528,26 +512,20 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <ShoppingBag className="w-4 h-4 text-orange-800" />
               銚子・犬吠埼の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              日本一の港町と歴史ある醤油蔵が生んだ伝統の味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">日本一の港町と歴史ある醤油蔵が生んだ伝統の味</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-orange-700" />
-                銚子電鉄ぬれ煎餅（赤の濃い口・青のうすくち）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-orange-700" />
+                銚子電鉄ぬれ煎餅（赤の濃い口・青のうすくち）</h3>
               <p>
                 鉄道の存続危機を救った奇跡の銘菓「ぬれ煎餅」。焼き立ての熱い煎餅を特製の本醸造醤油ダレにジュワッと浸し、しっとりモチモチの食感に仕上げています。赤（濃い口）、青（うすくち）、緑（甘口）の3種類があり、トースターで軽く温めると香ばしい醤油の風味が蘇ります。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-orange-700" />
-                極上寒サバ缶詰・天然地蛤の佃煮・銚子本醸造醤油
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-orange-700" />
+                極上寒サバ缶詰・天然地蛤の佃煮・銚子本醸造醤油</h3>
               <p>
                 冬の銚子港で水揚げされた脂乗り抜群の真サバを厳選して手詰めした「極上寒サバ水煮缶」は、骨まで柔らかく驚くほどの旨み。また、ヒゲタ醤油の限定「玄番（げんば）」やヤマサの「重代しょうゆ」など、老舗の伝統木桶仕込み醤油は料理好きへのお土産に最適です。
               </p>
@@ -562,27 +540,21 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <Compass className="w-4 h-4 text-orange-800" />
               銚子漁業文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ銚子は水揚げ日本一となり、一本釣りの金目鯛が尊ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ銚子は水揚げ日本一となり、一本釣りの金目鯛が尊ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-orange-700" />
-                利根川の淡水と黒潮・親潮が衝突する「海の交差点」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-orange-700" />
+                利根川の淡水と黒潮・親潮が衝突する「海の交差点」</h3>
               <p>
                 銚子沖は、北から南下する冷たい親潮と、南から北上する暖かい黒潮が激しくぶつかり合い、さらに坂東太郎と呼ばれる利根川河口から莫大な森の栄養塩が注ぎ込む、世界有数の豊かな漁場です。この好条件により、プランクトンが爆発的に発生し、イワシやサバ、サンマが群がり、それを追って深海に生息する金目鯛までもが極上の脂を蓄える「魚たちの楽園」が形成されています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sunrise className="w-4 h-4 text-orange-700" />
-                一本釣り立縄漁の誇り：魚体を傷つけず鮮度を極める
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sunrise className="w-4 h-4 text-orange-700" />
+                一本釣り立縄漁の誇り：魚体を傷つけず鮮度を極める</h3>
               <p>
                 銚子の金目鯛漁師たちは、網で一網打尽にする漁を行いません。水深数百メートルの暗黒の海へ数十本の釣り針を垂らし、一尾ずつ丁寧に手作業で釣り上げます。魚同士が擦れ合わず、ウロコが剥がれず、内出血もしないため、身の引き締まりと透明感が段違いに保たれます。船上で直ちに冷水氷で締められる徹底した鮮度管理こそ、「銚子つりきんめ」が銀座の高級寿司店や割烹で指名買いされる理由です。
               </p>
@@ -597,18 +569,14 @@ export default function ChibaChoshiInubosakiWinterPage() {
               <HelpCircle className="w-4 h-4 text-orange-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の銚子・犬吠埼旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の銚子・犬吠埼旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

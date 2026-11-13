@@ -172,9 +172,7 @@ export default function Page() {
         
         {/* 特集の魅力セクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">
-            車窓を眺めながら紐を解く至福の瞬間。全国にその名を轟かせる名物駅弁と快適ホテル
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3 mb-6">車窓を眺めながら紐を解く至福の瞬間。全国にその名を轟かせる名物駅弁と快適ホテル</h2>
           <div className="grid md:grid-cols-3 gap-6">
             
             <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 space-y-2">
@@ -231,9 +229,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -258,9 +254,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -366,9 +360,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい全国の神秘洞窟・名塔建築・美食駅弁特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい全国の神秘洞窟・名塔建築・美食駅弁特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-ramen-capitals-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -403,9 +395,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】磯部温泉 舌切雀のお宿 ホテル磯部ガーデンを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】磯部温泉 舌切雀のお宿 ホテル磯部ガーデンを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +428,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と磯部温泉 舌切雀のお宿 ホテル磯部ガーデンの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と磯部温泉 舌切雀のお宿 ホテル磯部ガーデンの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          「クエを食ったら他の魚は食えん」。透き通る白身と濃厚な脂が織りなす究極の冬の味覚
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">「クエを食ったら他の魚は食えん」。透き通る白身と濃厚な脂が織りなす究極の冬の味覚</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              天然本クエならではの極上の脂のりとゼラチン質の深いコク
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">天然本クエならではの極上の脂のりとゼラチン質の深いコク</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               養殖とは一線を画す天然モノの引き締まった身質。コラーゲンたっぷりで翌朝の肌のハリにも嬉しい至高の海の恵み。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              薄造り・鍋・唐揚げ・雑炊まで余すところなく味わい尽くすフルコース
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">薄造り・鍋・唐揚げ・雑炊まで余すところなく味わい尽くすフルコース</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               職人が熟練の技で薄造りに仕立てたプリプリの食感と、濃厚な出汁が米の一粒一粒に染み渡る〆のクエ雑炊はまさに絶品。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税クーポンで高価格なクエ特選プランを実質自己負担2,000円で予約
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税クーポンで高価格なクエ特選プランを実質自己負担2,000円で予約</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               1人前数万円にもなる最高級天然クエ会席を、寄附上限額の範囲内で賢くお得に味わえるのがふるさと納税最大の醍醐味です。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="shirahama_kue" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                和歌山県白浜町ふるさと納税：紀州本場「天然本クエづくし会席」と日本三古湯・南紀白浜温泉オーシャン宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">和歌山県白浜町ふるさと納税：紀州本場「天然本クエづくし会席」と日本三古湯・南紀白浜温泉オーシャン宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 本州屈指のクエの水揚げを誇る南紀白浜。太平洋の黒潮が育んだ丸々と太った天然クエを特製ポン酢で味わい、万葉の昔から湧き出る白浜温泉の塩化物泉で温まる冬の最高峰グルメ旅です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町1870
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    白浜温泉　家族とすごす白浜の宿　柳屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白浜温泉　家族とすごす白浜の宿　柳屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【ファミリーにおすすめ】源泉かけ流しで寛ぎの一日を。露天風呂付き客室や貸切風呂が自慢の家族とすごす宿
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県西牟婁郡白浜町1564-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">白浜温泉　ＫＫＲ白浜　美浜荘（国家公務員共済組合連合会白浜保養所）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     白良浜海水浴場まで徒歩2分！源泉かけ流し温泉と紀州海の幸が自慢の宿
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県日高郡みなべ町埴田1589-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    紀州みなべ温泉　料理宿　朝日楼
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">紀州みなべ温泉　料理宿　朝日楼</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ★2025年7月リニューアル客室OPEN★絶景と名湯、朝獲れ紀州の幸を愉しむ料理宿朝日楼
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="goto_kue" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長崎県五島市・新上五島ふるさと納税：東シナ海の荒波が鍛えた絶品「五島産天然アラ（クエ）」と離島リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長崎県五島市・新上五島ふるさと納税：東シナ海の荒波が鍛えた絶品「五島産天然アラ（クエ）」と離島リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 九州で「アラ」と呼ばれる幻の魚・クエの宝庫である五島列島。透明度の高い海を望むリゾートホテルで、五島うどんとともにいただく本クエ鍋や椿油を使った創作料理に舌鼓を打てます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県南松浦郡新上五島町奈良尾郷712-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">五島列島リゾートホテル　マルゲリータ奈良尾＜五島・中通島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     奈良尾港の高台に建つ五島食材を和食で堪能する小さなホテル～29の教会が点在する祈りの島～
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県五島市玉之浦町荒川265
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    みやこ別邸＜五島・福江島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">みやこ別邸＜五島・福江島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     五島　福江島で唯一の源泉かけ流し温泉付き一棟貸し宿　みやこ別邸
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県五島市末広町7-13　アドバンス五常205
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    アパートメント五島＜五島・福江島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アパートメント五島＜五島・福江島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     港や飲み屋街まで５分の好立地。広々４０㎡のワンフロア
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="muroto_kue" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                高知県室戸市・高知ふるさと納税：太平洋の一本釣り天然クエと土佐の銘酒・老舗割烹旅館
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">高知県室戸市・高知ふるさと納税：太平洋の一本釣り天然クエと土佐の銘酒・老舗割烹旅館</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 室戸沖の急峻な深海から一本釣りされる天然クエ。豪快な土佐の皿鉢料理とともに味わうクエの薄造りや塩焼き、辛口の土佐地酒とのマリアージュに心奪われる美食ステイです。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県高知市上町2-5-34
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    城西館（じょうせいかん）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城西館（じょうせいかん）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ２０１９年４月リニューアルオープン！明治７年創業の老舗宿。展望露天風呂と鰹の藁焼きタタキ工房が自慢♪
                   </p>
@@ -528,9 +500,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 八戸・沼津・高知の獲れたて市場グルメと浜焼き。
               </p>
@@ -544,9 +514,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 志摩英虞湾・南三陸・伊根の舟屋の贅沢旅。
               </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天。
               </p>
@@ -580,9 +546,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -661,9 +625,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">天然クエ鍋＆幻の高級魚グルメ宿×ふるさと納税厳選ガイド南紀白浜・長崎五島・高知室戸の本クエ会席で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

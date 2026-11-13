@@ -268,9 +268,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <Sparkles className="w-4 h-4 text-cyan-800" />
               冬の三陸沿岸が旅人を惹きつけてやまない理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              太平洋の紺碧と白銀の奇岩・こたつ列車で味わう三陸冬の極上美食
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">太平洋の紺碧と白銀の奇岩・こたつ列車で味わう三陸冬の極上美食</h2>
           </div>
 
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
@@ -293,9 +291,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <ShieldCheck className="w-4 h-4" />
               厳選宿泊施設ガイド
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">
-              三陸の冬絶景と極上海鮮に浸る名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">三陸の冬絶景と極上海鮮に浸る名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
@@ -325,9 +321,7 @@ export default function IwateSanrikuKotatsuTrainPage() {
                         <Waves className="w-3.5 h-3.5" />
                         三陸海岸オーシャンビュー＆極上海鮮
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -390,17 +384,13 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <Compass className="w-4 h-4 text-cyan-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              三陸鉄道こたつ列車と冬の浄土ヶ浜・極上海鮮を味わい尽くす冬旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">三陸鉄道こたつ列車と冬の浄土ヶ浜・極上海鮮を味わい尽くす冬旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                【1日目】盛岡から宮古へ・冬の浄土ヶ浜と名物瓶ドン
-              </h3>
+              <h3 className="font-bold text-cyan-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-cyan-700" />
+                【1日目】盛岡から宮古へ・冬の浄土ヶ浜と名物瓶ドン</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-cyan-600 shrink-0 mt-1" />
@@ -426,10 +416,8 @@ export default function IwateSanrikuKotatsuTrainPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-cyan-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                【2日目】三陸鉄道「こたつ列車」で雪のリアス海岸旅
-              </h3>
+              <h3 className="font-bold text-cyan-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-cyan-700" />
+                【2日目】三陸鉄道「こたつ列車」で雪のリアス海岸旅</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-cyan-600 shrink-0 mt-1" />
@@ -463,27 +451,21 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <ShoppingBag className="w-4 h-4 text-cyan-800" />
               三陸沿岸の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              旅の記憶を彩る三陸の伝統銘品と冬のおすすめ立ち寄り処
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">旅の記憶を彩る三陸の伝統銘品と冬のおすすめ立ち寄り処</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-700" />
-                宮古名物「瓶ドン」のテイクアウト＆三陸あわび昆布巻
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-700" />
+                宮古名物「瓶ドン」のテイクアウト＆三陸あわび昆布巻</h3>
               <p>
                 宮古魚菜市場や各ホテルの売店では、急速冷凍されたお土産用の「瓶ドン」を購入可能。自宅でも解凍して熱々ご飯にかけるだけで、三陸の贅沢な海鮮丼を完全再現できます。また、三陸沿岸の良質な昆布で肉厚なアワビをじっくり煮上げた「あわび昆布巻」はお正月や冬のギフトにも最適です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-cyan-700" />
-                釜石の銘酒「浜千鳥」＆大船渡銘菓「かもめの玉子」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-cyan-700" />
+                釜石の銘酒「浜千鳥」＆大船渡銘菓「かもめの玉子」</h3>
               <p>
                 三陸の新鮮な魚介と抜群の相性を誇るのが、釜石の地酒「浜千鳥」。北上山地の清らかな雪解け水で醸された純米酒は、口当たりが柔らかくキレ味抜群です。お茶請けには大船渡発祥の全国的銘菓「かもめの玉子」が定番で、冬限定のみかん味や栗味も見逃せません。
               </p>
@@ -498,32 +480,24 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <ThermometerSun className="w-4 h-4 text-cyan-800" />
               三陸リアスの地理と食文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の三陸は「海の宝庫」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の三陸は「海の宝庫」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-cyan-700" />
-              世界三大漁場「三陸沖」の潮目とリアス式海岸が育む奇跡の生態系
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-cyan-700" />
+              世界三大漁場「三陸沖」の潮目とリアス式海岸が育む奇跡の生態系</h3>
             <p>
               岩手県三陸沖は、栄養分を豊富に含んだ親潮（寒流）と暖かな黒潮（暖流）が激しくぶつかり合う「潮目」にあたり、プランクトンが爆発的に発生する世界三大漁場の一つです。さらに、北上高地のブナ原生林から注ぎ込む川水が鉄分やミネラルを海へと運び、沿岸の海藻類（ワカメやコンブ）を豊かに育てます。この極上の海藻を食べて育つアワビやウニは、日本屈指の甘みと肉厚さを誇り、真冬になると寒さから身を守るために魚介類全体が上質な脂をたっぷりと蓄えます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-cyan-700" />
-              三陸鉄道の復興の歩みと「こたつ列車」に込められた地域の温もり
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-cyan-700" />
+              三陸鉄道の復興の歩みと「こたつ列車」に込められた地域の温もり</h3>
             <p>
               東日本大震災の甚大な津波被害から奇跡の復活を遂げ、2019年に全線163kmが一本につながった「三陸鉄道リアス線」。地元住民の生活路線であると同時に、全国からの支援への感謝を伝えるシンボルでもあります。冬の風物詩である「こたつ列車」は、ただの観光列車にとどまらず、地元のアテンダントや地域の人々が温かい笑顔と方言で乗客をもてなす「心の通い合いの場」。雪景色の静かな車内で味わう人の温もりこそが、三陸の最大の魅力です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Snowflake className="w-4 h-4 text-cyan-700" />
-              海洋性気候がもたらす冬の晴天率とアクセス道路の快適性
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Snowflake className="w-4 h-4 text-cyan-700" />
+              海洋性気候がもたらす冬の晴天率とアクセス道路の快適性</h3>
             <p>
               東北地方といえば豪雪のイメージが強いですが、三陸沿岸部は奥羽山脈が日本海からの雪雲を遮るため、冬でも晴天率が非常に高いのが大きな特徴です。近年は無料の自動車専用道路「三陸沿岸道路（復興道路）」が仙台から青森県八戸まで全線開通しており、アップダウンや急カーブの多いかつての峠道を通ることなく、安全かつスピーディに各温泉地や港町へアクセスできるようになりました。冬のドライブや鉄道旅に極めて適した環境が整っています。
             </p>
@@ -537,18 +511,14 @@ export default function IwateSanrikuKotatsuTrainPage() {
               <HelpCircle className="w-4 h-4 text-cyan-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の三陸沿岸旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の三陸沿岸旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

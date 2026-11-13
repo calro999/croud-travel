@@ -266,10 +266,8 @@ export default function DogoWinterPage() {
             <Sparkles className="w-4 h-4 text-orange-300" />
             <span>11月・12月限定 日本最古の名湯と瀬戸内旬魚特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月道後温泉の冬情緒と瀬戸内美味】<br className="hidden sm:inline" />
-            日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月道後温泉の冬情緒と瀬戸内美味】<br className="hidden sm:inline" />
+            日本最古の名湯と極上真鯛鯛めし・伊予牛会席の名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             令和の全館営業再開で輝きを増した道後温泉本館。冬の澄んだ夜空に響く刻太鼓、3000年の美肌名湯に浸かり、最も脂が乗る瀬戸内真鯛の鯛めしと極上の伊予牛に舌鼓を打つ大人の贅沢旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function DogoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">3,000 Years of Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                本館全館再開の奇跡。神話の時代から湧き続ける日本最古の名湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">本館全館再開の奇跡。神話の時代から湧き続ける日本最古の名湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function DogoWinterPage() {
           
           <div className="bg-orange-50/70 rounded-2xl p-5 border border-orange-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-700" />
-                <span>11月・12月 道後温泉の旅のハイライト</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-orange-700" />
+                <span>11月・12月 道後温泉の旅のハイライト</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 本館全館営業再開・飛鳥乃湯泉と椿の湯めぐり・冬の脂が乗る瀬戸内真鯛鯛めし・ブランド黒毛和牛伊予牛
               </p>
@@ -334,9 +328,7 @@ export default function DogoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Travel Planning Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の道後 気候・服装・湯めぐりのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の道後 気候・服装・湯めぐりのポイント</h2>
             </div>
           </div>
 
@@ -376,9 +368,7 @@ export default function DogoWinterPage() {
             <span className="text-xs font-extrabold text-orange-800 uppercase tracking-widest bg-orange-100/60 px-3.5 py-1 rounded-full">
               SELECTED HERITAGE HOTELS
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">
-              【11・12月】道後温泉の極上滞在を約束する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">【11・12月】道後温泉の極上滞在を約束する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 max-w-2xl mx-auto">
               楽天トラベルで4.1〜4.94の最高峰評価を集める、創業数百年の老舗から客室露天付きモダン宿まで、本物の道後の名湯と瀬戸内美食を誇る宿を厳選しました。
             </p>
@@ -424,9 +414,7 @@ export default function DogoWinterPage() {
                       <span className="text-[11px] text-orange-800 font-bold tracking-wider uppercase block mb-1">
                         {hotel.special}
                       </span>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-orange-700" />
                         <span>{hotel.access}</span>
@@ -496,9 +484,7 @@ export default function DogoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】本館復活と瀬戸内鯛めしを味わう道後温泉ステイ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】本館復活と瀬戸内鯛めしを味わう道後温泉ステイ</h2>
             </div>
           </div>
 
@@ -590,48 +576,38 @@ export default function DogoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                道後温泉の冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">道後温泉の冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-orange-800 font-extrabold">Q.</span>
-                <span>道後温泉本館の保存修理工事完了後の営業状況は？予約は必要ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                <span>道後温泉本館の保存修理工事完了後の営業状況は？予約は必要ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 道後温泉本館は令和6（2024）年7月11日より、約5年半に及んだ保存修理工事を終えて全館営業を再開しています。「霊の湯（たまのゆ）」や「神の湯（かみのゆ）」をはじめ、本館2階・3階の休憩室も利用可能です。入浴は当日の整理券配布または現地受付順となっており、11月・12月の週末や連休は混雑するため、朝一番（6時開館）や宿の夕食時、夜の遅い時間帯を狙うとスムーズに入浴できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-orange-800 font-extrabold">Q.</span>
-                <span>冬（11月・12月）の愛媛・道後温泉の気候と服装は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                <span>冬（11月・12月）の愛媛・道後温泉の気候と服装は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 愛媛・松山は瀬戸内海特有の温暖な気候に恵まれており、積雪は極めて稀です。11月の平均気温は約13℃、12月は約8℃前後です。東京や大阪と比べると比較的過ごしやすいですが、冬の瀬戸内からは冷たい北風が吹き抜けるため、温泉街の夜間散策や湯めぐりには風を防ぐコートやダウンジャケット、マフラーなどの防寒具を準備してください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-orange-800 font-extrabold">Q.</span>
-                <span>道後温泉の「鯛めし」には2種類あると聞きましたが違いは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                <span>道後温泉の「鯛めし」には2種類あると聞きましたが違いは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 愛媛の鯛めしには大きく分けて2つの郷土スタイルがあります。1つは東予・中予地方（松山など）に伝わる「松山鯛めし」で、昆布出汁と醤油ベースのタレで丸ごとの真鯛を米と一緒に土鍋で炊き込むふっくら香ばしいスタイル。もう1つは南予地方（宇和島など）発祥の「宇和島鯛めし」で、新鮮な真鯛の刺身を生卵、出汁醤油、胡麻、薬味と和えて熱々の白飯の上にのせて食べる海賊料理ルーツのスタイルです。道後温泉の高級旅館では両方のスタイルを食べ比べできるプランも人気です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-orange-800 font-extrabold">Q.</span>
-                <span>道後温泉へのアクセス方法は？松山空港やJR松山駅からの所要時間は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-orange-800 font-extrabold">Q.</span>
+                <span>道後温泉へのアクセス方法は？松山空港やJR松山駅からの所要時間は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 空路の場合は松山空港から道後温泉直行のリムジンバスで約40分。鉄道の場合はJR松山駅から伊予鉄道の市内電車（路面電車）に乗り約25分で道後温泉駅に到着します。道後温泉駅から主要な旅館街や道後温泉本館、商店街「ハイカラ通り」はすべて徒歩数分〜10分圏内に集約されており、レンタカーなしでも非常に快適に観光が楽しめます。
               </p>
@@ -643,9 +619,7 @@ export default function DogoWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-orange-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆西日本・温泉ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆西日本・温泉ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -654,9 +628,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">四国の冬名物</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【高知ゆず湯】冬至の香り豊かな柚子風呂と土佐藁焼き鰹タタキ・極上宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【高知ゆず湯】冬至の香り豊かな柚子風呂と土佐藁焼き鰹タタキ・極上宿</h3>
             </Link>
 
             <Link 
@@ -664,9 +636,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の冬グルメ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【博多クリスマス】国内最大級アドベントイルミとモツ鍋・水炊き極上ステイ
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【博多クリスマス】国内最大級アドベントイルミとモツ鍋・水炊き極上ステイ</h3>
             </Link>
 
             <Link 
@@ -674,9 +644,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">九州の湧出量日本一</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【別府温泉】湯けむり展望露天風呂と名物地獄蒸し料理・老舗湯宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【別府温泉】湯けむり展望露天風呂と名物地獄蒸し料理・老舗湯宿</h3>
             </Link>
 
             <Link 
@@ -684,9 +652,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">関西の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【城崎温泉】青タグ津居山ガニの極上フルコースと七つの外湯めぐり
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【城崎温泉】青タグ津居山ガニの極上フルコースと七つの外湯めぐり</h3>
             </Link>
 
             <Link 
@@ -694,9 +660,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">東海の冬絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【伊勢志摩】冬至の宇治橋鳥居日の出絶景と的矢かき・伊勢海老会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【伊勢志摩】冬至の宇治橋鳥居日の出絶景と的矢かき・伊勢海老会席</h3>
             </Link>
 
             <Link 
@@ -704,9 +668,7 @@ export default function DogoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-orange-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-orange-800 uppercase block mb-1">山陰のラジウム温泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">
-                【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-orange-800 transition line-clamp-2">【三朝温泉】世界屈指の高濃度ラジウム泉とブランド松葉ガニづくし会席</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-ehime-dogo-onsen-taimeshi-heritage-stay" />

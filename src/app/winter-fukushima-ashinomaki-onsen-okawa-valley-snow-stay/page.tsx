@@ -280,10 +280,8 @@ export default function AshinomakiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の渓谷名湯特集｜福島・会津芦ノ牧
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・会津芦ノ牧温泉】<br className="hidden sm:inline" />
-            大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福島・会津芦ノ牧温泉】<br className="hidden sm:inline" />
+            大川渓谷の初雪絶景と渓流露天・極上会津馬刺し＆会津牛の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             行基菩薩開湯の幻の名湯にして、大川の深い渓谷が初雪で白銀に染まる幽玄の別天地。段々畑のような棚田風露天風呂に浸かり、新鮮な会津馬刺しと会津牛、新酒地酒に酔いしれる至高の冬旅。
           </p>
@@ -301,9 +299,7 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Okawa Gorge & Phantom Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                大川渓谷の初雪が描く水墨画の絶景と、行基菩薩が開いた幻の名湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">大川渓谷の初雪が描く水墨画の絶景と、行基菩薩が開いた幻の名湯</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Gorge Thermal Springs & Skin Healing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                渓谷の岩肌から湧く弱アルカリ性硫酸塩・塩化物泉の優れた保温力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">渓谷の岩肌から湧く弱アルカリ性硫酸塩・塩化物泉の優れた保温力</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Aizu Heritage Cuisine & Winter Sake</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月に会津で味わう極上馬刺し・会津牛と伝統郷土料理
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月に会津で味わう極上馬刺し・会津牛と伝統郷土料理</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Aizu Winter Highlights & Heritage Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初雪の大内宿と大川渓谷の奇岩を巡る冬の会津芦ノ牧おすすめ観光ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初雪の大内宿と大川渓谷の奇岩を巡る冬の会津芦ノ牧おすすめ観光ルート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function AshinomakiOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Handpicked 5 Elite Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              会津芦ノ牧温泉で冬の渓谷美と美食を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">会津芦ノ牧温泉で冬の渓谷美と美食を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               浮き舞台と棚田風露天で名高い大型旅館から、文化財木造建築の秘湯宿、絶景展望ホテルまで、楽天APIから厳選した5軒をご紹介します。
             </p>
@@ -454,9 +442,7 @@ export default function AshinomakiOnsenWinterFeature() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>福島県会津若松市大戸町芦ノ牧</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                     </div>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -515,26 +501,20 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Aizu Winter Driving & Packing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の会津芦ノ牧冬旅の服装と雪道運転・鉄道アクセス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の会津芦ノ牧冬旅の服装と雪道運転・鉄道アクセス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-indigo-800" />
-                厳しい冷え込みと本格防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-indigo-800" />
+                厳しい冷え込みと本格防寒対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 会津地方は豪雪地帯に指定されており、11月下旬以降は氷点下の真冬日が増加します。12月は本格的な積雪期に入ります。厚手のダウンコート、保温性の高いインナー、手袋、マフラーに加え、雪道でも滑らない防水スノーブーツが絶対に欠かせません。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-indigo-800" />
-                スタッドレスタイヤと会津鉄道の利用
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-indigo-800" />
+                スタッドレスタイヤと会津鉄道の利用</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 車で訪れる場合は11月中旬以降スタッドレスタイヤ必須です。国道118号線は夜間や早朝に路面凍結が発生します。雪道運転を避けたい場合は、JR会津若松駅から会津鉄道に乗車し、芦ノ牧温泉駅から宿の無料送迎バスを利用するのが最も安全で快適です。
               </p>
@@ -550,18 +530,14 @@ export default function AshinomakiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                会津芦ノ牧温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">会津芦ノ牧温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -574,9 +550,7 @@ export default function AshinomakiOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい福島・南東北の冬名湯＆雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい福島・南東北の冬名湯＆雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、会津の歴史や冬グルメを味わう人気の厳選特集もぜひご覧ください。
             </p>

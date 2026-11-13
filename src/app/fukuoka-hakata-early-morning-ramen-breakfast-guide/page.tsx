@@ -191,9 +191,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             <span className="flex items-center justify-center w-8 h-8 rounded-lg bg-slate-800 text-white font-bold text-lg">
               01
             </span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-              早起きこそ最大の贅沢！博多早朝グルメを遊び尽くす3原則
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-800">早起きこそ最大の贅沢！博多早朝グルメを遊び尽くす3原則</h2>
           </div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed mb-6">
             夜の屋台やもつ鍋で有名な福岡ですが、実は最もローカルでディープな食文化が凝縮されているのは「早朝6時〜8時の長浜エリア」。観光客がまだ眠っている時間帯に訪れることで、並ばずに本場の活気を体感できます。
@@ -221,9 +219,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
               02
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                朝6:00〜8:00オープン！博多早朝めし・名店カタログ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">朝6:00〜8:00オープン！博多早朝めし・名店カタログ</h2>
               <p className="text-xs text-slate-500 font-medium">長浜ラーメン・鮮魚市場食堂・明太子ビュッフェ</p>
             </div>
           </div>
@@ -266,9 +262,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
               03
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                朝食ビュッフェ＆天然温泉が自慢！博多・祇園のおすすめホテル
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">朝食ビュッフェ＆天然温泉が自慢！博多・祇園のおすすめホテル</h2>
               <p className="text-xs text-slate-500 font-medium">明太子食べ放題・駅前大浴場で旅の疲れを完全リカバリー</p>
             </div>
           </div>
@@ -303,9 +297,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
                       </div>
                     )}
                     <div className="p-4">
-                      <h3 className="font-bold text-sm sm:text-base text-slate-800 line-clamp-2 mb-2 hover:text-slate-600">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-sm sm:text-base text-slate-800 line-clamp-2 mb-2 hover:text-slate-600">{hotel.hotelName}</h3>
                       <p className="text-xs text-slate-600 line-clamp-3 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "博多駅・祇園駅至近。天然温泉大浴場やこだわりの朝食バイキングで福岡旅行を快適にサポート。"}
                       </p>
@@ -341,9 +333,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
 
         {/* Section 4: Internal Links */}
         <section className="bg-slate-200/60 rounded-2xl p-6 sm:p-8 border border-slate-300">
-          <h2 className="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
-            <span>🔗</span> 合わせて読みたい九州・西日本アクセスガイド
-          </h2>
+          <h2 className="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">合わせて読みたい九州・西日本アクセスガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/fukuoka-kumamoto-bus-vs-shinkansen-guide/"
@@ -351,9 +341,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             >
               <div>
                 <span className="text-[11px] text-slate-600 font-semibold mb-1 block">九州内移動</span>
-                <h3 className="font-bold text-sm text-slate-800 mb-1">
-                  【福岡〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！
-                </h3>
+                <h3 className="font-bold text-sm text-slate-800 mb-1">【福岡〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！</h3>
                 <p className="text-xs text-slate-500 line-clamp-2">
                   九州新幹線つばめ・さくらと高速バスひのくに号の料金・時間を検証。熊本城・阿蘇への日帰り旅にも便利。
                 </p>
@@ -369,9 +357,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
             >
               <div>
                 <span className="text-[11px] text-slate-600 font-semibold mb-1 block">長距離移動</span>
-                <h3 className="font-bold text-sm text-slate-800 mb-1">
-                  【大阪〜福岡】山陽新幹線 vs 夜行高速バス 料金・時間比較
-                </h3>
+                <h3 className="font-bold text-sm text-slate-800 mb-1">【大阪〜福岡】山陽新幹線 vs 夜行高速バス 料金・時間比較</h3>
                 <p className="text-xs text-slate-500 line-clamp-2">
                   格安夜行バスで早朝博多駅に到着し、そのまま長浜ラーメン朝食へ向かう弾丸トラベルの活用術。
                 </p>
@@ -389,9 +375,7 @@ export default function FukuokaHakataEarlyMorningGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と朝6時台オープンの市場めし完全版の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と朝6時台オープンの市場めし完全版の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

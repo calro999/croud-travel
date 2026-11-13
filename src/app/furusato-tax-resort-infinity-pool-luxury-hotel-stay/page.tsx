@@ -108,9 +108,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  海と空に浮かんでいるかのようなシームレスな浮遊感と圧巻のフォトジェニック美
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">海と空に浮かんでいるかのようなシームレスな浮遊感と圧巻のフォトジェニック美</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 プールの端が水平線や空と完全に一体化。水面に青空や雲、夕陽が美しく反射し、息をのむような美しい写真と思い出が残せます。日常を完全に忘れさせる非日常のスケール感が魅力です。
@@ -123,9 +121,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  プールサイドバーや温水ジャグジー！1日中プールサイドで寛げる大人のラグジュアリー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">プールサイドバーや温水ジャグジー！1日中プールサイドで寛げる大人のラグジュアリー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 冷えた身体を温める温水スパやジャグジー、カクテルやモクテルを提供するプールサイドバーを完備。デイベッドに寝そべって読書をしたり、夕暮れの光の移ろいを眺めたりと贅沢な時間を過ごせます。
@@ -138,9 +134,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  夜には幻想的なライトアップやナイトプール！大人のナイトタイムエンターテインメント
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">夜には幻想的なライトアップやナイトプール！大人のナイトタイムエンターテインメント</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 夜になるとプールが青や紫の幻想的な光にライトアップ。水辺に心地よいアンビエント音楽が流れ、噴水ショーや星空を眺めながらのロマンチックなナイトスイミングを満喫できます。
@@ -183,9 +177,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県熱海市・相模灘を一望する全長約25mの露天立ち湯インフィニティ「Fuua」と名湯リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    熱海温泉　熱海後楽園ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">熱海温泉　熱海後楽園ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     熱海港の岬に位置し、相模灘と熱海市街の美しい夜景を一望する大型温泉リゾートホテル。敷地内の日帰り温泉施設「オーシャンスパ Fuua（フーア）」には、日本最大級の長さを誇る全長約25mの「露天立ち湯インフィニティ温泉」があり、海にそのまま浮かんでいるかのような圧倒的開放感を味わえます。客室は全室オーシャンビューのタワー館や新館アクアスクエアを備え、熱海名物の海上花火大会も部屋やテラスから特等席で鑑賞可能。伊豆の新鮮な山海の幸を味わえるブッフェや和食ディナーとともに、都心至近の贅沢な海辺のリフレッシュが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     沖縄県恩納村・ハワイの名門が手掛ける世界的ラグジュアリー！象徴的なオーキッドプールと極上ステイ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ハレクラニ沖縄
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ハレクラニ沖縄</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     ハワイで百有余年の歴史を誇る名門「ハレクラニ」が、沖縄屈指の美しい海を望む恩納村に創り上げた最高峰ラグジュアリーリゾート。ホテルのシンボルである「オーキッドプール」は、約150万枚のガラスモザイクタイルで巨大な蘭の花が描かれ、水平線へと溶け込むインフィニティ設計が息をのむ美しさです。さらに大人のためのクワイエットプールやサンセットプールなど多彩な水辺空間を完備。全客室が50平米以上のオーシャンフロントで、ミシュラン星付きシェフ監修のダイニングや上質なスパとともに、天国にふさわしい至極の休日をご堪能いただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・別府湾を一望する棚田状の絶景大露天「棚湯」＆水着で楽しむ温泉プール「アクアガーデン」
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     別府温泉の高台に位置し、全国屈指の人気と圧倒的スケールを誇る大型温泉リゾート。段々畑のように広がる五段の湯船から別府湾と街の夜景を一望する大展望露天風呂「棚湯」に加え、水着で温泉に入れる屋外型インフィニティ温泉プール「ザ アクアガーデン」を完備。夜には光と音の噴水アートショーが開催され、幻想的なナイトエンターテインメントを楽しめます。贅を尽くした豪華バイキングやボウリング場、キッズパークなども充実し、ファミリーからカップルまで誰もが感動できる九州の温泉リゾートの最高峰です。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoResortInfinityPoolStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

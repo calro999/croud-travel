@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            黒漆喰と白漆喰が織りなす松本城の凛とした佇まい、街角に湧き出る清らかな井戸水——民芸のぬくもりと名湯に包まれる「松本大人のリトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">黒漆喰と白漆喰が織りなす松本城の凛とした佇まい、街角に湧き出る清らかな井戸水——民芸のぬくもりと名湯に包まれる「松本大人のリトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             新宿から特急あずさで約2時間半、名古屋から特急しなので約2時間。現存十二天守の一つであり国宝に指定されている「松本城」をシンボルとする松本は、柳宗悦が提唱した「民芸運動」の精神が今なお息づく文化都市です。中町通りの白壁土蔵、なわて通りのカエル横丁、草間彌生作品を常設展示する「松本市美術館」、そして街中随所に湧き出る北アルプスの清らかな名水「まつもと城下町湧水群」など、ひとり歩きにふさわしい静けさと美意識に満ちています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   創業明治20年！松本民芸家具が彩るクラシックホテル・松本城へ徒歩5分の閑静なロケーション
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  松本ホテル花月 —— 「民芸フィロソフィー」が息づく上質空間。湧水の大浴場とノスタルジックな喫茶室「八十六温館」
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">松本ホテル花月 —— 「民芸フィロソフィー」が息づく上質空間。湧水の大浴場とノスタルジックな喫茶室「八十六温館」</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   美ヶ原温泉の高台から北アルプスと松本市街を一望！5つ星の宿認定の本格温泉旅館
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  信州松本 美ヶ原温泉 翔峰 —— 圧倒的なパノラマビュー。開放感あふれる展望露天風呂と信州の味覚を味わう会席料理
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">信州松本 美ヶ原温泉 翔峰 —— 圧倒的なパノラマビュー。開放感あふれる展望露天風呂と信州の味覚を味わう会席料理</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR松本駅アルプス口徒歩3分！自家源泉の天然温泉大浴場＆高温サウナ・名物「信州蕎麦」朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 梓の湯 ドーミーイン松本 —— 駅近の温泉オアシス。水風呂サウナと夜鳴きそば完備の王道ビジホ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 梓の湯 ドーミーイン松本 —— 駅近の温泉オアシス。水風呂サウナと夜鳴きそば完備の王道ビジホ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              松本の城下町と湧水・クラフトを一人で巡るモデル散策コース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">松本の城下町と湧水・クラフトを一人で巡るモデル散策コース</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 国宝松本城の内堀と天守閣を朝イチ（8:30開門）でじっくり見学
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 国宝松本城の内堀と天守閣を朝イチ（8:30開門）でじっくり見学</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 五重六階の現存最古の天守。急な階段を登り切った最上階からは、北アルプスと松本の街並みが一望できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 中町通りの蔵造りカフェと松本民芸家具ショップ巡り
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 中町通りの蔵造りカフェと松本民芸家具ショップ巡り</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 白と黒のなまこ壁が美しい通り。木工クラフト店や器ギャラリーで、自分だけのお気に入りのお土産探し。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. まつもと城下町湧水群（源智の井戸等）で清らかな名水を汲む
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. まつもと城下町湧水群（源智の井戸等）で清らかな名水を汲む</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 環境省の名水百選に選ばれる名水。持参した水筒やタンブラーに冷たい湧水を汲んで街歩きのお供にするのが松本流です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>松本駅から美ヶ原温泉や上高地への移動はどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>松本駅から美ヶ原温泉や上高地への移動はどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 美ヶ原温泉へは松本駅前バスターミナルから路線バスで約20分（翔峰等の無料送迎あり）。上高地へは松本電鉄上高地線とシャトルバスで約1時間半でアクセスできます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で入りやすい信州蕎麦や居酒屋はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で入りやすい信州蕎麦や居酒屋はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 駅前や中町通り、なわて通り周辺の蕎麦店（野麦、弁天、みよ田など）は一人客が非常に多く、カウンター席で気軽に手打ち蕎麦や蕎麦前を楽しめます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】松本ホテル花月を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】松本ホテル花月を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

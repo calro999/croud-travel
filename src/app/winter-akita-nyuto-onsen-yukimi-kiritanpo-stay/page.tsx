@@ -266,10 +266,8 @@ export default function NyutoWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本屈指の秘湯雪見旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月乳頭温泉郷の白銀秘湯めぐり】<br className="hidden sm:inline" />
-            ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月乳頭温泉郷の白銀秘湯めぐり】<br className="hidden sm:inline" />
+            ブナ原生林の雪見露天風呂と本場きりたんぽ鍋の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             十和田八幡平の深い山懐、樹齢数百年のブナ原生林が雪に包まれる季節。乳白色や茶褐色の湯けむりが舞い上がる雪見露天風呂に浸かり、囲炉裏端でいただく本場比内地鶏の出汁が染みた熱々きりたんぽ鍋。冬の日本が誇る究極の秘湯旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Secret Hot Spring & Winter Snow</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                雪深きブナの原生林に抱かれた、日本人の原風景が息づく桃源郷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雪深きブナの原生林に抱かれた、日本人の原風景が息づく桃源郷</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function NyutoWinterPage() {
           </p>
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-emerald-700" />
-                乳頭温泉郷の冬は「宿泊者専用・湯めぐり号」の活用が賢い
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-emerald-700" />
+                乳頭温泉郷の冬は「宿泊者専用・湯めぐり号」の活用が賢い</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 雪道運転の心配なし。宿泊者限定の「湯めぐり帖」を購入すれば、専用巡回バス「湯めぐり号」で乳頭七湯の名湯露天を楽々ホッピングできます。
               </p>
@@ -332,9 +326,7 @@ export default function NyutoWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の乳頭温泉郷で味わうべき3つの奇跡
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の乳頭温泉郷で味わうべき3つの奇跡</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function NyutoWinterPage() {
         <section id="hotel-list" className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月に泊まりたい乳頭温泉郷・田沢湖の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月に泊まりたい乳頭温泉郷・田沢湖の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの最新空室状況・宿泊プランと連携。ブナ林の国立公園リゾートから秘湯情緒あふれる名宿までを厳選。
             </p>
@@ -399,9 +389,7 @@ export default function NyutoWinterPage() {
                           <span className="text-stone-400">({hotel.reviews}件のクチコミ)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                         {hotel.access}
@@ -430,17 +418,13 @@ export default function NyutoWinterPage() {
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-emerald-900 flex items-center gap-1.5 mb-1">
-                            <Coffee className="w-3.5 h-3.5" /> 客室選びのポイント
-                          </h4>
+                          <h4 className="text-xs font-bold text-emerald-900 flex items-center gap-1.5 mb-1"><Coffee className="w-3.5 h-3.5" /> 客室選びのポイント</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.roomTip}
                           </p>
                         </div>
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1">
-                            <Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり
-                          </h4>
+                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1"><Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.gourmetTip}
                           </p>
@@ -451,10 +435,8 @@ export default function NyutoWinterPage() {
 
                   {/* Highlights */}
                   <div className="bg-emerald-50/50 rounded-2xl p-4 sm:p-5 border border-emerald-100/80 space-y-2.5">
-                    <h4 className="text-xs font-bold text-emerald-950 uppercase tracking-wider flex items-center gap-1.5">
-                      <CheckCircle2 className="w-4 h-4 text-emerald-600" />
-                      この宿のおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-emerald-950 uppercase tracking-wider flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-emerald-600" />
+                      この宿のおすすめポイント</h4>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                       {hotel.highlights.map((hl, hIdx) => (
                         <div key={hIdx} className="flex items-start gap-2 text-xs text-stone-700">
@@ -494,9 +476,7 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の乳頭温泉郷を満喫する「1泊2日 白銀の秘湯めぐりモデルコース」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の乳頭温泉郷を満喫する「1泊2日 白銀の秘湯めぐりモデルコース」</h2>
             </div>
           </div>
 
@@ -608,18 +588,14 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Onsen Science & Nature</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                乳頭温泉郷の七湯七色！多様な泉質メカニズムと雪見入浴の心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">乳頭温泉郷の七湯七色！多様な泉質メカニズムと雪見入浴の心得</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-600" />
-                宿ごとに泉質が異なる「七湯七色」の奇跡
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-600" />
+                宿ごとに泉質が異なる「七湯七色」の奇跡</h3>
               <p>
                 乳頭温泉郷の最大の特徴は、わずか数キロ圏内に点在する宿がそれぞれ独自の源泉井戸を持ち、泉質が全く異なる点にあります。
               </p>
@@ -629,10 +605,8 @@ export default function NyutoWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                豪雪地帯での安全な露天風呂入浴作法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                豪雪地帯での安全な露天風呂入浴作法</h3>
               <p>
                 冬の乳頭温泉郷は外気温がマイナス5℃以下になるため、脱衣所から露天風呂までの移動時は足元の凍結に細心の注意を払いましょう。
               </p>
@@ -651,9 +625,7 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Souvenirs & Crafts</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の秋田・乳頭温泉郷で手に入れたい厳選名物土産
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の秋田・乳頭温泉郷で手に入れたい厳選名物土産</h2>
             </div>
           </div>
 
@@ -692,18 +664,14 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Practical Winter Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の乳頭温泉郷 湯めぐりと寒さ対策の実用アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の乳頭温泉郷 湯めぐりと寒さ対策の実用アドバイス</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-emerald-600" />
-                雪山秘湯の防寒着とスノーシューズ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Snowflake className="w-4 h-4 text-emerald-600" />
+                雪山秘湯の防寒着とスノーシューズ</h3>
               <p>
                 12月の乳頭温泉郷は気温がマイナス5℃以下になる日が多く、露天風呂への渡り廊下や脱衣所も非常に冷え込みます。脱ぎ着しやすい防寒着や長めのダウンコート、厚手の靴下を持参しましょう。
               </p>
@@ -713,10 +681,8 @@ export default function NyutoWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                秋田新幹線＋路線バスの快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                秋田新幹線＋路線バスの快適アクセス</h3>
               <p>
                 東京駅から秋田新幹線「こまち」で田沢湖駅まで直通約2時間50分。駅前から乳頭温泉行きの路線バスで約45分〜50分です。冬の山道は吹雪や圧雪があるため、公共交通機関の利用が最も安全です。
               </p>
@@ -735,48 +701,38 @@ export default function NyutoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の乳頭温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の乳頭温泉旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                乳頭温泉郷の七湯は冬でもすべて営業していますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                乳頭温泉郷の七湯は冬でもすべて営業していますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 乳頭七湯のうち「黒湯温泉」は豪雪のため11月上旬〜中旬から4月頃まで冬期休業に入ります。鶴の湯、妙乃湯、大釜、蟹場、孫六、休暇村の6つの宿は冬期も営業しており、白銀の秘湯めぐりを楽しむことができます（天候等により臨時休止の場合あり）。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                有名な「鶴の湯温泉」の混浴露天風呂は女性でも入れますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                有名な「鶴の湯温泉」の混浴露天風呂は女性でも入れますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 鶴の湯の混浴大露天風呂は白濁した乳白色の硫黄泉のため、湯船に入ってしまえば身体が透けて見える心配はありません。また、女性専用の大きな露天風呂や内湯（白湯・黒湯）も完備されているため、混浴に抵抗がある女性の方でも安心して名湯を堪能できます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                田沢湖周辺の観光名所や冬の見どころは？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                田沢湖周辺の観光名所や冬の見どころは？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 水深423.4mと日本一の深さを誇る田沢湖は、冬でも湖水が凍ることがなく、澄み切った瑠璃色（ラピスラズリブルー）の輝きを放ちます。湖畔に立つ黄金の「たつこ像」や、湖面に朱塗りの鳥居が浮かぶ「御座石神社」など、雪山を背景にした絶景フォトスポットが満載です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                冬の秋田名物「ハタハタ」とはどんな魚ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                冬の秋田名物「ハタハタ」とはどんな魚ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 ハタハタ（鰰）は11月下旬から12月の雷が鳴る荒れた日本海に産卵のため接岸する秋田の県魚です。プチプチとした弾ける食感がたまらない卵（ブリコ）を持った雌や、淡白で上品な白身を、伝統の魚醤「しょっつる鍋」や塩焼き、田楽でいただくのが冬の秋田の最高の贅沢です。
               </p>
@@ -788,9 +744,7 @@ export default function NyutoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -803,9 +757,7 @@ export default function NyutoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">東北雪見秘湯</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">青森酸ヶ湯温泉の千人風呂と八甲田雪見ステイ</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 総ヒバ造りの巨大な混浴千人風呂と濃厚な白濁硫黄泉、豪雪の秘湯。
               </p>
@@ -816,9 +768,7 @@ export default function NyutoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">山形冬特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                銀山温泉の初雪と大正浪漫・白銀のガス灯宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">銀山温泉の初雪と大正浪漫・白銀のガス灯宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 銀山川沿いに並ぶ木造建築群とオレンジのガス灯、尾花沢牛会席。
               </p>
@@ -829,9 +779,7 @@ export default function NyutoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-emerald-50/60 border border-stone-200 hover:border-emerald-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">にごり湯特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-sky-900 transition-colors">
-                万座温泉の標高1800m乳白色にごり湯と星空雪見風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-sky-900 transition-colors">万座温泉の標高1800m乳白色にごり湯と星空雪見風呂</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 日本一の硫黄含有量を誇る濃厚にごり湯と満天の星空を仰ぐパノラマ露天。
               </p>
@@ -840,9 +788,7 @@ export default function NyutoWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              秋田県および東北エリアのおすすめ温泉宿一覧
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">秋田県および東北エリアのおすすめ温泉宿一覧</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/akita/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">秋田県の宿一覧</Link>
               <Link href="/prefectures/iwate/" className="px-3 py-1.5 bg-stone-100 hover:bg-emerald-100 text-stone-700 hover:text-emerald-900 rounded-lg transition-colors font-medium">岩手県の宿一覧</Link>

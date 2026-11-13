@@ -91,9 +91,7 @@ export default function Page() {
               ヴォーリズ建築の聖地・近江八幡ステイ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['omihachiman_vories_heritage_stay']?.label || 'ヴォーリズ建築の聖地・近江八幡ステイ'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['omihachiman_vories_heritage_stay']?.label || 'ヴォーリズ建築の聖地・近江八幡ステイ'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             ヴォーリズが宣教師・建築家として半生を捧げた近江八幡。重要伝統的建造物群保存地区の街並みとともに、ヴォーリズ記念館や八幡電話交換局など数多くの作品が点在。地元近江牛や琵琶湖の恵みを味わいながら文化薫る滞在を愉しめます。
           </p>
@@ -118,9 +116,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -169,9 +165,7 @@ export default function Page() {
               軽井沢・歴史的洋館とヴォーリズ教会の森
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['karuizawa_vories_forest_inn_stay']?.label || '軽井沢・歴史的洋館とヴォーリズ教会の森'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['karuizawa_vories_forest_inn_stay']?.label || '軽井沢・歴史的洋館とヴォーリズ教会の森'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             軽井沢ユニオンチャーチなどヴォーリズゆかりの木造教会が木立の間に佇む軽井沢。カラマツやモミの木に囲まれたクラシックな高原ホテルで、パチパチとはぜる暖炉の火を眺めながら信州の豊かなワインと美味に酔いしれるひとときです。
           </p>
@@ -196,9 +190,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -247,9 +239,7 @@ export default function Page() {
               甲子園ホテル・阪神間モダニズムの系譜
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            {secData['koshien_hanshin_modernism_stay']?.label || '甲子園ホテル・阪神間モダニズムの系譜'}
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">{secData['koshien_hanshin_modernism_stay']?.label || '甲子園ホテル・阪神間モダニズムの系譜'}</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             フランク・ロイド・ライトの愛弟子・遠藤新が設計した「甲子園ホテル（現・武庫川女子大学甲子園会館）」で知られる西宮・阪神間。ライト式スクラッチタイルや幾何学装飾の息吹を感じながら、洗練された都市リゾートホテルで優雅な滞在が叶います。
           </p>
@@ -274,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-5 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1">
                         <svg className="w-3.5 h-3.5 text-stone-400 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -320,37 +308,29 @@ export default function Page() {
 
         {/* よくある質問 FAQ */}
         <section className="mb-16 bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8">
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2">
-            <span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
-            よくある質問・歴史建築宿の楽しみ方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-6 font-serif flex items-center gap-2"><span className="w-2 h-7 bg-amber-700 rounded-full inline-block"></span>
+            よくある質問・歴史建築宿の楽しみ方</h2>
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>ヴォーリズ建築の魅力や特徴は何ですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>ヴォーリズ建築の魅力や特徴は何ですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 装飾過多にならず、住む人の使いやすさや居心地、健康を第一に考えた「ヒューマニズム」が最大の特徴です。風通しの良い間取り、温かみのある木製階段や手すり、暖炉、自然光を取り込む窓など、包み込まれるような安心感があります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>フランク・ロイド・ライトの有機的建築（オーガニック・アーキテクチャー）とは？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>フランク・ロイド・ライトの有機的建築（オーガニック・アーキテクチャー）とは？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 自然環境と建築が対立せず、まるで大地から生えてきたかのように一体化する建築思想です。水平方向を強調した深い庇、幾何学模様の大谷石やスクラッチタイルの装飾などが代表的なディテールです。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-xl p-6 border border-stone-200/70">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-amber-700 font-serif font-black text-lg">Q.</span>
-                <span>建築見学と合わせて楽しめるおすすめのアクティビティはありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-serif font-black text-lg">Q.</span>
+                <span>建築見学と合わせて楽しめるおすすめのアクティビティはありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-6">
                 近江八幡の水郷めぐりや古い町並み散策、軽井沢の美術館巡りや森のサイクリング、阪神間のカフェやベーカリー巡りなど、文化や景観を五感で楽しむ散策との相性が抜群です。
               </p>
@@ -360,9 +340,7 @@ export default function Page() {
 
         {/* 関連リンク */}
         <section className="bg-stone-200/70 rounded-2xl p-6 md:p-8 text-center border border-stone-300">
-          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">
-            他のこだわり・テーマ特化ステイを探す
-          </h3>
+          <h3 className="text-xl font-bold text-stone-900 mb-3 font-serif">他のこだわり・テーマ特化ステイを探す</h3>
           <p className="text-stone-600 text-sm mb-6">
             クラシックホテル、登録有形文化財宿のほかにも、日本全国の個性豊かな温泉宿やリゾートホテルをご紹介しています。
           </p>
@@ -403,9 +381,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ビジネス旅館 長栄荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ビジネス旅館 長栄荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -438,9 +414,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とビジネス旅館 長栄荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とビジネス旅館 長栄荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

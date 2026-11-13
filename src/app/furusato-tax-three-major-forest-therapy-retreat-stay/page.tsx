@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          樹齢数百年の巨樹が放つ神聖なアロマ。深い静寂とフィトンチッドに満たされる森林浴ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">樹齢数百年の巨樹が放つ神聖なアロマ。深い静寂とフィトンチッドに満たされる森林浴ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ヒノキ・ヒバの芳醇な天然アロマ香る極上露天風呂で心身浄化
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ヒノキ・ヒバの芳醇な天然アロマ香る極上露天風呂で心身浄化</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               抗菌効果やリラクゼーション効果の高い天然ヒバ・ヒノキ造りの浴槽。湯気に混ざる木の香りが深い安らぎをもたらします。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              認定森林セラピーロードや世界遺産の巨樹トレッキング直結
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">認定森林セラピーロードや世界遺産の巨樹トレッキング直結</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               ガイド付きの森林浴ツアーや原生林ハイキングへスムーズに出発できる好立地。朝の澄んだ空気の中で行う森林浴は格別です。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              森の恵みを取り入れた薬膳料理やジビエ・山里プレミアム会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">森の恵みを取り入れた薬膳料理やジビエ・山里プレミアム会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               山菜やきのこ、清流の川魚、ジビエなど、森の生態系がもたらす生命力あふれる滋味深いディナーを味わえます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="yakushima_forest" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                鹿児島県屋久島町ふるさと納税：世界自然遺産・樹齢数千年の屋久杉原生林と太平洋オーシャンリゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">鹿児島県屋久島町ふるさと納税：世界自然遺産・樹齢数千年の屋久杉原生林と太平洋オーシャンリゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 苔むす森（白谷雲水峡）や縄文杉が息づく洋上のアルプス・屋久島。深い森の息吹を感じながら、島で獲れたトビウオや首折れサバの会席と、海と森が交差する絶景スパを堪能できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久島町安房410-165
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルオーベルジュ＜屋久島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルオーベルジュ＜屋久島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     おかげさまで＜口コミ総合高評価＞☆家族と島のおばちゃんの素朴なおもてなし♪
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久島町尾之間136-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ｓａｍａｎａ　ｈｏｔｅｌ　Ｙａｋｕｓｈｉｍａ（旧・ホテル屋久島）＜屋久島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ＜4月26日で1周年＞自然豊かな屋久島の特等席で天然温泉とビュッフェを満喫ください
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県熊毛郡屋久町安房2364-35
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテル　屋久島山荘　＜屋久島＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル　屋久島山荘　＜屋久島＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     宮之浦岳、縄文杉に一番近いホテルです。又部屋からのロケーションが最高です。
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kiso_forest" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長野県木曽町ふるさと納税：日本三大美林・伊勢神宮御神木の故郷「木曽ヒノキ」と中山道宿場町温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長野県木曽町ふるさと納税：日本三大美林・伊勢神宮御神木の故郷「木曽ヒノキ」と中山道宿場町温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 木曽五木に数えられる最高級木材・木曽ヒノキの森。清々しいヒノキ風呂に浸かり、名物の木曽牛やすんき料理、開田高原の手打ち蕎麦を味わう歴史と美林の静寂ステイです。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県下伊那郡阿智村智里338-19
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    昼神温泉　癒楽（ゆら）の宿　清風苑
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">昼神温泉　癒楽（ゆら）の宿　清風苑</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【2025年楽天トラベルブロンズアワード受賞】★日本一の星空と笑顔のおもてなし
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="oirase_forest" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                青森県十和田市・八甲田ふるさと納税：日本三大美林「青森ヒバ」の香る名湯と奥入瀬渓流ネイチャー宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">青森県十和田市・八甲田ふるさと納税：日本三大美林「青森ヒバ」の香る名湯と奥入瀬渓流ネイチャー宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 ヒノキチオールを豊富に含む青森ヒバの大浴場。八甲田連峰のブナ原生林や奥入瀬渓流のせせらぎに包まれ、青森の地酒とともに十和田牛や短角牛のステーキを味わう癒やしの宿です。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市荒川八甲田山中
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。
                   </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市浅虫坂本51-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    浅虫温泉　絶景の宿　浅虫さくら観光ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">浅虫温泉　絶景の宿　浅虫さくら観光ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【全室海側】陸奥湾を一望★絶景の春夏秋冬★眺望露天風呂★青森の旬な食材★唯一海岸沿に建つ希少な宿
                   </p>
@@ -482,9 +456,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本アルプス＆高山トレッキング山岳リゾート宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 上高地・白馬・立山の雲上ホテル。
               </p>
@@ -498,9 +470,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流渓谷＆名瀑ヒーリング温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 奥入瀬渓流・天城湯ヶ島・作並温泉の滝見露天宿。
               </p>
@@ -514,9 +484,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 那須・清里・裏磐梯の森の休日。
               </p>
@@ -534,9 +502,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -615,9 +581,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと納税厳選ガイド屋久島・木曽ヒノキ・青森ヒバの森」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

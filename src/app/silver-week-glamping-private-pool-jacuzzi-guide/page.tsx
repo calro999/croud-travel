@@ -209,9 +209,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
       <section className="bg-white border border-cyan-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">RESORT HIGHLIGHTS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            水辺を独占する贅沢！専用プール＆ジャグジー滞在が選ばれる理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">水辺を独占する贅沢！専用プール＆ジャグジー滞在が選ばれる理由</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             初秋のシルバーウィークだからこそ味わえる、温水スイミングと心地よい外気浴のコンビネーション。
           </p>
@@ -229,9 +227,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
                   {item.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {item.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{item.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {item.desc}
               </p>
@@ -244,9 +240,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
       <section className="bg-white border border-cyan-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-cyan-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">WHY PRIVATE POOL</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            客室専用プール＆ジャグジー vs 一般ホテルの共用プール 徹底比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">客室専用プール＆ジャグジー vs 一般ホテルの共用プール 徹底比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             人目を気にせず水着でくつろげる、完全プライベート空間のアドバンテージ。
           </p>
@@ -284,9 +278,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
       <section className="space-y-6" aria-labelledby="pool-hotels-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">CURATED POOL & JACUZZI RESORTS</span>
-          <h2 id="pool-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            水辺の絶景とリラクゼーション！プール＆ジャグジー付きグランピング宿
-          </h2>
+          <h2 id="pool-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">水辺の絶景とリラクゼーション！プール＆ジャグジー付きグランピング宿</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             伊豆の海を望む天空ヴィラから瀬戸内の天然温泉リゾート、富士山麓の森林プールまで厳選。
           </p>
@@ -334,9 +326,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "開放感あふれるプライベートプールやジャグジーを備えた水辺のリゾートヴィラ。夕暮れのトワイライトから星空ナイトプールまで特別な時間をお楽しみいただけます。"}
@@ -373,18 +363,14 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
       <section className="bg-white rounded-3xl border border-cyan-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            プール＆ジャグジー付きグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">プール＆ジャグジー付きグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-cyan-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-cyan-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -395,9 +381,7 @@ export default function SilverWeekGlampingPrivatePoolJacuzziPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-cyan-950 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-cyan-800/40">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🍹</span> 極上リゾートステイにあわせて読みたい厳選ガイド
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">極上リゾートステイにあわせて読みたい厳選ガイド</h3>
         <p className="text-xs text-cyan-200/80">
           客室プールや記念日旅行をお探しの方におすすめのモデルコース＆リゾート特集。
         </p>

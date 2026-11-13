@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>旅人が草鞋を脱いだ江戸の昔へ。街道の息吹と素朴な郷土の温もりに触れる</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>旅人が草鞋を脱いだ江戸の昔へ。街道の息吹と素朴な郷土の温もりに触れる</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             木造の旅籠が連なる中山道木曽路の妻籠宿や馬籠宿、日光東照宮へと続く日光街道杉並木。かつて参勤交代の大名や旅人たちが行き交った街道沿いには、現代も当時の面影を色濃く残す宿場町と名宿が点在しています。楽天ふるさと納税を活用して、囲炉裏端でいただく岩魚の塩焼きや五平餅、信州蕎麦を味わうノスタルジックな街道歩き旅へ出かけましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    電線が地中化され江戸の佇まいがそのまま残る国の重伝建地区に宿泊
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">電線が地中化され江戸の佇まいがそのまま残る国の重伝建地区に宿泊</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     観光客で賑わう昼間とは一変し、夕暮れの行灯が灯る静寂の宿場町を歩けるのは宿泊者だけの特権。静まり返った石畳に響く下駄の音が旅情を誘います。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    囲炉裏端で焼き上げる川魚・山菜・名物五平餅の山里郷土料理
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">囲炉裏端で焼き上げる川魚・山菜・名物五平餅の山里郷土料理</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     囲炉裏の炭火でじっくり香ばしく焼いた岩魚やアマゴ、香り高い信州蕎麦、地元米で作る香ばしい五平餅など、素朴でありながら滋味深い料理を堪能できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    歴史文化保全への寄付控除と宿泊割引を両立する賢いふるさと納税
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">歴史文化保全への寄付控除と宿泊割引を両立する賢いふるさと納税</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     町並み保存や文化遺産継承に尽力する自治体へ寄付しながら、最大30%オフのトラベルクーポンで趣ある古民家風宿や老舗旅館をお得に楽しめます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="tsumago_kaido" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県南木曽町ふるさと納税：中山道妻籠宿・全国で初めて町並み保存に取り組んだ奇跡の宿場町</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県南木曽町ふるさと納税：中山道妻籠宿・全国で初めて町並み保存に取り組んだ奇跡の宿場町</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       日本初の重要伝統的建造物群保存地区。江戸時代の木造建築が連なる街道を散策し、木曽檜の香る木風呂や、山菜と信州牛を味わう心温まる宿場ステイが待っています。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              木曽路の宿　いわや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">木曽路の宿　いわや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               宮家の方々や文人に愛された、木曽路で最も古い老舗。木曽川眺望、総檜造りのお部屋や展望露天など。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              普寛堂　くるみ沢旅館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">普寛堂　くるみ沢旅館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               明治2年創業。【お部屋食】で精進料理や信州の旬料理＆【薬草人参檜風呂】でゆったり！御嶽山への拠点に
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              宿とそば処　ふもと屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">宿とそば処　ふもと屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               築二百年の建物を利用した古民家風の旅宿。開田蕎麦と郷土料理・地元の材料でおもてなし
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="magome_kaido" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>岐阜県中津川市ふるさと納税：中山道馬籠宿・文豪島崎藤村の故郷・石畳の坂道宿場</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>岐阜県中津川市ふるさと納税：中山道馬籠宿・文豪島崎藤村の故郷・石畳の坂道宿場</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       木曽山脈を望む急峻な坂道に開けた馬籠宿。藤村の名作『夜明け前』の舞台となった町並みを見下ろしながら、恵那山麓の清らかな水と栗きんとん、地酒を味わえます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              料理旅館　準坊池
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">料理旅館　準坊池</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               いけすの鮮度抜群な川魚と山菜料理★中津川・鮎釣りポイントへは徒歩1分です♪＜ペット相談可＞
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="nikko_kaido" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>栃木県日光市ふるさと納税：世界遺産日光東照宮参道・日光杉並木街道と由緒ある門前宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>栃木県日光市ふるさと納税：世界遺産日光東照宮参道・日光杉並木街道と由緒ある門前宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       徳川家康公を祀る日光東照宮へと続く日光街道。ギネス世界記録に認定された世界一長い杉並木を抜け、名物の日光湯波や滋養あふれる会席料理に舌鼓を打つ開運の旅です。
                     </p>
@@ -432,9 +406,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">一棟貸切【広々９７平米】　定員８人　禁煙　駅徒歩９分　駐車場３台ＥＶ対応　日光杉並木街道の家　＾</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日光市下野大沢駅９分の貸し切り一軒家です
                             </p>
@@ -484,9 +456,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">トレイルイン日光今市（Ｔｒａｉｌ　ｉｎｎ　日光今市）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               各室完全独立型のトレーラーホテル！洗濯機・電子レンジ完備！！
                             </p>
@@ -536,9 +506,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              日光素泊まりの宿　憩～ikoi～
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">日光素泊まりの宿　憩～ikoi～</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日光東照宮まで1.８ｋｍ！ビジネス・観光にもおすすめ！心からのおもてなしでお待ちしております♪
                             </p>
@@ -644,9 +612,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】木曽路の宿 いわやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】木曽路の宿 いわやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -679,9 +645,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と木曽路の宿 いわやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と木曽路の宿 いわやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -776,9 +740,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -857,9 +819,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「歴史街道・宿場町めぐり名宿×ふるさと納税厳選ガイド中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

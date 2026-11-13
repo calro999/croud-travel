@@ -89,9 +89,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            天へと伸びる黄金の円錐樹が続く一本道と、朝日にきらめく琵琶湖の絶景。美肌の古湯と近江牛を味わう秋の滋賀ステイへ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">天へと伸びる黄金の円錐樹が続く一本道と、朝日にきらめく琵琶湖の絶景。美肌の古湯と近江牛を味わう秋の滋賀ステイへ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             滋賀県高島市マキノ町に位置し、映画やドラマの舞台としても名高い「メタセコイア並木」。約2.4kmにわたって約500本のメタセコイアが整然と並び、11月下旬から12月上旬にかけて円錐形の巨木が一斉にレンガ色や黄金色のグラデーションに染まる光景は、まるで北欧の童話の世界に入り込んだかのような圧倒的な美しさです。並木道のドライブや散策を満喫した後は、琵琶湖の西岸に位置し開湯千二百年の歴史を誇る「おごと温泉」へ。比叡山の開祖・最澄によって開かれたと伝わるアルカリ性単純温泉（pH9.0）は、湯上がり後の肌がつるつる・ぷるぷるになる関西屈指の美肌温泉です。全館リニューアルされた客室露天風呂から雄大な琵琶湖のパノラマを望む「びわこ緑水亭」、大正ロマンの風雅と近江牛会席を誇る「びわ湖花街道」、そして愛犬同伴対応とアットホームな温もりが人気の「暖灯館 きくのや」。日本三大和牛「近江牛」のすき焼きやしゃぶしゃぶとともに、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で予約し、優雅な秋のレイクサイドリゾート旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  約500本が黄金に染まる！2.4kmの直線道路「メタセコイア並木」の絶景ドライブ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">約500本が黄金に染まる！2.4kmの直線道路「メタセコイア並木」の絶景ドライブ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 新・日本の街路樹百景にも選ばれた絶景ロード。黄金のトンネルをくぐるドライブや、足元を敷き詰める落ち葉の絨毯の散策は写真映え抜群です。
@@ -122,9 +118,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  pH9.0のアルカリ性単純美肌泉！最澄開湯の歴史ある「おごと温泉」の潤い
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">pH9.0のアルカリ性単純美肌泉！最澄開湯の歴史ある「おごと温泉」の潤い</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 肌の古い角質を落としすべすべにするクレンジング効果の高い名湯。琵琶湖から昇る朝陽を眺めながら客室露天風呂や展望大浴場で極上の湯浴みが楽しめます。
@@ -137,9 +131,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本最古のブランド牛「特選近江牛」のステーキ・すき焼き＆琵琶湖の旬魚会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本最古のブランド牛「特選近江牛」のステーキ・すき焼き＆琵琶湖の旬魚会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 きめ細かい霜降りと芳醇な香りが特徴の近江牛。秋の琵琶湖名物・子持ち鮎やビワマスなど、滋賀・湖国の豊かな恵みを贅沢に味わえます。
@@ -174,9 +166,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                       ★ 4.66 <span className="text-stone-400 text-xs">(2,464件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    おごと温泉　びわこ緑水亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">おごと温泉　びわこ緑水亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 滋賀県大津市雄琴6-1-6 ｜ 名神京都東Ｉ．Ｃから湖西道路経由で20分。ＪＲおごと温泉駅から送迎あり（要電話）
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                       ★ 4.59 <span className="text-stone-400 text-xs">(681件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    おごと温泉　びわ湖花街道
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">おごと温泉　びわ湖花街道</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 滋賀県大津市雄琴1-1-3 ｜ 車：名神京都東ＩＣ～約20分　電車：京都駅よりJR湖西線で20分。おごと温泉駅～無料送迎あり。（要連絡）
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
                       ★ 4.68 <span className="text-stone-400 text-xs">(2,879件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    おごと温泉　暖灯館　きくのや
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">おごと温泉　暖灯館　きくのや</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 滋賀県大津市雄琴6-1-29 ｜ 京都駅より20分、JR湖西線おごと温泉駅下車、車5分＜送迎有＞。京都東ICより湖西道路経由20分558号線沿い
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】おごと温泉 びわこ緑水亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】おごと温泉 びわこ緑水亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoLakeBiwaMetasequoiaAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とおごと温泉 びわこ緑水亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とおごと温泉 びわこ緑水亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

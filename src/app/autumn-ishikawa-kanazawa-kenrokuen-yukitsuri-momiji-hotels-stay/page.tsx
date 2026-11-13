@@ -55,9 +55,7 @@ export default function KanazawaKenrokuenAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            冬支度の「雪吊り」と錦秋の庭園美が重なる11月の兼六園
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">冬支度の「雪吊り」と錦秋の庭園美が重なる11月の兼六園</h2>
           <p className="mb-4 text-stone-700">
             加賀百万石の美意識が息づく日本三名園「兼六園」。11月に入ると、重い湿り雪から枝を守るための伝統技法「雪吊り」の作業が始まり、庭師たちが熟練の技で円錐形の美しい縄を張り巡らせます。黄金や真紅に色づいた木々と雪吊りのシルエットが織りなす景観は、1年のうちこの季節にしか出会えない特別な光景です。
           </p>
@@ -69,10 +67,8 @@ export default function KanazawaKenrokuenAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！金沢・兼六園周辺の厳選名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！金沢・兼六園周辺の厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.69</span>
                     <span className="text-stone-400 text-xs">(790件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    金沢湯涌温泉　百楽荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">金沢湯涌温泉　百楽荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / ★金沢中心街より車で20分★「金沢駅・兼六園」より“無料送迎”！お帰りは金沢駅近くへ荷物お届けサービス◎手ぶら観光もOK
                   </p>
@@ -142,9 +136,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.57</span>
                     <span className="text-stone-400 text-xs">(268件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    金沢・深谷温泉　元湯石屋　能舞台のある秘湯の一軒宿
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">金沢・深谷温泉　元湯石屋　能舞台のある秘湯の一軒宿</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 森本駅 / JR金沢駅からタクシーで約20分・ IR森本駅からタクシーで約7分・北陸自動車道金沢森本ＩＣより車5分
                   </p>
@@ -189,9 +181,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.62</span>
                     <span className="text-stone-400 text-xs">(486件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    金沢湯涌温泉　湯の出旅館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">金沢湯涌温泉　湯の出旅館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / 兼六園より車で25分、金沢駅より車で約40分。金沢森本I.Cから山側環状経由で30分。
                   </p>
@@ -236,9 +226,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.55</span>
                     <span className="text-stone-400 text-xs">(2862件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    金沢白鳥路　ホテル山楽
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">金沢白鳥路　ホテル山楽</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / ■金沢駅⇔ホテル無料送迎バス■金沢駅東口より車で１０分■金沢駅東口⑥、⑦乗り場【兼六園下・金沢城】バス停下車徒歩５分
                   </p>
@@ -283,9 +271,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.55</span>
                     <span className="text-stone-400 text-xs">(2091件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　加賀の宝泉　御宿　野乃金沢（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 金沢駅 / JR金沢駅より徒歩15分または北鉄バス6～10番乗り場からバスで4分「武蔵が辻・近江町市場」バス停下車後徒歩1分
                   </p>
@@ -330,9 +316,7 @@ export default function KanazawaKenrokuenAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の金沢：兼六園の雪吊りと紅葉ライトアップ！秋の風情と温泉を味わうおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KanazawaKenrokuenAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の金沢で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の金沢で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

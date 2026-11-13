@@ -215,19 +215,15 @@ export default function Page() {
           {/* イントロセクション */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-                <Compass className="w-6 h-6 text-cyan-700" />
-                <span>冬の日南・飫肥・鵜戸海岸探訪：静寂と温もりに包まれる旅の魅力</span>
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-700" />
+                <span>冬の日南・飫肥・鵜戸海岸探訪：静寂と温もりに包まれる旅の魅力</span></h2>
             </div>
             <p className="text-stone-700 leading-relaxed text-sm sm:text-base whitespace-pre-line">
               南国宮崎の冬は、どこまでも澄み渡る群青の空と、日南海岸を洗う白波が心地よい潮騒を奏でる穏やかな季節。寒風厳しい日本列島の中にあって、日中の気温が15度前後に達する温暖な気候は、冬の古都歩きと海岸ドライブにこの上ない快適さをもたらします。日南市の山裾に抱かれた「飫肥（おび）」は、江戸時代に伊東氏飫肥藩5万1千石の城下町として栄えた歴史の町。国の重要伝統的建造物群保存地区に選定されており、名産の飫肥杉で再建された壮麗な飫肥城大手門や、苔むした玉石垣、白壁の武家屋敷が立ち並ぶ風景は「九州の小京都」と称えられます。冬の柔らかな木漏れ日を浴びながら、甘い出汁が香る名物「厚焼卵」や、魚のすり身と豆腐を練り上げた揚げたての「飫肥天」を片手に散策すれば、往時の武士や商人の暮らしが鮮やかに蘇ります。城下町から太平洋側へと足を伸ばせば、日南海岸の荒波が穿った奇岩の洞窟内に朱塗りの社殿が鎮座する「鵜戸神宮（うどじんぐう）」が姿を現します。新春初詣には、断崖の注連縄が張られた「亀石」の枡形を目掛けて素焼きの玉を投げ込む「運玉投げ」に多くの参拝者が挑戦し、一年の大願成就を祈ります。冬の日南は、一本釣りで水揚げされる脂の乗った初ガツオや、ぷりぷりの身が甘い近海伊勢海老、全国和牛能力共進会で最高峰の栄誉を誇る極上宮崎牛など、舌を唸らせる冬の美食の宝庫。歴史情緒と南国の陽光に心が解ける冬の日南旅へご案内します。
             </p>
 
             <div className="space-y-4 pt-4 border-t border-stone-100">
-              <h3 className="text-lg font-bold text-stone-900">
-                この冬、日南・飫肥・鵜戸海岸を訪れるべき3つの理由
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">この冬、日南・飫肥・鵜戸海岸を訪れるべき3つの理由</h3>
               <div className="grid grid-cols-1 gap-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-3">
@@ -235,9 +231,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  飫肥杉と武家屋敷が織りなす「九州の小京都」飫肥城下町冬の静寂散歩
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">飫肥杉と武家屋敷が織りなす「九州の小京都」飫肥城下町冬の静寂散歩</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 九州初の重伝建地区である飫肥の城下町。重厚な飫肥杉の大手門や松尾の丸、鯉が泳ぐ清らかな水路と石垣が冬の澄んだ光に美しく映えます。名物の厚焼卵や飫肥天を食べ歩く風情豊かな散策が楽しめます。
@@ -249,9 +243,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日南海岸の断崖洞窟に鎮座！「鵜戸神宮」新春開運初詣と運玉投げ祈願
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日南海岸の断崖洞窟に鎮座！「鵜戸神宮」新春開運初詣と運玉投げ祈願</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 太平洋の怒涛が砕け散る奇岩洞窟の中に広がる朱塗りの神域。神話の山幸彦・海幸彦伝説ゆかりの古社で、男性は左手、女性は右手で亀石の窪みへ運玉を投げ入れる開運祈願は新春の風物詩です。
@@ -263,9 +255,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日南一本釣りカツオ・最高峰宮崎牛・伊勢海老！温暖な気候と日南温泉郷の癒やし
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日南一本釣りカツオ・最高峰宮崎牛・伊勢海老！温暖な気候と日南温泉郷の癒やし</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 冬でも穏やかな日南海岸沿いには美肌効果の高い天然温泉が点在。引き締まった身が絶品の一本釣りカツオや最高峰の宮崎牛ステーキ、伊勢海老会席を味わい、海を望む露天風呂で心身を解き放つ贅沢が待っています。
@@ -276,10 +266,8 @@ export default function Page() {
 
             {/* アクセス・気候・おすすめ服装 */}
             <div className="bg-cyan-50/60 border border-cyan-100 rounded-xl p-5 space-y-3 text-xs sm:text-sm text-stone-700">
-              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>アクセス・気候・おすすめの服装ガイド</span>
-              </h4>
+              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>アクセス・気候・おすすめの服装ガイド</span></h4>
               <pre className="font-sans whitespace-pre-line leading-relaxed text-stone-600 text-xs sm:text-sm">
                 【エリアへのアクセス】
 ・飛行機・宮崎空港から：宮崎空港よりJR宮崎空港線・日南線で飫肥駅まで約1時間15分。車・レンタカーの場合は国道220号線を経由して約50分。
@@ -299,9 +287,7 @@ export default function Page() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                日南・飫肥・鵜戸海岸 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">日南・飫肥・鵜戸海岸 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -316,9 +302,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第1位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      天然温泉ひなたの宿日南宮崎
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">天然温泉ひなたの宿日南宮崎</h3>
                     <p className="text-xs text-cyan-800 font-medium">飫肥城下町に湧く美肌の天然温泉！全室和モダン客室と日南の美食を堪能する新名宿</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -382,9 +366,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第2位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      日南海岸　南郷プリンスホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">日南海岸　南郷プリンスホテル</h3>
                     <p className="text-xs text-cyan-800 font-medium">日南海岸の絶景を一望する全室オーシャンビュー！プライベートビーチと極上海鮮</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -448,9 +430,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第3位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテル　青島サンクマール
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテル　青島サンクマール</h3>
                     <p className="text-xs text-cyan-800 font-medium">青島鬼の洗濯板を眼下に望む海辺の温泉宿！展望露天風呂と伊勢海老会席</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -514,9 +494,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第4位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h3>
                     <p className="text-xs text-cyan-800 font-medium">青島ビーチ目前の世界的ブランドリゾート！天然温泉とパームツリーの南国風情</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -580,9 +558,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第5位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテルシーズン日南
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテルシーズン日南</h3>
                     <p className="text-xs text-cyan-800 font-medium">油津港の風情漂う広渡川河畔のホテル！日南の海鮮グルメと快適なビジネス＆観光ステイ</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -645,9 +621,7 @@ export default function Page() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -670,37 +644,29 @@ export default function Page() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の日南・飫肥・鵜戸海岸旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の日南・飫肥・鵜戸海岸旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>鵜戸神宮の「運玉投げ」のルールとコツはありますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>鵜戸神宮の「運玉投げ」のルールとコツはありますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>運玉（5個200円）を受け取り、男性は左手、女性は右手で投げます。断崖下にある亀石の背中にある直径約60cmの窪み（枡形）に見事入れば願いが叶うとされます。放物線を描くように少し山なりに投げ入れるのがコツです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>飫肥城下町の散策にはどのくらいの時間が必要ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>飫肥城下町の散策にはどのくらいの時間が必要ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>主要な見どころ（飫肥城大手門、松尾の丸、予章館、商人町通り）を巡り、食べ歩きを楽しむ場合の目安所要時間は約2〜3時間です。あゆみちゃんマップ（散策マップ＆引換券）を利用するとお得に名物スイーツや工芸品を楽しめます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>冬の日南で味わうべきおすすめの魚介は何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>冬の日南で味わうべきおすすめの魚介は何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>日南は一本釣りカツオの水揚げ日本一を誇り、冬の寒ガツオは脂が乗り刺身やタタキ、カツオめしで絶品です。また、9月から春先にかけて解禁される近海伊勢海老の活造りや味噌汁も外せない冬の味覚です。
               </p>

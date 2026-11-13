@@ -259,9 +259,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  津山・美作・湯原 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">津山・美作・湯原 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -284,9 +282,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ザ・シロヤマテラス津山別邸
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ザ・シロヤマテラス津山別邸</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     津山城址を一望するオープンテラス・美肌天然温泉と極上千屋牛ダイニング
                   </p>
@@ -351,9 +347,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    登録有形文化財の宿　奥津温泉　名泉鍵湯　奥津荘
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">登録有形文化財の宿　奥津温泉　名泉鍵湯　奥津荘</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     創業創業三百年・川底から自噴する奇跡の「鍵湯」と登録有形文化財の木造建築
                   </p>
@@ -415,9 +409,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    八景
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">八景</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     旭川の渓流を望む自然派料理旅館・山里の恵み50種と雪見露天風呂のぬくもり
                   </p>
@@ -482,9 +474,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    湯原温泉　元禄旅籠　油屋
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">湯原温泉　元禄旅籠　油屋</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     元禄元年創業・三百年の歴史紡ぐ老舗宿・地下から湧く薬師湯と山陰美作会席
                   </p>
@@ -549,9 +539,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    湯郷温泉　ポピースプリングス　リゾート＆スパ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">湯郷温泉　ポピースプリングス　リゾート＆スパ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     アロマの香りに包まれるカリフォルニア風リゾート・オーガニック美肌フレンチ
                   </p>
@@ -627,10 +615,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・新幹線：JR山陽新幹線「岡山駅」よりJR津山線（快速ことぶき）で津山駅まで約65分。美作三湯へは津山駅前より路線バスまたは送迎バス運行（湯原温泉へは約60分、奥津温泉へは約50分、湯郷温泉へはJR姫新線林野駅よりタクシー約8分または津山駅よりバス約40分）。</p>
@@ -645,9 +631,7 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の津山・美作・湯原旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の津山・美作・湯原旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <details className="group bg-white rounded-xl border border-stone-200/80 overflow-hidden">
             <summary className="p-4 text-xs sm:text-sm font-bold text-stone-900 cursor-pointer flex items-center justify-between list-none">

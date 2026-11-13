@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            大地が数千万年かけて研ぎ澄ました色と艶。名庭園の巨石に心奪われる風雅リトリート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">大地が数千万年かけて研ぎ澄ました色と艶。名庭園の巨石に心奪われる風雅リトリート</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本の伝統的な名庭園において、景色を引き締め神仏の依代（よりしろ）として古くから珍重されてきた「日本三大銘石」――佐渡の清流が磨き上げた鮮烈な朱赤と硬度を誇り「赤石の王」として皇居や名園に配される新潟の「佐渡赤玉石」、母岩の中に天然の花模様が咲き誇る菊花石や複雑な山水景観を宿す水石の最高峰・岐阜の「揖斐川石」、そして鴨川の上流で産出し濡れると漆黒の妖艶な光沢を放つ京都の「鴨川真黒石（まぐろいし）」。名工たちが配置した石庭を眺めながら静かに茶をいただく時間は、心の奥底から雑念を洗い流してくれる特別なひととき。巨石を配した野趣あふれる庭園露天風呂に浸かり、地域の恵みを味わう上質な旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  新潟県佐渡市ふるさと納税：深紅の貴石「佐渡赤玉石」と佐渡金山世界遺産・小木温泉旅館かもめ荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">新潟県佐渡市ふるさと納税：深紅の貴石「佐渡赤玉石」と佐渡金山世界遺産・小木温泉旅館かもめ荘</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   磨くほどに深い朱色を放つ佐渡赤玉石。天然記念物の原産地や佐渡金山を巡った後は、小木港近くの「旅館かもめ荘」で、お肌つるつるの小木温泉と、日本海で水揚げされた活アワビや紅ズワイガニ会席を満喫します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      小木温泉　旅館かもめ荘　＜佐渡島＞
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">小木温泉　旅館かもめ荘　＜佐渡島＞</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>新潟県佐渡市小木町11-7</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岐阜県揖斐川町・養老町ふるさと納税：水石の王「揖斐川石・菊花石」と濃尾平野パノラマ・養老温泉滝元館遊季の里
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岐阜県揖斐川町・養老町ふるさと納税：水石の王「揖斐川石・菊花石」と濃尾平野パノラマ・養老温泉滝元館遊季の里</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   揖斐川の急流が育んだ奇石の数々。谷汲山華厳寺の門前を訪ねた後は、養老の滝の近くに佇む「養老温泉 滝元館 遊季の里」で、濃尾平野の夜景を一望する露天風呂と最高級飛騨牛しゃぶしゃぶに舌鼓を打ちます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      養老温泉　滝元館　遊季の里
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">養老温泉　滝元館　遊季の里</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岐阜県養老郡養老町養老公園1290-167</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府京都市右京区嵐山ふるさと納税：濡れると漆黒の艶を放つ「鴨川真黒石」と嵐山温泉彩四季の宿花筏
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府京都市右京区嵐山ふるさと納税：濡れると漆黒の艶を放つ「鴨川真黒石」と嵐山温泉彩四季の宿花筏</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   枯山水庭園の最高峰に据えられる真黒石。嵐山の竹林の小径や天龍寺の曹源池庭園を散策した後は、渡月橋南詰の「彩四季の宿 花筏」で、展望露天風呂から嵐山を望み、名物の手作り豆腐と京懐石料理を堪能します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      嵐山温泉彩四季の宿　花筏
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">嵐山温泉彩四季の宿　花筏</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府京都市西京区嵐山中尾下町57</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有田焼・美濃焼・瀬戸焼。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   兼六園・後楽園・偕楽園。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名水＆清冽な湧水仕込み宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名水＆清冽な湧水仕込み宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   南阿蘇・八ヶ岳・京都伏見。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】小木温泉 旅館かもめ荘 ＜佐渡島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】小木温泉 旅館かもめ荘 ＜佐渡島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と小木温泉 旅館かもめ荘 ＜佐渡島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と小木温泉 旅館かもめ荘 ＜佐渡島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大銘石＆枯山水庭園・名湯宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

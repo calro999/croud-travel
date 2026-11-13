@@ -108,9 +108,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  地上数百メートルからの圧倒的パノラマ！宝石を散りばめたような夜景を一望
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">地上数百メートルからの圧倒的パノラマ！宝石を散りばめたような夜景を一望</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 視界を遮るもののない大パノラマウィンドウ越しに広がる大都市や港町の夜景。夕暮れのマジックアワーから漆黒の夜へと移り変わるドラマチックな光景は、時間を忘れて見惚れる美しさです。
@@ -123,9 +121,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  クラブラウンジで楽しむ無料のシャンパン＆オードブル！至福のイブニングカクテル
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">クラブラウンジで楽しむ無料のシャンパン＆オードブル！至福のイブニングカクテル</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 専用クラブラウンジでは、アフタヌーンティーから夕方のカクテルタイムまで上質なドリンクや一口オードブルが無料で楽しめる特典も。プライベート感あふれる空間でゆったりと大人の時間を過ごせます。
@@ -138,9 +134,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  トップバーテンダーが創るオリジナルカクテルと、贅を尽くしたディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">トップバーテンダーが創るオリジナルカクテルと、贅を尽くしたディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 土地の銘酒や旬のフルーツを使ったオリジナルカクテル、ウイスキーの希少ボトル。美しい夜景を眺めながらいただく本格フレンチや鉄板焼きディナーが、特別な夜を生涯の思い出へと昇華させます。
@@ -183,9 +177,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県横浜市・大観覧車コスモクロックが目の前！バルコニー付き客室と歴史あるメインバー
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    横浜ベイホテル東急
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">横浜ベイホテル東急</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     横浜みなとみらいの中心「クイーンズスクエア横浜」内に位置し、横浜港と大観覧車「コスモクロック21」を目前に望む名門ホテル。みなとみらい地区で唯一バルコニーを擁する客室からは、潮風を感じながら輝く夜景を間近に独占できます。館内には横浜の社交場として歴史を刻むシックなメインバー「ジャックス」や、フレンチの名店「クイーン・アリス」を完備。きらびやかな夜景を眺めながらトップバーテンダーが創るカクテルを味わう、ロマンチックな大人の横浜ステイが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長崎県長崎市・世界新三大夜景を望む稲佐山中腹！全室クラブフロア仕様のラグジュアリーリゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ガーデンテラス長崎ホテル＆リゾート
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ガーデンテラス長崎ホテル＆リゾート</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     世界新三大夜景に選ばれた長崎港のすり鉢状の夜景を一望する稲佐山の中腹に佇む、建築家・隈研吾氏設計によるスタイリッシュなデザイナーズリゾート。全客室が広々としたオーシャン＆夜景ビューのテラス付きで、宿泊者は専用クラブラウンジでシャンパンや長崎銘菓を自由に楽しめます。最上階の天空バーや創作鉄板焼きレストランからは、宝石箱をひっくり返したかのような長崎1000万ドルの夜景が広がり、日常のすべてを忘れさせる非日常の贅沢に包まれます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大阪府大阪市・地上200mから大阪の摩天楼を一望！現代アートと天空ラウンジが織りなす最高峰ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    コンラッド大阪
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">コンラッド大阪</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     大阪・中之島フェスティバルタワー・ウエストの最高層階（33〜40階）に位置する、ヒルトングループ最高峰のラグジュアリーホテル。地上200mに位置する40階ロビーに降り立つと、空に浮かんでいるかのような圧倒的なパノラマビューが広がります。人気バーラウンジ「40スカイバー＆ラウンジ」では、美しい夜景とともに生演奏やシグネチャーカクテルを堪能。全客室が50平米以上の贅沢な空間で、スタイリッシュなインテリアと最新設備に囲まれた極上の都会派バカンスを満喫できます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】横浜ベイホテル東急を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】横浜ベイホテル東急を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoNightSkyBarLoungeStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と横浜ベイホテル東急の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と横浜ベイホテル東急の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

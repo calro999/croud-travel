@@ -301,9 +301,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬風が運ぶ水仙の甘い薫りと、相模湾を染める黄金の富士山夕景
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬風が運ぶ水仙の甘い薫りと、相模湾を染める黄金の富士山夕景</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の三浦半島・城ヶ島で心震える3つの絶景と美食
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の三浦半島・城ヶ島で心震える3つの絶景と美食</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月のベストシーズンだからこそ出逢える、息をのむ瞬間。
             </p>
@@ -339,9 +335,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 城ヶ島30万株の水仙まつりと相模湾富士山
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 城ヶ島30万株の水仙まつりと相模湾富士山</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬の青空と青い海に映える白と黄色の八重咲水仙。城ヶ島公園の展望デッキからは、雪化粧の富士山と水仙の香りが織りなす冬の絶景パノラマを堪能できます。
               </p>
@@ -351,9 +345,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 本場三崎港の天然まぐろ尽くしと希少部位
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 本場三崎港の天然まぐろ尽くしと希少部位</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬に脂が乗る天然まぐろのトロや赤身の刺身、香ばしい藁焼き、兜焼きやカマの煮付け。専門店や宿の割烹で味わう本場ならではのまぐろフルコースは至福の体験です。
               </p>
@@ -363,9 +355,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Sunset className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 馬の背洞門の自然造形美と感動の夕景
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 馬の背洞門の自然造形美と感動の夕景</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 波の浸食が生んだ海蝕洞「馬の背洞門」の雄大な岩肌。夕刻には空と海が茜色に染まり、富士山のシルエットが幻想的に浮かび上がる感動のひとときを演出します。
               </p>
@@ -375,9 +365,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-sky-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】水仙まつりと三崎まぐろ・富士山夕景を巡る冬の三浦ドライブコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】水仙まつりと三崎まぐろ・富士山夕景を巡る冬の三浦ドライブコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               絶景スポットと港町のレトロ散策、天然温泉を効率よく巡る冬の王道ドライブルート。
             </p>
@@ -388,9 +376,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-sky-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-sky-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 三崎港に到着 ➔ 「うらりマルシェ」散策＆名物まぐろ丼ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 三崎港に到着  「うらりマルシェ」散策＆名物まぐろ丼ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   品川から快特で三崎口へ、または三浦縦貫道路経由で三崎港へ。まずは産直センター「うらりマルシェ」で朝獲れ地魚やまぐろ加工品を見学。港町の人気店で、溢れんばかりに盛られた本場天然まぐろ丼や、熱々の「三崎まぐろメンチカツ」を頬張ります。
                 </p>
@@ -399,9 +385,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-sky-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-sky-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:00 城ヶ島大橋を渡り城ヶ島へ ➔ 「城ヶ島公園水仙まつり」と「馬の背洞門」散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:00 城ヶ島大橋を渡り城ヶ島へ  「城ヶ島公園水仙まつり」と「馬の背洞門」散策</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   城ヶ島公園へ移動し、甘い香りが漂う30万株の水仙の花畑を散策。安房崎灯台の白亜の塔を見上げ、海岸沿いのハイキングコースを進んで巨大な海蝕洞「馬の背洞門」へ。大自然が刻んだダイナミックな岩の造形美に圧倒されます。
                 </p>
@@ -410,9 +394,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-sky-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-sky-400 tracking-wider uppercase">DAY 1 夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 西山展望台から相模湾越しの「夕日富士」を拝観 ➔ 宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 西山展望台から相模湾越しの「夕日富士」を拝観  宿へチェックイン</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   日が傾き始める頃、城ヶ島西側の展望台へ。沈みゆく太陽が空と海を黄金色に染め、相模湾の向こうに真っ白な富士山がシルエットとなって美しく浮かび上がります。感動的な夕景を目に焼き付けた後、三浦・城ヶ島の名宿へチェックイン。
                 </p>
@@ -421,9 +403,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-sky-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-sky-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:00 温泉で体を温めた後、至高の「三崎まぐろ会席」に酔いしれる
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:00 温泉で体を温めた後、至高の「三崎まぐろ会席」に酔いしれる</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   地下から湧く天然温泉や展望風呂で潮風に冷えた体を温めた後、待望の夕食。天然まぐろの大トロ・中トロ・赤身の食べ比べ、香ばしい藁焼きタタキ、三浦大根とまぐろの煮付けなど、地元の冬の恵みを地酒とともに心ゆくまで味わいます。
                 </p>
@@ -432,9 +412,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-sky-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-sky-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 三浦海岸の砂浜散歩 ➔ 三浦大根の直売所巡りをして帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 三浦海岸の砂浜散歩  三浦大根の直売所巡りをして帰路へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   翌朝は穏やかな波が打ち寄せる三浦海岸を散策。海沿いの畑に広がる三浦大根の収穫風景を眺めながら、農家の直売所でずっしりと重い冬採り三浦大根や旬のキャベツを購入。海の幸と大地の恵みを両手に抱えて大満足の帰路へ。
                 </p>
@@ -447,9 +425,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の三浦半島・城ヶ島を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の三浦半島・城ヶ島を満喫する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               天然温泉とまぐろバイキングのリゾートから、富士山夕景を望む最高峰温泉宿、古民家分散ホテルまで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Produce</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の三浦半島が誇る至高の海の恵みと大地の実り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の三浦半島が誇る至高の海の恵みと大地の実り</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-sky-700" />
-                三崎まぐろの奥深い部位と伝統の食べ方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-sky-700" />
+                三崎まぐろの奥深い部位と伝統の食べ方</h3>
               <p>
                 三崎で食べられる天然まぐろは、一般的な赤身やトロに留まりません。1匹のマグロからわずかしか取れない「ハチの身（頭肉）」は牛刺しのような濃厚なコクがあり、「ホホ肉」は火を通すとジューシーなステーキのよう。「カマ」はオーブンでじっくり塩焼きにすることで香ばしい脂が溢れ出します。また、骨の間の身をスプーンで掻き取った「中落ち」は旨味成分の宝庫で、熱々のご飯と合わせると格別の美味しさです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-sky-700" />
-                三浦大根の甘みとおすすめの港町みやげ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-sky-700" />
+                三浦大根の甘みとおすすめの港町みやげ</h3>
               <p>
                 三浦半島の肥沃な火山灰土壌と温暖な潮風が育む「三浦大根」は、繊維が細かく肉質が緻密で、煮込むほどに出汁を吸ってとろけるような柔らかさになります。お土産には、丸ごとの新鮮な三浦大根はもちろん、三崎港名物の「まぐろ角煮」、天然まぐろの中落ちを贅沢に包んだ中華まん「とろまん」、三浦産の早春キャベツを使った加工品など、冬の食卓を豊かに彩る逸品が目白押しです。
               </p>
@@ -577,9 +545,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="bg-sky-50/60 rounded-3xl p-6 sm:p-10 border border-sky-200/60 space-y-6">
           <div className="border-b border-sky-200/80 pb-4">
             <span className="text-sky-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-sky-950">
-              冬の三浦・城ヶ島散策を快適に満喫するためのポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-sky-950">冬の三浦・城ヶ島散策を快適に満喫するためのポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-sky-950">
@@ -619,20 +585,16 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の三浦半島・城ヶ島旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の三浦半島・城ヶ島旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-sky-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-sky-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-sky-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function KanagawaMiuraMisakiWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Coastal Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい海辺の冬景色・海鮮グルメ名宿特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい海辺の冬景色・海鮮グルメ名宿特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

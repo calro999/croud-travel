@@ -259,10 +259,8 @@ export default function AkiuWinterPage() {
             <Eye className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本三御湯の奥座敷＆A5仙台牛・名物仙台せり鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月秋保温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
-            伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月秋保温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
+            伊達政宗公ゆかりの奥座敷・最高峰A5仙台牛＆名物せり鍋の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             皇室に愛された「日本三御湯」にして仙台藩祖・伊達政宗公の湯守の歴史を今に伝える秋保温泉。名取川渓谷「磊々峡」を望む名湯露天風呂。宮城の初冬の味覚の頂点「仙台せり鍋」と霜降り極上のA5仙台牛に酔いしれる贅沢な冬旅。
           </p>
@@ -288,9 +286,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Nihon San-Onyu Miyagi Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                欽明天皇を癒やし伊達政宗公が愛した「名取の御湯」。初冬の静寂と美食
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">欽明天皇を癒やし伊達政宗公が愛した「名取の御湯」。初冬の静寂と美食</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -305,10 +301,8 @@ export default function AkiuWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-700" />
-                11月・12月秋保温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-700" />
+                11月・12月秋保温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 磊々峡の奇岩初冬美・雪見露天風呂・旬の根付き仙台せり鍋・極上A5仙台牛ステーキ・日本三御湯の歴史湯浴み
               </p>
@@ -359,9 +353,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Gorge of Bizarre Rocks</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                磊々峡の初冬景観：名取川の浸食が生んだ奇岩とハートの岩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">磊々峡の初冬景観：名取川の浸食が生んだ奇岩とハートの岩</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -380,9 +372,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Warm Chloride Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                塩化物泉のぬくもり：湯冷めしにくい「温まりの湯」と美肌効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">塩化物泉のぬくもり：湯冷めしにくい「温まりの湯」と美肌効果</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -402,9 +392,7 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Great Waterfall of Japan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                国の名勝・日本三大名瀑「秋保大滝」の初冬瀑布美と秋保工芸の里
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">国の名勝・日本三大名瀑「秋保大滝」の初冬瀑布美と秋保工芸の里</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -422,9 +410,7 @@ export default function AkiuWinterPage() {
               <Flame className="w-3.5 h-3.5" />
               <span>Rakuten Travel Official API Verified Selection</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11・12月に泊まりたい秋保温泉の名宿厳選5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい秋保温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
               楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。初冬の名取川渓谷美と名湯、最高峰A5仙台牛＆名物せり鍋を心ゆくまで堪能できる名宿5軒をご紹介します。
             </p>
@@ -464,9 +450,7 @@ export default function AkiuWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
                         「{hotel.special}」
@@ -478,10 +462,8 @@ export default function AkiuWinterPage() {
 
                       {/* Highlights */}
                       <div className="space-y-2 bg-stone-50 p-4 rounded-2xl border border-stone-200/70 mb-5">
-                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide">
-                          <CheckCircle2 className="w-4 h-4 text-emerald-700" />
-                          冬の滞在おすすめポイント
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide"><CheckCircle2 className="w-4 h-4 text-emerald-700" />
+                          冬の滞在おすすめポイント</h4>
                         <ul className="text-xs text-stone-600 space-y-1.5 pl-1">
                           {hotel.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-1.5">
@@ -542,26 +524,20 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                宮城冬の味覚の頂点：根っこまで旨い「仙台せり鍋」と最高峰A5仙台牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">宮城冬の味覚の頂点：根っこまで旨い「仙台せり鍋」と最高峰A5仙台牛</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-700" />
-                冬の宮城名物「仙台せり鍋」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-700" />
+                冬の宮城名物「仙台せり鍋」</h3>
               <p className="leading-relaxed text-sm">
                 宮城県名取市などで古くから栽培されてきた伝統野菜「仙台セリ」。春の七草のイメージとは異なり、冬の仙台セリは根っこが白く太く成長し、野趣あふれる香りと甘みが凝縮されています。鴨肉や地鶏ガラで取った醤油ベースの温かい出汁に、根を洗ったセリを数秒くぐらせるだけでいただく「仙台せり鍋」。シャキシャキとした根の歯ごたえと爽やかな芳香が口いっぱいに広がり、一度味わうと冬毎にリピートしたくなる宮城屈指の郷土鍋です。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-emerald-700" />
-                日本一厳しい基準をクリアした「A5仙台牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-700" />
+                日本一厳しい基準をクリアした「A5仙台牛」</h3>
               <p className="leading-relaxed text-sm">
                 全国数あるブランド牛の中でも、肉質等級が最高ランク「5」のみしか名乗ることが許されない唯一の超高級黒毛和牛「仙台牛」。宮城の清らかな清流と良質なササニシキ・ひとめぼれの稲わらを食べて育った肉質は、息をのむほど美しい霜降りと、驚くほどまろやかで上品な脂の甘みが特徴です。炭火ステーキやしゃぶしゃぶ、陶板焼きでその極上の柔らかさを堪能できます。
               </p>
@@ -577,35 +553,25 @@ export default function AkiuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：仙台駅から30分！磊々峡散策と美酒・名湯満喫の旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：仙台駅から30分！磊々峡散策と美酒・名湯満喫の旅</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-emerald-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-wider">【1日目】杜の都から名湯へ〜磊々峡奇岩散策と名宿ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:30 東北新幹線で仙台駅到着 → 駅構内で牛たんランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:30 東北新幹線で仙台駅到着 → 駅構内で牛たんランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 仙台駅の「牛たん通り」で厚切り牛たん定食を堪能。お土産処でお菓子や地酒をチェック。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 仙台駅西口より宿の無料送迎バスに乗車 → 14:15 秋保温泉到着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 仙台駅西口より宿の無料送迎バスに乗車 → 14:15 秋保温泉到着</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 車窓から山並みの移ろいを眺めながらスムーズに到着。旅館に荷物を預けます。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                14:45 磊々峡の遊歩道を散策＆「覗橋のハート」を見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">14:45 磊々峡の遊歩道を散策＆「覗橋のハート」を見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 奇岩怪石が連なる渓谷沿いの道をのんびり散策。初冬の清流と自然の造形美を満喫します。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                16:00 旅館へチェックイン → 渓流露天風呂で初冬の湯浴み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">16:00 旅館へチェックイン → 渓流露天風呂で初冬の湯浴み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 塩化物泉で身体の芯までぽかぽかに温まる。夕食は旬の仙台せり鍋とA5仙台牛に舌鼓。
               </p>
@@ -613,15 +579,11 @@ export default function AkiuWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】雪見風呂〜秋保ワイナリーとおはぎの名店へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂でリフレッシュ → 地産地消の和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂でリフレッシュ → 地産地消の和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冷涼な朝の空気が心地よい庭園露天風呂。宮城産米ひとめぼれと新鮮な海山の幸の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 「秋保ワイナリー」でテイスティング＆「主婦の店 さいち」でおはぎ購入
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 「秋保ワイナリー」でテイスティング＆「主婦の店 さいち」でおはぎ購入</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 地元ブドウで醸造されるワインを試飲。全国的に有名なおはぎの名店「さいち」で出来立てのあんこおはぎを購入し、送迎バスで仙台駅へ。
               </p>
@@ -644,10 +606,8 @@ export default function AkiuWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -662,9 +622,7 @@ export default function AkiuWinterPage() {
         <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・東日本の冬・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・東日本の冬・温泉特集</h2>
             <p className="text-xs sm:text-sm text-emerald-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

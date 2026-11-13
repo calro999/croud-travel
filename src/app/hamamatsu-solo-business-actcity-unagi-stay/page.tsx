@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            ハーモニカを模した摩天楼タワーと、芳ばしいうなぎの蒲焼きの香り——ものづくりの街で効率と安らぎを手に入れる「浜松スマート出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">ハーモニカを模した摩天楼タワーと、芳ばしいうなぎの蒲焼きの香り——ものづくりの街で効率と安らぎを手に入れる「浜松スマート出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東京と大阪のほぼ中間に位置し、ヤマハ・カワイ・スズキ・ホンダ発祥の地として世界的な産業が集結する静岡県浜松市。東海道新幹線の要所であり、日夜多くのエンジニアやビジネスパーソンが行き交います。日中の商談や工場視察を終えた後の楽しみは、何と言っても浜名湖産の肉厚な「うなぎ重」や、パリッと焼き上げられた「浜松餃子」、そして遠州灘の新鮮な海の幸です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR浜松駅東口から動く歩道で直結！音楽の街を象徴する超高層45階タワーとオークラ伝統の格式美
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  オークラアクトシティホテル浜松 —— 東海道随一のスカイビュー。地上数十階から見下ろす遠州灘と富士山パノラマ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">オークラアクトシティホテル浜松 —— 東海道随一のスカイビュー。地上数十階から見下ろす遠州灘と富士山パノラマ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR浜松駅北口徒歩5分！IHGブランドの信頼と快適なワークスペース・睡眠プログラム
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス浜松） —— ビジネスとリラックスの融合。独自の快眠プログラム「スリープ・アドバンテージ」
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ANAクラウンプラザホテル浜松（旧ホテルクラウンパレス浜松） —— ビジネスとリラックスの融合。独自の快眠プログラム「スリープ・アドバンテージ」</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   徳川家康ゆかりの出世城「浜松城公園」目の前！緑豊かな景色を望むシティリゾートホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルコンコルド浜松 —— 都心のオアシス。浜松城天守閣と豊かな自然を眼下に眺める静寂ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルコンコルド浜松 —— 都心のオアシス。浜松城天守閣と豊かな自然を眼下に眺める静寂ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              浜松の二大ご当地グルメ「うなぎ＆餃子」を一人で味わう攻略法
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">浜松の二大ご当地グルメ「うなぎ＆餃子」を一人で味わう攻略法</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. うなぎは「関東風（蒸し焼き）」と「関西風（地焼き）」の好みを把握
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. うなぎは「関東風（蒸し焼き）」と「関西風（地焼き）」の好みを把握</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 浜名湖周辺は東西の食文化が交差する地。ふっくら柔らかな関東風か、皮がパリッと香ばしい関西風か、名店ごとに異なる焼き方を食べ比べるのが通です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 浜松餃子は駅構内や周辺の有名店（むつぎく、石松など）で円盤焼き
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 浜松餃子は駅構内や周辺の有名店（むつぎく、石松など）で円盤焼き</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 キャベツたっぷりのあっさり餡と、中央に添えられた茹でもやしが特徴。一人前（8〜10個）でもペロリと完食できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 浜松駅北口の「有楽街」で地酒「花の舞」と遠州灘の刺身
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 浜松駅北口の「有楽街」で地酒「花の舞」と遠州灘の刺身</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 地元・浜松の酒蔵「花の舞酒造」の純米吟醸。すっきり辛口の酒質が、脂の乗ったうなぎや餃子の旨味をキレよく引き立てます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>浜松駅周辺で一人で入りやすいうなぎ屋さんはありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>浜松駅周辺で一人で入りやすいうなぎ屋さんはありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 駅ビル「メイワン」やアクトシティ内、駅南口・北口の老舗（うな炭亭、八百徳など）はすべてカウンター席や一人用テーブルを備えており、出張客が気兼ねなく利用しています。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>新幹線「ひかり」と「こだま」の所要時間はどれくらいですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>新幹線「ひかり」と「こだま」の所要時間はどれくらいですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 東京駅から「ひかり」で約1時間25分、新大阪駅から「ひかり」で約1時間20分と、どちらのメガ都市からも乗り換えなしでアクセスできます。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「浜松出張＆ソログルメ泊：新幹線直結アクトシティ・地上45階スカイビュー・絶品うなぎ！ものづくりの街の快適拠点 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -503,9 +473,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「浜松出張＆ソログルメ泊」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「浜松出張＆ソログルメ泊」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

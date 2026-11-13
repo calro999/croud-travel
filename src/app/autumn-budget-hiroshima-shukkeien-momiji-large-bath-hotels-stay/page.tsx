@@ -55,9 +55,7 @@ export default function HiroshimaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            歴史庭園「縮景園」の紅葉絵巻と広島秋の美食トリップ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">歴史庭園「縮景園」の紅葉絵巻と広島秋の美食トリップ</h2>
           <p className="mb-4 text-stone-700">
             浅野藩主の別邸として築造された名勝「縮景園」。秋を迎えると濯纓池（たくえいち）の周りを囲むモミジやハゼの木が一斉に深紅に染まり、「もみじまつり」期間中の夜間ライトアップでは幽玄な別世界が広がります。
           </p>
@@ -69,10 +67,8 @@ export default function HiroshimaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！広島の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！広島の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function HiroshimaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.21</span>
                     <span className="text-stone-400 text-xs">(743件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    トラストホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">トラストホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / 広島駅より徒歩6分
                   </p>
@@ -142,9 +136,7 @@ export default function HiroshimaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.13</span>
                     <span className="text-stone-400 text-xs">(2844件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    広島パシフィックホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">広島パシフィックホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / JR広島駅からタクシー約5分。路面電車なら「女学院前」徒歩1分。迷わず着ける好立地。
                   </p>
@@ -189,9 +181,7 @@ export default function HiroshimaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.25</span>
                     <span className="text-stone-400 text-xs">(5230件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    アパホテル〈広島駅前大橋〉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">アパホテル〈広島駅前大橋〉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / ［山陽新幹線＋JR各線］広島駅南口8番出口から徒歩4分［市内電車］広島電停から徒歩6分　［空港］広島駅から直通バス50分
                   </p>
@@ -236,9 +226,7 @@ export default function HiroshimaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.16</span>
                     <span className="text-stone-400 text-xs">(705件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    アパホテル〈広島駅前新幹線口〉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">アパホテル〈広島駅前新幹線口〉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / 山陽新幹線・JR各線「広島駅」新幹線口（北口）徒歩4分
                   </p>
@@ -283,9 +271,7 @@ export default function HiroshimaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.41</span>
                     <span className="text-stone-400 text-xs">(956件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　芸州の湯　ドーミーイン広島ＡＮＮＥＸ（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 広島駅 / バス：広島電鉄　エキまちループ線「田中町」下車1分、路面電車：広島電鉄「銀山町(かなやまちょう）」電停より徒歩約10分。
                   </p>
@@ -330,9 +316,7 @@ export default function HiroshimaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の広島×格安：縮景園の紅葉ライトアップと旬の牡蠣・お好み焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function HiroshimaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の広島×格安」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の広島×格安」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -301,9 +301,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              荒波の岩礁に立つ神の鳥居と、冬の寒風が育む濃厚なる海のフォアグラ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">荒波の岩礁に立つ神の鳥居と、冬の寒風が育む濃厚なる海のフォアグラ</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -350,17 +348,13 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              「吊るし切り」の妙技と漁師の魂が生んだ幻の「どぶ汁」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">「吊るし切り」の妙技と漁師の魂が生んだ幻の「どぶ汁」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 leading-relaxed text-sm sm:text-base">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-orange-600" />
-                骨以外捨てるところがない「七つ道具」の神秘
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+                骨以外捨てるところがない「七つ道具」の神秘</h3>
               <p>
                 アンコウは体がぬめりで覆われ、まな板の上では滑って包丁が入らないため、下あごを鉤（かぎ）に引っ掛けて吊るし、水を入れて胃を膨らませて皮を剥ぐ「吊るし切り（つるしぎり）」という伝統の解体技法で捌かれます。
               </p>
@@ -372,10 +366,8 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-600" />
-                水を一滴も使わない！漁師秘伝の「どぶ汁」とは
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Flame className="w-5 h-5 text-orange-600" />
+                水を一滴も使わない！漁師秘伝の「どぶ汁」とは</h3>
               <p>
                 一般的なあんこう鍋が醤油や味噌の出汁で煮込むのに対し、本場大洗の郷土料理の真髄とされるのが「どぶ汁（どぶじる）」です。その起源は、冬の荒海に出る漁師たちが船上で貴重な真水を使わずに暖を取るために考案した料理でした。
               </p>
@@ -389,10 +381,8 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
           </div>
 
           <div className="bg-amber-50/70 p-5 sm:p-6 rounded-2xl border border-amber-200/60">
-            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-600" />
-              最後の「あんこう雑炊」こそが真のクライマックス
-            </h4>
+            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+              最後の「あんこう雑炊」こそが真のクライマックス</h4>
             <p className="text-amber-900 text-xs sm:text-sm leading-relaxed">
               具材を食べ終えた後の残ったスープには、アンコウのゼラチン質とあん肝の脂、冬野菜の甘みが極限まで溶け出しています。ここに炊きたてのご飯を入れ、溶き卵をふんわりと回し入れ、刻みネギを散らして作る「あんこう雑炊」は、鍋料理の域を超えた究極の逸品。ご飯の一粒一粒が黄金色の出汁を吸い込み、口いっぱいに広がる濃厚な旨味は冬旅の最高の思い出になります。
             </p>
@@ -403,9 +393,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              【茨城・大洗】冬の初日の出と極上あんこう鍋を堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">【茨城・大洗】冬の初日の出と極上あんこう鍋を堪能する名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               大洗磯前神社や那珂湊おさかな市場に近く、太平洋一望の絶景と本場のあんこう料理を誇る厳選旅館＆ホテル
             </p>
@@ -439,9 +427,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>大洗温泉・太平洋沿岸エリア</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">{h.name}</h3>
                       <p className="text-stone-500 text-xs mt-1 flex items-center gap-1">
                         <Compass className="w-3.5 h-3.5" /> {h.access}
                       </p>
@@ -495,9 +481,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の大洗・那珂湊 満喫1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の大洗・那珂湊 満喫1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -563,19 +547,15 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-orange-600" />
-              冬の大洗・那珂湊旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-orange-600" />
+              冬の大洗・那珂湊旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="p-4 sm:p-5 bg-stone-50 rounded-2xl border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
         <section className="bg-gradient-to-br from-slate-900 to-stone-900 rounded-3xl p-6 sm:p-10 text-white space-y-6 shadow-xl">
           <div className="border-b border-slate-700 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               旬の海鮮・初日の出・雪見温泉など、冬の日本を五感で楽しむ厳選旅ガイド
             </p>
@@ -605,9 +583,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   千葉・初日の出＆金目鯛
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -622,9 +598,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福島・いわき湯本温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  常磐ものの冬あんこう鍋と日本三古泉いわき湯本・極上福島牛を味わう名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">常磐ものの冬あんこう鍋と日本三古泉いわき湯本・極上福島牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -639,9 +613,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岡山・日生牡蠣＆牛窓
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -656,9 +628,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   宮城・松島温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  日本三景松島の冬景色と旬の松島焼き牡蠣・とろける仙台牛を味わう名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本三景松島の冬景色と旬の松島焼き牡蠣・とろける仙台牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -673,9 +643,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   静岡・西伊豆土肥温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  駿河湾越しの夕日富士パノラマと寒金目鯛姿煮・早咲き土肥桜露天の名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">駿河湾越しの夕日富士パノラマと寒金目鯛姿煮・早咲き土肥桜露天の名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -690,9 +658,7 @@ export default function IbarakiOaraiNakaminatoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福井・若狭ふぐ＆越前がに
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">日本最北限の若狭ふぐてっさ・てっちりと越前がに極上鍋＆三方五湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

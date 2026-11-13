@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              世界遺産に登録された日本最古の公衆浴場「つぼ湯」と薬湯巡り
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">世界遺産に登録された日本最古の公衆浴場「つぼ湯」と薬湯巡り</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日に七回湯の色が変わると伝わる湯の峰温泉の源泉。古の巡礼者たちが身を清めた神聖な名湯に浸かれます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              太平洋の荒波が眼前に迫る天然大洞窟露天風呂「忘帰洞」の迫力
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">太平洋の荒波が眼前に迫る天然大洞窟露天風呂「忘帰洞」の迫力</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               押し寄せる波の音を聞きながら、自然の洞窟の中に湧き出る硫黄泉に浸かる唯一無二の絶景入浴体験。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              勝浦港水揚げの生マグロ・熊野牛・紀州名産の梅とクエ料理
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">勝浦港水揚げの生マグロ・熊野牛・紀州名産の梅とクエ料理</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日本一の生マグロ水揚げ港から届くモチモチの生本マグロや高級和牛・幻の高級魚クエを心ゆくまで味わえます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -329,7 +319,7 @@ export default function FurusatoUpgradedPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド湯の峰・那智勝浦・白浜：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">世界遺産・熊野古道の祈りの巡礼路と名湯宿×ふるさと納税厳選ガイド湯の峰・那智勝浦・白浜：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -390,55 +380,55 @@ export default function FurusatoUpgradedPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. ホテル日航大阪（大阪府・★4.51）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. ホテル日航大阪（大阪府・4.51）</h4>
               <p><strong>【特徴】</strong>大阪メトロ「心斎橋駅」直結！道頓堀まで徒歩約9分！観光・ビジネスに大変便利な立地です。</p>
               <p><strong>【交通・駐車場】</strong>大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。 ／ 駐車場：有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでした」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府・4.4）</h4>
               <p><strong>【特徴】</strong>【2024年2月14日】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい</p>
               <p><strong>【交通・駐車場】</strong>地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車 ／ 駐車場：近隣の一般コインパーキングのご案内となります。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス（大阪府・★4.46）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス（大阪府・4.46）</h4>
               <p><strong>【特徴】</strong>天然温泉大浴場と旬の食材で季節を彩る食事～あなたの思い出、大切な人、記憶に心の軌跡に</p>
               <p><strong>【交通・駐車場】</strong>関西空港からホテル（運休中）　ホテルから関西空港（無料バスあり）　最寄り駅からホテル間（無料送迎バスあり：～２０時まで） ／ 駐車場：普通車550円／トラック7mまで1100円／中型バス8mまで2200円／中・大型バス9m～3300円</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「ホテルの接客が最高です。早い時間に関西空港まで行かなければならなく、1人でもあたたかいご対応で、関西空港まで送迎していただきました。感謝です。温泉も広く旅の疲れがとれる最高の温泉でした。枕元にコンセン…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. 道後温泉　ホテルパティオ・ドウゴ（愛媛県・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. 道後温泉　ホテルパティオ・ドウゴ（愛媛県・4.4）</h4>
               <p><strong>【特徴】</strong>道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”</p>
               <p><strong>【交通・駐車場】</strong>先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。 ／ 駐車場：■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来た」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. ホテルメトロポリタン（東京都・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. ホテルメトロポリタン（東京都・4.4）</h4>
               <p><strong>【特徴】</strong>～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。</p>
               <p><strong>【交通・駐車場】</strong>池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。 ／ 駐車場：有　1泊につき1台  3,000円</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

@@ -248,12 +248,10 @@ export default function WinterYamagataAtsumiPage() {
             11月・12月 冬の日本海味覚＆開湯1200年名湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・庄内あつみ温泉】開湯1200年名湯と冬の日本海味覚
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山形・庄内あつみ温泉】開湯1200年名湯と冬の日本海味覚
             <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
               名物寒鱈汁＆紅ズワイガニ・極上庄内牛・温海川雪景色を愛でる老舗名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、山形県庄内地方の南端に位置する「あつみ温泉（温海温泉）」は、日本海の潮風と出羽の山並みが交錯する渓谷に位置し、初雪の静寂とともに冬の味覚の真髄が幕を開けます。開湯約1200年の歴史を誇り、温海川の清流沿いに風情ある木造建築や名旅館が立ち並ぶ温泉街。初冬の日本海・庄内浜で水揚げされる脂の乗った「寒鱈（かんだら）」のどんがら汁、甘み濃厚な紅ズワイガニ、きめ細やかな霜降りの「庄内牛」、赤紫色の伝統野菜「温海かぶ」。塩化物・硫酸塩泉のまろやかな湯が芯まで身体を温め、湯冷めを防ぎます。日本庭園や露天風呂に舞い落ちる雪を眺めながら極上の郷土料理に舌鼓を打つ、厳選の名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterYamagataAtsumiPage() {
             <Waves className="w-4 h-4" />
             初冬の庄内あつみ温泉の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-            白銀の温海川渓谷と湯けむり、日本海の荒波がもたらす冬の至高の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">白銀の温海川渓谷と湯けむり、日本海の荒波がもたらす冬の至高の恵み</h2>
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
             <p>
               日本海沿岸の羽越本線に揺られ、あつみ温泉駅に降り立つと、潮の香りと澄んだ山奥の冷気が心地よく頬を撫でます。駅から車で約5分、温海川に沿って開けたあつみ温泉街は、山懐に抱かれた静寂な温泉地。春は川沿いの桜並木、夏は鮎釣り、秋は鮭の遡上で賑わいますが、11月から12月にかけて訪れる「初冬」こそが、温泉好きと美食家を最も虜にする季節です。
@@ -308,9 +304,7 @@ export default function WinterYamagataAtsumiPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月のあつみ温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月のあつみ温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               日本海の寒魚と開湯1200年の名湯、雪景色を五感で楽しむ
             </p>
@@ -321,9 +315,7 @@ export default function WinterYamagataAtsumiPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-700">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                冬の庄内浜味覚「寒鱈汁＆紅ズワイガニ」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">冬の庄内浜味覚「寒鱈汁＆紅ズワイガニ」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 初冬の荒海で獲れた真鱈の身、白子、肝を豪快に煮込む名物どんがら汁。甘み濃厚な紅ズワイガニやきめ細やかな霜降り庄内牛の贅沢会席。
               </p>
@@ -333,9 +325,7 @@ export default function WinterYamagataAtsumiPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                開湯1200年の温まり名湯と雪見露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">開湯1200年の温まり名湯と雪見露天</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 弘法大師が開いたと伝わる良質な塩化物・硫酸塩泉。塩分ヴェールが熱を逃がさず、温海川渓谷に舞う初雪を眺める至福の雪見風呂。
               </p>
@@ -345,9 +335,7 @@ export default function WinterYamagataAtsumiPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Footprints className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                川沿い足湯散策＆あつみ温泉朝市
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">川沿い足湯散策＆あつみ温泉朝市</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 温海川沿いの遊歩道に点在する無料足湯。毎朝開かれる歴史ある朝市で地元のおばあちゃん手作りの温海かぶ甘酢漬けや栃餅との出会い。
               </p>
@@ -358,9 +346,7 @@ export default function WinterYamagataAtsumiPage() {
         {/* Hotel Cards Section */}
         <section className="space-y-10">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              あつみ温泉で11月・12月に泊まりたい名湯宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">あつみ温泉で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
               楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
@@ -404,11 +390,9 @@ export default function WinterYamagataAtsumiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-sky-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-sky-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {h.story}
@@ -470,9 +454,7 @@ export default function WinterYamagataAtsumiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-sky-100">
             <Compass className="w-6 h-6 text-sky-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の庄内あつみ温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の庄内あつみ温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -502,35 +484,27 @@ export default function WinterYamagataAtsumiPage() {
             <Fish className="w-4 h-4" />
             庄内あつみ温泉 冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            日本海の荒波が育む「寒鱈」「紅ズワイガニ」と「庄内牛」の美食世界
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">日本海の荒波が育む「寒鱈」「紅ズワイガニ」と「庄内牛」の美食世界</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-400" />
-                庄内名物「寒鱈どんがら汁」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-sky-400" />
+                庄内名物「寒鱈どんがら汁」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 12月に水揚げの最盛期を迎える日本海の寒鱈（真鱈）。頭から骨、内臓（どんがら）まで豪快に鍋に放り込み、濃厚な白子（タダミ）や肝（アブラ）を溶かした味噌仕立ての汁は、初冬の寒風で冷えた身体を底から温める庄内伝統のソウルフードです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-sky-400" />
-                庄内浜直送「紅ズワイガニ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-sky-400" />
+                庄内浜直送「紅ズワイガニ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 水深数百メートルの深海から水揚げされる庄内浜の紅ズワイガニ。みずみずしく繊細な身肉には上品な甘みが凝縮されており、甲羅に詰まった濃厚な蟹味噌とともに地元の旅館で茹でたて・蒸したてを味わうのは冬ならではの至福です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-sky-400" />
-                出羽三山の名水が育む「庄内牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-sky-400" />
+                出羽三山の名水が育む「庄内牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 鳥海山や月山など出羽連峰の清らかな伏流水と良質な牧草で手塩にかけて肥育されるブランド黒毛和牛「庄内牛」。融点の低い上質なサシと赤身の深いコクが調和し、ステーキや陶板焼き、出汁しゃぶしゃぶで口に運ぶと上品にとろけます。
               </p>
@@ -544,15 +518,11 @@ export default function WinterYamagataAtsumiPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月のあつみ温泉 交通アクセス＆冬道運転のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月のあつみ温泉 交通アクセス＆冬道運転のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-sky-700" />
-                車・電車でのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-sky-700" />
+                車・電車でのアクセス方法</h3>
               <p>
                 車の場合は、日本海東北自動車道あつみ温泉ICより県道経由で約5分です。11月下旬以降は朝晩の路面凍結や積雪が発生するため、スタッドレスタイヤの装着が必須となります。
               </p>
@@ -562,10 +532,8 @@ export default function WinterYamagataAtsumiPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-sky-700" />
-                気候と防寒・散策時の注意事項
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-sky-700" />
+                気候と防寒・散策時の注意事項</h3>
               <p>
                 12月のあつみ温泉は日本海からの強い季節風が吹き、体感温度は氷点下近くまで下がります。防風・防水性のあるダウンジャケット、マフラー、手袋をご用意ください。
               </p>
@@ -582,16 +550,12 @@ export default function WinterYamagataAtsumiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の山形庄内あつみ温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の山形庄内あつみ温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-sky-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-sky-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -603,10 +567,8 @@ export default function WinterYamagataAtsumiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-sky-300" />
-              あわせて読みたい東北・山形の雪見温泉・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-sky-300" />
+              あわせて読みたい東北・山形の雪見温泉・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-sky-200">
               冬の雪景色や名湯、極上和牛を堪能する山形・東北各地の厳選旅ガイド
             </p>
@@ -618,9 +580,7 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                銀山温泉の大正ロマン雪景色とガス灯の情景
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の情景</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 銀世界に包まれる木造多層建築と名湯、尾花沢牛を味わう冬の憧れ滞在。
               </p>
@@ -631,9 +591,7 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・天童温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                天童温泉の初冬ラ・フランス会席と山形牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">天童温泉の初冬ラ・フランス会席と山形牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 将棋の街の風情と果樹王国の冬の味覚、広々とした美肌温泉を満喫。
               </p>
@@ -644,9 +602,7 @@ export default function WinterYamagataAtsumiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                蔵王温泉の強酸性白濁硫黄泉と樹氷ライトアップ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">蔵王温泉の強酸性白濁硫黄泉と樹氷ライトアップ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白銀のスノーモンスターと日本屈指の強酸性泉、山形牛すき焼きの極楽旅。
               </p>

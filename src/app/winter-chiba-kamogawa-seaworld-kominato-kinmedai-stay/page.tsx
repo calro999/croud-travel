@@ -301,9 +301,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Highlights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              黒潮の恩恵が生む温暖な陽光と、冬の外房が誇る至高の海の恵み
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">黒潮の恩恵が生む温暖な陽光と、冬の外房が誇る至高の海の恵み</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の外房鴨川・小湊で体験すべき3つの感動
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の外房鴨川・小湊で体験すべき3つの感動</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月のベストシーズンだからこそ出逢える、笑顔と美食の絶景旅。
             </p>
@@ -339,9 +335,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-blue-100 flex items-center justify-center text-blue-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 鴨川シーワールドのダイナミックなシャチ
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 鴨川シーワールドのダイナミックなシャチ</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 澄み渡る冬の太平洋を背景に、海の王者シャチが繰り広げる圧巻のジャンプ。トレーナーとの息の合ったコンビネーションが冬の青空の下で感動を呼び起こします。
               </p>
@@ -351,9 +345,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 脂が乗り切る「外房寒金目鯛」姿煮と伊勢海老
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 脂が乗り切る「外房寒金目鯛」姿煮と伊勢海老</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 一本釣りで水揚げされる極上の寒金目鯛を丸ごと濃厚に炊き上げた姿煮。甘辛いタレと脂の乗った身のハーモニー、ぷりぷりの伊勢海老の刺身は冬のご馳走の極みです。
               </p>
@@ -363,9 +355,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Sunrise className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 太平洋水平線から昇る感動の日の出温泉
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 太平洋水平線から昇る感動の日の出温泉</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 東向きに開けた鴨川の海岸線。早朝、海から顔を出す真っ赤な太陽が海面を黄金の道に変える劇的な日の出を、展望露天風呂に浸かりながら拝む至福の朝を体験できます。
               </p>
@@ -375,9 +365,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】鴨川シーワールドと小湊鯛の浦・絶品寒金目鯛を満喫する冬の南房総旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】鴨川シーワールドと小湊鯛の浦・絶品寒金目鯛を満喫する冬の南房総旅</h2>
             <p className="text-slate-400 text-sm mt-1">
               シャチパフォーマンスと神秘の鯛の浦、オーシャンビュー温泉宿をゆったり巡る充実のドライブプラン。
             </p>
@@ -388,9 +376,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 「鴨川シーワールド」に到着 ➔ 大迫力のシャチ＆イルカパフォーマンス鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 「鴨川シーワールド」に到着  大迫力のシャチ＆イルカパフォーマンス鑑賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   アクアライン経由で鴨川へ。まずは鴨川シーワールドに入館。太平洋を一望するスタジアムで海の王者シャチのダイナミックなジャンプに大歓声。愛らしいベルーガ（白イルカ）の超音波実験やアシカファミリーのコミカルなショーを鑑賞し、園内レストランで海を眺めながらランチ。
                 </p>
@@ -399,9 +385,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:30 小湊へ移動 ➔ 特別天然記念物「鯛の浦遊覧船」と古刹「誕生寺」参拝
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:30 小湊へ移動  特別天然記念物「鯛の浦遊覧船」と古刹「誕生寺」参拝</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   鴨川から北へ車で約15分、小湊へ。鯛の浦遊覧船に乗船し、澄んだ冬の海面に群がる大きなマダイの群れを鑑賞。下船後は、荘厳な大鐘楼と祖師堂が立ち並ぶ大本山誕生寺を参拝し、新年の厄除けと家内安全を祈願します。
                 </p>
@@ -410,9 +394,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 鴨川・小湊の名湯宿へチェックイン ➔ 天空露天風呂で夕景の湯浴み
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 鴨川・小湊の名湯宿へチェックイン  天空露天風呂で夕景の湯浴み</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   海を望む名旅館へチェックイン。客室露天風呂や最上階の天空大浴場へ向かい、波の音を聴きながら天然温泉に浸かります。夕暮れ時、水平線の向こうに広がるグラデーションの夕空を眺め、旅の疲れを心地よく癒やします。
                 </p>
@@ -421,9 +403,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:00 外房の極上味覚「寒金目鯛姿煮」と「房総伊勢海老」の贅沢会席
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:00 外房の極上味覚「寒金目鯛姿煮」と「房総伊勢海老」の贅沢会席</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   お待ちかねの夕食タイム。丸ごと大皿に盛られた外房寒金目鯛の姿煮は、照り輝く甘辛ダレがふっくらとした身に絡み合い絶品。ぷりぷりの伊勢海老のお造り、鮑の踊り焼きとともに、千葉の地酒「腰古井」や「寿万亀」を傾け、豊かな海の幸に舌鼓を打ちます。
                 </p>
@@ -432,9 +412,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-blue-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-blue-400 tracking-wider uppercase">DAY 2 早朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  06:45 太平洋の水平線から昇る冬の日の出拝観 ➔ 「道の駅 鴨川オーシャンパーク」へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">06:45 太平洋の水平線から昇る冬の日の出拝観  「道の駅 鴨川オーシャンパーク」へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   早朝、部屋のテラスや露天風呂から太平洋の海原を黄金色に染め上げる日の出を拝観。朝食後、宿を出発して海沿いの「道の駅 鴨川オーシャンパーク」へ。朝獲れの地魚干物や名産「長狭米」、びわゼリーなどのお土産を買い揃え、快適なドライブで帰路へ就きます。
                 </p>
@@ -447,9 +425,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の鴨川・小湊を満喫するオーシャンビュー厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の鴨川・小湊を満喫するオーシャンビュー厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               海と一体になる天空露天風呂の宿から、シーワールド直結ホテル、寒金目鯛が自慢の料理旅館まで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の外房を彩る黒潮の恵みと伝統の漁師飯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の外房を彩る黒潮の恵みと伝統の漁師飯</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-blue-700" />
-                外房寒金目鯛の「姿煮」と「なめろう」の知恵
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-blue-700" />
+                外房寒金目鯛の「姿煮」と「なめろう」の知恵</h3>
               <p>
                 外房の漁師町で古くから愛されてきた金目鯛の煮付けは、煮詰めた醤油・みりん・酒・生姜に砂糖をしっかり効かせた濃厚なタレが特徴。脂の強い寒金目鯛の身にタレが照りよく絡み、身を食べ終わった後の煮汁をご飯にかける「煮汁ご飯」は外房ならではの至福の味です。また、アジや地魚を味噌と薬味とともに包丁で叩いた「なめろう」を、アワビの殻に詰めて香ばしく焼いた「さんが焼き」も、体が芯から温まる冬の名物です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-blue-700" />
-                献上米「長狭米」と南房総の早春の便り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-blue-700" />
+                献上米「長狭米」と南房総の早春の便り</h3>
               <p>
                 鴨川の山間部を流れる加茂川流域で収穫される「長狭米（ながさまい）」は、ミネラル豊富な重粘土質の土壌で育ち、明治天皇の大嘗祭にも選ばれた極上ブランド米。冷めても粘りと甘みが強く、金目鯛の煮付けとの相性は抜群です。お土産には、新米の長狭米のほか、鴨川の銘菓「鯛せんべい」、房総びわを使ったジュレやタルト、外房の荒波で採れた天然ひじきなど、南房総の豊かな実りを持ち帰ることができます。
               </p>
@@ -577,9 +545,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="bg-blue-50/60 rounded-3xl p-6 sm:p-10 border border-blue-200/60 space-y-6">
           <div className="border-b border-blue-200/80 pb-4">
             <span className="text-blue-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-blue-950">
-              冬の鴨川・小湊旅行を快適に楽しむためのアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-blue-950">冬の鴨川・小湊旅行を快適に楽しむためのアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-blue-950">
@@ -619,20 +585,16 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の外房鴨川・小湊温泉旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の外房鴨川・小湊温泉旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-blue-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-blue-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-blue-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function ChibaKamogawaKominatoWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-blue-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Coastal Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい海辺の冬景色・絶景温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい海辺の冬景色・絶景温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

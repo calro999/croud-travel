@@ -202,9 +202,7 @@ export default function KyotoEarlyMorningGuidePage() {
             <span className="flex items-center justify-center w-8 h-8 rounded-lg bg-rose-100 text-rose-700 font-bold text-lg">
               01
             </span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-              夜行バス下車直後！京都駅到着直後の3大レスキュー行動
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-800">夜行バス下車直後！京都駅到着直後の3大レスキュー行動</h2>
           </div>
           <p className="text-slate-600 text-sm sm:text-base leading-relaxed mb-6">
             早朝6時台の京都駅は、寺社仏閣の拝観受付や一般カフェがまだ開いておらず、待合室のベンチも埋まりがちです。最初の30分をどう動くかで、その日一日の旅行クオリティが180度変わります。
@@ -245,9 +243,7 @@ export default function KyotoEarlyMorningGuidePage() {
               02
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                朝6:00〜7:00から入れる！京都駅周辺の朝風呂＆天然温泉スポット
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">朝6:00〜7:00から入れる！京都駅周辺の朝風呂＆天然温泉スポット</h2>
               <p className="text-xs text-rose-600 font-medium">身体の強張りをほぐす極楽スポット徹底比較</p>
             </div>
           </div>
@@ -281,9 +277,7 @@ export default function KyotoEarlyMorningGuidePage() {
               03
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                京都の朝は「名物朝粥・湯豆腐・老舗喫茶」で至福の湯浴み体験
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">京都の朝は「名物朝粥・湯豆腐・老舗喫茶」で至福の湯浴み体験</h2>
               <p className="text-xs text-rose-600 font-medium">混雑前に名店の味をいただく賢者のモーニング</p>
             </div>
           </div>
@@ -317,9 +311,7 @@ export default function KyotoEarlyMorningGuidePage() {
               04
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                【早朝6:00着〜10:00】人混みゼロ！早朝京都黄金タイムテーブル
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">【早朝6:00着〜10:00】人混みゼロ！早朝京都黄金タイムテーブル</h2>
               <p className="text-xs text-rose-600 font-medium">昼の喧騒が嘘のような静寂の古都を独り占め</p>
             </div>
           </div>
@@ -350,9 +342,7 @@ export default function KyotoEarlyMorningGuidePage() {
               05
             </span>
             <div>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">
-                夜行バス旅の拠点に最適！大浴場・サウナ付おすすめ京都ホテル
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-800">夜行バス旅の拠点に最適！大浴場・サウナ付おすすめ京都ホテル</h2>
               <p className="text-xs text-rose-600 font-medium">荷物預かり対応・朝食高評価の厳選宿</p>
             </div>
           </div>
@@ -387,9 +377,7 @@ export default function KyotoEarlyMorningGuidePage() {
                       </div>
                     )}
                     <div className="p-4">
-                      <h3 className="font-bold text-base text-slate-800 line-clamp-2 mb-2 hover:text-rose-700">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-base text-slate-800 line-clamp-2 mb-2 hover:text-rose-700">{hotel.hotelName}</h3>
                       <p className="text-xs text-slate-600 line-clamp-3 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "大浴場・サウナ完備で夜行バス到着後や観光後のリフレッシュに最適な京都駅近郊ホテル。"}
                       </p>
@@ -425,9 +413,7 @@ export default function KyotoEarlyMorningGuidePage() {
 
         {/* Section 6: Internal Links */}
         <section className="bg-stone-50 rounded-2xl p-6 sm:p-8 border border-stone-200">
-          <h2 className="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">
-            <span>🔗</span> 合わせて読みたい京都・交通攻略ガイド
-          </h2>
+          <h2 className="text-lg font-bold text-slate-800 mb-4 flex items-center gap-2">合わせて読みたい京都・交通攻略ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/tokyo-kyoto-bus-vs-shinkansen-guide/"
@@ -435,9 +421,7 @@ export default function KyotoEarlyMorningGuidePage() {
             >
               <div>
                 <span className="text-[11px] text-rose-600 font-semibold mb-1 block">交通比較</span>
-                <h3 className="font-bold text-sm text-slate-800 mb-1">
-                  【東京〜京都】新幹線 vs 高速夜行バス 徹底比較！
-                </h3>
+                <h3 className="font-bold text-sm text-slate-800 mb-1">【東京〜京都】新幹線 vs 高速夜行バス 徹底比較！</h3>
                 <p className="text-xs text-slate-500 line-clamp-2">
                   料金差額・所要時間・体力の消耗度を徹底検証。おすすめの夜行便運行会社も紹介。
                 </p>
@@ -453,9 +437,7 @@ export default function KyotoEarlyMorningGuidePage() {
             >
               <div>
                 <span className="text-[11px] text-rose-600 font-semibold mb-1 block">市内観光</span>
-                <h3 className="font-bold text-sm text-slate-800 mb-1">
-                  地下鉄・バス1日券で巡る京都ゴールデン観光ルート
-                </h3>
+                <h3 className="font-bold text-sm text-slate-800 mb-1">地下鉄・バス1日券で巡る京都ゴールデン観光ルート</h3>
                 <p className="text-xs text-slate-500 line-clamp-2">
                   バス渋滞を完全回避！地下鉄をフル活用して伏見稲荷・嵐山・祇園をスムーズに巡るコツ。
                 </p>
@@ -473,9 +455,7 @@ export default function KyotoEarlyMorningGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイドの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と朝6時から入れる銭湯・天然温泉＆京都名物「朝粥」完全ガイドの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

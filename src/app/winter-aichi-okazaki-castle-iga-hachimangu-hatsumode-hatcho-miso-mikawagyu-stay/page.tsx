@@ -258,9 +258,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  岡崎・西三河・蒲郡近郊 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">岡崎・西三河・蒲郡近郊 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -283,9 +281,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    岡崎ニューグランドホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">岡崎ニューグランドホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     岡崎城公園の目の前！天守閣を望む展望大浴場と最上階レストランの絶景ステイ
                   </p>
@@ -350,9 +346,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＡＢホテル岡崎
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＡＢホテル岡崎</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR岡崎駅西口から徒歩約2分！天然温泉大浴場と健康朝食バイキング付き
                   </p>
@@ -417,9 +411,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルリブマックス岡崎
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルリブマックス岡崎</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     名鉄東岡崎駅前・城下町の中心に位置するスマートで機能的な快適ホテル
                   </p>
@@ -484,9 +476,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    蒲郡温泉　銀河伝説煌めく天空の宿　天の丸
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">蒲郡温泉　銀河伝説煌めく天空の宿　天の丸</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     標高380m遠望峰山の山頂に佇む絶景天空宿・三河湾の夜景と天然温泉パノラマ露天
                   </p>
@@ -551,9 +541,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＡＢホテル　三河安城　南館
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＡＢホテル　三河安城　南館</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR三河安城駅南口徒歩1分！新幹線アクセス抜群の快適温泉ビジネスホテル
                   </p>
@@ -629,10 +617,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h3 className="font-bold text-stone-800 text-sm sm:text-base pt-2">【エリアへのアクセス】</h3>
             <p className="text-xs sm:text-sm text-stone-600 pl-2 leading-relaxed">・電車・名鉄：名鉄名古屋駅より名鉄名古屋本線（特急・快速特急）で「東岡崎駅」まで約30分。岡崎城へは東岡崎駅より徒歩約15分、またはバス約5分。伊賀八幡宮へは東岡崎駅より名鉄バス「伊賀町」下車徒歩約3分。</p>
@@ -647,33 +633,25 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の岡崎・西三河・蒲郡近郊旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の岡崎・西三河・蒲郡近郊旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>八丁味噌の蔵元見学は予約が必要ですか？冬のおすすめメニューは？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>八丁味噌の蔵元見学は予約が必要ですか？冬のおすすめメニューは？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               岡崎市八帖町にある「カクキュー八丁味噌の郷」や「まるや八丁味噌」では、予約なしでも随時工場・蔵見学を受け付けています（個人見学の場合）。見学後は巨大な木桶が並ぶ熟成蔵の歴史を学び、味噌汁の飲み比べが楽しめます。冬のランチには、併設レストランで味わう熱々の「八丁味噌煮込みうどん」や「味噌カツ」が絶品です。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>伊賀八幡宮の初詣の混雑状況と見学ポイントは？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>伊賀八幡宮の初詣の混雑状況と見学ポイントは？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               三が日の日中（10:00〜15:00）は家族連れや勝運祈願の参拝客で社前に行列ができます。静かに参拝したい場合は早朝（朝8:00〜9:30）が狙い目。家光公によって造営された朱塗りの随身門や蓮池に架かる石橋、漆塗りと極彩色が施された本殿の彫刻など、重要文化財の建築美は必見です。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>「みかわ牛」とはどのような牛肉ですか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>「みかわ牛」とはどのような牛肉ですか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               みかわ牛は、愛知県内の豊かな自然と清らかな水で丹精込めて育てられた黒毛和牛の統一ブランドです。厳格な基準をクリアしたA4・A5ランクのみが認定され、きめ細やかな霜降りと融点の低い良質な脂、芳醇な肉の甘みが特徴。八丁味噌の甘辛い割り下で煮込む「味噌すき焼き」は格別の贅沢です。
             </p>

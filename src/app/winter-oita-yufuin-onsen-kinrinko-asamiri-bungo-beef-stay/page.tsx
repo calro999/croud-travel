@@ -298,10 +298,8 @@ export default function YufuinOnsenWinterPage() {
             <Sparkles className="w-4 h-4 text-emerald-400" />
             <span>11月・12月限定 由布院盆地が白い霧に染まる奇跡の絶景と豊後牛美食旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】<br className="hidden sm:inline" />
-            由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月由布院温泉の冬名湯と金鱗湖の幻想朝霧】<br className="hidden sm:inline" />
+            由布岳冠雪・離れ露天風呂と極上豊後牛＆冠地鶏鍋会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み渡る冷気の中、金鱗湖の水面を覆い尽くす黄金の朝霧。雪化粧を纏った霊峰・由布岳を仰ぐ客室露天風呂、とろける極上「おおいた和牛」と滋味豊かな地鶏鍋を味わう至高の由布院滞在。
           </p>
@@ -327,9 +325,7 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Yufuin Winter Magic</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                朝霧が街を包み込む冬の由布院。温泉熱と冷気が織りなす奇跡の白いベール
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">朝霧が街を包み込む冬の由布院。温泉熱と冷気が織りなす奇跡の白いベール</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Natural Spring & Winter Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                メタケイ酸豊富な「美肌の湯」と、冬を彩る「おおいた和牛＆冠地鶏」の美食
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">メタケイ酸豊富な「美肌の湯」と、冬を彩る「おおいた和牛＆冠地鶏」の美食</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,37 +407,29 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の由布院温泉が旅人を魅了してやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の由布院温泉が旅人を魅了してやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="space-y-4">
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">1</span>
-                <span>金鱗湖の朝霧と由布岳の初冠雪が重なる奇跡のコントラスト</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">1</span>
+                <span>金鱗湖の朝霧と由布岳の初冠雪が重なる奇跡のコントラスト</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 由布院盆地の秋から冬への移ろいはドラマチックです。11月下旬になると山頂に白銀の初冠雪を記録する由布岳。その凛とした佇まいと、盆地を埋め尽くす白い朝霧のベールが同時に見られるのは初冬の限られた期間だけ。朝日が昇るにつれて黄金色に輝く金鱗湖の水煙と、青空にくっきりと浮かぶ白い山肌の情景は、まさに絵画のような絶景です。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">2</span>
-                <span>客室露天風呂と離れ宿で叶える静寂のプライベート冬ごもり</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">2</span>
+                <span>客室露天風呂と離れ宿で叶える静寂のプライベート冬ごもり</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 由布院温泉は、全室離れや客室専用の源泉掛け流し露天風呂を備えた上質な小規模宿の宝庫です。外気温が5℃以下まで冷え込む冬だからこそ、湯気の立ち上る露天風呂に肩まで浸かる心地よさは格別。冷たい冬の風を頬に受けながら、時間を気にせず何度でも湯船に浸かり、薪ストーブや暖炉の温もりを感じながら読書やお酒を楽しむ贅沢な大人の時間が過ごせます。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">3</span>
-                <span>冬を越すために旨味を凝縮させた豊後牛と大分郷土の美味</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-emerald-900 text-white flex items-center justify-center text-xs">3</span>
+                <span>冬を越すために旨味を凝縮させた豊後牛と大分郷土の美味</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 初冬の大分は食材の宝庫です。脂のサシがきめ細かく入ったブランド黒毛和牛「おおいた和牛」は、甘辛い割り下でいただくすき焼きや炭火焼きで最高潮の旨味を放ちます。さらに、大分特産の「冠地鶏」から出る芳醇な鶏出汁鍋、豊後水道で水揚げされる脂の乗った関アジや寒ヒラメ、旬のカボスを搾った地酒の熱燗など、冬の温泉宿ならではの滋味深い会席料理が心と体を満たします。
               </p>
@@ -455,9 +441,7 @@ export default function YufuinOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】由布院温泉の冬名湯を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】由布院温泉の冬名湯を極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、客室からの眺望、源泉掛け流しの湯質、豊後牛や郷土料理、宿泊者レビュー評価を徹底比較して選び抜いた名宿。
             </p>
@@ -494,11 +478,9 @@ export default function YufuinOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-emerald-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -558,9 +540,7 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の由布院温泉を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の由布院温泉を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -614,26 +594,20 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-700" />
-                <span>気温と服装のポイント</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-700" />
+                <span>気温と服装のポイント</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 由布院は盆地地形のため朝晩の寒暖差が非常に激しく、11月下旬からは最低気温が氷点下近くまで下がります。12月の早朝は霜が降り、金鱗湖周辺は木道や石畳が冷え込みます。朝霧鑑賞に出かける際は、厚手のダウンコート、保温性の高いインナー、手袋、マフラーが必須です。日中は日差しがあれば10℃〜14℃程度まで上がりますが、重ね着で体温調節できるようにしましょう。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-700" />
-                <span>冬期ドライブと公共交通機関</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-700" />
+                <span>冬期ドライブと公共交通機関</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 大分自動車道「湯布院IC」周辺や、別府・阿蘇方面へ抜ける山道（水分峠や小田の池周辺）は、12月に入ると突然の降雪や早朝の路面凍結が発生することがあります。お車で訪れる場合は必ずスタッドレスタイヤを装着してください。運転が不安な方は、博多駅から運行している特急「ゆふいんの森号」や、福岡・大分空港発着の高速バスの利用が定時運行で安全かつ快適です。
               </p>
@@ -649,18 +623,14 @@ export default function YufuinOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と由布院温泉の冬旅アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と由布院温泉の冬旅アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -673,9 +643,7 @@ export default function YufuinOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Kyushu & Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬名湯＆全国の雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬名湯＆全国の雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの絶景露天や冬の郷土会席を味わう全国の人気特集もぜひご覧ください。
             </p>

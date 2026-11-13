@@ -77,9 +77,7 @@ export default function BookmarksModal() {
               <div className="flex items-center gap-2">
                 <span className="text-xl">❤️</span>
                 <div>
-                  <h3 className="font-bold text-slate-900 text-base font-journal-serif">
-                    保存した宿・お気に入りリスト
-                  </h3>
+                  <h3 className="font-bold text-slate-900 text-base font-journal-serif">保存した宿・お気に入りリスト</h3>
                   <p className="text-[10px] text-slate-500">
                     気になる宿をキープして旅のプラン作りにご活用ください
                   </p>

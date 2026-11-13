@@ -209,9 +209,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
       <section className="bg-white border border-amber-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Tasting & Brewery Experience</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            お酒好きを唸らせる！美酒グランピング4つの極上ポイント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">お酒好きを唸らせる！美酒グランピング4つの極上ポイント</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             ただ飲むだけではない、注ぎたての鮮度と産地の空気感が料理の味を別次元へと昇華させます。
           </p>
@@ -234,9 +232,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
       <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md border border-amber-900/40">
         <div className="space-y-1">
           <span className="text-xs font-bold text-amber-400 uppercase tracking-widest font-mono">Pairing Strategy</span>
-          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-            美酒と肉料理の極み！グランピングBBQペアリングコース例
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">美酒と肉料理の極み！グランピングBBQペアリングコース例</h2>
           <p className="text-xs sm:text-sm text-amber-200/80">
             アペロから締めの一杯まで。風土の恵みを重ね合わせるペアリングの組み立て方。
           </p>
@@ -266,9 +262,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Selected Wine & Brewery Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            美酒とグルメを味わう！おすすめグランピング施設
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">美酒とグルメを味わう！おすすめグランピング施設</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             新潟の高原リゾートや秩父・九州の銘酒を味わえる、大人旅にふさわしい厳選スポット。
           </p>
@@ -305,9 +299,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
                     📍 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "地元の恵みを味わうBBQや自然美、美酒に囲まれて心地よい酔いに浸る大人のグランピングステイ。"}
@@ -355,18 +347,14 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
       <section className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            ワイナリー＆ビールグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">ワイナリー＆ビールグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-amber-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-amber-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-amber-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -377,9 +365,7 @@ export default function SilverWeekGlampingWineBreweryCraftbeerPage() {
 
       {/* 内部リンク・山梨ワイン＆ぶどう狩り・アクセスガイド */}
       <section className="bg-amber-50/60 border border-amber-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🍇</span> あわせてチェックしたい山梨ワイナリー＆アクセスガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせてチェックしたい山梨ワイナリー＆アクセスガイド</h3>
         <p className="text-xs text-stone-600">
           お酒を飲む旅ならバス利用がスマート。勝沼ぶどう狩りや河口湖への高速バス攻略記事を合わせてチェック。
         </p>

@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>誰にも邪魔されない完全プライベートな「ととのい」。自然と調和する極上サウナステイ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>誰にも邪魔されない完全プライベートな「ととのい」。自然と調和する極上サウナステイ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             重厚な土壁が熱を柔らかく蓄える歴史ある「蔵サウナ」や、木漏れ日の森に佇むフィンランド式薪サウナヴィラ。好きなアロマでセルフロウリュを楽しみ、キンと冷えた天然地下水の水風呂へダイブ。満天の星空や深緑の風に包まれながら外気浴を味わう時間は、現代人にとって最高の贅沢です。楽天ふるさと納税を活用して、家族や仲間、パートナーと一棟まるごと独占するとっておきのサウナ合宿へ。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    時間制限なし！セルフロウリュし放題のプライベートサウナ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">時間制限なし！セルフロウリュし放題のプライベートサウナ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     パチパチと薪がはぜる音、立ち上るヴィヒタの香り。他人の目を気にすることなく、自分好みの温度・湿度・音楽で究極のととのいを追求できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    広いウッドデッキや庭園での星空外気浴とBBQグリル完備
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">広いウッドデッキや庭園での星空外気浴とBBQグリル完備</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     サウナ後はウッドデッキのインフィニティチェアで外気浴。地元の特産肉や新鮮野菜をみんなで豪快に焼き上げるプライベートBBQディナーも楽しめます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    高額な一棟貸切料金もグループや家族でふるさと納税枠を活用
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">高額な一棟貸切料金もグループや家族でふるさと納税枠を活用</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     1泊10万円前後のハイエンドヴィラも、返礼クーポンを適用すれば自己負担実質2,000円。寄付枠を賢く一括消化したい方に最適です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="shinano_sauna_villa" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県信濃町ふるさと納税：野尻湖・黒姫高原の森に佇む本格フィンランドサウナ付きコテージ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県信濃町ふるさと納税：野尻湖・黒姫高原の森に佇む本格フィンランドサウナ付きコテージ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       サウナの聖地として熱い注目を集める信濃町。大自然の森に包まれたログコテージで薪サウナを満喫し、雪解け水が育む天然水風呂と高原の清涼な空気で心身が研ぎ澄まされます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              黒姫高原　ホテル若月＜長野県＞
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">黒姫高原　ホテル若月＜長野県＞</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               森と清流に恵まれた黒姫高原の宿「ホテル若月」広い敷地内で釣りやBBQも楽しめます♪
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ペンション　とも　＜長野県＞
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ペンション　とも　＜長野県＞</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               全室ユニットバス・トイレ付。他に貸切風呂も有。ゲレンデまで送迎２分。静かでお食事の美味しい宿。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ＡＲＣＡＤＩＡ　～ふたつとない景色～
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＡＲＣＡＤＩＡ　～ふたつとない景色～</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               信州天空resort　絶景と美食で癒す神聖なる森の惠宿　信州2大パワースポット巡りに（善光寺・戸隠）
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="yatsugatake_sauna_villa" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山梨県北杜市ふるさと納税：八ヶ岳南麓・A-Frameデザインの薪ストーブサウナ付きデザイナーズヴィラ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山梨県北杜市ふるさと納税：八ヶ岳南麓・A-Frameデザインの薪ストーブサウナ付きデザイナーズヴィラ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       三角屋根の美しいフォルムと南アルプス・富士山を望む絶景立地。本格的なサウナ小屋と大型ジャグジーを備え、夜は八ヶ岳の満天の星空を仰ぎながら至福のディープリラックスへ導かれます。
                     </p>
@@ -364,9 +343,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              Ａ－Ｆｒａｍｅ　Ｖｉｌｌａ　八ヶ岳　＾
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">Ａ－Ｆｒａｍｅ　Ｖｉｌｌａ　八ヶ岳　＾</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               八ヶ岳の絶景を望むガラス張りのデザイナーズヴィラ。サウナやBBQ、シアターを備えた上質な隠れ家です。
                             </p>
@@ -401,10 +378,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="sasayama_sauna_villa" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>兵庫県丹波篠山市ふるさと納税：築百年の古民家・土蔵再生サウナ＆手ぶらBBQ一棟貸切</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>兵庫県丹波篠山市ふるさと納税：築百年の古民家・土蔵再生サウナ＆手ぶらBBQ一棟貸切</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       丹波篠山の里山に佇むぽつんと一軒家。伝統的な建築美を残しながら最新サウナとDJブース・BBQ設備を完備。最大10名まで泊まれる広大な空間で、記憶に残るグループステイが叶います。
                     </p>
@@ -427,9 +401,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ぽつんと一軒家｜サウナ・ＢＢＱ・ＤＪルーム付き貸切古民家｜最大１０名　＾
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ぽつんと一軒家｜サウナ・ＢＢＱ・ＤＪルーム付き貸切古民家｜最大１０名　＾</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               　
                             </p>
@@ -474,9 +446,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ゲストハウス環
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ゲストハウス環</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               築１００年の古民家をリノベーション！１日１組限定の一棟貸しで寛ぎの空間
                             </p>
@@ -521,9 +491,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              阡陌ｓｅｎｐａｋｕ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">阡陌ｓｅｎｐａｋｕ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               阡陌 Senpaku｜蔵湯のある「阡」と土間キッチン付「陌」二棟の一棟貸し古民家宿
                             </p>
@@ -629,9 +597,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒姫高原 ホテル若月＜長野県＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒姫高原 ホテル若月＜長野県＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -664,9 +630,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒姫高原 ホテル若月＜長野県＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒姫高原 ホテル若月＜長野県＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

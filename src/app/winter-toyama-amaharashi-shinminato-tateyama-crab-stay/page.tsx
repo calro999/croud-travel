@@ -301,9 +301,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              海上に浮かぶ白銀の立山連峰と、富山湾の冬の赤い宝石「新湊本ズワイガニ」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">海上に浮かぶ白銀の立山連峰と、富山湾の冬の赤い宝石「新湊本ズワイガニ」</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <Sparkles className="w-4 h-4 text-cyan-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              雨晴・新湊・富山の冬絶景と富山湾の海の幸を堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">雨晴・新湊・富山の冬絶景と富山湾の海の幸を堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の雨晴・新湊・富山 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の雨晴・新湊・富山 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-cyan-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-cyan-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：高岡の歴史探訪と新湊「昼セリ」のカニ堪能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：高岡の歴史探訪と新湊「昼セリ」のカニ堪能</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 新高岡駅または富山空港を出発し、加賀前田家ゆかりの国宝・高岡瑞龍寺を拝観。静謐な雪の回廊を歩いた後、射水市の新湊漁港へ。13時からの名物「昼セリ」を見学し、セリ落とされたばかりの茹でたて紅ズワイガニを「新湊きっときと市場」で味わいます。午後は「日本のベニス」内川沿いのレトロな運河を散策し、夕暮れには雨晴温泉へチェックイン。露天風呂から富山湾と立山連峰を眺め、夜は寒ブリしゃぶしゃぶ会席に舌鼓。
               </p>
@@ -475,9 +465,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-cyan-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-cyan-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：早朝の雨晴海岸「気嵐」と白銀の立山連峰＆富山アートステイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：早朝の雨晴海岸「気嵐」と白銀の立山連峰＆富山アートステイ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 夜明け前、雨晴海岸へ。澄み切った氷点下の空気の中、富山湾から立ち上る幻想的な気嵐と、朝陽に染まる立山連峰の奇跡の絶景を心ゆくまで撮影。宿で朝食をとった後、海沿いを走るローカル線・JR氷見線に乗車。午後は富山市街へ移動し、富山市ガラス美術館を見学。夜は神通峡に佇むアートホテル「リバーリトリート雅樂倶」または富山駅前の天然温泉宿へ。冬の富山湾の旬魚を独創的に仕立てたディナーを堪能します。
               </p>
@@ -486,9 +474,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-cyan-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-cyan-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：富山市街の職人握り「富山湾鮨」と白えび土産めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：富山市街の職人握り「富山湾鮨」と白えび土産めぐり</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 宿の温泉で朝の雪見風呂を楽しんだ後、富山市中心部へ。富山城址公園を散策し、昼食は老舗の寿司処で職人が握る名物「富山湾鮨」を堪能。寒ブリ、白えび、紅ズワイガニ、バイ貝など10貫の至極の握りを味わいます。富山駅前の「とやマルシェ」で白えび煎餅やます寿司をお土産に購入し、北陸新幹線で帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
             <ThermometerSun className="w-4 h-4 text-cyan-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の富山湾岸を快適に旅するための装備と路面情報
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の富山湾岸を快適に旅するための装備と路面情報</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-cyan-100 leading-relaxed pt-2">
             <div className="space-y-2 bg-cyan-950/40 p-4 rounded-2xl border border-cyan-800/60">
               <span className="font-bold text-white block">【防寒具と足元対策】</span>
@@ -528,26 +512,20 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <ShoppingBag className="w-4 h-4 text-cyan-800" />
               富山・雨晴・新湊の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              旅の記憶を鮮やかに彩る富山湾の海の幸と高岡クラフト名品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">旅の記憶を鮮やかに彩る富山湾の海の幸と高岡クラフト名品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-700" />
-                新湊港直送・茹でたて紅ズワイガニの地方発送と白えび寿し
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-700" />
+                新湊港直送・茹でたて紅ズワイガニの地方発送と白えび寿し</h3>
               <p>
                 新湊きっときと市場内の各鮮魚店では、当日の昼セリで競り落とされたばかりの紅ズワイガニや本ズワイガニを大釜で塩茹でし、発泡スチロールと氷で詰めて当日クール便発送が可能です。帰宅後に自宅で家族や友人と味わう濃厚なカニ味噌とジューシーな身肉は至高の贅沢。また、白えびの上品な甘みを酢飯と合わせた押し寿司「白えび寿し」や、香ばしい「白えび十割煎餅」も外せない手土産です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-700" />
-                高岡鋳物の伝統美「能作」の純錫酒器と銘菓「とこなつ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-700" />
+                高岡鋳物の伝統美「能作」の純錫酒器と銘菓「とこなつ」</h3>
               <p>
                 400年の鋳物文化を受け継ぐ高岡市。世界的ブランド「能作（のうさく）」の純度100%の錫（すず）製ぐい呑みやタンブラーは、注いだ日本酒の雑味を抜き、まろやかな味わいに変えると評判で、冬の富山の地酒（立山、勝駒、満寿泉）を楽しむ最高の相棒になります。和菓子では、大伴家持の歌に因んだ大野屋の「とこなつ」や、木型で作られる優美な「高岡ラムネ」が旅情あふれる手土産として人気を集めています。
               </p>
@@ -562,27 +540,21 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <Compass className="w-4 h-4 text-cyan-800" />
               富山湾の神秘・ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ富山湾は「天然の生け簀」と呼ばれ、冬に奇跡の絶景を生むのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ富山湾は「天然の生け簀」と呼ばれ、冬に奇跡の絶景を生むのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Waves className="w-4 h-4 text-cyan-700" />
-                すり鉢状の海底渓谷「藍瓶（あいがめ）」が育む極上の魚介
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Waves className="w-4 h-4 text-cyan-700" />
+                すり鉢状の海底渓谷「藍瓶（あいがめ）」が育む極上の魚介</h3>
               <p>
                 富山湾は海岸からわずか数キロ進むだけで水深1,000メートル近くまで急激に落ち込む独特のすり鉢状の地形をしています。沿岸の浅瀬から海底深く刻まれた海底谷「藍瓶」には、標高3,000mの立山連峰から雪解け水がミネラルを豊富に含んで注ぎ込み、冷たい「日本海固有水（海洋深層水）」と対馬暖流が交錯。日本海に生息する約800種のうち約500種の魚介が生息する奇跡の海域となり、漁場と港が極めて近いため、抜群の鮮度を保ったまま市場や食卓へ届けられます。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-cyan-700" />
-                標高差4,000メートルの地球規模のダイナミズム
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-cyan-700" />
+                標高差4,000メートルの地球規模のダイナミズム</h3>
               <p>
                 富山湾の最深部（水深約1,000m）から、海上にそびえる立山連峰の主峰・雄山（標高3,003m）や剱岳（標高2,999m）までの直線距離はわずか40〜50キロメートル。高低差にして実に4,000メートルという世界屈指の険しい地形が、海と山を密接に結びつけています。冬の冷え込みによって海水温と大気温の差が15℃以上になると、海水から立ち上る水蒸気が冷やされて白い霧となる「気嵐（けあらし）」が発生し、海上に雪山が浮かんでいるかのような幻想風景が完成します。
               </p>
@@ -597,18 +569,14 @@ export default function ToyamaAmaharashiShinminatoWinterPage() {
               <HelpCircle className="w-4 h-4 text-cyan-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の富山・雨晴・新湊旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の富山・雨晴・新湊旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

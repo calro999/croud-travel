@@ -267,9 +267,7 @@ export default function YamagataHijioriOnsenWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-800" />
               肘折温泉が初冬・厳冬期に愛される理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              白銀に埋もれる出羽の秘湯・芯まで温まる奇跡の「あたたまり湯治」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">白銀に埋もれる出羽の秘湯・芯まで温まる奇跡の「あたたまり湯治」</h2>
           </div>
 
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -291,9 +289,7 @@ export default function YamagataHijioriOnsenWinterPage() {
         {/* 5 Hot Spring Inns Cards */}
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12・1月に泊まりたい肘折温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい肘折温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
             </p>
@@ -323,9 +319,7 @@ export default function YamagataHijioriOnsenWinterPage() {
                         <Flame className="w-3.5 h-3.5" />
                         開湯1200年 黄金源泉かけ流し
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -388,17 +382,13 @@ export default function YamagataHijioriOnsenWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              豪雪の秘湯と冬の山形牛・肘折幻想雪回廊を満喫する冬籠もり旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">豪雪の秘湯と冬の山形牛・肘折幻想雪回廊を満喫する冬籠もり旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】新庄駅から雪景色を抜け肘折の湯治宿へ
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】新庄駅から雪景色を抜け肘折の湯治宿へ</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -428,10 +418,8 @@ export default function YamagataHijioriOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】静寂の雪国朝風呂とお土産めぐり
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】静寂の雪国朝風呂とお土産めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -465,27 +453,21 @@ export default function YamagataHijioriOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               肘折・大蔵村の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              雪国肘折で絶対に味わいたい冬の銘品とおすすめスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">雪国肘折で絶対に味わいたい冬の銘品とおすすめスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                名物「ほていやの栃餅（とちもち）」＆肘折こけし
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                名物「ほていやの栃餅（とちもち）」＆肘折こけし</h3>
               <p>
                 肘折温泉の代名詞といえば、昔ながらの製法を守り続ける「ほていやの栃餅」。あく抜きに何日も手間暇をかけた栃の実を餅米とともに搗きあげ、上品な甘さのこし餡を包んだ逸品です。独特の香ばしい苦味とモチモチとした食感はお茶請けに最高。また、素朴な表情が愛らしい伝統工芸品「肘折こけし」も旅の記念に人気です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                山形の冬の保存食・青菜漬け（せいさいづけ）と雪室大根
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                山形の冬の保存食・青菜漬け（せいさいづけ）と雪室大根</h3>
               <p>
                 厳しい雪の冬を越すために作られる山形の伝統漬物「青菜漬け」。シャキシャキとした心地よい歯応えと、ピリッとした辛みが食欲をそそります。また、雪の中で保管されることで糖度が劇的に増す「雪室大根」や「雪中キャベツ」は、瑞々しさとフルーツのような甘みが特徴で、お土産にも喜ばれます。
               </p>
@@ -500,32 +482,24 @@ export default function YamagataHijioriOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-amber-800" />
               肘折温泉・泉質と湯治文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の肘折温泉は「現代人の究極の湯治場」なのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の肘折温泉は「現代人の究極の湯治場」なのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-amber-700" />
-              黄金色の自家源泉がもたらす「塩化物泉の温まり」と「炭酸水素塩泉の美肌作用」
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-700" />
+              黄金色の自家源泉がもたらす「塩化物泉の温まり」と「炭酸水素塩泉の美肌作用」</h3>
             <p>
               肘折温泉の泉質は「ナトリウム-塩化物・炭酸水素塩温泉」。地下深くから湧き出す源泉は炭酸ガスや鉄分、メタケイ酸を豊富に含み、湯口から浴槽に注がれる過程で空気に触れ、鮮やかな黄金色や薄い笹濁りへと変化します。入浴すると、塩化物泉の塩分が肌の表面に薄い皮膜を形成し、汗の蒸発をブロック。入浴後も熱が逃げず、寒風吹きすさぶ真冬でも体の中心からポカポカとしたぬくもりが持続します。同時に、炭酸水素塩泉のアルカリ成分が肌の余分な皮脂や古い角質を乳化して洗い流すため、湯上がりは驚くほど滑らかな美肌へと整います。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-amber-700" />
-              豪雪が遮断する日常のノイズと、守り継がれる自炊・連泊湯治の温もり
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-amber-700" />
+              豪雪が遮断する日常のノイズと、守り継がれる自炊・連泊湯治の温もり</h3>
             <p>
               数メートルもの雪に閉ざされる冬の肘折は、外部の喧騒や雑音から完全に隔絶された静寂の世界です。昭和初期の木造建築が立ち並ぶ通りには、今も自炊場を備えた旅館が残り、湯治客同士や宿の家族との気さくな会話が交わされます。豪華なアメニティや華美な演出を競う現代の大型ホテルとは対照的に、素朴な畳の部屋でこたつに入り、熱々の納豆汁をすすり、良質な源泉に何度も浸かる。これこそが、情報過多に疲れた現代人が求める究極のウェルネス（心身の再生）です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Snowflake className="w-4 h-4 text-amber-700" />
-              日本最高レベルの除雪技術と守られたアクセス安全性
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Snowflake className="w-4 h-4 text-amber-700" />
+              日本最高レベルの除雪技術と守られたアクセス安全性</h3>
             <p>
               「4メートルも雪が積もる場所へ冬に行くのは危険ではないか」と心配される方も少なくありません。しかし肘折温泉への道路は、大蔵村の熟練除雪隊によって24時間体制で完璧に整備されています。朝一番の通勤・通学時間までに路面が綺麗に削り出されるため、地元住民の生活路として確立。豪雪地帯だからこそ培われた日本随一の除雪インフラのおかげで、真冬でも路線バスや適切な装備の車で安心して訪れることができるのです。
             </p>
@@ -539,18 +513,14 @@ export default function YamagataHijioriOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の肘折温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の肘折温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

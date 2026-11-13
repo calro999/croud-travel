@@ -222,9 +222,7 @@ export default function NisekoOnsenWinterPage() {
             <span>11月・12月 冬の北海道・ニセコ特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月ニセコ温泉郷の初雪パウダースノーと羊蹄山絶景】白銀の蝦夷富士望む露天風呂・道産黒毛和牛＆冬の北海味覚ディナーの宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月下旬から12月にかけて、北海道ニセコ山麓には日本海からの冷たい季節風が超微粒子の初雪をもたらし、世界が熱狂する奇跡の「パウダースノー」の季節が開幕します。別名「蝦夷富士」と呼ばれる端正な羊蹄山が純白の雪を被り、原生林の針葉樹が白銀に輝く風景はまさに息をのむ絶景。冷え渡る冬の空気の中、源泉掛け流しの湯煙に包まれる雪見露天風呂、薪暖炉が赤々と燃える上質なラウンジ、北海道産白老牛や十勝ハーブ牛の鉄板焼き、近海で水揚げされた新鮮な冬の魚介を味わう、至高のニセコ冬名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のニセコが旅人を魅了する理由とは？
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のニセコが旅人を魅了する理由とは？</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Onsen & Gastronomy Secrets</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                ニセコ温泉郷の多彩な泉質と、冬の極上食材を巡るストーリー
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">ニセコ温泉郷の多彩な泉質と、冬の極上食材を巡るストーリー</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-cyan-700" />
-              <span>重曹泉と食塩泉が織りなす「美肌と持続する温もり」の科学</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-700" />
+              <span>重曹泉と食塩泉が織りなす「美肌と持続する温もり」の科学</span></h3>
             <p>
               ニセコアンヌプリの裾野に点在するニセコ温泉郷は、昆布温泉、ニセコビレッジ温泉、アンヌプリ温泉、東山温泉など、湧出場所によって泉質が大きく異なります。その中でも特に冬の湯治として名高いのが「ナトリウム-塩化物・炭酸水素塩温泉」です。炭酸水素塩（重曹）成分が肌の余分な角質や皮脂を優しく乳化して落とし、湯上がりの肌をなめらかに整える「クレンジング作用」を発揮します。
             </p>
             <p>
               さらに、豊富に含まれる塩化物（食塩）成分が皮膚に薄い塩分皮膜を形成し、入浴後も肌の水分や熱の放散を徹底的にガードします。このダブルの働きにより、マイナス10℃を下回るニセコの極寒の外気にあっても、身体の芯から温もりが逃げず、驚くほどポカポカとした保温状態が持続します。また、温泉水1kg中に150mg以上のメタケイ酸を含む源泉も多く、天然の保湿バリアとして角質層を潤いで満たしてくれます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-cyan-700" />
-              <span>冬の北海味覚の極み：道産黒毛和牛・活毛ガニ・越冬ジャガイモ「五四〇」</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-cyan-700" />
+              <span>冬の北海味覚の極み：道産黒毛和牛・活毛ガニ・越冬ジャガイモ「五四〇」</span></h3>
             <p>
               冬のニセコで食卓を彩る料理は、北海道の風土と生産者の情熱が結実した逸品ばかりです。羊蹄山の伏流水と厳しい寒さの中でじっくり肥育された「北海道産黒毛和牛（白老牛・十勝ハーブ牛）」は、融点の低い上質な不飽和脂肪酸を豊富に含み、鉄板でさっと焼き上げると、芳醇な和牛香とともに脂が舌の上でさらりと溶けていきます。
             </p>
@@ -316,9 +306,7 @@ export default function NisekoOnsenWinterPage() {
               <Star className="w-3.5 h-3.5 fill-cyan-700 text-cyan-700" />
               <span>Rakuten Travel Verified Luxury Stays</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月におすすめのニセコ温泉郷・厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめのニセコ温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、羊蹄山の絶景展望、源泉掛け流しの雪見露天、道産牛ディナーの満足度が高い宿を厳選しました。
             </p>
@@ -353,9 +341,7 @@ export default function NisekoOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-cyan-700 transition-colors">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-cyan-700 transition-colors">{h.name}</h3>
                     </div>
                     <p className="text-xs text-cyan-800 font-semibold flex items-center gap-1">
                       <Sparkles className="w-3.5 h-3.5 text-cyan-600" />
@@ -420,9 +406,7 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬のニセコを満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬のニセコを満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4 text-slate-700 text-sm sm:text-base">
@@ -476,26 +460,20 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のニセコ旅行・服装と防寒対策・冬道運転ガイド
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のニセコ旅行・服装と防寒対策・冬道運転ガイド</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-700" />
-                <span>気温とおすすめの防寒装備</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-700" />
+                <span>気温とおすすめの防寒装備</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月下旬のニセコは日中でも5℃前後、夜間は氷点下に達します。12月に入ると最高気温でも氷点下（真冬日）が日常となり、夜間はマイナス10℃以下まで冷え込みます。防風・撥水性のある厚手のロングダウンジャケット、保温インナー（ヒートテック等）、フリースなどの重ね着が必須です。足元は滑り止め付きの防水スノーブーツを選び、ニット帽、厚手の手袋、ネックウォーマーで肌の露出を極力防ぎましょう。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>冬期アクセスと雪道ドライブの注意</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>冬期アクセスと雪道ドライブの注意</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 新千歳空港や札幌からニセコへ向かう道路（美笛峠や中山峠）は、11月中旬以降完全な圧雪・アイスバーン路面となります。吹雪によるホワイトアウトも頻発するため、冬道運転の経験が浅い方のレンタカードライブは非常に危険です。新千歳空港や札幌駅から毎日運行されている直行スキーバスや、JR函館本線＋宿の送迎シャトルの利用を強くおすすめします。
               </p>
@@ -511,18 +489,14 @@ export default function NisekoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）とニセコ冬旅のアドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）とニセコ冬旅のアドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -535,9 +509,7 @@ export default function NisekoOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest">Related Winter Resort & Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北海道の冬名湯＆全国の雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北海道の冬名湯＆全国の雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、冬の極上グルメを味わう人気の厳選特集もぜひあわせてご覧ください。
             </p>

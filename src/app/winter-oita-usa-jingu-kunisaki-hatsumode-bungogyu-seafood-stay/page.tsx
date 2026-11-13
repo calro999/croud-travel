@@ -248,9 +248,7 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Sacred Culture & Heritage</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              八幡信仰の総本宮と六郷満山の祈り、豊穣の海山がもたらす冬の滋味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">八幡信仰の総本宮と六郷満山の祈り、豊穣の海山がもたらす冬の滋味</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               千三百年の神仏習合の記憶と、極上の豊後牛・車海老が織りなす大分の冬
             </p>
@@ -306,9 +304,7 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-gradient-to-r from-slate-900 to-emerald-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-emerald-400 pl-4">
             <span className="text-emerald-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -342,16 +338,12 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき宇佐＆国東の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき宇佐＆国東の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-emerald-600" /> 宇佐神宮（八幡総本宮）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-emerald-600" /> 宇佐神宮（八幡総本宮）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 全国約4万4000社ある八幡宮の総本宮。国宝本殿の一之御殿から三之御殿までを二礼四拍手一礼で参拝。朱塗りの南中楼門、樹齢約800年の大クス、寄藻川に架かる屋根付きの木橋「呉橋」など神聖な見どころが凝縮。
               </p>
@@ -361,9 +353,7 @@ export default function OitaUsaKunisakiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-amber-600" /> 国宝 富貴寺大堂
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-amber-600" /> 国宝 富貴寺大堂</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 平安時代後期に建立された九州最古の木造建築（国宝）。宇治の平等院鳳凰堂、平泉の中尊寺金色堂と並ぶ日本三阿弥陀堂の一つ。萱葺き屋根と素木造りの簡素な美が、冬の冷たい空気の中に静かに浮かび上がります。
               </p>
@@ -373,9 +363,7 @@ export default function OitaUsaKunisakiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> 豊後高田「昭和の町」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> 豊後高田「昭和の町」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 昭和30年代の活気ある商店街を今に蘇らせたノスタルジックタウン。駄菓子屋の博物館「駄菓子屋の夢博物館」や、ボンネットバスの運行、昔懐かしいコロッケや揚げパンの食べ歩きが冬の旅に温かな笑顔を添えます。
               </p>
@@ -390,9 +378,7 @@ export default function OitaUsaKunisakiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の宇佐＆国東を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の宇佐＆国東を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               国宝隣接の料理旅館・オーシャンビュー絶景宿・天然温泉・初詣拠点ホテル
             </p>
@@ -428,9 +414,7 @@ export default function OitaUsaKunisakiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -488,9 +472,7 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の宇佐＆国東を満喫する1泊2日開運・美食巡礼モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の宇佐＆国東を満喫する1泊2日開運・美食巡礼モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               八幡総本宮初詣、昭和の町レトロ散策、国宝富貴寺と豊後牛・車海老を味わい尽くす旅日程
             </p>
@@ -498,10 +480,8 @@ export default function OitaUsaKunisakiPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-emerald-600 text-white text-xs rounded-md font-bold">1日目</span>
-                八幡総本宮・宇佐神宮新春初詣と昭和の町散策・名宿ディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-emerald-600 text-white text-xs rounded-md font-bold">1日目</span>
+                八幡総本宮・宇佐神宮新春初詣と昭和の町散策・名宿ディナー</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">10:30 JR宇佐駅または中津駅に到着</strong>：レンタカーを借りて「宇佐神宮」へ。南中楼門をくぐり国宝本殿で新春開運祈願。</li>
                 <li><strong className="text-slate-900">12:30 門前で元祖宇佐からあげランチ</strong>：揚げたてサクサクの香ばしい宇佐からあげと定食を堪能。</li>
@@ -512,10 +492,8 @@ export default function OitaUsaKunisakiPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-teal-800 text-white text-xs rounded-md font-bold">2日目</span>
-                六郷満山神仏習合の聖地巡礼と周防灘オーシャンビュー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-teal-800 text-white text-xs rounded-md font-bold">2日目</span>
+                六郷満山神仏習合の聖地巡礼と周防灘オーシャンビュー</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:00 宿で朝食</strong>：地元野菜と温かいだんご汁、炊きたてご飯を味わってチェックアウト。</li>
                 <li><strong className="text-slate-900">09:30 熊野磨崖仏へ</strong>：鬼が一夜で積んだと伝わる石段を登り、岩肌に刻まれた巨大な大日如来と不動明王を拝観。</li>
@@ -531,16 +509,12 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              宇佐＆国東半島への交通アクセスと冬道ドライブの注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">宇佐＆国東半島への交通アクセスと冬道ドライブの注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-emerald-600" /> 電車・航空便アクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-600" /> 電車・航空便アクセス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">飛行機（大分空港）</strong>：羽田・伊丹等から大分空港へ直行。空港から国東半島各所へはレンタカーで20〜40分と至近。</li>
                 <li><strong className="text-slate-900">JR特急ソニック</strong>：博多駅・小倉駅からJR日豊本線特急ソニックで「中津駅」まで約30分（小倉発）、「宇佐駅」まで約40分。</li>
@@ -548,9 +522,7 @@ export default function OitaUsaKunisakiPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆山間部の冬道注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆山間部の冬道注意</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：東九州自動車道「宇佐IC」または大分空港道路「国東IC」が便利です。</li>
                 <li><strong className="text-slate-900">山間部の路面凍結注意</strong>：沿岸部は温暖ですが、両子寺や富貴寺など山間部の谷あいは日陰が多く、12月下旬〜1月早朝は路面凍結のリスクがあります。峠越えドライブにはスタッドレスタイヤ装着が安心です。</li>
@@ -563,17 +535,13 @@ export default function OitaUsaKunisakiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の宇佐＆国東旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の宇佐＆国東旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-emerald-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-emerald-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -584,10 +552,8 @@ export default function OitaUsaKunisakiPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-emerald-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-fukuoka-mojiko-retro-illumination-buzen-oyster-kokuragyu-stay/"

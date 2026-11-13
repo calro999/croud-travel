@@ -363,9 +363,7 @@ export default function IwateHanamakiMinamiPage() {
               <Mountain className="w-4 h-4" />
               みちのくの冬が育んだ、文学と木造建築が薫る至高の湯治場
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。粉雪舞う豊沢川の瀬音と足元から自噴する奇跡の立ち湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。粉雪舞う豊沢川の瀬音と足元から自噴する奇跡の立ち湯</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -386,9 +384,7 @@ export default function IwateHanamakiMinamiPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              花巻南温泉郷で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">花巻南温泉郷で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               日本一深い自噴立ち湯の一軒宿から渓流雪見露天、宮大工建築の美肌宿まで
             </p>
@@ -423,9 +419,7 @@ export default function IwateHanamakiMinamiPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -488,35 +482,27 @@ export default function IwateHanamakiMinamiPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の豊沢渓谷美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の花巻南温泉郷で味わい尽くすみちのく最高峰ブランド肉と冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の花巻南温泉郷で味わい尽くすみちのく最高峰ブランド肉と冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰銘柄「前沢牛＆いわて花巻牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰銘柄「前沢牛＆いわて花巻牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国の銘柄牛コンテストで幾度も栄冠に輝く「前沢牛」。上質な赤身と甘み豊かな脂身が特徴で、厚手の南部鉄鍋で香ばしく仕上げるすき焼きや陶板ステーキは、噛むほどに芳醇な肉汁が溢れ出します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                花巻名物「白金豚（プラチナポーク）」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                花巻名物「白金豚（プラチナポーク）」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 奥羽山脈の澄んだ地下水と厳選飼料で育まれる花巻特産の銘柄豚「白金豚」。筋繊維がきめ細かく、脂身が驚くほど軽やかで甘いのが特徴。特製出汁にくぐらせるしゃぶしゃぶ鍋は冬の最高の贅沢です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                南部ひっつみ汁と名酒「南部美人」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                南部ひっつみ汁と名酒「南部美人」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 小麦粉を練って手でちぎり、地鶏や季節の根菜、キノコの出汁で煮込む岩手の伝統郷土料理「ひっつみ」。南部杜氏の技が光る地酒「南部美人」の搾りたて純米酒とともにいただけば、身体の芯まで温まります。
               </p>
@@ -530,17 +516,13 @@ export default function IwateHanamakiMinamiPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の花巻南温泉郷 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の花巻南温泉郷 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：新幹線からイーハトーブの里へ・文豪の秘湯と前沢牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                新花巻駅到着から「宮沢賢治童話村」、自噴立ち湯体験と極上会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">新花巻駅到着から「宮沢賢治童話村」、自噴立ち湯体験と極上会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東北新幹線「新花巻駅」に到着後、タクシーまたは路線バスで「宮沢賢治童話村」「宮沢賢治記念館」を散策し、幻想的な賢治ワールドを体感。午後、新花巻駅発の花巻南温泉郷無料送迎バスに乗車し、雪景色に染まり始めた豊沢渓谷沿いの宿（鉛温泉藤三旅館または大沢温泉山水閣など）へチェックイン。日本一深い自噴立ち湯「白猿の湯」に肩まで浸かり、全身の血行を促進。夕食は南部鉄鍋で味わう前沢牛すき焼きと白金豚鍋に舌鼓。
               </p>
@@ -550,9 +532,7 @@ export default function IwateHanamakiMinamiPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：豊沢川雪見露天風呂の朝湯・花巻レトロ食堂と盛岡麺巡り
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                川べりの雪見風呂から「マルカンビル大食堂」、盛岡三大麺の旅へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">川べりの雪見風呂から「マルカンビル大食堂」、盛岡三大麺の旅へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 清冽な朝の空気の中、豊沢川の川べりにせり出す雪見露天風呂で目覚めの湯浴み。朝食に熱々のひっつみ汁と岩手県産米を堪能してチェックアウト。宿の送迎バスで花巻駅へ向かい、昭和レトロの聖地「マルカンビル大食堂」で名物10段巻きソフトクリームやナポリかつを味わった後、JR東北本線で盛岡駅へ移動して本場の盛岡冷麺やわんこそばを堪能して帰路へ。
               </p>
@@ -566,15 +546,11 @@ export default function IwateHanamakiMinamiPage() {
             <Snowflake className="w-4 h-4" />
             11月・12月の気候・雪道運転・服装完全ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の花巻南温泉郷ドライブと無料シャトルバス活用術
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の花巻南温泉郷ドライブと無料シャトルバス活用術</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Clock className="w-4 h-4 text-sky-700" />
-                初冬の気温とおすすめの防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Clock className="w-4 h-4 text-sky-700" />
+                初冬の気温とおすすめの防寒対策</h3>
               <p>
                 11月の平均気温は日中7〜11℃ですが、朝晩は0℃近くまで下がります。12月に入ると最高気温も2〜4℃程度となり、真冬日（氷点下）の日が日常化します。
               </p>
@@ -584,10 +560,8 @@ export default function IwateHanamakiMinamiPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                雪道運転の注意点と無料シャトルの利便性
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                雪道運転の注意点と無料シャトルの利便性</h3>
               <p>
                 花巻南ICから県道12号線は定期的に除雪されますが、山間部に入ると路面凍結（アイスバーン）が多発します。11月中旬以降は必ずスタッドレスタイヤを装着してください。
               </p>
@@ -598,10 +572,8 @@ export default function IwateHanamakiMinamiPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              自噴立ち湯「白猿の湯」の正しい入浴法と注意点
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              自噴立ち湯「白猿の湯」の正しい入浴法と注意点</h3>
             <p>
               鉛温泉の白猿の湯は水深が約1.25mあるため、立った状態または腰掛けた状態で湯に浸かります。底の玉石から直接源泉が湧き出しているため、足元を滑らせないよう手すりを持ってゆっくりと入浴しましょう。
             </p>
@@ -617,16 +589,12 @@ export default function IwateHanamakiMinamiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の花巻南温泉郷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の花巻南温泉郷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -638,10 +606,8 @@ export default function IwateHanamakiMinamiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい岩手・東北の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい岩手・東北の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の絶景と秘湯、極上の前沢牛会席を満喫するみちのく旅ガイド
             </p>
@@ -653,9 +619,7 @@ export default function IwateHanamakiMinamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                花巻温泉郷の雪見露天と前沢牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">花巻温泉郷の雪見露天と前沢牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 イーハトーブの湯と台川渓谷の雪景色、極上前沢牛すき焼きを堪能する冬の休日。
               </p>
@@ -666,9 +630,7 @@ export default function IwateHanamakiMinamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・八幡平松川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                白銀の樹氷と乳白色雪見秘湯＆前沢牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">白銀の樹氷と乳白色雪見秘湯＆前沢牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 青みがかった自噴乳白色硫黄泉と伝統の南部鉄鍋すき焼きを味わう秘湯名宿。
               </p>
@@ -679,9 +641,7 @@ export default function IwateHanamakiMinamiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿＆雫石温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鶯宿温泉の開湯450年名湯と雫石牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鶯宿温泉の開湯450年名湯と雫石牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 小岩井農場の雪景色と鶯川の湯けむり、濃厚な雫石牛陶板焼きを味わう冬旅。
               </p>

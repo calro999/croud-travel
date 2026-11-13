@@ -301,9 +301,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              一年で最も空気が澄み渡る真冬の山中湖と、霊峰富士が魅せる天体のアート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">一年で最も空気が澄み渡る真冬の山中湖と、霊峰富士が魅せる天体のアート</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -350,17 +348,13 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Scenery & Gastronomy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              光と雪が織りなす霊峰の刹那と、武田信玄が愛した郷土の滋味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">光と雪が織りなす霊峰の刹那と、武田信玄が愛した郷土の滋味</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 leading-relaxed text-sm sm:text-base">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Camera className="w-5 h-5 text-orange-600" />
-                ダイヤモンド富士と紅富士のベストタイム
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Camera className="w-5 h-5 text-orange-600" />
+                ダイヤモンド富士と紅富士のベストタイム</h3>
               <p>
                 山中湖の冬は、太陽の動きとともに一日の中でドラマチックに景色が移り変わります。早朝6時45分頃、東の地平線から太陽が昇り始めると、まず白銀に染まった富士山の山頂部が淡いピンク色に染まります。光が徐々に山肌を下りていくにつれて鮮やかな真紅へと変わり、雪の凹凸が陰影をくっきりと浮かび上がらせる「紅富士」の瞬間は、わずか十数分間の奇跡です。
               </p>
@@ -372,10 +366,8 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-orange-600" />
-                本場甲州ほうとう鍋と甲州ワインビーフの極み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+                本場甲州ほうとう鍋と甲州ワインビーフの極み</h3>
               <p>
                 甲斐の武将・武田信玄が自らの陣中食として考案したと伝えられる「ほうとう」。一般的なうどんと異なり、塩を一切使わずに小麦粉を水で捏ねた幅広の麺を生のまま鍋に放り込みます。鍋には大きめに切った甘いカボチャ、里芋、人参、ゴボウ、白菜、油揚げ、椎茸などが惜しみなく入ります。
               </p>
@@ -389,10 +381,8 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
           </div>
 
           <div className="bg-amber-50/70 p-5 sm:p-6 rounded-2xl border border-amber-200/60">
-            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-600" />
-              忍野八海の名水が育む「忍野豆腐」と「湧水蕎麦」
-            </h4>
+            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+              忍野八海の名水が育む「忍野豆腐」と「湧水蕎麦」</h4>
             <p className="text-amber-900 text-xs sm:text-sm leading-relaxed">
               富士山に降り注いだ雪や雨が、数十年の歳月をかけて溶岩の間を浸透しながら磨かれた忍野の湧水は、ミネラル分が極めてバランス良く含まれた軟水です。この清冽な名水で作られる「忍野豆腐」は、大豆本来の甘みと滑らかな舌触りが際立ち、冬は湯豆腐や冷奴でそのピュアな美味しさを実感できます。また、名水で打たれる十割蕎麦の喉越しの良さも格別です。
             </p>
@@ -403,9 +393,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              【山梨・山中湖】富士山と湖を望む絶景温泉宿＆高原リゾート5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">【山梨・山中湖】富士山と湖を望む絶景温泉宿＆高原リゾート5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               ダイヤモンド富士の観測スポットに近く、客室や露天風呂から雪富士を望む贅沢な温泉宿・リゾートホテル
             </p>
@@ -439,9 +427,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>山中湖温泉・忍野高原エリア</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">{h.name}</h3>
                       <p className="text-stone-500 text-xs mt-1 flex items-center gap-1">
                         <Compass className="w-3.5 h-3.5" /> {h.access}
                       </p>
@@ -495,9 +481,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の山中湖・忍野八海 絶景1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の山中湖・忍野八海 絶景1泊2日モデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -563,19 +547,15 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-orange-600" />
-              冬の山中湖・忍野八海旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-orange-600" />
+              冬の山中湖・忍野八海旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="p-4 sm:p-5 bg-stone-50 rounded-2xl border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
         <section className="bg-gradient-to-br from-slate-900 to-stone-900 rounded-3xl p-6 sm:p-10 text-white space-y-6 shadow-xl">
           <div className="border-b border-slate-700 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               富士山絶景・名湯・冬の味覚を堪能する至極の厳選旅ガイド
             </p>
@@ -605,9 +583,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   神奈川・箱根富士見温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の澄んだ芦ノ湖と富士山絶景露天・箱根名湯と極上会席を堪能する名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の澄んだ芦ノ湖と富士山絶景露天・箱根名湯と極上会席を堪能する名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -622,9 +598,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   静岡・伊豆長岡温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  富士見テラスパノラマと伊豆の美肌名湯・金目鯛姿煮＆伊豆牛を味わう名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">富士見テラスパノラマと伊豆の美肌名湯・金目鯛姿煮＆伊豆牛を味わう名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -639,9 +613,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長野・上諏訪温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の諏訪湖御神渡りと名湯上諏訪温泉・信州牛すき焼き＆諏訪五蔵地酒名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の諏訪湖御神渡りと名湯上諏訪温泉・信州牛すき焼き＆諏訪五蔵地酒名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -656,9 +628,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   山梨・河口湖温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬花火と逆さ富士・甲州ワインビーフと絶景露天風呂を愉しむ河口湖名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬花火と逆さ富士・甲州ワインビーフと絶景露天風呂を愉しむ河口湖名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -673,9 +643,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   茨城・大洗＆那珂湊
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  神磯の鳥居初日の出と冬の極上あんこう鍋どぶ汁・那珂湊市場買い出し名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">神磯の鳥居初日の出と冬の極上あんこう鍋どぶ汁・那珂湊市場買い出し名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -690,9 +658,7 @@ export default function YamanashiYamanakakoOshinoWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   千葉・犬吠埼＆銚子
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">本州一早い初日の出「犬吠埼」と冬の極上銚子つりきんめ・九十九里地蛤鍋</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

@@ -269,9 +269,7 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Coastal Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の松島湾が魅せる澄明な美しさ｜大気が澄む11月・12月こそ訪れたい理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の松島湾が魅せる澄明な美しさ｜大気が澄む11月・12月こそ訪れたい理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Natural Spring & Spa</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                太古の地層から湧き出る「絹肌の湯」｜松島温泉の泉質と美肌効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">太古の地層から湧き出る「絹肌の湯」｜松島温泉の泉質と美肌効果</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Delicacies & Wagyu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11・12月が最盛期「松島牡蠣」と最高峰「仙台牛」の豪華競演
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11・12月が最盛期「松島牡蠣」と最高峰「仙台牛」の豪華競演</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +341,7 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Matsushima Winter Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の松島1泊2日モデルコース｜日本三景絶景と歴史文化・美食めぐり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の松島1泊2日モデルコース｜日本三景絶景と歴史文化・美食めぐり</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -371,9 +363,7 @@ export default function MiyagiMatsushimaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Matsushima Onsen Ryokan & Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              松島湾の絶景と美食に癒やされる｜松島温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">松島湾の絶景と美食に癒やされる｜松島温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、初冬の松島牡蠣や仙台牛、絶景展望露天風呂を誇る本物の名宿を厳選。
             </p>
@@ -404,9 +394,7 @@ export default function MiyagiMatsushimaWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -483,26 +471,20 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Advice</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の松島旅行｜防寒対策と日の出鑑賞のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の松島旅行｜防寒対策と日の出鑑賞のポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                海風を防ぐ防寒と快適なレイヤード
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                海風を防ぐ防寒と快適なレイヤード</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 松島は太平洋側のため大雪の心配は少ないものの、海沿い特有の冷たい潮風が吹き抜けます。特に遊覧船の展望デッキや岬の展望台では体感温度がぐっと下がるため、風を遮る防風アウターやマフラー、カイロを用意しておくと安心です。室内や温泉旅館内は暖房が効いているため、脱ぎ着しやすい重ね着がおすすめです。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                冬の日の出時刻と東向き展望台の活用
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                冬の日の出時刻と東向き展望台の活用</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月・12月の松島湾の日の出は午前6時20分〜6時50分頃です。空が白み始める30分前から朝焼けのマジックアワーが始まります。宿の東向き展望露天風呂やバルコニーはもちろん、西行戻しの松公園や双観山などの高台展望台からも息を呑む絶景が望めます。早起きして朝湯に浸かりながら拝む日の出は一生の思い出になります。
               </p>
@@ -518,18 +500,14 @@ export default function MiyagiMatsushimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                宮城・松島温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">宮城・松島温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -542,9 +520,7 @@ export default function MiyagiMatsushimaWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Tohoku & Winter Gourmet Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・東日本の冬名湯＆極上グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・東日本の冬名湯＆極上グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚、雪見風呂、絶景オーシャンビュー露天をめぐる厳選特集もぜひご覧ください。
             </p>

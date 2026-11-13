@@ -303,10 +303,8 @@ export default function KagawaKotohiraWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-amber-600" />
-            11・12・1月の琴平・善通寺 冬旅ハイライト
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-amber-600" />
+            11・12・1月の琴平・善通寺 冬旅ハイライト</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="space-y-2 border-l-2 border-amber-500 pl-4">
               <h3 className="font-bold text-slate-900">一生に一度のこんぴら初詣</h3>
@@ -341,9 +339,7 @@ export default function KagawaKotohiraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">HISTORICAL & CULTURAL JOURNEY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                祈りの道が紡ぐ二千年の歴史：金刀比羅宮の信仰と善通寺の曼荼羅世界
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">祈りの道が紡ぐ二千年の歴史：金刀比羅宮の信仰と善通寺の曼荼羅世界</h2>
             </div>
           </div>
 
@@ -368,9 +364,7 @@ export default function KagawaKotohiraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">GOURMET & THERMAL SPRINGS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                冬の讃岐が誇る至高の滋味：讃岐オリーブ牛と熱々うどん、名湯こんぴら温泉
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">冬の讃岐が誇る至高の滋味：讃岐オリーブ牛と熱々うどん、名湯こんぴら温泉</h2>
             </div>
           </div>
 
@@ -394,9 +388,7 @@ export default function KagawaKotohiraWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-amber-600" />
               HOTEL SELECTION BY RAKUTEN API
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              金刀比羅宮初詣と讃岐美食を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">金刀比羅宮初詣と讃岐美食を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
               楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。立地、温泉、料理、サービスのすべてにおいて高い評価を獲得する屈指の名宿を厳選しました。
             </p>
@@ -433,9 +425,7 @@ export default function KagawaKotohiraWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
                     <p className="text-xs text-slate-500 mb-3 line-clamp-2">
                       {hotel.special}
                     </p>
@@ -494,19 +484,15 @@ export default function KagawaKotohiraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                1泊2日 金刀比羅宮新春初詣＆善通寺・讃岐美食 満喫モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">1泊2日 金刀比羅宮新春初詣＆善通寺・讃岐美食 満喫モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                琴平到着、金刀比羅宮785段石段参拝と門前町散策、名湯で癒やしの夜
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                琴平到着、金刀比羅宮785段石段参拝と門前町散策、名湯で癒やしの夜</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 JR琴平駅または高松空港からリムジンバスで琴平到着</strong><br />
                 宿泊する宿に荷物を預け、表参道へ向かう前に名物讃岐うどん店で熱々の「釜揚げうどん」を一杯。冬の参拝に向け腹ごしらえ。
@@ -527,10 +513,8 @@ export default function KagawaKotohiraWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                弘法大師生誕地「総本山善通寺」参拝と戒壇めぐり、丸亀城の石垣美
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                弘法大師生誕地「総本山善通寺」参拝と戒壇めぐり、丸亀城の石垣美</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:30 宿で手打ち讃岐うどんや地産和朝食をいただきチェックアウト</strong><br />
                 朝の清々しい空気の中を出発。車または土讃線で隣町の善通寺市へ移動（所要約15分）。
@@ -559,19 +543,15 @@ export default function KagawaKotohiraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                香川・琴平＆善通寺 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">香川・琴平＆善通寺 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function KagawaKotohiraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！全国の厳選「冬の初詣＆開運・名湯グルメ特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！全国の厳選「冬の初詣＆開運・名湯グルメ特集」</h2>
             </div>
           </div>
 

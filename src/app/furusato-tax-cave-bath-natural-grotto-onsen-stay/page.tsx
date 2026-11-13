@@ -82,15 +82,12 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          打ち寄せる波音と太古の岩肌。大自然が創り出した天然洞窟の湯船で、野生の感動と神秘に浸る
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">打ち寄せる波音と太古の岩肌。大自然が創り出した天然洞窟の湯船で、野生の感動と神秘に浸る</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           数千年から数十万年もの歳月をかけて波や地殻変動が創り出した「天然洞窟風呂」。ごつごつとした岩肌に覆われた空間に身を浸すと、日常の喧騒から完全に切り離され、まるで母なる地球の胎内に抱かれているかのような深い安らぎと神秘的な高揚感に包まれます。洞窟の開口部から見上げる青空や夕暮れの海、洞内に反響する波や湧き水のせせらぎ、ほのかに立ちこめる湯気と硫黄の香りは、人工の温泉では決して味わえない唯一無二の魅力です。本特集では、太平洋の荒波が間近に迫る巨大な海食洞窟の中に乳白色の源泉が湧き出す日本屈指の名湯「南紀勝浦温泉 ホテル浦島」、開湯1800年・世界遺産「つぼ湯」のすぐそばに佇み、江戸時代からの風情を残す槇風呂や天然蒸し風呂で知られる「湯の峰温泉 旅館あづまや」、そして諏訪湖の神秘的な情景と美肌の自家源泉を畳敷きの大浴場や癒しの空間で味わう名宿「上諏訪温泉 しんゆ」の3宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で一生記憶に残る洞窟名湯の旅へ出かけましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">天然洞窟温泉＆名湯旅館特集が旅人を惹きつけてやまない3つの魅力</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】南紀勝浦温泉　ホテル浦島</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 天然洞窟温泉＆名湯旅館特集が旅人を惹きつけてやまない3つの魅力
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">天然洞窟温泉＆名湯旅館特集が旅人を惹きつけてやまない3つの魅力</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            南紀勝浦温泉　ホテル浦島
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">南紀勝浦温泉　ホテル浦島</h2>
           <p className="text-xs md:text-sm text-amber-100">和歌山県那智勝浦町・太平洋の怒濤が間近に迫る大洞窟温泉「忘帰洞」「玄武洞」！圧倒的スケールの温泉リゾート</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            旅館あづまや　＜和歌山県＞
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">旅館あづまや　＜和歌山県＞</h2>
           <p className="text-xs md:text-sm text-amber-100">和歌山県田辺市・開湯1800年日本最古の温泉街！世界遺産「つぼ湯」至近の木造名門旅館と天然温泉蒸し風呂</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            上諏訪温泉　しんゆ（親湯）
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">上諏訪温泉　しんゆ（親湯）</h2>
           <p className="text-xs md:text-sm text-amber-100">長野県諏訪市・諏訪湖を一望する神秘と癒しの宿！足元に優しい畳風呂とミネラル豊富な自家源泉美肌の湯</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -327,9 +316,7 @@ export default function FurusatoCaveBathNaturalGrottoStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい注目のふるさと納税温泉特集
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税温泉特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

@@ -266,10 +266,8 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-sky-500 shrink-0" />
-              青白く輝く氷の彫刻と静寂のカルデラ湖！冬の奥入瀬・十和田が魅せる極限の美
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-sky-500 shrink-0" />
+              青白く輝く氷の彫刻と静寂のカルデラ湖！冬の奥入瀬・十和田が魅せる極限の美</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-sky-500 shrink-0" />
-              奥入瀬渓流＆十和田湖で泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-sky-500 shrink-0" />
+              奥入瀬渓流＆十和田湖で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。氷瀑露天風呂、登録有形文化財の木造建築、炭火炉端焼きを誇る名宿を厳選。
             </p>
@@ -334,12 +330,10 @@ export default function AomoriTowadaOiraseWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-sky-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-sky-700 bg-sky-50 border border-sky-200/60 rounded-md px-2.5 py-1 mt-2 inline-block font-medium">
                         {h.special}
@@ -396,10 +390,8 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-sky-500 shrink-0" />
-              奥入瀬渓流＆十和田湖の冬の気候と時期別おすすめの服装・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-sky-500 shrink-0" />
+              奥入瀬渓流＆十和田湖の冬の気候と時期別おすすめの服装・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -439,38 +431,30 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-sky-500 shrink-0" />
-              冬の奥入瀬・十和田湖を美しく切り取る！絶景フォトスポット＆撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-sky-500 shrink-0" />
+              冬の奥入瀬・十和田湖を美しく切り取る！絶景フォトスポット＆撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                馬門岩の青白き巨大氷瀑
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                馬門岩の青白き巨大氷瀑</h3>
               <p className="leading-relaxed">
                 午前中の順光から半逆光の時間帯がベスト。高さ数十メートルに達する青白い氷の柱を広角レンズ（16〜24mm）で下から見上げるアングルで撮影すると、自然の圧倒的なスケール感が迫力満点に表現できます。青氷の透明感を引き出すため露出補正をややプラスに。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                夜の氷瀑ライトアップと闇夜のコントラスト
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                夜の氷瀑ライトアップと闇夜のコントラスト</h3>
               <p className="leading-relaxed">
                 公式ライトアップバスツアーでの撮影。暗闇のなかに青や緑、白の光で鮮やかに浮かび上がる氷瀑の幻想的な姿を手持ち夜景モードまたはミニ三脚を活用して撮影。息を止めてブレを防ぎ、暗闇と光のコントラストをドラマチックに描き出します。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                雪の十和田神社と深い杉木立
-              </h3>
+              <h3 className="font-bold text-sky-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                雪の十和田神社と深い杉木立</h3>
               <p className="leading-relaxed">
                 新春の朝、深い雪をまとった杉の巨木が連なる参道から朱塗りの社殿を狙うアングル。足跡のない純白の雪面と厳かな社殿の朱色の対比が神聖な美しさを放ちます。朝の斜光が木々の間から差し込む瞬間を狙うと神々しい光芒が捉えられます。
               </p>
@@ -482,38 +466,30 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Local Flavors</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-sky-500 shrink-0" />
-              冬の青森・十和田を味わう！十和田バラ焼き・倉石牛・ヒメマス・せんべい汁
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-sky-500 shrink-0" />
+              冬の青森・十和田を味わう！十和田バラ焼き・倉石牛・ヒメマス・せんべい汁</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                名物「十和田バラ焼き」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                名物「十和田バラ焼き」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 牛バラ肉と山盛りのタマネギを甘辛い特製醤油ダレで鉄板の上でジュージューと炒め焼きにする十和田のソウルフード。タマネギの甘みと牛バラの脂のコクが絶妙に絡み合い、冷えた体にガツンと元気を注入してくれます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                最高級銘柄「青森倉石牛」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                最高級銘柄「青森倉石牛」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 北国の澄んだ空気と清冽な水で育まれた黒毛和牛「青森倉石牛」。きめ細かく美しい霜降り肉は、脂の融点が低く、口に運ぶと上品な甘みとともにスッと溶けていきます。冬の贅沢なステーキや陶板焼きでその真価を味わえます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-sky-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-500" />
-                十和田湖ヒメマス＆せんべい汁
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-500" />
+                十和田湖ヒメマス＆せんべい汁</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 十和田湖の清らかな水で育つヒメマスは、身がサーモンピンクに輝き、上品な脂と繊細な旨味が自慢。塩焼きやフライで熱々を味わえます。また、鶏出汁の醤油スープに南部せんべいを割り入れて煮込む熱々の「せんべい汁」も冬の定番です。
               </p>
@@ -525,10 +501,8 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-sky-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-sky-400 shrink-0" />
-              巨大氷瀑と十和田湖冬景色を巡る1泊2日白銀モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-sky-400 shrink-0" />
+              巨大氷瀑と十和田湖冬景色を巡る1泊2日白銀モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -586,18 +560,14 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-sky-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の十和田湖・奥入瀬渓流旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の十和田湖・奥入瀬渓流旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -610,9 +580,7 @@ export default function AomoriTowadaOiraseWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-sky-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！青森・北東北エリアの冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！青森・北東北エリアの冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

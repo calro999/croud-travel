@@ -285,9 +285,7 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-orange-500 pl-4">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              波飛沫舞う断崖の洞窟宮と陽光の日南ブルー！南国宮崎の冬の祈りと美食
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">波飛沫舞う断崖の洞窟宮と陽光の日南ブルー！南国宮崎の冬の祈りと美食</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               黒潮が運ぶ温暖な気候、神話の舞台・鵜戸神宮の運玉祈願、そして冬の伊勢海老尽くし
             </p>
@@ -328,9 +326,7 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の日南・南郷・青島を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の日南・南郷・青島を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルAPIから最新取得した、オーシャンビュー絶景・美肌天然温泉・極上伊勢海老と宮崎牛の信頼宿
             </p>
@@ -365,9 +361,7 @@ export default function MiyazakiNichinanWinterPage() {
                       <span>{hotel.access}</span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-sm text-slate-600 leading-relaxed">
                       {hotel.story}
@@ -419,9 +413,7 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-orange-500 pl-4">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の日南海岸を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の日南海岸を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               鵜戸神宮運玉初詣、フェニックスロード爽快ドライブ、飫肥城下町、伊勢海老＆宮崎牛を味わう旅
             </p>
@@ -474,47 +466,37 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-orange-500 pl-4">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の日南完全攻略：鵜戸神宮初詣・絶景ドライブ・伊勢海老巡りの極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の日南完全攻略：鵜戸神宮初詣・絶景ドライブ・伊勢海老巡りの極意</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-amber-500" />
-                鵜戸神宮の「運玉投げ」と新春初詣のコツ
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+                鵜戸神宮の「運玉投げ」と新春初詣のコツ</h3>
               <p className="leading-relaxed">
                 鵜戸神宮の運玉は5個で数百円。男性は左手、女性は右手で投げる習わしです。亀石の窪みまでは約12mあるため、力を抜いて山なりの放物線を描くように投げるのがコツ。三が日は参道前の駐車場が大渋滞するため、朝8時前の早い時間に到着するとスムーズに参拝できます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-orange-500" />
-                日南フェニックスロードの絶景立ち寄り処
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-orange-500" />
+                日南フェニックスロードの絶景立ち寄り処</h3>
               <p className="leading-relaxed">
                 宮崎市内から日南へ向かうルートでは、まず「道の駅フェニックス」で堀切峠のパノラマと名物ソフトクリームを堪能。続いて「サンメッセ日南」で完全復刻された7体のモアイ像と記念撮影。冬の澄んだ青空と水平線が交わるコントラストは息を呑む美しさです。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                九州の小京都・飫肥城下町の散策と名物
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                九州の小京都・飫肥城下町の散策と名物</h3>
               <p className="leading-relaxed">
                 飫肥（おび）では飫肥杉が使われた大手門や武家屋敷が立ち並び、江戸情緒が漂います。「あゆみちゃんマップ」を片手に、揚げたての飫肥天やまるでプリンのような上品な甘さの厚焼玉子をつまみ食いしながらの散策は、冬の心地よい日差しにぴったりです。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-red-500" />
-                冬の王様！日南伊勢海老と宮崎牛の贅沢
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-red-500" />
+                冬の王様！日南伊勢海老と宮崎牛の贅沢</h3>
               <p className="leading-relaxed">
                 日南海岸の伊勢海老は、冬の冷たい黒潮で身が引き締まり甘みが凝縮します。宿の夕食プランでは、お造りのぷりぷりした食感を楽しんだ後、翌朝の朝食や夕食の締めに頭を使った濃厚な味噌汁を味わうのが王道。霜降りの宮崎牛ステーキとの贅沢な競演は旅のハイライトです。
               </p>
@@ -526,26 +508,20 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-orange-500 pl-4">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の宮崎・日南：気候・服装・ドライブの注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の宮崎・日南：気候・服装・ドライブの注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-orange-500" />
-                温暖な気候と朝晩の寒暖差
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-orange-500" />
+                温暖な気候と朝晩の寒暖差</h4>
               <p>
                 日中は15℃を超える日も多く過ごしやすいですが、朝晩や岬の突端では冷たい海風が吹きます。脱ぎ着しやすいカーディガンやライトダウンを1着用意しておくと、一日中快適に観光を楽しめます。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-500" />
-                宮崎空港からのレンタカードライブ
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Compass className="w-4 h-4 text-teal-500" />
+                宮崎空港からのレンタカードライブ</h4>
               <p>
                 宮崎ブーゲンビリア空港から日南市街地までは車で約50分。国道220号は道幅も広く走りやすいシーサイドウェイですが、鵜戸神宮周辺はカーブが多いため、景色に見とれず安全運転を心がけましょう。
               </p>
@@ -557,18 +533,14 @@ export default function MiyazakiNichinanWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-orange-500 pl-4">
             <span className="text-orange-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の宮崎・日南観光・初詣・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の宮崎・日南観光・初詣・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-orange-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -579,10 +551,8 @@ export default function MiyazakiNichinanWinterPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の九州・南国温泉特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の九州・南国温泉特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-miyazaki-aoshima-onsen-miyazakigyu-iseebi-resort-stay/"

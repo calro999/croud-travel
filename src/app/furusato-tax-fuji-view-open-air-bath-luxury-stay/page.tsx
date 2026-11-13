@@ -82,15 +82,12 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          青空にそびえる白雪の富士、夕暮れに赤く染まる赤富士。湯船に身を委ねて霊峰と対話する、至福の感動ステイへ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">青空にそびえる白雪の富士、夕暮れに赤く染まる赤富士。湯船に身を委ねて霊峰と対話する、至福の感動ステイへ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           日本人にとって永遠の憧れであり、世界遺産としても世界中から旅人が集まる「富士山」。朝日に輝く神々しい姿、湖面に逆さ富士を映し出す静寂の朝、夕暮れのグラデーションに浮かび上がる壮麗な稜線——。客室のテラスや湯けむり立ちのぼる露天風呂から、誰にも邪魔されずに富士山の雄姿を真正面に眺める贅沢は、日本の温泉文化が誇る最高の体験です。高アルカリ性の天然温泉がもたらす美肌効果、富士の伏流水が育んだ甲州ワインや甲州牛、新鮮な高原野菜をいただく極上ディナーが、特別な旅をさらに色鮮やかに彩ります。本特集では、二万五千坪の大日本庭園と深さ90cmの三段露天風呂「露天風呂 富士山」から富士山を一望し、おもてなしの感動宿として全国屈指の評価を誇る「庭園と感動の宿 ホテル鐘山苑」、河口湖の産屋ヶ崎に位置し全客室と大浴場から「富士山と湖」の完璧なパノラマを望む「河口湖温泉 うぶや」、そして屋上に富士山を一望する足湯カフェや客室露天風呂を備えた和風名旅館「富士河口湖温泉 湖南荘」の3大名宿を厳選。富士吉田市・富士河口湖町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で富士山ビュー温泉旅を予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">富士山ビュー絶景露天風呂宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】庭園と感動の宿　富士山温泉　ホテル鐘山苑</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 富士山ビュー絶景露天風呂宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">富士山ビュー絶景露天風呂宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            庭園と感動の宿　富士山温泉　ホテル鐘山苑
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h2>
           <p className="text-xs md:text-sm text-amber-100">山梨県富士吉田市・二万五千坪の大庭園！深さ90cm三段構造の天空露天風呂「露天風呂 富士山」とおもてなしの最高峰</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            河口湖温泉　うぶや
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">河口湖温泉　うぶや</h2>
           <p className="text-xs md:text-sm text-amber-100">山梨県富士河口湖町・全客室＆全露天風呂から富士山と河口湖を一望！「人生を祝う」おもてなしの感動宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            富士河口湖温泉　湖南荘
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">富士河口湖温泉　湖南荘</h2>
           <p className="text-xs md:text-sm text-amber-100">山梨県富士河口湖町・屋上に富士山を望む展望足湯！天然温泉客室露天風呂と純和風のおもてなしが評判の名宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoFujiViewOpenAirBathStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

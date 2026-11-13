@@ -130,9 +130,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
 
       {/* イントロダクション＆比較・選び方ガイド（長文SEOコンテンツ） */}
       <article className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm leading-relaxed text-sm md:text-base text-emerald-950/90">
-        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-200 pb-3 flex items-center gap-2">
-          <span>🛍️</span> <span>{prefInfo.name}のお土産選びで失敗しないための3つのチェックポイント</span>
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-200 pb-3 flex items-center gap-2"><span>️</span> <span>{prefInfo.name}のお土産選びで失敗しないための3つのチェックポイント</span></h2>
 
         <p className="text-sm leading-relaxed">
           {prefInfo.name}には魅力的な銘菓や名産品が溢れており、いざお土産売り場へ行くとどれを選ぶべきか迷ってしまいがちです。贈る相手や用途に合わせた最適なお土産を選ぶための重要ポイントをまとめました。
@@ -159,9 +157,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
 
       {/* お土産ランキング比較表 */}
       <section className="bg-emerald-50/40 border border-emerald-300/40 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-          <span>📊</span> <span>【一目でわかる】{prefInfo.name}のおすすめ人気お土産比較一覧表</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【一目でわかる】{prefInfo.name}のおすすめ人気お土産比較一覧表</span></h2>
 
         <div className="overflow-x-auto">
           <table className="w-full text-left text-xs md:text-sm border-collapse bg-white rounded-2xl overflow-hidden shadow-sm">
@@ -194,9 +190,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
 
       {/* 各お土産の詳細ルポ・比較分析 */}
       <section className="space-y-8">
-        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">
-          🏆 {prefInfo.name}の人気お土産・銘菓 詳細比較ガイド
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">{prefInfo.name}の人気お土産・銘菓 詳細比較ガイド</h2>
 
         <div className="space-y-8">
           {prefInfo.souvenirs.map((item, i) => (
@@ -215,9 +209,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
                 </span>
               </div>
 
-              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-                {item.name}
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">{item.name}</h3>
 
               <div className="prose prose-emerald max-w-none text-xs md:text-sm text-emerald-950/80 leading-relaxed space-y-3">
                 <p>{item.description}</p>
@@ -246,16 +238,12 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
 
       {/* FAQセクション */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-          <span>❓</span> <span>{prefInfo.name}のお土産購入に関するよくある質問（FAQ）</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>{prefInfo.name}のお土産購入に関するよくある質問（FAQ）</span></h2>
         <div className="space-y-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-5 rounded-2xl bg-emerald-50/40 border border-emerald-200/60 space-y-2">
-              <h3 className="text-sm font-bold text-emerald-950 flex items-start gap-2">
-                <span className="text-emerald-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-emerald-950 flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -266,9 +254,7 @@ export default async function PrefectureSouvenirsPage({ params }: { params: Prom
 
       {/* ボトムナビゲーション */}
       <section className="p-8 rounded-3xl bg-emerald-950 text-white text-center space-y-4 shadow-xl">
-        <h2 className="text-xl font-black font-journal-serif">
-          {prefInfo.name}の旅をもっと豊かに
-        </h2>
+        <h2 className="text-xl font-black font-journal-serif">{prefInfo.name}の旅をもっと豊かに</h2>
         <p className="text-xs text-emerald-100 max-w-xl mx-auto leading-relaxed">
           お土産をチェックした後は、{prefInfo.name}の絶景カフェや極上の地酒・日本酒、そして快適な滞在を叶える厳選宿をチェックしましょう。
         </p>

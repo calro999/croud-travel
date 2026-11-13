@@ -272,9 +272,7 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Winter Highlights</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の中讃岐が心を掴む理由：空海の祈りが宿る古刹と湯気立ち上る冬の讃岐うどん
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の中讃岐が心を掴む理由：空海の祈りが宿る古刹と湯気立ち上る冬の讃岐うどん</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -293,9 +291,7 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-              善通寺＆丸亀！初詣と讃岐グルメを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-stone-900">善通寺＆丸亀！初詣と讃岐グルメを満喫する厳選名宿5選</h2>
             <p className="text-stone-600 text-xs md:text-sm">
               楽天トラベルで支持を集め、瀬戸内海の夜景や名湯温泉・アクセスの良さを誇るホテル＆旅館
             </p>
@@ -318,9 +314,7 @@ export default function KagawaZentsujiMarugamePage() {
                           <span className="text-stone-400 ml-1">({hotel.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 flex items-center gap-1.5 mt-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 flex-shrink-0" />
                         {hotel.access}
@@ -340,10 +334,8 @@ export default function KagawaZentsujiMarugamePage() {
 
                   {/* ハイライト3点 */}
                   <div className="bg-orange-50/50 rounded-2xl p-4 md:p-5 border border-orange-100 space-y-2.5">
-                    <h4 className="text-xs font-black text-orange-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <Sparkles className="w-3.5 h-3.5 text-orange-600" />
-                      この宿の注目ポイント＆こだわり
-                    </h4>
+                    <h4 className="text-xs font-black text-orange-900 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-orange-600" />
+                      この宿の注目ポイント＆こだわり</h4>
                     <ul className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-xs text-stone-700">
                       {hotel.highlights.map((hl, hIdx) => (
                         <li key={hIdx} className="flex items-start gap-1.5">
@@ -392,37 +384,29 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Local Food & Culture</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の香川で絶対に味わうべき三大味覚：しっぽくうどん・骨付鳥・オリーブ牛
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の香川で絶対に味わうべき三大味覚：しっぽくうどん・骨付鳥・オリーブ牛</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-stone-700">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
-                冬の風物詩「讃岐しっぽくうどん」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
+                冬の風物詩「讃岐しっぽくうどん」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 晩秋から冬期限定で讃岐のうどん店に登場する郷土麺。大根、人参、里芋、ごぼうなどの根菜類と油揚げ、鶏肉を、いりこ出汁と醤油でじっくり煮込み、熱々のうどんに出汁ごとたっぷりとかけた一杯。野菜の甘みと出汁の深い旨味が染み渡る冬の滋味です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
-                丸亀発祥のスパイシー「骨付鳥」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
+                丸亀発祥のスパイシー「骨付鳥」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 ニンニクと胡椒が効いた特製スパイスで香ばしく焼き上げる丸亀の名物グルメ。しっかりとした歯ごたえで噛むほどに旨味が溢れる「おや（親どり）」と、柔らかく肉汁たっぷりの「ひな（若どり）」の2種。皿に残った熱々の旨味脂におにぎりを浸して食べるのが本場の極意です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
-                小豆島オリーブ育ち「オリーブ牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-orange-600" />
+                小豆島オリーブ育ち「オリーブ牛」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 香川県の県木であるオリーブの搾り果実を与えて育てた讃岐牛の最高峰ブランド。オレイン酸と抗酸化成分が豊富で、さっぱりとした後味とコクのある旨味が特徴。冬の冷えた夜に、ステーキやすき焼き小鍋で味わえば、口の中でとろける甘みを堪能できます。
               </p>
@@ -434,9 +418,7 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">History & Heritage</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              空海の奇跡・満濃池修築の土木遺産と、丸亀藩が生んだ「丸亀うちわ」の技
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">空海の奇跡・満濃池修築の土木遺産と、丸亀藩が生んだ「丸亀うちわ」の技</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -452,9 +434,7 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Model Itinerary</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              【1泊2日】空海の善通寺初詣と丸亀城石垣ライトアップ・讃岐グルメ満喫コース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">【1泊2日】空海の善通寺初詣と丸亀城石垣ライトアップ・讃岐グルメ満喫コース</h2>
           </div>
 
           <div className="space-y-6 text-sm text-stone-700">
@@ -504,18 +484,14 @@ export default function KagawaZentsujiMarugamePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-orange-600 pl-4">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Frequently Asked Questions</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の善通寺・丸亀旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の善通寺・丸亀旅行に関するよくある質問</h2>
           </div>
 
           <div className="divide-y divide-stone-100">
             {faqs.map((f, idx) => (
               <div key={idx} className="py-4 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{f.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{f.q}</span></h3>
                 <p className="text-xs md:text-sm text-stone-600 pl-6 leading-relaxed">
                   {f.a}
                 </p>
@@ -526,9 +502,7 @@ export default function KagawaZentsujiMarugamePage() {
 
         {/* 内部リンク・関連特集 */}
         <section className="bg-stone-100 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">
-            あわせて読みたい！四国の冬旅＆名湯特集
-          </h3>
+          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">あわせて読みたい！四国の冬旅＆名湯特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
             <Link href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/" className="p-3 bg-white rounded-xl hover:text-orange-700 shadow-xs transition">
               ⛩️ こんぴら温泉郷！金刀比羅宮初詣とオリーブ牛名宿

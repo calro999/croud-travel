@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            毎分三万リットルの湧出量を誇る日本一の名湯——湯畑の湯けむりと老舗旅館で味わう至高の湯治ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">毎分三万リットルの湧出量を誇る日本一の名湯——湯畑の湯けむりと老舗旅館で味わう至高の湯治ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             群馬県吾妻郡草津町、標高1,200メートルの高原に位置する草津温泉。自然湧出量日本一を誇り、古くから「恋の病以外ならどんな病も治す」と称えられてきた日本屈指の名湯です。温泉街の中心に位置する「湯畑」からは、エメラルドグリーンのお湯が滾々と湧き出し、立ち上る白い湯けむりと心地よい硫黄の香りが旅人を非日常の世界へと誘います。強酸性の泉質は極めて高い殺菌力を持ち、日々の疲労を根底から解きほぐしてくれます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県草津町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  草津温泉　望雲
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">草津温泉　望雲</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業慶長四年・十返舎一九ゆかりの歴史宿！「西の河原」「万代鉱」の二大源泉を六つの湯船で満喫
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  草津温泉 望雲（ぼううん） —— 歴史を刻む名門老舗。新緑と紅葉が彩る日本庭園と贅沢な掛け流しの湯
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">草津温泉 望雲（ぼううん） —— 歴史を刻む名門老舗。新緑と紅葉が彩る日本庭園と贅沢な掛け流しの湯</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 「西の河原源泉」と「万代鉱源泉」を引く六つの名湯風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">「西の河原源泉」と「万代鉱源泉」を引く六つの名湯風呂</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内に引き込まれた二つの貴重な天然源泉。露天風呂付き大浴場「遊山の湯」「万代の湯」「西の湯」など趣の異なる湯船で贅沢な源泉かけ流し湯巡りが楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 四季の草花が咲き誇る美しい日本庭園と洗練された館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">四季の草花が咲き誇る美しい日本庭園と洗練された館内</h5>
                     <p className="text-stone-600 leading-relaxed">湯畑から徒歩約3分の高台に位置しながら静寂に包まれた宿。春のシャクナゲや秋の紅葉など、手入れの行き届いた庭園が旅情を深めてくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> お部屋または個室料亭でいただく上州名物の本格会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">お部屋または個室料亭でいただく上州名物の本格会席</h5>
                     <p className="text-stone-600 leading-relaxed">上州牛のしゃぶしゃぶや陶板焼き、地元の採れたて山菜や川魚を取り入れた季節感あふれる和食会席。周囲を気にせず優雅に美食を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県草津町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  草津温泉　ホテル一井
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">草津温泉　ホテル一井</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業三百余年・湯畑の目の前に建つ草津の象徴！一番街の眺望と貴重な白旗源泉・万代鉱源泉
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  草津温泉 ホテル一井 —— 湯畑を眼下に見晴らす特等席。白濁の湯と湯畑ビュー客室で過ごす特別な夜
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">草津温泉 ホテル一井 —— 湯畑を眼下に見晴らす特等席。白濁の湯と湯畑ビュー客室で過ごす特別な夜</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 客室の窓から湯畑を一望できる希少な「本館・湯畑側客室」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">客室の窓から湯畑を一望できる希少な「本館・湯畑側客室」</h5>
                     <p className="text-stone-600 leading-relaxed">昼の活気ある湯畑から、夜の幻想的なイルミネーションまで、お部屋にいながら草津のシンボル風景を独り占めできる唯一無二のロケーションです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 貴重な「白旗源泉」を引く大浴場と「万代鉱源泉」の露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">貴重な「白旗源泉」を引く大浴場と「万代鉱源泉」の露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">源頼朝が発見したと伝わる乳白色の「白旗源泉」の内湯と、湯量豊富な「万代鉱源泉」の庭園露天風呂。泉質の違いをじっくりと体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ビュッフェダイニングまたはお部屋食で味わう旬の味覚
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ビュッフェダイニングまたはお部屋食で味わう旬の味覚</h5>
                     <p className="text-stone-600 leading-relaxed">上州の郷土料理やライブキッチンが楽しいビュッフェスタイル、または落ち着いたお部屋食・お食事処会席から旅行スタイルに合わせて選べます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県草津町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  草津温泉　奈良屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">草津温泉　奈良屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   明治十年創業・専任の「湯守」が湯を仕込む最高峰旅館！白旗源泉のまろやかな湯と格式の和モダン空間
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  草津温泉 奈良屋 —— 伝統の湯守文化を受け継ぐ名門。研ぎ澄まされた美意識とおもてなしの極み
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">草津温泉 奈良屋 —— 伝統の湯守文化を受け継ぐ名門。研ぎ澄まされた美意識とおもてなしの極み</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 湯守が気温や天候に合わせて手作業で湯温を調整する名湯「御汲上の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">湯守が気温や天候に合わせて手作業で湯温を調整する名湯「御汲上の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">草津最古の白旗源泉を直接引き、湯守が一晩かけて湯をもみ、空気を含ませてまろやかな肌触りに仕立て上げた極上の湯浴み体験を提供します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 歴史ある梁を活かした重厚な数寄屋造りとモダンな喫茶去
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">歴史ある梁を活かした重厚な数寄屋造りとモダンな喫茶去</h5>
                     <p className="text-stone-600 leading-relaxed">帳場の温かい灯り、畳敷きの心地よさ、そしてサイフォン珈琲が薫るカフェバー。古き良き伝統と現代の寛ぎが見事に調和しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 職人の繊細な技が光る個室食事処での本格旬会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">職人の繊細な技が光る個室食事処での本格旬会席</h5>
                     <p className="text-stone-600 leading-relaxed">厳選された上州牛や全国から届く選りすぐりの旬素材。出汁の旨味を極めた一皿一皿が目と舌を喜ばせてくれます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 草津温泉街・湯畑周辺の散策＆名所めぐりガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 草津温泉街・湯畑周辺の散策＆名所めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                熱乃湯での伝統芸能「湯もみと踊り」ショー鑑賞
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                熱乃湯での伝統芸能「湯もみと踊り」ショー鑑賞</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 高温の草津の湯を水で薄めず冷ますために考案された伝統技法「湯もみ」。「草津よいとこ一度はおいで」の唄に合わせて大きな板でお湯をかき混ぜる迫力のショーを間近で見学できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                西の河原公園の広大な露天風呂と湯の川散歩
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                西の河原公園の広大な露天風呂と湯の川散歩</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 河原のいたるところから温泉が湧き出し、湯の川となって流れる西の河原公園。最奥部には男女合わせて500平方メートルの大自然に囲まれた日本屈指の大露天風呂があります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                湯畑まわりの温泉街グルメと足湯「湯けむり亭」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                湯畑まわりの温泉街グルメと足湯「湯けむり亭」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 湯畑のすぐ脇にある総檜造りの足湯「湯けむり亭」。温泉まんじゅうの食べ歩きや名物の焼き鳥、温泉たまごを味わいながら足湯で一休みするのが定番の楽しみ方です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              群馬県草津町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">群馬県草津町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】草津温泉 望雲を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】草津温泉 望雲を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と草津温泉 望雲の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と草津温泉 望雲の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

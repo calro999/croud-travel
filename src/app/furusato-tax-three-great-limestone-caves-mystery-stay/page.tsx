@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            エメラルド＆ブルーに輝く地底湖と数億年の石灰岩アート。地底アドベンチャーと極上宿の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">エメラルド＆ブルーに輝く地底湖と数億年の石灰岩アート。地底アドベンチャーと極上宿の休日</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             気の遠くなるような年月をかけて地下水が石灰岩を削り磨き上げた「日本三大鍾乳洞」――吸い込まれそうなドラゴンブルーの深い地底湖が神秘的な光を放つ岩手の「龍泉洞」、弥生時代の古代人が生活し土器が鍾乳石に包まれた学術的奇跡を誇る高知の「龍河洞」、そして秋吉台の大カルスト台地下に広がる東洋屈指の大鍾乳洞・山口の「秋芳洞」。洞窟内の年間を通じて一定に保たれた冷涼な澄んだ空気と、ライトアップされた千町田や百枚皿の造形美は訪れる者を異世界へと誘います。探検の後は、周辺の三陸海の幸や土佐和牛、長門湯本の名湯を心ゆくまで味わう贅沢な旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岩手県岩泉町・宮古市ふるさと納税：ドラゴンブルーに輝く神秘の地底湖「龍泉洞」と三陸名門浄土ヶ浜パークホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岩手県岩泉町・宮古市ふるさと納税：ドラゴンブルーに輝く神秘の地底湖「龍泉洞」と三陸名門浄土ヶ浜パークホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   世界有数の透明度を誇る地底湖群。ブルーに輝く第1〜第3地底湖の幻想美を体感した後は、三陸復興国立公園・浄土ヶ浜の高台に佇む名門ホテルで、三陸のウニやアワビ、前沢牛を味わう絶景ステイです。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      浄土ヶ浜パークホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">浄土ヶ浜パークホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岩手県宮古市日立浜町32-4</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  高知県香美市・高知市ふるさと納税：弥生土器が鍾乳石に包まれた国の天然記念物「龍河洞」と山里の極上隠れ宿オーベルジュ土佐山
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">高知県香美市・高知市ふるさと納税：弥生土器が鍾乳石に包まれた国の天然記念物「龍河洞」と山里の極上隠れ宿オーベルジュ土佐山</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   1億7500万年の歳月が刻んだ鍾乳洞。世界唯一の「神の壺」を巡る冒険の後は、鏡川源流の清流沿いに佇むオーベルジュ土佐山で、土佐ジローや四万十の恵みを生かした極上ディナーと美肌温泉に癒やされます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      オーベルジュ　土佐山
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">オーベルジュ　土佐山</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>高知県高知市土佐山東川661</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山口県美祢市・長門市ふるさと納税：東洋屈指の大鍾乳洞「秋芳洞」百枚皿パノラマと音信川の湯宿・大谷山荘ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山口県美祢市・長門市ふるさと納税：東洋屈指の大鍾乳洞「秋芳洞」百枚皿パノラマと音信川の湯宿・大谷山荘ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   特別天然記念物の大鍾乳洞。百枚皿や傘づくし、黄金柱の圧倒的スケールを体感した後は、長門湯本温泉の老舗高級宿「大谷山荘」で、清流のせせらぎを聞きながら名湯露天風呂と長州とらふぐ会席に酔いしれます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      山口県　長門湯本温泉　大谷山荘
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">山口県　長門湯本温泉　大谷山荘</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山口県長門市深川湯本2208</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓の巨岩絶景。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  大人の静寂リトリート×美肌温泉宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">大人の静寂リトリート×美肌温泉宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   喧騒から離れた隠れ家温泉。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  清冽湧水＆名水グルメ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">清冽湧水＆名水グルメ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   南阿蘇・八ヶ岳・京都伏見の湧水旅。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】浄土ヶ浜パークホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】浄土ヶ浜パークホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と浄土ヶ浜パークホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と浄土ヶ浜パークホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

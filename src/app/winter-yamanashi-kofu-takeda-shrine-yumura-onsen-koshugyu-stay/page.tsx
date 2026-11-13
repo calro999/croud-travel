@@ -249,9 +249,7 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Destination Analysis</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              なぜ冬の甲府・湯村温泉が旅人を惹きつけるのか？盆地を囲む白銀名峰と信玄公ゆかりの癒やし
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ冬の甲府・湯村温泉が旅人を惹きつけるのか？盆地を囲む白銀名峰と信玄公ゆかりの癒やし</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               戦国最強武将の不屈の歴史が息づく聖地と、冬の寒さを優しく包む名湯・滋味料理
             </p>
@@ -310,9 +308,7 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-gradient-to-r from-slate-900 via-red-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-red-400 pl-4">
             <span className="text-red-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -346,16 +342,12 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の甲府・湯村温泉で巡るべき三大名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の甲府・湯村温泉で巡るべき三大名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-red-600" /> 武田神社（躑躅ヶ崎館跡）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-red-600" /> 武田神社（躑躅ヶ崎館跡）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 武田信玄公の居館跡に鎮座する甲斐の総鎮守。名刀や軍旗を展示する宝物殿、名水が湧く姫の井戸、勝運を授かる神橋など、戦国最強の息吹が息づく新春初詣の聖地です。
               </p>
@@ -365,9 +357,7 @@ export default function YamanashiKofuYumuraPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" /> 信玄の隠し湯・湯村温泉街
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" /> 信玄の隠し湯・湯村温泉街</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 開湯1200年の歴史を誇る温泉街。弘法大師ゆかりの塩澤寺や湯村山城跡を背に、昔ながらの老舗旅館や迎賓館が点在。弱アルカリ性の掛け流し湯が旅の疲れをじんわり解きます。
               </p>
@@ -377,9 +367,7 @@ export default function YamanashiKofuYumuraPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-indigo-600" /> 甲府城跡（舞鶴城公園）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-indigo-600" /> 甲府城跡（舞鶴城公園）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 武田氏滅亡後、豊臣秀吉の命により築城された名城。見事な野面積みの石垣が残り、天守台からは富士山、南アルプス、八ヶ岳の白銀の峰々を一望できる絶景展望スポット。
               </p>
@@ -394,9 +382,7 @@ export default function YamanashiKofuYumuraPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              甲府・湯村温泉の冬を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">甲府・湯村温泉の冬を堪能する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               名門迎賓館・源泉かけ流し老舗宿・天然温泉展望ホテルを厳選
             </p>
@@ -432,9 +418,7 @@ export default function YamanashiKofuYumuraPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -492,9 +476,7 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の甲府・湯村温泉を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の甲府・湯村温泉を満喫する1泊2日モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               甲府城展望、名物ほうとう、武田神社初詣、湯村温泉宿泊の黄金ルート
             </p>
@@ -502,10 +484,8 @@ export default function YamanashiKofuYumuraPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-red-600 text-white text-xs rounded-md font-bold">1日目</span>
-                甲府城跡天守台と武田神社新春初詣、湯村温泉へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-red-600 text-white text-xs rounded-md font-bold">1日目</span>
+                甲府城跡天守台と武田神社新春初詣、湯村温泉へ</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:30 JR甲府駅に到着</strong>：特急あずさ・かいじで甲府駅へ。南口すぐの「甲府城跡（舞鶴城公園）」へ登り、白雪の富士山と南アルプス連峰をパノラマ展望。</li>
                 <li><strong className="text-slate-900">12:30 老舗店で名物ほうとうランチ</strong>：駅前の老舗ほうとう専門店で、甘いかぼちゃと旬根菜が溶け合う熱々ほうとうを味わう。</li>
@@ -516,10 +496,8 @@ export default function YamanashiKofuYumuraPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">2日目</span>
-                昇仙峡の冬景色散策と甲州ワイナリー巡り
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">2日目</span>
+                昇仙峡の冬景色散策と甲州ワイナリー巡り</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:00 宿で和朝食</strong>：朝の温泉入浴後、甲州名物の鳥もつ煮や温かい味噌汁、炊きたてご飯を味わう。</li>
                 <li><strong className="text-slate-900">09:30 御岳昇仙峡へ</strong>：車またはバスで国の特別名勝・昇仙峡へ。冬の澄んだ大気の中で仙娥滝の氷瀑や覚円峰の奇岩絶壁を鑑賞。</li>
@@ -535,16 +513,12 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              甲府・湯村温泉へのアクセスと底冷え・冬道注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">甲府・湯村温泉へのアクセスと底冷え・冬道注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-red-600" /> 電車・特急・高速バス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-red-600" /> 電車・特急・高速バス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">JR中央線特急</strong>：新宿駅から「特急あずさ・かいじ」で甲府駅まで直通約1時間25分〜1時間35分。</li>
                 <li><strong className="text-slate-900">静岡・名古屋方面から</strong>：東海道新幹線静岡駅からJR身延線特急ふじかわで甲府駅まで約2時間15分。</li>
@@ -553,9 +527,7 @@ export default function YamanashiKofuYumuraPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 中央道ドライブと路面凍結注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 中央道ドライブと路面凍結注意</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：中央自動車道「甲府昭和IC」より湯村温泉まで約15分。</li>
                 <li><strong className="text-slate-900">冬道運転の注意</strong>：甲府盆地は晴天が多いですが、早朝や夜間は氷点下に冷え込み路面が凍結します。特に笹子トンネル付近や昇仙峡、山間部へ行く場合はスタッドレスタイヤを必ず装着してください。</li>
@@ -568,17 +540,13 @@ export default function YamanashiKofuYumuraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の甲府・湯村温泉旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の甲府・湯村温泉旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-red-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-red-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -589,10 +557,8 @@ export default function YamanashiKofuYumuraPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-red-600" />
-            あわせて読みたい！山梨・甲信越の冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-red-600" />
+            あわせて読みたい！山梨・甲信越の冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-yamanashi-isawa-onsen-wine-koshu-beef-stay/"

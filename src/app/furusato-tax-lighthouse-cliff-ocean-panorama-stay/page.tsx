@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          果てしなく広がる水平線と荒波のシンフォニー。地球の鼓動を五感で感じる岬のオーシャンフロント
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">果てしなく広がる水平線と荒波のシンフォニー。地球の鼓動を五感で感じる岬のオーシャンフロント</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              視界を遮るもののない大パノラマ！感動の日の出＆夕日オーシャンビュー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">視界を遮るもののない大パノラマ！感動の日の出＆夕日オーシャンビュー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               全室オーシャンフロントの客室や断崖の上に張り出した展望露天風呂から、刻一刻と表情を変える海と空のドラマを独占できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              黒潮と親潮が育む獲れたて地魚・伊勢海老・金目鯛の豪快海鮮会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">黒潮と親潮が育む獲れたて地魚・伊勢海老・金目鯛の豪快海鮮会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               岬の突端だからこそ味わえる鮮度抜群の海の恵み。銚子の金目鯛、出雲のノドグロ、土佐の一本釣り鰹など、港町直結の味覚を堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              灯台の光が海を照らす幻想的な夜景と潮騒のヒーリングサウンド
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">灯台の光が海を照らす幻想的な夜景と潮騒のヒーリングサウンド</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               夜には灯台のサーチライトが暗闇の海を照らし出すロマンチックな光景。心地よい波音に包まれてぐっすりと眠りにつけます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="hinomisaki_cliff" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                島根県出雲市ふるさと納税：東洋一の高さを誇る出雲日御碕灯台・日本海の夕日と出雲大社参拝温泉宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">島根県出雲市ふるさと納税：東洋一の高さを誇る出雲日御碕灯台・日本海の夕日と出雲大社参拝温泉宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 白亜の石造り灯台として東洋一の高さを誇る出雲日御碕灯台。柱状節理の奇岩断崖と茜色に染まる日本海の絶景を眺め、名物のノドグロや出雲そばに舌鼓を打つ神話の岬ステイです。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     島根県出雲市湖陵町二部1230
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湖畔の温泉宿くにびき　グランピングベースＩＺＵＭＯ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     この春リニューアル！出雲国風土記にも登場する美しい神西湖。雄大な景色に包まれて天然温泉でリフレッシュ
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="inubosaki_cliff" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                千葉県銚子市ふるさと納税：本州一早い初日の出の地・犬吠埼灯台オーシャンビューと銚子つりきんめ会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">千葉県銚子市ふるさと納税：本州一早い初日の出の地・犬吠埼灯台オーシャンビューと銚子つりきんめ会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 三方を海に囲まれた銚子半島の突端・犬吠埼。白亜の灯台を間近に仰ぎ、荒波が砕け散るダイナミックな太平洋を眺めながら、名物「銚子つりきんめ」と天然温泉を満喫できます。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市三軒町16-13
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">犬吠埼温泉　黒潮の湯　ホテルルートイン銚子駅西</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     天然温泉「犬吠埼温泉黒潮の湯」大浴場完備！銚子駅より徒歩4分！無料朝食バイキングで大満足★
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市犬吠埼10293
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    犬吠埼潮の湯温泉　犬吠埼観光ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">犬吠埼潮の湯温泉　犬吠埼観光ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室オーシャンビュー！まるで海と繋がるかのような露天風呂？！◆温泉宿ホテル総選挙´２１犬吠埼地区１位
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県銚子市犬吠埼9574-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">‐犬吠埼温泉元湯　黒潮の湯‐　絶景の宿　犬吠埼ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室から太平洋が一望、新鮮魚介類中心の料理自慢の宿。海の見える露天風呂が人気です。
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="muroto_cliff" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                高知県室戸市ふるさと納税：世界ジオパーク室戸岬・白亜の灯台と太平洋の怒濤＆海洋深層水リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">高知県室戸市ふるさと納税：世界ジオパーク室戸岬・白亜の灯台と太平洋の怒濤＆海洋深層水リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 弘法大師空海が悟りを開いた地として知られる室戸岬。ダイナミックな隆起海岸と白亜の灯台、太平洋を180度見渡すオーシャンフロント温泉で、土佐のカツオや金目鯛を味わうリフレッシュ旅です。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県安芸郡芸西村西分甲2995
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    メルキュール高知土佐リゾート＆スパ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">メルキュール高知土佐リゾート＆スパ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2024年4月より「メルキュール高知土佐リゾート＆スパ」へリブランド
                   </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県室戸市室戸岬町4037
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    岬観光ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">岬観光ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【登録有形文化財に登録】室戸岬の海岸にあり朝日や夕日が楽しめます
                   </p>
@@ -482,9 +456,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天。
               </p>
@@ -498,9 +470,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 堂ヶ島・由良・白浜の茜色マジックアワー温泉。
               </p>
@@ -514,9 +484,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 八戸・沼津・高知の獲れたて市場グルメと浜焼き。
               </p>
@@ -534,9 +502,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾート」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -606,9 +572,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾートで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税厳選ガイド日御碕・犬吠埼・室戸岬の岬リゾートで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

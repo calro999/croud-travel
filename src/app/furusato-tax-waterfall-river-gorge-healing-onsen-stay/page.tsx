@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>轟く滝の音と清らかなせせらぎに包まれる、自然共生の絶景露天風呂へ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>轟く滝の音と清らかなせせらぎに包まれる、自然共生の絶景露天風呂へ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             窓を開ければ目の前を流れる清流、露天風呂に身を沈めれば視線の先に雄大な滝と生い茂る原生林。渓谷沿いに佇む温泉宿は、大自然のマイナスイオンと源泉かけ流しの湯力で日常のストレスを洗い流してくれる究極のヒーリング空間です。楽天ふるさと納税を活用して、四季折々の渓谷美と名湯に浸る贅沢な休日を賢く叶えましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    滝見風呂や渓流が目線の高さに迫る野天風呂の圧倒的爽快感
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">滝見風呂や渓流が目線の高さに迫る野天風呂の圧倒的爽快感</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     川床や岩場にせり出すように造られた露天風呂は、まるで自然の懐に抱かれているかのような一体感。春の新緑、夏の清涼、秋の紅葉、冬の雪景色と、四季を通じて移ろう渓谷パノラマに息を呑みます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    清流で育まれた川魚や山菜、旬の滋味を味わう山里会席
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">清流で育まれた川魚や山菜、旬の滋味を味わう山里会席</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     清流がもたらす岩魚や山女魚の塩焼き、山の恵みである山菜やきのこ、地元ブランド牛など、その土地の風土に根ざした身体に優しい美食ディナーを堪能できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    楽天ふるさと納税で高額な特別室・離れ客室も大幅割引
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">楽天ふるさと納税で高額な特別室・離れ客室も大幅割引</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     渓谷ビューのテラス付き客室やプライベート客室露天風呂付き離れなど、ワンランク上の人気プランも返礼クーポンで最大30%オフ。自分へのご褒美や大切な人との記念旅行に最適です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="oirase_gorge_onsen" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>青森県十和田市ふるさと納税：星野リゾート 奥入瀬渓流ホテル・名瀑と苔むす森の特等席</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>青森県十和田市ふるさと納税：星野リゾート 奥入瀬渓流ホテル・名瀑と苔むす森の特等席</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       国指定の特別名勝・奥入瀬渓流の畔に唯一佇むリゾートホテル。渓流を望む露天風呂「渓流露天風呂」や岡本太郎作の大暖炉、苔さんぽやスノーシューなど大自然の美しさを体感するアクティビティが揃っています。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              奥入瀬渓流ホテル　ｂｙ　星野リゾート
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">奥入瀬渓流ホテル　ｂｙ　星野リゾート</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日本屈指の景勝地奥入瀬渓流。その畔に佇むリゾートホテルで大自然が演出する非日常空間をご堪能下さい
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八甲田城ヶ倉温泉　ホテル城ヶ倉－ＨＯＴＥＬ　Ｊｏｇａｋｕｒａ－</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               源泉かけ流し温泉を八甲田の自然と共に楽しむ北欧風マウンテンリゾート。地元青森の旬の味覚をご用意。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              十和田西湖畔温泉　十和田プリンスホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">十和田西湖畔温泉　十和田プリンスホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               「秋田県宿泊応援事業」対象施設　予約受付は５月７日より受付開始
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="amagiyugashima_gorge_onsen" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県伊豆市ふるさと納税：天城湯ヶ島温泉 白壁・狩野川渓流と巨石露天風呂の古民家宿</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県伊豆市ふるさと納税：天城湯ヶ島温泉 白壁・狩野川渓流と巨石露天風呂の古民家宿</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       川端康成や梶井基次郎など多くの文豪に愛された天城の清流。重量53トンの巨石をくり抜いた野趣あふれる露天風呂や溶岩風呂で名湯を浴び、名物の天城ワサビや猪鍋会席に舌鼓を打つ大人の隠れ家です。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              水のみち　風のみち　湯ヶ島　たつた
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">水のみち　風のみち　湯ヶ島　たつた</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ＜田舎で過ごすあたたかな時間＞伊豆唯一の川床料理と100％源泉け流し温泉で心ほどけるひとときを。
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              天城湯ヶ島　湯宿　嵯峨沢館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">天城湯ヶ島　湯宿　嵯峨沢館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               100%天然自家源泉　掛け流しのお風呂で日頃の疲れを流してください
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="sakunami_gorge_onsen" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>宮城県仙台市ふるさと納税：作並温泉・広瀬川渓流沿いの絶景露天風呂と名湯治</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>宮城県仙台市ふるさと納税：作並温泉・広瀬川渓流沿いの絶景露天風呂と名湯治</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       仙台の奥座敷として開湯200余年の歴史を誇る作並温泉。広瀬川の清流が間近に迫る天然岩風呂をはじめ多彩な湯舟が点在。渓流の心地よいせせらぎを聴きながら、肌に優しい弱アルカリ性の名湯を心ゆくまで堪能できます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">大江戸温泉物語Ｐｒｅｍｉｕｍ　仙台作並（旧：作並温泉　鷹泉閣岩松旅館）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ４つの天然岩風呂で館内湯めぐりをお楽しみください。広瀬川に溶け込む贅沢な時間をお過ごしいただけます。
                             </p>
@@ -649,9 +617,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】奥入瀬渓流ホテル ｂｙ 星野リゾートを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】奥入瀬渓流ホテル ｂｙ 星野リゾートを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -684,9 +650,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と奥入瀬渓流ホテル ｂｙ 星野リゾートの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と奥入瀬渓流ホテル ｂｙ 星野リゾートの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

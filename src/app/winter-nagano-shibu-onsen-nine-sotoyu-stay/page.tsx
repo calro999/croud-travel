@@ -285,10 +285,8 @@ export default function ShibuWinterPage() {
             <Footprints className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 開湯1300年の石畳と外湯巡り・信州牛会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】<br className="hidden sm:inline" />
-            木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月渋温泉の厄除巡浴九湯めぐりと石畳情緒】<br className="hidden sm:inline" />
+            木造建築が彩る冬のノスタルジー・信州プレミアム牛と地酒の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             下駄の音が心地よく響く石畳の小路。宿泊者だけに許された外湯の鍵を手に巡る「九湯めぐり」で厄を祓い、湯上がりに灯る金具屋の木造楼閣に見惚れる。極上信州牛と手打ち蕎麦、地酒に酔いしれる心温まる冬の温泉旅。
           </p>
@@ -314,9 +312,7 @@ export default function ShibuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Nostalgic Cobblestone Hot Spring Town</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                下駄の音と湯けむりに包まれる冬の石畳。宿泊者だけが巡る奇跡の「九湯めぐり」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">下駄の音と湯けむりに包まれる冬の石畳。宿泊者だけが巡る奇跡の「九湯めぐり」</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function ShibuWinterPage() {
           
           <div className="bg-red-50/70 rounded-2xl p-5 border border-red-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Key className="w-4 h-4 text-red-700" />
-                11月・12月渋温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Key className="w-4 h-4 text-red-700" />
+                11月・12月渋温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 宿泊者専用鍵で巡る厄除九湯めぐり・金具屋の木造建築ライトアップ・地獄谷スノーモンキー・信州牛会席
               </p>
@@ -380,9 +374,7 @@ export default function ShibuWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Key className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              厄除巡浴九湯めぐりの全貌：9つの外湯の泉質と満願成就の作法
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">厄除巡浴九湯めぐりの全貌：9つの外湯の泉質と満願成就の作法</h2>
           </div>
           
           <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -435,26 +427,20 @@ export default function ShibuWinterPage() {
             <div className="p-2 rounded-xl bg-sky-50 text-sky-800">
               <Snowflake className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12月の気候と地獄谷野猿公苑（スノーモンキー）観光ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12月の気候と地獄谷野猿公苑（スノーモンキー）観光ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-red-600" />
-                11月・12月の気温と石畳の路面凍結
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Calendar className="w-4 h-4 text-red-600" />
+                11月・12月の気温と石畳の路面凍結</h3>
               <p className="leading-relaxed">
                 渋温泉は標高約700mに位置し、11月は紅葉の終わりから晩秋の凛とした寒さへ移行します。11月中旬の夜間は氷点下に達し、11月下旬〜12月には雪が積もります。濡れた石畳は凍結しやすいため、下駄での歩行時はすり足で慎重に歩きましょう。宿で長靴や滑り止め付き履物を貸し出している場合もあります。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Sparkles className="w-4 h-4 text-red-600" />
-                地獄谷野猿公苑の冬の観察ポイント
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-red-600" />
+                地獄谷野猿公苑の冬の観察ポイント</h3>
               <p className="leading-relaxed">
                 温泉に浸かる野生の猿「スノーモンキー」として世界中から観光客が訪れる地獄谷野猿公苑。猿たちが温泉に入るのは主に「気温が下がる寒い冬」です。11月下旬以降の寒い日や雪の日は、家族連れの猿たちが気持ちよさそうに湯船で目を細める決定的瞬間に立ち会えます。上林温泉駐車場から徒歩30分の雪道遊歩道はスノーブーツ必須です。
               </p>
@@ -469,9 +455,7 @@ export default function ShibuWinterPage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>Rakuten Travel Verified Heritage Inns</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              11・12月信州渋温泉 泊まりたい名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">11・12月信州渋温泉 泊まりたい名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               文化財建築の風情、自家源泉の贅沢な湯量、信州牛会席の美味しさ、そして九湯めぐりの至便性を兼ね備えた名宿を厳選。
             </p>
@@ -513,9 +497,7 @@ export default function ShibuWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -527,10 +509,8 @@ export default function ShibuWinterPage() {
                       </p>
 
                       <div className="pt-2 space-y-2">
-                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-red-800">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-red-600" />
-                          宿の魅力と客室・温泉・美食のこだわり
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-red-800"><CheckCircle2 className="w-3.5 h-3.5 text-red-600" />
+                          宿の魅力と客室・温泉・美食のこだわり</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {h.story}
                         </p>
@@ -584,9 +564,7 @@ export default function ShibuWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Utensils className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の北信州の美食：信州プレミアム牛と十割蕎麦・蔵元直送の寒造り地酒
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の北信州の美食：信州プレミアム牛と十割蕎麦・蔵元直送の寒造り地酒</h2>
           </div>
           
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
@@ -595,19 +573,15 @@ export default function ShibuWinterPage() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-amber-600" />
-                  千曲川水系の清流サーモンと信州十割蕎麦
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-600" />
+                  千曲川水系の清流サーモンと信州十割蕎麦</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   美しいオレンジ色の身に上質な脂を湛えた「信州サーモン」。ニジマスとブラウントラウトを交配して生まれた信州独自のブランド魚で、クセがなくとろけるような舌触りはお造りに最適です。また、晩秋に収穫されたばかりの新蕎麦粉で打つ香り高い手打ち蕎麦や熱々の蕎麦がきが食卓を彩ります。
                 </p>
               </div>
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-amber-600" />
-                  志賀高原の雪解け水で醸す地酒「縁喜」とクラフトビール
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-amber-600" />
+                  志賀高原の雪解け水で醸す地酒「縁喜」とクラフトビール</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   渋温泉のすぐ隣、山ノ内町にある寛政17年創業の老舗蔵元「玉村本店」。志賀高原の清らかな伏流水と長野県産米で醸す銘酒「縁喜（えんぎ）」は、キリッとした旨口で冬の鍋物や肉料理に最高の相性を見せます。また同蔵が手掛ける「志賀高原ビール」は日本屈指のクラフトビールとして全国にファンを持ちます。
                 </p>
@@ -622,9 +596,7 @@ export default function ShibuWinterPage() {
             <div className="p-2 rounded-xl bg-red-50 text-red-800">
               <Clock className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              1泊2日 理想の冬のモデルコース：九湯めぐりと雪景色の地獄谷スノーモンキー
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 理想の冬のモデルコース：九湯めぐりと雪景色の地獄谷スノーモンキー</h2>
           </div>
 
           <div className="space-y-6">
@@ -633,9 +605,7 @@ export default function ShibuWinterPage() {
                 <span className="px-2.5 py-1 bg-red-100 text-red-800 font-bold text-xs rounded-md">
                   1日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  長野電鉄特急ゆけむり号で湯田中へ・九湯めぐりと夜の金具屋ライトアップ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">長野電鉄特急ゆけむり号で湯田中へ・九湯めぐりと夜の金具屋ライトアップ</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>13:00 長野駅より長野電鉄特急で出発：</strong>展望席のある「ゆけむり号」または「スノーモンキー号」で湯田中駅へ（約45分）。駅前から宿の送迎車またはバスで渋温泉へ（約7分）。</li>
@@ -651,9 +621,7 @@ export default function ShibuWinterPage() {
                 <span className="px-2.5 py-1 bg-red-100 text-red-800 font-bold text-xs rounded-md">
                   2日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  渋高薬師で満願成就参拝＆地獄谷野猿公苑でスノーモンキー見学
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">渋高薬師で満願成就参拝＆地獄谷野猿公苑でスノーモンキー見学</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>07:30 朝風呂と信州の和朝食：</strong>宿の露天風呂で爽やかな目覚め。温泉卵や信州味噌汁、炊きたてご飯を堪能。</li>
@@ -681,10 +649,8 @@ export default function ShibuWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -698,10 +664,8 @@ export default function ShibuWinterPage() {
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-red-700" />
-              あわせて読みたい信州・甲信越の冬温泉特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-red-700" />
+              あわせて読みたい信州・甲信越の冬温泉特集</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               冬の味覚、名湯露天風呂、雪景色を楽しむ日本全国の厳選特集記事。旅の目的に合わせてぜひご覧ください。
             </p>

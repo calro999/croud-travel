@@ -248,9 +248,7 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Regional Deep Dive</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              水戸徳川の学問と日本三大稲荷の祈り、寒冬に極まる至福の郷土美食
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">水戸徳川の学問と日本三大稲荷の祈り、寒冬に極まる至福の郷土美食</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               早咲き冬梅の気品ある香りと、あん肝溶け出す伝統鍋が彩る常陸国の冬
             </p>
@@ -306,9 +304,7 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-amber-400 pl-4">
             <span className="text-amber-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -342,16 +338,12 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき水戸＆笠間の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき水戸＆笠間の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-600" /> 笠間稲荷神社
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-600" /> 笠間稲荷神社</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 日本三大稲荷に数えられる白雉2年創建の名社。江戸末期の名工による国指定重要文化財の本殿彫刻は圧巻。新春の開運祈願とともに、門前通りでご当地いなり寿司を食べ比べるのが醍醐味です。
               </p>
@@ -361,9 +353,7 @@ export default function IbarakiMitoKasamaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sun className="w-5 h-5 text-rose-600" /> 水戸偕楽園＆好文亭
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sun className="w-5 h-5 text-rose-600" /> 水戸偕楽園＆好文亭</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 徳川斉昭公が創設した日本三名園。冬期は早咲きの八重冬至や寒紅梅が可憐に咲き、松の雪吊りとともに風情ある景観を描きます。好文亭の3階・楽寿楼から望む千波湖の冬晴れの眺望は必見です。
               </p>
@@ -373,9 +363,7 @@ export default function IbarakiMitoKasamaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> 弘道館＆水戸城跡
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> 弘道館＆水戸城跡</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 天保12年（1841年）創設の日本最大規模の藩校（国指定特別史跡）。最後の将軍・徳川慶喜公が大政奉還後に謹慎生活を送った「至善堂」が現存。冬の静けさの中で水戸学の歴史を深く学べます。
               </p>
@@ -390,9 +378,7 @@ export default function IbarakiMitoKasamaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の水戸＆笠間を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の水戸＆笠間を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               森の迎賓館から駅直結ホテルまで・本場あんこう鍋と常陸牛を堪能する特選ステイ
             </p>
@@ -428,9 +414,7 @@ export default function IbarakiMitoKasamaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -488,9 +472,7 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の水戸＆笠間を満喫する1泊2日開運・美食モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の水戸＆笠間を満喫する1泊2日開運・美食モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               史跡探訪、早咲き冬梅、笠間稲荷新春初詣、本場あんこう鍋を贅沢に味わい尽くす旅日程
             </p>
@@ -498,10 +480,8 @@ export default function IbarakiMitoKasamaPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
-                水戸学の源流・弘道館と偕楽園冬梅散策・本場あんこう鍋ディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
+                水戸学の源流・弘道館と偕楽園冬梅散策・本場あんこう鍋ディナー</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 JR水戸駅に到着</strong>：北口から徒歩で特別史跡「弘道館」へ。徳川慶喜公が幼少期を過ごした正庁や至善堂を見学。</li>
                 <li><strong className="text-slate-900">12:30 水戸駅周辺でランチ</strong>：名物の常陸秋そばや水戸納豆御膳を堪能。</li>
@@ -512,10 +492,8 @@ export default function IbarakiMitoKasamaPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-stone-800 text-white text-xs rounded-md font-bold">2日目</span>
-                笠間稲荷神社新春開運初詣と笠間焼ギャラリー・カフェ巡り
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-stone-800 text-white text-xs rounded-md font-bold">2日目</span>
+                笠間稲荷神社新春開運初詣と笠間焼ギャラリー・カフェ巡り</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:30 宿で郷土朝食を堪能</strong>：茨城県産米コシヒカリと納豆、具だくさんのけんちん汁で元気をチャージしてチェックアウト。</li>
                 <li><strong className="text-slate-900">09:30 水戸から笠間へ移動</strong>：車またはJR水戸線で約35分、笠間市へ。</li>
@@ -532,16 +510,12 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              水戸＆笠間への交通アクセスと冬のドライブ注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">水戸＆笠間への交通アクセスと冬のドライブ注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-600" /> 電車・特急列車でのアクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" /> 電車・特急列車でのアクセス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">東京・上野方面から</strong>：JR常磐線特急「ひたち」「ときわ」で水戸駅まで最速約65〜75分。全席指定で快適な車内。</li>
                 <li><strong className="text-slate-900">水戸〜笠間間</strong>：JR常磐線「友部駅」でJR水戸線に乗り換え「笠間駅」まで約35分。電車の本数は1時間に1〜2本程度のため事前確認が安心です。</li>
@@ -549,9 +523,7 @@ export default function IbarakiMitoKasamaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-rose-600" /> 車・レンタカー＆冬道運転の注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-rose-600" /> 車・レンタカー＆冬道運転の注意</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：常磐自動車道「水戸IC」より水戸市街まで約15分。北関東自動車道「友部IC」または「笠間西IC」より笠間稲荷神社まで約15〜20分。</li>
                 <li><strong className="text-slate-900">冬期の凍結注意</strong>：太平洋側のため大雪は稀ですが、12月中旬〜1月は朝晩の気温が氷点下に達します。早朝や深夜の橋の上、日陰のカーブではブラックアイスバーンが発生しやすいため、スタッドレスタイヤ装着が推奨されます。</li>
@@ -564,17 +536,13 @@ export default function IbarakiMitoKasamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の水戸＆笠間旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の水戸＆笠間旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -585,10 +553,8 @@ export default function IbarakiMitoKasamaPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-ibaraki-fukuroda-waterfall-ice-onsen-shamo-stay/"

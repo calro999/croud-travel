@@ -201,9 +201,7 @@ export default function KanazawaGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 1 🚅
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            金沢旅行を考える ｜ 新幹線・飛行機・安く行く方法＆アクセス
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">金沢旅行を考える ｜ 新幹線・飛行機・安く行く方法＆アクセス</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             東京・大阪・名古屋から金沢へのアクセス、新幹線の所要時間、お得なフリーきっぷ、安く行く方法を解説。
           </p>
@@ -211,27 +209,21 @@ export default function KanazawaGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs">
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>🚅</span> <span>東京から金沢 新幹線＆時間</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>東京から金沢 新幹線＆時間</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               東京駅から北陸新幹線「かがやき」で最速約2時間25分、「はくたか」で約3時間。乗換なしでダイレクトに金沢駅へ到着します。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>✈️</span> <span>東京 金沢 飛行機＆アクセス</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>️</span> <span>東京 金沢 飛行機＆アクセス</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               羽田空港から小松空港まで約1時間。小松空港から金沢駅までは特急リムジンバスで約40分です。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-amber-50/50 border border-amber-500/20 space-y-2">
-            <h3 className="text-sm font-bold text-amber-900 flex items-center gap-1.5">
-              <span>💰</span> <span>東京 金沢 安く行く方法</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-900 flex items-center gap-1.5"><span>東京 金沢 安く行く方法</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               JR「えきねっとトクだ値」や事前予約チケットの活用、または「新幹線＋ホテルがセット」になった楽天トラベルのダイナミックパッケージが最もコスパ良くお得です。
             </p>
@@ -244,9 +236,7 @@ export default function KanazawaGuidePage() {
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 2 ✨
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            金沢の魅力 ｜ ベストシーズン・紅葉・冬の雪景色・春の桜・雨の風情
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">金沢の魅力 ｜ ベストシーズン・紅葉・冬の雪景色・春の桜・雨の風情</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             「金沢 何がある？」「初めての金沢旅行は何が魅力？」に答える、四季折々の絶景と伝統文化。
           </p>
@@ -254,36 +244,28 @@ export default function KanazawaGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
           <div className="p-5 rounded-2xl bg-emerald-50/40 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-bold text-emerald-950 flex items-center gap-1.5">
-              <span>🌸</span> <span>金沢 春 観光＆ベストシーズン</span>
-            </h3>
+            <h3 className="text-sm font-bold text-emerald-950 flex items-center gap-1.5"><span>金沢 春 観光＆ベストシーズン</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               4月上旬〜中旬は兼六園や金沢城公園の桜が見頃を迎えます。新緑の城下町散策にも心地よく、気候が安定している春と秋は金沢のベストシーズンです。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-amber-50/40 border border-amber-950/5 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
-              <span>🍁</span> <span>金沢 紅葉（11月上旬〜下旬）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>金沢 紅葉（11月上旬〜下旬）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               兼六園の山紅葉やモミジが赤く染まり、霞ヶ池の水面に映り込む紅葉ライトアップは息を呑む美しさ。カップルデートにもぴったり。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5">
-              <span>❄️</span> <span>金沢 雪・冬 観光（12月〜2月）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5"><span>️</span> <span>金沢 雪・冬 観光（12月〜2月）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               兼六園名物「雪吊り」と深々と降る雪景色は冬の金沢の風物詩。解禁されたカニ（加能ガニ・香箱ガニ）やのどぐろが最も美味しい季節です。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>☔</span> <span>金沢 雨・雨の日 観光</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>金沢 雨・雨の日 観光</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               「弁当忘れても傘忘れるな」と言われる金沢。雨に濡れるひがし茶屋街の木目が美しく映え、21世紀美術館や近江町市場など雨の日でも濡れずに楽しめるスポットが豊富です。
             </p>
@@ -296,9 +278,7 @@ export default function KanazawaGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 3 🗺️
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            金沢 モデルコース ｜ 1泊2日・2泊3日・車なし徒歩散策コース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">金沢 モデルコース ｜ 1泊2日・2泊3日・車なし徒歩散策コース</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             初心者からデート利用まで。車なしで城下町金沢周遊バス（金沢フリーきっぷ）を使って効率良く回る王道モデルコース。
           </p>
@@ -307,9 +287,7 @@ export default function KanazawaGuidePage() {
         <div className="space-y-6 text-xs">
           <div className="p-6 rounded-2xl bg-amber-50/40 border border-amber-300/40 space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-amber-200 pb-3">
-              <h3 className="text-base font-black text-amber-950 flex items-center gap-2">
-                <span>📍</span> <span>王道！金沢1泊2日 モデルコース（車なし・徒歩観光）</span>
-              </h3>
+              <h3 className="text-base font-black text-amber-950 flex items-center gap-2"><span>王道！金沢1泊2日 モデルコース（車なし・徒歩観光）</span></h3>
               <span className="text-[10px] font-extrabold bg-amber-200 text-amber-900 px-3 py-0.5 rounded-full">
                 初心者＆カップル向き
               </span>
@@ -342,9 +320,7 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-6 rounded-2xl bg-teal-50/40 border border-teal-200 space-y-3">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-2">
-              <span>🧭</span> <span>ゆっくり愉しむ！金沢2泊3日 モデルコース（加賀温泉・和倉温泉足を伸ばし）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-2"><span>ゆっくり愉しむ！金沢2泊3日 モデルコース（加賀温泉・和倉温泉足を伸ばし）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               金沢市内1泊＋湯湧温泉または和倉温泉・加賀温泉郷1泊の組み合わせ。昼は金沢市内の名所巡り、夜は名湯温泉旅館で露天風呂と会席料理を贅沢に堪能する大人旅。
             </p>
@@ -357,9 +333,7 @@ export default function KanazawaGuidePage() {
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 4 🏯
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            金沢 観光スポット ｜ 兼六園 所要時間・21世紀美術館・ひがし茶屋街・近江町市場
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">金沢 観光スポット ｜ 兼六園 所要時間・21世紀美術館・ひがし茶屋街・近江町市場</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             見逃せない金沢の主要観光名所の見どころ、滞在所要時間、駐車場・アクセス情報。
           </p>
@@ -367,10 +341,8 @@ export default function KanazawaGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs">
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">1</span>
-              <span>兼六園（けんろくえん）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">1</span>
+              <span>兼六園（けんろくえん）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1時間〜1.5時間**<br />
               加賀藩主によって造営された日本三名園の一つ。徽軫灯籠、唐崎の松、霞ヶ池など見どころ多数。春の桜や秋の紅葉ライトアップ、冬の雪吊りは感動的です。
@@ -378,10 +350,8 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">2</span>
-              <span>近江町市場（おうみちょういちば）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">2</span>
+              <span>近江町市場（おうみちょういちば）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1時間〜2時間**<br />
               「金沢の市民の台所」として約300年続く市場。新鮮な魚介類の食べ歩き（生牡蠣・うに・のどぐろ串）や海鮮丼・寿司ランチの名店が軒を連ねます。
@@ -389,10 +359,8 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">3</span>
-              <span>ひがし茶屋街（ひがしちゃやがい）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">3</span>
+              <span>ひがし茶屋街（ひがしちゃやがい）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1時間〜1.5時間**<br />
               美しい出格子の町家が並ぶ金沢を代表する茶屋街。着物での徒歩散策に大人気。箔一の「金箔ソフト」や伝統工芸ショップ、町家カフェが充実。
@@ -400,10 +368,8 @@ export default function KanazawaGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">4</span>
-              <span>金沢21世紀美術館</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">4</span>
+              <span>金沢21世紀美術館</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1.5時間〜2時間**<br />
               レアンドロ・エルリッヒの「スイミング・プール」で有名な現代美術館。円形の開放的な建物と体感型アートでカップルや若者に大人気。
@@ -417,9 +383,7 @@ export default function KanazawaGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 5 🍣
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            金沢 グルメ＆カフェ ｜ 近江町市場食べ歩き・のどぐろ・寿司ランチ・カフェ・お土産
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">金沢 グルメ＆カフェ ｜ 近江町市場食べ歩き・のどぐろ・寿司ランチ・カフェ・お土産</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             金沢に来たら絶対味わいたい海鮮丼・のどぐろ・金沢寿司・居酒屋夜ご飯・絶景カフェ・手土産。
           </p>
@@ -427,21 +391,21 @@ export default function KanazawaGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">🍣 金沢 寿司 ランチ・海鮮丼</h3>
+            <h3 className="text-sm font-bold text-amber-950">金沢 寿司 ランチ・海鮮丼</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               金沢港・七尾港直送の「回転寿司（まいもん寿司・もりもり寿司・すし食いねぇ！）」は回らない寿司に匹敵する極上のクオリティ。近江町市場の豪華海鮮丼も必食。
             </p>
           </div>
 
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">🐟 金沢 のどぐろ・居酒屋 夜ご飯</h3>
+            <h3 className="text-sm font-bold text-amber-950">金沢 のどぐろ・居酒屋 夜ご飯</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               「白身のトロ」と称される高級魚のどぐろ。炙り刺身や塩焼き、のどぐろ釜飯は格別。片町や金沢駅周辺の居酒屋で金沢の地酒と一緒に味わう夜ご飯は最高の贅沢。
             </p>
           </div>
 
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">☕ 金沢 カフェ・食べ歩き・お土産</h3>
+            <h3 className="text-sm font-bold text-amber-950">金沢 カフェ・食べ歩き・お土産</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               ひがし茶屋街の「茶房 素心」や金箔ソフト「箔一」、老舗あんころ餅「圓八」、加賀棒茶、烏骨鶏かすていらは旅のお土産・食べ歩きに絶対外せません。
             </p>
@@ -460,9 +424,7 @@ export default function KanazawaGuidePage() {
             </span>
           </div>
 
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">
-            金沢 ホテル選び ＆ 宿泊予約（楽天トラベルで空室・最安値確認）
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">金沢 ホテル選び ＆ 宿泊予約（楽天トラベルで空室・最安値確認）</h2>
 
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed font-medium">
             「金沢駅近くのホテル」「コスパ抜群ホテル」「朝食がおいしいホテル」「大浴場・温泉付き宿」「カップルにおすすめの露天風呂付き客室」まで、目的に合わせて厳選。楽天トラベルからリアルタイムの最安値・空室状況を確認して予約可能です。
@@ -508,9 +470,7 @@ export default function KanazawaGuidePage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">
-                    {post.hotel_name}
-                  </h3>
+                  <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">{post.hotel_name}</h3>
                   <p className="text-xs text-emerald-100/70 line-clamp-2">
                     {post.description || post.title}
                   </p>
@@ -540,9 +500,7 @@ export default function KanazawaGuidePage() {
 
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>金沢旅行のプロが回答！よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>金沢旅行のプロが回答！よくある質問（FAQ）</span></h2>
           <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
             金沢旅行のモデルコース、車なし観光、兼六園の所要時間、東京からのアクセスについてお答えします。
           </p>
@@ -551,10 +509,8 @@ export default function KanazawaGuidePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                <span className="text-teal-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -564,9 +520,7 @@ export default function KanazawaGuidePage() {
       </section>
 
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
-        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">
-          金沢旅行の準備は整いましたか？
-        </h3>
+        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">金沢旅行の準備は整いましたか？</h3>
         <p className="text-xs text-emerald-950/70 max-w-xl mx-auto leading-relaxed">
           楽天トラベルの限定クーポンや「5と0のつく日セール」を活用して、憧れの金沢旅行をお得に予約しましょう。
         </p>

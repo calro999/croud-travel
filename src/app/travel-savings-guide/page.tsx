@@ -105,7 +105,7 @@ export default function TravelSavingsGuide() {
 
         {/* 目次 */}
         <nav className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 mb-12">
-          <h2 className="text-lg font-bold text-stone-800 mb-4">📋 このページの内容</h2>
+          <h2 className="text-lg font-bold text-stone-800 mb-4">このページの内容</h2>
           <ol className="space-y-2 text-sm text-stone-600">
             <li><a href="#methods" className="hover:text-amber-700 transition">1. 旅行費を安くする7つの方法</a></li>
             <li><a href="#furusato" className="hover:text-amber-700 transition">2. 最もインパクトの大きい節約法——ふるさと納税×旅行の仕組み</a></li>
@@ -118,57 +118,45 @@ export default function TravelSavingsGuide() {
 
         {/* セクション1: 7つの方法 */}
         <section id="methods" className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3">
-            <span className="text-amber-600">1</span>
-            旅行費を安くする7つの方法
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3"><span className="text-amber-600">1</span>
+            旅行費を安くする7つの方法</h2>
 
           <div className="grid gap-4">
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">1</span>
-                早期予約割引（早割）を活用する
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">1</span>
+                早期予約割引（早割）を活用する</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 60日前、90日前、120日前の早割プランは通常料金から15〜25%オフになるケースが多い。特に人気の温泉宿やリゾートホテルでは、早割限定の部屋タイプや特典（レイトチェックアウト、部屋食アップグレードなど）が付くことも。旅の日程が決まったら真っ先にチェックすべき基本テクニック。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">2</span>
-                楽天トラベルスーパーSALE・クーポン祭りを狙う
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">2</span>
+                楽天トラベルスーパーSALE・クーポン祭りを狙う</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 年に数回開催される楽天スーパーSALEでは、半額プランやタイムセールが登場する。3月・6月・9月・12月のSALE時期を事前にカレンダーに入れておくと、掘り出し物に出会える確率がぐっと上がる。開始直後の数分間が最も在庫が豊富なので、目当ての宿は事前にお気に入り登録しておこう。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">3</span>
-                ポイント10倍プラン・SPU活用
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">3</span>
+                ポイント10倍プラン・SPU活用</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 楽天トラベルの「ポイント10倍プラン」なら、1泊30,000円の宿で3,000ポイント還元。楽天カード決済やSPU（スーパーポイントアッププログラム）を組み合わせれば実質15%以上の還元率になることも。貯まったポイントは次回の旅行や日常の買い物にそのまま使える。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">4</span>
-                平日・オフシーズンを選ぶ
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">4</span>
+                平日・オフシーズンを選ぶ</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 金土の宿泊料金は平日の1.3〜2倍になることも珍しくない。日曜泊や月曜泊にスライドするだけで同じ宿が半額近くになるケースもある。さらにGWや盆・正月を避けたオフシーズンなら、繁忙期の半額以下で高級旅館に泊まれることも。有給休暇との組み合わせが鍵。
               </p>
             </div>
 
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">5</span>
-                全国旅行支援・自治体独自クーポンを使う
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">5</span>
+                全国旅行支援・自治体独自クーポンを使う</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 国や自治体が実施する旅行支援キャンペーンは、宿泊費の20〜40%が割引になる大型施策。開催時期は不定期だが、各都道府県の公式観光サイトや楽天トラベルの「クーポン・キャンペーン」ページをこまめにチェックしておけば見逃さない。他の割引との併用が可能なケースも多く、重ね掛けできるとインパクトは絶大。
               </p>
@@ -178,10 +166,8 @@ export default function TravelSavingsGuide() {
               <div className="absolute -top-3 left-6 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-full">
                 ★ 最もインパクト大
               </div>
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2 mt-1">
-                <span className="bg-amber-500 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">6</span>
-                ふるさと納税トラベルクーポンを使う
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2 mt-1"><span className="bg-amber-500 text-white w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">6</span>
+                ふるさと納税トラベルクーポンを使う</h3>
               <p className="text-sm text-stone-700 leading-relaxed mb-3">
                 多くの人がまだ気づいていない、旅行費節約の最強カード。楽天ふるさと納税で自治体に寄付すると、<strong>寄付額の最大30%が宿泊クーポンとして還元</strong>される。しかも翌年の確定申告（またはワンストップ特例）で寄付額が所得税・住民税から控除されるため、<strong>実質的な自己負担はたったの2,000円</strong>。つまり年収に応じた控除上限額の範囲内であれば、10万円を寄付して3万円分のクーポンを手に入れても、実際に財布から出ていくのは2,000円だけ。これを知らずに旅行しているなら、毎回数万円を損している計算になる。
               </p>
@@ -191,10 +177,8 @@ export default function TravelSavingsGuide() {
             </div>
 
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6">
-              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2">
-                <span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">7</span>
-                セット予約（航空券+ホテル / レンタカー+宿泊）
-              </h3>
+              <h3 className="font-bold text-stone-800 mb-2 flex items-center gap-2"><span className="bg-stone-100 text-stone-600 w-7 h-7 rounded-full flex items-center justify-center text-xs font-bold shrink-0">7</span>
+                セット予約（航空券+ホテル / レンタカー+宿泊）</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 航空券とホテルをバラバラに予約するよりも、楽天トラベルの「楽パック」のようなセット予約なら合計で数千〜数万円安くなることがある。特に遠方への旅行では、移動費+宿泊費のトータルコストで比較するのが鉄則。レンタカー付きプランも同様にお得な場合が多い。
               </p>
@@ -204,10 +188,8 @@ export default function TravelSavingsGuide() {
 
         {/* セクション2: ふるさと納税×旅行の仕組み */}
         <section id="furusato" className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3">
-            <span className="text-amber-600">2</span>
-            最もインパクトの大きい節約法——ふるさと納税×旅行
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3"><span className="text-amber-600">2</span>
+            最もインパクトの大きい節約法——ふるさと納税×旅行</h2>
 
           <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 md:p-8 mb-6">
             <h3 className="text-lg font-bold text-stone-800 mb-4">なぜ「ふるさと納税」が旅行の節約に効くのか？</h3>
@@ -240,7 +222,7 @@ export default function TravelSavingsGuide() {
             </p>
 
             <div className="bg-stone-50 rounded-xl p-4 border border-stone-200/60 mb-6">
-              <h4 className="text-sm font-bold text-stone-700 mb-2">💡 年収別・控除上限の目安（独身または共働き）</h4>
+              <h4 className="text-sm font-bold text-stone-700 mb-2">年収別・控除上限の目安（独身または共働き）</h4>
               <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-center text-xs">
                 <div className="bg-white rounded-lg p-2 border border-stone-200/60">
                   <div className="text-stone-500">年収400万</div>
@@ -268,9 +250,7 @@ export default function TravelSavingsGuide() {
                 <span className="inline-block bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full mb-1">
                   完全初心者でも安心！
                 </span>
-                <h4 className="text-base font-bold text-stone-900">
-                  「一度もやったことがない」「確定申告が不安」な方はこちら
-                </h4>
+                <h4 className="text-base font-bold text-stone-900">「一度もやったことがない」「確定申告が不安」な方はこちら</h4>
                 <p className="text-xs text-stone-600 mt-1">
                   なぜ実質2,000円になるのかのお金の流れ図、スマホで5分で終わるワンストップ申請、初心者がやりがちな失敗例などを別記事で1から丁寧に図解しています。
                 </p>
@@ -287,10 +267,8 @@ export default function TravelSavingsGuide() {
 
         {/* セクション3: 使い方3ステップ */}
         <section id="howto" className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3">
-            <span className="text-amber-600">3</span>
-            ふるさと納税トラベルクーポンの使い方
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3"><span className="text-amber-600">3</span>
+            ふるさと納税トラベルクーポンの使い方</h2>
 
           <div className="grid md:grid-cols-3 gap-6 mb-8">
             <div className="bg-white rounded-2xl shadow-sm border border-stone-200/80 p-6 text-center">
@@ -330,10 +308,8 @@ export default function TravelSavingsGuide() {
 
         {/* セクション4: FAQ */}
         <section id="faq" className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3">
-            <span className="text-amber-600">4</span>
-            よくある質問
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-8 flex items-center gap-3"><span className="text-amber-600">4</span>
+            よくある質問</h2>
 
           <div className="space-y-4">
             <details className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden group">
@@ -380,10 +356,8 @@ export default function TravelSavingsGuide() {
 
         {/* セクション5: テーマ別おすすめ宿ガイド一覧 */}
         <section id="guides" className="mb-16">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-4 flex items-center gap-3">
-            <span className="text-amber-600">5</span>
-            テーマ別おすすめ宿ガイド一覧
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-4 flex items-center gap-3"><span className="text-amber-600">5</span>
+            テーマ別おすすめ宿ガイド一覧</h2>
           <p className="text-sm text-stone-500 mb-8">
             ふるさと納税トラベルクーポンで泊まれるおすすめ宿を、テーマ別に259件厳選しました。気になるジャンルをタップして、あなたの旅にぴったりの一軒を見つけてください。
           </p>
@@ -393,11 +367,8 @@ export default function TravelSavingsGuide() {
             {/* 🍽 グルメ・美食・旬の味覚 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🍽</span>
-                  グルメ・美食・旬の味覚
-                  <span className="text-xs font-normal text-stone-400 ml-1">(33件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">グルメ・美食・旬の味覚
+                  <span className="text-xs font-normal text-stone-400 ml-1">(33件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">白子筍・ブランド牛・蟹・朝市海鮮・ご当地麺——各地の「食」を堪能する旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -635,11 +606,8 @@ export default function TravelSavingsGuide() {
             {/* ♨ 温泉・古湯・湯治・癒やし */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">♨</span>
-                  温泉・古湯・湯治・癒やし
-                  <span className="text-xs font-normal text-stone-400 ml-1">(43件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">温泉・古湯・湯治・癒やし
+                  <span className="text-xs font-normal text-stone-400 ml-1">(43件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">日本三古湯、美肌の湯、秘湯、薬湯、本格湯治……日本が誇る名湯を巡る贅沢な湯旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -1843,11 +1811,8 @@ export default function TravelSavingsGuide() {
             {/* 🏯 歴史・文化・寺社仏閣・枯山水 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🏯</span>
-                  歴史・文化・寺社仏閣・枯山水
-                  <span className="text-xs font-normal text-stone-400 ml-1">(39件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">歴史・文化・寺社仏閣・枯山水
+                  <span className="text-xs font-normal text-stone-400 ml-1">(39件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">枯山水庭園・茶道・相撲・名城・庭園・古社・天満宮・龍穴・古都——歴史と禅を感じる旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2091,11 +2056,8 @@ export default function TravelSavingsGuide() {
             {/* 🌊 海・塩田・川・湖・水辺・湧水 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🌊</span>
-                  海・塩田・川・湖・水辺・湧水
-                  <span className="text-xs font-normal text-stone-400 ml-1">(44件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">海・塩田・川・湖・水辺・湧水
+                  <span className="text-xs font-normal text-stone-400 ml-1">(44件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">伝統塩田・湧水群・清流・渓谷・水郷・美港・岬・砂丘・島旅——水の絶景に包まれる旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2369,11 +2331,8 @@ export default function TravelSavingsGuide() {
             {/* ⛰ 山・森・高原・漆美林・湿原 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">⛰</span>
-                  山・森・高原・漆美林・湿原
-                  <span className="text-xs font-normal text-stone-400 ml-1">(48件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">山・森・高原・漆美林・湿原
+                  <span className="text-xs font-normal text-stone-400 ml-1">(48件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">漆原木美林・美林・竹林・原生林・カルスト・棚田・浮島湿原・塩の道——雄大な自然を五感で味わう旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2689,11 +2648,8 @@ export default function TravelSavingsGuide() {
             {/* 📸 絶景・夜景・星空・渓谷鉄道 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">📸</span>
-                  絶景・夜景・星空・渓谷鉄道
-                  <span className="text-xs font-normal text-stone-400 ml-1">(12件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">絶景・夜景・星空・渓谷鉄道
+                  <span className="text-xs font-normal text-stone-400 ml-1">(12件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">三大渓谷鉄道・三大夜景・星空・夕日・イルミネーション——一生モノの景色と出会う旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2781,11 +2737,8 @@ export default function TravelSavingsGuide() {
             {/* 🎆 祭り・花火・イベント */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🎆</span>
-                  祭り・花火・イベント
-                  <span className="text-xs font-normal text-stone-400 ml-1">(10件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">祭り・花火・イベント
+                  <span className="text-xs font-normal text-stone-400 ml-1">(10件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">三大祭り・花火大会・奇祭・七夕——熱狂と感動を共有する日本の夏と伝統行事</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2837,11 +2790,8 @@ export default function TravelSavingsGuide() {
             {/* 🍶 日本酒・ワイン・地ビール・酒蔵通り */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🍶</span>
-                  日本酒・ワイン・地ビール・酒蔵通り
-                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">日本酒・ワイン・地ビール・酒蔵通り
+                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">酒蔵・酒蔵通り・ワイナリー・クラフトブルワリー——醸造の里で味わう大人の旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2899,11 +2849,8 @@ export default function TravelSavingsGuide() {
             {/* 🎨 ものづくり・伝統工芸・ガラス */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🎨</span>
-                  ものづくり・伝統工芸・ガラス
-                  <span className="text-xs font-normal text-stone-400 ml-1">(11件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">ものづくり・伝統工芸・ガラス
+                  <span className="text-xs font-normal text-stone-400 ml-1">(11件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">ガラスの街・切子・竹細工・漆器・輪島塗・和紙・陶芸・刃物——職人技に触れる大人の知的好奇心旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -2979,11 +2926,8 @@ export default function TravelSavingsGuide() {
             {/* 🌉 名橋・建築遺産 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🌉</span>
-                  名橋・建築遺産
-                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">名橋・建築遺産
+                  <span className="text-xs font-normal text-stone-400 ml-1">(7件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">眼鏡橋・錦帯橋・奇橋・登録有形文化財——建築美を訪ねるヘリテージ旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -3029,11 +2973,8 @@ export default function TravelSavingsGuide() {
             {/* 🌸 四季の旅・季節限定 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">🌸</span>
-                  四季の旅・季節限定
-                  <span className="text-xs font-normal text-stone-400 ml-1">(1件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">四季の旅・季節限定
+                  <span className="text-xs font-normal text-stone-400 ml-1">(1件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">桜・紅葉・冬景色——その季節だけの特別な風景を追いかける旅</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -3049,11 +2990,9 @@ export default function TravelSavingsGuide() {
             {/* 👨‍👩‍👧 旅行スタイル別 */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">👨‍👩‍👧</span>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2"><span className="text-xl">‍‍</span>
                   旅行スタイル別
-                  <span className="text-xs font-normal text-stone-400 ml-1">(6件)</span>
-                </h3>
+                  <span className="text-xs font-normal text-stone-400 ml-1">(6件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">家族旅行・赤ちゃん連れ・3世代・ソロ・カップル・グランピング・宿坊——あなたの旅に合う1軒</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -3123,11 +3062,8 @@ export default function TravelSavingsGuide() {
             {/* 📖 ふるさと納税 使い方ガイド */}
             <section className="bg-white rounded-2xl shadow-sm border border-stone-200/80 overflow-hidden">
               <div className="bg-gradient-to-r from-stone-50 to-amber-50/50 px-6 py-4 border-b border-stone-200/60">
-                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">
-                  <span className="text-xl">📖</span>
-                  ふるさと納税 使い方ガイド
-                  <span className="text-xs font-normal text-stone-400 ml-1">(2件)</span>
-                </h3>
+                <h3 className="text-lg font-bold text-stone-800 flex items-center gap-2">ふるさと納税 使い方ガイド
+                  <span className="text-xs font-normal text-stone-400 ml-1">(2件)</span></h3>
                 <p className="text-xs text-stone-500 mt-1">初心者向け完全マニュアルや予約済みでも使えるあとから適用テクなど、実践ノウハウはこちら</p>
               </div>
               <ul className="p-4 grid gap-0.5 sm:grid-cols-2">
@@ -3150,9 +3086,7 @@ export default function TravelSavingsGuide() {
 
         {/* CTA */}
         <section className="bg-gradient-to-r from-stone-900 via-amber-950 to-stone-900 text-white rounded-3xl p-8 md:p-12 mb-12 shadow-xl border border-amber-900/40 text-center">
-          <h2 className="text-2xl md:text-3xl font-bold font-serif mb-4 text-amber-50">
-            まずは控除上限額をシミュレーション
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-serif mb-4 text-amber-50">まずは控除上限額をシミュレーション</h2>
           <p className="text-stone-300 text-sm mb-6 max-w-2xl mx-auto">
             「自分はいくらまで寄付できるのか？」を知ることが、ふるさと納税旅行の第一歩。楽天ふるさと納税の無料シミュレーターなら、年収と家族構成を入力するだけで30秒で分かります。
           </p>
@@ -3183,9 +3117,7 @@ export default function TravelSavingsGuide() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と旅行費を最大30%安くする裏ワザ7選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と旅行費を最大30%安くする裏ワザ7選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

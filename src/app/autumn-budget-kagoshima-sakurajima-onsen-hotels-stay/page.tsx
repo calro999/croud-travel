@@ -58,10 +58,8 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            秋の鹿児島旅行を格安に満喫する賢いステイ戦略
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            秋の鹿児島旅行を格安に満喫する賢いステイ戦略</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             鹿児島は市街地各所に良質な天然温泉が湧き出る日本有数の温泉都市。天文館周辺での黒豚しゃぶしゃぶや薩摩地鶏巡りはもちろん、錦江湾フェリーでの桜島クルーズも秋晴れの心地よい風が吹くベストシーズンです。宿泊費を3,000円〜5,000円台に抑えて、浮いた予算を本場黒豚の特上コースや焼酎飲み比べに贅沢に充てる旅をおすすめします。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル薩摩川内　天然温泉　薩摩の湯
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル薩摩川内　天然温泉　薩摩の湯</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>川内駅西口より徒歩にて約1分</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（絶品サウナ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　霧桜の湯　ドーミーイン鹿児島（ドーミーイン・御宿野乃　ホテルズグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　霧桜の湯　ドーミーイン鹿児島（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>市電「高見馬場」下車徒歩２分</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル自治会館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル自治会館</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鹿児島中央駅より市営バス約１５分</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（美肌温泉）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              シルクイン鹿児島
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">シルクイン鹿児島</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ鹿児島中央駅東口から徒歩５分</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（絶景湯処）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　ホテルグリーンヒル＜鹿児島県＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　ホテルグリーンヒル＜鹿児島県＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鹿児島中央駅より車で４５分</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-teal-900 to-slate-900 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の鹿児島旅を満喫するポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の鹿児島旅を満喫するポイント</h2>
           <p className="text-sm text-teal-100 leading-relaxed">
             鹿児島は10月〜11月でも比較的温暖で過ごしやすく、桜島フェリーデッキからの秋風や、紅葉が色づき始める霧島連山へのドライブなど見どころが満載。人気の日程はすぐに満室になるため、早めの予約でお得なプランを押さえておきましょう。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「鹿児島：桜島一望と黒豚しゃぶしゃぶを満喫！秋の温泉・高コスパ格安宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「鹿児島」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「鹿児島」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

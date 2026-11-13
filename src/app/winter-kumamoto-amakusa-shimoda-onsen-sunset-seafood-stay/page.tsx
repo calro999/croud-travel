@@ -298,10 +298,8 @@ export default function AmakusaOnsenWinterPage() {
             <Sunset className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 東シナ海の初冬サンセットと天草伊勢海老・車海老海鮮旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月天草・下田温泉の冬名湯と夕陽海鮮】<br className="hidden sm:inline" />
-            東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月天草・下田温泉の冬名湯と夕陽海鮮】<br className="hidden sm:inline" />
+            東シナ海サンセット露天と白鷺古湯・冬の伊勢海老＆天然車海老会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄んだ水平線に沈みゆく日本の夕陽百選の落日。開湯700年を誇る天草下田温泉の100%源泉掛け流し露天風呂に浸かり、冬に最も甘みと身の締まりを極める天草伊勢海老・活車海老・とらふぐを堪能する至福の島旅。
           </p>
@@ -327,9 +325,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Amakusa Shimoda Onsen Winter Sunset</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白鷺が傷を癒やした700年の古湯、東シナ海の茜色に染まる至高のサンセット
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白鷺が傷を癒やした700年の古湯、東シナ海の茜色に染まる至高のサンセット</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -368,9 +364,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Pure Hot Spring Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                100%完全源泉掛け流しを守る「国民保養温泉地」下田温泉の魅力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">100%完全源泉掛け流しを守る「国民保養温泉地」下田温泉の魅力</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -389,9 +383,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">World Cultural Heritage Site</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の静けさに包まれる世界文化遺産『﨑津集落』教会と漁村の祈り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の静けさに包まれる世界文化遺産『﨑津集落』教会と漁村の祈り</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -410,9 +402,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の天草・下田温泉が特別な3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の天草・下田温泉が特別な3つの理由</h2>
             </div>
           </div>
           
@@ -453,9 +443,7 @@ export default function AmakusaOnsenWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              天草・下田温泉＆松島温泉 11月・12月におすすめの名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">天草・下田温泉＆松島温泉 11月・12月におすすめの名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベルの最新API公式データをもとに、東シナ海の夕陽一望・源泉掛け流し・極上海老会席を誇る名宿を厳選。
             </p>
@@ -491,11 +479,9 @@ export default function AmakusaOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-amber-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -555,9 +541,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Amakusa Winter Seafood Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                4. 天草の初冬グルメ：天草伊勢海老・天然車海老・天草大王の至高の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">4. 天草の初冬グルメ：天草伊勢海老・天然車海老・天草大王の至高の饗宴</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -576,35 +560,25 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 1泊2日 天草・下田温泉〜世界遺産﨑津集落・夕陽露天 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 1泊2日 天草・下田温泉〜世界遺産﨑津集落・夕陽露天 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-amber-800 uppercase tracking-wider">【1日目】天草五橋ドライブ〜世界遺産﨑津集落＆東シナ海サンセット露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                11:00 熊本市内または熊本空港出発 → 天草五橋を渡る絶景ドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">11:00 熊本市内または熊本空港出発 → 天草五橋を渡る絶景ドライブ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 島々を結ぶ5つの橋を渡りながら美しい海と多島美を満喫。途中の松島で海鮮丼ランチ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 世界文化遺産「﨑津集落」散策（﨑津教会と静かな漁村の祈り）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 世界文化遺産「﨑津集落」散策（﨑津教会と静かな漁村の祈り）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 畳敷きの﨑津教会やトウヤ（細い路地）、資料館「みなと屋」をめぐり潜伏キリシタンの歴史に触れる。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                16:00 下田温泉の宿へチェックイン → 露天風呂から日本の夕陽百選を鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">16:00 下田温泉の宿へチェックイン → 露天風呂から日本の夕陽百選を鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 白鷺古湯の源泉掛け流しに浸かりながら、東シナ海が茜色に染まる荘厳な日没を堪能。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:00 天草伊勢海老・天然車海老の豪華海鮮会席ディナー
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:00 天草伊勢海老・天然車海老の豪華海鮮会席ディナー</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 甘みたっぷりの活伊勢海老刺しや車海老の踊り食い、地魚の舟盛りを地酒とともに味わう贅沢。
               </p>
@@ -612,27 +586,19 @@ export default function AmakusaOnsenWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】朝の潮騒露天風呂〜妙見浦奇岩絶景＆天草イルカウォッチング</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝の波音を聴きながらの露天風呂 → 伊勢海老味噌汁の朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝の波音を聴きながらの露天風呂 → 伊勢海老味噌汁の朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 静かな朝の東シナ海を眺めながらの入浴。前夜の伊勢海老の頭を使った極上味噌汁で目覚める。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:30 国の名勝「妙見浦」の象岩奇岩美を鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:30 国の名勝「妙見浦」の象岩奇岩美を鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 波の浸食によってできた象のような形の巨大な洞門岩と荒波の絶景を展望所から見学。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                11:30 通詞島沖の年中会える「天草野生イルカウォッチング」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">11:30 通詞島沖の年中会える「天草野生イルカウォッチング」</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 約200頭の野生のミナミハンドウイルカが船のすぐ側を泳ぎ回る大迫力のクルーズ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:30 本渡または三角駅より帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:30 本渡または三角駅より帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 天草サブレや海産物のお土産を購入し、心洗われた1泊2日の島旅を締めくくります。
               </p>
@@ -648,9 +614,7 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Island Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・島巡りアクセスアドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・島巡りアクセスアドバイス</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -669,18 +633,14 @@ export default function AmakusaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の天草旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の天草旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -693,9 +653,7 @@ export default function AmakusaOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Related Kyushu & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の名湯＆冬の海鮮・美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の名湯＆冬の海鮮・美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの絶景露天風呂、温泉街の湯あかり、旬の郷土グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

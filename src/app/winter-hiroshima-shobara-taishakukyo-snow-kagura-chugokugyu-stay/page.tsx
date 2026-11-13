@@ -150,11 +150,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50714%2F50714.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     休暇村 帝釈峡
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 庄原市東城町三坂962-1 ｜ 最寄り：備後落合駅 ｜ ⭐ 4.19 ｜ 1泊〜¥10,000〜</p>
                 <p className="text-sm text-gray-700 mb-3">帝釈峡の自然に抱かれた休暇村。温泉・ハイキング・四季折々の絶景が一度に楽しめる宿泊施設。</p>
                 <a
@@ -179,11 +177,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183874%2F183874.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     桜花の郷 ラ・フォーレ庄原
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 庄原市新庄町5281-1 ｜ 最寄り：備後庄原駅 ｜ ⭐ 4.31 ｜ 1泊〜¥7,800〜</p>
                 <p className="text-sm text-gray-700 mb-3">満点の星空が見える露天風呂と四季折々の旬な食材を使った美食で身体と心を癒す天然温泉ホテル。</p>
                 <a
@@ -208,11 +204,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F38563%2F38563.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     備長炭の湯 ホテルクラウンヒルズ三次
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市東6-13-25 ｜ 最寄り：三次駅 ｜ ⭐ 3.89 ｜ 1泊〜¥3,700〜</p>
                 <p className="text-sm text-gray-700 mb-3">三次ICより車で1分。広島県北部の観光拠点として最適なホテル。備長炭温泉大浴場が自慢。</p>
                 <a
@@ -237,11 +231,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187288%2F187288.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     ホテルルートイン三次駅前
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市南1-5-5 ｜ 最寄り：三次駅 ｜ ⭐ 4.35 ｜ 1泊〜¥6,650〜</p>
                 <p className="text-sm text-gray-700 mb-3">三次駅より徒歩3分。男女別大浴場・品数豊富な朝食バイキング・ランドリー室・全館Wi-Fiが揃う快適ホテル。</p>
                 <a
@@ -266,11 +258,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15881%2F15881.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     ホテルアルファーワン三次
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 三次市十日市西1-4-22 ｜ 最寄り：三次駅 ｜ ⭐ 4.03 ｜ 1泊〜¥5,600〜</p>
                 <p className="text-sm text-gray-700 mb-3">自慢の朝定食（和・洋定食＆セミバイキング）・各階電子レンジ・全室Wi-Fi・無料駐車場130台完備。</p>
                 <a

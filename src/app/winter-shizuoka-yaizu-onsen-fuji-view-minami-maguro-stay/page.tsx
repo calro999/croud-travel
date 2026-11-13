@@ -280,10 +280,8 @@ export default function ShizuokaYaizuWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 駿河湾富士絶景＆天然南マグロ特集｜静岡・焼津温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月静岡・焼津温泉】<br className="hidden sm:inline" />
-            初冬駿河湾越し富士山絶景と天然南マグロ・深層水高張性美肌泉の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月静岡・焼津温泉】<br className="hidden sm:inline" />
+            初冬駿河湾越し富士山絶景と天然南マグロ・深層水高張性美肌泉の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             一年で最も澄み渡る初冬の青空。紺碧の駿河湾越しに純白の富士山を仰ぐ奇跡の湯浴み。焼津港直送の極上天然南マグロと、太古の地層から湧出する高濃度温まり温泉の極上ステイ。
           </p>
@@ -301,9 +299,7 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Suruga Bay Clear Winter & Southern Bluefin Tuna</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                紺碧の海と純白の富士山｜初冬に最も輝く駿河湾パノラマと焼津港の天然南マグロ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">紺碧の海と純白の富士山｜初冬に最も輝く駿河湾パノラマと焼津港の天然南マグロ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">High Osmotic Mineral Deep Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                浸透圧が高く熱を逃がさない「焼津温泉の高張性カルシウム強塩泉」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">浸透圧が高く熱を逃がさない「焼津温泉の高張性カルシウム強塩泉」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Yaizu Tuna & Suruga Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                本マグロを超える甘みとコク｜天然南マグロの食べ比べと駿河湾の冬の味覚
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">本マグロを超える甘みとコク｜天然南マグロの食べ比べと駿河湾の冬の味覚</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Coastal Scenic Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の焼津散策モデルコース｜焼津さかなセンターと大崩海岸絶景ドライブ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の焼津散策モデルコース｜焼津さかなセンターと大崩海岸絶景ドライブ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function ShizuokaYaizuWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-blue-700 uppercase tracking-widest">Featured Oceanview & Tuna Gastronomy Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              富士山絶景と極上マグロを堪能｜焼津温泉の厳選旅館・ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">富士山絶景と極上マグロを堪能｜焼津温泉の厳選旅館・ホテル5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、駿河湾の眺望や天然南マグロ料理に強いこだわりを持つ本物の宿だけを厳選。
             </p>
@@ -451,9 +439,7 @@ export default function ShizuokaYaizuWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の焼津冬旅｜太平洋側の晴天率と赤富士鑑賞のタイミング
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の焼津冬旅｜太平洋側の晴天率と赤富士鑑賞のタイミング</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-800" />
-                温暖な太平洋気候と早朝の富士山鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-800" />
+                温暖な太平洋気候と早朝の富士山鑑賞</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 焼津は冬でも晴天が多く温暖ですが、富士山を最も美しく鑑賞できる早朝の露天風呂や海岸線は海風で冷え込みます。日の出（6時30分頃）に合わせた赤富士鑑賞の際は、羽織る防寒具やストールをお忘れなく。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-blue-800" />
-                新幹線静岡駅から12分の抜群アクセスと無料送迎
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-blue-800" />
+                新幹線静岡駅から12分の抜群アクセスと無料送迎</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 東海道新幹線・静岡駅から在来線でわずか12分とアクセスが驚くほど快適です。主要ホテルは焼津駅からの無料シャトルバスを運行しており、首都圏や中京圏から週末に気軽に行ける冬の温泉旅先として最適です。
               </p>
@@ -565,18 +545,14 @@ export default function ShizuokaYaizuWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                静岡・焼津温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">静岡・焼津温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function ShizuokaYaizuWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-blue-400 uppercase tracking-widest">Related Winter Features & Fuji View Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい富士山絶景＆極上海鮮グルメ冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい富士山絶景＆極上海鮮グルメ冬特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の霊峰富士を望む名湯、熱海花火、富山寒ブリ、青森マグロをめぐる人気の厳選特集もぜひご覧ください。
             </p>

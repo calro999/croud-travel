@@ -301,9 +301,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀の氷壁が織りなす大自然の造形美と、山里に息づく極上のぬくもり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀の氷壁が織りなす大自然の造形美と、山里に息づく極上のぬくもり</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の奥久慈・袋田で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の奥久慈・袋田で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、息をのむ奇蹟の冬景色と温かな郷土の味。
             </p>
@@ -339,9 +335,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 日本三名瀑「袋田の滝」の完全結氷・氷瀑
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 日本三名瀑「袋田の滝」の完全結氷・氷瀑</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 四段の巨岩を覆い尽くす巨大な氷壁。自然の厳冬が生み出す芸術作品「氷瀑」は、間近で見上げると圧倒的な迫力と神秘的な静寂に包まれます。
               </p>
@@ -351,9 +345,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬を彩る光の祭典「大子来人〜ダイゴライト〜」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬を彩る光の祭典「大子来人〜ダイゴライト〜」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 観瀑トンネルを煌びやかに照らすイルミネーションと、暗闇の中に青白く浮かび上がる夜間ライトアップの滝。昼夜で異なる二面性の美しさに息をのみます。
               </p>
@@ -363,9 +355,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 本場奥久慈軍鶏鍋と極上常陸牛の山里会席
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 本場奥久慈軍鶏鍋と極上常陸牛の山里会席</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 引き締まった肉質と濃密な旨味を誇る奥久慈軍鶏の熱々鍋と、きめ細やかな霜降り常陸牛。冬の寒さに染み渡る極上の郷土美味を名宿で堪能できます。
               </p>
@@ -375,9 +365,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】氷瀑ライトアップと奥久慈軍鶏・常陸秋そばを巡る冬の王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】氷瀑ライトアップと奥久慈軍鶏・常陸秋そばを巡る冬の王道モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               昼と夜で表情を変える袋田の滝をじっくり堪能し、奥久慈の温泉とグルメを満喫するドライブ旅。
             </p>
@@ -388,9 +376,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:30 常陸大子に到着 ➔ 香り高い「常陸秋そば」の十割手打ちで腹ごしらえ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:30 常陸大子に到着  香り高い「常陸秋そば」の十割手打ちで腹ごしらえ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   常磐道那珂ICから国道118号を北上し、奥久慈の玄関口・大子町へ。まずは全国の蕎麦職人から最高峰の評価を受ける「常陸秋そば」の手打ち蕎麦店へ。冬ならではの鴨南蛮や、奥久慈軍鶏の天ぷらとともに、豊かな穀物の香りとコシを堪能します。
                 </p>
@@ -399,9 +385,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:30 「道の駅 奥久慈だいご」で名産品チェック ➔ 奥久慈の温泉宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:30 「道の駅 奥久慈だいご」で名産品チェック  奥久慈の温泉宿へチェックイン</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   道の駅で奥久慈りんごや特産こんにゃく、大子漆の工芸品を鑑賞。15時半頃に宿へチェックイン。弱アルカリ性の柔らかな美肌温泉に浸かり、長時間のドライブで強張った体をほぐして夕暮れのひとときをのんびりと寛ぎます。
                 </p>
@@ -410,9 +394,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  17:30 冬の袋田の滝ライトアップ「大子来人〜ダイゴライト〜」を観賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">17:30 冬の袋田の滝ライトアップ「大子来人〜ダイゴライト〜」を観賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   夕食前に防寒着を整えて夜の袋田の滝へ。色鮮やかに照らし出された観瀑トンネルを抜け、観瀑台へ出ると、闇夜に白く浮かび上がる巨大な滝の光景に圧倒されます。凍り始めた氷柱がLEDの光を浴びて神秘的な輝きを放ち、旅のハイライトを鮮烈に刻みます。
                 </p>
@@ -421,9 +403,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:30 宿へ戻り、熱々の「奥久慈軍鶏鍋」と「常陸牛ステーキ」に舌鼓
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:30 宿へ戻り、熱々の「奥久慈軍鶏鍋」と「常陸牛ステーキ」に舌鼓</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   ライトアップ観賞で冷えた体に、宿の夕食が幸せを満たします。軍鶏のガラから丁寧に引いた濃厚出汁で味わう軍鶏鍋は、噛み締めるほどに深い旨味が溢れ、地酒「森嶋」や「大子」が進みます。食後は再び温泉の湯船に身を沈め、安らかな眠りへ。
                 </p>
@@ -432,9 +412,7 @@ export default function IbarakiFukurodaIceWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝の清澄な空気の中、陽光に輝く昼の「袋田の滝」氷瀑を再訪
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝の清澄な空気の中、陽光に輝く昼の「袋田の滝」氷瀑を再訪</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝食後、宿を出発して朝の袋田の滝へ。朝の澄み切った太陽光が差し込む時間帯は、氷瀑がダイヤモンドのように白く煌めき、夜とは全く異なる壮麗な美しさを鑑賞できます。滝川沿いのお土産屋街で焼き立ての串団子や名物「ゆず味噌こんにゃく」を食べ歩き、大満足で帰路へ。
                 </p>
@@ -447,9 +425,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の袋田氷瀑と奥久慈の味覚を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の袋田氷瀑と奥久慈の味覚を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               滝至近の老舗旅館から、渓流美を愛でる露天風呂リゾート、奥久慈軍鶏の料理旅館まで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function IbarakiFukurodaIceWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              奥久慈の風土が育んだ極上の味覚と冬の手仕事
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">奥久慈の風土が育んだ極上の味覚と冬の手仕事</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-cyan-700" />
-                全国の料理人を魅了する「奥久慈軍鶏」の真髄
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-cyan-700" />
+                全国の料理人を魅了する「奥久慈軍鶏」の真髄</h3>
               <p>
                 奥久慈軍鶏の美味しさの秘密は、徹底した平飼い環境と長い飼育期間にあります。山あいの広大な鶏舎でストレスなく運動して育つため、筋肉質で脂肪分が極めて少なく、鶏肉本来の野性味あふれる芳醇な香りと弾力が生まれます。冬の鍋料理では、肉の身崩れが一切なく、骨から抽出されるコラーゲンたっぷりの黄金出汁が野菜の甘みを極限まで引き出します。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-cyan-700" />
-                伝統の寒ざらし「凍み豆腐」と香り高き奥久慈茶
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-cyan-700" />
+                伝統の寒ざらし「凍み豆腐」と香り高き奥久慈茶</h3>
               <p>
                 奥久慈大子町の冬の風物詩である「凍み豆腐（しみどうふ）」は、寒風の中で豆腐を天日干しと夜間の凍結を繰り返して仕上げる伝統保存食。煮込むと出汁をたっぷり含んでふっくらと戻り、滋味豊かな風味が口いっぱいに広がります。また、寒冷地ならではの深い渋みとまろやかな甘みが特徴の「奥久慈茶」や、樹上完熟させて蜜を閉じ込めた「奥久慈りんご」のアップルパイなど、心温まるお土産が揃っています。
               </p>
@@ -577,9 +545,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="bg-cyan-50/60 rounded-3xl p-6 sm:p-10 border border-cyan-200/60 space-y-6">
           <div className="border-b border-cyan-200/80 pb-4">
             <span className="text-cyan-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">
-              冬の袋田・奥久慈を安全に楽しむための装備とアクセス指南
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">冬の袋田・奥久慈を安全に楽しむための装備とアクセス指南</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-cyan-950">
@@ -619,20 +585,16 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の袋田の滝・奥久慈温泉郷に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の袋田の滝・奥久慈温泉郷に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-cyan-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function IbarakiFukurodaIceWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい東日本の冬景色・温泉グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい東日本の冬景色・温泉グルメ特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

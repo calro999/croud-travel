@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            ヤシの並木に降り注ぐ南国の陽光と、真っ黒に煙る地鶏炭火焼きの香ばしさ——大淀川のせせらぎと名湯に癒やされる「宮崎プレミアムステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">ヤシの並木に降り注ぐ南国の陽光と、真っ黒に煙る地鶏炭火焼きの香ばしさ——大淀川のせせらぎと名湯に癒やされる「宮崎プレミアムステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             宮崎空港からJR特急でわずか約10分という驚異的なアクセスの良さを誇る宮崎市。街の中心を流れる大淀川沿いにはフェニックス（ヤシ）の木が揺れ、年中温暖で穏やかな南国情緒が漂います。日中の商談や視察を終えた後の夜の楽しみは、歓楽街「ニシタチ（西橘通り）」でのグルメ探訪。豪快な炭火の炎で焼き上げられる「地鶏炭火焼き」、甘酢と自家製タルタルソースが絡む本場の「チキン南蛮」、そして宮崎牛や本格芋焼酎「霧島」「木挽BLUE」が旅人を魅了します。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   繁華街「ニシタチ」徒歩すぐ！最上階12階の天然温泉大浴場「日向の湯」＆高温サウナ・名物夜鳴きそば
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 日向の湯 ドーミーイン宮崎 —— 橘通りのオアシス。天然温泉と水風呂サウナでととのい、地鶏酒場へ繰り出す安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 日向の湯 ドーミーイン宮崎 —— 橘通りのオアシス。天然温泉と水風呂サウナでととのい、地鶏酒場へ繰り出す安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   昭和天皇や皇室をお迎えしてきた名門リゾート！大淀川沿いに佇み地下から湧く名湯「たまゆらの湯」
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  宮崎観光ホテル —— 南国の風薫るリバーサイド。美肌の天然温泉露天風呂と充実の直営レストラン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">宮崎観光ホテル —— 南国の風薫るリバーサイド。美肌の天然温泉露天風呂と充実の直営レストラン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR宮崎駅西口から徒歩約5分！高層タワーホテルならではのシティビューと機能的なモダン客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  アートホテル宮崎 スカイタワー —— 駅近の上質拠点。シモンズ製ベッドと郷土の恵みを味わう和洋朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">アートホテル宮崎 スカイタワー —— 駅近の上質拠点。シモンズ製ベッドと郷土の恵みを味わう和洋朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              宮崎「ニシタチ」の夜を一人で満喫するスマートグルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">宮崎「ニシタチ」の夜を一人で満喫するスマートグルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 暖簾をくぐってカウンター席で「もも焼き（バラシ）」を注文
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 暖簾をくぐってカウンター席で「もも焼き（バラシ）」を注文</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 鶏の脂を炭火に落として立ち上がる黒い煙で燻し焼きにするみやざき地頭鶏。噛むほどに旨味が溢れ、柚子胡椒との相性は抜群です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 芋焼酎を「水割り・氷なし（またはロック）」で楽しむ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 芋焼酎を「水割り・氷なし（またはロック）」で楽しむ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 宮崎の焼酎はアルコール度数20度が主流で、まろやかで口当たりが優しいのが特徴。「黒霧島」や「木挽BLUE」を地元スタイルで。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. シメには名物「辛麺（からめん）」または「釜揚げうどん」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. シメには名物「辛麺（からめん）」または「釜揚げうどん」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 こんにゃく麺とニンニク・唐辛子・卵が絡む辛麺、または飲んだ後の胃に優しい細麺の釜揚げうどん（重乃井など）で締めるのが宮崎流です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>宮崎空港から市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>宮崎空港から市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 宮崎空港駅からJR空港線の特急・普通列車に乗れば、約10〜12分でJR宮崎駅へ直結。中心街（橘通り）へは空港リムジンバスで約20〜25分で直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でチキン南蛮の有名店に入れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でチキン南蛮の有名店に入れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 発祥の店「おぐら本店」や中心街の洋食店・居酒屋は一人客の利用が非常に多く、カウンター席や一人用席で気兼ねなく名物チキン南蛮を堪能できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 日向の湯 ドーミーイン宮崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 日向の湯 ドーミーイン宮崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

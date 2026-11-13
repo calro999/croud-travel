@@ -127,12 +127,10 @@ export default function RankingPage() {
             <span>🏆</span> <span>楽天トラベル公式クチコミ ★4.5以上限定</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">
-            全国おすすめ温泉宿・人気ホテル<br className="hidden sm:inline" />
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">全国おすすめ温泉宿・人気ホテル<br className="hidden sm:inline" />
             <span className="bg-gradient-to-r from-amber-200 via-yellow-100 to-amber-300 bg-clip-text text-transparent">
               総合ランキングTOP50
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-emerald-100/90 text-sm md:text-base leading-relaxed font-medium">
             3,200件超の旅宿アーカイブから、宿泊者満足度★4.5以上の宿だけを厳選。
@@ -167,9 +165,7 @@ export default function RankingPage() {
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-emerald-950/10 pb-4">
           <div>
             <span className="text-[10px] font-extrabold text-amber-800 uppercase tracking-widest block">TOP RATED HOTELS & RYOKAN</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-              満足度★4.5以上 厳選ランキング一覧
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">満足度4.5以上 厳選ランキング一覧</h2>
           </div>
           <span className="text-xs font-bold text-emerald-950/60 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200/60">
             全50宿・リアルタイム空室確認対応
@@ -219,11 +215,9 @@ export default function RankingPage() {
                       )}
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 leading-snug">
-                      <Link href={`/posts/${post.id}/`} className="hover:text-amber-700 transition">
+                    <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 leading-snug"><Link href={`/posts/${post.id}/`} className="hover:text-amber-700 transition">
                         {post.hotel_name}
-                      </Link>
-                    </h3>
+                      </Link></h3>
 
                     <p className="text-xs md:text-sm text-emerald-950/75 line-clamp-3 leading-relaxed">
                       {post.description || post.title}
@@ -262,9 +256,7 @@ export default function RankingPage() {
         <span className="inline-block text-xs font-black uppercase tracking-widest bg-amber-400 text-teal-950 px-3.5 py-1 rounded-full">
           楽天トラベル公式連携
         </span>
-        <h3 className="text-2xl md:text-3xl font-black font-journal-serif">
-          全国の人気温泉宿・ホテルを今すぐ予約
-        </h3>
+        <h3 className="text-2xl md:text-3xl font-black font-journal-serif">全国の人気温泉宿・ホテルを今すぐ予約</h3>
         <p className="text-emerald-100 text-xs md:text-sm max-w-xl mx-auto leading-relaxed">
           日程と人数を入力するだけで、楽天トラベルの最新空室状況・最安値プラン・お得な割引クーポンを即時確認できます。
         </p>

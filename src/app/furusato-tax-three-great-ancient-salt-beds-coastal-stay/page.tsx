@@ -108,9 +108,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  五百年受け継がれる揚げ浜式製塩と職人の情熱に触れる体験
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">五百年受け継がれる揚げ浜式製塩と職人の情熱に触れる体験</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三大塩田の地を訪れる最大の醍醐味は、現代の工業用塩とは全く異なる、天然塩の奥深い味わいと職人の技を間近で体感できることです。能登の「仁江海岸」沿いにある塩田村での潮撒き体験や釜焚き見学、赤穂の海洋科学館での塩づくり体験。海水を何杯も桶で担ぎ上げ、均一に砂に撒く職人の熟練の技に触れた後、出来立ての温かい粗塩をひとなめすると、塩辛さの奥に広がるまろやかな甘みと旨味に驚かされます。
@@ -123,9 +121,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然塩が素材の旨味を昇華させる！能登の寒鰤、鳴門鯛、赤穂牡蠣
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然塩が素材の旨味を昇華させる！能登の寒鰤、鳴門鯛、赤穂牡蠣</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 良質な塩のある土地には、必ず極上の海鮮美食が揃っています。能登和倉温泉では天然塩の塩焼きでいただくのどぐろや能登牛の炭火焼き。鳴門では激流に揉まれて身が引き締まった鳴門鯛の塩釜焼き。赤穂では大粒で濃厚な赤穂牡蠣をシンプルに天然塩とレモンでいただく贅沢。海の恵み同士が引き立て合う至高のマリアージュは、まさに産地ならではの贅沢です。
@@ -138,9 +134,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  海と空に溶け込むインフィニティ露天風呂と絶景オーシャンビュー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">海と空に溶け込むインフィニティ露天風呂と絶景オーシャンビュー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 七尾湾を一望し名湯和倉の湯に浸かる「ホテル海望」、鳴門海峡のパノラマビューと鳴門温泉の贅沢なスパリゾート「アオアヲ ナルト リゾート」、瀬戸内海の水平線と湯船が一体化するインフィニティ露天風呂で全国屈指の人気を誇る赤穂温泉の「銀波荘」。ふるさと納税クーポンを使えば、海を独り占めする特等席の客室も控除上限内であれば実質自己負担わずか2,000円（寄付額の最大30%クーポン還元）で驚くほどお得に予約できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 石川県 七尾市和倉町和歌崎部12-3</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    和倉温泉　ホテル海望
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">和倉温泉　ホテル海望</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「変わらぬ絶景と温かいおもてなしに感謝母の墓参りで帰省したついでに、息子家族を連れて久々ぶりに宿泊。地震の爪跡が残る中で、最大のおもてなしを受けさせていただきました。部屋や大浴場からの眺めは地震前と…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 徳島県 鳴門市鳴門町土佐泊浦字大毛16-45</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    アオアヲナルトリゾート
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">アオアヲナルトリゾート</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 兵庫県 赤穂市御崎2-8</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    赤穂温泉　絶景露天風呂の宿　銀波荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">赤穂温泉　絶景露天風呂の宿　銀波荘</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「瀬戸内海を望む露天風呂と食事に大満足瀬戸内海を望む露天風呂からの景色が素晴らしくいつまでも温泉を堪能できます。無料の最新のマッサージチェアもありリラックスできます。食事も美味しく満足度も高いです。…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】和倉温泉 ホテル海望を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】和倉温泉 ホテル海望を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と和倉温泉 ホテル海望の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と和倉温泉 ホテル海望の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

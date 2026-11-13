@@ -108,9 +108,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然クレイの強力な毛穴クレンジング効果！洗い流した瞬間に驚く「陶器のようなツルツル肌」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然クレイの強力な毛穴クレンジング効果！洗い流した瞬間に驚く「陶器のようなツルツル肌」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 火山灰や温泉ミネラルが自然発酵したキメ細やかな泥が、毛穴の汚れや余分な皮脂を吸着。全身にパックして温泉で洗い流せば、まるで高級エステを受けたかのような滑らかな美肌を実感できます。
@@ -123,9 +121,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  泥の保温力と浮力による温熱効果！血行を劇的に促進し慢性疲労や冷え性を解消
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">泥の保温力と浮力による温熱効果！血行を劇的に促進し慢性疲労や冷え性を解消</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 泥は熱を逃がしにくいため、身体の芯までじっくりと温まり、入浴後もポカポカ感が長時間持続。泥の中に沈む独特の浮遊感と適度な圧力が、筋肉のコリや関節の痛みを和らげてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  地獄蒸し料理や山海の幸！温泉の蒸気熱と大地の恵みを味わう滋味ディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">地獄蒸し料理や山海の幸！温泉の蒸気熱と大地の恵みを味わう滋味ディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 温泉の高温蒸気熱を利用して一気に蒸し上げる「地獄蒸し料理」や、黒豚しゃぶしゃぶ、比内地鶏やきりたんぽ鍋など、泥湯の里ならではの素朴でヘルシーな郷土の美味が身体を内側から整えます。
@@ -183,9 +177,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     秋田県鹿角市・開湯三百年！名物火山泥湿湯（泥風呂）と箱蒸し風呂で名高い八幡平の湯治聖地
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    後生掛温泉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">後生掛温泉</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     十和田八幡平国立公園の雄大な大自然、標高約1,000mの高原に位置し、開湯三百有余年の歴史を誇る名門湯治宿。宿の名物は、足元から湧き出る天然の温かい火山泥に首まで浸かる「泥風呂（火山泥湿湯）」。きめ細やかな泥の心地よい重みと温熱効果が全身を包み込み、神経痛や美肌に絶大な効能を誇ります。さらに首だけを出して蒸気を浴びる「箱蒸し風呂」や滝風呂、神経痛の湯など7つの多彩な湯殿を完備。比内地鶏や八幡平ポーク、山菜を使った滋味深い手作り料理とともに、本物の湯治の力を実感できる温泉好き憧れの宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鹿児島県霧島市・天然泥パック温泉の元祖！美肌の泥を全身に塗って乾かす贅沢露天リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     天孫降臨の神話が息づく霧島神宮温泉郷の豊かな森の中に佇み、「天然泥パック温泉」のパイオニアとして全国から女性客やカップルが訪れる人気宿。露天風呂の湯船の底から採取したミネラル豊富な純白の天然泥が洗面器に用意されており、顔や全身にたっぷり塗って乾燥させてから温泉で洗い流すことで、くすみが消えて驚くほどの透明感とモチモチ肌を手に入れることができます。夕食には鹿児島名物の黒豚しゃぶしゃぶや地鶏の炭火焼きなど郷土の味覚を堪能でき、大自然の中で心身ともに若返る休日をお過ごしいただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoNaturalMudBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・鉄輪温泉の隠れた名湯！天然美肌クレイ泥湯と源泉地獄蒸し料理の温泉宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別府・鉄輪　神丘温泉　豊山荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別府・鉄輪　神丘温泉　豊山荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     湯煙が立ち上る日本屈指の温泉街・別府鉄輪の静かな高台に位置し、良質な自家源泉と名物「泥湯（クレイ温泉）」を湛えるアットホームな温泉旅館。鉄輪名物の天然ミネラルを豊富に含んだ泥湯は、肌に優しく吸い付くような極上の肌触りで、入浴後は全身がツルツルになると大評判です。敷地内の地獄窯（高温蒸気釜）で素材の旨味を凝縮させて蒸し上げる「豊後牛や海の幸の地獄蒸し会席」も絶品。温泉の力と大地のエネルギーを五感で味わい尽くす、心温まる別府の湯治滞在が楽しめます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoNaturalMudBathStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】後生掛温泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】後生掛温泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoNaturalMudBathStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と後生掛温泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と後生掛温泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

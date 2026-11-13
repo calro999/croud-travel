@@ -89,9 +89,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            夕陽に照らされ黄金に波打つススキの海と、大涌谷の恵み宿る乳白色の美肌湯。秋の箱根を五感で味わい尽くす贅沢
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">夕陽に照らされ黄金に波打つススキの海と、大涌谷の恵み宿る乳白色の美肌湯。秋の箱根を五感で味わい尽くす贅沢</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             秋の深まりとともに、台ヶ岳の山裾に広がる広大な仙石原草原が一面黄金色に染まる10月中旬から11月。風に揺れる銀色・金色のススキの波を眺めながら遊歩道を歩けば、日常の喧騒を忘れさせる圧倒的な開放感と旅情に包まれます。そして仙石原のもう一つの醍醐味が、大涌谷から湧き出るミネラル豊富な「乳白色のにごり湯（酸性硫酸塩泉）」。高い殺菌力と温まり効果を持ち、冷え込む秋の身体を芯からじんわりと温めて肌を滑らかに整えてくれます。大涌谷源泉100％掛け流しの名湯と家庭的な温もりに憩う「万寿屋旅館」、広大な高原の敷地に自家源泉大浴場と大涌谷温泉貸切風呂を併せ持つ「箱根ホテル花月園」、そして全室に森を望む客室専用露天風呂を備えた隠れ家スモールラグジュアリー「センチュリオン箱根別邸」。秋の箱根ドライブやカップル・ご夫婦旅行に最適な名宿を、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）賢く予約し、記憶に残る錦秋の箱根ステイを満喫しましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  一面が黄金色に波打つ！仙石原ススキ草原遊歩道の絶景ウォーキング
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">一面が黄金色に波打つ！仙石原ススキ草原遊歩道の絶景ウォーキング</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 見頃となる10月〜11月には、青空と秋風に揺れるススキが圧巻のグラデーションを描きます。夕暮れ時のマジックアワーにはススキが夕陽に照らされ、幻想的な黄金の海へと変化します。
@@ -122,9 +118,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  大涌谷から引湯する濃厚な「白濁にごり湯」！身体の芯から温まる極上の美肌泉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">大涌谷から引湯する濃厚な「白濁にごり湯」！身体の芯から温まる極上の美肌泉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 箱根でも希少な白濁した硫黄・酸性硫酸塩泉。肌を引き締めつるつるにする美肌作用と抜群の保温効果があり、秋の冷気で冷えた身体を心地よく包み込んでくれます。
@@ -137,9 +131,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  ポーラ美術館やガラスの森など秋のアート鑑賞＆旬の創作会席ディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">ポーラ美術館やガラスの森など秋のアート鑑賞＆旬の創作会席ディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 紅葉と自然林に囲まれた箱根仙石原の美術館巡りを楽しんだ後は、相模湾の旬魚や足柄牛、秋の茸を贅沢に盛り込んだ極上の会席料理やディナーを堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                       ★ 3.92 <span className="text-stone-400 text-xs">(165件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    箱根仙石原温泉　万寿屋旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">箱根仙石原温泉　万寿屋旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町仙石原160 ｜ 小田原駅よりバスで４０分／箱根湯本よりバスで３０分　仙石案内所前バス停下車、徒歩３分で当館に到着します
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                       ★ 4.09 <span className="text-stone-400 text-xs">(1,827件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    仙石原温泉　箱根ホテル花月園
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">仙石原温泉　箱根ホテル花月園</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町仙石原イタリ1244-2 ｜ 東名高速御殿場ＩＣより１３８号線で箱根方面へ。仙石原交差点（県道75号線分岐）を芦ノ湖方面へ。
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
                       ★ 4.54 <span className="text-stone-400 text-xs">(172件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">全室露天風呂付客室　仙石原温泉　センチュリオン箱根別邸</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 神奈川県足柄下郡箱根町仙石原1285-389 ｜ 箱根湯本駅よりお車にて約25分、東名高速道路御殿場ICからお車で約25分。
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】箱根仙石原温泉 万寿屋旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】箱根仙石原温泉 万寿屋旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoAutumnSengokuharaSilverGrassStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と箱根仙石原温泉 万寿屋旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と箱根仙石原温泉 万寿屋旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -212,10 +212,8 @@ export default function HokkaidoFamilyTripZooNaturePage() {
 
       {/* 目次 */}
       <nav className="bg-amber-50/70 border border-amber-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-amber-950 mb-3 flex items-center gap-2">
-          <span className="w-2.5 h-2.5 rounded-full bg-amber-600"></span>
-          本記事のコンテンツ一覧
-        </h2>
+        <h2 className="text-base font-black text-amber-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-amber-600"></span>
+          本記事のコンテンツ一覧</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-amber-950">
           <li className="flex items-center gap-2">
             <span className="text-amber-600 font-bold">01.</span>
@@ -240,9 +238,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
       <section id="itinerary" className="space-y-6">
         <div className="border-l-4 border-amber-600 pl-4">
           <span className="text-xs font-black text-amber-700 tracking-wider uppercase">MODEL ITINERARY</span>
-          <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-            2泊3日 旭川・美瑛・富良野 子連れ満喫スケジュール
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-stone-900">2泊3日 旭川・美瑛・富良野 子連れ満喫スケジュール</h2>
           <p className="text-sm text-stone-600 mt-1">
             子どものお昼寝や急なトイレ休憩にも対応できるよう、余裕を持った時間配分で組んだ安心設計。
           </p>
@@ -265,10 +261,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
                       {stop.time}
                     </div>
                     <div className="space-y-1">
-                      <h4 className="text-base font-bold text-stone-900 flex items-center gap-2">
-                        <span>📍</span>
-                        <span>{stop.spot}</span>
-                      </h4>
+                      <h4 className="text-base font-bold text-stone-900 flex items-center gap-2"><span>{stop.spot}</span></h4>
                       <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-1">
                         {stop.detail}
                       </p>
@@ -284,9 +277,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
       {/* セクション2: 子連れ北海道ドライブ安心Tips */}
       <section id="drive-tips" className="bg-gradient-to-br from-amber-50 to-orange-50/50 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-6">
         <div className="border-l-4 border-amber-600 pl-4">
-          <h2 className="text-xl md:text-2xl font-black text-amber-950">
-            パパママ必見！北海道子連れドライブ＆動物園の快適攻略法
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-950">パパママ必見！北海道子連れドライブ＆動物園の快適攻略法</h2>
           <p className="text-sm text-amber-800 mt-1">
             本州とは距離感も気候も異なる北海道。出発前に家族で共有しておきたいポイントです。
           </p>
@@ -311,9 +302,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
       <section id="hotels" className="space-y-8">
         <div className="border-l-4 border-amber-600 pl-4">
           <span className="text-xs font-black text-amber-700 tracking-wider uppercase">FAMILY-FRIENDLY HOTELS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-            旭山動物園＆美瑛富良野の観光拠点におすすめのホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-stone-900">旭山動物園＆美瑛富良野の観光拠点におすすめのホテル</h2>
           <p className="text-sm text-stone-600 mt-1">
             動物園へのアクセス抜群、駐車場無料や充実の朝食バイキングが嬉しい楽天トラベル認定宿。
           </p>
@@ -360,9 +349,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-xl md:text-2xl font-black text-stone-900 leading-snug">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-black text-stone-900 leading-snug">{hotel.hotelName}</h3>
                 </div>
 
                 <p className="text-xs md:text-sm text-stone-700 bg-amber-50/70 p-3.5 rounded-xl border border-amber-200/60 leading-relaxed font-medium">
@@ -406,9 +393,7 @@ export default function HokkaidoFamilyTripZooNaturePage() {
         <div className="flex items-center gap-3">
           <span className="text-3xl">✈️</span>
           <div>
-            <h3 className="text-lg md:text-xl font-black text-stone-900">
-              北海道旅行全体の費用シミュレーションもあわせて確認！
-            </h3>
+            <h3 className="text-lg md:text-xl font-black text-stone-900">北海道旅行全体の費用シミュレーションもあわせて確認！</h3>
             <p className="text-xs md:text-sm text-stone-600">
               航空券・レンタカー・宿泊費・グルメの総額目安と、時期別の節約テクニックを完全網羅。
             </p>

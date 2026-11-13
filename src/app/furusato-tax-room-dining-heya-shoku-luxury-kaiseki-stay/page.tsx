@@ -108,9 +108,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  移動ゼロ＆浴衣姿の完全プライベート空間！周りを気にせず会話とお酒を楽しむ贅沢
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">移動ゼロ＆浴衣姿の完全プライベート空間！周りを気にせず会話とお酒を楽しむ贅沢</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 お風呂上がりのリラックスした状態のまま、畳の香る落ち着いた客室で食事をスタート。小さなお子様がぐずっても、お酒が進んで会話が弾んでも、周囲の目を気にすることなく自分たちのペースで贅沢な夕餉を満喫できます。
@@ -123,9 +121,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  できたてを一品ずつ運ぶ仲居さんのプロの技！絶妙なタイミングで供される会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">できたてを一品ずつ運ぶ仲居さんのプロの技！絶妙なタイミングで供される会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 先付、お造り、焼物、煮物、揚物、ご飯ものまで、熟練の仲居さんがお客様の食べるペースを見計らいながら最適な温度で一品ずつ配膳。料理の説明や土地の歴史を聞きながらいただく時間は、旅館ならではの温かな醍醐味です。
@@ -138,9 +134,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  但馬牛、神戸牛、上州牛！各地の最高級ブランド牛や日本海の海の幸を堪能
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">但馬牛、神戸牛、上州牛！各地の最高級ブランド牛や日本海の海の幸を堪能</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 城崎の但馬牛や旬の地魚、有馬の神戸牛の鉄板焼きや小鍋仕立て、草津の上州牛すき焼きなど、厳選された特産品を部屋の中でじっくりと堪能。プライベートな空間だからこそ、素材本来の香りと旨味に心ゆくまで浸れます。
@@ -183,9 +177,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県豊岡市・創業百六十年！数寄屋造りの美と庭園を望む老舗中の老舗部屋食旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    城崎温泉　西村屋本館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">城崎温泉　西村屋本館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     城崎温泉のシンボルとして百六十余年の歴史を誇り、国の登録有形文化財にも選ばれる日本屈指の名門旅館。丹精込めて手入れされた広大な日本庭園を取り囲むように配された数寄屋造りの客室で、伝統の部屋食会席を堪能できます。冬は幻の松葉蟹、四季を通じて神戸ビーフの素牛である但馬牛や日本海の鮮魚をふんだんに使用し、専任の仲居さんが一品ずつ心を込めて配膳。歴史の重みを感じる美しい和の空間で名湯・城崎の湯に浸かり、日本旅館のおもてなしの神髄を体感できます。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県神戸市・創業七百年！有馬温泉を代表する名門で金泉と老舗の部屋食会席を満喫
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    有馬温泉　兵衛向陽閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">有馬温泉　兵衛向陽閣</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     太閤秀吉から「兵衛」の名を授かったと伝えられる、有馬温泉随一の歴史と規模を誇る老舗名門宿。三つの異なる大浴場で有馬名物の赤茶色の濃厚な「金泉」を巡ることができ、広々とした和室での贅沢な部屋食プランが大好評です。夕食には神戸牛や瀬戸内の海の幸、季節の旬菜を熟練の和食料理人が丁寧に仕立てた会席料理が並び、自分たちのプライベートな空間でゆっくりとお酒とともに味わえます。細やかな気配りの行き届いたおもてなしで、三世代家族や長寿の祝い旅にも絶大な信頼を集めています。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     群馬県草津町・湯畑すぐ！専任の湯守が守る名湯白旗源泉と静寂の客室で味わう月替わり部屋食
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    草津温泉　奈良屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">草津温泉　奈良屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     草津温泉のシンボル「湯畑」から徒歩約1分、明治十年創業の伝統と大正ロマンの風情を残す格式高い温泉旅館。宿の最大の誇りは、草津でも最も貴重とされる源泉「白旗の湯」を、専門の職人「湯守」が一晩中手作業で湯守りして適温に整えた極上の湯殿。湯上がりには、趣ある純和風客室で板前が腕を振るう月替わりの本格会席料理を部屋食で堪能できます。上州牛の石焼きや地元の山の恵みを取り入れた滋味あふれる料理と、名湯の力強い温もりが心身の奥深くまで染み渡ります。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 西村屋本館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 西村屋本館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoRoomDiningHeyaShokuStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 西村屋本館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 西村屋本館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

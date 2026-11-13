@@ -102,9 +102,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-amber-500/20 border border-amber-400/40 text-amber-300 text-xs md:text-sm font-bold px-4 py-1.5 rounded-full mb-6">
               2026-2027年 11-12月 初冬特選 高CPA最高級宿コレクション
             </span>
-            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">
-              【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl lg:text-5xl font-black tracking-tight leading-tight md:leading-snug mb-6 text-slate-50">【雄大な冬富士と全室富士山ビュー客室露天風呂】2026-2027年11-12月初冬の山梨・富士河口湖！「ふふ 河口湖」＆「うぶや」・澄み渡る冠雪富士と甲州牛懐石名宿5選</h1>
             <p className="text-sm md:text-lg text-slate-300 max-w-4xl mx-auto leading-relaxed">
               空気が澄み渡り、雪化粧をまとった雄大な富士山が最も鮮やかに映える11月〜12月の河口湖。木々の温もりと全室自家源泉露天風呂・バイオエタノール暖炉を備えた最高峰「ふふ 河口湖」や、富士と湖を正面に望む「人生を祝う宿 うぶや」など。客室からプライベートに冠雪富士を望み、極上の甲州牛や富士桜ポークを味わう贅沢リトリート厳選5選。
             </p>
@@ -113,9 +111,7 @@ export default function LuxuryStayPage() {
 
         <div className="max-w-5xl mx-auto px-4 mt-12 space-y-16">
           <section className="bg-white p-6 md:p-10 rounded-2xl border border-slate-200/80 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">
-              初冬の静寂が織りなす最高峰の贅沢リトリート
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-amber-500 pl-4">初冬の静寂が織りなす最高峰の贅沢リトリート</h2>
             <p className="text-slate-700 leading-relaxed md:leading-loose text-base md:text-lg">
               富士五湖の中心、雪化粧をまとった霊峰・富士山が最も雄大に湖面に映える『富士河口湖（ふじかわぐちこ）』。11月から12月にかけての初冬は、大気中の水蒸気が減少し湿度が下がるため、富士山の山肌のディテールや冠雪の白さが一年で最も鮮やかかつクリアに望める絶好のシーズンです。早朝の風が凪いだ静かな湖面には、紺碧の水鏡に逆さ富士が美しく浮かび上がり、夕暮れには夕焼けに赤く染まる紅富士の神秘的な光景が広がります。この日本が世界に誇るシンボリックな富士の絶景を、客室にいながら誰にも邪魔されずに独占できるのが河口湖のラグジュアリーリゾート。森の木々に包まれ全室に自家源泉露天風呂とバイオエタノール暖炉を備えた最高峰『ふふ 河口湖』をはじめ、富士山と河口湖を正面に望む『湖南荘』や『湖楽おんやど富士吟景』など、至高の客室露天風呂と展望温泉を備えた名宿が集まります。夕食には、富士の伏流水で育まれた極上の甲州牛の溶岩焼きステーキやすき焼き、山梨の滋味豊かな旬の味覚を彩った特選会席に、勝沼の厳選ワイナリーの甲州ワインをペアリング。凛とした冬の星空と雪富士を露天風呂から眺めながら過ごす初冬の河口湖は、人生の記念日を永遠の思い出へと昇華させる至福のひとときです。
             </p>
@@ -123,9 +119,7 @@ export default function LuxuryStayPage() {
 
           <section>
             <div className="text-center mb-8">
-              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">
-                11月〜12月に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-extrabold text-slate-900">11月〜12月に訪れるべき3つの理由</h2>
               <p className="text-slate-600 text-sm mt-2">
                 初冬だからこそ出会える絶景と美食、極上のプライベート空間
               </p>
@@ -173,9 +167,7 @@ export default function LuxuryStayPage() {
                 <span className="inline-block bg-amber-600 text-white font-bold text-xs px-3 py-1 rounded-full">
                   宿と合わせて巡る周辺名所
                 </span>
-                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">
-                  富士五湖を代表する名勝・河口湖（逆さ富士と冬の澄んだ大気・富士北麓の景勝地）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-extrabold text-slate-900">富士五湖を代表する名勝・河口湖（逆さ富士と冬の澄んだ大気・富士北麓の景勝地）</h3>
                 <p className="text-sm text-slate-700 leading-relaxed">
                   河口湖（かわぐちこ）は、本州中部山梨県の富士山北麓に存在する相模川水系の湖。富士五湖の1つである。富士箱根伊豆国立公園に指定されている。
                 </p>
@@ -188,9 +180,7 @@ export default function LuxuryStayPage() {
               <span className="text-amber-600 font-extrabold tracking-wider text-xs md:text-sm uppercase block mb-1">
                 Luxury Stays Selection
               </span>
-              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">
-                厳選の最高級名宿 5選
-              </h2>
+              <h2 className="text-2xl md:text-4xl font-extrabold text-slate-900">厳選の最高級名宿 5選</h2>
               <p className="text-slate-600 text-sm mt-2">
                 楽天トラベル最新API生データに基づく客室露天風呂・極上会席のプレミアム宿
               </p>
@@ -203,9 +193,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                ふふ　河口湖
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">ふふ　河口湖</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 森と富士山に抱かれる最高峰ラグジュアリー！全室温泉露天＆バイオエタノール暖炉付き
               </p>
@@ -240,10 +228,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>富士山の麓、河口湖を望む静かな森の中に佇むスモールラグジュアリーリゾート。全客室がスイート仕様で富士山を正面に望みます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>すべての客室に天然温泉の露天風呂とバイオエタノール暖炉を完備。木の温もりと心地よい炎に包まれる至福の冬ごもりが叶います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は富士山の溶岩石や薪の香りを生かした独創的な日本料理。山梨の恵みと甲州牛、厳選されたワインのマリアージュは感動の極みです。</span></li>
                 </ul>
@@ -272,9 +258,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                富士河口湖温泉　湖南荘
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">富士河口湖温泉　湖南荘</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 河口湖畔に佇む純和風の名門！屋上足湯と展望露天から望む富士山の大パノラマ
               </p>
@@ -309,10 +293,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の温泉街中心に位置し、きめ細やかなおもてなしと充実した湯処で高い評価を獲得し続ける老舗高級温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>屋上には富士山と湖を360度パノラマで望む足湯テラス「フットスパ 湖嶺」を完備。客室専用露天風呂付き客室も多彩に揃います。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食はお部屋食または個室ダイニングでいただく季節の特選会席。柔らかくとろける甲州牛や旬の美味をプライベートに堪能できます。</span></li>
                 </ul>
@@ -341,9 +323,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第3位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                逆さ富士を望む湖畔の絶景宿　湖楽おんやど富士吟景
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">逆さ富士を望む湖畔の絶景宿　湖楽おんやど富士吟景</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 全室から富士山と河口湖を一望！屋上露天風呂「富士見の湯」で浸かる逆さ富士の絶景
               </p>
@@ -378,10 +358,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の北東岸、富士山と湖を正面に望む絶好のロケーションに建つ大人のための温泉旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>屋上露天風呂「富士見の湯」からは遮るもののない雄大な雪富士が広がり、湯船と湖が一体となるかのような開放感を味わえます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は料理長が腕を振るう旬彩会席。甲州牛の陶板焼きやすき焼きなど、山梨の恵みを五感で楽しむ贅沢なディナーが好評です。</span></li>
                 </ul>
@@ -410,9 +388,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                富士河口湖温泉　秀峰閣　湖月
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">富士河口湖温泉　秀峰閣　湖月</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 湖畔にせり出す特等席！全室から河口湖越しに霊峰富士を正面に仰ぐ名宿
               </p>
@@ -447,10 +423,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>河口湖の北岸、産屋ヶ崎の奥に位置し、すべての客室と露天風呂から富士山と湖がシンメトリーに美しく望める絶景自慢の宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>初冬の澄んだ大気のもと、露天風呂から眺める夕暮れの紅富士や朝の逆さ富士は言葉を失うほどの美しさです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は山梨の豊かな山の幸・川の幸を彩り豊かに盛り込んだ和食会席。丁寧なサービスと温かなおもてなしが心地よい滞在を約束します。</span></li>
                 </ul>
@@ -479,9 +453,7 @@ export default function LuxuryStayPage() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                ＴＨＥ　ＫＵＫＵＮＡ（ザ・ククナ）
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">ＴＨＥ　ＫＵＫＵＮＡ（ザ・ククナ）</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 光と風と水のリゾート！全室ウォーターテラス付き＆天空のインフィニティ温泉
               </p>
@@ -516,10 +488,8 @@ export default function LuxuryStayPage() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>全室に富士山と湖を望むバルコニーテラスを備えたスタイリッシュなモダンリゾートホテルです。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>最上階のグランドスパ「月」「星」は、湖の上に浮かんでいるかのようなインフィニティ露天風呂。雪化粧の富士山を正面に湯浴みできます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食はシェフが目の前で焼き上げる鉄板焼きコースまたは創作フレンチ。カジュアルでありながら洗練された大人のリゾートステイを楽しめます。</span></li>
                 </ul>
@@ -547,9 +517,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="bg-slate-900 text-slate-100 p-6 md:p-8 rounded-2xl shadow-md space-y-4">
-            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">
-              アクセス＆初冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-amber-400 border-l-4 border-amber-400 pl-4">アクセス＆初冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-300 leading-relaxed bg-slate-800/80 p-5 rounded-xl border border-slate-700">
               【エリアへのアクセス】
 ・車：中央自動車道「大月JCT」より富士吉田線を経由し「河口湖IC」より約10〜15分。東富士五湖道路「富士吉田IC」からも約15分。
@@ -573,30 +541,24 @@ export default function LuxuryStayPage() {
             <div className="space-y-4">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>河口湖から「逆さ富士」が見られる条件や時間帯はいつですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>河口湖から「逆さ富士」が見られる条件や時間帯はいつですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               逆さ富士を見るための絶対条件は「湖面に波が立たない無風状態」であることです。最も風が穏やかになる「早朝（日の出直後から午前8時頃まで）」が最も確率が高く、11月〜12月の澄み切った晴天の朝は絶好のチャンスです。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>「ふふ 河口湖」のアメニティや暖炉の使い心地はどうですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>「ふふ 河口湖」のアメニティや暖炉の使い心地はどうですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               ふふ 河口湖では、客室のテラスやリビングにスタイリッシュなバイオエタノール暖炉が設置されており、冬の冷えた空気の中で本物の揺らめく炎の温もりを楽しめます。オリジナルオーガニックアメニティや天然木の家具、富士山溶岩をあしらった客室温泉露天風呂など、細部にまで至高のこだわりが息づいています。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>初冬に河口湖へ車で行く場合、スタッドレスタイヤは必要ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>初冬に河口湖へ車で行く場合、スタッドレスタイヤは必要ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               11月中旬以降は朝晩の気温が氷点下まで下がる日があり、日陰の路面凍結や突然の降雪のリスクがあります。安全のために11月下旬以降はスタッドレスタイヤ装着車、またはチェーン携行でのご来訪を強くおすすめします。
             </p>
@@ -609,9 +571,7 @@ export default function LuxuryStayPage() {
             <span className="inline-block bg-white/20 backdrop-blur-sm text-white font-bold text-xs px-3 py-1 rounded-full">
               賢く泊まる節税旅
             </span>
-            <h2 className="text-2xl md:text-3xl font-black">
-              楽天ふるさと納税で憧れの最高級宿に泊まる
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black">楽天ふるさと納税で憧れの最高級宿に泊まる</h2>
             <p className="text-white/90 text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
               寄附金額の最大30%相当が宿泊クーポンとして即時還元！3年間有効なので、初冬の記念日や憧れのラグジュアリーステイの予約に最適です。
             </p>
@@ -628,9 +588,7 @@ export default function LuxuryStayPage() {
           </section>
 
           <section className="space-y-4 pt-6">
-            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">
-              あわせて読みたい初冬の極上宿特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900 border-l-4 border-amber-500 pl-3">あわせて読みたい初冬の極上宿特集</h2>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

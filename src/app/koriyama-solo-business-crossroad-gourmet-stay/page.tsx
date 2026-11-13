@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            安積疏水が拓いた開拓の歴史と、漆黒のスープに浮かぶ豚バラチャーシュー——東北のハブステーションで仕事と癒やしをスマートに両立する「郡山出張ステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">安積疏水が拓いた開拓の歴史と、漆黒のスープに浮かぶ豚バラチャーシュー——東北のハブステーションで仕事と癒やしをスマートに両立する「郡山出張ステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線「やまびこ」「なすの」で東京から最短約1時間14分。南北に走る東北本線・東北新幹線と、東西を結ぶ磐越西線（会津若松方面）・磐越東線（いわき方面）が結節する「東北の十字路」福島県郡山市。福島県最大の経済規模を誇る商都であり、医療機器や精密機械、化学産業などの巨大拠点として日夜多くのビジネスパーソンが集まります。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR郡山駅西口から徒歩わずか1分！新幹線改札からすぐの抜群の立地と洗練されたセパレートバス客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル郡山駅前 —— 駅前のフラッグシップ。全室バス・トイレ別＆大型デスクで出張を完全サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル郡山駅前 —— 駅前のフラッグシップ。全室バス・トイレ別＆大型デスクで出張を完全サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR郡山駅西口徒歩約7分！宿泊者専用の天然温泉大浴場＆水風呂サウナ・リラクゼーション完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルグローバルビュー郡山 —— 街中の天然温泉オアシス。手足を伸ばせる大浴場とスタイリッシュな客室空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルグローバルビュー郡山 —— 街中の天然温泉オアシス。手足を伸ばせる大浴場とスタイリッシュな客室空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR郡山駅西口徒歩5分・駅前大通り沿い！伝統のシティホテルならではの品格と上質な客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  郡山ビューホテルアネックス —— 落ち着きと品格のランドマーク。広々とした客室と美味しい朝食ビュッフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">郡山ビューホテルアネックス —— 落ち着きと品格のランドマーク。広々とした客室と美味しい朝食ビュッフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              郡山の「郡山ブラック＆陣屋の地酒」を一人旅で満喫するガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">郡山の「郡山ブラック＆陣屋の地酒」を一人旅で満喫するガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 「桝はん」や「トクちゃんらーめん」で郡山ブラックラーメンを食す
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 「桝はん」や「トクちゃんらーめん」で郡山ブラックラーメンを食す</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 濃口醤油の真っ黒なスープ。見た目のインパクトとは裏腹に、まろやかな甘みと豚骨・鶏ガラの出汁が中太ちぢれ麺に絡む絶品の一杯。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 陣屋（じんや）の居酒屋で金賞受賞数日本一・福島の地酒飲み比べ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 陣屋（じんや）の居酒屋で金賞受賞数日本一・福島の地酒飲み比べ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 「飛露喜」「写楽」「天明」など。カウンター席で銘酒と会津馬刺し、目光（メヒカリ）の唐揚げを味わう贅沢な夜。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 開成山公園（かいせいざんこうえん）と五十鈴湖の朝ウォーキング
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 開成山公園（かいせいざんこうえん）と五十鈴湖の朝ウォーキング</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 安積開拓のシンボル。春には桜、新緑、紅葉と四季の自然を感じながら、澄んだ空気の中で頭をスッキリ整理。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>郡山駅から会津若松やいわき方面へのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>郡山駅から会津若松やいわき方面へのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 JR磐越西線の快速で会津若松駅まで約1時間、JR磐越東線でいわき駅まで約1時間半で結ばれており、福島県内各地へのハブとして最適です。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>福島空港から郡山駅までのアクセスはどうなっていますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>福島空港から郡山駅までのアクセスはどうなっていますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 福島空港から郡山駅前行きのリムジンバスが航空便に合わせて運行しており、約40〜45分で郡山駅西口へスムーズに直行できます。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大浴場・ご当地郡山ブラックラーメン！東北の交通要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -521,9 +491,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 郡山出張＆中通りひとり旅エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">郡山出張＆中通りひとり旅エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

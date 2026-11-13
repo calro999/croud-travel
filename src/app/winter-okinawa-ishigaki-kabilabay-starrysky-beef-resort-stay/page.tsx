@@ -301,9 +301,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Island Escape</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の凍てつく寒さを抜け出し、南十字星とエメラルドの海に抱かれる至福
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の凍てつく寒さを抜け出し、南十字星とエメラルドの海に抱かれる至福</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の石垣島で心震わせる3つの特別な島体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の石垣島で心震わせる3つの特別な島体験</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月のベストシーズンだからこそ出逢える、奇跡の夜空と南国の美味。
             </p>
@@ -339,9 +335,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-indigo-100 flex items-center justify-center text-indigo-700 font-bold">
                 <Moon className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 星空保護区で観測する冬の「南十字星」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 星空保護区で観測する冬の「南十字星」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 日本国内で唯一、南の水平線上に輝く南十字星（12月下旬〜）。人工光が極めて少ない石垣島の夜空に広がる満天の星と天の川は息をのむ美しさです。
               </p>
@@ -351,9 +345,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-100 flex items-center justify-center text-teal-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 川平湾の七色のエメラルドブルー遊覧
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 川平湾の七色のエメラルドブルー遊覧</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 ミシュラン三ツ星の絶景・川平湾。冬の澄んだ光を受けて輝く海をグラスボートで巡り、カラフルな熱帯魚やウミガメが泳ぐ竜宮城のような世界を鑑賞できます。
               </p>
@@ -363,9 +355,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 極上石垣牛の炭火焼肉と旬の新海苔冬アーサ
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 極上石垣牛の炭火焼肉と旬の新海苔冬アーサ</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 ミネラル豊富な牧草で育つ極上黒毛和牛「石垣牛」の濃厚な赤身と甘い脂。冬に旬を迎える香り高い新海苔「アーサ」の熱々そばや天ぷらは冬旅の醍醐味です。
               </p>
@@ -375,9 +365,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】川平湾・星空ナイトツアー・石垣牛を堪能する冬の南国リトリートコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】川平湾・星空ナイトツアー・石垣牛を堪能する冬の南国リトリートコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               空港からレンタカーで島内を爽快に巡り、リゾートステイと南国の星空・グルメを満喫する王道プラン。
             </p>
@@ -388,9 +376,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:00 南ぬ島石垣空港に到着 ➔ 八重山そばランチ＆川平湾グラスボート遊覧
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:00 南ぬ島石垣空港に到着  八重山そばランチ＆川平湾グラスボート遊覧</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   空港でレンタカーをピックアップ。まずは地元の人気店で、豚骨とカツオの出汁が効いた名物「八重山そば」や、冬限定の「新アーサそば」で温かい昼食。その後、車で名勝「川平湾」へ向かい、グラスボートに乗船してサンゴ礁とカラフルな熱帯魚の海中観察を満喫します。
                 </p>
@@ -399,9 +385,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 午後〜夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:00 「ミルミル本舗」でジェラート ➔ フサキビーチで感動のサンセット鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:00 「ミルミル本舗」でジェラート  フサキビーチで感動のサンセット鑑賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   高台の「ミルミル本舗」に立ち寄り、名護湾を一望しながら搾りたてミルクや島バナナのジェラートを堪能。16時頃に宿へチェックイン。夕刻にはフサキビーチの桟橋へ向かい、八重山の島影の向こうに沈む黄金の夕日を眺めながら南国の穏やかな黄昏時に浸ります。
                 </p>
@@ -410,9 +394,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  19:00 至福の「極上石垣牛炭火焼肉」ディナー＆泡盛で乾杯
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">19:00 至福の「極上石垣牛炭火焼肉」ディナー＆泡盛で乾杯</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   夜はリゾート内のレストランまたは市街地の名店で、極上石垣牛の炭火焼肉。舌の上で甘い脂がとろける特上カルビや、噛むほどに旨味が溢れるランプやロース。八重山の名酒「八重泉」や「請福」を片手に、贅沢な島グルメに舌鼓を打ちます。
                 </p>
@@ -421,9 +403,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 深夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  22:00 星空保護区のビーチへ ➔ 満天の星空シアター＆冬の星座観賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">22:00 星空保護区のビーチへ  満天の星空シアター＆冬の星座観賞</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   明かりの少ないビーチやホテルのスターダストテラスへ。見上げれば視界を埋め尽くす無数の星々。オリオン座や冬の大三角が圧倒的な明るさで輝き、南の空には水平線上に南十字星の神秘的なきらめきを探します。自然のプラネタリウムに抱かれて眠りへ。
                 </p>
@@ -432,9 +412,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 南国モーニングビュッフェ ➔ 「ユーグレナモール」でお土産買い出し後空港へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 南国モーニングビュッフェ  「ユーグレナモール」でお土産買い出し後空港へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝食は南国のフルーツや島野菜のスムージー、できたてオムレツのビュッフェ。チェックアウト後は日本最南端のアーケード商店街「ユーグレナモール」へ。石垣牛の加工品、冬アーサの乾燥海苔、八重山上布の小物、泡盛を購入し、温かい余韻に包まれて空港から帰路へ。
                 </p>
@@ -447,9 +425,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の石垣島を満喫する厳選南国リゾート名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の石垣島を満喫する厳選南国リゾート名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               世界水準の最高峰ラグジュアリーから、天然ビーチ直結ヴィラ、川平湾至近のコテージまで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Island Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              八重山の自然が育む至宝ブランド牛と冬の味覚
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">八重山の自然が育む至宝ブランド牛と冬の味覚</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                世界のVIPを魅了する「石垣牛」の秘密
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                世界のVIPを魅了する「石垣牛」の秘密</h3>
               <p>
                 沖縄サミットの晩餐会でメインディッシュに選ばれ、一躍世界的な名声を獲得した「石垣牛」。温暖な気候のもと、澄んだ空気と豊富な湧水、ミネラルたっぷりの海風を浴びて育つため、脂身にしつこさがなく、肉本来の芳醇な旨味が際立ちます。冬の炭火焼肉では、サッと炙って島の雪塩やすだちを絞って味わうことで、肉汁の甘みと香ばしさが口いっぱいに広がります。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-teal-700" />
-                冬採り新海苔「アーサ」とおすすめの八重山土産
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-teal-700" />
+                冬採り新海苔「アーサ」とおすすめの八重山土産</h3>
               <p>
                 12月〜1月に岩場で収穫される冬の新海苔アーサは、八重山の冬の食卓に欠かせない味。乾燥アーサはお味噌汁に入れるだけで鮮やかな緑色と磯の香りが蘇り、お土産に大人気です。また、伝統の藍染めで織り上げられる「八重山上布」のコースターやしおり、石垣島のサトウキビから作られる純黒糖、石垣島限定のクラフトビールなど、南国の豊かな文化を感じられる上質な品々が揃っています。
               </p>
@@ -577,9 +545,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="bg-teal-50/60 rounded-3xl p-6 sm:p-10 border border-teal-200/60 space-y-6">
           <div className="border-b border-teal-200/80 pb-4">
             <span className="text-teal-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">
-              冬の石垣島・八重山諸島を快適に旅するためのアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">冬の石垣島・八重山諸島を快適に旅するためのアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-teal-950">
@@ -619,20 +585,16 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の石垣島・八重山旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の石垣島・八重山旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-teal-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function OkinawaIshigakiKabilabayWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Warm Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬の避寒・絶景リゾート特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬の避寒・絶景リゾート特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

@@ -272,9 +272,7 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">Winter Highlights</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の庄内・羽黒山が放つ唯一無二の神秘：雪の修験道と寒風が生む至高の海鮮
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の庄内・羽黒山が放つ唯一無二の神秘：雪の修験道と寒風が生む至高の海鮮</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -293,9 +291,7 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl md:text-3xl font-black text-stone-900">
-              酒田＆鶴岡・羽黒山！冬の庄内味覚と名湯を満喫する厳選宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-stone-900">酒田＆鶴岡・羽黒山！冬の庄内味覚と名湯を満喫する厳選宿5選</h2>
             <p className="text-stone-600 text-xs md:text-sm">
               楽天トラベルで卓越した評価を集め、寒鱈や庄内牛の美食と雪見露天風呂を愉しめる宿を厳選
             </p>
@@ -318,9 +314,7 @@ export default function YamagataSakataTsuruokaPage() {
                           <span className="text-stone-400 ml-1">({hotel.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-stone-900 font-journal-serif">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 flex items-center gap-1.5 mt-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 flex-shrink-0" />
                         {hotel.access}
@@ -340,10 +334,8 @@ export default function YamagataSakataTsuruokaPage() {
 
                   {/* ハイライト3点 */}
                   <div className="bg-sky-50/50 rounded-2xl p-4 md:p-5 border border-sky-100 space-y-2.5">
-                    <h4 className="text-xs font-black text-sky-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <Sparkles className="w-3.5 h-3.5 text-sky-600" />
-                      この宿の注目ポイント＆こだわり
-                    </h4>
+                    <h4 className="text-xs font-black text-sky-900 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-sky-600" />
+                      この宿の注目ポイント＆こだわり</h4>
                     <ul className="grid grid-cols-1 md:grid-cols-3 gap-2.5 text-xs text-stone-700">
                       {hotel.highlights.map((hl, hIdx) => (
                         <li key={hIdx} className="flex items-start gap-1.5">
@@ -392,37 +384,29 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">Local Food & Culture</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の庄内で絶対に味わうべき三大味覚：寒鱈どんがら汁・庄内牛・酒田ラーメン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の庄内で絶対に味わうべき三大味覚：寒鱈どんがら汁・庄内牛・酒田ラーメン</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-stone-700">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
-                日本海の至宝「寒鱈どんがら汁」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
+                日本海の至宝「寒鱈どんがら汁」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 丸ごと一匹の寒鱈の頭、骨、内臓（アブラ）、身を味噌仕立ての大鍋で煮込む庄内冬の代表格。特にオスの白子（アブラタラ）はトロリと濃厚で、冬の厳寒を忘れさせる滋味溢れる味わい。仕上げに岩海苔とネギをたっぷり乗せていただくのが本場の流儀です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
-                ユネスコ食文化の誇り「庄内牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
+                ユネスコ食文化の誇り「庄内牛」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本初のユネスコ食文化創造都市に認定された鶴岡市をはじめ、肥沃な庄内平野の稲わらと清冽な伏流水で育つ「庄内牛」。きめ細かいサシと甘みのある赤身のバランスが抜群で、冬野菜を添えたすき焼きや陶板ステーキで極上の柔らかさを楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200 space-y-3">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
-                自家製極薄ワンタン「酒田ラーメン」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-sky-600" />
+                自家製極薄ワンタン「酒田ラーメン」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 焼きアゴ（トビウオ）や煮干し、昆布などの澄んだ魚介出汁スープと、雲を呑むように滑らかな極薄ワンタンが特徴のご当地麺。寒い冬の散策途中にすする熱々の一杯は身体の芯から温まり、酒田の食文化の奥深さを実感させてくれます。
               </p>
@@ -434,9 +418,7 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">History & Heritage</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              北前船がもたらした雅な上方文化と、出羽三山「生まれ変わりの旅」
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">北前船がもたらした雅な上方文化と、出羽三山「生まれ変わりの旅」</h2>
           </div>
           <div className="prose text-stone-700 text-sm md:text-base leading-relaxed space-y-4">
             <p>
@@ -452,9 +434,7 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">Model Itinerary</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              【1泊2日】羽黒山雪の初詣と酒田山居倉庫・寒鱈どんがら汁満喫コース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">【1泊2日】羽黒山雪の初詣と酒田山居倉庫・寒鱈どんがら汁満喫コース</h2>
           </div>
 
           <div className="space-y-6 text-sm text-stone-700">
@@ -504,18 +484,14 @@ export default function YamagataSakataTsuruokaPage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200 shadow-sm space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-xs font-bold text-sky-700 tracking-wider uppercase">Frequently Asked Questions</span>
-            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">
-              冬の酒田・鶴岡・羽黒山旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-stone-900 mt-1">冬の酒田・鶴岡・羽黒山旅行に関するよくある質問</h2>
           </div>
 
           <div className="divide-y divide-stone-100">
             {faqs.map((f, idx) => (
               <div key={idx} className="py-4 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2">
-                  <span className="text-sky-600 font-black">Q.</span>
-                  <span>{f.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm md:text-base flex items-start gap-2"><span className="text-sky-600 font-black">Q.</span>
+                  <span>{f.q}</span></h3>
                 <p className="text-xs md:text-sm text-stone-600 pl-6 leading-relaxed">
                   {f.a}
                 </p>
@@ -526,9 +502,7 @@ export default function YamagataSakataTsuruokaPage() {
 
         {/* 内部リンク・関連特集 */}
         <section className="bg-stone-100 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">
-            あわせて読みたい！東北の冬景色＆温泉特集
-          </h3>
+          <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider">あわせて読みたい！東北の冬景色＆温泉特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
             <Link href="/winter-yamagata-zao-onsen-snow-jyuhyo-beef-stay/" className="p-3 bg-white rounded-xl hover:text-sky-700 shadow-xs transition">
               ❄️ 蔵王温泉＆スノーモンスター樹氷・米沢牛名宿

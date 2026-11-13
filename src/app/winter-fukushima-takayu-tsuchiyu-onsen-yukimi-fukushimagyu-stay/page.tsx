@@ -248,12 +248,10 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             11月・12月 吾妻連峰の初雪と白濁完全掛け流し薬湯特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・高湯温泉＆土湯温泉】雪見露天と白濁薬湯
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福島・高湯温泉＆土湯温泉】雪見露天と白濁薬湯
             <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal">
               吾妻連峰の初雪景色・完全源泉掛け流しと極上福島牛・地酒を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、福島県福島市の西部にそびえる吾妻連峰の山懐は、澄み渡る冷気と初雪に包まれます。奥羽三高湯の筆頭として名高い「高湯温泉」は、加水・加温・循環・消毒を一切行わない全国屈指の完全源泉掛け流し宣言を掲げ、青白く濁る強烈な硫黄泉が雪景色の中に湧き立ちます。一方、吾妻小富士の麓に位置する「土湯温泉」は、荒川の清流沿いに木造のこけし工房や湯宿が立ち並び、炭酸水素塩泉や単純温泉など多彩な湯巡りが楽しめます。初冬の冷え切った身体を包み込む白濁湯と渓谷露天風呂、夕食にはきめ細やかな霜降りと上品な甘みが特徴の「福島牛」の陶板焼きやすき焼き、会津や中通りの名酒蔵が醸す新酒、郷土料理のいかにんじんや温かい芋煮。初冬の福島奥座敷で心身を解きほぐす厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の福島奥座敷の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            奥羽三高湯の白濁薬湯とこけしの里・初冬の吾妻山麓が魅せる静寂の湯浴み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">奥羽三高湯の白濁薬湯とこけしの里・初冬の吾妻山麓が魅せる静寂の湯浴み</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               東北新幹線の発着駅であるJR福島駅から、西へ車を走らせることわずか30〜40分。市街地の喧騒を抜け、吾妻連峰の山道を登っていくと、視界は瞬く間に手つかずの原生林と深い渓谷へと様変わりします。標高約750〜850メートルの高地に位置する「高湯温泉」は、山形県の蔵王温泉、白布温泉とともに「奥羽三高湯」に数えられ、開湯四百年の歴史を誇る名湯です。高湯温泉最大の特徴は、すべての旅館が一切の加水・加温・循環ろ過・塩素消毒を行わない「完全源泉掛け流し」を徹底していること。自然湧出する毎分3,000リットルを超える豊富な源泉が、木樋を伝ってそのまま湯船へと注ぎ込まれ、浴槽の底から湧き上がる真っ白な湯の花とともに、青白く濁る極上の硫黄泉が旅人を包み込みます。
@@ -315,9 +311,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              福島・高湯温泉＆土湯温泉 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">福島・高湯温泉＆土湯温泉 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               完全源泉掛け流しの白濁湯、絶景雪見露天、極上の福島牛会席を備えた本物の宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
                         <span className="text-xs font-bold text-cyan-800 bg-cyan-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-cyan-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             <Utensils className="w-4 h-4 text-cyan-300" />
             初冬の味覚手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の福島で味わい尽くす極上グルメと新酒の魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の福島で味わい尽くす極上グルメと新酒の魅力</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-400" />
-                銘柄黒毛和牛「福島牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-400" />
+                銘柄黒毛和牛「福島牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 澄んだ空気と清らかな水で丹精込めて育てられた黒毛和牛。霜降りと赤身のバランスが抜群で、融点の低い上質な脂が舌の上でさらりととろけます。冬の夜にいただくすき焼きや陶板焼きは、肉本来の芳醇な旨味を余すところなく引き出します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-cyan-400" />
-                美酒王国福島の「新酒・生酒」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-cyan-400" />
+                美酒王国福島の「新酒・生酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国新酒鑑評会で金賞の連続受賞記録を持つ福島県。11月から12月は今年収穫された酒造好適米で仕込まれた「しぼりたて新酒」が解禁される時期。フレッシュで弾けるような酸味と華やかな香りは、冬の温泉会席料理と最高のペアリングを奏でます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-400" />
-                冬の伝統郷土料理「いかにんじん」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-400" />
+                冬の伝統郷土料理「いかにんじん」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 細切りにした人参とスルメを特製醤油ダレにじっくり漬け込んだ福島の郷土食。冬の訪れとともに家庭や料理屋で仕込まれ、スルメから溶け出た濃厚な旨味と人参のシャキシャキとした食感が絶品。酒の肴としてもご飯のお供としても欠かせない逸品です。
               </p>
@@ -466,15 +450,11 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の高湯温泉・土湯温泉 交通アクセス＆冬道・防寒アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の高湯温泉・土湯温泉 交通アクセス＆冬道・防寒アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-cyan-700" />
-                東北新幹線＆路線バス利用のコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-cyan-700" />
+                東北新幹線＆路線バス利用のコツ</h3>
               <p>
                 冬期の高湯温泉は山道が険しく路面凍結が頻発するため、JR福島駅西口からの路線バス（福島交通 高湯温泉行、約40分）の利用が最も安全です。新幹線の発着時刻に合わせた運行ダイヤが組まれています。
               </p>
@@ -484,10 +464,8 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-700" />
-                酸性硫黄泉の正しい入浴法と湯冷め対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-700" />
+                酸性硫黄泉の正しい入浴法と湯冷め対策</h3>
               <p>
                 高湯温泉の源泉は酸性が強く、有効成分が濃厚なため、長時間の長湯は湯あたりを招く恐れがあります。入浴前に十分な水分補給を行い、1回の入浴時間は10〜15分程度を目安にしてください。
               </p>
@@ -504,16 +482,12 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の福島・高湯温泉＆土湯温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の福島・高湯温泉＆土湯温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-cyan-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-sky-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-cyan-300" />
-              あわせて読みたい東北・南東北の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-cyan-300" />
+              あわせて読みたい東北・南東北の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-cyan-200">
               白銀の絶景と極上の郷土鍋・ブランド牛を堪能する東北各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">会津東山＆芦ノ牧温泉の渓谷雪見露天と会津牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 城下町会津の武家屋敷情緒と渓谷雪景色、極上馬刺し・郷土こづゆを巡る名宿。
               </p>
@@ -553,9 +523,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">福島・裏磐梯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                裏磐梯・五色沼の白銀絶景と高原雪見リゾート
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">裏磐梯・五色沼の白銀絶景と高原雪見リゾート</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 磐梯山の雄大な初冬雪景色とナトリウム塩化物泉の温もり、福島牛ディナー。
               </p>
@@ -566,9 +534,7 @@ export default function WinterFukushimaTakayuTsuchiyuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・蔵王温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                蔵王温泉の強酸性硫黄泉と樹氷雪見風呂
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">蔵王温泉の強酸性硫黄泉と樹氷雪見風呂</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 奥羽三高湯の双璧をなす蔵王の白濁湯と極上山形牛すき焼きを堪能する冬旅。
               </p>

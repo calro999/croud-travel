@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、福津・宗像・玄界灘を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、福津・宗像・玄界灘を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -181,9 +179,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     1
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    日本一の大注連縄と新春開運初詣！200万人が集う「宮地嶽神社」の荘厳な祈り
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">日本一の大注連縄と新春開運初詣！200万人が集う「宮地嶽神社」の荘厳な祈り</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   息長足姫命（神功皇后）を主祭神とし、開運・商売繁盛の神として崇敬される宮地嶽神社。直径2.6m・長さ11m・重さ3tの日本一の大注連縄は圧巻の迫力。新春には九州各地から200万人を超える参拝者が訪れ、境内奥の「奥の院八社巡り」でさらなるご利益を授かる冬の巡礼が人気です。
@@ -196,9 +192,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     2
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    冬の澄み渡る玄界灘と夕暮れの「光の道」参道が生み出す息を呑む夕景
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">冬の澄み渡る玄界灘と夕暮れの「光の道」参道が生み出す息を呑む夕景</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   福津の海岸線から宮地嶽神社へと一直線に伸びる参道。冬期は空気が澄み渡り、夕暮れ時には玄界灘に浮かぶ島影と海面が茜色から紫紺へと染まりゆくドラマチックなマジックアワーを体感できます。冬の海岸散策と神社参拝が織りなす美しい旅情が心を浄化します。
@@ -211,9 +205,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     3
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    冬に極まる玄界灘の至宝「天然とらふぐ」と活ヤリイカ・極上博多和牛の饗宴
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">冬に極まる玄界灘の至宝「天然とらふぐ」と活ヤリイカ・極上博多和牛の饗宴</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   冬の玄界灘はまさに海の幸の宝庫。荒波で身が引き締まった天然とらふぐの繊細な旨味とコリコリとした歯ごたえ、甘みあふれる活ヤリイカ、そして柔らかな肉質と芳醇なサシを誇る博多和牛のすき焼き・ステーキなど、美食王国・福岡の粋を集めた冬の晩餐が楽しめます。
@@ -230,17 +222,13 @@ export default function FeaturePage() {
             <div className="flex items-center justify-between border-b border-stone-100 pb-3">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-cyan-700" />
-                <h2 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の現地アクセス・気候・おすすめの服装
-                </h2>
+                <h2 className="text-base sm:text-lg font-bold text-stone-900">冬の現地アクセス・気候・おすすめの服装</h2>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -257,10 +245,8 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -284,9 +270,7 @@ export default function FeaturePage() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              福津・宗像・玄界灘 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">福津・宗像・玄界灘 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・眺望に秀でた極上宿
             </p>
@@ -319,11 +303,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（198件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139901%2F139901.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139901%2F139901.html" target="_blank" rel="sponsored noopener noreferrer">
                         御宿　はなわらび
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>宗像の豊かな自然に包まれた約3,000坪もの日本庭園の中に、静かに佇む数寄屋造りの高級隠れ家旅館。四季折々の植栽が手入れされた庭園を眺めながら過ごす客室は、都会の喧騒を完全に忘れさせてくれる極上の癒やし空間です。</p>
                       <p>自慢の料理は、毎朝玄界灘から水揚げされるピチピチの活魚や冬の天然とらふぐ、甘みが際立つイカの姿造りなど、素材の力を最大限に引き出した華やかな日本会席。大浴場からは木々の緑を眺められ、新春の初詣帰りに心静かに寛ぐ大人の冬籠もりに相応しい名宿です。</p>
@@ -385,11 +367,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（39件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165802%2F165802.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F165802%2F165802.html" target="_blank" rel="sponsored noopener noreferrer">
                         ぶどうの樹ふくつ海岸通り　光の海ホテル＆リゾート　波の音（旧：グランピング福岡）
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>福津海岸沿いに位置し、目の前に果てしなく広がる玄界灘の絶景を望むラグジュアリーなビーチリゾートホテル。すべての客室が海に面しており、夕暮れ時には空と海が茜色に染まりゆく感動的なサンセットをプライベートなテラスから一望できます。</p>
                       <p>ディナーは「ぶどうの樹」がプロデュースする本格鮨割烹にて、近海で獲れた冬のとらふぐや脂の乗った寒ブリ、極上の博多和牛を贅沢に使用した創作コースを堪能。潮騒をBGMに眠りにつく、上質でロマンチックな冬のリゾートステイが叶います。</p>
@@ -451,11 +431,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（25件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172253%2F172253.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F172253%2F172253.html" target="_blank" rel="sponsored noopener noreferrer">
                         お寺で過ごすやすらぎのひととき　明石寺　大日屋旅館
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>宗像の歴史ある名刹・明石寺の境内に佇み、まるでお寺の離れに泊まるかのような静謐な時間を過ごせる人気の温泉旅館。日常の喧騒から離れ、澄んだ空気の中で自分自身と向き合う特別なひとときを提供します。</p>
                       <p>夕食には宗像の豊かな海と大地の恵みをふんだんに使った手作りの会席料理が並び、素材本来の滋味深い味わいが心と身体に優しく染み渡ります。朝には静かな境内を散策し、宮地嶽神社や宗像大社への新春参拝と合わせることで、心身ともに清められる極上の開運旅が実現します。</p>
@@ -512,11 +490,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（97件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109125%2F109125.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F109125%2F109125.html" target="_blank" rel="sponsored noopener noreferrer">
                         玄海旅館
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>全国屈指の水揚げを誇る鐘崎漁港のすぐ近く、玄界灘の荒波を見下ろす高台に建つ老舗料理旅館。宿の最大の誇りは、長年培われた確かな目利きと職人技で振る舞われる冬の魚介料理。</p>
                       <p>特に冬期限定の「鐘崎天然とらふぐ会席」は、大皿に美しく引かれた透き通るてっさ、ふっくら香ばしい唐揚げ、旨味たっぷりのてっちり鍋と雑炊まで、本場の味を心ゆくまで堪能できます。海を見渡す展望風呂で温まった後は、波音を聞きながら贅沢な美食の余韻に浸れます。</p>
@@ -578,11 +554,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（69件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106165%2F106165.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106165%2F106165.html" target="_blank" rel="sponsored noopener noreferrer">
                         桝屋旅館
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>世界遺産「神宿る島」宗像・沖ノ島と関連遺産群の玄関口である神湊港のすぐそばに佇む、気取らない温かな港町の和風旅館。宮地嶽神社や宗像大社への参拝はもちろん、大島への渡航拠点としても抜群のロケーションを誇ります。</p>
                       <p>家族経営ならではの細やかな気配りと清潔な客室が旅人の心をほぐします。夕食にはその日に水揚げされたピチピチの近海魚のお造りや煮付け、冬の鍋料理が並び、港町ならではの圧倒的な鮮度とボリュームで大満足の滞在を約束してくれます。</p>
@@ -623,9 +597,7 @@ export default function FeaturePage() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -647,18 +619,14 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の福津・宗像・玄界灘旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の福津・宗像・玄界灘旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
 
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    宮地嶽神社の新春初詣の混雑状況とおすすめの参拝時間帯は？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">宮地嶽神社の新春初詣の混雑状況とおすすめの参拝時間帯は？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -672,9 +640,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    玄界灘の天然とらふぐ料理は冬のどの時期が最も美味しいですか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">玄界灘の天然とらふぐ料理は冬のどの時期が最も美味しいですか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -688,9 +654,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    宮地嶽神社と宗像大社を1日で両方巡ることはできますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">宮地嶽神社と宗像大社を1日で両方巡ることはできますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -707,9 +671,7 @@ export default function FeaturePage() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/fukuoka/"

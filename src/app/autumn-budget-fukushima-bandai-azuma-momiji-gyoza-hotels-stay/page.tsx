@@ -58,10 +58,8 @@ export default function AutumnBudgetFukushimaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-red-600" />
-            宿泊代を賢く抑えて、福島名物「円盤餃子」のハシゴ酒へ繰り出そう！
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-red-600" />
+            宿泊代を賢く抑えて、福島名物「円盤餃子」のハシゴ酒へ繰り出そう！</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             福島駅前は新幹線停車駅でありながら、1泊2,000円台〜4,000円台で泊まれる高評価ホテルが目白押しの高コスパタウン。浄土平や高湯温泉、花見山へのアクセス拠点としても極めて便利です。宿代を節約して、餃子の照井や満腹などの有名店で熱々の円盤餃子と地酒を心ゆくまで堪能しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格コスパ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              福島駅東口から徒歩３分　ホテル板倉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">福島駅東口から徒歩３分　ホテル板倉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福島（福島）</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉露天）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈福島駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈福島駅前〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福島（福島）</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（快適シモンズ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル福島駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル福島駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福島（福島）</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結便利）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＪＲ東日本ホテルメッツ福島
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＪＲ東日本ホテルメッツ福島</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福島（福島）</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ハイクオリティ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＨＯＴＥＬ　ＳＡＮＫＹＯ　ＦＵＫＵＳＨＩＭＡ　ホテルサンキョウフクシマ</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福島（福島）</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetFukushimaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-red-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-red-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の福島・磐梯吾妻観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-red-300"><CheckCircle2 className="w-5 h-5" />
+            秋の福島・磐梯吾妻観光の満喫ポイント</h2>
           <p className="text-sm text-red-100 leading-relaxed">
             磐梯吾妻スカイライン（無料開放）の紅葉は例年10月上旬〜中旬が見頃。標高1,600mの浄土平周辺は気温が一桁になることもあるため防寒着を忘れずに。夕方は福島名物「円盤餃子」の人気店に行列ができるため、開店前の早めの来店がスムーズです。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「福島：磐梯吾妻スカイラインの絶景紅葉と円盤餃子！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「福島」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「福島」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

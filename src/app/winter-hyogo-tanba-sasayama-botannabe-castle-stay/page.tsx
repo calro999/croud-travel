@@ -265,9 +265,7 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              なぜ丹波篠山の冬は特別なのか？天然猪肉が織りなす「滋味の極み」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">なぜ丹波篠山の冬は特別なのか？天然猪肉が織りなす「滋味の極み」</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               11月15日の猟解禁から始まる、日本の冬を代表する伝統ジビエ文化の深層
             </p>
@@ -323,27 +321,21 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              丹波篠山の冬を彩る「食と工芸」の奥深い伝統美
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">丹波篠山の冬を彩る「食と工芸」の奥深い伝統美</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-700" />
-                日本三大猟場が育む天然猪肉と「ぼたん鍋」発祥の歴史
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-700" />
+                日本三大猟場が育む天然猪肉と「ぼたん鍋」発祥の歴史</h3>
               <p>
                 丹波篠山の山野は、古くから奥羽山脈や天城山と並ぶ「日本三大猟場」として知られてきました。この地で獲れる猪は、秋にドングリやシイの実、栗、松茸などをたっぷり食べて冬眠に備えるため、真っ白で上質な脂を蓄えます。明治時代に陸軍歩兵第70連隊が丹波篠山に駐屯した際、猪肉を使った味噌汁を歌った「デカンショ節」の一節とともに全国へ広まりました。城下町の料理旅館「近又」の主人が薄切り肉を牡丹の花に見立てて盛り付けたことで「ぼたん鍋」の名が定着。根菜とともに煮込むほどに脂の甘みが味噌出汁へ溶け出し、山椒の風味が引き締める究極の鍋料理となりました。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-700" />
-                日本六古窯「丹波焼」800年の登り窯と幻の極上黒毛和牛「丹波篠山牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+                日本六古窯「丹波焼」800年の登り窯と幻の極上黒毛和牛「丹波篠山牛」</h3>
               <p>
                 丹波篠山市今田町周辺に広がる「丹波焼（立杭焼）」は、平安時代末期から800年以上の歴史を誇る日本六古窯の一つです。山の斜面を利用した長大な「登り窯」で焼成される器は、灰被り（自然釉）による素朴で温かみのある風合いが特徴で、冬の熱々の鍋料理や地酒を味わう器として格別の温もりを与えてくれます。また、肥沃な大地と清流で丹精込めて肥育される「丹波篠山牛」は、神戸牛の素牛（但馬牛血統）としても名高く、融点の低い極上の霜降りと力強い赤身の旨みが冬の鉄板焼きやすき焼きで極限まで開花します。
               </p>
@@ -355,9 +347,7 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-rose-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】雪化粧の城下町散策と本場ぼたん鍋・丹波焼を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】雪化粧の城下町散策と本場ぼたん鍋・丹波焼を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               大阪・神戸から快速で直通約70分。混雑を離れて歴史と美食に浸る冬の旅路。
             </p>
@@ -368,9 +358,7 @@ export default function HyogoTanbaSasayamaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 JR篠山口駅到着 ➔ 篠山城跡「大書院」雪景色見学＆名物黒豆ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 JR篠山口駅到着  篠山城跡「大書院」雪景色見学＆名物黒豆ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JR大阪駅から丹波路快速に乗車し、約70分で篠山口駅へ。バスで城下町中心部へ向かい、まずは徳川家康天下普請の「篠山城跡」へ。木造復元された壮麗な「大書院」の広間から、白雪をまとった石垣と冬の丹波の山並みを一望します。昼食は城下の名店で熱々の黒豆うどんや、焼き立ての丹波栗を頬張ります。
                 </p>
@@ -379,9 +367,7 @@ export default function HyogoTanbaSasayamaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 重伝建「河原町妻入商家群」散策 ➔ 古民家ホテルへチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 重伝建「河原町妻入商家群」散策  古民家ホテルへチェックイン</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   国の重要伝統的建造物群保存地区に指定された「河原町妻入商家群」へ。千本格子や袖壁が連なる江戸期の町並みをのんびり歩き、古民家カフェで自家焙煎珈琲と丹波黒豆スイーツを味わいます。夕方に城下町ホテルNIPPONIAや老舗旅館近又へチェックイン。暖炉や檜風呂で冷えた身体を温めます。
                 </p>
@@ -390,9 +376,7 @@ export default function HyogoTanbaSasayamaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 本場「天然ぼたん鍋」と丹波篠山牛・地酒に酔いしれる極上の宴
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 本場「天然ぼたん鍋」と丹波篠山牛・地酒に酔いしれる極上の宴</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   大輪の牡丹の花のように美しく盛り付けられた天然猪肉。秘伝の合わせ味噌出汁がぐつぐつと煮え立つ土鍋で、ゴボウや山の芋とともにじっくり煮込みます。山椒の香りをまとわせた極上猪肉の甘い脂はまさに絶品。地酒「鳳鳴」や「小鼓」とともに、冬の夜の贅沢を心ゆくまで堪能します。
                 </p>
@@ -401,9 +385,7 @@ export default function HyogoTanbaSasayamaPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 幻想的な「丹波霧」の城下町散歩 ➔ 日本六古窯「立杭丹波焼」の郷へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 幻想的な「丹波霧」の城下町散歩  日本六古窯「立杭丹波焼」の郷へ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   早朝、名物の深い朝霧が立ち込める幻想的な城下町を散策。炊きたての丹波産コシヒカリと黒豆納豆の朝食を楽しんだ後、車で立杭へ移動し、800年の歴史を持つ日本最古の登り窯を見学。窯元巡りでお気に入りの器を選び、「大正ロマン館」で黒豆パンや山の芋を買い求めて帰路へつきます。
                 </p>
@@ -416,9 +398,7 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              丹波篠山の冬を味わい尽くす厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">丹波篠山の冬を味わい尽くす厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               本場ぼたん鍋と丹波篠山牛、城下町の情緒を心ゆくまで堪能できる宿を厳選
             </p>
@@ -442,9 +422,7 @@ export default function HyogoTanbaSasayamaPage() {
                           厳選名宿
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-rose-600 shrink-0" />
                         {hotel.access}
@@ -526,9 +504,7 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="bg-rose-50/60 rounded-3xl p-6 sm:p-10 border border-rose-200/80 space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs uppercase tracking-wider block">Winter Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の丹波篠山旅行で知っておきたい気候・服装・アクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の丹波篠山旅行で知っておきたい気候・服装・アクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700">
@@ -568,20 +544,16 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              丹波篠山の冬旅行・ぼたん鍋に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">丹波篠山の冬旅行・ぼたん鍋に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-rose-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -594,9 +566,7 @@ export default function HyogoTanbaSasayamaPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい全国の冬景色・名湯・極上鍋特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい全国の冬景色・名湯・極上鍋特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

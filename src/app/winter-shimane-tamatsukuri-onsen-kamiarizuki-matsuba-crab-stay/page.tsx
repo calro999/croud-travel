@@ -297,10 +297,8 @@ export default function TamatsukuriWinterPage() {
             <Eye className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 出雲大社神在月参拝と天然化粧水名湯＆松葉がに特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月玉造温泉の初冬美肌湯と松葉がに】<br className="hidden sm:inline" />
-            出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月玉造温泉の初冬美肌湯と松葉がに】<br className="hidden sm:inline" />
+            出雲大社神在月参拝と日本最古の化粧水温泉・山陰松葉蟹＆しまね和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             全国の神々が集う11月の出雲「神在月」。千三百年前に風土記で「神の湯」と讃えられた日本最古の美肌温泉・玉造温泉。11月解禁の山陰松葉がにと極上しまね和牛に舌鼓を打ち、心身の美と良縁を祈る至高の初冬旅。
           </p>
@@ -326,9 +324,7 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Izumo Kamiarizuki & Tamatsukuri Lore</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                八百万の神が降り立つ初冬の出雲。千三百年湧き続ける天然の化粧水
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">八百万の神が降り立つ初冬の出雲。千三百年湧き続ける天然の化粧水</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -343,10 +339,8 @@ export default function TamatsukuriWinterPage() {
           
           <div className="bg-indigo-50/70 rounded-2xl p-5 border border-indigo-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-700" />
-                11月・12月玉造温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+                11月・12月玉造温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 出雲大社神在祭の厳かな特別参拝・メタケイ酸豊富な日本最古の美肌温泉・11月解禁の山陰活松葉がに会席・しまね和牛フィレ・玉湯川の足湯＆玉作湯神社祈願
               </p>
@@ -397,9 +391,7 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Spiritual Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                出雲大社の神在月と玉造温泉の深遠な結びつき
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">出雲大社の神在月と玉造温泉の深遠な結びつき</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -418,9 +410,7 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Skincare Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                メタケイ酸含有量130mg超！科学が解明した美肌のメカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">メタケイ酸含有量130mg超！科学が解明した美肌のメカニズム</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -439,9 +429,7 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Winter King Crab</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                境港・大田港水揚げ！11月解禁の活松葉がにとしまね和牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">境港・大田港水揚げ！11月解禁の活松葉がにとしまね和牛</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function TamatsukuriWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-indigo-700" />
               <span>Rakuten Travel Official API Verified</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい玉造温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい玉造温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。神の湯と松葉がに会席で高評価を獲得している宿を厳選。
             </p>
@@ -500,9 +486,7 @@ export default function TamatsukuriWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -563,9 +547,7 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Town Walking & Shrines</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                玉湯川の足湯・玉作湯神社・美肌ボトル散策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">玉湯川の足湯・玉作湯神社・美肌ボトル散策</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -595,29 +577,21 @@ export default function TamatsukuriWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Suggested Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 出雲大社参拝〜玉造温泉 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 出雲大社参拝〜玉造温泉 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-indigo-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-indigo-800 uppercase tracking-wider">【1日目】出雲大社神在祭参拝〜玉造温泉チェックイン</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:00 出雲縁結び空港到着 → 連絡バスで出雲大社へ参拝
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:00 出雲縁結び空港到着 → 連絡バスで出雲大社へ参拝</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 勢溜の大鳥居をくぐり、松の参道を進んで拝殿・御本殿へ。神在月の清冽な空気に包まれて二礼四礼一礼の参拝。門前の出雲そばを堪能。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 玉造温泉へ移動 → 老舗旅館にチェックイン・美肌の湯入浴
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 玉造温泉へ移動 → 老舗旅館にチェックイン・美肌の湯入浴</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 メタケイ酸豊富な源泉露天風呂で旅の疲れを癒やし、角質を整えてもっちり素肌へ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 山陰活松葉がに＆しまね和牛の豪華ディナー会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 山陰活松葉がに＆しまね和牛の豪華ディナー会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 甘美な蟹刺し、甲羅みそ焼き、茹でがにを地酒とともに味わい、贅沢な出雲の夜に浸る。
               </p>
@@ -625,15 +599,11 @@ export default function TamatsukuriWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】玉作湯神社祈願〜松江城下町と宍道湖の冬景色</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:30 朝の露天風呂入浴 → 宍道湖しじみ汁付き朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:30 朝の露天風呂入浴 → 宍道湖しじみ汁付き朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 濃厚なしじみの旨味が身体に染み渡る朝食で活力をチャージ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 玉作湯神社で「叶い石」祈願 ＆ 温泉街足湯散歩
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 玉作湯神社で「叶い石」祈願 ＆ 温泉街足湯散歩</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 願い石に叶い石を触れ合わせて縁結び祈願。美肌温泉ボトルにお湯を汲み、国宝松江城や宍道湖へ。
               </p>
@@ -656,10 +626,8 @@ export default function TamatsukuriWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -674,9 +642,7 @@ export default function TamatsukuriWinterPage() {
         <section className="bg-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山陰・中国地方の冬・雪見・カニ温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山陰・中国地方の冬・雪見・カニ温泉特集</h2>
             <p className="text-xs sm:text-sm text-indigo-100/90 leading-relaxed">
               11月・12月ならではの旬の味覚や雪景色を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

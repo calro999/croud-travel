@@ -248,12 +248,10 @@ export default function WinterYamagataHijioriPage() {
             11月・12月 開湯1200年の豪雪秘湯カルデラ＆朝市情緒特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・肘折温泉】豪雪秘湯と開湯1200年の霊泉
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山形・肘折温泉】豪雪秘湯と開湯1200年の霊泉
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               白銀のカルデラ盆地・朝市情緒と極上山形牛＆熱々芋煮鍋を巡る名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、山形県大蔵村の出羽山地に抱かれたカルデラ盆地「肘折温泉（ひじおりおんせん）」は、日本屈指の豪雪地帯ならではの壮麗な白銀世界へと姿を変えます。西暦807年の開湯から1200年以上の歴史を刻むこの秘湯は、肘を折った老僧が湯に入って完治したという伝説から名付けられ、古くから湯治場として栄えてきました。銅山川沿いに木造三階建ての風情ある旅館がひしめき合い、降る雪の中に湯煙が立ち上る光景はまさに日本の原風景。炭酸水素塩泉や塩化物泉など豊富なメタケイ酸を含む名湯は「温まりの湯」「傷治りの湯」として親しまれ、雪冷えした身体を芯から解きほぐします。夕食には山形牛のすき焼きや陶板焼き、寒さが増すほど旨味を深める郷土の熱々芋煮鍋、最上地方の山の幸。雪深き静寂に包まれる肘折温泉で、本物の湯治情緒と温もりに浸る厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterYamagataHijioriPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の肘折温泉の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            カルデラに降り積もる純白の雪と湯治文化・時が止まったような木造旅館街
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">カルデラに降り積もる純白の雪と湯治文化・時が止まったような木造旅館街</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               山形新幹線の終着駅・新庄駅から路線バスに揺られて約50分。最上川を渡り、次第に勾配を増す山道を進むと、巨大なカルデラ盆地の底に忽然と現れるのが「肘折温泉」です。約1万年前に起きた火山の噴火口跡（肘折カルデラ）の中に位置するため、外界から隔離されたかのような独特の静けさと濃密な温泉情緒が保たれています。銅山川の両岸には、大正から昭和初期にかけて建てられた木造三階建ての旅館が軒を連ね、細い路地には湯治客用の自炊用具や日用品を扱う商店が今も昔と変わらぬ姿で佇んでいます。
@@ -315,9 +311,7 @@ export default function WinterYamagataHijioriPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              山形・肘折温泉 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">山形・肘折温泉 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               自家源泉掛け流し、雪見展望風呂、山形牛と熱々芋煮鍋を誇る本物の宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterYamagataHijioriPage() {
                         <span className="text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-amber-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterYamagataHijioriPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の味覚手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の肘折温泉で堪能する極上グルメと郷土の温もり
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の肘折温泉で堪能する極上グルメと郷土の温もり</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                極上の霜降り「山形牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                極上の霜降り「山形牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 寒冷な冬の気候が育む最高峰の黒毛和牛。きめ細やかなサシが美しく入り、とろけるような舌ざわりと芳醇な香りが特徴です。石焼きステーキやすき焼きで火を通せば、良質な脂の甘みが口いっぱいに広がり、雪国の夜を最高に贅沢に彩ります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                熱々の山形名物「芋煮鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                熱々の山形名物「芋煮鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 ねっとりとした地元産里芋と牛肉、こんにゃく、ネギを特製醤油出汁でコトコト煮込む山形の冬の代名詞。冷えた身体を芯から温める滋味深い味わいは格別で、最後にカレールーやうどんを入れて楽しむ宿の締めの一品も大人気です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                百年続く「肘折朝市の素朴な味」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                百年続く「肘折朝市の素朴な味」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 雪の降る朝に地元のお母さんたちが手作りする名物「栃餅（とちもち）」や、味噌を塗って香ばしく焼き上げる「しそ巻き」、自家製の大根漬け。昔ながらの製法で作られた素朴な郷土の味が、訪れる旅人の心を温かく包み込みます。
               </p>
@@ -466,15 +450,11 @@ export default function WinterYamagataHijioriPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の肘折温泉 交通アクセス＆豪雪対策・防寒アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の肘折温泉 交通アクセス＆豪雪対策・防寒アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                山形新幹線＆路線バス利用のコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                山形新幹線＆路線バス利用のコツ</h3>
               <p>
                 肘折温泉へはJR新庄駅東口からの路線バス（山交バス 肘折温泉行、約50〜55分）の利用が最も安全です。新幹線「つばさ」の到着時間と接続が考慮されており、雪道運転の不安なくアクセスできます。
               </p>
@@ -484,10 +464,8 @@ export default function WinterYamagataHijioriPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                雪国の防寒装備と湯治場での過ごし方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                雪国の防寒装備と湯治場での過ごし方</h3>
               <p>
                 12月は氷点下となるため、足元は滑り止めの溝が深いスノーブーツや長靴が必須です。旅館によっては館内用や外湯めぐり用の長靴・傘を貸し出しているため、チェックイン時に確認しましょう。
               </p>
@@ -504,16 +482,12 @@ export default function WinterYamagataHijioriPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の山形・肘折温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の山形・肘折温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterYamagataHijioriPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい山形・東北の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい山形・東北の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の絶景と極上の郷土鍋・ブランド牛を堪能する東北各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                銀山温泉の大正ロマン雪景色とガス灯の宵
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 木造多層建築が連なる銀山川の雪景色と尾花沢牛・雪見露天の贅。
               </p>
@@ -553,9 +523,7 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・小野川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                小野川温泉のラジウム美肌湯と米沢牛すき焼き
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">小野川温泉のラジウム美肌湯と米沢牛すき焼き</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 小野小町ゆかりの美肌湯と米沢牛・冬の雪見かまくら村を楽しむ旅。
               </p>
@@ -566,9 +534,7 @@ export default function WinterYamagataHijioriPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・赤湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                赤湯温泉のワイナリー巡りと米沢牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">赤湯温泉のワイナリー巡りと米沢牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 開湯900余年の名湯と地元産赤湯ワイン、極上米沢牛を味わう冬の美食旅。
               </p>

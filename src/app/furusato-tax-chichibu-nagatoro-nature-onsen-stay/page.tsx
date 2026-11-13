@@ -82,15 +82,12 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          荒川の清流、天然記念物「岩畳」の迫力、秩父の山々に抱かれる静寂。都心から約80分で出会える秩父・長瀞の癒やし旅へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">荒川の清流、天然記念物「岩畳」の迫力、秩父の山々に抱かれる静寂。都心から約80分で出会える秩父・長瀞の癒やし旅へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           池袋駅から西武特急ラビューでわずか約77分、都心から最も近い本格的な大自然郷「埼玉県・秩父（ちちぶ）・長瀞（ながとろ）」。国指定の名勝・天然記念物である「長瀞岩畳」の雄大な岩壁や、船頭の竿さばきで荒川の急流を下る「長瀞ライン下り」、パワースポットとして名高い「三峯神社」「秩父神社」「宝登山神社」の秩父三社巡りなど、四季折々の絶景と歴史文化がぎゅっと凝縮された大人気観光エリアです。秩父・長瀞の宿の魅力は、清らかな川のせせらぎに包まれる絶景露天風呂と、古くから湯治場として愛されてきた良質な温泉・鉱泉。日本通貨発祥の地「和同開珎」ゆかりの「薬師の湯」や、創業百九十余年の歴史を持ち「卵水」と呼ばれるトロトロの美肌鉱泉は、日々の疲れを心地よく解きほぐしてくれます。さらに食の魅力も豊富。清流で育った鮎や岩魚の塩焼き、秩父名物の豚みそ漬け焼き、滋味あふれるきのこ鍋、長瀞名物の天然氷のかき氷や流しそうめんなど、里山の温もりあふれる郷土会席が旅人の心とお腹を満たします。本特集では、日本最古の通貨・和同開珎が発掘された聖地に佇み横瀬川の清流を望む露天風呂が評判の「和銅鉱泉 薬師の湯 ゆの宿 和どう」、江戸時代文政十年創業・トロリとした美肌の湯と囲炉裏料理が愛される「秩父七湯 新木鉱泉旅館」、そして長瀞渓谷と名勝岩畳を客室や庭園から一望できる創業大正四年の老舗「長瀞温泉 花のおもてなし 長生館」の3大名宿を厳選。埼玉県秩父市・長瀞町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で秩父・長瀞の癒やし旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">秩父・長瀞 名勝岩畳＆美肌温泉宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】和銅鉱泉　薬師の湯　ゆの宿　和どう</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 秩父・長瀞 名勝岩畳＆美肌温泉宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">秩父・長瀞 名勝岩畳＆美肌温泉宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            和銅鉱泉　薬師の湯　ゆの宿　和どう
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">和銅鉱泉　薬師の湯　ゆの宿　和どう</h2>
           <p className="text-xs md:text-sm text-amber-100">埼玉県秩父市・日本通貨発祥「和同開珎」ゆかりの聖地！横瀬川の清流を望む露天風呂付き客室＆薬師の湯（ゆの宿 和どう）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            秩父七湯『御代の湯』　新木鉱泉旅館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">秩父七湯『御代の湯』　新木鉱泉旅館</h2>
           <p className="text-xs md:text-sm text-amber-100">埼玉県秩父市・創業百九十余年、江戸時代文政十年より続く歴史！「卵水」と称されるトロトロ美肌鉱泉と炭火囲炉裏会席（新木鉱泉旅館）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            長瀞温泉　花のおもてなし　長生館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">長瀞温泉　花のおもてなし　長生館</h2>
           <p className="text-xs md:text-sm text-amber-100">埼玉県長瀞町・国指定名勝「長瀞岩畳」を正面に一望！創業大正四年・元祖流しそうめんと長瀞温泉露天風呂（花のおもてなし 長生館）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

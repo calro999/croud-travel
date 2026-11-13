@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            豪快な激流を巧みな竿さばきで下る爽快感。清流のせせらぎと川魚の美食に酔いしれる渓谷ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">豪快な激流を巧みな竿さばきで下る爽快感。清流のせせらぎと川魚の美食に酔いしれる渓谷ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本列島の険しい山々から海へと一気に流れ下り、古くから水運の要衝として歴史を刻んできた「日本三大急流」――松尾芭蕉が「五月雨をあつめて早し」と詠み、船頭の情緒あふれる舟唄が渓谷にこだまする山形の「最上川」、甲斐の山々から駿河湾へと注ぎ、富士の絶景と豊かな水量を誇る山梨の「富士川」、そして日本屈指の激流としてラフティングや伝統の木造船下りが愛される熊本の「球磨川」。川面を吹き抜けるマイナスイオンたっぷりの風を感じ、白波を蹴立てて進む舟下りはスリルと感動の連続です。渓谷美を望む宿で鮎の塩焼きや山菜、銘酒を味わう癒やしのリバーサイドステイを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山形県戸沢村・大蔵村ふるさと納税：芭蕉が愛した名流「最上川舟下り」舟唄の響きと高見屋最上川別邸・紅ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山形県戸沢村・大蔵村ふるさと納税：芭蕉が愛した名流「最上川舟下り」舟唄の響きと高見屋最上川別邸・紅ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   四季折々の渓谷美が広がる最上川。船頭の唄を聴きながらの舟下りを楽しんだ後は、全室リバービューの名宿「高見屋 最上川別邸 紅」で、最上川を眼下に望む露天風呂と最高級山形牛の陶板焼きを堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      高見屋　最上川別邸　紅
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">高見屋　最上川別邸　紅</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山形県最上郡戸沢村古口3058</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山梨県身延町・富士川町ふるさと納税：怒濤の清流「富士川舟運」歴史探訪と武田信玄ゆかりの下部温泉下部ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山梨県身延町・富士川町ふるさと納税：怒濤の清流「富士川舟運」歴史探訪と武田信玄ゆかりの下部温泉下部ホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   甲州の歴史を支えた富士川。富士川クラフトパークや身延山久遠寺を巡った後は、名湯百選に選ばれる「下部ホテル」の二種類の源泉掛け流し湯巡りと、里山バイキング・甲州牛すき焼きを満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      山梨県の温泉旅館　下部温泉郷　下部ホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">山梨県の温泉旅館　下部温泉郷　下部ホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山梨県南巨摩郡身延町上之平1900</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  熊本県人吉市ふるさと納税：九州屈指の激流「球磨川くだり・ラフティング」と登録有形文化財・人吉温泉芳野旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">熊本県人吉市ふるさと納税：九州屈指の激流「球磨川くだり・ラフティング」と登録有形文化財・人吉温泉芳野旅館</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   球磨川の白波を越える爽快な舟下り。歴史ある人吉城跡や国宝・青井阿蘇神社を訪ねた後は、創業明治の文化財の宿「芳野旅館」で、弱アルカリ性炭酸水素塩泉の美肌湯と球磨焼酎・鮎の塩焼きを味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      国登録有形文化財の宿　人吉温泉　芳野旅館
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">国登録有形文化財の宿　人吉温泉　芳野旅館</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>熊本県人吉市上青井町180</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  激流ラフティング＆清流キャニオニング宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">激流ラフティング＆清流キャニオニング宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   みなかみ・吉野川・仁淀川ブルー。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大渓谷露天風呂＆野天温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   天城湯ヶ島・尻焼・秋の宮。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   錦帯橋・眼鏡橋・猿橋の渓谷。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】高見屋 最上川別邸 紅を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高見屋 最上川別邸 紅を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高見屋 最上川別邸 紅の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高見屋 最上川別邸 紅の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

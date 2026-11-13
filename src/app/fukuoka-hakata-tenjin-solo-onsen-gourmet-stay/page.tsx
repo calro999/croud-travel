@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            空港からわずか5分で広がる美食の街と、屋上の天然温泉スパ——仕事も観光も食も妥協しない「福岡・博多パーフェクトステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">空港からわずか5分で広がる美食の街と、屋上の天然温泉スパ——仕事も観光も食も妥協しない「福岡・博多パーフェクトステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             全国の都市の中でも圧倒的なアクセスの良さを誇る福岡・博多。福岡空港から地下鉄に乗ればわずか5分で博多駅、11分で天神駅へ到着します。ビジネスの拠点としての利便性はもちろん、夜には中洲や天神の屋台、もつ鍋、水炊き、博多ラーメン、玄界灘の新鮮なゴマサバなど、日本有数の美食文化が凝縮しています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR博多駅筑紫口直結！最上階13階に広がる屋外温泉スパ・プールと滝の流れるガラス張りのラグジュアリー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  都ホテル 博多 —— 博多駅直結のランドマーク。天然温泉のルーフトップスパと全室30㎡以上のゆとりあるモダン空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">都ホテル 博多 —— 博多駅直結のランドマーク。天然温泉のルーフトップスパと全室30㎡以上のゆとりあるモダン空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   キャナルシティ博多のすぐ隣！天然温泉大浴場とサウナ・名物「博多もつ鍋」＆海鮮丼が並ぶ大人気朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 袖湊の湯 ドーミーインPREMIUM博多・キャナルシティ前 —— 中洲の屋台街も徒歩圏内。温泉と美食で満たされる王道ビジホ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 袖湊の湯 ドーミーインPREMIUM博多・キャナルシティ前 —— 中洲の屋台街も徒歩圏内。温泉と美食で満たされる王道ビジホ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   天神・南天神のショッピング街すぐ！最上階の展望露天風呂「スカイスパ」と開放的な星空外気浴
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）福岡天神 —— 繁華街の真ん中で味わう静寂。天神の夜空を見上げるスカイスパ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）福岡天神 —— 繁華街の真ん中で味わう静寂。天神の夜空を見上げるスカイスパ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              博多・天神の夜をひとり旅で満喫するスマートガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">博多・天神の夜をひとり旅で満喫するスマートガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 屋台は「天神エリア」か「渡辺通エリア」が地元民にも人気で入りやすい
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 屋台は「天神エリア」か「渡辺通エリア」が地元民にも人気で入りやすい</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 中洲の屋台は観光客で混み合いますが、天神や渡辺通の屋台は常連客や一人客も多く、大将や隣の人と気軽に会話を楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 居酒屋ではまず「ごまさば」と「酢もつ」をオーダー
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 居酒屋ではまず「ごまさば」と「酢もつ」をオーダー</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 玄界灘の新鮮なサバを特製ゴマダレで和えたごまさばは博多のソウルフード。地酒「田中六五」や「若波」との相性も抜群です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は櫛田神社へ参拝して博多の総鎮守に祈願
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は櫛田神社へ参拝して博多の総鎮守に祈願</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 博多祇園山笠のフィナーレが繰り広げられる歴史ある神社。早朝の境内には荘厳な空気が漂い、お散歩コースに最適です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>福岡空港からホテルまではタクシーでも近いですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>福岡空港からホテルまではタクシーでも近いですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、博多駅まではタクシーで約15分（1,500円前後）と驚くほど近く、荷物が多い場合や深夜の到着でもタクシーで快適に移動できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>屋上の温泉スパには水着が必要ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>屋上の温泉スパには水着が必要ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 都ホテル博多の屋外スパエリアは水着着用（レンタルあり）ですが、男女別の内湯・サウナエリアは通常の温泉大浴場と同様に裸で入浴できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】都ホテル博多を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】都ホテル博多を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

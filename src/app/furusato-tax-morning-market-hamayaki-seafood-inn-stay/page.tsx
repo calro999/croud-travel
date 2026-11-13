@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>朝一番の水揚げをその場で頬張る贅沢！港町の活気と市場グルメに溺れる旅</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>朝一番の水揚げをその場で頬張る贅沢！港町の活気と市場グルメに溺れる旅</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             港の朝は早く、活気に満ち溢れています。水揚げされたばかりのイカやウニ、ホタテやサザエの浜焼きの香ばしい匂い、威勢のいい市場の掛け声。朝市や魚市場まで徒歩圏内の宿なら、早朝の混雑前に一番乗りの絶品グルメを堪能できます。楽天ふるさと納税クーポンを使えば、港町ならではの高鮮度海鮮会席が付いた宿泊プランも最大30%OFFで楽しめます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    朝市や巨大魚市場まで徒歩圏内！早起きして一番乗りグルメ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">朝市や巨大魚市場まで徒歩圏内！早起きして一番乗りグルメ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     巨大な八戸岸壁朝市や沼津魚市場など、人気市場のすぐ近くに泊まることで、車移動の駐車場渋滞や行列を避けて朝獲れの海の幸をベストな鮮度で味わえます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    炭火で香ばしく焼き上げる貝類・干物・伊勢海老の浜焼き
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">炭火で香ばしく焼き上げる貝類・干物・伊勢海老の浜焼き</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     炭火の網の上でパチパチと音を立てるサザエやホタテ、溢れ出る磯の旨味出汁。夕食でも朝食でも港町ならではの豪快な浜焼き料理を満喫できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    市場で使えるクーポン券付きプランもふるさと納税対象
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">市場で使えるクーポン券付きプランもふるさと納税対象</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     市場直結ホテルでは、朝市利用券や場内飲食店で使えるミールクーポンがセットになったプランが人気。宿泊代金と一緒にまとめてふるさと納税枠で精算可能です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="hachinohe_market" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>青森県八戸市ふるさと納税：館鼻岸壁朝市・毎週日曜日に出現する日本最大級の巨大朝市</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>青森県八戸市ふるさと納税：館鼻岸壁朝市・毎週日曜日に出現する日本最大級の巨大朝市</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       全長数百メートルにわたって約300店が立ち並ぶ日本屈指のメガ朝市。八戸前沖サバの塩焼きや名物せんべい汁、新鮮なイカ刺しを早朝の潮風とともに楽しむ圧巻の港町体験です。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              八戸グランドホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">八戸グランドホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               八戸グランドホテルだけのメニューのご当地りんごスープが絶品
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルテトラ八戸
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルテトラ八戸</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               八戸駅より徒歩７分！駐車場無料で便利！！全室WiFi利用できます！！大浴場・サウナ・水風呂完備！！
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルテトラ本八戸
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルテトラ本八戸</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               八戸での長期滞在にも使えるビジネスホテル。サウナ付きのお風呂が、ビジネスの疲れを癒します。
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="numazu_market" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県沼津市ふるさと納税：沼津港市場直結・駿河湾深海魚とアジ干物浜焼きステイ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県沼津市ふるさと納税：沼津港市場直結・駿河湾深海魚とアジ干物浜焼きステイ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       富士山と駿河湾を望む沼津港。名物のアジの干物や生しらす・生桜えび、そして深海魚料理を提供する市場食堂街へ徒歩でアクセスできる快適ホテルで、海の恵みを堪能できます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルトレンド沼津駅前
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルトレンド沼津駅前</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               駿河湾・富士山・富士サファリパーク・伊豆・三津シーパラダイスへ好アクセス！
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              静鉄ホテルプレジオ沼津
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">静鉄ホテルプレジオ沼津</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ☆★楽天アワード3年連続受賞★☆　「港の朝ごはん」　全室バストイレ別　沼津駅近・PK有　
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ＨＯＴＥＬ　ＡＲＩＡ　沼津　［　ホテル　アリア　沼津］
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ＨＯＴＥＬ　ＡＲＩＡ　沼津　［　ホテル　アリア　沼津］</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ご滞在中地元のクラフトビールが飲み放題！JR沼津駅南口より徒歩3分！香陵アリーナまでお車で3分！
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kochi_market" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>高知県高知市ふるさと納税：ひろめ市場徒歩圏内・本場藁焼きカツオのタタキと土佐の酒</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>高知県高知市ふるさと納税：ひろめ市場徒歩圏内・本場藁焼きカツオのタタキと土佐の酒</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       高知の食文化が集結する「ひろめ市場」。職人が炎を上げて焼き上げる香ばしい藁焼きカツオの塩タタキや地酒を屋台スタイルで味わい、高知城近くの名宿でゆったりとくつろげます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテル高砂＜高知県＞
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテル高砂＜高知県＞</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               高知駅徒歩３分繁華街まで徒歩５分圏内 とにかく立地が良い和モダンなホテルです。全室禁煙です。
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              オリエントホテル高知
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">オリエントホテル高知</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ◆楽天クチコミ お食事☆高評価   ◆コンビニ隣接で便利　◆夕食付きプランあり
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ウェルカムホテル高知
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ウェルカムホテル高知</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ★高知市内の中心部！★無料朝食＆ウェルカムドリンク付★Tポイントも貯まる！有線ＬＡＮ＆Wi-Fi接続
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】八戸グランドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】八戸グランドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と八戸グランドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と八戸グランドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

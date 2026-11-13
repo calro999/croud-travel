@@ -108,9 +108,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  関東風の「ふっくら蒸し焼き」と関西風の「地焼きパリパリ」の奥深い職人技
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">関東風の「ふっくら蒸し焼き」と関西風の「地焼きパリパリ」の奥深い職人技</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 背開きで一度蒸してから焼き上げる関東風（三島・浜名湖）のとろけるような柔らかさと、腹開きで蒸さずに強火の炭火で一気に焼き上げる関西風（九州・柳川）の香ばしい歯ごたえ。名産地ごとに受け継がれる焼きの哲学と秘伝ダレの調和が、うなぎ本来の奥深い旨味を極限まで引き出します。
@@ -123,9 +121,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  名物「ひつまぶし」「せいろ蒸し」「白焼き」！多彩な味わい方で楽しむうなぎ尽くし
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">名物「ひつまぶし」「せいろ蒸し」「白焼き」！多彩な味わい方で楽しむうなぎ尽くし</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 そのまま蒲焼として味わうのはもちろん、薬味を乗せ出汁をかけて楽しむ浜名湖のひつまぶし、錦糸卵を敷き詰めて蒸篭で蒸し上げる柳川のせいろ蒸し、わさび醤油や岩塩で素材の甘みを引き立てる白焼きなど、産地だからこそ楽しめる贅沢な食べ比べが食通たちを唸らせます。
@@ -138,9 +134,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  良質な天然温泉と名勝景観！湖畔・富士山ビュー・水郷巡りが織りなす癒やしの時間
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">良質な天然温泉と名勝景観！湖畔・富士山ビュー・水郷巡りが織りなす癒やしの時間</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 浜名湖の夕映え、三島から仰ぐ霊峰富士のパノラマ、柳川の風情ある掘割と水郷の柳並木。産地ならではの美しい景観と良質な天然温泉に浸かって心身をリセットした後にいただくうなぎ料理は、日常の疲労を吹き飛ばす最高の活力源になります。
@@ -183,9 +177,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県浜松市・浜名湖畔に佇み名物うなぎ料理と湖上露天を誇る名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    浜名湖かんざんじ温泉　ホテル鞠水亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">浜名湖かんざんじ温泉　ホテル鞠水亭</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     風光明媚な浜名湖かんざんじ温泉の湖畔に位置し、客室や最上階展望露天風呂から穏やかな湖を一望できる老舗温泉旅館。夕食には浜名湖名物のうなぎを贅沢に使った本格会席プランをご用意。職人が丁寧に焼き上げた香ばしいうなぎ蒲焼をはじめ、旬の魚介や遠州の野菜を取り入れた四季折々の料理がテーブルを華やかに彩ります。夕暮れ時に黄金色に染まる浜名湖の絶景を眺めながら名湯に身を浸す、贅沢な湖畔ステイを満喫できます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県三島市・富士山の雪解け水が育む名店うなぎと最上階天然温泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    天然温泉　富嶽の湯　ドーミーイン三島
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">天然温泉　富嶽の湯　ドーミーイン三島</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     JR三島駅南口から徒歩すぐ、最上階に富士山を望む展望天然温泉大浴場を備えた大人気ホテル。三島は富士山の湧水で数日間泥抜きされた「三島うなぎ」が全国的に有名で、宿の周辺には行列ができる老舗のうなぎ専門店が多数点在。ホテル自慢の広々としたサウナと内湯・露天風呂でしっかりととのった後、名店でふっくら極上のうな重を味わう「うなぎサウナ旅」の拠点として絶大な支持を集めています。名物「夜鳴きそば」の無料サービスも大好評です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     福岡県柳川市・水郷柳川の川下りと名物うなぎせいろ蒸しの温泉宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    柳川温泉ホテル　輝泉荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">柳川温泉ホテル　輝泉荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     掘割が縦横に巡る情緒豊かな水郷・柳川に位置し、天然温泉の恵みを湛える落ち着いた和風ホテル。柳川といえば、甘辛いタレをまぶしたご飯の上に蒲焼と錦糸卵を乗せて蒸篭で蒸し上げる「うなぎのせいろ蒸し」の発祥地。宿の夕食でも熱々ふっくらの極上せいろ蒸しを心ゆくまで堪能できます。どんこ舟で川下りを楽しんだ後は、アルカリ性単純温泉のやわらかな湯で旅の疲れを癒やす、九州の風情あふれる温泉旅行が叶います。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】浜名湖かんざんじ温泉 ホテル鞠水亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】浜名湖かんざんじ温泉 ホテル鞠水亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoTraditionalUnagiEelStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と浜名湖かんざんじ温泉 ホテル鞠水亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と浜名湖かんざんじ温泉 ホテル鞠水亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

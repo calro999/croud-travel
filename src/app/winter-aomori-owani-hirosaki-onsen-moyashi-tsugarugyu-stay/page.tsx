@@ -409,9 +409,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <Landmark className="w-4 h-4 text-cyan-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              大鰐温泉もやしと津軽の初冬情趣を満喫する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">大鰐温泉もやしと津軽の初冬情趣を満喫する名宿</h2>
           </div>
 
           <div className="space-y-10">
@@ -428,9 +426,7 @@ export default function AomoriOwaniHirosakiWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>青森県南津軽郡大鰐町</span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3 shrink-0">
                       <div className="flex items-center gap-1 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200/60 text-amber-900 text-xs font-bold">
@@ -519,17 +515,13 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <Calendar className="w-4 h-4 text-cyan-800" />
               11月・12月おすすめ1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              大鰐温泉もやしと弘前城冬さくらライトアップを満喫する冬の津軽旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">大鰐温泉もやしと弘前城冬さくらライトアップを満喫する冬の津軽旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-cyan-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                【1日目】津軽平野の味覚と弘前城冬さくら鑑賞
-              </h3>
+              <h3 className="font-bold text-cyan-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-cyan-700" />
+                【1日目】津軽平野の味覚と弘前城冬さくら鑑賞</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-cyan-600 shrink-0 mt-1" />
@@ -555,10 +547,8 @@ export default function AomoriOwaniHirosakiWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-cyan-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-cyan-700" />
-                【2日目】歴史ある共同浴場めぐりと津軽工芸体験
-              </h3>
+              <h3 className="font-bold text-cyan-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-cyan-700" />
+                【2日目】歴史ある共同浴場めぐりと津軽工芸体験</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-cyan-600 shrink-0 mt-1" />
@@ -588,27 +578,21 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <ShoppingBag className="w-4 h-4 text-cyan-800" />
               冬の津軽・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              大鰐・弘前で手に入れたい初冬の津軽銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">大鰐・弘前で手に入れたい初冬の津軽銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-700" />
-                大鰐温泉もやしラーメンと鰐comeの産直市場
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-700" />
+                大鰐温泉もやしラーメンと鰐comeの産直市場</h3>
               <p>
                 大鰐温泉駅前にある地域交流施設「鰐come（わにかむ）」には、地元農家が朝届ける採れたての「大鰐温泉もやし」をはじめ、津軽りんごや手作りのリンゴジャム、地酒が勢揃い。施設内のお食事処では、熱々の醤油スープにシャキシャキの大鰐もやしが山盛りに乗ったご当地グルメ「大鰐温泉もやしラーメン」が大人気。冬の散策途中のランチにぴったりです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-cyan-700" />
-                伝統工芸「津軽塗」と完熟蜜入り津軽リンゴ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-cyan-700" />
+                伝統工芸「津軽塗」と完熟蜜入り津軽リンゴ</h3>
               <p>
                 300年以上の歴史を誇る青森の伝統工芸「津軽塗（つがるぬり）」は、数十回に及ぶ漆の塗り重ねと研ぎ出しから生まれる重厚で緻密な斑点模様が特徴。お箸やぐい呑みは一生モノの記念品として愛されています。また、11月・12月はサンふじなどの完熟蜜入りリンゴが最も美味しい季節。弘前市内の直売所や道の駅では、もぎたての芳醇なリンゴ箱が並び、全国発送にも最適です。
               </p>
@@ -623,32 +607,24 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <ThermometerSun className="w-4 h-4 text-cyan-800" />
               初冬の大鰐温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の大鰐温泉は「温まりの極み」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の大鰐温泉は「温まりの極み」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-cyan-700" />
-              塩化物泉と硫酸塩泉のダブル効果が生み出す卓越した保温性
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-cyan-700" />
+              塩化物泉と硫酸塩泉のダブル効果が生み出す卓越した保温性</h3>
             <p>
               大鰐温泉の主泉質は、ナトリウム・カルシウム-塩化物・硫酸塩泉（低張性弱アルカリ性高温泉）。源泉温度は60℃を超え、豊富な湯量を誇ります。塩化物成分は入浴時に肌の皮脂や角質と結びついて微細な被膜を作り、体温の発散を防ぐため、湯上がり後も長時間ポカポカとした温感が持続します。さらに硫酸塩成分（傷の湯・美肌の湯成分）が肌の潤いを守り、乾燥しやすい冬の肌をみずみずしく整えてくれます。津軽の厳しい寒風に対して、これ以上ない相性を誇る冬の湯治泉です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-cyan-700" />
-              地熱と温泉水のみで350年間繋がれる門外不出の栽培文化
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-cyan-700" />
+              地熱と温泉水のみで350年間繋がれる門外不出の栽培文化</h3>
             <p>
               大鰐温泉もやしの栽培は、津軽藩政時代から門外不出の「土耕栽培」を守り続けています。ハウスの地下に温泉管を通し、源泉の地熱で室温と地温を一定に保ちながら、藁をかぶせた土壌に大豆を播種。水やりにもミネラル豊富な温泉水が使われます。太陽光を一切当てずに温泉の恵みだけで約1週間かけて育てられるため、茎が白くまっすぐに伸び、一般的な水耕栽培もやしでは絶対に生み出せない強烈なシャキシャキ感と大豆の濃厚な旨味が凝縮されます。地域の地質と温泉文化が一体となった日本農業遺産級の奇跡です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-cyan-700" />
-              リンゴを飼料に育つ「津軽あっぷる牛」の上品な肉質と冬の滋味
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-cyan-700" />
+              リンゴを飼料に育つ「津軽あっぷる牛」の上品な肉質と冬の滋味</h3>
             <p>
               青森県特産の完熟リンゴを乾燥・発酵させた飼料で育てられる「津軽あっぷる牛」は、リンゴに含まれる果糖やビタミン、ペクチンの働きにより、牛の消化器系が極めて健康に保たれるのが特徴。その結果、脂肪の融点が低くサラリとした上質な霜降りと、柔らかくキメ細やかな赤身が完成します。冬限定の大鰐温泉もやしとともにすき焼き鍋で煮込むと、牛肉の上品な脂が大豆もやしのシャキシャキした繊維に染み渡り、津軽の冬ならではの至高のハーモニーを奏でます。
             </p>
@@ -662,18 +638,14 @@ export default function AomoriOwaniHirosakiWinterPage() {
               <HelpCircle className="w-4 h-4 text-cyan-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の大鰐温泉・弘前旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の大鰐温泉・弘前旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

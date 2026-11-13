@@ -82,15 +82,12 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          ガラガラと格子戸を開ければ、そこは自分たちだけの古都の隠れ家。坪庭と露天風呂に癒やされる京町家ステイへ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">ガラガラと格子戸を開ければ、そこは自分たちだけの古都の隠れ家。坪庭と露天風呂に癒やされる京町家ステイへ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           何百年もの歴史を刻む木造梁、風情ある格子戸、青々とした苔が息づく坪庭（中庭）。京都の伝統的な住文化である「京町家」を一棟丸ごと貸し切り、まるで京都の住人になったかのように暮らす「町家ステイ」が今、国内外から高い注目を集めています。他の宿泊客と顔を合わせることのない完全プライベートな空間で、家族やグループ、カップルで気兼ねなく寛げるのが最大の魅力。近年では、歴史ある町家建築の美しさをそのままに、最新のベッドや床暖房、坪庭を望む檜風呂や信楽焼の客室天然温泉露天風呂、ミシュラン級のプライベートディナーを備えたラグジュアリー町家旅館へと進化を遂げています。本特集では、築110年以上の花街の町家が立ち並ぶ路地全体をまるごとリゾートに再生した「Nazuna 京都 椿通」、世界遺産・二条城のそばに建ち「お茶」をテーマにした露天風呂付きスイート町家宿「Nazuna 京都 二条城」、そして京都駅徒歩圏に位置し坪庭と高野槇風呂を独占できる一棟貸切の宿「京町家お宿・花」の3宿を厳選。京都市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で誰にも邪魔されない至高の京都町家旅行を予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">京都町家一棟貸切プライベート宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】Ｎａｚｕｎａ　京都　椿通</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 京都町家一棟貸切プライベート宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">京都町家一棟貸切プライベート宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            Ｎａｚｕｎａ　京都　椿通
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">Ｎａｚｕｎａ　京都　椿通</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・築110年の花街の路地全体をリゾート化！全室に半露天温泉風呂を備えた全23棟の町家離れ</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            Ｎａｚｕｎａ　京都　二条城
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">Ｎａｚｕｎａ　京都　二条城</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・世界遺産「二条城」徒歩圏！日本茶の美学とおもてなしが融合した全室露天風呂付き京町家旅館</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            京町家お宿・花
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">京町家お宿・花</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京都市・京都駅徒歩圏！坪庭と高野槇風呂を独占する一棟完全貸切の町家別邸</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoKyotoMachiyaCharterStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

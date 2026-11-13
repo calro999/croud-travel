@@ -259,9 +259,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  美馬・吉野川・阿波 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">美馬・吉野川・阿波 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -284,9 +282,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＰＡＹＳＡＧＥ　ＭＯＲＩＧＵＣＨＩ（ペイサージュモリグチ）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＰＡＹＳＡＧＥ　ＭＯＲＩＧＵＣＨＩ（ペイサージュモリグチ）</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     うだつの町並みの中の国登録有形文化財・旧藍商人の豪壮な邸宅に泊まる極上ステイ
                   </p>
@@ -348,9 +344,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    癒しの宿　土柱ランド新温泉
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">癒しの宿　土柱ランド新温泉</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     天然ラドン温泉と世界三大奇勝「土柱」の絶景・阿波牛すき焼きの温もり
                   </p>
@@ -415,9 +409,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ビジネスホテルマツカ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ビジネスホテルマツカ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     うだつの町並みへ徒歩圏内・展望大浴場とサウナ完備の快適シティホテル
                   </p>
@@ -482,9 +474,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    セントラルホテル鴨島
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">セントラルホテル鴨島</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     吉野川市鴨島駅前・四国霊場切幡寺巡礼の拠点に最適な老舗シティホテル
                   </p>
@@ -549,9 +539,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ビジネスホテルアクセス阿波
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ビジネスホテルアクセス阿波</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     徳島道土成ICすぐ！阿波の土柱や切幡寺へのアクセス抜群な機能的ホテル
                   </p>
@@ -627,10 +615,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h4 className="font-bold text-stone-900 text-sm mt-3 first:mt-0">【エリアへのアクセス】</h4>
             <p className="text-xs text-stone-600 leading-relaxed pl-2">・電車・JR：JR徳島駅よりJR徳島線（特急剣山）で穴吹駅まで約40分。うだつの町並みへは穴吹駅よりタクシーで約5分、または徒歩約35分（レンタサイクルあり）。切幡寺へはJR徳島線鴨島駅または阿波川島駅よりタクシー約10〜15分。高松駅から穴吹駅へはJR土讃線・徳島線経由で約1時間40分。</p>
@@ -645,9 +631,7 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の美馬・吉野川・阿波旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の美馬・吉野川・阿波旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <details className="group bg-white rounded-xl border border-stone-200/80 overflow-hidden">
             <summary className="p-4 text-xs sm:text-sm font-bold text-stone-900 cursor-pointer flex items-center justify-between list-none">

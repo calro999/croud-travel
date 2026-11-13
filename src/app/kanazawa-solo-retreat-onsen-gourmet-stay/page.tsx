@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            格子戸に降る雪と兼六園の静寂、近江町市場の新鮮なのどぐろ——加賀百万石の美意識と名湯に抱かれる「金沢おひとりさまリトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">格子戸に降る雪と兼六園の静寂、近江町市場の新鮮なのどぐろ——加賀百万石の美意識と名湯に抱かれる「金沢おひとりさまリトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北陸新幹線「かがやき」で東京から約2時間15分。前田家加賀百万石の文化が今なお息づく金沢は、ひとり旅の目的地として圧倒的な人気を誇る街です。国の特別名勝「兼六園」や金沢城公園の四季の美景、感性を刺激する「金沢21世紀美術館」、風情ある「ひがし茶屋街」「主計町茶屋街」など、見どころが美しくコンパクトに凝縮しています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   近江町市場まで徒歩1分！全館畳敷きの和の温もりと最上階13階の天然温泉大浴場・いくら盛り放題朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 加賀の宝泉 御宿 野乃金沢 —— 素足で過ごす極上の心地よさ。天然温泉とご当地海鮮バイキング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 加賀の宝泉 御宿 野乃金沢 —— 素足で過ごす極上の心地よさ。天然温泉とご当地海鮮バイキング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   尾山神社・金沢城公園すぐ！加賀友禅や金箔の美を散りばめたモダン空間と最上階展望大浴場
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル金沢 —— 加賀の伝統美を継承する大人の隠れ家。眺望大浴場と能登・加賀の旬を味わう和朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル金沢 —— 加賀の伝統美を継承する大人の隠れ家。眺望大浴場と能登・加賀の旬を味わう和朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR金沢駅兼六園口（東口）徒歩3分！全室にマッサージ機またはフットマッサージャー完備のリフレッシュホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  FORZA ホテルフォルツァ金沢 —— 駅近の上質スマートステイ。旅の疲れをほぐす客室マッサージ＆ワインラウンジ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">FORZA ホテルフォルツァ金沢 —— 駅近の上質スマートステイ。旅の疲れをほぐす客室マッサージ＆ワインラウンジ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              金沢の美と食をひとり旅で満喫するモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">金沢の美と食をひとり旅で満喫するモデルコース</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 朝イチの兼六園（早朝無料開園）で誰もいない名園を歩く
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 朝イチの兼六園（早朝無料開園）で誰もいない名園を歩く</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 一般開園前の早朝は観光客がおらず静まり返り、徽軫灯籠や霞ヶ池の鏡のような水面を独り占めできます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 近江町市場で朝獲れのどぐろ塩焼きと海鮮丼
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 近江町市場で朝獲れのどぐろ塩焼きと海鮮丼</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 市場の活気を感じながら、脂の乗ったのどぐろを炭火で焼いてもらい、石川の地酒「手取川」とともに味わう至福。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夕暮れのひがし茶屋街の紅殻格子と町家カフェ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夕暮れのひがし茶屋街の紅殻格子と町家カフェ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 行灯に明かりが灯る黄昏時。古い木造建築の喫茶室で抹茶と上生菓子をいただきながら静かに読書する贅沢。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>金沢市内観光はバスと徒歩どちらが便利ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>金沢市内観光はバスと徒歩どちらが便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 主要な観光名所（兼六園、21世紀美術館、近江町市場、ひがし茶屋街）は中心部から半径約2km圏内にあり、徒歩や「城下まち金沢周遊バス（1日乗車券あり）」でとても効率よく回れます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>雨や雪が多いと聞きますが対策はどうすればいいですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>雨や雪が多いと聞きますが対策はどうすればいいですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 「弁当忘れても傘忘れるな」と言われる金沢ですが、主要ホテルでは傘の無料貸出を行っており、金沢駅前や主要通りにはアーケードや地下道が整備されています。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 加賀の宝泉 御宿 野乃金沢を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 加賀の宝泉 御宿 野乃金沢を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

@@ -302,9 +302,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀に佇む神話の杜と、千四百年の祈りが灯る善光寺の冬
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀に佇む神話の杜と、千四百年の祈りが灯る善光寺の冬</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -327,9 +325,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の戸隠・善光寺を満喫する3大感動体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の戸隠・善光寺を満喫する3大感動体験</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -337,9 +333,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-emerald-50 border border-emerald-200 flex items-center justify-center text-emerald-700">
                 <Mountain className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 戸隠神社奥社・樹齢400年杉並木の白銀参道
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 戸隠神社奥社・樹齢400年杉並木の白銀参道</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 雪に包まれた随神門と約500m続く巨木杉並木の圧倒的な静寂美。スノーブーツやスノーシューで歩く神話の杜は、一生忘れられない聖地体験となります。
               </p>
@@ -349,9 +343,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-amber-50 border border-amber-200 flex items-center justify-center text-amber-700">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬の戸隠新そば「ぼっち盛り」と郷土鍋
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬の戸隠新そば「ぼっち盛り」と郷土鍋</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 秋収穫の新そばが最も芳醇な香りを放つ冬。伝統のぼっち盛り手打ちそばに加え、冬限定の根菜ときのこがたっぷり入った温かい「とうじそば」で身体を温めます。
               </p>
@@ -361,9 +353,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-purple-50 border border-purple-200 flex items-center justify-center text-purple-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 国宝善光寺の早朝「お朝事」参拝と新春初詣
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 国宝善光寺の早朝「お朝事」参拝と新春初詣</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 澄んだ冬の朝、両住職から功徳を授かる「お数珠頂戴」と本堂の荘厳な読経。漆黒の闇を進む「お戒壇巡り」と新年の初詣で心身をリセットする特別な時間。
               </p>
@@ -375,9 +365,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-emerald-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】白銀の戸隠古道と善光寺お朝事を巡る信州祈り旅黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】白銀の戸隠古道と善光寺お朝事を巡る信州祈り旅黄金モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               長野駅を起点に、路線バスやタクシー・スタッドレス車で冬の神話の杜と国宝寺院を心静かに巡るプラン。
             </p>
@@ -388,9 +376,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 長野駅到着 ➔ 戸隠中社へ移動＆名物「戸隠新そば」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 長野駅到着  戸隠中社へ移動＆名物「戸隠新そば」ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   長野駅善光寺口から路線バスで約1時間、雪の戸隠中社へ。名店「うずら家」などで風味豊かな手打ち新そば（ぼっち盛り）と、揚げたての天ぷら、温かいそばがきを味わいます。
                 </p>
@@ -399,9 +385,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:00 戸隠神社奥社・白銀古道スノーウォーク ➔ 樹齢400年杉並木の静寂
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:00 戸隠神社奥社・白銀古道スノーウォーク  樹齢400年杉並木の静寂</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   スノーブーツを装着して奥社参道へ。赤い随神門をくぐり、雪をかぶった圧巻の巨木杉並木の中を進みます。音のない静謐な白銀の世界で心身を清める至福のウォーキング。
                 </p>
@@ -410,9 +394,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 善光寺門前・長野市内の宿にチェックイン ➔ 信州プレミアム牛すき焼きディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 善光寺門前・長野市内の宿にチェックイン  信州プレミアム牛すき焼きディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   長野市街へ戻り、名門ホテルまたは善光寺宿坊へチェックイン。夕食はとろける霜降りの信州牛すき焼き鍋や、信州味噌仕立ての温かい郷土料理。信州の銘酒「真澄」とともに冷えた身体を温めます。
                 </p>
@@ -421,9 +403,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-emerald-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-emerald-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  06:45 国宝善光寺「お朝事」参拝＆お数珠頂戴 ➔ お戒壇巡りと仲見世散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">06:45 国宝善光寺「お朝事」参拝＆お数珠頂戴  お戒壇巡りと仲見世散策</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   早朝、凛とした空気の中で両住職からお数珠頂戴を受け、本堂のお朝事に参列。床下の漆黒のお戒壇巡りを体験後、宿で温かい朝食。仲見世通りで蒸したておやきや七味唐辛子を購入して帰路へ。
                 </p>
@@ -436,27 +416,21 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              厳しい冬の信州を温める伝統食文化と発酵の知恵
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">厳しい冬の信州を温める伝統食文化と発酵の知恵</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-700" />
-                善光寺門前の名物「八幡屋礒五郎」七味とおやき文化
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-700" />
+                善光寺門前の名物「八幡屋礒五郎」七味とおやき文化</h3>
               <p>
                 善光寺参道の入口に店を構える創業280年の老舗「八幡屋礒五郎」の七味唐辛子は、善光寺詣での定番土産。唐辛子、山椒、生姜、麻種、胡麻、陳皮、紫蘇の絶妙な調合が、冬の冷えた身体を芯から温めます。また、冬の保存食として発展した「信州おやき」は、野沢菜や切り干し大根、小豆などを小麦粉生地で包んで蒸し焼きにした素朴な美味。出来立ての熱々を頬張る瞬間は旅の最高の醍醐味です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-emerald-700" />
-                清冽な伏流水と寒造りが生み出す信州の地酒文化
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-emerald-700" />
+                清冽な伏流水と寒造りが生み出す信州の地酒文化</h3>
               <p>
                 北信濃の厳しい寒気と北アルプスの雪解け水は、酒造りに理想的な環境を提供します。長野市周辺の老舗酒蔵（西之門・よしのや等）では、冬に新酒の仕込みが最盛期を迎えます。芳醇な米の甘みとキレのある酸味が特徴の信州地酒は、信州牛のすき焼きや信州味噌の鍋料理と最高の相性を誇ります。
               </p>
@@ -468,9 +442,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の善光寺参拝と信州牛・郷土美食を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の善光寺参拝と信州牛・郷土美食を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、立地・サービス・料理が高評価の宿。
             </p>
@@ -504,9 +476,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -566,9 +536,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="bg-emerald-50/60 rounded-3xl p-6 sm:p-10 border border-emerald-200/60 space-y-6">
           <div className="border-b border-emerald-200/80 pb-4">
             <span className="text-emerald-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-emerald-950">
-              冬の戸隠・善光寺を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-emerald-950">冬の戸隠・善光寺を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-emerald-950">
@@ -608,20 +576,16 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の戸隠神社・新そば＆善光寺参拝に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の戸隠神社・新そば＆善光寺参拝に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-emerald-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-emerald-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-emerald-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function NaganoTogakushiZenkojiWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・聖地・初詣特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・聖地・初詣特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

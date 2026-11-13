@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            名水が生み出す黄金の一滴と白壁の酒蔵が連なる風情。美酒と美食のマリアージュに溺れる大人の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">名水が生み出す黄金の一滴と白壁の酒蔵が連なる風情。美酒と美食のマリアージュに溺れる大人の休日</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本の清酒文化を牽引し、江戸の昔から現在に至るまで最高峰の日本酒を世に送り出してきた「日本三大酒どころ（日本三大銘醸地）」――六甲山の硬水「宮水」と山田錦を用い力強い辛口の「男酒」として知られる兵庫の「灘五郷」、桃山丘陵の柔らかく清冽な「伏水」が醸し出す滑らかで上品な「女酒」の京都「伏見」、そして明治時代に軟水醸造法を確立し日本の吟醸酒の礎を築いた広島の「西条」。黒板塀やレンガ造りの煙突が並ぶ酒蔵通りを歩き、蔵元でしか味わえない搾りたての無濾過生原酒をテイスティング。夜には名酒に合わせた地元ブランド牛や瀬戸内海鮮のペアリングコースを味わう極上の酒蔵ステイを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  兵庫県神戸市東灘区・灘区ふるさと納税：日本一の酒生産量を誇る「灘五郷」酒蔵めぐりとヴィラフォンテーヌ神戸三宮
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">兵庫県神戸市東灘区・灘区ふるさと納税：日本一の酒生産量を誇る「灘五郷」酒蔵めぐりとヴィラフォンテーヌ神戸三宮</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   白鶴、菊正宗、剣菱など名立たる蔵元が立ち並ぶ灘五郷。酒蔵記念館で利き酒体験を楽しんだ後は、三宮駅至近の「ヴィラフォンテーヌ神戸三宮」を拠点に、老舗ステーキハウスでの神戸牛と灘の生一本ペアリングを堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      住友不動産ホテル　ヴィラフォンテーヌ神戸三宮
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">住友不動産ホテル　ヴィラフォンテーヌ神戸三宮</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>兵庫県神戸市中央区旭通4-1-4</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府京都市伏見区ふるさと納税：月桂冠や黄桜が並ぶ水郷の酒蔵街「伏見」十石舟とアーバンホテル京都ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府京都市伏見区ふるさと納税：月桂冠や黄桜が並ぶ水郷の酒蔵街「伏見」十石舟とアーバンホテル京都ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   伏見の名水が湧き出る酒蔵の郷。柳並木が美しい十石舟遊覧や酒蔵カフェを満喫した後は、アーバンホテル京都で京都名物のおばんざいや伏見の銘酒を味わい、伏見稲荷大社の早朝参拝も満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      アーバンホテル京都
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">アーバンホテル京都</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府京都市伏見区深草西浦町4-59</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  広島県東広島市西条ふるさと納税：赤瓦と赤レンガ煙突の景観「西条酒蔵通り」美酒鍋とホテルルートイン東広島西条駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">広島県東広島市西条ふるさと納税：赤瓦と赤レンガ煙突の景観「西条酒蔵通り」美酒鍋とホテルルートイン東広島西条駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   駅前に7つの蔵元が集まる奇跡の酒のまち。名物「美酒鍋」や仕込み水の飲み比べを楽しんだ後は、西条駅徒歩圏の「ホテルルートイン東広島西条駅前」の大浴場で寛ぎ、広島名物の牡蠣料理と純米吟醸酒に酔いしれます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン東広島西条駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン東広島西条駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>広島県東広島市西条本町14-24</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名水＆清冽な湧水仕込み美食宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名水＆清冽な湧水仕込み美食宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   南阿蘇・八ヶ岳・京都伏見。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   静岡茶・宇治茶・朝宮茶。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有田焼・美濃焼・瀬戸焼の器。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】住友不動産ホテル ヴィラフォンテーヌ神戸三宮を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】住友不動産ホテル ヴィラフォンテーヌ神戸三宮を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と住友不動産ホテル ヴィラフォンテーヌ神戸三宮の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と住友不動産ホテル ヴィラフォンテーヌ神戸三宮の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

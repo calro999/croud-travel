@@ -82,15 +82,12 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          エメラルドグリーンに輝く湯畑と立ちのぼる硫黄の湯煙。天下の名湯・草津で過ごす、心洗われる贅沢な温泉旅へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">エメラルドグリーンに輝く湯畑と立ちのぼる硫黄の湯煙。天下の名湯・草津で過ごす、心洗われる贅沢な温泉旅へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           毎分3万2千リットル以上という日本一の自然湧出量を誇り、古くから「恋の病以外なら何でも治す」と称えられてきた天下の名湯「草津温泉」。その中心に位置する湯畑（ゆばたけ）は、湯滝が豪快にしぶきを上げ、夜には幻想的なライティングで照らし出される草津の象徴です。浴衣に下駄を鳴らして温泉街をそぞろ歩き、温泉まんじゅうを食べ比べ、射的や足湯を楽しんだ後は、宿の源泉掛け流しの大浴場へ。草津温泉の強酸性泉（pH2前後）は抜群の殺菌力と温まり効果を持ち、日頃のストレスや身体の疲れを芯から洗い流してくれます。本特集では、草津最大級・約30mの大浴場と毎晩の湯もみショー・和太鼓演奏が圧巻の「草津温泉 ホテル櫻井」、江戸時代創業・湯畑の一番街正面に建ち湯畑を眼下に望む客室が評判の「草津温泉 ホテル一井」、そして明治10年創業・熟練の「湯守（ゆもり）」が絶妙な湯加減と滑らかな肌触りに仕立てる白旗源泉の名門「草津温泉 奈良屋」の3大老舗を厳選。群馬県草津町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で最高峰の草津名湯ステイを予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">草津温泉 湯畑散策＆名湯名門宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】草津温泉　ホテル櫻井</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 草津温泉 湯畑散策＆名湯名門宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">草津温泉 湯畑散策＆名湯名門宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            草津温泉　ホテル櫻井
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">草津温泉　ホテル櫻井</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県草津町・草津最大級！長さ約30mの大浴場＆毎晩開催される「湯もみショー」「和太鼓演奏」が圧巻の名門宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            草津温泉　ホテル一井
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">草津温泉　ホテル一井</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県草津町・湯畑の目の前一番街！江戸時代創業・湯畑を見下ろす特等席客室と二つの貴重な源泉掛け流し</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            草津温泉　奈良屋
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">草津温泉　奈良屋</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県草津町・明治十年創業！湯守が丹念に育てる「白旗源泉」の極上湯と大人のための静寂純和風旅館</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoKusatsuYubatakeWalkStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

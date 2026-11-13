@@ -108,9 +108,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  歩いて巡れる密集した酒蔵群と蔵元ならではの限定酒テイスティング
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">歩いて巡れる密集した酒蔵群と蔵元ならではの限定酒テイスティング</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大酒蔵通りの最大の魅力は、駅を降りてすぐの徒歩圏内に名だたる酒蔵がぎゅっと密集していることです。西条ではJR西条駅前に7つの蔵元が連なり、仕込み水の飲み比べや直売所限定の純米大吟醸の試飲が可能。伏見では十石舟が浮かぶ濠川沿いに月桂冠や黄桜などの歴史的建造物が並び、灘五郷では今津郷から西郷まで壮大な酒造博物館や利き酒バーが点在します。酒造りの工程や杜氏の哲学に触れながら味わう一杯は、格別の深みがあります。
@@ -123,9 +121,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  酒粕、塩麹、仕込み水を使った発酵ガストロノミーと旬の地元食材
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">酒粕、塩麹、仕込み水を使った発酵ガストロノミーと旬の地元食材</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 美酒が生まれる地には、必ず最高峰の食文化が根付いています。銘酒の仕込み水で丁寧にひいた出汁、酒粕を使った濃厚な美酒鍋（びしゅなべ）や粕汁、灘や伏見の吟醸酒粕に漬け込んだ銀鱈や近江牛、瀬戸内の鯛など、発酵の力で素材の旨味を極限まで引き出した料理の数々。日本酒を知り尽くしたシェフや板前が腕を振るうペアリングディナーは、お酒好きにとって至福の体験です。
@@ -138,9 +134,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  古都・港町・歴史情緒が共鳴する洗練されたホテル・名旅館ステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">古都・港町・歴史情緒が共鳴する洗練されたホテル・名旅館ステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 京都の洗練されたシティホテルから、西条の快適な機能美ホテル、そして神戸港のパノラマ夜景と自家源泉の天然温泉を併せ持つラグジュアリー温泉旅館まで、大人の休日にふさわしい上質な拠点が揃っています。ふるさと納税クーポンを使えば、宿泊費が最大30％還元され、浮いた予算でプレミアムな限定酒や酒器をお土産に購入することも可能です。
@@ -181,9 +175,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市下京区烏丸通り四条下ル二帖半敷町652</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    からすま京都ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">からすま京都ホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「立地とスタッフの対応が素晴らしく快適立地もよく何度も利用させてもらっています。受付、駐車場案内人共に素晴らしい方ばかりでいつも心地よい滞在が出来ています。ユニットバスなので若干狭さは感じますが、そ…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 広島県 東広島市三永二丁目6-36</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ベッセルホテル東広島（東広島駅前）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ベッセルホテル東広島（東広島駅前）</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「赤ちゃん連れでも快適一歳に満たない子連れでの宿泊でしたが、ベビーベッドを入れていただいたり、おむつポットも準備していただき快適に過ごせました。和室じゃなくても、ベッセルなら赤ちゃん連れでも大丈夫で…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 兵庫県 神戸市中央区新港町1-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    神戸みなと温泉　蓮
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">神戸みなと温泉　蓮</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「立地にやや不便さが、、他は満足するホテル1.立地元町まで少しあるのと、周りにコンビニがないのでちょっとお腹が空いたりお酒飲みたくなった時には不便かもしれません。ただ、三ノ宮の方までシャトルバス…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】からすま京都ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】からすま京都ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とからすま京都ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とからすま京都ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -89,9 +89,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            エメラルドグリーンの水面に降り注ぐ真名井の滝と、柱状節理を彩る錦秋。神話の息づく聖地で魂を浄化する秋旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">エメラルドグリーンの水面に降り注ぐ真名井の滝と、柱状節理を彩る錦秋。神話の息づく聖地で魂を浄化する秋旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             天孫降臨の地として日本神話の舞台となった宮崎県西臼杵郡「高千穂（たかちほ）」。11月上旬から下旬にかけて、阿蘇の火山活動によって形成された高さ80〜100mの柱状節理が連なる「高千穂峡」では、名瀑「真名井の滝」を取り囲むモミジやツタが一斉に鮮やかな赤や黄に染まります。手漕ぎの貸しボートに乗って水面から見上げる滝と紅葉のパノラマは、息を呑むほど神聖で圧倒的な美しさ。さらに早朝には「国見ヶ丘」から阿蘇五岳や高千穂盆地を覆い尽くす奇跡の「雲海」に出会え、夜には高千穂神社境内で国の重要無形民俗文化財「高千穂の夜神楽」が毎夜奉納されるなど、秋の高千穂は一年で最も神秘的な輝きを放ちます。そんな神話の里で至高の滞在を約束するのが、数寄屋造りの離れとミシュラン掲載の本格京風懐石を誇る九州最高峰の高級旅館「旅館 神仙」、高千穂神社のすぐそばに佇み温かいおもてなしと郷土料理を届ける「旅館 大和屋」、そして高千穂観光の拠点として百年以上の歴史を刻む老舗「今国旅館」。内閣総理大臣賞を受賞した最高峰ブランド「高千穂牛」のステーキとともに、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で賢く予約し、一生の宝物となる神話紅葉の旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  名瀑「真名井の滝」の紅葉貸しボート＆国見ヶ丘から望む奇跡の大雲海
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">名瀑「真名井の滝」の紅葉貸しボート＆国見ヶ丘から望む奇跡の大雲海</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 柱状節理の渓谷美を間近に体感できるボートクルーズ。秋の早朝には、山々が海に浮かぶ島のように見える幻想的な国見ヶ丘の雲海が広がります。
@@ -122,9 +118,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  高千穂神社の「夜神楽」鑑賞＆天照大神が隠れた天岩戸神社・天安河原参拝
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">高千穂神社の「夜神楽」鑑賞＆天照大神が隠れた天岩戸神社・天安河原参拝</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三十三番の神楽から代表的な四番を毎夜鑑賞できる高千穂神社夜神楽。願い事が叶うとされる天安河原の無数の積石など、最強のパワースポットを巡れます。
@@ -137,9 +131,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  全国和牛能力共進会で日本一！最高峰ブランド「高千穂牛」の極上会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">全国和牛能力共進会で日本一！最高峰ブランド「高千穂牛」の極上会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 きめ細やかなサシと芳醇な赤身の旨味が絶賛される高千穂牛ステーキ。地元の竹を使った竹割かっぽ酒や高千穂の旬菜会席が旅情を深めてくれます。
@@ -174,9 +166,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                       ★ 4.79 <span className="text-stone-400 text-xs">(244件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    高千穂　旅館　神仙
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">高千穂　旅館　神仙</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮崎県西臼杵郡高千穂町三田井1127-5 ｜ 高千穂バスセンターよりタクシーで５分／九州自動車道　松橋ＩＣより車で約１００分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                       ★ 4.38 <span className="text-stone-400 text-xs">(362件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    旅館　大和屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">旅館　大和屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮崎県西臼杵郡高千穂町三田井1148 ｜ 高千穂バスセンターより徒歩５分　延岡駅より車で１時間（２１８号経由）　熊本空港より車で１時間半（５７～３２５号線経由）
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
                       ★ 3.83 <span className="text-stone-400 text-xs">(75件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    今国旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">今国旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 宮崎県西臼杵郡高千穂町三田井803-4 ｜ ＪＲ延岡駅や熊本から特急バス、福岡より高速バスにて高千穂バスセンター下車後徒歩１分！！
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】高千穂 旅館 神仙を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】高千穂 旅館 神仙を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoTakachihoAutumnLeavesGorgeStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高千穂 旅館 神仙の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高千穂 旅館 神仙の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

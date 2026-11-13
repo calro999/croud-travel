@@ -297,10 +297,8 @@ export default function KirishimaWinterPage() {
             <Eye className="w-4 h-4 text-rose-300" />
             <span>11月・12月限定 坂本龍馬ゆかりの地＆霧島連山の湯煙と極上かごしま黒豚特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】<br className="hidden sm:inline" />
-            湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月霧島温泉郷の冬パノラマと坂本龍馬ゆかりの名湯】<br className="hidden sm:inline" />
+            湯煙立ち上る霧島連山と乳白色泥湯・鹿児島黒豚しゃぶしゃぶ＆黒毛和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             坂本龍馬とおりょうが愛した日本最初の新婚旅行の地「霧島温泉郷」。初冬の澄み渡る大気の中に立ち上る無数の湯煙と、乳白色の硫黄泉や天然泥湯。本場「かごしま黒豚」の甘美なしゃぶしゃぶと黒毛和牛、国宝・霧島神宮の初冬参拝に心洗われる至高の湯旅。
           </p>
@@ -326,9 +324,7 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kirishima Volcanoes & Ryoma's Honeymoon</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                天孫降臨の神話と幕末の志士が愛した火山の恵み。立ち上る白煙の大地
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">天孫降臨の神話と幕末の志士が愛した火山の恵み。立ち上る白煙の大地</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -343,10 +339,8 @@ export default function KirishimaWinterPage() {
           
           <div className="bg-rose-50/70 rounded-2xl p-5 border border-rose-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-700" />
-                11月・12月霧島温泉郷 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+                11月・12月霧島温泉郷 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 1000坪の硫黄谷庭園大浴場・天然泥パック温泉・国宝霧島神宮の初冬参拝・本場かごしま黒豚しゃぶしゃぶ・鹿児島空港から車・バスで約30分の好アクセス
               </p>
@@ -397,9 +391,7 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Historical Romance</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                寺田屋の刀傷を癒やした日本最初のハネムーン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">寺田屋の刀傷を癒やした日本最初のハネムーン</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -418,9 +410,7 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Volcanic Power</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                乳白色の硫黄泉と天然泥湯：多種多様な源泉が織りなす極上スパ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">乳白色の硫黄泉と天然泥湯：多種多様な源泉が織りなす極上スパ</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -439,9 +429,7 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Satsuma Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                本場「かごしま黒豚」の極上しゃぶしゃぶと鹿児島黒毛和牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">本場「かごしま黒豚」の極上しゃぶしゃぶと鹿児島黒毛和牛</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function KirishimaWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-rose-700" />
               <span>Rakuten Travel Official API Verified</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい霧島温泉郷の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい霧島温泉郷の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。絶景露天風呂と黒豚・黒毛和牛会席で高評価を獲得している宿を厳選。
             </p>
@@ -500,9 +486,7 @@ export default function KirishimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -563,9 +547,7 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">National Treasure Shrine</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                国宝・霧島神宮の初冬参拝と丸尾滝・湯煙展望台
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">国宝・霧島神宮の初冬参拝と丸尾滝・湯煙展望台</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -595,35 +577,25 @@ export default function KirishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Suggested Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 鹿児島空港発〜霧島温泉郷 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 鹿児島空港発〜霧島温泉郷 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-rose-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-rose-800 uppercase tracking-wider">【1日目】鹿児島空港から霧島へ〜国宝神宮参拝と乳白色名湯</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:00 鹿児島空港到着 → 空港近くで名物黒豚カツランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:00 鹿児島空港到着 → 空港近くで名物黒豚カツランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 サクサクの衣とジューシーな甘みの黒豚ロースカツを味わい、レンタカーまたはバスで霧島へ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 国宝・霧島神宮を参拝 ＆ 坂本龍馬ゆかりの地見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 国宝・霧島神宮を参拝 ＆ 坂本龍馬ゆかりの地見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 厳かな杉木立に包まれた国宝社殿を参拝し、龍馬とおりょうの足跡に思いを馳せる。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 霧島温泉の名宿にチェックイン → 硫黄谷大浴場や泥湯で温浴
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 霧島温泉の名宿にチェックイン → 硫黄谷大浴場や泥湯で温浴</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 乳白色の硫黄泉や天然泥パックで肌を磨き、身体の芯から温まる極上の湯浴み。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 本場かごしま黒豚しゃぶしゃぶ＆黒毛和牛ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 本場かごしま黒豚しゃぶしゃぶ＆黒毛和牛ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 とろける黒豚の甘みと地元の本格芋焼酎のお湯割りに酔いしれる贅沢な夜。
               </p>
@@ -631,15 +603,11 @@ export default function KirishimaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の湯煙パノラマ〜丸尾滝と霧島アートの森</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:30 朝の露天風呂入浴 → 鹿児島郷土料理朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:30 朝の露天風呂入浴 → 鹿児島郷土料理朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 湯気立ち上る丸尾温泉の白煙を眺めながらの朝風呂。鶏飯（けいはん）やさつま揚げの朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 湯煙立ち上る丸尾滝見学 ＆ 霧島たまご牧場や道の駅霧島
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 湯煙立ち上る丸尾滝見学 ＆ 霧島たまご牧場や道の駅霧島</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 温泉が混ざる丸尾の滝を眺め、霧島特産の黒豚味噌やさつまいもスイーツをお土産に購入して空港へ。
               </p>
@@ -662,10 +630,8 @@ export default function KirishimaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -680,9 +646,7 @@ export default function KirishimaWinterPage() {
         <section className="bg-rose-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬・名湯・美食温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬・名湯・美食温泉特集</h2>
             <p className="text-xs sm:text-sm text-rose-100/90 leading-relaxed">
               11月・12月ならではの旬の味覚や絶景露天を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

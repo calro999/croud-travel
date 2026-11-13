@@ -78,9 +78,7 @@ export default function KamakuraVsEnoshimaPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">
-          ⏳ 時間別ベストアンサー
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">⏳ 時間別ベストアンサー</h2>
         <div className="grid md:grid-cols-2 gap-8">
           <div className="bg-white border-t-8 border-indigo-500 rounded-2xl p-8 shadow-lg hover:shadow-xl transition-shadow">
             <div className="text-center mb-6">
@@ -107,9 +105,7 @@ export default function KamakuraVsEnoshimaPage() {
 
       <section className="px-4">
         <div className="bg-gray-50 rounded-3xl p-6 md:p-10 border border-gray-200">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif">
-            🚃 交通費・移動の基本情報
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif">交通費・移動の基本情報</h2>
           <div className="grid md:grid-cols-3 gap-4 mb-6">
             <div className="bg-white p-4 rounded-xl shadow-sm border border-gray-100">
               <div className="text-sm text-gray-500 mb-1">東京駅から鎌倉駅</div>
@@ -131,10 +127,8 @@ export default function KamakuraVsEnoshimaPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif flex items-center">
-          <span className="bg-indigo-600 text-white w-10 h-10 rounded-full flex items-center justify-center mr-3 text-lg">半</span>
-          半日コース（3〜4時間）モデルプラン
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif flex items-center"><span className="bg-indigo-600 text-white w-10 h-10 rounded-full flex items-center justify-center mr-3 text-lg">半</span>
+          半日コース（3〜4時間）モデルプラン</h2>
         
         <div className="space-y-8">
           {/* 鎌倉半日 */}
@@ -192,10 +186,8 @@ export default function KamakuraVsEnoshimaPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif flex items-center">
-          <span className="bg-gradient-to-br from-blue-500 to-purple-600 text-white w-10 h-10 rounded-full flex items-center justify-center mr-3 text-lg">1日</span>
-          1日コース（7〜8時間）最強ハシゴプラン
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif flex items-center"><span className="bg-gradient-to-br from-blue-500 to-purple-600 text-white w-10 h-10 rounded-full flex items-center justify-center mr-3 text-lg">1日</span>
+          1日コース（7〜8時間）最強ハシゴプラン</h2>
         
         <div className="bg-white rounded-3xl p-6 md:p-10 shadow-xl border border-gray-200">
           <p className="text-gray-700 mb-8 leading-relaxed">
@@ -235,9 +227,7 @@ export default function KamakuraVsEnoshimaPage() {
       {hotels.length > 0 && (
         <section className="px-4 mt-16">
           <div className="text-center mb-8">
-            <h2 className="text-2xl md:text-3xl font-bold text-gray-800 font-journal-serif mb-3">
-              鎌倉・湘南エリアのおすすめ宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-gray-800 font-journal-serif mb-3">鎌倉・湘南エリアのおすすめ宿</h2>
             <p className="text-gray-600">日帰りもいいけど、1泊すればもっとゆっくり湘南の海と歴史を満喫できます。</p>
           </div>
           <div className="grid md:grid-cols-2 gap-8">
@@ -254,9 +244,7 @@ export default function KamakuraVsEnoshimaPage() {
                   </div>
                 )}
                 <div className="p-6 flex flex-col flex-grow">
-                  <h3 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2">{hotel.hotelName}</h3>
                   {hotel.hotelMinCharge && (
                     <div className="text-indigo-600 font-bold text-lg mb-4">
                       目安：{hotel.hotelMinCharge.toLocaleString()}円〜 /人
@@ -291,9 +279,7 @@ export default function KamakuraVsEnoshimaPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「鎌倉 vs 江の島 日帰りならどっち？：半日・1日コース別の楽しみ方＆費用を厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -372,9 +358,7 @@ export default function KamakuraVsEnoshimaPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 鎌倉 vs 江の島 日帰りならどっち？エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">鎌倉 vs 江の島 日帰りならどっち？エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

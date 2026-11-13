@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          テロワールを味わい尽くす贅沢。一面の葡萄畑と極上ワインペアリングに酔いしれる大人の旅
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">テロワールを味わい尽くす贅沢。一面の葡萄畑と極上ワインペアリングに酔いしれる大人の旅</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              希少な限定醸造ワインやヴィンテージワインの専属ソムリエペアリング
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">希少な限定醸造ワインやヴィンテージワインの専属ソムリエペアリング</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               市場には出回らないワイナリー直営ならではの特別な一本や樽出し生ワインなど、宿泊者だけが味わえる至高のグラスをディナーとともに楽しめます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              葡萄畑の散策やプライベートセラー見学など特別な体験
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">葡萄畑の散策やプライベートセラー見学など特別な体験</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               夕暮れ時に葡萄畑の畝の間を散歩したり、醸造家のこだわりを聞くテイスティングツアーなど、ワイン好きの知的好奇心を刺激するプログラムが豊富です。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ワイン風呂や植物性モール温泉など美容・美肌効果抜群のスパ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ワイン風呂や植物性モール温泉など美容・美肌効果抜群のスパ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               ポリフェノール豊富なワイン粕風呂や、美肌の湯として名高い天然モール温泉など、スパ体験も極上のリラクゼーションを提供します。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="katsunuma_wine" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山梨県甲州市ふるさと納税：勝沼ぶどう郷・甲州ワイン発祥の丘陵地と石和の名湯リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山梨県甲州市ふるさと納税：勝沼ぶどう郷・甲州ワイン発祥の丘陵地と石和の名湯リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 約30ものワイナリーが集まる日本随一のワイン郷・勝沼。甲龍山や富士山を望む葡萄畑の景観、甲州牛と日本ワインの極上マリアージュ、そして柔らかな美肌温泉に癒やされます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町川中島1607
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    石和温泉　美と健康と癒しの宿　ホテル八田
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">石和温泉　美と健康と癒しの宿　ホテル八田</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【美肌の湯◇認証】県内最大級の露天風呂・展望ワイン風呂・貸切風呂で癒しの湯を堪能。甲州の旬を味わう宿
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町川中島538
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    石和温泉　ホテル平安
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">石和温泉　ホテル平安</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     石和温泉駅無料送迎有◆温泉24時間OK◆水晶焼ステーキ・ほうとう鍋など郷土の味を堪能
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県笛吹市石和町八田97
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    大江戸温泉物語　ホテル新光
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語　ホテル新光</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     見どころ満載の石和温泉を楽しんだ後は、自慢のバイキングと美肌の湯でゆっくりとおくつろぎください。
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="yoichi_wine" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道余市町ふるさと納税：世界が称賛する余市ワイン・日本海シーフードと小樽クラシックホテル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道余市町ふるさと納税：世界が称賛する余市ワイン・日本海シーフードと小樽クラシックホテル</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 ピノ・ノワールやケルナーなど冷涼な気候が育む極上ワインの聖地・余市。日本海のウニや蝦夷アワビ、後志の恵みをシェフが仕立てる美食ディナーとワインの饗宴です。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市色内1-8-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     北海道随一のクラシックホテルを現代的感性で再生
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市豊平区豊平4条1丁目1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    プレミアホテル－ＴＳＵＢＡＫＩ－札幌
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">プレミアホテル－ＴＳＵＢＡＫＩ－札幌</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道札幌市中央区北3条西1丁目
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＡＮＡクラウンプラザホテル札幌　ｂｙ　ＩＨＧ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室禁煙・ＪＲ札幌駅徒歩7分、地下鉄さっぽろ駅東豊線改札21番出口徒歩1分、空港バスホテル正面停車
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="tokachi_wine" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道池田町ふるさと納税：十勝ワイン城の歴史と十勝平野の雄大美・植物性モール温泉の森宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道池田町ふるさと納税：十勝ワイン城の歴史と十勝平野の雄大美・植物性モール温泉の森宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 町営ワイナリーとして半世紀以上の歴史を誇る十勝ワイン。十勝牛のローストビーフとともに重厚な赤ワインを味わい、世界でも珍しい琥珀色のモール温泉でととのう至福の休日です。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道帯広市西7条南19丁目１
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    森のスパリゾート　北海道ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">森のスパリゾート　北海道ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     セルフロウリュ可能なサウナと北海道遺産のモール温泉浴場を備えた緑に囲まれたシティホテル
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道河東郡音更町十勝川温泉北9丁目1番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルテトラリゾート十勝川
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルテトラリゾート十勝川</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     自家源泉の温泉と、十勝・北海道産食材にこだわった料理が自慢のホテルです。
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道河東郡音更町十勝川温泉南14-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    十勝川温泉　観月苑
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">十勝川温泉　観月苑</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     十勝川温泉初！２０２０年５月フィンランド式サウナへリニューアル！
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 軽井沢・修善寺・小樽の出来立て生ビールと美食ステイ。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 那須・清里・裏磐梯の森の休日。
               </p>
@@ -672,9 +634,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -753,9 +713,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税厳選ガイド勝沼・余市・十勝のワインペアリング旅エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

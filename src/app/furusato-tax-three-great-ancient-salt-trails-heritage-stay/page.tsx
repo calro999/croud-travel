@@ -108,9 +108,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  北アルプスの絶景パノラマと石畳の古道が織りなす癒やしのウォーキング
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">北アルプスの絶景パノラマと石畳の古道が織りなす癒やしのウォーキング</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大塩の道のルートは、日本の屋根・北アルプスや南アルプスの大自然と見事に調和しています。千国街道の白馬山麓では、残雪輝く北アルプスの三山を正面に仰ぎながら清らかな雪解け水の小川沿いをトレッキング。三州街道では香嵐渓の紅葉や伊那谷ののどかな田園風景を抜け、秋葉街道では中央構造線の壮大な谷間を進みます。歴史のロマンに浸りながら歩くことで、心肺機能が高まり心地よい疲労感とともに頭がすっきりとリフレッシュされます。
@@ -123,9 +121,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  「塩」が引き立てる信州サーモン、信州牛、山菜と地酒のマリアージュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">「塩」が引き立てる信州サーモン、信州牛、山菜と地酒のマリアージュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 塩の道沿線の宿では、海の塩と山の恵みが融合した至高の美食が楽しめます。天然塩でシンプルに焼き上げた川魚の塩焼き、甘みのある信州プレミアム牛の石焼き、手打ち蕎麦の塩味での食べ比べ、そして伝統の塩漬け保存食文化から生まれた発酵料理の数々。滋味豊かな料理を地酒とともに味わうディナーは、古道を歩き切った身体に深く染み渡ります。
@@ -138,9 +134,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  北アルプス一望の白馬温泉や美肌日本一・昼神温泉の極上宿ステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">北アルプス一望の白馬温泉や美肌日本一・昼神温泉の極上宿ステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 古道沿いには、全国屈指の人気温泉地が点在しています。北アルプスの白馬三山パノラマを露天風呂から一望できる白馬ハイランドホテル、強アルカリ泉で「美肌の湯」として名高い阿智村・昼神温泉の伊那華、高遠城址公園の桜で知られる高遠さくらホテル。歴史ある温泉郷の上質宿で過ごす夜は、旅の疲れを完璧に癒やしてくれます。
@@ -181,9 +175,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 長野県 北安曇郡白馬村北城21582</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    白馬姫川温泉　白馬ハイランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">白馬姫川温泉　白馬ハイランドホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「お風呂は綺麗で食事も美味しく接客も丁寧ホテルは少し古さを感じましたが、お風呂は改装されて?かなり綺麗でした。特に宿泊者専用のお風呂は広くとても快適でした。(お風呂まで少し遠いですが)朝食・夕食…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 長野県 下伊那郡阿智村智里503-294</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    昼神温泉　湯多利の里　伊那華
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">昼神温泉　湯多利の里　伊那華</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「昼神温泉 【いなか】最高!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 長野県 伊那市高遠町勝間217</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    高遠温泉　高遠さくらホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">高遠温泉　高遠さくらホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白馬姫川温泉 白馬ハイランドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白馬姫川温泉 白馬ハイランドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白馬姫川温泉 白馬ハイランドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白馬姫川温泉 白馬ハイランドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

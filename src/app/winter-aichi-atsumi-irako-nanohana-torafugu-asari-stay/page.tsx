@@ -266,10 +266,8 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Flower2 className="w-6 h-6 text-amber-500 shrink-0" />
-              一足早い春の息吹！黄金に輝く菜の花畑と荒波寄せる伊良湖岬の冬景色
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Flower2 className="w-6 h-6 text-amber-500 shrink-0" />
+              一足早い春の息吹！黄金に輝く菜の花畑と荒波寄せる伊良湖岬の冬景色</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-amber-500 shrink-0" />
-              渥美半島・伊良湖岬で泊まりたい冬の厳選宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-amber-500 shrink-0" />
+              渥美半島・伊良湖岬で泊まりたい冬の厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。絶景露天風呂、極上ふぐ料理、おもてなしの格式を兼ね備えた名宿を厳選。
             </p>
@@ -334,12 +330,10 @@ export default function AichiAtsumiIrakoWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-amber-700 bg-amber-50 border border-amber-200/60 rounded-md px-2.5 py-1 mt-2 inline-block font-medium">
                         {h.special}
@@ -396,10 +390,8 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-amber-500 shrink-0" />
-              渥美半島・伊良湖岬の冬の気候と時期別おすすめの服装・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-amber-500 shrink-0" />
+              渥美半島・伊良湖岬の冬の気候と時期別おすすめの服装・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -439,38 +431,30 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-amber-500 shrink-0" />
-              冬の渥美半島を美しく切り取る！絶景フォトスポット＆撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-amber-500 shrink-0" />
+              冬の渥美半島を美しく切り取る！絶景フォトスポット＆撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                伊良湖菜の花ガーデンの黄色い絨毯
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                伊良湖菜の花ガーデンの黄色い絨毯</h3>
               <p className="leading-relaxed">
                 青空が広がる晴天の午前中（10:00〜12:00）がベスト。順光の位置から広角レンズでローアングルから撮影すると、画面いっぱいに広がる鮮やかな黄色の菜の花と澄み渡るスカイブルーの鮮烈なコントラストを美しく捉えることができます。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                日出の石門と太平洋の初日の出
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                日出の石門と太平洋の初日の出</h3>
               <p className="leading-relaxed">
                 日の出30分前の朝焼けグラデーションから撮影をスタート。奇岩の中央に空いた洞門や激しく打ち寄せる白波を前景に配し、水平線から顔を出す黄金色の太陽をシルエットで強調すると、神話の世界のような神秘的な一枚が完成します。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                恋路ヶ浜と伊良湖岬灯台の黄昏景
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                恋路ヶ浜と伊良湖岬灯台の黄昏景</h3>
               <p className="leading-relaxed">
                 日没直後のマジックアワー（16:45〜17:15）が狙い目。白亜の灯台に明かりが灯り、遠く三重県の神島や伊勢志摩の島影が茜色から深い藍色へと移ろうトワイライトの空に浮かび上がります。波打ち際をスローシャッターで撮影するのもおすすめです。
               </p>
@@ -482,38 +466,30 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Fruits</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-amber-500 shrink-0" />
-              冬の渥美半島を味わい尽くす！遠州灘天然とらふぐ・焼き大アサリ・完熟いちご
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-amber-500 shrink-0" />
+              冬の渥美半島を味わい尽くす！遠州灘天然とらふぐ・焼き大アサリ・完熟いちご</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                遠州灘の極上天然とらふぐ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                遠州灘の極上天然とらふぐ</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 実は全国有数のトラフグの水揚げを誇る遠州灘。福江港や伊良湖港に水揚げされる天然トラフグは、激しい海流に揉まれて身が締まり、噛むほどに上質な旨味と上品な甘みが広がります。薄造りのてっさ、豪快なふぐちり鍋、濃厚な白子焼きまで、本場ならではの贅沢を堪能できます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                恋路ヶ浜名物「焼き大アサリ」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                恋路ヶ浜名物「焼き大アサリ」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 伊良湖岬の名物といえば、手のひらほどもある大きな貝「ウチムラサキ（大アサリ）」。炭火の上で醤油と酒を垂らしてジュワッと焼き上げると、香ばしい磯の香りが立ち込めます。肉厚でプリプリとした食感と濃厚な貝出汁は、旅情をそそる最高の逸品です。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-amber-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-500" />
-                糖度抜群の完熟いちご狩り
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500" />
+                糖度抜群の完熟いちご狩り</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 冬の日照時間が日本一長い渥美半島は、愛知県屈指のいちごの産地。12月から5月にかけて農園で楽しめるいちご狩りでは、酸味が少なく大粒の「章姫（あきひめ）」や香り高い「かおり野」を時間無制限で心ゆくまで味わえます。練乳をたっぷりつけて頬張るもぎたての甘さは格別です。
               </p>
@@ -525,10 +501,8 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-amber-400 shrink-0" />
-              菜の花と天然とらふぐを満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-amber-400 shrink-0" />
+              菜の花と天然とらふぐを満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -586,18 +560,14 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の渥美半島・伊良湖岬旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の渥美半島・伊良湖岬旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -610,9 +580,7 @@ export default function AichiAtsumiIrakoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！東海・中部エリアの冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！東海・中部エリアの冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

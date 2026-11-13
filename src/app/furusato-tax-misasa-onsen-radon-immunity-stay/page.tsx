@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            浸かって良し、飲んで良し、吸って良し——世界屈指のラドン温泉・三朝温泉で体験する心身再生の湯治ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">浸かって良し、飲んで良し、吸って良し——世界屈指のラドン温泉・三朝温泉で体験する心身再生の湯治ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             平安時代末期、源義朝の家来・大久保左馬之祐が白狼の命を救ったことから湧き出たと伝わる鳥取県・三朝（みささ）温泉。高濃度のラドンを含有する世界屈指の放射能泉（ラジウム温泉）として世界的に有名で、微量の放射線が細胞を活性化し免疫力や自然治癒力を高める「ホルミシス効果」が科学的にも注目されています。温泉街の中央を流れる三徳川の清流、木造旅館が立ち並ぶノスタルジックな石畳の路地、そして河原に湧く開放感抜群の無料露天風呂「河原風呂」が、訪れる者を優しく迎えます。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             三朝の湯の真骨頂は、温泉に浸かる「入浴」だけでなく、ラドンガスを肺から取り込む「吸入」、そして胃腸の調子を整える「飲泉」と、三位一体で健康を取り戻せること。さらに近海で獲れた新鮮な松葉ガニやモサエビ、鳥取和牛の贅沢会席が心と体を満たします。鳥取県三朝町へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門旅館へお得に宿泊でき、本物の癒やしを実感できる湯治旅が叶います。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（三朝温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（三朝温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県三朝町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三朝温泉　依山楼　岩崎
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三朝温泉　依山楼　岩崎</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業大正九年・島崎藤村や野口雨情ら文豪が愛した名門！十二の湯船が並ぶ回遊式大庭園風呂「山の湯」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  三朝温泉 依山楼 岩崎 —— 三朝随一の歴史を誇る老舗旅館。名取の川風を感じる回遊式庭園露天風呂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">三朝温泉 依山楼 岩崎 —— 三朝随一の歴史を誇る老舗旅館。名取の川風を感じる回遊式庭園露天風呂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 趣の異なる十二の湯船をめぐる回遊式大庭園風呂「山の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">趣の異なる十二の湯船をめぐる回遊式大庭園風呂「山の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">左の湯・右の湯に分かれ、洞窟風呂、ラドン蒸気風呂、寝湯など多彩な湯処を完備。朝夕で男女入れ替えとなり、館内だけで世界屈指のラドン温泉を徹底的に堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 三徳川を見晴らす伝統の和室と文豪ゆかりの客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">三徳川を見晴らす伝統の和室と文豪ゆかりの客室</h5>
                     <p className="text-stone-600 leading-relaxed">川のせせらぎが心地よい落ち着いた空間。歴史ある調度品が飾られたロビーラウンジや手入れの行き届いた日本庭園が、優雅な滞在を演出します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鳥取和牛や日本海の鮮魚・冬の松葉ガニ会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鳥取和牛や日本海の鮮魚・冬の松葉ガニ会席</h5>
                     <p className="text-stone-600 leading-relaxed">地元の旬の恵みを熟練の技で仕上げた会席料理。冬期には本場の松葉ガニを贅沢に使ったフルコースプランも用意され、食の満足度も抜群です。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県三朝町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三朝温泉　三朝館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三朝温泉　三朝館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   自家源泉から湧き出る毎分数百リットルの名湯！千坪の日本庭園露天風呂と女性に大人気のバラ風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  三朝温泉 三朝館 —— 圧倒的な庭園美と湯量の贅沢。自家源泉のラジウム温泉と鳥取の美食饗宴
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">三朝温泉 三朝館 —— 圧倒的な庭園美と湯量の贅沢。自家源泉のラジウム温泉と鳥取の美食饗宴</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 千坪の広大な日本庭園に広がる名物露天風呂「庭の湯」「滝の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">千坪の広大な日本庭園に広がる名物露天風呂「庭の湯」「滝の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">滝が流れる日本庭園を眺めながら入浴できる大露天風呂。夕暮れ時にはライトアップされ、四季の草木と湯気が織りなす幻想的な景色の中で湯浴みを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 毎日15時から女性限定で開催される華やかな「バラ風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">毎日15時から女性限定で開催される華やかな「バラ風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">約200輪の生花バラが湯船一面に浮かぶ優雅なお風呂。華やかな香りに包まれながら、極上のリラックスタイムを過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鳥取県産和牛オレイン55と季節の海鮮会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鳥取県産和牛オレイン55と季節の海鮮会席</h5>
                     <p className="text-stone-600 leading-relaxed">口溶けの良い脂が特徴のブランド牛「鳥取和牛オレイン55」の陶板焼きや、近海で揚がる旬魚のお造りなど、地産地消の贅沢な夕食を提供しています。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県三朝町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三朝薬師の湯　万翆楼
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三朝薬師の湯　万翆楼</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   自家源泉掛け流しの贅沢な湯宿！三徳川のせせらぎを聞く落ち着いた空間と熟練職人による本格会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  三朝薬師の湯 万翆楼 —— 木造美と現代の快適性が調和。上質な湯治を叶える大人の隠れ宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">三朝薬師の湯 万翆楼 —— 木造美と現代の快適性が調和。上質な湯治を叶える大人の隠れ宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一切の加水・循環を行わない自家源泉100％掛け流し
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一切の加水・循環を行わない自家源泉100％掛け流し</h5>
                     <p className="text-stone-600 leading-relaxed">三朝温泉でも希少な自家源泉掛け流しの湯船。湧き出たばかりの新鮮なラドン温泉が注がれ、湯上がりの肌が驚くほど潤う本物の名湯を実感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 三徳川沿いに佇む静かなロケーションと和モダン客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">三徳川沿いに佇む静かなロケーションと和モダン客室</h5>
                     <p className="text-stone-600 leading-relaxed">全客室が落ち着いた和の設え。窓からは三徳川の流れや三朝の山並みを望み、鳥のさえずりと川の音を聞きながら静寂の時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 器と盛り付けにこだわった極上の四季創作会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">器と盛り付けにこだわった極上の四季創作会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が一皿一皿に真心を込めた会席ディナー。鳥取のブランド食材を繊細な味わいで仕立て、特別な記念日の夜を華やかに彩ります。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            三朝温泉街のレトロ散歩＆日本遺産・三徳山投入堂観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">三朝温泉街のレトロ散歩＆日本遺産・三徳山投入堂観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 日本一危険な国宝「三徳山三仏寺 投入堂」の参拝登山
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 日本一危険な国宝「三徳山三仏寺 投入堂」の参拝登山</h3>
               <p className="text-stone-700 text-sm leading-relaxed">標高約900mの断崖絶壁に忽然と建つ国宝「投入堂」。役行者が法力で投げ入れたと伝わる奇跡の木造建築で、険しい山道を登った者だけが出会える神秘の聖地です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 温泉本通りのレトロ遊技場（射的・スマートボール）と足湯めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 温泉本通りのレトロ遊技場（射的・スマートボール）と足湯めぐり</h3>
               <p className="text-stone-700 text-sm leading-relaxed">昭和レトロな街並みが残る温泉本通り。昔懐かしい射的場やスマートボール屋で遊び、名物の「栃餅」を味わいながら「株湯」や「薬師の湯」などの足湯・飲泉場を巡るのが定番です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 三徳川の「河原風呂」と夜のホタル観賞
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 三徳川の「河原風呂」と夜のホタル観賞</h3>
               <p className="text-stone-700 text-sm leading-relaxed">三徳川の河川敷にある無料の混浴露天風呂「河原風呂」。川のせせらぎを間近に感じる開放感満点の入浴が名物です。初夏には三徳川沿いに無数のホタルが舞う幻想的な光景が広がります。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              鳥取県三朝町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">鳥取県三朝町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

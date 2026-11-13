@@ -249,9 +249,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Destination Analysis</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              なぜ冬の岩国・周防大島が特別なのか？名橋の静寂と温暖な瀬戸内アイランドの美食文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ冬の岩国・周防大島が特別なのか？名橋の静寂と温暖な瀬戸内アイランドの美食文化</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               世界遺産級の木造建築美と、瀬戸内の潮風が育む冬限定の驚きの美味
             </p>
@@ -313,9 +311,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-gradient-to-r from-slate-900 via-emerald-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-emerald-400 pl-4">
             <span className="text-emerald-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -349,16 +345,12 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の岩国・周防大島で訪れるべき三大名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の岩国・周防大島で訪れるべき三大名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-emerald-600" /> 名勝・錦帯橋
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-emerald-600" /> 名勝・錦帯橋</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 清流錦川に架かる五連の木造アーチ橋。河原から見上げる木組みの迫力、橋上から望む城山の雪景色。ロープウェイで登る岩国城天守閣からのパノラマも必見です。
               </p>
@@ -368,9 +360,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-600" /> 岩国白蛇神社
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-600" /> 岩国白蛇神社</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 国天然記念物の白蛇を祀り、金運招福と商売繁盛を授ける新春の聖地。併設の白蛇資料館ではガラス越しに生きた白蛇を間近に観察でき、開運お守りも充実。
               </p>
@@ -380,9 +370,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" /> 周防大島（屋代島）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" /> 周防大島（屋代島）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 瀬戸内海で3番目に大きな島。本土と大島大橋で結ばれドライブ快適。美しい海岸線、冬のみかん畑、温泉リゾート、名物みかん鍋と瀬戸内地魚を満喫できます。
               </p>
@@ -397,9 +385,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              岩国＆周防大島の冬旅を彩る厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">岩国＆周防大島の冬旅を彩る厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               錦帯橋ビュー・展望温泉・オーシャンリゾート・極上高森牛ディナー宿
             </p>
@@ -435,9 +421,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -495,9 +479,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の岩国＆周防大島を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の岩国＆周防大島を満喫する1泊2日モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               錦帯橋、岩国城、白蛇神社初詣、周防大島みかん鍋を巡る王道ルート
             </p>
@@ -505,10 +487,8 @@ export default function YamaguchiIwakuniSuooshimaPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-emerald-600 text-white text-xs rounded-md font-bold">1日目</span>
-                錦帯橋渡橋と岩国城展望、白蛇神社新春参拝
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-emerald-600 text-white text-xs rounded-md font-bold">1日目</span>
+                錦帯橋渡橋と岩国城展望、白蛇神社新春参拝</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 新岩国駅または岩国駅に到着</strong>：バスで錦帯橋へ。五連の木造アーチ橋を渡り、城下町側の吉香公園へ。</li>
                 <li><strong className="text-slate-900">12:30 名物「岩国寿司」ランチ</strong>：老舗食事処で錦糸卵や蓮根、魚を重ねて押し固めた彩り豊かな殿様寿司を堪能。</li>
@@ -519,10 +499,8 @@ export default function YamaguchiIwakuniSuooshimaPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">2日目</span>
-                大島大橋を渡り周防大島へ・冬の名物みかん鍋ドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">2日目</span>
+                大島大橋を渡り周防大島へ・冬の名物みかん鍋ドライブ</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">08:30 宿で朝食</strong>：朝の錦帯橋を眺めながら温かい朝食を味わい、レンタカーで出発。</li>
                 <li><strong className="text-slate-900">09:45 大島大橋を渡り周防大島へ</strong>：コバルトブルーの海を渡り島内ドライブ。みかん畑が広がる海岸線を走行。</li>
@@ -538,16 +516,12 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              岩国・周防大島へのアクセスと冬道ドライブ注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">岩国・周防大島へのアクセスと冬道ドライブ注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-emerald-600" /> 新幹線・電車・飛行機
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-600" /> 新幹線・電車・飛行機</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">山陽新幹線</strong>：「新岩国駅」下車、バスで錦帯橋まで約15分。</li>
                 <li><strong className="text-slate-900">JR山陽本線</strong>：「岩国駅」下車、バスで錦帯橋まで約20分。宮島口駅からは電車で直通約22分。</li>
@@ -556,9 +530,7 @@ export default function YamaguchiIwakuniSuooshimaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆気候
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆気候</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：山陽自動車道「岩国IC」から錦帯橋まで約10分。周防大島へは「玖珂IC」より約30分。</li>
                 <li><strong className="text-slate-900">冬道注意点</strong>：沿岸部は比較的温暖で積雪は稀ですが、山間部（旭酒造周辺や玖珂IC付近）では早朝・深夜に路面凍結することがあります。天気予報に留意し安全運転を心がけましょう。</li>
@@ -571,17 +543,13 @@ export default function YamaguchiIwakuniSuooshimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
             <span className="text-emerald-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の岩国・周防大島旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の岩国・周防大島旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-emerald-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-emerald-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -592,10 +560,8 @@ export default function YamaguchiIwakuniSuooshimaPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-emerald-600" />
-            あわせて読みたい！中国・山口エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-emerald-600" />
+            あわせて読みたい！中国・山口エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-yamaguchi-hagi-onsen-fugu-choshu-beef-stay/"

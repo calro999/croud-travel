@@ -108,9 +108,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  神話の時代から続く国技の熱気と力士たちの息遣いを感じる町歩き
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">神話の時代から続く国技の熱気と力士たちの息遣いを感じる町歩き</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三大相撲聖地の町には、他では決して味わえない独特の活気と歴史情緒が漂っています。両国では鬢付け油の甘い香りが風に乗り、相撲部屋の看板や力士像が点在。出雲では神話の神々が力比べをしたとされる古社で厳かな神気に包まれ、住吉では朱塗りの反橋（太鼓橋）と古代相撲の石碑が歴史を物語ります。土俵の砂一粒にまで宿る神事の精神に触れることで、日常を力強く生き抜くエネルギーが湧いてきます。
@@ -123,9 +121,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  鶏ガラ出汁が染み渡る本場ちゃんこ鍋と出雲そば、なにわの割烹美食
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">鶏ガラ出汁が染み渡る本場ちゃんこ鍋と出雲そば、なにわの割烹美食</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 相撲文化の旅は、まさに極上の食体験の連続です。両国では「手をつかない＝負けない」というゲン担ぎから鶏ガラをベースに季節の魚介や野菜、特製つみれをふんだんに炊き込んだ栄養満点のちゃんこ鍋。出雲では割子そばや宍道湖の七道湖畔の七珍料理、大阪では天下の台所が誇る伝統の出汁割烹。力士たちの強靭な肉体を支えてきた伝統の滋味料理が、旅人の胃袋を心底から満たします。
@@ -138,9 +134,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  国技館を望むリバーサイドホテルや日本最古の美肌温泉名旅館ステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">国技館を望むリバーサイドホテルや日本最古の美肌温泉名旅館ステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 隅田川の風情と東京スカイツリーの夜景を一望する第一ホテル両国、清少納言も枕草子で称えた日本最古の美肌湯を源泉かけ流しで堪能できる出雲・玉造温泉の白石家、そして大阪の迎賓館として格式あるサービスと美食を誇るリーガロイヤルホテル。ふるさと納税クーポンを使えば、上質な客室プランも驚くほどお得に予約できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 東京都 墨田区横網1-6-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    第一ホテル両国
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">第一ホテル両国</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「部屋は暑かったが価格は非常に手頃全館空調との事でしたが、猛暑でしかも雨。湿度も高かったのでお部屋が暑かった。個別に空調の温度が調整出来たら良かった。このお部屋の広さでこの値段は申し訳無いと思う位、…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 島根県 松江市玉湯町玉造44-2</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    出雲・玉造温泉　白石家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">出雲・玉造温泉　白石家</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「スタッフの温かい心遣いに感動しましたスタッフのかたの教育がしっかりされていて、気持ちよく過ごせます。食事の席や車にスタッフのかたからの素敵なご挨拶が書いてありあたたかい気持ちになりました。… つづきはこちら」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 大阪府 大阪市北区中之島5-3-68</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「大満足大満足…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】第一ホテル両国を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】第一ホテル両国を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と第一ホテル両国の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と第一ホテル両国の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -285,10 +285,8 @@ export default function AmanohashidateWinterPage() {
             <Eye className="w-4 h-4 text-teal-300" />
             <span>11月・12月限定 日本三景白砂青松と丹後松葉ガニ解禁・寒ブリ会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月天橋立の白砂青松雪景色とカニ漁解禁】<br className="hidden sm:inline" />
-            日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月天橋立の白砂青松雪景色とカニ漁解禁】<br className="hidden sm:inline" />
+            日本三景を望む冬の美肌湯・幻の間人ガニ＆寒ブリしゃぶしゃぶの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海のズワイガニ漁解禁で美食の最盛期を迎える「海の京都・丹後天橋立」。雪化粧した約5,000本の松並木が海を渡る奇跡の絶景。茶褐色のとろみある天橋立温泉に癒やされ、幻の間人ガニと極上寒ブリに酔いしれる冬の至高旅。
           </p>
@@ -314,9 +312,7 @@ export default function AmanohashidateWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Nihon Sankei Sea Kyoto Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                雪の白砂青松が描く天の架け橋。11月6日解禁、丹後の冬の王様「松葉ガニ」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雪の白砂青松が描く天の架け橋。11月6日解禁、丹後の冬の王様「松葉ガニ」</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function AmanohashidateWinterPage() {
           
           <div className="bg-teal-50/70 rounded-2xl p-5 border border-teal-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-700" />
-                11月・12月天橋立 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+                11月・12月天橋立 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月6日カニ解禁！幻の間人ガニ＆丹後松葉ガニ・伊根の寒ブリしゃぶ・雪の天橋立展望・天橋立温泉
               </p>
@@ -380,26 +374,20 @@ export default function AmanohashidateWinterPage() {
             <div className="p-2 rounded-xl bg-teal-50 text-teal-800">
               <Sparkles className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11月6日解禁！丹後が誇る「間人ガニ」とブランド松葉ガニの魅力
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月6日解禁！丹後が誇る「間人ガニ」とブランド松葉ガニの魅力</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-teal-600" />
-                幻の間人ガニ（たいざがに）とは？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-teal-600" />
+                幻の間人ガニ（たいざがに）とは？</h3>
               <p className="leading-relaxed">
                 丹後半島の北端にある間人港。わずか5隻前後の小型底引き網漁船が日帰り操業を行うため、獲れたてのカニがその日の夕方に生きたまま港へ帰着します。鮮度が一切落ちない状態で競りにかけられるため、身の引き締まりと甘みが桁違い。緑色のタグがその最高品質の証です。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-teal-600" />
-                11月・12月限定のセコガニ（雌ガニ）の珍味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Utensils className="w-4 h-4 text-teal-600" />
+                11月・12月限定のセコガニ（雌ガニ）の珍味</h3>
               <p className="leading-relaxed">
                 ズワイガニの雌「セコガニ（コッペガニ）」の漁期は、資源保護のため11月6日から12月末までのわずか約2ヶ月間のみ。甲羅の中に詰まったプチプチとした「外子」と、濃厚なオレンジ色の「内子」、そして旨味が凝縮したカニ味噌の贅沢なハーモニーはこの時期しか味わえない逸品です。
               </p>
@@ -413,26 +401,20 @@ export default function AmanohashidateWinterPage() {
             <div className="p-2 rounded-xl bg-sky-50 text-sky-800">
               <Snowflake className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              飛龍観と昇龍観：冬の澄んだ空気で望む「白砂青松の幻雪景」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">飛龍観と昇龍観：冬の澄んだ空気で望む「白砂青松の幻雪景」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Eye className="w-4 h-4 text-teal-600" />
-                天橋立ビューランド「飛龍観（ひりゅうかん）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Eye className="w-4 h-4 text-teal-600" />
+                天橋立ビューランド「飛龍観（ひりゅうかん）」</h3>
               <p className="leading-relaxed">
                 文珠山山頂から南側を望む展望所。股のぞきをすると、天橋立が天に舞い上がる龍の姿に見えることから「飛龍観」と呼ばれます。初冬の晴天時には、紺碧の海と白雪をかぶった松並木のコントラストが一際鮮明に浮かび上がります。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-teal-600" />
-                傘松公園「昇龍観（しょうりゅうかん）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Waves className="w-4 h-4 text-teal-600" />
+                傘松公園「昇龍観（しょうりゅうかん）」</h3>
               <p className="leading-relaxed">
                 北側の成相山中腹にある展望台。天橋立が昇り龍のように見える景観で、股のぞき発祥の地として知られます。ケーブルカーやリフトで登ると、阿蘇海と宮津湾を分ける雪の架け橋が雄大に広がり、冬ならではの厳かなパノラマを堪能できます。
               </p>
@@ -447,9 +429,7 @@ export default function AmanohashidateWinterPage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>Rakuten Travel Verified Tango Inns</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              11・12月天橋立温泉 泊まりたい名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">11・12月天橋立温泉 泊まりたい名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本三景の眺望、天橋立温泉の泉質、間人ガニ・松葉ガニの料理のクオリティを誇る最高峰の宿を厳選。
             </p>
@@ -491,9 +471,7 @@ export default function AmanohashidateWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -505,10 +483,8 @@ export default function AmanohashidateWinterPage() {
                       </p>
 
                       <div className="pt-2 space-y-2">
-                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-teal-800">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-teal-600" />
-                          宿の魅力と客室・温泉・美食のこだわり
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-teal-800"><CheckCircle2 className="w-3.5 h-3.5 text-teal-600" />
+                          宿の魅力と客室・温泉・美食のこだわり</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {h.story}
                         </p>
@@ -562,9 +538,7 @@ export default function AmanohashidateWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Utensils className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の味覚の頂点：活ズワイガニ会席と伊根の寒ブリしゃぶしゃぶ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の味覚の頂点：活ズワイガニ会席と伊根の寒ブリしゃぶしゃぶ</h2>
           </div>
           
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
@@ -573,19 +547,15 @@ export default function AmanohashidateWinterPage() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-teal-600" />
-                  活ガニ刺し・炭火焼き・甲羅酒の贅沢三昧
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-teal-600" />
+                  活ガニ刺し・炭火焼き・甲羅酒の贅沢三昧</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   氷水で花を咲かせた活カニ刺しは、ぷりぷりとした弾力と上品な甘みが口いっぱいに広がります。炭火で殻ごと香ばしく焼き上げる焼きガニは、旨味が濃縮され芳醇な香りが漂います。さらに、濃厚なカニ味噌を炭火でぐつぐつと温め、丹後の辛口熱燗を注ぎ入れる「甲羅酒」は、冬の海の京都でしか味わえない究極の贅沢です。
                 </p>
               </div>
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-teal-600" />
-                  伊根湾の荒波が育む脂の乗った「寒ブリしゃぶ」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-teal-600" />
+                  伊根湾の荒波が育む脂の乗った「寒ブリしゃぶ」</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   舟屋で有名な丹後伊根湾で水揚げされる「伊根ブリ」。冬の厳しい寒さで身がキュッと引き締まり、上質な脂をたっぷりと蓄えています。熱々の昆布出汁にサッとくぐらせ、表面が白く霜降りになった瞬間を特製ポン酢で味わう「ブリしゃぶ」は、口の中でとろけるような極上の食感です。
                 </p>
@@ -600,9 +570,7 @@ export default function AmanohashidateWinterPage() {
             <div className="p-2 rounded-xl bg-teal-50 text-teal-800">
               <Clock className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              1泊2日 理想の冬のモデルコース：日本三景の雪景色と極上カニ尽くし会席
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 理想の冬のモデルコース：日本三景の雪景色と極上カニ尽くし会席</h2>
           </div>
 
           <div className="space-y-6">
@@ -611,9 +579,7 @@ export default function AmanohashidateWinterPage() {
                 <span className="px-2.5 py-1 bg-teal-100 text-teal-800 font-bold text-xs rounded-md">
                   1日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  特急はしだて号で天橋立へ・智恩寺参拝と天橋立ビューランド・カニ会席
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">特急はしだて号で天橋立へ・智恩寺参拝と天橋立ビューランド・カニ会席</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>12:00 京都駅より特急はしだて号で天橋立駅到着：</strong>乗り換えなし約2時間で到着。駅前の食事処で名物のアサリ丼や丹後ばら寿司ランチ。</li>
@@ -629,9 +595,7 @@ export default function AmanohashidateWinterPage() {
                 <span className="px-2.5 py-1 bg-teal-100 text-teal-800 font-bold text-xs rounded-md">
                   2日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  観光船で対岸へ・傘松公園の昇龍観＆重要伝統的建造物群「伊根の舟屋」へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">観光船で対岸へ・傘松公園の昇龍観＆重要伝統的建造物群「伊根の舟屋」へ</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>08:00 朝の宮津湾を望む朝風呂＆和朝食：</strong>カニの身が入った味噌汁や焼き魚など丹後の海山の朝食。</li>
@@ -659,10 +623,8 @@ export default function AmanohashidateWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -676,10 +638,8 @@ export default function AmanohashidateWinterPage() {
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-teal-700" />
-              あわせて読みたい関西・日本海のカニ・冬特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-teal-700" />
+              あわせて読みたい関西・日本海のカニ・冬特集</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               冬の味覚、名湯露天風呂、雪景色を楽しむ日本全国の厳選特集記事。旅の目的に合わせてぜひご覧ください。
             </p>

@@ -230,9 +230,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
       <section className="bg-white rounded-3xl border border-teal-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-wider">CRITERIA</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            シニアも孫も笑顔になる！3世代グランピング4つの安心基準
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">シニアも孫も笑顔になる！3世代グランピング4つの安心基準</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pt-2">
@@ -256,9 +254,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
       <section className="bg-white rounded-3xl border border-teal-100 p-6 sm:p-10 shadow-sm space-y-6">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-wider">ITINERARY</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            無理のないゆったり滞在！3世代1泊2日モデルスケジュール
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">無理のないゆったり滞在！3世代1泊2日モデルスケジュール</h2>
         </div>
 
         <div className="space-y-4 pt-2">
@@ -282,9 +278,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
       <section className="space-y-6" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-wider">RECOMMENDED STAY</span>
-          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            シニア対応バリアフリー＆和洋室完備の厳選グランピング施設
-          </h2>
+          <h2 id="hotels-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">シニア対応バリアフリー＆和洋室完備の厳選グランピング施設</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             車椅子・歩行のしやすさ、温泉アクセス、快適な椅子席BBQを備えた高評価リゾートを厳選。
           </p>
@@ -322,9 +316,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
                 </div>
 
                 <div className="p-5 sm:p-6 space-y-3">
-                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-bold text-base sm:text-lg text-stone-900 leading-snug line-clamp-2">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 leading-relaxed line-clamp-3">
                     {hotel.hotelSpecial || "3世代家族でゆったり過ごせる充実のアウトドアリゾート。温泉と広々ヴィラで快適な休日をお過ごしいただけます。"}
@@ -378,18 +370,14 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
       <section className="bg-white rounded-3xl border border-teal-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-wider">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            3世代グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">3世代グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-teal-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-teal-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-teal-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -400,9 +388,7 @@ export default function SilverWeekGlampingThreeGenerationFamilyPage() {
 
       {/* 内部リンク・子連れ＆家族旅行モデルコース */}
       <section className="bg-teal-50/60 border border-teal-100 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-teal-950 flex items-center gap-2">
-          <span>👨‍👩‍👦</span> あわせて読みたい家族旅行・温泉ガイド
-        </h3>
+        <h3 className="text-base font-bold text-teal-950 flex items-center gap-2"><span>‍‍</span> あわせて読みたい家族旅行・温泉ガイド</h3>
         <p className="text-xs text-stone-600">
           乳幼児連れに優しい温泉旅館や、3世代でゆったり巡れる金沢の1泊2日王道ルートもチェック。
         </p>

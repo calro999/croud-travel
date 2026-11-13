@@ -302,9 +302,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀に包まれる江戸の宿場町と、断崖絶景に湧く清流の雪見秘湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀に包まれる江戸の宿場町と、断崖絶景に湧く清流の雪見秘湯</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -327,9 +325,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の大内宿・芦ノ牧温泉を満喫する3大感動体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の大内宿・芦ノ牧温泉を満喫する3大感動体験</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -337,9 +333,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-orange-50 border border-orange-200 flex items-center justify-center text-orange-800">
                 <Building className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 白銀の茅葺き宿場町・大内宿の絶景
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 白銀の茅葺き宿場町・大内宿の絶景</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 雪の綿帽子をかぶった約30軒の茅葺き民家が連なる街道。見晴台から望む一面の銀世界と、茅葺き屋根の駅舎「湯野上温泉駅」の囲炉裏が醸し出す郷愁の風景。
               </p>
@@ -349,9 +343,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-amber-50 border border-amber-200 flex items-center justify-center text-amber-800">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 丸ごと一本ねぎそば＆会津馬刺し・会津牛
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 丸ごと一本ねぎそば＆会津馬刺し・会津牛</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 箸を使わず長ネギで食べる名物「高遠そば」の痛快な美味。さらに宿で味わう極上の赤身会津馬刺し、A5会津牛の陶板焼き、郷土料理こづゆの温かい美食。
               </p>
@@ -361,9 +353,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-blue-50 border border-blue-200 flex items-center justify-center text-blue-800">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 阿賀川渓谷を見下ろす段々棚田の雪見露天
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 阿賀川渓谷を見下ろす段々棚田の雪見露天</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 大川の切り立った渓谷に向かって棚田状に配された大川荘の名物露天風呂「四季舞台たな田」。粉雪が舞う渓流を眼下に望む極上の雪見風呂体験。
               </p>
@@ -375,9 +365,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】白銀の大内宿と阿賀川渓谷雪見露天を巡る会津冬旅黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】白銀の大内宿と阿賀川渓谷雪見露天を巡る会津冬旅黄金モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               会津若松駅または郡山駅を起点に、会津鉄道やスタッドレス車で冬の宿場町と渓谷秘湯を快適に巡るドライブプラン。
             </p>
@@ -388,9 +376,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-orange-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-orange-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 湯野上温泉駅到着 ➔ 囲炉裏と足湯で暖まり大内宿へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 湯野上温泉駅到着  囲炉裏と足湯で暖まり大内宿へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   日本唯一の茅葺き屋根駅舎・湯野上温泉駅へ。駅舎内の囲炉裏でパチパチとはぜる薪の火にあたり、駅前足湯を満喫。路線バス「猿游号」またはタクシーで雪の大内宿へ向かいます。
                 </p>
@@ -399,9 +385,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-orange-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-orange-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:30 大内宿「一本ねぎそば」ランチ ➔ 白銀の宿場町散策と見晴台絶景
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:30 大内宿「一本ねぎそば」ランチ  白銀の宿場町散策と見晴台絶景</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   老舗「三澤屋」などで太い長ネギを箸にしてすする名物そばと香ばしい岩魚塩焼きに舌鼓。食後は雪の街道を歩き、集落最奥の見晴台から一面白銀の茅葺き屋根パノラマをカメラに収めます。
                 </p>
@@ -410,9 +394,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-orange-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-orange-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 芦ノ牧温泉の名宿へチェックイン ➔ 阿賀川渓谷棚田露天「四季舞台たな田」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 芦ノ牧温泉の名宿へチェックイン  阿賀川渓谷棚田露天「四季舞台たな田」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   大川荘など渓谷沿いの宿へ。三味線の音色に迎えられ、阿賀川を見下ろす段々棚田露天風呂で雪見風呂を堪能。夕食は極上会津牛ステーキ、新鮮な会津馬刺し、会津地酒で乾杯します。
                 </p>
@@ -421,9 +403,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-orange-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-orange-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝の渓谷露天風呂 ➔ 鶴ヶ城雪景色見学と七日町通り散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝の渓谷露天風呂  鶴ヶ城雪景色見学と七日町通り散策</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝霧漂う渓谷を眺めながら湯浴み。チェックアウト後は会津若松市内へ移動し、赤瓦に白雪が映える名城「鶴ヶ城」を見学。レトロな七日町通りで漆器や赤べこを購入して帰路へ。
                 </p>
@@ -436,27 +416,21 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              会津の厳しい風土が育んだ極上の馬刺しと全国金賞連覇の美酒
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">会津の厳しい風土が育んだ極上の馬刺しと全国金賞連覇の美酒</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-orange-800" />
-                力道山が広めた会津馬刺しと特製「辛子味噌」の絶妙な調和
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-orange-800" />
+                力道山が広めた会津馬刺しと特製「辛子味噌」の絶妙な調和</h3>
               <p>
                 会津の馬刺しは、熊本などの霜降り馬肉とは異なり、運動量の多い上質な「赤身」が主流です。脂っぽさが一切なく、柔らかで濃厚な赤身肉の旨味が凝縮されています。昭和30年代、巡業で会津を訪れたプロレスラー・力道山が、特製の辛子にんにく味噌を醤油に溶いて生肉に付けて食べたのが始まりとされ、現在も会津独自の食べ方として全国の食通に愛されています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-orange-800" />
-                全国新酒鑑評会で金賞日本一を誇る福島の日本酒王国
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-orange-800" />
+                全国新酒鑑評会で金賞日本一を誇る福島の日本酒王国</h3>
               <p>
                 福島県は全国新酒鑑評会において前人未到の金賞受賞数日本一を何度も達成している銘酒どころ。会津若松には「末廣」「名倉山」「宮泉（冩樂）」など名門酒蔵がひしめきます。米の豊かな甘みと華やかな吟醸香、透明感のある喉越しは、冬の濃厚な会津牛や馬刺し、郷土料理こづゆと完璧なペアリングを奏でます。
               </p>
@@ -468,9 +442,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の大内宿観光と阿賀川渓谷雪見露天を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の大内宿観光と阿賀川渓谷雪見露天を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、渓谷露天・会津料理・立地が高評価の宿。
             </p>
@@ -504,9 +476,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -566,9 +536,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="bg-orange-50/60 rounded-3xl p-6 sm:p-10 border border-orange-200/60 space-y-6">
           <div className="border-b border-orange-200/80 pb-4">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-orange-950">
-              冬の大内宿・芦ノ牧温泉を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-orange-950">冬の大内宿・芦ノ牧温泉を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-orange-950">
@@ -608,20 +576,16 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の大内宿＆芦ノ牧・湯野上温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の大内宿＆芦ノ牧・湯野上温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-orange-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-orange-900 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-orange-900 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function FukushimaAizuOuchijukuWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-orange-900 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・秘湯・雪見特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・秘湯・雪見特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

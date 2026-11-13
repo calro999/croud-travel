@@ -58,10 +58,8 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代3,000円台！浮いた予算で千光寺山ロープウェイ＆極上穴子飯や鯛料理
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代3,000円台！浮いた予算で千光寺山ロープウェイ＆極上穴子飯や鯛料理</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             山陽新幹線のぞみ停車駅である福山駅。観光地・尾道市内のホテルが秋に満室・高騰する中、隣の福山駅前に泊まれば3,000円台で★4.0以上の快適なシティホテルが選び放題。福山城は駅のホームから目の前に見え、鞆の浦行き直通バスも駅前から発着。賢く宿泊費を抑えて瀬戸内グルメを満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              グリーンビジネスホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">グリーンビジネスホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福山</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              サンホテル福山
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">サンホテル福山</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福山</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（広々空間）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              福山ローズガーデンホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">福山ローズガーデンホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福山</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価★4.50）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ベッセルホテル福山（国道２号線・福山１号店）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ベッセルホテル福山（国道２号線・福山１号店）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福山</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前最高峰）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル福山駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル福山駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福山</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の福山・鞆の浦・尾道観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の福山・鞆の浦・尾道観光の満喫ポイント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             鞆の浦の「福禅寺 対潮楼」から眺める弁天島と瀬戸内海の多島美は、朝鮮通信使の高官が「日東第一形勝（日本一美しい景勝地）」と称賛した絶景。夕暮れ時は特にドラマチックです。尾道の坂道散策やレトロカフェ巡りとセットで楽しんでください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「福山・尾道：鞆の浦の秋夕陽と尾道水道紅葉！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「福山・尾道」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「福山・尾道」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

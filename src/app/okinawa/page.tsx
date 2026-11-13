@@ -140,9 +140,7 @@ export default function OkinawaHubPage() {
           <span className="text-[10px] font-extrabold text-cyan-800 bg-cyan-50 border border-cyan-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             沖縄観光 モデルコース 🌴
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900">
-            沖縄観光モデルコース ｜ 2泊3日＆3泊4日で巡る絶景美ら海ドライブ
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900">沖縄観光モデルコース ｜ 2泊3日＆3泊4日で巡る絶景美ら海ドライブ</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
@@ -168,9 +166,7 @@ export default function OkinawaHubPage() {
             <span className="text-[10px] font-extrabold text-cyan-800 bg-cyan-50 border border-cyan-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
               RECOMMENDED STAY
             </span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900">
-              沖縄 絶景ビーチリゾートホテル（おすすめ厳選）
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900">沖縄 絶景ビーチリゾートホテル（おすすめ厳選）</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -205,9 +201,7 @@ export default function OkinawaHubPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「沖縄旅行 完全計画ガイド 2026：2泊3日・3泊4日モデルコース＆那覇・恩納村・美ら海水族館・ビーチリゾートホテル・レンタカー」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -286,9 +280,7 @@ export default function OkinawaHubPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「沖縄旅行 完全計画ガイド 2026」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「沖縄旅行 完全計画ガイド 2026」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>
@@ -431,16 +423,12 @@ export default function OkinawaHubPage() {
 
       {/* FAQ */}
       <section className="bg-white border border-cyan-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 flex items-center gap-2">
-          <span>❓</span> <span>沖縄旅行のプロが回答！よくある質問（FAQ）</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 flex items-center gap-2"><span>沖縄旅行のプロが回答！よくある質問（FAQ）</span></h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-4 rounded-xl bg-cyan-50/40 border border-cyan-900/10 space-y-2">
-              <h3 className="text-sm font-bold text-cyan-950 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-cyan-950 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-slate-700 leading-relaxed pl-6">{faq.a}</p>
             </div>
           ))}

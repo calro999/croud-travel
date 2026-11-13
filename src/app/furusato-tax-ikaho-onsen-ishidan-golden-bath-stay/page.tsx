@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            万葉集にも詠まれた歴史の石段街——茶褐色の「黄金の湯」と透明な「白銀の湯」で巡る心潤す温泉旅
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">万葉集にも詠まれた歴史の石段街——茶褐色の「黄金の湯」と透明な「白銀の湯」で巡る心潤す温泉旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             群馬県渋川市伊香保町、榛名山の中腹標高約700メートルに広がる伊香保温泉。万葉集や古今和歌集にもその名が詠まれ、戦国時代には武田勝頼の命により長篠の戦いで傷ついた武士たちの湯治場として整備された歴史を持ちます。伊香保の象徴である「365段の石段街」は、温泉街の中心を貫く石段の両側に射的場やお土産屋、足湯、温泉まんじゅう店が連なり、浴衣と下駄で歩けばまるでタイムスリップしたかのようなノスタルジーに浸ることができます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県渋川市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  伊香保温泉　福一
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">伊香保温泉　福一</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業四百四十年・石段街最上段に佇む伊香保随一の名門！「黄金の湯」と「白銀の湯」の二大名湯を完備
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  伊香保温泉 福一（ふくいち） —— 歴史と格式を今に伝える最高峰。石段街直結のロケーションと至福の二大名湯
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">伊香保温泉 福一（ふくいち） —— 歴史と格式を今に伝える最高峰。石段街直結のロケーションと至福の二大名湯</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊香保で希少な「黄金の湯」と「白銀の湯」の両方を引く大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊香保で希少な「黄金の湯」と「白銀の湯」の両方を引く大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">茶褐色の黄金の湯と透明な白銀の湯の二つの湯船を備えた大浴場。泉質の違いを入り比べながら、歴史ある名湯の恵みを全身で享受できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 石段街の最上段（19段目）に直結する抜群の散策ロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">石段街の最上段（19段目）に直結する抜群の散策ロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">宿のエレベーターから直接石段街へ出られる便利な連絡口を完備。伊香保神社や石段街の散策をストレスなく気軽に楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 上州の厳選素材を匠の技で仕立てた本格季節会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">上州の厳選素材を匠の技で仕立てた本格季節会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">上州牛のサーロインステーキや陶板焼き、群馬の新鮮野菜を取り入れた月替わりの会席。優雅なお食事処で上質な時間を過ごせます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県渋川市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  伊香保温泉　森秋旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">伊香保温泉　森秋旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業明治元年・石段街まで徒歩1分の好立地！茶褐色の「黄金の湯」を掛け流しで愉しむ風情宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  伊香保温泉 森秋旅館（もりあき） —— 石段街の賑わいと源泉のぬくもり。湯口から注がれる本物の掛け流し黄金の湯
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">伊香保温泉 森秋旅館（もりあき） —— 石段街の賑わいと源泉のぬくもり。湯口から注がれる本物の掛け流し黄金の湯</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊香保本来の茶褐色に濁る「黄金の湯」を惜しみなく掛け流し
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊香保本来の茶褐色に濁る「黄金の湯」を惜しみなく掛け流し</h5>
                     <p className="text-stone-600 leading-relaxed">引湯口から直接引き込まれる良質な黄金の湯。大浴場「名竹の湯」や露天風呂「雨情の湯」で、鉄分豊富な天然温泉の温もりを堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 石段街のほぼ中央まで徒歩わずか1分の絶好アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">石段街のほぼ中央まで徒歩わずか1分の絶好アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">温泉街の活気を感じながら、夜の石段街のライトアップや射的遊び、朝の散策にいつでも気軽に出かけられる立地が魅力です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 上州牛と地元採れたて食材を盛り込んだ手作り和食膳
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">上州牛と地元採れたて食材を盛り込んだ手作り和食膳</h5>
                     <p className="text-stone-600 leading-relaxed">上州牛のすき焼きや旬の鍋料理、群馬名物の手作り料理が並ぶ満足度の高い夕食。落ち着いた雰囲気の中で美味を味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県渋川市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  伊香保温泉　千明仁泉亭（ちぎらじんせんてい）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">伊香保温泉　千明仁泉亭（ちぎらじんせんてい）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   文豪徳富蘆花ゆかりの老舗！黄金の湯を贅沢に100％源泉掛け流しで注ぐ名物大浴場と貸切風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  伊香保温泉 千明仁泉亭（ちぎらじんせんてい） —— 文学の薫る歴史宿。滝のように注ぐ黄金の湯と四つの無料貸切風呂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">伊香保温泉 千明仁泉亭（ちぎらじんせんてい） —— 文学の薫る歴史宿。滝のように注ぐ黄金の湯と四つの無料貸切風呂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊香保屈指の湯量を誇る「黄金の湯」完全掛け流し
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊香保屈指の湯量を誇る「黄金の湯」完全掛け流し</h5>
                     <p className="text-stone-600 leading-relaxed">伊香保の源泉湧出量の主要な権利を持つ宿。大浴場「仁乃湯」では、湯口からドバドバと滝のように注がれる新鮮な黄金の湯を贅沢に味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 空いていれば予約不要・無料で何度でも入れる四つの貸切風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">空いていれば予約不要・無料で何度でも入れる四つの貸切風呂</h5>
                     <p className="text-stone-600 leading-relaxed">プライベートに源泉を満喫できる四つの貸切露天風呂・家族風呂を完備。ご夫婦やカップル、ファミリーで気兼ねなく湯浴みを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名作『不如帰』の舞台となった歴史と落ち着いた和モダン空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名作『不如帰』の舞台となった歴史と落ち着いた和モダン空間</h5>
                     <p className="text-stone-600 leading-relaxed">徳富蘆花が滞在し名作を執筆した由緒ある宿。木の温もりを大切にしたリノベーション客室で、静かな時の流れに浸ることができます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 伊香保温泉街・石段街散策＆水沢うどん街ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 伊香保温泉街・石段街散策＆水沢うどん街ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                365段の石段街散策と伊香保神社への参拝
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                365段の石段街散策と伊香保神社への参拝</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 「温泉街が1年365日にぎわうように」との願いが込められた365段の石段。登りきった最上段には縁結びや子宝の神様として知られる「伊香保神社」があり、街を見下ろす絶景が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                河鹿橋の紅葉と源泉湧出地の散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                河鹿橋の紅葉と源泉湧出地の散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 伊香保神社の奥、湯元付近にある朱塗りの太鼓橋「河鹿橋」。春の新緑、秋の鮮やかなモミジの紅葉ライトアップは息を呑む美しさです。隣接する飲泉所で鉄分を含む温泉の試飲もできます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                水沢うどん街道での日本三大うどんランチ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                水沢うどん街道での日本三大うどんランチ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 伊香保温泉から車で約10分の場所にある水沢うどん街道。400年以上の歴史を持ち、讃岐・稲庭と並ぶ日本三大うどんの一つ。コシのある透き通った麺と胡麻ダレの組み合わせが絶品です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              群馬県渋川市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">群馬県渋川市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】伊香保温泉 福一を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】伊香保温泉 福一を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と伊香保温泉 福一の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と伊香保温泉 福一の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

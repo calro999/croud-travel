@@ -84,37 +84,29 @@ export default function WinterFeaturePage() {
         <section className="max-w-4xl mx-auto px-4 py-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
             <div className="space-y-1">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2026-2027年冬の久米島・はての浜が格別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2026-2027年冬の久米島・はての浜が格別な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 冬ならではの絶景・温泉・美食のハイライト
               </p>
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  東洋一の美しさを誇る白砂の楽園「はての浜」の冬期静寂クルーズ
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  東洋一の美しさを誇る白砂の楽園「はての浜」の冬期静寂クルーズ</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島の東沖合に浮かぶ、砂浜だけでできた奇跡の無人島「はての浜」。冬は観光船の混雑がなく、澄み渡るエメラルドグリーンの海と純白の砂浜を独り占めできる贅沢な時間が流れます。冬の大気は澄んでおり、写真映えも抜群です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  日本一の生産量を誇る「久米島産極上活車海老」の旬を味わい尽くす
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  日本一の生産量を誇る「久米島産極上活車海老」の旬を味わい尽くす</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島は海洋深層水と豊かな自然環境に育まれた車海老の養殖で日本一のシェアを誇ります。11月〜1月は身が最も詰まり甘みが極まる最高の旬！生きたまま殻をむいて味わう「踊り食い」のプリプリ感と甘み、丸ごと焼き上げる塩焼きの香ばしさは別格です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  水深612mの恵み「海洋深層水」の温浴スパと泡盛・久米仙の夜
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  水深612mの恵み「海洋深層水」の温浴スパと泡盛・久米仙の夜</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   久米島沖の深海から取水される清浄な海洋深層水。ミネラルバランスに優れた深層水を用いた大浴場や温浴施設は、疲労回復や美肌効果が抜群。夜は島の銘酒「久米仙」や「米島酒造」の泡盛を傾け、星空を眺めながら優雅な島時間を過ごせます。
                 </p>
@@ -126,10 +118,8 @@ export default function WinterFeaturePage() {
         {/* アクセス・気候・服装ガイド */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-600" />
-              冬のアクセス・気候とおすすめの服装
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-cyan-600" />
+              冬のアクセス・気候とおすすめの服装</h2>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 p-4 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
 ・飛行機：那覇空港より久米島空港までRAC（琉球エアーコミューター）またはJTAで約30〜35分（1日約6〜7便運航）。東京（羽田）からの直行便も季節運航されます。
@@ -148,9 +138,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              久米島・はての浜 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">久米島・はての浜 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,9 +162,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     シンリ浜の白砂一望・全室オーシャンビュー夕日と深層水風呂
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    サイプレスリゾート久米島　＜久米島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">サイプレスリゾート久米島　＜久米島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.13
@@ -240,9 +226,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     日本の渚百選イーフビーチ直結・プール＆広大な庭園リゾート
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ウォーターマークホテル沖縄　久米アイランド＜久米島＞（旧：リゾートホテル　久米アイランド）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ウォーターマークホテル沖縄　久米アイランド＜久米島＞（旧：リゾートホテル　久米アイランド）</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.28
@@ -306,9 +290,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     イーフビーチの波打ち際・全室オーシャンフロントの絶景ホテル
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＥＮリゾート　久米島イーフビーチホテル＜久米島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＥＮリゾート　久米島イーフビーチホテル＜久米島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.38
@@ -372,9 +354,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     兼城港近くの市街地中心・ダイビング＆ビジネスに便利な機能的宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル　ガーデンヒルズ　＜久米島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル　ガーデンヒルズ　＜久米島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.53
@@ -438,9 +418,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     久米島の風土に溶け込む隠れ家ヴィラ・自然と調和する癒やしステイ
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    水と風＜久米島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">水と風＜久米島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 0.00
@@ -490,9 +468,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  沖縄県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">沖縄県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -511,10 +487,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の久米島・はての浜旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の久米島・はての浜旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

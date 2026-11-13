@@ -248,12 +248,10 @@ export default function WinterIshikawaAwazuPage() {
             11月・12月 開湯1300年霊泉と解禁加能ガニ・香箱ガニ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月石川・粟津温泉＆加賀温泉郷】白山霊泉と冬の美食
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               全宿自家堀り源泉の純度100%硫酸塩泉・解禁加能ガニ＆香箱ガニと能登牛を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月上旬、日本海に冬の訪れを告げる青いタグ付きブランドズワイガニ「加能ガニ」と、濃厚な内子と外子を抱えたメスガニ「香箱ガニ」の漁が解禁されると、石川県小松市・加賀温泉郷の古湯「粟津温泉（あわづおんせん）」は美食の熱気に包まれます。奈良時代、霊峰白山を開山した高僧・泰澄大師によって養老2年（718年）に開湯された粟津温泉は、1300年を超える歴史を誇り、温泉街のすべての宿がそれぞれ独自の自家堀り源泉を所有している全国的にも極めて稀有な名湯地です。純度100%の無色透明なナトリウム-硫酸塩・塩化物泉は、浸かれば肌がしっとりと潤い、身体の芯まで熱が染み渡る「温まりの湯」。夕食には解禁されたばかりのタグ付き加能ガニの花咲く洗い、香ばしい焼きガニ、甲羅味噌焼き、そして濃厚な内子を味わう香箱ガニの甲羅盛り、さらにきめ細やかな肉質の特選「能登牛」の網焼き。九谷焼や山中漆器の絢爛豪華な器とともに、初冬の北陸の贅を尽くす厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterIshikawaAwazuPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の加賀粟津の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            泰澄大師が開いた霊峰白山の霊泉・全宿が誇る自家堀り源泉と冬の味覚の王者たち
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">泰澄大師が開いた霊峰白山の霊泉・全宿が誇る自家堀り源泉と冬の味覚の王者たち</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               金沢駅から北陸新幹線または特急で約20分、小松空港からも車で約20分。霊峰白山を望む加賀平野の南部に位置する「粟津温泉」は、山代、山中、片山津とともに加賀温泉郷を構成する四大温泉のひとつです。その歴史は極めて古く、養老2年（718年）、白山を開山した高僧・泰澄大師が白山大権現の神託を受け、この地に湧く霊泉を掘り当てて病に苦しむ人々を救ったのが始まりとされています。温泉街の各宿には今も泰澄の精神が息づき、世界最古級の宿として名高い「法師」をはじめ、数百年の伝統を誇る名門宿が軒を連ねています。
@@ -315,9 +311,7 @@ export default function WinterIshikawaAwazuPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              石川・粟津温泉＆加賀温泉郷 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">石川・粟津温泉＆加賀温泉郷 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               全宿自家堀り源泉掛け流し、解禁加能ガニ・香箱ガニ、能登牛会席を備えた本物の宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterIshikawaAwazuPage() {
                         <span className="text-xs font-bold text-teal-800 bg-teal-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-teal-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterIshikawaAwazuPage() {
             <Utensils className="w-4 h-4 text-teal-300" />
             初冬の加賀美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の加賀・小松で味わい尽くす冬の味覚の饗宴
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の加賀・小松で味わい尽くす冬の味覚の饗宴</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-400" />
-                青タグ付き雄ズワイ「加能ガニ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-400" />
+                青タグ付き雄ズワイ「加能ガニ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月6日に解禁される石川県産ズワイガニの最高峰。橋立港や金沢港で水揚げされた活ガニは、繊細な身の甘みとぎっしり詰まった繊維質、そして芳醇なカニ味噌が特徴。焼きガニやカニ刺し、カニ鍋でその真価を発揮します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-400" />
-                冬限定の宝珠「香箱ガニ（雌ガニ）」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-400" />
+                冬限定の宝珠「香箱ガニ（雌ガニ）」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月・12月のわずか約2ヶ月間のみ味わえる雌のズワイガニ。甲羅の中に詰まった鮮やかな朱色の「内子」と、お腹の外側に抱えるプチプチの「外子」、そして濃厚なカニ味噌の旨味が一体となった甲羅盛りは悶絶級の美味です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-400" />
-                幻の銘柄黒毛和牛「能登牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-400" />
+                幻の銘柄黒毛和牛「能登牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 能登の澄んだ空気と清らかな水で丹精込めて育てられる極上牛。オレイン酸の含有率が極めて高く、人肌でとろける上質な脂と赤身の深い旨味が特徴。陶板焼きやすき焼きで、カニ会席に華を添える最高の贅沢です。
               </p>
@@ -466,15 +450,11 @@ export default function WinterIshikawaAwazuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の粟津温泉 交通アクセス＆冬道・観光アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の粟津温泉 交通アクセス＆冬道・観光アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-700" />
-                北陸新幹線小松駅＆小松空港からの快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-700" />
+                北陸新幹線小松駅＆小松空港からの快適アクセス</h3>
               <p>
                 北陸新幹線の延伸により、JR小松駅または加賀温泉駅から路線バスやタクシーで約15〜20分とアクセスが飛躍的に向上しました。羽田空港から小松空港を利用すれば、フライト約1時間＋車で約20分と最短で到着可能です。
               </p>
@@ -484,10 +464,8 @@ export default function WinterIshikawaAwazuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-700" />
-                自家源泉の硫酸塩泉を120%味わう入浴法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                自家源泉の硫酸塩泉を120%味わう入浴法</h3>
               <p>
                 粟津温泉の硫酸塩泉は無色透明ですが、天然の保湿成分と塩分を豊富に含んでいます。湯上がり後はシャワーで洗い流さずそのままタオルで軽く拭き取ることで、肌表面に温泉成分の被膜が形成され、長時間の保温・保湿効果が持続します。
               </p>
@@ -504,16 +482,12 @@ export default function WinterIshikawaAwazuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の石川・粟津温泉＆加賀旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の石川・粟津温泉＆加賀旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-teal-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-teal-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterIshikawaAwazuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-teal-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい北陸の冬雪見温泉＆カニ旅特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい北陸の冬雪見温泉＆カニ旅特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               日本海の冬の王者を味わい尽くす石川・富山・福井の極上温泉リゾートガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・和倉温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                七尾湾の絶景露天風呂と寒ブリ・加能ガニ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">七尾湾の絶景露天風呂と寒ブリ・加能ガニ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 能登の名湯・和倉の塩化物泉と初冬の日本海オーシャンビュー、海の幸尽くし。
               </p>
@@ -553,9 +523,7 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">石川・山中温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                鶴仙渓の初冬雪景色と山中漆器の器美・加能ガニ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">鶴仙渓の初冬雪景色と山中漆器の器美・加能ガニ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 芭蕉も絶賛した名湯山中温泉と渓谷美、解禁されたばかりのズワイガニ会席。
               </p>
@@ -566,9 +534,7 @@ export default function WinterIshikawaAwazuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-300 bg-teal-400/20 px-2 py-0.5 rounded-full inline-block">富山・氷見温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
-                富山湾越しに望む冠雪立山連峰と氷見の寒ブリ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">富山湾越しに望む冠雪立山連峰と氷見の寒ブリ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の日本海の王者・氷見寒ブリづくしと海沿いの絶景露天風呂を巡る名宿。
               </p>

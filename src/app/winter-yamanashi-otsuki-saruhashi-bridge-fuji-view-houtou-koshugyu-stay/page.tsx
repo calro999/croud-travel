@@ -175,9 +175,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-10 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Travel Narrative</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の大月・都留・富士東部・上野原を旅する魅力と情話
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の大月・都留・富士東部・上野原を旅する魅力と情話</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
@@ -190,9 +188,7 @@ export default function FeaturePage() {
           <section className="space-y-6">
             <div className="border-b border-stone-200 pb-3">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬（11・12・1月）に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬（11・12・1月）に訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 gap-4">
 
@@ -201,9 +197,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  世界に誇る架橋技術と浮世絵の情景！日本三奇橋・国の名勝「猿橋」の冬峡谷美
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">世界に誇る架橋技術と浮世絵の情景！日本三奇橋・国の名勝「猿橋」の冬峡谷美</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 歌川広重の浮世絵そのままの渓谷美を誇る猿橋。四層の刎木が幾重にも重なる精緻な木組み構造と、桂川の深いエメラルドグリーンの水面、冬の雪景色が織りなす神秘的な絶景を間近で鑑賞できます。
@@ -215,9 +209,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  秀麗富嶽十二景の筆頭！岩殿山から望む冠雪の富士山大パノラマと武田の山城跡
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">秀麗富嶽十二景の筆頭！岩殿山から望む冠雪の富士山大パノラマと武田の山城跡</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 東京スカイツリーと同じ標高634mの岩殿山。冬の澄み渡る寒空のもと、富士山の雄大な全景を真正面に捉える大展望と、かつて難攻不落を誇った戦国時代の岩山城郭の歴史探訪を同時に楽しめます。
@@ -229,9 +221,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  湯気立ちのぼる熱々「手打ちかぼちゃほうとう」と甲州牛会席＆都留の美肌天然温泉
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">湯気立ちのぼる熱々「手打ちかぼちゃほうとう」と甲州牛会席＆都留の美肌天然温泉</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 コク深い味噌出汁とかぼちゃの甘みが溶け合う冬のほうとう。霜降り甲州牛や富士桜ポークに舌鼓を打ち、pHの高い高濃度炭酸泉や天然温泉で身体を芯まで温める至福の冬の湯治ステイが叶います。
@@ -244,9 +234,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
               <Compass className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アクセス・ベストシーズン・おすすめの服装
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アクセス・ベストシーズン・おすすめの服装</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 rounded-xl p-5 border border-stone-100">
               【エリアへのアクセス】
@@ -266,9 +254,7 @@ export default function FeaturePage() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                大月・都留・富士東部・上野原 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">大月・都留・富士東部・上野原 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -287,16 +273,14 @@ export default function FeaturePage() {
                       大月駅の目の前に建つ最高のアクセス！猿橋観光と富士五湖ドライブの拠点
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F183891%2F183891.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       東横ＩＮＮ富士山大月駅
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.03</span>
                     <span className="text-xs text-stone-700 font-medium">(492件)</span>
@@ -362,16 +346,14 @@ export default function FeaturePage() {
                       都留市駅前の泊まれる本格温泉！極上サウナと源泉かけ流し露天風呂の宿
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F167096%2F167096.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       山梨泊まれる温泉　より道の湯
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.34</span>
                     <span className="text-xs text-stone-700 font-medium">(580件)</span>
@@ -437,16 +419,14 @@ export default function FeaturePage() {
                       2万5千坪の日本庭園越しに霊峰富士を仰ぐ！最高峰の温泉旅館とおもてなし
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19206%2F19206.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       庭園と感動の宿　富士山温泉　ホテル鐘山苑
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.69</span>
                     <span className="text-xs text-stone-700 font-medium">(1160件)</span>
@@ -512,16 +492,14 @@ export default function FeaturePage() {
                       最上階展望温泉から富士山を一望！モダンでスタイリッシュなリゾートホテル
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158471%2F158471.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       ホテルマイステイズ富士山　展望温泉
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.36</span>
                     <span className="text-xs text-stone-700 font-medium">(1131件)</span>
@@ -587,16 +565,14 @@ export default function FeaturePage() {
                       山中湖畔の高台に建つクラシックリゾート！絶景温泉露天と美食フレンチ
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75376%2F75376.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       富士山と湖を望むリゾート　ホテル　マウント富士
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.35</span>
                     <span className="text-xs text-stone-700 font-medium">(1465件)</span>
@@ -657,9 +633,7 @@ export default function FeaturePage() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -682,37 +656,29 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の大月・都留・富士東部・上野原旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の大月・都留・富士東部・上野原旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>名勝「猿橋」の構造を最もよく見学できるポイントはどこですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>名勝「猿橋」の構造を最もよく見学できるポイントはどこですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>猿橋のすぐ下流に架かる歩行者専用橋「八ツ沢発電所一号水路橋」や「新猿橋」から見下ろすアングルが最もおすすめで、四層に張り出した刎木（はねぎ）の複雑な木組みと桂川の深い谷のスケールを鮮明に観察できます。また、遊歩道で川沿いの展望デッキまで降りることも可能です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>岩殿山への登山や見学にかかる所要時間はどれくらいですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>岩殿山への登山や見学にかかる所要時間はどれくらいですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>大月駅から岩殿山ふれあいの館（中腹の展望スポット）までは徒歩約20〜25分。ふれあいの館周辺だけでも素晴らしい富士山の展望を楽しめます。山頂（本丸跡）まで登る場合は片道約40〜50分、往復で約1時間30分程度が目安です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>大月や都留で本場のほうとうを味わえるおすすめのタイミングは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>大月や都留で本場のほうとうを味わえるおすすめのタイミングは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>ほうとうは注文が入ってから生の平打ち麺を野菜とともに煮込むため、提供まで15〜20分ほど時間がかかります。冬の冷え込んだお昼時や散策後の夕食に、熱々の鉄鍋で提供される出来立てをふうふうと冷ましながら食べるのが最高の醍醐味です。
               </p>

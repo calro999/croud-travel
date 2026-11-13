@@ -301,9 +301,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              喧騒が去った冬こそが軽井沢の真骨頂。凛とした大気と灯火が織りなす白銀の森へ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">喧騒が去った冬こそが軽井沢の真骨頂。凛とした大気と灯火が織りなす白銀の森へ</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の軽井沢で体験すべき3つの白銀ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の軽井沢で体験すべき3つの白銀ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月の軽井沢だからこそ出逢える、光と温泉と極上薪火グルメ。
             </p>
@@ -339,9 +335,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-100 flex items-center justify-center text-teal-700 font-bold">
                 <Trees className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 星野エリアの天然もみの木イルミネーション
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 星野エリアの天然もみの木イルミネーション</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 自生する高さ10mの巨大モミの木が優しい黄金色の灯りに包まれる星野エリアの冬の風物詩。ケラ池スケートリンクでの氷上散歩やハルニレテラスの薪ストーブ散策が楽しめます。
               </p>
@@ -351,9 +345,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 文豪が愛した星野温泉トンボの湯「雪見露天」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 文豪が愛した星野温泉トンボの湯「雪見露天」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 源泉かけ流しの美肌の湯を誇るトンボの湯。白銀の森に囲まれ、湯煙越しに冬の星空を仰ぐ開放的な雪見露天風呂は、日頃のストレスや旅の疲労を芯から解き放ちます。
               </p>
@@ -363,9 +355,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 信州プレミアム牛薪火グリルと暖炉フレンチ
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 信州プレミアム牛薪火グリルと暖炉フレンチ</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 パチパチと薪がはぜる暖炉のある名宿レストランで味わう信州牛の薪火焼き。薪の香ばしい燻香と凝縮された肉汁、そして信州産の極上ワインとのペアリングに酔いしれます。
               </p>
@@ -375,9 +365,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】白銀の森と光の星野エリア・冬の軽井沢洗練リゾートモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】白銀の森と光の星野エリア・冬の軽井沢洗練リゾートモデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               東京から北陸新幹線で約1時間。車がなくても巡れる冬の軽井沢プレミアム滞在プラン。
             </p>
@@ -388,9 +376,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 北陸新幹線で軽井沢駅へ到着 ➔ 雲場池の初冬散策＆旧軽井沢銀座でカフェタイム
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 北陸新幹線で軽井沢駅へ到着  雲場池の初冬散策＆旧軽井沢銀座でカフェタイム</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   新幹線を降り立つと広がる澄んだ高原の空気。まずは静寂に包まれた「スワンレイク」こと雲場池へ。水面に映る雪化粧の針葉樹の凛とした美しさに息をのみます。その後、旧軽井沢銀座通りを散策し、老舗ベーカリーの温かいアップルパイや名物ロイヤルミルクティーでほっと一息。
                 </p>
@@ -399,9 +385,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 夕刻</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  15:30 憧れの高原リゾートホテルへチェックイン ➔ 星野エリア「ハルニレテラス」へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">15:30 憧れの高原リゾートホテルへチェックイン  星野エリア「ハルニレテラス」へ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   厳選宿にチェックインし、暖炉の灯るロビーでウェルカムドリンク。夕暮れに合わせてシャトルバス等で星野エリアへ移動。小川のせせらぎ沿いに薪ストーブが灯るハルニレテラスのショップを巡り、北欧雑貨や地元作家のクラフトをセレクト。
                 </p>
@@ -410,9 +394,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  17:30 天然もみの木イルミネーション観賞 ➔ トンボの湯雪見風呂＆薪火ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">17:30 天然もみの木イルミネーション観賞  トンボの湯雪見風呂＆薪火ディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   暗闇の中に浮かび上がる高さ10mの天然もみの木の温かな輝きを観賞。「星野温泉 トンボの湯」の雪見露天風呂で冷えた体を芯から解きほぐします。ホテルに戻り、暖炉の炎が揺れるダイニングで信州プレミアム牛肉の薪火グリルディナーと信州ワインを堪能。
                 </p>
@@ -421,9 +403,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 朝</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:00 白銀の森を望むモーニングビュッフェ ➔ 雪景色の散策路で森林浴
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:00 白銀の森を望むモーニングビュッフェ  雪景色の散策路で森林浴</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   ピクチャーウィンドウから雪景色を眺めながら、信州の高原野菜や焼きたてパン、搾りたて信州牛乳を味わう優雅な朝食。朝の澄み切った大気の中、ホテル敷地内の森の散策路を歩き、冬の光を浴びてキラキラと輝く樹氷を楽しみます。
                 </p>
@@ -432,9 +412,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 軽井沢・プリンスショッピングプラザ ➔ 冬のバーゲン＆信州グルメお買い物
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 軽井沢・プリンスショッピングプラザ  冬のバーゲン＆信州グルメお買い物</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   軽井沢駅南口に広がる日本最大級のリゾート型アウトレットへ。広大な芝生広場と池を望む開放的なロケーションで、冬のセールを楽しみながら、信州そばや地元産ジャム、チーズなどのお土産を買い集め、午後の新幹線でゆったりと東京へ戻ります。
                 </p>
@@ -447,9 +425,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の軽井沢ステイを格上げする厳選高原名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の軽井沢ステイを格上げする厳選高原名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               森の温泉スパ完備の大型リゾートから、薪火料理が自慢のブティックホテル、クラシックな英国調洋館まで。
             </p>
@@ -483,9 +459,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Souvenir Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の軽井沢を彩る美食カルチャーと厳選ギフト
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の軽井沢を彩る美食カルチャーと厳選ギフト</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                薪火料理と信州プレミアム牛肉の魅力
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                薪火料理と信州プレミアム牛肉の魅力</h3>
               <p>
                 軽井沢の冬の食のトレンドを牽引しているのが「薪火（まきび）料理」です。ガスや炭火とは異なり、広葉樹の薪から放たれる柔らかな遠赤外線と水分を含んだ炎が、信州プレミアム牛肉の表面を均一に焼き締め、旨味を閉じ込めます。ほのかな木の香りが肉の甘みを一層引き立て、地元ワイナリーの重厚なカベルネやメルローと抜群の相性を誇ります。ハルニレテラスのベーカリーカフェ「沢村」の焼きたてカンパーニュと煮込みシチューも冬の定番です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-teal-700" />
-                冬の軽井沢お土産と信州クラフトビール
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-teal-700" />
+                冬の軽井沢お土産と信州クラフトビール</h3>
               <p>
                 お土産には、丸山珈琲の季節限定ブレンドや、浅間山麓の新鮮なミルクを使った「アトリエ・ド・フロマージュ」の熟成チーズと焼きチーズカレーパイが大人気。また、寒冷地ならではのクリアな水で醸造される「よなよなエール」やヤッホーブルーイングの限定ビール、地元の老舗ワイナリーのワイン、完熟りんごを丸ごと閉じ込めたアップルパイなど、豊かな大地と洗練された職人技が光る逸品が揃っています。
               </p>
@@ -577,9 +545,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="bg-teal-50/60 rounded-3xl p-6 sm:p-10 border border-teal-200/60 space-y-6">
           <div className="border-b border-teal-200/80 pb-4">
             <span className="text-teal-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">
-              冬の軽井沢旅行を安全・快適に楽しむための装備とアクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-teal-950">冬の軽井沢旅行を安全・快適に楽しむための装備とアクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-teal-950">
@@ -619,20 +585,16 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の軽井沢観光・宿泊に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の軽井沢観光・宿泊に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-teal-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-teal-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function NaganoKaruizawaHoshinoWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Travels</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい信州・全国の冬特集・名湯宿ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい信州・全国の冬特集・名湯宿ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

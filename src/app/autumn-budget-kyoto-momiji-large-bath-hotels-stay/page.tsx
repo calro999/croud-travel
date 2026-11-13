@@ -55,9 +55,7 @@ export default function KyotoBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋の京都旅行で「大浴場付きコスパホテル」を選ぶメリット
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋の京都旅行で「大浴場付きコスパホテル」を選ぶメリット</h2>
           <p className="mb-4 text-stone-700">
             東福寺の通天橋、清水寺の舞台、永観堂の見事な紅葉など、秋の京都は1日で1万〜2万歩以上歩き回ることが珍しくありません。客室のユニットバスだけでは足腰の疲れが取りきれませんが、広々とした大浴場やサウナがあれば、翌朝もすっきりと観光に出発できます。
           </p>
@@ -69,10 +67,8 @@ export default function KyotoBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！京都の格安大浴場ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！京都の格安大浴場ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KyotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.33</span>
                     <span className="text-stone-400 text-xs">(702件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ロワジールホテル京都東寺
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ロワジールホテル京都東寺</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 京都駅 / JR「京都駅」八条西口より徒歩12分、近鉄「東寺駅」より徒歩3分
                   </p>
@@ -142,9 +136,7 @@ export default function KyotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.34</span>
                     <span className="text-stone-400 text-xs">(8151件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル　エルシエント京都八条口
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル　エルシエント京都八条口</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 京都駅 / ＪＲ京都駅八条東口徒歩2分 ◇ 空港リムジンバスのりば（伊丹・関空）すぐ◇京都南ICから約15分
                   </p>
@@ -189,9 +181,7 @@ export default function KyotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.5</span>
                     <span className="text-stone-400 text-xs">(766件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    京都山科　ホテル山楽
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">京都山科　ホテル山楽</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 山科駅 / ※新快速停車※京都・大津から約５分！ＪＲ琵琶湖線・湖西線／京阪京津線／市営地下鉄東西線　山科駅より地下道直結で徒歩1分！
                   </p>
@@ -236,9 +226,7 @@ export default function KyotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.45</span>
                     <span className="text-stone-400 text-xs">(1952件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ベッセルホテルカンパーナ京都五条｜サウナ付大浴場（京都１号店）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 五条（京都市営）駅 / 京都市営地下鉄烏丸線五条駅３番出口より徒歩１分■京都駅より徒歩約15分■新京都東ICから約16分■京都南ICから約21分
                   </p>
@@ -283,9 +271,7 @@ export default function KyotoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.53</span>
                     <span className="text-stone-400 text-xs">(930件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルインターゲート京都　四条新町
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルインターゲート京都　四条新町</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 烏丸駅 / 阪急京都線 烏丸駅・ 地下鉄烏丸線 四条駅より徒歩にて約５分
                   </p>
@@ -330,9 +316,7 @@ export default function KyotoBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の京都×格安：紅葉狩りをお得に満喫！大浴場・サウナ付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -393,9 +377,7 @@ export default function KyotoBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の京都×格安」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の京都×格安」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -108,9 +108,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然ヒノキのフィトンチッドによる深いアロマセラピー効果と自律神経の調整
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然ヒノキのフィトンチッドによる深いアロマセラピー効果と自律神経の調整</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 温かな湯気に包まれて立ちのぼるヒノキの香りは、森林浴と同等の深いリラクゼーションをもたらし、ストレスホルモンを抑制。優しい木肌の感触が肌を包み込み、心身の疲労を優しく解きほぐします。
@@ -123,9 +121,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  石風呂にはない「柔らかな当たり」と保温性！いつまでも浸かっていたい極上の湯浴み
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">石風呂にはない「柔らかな当たり」と保温性！いつまでも浸かっていたい極上の湯浴み</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 熱伝導率が低く保温性に優れたヒノキの浴槽は、お湯の温度をまろやかに保ち、背中や首をあずけたときの木肌の柔らかさが格別。湯上がりのポカポカ感が長く持続します。
@@ -138,9 +134,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  山の恵みと郷土の美味！囲炉裏料理や地元ブランド和牛の温もり会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">山の恵みと郷土の美味！囲炉裏料理や地元ブランド和牛の温もり会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 木曽牛やすき焼き、伊豆の猪鍋や山葵料理、肥後あか牛や山菜など、ヒノキの森が育んだ清らかな水と土壌の恵みを活かした滋味あふれる料理が並び、身体の内側から元気を取り戻せます。
@@ -183,9 +177,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県木曽町・木曽ヒノキ発祥の地！樹齢数百年の大名総檜風呂と創業三百七十余年の老舗名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    木曽路の宿　いわや
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">木曽路の宿　いわや</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     中山道・福島宿に位置し、江戸時代初期の寛永年間創業・三百七十余年の歴史を誇る老舗旅館。宿の名物は、伊勢神宮の式年遷宮にも用いられる高級木材「木曽ヒノキ」の樹齢数百年の一枚板を贅沢に使用した大名総檜風呂。浴場全体に広がる清々しいヒノキの香りと柔らかな肌触りの湯に包まれる時間はまさに極楽。夕食には信州名物の木曽牛ステーキや岩魚の塩焼き、季節の山菜料理など、中山道の旅情豊かな郷土会席を堪能できます。木曽路の歴史と豊かな森林文化を肌で感じる名湯旅が叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊豆市・猫越川の清流を望む全室源泉かけ流し総檜露天風呂付き！大人の隠れ家名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    谷川の湯　あせび野
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">谷川の湯　あせび野</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     中伊豆・天城湯ヶ島の豊かな山林を流れる猫越川のほとりに佇む、全国の温泉ファンから絶賛される大人の隠れ宿。全客室のテラスに自家源泉かけ流しの贅沢な総檜専用露天風呂を備え、川のせせらぎと野鳥の声を聴きながら24時間いつでもヒノキの香りと名湯に浸かることができます。館内には渓流沿いの貸切露天風呂や広々とした大浴場も点在。駿河湾の新鮮な海の幸や伊豆の山の幸を取り入れた月替わりの創作会席料理とともに、静寂と贅沢に満ちた究極のプライベートステイをお過ごしいただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県南小国町・創業三百年！細川藩の御前湯の歴史を継ぐ総檜風呂と小国郷土料理の宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    黒川温泉　歴史の宿　御客屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">黒川温泉　歴史の宿　御客屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     全国屈指の温泉地・黒川温泉で最も古い歴史を持ち、江戸時代には肥後細川藩の御前湯（藩主専用の温泉）を務めた創業三百年の老舗宿。歴史の重みを感じる本館には、木肌の優しい総檜風呂「御前湯」をはじめ、里の湯や貸切風呂など多彩な湯殿を完備し、良質な単純温泉を源泉かけ流しで満喫できます。夕食には地元小国郷土の味を大切にした肥後赤牛のステーキやすき焼き、契約農家から届く新鮮な野菜を使った手作り田舎会席が並び、温もりあふれる九州の温泉情話に心洗われます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】木曽路の宿 いわやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】木曽路の宿 いわやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoFragrantHinokiBathStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と木曽路の宿 いわやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と木曽路の宿 いわやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

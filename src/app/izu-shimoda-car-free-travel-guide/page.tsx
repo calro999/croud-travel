@@ -223,9 +223,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
             <span className="w-2 h-2 rounded-full bg-cyan-500 animate-pulse"></span>
             DISCOUNT TRANSIT PASSES
           </div>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">
-            下田の車なし旅を身軽にするお得なフリーきっぷ3選
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">下田の車なし旅を身軽にするお得なフリーきっぷ3選</h2>
           <p className="text-slate-600 text-sm mt-2">
             下田エリアは鉄道とバスが充実。移動スタイルに合わせてきっぷを選ぶだけで、交通費を大きく節約できます。
           </p>
@@ -277,9 +275,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
           <span className="text-xs font-black tracking-widest text-cyan-600 bg-cyan-50 px-3 py-1 rounded-full border border-cyan-200">
             COMPLETE TIME TABLE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800">
-            【保存版】下田 1泊2日 車なし観光モデルコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800">【保存版】下田 1泊2日 車なし観光モデルコース</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             バスと電車の接続を考慮した無理のないタイムスケジュール。乗り遅れや待ち時間を防ぐ実践的なルートです。
           </p>
@@ -307,9 +303,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
                         <span className="text-xs font-black text-cyan-600 bg-cyan-50 px-2 py-0.5 rounded-md border border-cyan-200/60 font-mono">
                           {step.time}
                         </span>
-                        <h4 className="font-bold text-slate-900 text-sm md:text-base">
-                          {step.title}
-                        </h4>
+                        <h4 className="font-bold text-slate-900 text-sm md:text-base">{step.title}</h4>
                       </div>
                       <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {step.desc}
@@ -329,9 +323,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
           <span className="text-cyan-400 text-xs font-black tracking-widest uppercase">
             LOCAL EXPERT ADVICE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">
-            伊豆急下田の「車なし旅」を120%楽しむ実践TIPS
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">伊豆急下田の「車なし旅」を120%楽しむ実践TIPS</h2>
         </div>
 
         <div className="grid md:grid-cols-2 gap-4">
@@ -358,9 +350,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
               <span className="w-2 h-2 rounded-full bg-cyan-500"></span>
               HOTEL & ONSEN SELECTION
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-              車なし旅行に最適！下田駅前・送迎付き＆海一望の温泉宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">車なし旅行に最適！下田駅前・送迎付き＆海一望の温泉宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               駅から徒歩圏内、または駅からの無料送迎バスがある宿を厳選。重い荷物があっても安心です。
             </p>
@@ -417,9 +407,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
                     </div>
 
                     <div className="p-5 space-y-3">
-                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-cyan-700 transition-colors">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-cyan-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
                         <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-cyan-50/50 p-2.5 rounded-xl border border-cyan-100">
@@ -472,9 +460,7 @@ export default function IzuShimodaCarFreeTravelGuidePage() {
 
       {/* 内部リンク＆関連記事 */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい伊豆・熱海エリアの交通＆費用ガイド
-        </h3>
+        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">あわせて読みたい伊豆・熱海エリアの交通＆費用ガイド</h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
             href="/tokyo-izu-atami-bus-vs-train-guide/"

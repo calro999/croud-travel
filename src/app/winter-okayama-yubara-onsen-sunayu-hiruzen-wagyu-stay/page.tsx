@@ -269,9 +269,7 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Valley Heritage & Natural River Bath</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                美作三湯の筆頭・湯原温泉が魅せる初冬の風情｜11月・12月に訪れる理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">美作三湯の筆頭・湯原温泉が魅せる初冬の風情｜11月・12月に訪れる理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">High-Alkaline Pure Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                pH9.3の圧倒的とろみ肌｜湯原温泉の天然自噴泉と美肌効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">pH9.3の圧倒的とろみ肌｜湯原温泉の天然自噴泉と美肌効果</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Hiruzen Beef & Winter Gibier</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                蒜山ジャージー牛の芳醇と冬の味覚「天然猪鍋（ぼたん鍋）」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">蒜山ジャージー牛の芳醇と冬の味覚「天然猪鍋（ぼたん鍋）」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +341,7 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Yubara Winter Scenic Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の湯原・蒜山1泊2日ドライブモデルコース｜西の横綱砂湯と高原スイーツ・名湯旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の湯原・蒜山1泊2日ドライブモデルコース｜西の横綱砂湯と高原スイーツ・名湯旅</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -371,9 +363,7 @@ export default function OkayamaYubaraWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Yubara Onsen Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              pH9.3名湯と美作の美食に癒やされる｜湯原温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">pH9.3名湯と美作の美食に癒やされる｜湯原温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、自慢のアルカリ美肌天然温泉や蒜山ジャージー牛・猪鍋会席を誇る本物の宿を厳選。
             </p>
@@ -404,9 +394,7 @@ export default function OkayamaYubaraWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -483,26 +471,20 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Advice</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の湯原温泉旅行｜渓谷の冷え込みと砂湯の湯浴み着マナー
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の湯原温泉旅行｜渓谷の冷え込みと砂湯の湯浴み着マナー</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                山間部の寒暖差と暖かい重ね着
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                山間部の寒暖差と暖かい重ね着</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 湯原温泉は旭川沿いの谷あいに位置するため、朝晩は放射冷却でぐっと冷え込みます。昼間は日差しがあれば暖かい日も多いですが、夕暮れ以降や早朝に川沿いを散策する際は、風を通さない厚手のコートやダウン、マフラー、手袋を着用してください。湯上がり後の湯冷めを防ぐためにも防寒対策は大切です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                名物「砂湯」の利用と湯浴み着レンタル
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                名物「砂湯」の利用と湯浴み着レンタル</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 24時間無料で入れる天然露天風呂「砂湯」は混浴ですが、女性でも気兼ねなく楽しめるよう、湯原温泉街の各旅館や観光案内所で「湯浴み着（レンタルまたは販売）」が用意されています。水着の着用も可能です。脱衣所も整備されており、マナーを守って爽快な川原露天の絶景を楽しみましょう。
               </p>
@@ -518,18 +500,14 @@ export default function OkayamaYubaraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                岡山・湯原温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">岡山・湯原温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -542,9 +520,7 @@ export default function OkayamaYubaraWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Western Japan & Onsen Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい中国地方・西日本の冬名湯＆山里美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい中国地方・西日本の冬名湯＆山里美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚、ラジウム温泉、美肌名湯をめぐる人気特集もぜひご覧ください。
             </p>

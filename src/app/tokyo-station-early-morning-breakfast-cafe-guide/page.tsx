@@ -242,9 +242,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
             <span className="w-8 h-8 rounded-full bg-indigo-500 text-white font-black flex items-center justify-center text-sm">
               🧭
             </span>
-            <h2 className="text-lg sm:text-2xl font-bold text-white">
-              鍛冶橋駐車場から東京駅へ！迷わず潜る早朝ルート
-            </h2>
+            <h2 className="text-lg sm:text-2xl font-bold text-white">鍛冶橋駐車場から東京駅へ！迷わず潜る早朝ルート</h2>
           </div>
           <p className="text-xs sm:text-sm text-slate-300 leading-relaxed mb-4">
             多くの長距離夜行バスが到着する「鍛冶橋駐車場」は、東京駅八重洲南口まで徒歩約5分の屋外バスターミナルです。
@@ -269,10 +267,8 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
         {/* メイン：早朝モーニングおすすめ店 */}
         <section className="space-y-6">
           <div className="border-b border-indigo-500/30 pb-3">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-              <span className="text-indigo-400 font-mono">MORNING</span>
-              東京駅 早朝6時・7時オープンの極上朝食6選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3"><span className="text-indigo-400 font-mono">MORNING</span>
+              東京駅 早朝6時・7時オープンの極上朝食6選</h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
               昭和レトロなサイフォン珈琲から朝限定つけ麺、焼きたてベーカリーまで
             </p>
@@ -322,9 +318,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
         <section className="bg-slate-900/90 border border-indigo-500/30 rounded-3xl p-6 sm:p-8">
           <div className="flex items-center gap-3 mb-2">
             <span className="text-2xl">🧳</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              東京駅 コインロッカー難民を回避する「早朝穴場マップ」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">東京駅 コインロッカー難民を回避する「早朝穴場マップ」</h2>
           </div>
           <p className="text-xs sm:text-sm text-slate-400 mb-6">
             日中は「空きゼロ」になりがちな東京駅。早朝7時前後のうちに確実に確保すべき3大ポイント
@@ -351,9 +345,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
 
         {/* 早朝リフレッシュ・シャワー＆身支度 */}
         <section className="bg-gradient-to-br from-indigo-950/40 via-slate-900 to-slate-950 border border-indigo-500/30 rounded-3xl p-6 sm:p-8">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 flex items-center gap-2">
-            <span>🚿</span> 夜行バスの汗を流す！早朝シャワー＆リフレッシュ拠点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 flex items-center gap-2">夜行バスの汗を流す！早朝シャワー＆リフレッシュ拠点</h2>
           <div className="space-y-4">
             {showerPoints.map((pt, idx) => (
               <div
@@ -379,10 +371,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
           <div className="border-b border-indigo-500/30 pb-3">
             <div className="flex items-center justify-between flex-wrap gap-2">
               <div>
-                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-                  <span className="text-indigo-400">🏨</span>
-                  東京駅・八重洲周辺の大浴場＆極上モーニングホテル
-                </h2>
+                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">東京駅・八重洲周辺の大浴場＆極上モーニングホテル</h2>
                 <p className="text-xs sm:text-sm text-slate-400 mt-1">
                   夜行バスの前後泊や朝食バイキングで最高のエネルギーチャージができる人気宿
                 </p>
@@ -437,9 +426,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
                           )}
                         </div>
 
-                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">{hotel.hotelName}</h3>
 
                         {hotel.hotelSpecial && (
                           <p className="text-xs text-slate-300 line-clamp-3 mb-3 leading-relaxed">
@@ -486,9 +473,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
         {/* 内部リンク回遊ブロック */}
         <section className="pt-8 border-t border-slate-800">
           <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 text-center">
-            <h3 className="text-sm font-bold text-slate-300 mb-4">
-              夜行バス・新幹線旅行のお役立ち関連記事
-            </h3>
+            <h3 className="text-sm font-bold text-slate-300 mb-4">夜行バス・新幹線旅行のお役立ち関連記事</h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
                 href="/tokyo-osaka-bus-vs-shinkansen-guide/"
@@ -513,9 +498,7 @@ export default function TokyoStationEarlyMorningBreakfastPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と夜行バス到着後のリフレッシュ完全ガイドの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と夜行バス到着後のリフレッシュ完全ガイドの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -285,10 +285,8 @@ export default function UnazukiWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 黒部峡谷初冬の絶景＆富山湾寒ブリ・紅ズワイガニ特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】<br className="hidden sm:inline" />
-            雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月宇奈月温泉の初冬黒部峡谷美と名湯】<br className="hidden sm:inline" />
+            雪化粧の峡谷露天と日本一の透明度・富山湾寒ブリ＆紅ズワイガニの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプス黒部川の清流が削り出した日本屈指の深山幽谷。日本一の透明度を誇る名湯・宇奈月温泉。11月中旬の晩秋から12月の白銀雪化粧へと移ろう峡谷美を望む露天風呂と、富山湾が誇る冬の二大王者「寒ブリ」＆「紅ズワイガニ」に心奪われる至福の湯旅。
           </p>
@@ -314,9 +312,7 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Kurobe Gorge & Unazuki Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                大正の電源開発が生んだ奇跡の峡谷温泉。初冬の静寂と富山湾の美食
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">大正の電源開発が生んだ奇跡の峡谷温泉。初冬の静寂と富山湾の美食</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function UnazukiWinterPage() {
           
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-700" />
-                11月・12月宇奈月温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-700" />
+                11月・12月宇奈月温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 黒部峡谷の雪化粧パノラマ・日本一の透明度を誇る美肌の湯・旬の富山湾産寒ブリしゃぶしゃぶ・甘み濃厚な紅ズワイガニ・新山彦橋と峡谷雪景色
               </p>
@@ -385,9 +379,7 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Scenic Winter Gorge</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                黒部峡谷の初冬絶景：新山彦橋・やまびこ遊歩道と初雪
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">黒部峡谷の初冬絶景：新山彦橋・やまびこ遊歩道と初雪</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -406,35 +398,27 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Natural Spring Qualities</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                黒薙から湧き出る奇跡の源泉：日本一の透明度と美肌を育む弱アルカリ性単純泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">黒薙から湧き出る奇跡の源泉：日本一の透明度と美肌を育む弱アルカリ性単純泉</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                日本一と称される透明度
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                日本一と称される透明度</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 宇奈月温泉の湯は、底の小石までくっきりと見える驚異的な透明度を誇ります。不純物が極めて少なく、黒部川上流の自然が磨き上げた純粋無垢な湯触りが体感できます。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                弱アルカリ性で美肌効果
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                弱アルカリ性で美肌効果</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 pH値8クラスの弱アルカリ性単純温泉。古い角質を優しく洗い流し、新陳代謝を促進。湯上がりは肌がすべすべになり、「つべつべの湯」として地元でも愛されています。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                約90度の高温泉で芯から温まる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                約90度の高温泉で芯から温まる</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 黒薙温泉の湧出温度は約90度。長い引湯管を通ることで角が取れたまろやかな湯となり、冷えた身体の芯までじっくりと温もりを届けて湯冷めを防ぎます。
               </p>
@@ -450,9 +434,7 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Trolley & Winter Solitude</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月のトロッコ電車フィナーレと、12月に訪れる峡谷の静寂美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月のトロッコ電車フィナーレと、12月に訪れる峡谷の静寂美</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -467,9 +449,7 @@ export default function UnazukiWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-extrabold text-cyan-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい宇奈月温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい宇奈月温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               峡谷の絶景を望む露天風呂、富山湾の寒ブリと紅ズワイガニを贅沢に味わえる最高峰の宿を厳選。
             </p>
@@ -508,9 +488,7 @@ export default function UnazukiWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -569,26 +547,20 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の富山湾が誇る極上美味：「寒ブリ」と「紅ズワイガニ」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の富山湾が誇る極上美味：「寒ブリ」と「紅ズワイガニ」</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-700" />
-                脂の乗りが最高潮に達する「富山湾の寒ブリ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-700" />
+                脂の乗りが最高潮に達する「富山湾の寒ブリ」</h3>
               <p className="leading-relaxed text-sm">
                 11月中旬、日本海に激しい雷鳴が轟く「ブリ起こし」とともに、丸々と肥えた天然ブリが富山湾へと南下してきます。冷たい海で鍛えられた身は引き締まり、脂の乗りは格別。薄桃色に輝くお刺身はもちろん、昆布出汁にサッとくぐらせて余分な脂を落とし、甘みを引き立てる「ブリしゃぶ」は、冬の北陸を代表する贅沢の極みです。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-700" />
-                深海の名水が育む「富山湾産紅ズワイガニ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-700" />
+                深海の名水が育む「富山湾産紅ズワイガニ」</h3>
               <p className="leading-relaxed text-sm">
                 富山湾の海底深くに広がる日本海固有水（ミネラル豊富な海洋深層水）で育つ紅ズワイガニ。水揚げ港から目と鼻の先で競り落とされるため、鮮度と身のジューシーさが段違いです。茹でたてアツアツの身の繊細な甘みと、濃厚なカニ味噌を甲羅で焼き上げる芳ばしさは、冬の宇奈月温泉でしか味わえない至高のご馳走です。
               </p>
@@ -604,35 +576,25 @@ export default function UnazukiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：北陸新幹線で行く！黒部峡谷初冬パノラマと海の幸三昧
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：北陸新幹線で行く！黒部峡谷初冬パノラマと海の幸三昧</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-cyan-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-cyan-800 uppercase tracking-wider">【1日目】黒部宇奈月温泉駅へ〜峡谷散策と名湯チェックイン</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:45 北陸新幹線「はくたか」で黒部宇奈月温泉駅に到着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:45 北陸新幹線「はくたか」で黒部宇奈月温泉駅に到着</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 駅隣接の「地域観光ギャラリー」で黒部峡谷の自然ジオラマを見学。富山地方鉄道に乗車し宇奈月温泉へ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                12:45 温泉街でお昼ごはん＆「やまびこ遊歩道」散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">12:45 温泉街でお昼ごはん＆「やまびこ遊歩道」散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 名物の富山ブラックラーメンや白エビ丼を味わった後、旧軌道敷を利用した遊歩道へ。山彦橋から峡谷の初冬風景を眺望。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 旅館へチェックイン → 峡谷露天風呂で雪見風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 旅館へチェックイン → 峡谷露天風呂で雪見風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本屈指の透明度を誇る弱アルカリ性泉で肌を潤す。夕暮れ時の渓谷美を眺めながらゆったりと寛ぎのひととき。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 富山湾の寒ブリしゃぶしゃぶ＆紅ズワイガニ会席に舌鼓
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 富山湾の寒ブリしゃぶしゃぶ＆紅ズワイガニ会席に舌鼓</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 脂の乗った旬の寒ブリと茹でたて紅ズワイガニ、地酒のペアリングを堪能。
               </p>
@@ -640,15 +602,11 @@ export default function UnazukiWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の清涼露天風呂〜足湯巡りと宇奈月スイーツ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂でリフレッシュ → 北陸の海の幸朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂でリフレッシュ → 北陸の海の幸朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 澄み渡る峡谷の空気を胸いっぱいに吸い込みながら入る朝風呂。富山産コシヒカリと焼き魚の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 温泉街の足湯「おもかげ」巡り＆宇奈月スイーツ散歩
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 温泉街の足湯「おもかげ」巡り＆宇奈月スイーツ散歩</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 黒部川の天然水を使った宇奈月ビールやお豆腐スイーツ、名物チーズケーキ「アルペンチーズケーキ」をお土産に購入。
               </p>
@@ -671,10 +629,8 @@ export default function UnazukiWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -689,9 +645,7 @@ export default function UnazukiWinterPage() {
         <section className="bg-cyan-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・甲信越の冬・雪見温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・甲信越の冬・雪見温泉特集</h2>
             <p className="text-xs sm:text-sm text-cyan-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

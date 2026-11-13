@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            鏡のように澄み渡るカルデラ湖と中島、有珠山の威容——毎夜打ち上がる湖上花火と大パノラマ温泉に酔いしれる北のネイチャーリゾート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">鏡のように澄み渡るカルデラ湖と中島、有珠山の威容——毎夜打ち上がる湖上花火と大パノラマ温泉に酔いしれる北のネイチャーリゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北海道南西部、支笏洞爺国立公園に位置する洞爺湖（とうやこ）。約11万年前の巨大噴火によって形成された円形のカルデラ湖であり、湖中央に浮かぶ「中島」の原生林、南岸にそびえる活火山「有珠山（うすざん）」と「昭和新山」が織りなす大自然の造形美は、日本初の「世界ジオパーク」に登録されています。湖畔に湧き出す洞爺湖温泉は、毎分約1,400リットルの豊富な湯量を誇り、毎年4月下旬から10月末まで毎夜開催される「洞爺湖ロングラン花火大会」が温泉街の夜を彩ります。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道洞爺湖町・壮瞥町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ザ・ウィンザーホテル洞爺　リゾート＆スパ　ｂｙ　ＩＨＧ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ザ・ウィンザーホテル洞爺　リゾート＆スパ　ｂｙ　ＩＨＧ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   標高625mのポロモイ山山頂に君臨するサミットホテル！洞爺湖と内浦湾を一望する奇跡の360度パノラマ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ザ・ウィンザーホテル洞爺 リゾート＆スパ —— 天空の城のような圧倒的スケール。世界が称賛した最高峰のおもてなしと美食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ザ・ウィンザーホテル洞爺 リゾート＆スパ —— 天空の城のような圧倒的スケール。世界が称賛した最高峰のおもてなしと美食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 洞爺湖と太平洋（内浦湾）の両方を同時に見下ろす山頂の絶景立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">洞爺湖と太平洋（内浦湾）の両方を同時に見下ろす山頂の絶景立地</h5>
                     <p className="text-stone-600 leading-relaxed">山頂に建つ唯一無二のロケーション。雲海が眼下に広がる朝の景色や夕暮れのマジックアワーは息をのむ美しさです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 数寄屋造りの本格温泉「山泉」と極上のウェルネススパ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">数寄屋造りの本格温泉「山泉」と極上のウェルネススパ</h5>
                     <p className="text-stone-600 leading-relaxed">檜の香る大浴場と露天風呂。ガラス張りの温水プールや本格サロンで、心身を解きほぐす至高のリラクゼーションを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン星付きレストランを擁する世界基準のダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン星付きレストランを擁する世界基準のダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">北海道の極上素材を活かしたフレンチ、本格イタリアン、鉄板焼き、日本料理など、選りすぐりの美食が特別な夜を演出します。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道洞爺湖町・壮瞥町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ザ・レイクスイート湖の栖（グランベルホテルズ&amp;リゾーツ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ザ・レイクスイート湖の栖（グランベルホテルズ&amp;リゾーツ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室に洞爺湖を望む温泉露天風呂を完備！湖面と一体化する最上階インフィニティ露天風呂と花火特等席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ザ・レイクスイート 湖の栖 —— 湖に浮かぶような非日常。全室露天風呂付き客室と湖上ビュッフェダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ザ・レイクスイート 湖の栖 —— 湖に浮かぶような非日常。全室露天風呂付き客室と湖上ビュッフェダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室のテラスに源泉掛け流し温泉露天風呂を完備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室のテラスに源泉掛け流し温泉露天風呂を完備</h5>
                     <p className="text-stone-600 leading-relaxed">湖を吹き抜ける風を感じながらプライベートに入浴。夜にはテラスからロングラン花火を大迫力で鑑賞できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階8階に設えられた湖と空が繋がるインフィニティ設計の大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階8階に設えられた湖と空が繋がるインフィニティ設計の大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">湯船が湖面へと突き出すような絶景露天風呂。まるで洞爺湖の上に浮かんでいるかのような神秘的な感覚を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 水のテラスダイニング「The 洞爺」での優雅な和洋ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">水のテラスダイニング「The 洞爺」での優雅な和洋ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">オープンキッチンで仕上げられる旬の道産食材ディナー。美しい水盤を眺めながら優雅な食事時間を楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道洞爺湖町・壮瞥町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  洞爺サンパレス　リゾート＆スパ（グランベルホテルズ＆リゾーツ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">洞爺サンパレス　リゾート＆スパ（グランベルホテルズ＆リゾーツ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   湖畔の巨大温泉リゾート！洞爺湖を見晴らす露天風呂と屋内大型プール＆充実のアクティビティ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  洞爺サンパレス リゾート＆スパ —— 湖の波打ち際に佇む一大リゾート。開放感抜群の露天風呂と多彩な施設
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">洞爺サンパレス リゾート＆スパ —— 湖の波打ち際に佇む一大リゾート。開放感抜群の露天風呂と多彩な施設</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 湖畔のパノラマを満喫できる広々とした大浴場と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">湖畔のパノラマを満喫できる広々とした大浴場と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">洞爺湖の自然を間近に感じる大浴場。湯上がりのラウンジからも湖の景色をゆったり楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 波の出るプールやスライダーを備えた大型ウォーターパーク
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">波の出るプールやスライダーを備えた大型ウォーターパーク</h5>
                     <p className="text-stone-600 leading-relaxed">天候を気にせず年中遊べる屋内プール。家族連れやグループ旅行に大人気のアクティビティ施設です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の海鮮や名物料理がずらりと並ぶ豪華ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の海鮮や名物料理がずらりと並ぶ豪華ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">出来立ての料理がライブキッチンから次々と提供されるディナーバイキング。大人から子供まで気兼ねなく楽しめます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 洞爺湖ロングラン花火＆有珠山ロープウェイ・昭和新山観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 洞爺湖ロングラン花火＆有珠山ロープウェイ・昭和新山観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                洞爺湖ロングラン花火大会（4月下旬〜10月末・毎夜開催）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                洞爺湖ロングラン花火大会（4月下旬〜10月末・毎夜開催）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 湖上を移動する船から打ち上げられる花火。湖畔の遊歩道やホテルの客室露天風呂、遊覧船の上から約20分間の幻想的な花火ショーを楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                有珠山ロープウェイ＆洞爺湖展望台
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                有珠山ロープウェイ＆洞爺湖展望台</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 昭和新山山麓から有珠山山頂へ約6分のロープウェイ。山頂展望台からは洞爺湖・羊蹄山と、内浦湾や火口原の迫力あるパノラマを一望できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                昭和新山と有珠山ジオパークの火山散策道
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                昭和新山と有珠山ジオパークの火山散策道</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 今なお白い噴煙を上げ続ける国の特別天然記念物「昭和新山」。火山村やクマ牧場など、大地の息吹を間近に体感できるスポットが充実しています。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道洞爺湖町・壮瞥町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道洞爺湖町・壮瞥町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ザ・ウィンザーホテル洞爺 リゾート＆スパ ｂｙ ＩＨＧを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ザ・ウィンザーホテル洞爺 リゾート＆スパ ｂｙ ＩＨＧを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とザ・ウィンザーホテル洞爺 リゾート＆スパ ｂｙ ＩＨＧの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とザ・ウィンザーホテル洞爺 リゾート＆スパ ｂｙ ＩＨＧの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

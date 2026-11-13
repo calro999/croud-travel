@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            鬼怒川の渓谷美を眼下に望む天空の湯浴み——絢爛豪華な吹き抜け空間と至高の美食で味わう大人のリゾート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">鬼怒川の渓谷美を眼下に望む天空の湯浴み——絢爛豪華な吹き抜け空間と至高の美食で味わう大人のリゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             栃木県日光市、鬼怒川の上流に広がる鬼怒川（きぬがわ）温泉。江戸時代に発見され、当時は日光詣帰りの大名や僧侶のみに入浴が許されたという格式高い名湯です。明治時代以降に一般開放されてからは、都心から東武特急「スペーシアX」などで約2時間という好アクセスもあり、関東を代表する大型温泉リゾートとして親しまれてきました。鬼怒川の激流が削り出した迫力満点の断崖絶壁と、四季折々に色を変える渓谷美はまさに圧巻です。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県日光市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鬼怒川温泉　あさや
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鬼怒川温泉　あさや</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百三十年・鬼怒川を代表する老舗巨頭！最上階「空中庭園露天風呂」と品数豊富な豪華和洋中ビュッフェ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鬼怒川温泉 あさや —— 圧巻の吹き抜けロビーと天空の露天風呂。楽天トラベル屈指の超人気エンタメ名門リゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鬼怒川温泉 あさや —— 圧巻の吹き抜けロビーと天空の露天風呂。楽天トラベル屈指の超人気エンタメ名門リゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鬼怒川温泉街で最も高い場所に位置する「空中庭園露天風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鬼怒川温泉街で最も高い場所に位置する「空中庭園露天風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">秀峰館の屋上に設けられた舟形の露天風呂。山並みと鬼怒川の渓谷、夜には満天の星空を見上げるパノラマ絶景の湯浴み体験が叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 吹き抜けアトリウムに広がる絢爛豪華な館内空間とパイプオルガン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">吹き抜けアトリウムに広がる絢爛豪華な館内空間とパイプオルガン</h5>
                     <p className="text-stone-600 leading-relaxed">一歩足を踏み入れると広がる豪華な吹き抜けロビー。毎日のパイプオルガン演奏やエステ、岩盤浴など充実の施設が揃っています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> オープンキッチンで百種類以上の料理が並ぶ豪華ディナービュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">オープンキッチンで百種類以上の料理が並ぶ豪華ディナービュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">目の前で焼き上げる黒毛和牛ステーキや揚げたて天ぷら、新鮮なお刺身、本格中華やデザートまで、楽天トラベルでも絶賛される最高峰ビュッフェ。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県日光市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鬼怒川金谷ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鬼怒川金谷ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本最古のリゾートを受け継ぐ最高峰ラグジュアリー！全室渓谷テラス付き・ジョン・カナヤの美学
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鬼怒川金谷ホテル —— 歴史と洗練のモダンリゾート。鬼怒川の渓谷美を望む特等席と金谷流懐石料理
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鬼怒川金谷ホテル —— 歴史と洗練のモダンリゾート。鬼怒川の渓谷美を望む特等席と金谷流懐石料理</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が鬼怒川の渓流に面したプライベートリゾート
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が鬼怒川の渓流に面したプライベートリゾート</h5>
                     <p className="text-stone-600 leading-relaxed">鬼怒川のせせらぎが心地よく響くウッドテラス付きの客室。洗練された調度品に囲まれ、日常を離れた大人の極上ステイを味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 樹齢二千年の古代檜を使った大浴場と四季の露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">樹齢二千年の古代檜を使った大浴場と四季の露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">天然温泉が満ちる古代檜の湯船と、御影石造りの露天風呂。自然と一体化するような深い癒やしを心ゆくまで堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 創業者ジョン金谷鮮治の美学を受け継ぐ「金谷流懐石料理」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">創業者ジョン金谷鮮治の美学を受け継ぐ「金谷流懐石料理」</h5>
                     <p className="text-stone-600 leading-relaxed">和食の伝統に洋のエッセンスを融合させた芸術的な創作懐石。厳選されたとちぎ和牛や旬魚の料理、ワゴンサービスのショコラも至福です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">栃木県日光市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鬼怒川温泉　静寂とまごころの宿　七重八重
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鬼怒川温泉　静寂とまごころの宿　七重八重</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室渓谷ビュー＆鬼怒川の激流を真下に見下ろす隠れ家！絶景露天風呂と心温まるおもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鬼怒川温泉 静寂とまごころの宿 七重八重（ななえやえ） —— 清流のせせらぎに癒やされる宿。絶景露天風呂と炭火会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鬼怒川温泉 静寂とまごころの宿 七重八重（ななえやえ） —— 清流のせせらぎに癒やされる宿。絶景露天風呂と炭火会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鬼怒川の断崖絶壁に建ち、全客室・露天風呂から渓谷を一望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鬼怒川の断崖絶壁に建ち、全客室・露天風呂から渓谷を一望</h5>
                     <p className="text-stone-600 leading-relaxed">遮るもののない渓谷のパノラマビュー。新緑や紅葉、雪景色など季節ごとに表情を変える鬼怒川の自然美をダイレクトに満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 渓流のせせらぎが間近に響く絶景露天風呂と無料の湯上がり処
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">渓流のせせらぎが間近に響く絶景露天風呂と無料の湯上がり処</h5>
                     <p className="text-stone-600 leading-relaxed">川面に近い露天風呂で味わう名湯の温もり。湯上がり処では冷たい名水や麦茶のサービスがあり、火照った身体を優しく潤してくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> とちぎ和牛や地元の旬素材を活かした里山炭火会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">とちぎ和牛や地元の旬素材を活かした里山炭火会席</h5>
                     <p className="text-stone-600 leading-relaxed">栃木のブランド和牛や新鮮な湯波、川魚を香ばしく焼き上げた料理。手作りの温もりあふれる料理が旅の夜を彩ります。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 鬼怒川温泉・ライン下り＆東武ワールドスクウェア観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 鬼怒川温泉・ライン下り＆東武ワールドスクウェア観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                鬼怒川ライン下りでの迫力満点のアクティビティ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                鬼怒川ライン下りでの迫力満点のアクティビティ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 船頭さんの巧みな櫂さばきで、奇岩怪石が連なる鬼怒川の急流を豪快に下るアクティビティ。水しぶきと四季折々の渓谷美を体感できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                東武ワールドスクウェアで世界一周トリップ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                東武ワールドスクウェアで世界一周トリップ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 世界の有名建築物や世界遺産を25分の1スケールで精巧に再現したテーマパーク。サグラダファミリアやピラミッドなど、精緻な模型と植栽は見応え十分です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                日光江戸村（EDO WONDERLAND）での歴史体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                日光江戸村（EDO WONDERLAND）での歴史体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 江戸時代の町並みや文化を忠実に再現したカルチャーパーク。迫力満点の忍者アクションショーや変身体験、手裏剣道場など、大人から子供まで楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              栃木県日光市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">栃木県日光市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鬼怒川温泉 あさやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鬼怒川温泉 あさやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鬼怒川温泉 あさやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鬼怒川温泉 あさやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

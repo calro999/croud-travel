@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            港の潮風に響くおばちゃんたちの笑顔と獲れたてピチピチの鮮魚。日本一贅沢な朝の始まり
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">港の潮風に響くおばちゃんたちの笑顔と獲れたてピチピチの鮮魚。日本一贅沢な朝の始まり</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本各地の港町で古くから庶民の台所として栄え、地域の温もりと旬の恵みが一堂に会する「日本三大朝市」――平安時代から千年以上の歴史を持ち、神社の境内や通りに旬の魚介や民芸品が並ぶ石川の「輪島朝市」、玄界灘の豊かな漁場を背景に名物イカの活造りや天日干しが所狭しと並ぶ佐賀の「呼子朝市」、そして天正の世から四百三十年以上にわたり農産物や獲れたてのカツオが並ぶ千葉・房総の「勝浦朝市」。早朝の澄んだ空気の中、地元のおばちゃんたちと対話しながら名物を買い食いし、宿に戻れば豪華な海の幸朝食を味わう体験は旅の最高のハイライトです。活気あふれる港町ステイを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  石川県七尾市・輪島市ふるさと納税：千年の歴史息づく「輪島朝市」復興の活気と七尾湾の絶景・和倉温泉ホテル海望
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">石川県七尾市・輪島市ふるさと納税：千年の歴史息づく「輪島朝市」復興の活気と七尾湾の絶景・和倉温泉ホテル海望</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   平安時代から続く露天市。地元のお母さんたちが手作りした干物や海藻、輪島塗に触れた後は、七尾湾を一望する名湯和倉温泉「ホテル海望」で、能登牛や旬の地魚会席、海と一体になる露天風呂に癒やされます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      和倉温泉　ホテル海望
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">和倉温泉　ホテル海望</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>石川県七尾市和倉町和歌崎部12-3</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  佐賀県唐津市呼子町ふるさと納税：イカ釣り舟が往来する名物「呼子朝市」と透明なイカ活造り・唐津シーサイドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">佐賀県唐津市呼子町ふるさと納税：イカ釣り舟が往来する名物「呼子朝市」と透明なイカ活造り・唐津シーサイドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   日本屈指の活気あふれる朝市通り。呼子名物のイカシュウマイや一夜干しを食べ歩いた後は、虹の松原を望む高級リゾート「唐津シーサイドホテル」で、透き通る烏賊の活造りと佐賀牛サーロインに舌鼓を打ちます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      唐津シーサイドホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">唐津シーサイドホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>佐賀県唐津市東唐津4-182</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  千葉県勝浦市ふるさと納税：四百三十年の伝統「勝浦朝市」名物初がつお・勝浦タンタンメンと三日月イン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">千葉県勝浦市ふるさと納税：四百三十年の伝統「勝浦朝市」名物初がつお・勝浦タンタンメンと三日月イン</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   天正十九年から続く歴史ある青空市場。勝浦漁港に水揚げされた新鮮なカツオやサザエを吟味した後は、勝浦駅徒歩1分の好立地宿「三日月イン」を拠点に、勝浦タンタンメンめぐりと太平洋の海の幸を堪能します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      三日月イン
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">三日月イン</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>千葉県勝浦市墨名258</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   八戸・沼津・高知の市場グルメ。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   神戸・横浜・長崎の港町ステイ。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   海を間近に感じる名宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】和倉温泉 ホテル海望を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】和倉温泉 ホテル海望を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と和倉温泉 ホテル海望の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と和倉温泉 ホテル海望の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大朝市＆獲れたて海鮮・朝ごはん宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

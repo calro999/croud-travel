@@ -280,10 +280,8 @@ export default function YunoyamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の絶景名湯特集｜三重・菰野湯の山
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月三重・湯の山温泉】<br className="hidden sm:inline" />
-            御在所岳の初雪樹氷と開湯1300年名湯・名物僧兵鍋＆伊勢湾望む宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月三重・湯の山温泉】<br className="hidden sm:inline" />
+            御在所岳の初雪樹氷と開湯1300年名湯・名物僧兵鍋＆伊勢湾望む宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             鈴鹿山脈の主峰・御在所岳の白銀樹氷と氷瀑。傷ついた鹿を癒やした伝説の美肌アルカリ泉に浸かり、スタミナ満点の名物僧兵鍋と菰野豚を味わう贅沢な初冬のリゾートステイ。
           </p>
@@ -301,9 +299,7 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Snow Monster & 1300-Year Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                御在所岳の初雪・樹氷絶景と、鈴鹿山麓に湧く癒やしの古湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">御在所岳の初雪・樹氷絶景と、鈴鹿山麓に湧く癒やしの古湯</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Legends of Deer Spring & Alkalinity</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                開湯1300年の鹿の湯伝説と、なめらかな肌触りの美肌泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">開湯1300年の鹿の湯伝説と、なめらかな肌触りの美肌泉</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Warrior Monk Hot Pot & Local Flavors</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月に味わう名物僧兵鍋と鈴鹿山麓のブランド菰野豚
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月に味わう名物僧兵鍋と鈴鹿山麓のブランド菰野豚</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Suzuka Mountain Route & Cultural Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                御在所岳の樹氷とアクアイグニスを巡る初冬の湯の山おすすめ観光ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">御在所岳の樹氷とアクアイグニスを巡る初冬の湯の山おすすめ観光ルート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function YunoyamaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Handpicked 5 Elite Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              湯の山温泉で冬の樹氷と名物鍋を堪能する厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">湯の山温泉で冬の樹氷と名物鍋を堪能する厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               文化財庭園の老舗からロープウェイ直前のパノラマ展望宿、渓流沿いの隠れ宿まで、楽天APIから厳選した5軒をご紹介します。
             </p>
@@ -454,9 +442,7 @@ export default function YunoyamaOnsenWinterFeature() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>三重県三重郡菰野町湯の山温泉</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                     </div>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -515,26 +501,20 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Mountain Climate & Safety</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の湯の山・御在所岳の冬旅心得と服装・アクセス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の湯の山・御在所岳の冬旅心得と服装・アクセス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-800" />
-                山上公園と温泉街の大きな気温差
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-800" />
+                山上公園と温泉街の大きな気温差</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 標高1,212mの御在所山上公園は、麓の温泉街と比べて気温が約8〜10℃低くなります。初冬でも山上は氷点下となり強風が吹き抜けるため、風を通さない厚手のダウンジャケット、ニット帽、ネックウォーマー、防寒手袋が必須です。靴は滑り止めのあるスノーブーツを着用しましょう。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-emerald-800" />
-                新名神高速・菰野ICからのアクセスと冬用タイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-emerald-800" />
+                新名神高速・菰野ICからのアクセスと冬用タイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 新名神高速道路の菰野ICから温泉街までは車でわずか約10分と非常に快適です。ただし12月中旬以降の寒波時には鈴鹿山麓の坂道で雪や凍結の恐れがあるため、スタッドレスタイヤの装着をおすすめします。公共交通機関利用の場合は近鉄四日市駅から湯の山線で直行し、各宿の送迎を利用すると安全です。
               </p>
@@ -550,18 +530,14 @@ export default function YunoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                三重湯の山温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">三重湯の山温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -574,9 +550,7 @@ export default function YunoyamaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東海・近畿の冬名湯＆絶景特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東海・近畿の冬名湯＆絶景特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月のイルミネーションや伊勢湾の海の幸、名湯を堪能する人気特集もぜひチェックしてください。
             </p>

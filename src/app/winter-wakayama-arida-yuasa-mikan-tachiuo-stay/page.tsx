@@ -294,10 +294,8 @@ export default function WakayamaAridaYuasaWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の和歌山有田・湯浅旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の和歌山有田・湯浅旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
                 <span className="font-bold text-amber-900 block mb-1">① 有田みかん海道の絶景ドライブ</span>
@@ -322,9 +320,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Scenic Golden Hills</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                日本一のみかんの郷！山一面が黄金色に輝く「有田みかん海道」絶景ドライブ
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">日本一のみかんの郷！山一面が黄金色に輝く「有田みかん海道」絶景ドライブ</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -347,9 +343,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-orange-600 pl-4">
               <span className="text-orange-600 font-bold text-sm tracking-wider uppercase">Heritage & Local Gourmet</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                醤油発祥の日本遺産「湯浅の町並み」と箕島漁港直送の太刀魚＆天然本クエ
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">醤油発祥の日本遺産「湯浅の町並み」と箕島漁港直送の太刀魚＆天然本クエ</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4">
@@ -372,9 +366,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Featured Accommodations</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                有田みかん海道と湯浅の美味を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">有田みかん海道と湯浅の美味を満喫する厳選名宿5選</h2>
               <p className="text-slate-600 text-sm mt-1">
                 楽天トラベルAPIより最新の空室情報・適正宿泊料金・評価スコアを取得。城郭温泉宿から老舗料理旅館、リゾートホテルまで厳選。
               </p>
@@ -416,9 +408,7 @@ export default function WakayamaAridaYuasaWinterPage() {
 
                     <div className="w-full flex flex-col justify-between space-y-4">
                       <div>
-                        <h3 className="text-xl font-bold text-slate-900 leading-snug mb-2">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl font-bold text-slate-900 leading-snug mb-2">{hotel.name}</h3>
                         <p className="text-xs text-amber-800 bg-amber-50 px-3 py-1.5 rounded-lg font-medium mb-3 inline-block">
                           {hotel.special}
                         </p>
@@ -476,9 +466,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Travel Itinerary</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                有田みかん海道と湯浅醤油蔵通りを巡る1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">有田みかん海道と湯浅醤油蔵通りを巡る1泊2日王道モデルコース</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200 space-y-6">
@@ -517,9 +505,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Travel Tips & Weather</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                冬の紀州有田・湯浅旅行の気候・服装と交通アクセスのアドバイス
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">冬の紀州有田・湯浅旅行の気候・服装と交通アクセスのアドバイス</h2>
             </div>
 
             <div className="bg-white rounded-2xl p-6 md:p-8 shadow-md border border-slate-200 space-y-4 text-slate-700 text-sm md:text-base leading-relaxed">
@@ -549,18 +535,14 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-amber-600 font-bold text-sm tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">
-                和歌山・有田みかん＆湯浅醤油蔵通り旅行に関するよくある質問
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-bold text-slate-900 mt-1">和歌山・有田みかん＆湯浅醤油蔵通り旅行に関するよくある質問</h2>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 shadow-sm border border-slate-200">
-                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h3>
                   <p className="text-slate-700 text-sm md:text-base leading-relaxed pl-6 border-l-2 border-amber-100">
                     {faq.a}
                   </p>
@@ -573,9 +555,7 @@ export default function WakayamaAridaYuasaWinterPage() {
           <section className="bg-gradient-to-br from-slate-900 to-amber-950 rounded-3xl p-8 text-white space-y-6 shadow-xl">
             <div>
               <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Related Destinations</span>
-              <h2 className="text-xl md:text-2xl font-bold mt-1">
-                あわせて読みたい近畿・冬の厳選旅特集
-              </h2>
+              <h2 className="text-xl md:text-2xl font-bold mt-1">あわせて読みたい近畿・冬の厳選旅特集</h2>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">

@@ -108,9 +108,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  数千年の時間カプセル、水面に浮かぶ生きた大地と高山植物の楽園
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">数千年の時間カプセル、水面に浮かぶ生きた大地と高山植物の楽園</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 浮島湿原の最大の見どころは、奇跡的な生態系が凝縮されている点にあります。初夏のミズバショウから夏のニッコウキスゲ、秋の草紅葉へと衣替えする尾瀬ヶ原の池塘。神社の御神体として古くから信仰され、日によって配置が変わる大沼の浮島。そして氷河期の寒冷期から1万年以上もの間生き延びてきたミツガシワや食虫植物が息づく深泥池。地球の歴史を手のひらに載せるような知的な感動が、湿原トレッキングの足取りを軽やかにしてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  澄み切った高冷地の空気、鳥のさえずり、星空テラスでの深呼吸
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">澄み切った高冷地の空気、鳥のさえずり、星空テラスでの深呼吸</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 標高の高い湿原エリアは、都会の猛暑とは無縁の別天地です。木道を進むたびに足元から香る泥炭と湿原植物のアロマ、遠くで響くカッコウの声、遮るもののない大空に広がる雲の流れ。夜には満天の星が湿原の池塘に反射し、まるで宇宙の中に浮いているかのような幻想的な体験が待っています。五感を研ぎ澄ますリトリート空間が、心身の奥底に溜まった疲労を洗い流してくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound64ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  湖畔の森に佇む一軒宿温泉や伝統の温泉旅館、古都のリゾートステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">湖畔の森に佇む一軒宿温泉や伝統の温泉旅館、古都のリゾートステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 丸沼の湖畔に佇み源泉かけ流しの美肌湯を湛える大正ロマンの宿・環湖荘、山形天童温泉で名物の庭園露天風呂と山形牛会席を誇る老舗旅館・滝の湯、京都洛北の豊かな自然美と建築家・村野藤吾の曲線美が調和する名門ザ・プリンス京都宝ヶ池。ふるさと納税クーポンを使えば、ワンランク上のジュニアスイートや展望風呂付き客室も実質2,000円で驚くほどお得に予約できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 群馬県 利根郡片品村東小川4658-7</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    丸沼温泉　環湖荘（かんこそう）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">丸沼温泉　環湖荘（かんこそう）</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「地物の食事とニジマス風呂に癒やされる時間 日々の喧騒を忘れ、ゆったりした時間を過ごすことができました。食事は地物の頂鱒をはじめ美味しく、大満足でした。温泉のニジマス風呂はオブジェも楽しく、水槽の…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 山形県 天童市鎌田本町1-1-30</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    天童温泉　ほほえみの宿　滝の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">天童温泉　ほほえみの宿　滝の湯</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「豪華な夕食と温泉で心身ともにリフレッシュ15時少し前に到着し、店員さんがお出迎えして下さりチェックインしました。親子4人で利用しました。夕食は豪華な料理で堪能し、お腹一杯になり大満足でした。だ…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound64ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市左京区宝ヶ池</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ザ・プリンス　京都宝ヶ池、オートグラフコレクション
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ザ・プリンス　京都宝ヶ池、オートグラフコレクション</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】丸沼温泉 環湖荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】丸沼温泉 環湖荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound64ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と丸沼温泉 環湖荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と丸沼温泉 環湖荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

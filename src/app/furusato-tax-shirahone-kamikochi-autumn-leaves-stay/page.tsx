@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              黄金色に染まるカラマツ並木と穂高連峰！「3日入れば3年風邪をひかない」乳白の名湯
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黄金色に染まるカラマツ並木と穂高連峰！「3日入れば3年風邪をひかない」乳白の名湯</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本屈指の山岳景勝地・長野県「上高地」。10月中旬から11月上旬にかけて、大正池や梓川沿いのカラマツが一斉に黄金色へと変わり、初雪をいただいた北アルプス・穂高連峰とのコントラストは息をのむ美しさです。上高地散策の拠点として名高いのが、車で約30分の山懐に湧く「白骨温泉（しらほねおんせん）」。空気に触れると乳白色や青白濁へと変化する弱酸性の硫黄泉は、「3日入れば3年風邪をひかない」と称される名湯中の名湯。木の香漂う湯宿で体の芯から温まり、信州サーモンや信州プレミアム牛肉、温泉水を使った温泉粥をふるさと納税トラベルクーポンでお得に堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                上高地・大正池〜河童橋の黄金カラマツ黄葉ウォーク
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                上高地・大正池〜河童橋の黄金カラマツ黄葉ウォーク</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 朝霧立ち込める大正池の立ち枯れの木々と黄金のカラマツ林。河童橋から仰ぎ見る雪化粧の穂高連峰と錦秋の山肌は、日本最高峰の秋の絶景です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                乳白色の天然硫黄泉・白骨温泉の野趣あふれる露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                乳白色の天然硫黄泉・白骨温泉の野趣あふれる露天風呂</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 自然湧出する炭酸ガスを豊富に含む弱酸性硫黄泉。白い湯の花が舞う湯船に浸かれば、肌がすべすべになり胃腸病や疲労回復にも優れた効能を発揮します。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                信州プレミアム牛肉ステーキ＆名物「温泉粥」の美味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                信州プレミアム牛肉ステーキ＆名物「温泉粥」の美味</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 長野県独自の厳格な基準をクリアした「信州プレミアム牛」、清流で育った岩魚の塩焼き、白骨温泉の源泉で炊き上げた胃腸にやさしい名物「温泉粥」を味わえます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.63 <span className="text-stone-400 text-xs">(854件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    白骨温泉　湯元齋藤旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">白骨温泉　湯元齋藤旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県松本市安曇白骨温泉4195 ｜ お車で松本ICから60分、高山ICから70分。上高地へは「さわんどバスターミナル」乗り換えで約60分。
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.68 <span className="text-stone-400 text-xs">(127件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    白骨温泉　小梨の湯　笹屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">白骨温泉　小梨の湯　笹屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県松本市安曇4182-1 ｜ ＪＲ　松本駅より、松本電鉄　新島々下車、バスにて６０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.30 <span className="text-stone-400 text-xs">(417件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    白骨温泉　白船グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">白骨温泉　白船グランドホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県松本市安曇4203 ｜ 松本ICより約60分、高山西ICより約80分。R158経由、さわんど温泉より県道300号線で車15分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】白骨温泉 湯元齋藤旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】白骨温泉 湯元齋藤旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と白骨温泉 湯元齋藤旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と白骨温泉 湯元齋藤旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

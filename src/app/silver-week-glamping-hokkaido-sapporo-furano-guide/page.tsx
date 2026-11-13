@@ -180,9 +180,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
       <section className="bg-white border border-cyan-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">HOKKAIDO ESSENCE</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            秋の北海道グランピングが圧倒的に支持される4つの理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">秋の北海道グランピングが圧倒的に支持される4つの理由</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             本州では味わえない澄み切った大気、実りの味覚、雄大なパノラマスケールがここにあります。
           </p>
@@ -200,9 +198,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
                   {feat.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {feat.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{feat.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {feat.desc}
               </p>
@@ -215,9 +211,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
       <section className="bg-white border border-cyan-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-cyan-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">REGIONAL COMPARISON</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            北海道（富良野・トマム・十勝） vs 本州グランピング 徹底比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">北海道（富良野・トマム・十勝） vs 本州グランピング 徹底比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             なぜ秋の大型連休に飛行機に乗って北海道のアウトドアへ向かう価値があるのか。
           </p>
@@ -255,9 +249,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
       <section className="space-y-6" aria-labelledby="hokkaido-hotels-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">SELECTED STAYS</span>
-          <h2 id="hokkaido-hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            シルバーウィークに訪れたい北海道の厳選グランピング＆プレミアムリゾート
-          </h2>
+          <h2 id="hokkaido-hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">シルバーウィークに訪れたい北海道の厳選グランピング＆プレミアムリゾート</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             富良野の丘、トマムの雲海、十勝の森コテージ、札幌の温泉拠点ホテルをピックアップ。
           </p>
@@ -307,9 +299,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "北海道の雄大な大地で過ごす爽快なアウトドアステイ。澄み切った秋の風と道産食材の滋味をお楽しみください。"}
@@ -346,18 +336,14 @@ export default function SilverWeekGlampingHokkaidoPage() {
       <section className="bg-white rounded-3xl border border-cyan-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            北海道グランピング旅行のよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">北海道グランピング旅行のよくある質問</h2>
         </div>
 
         <div className="divide-y divide-cyan-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-cyan-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -368,9 +354,7 @@ export default function SilverWeekGlampingHokkaidoPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-800">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>✈️</span> 北海道旅行の費用計画＆モデルコースガイド
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2"><span>️</span> 北海道旅行の費用計画＆モデルコースガイド</h3>
         <p className="text-xs text-slate-300">
           レンタカー代や飛行機代を含めた予算シミュレーションと、大自然・観光地を効率よく巡るファミリー向けモデルコースをチェック。
         </p>

@@ -55,9 +55,7 @@ export default function OsakaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            大都会の真ん中で「天然温泉に浸かりながら安く泊まる」贅沢
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">大都会の真ん中で「天然温泉に浸かりながら安く泊まる」贅沢</h2>
           <p className="mb-4 text-stone-700">
             秋の大阪を象徴する景色といえば、御堂筋を埋め尽くす約970本のイチョウ並木。11月中旬には鮮やかな黄金色に染まり、11月上旬からは夜間イルミネーションもスタートして幻想的な光のストリートへと姿を変えます。
           </p>
@@ -69,10 +67,8 @@ export default function OsakaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！大阪の天然温泉付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！大阪の天然温泉付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function OsakaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.21</span>
                     <span className="text-stone-400 text-xs">(3474件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　秀吉ゆかりの天下取りの湯　スーパーホテルＪＲ新大阪東口
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　秀吉ゆかりの天下取りの湯　スーパーホテルＪＲ新大阪東口</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 新大阪駅 / JR新大阪駅 【東口】から徒歩約5分、地下鉄御堂筋線新大阪駅から徒歩10分、大阪梅田・なんば・天王寺へもアクセス抜群
                   </p>
@@ -142,9 +136,7 @@ export default function OsakaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.39</span>
                     <span className="text-stone-400 text-xs">(6970件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    湯元「花乃井」スーパーホテル大阪天然温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">湯元「花乃井」スーパーホテル大阪天然温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 阿波座駅 / 地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車
                   </p>
@@ -189,9 +181,7 @@ export default function OsakaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.43</span>
                     <span className="text-stone-400 text-xs">(1757件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　四季彩の湯　スーパーホテルＰｒｅｍｉｅｒ大阪本町駅前
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　四季彩の湯　スーパーホテルＰｒｅｍｉｅｒ大阪本町駅前</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 本町駅 / 大阪メトロ　四つ橋線　西梅田駅から2駅！なんば駅から2駅！四つ橋線・御堂筋線本町駅２４号出口ほぼ直結♪
                   </p>
@@ -236,9 +226,7 @@ export default function OsakaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.32</span>
                     <span className="text-stone-400 text-xs">(4373件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    シティプラザ大阪～ＨＯＴＥＬ＆ＳＰＡ～
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">シティプラザ大阪～ＨＯＴＥＬ＆ＳＰＡ～</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 堺筋本町駅 / 大阪メトロ「堺筋本町駅（12-1番出口）」より徒歩6分／大阪メトロ「谷町四丁目（4号出口）」より徒歩7分
                   </p>
@@ -283,9 +271,7 @@ export default function OsakaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.71</span>
                     <span className="text-stone-400 text-xs">(7047件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    リーベルホテル大阪
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">リーベルホテル大阪</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 桜島駅 / ＪＲゆめ咲線 桜島駅より徒歩1分　テーマパークまで徒歩約13分、ユニバーサルシティ駅1分1駅　大阪駅まで電車で最短14分
                   </p>
@@ -330,9 +316,7 @@ export default function OsakaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の大阪×格安：御堂筋の黄金イチョウ並木と道頓堀グルメ！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！天然温泉＆大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function OsakaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の大阪×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の大阪×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

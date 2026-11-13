@@ -285,9 +285,7 @@ export default function HyogoKobePortWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              1000万ドルの煌めきと希望の光のアート！冬の神戸が放つ唯一無二のエレガンス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">1000万ドルの煌めきと希望の光のアート！冬の神戸が放つ唯一無二のエレガンス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               海と山が織りなす冬夜景の極致、新春の厳かな社殿、世界が憧れる神戸牛の極上晩餐
             </p>
@@ -312,9 +310,7 @@ export default function HyogoKobePortWinterPage() {
         {/* 5 Hotels Detail Section */}
         <section className="space-y-10">
           <div className="text-center space-y-3">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-              神戸港・三宮・元町で冬を彩る極上名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">神戸港・三宮・元町で冬を彩る極上名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
               楽天トラベル公式APIからリアルタイムに取得した高評価のホテル群。全室テラス付きのオーシャンビュー温泉宿から名門シティホテルまで特選しました。
             </p>
@@ -364,12 +360,10 @@ export default function HyogoKobePortWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-600 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
                         {hotel.special}
                       </p>
@@ -426,9 +420,7 @@ export default function HyogoKobePortWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の神戸港・元町・三宮を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の神戸港・元町・三宮を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               生田神社初詣、南京町点心ランチ、神戸ルミナリエ鑑賞、極上神戸牛と天然温泉を巡る洗練プラン
             </p>
@@ -481,47 +473,37 @@ export default function HyogoKobePortWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の神戸港・元町・三宮完全攻略：ルミナリエ・生田神社・神戸牛の心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の神戸港・元町・三宮完全攻略：ルミナリエ・生田神社・神戸牛の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-rose-500" />
-                神戸ルミナリエの会場構成と快適な回り方
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-rose-500" />
+                神戸ルミナリエの会場構成と快適な回り方</h3>
               <p className="leading-relaxed">
                 神戸ルミナリエはメリケンパーク、旧居留地、東遊園地の3つのエリアで展開されます。メリケンパーク会場では有料エリア（チケット制）が設けられる場合があり、事前にWeb予約しておくと待ち時間なくスムーズに入場できます。海を背にした光の彫刻は開放感抜群で、港の夜景とともに撮影できるため、夕暮れ直後のトワイライトから完全な日没にかけての入場が最も美しい景観を楽しめます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-indigo-500" />
-                生田神社新春初詣の混雑回避と縁結びスポット
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Landmark className="w-5 h-5 text-indigo-500" />
+                生田神社新春初詣の混雑回避と縁結びスポット</h3>
               <p className="leading-relaxed">
                 生田神社は三が日で約150万人が訪れるため、日中の生田ロードは参拝客で埋め尽くされます。落ち着いてお参りするなら、午前7:00〜8:30の早朝時間帯が狙い目です。参拝後は本殿奥にある「生田の森」へ。都会の真ん中とは思えない静謐な森の中に流れる小川に「水みくじ」を浮かべ、新年の吉凶を占うのが若い世代やカップルに大人気です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-500" />
-                世界が憧れる「神戸牛」の選び方とおすすめスタイル
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-amber-500" />
+                世界が憧れる「神戸牛」の選び方とおすすめスタイル</h3>
               <p className="leading-relaxed">
                 本物の神戸牛（但馬牛の厳選規格）を味わうなら、熟練シェフが目の前で焼き上げる「鉄板焼ステーキ」が王道です。人肌の温度で溶け出す上質な不飽和脂肪酸が、重たさを感じさせない軽やかなコクと芳醇な香りを口いっぱいに広げます。あっさり味わいたい方には冬限定の「神戸牛しゃぶしゃぶ」やすき焼きも大好評。有名店は年末年始や週末に満席となるため、宿泊先ホテル内のレストランを宿泊予約と同時に確保するのが賢明です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-teal-500" />
-                海辺に湧く天然温泉「神戸みなと温泉」の温浴効果
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-teal-500" />
+                海辺に湧く天然温泉「神戸みなと温泉」の温浴効果</h3>
               <p className="leading-relaxed">
                 神戸港の新港突堤に湧く「神戸みなと温泉」は、地下1,150mから汲み上げる高濃度のナトリウム塩化物泉。湯上がりに肌がしっとり潤い、体の熱を逃がさない保温効果があるため、冬の寒風にさらされた後の入浴に最高です。露天風呂から神戸港を航行する客船の汽笛を聞きながら湯浴みを楽しむ時間は、都会にいながら極上のリゾート気分を味あわせてくれます。
               </p>
@@ -533,27 +515,21 @@ export default function HyogoKobePortWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Logistics</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬（11月・12月・1月）の神戸気候・海風防寒対策とスムーズアクセス術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬（11月・12月・1月）の神戸気候・海風防寒対策とスムーズアクセス術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <ShieldCheck className="w-5 h-5 text-rose-500" />
-                六甲おろしと海風の防寒ポイント
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-rose-500" />
+                六甲おろしと海風の防寒ポイント</h3>
               <p className="leading-relaxed">
                 神戸の冬は北から吹き降ろす「六甲おろし」と、南の海から吹き込む冷たい海風が交錯します。特にメリケンパークやハーバーランドの海岸沿いは遮蔽物が少ないため、風を通さない防風ダウンやロングコート、手袋、マフラーが必須です。また、北野異人館街は急な坂道が多いため、ヒールではなく滑りにくい歩きやすいブーツやスニーカーを選びましょう。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-indigo-500" />
-                無料シャトルバス＆シティループの使いこなし
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-500" />
+                無料シャトルバス＆シティループの使いこなし</h3>
               <p className="leading-relaxed">
                 JR三ノ宮駅とメリケンパーク、ハーバーランド、ポートアイランドの各ホテル間は、各ホテルが運行する無料シャトルバスが高頻度で発着しており、寒い夜でも快適に移動できます。また、三宮・元町・南京町・メリケンパーク・北野異人館を巡る観光周遊バス「シティループ」を利用すれば、主要観光スポットを乗り換えなしで効率よく周遊できます。
               </p>
@@ -565,18 +541,14 @@ export default function HyogoKobePortWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-500 pl-4">
             <span className="text-rose-600 font-bold text-xs uppercase tracking-wider block">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の神戸港・生田神社・元町旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の神戸港・生田神社・元町旅行 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-rose-100 text-rose-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-rose-100 text-rose-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {item.a}
                 </p>
@@ -587,10 +559,8 @@ export default function HyogoKobePortWinterPage() {
 
         {/* Internal Feature Links Section */}
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-200">
-          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-rose-600" />
-            あわせて読みたい関西・兵庫の冬特選特集記事
-          </h2>
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-rose-600" />
+            あわせて読みたい関西・兵庫の冬特選特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             有馬温泉や姫路城、大阪・京都など近隣の魅力的な冬旅特集もぜひご覧ください。
           </p>

@@ -303,10 +303,8 @@ export default function FukuiTsurugaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-indigo-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の福井・敦賀＆若狭旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-indigo-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の福井・敦賀＆若狭旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-indigo-50/60 p-4 rounded-xl border border-indigo-100">
               <span className="font-bold text-indigo-950 block mb-1">① 氣比神宮 新春初詣と長命水</span>
@@ -344,9 +342,7 @@ export default function FukuiTsurugaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest block">AREA ATMOSPHERE & GEO OVERVIEW</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                古の海運の要衝・敦賀と、白銀の若狭湾が紡ぐ冬の静謐
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">古の海運の要衝・敦賀と、白銀の若狭湾が紡ぐ冬の静謐</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function FukuiTsurugaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-indigo-700" /> 日本三大木造鳥居・氣比神宮
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-indigo-700" /> 日本三大木造鳥居・氣比神宮</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 正保2年（1645年）建立の国重要文化財。高さ約11メートルの荘厳な朱塗り鳥居が雪景色に映え、参拝者を圧倒します。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-indigo-700" /> 神秘の五色湖・三方五湖
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Waves className="w-4 h-4 text-indigo-700" /> 神秘の五色湖・三方五湖</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 淡水・汽水・海水と塩分濃度が異なる5つの湖。冬は水鳥が集い、水月湖の年縞博物館など知的好奇心を刺激する名所も点在。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-indigo-700" /> 敦賀赤レンガ倉庫＆人道の港
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-indigo-700" /> 敦賀赤レンガ倉庫＆人道の港</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 明治の面影を残す赤レンガ倉庫には日本最大級の鉄道ジオラマ。港町敦賀が辿った国際海運の歴史ロマンに触れられます。
               </p>
@@ -398,9 +388,7 @@ export default function FukuiTsurugaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                黄色タグ「越前がに」と極寒の恵み「若狭ふぐ」、福井が誇る冬の二大王者
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">黄色タグ「越前がに」と極寒の恵み「若狭ふぐ」、福井が誇る冬の二大王者</h2>
             </div>
           </div>
 
@@ -418,9 +406,7 @@ export default function FukuiTsurugaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-700" /> 黄色タグ・越前がにの味わい方
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-700" /> 黄色タグ・越前がにの味わい方</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>茹でガニ：</strong>絶妙な塩加減で職人が大釜で茹で上げた、身の甘みと味噌の濃厚さが際立つ王道。</li>
                 <li>・<strong>焼きガニ：</strong>炭火の遠赤外線で香ばしい薫香をまとわせ、甘い肉汁を閉じ込めた逸品。</li>
@@ -428,9 +414,7 @@ export default function FukuiTsurugaWinterPage() {
               </ul>
             </div>
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-amber-700" /> 若狭ふぐフルコースの醍醐味
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Wine className="w-4 h-4 text-amber-700" /> 若狭ふぐフルコースの醍醐味</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>てっさ（薄造り）：</strong>透き通る身の弾力と噛むほどに溢れる上品な甘み。自家製ポン酢で。</li>
                 <li>・<strong>てっちり（ふぐ鍋）：</strong>昆布出汁にふぐのアラと冬野菜を煮込み、コラーゲンたっぷりのスープ。</li>
@@ -444,9 +428,7 @@ export default function FukuiTsurugaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              氣比神宮初詣＆越前若狭冬美食を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">氣比神宮初詣＆越前若狭冬美食を満喫する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
               楽天トラベルAPIから最新の空室状況・評価を取得。新幹線直結の高機能ホテルから水月湖畔の絶景温泉宿まで厳選。
             </p>
@@ -486,9 +468,7 @@ export default function FukuiTsurugaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0" />
@@ -547,19 +527,15 @@ export default function FukuiTsurugaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                11・12・1月を満喫する「氣比神宮初詣と三方五湖・越前がに」1泊2日黄金コース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">11・12・1月を満喫する「氣比神宮初詣と三方五湖・越前がに」1泊2日黄金コース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-indigo-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-indigo-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                北陸新幹線で敦賀へ到着、氣比神宮初詣と敦賀赤レンガ倉庫巡り
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-indigo-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                北陸新幹線で敦賀へ到着、氣比神宮初詣と敦賀赤レンガ倉庫巡り</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>10:30 北陸新幹線にてJR敦賀駅に到着</strong><br />
                 東京駅から最速3時間8分、関西・中京からも特急で快適に到着。駅前コインロッカーやホテルに荷物を預け、市内観光へ出発。
@@ -580,10 +556,8 @@ export default function FukuiTsurugaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                三方五湖の神秘的な冬静寂と日本海ドライブ、お土産調達
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                三方五湖の神秘的な冬静寂と日本海ドライブ、お土産調達</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:00 水月湖畔・年縞博物館を見学</strong><br />
                 奇跡の堆積物「年縞」が世界標準時計となった水月湖。静まり返った湖畔の景観と地球の歴史に思いを馳せる知的な朝散策。
@@ -608,19 +582,15 @@ export default function FukuiTsurugaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                福井・敦賀＆若狭 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">福井・敦賀＆若狭 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-indigo-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -637,9 +607,7 @@ export default function FukuiTsurugaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！全国の厳選「冬の初詣＆名湯・カニグルメ特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！全国の厳選「冬の初詣＆名湯・カニグルメ特集」</h2>
             </div>
           </div>
 

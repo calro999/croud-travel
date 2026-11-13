@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            天然の美容液と称される絹のようになめらかな名湯——飛騨川の渓谷美と最高峰の飛騨牛会席を堪能する
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">天然の美容液と称される絹のようになめらかな名湯——飛騨川の渓谷美と最高峰の飛騨牛会席を堪能する</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             岐阜県下呂市、清流飛騨川（益田川）のせせらぎ沿いに湯けむりを上げる下呂温泉。室町時代の高僧万里集九や江戸時代の儒学者林羅山により、有馬温泉・草津温泉とともに「日本三名泉」と称えられた天下の名湯です。下呂の湯の最大の特徴は、pH9以上のアルカリ性単純温泉がもたらす、とろりとした美容液のような極上の肌触り。湯船に体を沈めた瞬間から肌がしっとりと潤い、「美肌の湯」として女性をはじめ多くの温泉ファンを魅了し続けています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">岐阜県下呂市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  下呂温泉　水明館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">下呂温泉　水明館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業九十余年・飛騨川沿いに佇む下呂温泉の巨頭！三つの大浴場めぐりと本格日本庭園
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  下呂温泉 水明館（すいめいかん） —— 広大な敷地に広がるおもてなしの美学。多彩な館内湯巡りと芸術空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">下呂温泉 水明館（すいめいかん） —— 広大な敷地に広がるおもてなしの美学。多彩な館内湯巡りと芸術空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 館内三棟に設けられた個性豊かな三つの大浴場巡り
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">館内三棟に設けられた個性豊かな三つの大浴場巡り</h5>
                     <p className="text-stone-600 leading-relaxed">緑豊かな庭園を望む野天風呂、飛騨川を見下ろす展望大浴場、木の香る檜風呂。館内にいながら異なる趣で下呂の美肌の湯を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本庭園と名画・美術品が飾られた美術館のような館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本庭園と名画・美術品が飾られた美術館のような館内</h5>
                     <p className="text-stone-600 leading-relaxed">能舞台や茶室、数々の近現代日本画が展示されたロビーラウンジ。広大な日本庭園の鯉を眺めながら優雅な時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> A5等級飛騨牛を堪能する部屋食会席・フレンチ・中華
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">A5等級飛騨牛を堪能する部屋食会席・フレンチ・中華</h5>
                     <p className="text-stone-600 leading-relaxed">最高ランクの飛騨牛を贅沢に使った料理。伝統の和食会席はもちろん、本格欧風フレンチや広東料理レストランなど多彩な選択肢が魅力です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">岐阜県下呂市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  下呂温泉　湯之島館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">下呂温泉　湯之島館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   昭和六年創業・五万坪の山林に佇む国登録有形文化財！飛騨の木造建築美と源泉掛け流しの湯
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  下呂温泉 湯之島館 —— 昭和のロマンを今に伝える奇跡の名建築。山懐に抱かれた露天風呂と至福の部屋食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">下呂温泉 湯之島館 —— 昭和のロマンを今に伝える奇跡の名建築。山懐に抱かれた露天風呂と至福の部屋食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 本館・玄関・渡り廊下が国登録有形文化財に指定された木造建築美
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">本館・玄関・渡り廊下が国登録有形文化財に指定された木造建築美</h5>
                     <p className="text-stone-600 leading-relaxed">昭和初期の名匠たちが手がけた格式ある建築。美しい格子や欄間の彫刻、レトロな木造階段など、歩くだけで歴史の息吹を感じられます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 下呂の街並みと山並みを見下ろすパノラマ大浴場と展望露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">下呂の街並みと山並みを見下ろすパノラマ大浴場と展望露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">高台の山林に位置するため眺望抜群。自然林の木々に囲まれた露天風呂では、四季折々の風情とともに掛け流しの名湯を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> お部屋でゆったりと味わう飛騨牛と旬の山里会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">お部屋でゆったりと味わう飛騨牛と旬の山里会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">職人が一品ずつ心を込めて仕上げる本格会席。周りを気にせずお部屋で味わう飛騨牛の陶板焼きや季節の炊き込みご飯は格別です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">岐阜県下呂市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  下呂温泉　小川屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">下呂温泉　小川屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   名物「百帖空間の畳風呂」と多彩なスパ施設！飛騨川の清流を望む絶景と現代和モダンの寛ぎ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  下呂温泉 小川屋 —— 足元から温もる畳敷きの大浴場。七つの湯巡りと飛騨牛を味わう癒やしの宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">下呂温泉 小川屋 —— 足元から温もる畳敷きの大浴場。七つの湯巡りと飛騨牛を味わう癒やしの宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 特殊な畳を百帖敷き詰めた名物「畳風呂」大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">特殊な畳を百帖敷き詰めた名物「畳風呂」大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">滑りにくく足元が冷たくない安心・快適な畳風呂。肌に優しい下呂の湯に浸かりながら、和の温もりを全身で感じられます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 飛騨川のせせらぎを真下に望む開放的な絶景露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">飛騨川のせせらぎを真下に望む開放的な絶景露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">川の音を聞きながら入る露天風呂「川の音」や、岩盤浴・炭酸泉・人工温泉など多彩な湯浴み処で充実のリラクゼーションが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最高ランク飛騨牛の食べ比べや地元野菜を取り入れた極上和会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最高ランク飛騨牛の食べ比べや地元野菜を取り入れた極上和会席</h5>
                     <p className="text-stone-600 leading-relaxed">飛騨牛のステーキ、しゃぶしゃぶ、握り寿司など多彩な調理法で味わうプランが大人気。モダンな個室食事処でゆったり堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 下呂温泉街・飛騨川散策＆下呂温泉合掌村ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 下呂温泉街・飛騨川散策＆下呂温泉合掌村ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                下呂温泉合掌村での白川郷移築民家見学と陶芸体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                下呂温泉合掌村での白川郷移築民家見学と陶芸体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 世界遺産・白川郷などから移築された合掌造りの民家が立ち並ぶ野外博物館。国の重要文化財「旧大戸家住宅」の見学や、陶芸絵付け、名物の長いすべり台「森のすべり台」が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                温泉街の足湯めぐりと「温玉ソフト」食べ歩き
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                温泉街の足湯めぐりと「温玉ソフト」食べ歩き</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街に点在する無料の足湯スポット。「ゆあみ屋」の温泉たまごとソフトクリームが融合した名物「温玉ソフト」や、下呂プリンを片手に散策するのが定番の楽しみ方です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                飛騨川沿いのせせらぎ遊歩道と噴泉池
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                飛騨川沿いのせせらぎ遊歩道と噴泉池</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 川沿いに整備された遊歩道。かつて名物だった河原の「噴泉池（足湯）」や春の桜並木など、川面を渡る清涼な風を感じながらのんびり散歩を楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              岐阜県下呂市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">岐阜県下呂市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】下呂温泉 水明館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】下呂温泉 水明館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と下呂温泉 水明館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と下呂温泉 水明館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

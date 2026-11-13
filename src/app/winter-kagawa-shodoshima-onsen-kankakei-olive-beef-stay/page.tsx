@@ -280,10 +280,8 @@ export default function ShodoshimaOnsenWinterFeature() {
             <SunMedium className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜香川・瀬戸内海小豆島
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月小豆島温泉】<br className="hidden sm:inline" />
-            初冬の寒霞渓奇岩絶景とエンジェルロード夕日・オリーブ牛＆でんぶくの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月小豆島温泉】<br className="hidden sm:inline" />
+            初冬の寒霞渓奇岩絶景とエンジェルロード夕日・オリーブ牛＆でんぶくの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             穏やかな瀬戸内海に抱かれたオリーブ香る島。潮の満ち引きが現す神秘の砂の道、寒霞渓のダイナミックな渓谷美、初摘みオリーブオイルと最高級小豆島オリーブ牛を堪能する大人のアイランドステイ。
           </p>
@@ -301,9 +299,7 @@ export default function ShodoshimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Island Retreat & Olive Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の温暖な瀬戸内海と、寒霞渓・エンジェルロードが描く奇跡の風景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の温暖な瀬戸内海と、寒霞渓・エンジェルロードが描く奇跡の風景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,26 +340,20 @@ export default function ShodoshimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Thermal Science & Island Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                搾りたて初摘みオリーブオイル解禁と「小豆島オリーブ牛・讃岐でんぶく」の奇跡
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">搾りたて初摘みオリーブオイル解禁と「小豆島オリーブ牛・讃岐でんぶく」の奇跡</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>初摘み新油のフルーティな芳香と、脂肪融点24℃の「小豆島オリーブ牛」</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>初摘み新油のフルーティな芳香と、脂肪融点24℃の「小豆島オリーブ牛」</span></h3>
             <p>
               小豆島では毎年10月から11月下旬にかけてオリーブの収穫が行われます。11月中旬以降は、収穫されたばかりの新鮮な緑色・紫色の果実をその日のうちにコールドプレス（低温圧搾）した「初摘みエキストラバージンオリーブオイル（新油）」が解禁される特別な季節です。ポリフェノールやオレイン酸を豊富に含み、青リンゴや刈りたての若草のような鮮烈なアロマと心地よいスパイシーな辛味を持っています。
             </p>
             <p>
               このオリーブの搾り粕を乾燥・焙煎し、出荷前2カ月以上にわたって給餌して育てるのが香川県が誇る幻の黒毛和牛「小豆島オリーブ牛」です。オリーブに含まれる良質なオレイン酸が牛の体脂肪に蓄積され、脂の融点はわずか約24℃（一般的な和牛は28〜32℃）。人の体温で舌の上に乗せた瞬間に脂がさらりと溶け出し、赤身に含まれる遊離グルタミン酸などの旨味成分が濃厚に広がります。鉄板焼きやローストで、初摘みオリーブオイルと天日塩を添えて味わう一口は、世界最高峰の肉料理の感動を与えてくれます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>冬の瀬戸内の隠れた至宝「讃岐でんぶく」と400年木桶醤油仕込み</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>冬の瀬戸内の隠れた至宝「讃岐でんぶく」と400年木桶醤油仕込み</span></h3>
             <p>
               冬の瀬戸内海のもう一つの主役が、香川県ブランドの高級フグ「讃岐でんぶく（ナシフグ）」です。漁獲が認められている海域が限定され、厳しい衛生管理のもとで処理される希少な魚で、繊維が緻密でしっかりとした歯ごたえと上品な甘みを誇ります。冬の初風が吹く頃から脂と旨味が一段と凝縮し、花びらのように並べられた薄造りや、サクサクの唐揚げ、出汁が絶品のてっちり鍋で楽しめます。
             </p>
@@ -377,9 +367,7 @@ export default function ShodoshimaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              小豆島温泉・冬の滞在を彩る厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">小豆島温泉・冬の滞在を彩る厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
@@ -405,11 +393,9 @@ export default function ShodoshimaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                     </div>
                     <div className="text-right flex sm:flex-col items-baseline sm:items-end justify-between sm:justify-center">
                       <span className="text-xs text-slate-500">1名あたり参考料金（税込）</span>
@@ -498,9 +484,7 @@ export default function ShodoshimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">1泊2日 満喫ルート</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                寒霞渓ロープウェイ＆エンジェルロードと醤の郷を巡る小豆島周遊モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">寒霞渓ロープウェイ＆エンジェルロードと醤の郷を巡る小豆島周遊モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -533,26 +517,20 @@ export default function ShodoshimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Advisory</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の小豆島 冬旅の注意点と服装・フェリー利用のコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の小豆島 冬旅の注意点と服装・フェリー利用のコツ</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                温暖な気候と海風対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                温暖な気候と海風対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 本州に比べて温暖で雪の心配は平地ではありませんが、海沿いやフェリーのデッキ、標高約600mの寒霞渓山頂は風が強く体感温度が下がります。着脱しやすい風を通さないコートやウインドブレーカー、ストールを1枚持参すると快適です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                エンジェルロードの干潮時刻確認
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                エンジェルロードの干潮時刻確認</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 エンジェルロードを渡れるのは、干潮時刻の前後約2〜3時間です。毎日時間が変わるため、事前に小豆島観光協会の潮見表を確認して行程を組むのが必須です。また砂浜や足場が濡れている場所を歩くため、歩きやすいスニーカーがおすすめです。
               </p>
@@ -568,18 +546,14 @@ export default function ShodoshimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                小豆島温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">小豆島温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -592,9 +566,7 @@ export default function ShodoshimaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい四国・瀬戸内の冬名湯＆極上グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい四国・瀬戸内の冬名湯＆極上グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の穏やかな海絶景と、瀬戸内海の旬の味覚を味わう人気の厳選特集もぜひご覧ください。
             </p>

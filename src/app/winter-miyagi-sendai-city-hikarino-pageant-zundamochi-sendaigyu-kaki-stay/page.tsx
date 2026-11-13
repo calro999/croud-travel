@@ -160,11 +160,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F107740%2F107740.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     ウェスティンホテル仙台
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区一番町1-9-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.47 ｜ 1泊〜¥17,710〜</p>
                 <p className="text-sm text-gray-700 mb-3">ダイナミックな仙台市街の眺望を誇る最上級タワーホテル。洗練された客室と充実したレストランが自慢。</p>
                 <a
@@ -189,11 +187,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F389%2F389.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     ホテルメトロポリタン仙台
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区中央1-1-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.43 ｜ 1泊〜¥7,250〜</p>
                 <p className="text-sm text-gray-700 mb-3">仙台駅直結の好立地。地元食材を活かしたレストランと快適な客室で、東北旅行の拠点として最適。</p>
                 <a
@@ -218,11 +214,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1665%2F1665.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     ホテルＪＡＬシティ仙台
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区花京院1-2-12 ｜ 最寄り：仙台駅 ｜ ⭐ 4.21 ｜ 1泊〜¥4,950〜</p>
                 <p className="text-sm text-gray-700 mb-3">仙台駅から徒歩圏内。使い勝手のよい設備と丁寧なサービスで、ビジネス・観光どちらにも人気の宿。</p>
                 <a
@@ -247,11 +241,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F912%2F912.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     仙台国際ホテル
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区中央4-6-1 ｜ 最寄り：仙台駅 ｜ ⭐ 4.15 ｜ 1泊〜¥5,400〜</p>
                 <p className="text-sm text-gray-700 mb-3">仙台中心部に位置するシティホテル。地元宮城の食材を活かした料理と、落ち着いた空間が魅力。</p>
                 <a
@@ -276,11 +268,9 @@ export default function Page() {
                 />
               </a>
               <div className="p-4">
-                <h3 className="text-lg font-bold mb-1">
-                  <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
+                <h3 className="text-lg font-bold mb-1"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F57055%2F57055.html" target="_blank" rel="noopener noreferrer sponsored" className="hover:underline text-blue-700">
                     天然温泉 萩の湯 ドーミーイン仙台駅前
-                  </a>
-                </h3>
+                  </a></h3>
                 <p className="text-sm text-gray-500 mb-2">📍 仙台市青葉区本町1-5-38 ｜ 最寄り：仙台駅 ｜ ⭐ 4.19 ｜ 1泊〜¥6,780〜</p>
                 <p className="text-sm text-gray-700 mb-3">仙台駅徒歩圏内の天然温泉付きビジネスホテル。夜鳴きそばや大浴場が評判で、コスパの高さが口コミで人気。</p>
                 <a

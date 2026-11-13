@@ -269,9 +269,7 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Warm Coastal Sanctuary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黒潮がもたらす温暖な冬と本場地金目鯛｜11月・12月に伊豆稲取を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒潮がもたらす温暖な冬と本場地金目鯛｜11月・12月に伊豆稲取を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Brand Kinmedai Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                なぜ「稲取の地金目」は別格なのか｜伝統の一本釣りと初冬の極上脂の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ「稲取の地金目」は別格なのか｜伝統の一本釣りと初冬の極上脂の秘密</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -318,9 +314,7 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Inatori Winter Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の伊豆稲取1泊2日満喫モデルコース｜絶景オーシャンビュー露天と金目鯛三昧
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の伊豆稲取1泊2日満喫モデルコース｜絶景オーシャンビュー露天と金目鯛三昧</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -339,9 +333,7 @@ export default function ShizuokaInatoriWinterFeature() {
         <section className="space-y-12">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Selected Inatori Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の稲取温泉を満喫する厳選おすすめ宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の稲取温泉を満喫する厳選おすすめ宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               全室オーシャンビューの名門老舗から、圧倒的ボリュームの料理自慢宿、波打ち際の絶景露天まで、現地取材に基づき厳選しました。
             </p>
@@ -383,9 +375,7 @@ export default function ShizuokaInatoriWinterFeature() {
                             静岡県賀茂郡東伊豆町稲取
                           </span>
                         </div>
-                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                         <p className="text-xs sm:text-sm text-rose-800 font-medium bg-rose-50/70 px-3 py-1.5 rounded-lg border border-rose-100/80">
                           {h.special}
                         </p>
@@ -453,28 +443,22 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kinmedai Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                一本釣り「稲取地金目鯛」が魅せる至高の味わい｜姿煮・しゃぶしゃぶ・地魚舟盛り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">一本釣り「稲取地金目鯛」が魅せる至高の味わい｜姿煮・しゃぶしゃぶ・地魚舟盛り</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-slate-700 leading-relaxed">
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Fish className="w-5 h-5 text-rose-600" />
-                秘伝の甘辛ダレで炊き上げる名物「金目鯛の姿煮」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Fish className="w-5 h-5 text-rose-600" />
+                秘伝の甘辛ダレで炊き上げる名物「金目鯛の姿煮」</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 稲取温泉の旅館ごとに代々受け継がれてきた秘伝の煮汁で、丸ごと一匹ふっくらと煮付ける「姿煮」。11月・12月の金目鯛は上質な脂が皮と身の間にぎっしり詰まっており、煮汁のコクと相まってとろけるような食感を生み出します。煮汁をご飯にかけていただく「金目飯」も外せない贅沢です。
               </p>
             </div>
 
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" />
-                相模灘の朝獲れ伊勢海老・活アワビ・地魚舟盛り
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" />
+                相模灘の朝獲れ伊勢海老・活アワビ・地魚舟盛り</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 稲取港をはじめとする東伊豆の漁港からは、金目鯛だけでなくぷりぷりの伊勢海老、肉厚な活アワビ、カンパチ、真鯛、アジなど獲れたての海の幸が集まります。伊豆天城山麓の清流で育った本生山葵（わさび）をその場ですりおろし、刺身の甘みを引き立てて味わう贅沢な時間は旅のハイライトです。
               </p>
@@ -490,9 +474,7 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-300 uppercase tracking-widest">Ocean Mineral Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold">
-                湯冷め知らずの塩化物泉｜稲取温泉の優れた保温効果と美肌作用
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold">湯冷め知らずの塩化物泉｜稲取温泉の優れた保温効果と美肌作用</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-200 leading-relaxed">
@@ -525,9 +507,7 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Planning & Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                稲取温泉へのアクセスと快適な避寒旅行のモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">稲取温泉へのアクセスと快適な避寒旅行のモデルコース</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -559,18 +539,14 @@ export default function ShizuokaInatoriWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                静岡・伊豆稲取温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">静岡・伊豆稲取温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -583,9 +559,7 @@ export default function ShizuokaInatoriWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Related Izu & Coastal Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい伊豆・関東周辺の冬名湯＆極上海鮮特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい伊豆・関東周辺の冬名湯＆極上海鮮特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の温暖な避寒旅や、冬の旬魚・オーシャンビュー露天風呂をめぐる厳選特集もぜひご覧ください。
             </p>

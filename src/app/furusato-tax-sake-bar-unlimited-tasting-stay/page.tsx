@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          蔵元の情熱が宿る芳醇な一滴。美酒と名湯に身を委ねる大人のための酒浸りステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">蔵元の情熱が宿る芳醇な一滴。美酒と名湯に身を委ねる大人のための酒浸りステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              宿内ラウンジや専用BARで数十種類のプレミアム地酒を自由に試飲
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">宿内ラウンジや専用BARで数十種類のプレミアム地酒を自由に試飲</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               純米大吟醸から季節限定の生原酒、にごり酒まで、地域の名だたる銘柄を自分のペースで少しずつ飲み比べできる贅沢な時間。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              利酒師（ソムリエ）が提案する一皿一酒の完璧なペアリングディナー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">利酒師（ソムリエ）が提案する一皿一酒の完璧なペアリングディナー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               前菜からお造り、メインの肉料理まで、料理の旨味を引き立てる温度や酒器にこだわったプロのペアリングを満喫できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              酒蔵見学ツアーや限定ボトルの購入など酒処ならではの特典
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">酒蔵見学ツアーや限定ボトルの購入など酒処ならではの特典</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               仕込み蔵の見学や蔵元限定の非売品生酒のお土産付きプランなど、日本酒ファン垂涎のプログラムが充実しています。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="echigo_sake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                新潟県湯沢町ふるさと納税：越後湯沢駅「ぽんしゅ館」と新潟90蔵の利き酒・越後湯沢温泉の酒風呂名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">新潟県湯沢町ふるさと納税：越後湯沢駅「ぽんしゅ館」と新潟90蔵の利き酒・越後湯沢温泉の酒風呂名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 新潟県内すべての酒蔵の銘柄が試飲できる「ぽんしゅ館」。日本酒を注いだ天然温泉「酒風呂」を楽しめる宿もあり、魚沼産コシヒカリと日本海の幸、極上地酒のペアリングを心ゆくまで堪能できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県南魚沼郡湯沢町湯沢318-5
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    越後湯沢温泉　松泉閣花月
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後湯沢温泉　松泉閣花月</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     「お帰りなさいませ「「いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="akayu_sake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山形県南陽市ふるさと納税：山形の銘酒揃い踏み「地酒BAR」と開湯900年赤湯温泉・山形牛ディナー
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山形県南陽市ふるさと納税：山形の銘酒揃い踏み「地酒BAR」と開湯900年赤湯温泉・山形牛ディナー</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 「十四代」をはじめ全国的銘酒の宝庫・山形。赤湯温泉の風情ある旅館で、囲炉裏端や専用BARカウンターで厳選地酒を飲み比べ。名物米沢牛やすき焼きとともに至福の酔い心地に浸れます。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県南陽市赤湯1014
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    赤湯温泉　大正ロマン香る癒しの宿　丹波館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">赤湯温泉　大正ロマン香る癒しの宿　丹波館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     源泉掛け流しの天然温泉と米沢牛の美味しさに舌鼓！木造3階建ての風情ある老舗旅館をお楽しみ下さい。
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県南陽市赤湯972
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    赤湯温泉　美術館のような宿　旅館やまと屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">赤湯温泉　美術館のような宿　旅館やまと屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     源泉かけ流しの湯と四季の会席料理を愉しむ、私設美術館のような食の宿。
                   </p>
@@ -297,9 +279,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="fushimi_sake" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                京都府京都市ふるさと納税：名水「伏水」が醸す日本屈指の酒処・伏見酒蔵通りと風情ある町家ステイ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">京都府京都市ふるさと納税：名水「伏水」が醸す日本屈指の酒処・伏見酒蔵通りと風情ある町家ステイ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 白壁土蔵の酒蔵が連なる京都伏見。月桂冠や黄桜などの歴史ある蔵元を巡り、伏見の名水で仕込んだ繊細でまろやかな京の地酒と、伝統的な京料理の粋を味わう大人の小京都旅です。
               </p>
@@ -327,9 +307,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京都市伏見区深草祓川町11-29
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    奏　伏見稲荷大社前
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">奏　伏見稲荷大社前</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     古き良き街並みを再現した連棟の町家ホテル。人気の観光地「伏見稲荷大社」徒歩約５分。
                   </p>
@@ -390,9 +368,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -406,9 +382,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 勝沼・余市・十勝のワインペアリング旅。
               </p>
@@ -422,9 +396,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 余市・白州・秩父のモルト旅。
               </p>
@@ -442,9 +414,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -505,9 +475,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">地酒BAR＆日本酒利き酒し放題の名湯宿×ふるさと納税厳選ガイド越後湯沢・山形赤湯・京都伏見の酒蔵ステイエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

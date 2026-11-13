@@ -209,9 +209,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
       <section className="bg-white border border-indigo-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">BESPOKE LUXURY</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            至高の寛ぎを約束する、最高峰ラグジュアリーヴィラ4つの条件
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">至高の寛ぎを約束する、最高峰ラグジュアリーヴィラ4つの条件</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             自然の雄大さと一流リゾートホテルのホスピタリティが融合した究極のプライベートステイ。
           </p>
@@ -229,9 +227,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
                   {pillar.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {pillar.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{pillar.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {pillar.desc}
               </p>
@@ -244,9 +240,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
       <section className="bg-white border border-indigo-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-indigo-900 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">PRIVACY & COMFORT</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            一棟独立型スイートヴィラ vs 一般ドームテント 徹底比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">一棟独立型スイートヴィラ vs 一般ドームテント 徹底比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             なぜ記念日やご褒美旅行では「一棟貸しヴィラ」が選ばれるのか。
           </p>
@@ -284,9 +278,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
       <section className="space-y-6" aria-labelledby="luxury-hotels-heading">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">EXCLUSIVE RETREATS</span>
-          <h2 id="luxury-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            大人の隠れ家！完全プライベートを誇る最高峰グランピングヴィラ
-          </h2>
+          <h2 id="luxury-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">大人の隠れ家！完全プライベートを誇る最高峰グランピングヴィラ</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             客室露天風呂・プライベートサウナ・上質な空間美を極めた最高ランクの宿。
           </p>
@@ -334,9 +326,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-indigo-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "プライベート感あふれる一棟貸しヴィラ。専用温泉やテラスで極上のリトリートタイムを満喫できる大人の隠れ家。"}
@@ -373,18 +363,14 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
       <section className="bg-white rounded-3xl border border-indigo-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-indigo-700 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            ラグジュアリーヴィラ・高級グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">ラグジュアリーヴィラ・高級グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-indigo-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-indigo-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -395,9 +381,7 @@ export default function SilverWeekGlampingLuxurySuiteVillaPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-indigo-950 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-indigo-800/40">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🥂</span> 特別な日の記念日旅行におすすめの関連記事
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">特別な日の記念日旅行におすすめの関連記事</h3>
         <p className="text-xs text-indigo-200/80">
           カップル記念日や夫婦の記念旅行に選ばれる極上リゾートガイドもあわせてご覧ください。
         </p>

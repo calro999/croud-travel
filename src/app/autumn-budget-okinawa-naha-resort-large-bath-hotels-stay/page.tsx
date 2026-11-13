@@ -55,9 +55,7 @@ export default function OkinawaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋こそ沖縄旅行の「真のベストシーズン」な理由
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋こそ沖縄旅行の「真のベストシーズン」な理由</h2>
           <p className="mb-4 text-stone-700">
             沖縄の秋（10月中旬〜11月）は、平均気温が23〜25℃前後と半袖で心地よく過ごせる快適な気候。海風が爽やかで、首里城公園や国際通り、やちむんの里の散策など街歩き観光に最も適した季節です。
           </p>
@@ -69,10 +67,8 @@ export default function OkinawaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！那覇の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！那覇の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function OkinawaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.3</span>
                     <span className="text-stone-400 text-xs">(793件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ワイズキャビン＆ホテル那覇国際通り
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ワイズキャビン＆ホテル那覇国際通り</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: ゆいレール各駅 / ゆいレール県庁前駅徒歩３分
                   </p>
@@ -142,9 +136,7 @@ export default function OkinawaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.02</span>
                     <span className="text-stone-400 text-xs">(732件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">グリーンリッチホテル＆カプセル那覇　人工温泉・二股湯の華</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / 那覇空港より車で１０分、ゆいレール美栄橋駅より徒歩８分、ゆいレール県庁前駅より徒歩９分、コンビニ目の前、国際通り徒歩圏内
                   </p>
@@ -189,9 +181,7 @@ export default function OkinawaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.31</span>
                     <span className="text-stone-400 text-xs">(1755件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ダイワロイネットホテル那覇国際通り
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ダイワロイネットホテル那覇国際通り</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: ゆいレール各駅 / 那覇空港からゆいレールで約20分、「牧志」駅下車直結、徒歩約1分！！国際通りに面しています。
                   </p>
@@ -236,9 +226,7 @@ export default function OkinawaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.53</span>
                     <span className="text-stone-400 text-xs">(1018件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルリソルトリニティ那覇
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルリソルトリニティ那覇</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / ゆいレール「旭橋駅」出入口2より徒歩3分
                   </p>
@@ -282,9 +270,7 @@ export default function OkinawaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.04</span>
                     <span className="text-stone-400 text-xs">(1653件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルルートイン那覇泊港
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルルートイン那覇泊港</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 那覇空港 / 那覇空港より車で約１０分（４．５ｋｍ）/モノレール美栄橋駅より徒歩５分。
                   </p>
@@ -329,9 +315,7 @@ export default function OkinawaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の沖縄・那覇×格安：快適オフシーズン旅！大浴場付き1泊2,000円〜5,000円台の高コスパリゾートホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -401,9 +385,7 @@ export default function OkinawaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の沖縄・那覇×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の沖縄・那覇×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -108,9 +108,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  「頭寒足熱」の極上バランス！長湯しても疲れにくい理想的な雪見入浴
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">「頭寒足熱」の極上バランス！長湯しても疲れにくい理想的な雪見入浴</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 雪見風呂の最大の魅力は、氷点下の外気で頭部がひんやりと冷やされるため、のぼせることなくじっくりと長湯ができること。雪景色を眺めながら静かに心拍を落ち着かせ、身体の芯から温まることで、日頃の自律神経の乱れや冷え性を劇的に改善してくれます。
@@ -123,9 +121,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  夕暮れのマジックアワーとライトアップされた夜の白銀世界が息を呑む美しさ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">夕暮れのマジックアワーとライトアップされた夜の白銀世界が息を呑む美しさ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 雪景色が最も美しく輝くのは夕暮れから夜にかけて。茜色から深い藍色へと空が移り変わるトワイライトタイム、そしてライトアップされた雪や氷柱が青白く輝く幻想的な夜の露天風呂は、まるで別世界に迷い込んだかのような感動的な情景を見せてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  冬限定の味覚！日本海や北の大地の海の幸、身体あたたまる名物鍋料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">冬限定の味覚！日本海や北の大地の海の幸、身体あたたまる名物鍋料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 雪見風呂で身体を清めた後は、熱々の鍋料理や冬の旬魚介を味わう至福のディナータイム。日本海寒鰤のしゃぶしゃぶや越後牛、北海道の毛ガニや海鮮鍋など、寒冷地ならではの濃厚な味わいと地酒の熱燗が身体の隅々まで染み渡ります。
@@ -183,9 +177,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     群馬県嬬恋村・標高1800mの白銀パノラマと乳白色の絶景雪見露天風呂
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    万座温泉　万座プリンスホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">万座温泉　万座プリンスホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     上信越高原国立公園内の標高1,800mに位置し、日本屈指の硫黄含有量を誇る名湯・万座温泉のシンボルホテル。遮るものが何一つない大自然の中に設けられた名物露天風呂「こまくさの湯」からは、真っ白に雪化粧した山々のパノラマと満天の星空が一望できます。乳白色に濁る濃厚な硫黄泉は身体の芯まで温め、湯冷め知らずの心地よさ。ゲレンデ直結の立地のため、スキーやスノーボードを楽しんだ後のアフタースノー温泉ステイとしても絶大な人気を誇ります。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     新潟県湯沢町・雪国の風情漂う広大な庭園露天風呂と越後の美味
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    越後湯沢温泉　湯沢グランドホテル＜新潟県＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">越後湯沢温泉　湯沢グランドホテル＜新潟県＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     JR越後湯沢駅から徒歩約3分、川端康成の小説『雪国』の舞台となった歴史ある温泉街に建つ大型名門ホテル。宿の自慢は約500坪の広大な庭園露天風呂で、冬になると庭園の木々や岩が純白の雪で覆われ、湯煙立ち上る幻想的な雪見風呂を満喫できます。大型のサウナやジャグジーも完備。夕食には新潟が誇るコシヒカリや日本海の新鮮魚介、にいがた和牛をふんだんに使った贅沢バイキングや本格会席が振る舞われ、雪国の温かなもてなしに心癒やされます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道札幌市・定山渓渓谷の冬景色と名物ラウンジサービスの老舗旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    定山渓温泉　章月グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">定山渓温泉　章月グランドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     札幌の奥座敷・定山渓温泉の豊平川渓谷沿いに佇み、創業90年の歴史を刻む名門温泉旅館。全客室が渓谷に面しており、窓の外には水墨画のように美しい白銀の雪渓が広がります。源泉かけ流しの露天風呂からは、川のせせらぎと雪が舞い散る風情ある景色を間近に楽しめます。蜂蜜バイキングや夕刻の湯上がりビール、夜のバータイムなど滞在を豊かに彩るラウンジサービスも充実。北海道の旬の味覚を散りばめた創作和食会席とともに贅沢な冬の休日をお過ごしいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】万座温泉 万座プリンスホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】万座温泉 万座プリンスホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoSnowViewOpenAirBathStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と万座温泉 万座プリンスホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と万座温泉 万座プリンスホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

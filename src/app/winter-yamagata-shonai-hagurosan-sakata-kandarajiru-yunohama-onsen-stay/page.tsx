@@ -303,10 +303,8 @@ export default function YamagataShonaiWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-teal-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の山形・庄内旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-teal-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の山形・庄内旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-teal-50/60 p-4 rounded-xl border border-teal-100">
               <span className="font-bold text-teal-950 block mb-1">① 羽黒山五重塔と出羽三山初詣</span>
@@ -344,9 +342,7 @@ export default function YamagataShonaiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-700 uppercase tracking-widest block">AREA ATMOSPHERE & GEO OVERVIEW</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                出羽三山の霊域と最上川河口の湊町、白銀の大地に宿る生命力
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">出羽三山の霊域と最上川河口の湊町、白銀の大地に宿る生命力</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function YamagataShonaiWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-teal-700" /> 羽黒山 杉並木と国宝五重塔
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-teal-700" /> 羽黒山 杉並木と国宝五重塔</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 ミシュラン三ツ星の杉並木回廊。白雪に包まれた素木造りの五重塔は、東北屈指の神聖な絶景です。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-teal-700" /> 酒田 山居倉庫の雪ケヤキ並木
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-teal-700" /> 酒田 山居倉庫の雪ケヤキ並木</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 明治の米保管庫12棟と樹齢150年超のケヤキ並木。白と黒の雪景色が織りなす歴史情緒あふれる美観。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/70 border border-teal-100">
-              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-teal-700" /> 湯野浜・あつみ二大温泉郷
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm mb-1 flex items-center gap-1.5"><Waves className="w-4 h-4 text-teal-700" /> 湯野浜・あつみ二大温泉郷</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 日本海の荒波を望む湯野浜温泉の塩化物泉と、温海川渓流の静けさに癒やされるあつみ温泉の名湯。
               </p>
@@ -398,9 +388,7 @@ export default function YamagataShonaiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                地吹雪が呼ぶ真鱈の恵み「寒鱈どんがら汁」と、冬の日本海寒魚・山形牛
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">地吹雪が呼ぶ真鱈の恵み「寒鱈どんがら汁」と、冬の日本海寒魚・山形牛</h2>
             </div>
           </div>
 
@@ -418,9 +406,7 @@ export default function YamagataShonaiWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-700" /> 寒鱈どんがら汁の贅沢ポイント
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-700" /> 寒鱈どんがら汁の贅沢ポイント</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>アブラワタ（肝臓）：</strong>スープに溶け込むことで奥深いコクと黄金色の脂を生み出す核心部。</li>
                 <li>・<strong>タツ・ダツ（白子）：</strong>クリーミーで濃厚、熱々の出汁の中でとろける冬の真鱈の宝石。</li>
@@ -428,9 +414,7 @@ export default function YamagataShonaiWinterPage() {
               </ul>
             </div>
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-amber-700" /> 庄内平野と冬の地酒ペアリング
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Wine className="w-4 h-4 text-amber-700" /> 庄内平野と冬の地酒ペアリング</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>しぼりたて新酒：</strong>鳥海山の伏流水で仕込む「初孫」「楯野川」「麓井」のフレッシュな冬の酒。</li>
                 <li>・<strong>山形牛すき焼き：</strong>きめ細やかな霜降りと上品な甘みの脂を特製割り下と地元の生卵で。</li>
@@ -444,9 +428,7 @@ export default function YamagataShonaiWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              出羽三山初詣＆庄内冬美食を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">出羽三山初詣＆庄内冬美食を満喫する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
               楽天トラベルAPIから最新の空室状況・評価を取得。日本海を一望する絶景温泉から伝統の名門宿、駅直結ホテルまで網羅。
             </p>
@@ -486,9 +468,7 @@ export default function YamagataShonaiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0" />
@@ -547,19 +527,15 @@ export default function YamagataShonaiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                11・12・1月を満喫する「羽黒山五重塔初詣と酒田山居倉庫・寒鱈汁」1泊2日黄金コース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">11・12・1月を満喫する「羽黒山五重塔初詣と酒田山居倉庫・寒鱈汁」1泊2日黄金コース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-teal-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-teal-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                庄内空港・鶴岡駅から羽黒山へ、雪の国宝五重塔参拝と湯野浜温泉へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-teal-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                庄内空港・鶴岡駅から羽黒山へ、雪の国宝五重塔参拝と湯野浜温泉へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>10:00 庄内空港またはJR鶴岡駅に到着</strong><br />
                 羽田からわずか1時間。レンタカーまたは路線バスにて羽黒山随神門へ向かう。
@@ -580,10 +556,8 @@ export default function YamagataShonaiWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                湊町酒田の歴史散策、山居倉庫雪景色と港の海鮮市場巡り
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                湊町酒田の歴史散策、山居倉庫雪景色と港の海鮮市場巡り</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:30 酒田「山居倉庫」の雪ケヤキ並木を散策</strong><br />
                 白壁土蔵と雪化粧したケヤキ並木の美しいコントラストを観賞。「酒田夢の倶楽」で庄内の銘酒やお菓子をお土産に購入。
@@ -608,19 +582,15 @@ export default function YamagataShonaiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                山形・庄内＆出羽三山 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">山形・庄内＆出羽三山 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-teal-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-teal-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -637,9 +607,7 @@ export default function YamagataShonaiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！東北・日本海の厳選「冬の初詣＆名湯・雪景色特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！東北・日本海の厳選「冬の初詣＆名湯・雪景色特集」</h2>
             </div>
           </div>
 

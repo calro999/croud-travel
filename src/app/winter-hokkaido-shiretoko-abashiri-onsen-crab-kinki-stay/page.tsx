@@ -301,9 +301,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀の知床連峰と凛冽のオホーツク海、深海の赤い宝石「めんめ」がもたらす冬の感動
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀の知床連峰と凛冽のオホーツク海、深海の赤い宝石「めんめ」がもたらす冬の感動</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <Sparkles className="w-4 h-4 text-sky-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              知床ウトロ＆網走の冬絶景と美食を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">知床ウトロ＆網走の冬絶景と美食を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の網走・知床ウトロ 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の網走・知床ウトロ 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：女満別空港到着・能取岬の冬絶景と網走湖畔の温泉リゾート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：女満別空港到着・能取岬の冬絶景と網走湖畔の温泉リゾート</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 羽田や新千歳から女満別空港へ到着。レンタカーを手配して網走方面へ。まずはオホーツク海に突き出た「能取岬」へ向かい、雪原の向こうに広がるオホーツクブルーの雄大な水平線を鑑賞。続いて「博物館 網走監獄」を見学し、冬の厳しさと明治の歴史に思いを馳せます。夕暮れには網走湖畔の温泉ホテル「北天の丘」または「ホテル網走湖荘」へチェックイン。自家源泉の露天風呂で温まり、夕食は深海の高級魚めんめの湯煮やオホーツク毛ガニ会席を堪能します。
               </p>
@@ -475,9 +465,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：オホーツク海沿いをドライブ・世界遺産知床ウトロの絶景サウナ宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：オホーツク海沿いをドライブ・世界遺産知床ウトロの絶景サウナ宿</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 網走を出発し、小清水原生花園の雪景色や斜里の「天に続く道」を遠望しながら知床半島へ。知床自然センターに立ち寄り、スノーシューを履いて雪の森を歩き「フレペの滝（乙女の涙）」の断崖絶壁を散策。野生のエゾシカに出会う感動体験も。午後はウトロ温泉の「北こぶし知床」または「KIKI知床」へチェックイン。オホーツク海を望む絶景サウナでととのい、夕食は知床牛ローストビーフやタラバガニ、いくら盛り放題の豪華ディナーを楽しみます。
               </p>
@@ -486,9 +474,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：プユニ岬の冬景色・オホーツク流氷館とお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：プユニ岬の冬景色・オホーツク流氷館とお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の清々しいウトロ港やプユニ岬をドライブ。網走方面へ戻り、天都山山頂の「オホーツク流氷館」でマイナス15度の流氷体感テラスや愛らしいクリオネを観察。天都山展望台から知床連峰と網走湖を一望。道の駅流氷街道網走で知床サーモンや鮭トバ、銘菓「赤いサイロ」を購入し、女満別空港から帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
             <ThermometerSun className="w-4 h-4 text-sky-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の知床・網走を安全に旅するための極寒防寒と雪道運転対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の知床・網走を安全に旅するための極寒防寒と雪道運転対策</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【服装：氷点下10〜15℃に耐える完全防寒】</span>
@@ -528,26 +512,20 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <ShoppingBag className="w-4 h-4 text-sky-800" />
               知床・網走の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              オホーツク海の恵みと北の大地が生んだ極上銘品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">オホーツク海の恵みと北の大地が生んだ極上銘品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                清月「赤いサイロ」とオホーツク流氷ドラフト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                清月「赤いサイロ」とオホーツク流氷ドラフト</h3>
               <p>
                 カーリング女子日本代表のもぐもぐタイムで大ブレイクした北見の名菓「赤いサイロ」。北海道産チーズやミルクを贅沢に使ったしっとり濃厚なチーズケーキは、網走・女満別空港でも一番人気の手土産。また、オホーツク海の流氷を仕込み水に使用した鮮やかな青い発泡酒「流氷ドラフト」は、SNS映えする旅の乾杯ドリンクとして大好評です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                知床産「鮭とば・いくら醤油漬け」とアイヌ木彫り民芸品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                知床産「鮭とば・いくら醤油漬け」とアイヌ木彫り民芸品</h3>
               <p>
                 日本一の白鮭の水揚げを誇る知床・斜里町。寒風でじっくり干し上げた「天然鮭トバ」や、プチプチ弾ける食感と濃厚なコクの「いくら醤油漬け」は至高の酒の肴。また、オホーツク文化やアイヌの精神を受け継ぐ木彫りのエゾフクロウや熊の民芸品は、北国の温もりを感じる唯一無二の旅の記念になります。
               </p>
@@ -562,27 +540,21 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <Compass className="w-4 h-4 text-sky-800" />
               知床とオホーツク海ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ知床は世界自然遺産となり、オホーツク海は日本屈指の魚介の宝庫なのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ知床は世界自然遺産となり、オホーツク海は日本屈指の魚介の宝庫なのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Landmark className="w-4 h-4 text-sky-700" />
-                海と陸が結ぶ命の連鎖：世界自然遺産の真髄
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Landmark className="w-4 h-4 text-sky-700" />
+                海と陸が結ぶ命の連鎖：世界自然遺産の真髄</h3>
               <p>
                 知床が2005年に世界自然遺産に登録された最大の理由は、「海と陸の生態系が緊密につながる食物連鎖の完全性」です。オホーツク海から運ばれる栄養によってプランクトンが爆発的に増殖し、それを食べる魚介類が育ち、川を遡上するサケ・マスをヒグマやオジロワシ・オオワシなどの陸上動物が捕食。その排泄物や死骸が森の栄養となり、再び川から海へと還るという地球規模の奇跡的な命の循環が今なお保たれています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-sky-700" />
-                アムール川の淡水と極寒の北風が生み出す「海のゆりかご」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-sky-700" />
+                アムール川の淡水と極寒の北風が生み出す「海のゆりかご」</h3>
               <p>
                 オホーツク海が豊かな漁場となる鍵は、ロシアのアムール川から注ぎ込む膨大な淡水にあります。塩分濃度の低い表層水がシベリアからの極寒の季節風に冷やされて凍結し「流氷」を形成。氷の底には植物プランクトン（アイスアルジー）が付着し、春の雪解けとともに海中に拡散して魚介類を爆発的に育みます。冬の知床や網走の深海で育つめんめや毛ガニは、この豊かな海の恵みを余すところなく吸収しているのです。
               </p>
@@ -597,18 +569,14 @@ export default function HokkaidoShiretokoAbashiriWinterPage() {
               <HelpCircle className="w-4 h-4 text-sky-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の知床・網走旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の知床・網走旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

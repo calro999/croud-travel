@@ -301,9 +301,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              江戸の面影を宿す黒漆喰の町並み。冬晴れの空の下、歴史と美味に浸る小江戸の休日
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">江戸の面影を宿す黒漆喰の町並み。冬晴れの空の下、歴史と美味に浸る小江戸の休日</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の小江戸川越で巡るべき3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の小江戸川越で巡るべき3大ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月の川越だからこそ体験できる、歴史的景観と初詣の熱気。
             </p>
@@ -339,9 +335,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Clock className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 蔵造りの町並みと冬晴れの空に響く「時の鐘」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 蔵造りの町並みと冬晴れの空に響く「時の鐘」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬の澄んだ青空に映える黒漆喰の蔵造り商家群。約400年時を刻み続ける「時の鐘」の鐘の音と、夕暮れにガス灯が灯るレトロな町並み散策は冬の情緒たっぷりです。
               </p>
@@ -351,9 +345,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 喜多院の1月3日「初大師だるま市」新春初詣
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 喜多院の1月3日「初大師だるま市」新春初詣</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 徳川家光公ゆかりの名刹・喜多院で開催される新年最初の大縁日。赤や金の色鮮やかな縁起だるまが境内一面に並び、一年の開運と商売繁盛を願う参拝者で賑わいます。
               </p>
@@ -363,9 +355,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-emerald-100 flex items-center justify-center text-emerald-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 老舗の炭火焼き「川越うなぎ重」＆小江戸黒豚
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 老舗の炭火焼き「川越うなぎ重」＆小江戸黒豚</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 冬に脂が乗る本場のうなぎを老舗の秘伝タレと備長炭で焼き上げる極上のうな重。そしてきめ細やかな肉質のブランドポーク「小江戸黒豚」の旨味を心ゆくまで堪能できます。
               </p>
@@ -375,9 +365,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】時の鐘と喜多院初詣・名物うなぎを満喫する小江戸散策モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】時の鐘と喜多院初詣・名物うなぎを満喫する小江戸散策モデルコース</h2>
             <p className="text-stone-400 text-sm mt-1">
               都心から30分。レトロな蔵造りと冬のあったかグルメ、温泉を欲張りに楽しむ休日プラン。
             </p>
@@ -388,9 +376,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 川越駅・本川越駅到着 ➔ 老舗うなぎ店で名物「炭火うな重」の贅沢ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 川越駅・本川越駅到着  老舗うなぎ店で名物「炭火うな重」の贅沢ランチ</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   電車で川越へ。まずは腹ごしらえに天保年間創業の老舗うなぎ店へ直行。備長炭でじっくり香ばしく焼き上げられ、タレの旨味が染み渡った熱々のうな重を堪能。ふっくらとした肉厚の身と上品な脂の甘みが冷えた体を満たします。
                 </p>
@@ -399,9 +385,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 蔵造りの町並み散策 ➔ 「時の鐘」の鐘の音＆菓子屋横丁のあったかスイーツ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 蔵造りの町並み散策  「時の鐘」の鐘の音＆菓子屋横丁のあったかスイーツ</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   一番街の蔵造りの町並みを歩き、シンボル「時の鐘」へ。15時の鐘の音に耳を傾けながら、薬師神社をお参り。続いて菓子屋横丁へ足を伸ばし、蒸したての温かい「いも恋」や名物の長い麩菓子、焼き芋を味わいながらレトロな路地裏を散策。
                 </p>
@@ -410,9 +394,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 川越名宿へチェックイン ➔ 天然温泉で温まり「小江戸黒豚」ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 川越名宿へチェックイン  天然温泉で温まり「小江戸黒豚」ディナー</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   ホテルにチェックインし、天然温泉大浴場や広々としたバスルームで散策の疲れをリセット。夕食は川越市内の名店またはホテルダイニングで、柔らかくジューシーな「小江戸黒豚」のせいろ蒸しや角煮、埼玉の地酒「鏡山」を味わいます。
                 </p>
@@ -421,9 +403,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 ご当地モーニング ➔ 徳川将軍ゆかりの「喜多院」新春初詣＆初大師だるま市
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 ご当地モーニング  徳川将軍ゆかりの「喜多院」新春初詣＆初大師だるま市</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   埼玉の新鮮野菜や武蔵野うどんの朝食を楽しんだ後、清らかな朝の喜多院へ。重要文化財の客殿（徳川家光公誕生の間）を拝観し、本堂で新年の開運を祈願。1月3日の初大師の日には、赤や金のだるまが並ぶ活気あるだるま市を体感。
                 </p>
@@ -432,9 +412,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 午前〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:00 川越氷川神社で鯛みくじ ➔ 大正浪漫夢通りでお買い物＆帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:00 川越氷川神社で鯛みくじ  大正浪漫夢通りでお買い物＆帰路へ</h3>
                 <p className="text-stone-300 text-sm mt-2 leading-relaxed">
                   縁結びで有名な川越氷川神社へ。釣り竿で釣り上げる可愛らしい「あい鯛みくじ」で今年の運勢を占い、絵馬のトンネルを歩きます。最後は大正浪漫夢通りでおしゃれな和雑貨や芋かりんとうを買い求め、大満足で帰路につきます。
                 </p>
@@ -447,9 +425,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              小江戸川越ステイを快適にする厳選ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">小江戸川越ステイを快適にする厳選ホテル5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               駅直結の最新デザインホテルから、格式あるシティホテル、天然温泉大浴場完備の宿まで厳選。
             </p>
@@ -483,9 +459,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -545,27 +519,21 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Souvenir Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の川越で味わうべき郷土の美味とお土産セレクション
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の川越で味わうべき郷土の美味とお土産セレクション</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                川越うなぎの歴史と小江戸黒豚の旨味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                川越うなぎの歴史と小江戸黒豚の旨味</h3>
               <p>
                 川越のうなぎ文化は、天保三年創業の「小川菊」や「いちのや」など、江戸後期からの歴史を誇ります。蒸しを効かせてから備長炭で焼き上げる関東風の蒲焼きは、口の中でほどけるような柔らかさ。また、パン粉やサツマイモを飼料に育てられるブランド豚「小江戸黒豚」は、甘みのある脂身と赤身の深いコクが特徴で、豚しゃぶやすき焼き、メンチカツなど冬のスタミナ料理として大人気です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-amber-700" />
-                川越さつまいも菓子と蔵元「鏡山」の銘酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-amber-700" />
+                川越さつまいも菓子と蔵元「鏡山」の銘酒</h3>
               <p>
                 お土産には、菓匠右門の銘菓「いも恋」や、亀屋の「亀の最中」、スイートポテトが定番。また、江戸時代からの酒蔵文化を復活させた小江戸鏡山酒造の純米酒「鏡山」は、芳醇な米の旨味とキレの良さが際立ち、うなぎ料理との相性も抜群です。さらに、江戸黒桟革を使った革小物や川越唐桟の織物など、職人技が光る伝統工芸品も魅力的な旅の記念になります。
               </p>
@@ -577,9 +545,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/60 space-y-6">
           <div className="border-b border-amber-200/80 pb-4">
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">
-              冬の川越散策を安全・快適に楽しむための装備とアクセス注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">冬の川越散策を安全・快適に楽しむための装備とアクセス注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-amber-950">
@@ -619,20 +585,16 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の川越観光・宿泊に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の川越観光・宿泊に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -645,9 +607,7 @@ export default function SaitamaKawagoeKoedoWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Travels</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい関東・近郊の冬特集・名湯宿ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい関東・近郊の冬特集・名湯宿ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

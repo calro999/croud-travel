@@ -280,10 +280,8 @@ export default function TokushimaNarutoWinterFeature() {
             <Palette className="w-4 h-4" />
             11月・12月 海峡絶景＆アート美食特集｜徳島・鳴門温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月徳島・鳴門温泉】<br className="hidden sm:inline" />
-            冬海峡絶景と天然鳴門鯛・大塚国際美術館アート＆展望露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月徳島・鳴門温泉】<br className="hidden sm:inline" />
+            冬海峡絶景と天然鳴門鯛・大塚国際美術館アート＆展望露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             神戸から車でわずか75分。世界三大潮流・鳴門海峡の荒波が育む極上天然鳴門鯛と阿波牛。大塚国際美術館の至高のアート鑑賞と、大鳴門橋を一望する海辺の温泉露天風呂に癒やされる休日。
           </p>
@@ -301,9 +299,7 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Naruto Strait Whirlpools & Art Retreat</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                世界三大潮流の迫力と名画の森｜初冬の鳴門海峡が魅せる大自然と文化の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">世界三大潮流の迫力と名画の森｜初冬の鳴門海峡が魅せる大自然と文化の饗宴</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Marine Sodium Springs & Deep Heat</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                潮風を受けながら身体を芯から温める「鳴門温泉の塩化物泉」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">潮風を受けながら身体を芯から温める「鳴門温泉の塩化物泉」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Naruto Sea Bounties & Awa Beef</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                激流が鍛え上げた日本一の真鯛「鳴門鯛」と徳島が誇る「阿波牛」の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">激流が鍛え上げた日本一の真鯛「鳴門鯛」と徳島が誇る「阿波牛」の饗宴</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Naruto Scenic & Museum Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の鳴門満喫モデルコース｜大塚国際美術館から大鳴門橋「渦の道」へ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の鳴門満喫モデルコース｜大塚国際美術館から大鳴門橋「渦の道」へ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function TokushimaNarutoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Featured Oceanview Resorts & Gourmet Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              鳴門海峡の絶景と真鯛美食｜鳴門温泉の厳選ホテル・旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">鳴門海峡の絶景と真鯛美食｜鳴門温泉の厳選ホテル・旅館5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、鳴門鯛料理や海峡ビュー露天風呂、大塚国際美術館への好アクセスを誇る宿を厳選。
             </p>
@@ -451,9 +439,7 @@ export default function TokushimaNarutoWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の鳴門冬旅｜温暖な気候と海風対策・大塚国際美術館の回り方
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の鳴門冬旅｜温暖な気候と海風対策・大塚国際美術館の回り方</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                晴天率の高さと海峡沿いの防風対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                晴天率の高さと海峡沿いの防風対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 鳴門は冬でも晴れが多く温暖ですが、鳴門海峡沿いや渦の道、展望台は強い海風が吹き込みます。体感温度が下がりやすいため、風を通さないコートやマフラー、歩きやすいフラットシューズでの散策をおすすめします。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                大塚国際美術館は朝一番または半日じっくり
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                大塚国際美術館は朝一番または半日じっくり</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 鑑賞距離約4kmに及ぶ大塚国際美術館を存分に堪能するなら、午前中の早い時間からの入場が理想です。宿から車で数分の距離にあるため、チェックイン前またはチェックアウト後にゆったりと時間を確保して巡るのがおすすめです。
               </p>
@@ -565,18 +545,14 @@ export default function TokushimaNarutoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                徳島・鳴門温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">徳島・鳴門温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function TokushimaNarutoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Shikoku Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい四国・瀬戸内の冬名湯＆極上味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい四国・瀬戸内の冬名湯＆極上味覚特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の淡路島3年とらふぐ、播州赤穂坂越牡蠣、祖谷渓温泉、小豆島オリーブ牛をめぐる人気の厳選特集もぜひご覧ください。
             </p>

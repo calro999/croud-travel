@@ -79,9 +79,7 @@ export default function KusatsuBudgetGuidePage() {
 
       {/* 予算証明プラン */}
       <section className="px-4 md:px-0">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6 text-center">
-          📊 1泊2日 草津温泉の予算別シミュレーション
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6 text-center">1泊2日 草津温泉の予算別シミュレーション</h2>
         <div className="flex flex-col gap-6">
           <div className="flex-1 bg-white border border-slate-200 rounded-3xl p-6 shadow-sm hover:shadow-md transition">
             <h3 className="text-center font-bold text-slate-500 mb-2">バス利用・最安プラン</h3>
@@ -121,9 +119,7 @@ export default function KusatsuBudgetGuidePage() {
 
       {/* 詳細な費用の内訳 */}
       <section className="bg-slate-50 rounded-3xl p-6 md:p-10 border border-slate-200">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-800 mb-6">
-          📝 費用の詳細内訳リスト
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-800 mb-6">費用の詳細内訳リスト</h2>
         <div className="grid md:grid-cols-2 gap-8">
           {/* 交通費 */}
           <div className="space-y-4">
@@ -194,9 +190,7 @@ export default function KusatsuBudgetGuidePage() {
 
       {/* 🏨 ホテルセクション */}
       <section className="px-4 md:px-0">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">
-          🏨 湯畑周辺のおすすめ温泉旅館
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6">湯畑周辺のおすすめ温泉旅館</h2>
         {hotels.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
@@ -229,9 +223,7 @@ export default function KusatsuBudgetGuidePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「草津温泉旅行 費用：1泊2日いくらかかる？東京からの交通費＆湯畑周辺の宿泊費を完全計算」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -310,9 +302,7 @@ export default function KusatsuBudgetGuidePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 草津温泉旅行 費用で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">草津温泉旅行 費用で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

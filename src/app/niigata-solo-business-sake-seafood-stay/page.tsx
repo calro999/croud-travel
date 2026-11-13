@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            悠然と流れる信濃川の水面と、八海山や久保田を注ぐ猪口のぬくもり——米どころ・酒どころで五感を満たす「新潟プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">悠然と流れる信濃川の水面と、八海山や久保田を注ぐ猪口のぬくもり——米どころ・酒どころで五感を満たす「新潟プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             日本最長の大河・信濃川が日本海へと注ぎ、豊かな越後平野の恵みが集まる港町・新潟。上越新幹線の終着駅であり、本州日本海側最大の都市として官公庁や企業支店がひしめく重要拠点です。日中の商談や現場視察を終えた後の夜の楽しみは、何と言っても新潟駅構内「ぽんしゅ館」での越後銘酒の唎き酒体験や、古町（ふるまち）・万代の花街情緒が残る割烹でのどぐろ塩焼き、南蛮エビ、タレかつを味わうひととき。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   朱鷺メッセ直結！地上31階・日本海側最高層ビルから信濃川河口と日本海・佐渡島を一望するランドマーク
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル日航新潟 —— 空と海が溶け合うスカイビュー。全室22階以上の高層階とシェフが目の前で炊く極上魚沼産コシヒカリ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル日航新潟 —— 空と海が溶け合うスカイビュー。全室22階以上の高層階とシェフが目の前で炊く極上魚沼産コシヒカリ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR新潟駅万代口徒歩約8分！男女別天然温泉大浴場＆高温サウナ・名物夜鳴きそば完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 多宝の湯 ドーミーイン新潟 —— 万代シテイ近く。天然温泉とサウナでととのい、地酒横丁へ繰り出す安心拠点
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 多宝の湯 ドーミーイン新潟 —— 万代シテイ近く。天然温泉とサウナでととのい、地酒横丁へ繰り出す安心拠点</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR新潟駅南口直結！新幹線改札から雨や雪に濡れずにチェックインできる抜群の機動力
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  アートホテル新潟駅前 —— 新潟駅東側連絡通路直結。モダンで広々とした客室と魚沼産コシヒカリ食べ比べ朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">アートホテル新潟駅前 —— 新潟駅東側連絡通路直結。モダンで広々とした客室と魚沼産コシヒカリ食べ比べ朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              新潟駅「ぽんしゅ館」と古町花街を一人で巡る大人の利き酒ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">新潟駅「ぽんしゅ館」と古町花街を一人で巡る大人の利き酒ガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 新潟駅「ぽんしゅ館」でコイン5枚（500円〜）のガチャ利き酒体験
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 新潟駅「ぽんしゅ館」でコイン5枚（500円〜）のガチャ利き酒体験</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 新潟県内全酒蔵の代表銘柄約100種が並ぶ自動試飲マシン。きき酒師おすすめの純米酒やお好みの酒蔵を少量ずつ飲み比べできます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 国の重要文化財「萬代橋」を夕暮れ時に散策
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 国の重要文化財「萬代橋」を夕暮れ時に散策</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 6連の美しい石造アーチ橋。信濃川の水面に映る夕日と街の明かりを眺めながら、萬代橋を渡って古町方面へ歩く時間は最高のリフレッシュです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 古町の小料理屋でのどぐろ塩焼きと郷土料理「のっぺ」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 古町の小料理屋でのどぐろ塩焼きと郷土料理「のっぺ」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 江戸時代からの花街情緒が残る古町通り。カウンター席で割烹の職人が焼き上げる脂の乗ったのどぐろを地酒と味わう至福。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>冬の時期は雪で新潟市内の移動が大変ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>冬の時期は雪で新潟市内の移動が大変ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 新潟市内中心部（新潟駅〜万代〜古町）は消雪パイプや地下道、アーケードが整備されており、豪雪地帯の山間部と比べると積雪路面でも歩きやすく対策されています。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で入りやすい海鮮居酒屋や寿司屋はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で入りやすい海鮮居酒屋や寿司屋はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 新潟駅周辺や万代には回転寿司の最高峰「弁慶」や、カウンター完備の老舗寿司店・居酒屋が多数あり、一人客が気兼ねなく地魚と日本酒を注文できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 多宝の湯 ドーミーイン新潟を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 多宝の湯 ドーミーイン新潟を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              標高2,000m超の稜線を駆け抜ける爽快なワインディングと雲海
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">標高2,000m超の稜線を駆け抜ける爽快なワインディングと雲海</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日本国道最高地点（渋峠）や阿蘇くじゅう連山のパノラマなど、窓を開けて風を感じる最高のドライブが楽しめます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ドライブの疲れを芯から癒やす日本屈指の強酸性泉・美肌名湯
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ドライブの疲れを芯から癒やす日本屈指の強酸性泉・美肌名湯</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               草津温泉の圧倒的な湯量や由布院温泉の滑らかな湯ざわり、白樺湖の展望露天風呂で至極の湯浴みを堪能できます。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              信州牛・上州もち豚・豊後牛など高原が育むブランド肉と新鮮野菜
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">信州牛・上州もち豚・豊後牛など高原が育むブランド肉と新鮮野菜</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               爽快な走りの後は、料理長自慢の会席やビュッフェで地元の特産品を味わい尽くす贅沢なディナータイム。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -329,7 +319,7 @@ export default function FurusatoUpgradedPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本百名道の絶景ドライブルートと高原温泉宿×ふるさと納税厳選ガイドビーナスライン・志賀草津・やまなみ：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -390,55 +380,55 @@ export default function FurusatoUpgradedPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）（福島県・★4.43）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. ＥＮ　ＲＥＳＯＲＴ　Ｇｒａｎｄｅｃｏ　Ｈｏｔｅｌ（エンリゾート　グランデコ）（福島県・4.43）</h4>
               <p><strong>【特徴】</strong>標高１,０００ｍの高原リゾート！手が届きそうな星空とあふれる四季折々の大自然をお楽しみください！</p>
               <p><strong>【交通・駐車場】</strong>磐越道「猪苗代磐梯高原ＩＣ」より、裏磐梯方面へお車で約２０分後、五色沼交差点より約１５分★ＪＲ猪苗代駅直通シャトルバス有 ／ 駐車場：有り　100台　無料</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. 宮古島東急ホテル＆リゾーツ＜宮古島＞（沖縄県・★4.57）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. 宮古島東急ホテル＆リゾーツ＜宮古島＞（沖縄県・4.57）</h4>
               <p><strong>【特徴】</strong>東京（羽田空港）より直行便が就航しております。</p>
               <p><strong>【交通・駐車場】</strong>宮古空港より車で13分 ／ 駐車場：有り　215台　　無料</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「ハイハイできる畳の部屋とプールが最高畳のお部屋で、7ヶ月時がハイハイできる場所があってよかったです。お兄ちゃんたちもプール、ビーチが近くてチェックアウトギリギリまで楽しめましたクチコミの詳細は…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. 京都ブライトンホテル（・★4.78）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. 京都ブライトンホテル（・4.78）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>地下鉄「今出川駅」より徒歩８分、 地下鉄「烏丸御池」 2番出口付近よりシャトルバスにて約７分。 ／ 駐車場：有り</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. グランドプリンスホテル大阪ベイ（大阪府・★4.59）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. グランドプリンスホテル大阪ベイ（大阪府・4.59）</h4>
               <p><strong>【特徴】</strong>大阪市街やベイエリアの眺望。大阪駅⇔ホテル無料シャトルバスが毎日運行！人気テーマパークへも好アクセス</p>
               <p><strong>【交通・駐車場】</strong>ニュートラムポートタウン線「中ふ頭駅」徒歩３分。無料送迎バスの運行有。 ／ 駐車場：有り　約330台　2025年4月7日より　宿泊者有料１泊1000円（15：00まで）</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「梅田からのシャトルバスが便利で快適梅田からのシャトルバスが便利でした部屋から海が見えてよかったです朝食も美味しかった又利用したいでしは」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. 京王プラザホテル札幌（北海道・★4.44）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. 京王プラザホテル札幌（北海道・4.44）</h4>
               <p><strong>【特徴】</strong>札幌駅西口徒歩5分。全室禁煙、Wi-Fi完備。道産食材を豊富に使った朝食ブッフェは実演コーナーも充実</p>
               <p><strong>【交通・駐車場】</strong>【JR札幌駅西口】から徒歩5分。西口を出てJR高架沿いに3ブロック直進。新千歳空港からホテル行きバス利用で約80分 ／ 駐車場：有（1泊1台2000円）</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「丁寧な接客と美味しい朝食に大満足ホテルに入るとすぐに声をかけていただき、チエックイン後も部屋まで丁寧に案内をしていただきました。お部屋も綺麗でアメニティも行き届いていて、どのスタッフもとても丁…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

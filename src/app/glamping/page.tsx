@@ -164,9 +164,7 @@ export default function GlampingHubPage() {
         <section id="about" className="scroll-mt-24">
           <div className="flex items-center gap-3 mb-5">
             <span className="w-2 h-7 bg-emerald-600 rounded-full"></span>
-            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">
-              1. グランピングとは？一般的なキャンプとの主な違い
-            </h2>
+            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">1. グランピングとは？一般的なキャンプとの主な違い</h2>
           </div>
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
             <p className="text-slate-700 leading-relaxed mb-6 text-sm md:text-base">
@@ -219,9 +217,7 @@ export default function GlampingHubPage() {
         <section id="season" className="scroll-mt-24">
           <div className="flex items-center gap-3 mb-5">
             <span className="w-2 h-7 bg-teal-600 rounded-full"></span>
-            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">
-              2. 季節ごとの特徴と過ごし方
-            </h2>
+            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">2. 季節ごとの特徴と過ごし方</h2>
           </div>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-slate-200 shadow-sm flex flex-col">
@@ -259,17 +255,13 @@ export default function GlampingHubPage() {
         <section id="packing" className="scroll-mt-24">
           <div className="flex items-center gap-3 mb-5">
             <span className="w-2 h-7 bg-amber-600 rounded-full"></span>
-            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">
-              3. グランピングであると便利な持ち物
-            </h2>
+            <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-slate-900">3. グランピングであると便利な持ち物</h2>
           </div>
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
             <div className="grid md:grid-cols-3 gap-6">
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">
-                  <span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  衣服・寒暖差対策
-                </h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
+                  衣服・寒暖差対策</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>脱ぎ着しやすい上着</strong>（自然豊かな場所は朝晩冷え込む傾向があります）</li>
                   <li className="flex items-start gap-1.5">・<strong>脱ぎ履きしやすい靴やサンダル</strong>（テントやデッキの出入り時に便利です）</li>
@@ -277,10 +269,8 @@ export default function GlampingHubPage() {
                 </ul>
               </div>
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">
-                  <span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  衛生・野外対策グッズ
-                </h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
+                  衛生・野外対策グッズ</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>虫除けスプレー・かゆみ止め</strong>（春〜秋の屋外滞在時の備え）</li>
                   <li className="flex items-start gap-1.5">・<strong>日焼け止め・帽子</strong>（屋外テラスや散策時の日差し対策）</li>
@@ -288,10 +278,8 @@ export default function GlampingHubPage() {
                 </ul>
               </div>
               <div className="space-y-2.5">
-                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2">
-                  <span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
-                  快適に過ごすためのアイテム
-                </h3>
+                <h3 className="font-bold text-slate-800 text-sm flex items-center gap-2"><span className="w-2 h-2 bg-emerald-600 rounded-full"></span>
+                  快適に過ごすためのアイテム</h3>
                 <ul className="text-xs text-slate-600 space-y-2">
                   <li className="flex items-start gap-1.5">・<strong>モバイルバッテリー</strong>（屋外での写真撮影や動画視聴用）</li>
                   <li className="flex items-start gap-1.5">・<strong>水着・ラッシュガード</strong>（サウナやプール利用が可能な施設の場合）</li>
@@ -315,9 +303,7 @@ export default function GlampingHubPage() {
         <section id="categories" className="scroll-mt-24">
           <div className="text-center max-w-3xl mx-auto mb-10">
             <span className="text-emerald-600 font-bold text-xs uppercase tracking-wider">Directory</span>
-            <h2 className="font-journal-serif text-2xl md:text-4xl font-bold text-slate-900 mt-2 mb-3">
-              条件・テーマ別グランピングガイド一覧
-            </h2>
+            <h2 className="font-journal-serif text-2xl md:text-4xl font-bold text-slate-900 mt-2 mb-3">条件・テーマ別グランピングガイド一覧</h2>
             <p className="text-xs md:text-sm text-slate-600">
               エリア、こだわり設備、人数や予算など、ご希望の条件に応じた詳細記事をご覧いただけます。
             </p>
@@ -326,10 +312,7 @@ export default function GlampingHubPage() {
           <div className="space-y-10">
             {/* 1. エリア・ロケーション別 */}
             <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">
-                <span className="p-1.5 bg-emerald-100 text-emerald-800 rounded-lg text-base">🗾</span>
-                エリア・ロケーションから選ぶ
-              </h3>
+              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">エリア・ロケーションから選ぶ</h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 <Link href="/silver-week-glamping-kanto-fuji-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-emerald-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
@@ -425,10 +408,8 @@ export default function GlampingHubPage() {
 
             {/* 2. こだわり設備・体験別 */}
             <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">
-                <span className="p-1.5 bg-rose-100 text-rose-800 rounded-lg text-base">♨️</span>
-                設備や体験から選ぶ
-              </h3>
+              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5"><span className="p-1.5 bg-rose-100 text-rose-800 rounded-lg text-base">️</span>
+                設備や体験から選ぶ</h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 <Link href="/silver-week-glamping-private-sauna-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-rose-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
@@ -515,10 +496,7 @@ export default function GlampingHubPage() {
 
             {/* 3. 食事スタイル別 */}
             <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">
-                <span className="p-1.5 bg-amber-100 text-amber-800 rounded-lg text-base">🍖</span>
-                食事スタイルから選ぶ
-              </h3>
+              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">食事スタイルから選ぶ</h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 <Link href="/silver-week-glamping-bbq-empty-handed-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-amber-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
@@ -551,10 +529,7 @@ export default function GlampingHubPage() {
 
             {/* 4. 同行者・人数・予算別 */}
             <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
-              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">
-                <span className="p-1.5 bg-blue-100 text-blue-800 rounded-lg text-base">👥</span>
-                同行者・人数・予算から選ぶ
-              </h3>
+              <h3 className="font-bold text-lg md:text-xl text-slate-900 mb-5 flex items-center gap-2.5">同行者・人数・予算から選ぶ</h3>
               <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-3.5">
                 <Link href="/silver-week-glamping-with-dogs-pets-guide/" className="p-4 rounded-xl border border-slate-100 hover:border-blue-300 hover:shadow-sm transition bg-slate-50/50 flex flex-col justify-between">
                   <div>
@@ -638,9 +613,7 @@ export default function GlampingHubPage() {
             <div className="flex flex-col md:items-center justify-between gap-3 mb-6">
               <div>
                 <span className="text-emerald-700 font-bold text-xs uppercase tracking-wider">Rakuten Travel Data</span>
-                <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900 mt-0.5">
-                  グランピング施設ピックアップ
-                </h2>
+                <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900 mt-0.5">グランピング施設ピックアップ</h2>
               </div>
               <span className="text-xs text-slate-500 bg-slate-100 px-3 py-1.5 rounded-full self-start md:self-auto">
                 楽天トラベルAPI取得データ
@@ -665,9 +638,7 @@ export default function GlampingHubPage() {
                   </div>
                   <div className="p-4 flex-grow flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-slate-900 text-sm mb-1.5 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-slate-900 text-sm mb-1.5 line-clamp-2">{hotel.hotelName}</h3>
                       <p className="text-xs text-slate-600 line-clamp-2 mb-3 leading-relaxed">
                         {hotel.hotelSpecial || "大自然の中で快適に過ごせるグランピング施設。詳細はプラン一覧をご確認ください。"}
                       </p>
@@ -699,9 +670,7 @@ export default function GlampingHubPage() {
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200">
           <div className="flex items-center gap-3 mb-6">
             <span className="w-2 h-7 bg-indigo-600 rounded-full"></span>
-            <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900">
-              グランピングに関するよくある質問（FAQ）
-            </h2>
+            <h2 className="font-journal-serif text-xl md:text-2xl font-bold text-slate-900">グランピングに関するよくある質問（FAQ）</h2>
           </div>
           <div className="space-y-4">
             <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200">
@@ -740,9 +709,7 @@ export default function GlampingHubPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＫＯＳＵＧＩ ＲＥＳＯＲＴを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＫＯＳＵＧＩ ＲＥＳＯＲＴを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

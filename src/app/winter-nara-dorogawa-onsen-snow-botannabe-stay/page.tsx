@@ -268,9 +268,7 @@ export default function NaraDorogawaOnsenPage() {
               <Sparkles className="w-4 h-4 text-red-800" />
               初冬から厳冬期の洞川温泉が旅人を魅了する理由
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              白銀に浮かぶ大正・昭和のノスタルジーと名水が醸す至高の冬鍋
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">白銀に浮かぶ大正・昭和のノスタルジーと名水が醸す至高の冬鍋</h2>
           </div>
 
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
@@ -293,9 +291,7 @@ export default function NaraDorogawaOnsenPage() {
               <ShieldCheck className="w-4 h-4" />
               厳選宿泊施設ガイド
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">
-              雪景色とぼたん鍋に癒やされる洞川温泉の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900">雪景色とぼたん鍋に癒やされる洞川温泉の名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               全宿楽天トラベル公式APIより最新宿泊プラン＆空室情報をリアルタイム取得中
             </p>
@@ -325,9 +321,7 @@ export default function NaraDorogawaOnsenPage() {
                         <Flame className="w-3.5 h-3.5" />
                         開湯1300年 木造行者宿＆天然ぼたん鍋
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -390,17 +384,13 @@ export default function NaraDorogawaOnsenPage() {
               <Compass className="w-4 h-4 text-red-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              木造行者宿の提灯灯りと名水ぼたん鍋を堪能する冬籠もり旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">木造行者宿の提灯灯りと名水ぼたん鍋を堪能する冬籠もり旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【1日目】下市口駅から洞川温泉へ・提灯の温泉街散策
-              </h3>
+              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【1日目】下市口駅から洞川温泉へ・提灯の温泉街散策</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -430,10 +420,8 @@ export default function NaraDorogawaOnsenPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-red-700" />
-                【2日目】静寂の名水採水と冬の大峯山麓巡り
-              </h3>
+              <h3 className="font-bold text-red-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-red-700" />
+                【2日目】静寂の名水採水と冬の大峯山麓巡り</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-red-600 shrink-0 mt-1" />
@@ -467,27 +455,21 @@ export default function NaraDorogawaOnsenPage() {
               <ShoppingBag className="w-4 h-4 text-red-800" />
               洞川温泉の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              行者の里で手に入れたい伝統銘品と冬のおすすめ立ち寄り処
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">行者の里で手に入れたい伝統銘品と冬のおすすめ立ち寄り処</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-red-700" />
-                1300年の秘薬「陀羅尼助丸」＆名水ごま豆腐
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-red-700" />
+                1300年の秘薬「陀羅尼助丸」＆名水ごま豆腐</h3>
               <p>
                 役行者以来の歴史を持つ胃腸薬「陀羅尼助丸」は、キハダの苦味成分が胃腸を健やかに整える家庭の常備薬として全国にファンを持ちます。また、名水ごろごろ水と上質な吉野本葛、白胡麻で作られる「名水ごま豆腐」は、もっちりとした濃厚な食感と香ばしさが絶品でお土産の定番です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-red-700" />
-                日本名水百選「ごろごろ水」＆吉野杉の木工芸品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-red-700" />
+                日本名水百選「ごろごろ水」＆吉野杉の木工芸品</h3>
               <p>
                 カルスト鍾乳洞から湧き出る「ごろごろ水」は、コーヒーやお茶を淹れると雑味がなくまろやかな極上の味に仕上がります。さらに、吉野杉の清々しい芳香が漂うお箸やコースター、ぐい呑みなどの木工芸品も、大峯の豊かな森林文化を感じられるお土産として喜ばれます。
               </p>
@@ -502,32 +484,24 @@ export default function NaraDorogawaOnsenPage() {
               <ThermometerSun className="w-4 h-4 text-red-800" />
               修験道行者宿の建築美とカルスト名水の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ洞川温泉は「時が止まった宿場町」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ洞川温泉は「時が止まった宿場町」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Landmark className="w-4 h-4 text-red-700" />
-              修験者たちを受け入れてきた「縁側開口」の独特な木造旅館建築
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Landmark className="w-4 h-4 text-red-700" />
+              修験者たちを受け入れてきた「縁側開口」の独特な木造旅館建築</h3>
             <p>
               洞川温泉の街並みを歩いて誰もが驚くのが、道路に面して長く伸びた「縁側（えんがわ）」の開放的な造りです。かつて過酷な山岳修行を終えて山を下りてきた山伏（行者）たちが、靴（草鞋）を脱いで足を投げ出し、宿の人々や仲間と談笑しながら泥を落とした名残です。大正から昭和初期にかけて建て替えられた木造3階建ての楼閣建築群は、現在も当時の手吹きガラスや格子戸をそのまま残し、雪が降る冬には一段とノスタルジックな陰影を深めます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Waves className="w-4 h-4 text-red-700" />
-              カルスト台地の天然フィルターが育む「ごろごろ水」の奇跡
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Waves className="w-4 h-4 text-red-700" />
+              カルスト台地の天然フィルターが育む「ごろごろ水」の奇跡</h3>
             <p>
               洞川一帯は、石灰岩が侵食されてできたカルスト地形で、地下には数多くの鍾乳洞（五代松鍾乳洞や面不動鍾乳洞）が網の目のように広がっています。大峯山系に降った雪や雨は、数十年の歳月をかけて石灰岩の地層をゆっくりと浸透。天然のフィルターによって極限まで濾過され、同時にカルシウムをはじめとする良質なミネラルを豊富に溶かし込みます。この超清純な湧水が、洞川名物の湯豆腐や手打ち蕎麦、出汁の美味しさを支える決定的な秘密なのです。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Flame className="w-4 h-4 text-red-700" />
-              冷えた体を優しく癒やす弱アルカリ性単純温泉の包容力
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Flame className="w-4 h-4 text-red-700" />
+              冷えた体を優しく癒やす弱アルカリ性単純温泉の包容力</h3>
             <p>
               洞川温泉の源泉は、地下約1,000mから湧出する弱アルカリ性単純温泉。刺激が少なく肌あたりが非常に柔らかいため、敏感肌の方や長湯を楽しみたい方にも最適です。熱めの湯に浸かると、雪道散策で冷え切った手足の先まで血液が巡り、関節痛や神経痛を和らげます。湯上がりに浴衣を着てこたつに潜り込むと、ポカポカとした温もりが朝まで持続し、深い安眠へと導いてくれます。
             </p>
@@ -541,18 +515,14 @@ export default function NaraDorogawaOnsenPage() {
               <HelpCircle className="w-4 h-4 text-red-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の洞川温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の洞川温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-red-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-red-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

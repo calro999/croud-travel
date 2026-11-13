@@ -301,9 +301,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              煙立ち上る糸島カキ小屋の活気と、玄界灘の寒波が育む極上とらふぐ・熱々もつ鍋
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">煙立ち上る糸島カキ小屋の活気と、玄界灘の寒波が育む極上とらふぐ・熱々もつ鍋</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
               <Sparkles className="w-4 h-4 text-teal-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              糸島カキ小屋ドライブ＆博多冬グルメ・絶景スパを満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">糸島カキ小屋ドライブ＆博多冬グルメ・絶景スパを満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function FukuokaItoshimaHakataWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の糸島カキ小屋と博多イルミ・玄界灘美食 2泊3日満喫モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の糸島カキ小屋と博多イルミ・玄界灘美食 2泊3日満喫モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：福岡空港到着と糸島カキ小屋直行ドライブ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：福岡空港到着と糸島カキ小屋直行ドライブ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前、福岡空港に到着してレンタカーを借り、福岡都市高速経由で糸島半島へ直行。岐志漁港または船越漁港のカキ小屋で、炭火で焼く熱々の糸島カキや車海老、サザエ、カキ飯を豪快に味わいます。午後はサンセットロードをドライブし、桜井二見ヶ浦の白い鳥居と夫婦岩を背景に記念撮影。夕暮れに博多湾沿いのリゾートホテルへチェックイン。夜はホテル内のレストランまたは中洲・天神へ出かけ、本場の熱々博多もつ鍋を堪能します。
               </p>
@@ -475,9 +465,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：太宰府天満宮参拝とJR博多駅前「光の街」イルミネーション
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：太宰府天満宮参拝とJR博多駅前「光の街」イルミネーション</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝、太宰府天満宮へ。名物の焼き立て「梅ヶ枝餅」を頬張りながら、初冬の静謐な境内を参拝。昼は博多へ戻り、老舗の水炊き専門店で濃厚白濁スープと鶏肉の旨味をじっくり味わいます。午後はキャナルシティ博多でのショッピングを楽しみ、夕暮れには博多駅直結の都ホテルへ。最上階の屋上アウトドア天然温泉スパに浸かり、夜は博多駅前広場を彩る62万球の壮大なイルミネーション「光の街・博多」とクリスマスマーケットを満喫します。
               </p>
@@ -486,9 +474,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-teal-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-teal-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：柳橋連合市場の魚介探索とお土産「博多あまおう」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：柳橋連合市場の魚介探索とお土産「博多あまおう」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は「博多の台所」柳橋連合市場を散策。新鮮な明太子や乾物を見学し、昼食は市場近くで玄界灘の冬の魚介握り寿司または博多豚骨ラーメンを一杯。博多駅構内で旬を迎えた大粒の「博多あまおう」や明太子、銘菓「通りもん」を買い揃え、空港から帰路につきます。
               </p>
@@ -502,9 +488,7 @@ export default function FukuokaItoshimaHakataWinterPage() {
             <ThermometerSun className="w-4 h-4 text-teal-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            糸島カキ小屋と冬の博多を120%楽しむための実践テクニック
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">糸島カキ小屋と冬の博多を120%楽しむための実践テクニック</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-teal-100 leading-relaxed pt-2">
             <div className="space-y-2 bg-stone-900/60 p-4 rounded-2xl border border-teal-800/60">
               <span className="font-bold text-white block">【カキ小屋での服装と持ち物】</span>
@@ -528,26 +512,20 @@ export default function FukuokaItoshimaHakataWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               福岡・糸島・博多の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              玄界灘の磯の香りと博多の活気が詰まった冬の厳選土産
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">玄界灘の磯の香りと博多の活気が詰まった冬の厳選土産</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                糸島産「みるくがき」のクール便＆工房とったん「またいちの塩」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                糸島産「みるくがき」のクール便＆工房とったん「またいちの塩」</h3>
               <p>
                 岐志や船越のカキ小屋店頭では、朝獲れ殻付きの「糸島カキ（みるくがき）」を発泡スチロール箱に詰めて地方発送可能。カキ専用ナイフと軍手付きのセットも多く、自宅でもレンジやグリルで簡単に浜焼きの味を楽しめます。また、糸島半島の突端・製塩所「工房とったん」で作られるミネラル豊富な天然塩「またいちの塩」や、塩とカラメルをかけて食べる名物「潮プリン」は行列必至の糸島大人気みやげです。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                老舗の「本場博多もつ鍋セット」＆冬に甘み極まる「博多あまおう」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                老舗の「本場博多もつ鍋セット」＆冬に甘み極まる「博多あまおう」</h3>
               <p>
                 博多駅構内の「マイング」や百貨店では、「やま中」「おおやま」「前田屋」など名店のもつ鍋セット（冷凍スープ・ぷりぷり牛もつ・ちゃんぽん麺付き）が豊富に揃います。さらに、12月から1月にかけて最盛期を迎える福岡限定の高級苺「博多あまおう」は、「あかい・まるい・おおきい・うまい」の頭文字通り、果汁たっぷりで濃厚な甘酸っぱさが旅の最高の締めくくりになります。
               </p>
@@ -562,27 +540,21 @@ export default function FukuokaItoshimaHakataWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               玄界灘の海洋風土・ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ糸島のカキは濃厚で、玄界灘の冬の魚介は別格の旨さなのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ糸島のカキは濃厚で、玄界灘の冬の魚介は別格の旨さなのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Waves className="w-4 h-4 text-teal-700" />
-                脊振山系の森のミネラルと玄界灘の激流が織りなす奇跡の湾
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Waves className="w-4 h-4 text-teal-700" />
+                脊振山系の森のミネラルと玄界灘の激流が織りなす奇跡の湾</h3>
               <p>
                 糸島半島が面する海域には、標高1,000m級の脊振（せふり）山系から原生林の植物性プランクトンや腐植土のミネラルを含んだ清流が注ぎ込みます。この栄養豊かな森の恵みと、対馬暖流が流れ込む外海の激しい潮流がぶつかり合うことで、カキの餌となる良質なプランクトンが爆発的に繁殖。カキが短期間で丸々と肥育し、エグみが少なく「ミルクのように甘くクリーミー」と称される極上の肉質に仕上がります。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                大陸の風がもたらす冬の荒海と引き締まった「天然とらふぐ・アラ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                大陸の風がもたらす冬の荒海と引き締まった「天然とらふぐ・アラ」</h3>
               <p>
                 冬になると大陸から強いシベリア寒気団が南下し、玄界灘には強烈な北西の季節風が吹き荒れ、日本屈指の荒波が巻き起こります。この過酷な激流に逆らって泳ぐ天然とらふぐや、海底の岩礁に潜む巨大魚アラ（クエ）は、筋肉繊維が極限まで引き締まり、身に上質な脂を蓄えます。透明感のある弾力と噛むほどに溢れ出すアミノ酸の旨味は、激動の冬の玄界灘がもたらす自然の最高傑作です。
               </p>
@@ -597,18 +569,14 @@ export default function FukuokaItoshimaHakataWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の福岡・糸島・博多旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の福岡・糸島・博多旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

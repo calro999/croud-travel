@@ -294,10 +294,8 @@ export default function KagoshimaKirishimaWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の鹿児島・霧島旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の鹿児島・霧島旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-red-50/60 p-4 rounded-xl border border-red-100">
                 <span className="font-bold text-red-900 block mb-1">① 国宝霧島神宮初詣＆天孫降臨</span>
@@ -320,9 +318,7 @@ export default function KagoshimaKirishimaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">KIRISHIMA WINTER MAJESTY</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                なぜ11〜1月の霧島なのか？神話の聖地と大自然が放つ圧倒的な湯力
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">なぜ11〜1月の霧島なのか？神話の聖地と大自然が放つ圧倒的な湯力</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
@@ -343,43 +339,33 @@ export default function KagoshimaKirishimaWinterPage() {
 
           {/* Section: Spots to visit */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-10 space-y-6">
-            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-amber-600" />
-              <span>冬の霧島温泉郷＆霧島神宮で絶対に巡りたい名所</span>
-            </h3>
+            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-amber-600" />
+              <span>冬の霧島温泉郷＆霧島神宮で絶対に巡りたい名所</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-red-900 flex items-center gap-1.5">
-                  <Building className="w-4 h-4 text-red-600" />
-                  <span>国宝・霧島神宮とご神木の大杉</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-red-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-red-600" />
+                  <span>国宝・霧島神宮とご神木の大杉</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   2022年に国宝に指定された絢爛豪華な朱塗りの社殿。樹齢約800年、高さ38mを誇るご神木の大杉は圧巻の存在感で、社殿の裏手や参道には「さざれ石」や龍馬・おりょうの新婚旅行記念碑が立ちます。新春初詣の厳かな雰囲気は格別です。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5">
-                  <Waves className="w-4 h-4 text-amber-600" />
-                  <span>丸尾滝（温泉水が流れる湯けむりの滝）</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-amber-900 flex items-center gap-1.5"><Waves className="w-4 h-4 text-amber-600" />
+                  <span>丸尾滝（温泉水が流れる湯けむりの滝）</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   丸尾温泉の温泉街近くにある高さ23m、幅16mの豪快な滝。上流の温泉水が集まって流れているため、冬には滝壺や滝の周りから白い湯けむりがもうもうと立ち上る非常に珍しい「湯の滝」の景観を楽しめます。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-stone-900 flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-stone-600" />
-                  <span>霧島温泉市場と温泉蒸し玉子</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-stone-900 flex items-center gap-1.5"><Flame className="w-4 h-4 text-stone-600" />
+                  <span>霧島温泉市場と温泉蒸し玉子</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   丸尾温泉の中心にある観光拠点。広場には温泉の天然蒸気を利用した蒸し釜があり、蒸したての熱々玉子やさつまいも、豚まんなどを食べ歩きできます。特産品ショップや足湯も併設され、散策の休憩に最適です。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5">
-                  <Utensils className="w-4 h-4 text-emerald-600" />
-                  <span>かごしま黒豚しゃぶしゃぶ＆本格芋焼酎</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-emerald-900 flex items-center gap-1.5"><Utensils className="w-4 h-4 text-emerald-600" />
+                  <span>かごしま黒豚しゃぶしゃぶ＆本格芋焼酎</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   純粋バークシャー種の黒豚。きめ細やかな肉質と、さっぱりと甘い脂身が特徴です。昆布出汁やそばつゆでさっとくぐらせるしゃぶしゃぶは冬の定番。黄金千貫などを使った芋焼酎のお湯割りと相性抜群です。
                 </p>
@@ -391,9 +377,7 @@ export default function KagoshimaKirishimaWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                霧島温泉郷＆霧島神宮を満喫する厳選ホテル・宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">霧島温泉郷＆霧島神宮を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
@@ -425,9 +409,7 @@ export default function KagoshimaKirishimaWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -467,9 +449,7 @@ export default function KagoshimaKirishimaWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！国宝霧島神宮新春参拝と丸尾温泉湯けむり・黒豚しゃぶしゃぶを満喫する冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！国宝霧島神宮新春参拝と丸尾温泉湯けむり・黒豚しゃぶしゃぶを満喫する冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-amber-200 ml-4 pl-6 space-y-8 text-sm">
@@ -522,10 +502,8 @@ export default function KagoshimaKirishimaWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-amber-50/70 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>冬（11・12・1月）の霧島旅行・お役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>冬（11・12・1月）の霧島旅行・お役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-amber-950">
               <div className="bg-white/80 p-4 rounded-xl border border-amber-100">
                 <strong className="block mb-1 text-amber-900 font-bold">・霧島温泉郷の冬の冷え込みと服装</strong>
@@ -550,18 +528,14 @@ export default function KagoshimaKirishimaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-600 pl-4">
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                霧島温泉郷＆霧島神宮の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">霧島温泉郷＆霧島神宮の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -572,10 +546,8 @@ export default function KagoshimaKirishimaWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-amber-600" />
-              <span>鹿児島および九州の冬の厳選温泉特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-600" />
+              <span>鹿児島および九州の冬の厳選温泉特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-kagoshima-city-sakurajima-view-kurobuta-kanburi-onsen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🌋 鹿児島市・桜島ビュー露天と黒豚名宿

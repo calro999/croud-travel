@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            蔵王連峰の雄大な稜線と霞城公園の桜並木、熱々の鳥中華と冷やしラーメンの出汁の香り——果樹王国で仕事と胃袋を満たす「山形プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">蔵王連峰の雄大な稜線と霞城公園の桜並木、熱々の鳥中華と冷やしラーメンの出汁の香り——果樹王国で仕事と胃袋を満たす「山形プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山形新幹線「つばさ」で東京から乗り換えなし約2時間45分。最上川が育む肥沃な山形盆地に位置し、サクランボやラ・フランスなどの果樹栽培と、ものづくり産業が共存する山形県山形市。出張の夜に誰もが驚かされるのが、総務省家計調査で毎年のようにラーメン消費額日本一を争う「ラーメン王国・山形」の熱気です。鳥中華、赤湯からみそ、酒田のワンタンメン、そして夏名物の氷が浮かぶ「冷やしラーメン」まで、街中いたるところに名店がしのぎを削っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR山形駅直結！東西自由通路から雨や雪に濡れずにチェックインできる山形屈指のハイクラスホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルメトロポリタン山形 —— 駅直結の安心と格式。南館の最新モダン客室と山形牛を味わう直営ダイニング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルメトロポリタン山形 —— 駅直結の安心と格式。南館の最新モダン客室と山形牛を味わう直営ダイニング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR山形駅西口から徒歩約2分！シモンズ社製最高級ベッドと充実したビジネス環境
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  リッチモンドホテル山形駅前 —— 洗練されたホスピタリティ。広々とした客室と山形名物を盛り込んだ朝食バイキング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">リッチモンドホテル山形駅前 —— 洗練されたホスピタリティ。広々とした客室と山形名物を盛り込んだ朝食バイキング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   山形市中心街・七日町歓楽街へ徒歩圏内！伝統と格式を誇る老舗シティホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  山形グランドホテル —— 伝統が息づくおもてなし。落ち着いた客室と一流シェフの本格料理
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">山形グランドホテル —— 伝統が息づくおもてなし。落ち着いた客室と一流シェフの本格料理</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              山形の「ご当地ラーメン＆山形牛」を一人旅で満喫するグルメ術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">山形の「ご当地ラーメン＆山形牛」を一人旅で満喫するグルメ術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 「栄屋本店」で元祖冷やしラーメンを味わう（通年提供）
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 「栄屋本店」で元祖冷やしラーメンを味わう（通年提供）</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 牛骨と鰹節の冷たいスープに氷が浮かび、キュウリとチャーシューが乗る名物。冷たいのに油が固まらない秘伝のスープのコクが絶妙。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 夜は駅前や七日町の焼肉・すき焼き店でA5「山形牛」と地酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 夜は駅前や七日町の焼肉・すき焼き店でA5「山形牛」と地酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 きめ細やかなサシと芳醇な甘み。幻の日本酒「十四代」や「出羽桜 桜花吟醸酒」と合わせる至福のディナー。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 霞城公園（山形城跡）の東大手門と二の丸堀の朝散歩
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 霞城公園（山形城跡）の東大手門と二の丸堀の朝散歩</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 最上義光公の居城跡。復元された堂々たる東大手門と堀の緑を眺めながら、澄んだ朝の空気を胸いっぱいに吸い込む。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>山形空港から山形駅や市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>山形空港から山形駅や市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 おいしい山形空港から航空便に合わせて山形市内行きシャトルバスが運行しており、約40〜45分で山形駅前へ直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で山寺（立石寺）へ行く時間は取れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で山寺（立石寺）へ行く時間は取れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 山形駅からJR仙山線の普通列車で約20分（山寺駅下車）。駅から登山口まで徒歩すぐで、往復約1時間半〜2時間あれば名勝の岩山を巡ることができます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルメトロポリタン山形を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルメトロポリタン山形を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルメトロポリタン山形の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルメトロポリタン山形の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

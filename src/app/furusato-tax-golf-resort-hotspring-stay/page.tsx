@@ -104,19 +104,15 @@ export default function Page() {
             <span className="text-xs font-bold text-amber-800 bg-amber-100 px-3 py-1 rounded-full uppercase tracking-wider">
               STRATEGY GUIDE
             </span>
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">
-              1回のゴルフ合宿・リゾート旅行で数十万円を使うゴルファーこそ知るべき賢い税制活用術
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">1回のゴルフ合宿・リゾート旅行で数十万円を使うゴルファーこそ知るべき賢い税制活用術</h2>
           </div>
           <div className="space-y-6">
             
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：高額になりがちな「ゴルフ旅行総額」をふるさと納税で一発圧縮</span>
-            </h3>
+              <span>ポイント①：高額になりがちな「ゴルフ旅行総額」をふるさと納税で一発圧縮</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               年収1,500万円で約40万円、年収2,000万円なら約50万円以上になるふるさと納税の控除上限額。宿泊とゴルフプレーがセットになったリゾートホテルプランにクーポンを適用すれば、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの名門コース合宿が実現します。
             </p>
@@ -124,12 +120,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 2
               </span>
-              <span>ポイント②：ラウンド後の疲労を極上温泉とサウナで即座にリカバリー</span>
-            </h3>
+              <span>ポイント②：ラウンド後の疲労を極上温泉とサウナで即座にリカバリー</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               18ホールを歩き抜いた後の重い筋肉疲労。ゴルフ場直結・近接の温泉リゾートなら、ホールアウト後すぐに湯量豊富な大浴場や露天風呂、サウナへ直行可能。夜はご当地のブランド牛や海の幸に舌鼓を打ちながらゴルフ談義に花を咲かせられます。
             </p>
@@ -137,12 +131,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：ベストシーズンに合わせて予約できるゆとりの3年有効期限</span>
-            </h3>
+              <span>ポイント③：ベストシーズンに合わせて予約できるゆとりの3年有効期限</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               「春の爽快な新緑ゴルフ」「秋の紅葉ゴルフ」「冬の沖縄避寒ゴルフ」。季節に左右されるゴルフだからこそ、3年間の有効期間を持つクーポンは使い勝手抜群。年末に寄付枠を確保しておき、翌年のベストシーズンを狙い撃ちできます。
             </p>
@@ -160,9 +152,7 @@ export default function Page() {
               静岡県伊東市・世界100選の名門コース
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            伊東市ふるさと納税で泊まる、名門・川奈ホテルと相模灘を望むシーサイドコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">伊東市ふるさと納税で泊まる、名門・川奈ホテルと相模灘を望むシーサイドコース</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             名匠C.H.アリソンが設計し、世界のゴルフ場100選に選ばれ続ける名門「川奈ホテルゴルフコース」。富士コースや大島コースを眼下に望むクラシックなホテルでは、昭和初期からの歴史と格式が息づく洋館ステイが楽しめます。伊東市のふるさと納税トラベルクーポンを使えば、相模灘と伊豆大島を一望する天然温泉展望風呂付きホテルや、名門川奈でのラウンドを目的とした大人のゴルフ旅行を驚くほどスマートに予約できます。
           </p>
@@ -192,9 +182,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -246,9 +234,7 @@ export default function Page() {
               長野県軽井沢町・高原の爽快クラシックゴルフ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            軽井沢町ふるさと納税で泊まる、浅間山を望む名門コースと高原温泉リゾート
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">軽井沢町ふるさと納税で泊まる、浅間山を望む名門コースと高原温泉リゾート</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             標高約1,000mの爽快な冷涼気候の中、浅間山に向かってナイスショットを放つ至福の軽井沢ゴルフ。名門コースが点在し、避暑地としての洗練されたおもてなしと美食文化が融合しています。軽井沢町のふるさと納税クーポンを活用すれば、ゴルフコースに隣接するコテージやクラシックリゾートホテルにお得にステイ。早朝の澄んだ空気の中でティオフし、プレー後は信州ワインと極上フレンチに舌鼓を打つ優雅な休日が叶います。
           </p>
@@ -278,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -332,9 +316,7 @@ export default function Page() {
               沖縄県宮古島市・宮古ブルーの海越えコース
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            宮古島市ふるさと納税で泊まる、エメラルドグリーンの海を望むリンクス＆高級ヴィラ
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">宮古島市ふるさと納税で泊まる、エメラルドグリーンの海を望むリンクス＆高級ヴィラ</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             東洋一美しいと称される宮古ブルーの海を間近に感じながらプレーする、南国リンクスコース。海風を読みながらの海越えショートホールなど、ダイナミックなリゾートゴルフの醍醐味が凝縮されています。宮古島市のふるさと納税クーポンを使えば、ゴルフ場に隣接するプライベートプール付きスイートヴィラやラグジュアリーホテルをお得に予約可能。冬でも温暖な気候の中、最高のリゾートゴルフバカンスをご満喫ください。
           </p>
@@ -364,9 +346,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -418,30 +398,24 @@ export default function Page() {
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ゴルフプレー代金もクーポンの割引対象に含まれますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>ゴルフプレー代金もクーポンの割引対象に含まれますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 楽天トラベル上で販売されている「ゴルフプレー券付き宿泊プラン」や「1ラウンドプレー代込みリゾートプラン」であれば、宿泊とプレー代を合わせた総額に対してふるさと納税クーポンが適用されます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>仲間との複数名予約でまとめてクーポンを使えますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>仲間との複数名予約でまとめてクーポンを使えますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 代表者が1つの予約として同伴者全員分の部屋をまとめて予約した場合、その予約総額に対してクーポンが適用可能です。また、メンバー各自がそれぞれの楽天アカウントでふるさと納税を行い、個別に予約してクーポンを充当することもできます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>ゴルフバッグの事前発送やレンタルクラブの手配は可能ですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>ゴルフバッグの事前発送やレンタルクラブの手配は可能ですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 多くのゴルフリゾートホテルでは宅急便によるゴルフバッグの事前受け取り・保管サービスを行っています。また、最新モデルのレンタルクラブやシューズを用意しているリゾートも多く、手ぶらでの飛行機移動も快適です。
               </p>
@@ -471,9 +445,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【憧れの最高峰宿】記念日・プロポーズの極上スイート＆ヴィラ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【憧れの最高峰宿】記念日・プロポーズの極上スイート＆ヴィラ</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 ゴルフと合わせて贅沢な休日を。沖縄や箱根のプライベートプール付きヴィラで過ごす至高の時間。
               </p>
@@ -490,9 +462,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【3世代家族旅行×高額枠一括消化】親孝行＆孫と泊まる客室露天風呂</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 高額な寄付枠を賢く消化！家族みんなで泊まれる熱海・白浜・那須のプレミアム温泉旅館。
               </p>
@@ -509,9 +479,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【最大30%還元・実質2,000円負担で泊まる名湯】高級温泉旅館＆憧れの老舗宿完全ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 ラウンド後の身体を極上の湯で癒やす。草津・有馬・伊豆の老舗名湯宿をふるさと納税で予約。
               </p>
@@ -541,9 +509,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】リブマックスリゾート伊東川奈を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】リブマックスリゾート伊東川奈を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -576,9 +542,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とリブマックスリゾート伊東川奈の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とリブマックスリゾート伊東川奈の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

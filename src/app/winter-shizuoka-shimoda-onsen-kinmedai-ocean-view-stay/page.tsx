@@ -269,9 +269,7 @@ export default function ShizuokaShimodaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Warm Coastal Winter & Kinmedai</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黒潮がもたらす温暖な冬と黄金の味覚｜11月・12月に下田・南伊豆を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒潮がもたらす温暖な冬と黄金の味覚｜11月・12月に下田・南伊豆を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function ShizuokaShimodaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Marine Ecology & Heritage Culture</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                黒潮の恩恵と歴史の港町｜下田・南伊豆が誇る豊かな自然風土と温泉テロワール
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒潮の恩恵と歴史の港町｜下田・南伊豆が誇る豊かな自然風土と温泉テロワール</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +343,7 @@ export default function ShizuokaShimodaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Carefully Selected Ocean View Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月の下田・南伊豆を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月の下田・南伊豆を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               水揚げ日本一の極上地金目鯛の姿煮・しゃぶしゃぶと、初冬の太平洋を一望する絶景露天風呂を誇る、楽天トラベル高評価の特選宿をご紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function ShizuokaShimodaWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-cyan-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-cyan-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="text-right">
                         <span className="text-xs text-slate-500 block">参考宿泊料金（2名1室時1名）</span>
                         <span className="text-xl font-extrabold text-cyan-800">{hotel.price}</span>
@@ -463,9 +455,7 @@ export default function ShizuokaShimodaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】下田・南伊豆の初冬絶景と金目鯛を極める1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】下田・南伊豆の初冬絶景と金目鯛を極める1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -494,31 +484,23 @@ export default function ShizuokaShimodaWinterFeature() {
         <section className="bg-gradient-to-br from-cyan-900 to-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md">
           <div className="flex items-center gap-3 pb-3 border-b border-cyan-800">
             <Compass className="w-6 h-6 text-cyan-400" />
-            <h2 className="text-xl sm:text-2xl font-bold">
-              11月・12月の下田・南伊豆旅行を満喫する実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">11月・12月の下田・南伊豆旅行を満喫する実践ガイド</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4" /> 気候・防寒対策
-              </h3>
+              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4" /> 気候・防寒対策</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 本州の中でも温暖で日中は15℃を超える小春日和もありますが、海沿いは冬の海風が冷たく体感温度を下げます。風を通さないアウターやストール、重ね着しやすい服装を準備しておくと、夕景観賞や夜の露天風呂も快適です。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4" /> 爪木崎水仙と史跡散策
-              </h3>
+              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5"><Footprints className="w-4 h-4" /> 爪木崎水仙と史跡散策</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 12月中旬から開幕する爪木崎の水仙まつりは必見。青い海と300万本の水仙のコントラストは初冬の南伊豆を象徴する絶景です。また、下田市街のペリーロードや了仙寺など開国の歴史散策も風情豊かで楽しめます。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5">
-                <Fish className="w-4 h-4" /> 地金目鯛の選び方・予約
-              </h3>
+              <h3 className="font-bold text-cyan-300 flex items-center gap-1.5"><Fish className="w-4 h-4" /> 地金目鯛の選び方・予約</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 金目鯛プランを選ぶ際は「地金目鯛」または「下田港一本釣り」と明記されたプランが断然おすすめ。身のふっくら感と脂の上品さが格別です。人気宿の露天風呂付き客室や金目鯛特選プランは週末を中心に早期満室となります。
               </p>
@@ -534,18 +516,14 @@ export default function ShizuokaShimodaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の下田・南伊豆温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の下田・南伊豆温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-cyan-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -558,9 +536,7 @@ export default function ShizuokaShimodaWinterFeature() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-cyan-100">
             <Compass className="w-6 h-6 text-cyan-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の温泉・美食旅行特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の温泉・美食旅行特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -568,9 +544,7 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">静岡・熱海</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">
-                初冬の熱海海上花火大会と金目鯛会席を愉しむ温泉宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">初冬の熱海海上花火大会と金目鯛会席を愉しむ温泉宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 夜空を彩る冬花火と相模湾の海の幸を特等席で満喫。
               </p>
@@ -580,9 +554,7 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">東伊豆・稲取</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">
-                稲取温泉の初冬海一望露天と伝統稲取金目鯛の姿煮宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">稲取温泉の初冬海一望露天と伝統稲取金目鯛の姿煮宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 発祥の地で味わう濃厚な金目鯛の煮付けと絶景オーシャンビュー。
               </p>
@@ -592,9 +564,7 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">中伊豆・修善寺</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">
-                修善寺温泉の名残紅葉と竹林の小径・伊豆の美食宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">修善寺温泉の名残紅葉と竹林の小径・伊豆の美食宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 伊豆の小京都で過ごす静かな初冬の風情と名湯の寛ぎ。
               </p>
@@ -604,9 +574,7 @@ export default function ShizuokaShimodaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-cyan-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-700 bg-cyan-100/60 px-2 py-0.5 rounded-full inline-block">三重・鳥羽</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">
-                鳥羽温泉郷の初冬伊勢海老＆的矢かき会席と海の絶景宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-cyan-800 transition line-clamp-2">鳥羽温泉郷の初冬伊勢海老＆的矢かき会席と海の絶景宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 伊勢志摩の豊かな海の恵みと波静かな鳥羽湾を望む名旅館。
               </p>

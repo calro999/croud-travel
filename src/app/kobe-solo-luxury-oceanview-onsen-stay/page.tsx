@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            神戸ポートタワーの赤い灯りと汽笛の調べ、海に揺れる光の波——日常の喧騒を忘れ、海風と名湯に包まれる「神戸ベイサイド・ソロリトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">神戸ポートタワーの赤い灯りと汽笛の調べ、海に揺れる光の波——日常の喧騒を忘れ、海風と名湯に包まれる「神戸ベイサイド・ソロリトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             六甲の山並みと穏やかな瀬戸内海に抱かれた港町・神戸。明治の開港以来培われてきた洋館やベーカリー、パティスリーの文化、そして日本三大夜景と称される美しいライトアップ。旧居留地の洗練されたブティック街や、潮風が心地よいメリケンパーク・ハーバーランドは、大人がひとりで歩くのにこれ以上なく絵になるロケーションです。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   270度を海に囲まれた天然温泉リゾート旅館！地下1,150mから湧く名湯と展望露天風呂・オーシャンスイート
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  神戸みなと温泉 蓮 —— 新港第一突堤に佇む大人の癒やし空間。源泉掛け流しの湯と健康増進プール
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">神戸みなと温泉 蓮 —— 新港第一突堤に佇む大人の癒やし空間。源泉掛け流しの湯と健康増進プール</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   全室70㎡以上＆大型ジャグジーバス完備！スモール・ラグジュアリー・ホテルズ加盟の最高峰ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル ラ・スイート神戸ハーバーランド —— 贅を尽くしたプライベート空間。全室オーシャンビューテラスとル・パンの朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル ラ・スイート神戸ハーバーランド —— 贅を尽くしたプライベート空間。全室オーシャンビューテラスとル・パンの朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   神戸港の突端にそびえる豪華客船のようなホテル！全室バルコニー付きで海に浮かぶような絶景ビュー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  神戸メリケンパークオリエンタルホテル —— メリケンパークのシンボル。270度パノラマと海を望むテラスレストラン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">神戸メリケンパークオリエンタルホテル —— メリケンパークのシンボル。270度パノラマと海を望むテラスレストラン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              神戸ベイエリアをひとり旅で優雅に楽しむ3つの過ごし方
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">神戸ベイエリアをひとり旅で優雅に楽しむ3つの過ごし方</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 夕暮れのメリケンパーク＆BE KOBEモニュメント散策
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 夕暮れのメリケンパーク＆BE KOBEモニュメント散策</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 昼間の混雑が落ち着く夕暮れ時。茜色に染まる空とライトアップが灯り始める瞬間は息をのむ美しさです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 旧居留地のレトロビルカフェで本格ケーキを味わう
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 旧居留地のレトロビルカフェで本格ケーキを味わう</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 近代洋風建築が並ぶ美しい街並み。洗練されたカフェでいただく神戸スイーツと紅茶はひとり旅の特等席です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は客室バルコニーで神戸ワインや地ビールを一杯
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は客室バルコニーで神戸ワインや地ビールを一杯</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 潮風に吹かれながら海を行き交う船の明かりを眺める時間。誰にも邪魔されない至極のプライベートバーになります。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>三宮駅からホテルまでは歩いて行けますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>三宮駅からホテルまでは歩いて行けますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 三宮駅からハーバーランド・メリケンパークエリアまでは徒歩約15〜20分ですが、各ホテルが三宮駅前からの無料シャトルバスや路線バスを運行しており、荷物があっても快適にアクセスできます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でルームサービスのディナーを頼むことはできますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でルームサービスのディナーを頼むことはできますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、特にホテル ラ・スイート神戸ハーバーランドなどはルームサービスが非常に充実しており、お部屋で誰にも気兼ねなく本格フレンチコースやワインを楽しむことができます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】神戸みなと温泉 蓮を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】神戸みなと温泉 蓮を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

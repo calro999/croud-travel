@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          もぎたて林檎の微発泡酒と香り高い毬花ホップ。大地の恵みを醸すクラフトビバレッジリゾート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">もぎたて林檎の微発泡酒と香り高い毬花ホップ。大地の恵みを醸すクラフトビバレッジリゾート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              できたての生シードルや限定クラフトビールをタップから直接味わう
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">できたての生シードルや限定クラフトビールをタップから直接味わう</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               工房直営だからこそ味わえる、加熱処理をしていないフレッシュな樽生シードルや限定醸造のホップビールを心ゆくまで満喫できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              リンゴ園やホップ畑を望むテラスでの爽快なペアリングディナー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">リンゴ園やホップ畑を望むテラスでの爽快なペアリングディナー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               広大な果樹園やホップ棚の緑を眺めながら、短角牛や信州サーモン、津軽の海の幸と美酒のマリアージュに舌鼓を打てます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税クーポンで宿泊と工房見学・テイスティングをお得に体験
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税クーポンで宿泊と工房見学・テイスティングをお得に体験</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿泊費をスマートに節約し、醸造所ツアーやシードルの飲み比べセットなど現地での体験をより贅沢にアップグレードできます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="hirosaki_cider" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                青森県弘前市・青森ふるさと納税：日本一のりんご王国・弘前シードル工房めぐりと津軽郷土美食ホテル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">青森県弘前市・青森ふるさと納税：日本一のりんご王国・弘前シードル工房めぐりと津軽郷土美食ホテル</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 弘前れんが倉庫美術館をはじめ、シードル醸造所が集まるリンゴの街。爽やかな酸味とキレが際立つできたてシードルを片手に、津軽三味線の音色と青森の海の幸を味わう旅です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     青森県青森市本町2-4-7
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    スマイルホテル青森
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">スマイルホテル青森</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     官庁街に隣接しビジネスに最適な立地・繁華街もすぐ近くです！インターネット無料で接続できます！
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="tono_hop" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岩手県遠野市・花巻温泉郷ふるさと納税：日本随一のホップの里・遠野ビアツーリズムと名湯宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岩手県遠野市・花巻温泉郷ふるさと納税：日本随一のホップの里・遠野ビアツーリズムと名湯宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 国産ホップの約半数を生産する「ホップの里」遠野。夏から秋にかけて緑のカーテンが広がるホップ畑を巡り、遠野ジンギスカンと香り高いビール、花巻温泉郷の美肌湯に癒やされます。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市台２－４５
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市大通り1-7-41
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテル狩野
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテル狩野</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     花巻駅前のホテル狩野。女将手作りの日替り料理と24時間入浴OKのミネラル泉が好評。
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市湯本第1地割125-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    花巻温泉　佳松園
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉　佳松園</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="iida_cider" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長野県飯田市・南信州ふるさと納税：りんご並木と南信州シードル・天竜川の渓谷美と天然温泉リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長野県飯田市・南信州ふるさと納税：りんご並木と南信州シードル・天竜川の渓谷美と天然温泉リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 標高差が生む高品質なリンゴの産地・南信州。数多くのクラフトシードルワイナリーが点在し、天竜川のダイナミックな川下りや名湯とともに、フルーティーな微発泡酒を堪能できます。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県伊那市高遠町勝間217
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    高遠温泉　高遠さくらホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高遠温泉　高遠さくらホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ■pH9.7トロトロ肌触りの天然温泉／露天風呂＆貸切風呂／城址公園・高遠湖望む全室レイクビュー■
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 軽井沢・修善寺・小樽の出来立て生ビールと美食ステイ。
               </p>
@@ -452,9 +426,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 勝沼・余市・十勝のワインペアリング旅。
               </p>
@@ -468,9 +440,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -488,9 +458,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳選ガイド弘前・遠野・南信州飯田の果実酒ステイエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

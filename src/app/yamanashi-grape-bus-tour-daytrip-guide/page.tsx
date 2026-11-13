@@ -175,9 +175,7 @@ export default function YamanashiGrapeBusTourPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-purple-600 uppercase">直行高速バス完全ガイド</span>
-              <h3 className="text-sm font-black text-slate-900 group-hover:text-purple-700 transition">
-                【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金比較＆絶景コース
-              </h3>
+              <h3 className="text-sm font-black text-slate-900 group-hover:text-purple-700 transition">【新宿・東京から富士急・河口湖 直行バス】電車とどっちが安い？料金比較＆絶景コース</h3>
             </div>
             <span className="text-purple-600 font-bold ml-2">→</span>
           </Link>
@@ -195,9 +193,7 @@ export default function YamanashiGrapeBusTourPage() {
       <section id="tour-ranking" className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-8">
         <div className="border-b border-purple-100 pb-4">
           <span className="text-xs font-black tracking-widest text-purple-700 uppercase">POPULAR BUS TOURS</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            2026年秋 山梨ぶどう狩り日帰りバスツアー 人気コース比較
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">2026年秋 山梨ぶどう狩り日帰りバスツアー 人気コース比較</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             シャインマスカット食べ放題に「温泉」「ご当地牛」「ワイン」が組み合わさった満足度の高いコースです。
           </p>
@@ -223,9 +219,7 @@ export default function YamanashiGrapeBusTourPage() {
                 </div>
               </div>
 
-              <h3 className="text-base md:text-lg font-black text-slate-900 leading-snug">
-                {tour.title}
-              </h3>
+              <h3 className="text-base md:text-lg font-black text-slate-900 leading-snug">{tour.title}</h3>
 
               <div className="bg-white p-3.5 rounded-xl border border-purple-100 text-xs text-slate-700 space-y-1">
                 <div className="font-bold text-purple-900">🗺️ 巡回ルート例:</div>
@@ -244,9 +238,7 @@ export default function YamanashiGrapeBusTourPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="border-b border-purple-100 pb-4">
           <span className="text-xs font-black tracking-widest text-purple-700 uppercase">GRAPE VARIETIES</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            山梨ぶどう狩りで味わえる！人気4大品種の特徴と旬
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">山梨ぶどう狩りで味わえる！人気4大品種の特徴と旬</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             時期によって食べ頃の品種が変わります。お好みのぶどうの旬に合わせてツアー日程を選びましょう。
           </p>
@@ -256,9 +248,7 @@ export default function YamanashiGrapeBusTourPage() {
           {autumnGrapeVarieties.map((v, idx) => (
             <div key={idx} className="p-5 bg-purple-50/50 rounded-2xl border border-purple-100 space-y-2">
               <div className="flex items-center justify-between">
-                <h3 className="text-base font-black text-purple-950 flex items-center gap-1.5">
-                  <span>🍇</span> {v.name}
-                </h3>
+                <h3 className="text-base font-black text-purple-950 flex items-center gap-1.5">{v.name}</h3>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-100 px-2 py-0.5 rounded">
                   {v.season}
                 </span>
@@ -285,9 +275,7 @@ export default function YamanashiGrapeBusTourPage() {
               秋の味覚狩り・最安値予約
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            楽天トラベルで山梨ぶどう狩り＆ワイナリーツアーを予約！
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">楽天トラベルで山梨ぶどう狩り＆ワイナリーツアーを予約！</h2>
           <p className="text-xs md:text-sm text-purple-100/80 leading-relaxed font-medium">
             楽天トラベルなら、各社の日帰りバスツアーを一括比較して最安値で予約可能。楽天ポイントが貯まる＆使えるほか、季節限定の割引クーポンを活用すればさらにお得に参加できます！
           </p>
@@ -338,9 +326,7 @@ export default function YamanashiGrapeBusTourPage() {
           <div className="flex items-center gap-2 text-purple-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>YAMANASHI RESORTS & ONSEN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            日帰り入浴や秋の山梨滞在におすすめの提携宿
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">日帰り入浴や秋の山梨滞在におすすめの提携宿</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             農園体験施設や富士山を望む展望温泉ホテルなど、ぶどう狩りと合わせて楽しめる名宿です。
           </p>
@@ -375,9 +361,7 @@ export default function YamanashiGrapeBusTourPage() {
                   </div>
 
                   <div className="p-5 space-y-2">
-                    <h3 className="text-sm md:text-base font-black font-journal-serif text-slate-900">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm md:text-base font-black font-journal-serif text-slate-900">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed">
                         {hotel.hotelSpecial}
@@ -408,9 +392,7 @@ export default function YamanashiGrapeBusTourPage() {
 
       {/* ぶどう狩りバスツアー参加時の持ち物＆注意点 */}
       <section className="bg-purple-50/50 border border-purple-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="text-base md:text-lg font-black font-journal-serif text-purple-950 flex items-center gap-2">
-          <span>🍇</span> シャインマスカット狩りバスツアーを100%楽しむ心得
-        </h3>
+        <h3 className="text-base md:text-lg font-black font-journal-serif text-purple-950 flex items-center gap-2">シャインマスカット狩りバスツアーを100%楽しむ心得</h3>
         <ul className="space-y-2 text-xs md:text-sm text-slate-700 leading-relaxed list-disc list-inside">
           <li>
             <strong className="text-slate-900">ウェットティッシュ・小さなゴミ袋を持参：</strong>

@@ -248,12 +248,10 @@ export default function WinterShimaneMatsuePage() {
             11月・12月 宍道湖夕日絶景＆解禁松葉ガニ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月島根・松江しんじ湖温泉】宍道湖夕日絶景と冬の味覚
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月島根・松江しんじ湖温泉】宍道湖夕日絶景と冬の味覚
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               解禁松葉ガニ＆寒シジミ鍋・しまね和牛会席を愉しむ湖畔レイクビュー名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、水の都・松江の宍道湖畔に湧く松江しんじ湖温泉は、澄み切った初冬の空に広がる「夕日百選」宍道湖の真紅のサンセットと、11月に解禁を迎えた冬の味覚の王者「松葉ガニ」が揃う最高のハイシーズンを迎えます。湖上を茜色に染める夕景と飛来する冬鳥のシルエット、国宝・松江城の堀川遊覧船「こたつ船」で温まる城下町巡り、77度を超える高温良質なナトリウム・カルシウム硫酸塩泉のレイクビュー露天風呂。旨味あふれる松葉ガニフルコースや、ぷっくり肥えた宍道湖産寒シジミ鍋、極上しまね和牛を堪能する湖畔の厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterShimaneMatsuePage() {
             <Landmark className="w-4 h-4" />
             松江しんじ湖温泉の初冬の魅力
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            真紅に染まる宍道湖の夕陽と解禁の松葉ガニ。水の都・松江で味わう初冬の極上レイクサイドステイ
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">真紅に染まる宍道湖の夕陽と解禁の松葉ガニ。水の都・松江で味わう初冬の極上レイクサイドステイ</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               島根県の県庁所在地であり、国宝・松江城を中心とした城下町の風情を色濃く残す「水の都」松江。その西側に広がる周囲約45kmの汽水湖・宍道湖の北岸に湧くのが「松江しんじ湖温泉」です。昭和46年に地下1,250mから湧出した源泉は、77度という高温を誇り、メタケイ酸やカルシウム、硫酸イオンを豊富に含む弱アルカリ性の美肌・温まりの湯。湖畔に沿って並ぶ温泉宿からは、日本屈指の広大なレイクビューが一望できます。
@@ -308,9 +304,7 @@ export default function WinterShimaneMatsuePage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の松江しんじ湖温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の松江しんじ湖温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               夕日絶景と解禁カニ、歴史情緒を堪能する冬の休日
             </p>
@@ -321,9 +315,7 @@ export default function WinterShimaneMatsuePage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                夕陽百選・宍道湖の真紅のサンセット
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">夕陽百選・宍道湖の真紅のサンセット</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 澄み渡る初冬の夕暮れ、湖面を茜色に染める劇的な夕景。嫁ヶ島のシルエットと飛来する白鳥の群れを望む奇跡のパノラマ。
               </p>
@@ -333,9 +325,7 @@ export default function WinterShimaneMatsuePage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                解禁松葉ガニ＆宍道湖寒シジミ鍋
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">解禁松葉ガニ＆宍道湖寒シジミ鍋</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 11月解禁の活松葉ガニフルコース（刺し・焼き・甲羅味噌）と、旨味凝縮の寒シジミ土鍋ご飯、極上しまね和牛を堪能。
               </p>
@@ -345,9 +335,7 @@ export default function WinterShimaneMatsuePage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                77度良質高温源泉＆こたつ船巡り
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">77度良質高温源泉＆こたつ船巡り</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 冷え性を芯から温める良質な硫酸塩温泉。冬の風物詩・松江城堀川の「こたつ船」で温まりながら巡る風情ある城下町散策。
               </p>
@@ -361,9 +349,7 @@ export default function WinterShimaneMatsuePage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-teal-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              島根・松江しんじ湖温泉の湖畔レイクビュー名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">島根・松江しんじ湖温泉の湖畔レイクビュー名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,9 +397,7 @@ export default function WinterShimaneMatsuePage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -487,9 +471,7 @@ export default function WinterShimaneMatsuePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の松江しんじ湖温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の松江しんじ湖温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -517,34 +499,26 @@ export default function WinterShimaneMatsuePage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              松江しんじ湖温泉の初冬グルメ完全ガイド！松葉ガニと寒シジミ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">松江しんじ湖温泉の初冬グルメ完全ガイド！松葉ガニと寒シジミ</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                解禁！山陰の活松葉ガニ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                解禁！山陰の活松葉ガニ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 11月6日に漁が解禁される山陰の冬の最高峰「松葉ガニ」。甘み際立つカニ刺し、炭火で香ばしく焼き上げる焼きガニ、濃厚な旨味が詰まった甲羅味噌焼きなど、一度味わえば忘れられない冬の味覚を贅沢に味わえます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                宍道湖産大粒寒シジミ鍋＆土鍋ご飯
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                宍道湖産大粒寒シジミ鍋＆土鍋ご飯</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 冷たい湖底で旨味成分コハク酸をたっぷりと蓄えた冬の「寒シジミ」。ぷっくり肥えた身から染み出る滋味深い出汁は、小鍋仕立てや土鍋の炊き込みご飯、味噌汁でいただくと、身体の隅々まで温かい滋養が行き渡ります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                極上しまね和牛＆松江の茶湯文化
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                極上しまね和牛＆松江の茶湯文化</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 全国和牛能力共進会で日本一に輝いた「しまね和牛」のサーロインやフィレステーキ。きめ細やかな霜降りのとろける甘みは格別。食後には松江藩主・不昧公（ふまいこう）が育んだ伝統の茶の湯と四季の上生菓子を堪能。
               </p>
@@ -558,15 +532,11 @@ export default function WinterShimaneMatsuePage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の松江しんじ湖温泉 交通アクセス＆散策のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の松江しんじ湖温泉 交通アクセス＆散策のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                アクセス方法と周遊のポイント
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                アクセス方法と周遊のポイント</h3>
               <p>
                 飛行機を利用する場合は、出雲縁結び空港より連絡バスで約40分、米子鬼太郎空港より約45分で松江駅・松江しんじ湖温泉へアクセスできます。鉄道の場合はJR山陰本線松江駅よりバス・タクシーで約10〜15分、一畑電車利用なら「松江しんじ湖温泉駅」より徒歩圏内です。
               </p>
@@ -576,10 +546,8 @@ export default function WinterShimaneMatsuePage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                初冬の山陰気候・防寒と雨具の準備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                初冬の山陰気候・防寒と雨具の準備</h3>
               <p>
                 12月の松江は最高気温10℃前後、朝晩は2〜5℃まで冷え込み、日本海からの北西風が吹くため体感温度は低くなります。防風ダウンジャケット、マフラー、手袋が必須です。
               </p>
@@ -596,16 +564,12 @@ export default function WinterShimaneMatsuePage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の島根・松江しんじ湖温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の島根・松江しんじ湖温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -617,10 +581,8 @@ export default function WinterShimaneMatsuePage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい山陰・中国地方の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい山陰・中国地方の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬のカニ会席や雪見露天、神話の里を巡る山陰の厳選旅ガイド
             </p>
@@ -632,9 +594,7 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                玉造温泉の神の湯美肌露天と松葉ガニ・しまね和牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">玉造温泉の神の湯美肌露天と松葉ガニ・しまね和牛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 日本最古の美肌温泉と冬の山陰グルメを心ゆくまで堪能。
               </p>
@@ -645,9 +605,7 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・皆生温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                皆生温泉の日本海オーシャンビュー雪見露天と松葉ガニ宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">皆生温泉の日本海オーシャンビュー雪見露天と松葉ガニ宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 美保湾越しに望む白雪の大山と境港直送の獲れたて松葉ガニ。
               </p>
@@ -658,9 +616,7 @@ export default function WinterShimaneMatsuePage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                三朝温泉の世界屈指ラジウム泉雪見湯治と松葉ガニ宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">三朝温泉の世界屈指ラジウム泉雪見湯治と松葉ガニ宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 三朝橋の河原露天風呂とホルミシス効果、極上カニ鍋を堪能。
               </p>

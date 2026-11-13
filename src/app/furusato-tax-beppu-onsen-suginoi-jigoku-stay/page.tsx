@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            街のいたるところから立ち上る湯けむりと圧倒的な湯量——別府八湯の多彩な泉質と絶景温泉リゾートを極める旅
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">街のいたるところから立ち上る湯けむりと圧倒的な湯量——別府八湯の多彩な泉質と絶景温泉リゾートを極める旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             大分県別府市、鶴見岳と伽藍岳の麓から別府湾に向かって広がる別府温泉郷。毎分約8万3,000リットルという日本一の温泉湧出量を誇り、世界中から温泉ファンが訪れる世界屈指の温泉都市です。「別府八湯（べっぷはっとう）」と呼ばれる八つの温泉エリア（別府、鉄輪、観海寺、明礬、柴石、亀川、堀田、浜脇）からなり、地球上に存在する全10種類の泉質のうち実に7種類が揃うという、まさに生きた地球の博物館です。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府温泉　杉乃井ホテル（オリックスホテルズ＆リゾーツ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   五段の棚田状大展望露天風呂「棚湯」と大噴水ショー！西日本最大級の温泉エンターテインメントリゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  別府温泉 杉乃井ホテル（オリックスホテルズ＆リゾーツ） —— 別府のシンボルリゾート。宙館の最上階展望露天と豪華ビュッフェ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">別府温泉 杉乃井ホテル（オリックスホテルズ＆リゾーツ） —— 別府のシンボルリゾート。宙館の最上階展望露天と豪華ビュッフェ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 別府湾と街並みを見下ろす五段の棚田露天風呂「棚湯」と宙館「宙湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">別府湾と街並みを見下ろす五段の棚田露天風呂「棚湯」と宙館「宙湯」</h5>
                     <p className="text-stone-600 leading-relaxed">圧倒的な開放感を誇る名物露天風呂。標高250メートルの最上階から別府湾を一望し、晴れた日には四国佐田岬まで見渡せる絶景パノラマが広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 水着で楽しむ温泉プール「アクアガーデン」と光と噴水のショー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">水着で楽しむ温泉プール「アクアガーデン」と光と噴水のショー</h5>
                     <p className="text-stone-600 leading-relaxed">幻想的な音と光と水が躍動する大迫力の噴水アートショー。家族連れやカップルで夜空の下、感動のエンターテインメントを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> シェフが目の前で腕を振るう豪華プレミアムビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">シェフが目の前で腕を振るう豪華プレミアムビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">和洋中の出来立て料理や刺身、ステーキ、デザートが並ぶ圧巻のビュッフェレストラン「TERRACE & DINING SORA」。全世代が大満足できる美食空間です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室が海に面した源泉掛け流し客室露天風呂付き！別府湾の波打ち際に佇む大人のモダンラグジュアリー
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  AMANE RESORT SEIKAI（潮騒の宿 晴海） —— 海景と名湯の静寂。波の音を聞くプライベート温泉と極上会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">AMANE RESORT SEIKAI（潮騒の宿 晴海） —— 海景と名湯の静寂。波の音を聞くプライベート温泉と極上会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室テラスに備えられた別府湾を望む温泉露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室テラスに備えられた別府湾を望む温泉露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">海風を感じながら24時間好きな時に浸かれるプライベート露天風呂。朝日に染まる水平線や夜の月の光を眺める贅沢な湯浴みが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 海抜ゼロメートルの波打ち際露天風呂「潮騒の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">海抜ゼロメートルの波打ち際露天風呂「潮騒の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">まるで海に浸かっているかのような感覚を味わえる一階大浴場。最上階の展望大浴場「昇陽の湯」とともに二つの絶景温泉を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 関アジ・関サバやおおいた和牛を味わう三つのシグネチャーダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">関アジ・関サバやおおいた和牛を味わう三つのシグネチャーダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">日本料理「玄」、海鮮料理「えいたろう」、ビストロ「BAN-YA」から好みに合わせて選べる洗練されたディナーコース。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府鉄輪温泉　山荘　神和苑
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府鉄輪温泉　山荘　神和苑</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   鉄輪温泉の高台に佇む名門！能舞台と千坪の日本庭園、自家源泉掛け流しの湯を誇る大人の隠れ家料亭旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  別府鉄輪温泉 山荘 神和苑（かんなわえん） —— 日本建築の粋を集めた最高峰。庭園の滝と本格懐石料理の宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">別府鉄輪温泉 山荘 神和苑（かんなわえん） —— 日本建築の粋を集めた最高峰。庭園の滝と本格懐石料理の宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 能舞台や茶室が配された千坪の美しい池泉回遊式庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">能舞台や茶室が配された千坪の美しい池泉回遊式庭園</h5>
                     <p className="text-stone-600 leading-relaxed">滝が流れ、四季折々の木々や花々が彩る格式高い庭園。夜には美しくライトアップされ、幽玄な日本の伝統美を体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鉄輪の高温良質な自家源泉を100％掛け流しで湛える大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鉄輪の高温良質な自家源泉を100％掛け流しで湛える大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">青みを帯びた神秘的なメタけい酸豊富な美肌温泉。客室露天風呂付きプランでは、名湯を誰にも邪魔されず独り占めできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 豊後牛や瀬戸内の高級魚介を極めた伝統の京風懐石・鉄板焼き
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">豊後牛や瀬戸内の高級魚介を極めた伝統の京風懐石・鉄板焼き</h5>
                     <p className="text-stone-600 leading-relaxed">熟練の料理人が一皿一皿魂を込めて仕立てる料理。器の美しさと繊細な味付けが特別な日を最高に演出します。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 別府温泉郷・地獄めぐり＆鉄輪湯けむり展望台ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 別府温泉郷・地獄めぐり＆鉄輪湯けむり展望台ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                別府地獄めぐり（海地獄・血の池地獄・白池地獄など七地獄）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                別府地獄めぐり（海地獄・血の池地獄・白池地獄など七地獄）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 千年以上前から噴気や熱泥、熱湯が噴出していたことから「地獄」と呼ばれた景勝地。コバルトブルーの「海地獄」や真っ赤な「血の池地獄」など、地球のエネルギーを五感で体感できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                湯けむり展望台からの夜景（日本夜景遺産）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                湯けむり展望台からの夜景（日本夜景遺産）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 鉄輪温泉街から立ち上る無数の湯けむりと、後方の鶴見岳、別府湾を一望するビュースポット。夜には湯けむりがライトアップされ、幻想的な夜景が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                鉄輪温泉街での「地獄蒸し工房」体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                鉄輪温泉街での「地獄蒸し工房」体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉から噴き出る高温の蒸気熱を利用して、野菜や魚介、卵などを蒸し上げる伝統調理法「地獄蒸し」。素材本来の甘みと旨味が凝縮されたヘルシーな郷土料理を体験できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              大分県別府市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">大分県別府市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別府温泉 杉乃井ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別府温泉 杉乃井ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別府温泉 杉乃井ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別府温泉 杉乃井ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

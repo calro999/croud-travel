@@ -301,9 +301,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              雪吊りが描く幾何学美と、冬限定の至宝「香箱ガニ」に酔いしれる金沢の冬
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雪吊りが描く幾何学美と、冬限定の至宝「香箱ガニ」に酔いしれる金沢の冬</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               <Sparkles className="w-4 h-4 text-rose-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              兼六園雪景色と湯涌温泉の雪見露天＆香箱ガニを堪能する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">兼六園雪景色と湯涌温泉の雪見露天＆香箱ガニを堪能する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の金沢・兼六園雪吊りと奥金沢湯涌温泉 2泊3日風雅モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の金沢・兼六園雪吊りと奥金沢湯涌温泉 2泊3日風雅モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：近江町市場のカニ熱気と兼六園雪吊り散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：近江町市場のカニ熱気と兼六園雪吊り散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前、北陸新幹線でJR金沢駅に到着。まずは「金沢市民の台所」近江町市場へ。店頭にずらりと並ぶ真っ赤な加能ガニや香箱ガニの活気ある掛け声を楽しみながら、旬の海鮮丼でランチ。午後は日本三名園「兼六園」へ。青空に映える唐崎松の雪吊りや霞ヶ池、徽軫灯籠（ことじとうろう）の冬景色をじっくり観賞。夕暮れにバスまたはタクシーで奥金沢・湯涌温泉へ。チェックイン後は雪見露天風呂に浸かり、夕食には名物の香箱ガニ甲羅盛りと鴨肉の治部煮会席を味わいます。
               </p>
@@ -475,9 +465,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：竹久夢二の足跡を辿る湯涌散歩と雪の茶屋街巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：竹久夢二の足跡を辿る湯涌散歩と雪の茶屋街巡り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝の清澄な空気の中、湯涌温泉街を散策。「金沢湯涌夢二館」で竹久夢二の抒情画の世界に浸り、薬師堂や白鷺の足湯で温まります。昼前に金沢市街へ戻り、「ひがし茶屋街」の雪化粧した紅殻格子（べんがらごうし）の町並みを歩き、金箔ソフトや抹茶で一服。午後は金沢21世紀美術館で現代アートに触れ、夕方には雪吊りライトアップが行われる兼六園へ再訪。夜は金沢名物「金沢おでん」の名店で車麩やバイ貝、カニ面を地酒とともに堪能します。
               </p>
@@ -486,9 +474,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-rose-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-rose-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：金沢城公園の白銀石垣と加賀の伝統工芸土産選び
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：金沢城公園の白銀石垣と加賀の伝統工芸土産選び</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は金沢城公園へ。菱櫓・五十間長屋・橋爪門続櫓の純白の雪と黒い瓦屋根が織りなす荘厳な城郭建築を拝観。長町武家屋敷跡の雪除け「こも掛け」が施された土塀の小路を散策し、武士の街の風情を感じます。金沢駅構内の「あんと」で九谷焼の箸置きや加賀棒茶、カニ煎餅、銘酒「菊姫」「手取川」を買い求め、新幹線で帰路につきます。
               </p>
@@ -502,9 +488,7 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
             <ThermometerSun className="w-4 h-4 text-rose-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の金沢・湯涌温泉を快適に過ごすための服装と足元対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の金沢・湯涌温泉を快適に過ごすための服装と足元対策</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-rose-100 leading-relaxed pt-2">
             <div className="space-y-2 bg-stone-900/60 p-4 rounded-2xl border border-rose-800/60">
               <span className="font-bold text-white block">【雨雪兼用・防水ブーツが鉄則】</span>
@@ -528,26 +512,20 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               <ShoppingBag className="w-4 h-4 text-rose-800" />
               金沢・兼六園・湯涌温泉の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              城下町の美意識が息づく冬限定の美食工芸と加賀銘菓
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">城下町の美意識が息づく冬限定の美食工芸と加賀銘菓</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-700" />
-                近江町市場の香箱ガニ甲羅盛りクール便＆冬仕込み新酒「菊姫・手取川」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-700" />
+                近江町市場の香箱ガニ甲羅盛りクール便＆冬仕込み新酒「菊姫・手取川」</h3>
               <p>
                 近江町市場の鮮魚通りでは、茹でたての香箱ガニや職人が手作業で仕立てた「カニ面」を地方発送できます。12月末までの短い旬だからこそ、お歳暮や年末年始の特別なごちそうとして喜ばれます。また、霊峰白山の伏流水で厳冬期に寒仕込みされる金沢・加賀の地酒「菊姫」「手取川」「黒帯」のしぼりたて新酒は、キリッとした辛口の中に米のふくよかな旨味が広がり、カニ料理や治部煮と最高の相性を誇ります。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-rose-700" />
-                縁起物「加賀八幡起上り」と加賀藩御用菓子「森八・柴舟小出」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-rose-700" />
+                縁起物「加賀八幡起上り」と加賀藩御用菓子「森八・柴舟小出」</h3>
               <p>
                 湯涌温泉の白鷺伝説とも縁の深い伝統工芸「加賀八幡起上り（かがはちまんおきあがり）」。鮮やかな朱色の絵付けが施された愛らしい起き上がり小法師は、無病息災・家内安全を願うお守りとして人気です。お菓子では、寛永年間創業「森八」の日本三名菓「長生殿（ちょうせいでん）」や、生姜のピリッとした辛みと白砂糖の甘みが冬の体に染みる「柴舟小出」の煎餅、香り高い「加賀棒茶（ほうじ茶）」が旅の定番手土産です。
               </p>
@@ -562,27 +540,21 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               <Compass className="w-4 h-4 text-rose-800" />
               加賀百万石の美意識・ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              兼六園の「雪吊り」の職人技と、香箱ガニが金沢人を魅了する理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">兼六園の「雪吊り」の職人技と、香箱ガニが金沢人を魅了する理由</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Trees className="w-4 h-4 text-rose-700" />
-                800本以上の縄が織りなす「りんご吊り」の構造力学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Trees className="w-4 h-4 text-rose-700" />
+                800本以上の縄が織りなす「りんご吊り」の構造力学</h3>
               <p>
                 北陸の雪は水分を多く含み、非常に重い「湿り雪」です。何もしなければ松の大枝が雪の重みで折れてしまうため、庭師たちが一本の太い芯柱を立て、その頭頂部から四方八方へと縄を放射状に張り巡らせます。最も有名な唐崎松では、5本の芯柱から約800本もの縄が引かれ、円錐形の美しい幾何学模様を描きます。実用的な防災技術でありながら、冬の景観そのものを世界最高峰の庭園芸術へと昇華させた加賀前田家の美意識がここに息づいています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-700" />
-                なぜ香箱ガニは12月末までの「わずか50日」なのか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-700" />
+                なぜ香箱ガニは12月末までの「わずか50日」なのか？</h3>
               <p>
                 メスのズワイガニである香箱ガニは、将来のズワイガニ資源を産み育てる大切な母ガニです。そのため省令により資源保護を徹底する目的で、漁期が11月6日から12月29日頃までの約50日間に厳格に制限されています。この短い期間に獲れる香箱ガニは、硬い甲羅の内側に朱色に輝く卵巣「内子」がぎっしりと詰まり、チーズやウニにも似た濃厚なコクと芳醇なアミノ酸の旨味を持っています。わずかな期間しか食べられない「幻の希少性」が、金沢の人々を虜にし続けています。
               </p>
@@ -597,18 +569,14 @@ export default function IshikawaKanazawaYuwakuWinterPage() {
               <HelpCircle className="w-4 h-4 text-rose-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の金沢・湯涌温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の金沢・湯涌温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

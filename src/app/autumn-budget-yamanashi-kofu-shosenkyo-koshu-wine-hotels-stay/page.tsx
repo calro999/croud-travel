@@ -58,10 +58,8 @@ export default function AutumnBudgetKofuHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-purple-600" />
-            宿泊代3,000円台！浮いた予算で勝沼ワイナリー巡り＆甲州牛ディナー
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-purple-600" />
+            宿泊代3,000円台！浮いた予算で勝沼ワイナリー巡り＆甲州牛ディナー</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             東京・新宿から中央線特急あずさ・かいじで約1時間半とアクセス抜群の甲府。昇仙峡の観光拠点としても最適です。甲府駅・昭和インター周辺のホテルは天然温泉付きや朝食付きで3,000円台〜5,000円台の良質宿が充実。浮いた予算をワイナリーでの試飲や甲州牛の贅沢料理に回して秋の実りを味わい尽くしましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（プライベート空間）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　甲府
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＨＯＴＥＬ　Ｒ９　Ｔｈｅ　Ｙａｒｄ　甲府</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>酒折</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　甲州隠し湯　スーパーホテル甲府昭和インター</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>甲府</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（源泉かけ流し）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              甲府昭和温泉ビジネスホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">甲府昭和温泉ビジネスホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>国母</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              東横ＩＮＮ甲府駅南口１
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ甲府駅南口１</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>甲府</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（お洒落デザイン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ビーフリーホテルズ甲府
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ビーフリーホテルズ甲府</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>国母</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetKofuHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-purple-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-purple-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の甲府・昇仙峡観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-purple-300"><CheckCircle2 className="w-5 h-5" />
+            秋の甲府・昇仙峡観光の満喫ポイント</h2>
           <p className="text-sm text-purple-100 leading-relaxed">
             昇仙峡の紅葉は10月下旬〜11月中旬が見頃。滝上からロープウェイでパノラマ台へ登ると富士山と南アルプス、紅葉の渓谷を一望できます。11月3日の山梨ヌーボー解禁後は、甲府市内の飲食店でも今年収穫されたばかりのフレッシュな新酒ワインを味わえます。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetKofuHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「甲府：御岳昇仙峡の渓谷紅葉と甲州新酒ワイン！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetKofuHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 甲府エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">甲府エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

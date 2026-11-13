@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            活気あふれる屋台と玄界灘の豊かな海の幸——極上のアーバンリゾートホテルと本場博多グルメを満喫する九州の休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">活気あふれる屋台と玄界灘の豊かな海の幸——極上のアーバンリゾートホテルと本場博多グルメを満喫する九州の休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             九州の政治・経済・文化の中心地であり、アジアの玄関口として発展を続ける福岡県福岡市。福岡空港から博多駅まで地下鉄でわずか5分という世界屈指の都市利便性を誇り、中洲・天神の活気ある屋台街や、キャナルシティ博多、大濠公園、歴史ある櫛田神社など多彩な見どころが集結しています。街中を歩けば、豚骨ラーメン、もつ鍋、水炊き、ごまさば、鉄鍋餃子など、日本一とも称される豊かな食文化が旅人を魅了します。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">福岡県福岡市（博多・天神）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  都ホテル博多
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">都ホテル博多</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   JR博多駅筑紫口直結！最上階に天然温泉スパ＆アウトドアプールを備えた都会のオアシス
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  都ホテル 博多 —— 博多駅直結の最高峰ラグジュアリー。屋上温泉スパプールとガラスファサードの美しいホテル
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">都ホテル 博多 —— 博多駅直結の最高峰ラグジュアリー。屋上温泉スパプールとガラスファサードの美しいホテル</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> JR博多駅筑紫口から地下直結徒歩1分の圧倒的アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">JR博多駅筑紫口から地下直結徒歩1分の圧倒的アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">雨の日も濡れずにチェックイン。新幹線や地下鉄、空港への移動がスムーズで、福岡観光やビジネスに最高の立地です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階13階に広がるアウトドア温泉スパ＆内湯・サウナ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階13階に広がるアウトドア温泉スパ＆内湯・サウナ</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内から湧出する天然温泉を利用した屋外温泉プールとジャグジー。博多の夜空を眺めながら贅沢なスパ体験を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室30㎡以上のゆとりある客室と上質なアメニティ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室30㎡以上のゆとりある客室と上質なアメニティ</h5>
                     <p className="text-stone-600 leading-relaxed">大きな窓から光が差し込むスタイリッシュな客室。全室バストイレ別で、独立洗面台や高級ベッドが快適な眠りを誘います。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">福岡県福岡市（博多・天神）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  グランドハイアット福岡
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">グランドハイアット福岡</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   キャナルシティ博多直結の国際的ラグジュアリーホテル！伝統と革新が息づく上質のおもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  グランドハイアット福岡 —— 噴水ショーを望む洗練の空間。ハイアットブランドの気品と天神・中洲へ徒歩すぐの好立地
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">グランドハイアット福岡 —— 噴水ショーを望む洗練の空間。ハイアットブランドの気品と天神・中洲へ徒歩すぐの好立地</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> エンターテインメント複合施設「キャナルシティ博多」直結
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">エンターテインメント複合施設「キャナルシティ博多」直結</h5>
                     <p className="text-stone-600 leading-relaxed">ショッピングや劇場、映画館、噴水ショーをホテル直結で満喫。天神や中洲の歓楽街へも徒歩圏内のベストロケーションです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> クラシカルで洗練された広々とした客室と大理石バスルーム
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">クラシカルで洗練された広々とした客室と大理石バスルーム</h5>
                     <p className="text-stone-600 leading-relaxed">全客室に独立したシャワーブース付きバスタブを完備。高い防音性と上質なリネンが極上の寛ぎを約束します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一流シェフが手掛けるインターナショナルレストラン＆バー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一流シェフが手掛けるインターナショナルレストラン＆バー</h5>
                     <p className="text-stone-600 leading-relaxed">オープンキッチンのグリルレストラン「THE MARKET F」での極上ディナー。バーラウンジからはキャナルシティの噴水を一望できます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">福岡県福岡市（博多・天神）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ヒルトン福岡シーホーク
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ヒルトン福岡シーホーク</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   博多湾オーシャンビューの巨大アーバンリゾート！地上100m超から望む福岡の夜景と大浴場
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ヒルトン福岡シーホーク —— みずほPayPayドーム隣接。全室オーシャンビューと地上35階スカイビューの絶景
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ヒルトン福岡シーホーク —— みずほPayPayドーム隣接。全室オーシャンビューと地上35階スカイビューの絶景</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 博多湾を一望する1,000室超の全室オーシャンビュー客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">博多湾を一望する1,000室超の全室オーシャンビュー客室</h5>
                     <p className="text-stone-600 leading-relaxed">客室の窓から広がる青い海と福岡タワー、夜には煌めく都市夜景のパノラマ。リゾート感あふれる滞在を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> みずほPayPayドーム福岡に隣接する抜群のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">みずほPayPayドーム福岡に隣接する抜群のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">野球観戦やコンサート、ライブ遠征に最適。隣接する商業施設「マークイズ福岡ももち」での買い物も便利です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 高さ40mのアトリウム空間「ブラッセリー＆ラウンジ シアラ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">高さ40mのアトリウム空間「ブラッセリー＆ラウンジ シアラ」</h5>
                     <p className="text-stone-600 leading-relaxed">開放感あふれるガラス張りの巨大空間で味わう豪華ビュッフェ。地元九州の厳選食材を取り入れた朝食が評判です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 博多駅・中洲屋台・太宰府天満宮＆大濠公園観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 博多駅・中洲屋台・太宰府天満宮＆大濠公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                中洲・天神の屋台街めぐり（ラーメン・焼き鳥・おでん）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                中洲・天神の屋台街めぐり（ラーメン・焼き鳥・おでん）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 夕暮れとともに那珂川沿いや天神の歩道に並ぶ屋台。地元の人や観光客と肩を並べ、出来立ての博多ラーメンや明太子料理を味わうのが名物です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                学問の神様「太宰府天満宮」参拝と名物「梅ヶ枝餅」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                学問の神様「太宰府天満宮」参拝と名物「梅ヶ枝餅」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 菅原道真公を祀る全国天満宮の総本宮。太鼓橋や心字池、隈研吾氏設計のスターバックス、焼き立ての梅ヶ枝餅の食べ歩きが人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                福岡タワーとシーサイドももち海浜公園のサンセット
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                福岡タワーとシーサイドももち海浜公園のサンセット</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 全長234mの日本一高い海浜タワー。展望室からの360度パノラマと、人工ビーチ沿いに広がる海辺のレストランでの夕暮れ散策が楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              福岡県福岡市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">福岡県福岡市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】都ホテル博多を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】都ホテル博多を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と都ホテル博多の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と都ホテル博多の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

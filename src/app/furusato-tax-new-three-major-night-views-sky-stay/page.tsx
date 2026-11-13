@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            地平線まで広がる光の絨毯と澄み切った星空。ロマンチックな夜を彩る天空リゾートの休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">地平線まで広がる光の絨毯と澄み切った星空。ロマンチックな夜を彩る天空リゾートの休日</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             夜景愛好家たちの投票によって選定され、圧倒的な視野の広さと独自の大パノラマで絶賛される「新日本三大夜景」――標高622mの山頂から北九州市街や洞海湾を視野180度以上で見渡し「100億ドルの夜景」と称される福岡の「皿倉山」、甲府盆地の扇状地に広がる街灯りと富士山のシルエットが息をのむ美しさを生む山梨の「笛吹川フルーツ公園」、そして東大寺大仏殿や興福寺の五重塔がライトアップされ古都の静謐な灯りが広がる奈良の「若草山山頂」。ケーブルカーやドライブウェイで登る山頂展望台からの眺めは、大切な人と過ごす時間を忘れられない思い出にしてくれます。夜景を堪能した後は、名湯温泉と地元ブランド食材のディナーを味わう特別な旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福岡県北九州市八幡東区ふるさと納税：視野180度・100億ドルの夜景「皿倉山」とホテルルートイン苅田駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福岡県北九州市八幡東区ふるさと納税：視野180度・100億ドルの夜景「皿倉山」とホテルルートイン苅田駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   ケーブルカーとスロープカーを乗り継ぐ標高622mの山頂。恋人の聖地としても知られる皿倉山の大パノラマを体感した後は、天然温泉大浴場を備えたホテルルートイン苅田駅前を拠点に、小倉牛やもつ鍋、玄界灘の旬魚を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートイン苅田駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートイン苅田駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福岡県京都郡苅田町神田町1-8-1</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山梨県山梨市・笛吹市ふるさと納税：甲府盆地を埋め尽くす星屑の夜景「笛吹川フルーツ公園」とホテルルートインコート甲府石和
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山梨県山梨市・笛吹市ふるさと納税：甲府盆地を埋め尽くす星屑の夜景「笛吹川フルーツ公園」とホテルルートインコート甲府石和</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   ガラスドームが幻想的に輝くフルーツ公園。甲府盆地一面の光の海を見下ろした後は、石和温泉のホテルルートインコート甲府石和で、名湯の天然温泉に浸かり、名物ほうとうや甲州ワイン牛ディナーに舌鼓を打ちます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルルートインコート甲府石和
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルルートインコート甲府石和</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山梨県笛吹市石和町広瀬1195</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  奈良県奈良市ふるさと納税：古都奈良の歴史を照らす幻想的な夜景「若草山山頂」とホテルニューわかさステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">奈良県奈良市ふるさと納税：古都奈良の歴史を照らす幻想的な夜景「若草山山頂」とホテルニューわかさステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   新若草山ドライブウェイで行く山頂展望台。大仏殿や大和三山を見晴らす夜景を楽しんだ後は、東大寺大仏殿まで徒歩圏の「ホテルニューわかさ」で、屋上テラスからの古都パノラマと、大和牛すき焼き・大和懐石を味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルニューわかさ
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルニューわかさ</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>奈良県奈良市北半田東町1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大夜景＆天空スカイラウンジホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   長崎・神戸・函館の夜景。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   神戸・横浜・長崎の港町。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   兼六園・後楽園・偕楽園。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルルートイン苅田駅前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルルートイン苅田駅前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルルートイン苅田駅前の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルルートイン苅田駅前の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「新日本三大夜景＆天空スカイパノラマ宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

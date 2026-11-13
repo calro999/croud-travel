@@ -82,15 +82,12 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          見渡す限りの雲海に沈む夕日、手に届きそうな満天の星。標高2000メートルの大自然に抱かれる立山黒部の極上ホリデーへ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">見渡す限りの雲海に沈む夕日、手に届きそうな満天の星。標高2000メートルの大自然に抱かれる立山黒部の極上ホリデーへ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           富山県と長野県を標高3,000メートル級の北アルプスを貫いて結ぶ、世界屈指の山岳観光ルート「立山黒部アルペンルート」。春の風物詩である高さ20メートルにも迫る雪の壁「雪の大谷」をはじめ、コバルトブルーの水面に立山連峰を映す神秘の「みくりが池」、ラムサール条約湿地に登録された「弥陀ヶ原（みだがはら）」の高山植物群落、そして毎秒10トン以上の水煙を上げる「黒部ダム」の大放水など、地球の息吹を肌で感じる大迫力のパノラマが広がります。立山黒部アルペンルートの醍醐味は、一般車両が入れない標高2,000メートル前後の高地に位置する雲上のリゾートホテルへの宿泊。日中の喧騒が静まり返った夕暮れ、眼下一面に広がる大雲海を黄金色に染めながら沈みゆく夕日や、遮るもののない漆黒の夜空を埋め尽くす満天の天の川は、宿泊者だけが出会える奇跡の絶景です。さらに山麓エリアには良質な美肌温泉が湧出しており、山歩きの疲れを優雅に癒やしてくれます。ディナーは、標高の高い山岳ホテルでありながら富山湾から直送される新鮮な海の幸（白えび、寒ブリ、ホタルイカ）や、富山県産黒毛和牛、名水ポークなどを贅沢に取り入れた本格フレンチフルコースや和食会席。本特集では、標高1,930mの高原湿原に佇み雲海と星空観察会が名物の「弥陀ヶ原ホテル」、標高2,300m天狗平に位置し大日連峰の稜線を望む「立山高原ホテル」、そして立山山麓の美肌温泉と壮大な吹き抜けロビーを誇る「立山連峰の宿 ホテル森の風立山」の3宿を厳選。富山県立山町・富山市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で一生に一度は体験したい立山黒部の雲上旅をお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">立山黒部 雲上リゾート＆アルペン名宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 立山黒部 雲上リゾート＆アルペン名宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">立山黒部 雲上リゾート＆アルペン名宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">立山黒部アルペンルートオフィシャルホテル　弥陀ヶ原ホテル</h2>
           <p className="text-xs md:text-sm text-amber-100">富山県立山町・標高1930m雲上の高原湿原！大パノラマの夕日と満天の星空観察会＆本格フレンチディナー（弥陀ヶ原ホテル・口コミ4.7超）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            立山高原ホテル
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">立山高原ホテル</h2>
           <p className="text-xs md:text-sm text-amber-100">富山県立山町・標高2300m天狗平！大日連峰を望む絶景ロケーション＆室堂やみくりが池へのアクセス抜群（立山高原ホテル）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            立山連峰の宿　ホテル森の風立山
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">立山連峰の宿　ホテル森の風立山</h2>
           <p className="text-xs md:text-sm text-amber-100">富山県富山市・立山山麓に佇む北欧風リゾート！つるつる美肌の天然温泉＆壮大な吹き抜けロビーと富山湾の旬魚会席（森の風立山）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoTateyamaAlpenRouteStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

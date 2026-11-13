@@ -108,9 +108,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  市場や競りから直行！鮮度抜群の「朝獲れ地魚」と季節のプレミアム高級魚
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">市場や競りから直行！鮮度抜群の「朝獲れ地魚」と季節のプレミアム高級魚</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 寿司会席宿の醍醐味は、一般的な流通では出回らない地元の珍しい地魚や、その日一番の旬魚を最高の鮮度で味わえること。北陸の「白身のトロ」と称されるのどぐろの炙りや肉厚な甘海老、伊豆の脂が乗った地金目鯛の握りなど、産地だからこそ実現できる究極の魚の旨味と甘みを存分に堪能できます。
@@ -123,9 +121,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  カウンター席で職人の技を間近に！五感で楽しむライブ感あふれる寿司ダイニング
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">カウンター席で職人の技を間近に！五感で楽しむライブ感あふれる寿司ダイニング</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 宿によっては、オープンキッチンの寿司カウンターで職人が一貫一貫丁寧に握りたてを提供してくれるライブ演出が大好評。シャリの温度、煮切り醤油の塗り具合、海苔のパリッとした食感まで計算し尽くされた握りを、板前との粋な会話とともに楽しむ時間は温泉旅の最高のハイライトになります。
@@ -138,9 +134,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  地元の銘酒・地酒ペアリングと、湯量豊富な源泉かけ流し露天風呂の極上癒やし
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">地元の銘酒・地酒ペアリングと、湯量豊富な源泉かけ流し露天風呂の極上癒やし</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 新鮮な寿司の美味しさをさらに引き立てるのが、石川の手取川や黒帯、静岡の磯自慢や初亀といった全国屈指の銘酒たち。芳醇な日本酒と極上寿司のマリアージュに酔いしれた後は、渓谷や海を望む名湯露天風呂に浸かって心身をリフレッシュ。美食と温泉が織りなす完璧な休日は明日への活力をもたらしてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     石川県加賀市・名勝鶴仙渓を望む渓流露天風呂と加賀能登寿司会席
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    山中温泉　かがり吉祥亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">山中温泉　かがり吉祥亭</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     山中温泉の名勝「鶴仙渓」の渓谷沿いに佇み、美しい自然と伝統芸能の加賀太鼓ショーが楽しめる人気の温泉旅館。夕食では北陸の豊かな海で獲れた新鮮な魚介を惜しみなく使った会席料理が振る舞われ、揚げたての天ぷら食べ放題や地魚の握り寿司など美食の数々がテーブルを彩ります。鶴仙渓のせせらぎを聞きながら浸かる開放的な立ち湯露天風呂やヒノキ風呂で身体を芯まで温め、加賀の美食と名湯に癒やされる優雅なひとときをお過ごしください。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県東伊豆町・六つの源泉かけ流し貸切風呂と伊豆地魚寿司会席
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">伊豆熱川温泉　六つの貸切風呂を湯めぐり　ふたりの湯宿　湯花満開</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊豆熱川温泉の海沿いに位置し、敷地内に湧き出る良質な自家源泉を六つもの個性的な貸切風呂で何度でも無料で湯めぐりできる大人の隠れ宿。夕食には相模湾で獲れた新鮮な地魚の握り寿司や金目鯛の姿煮、伊勢海老のお造りなど伊豆の海の幸が贅沢に並ぶ極上会席をご用意。全館畳敷きの温もりある空間で、大切な人と二人きりで温泉三昧と獲れたての寿司美食を心ゆくまで満喫できる至極の温泉ステイが叶います。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊東市・伊東港直送の新鮮地魚握りと相模灘パノラマ絶景湯
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    伊東温泉　横浜藤よし伊豆店
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">伊東温泉　横浜藤よし伊豆店</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊東温泉の高台から相模灘の広大な水平線を見下ろす、料理自慢の隠れ家温泉旅館。毎朝伊東港で水揚げされるピチピチの地魚を厳選し、熟練の板前が握る本格寿司会席はリピーターからも絶賛される逸品です。海を一望する絶景の源泉かけ流し露天風呂や貸切風呂で名湯を浴びた後は、窓一面に広がる海景色を眺めながら旬の握りと地酒に舌鼓。伊豆の海の恵みを五感で味わう至福の休日が約束されます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】山中温泉 かがり吉祥亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】山中温泉 かがり吉祥亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoFreshSushiKaisekiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と山中温泉 かがり吉祥亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と山中温泉 かがり吉祥亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

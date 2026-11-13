@@ -109,9 +109,7 @@ export default function UltraLuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花火と伊豆天然伊勢海老・静岡そだち和牛名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【相模湾を見下ろす断崖の絶景露天風呂と極上プライベートヴィラ】2026-2027年11-12月初冬の静岡・熱海伊豆山＆南熱海！最高峰「ATAMI せかいえ」＆迎賓館・冬の熱海海上花火と伊豆天然伊勢海老・静岡そだち和牛名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             都心から新幹線でわずか45分、相模湾のコバルトブルーを一望する熱海・伊豆山。太平洋を見下ろす高台に建ち、全室に源泉掛け流し露天風呂を備えた名門「ATAMI せかいえ」や、大人の静寂を約束する迎賓館リゾート。初冬の澄んだ夜空を彩る名物「熱海海上花火大会」の特等席と、冬に甘みを増す駿河湾・相模湾の活伊勢海老、ブランド牛「静岡そだち」の鉄板焼き。海と空が溶け合う至高のラグジュアリーステイ厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>相模湾のコバルトブルーを見下ろす断崖の絶景！全室オーシャンビュー露天風呂</span>
-            </h3>
+              <span>相模湾のコバルトブルーを見下ろす断崖の絶景！全室オーシャンビュー露天風呂</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               水平線から昇る朝日や伊豆大島の島影を一望する特等席。客室テラスに備えられた専用露天風呂で、相模湾の絶景と波音に包まれる至高のプライベート湯浴みが叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>冬の澄んだ夜空を彩る「熱海海上花火大会」をお部屋から優雅に鑑賞</span>
-            </h3>
+              <span>冬の澄んだ夜空を彩る「熱海海上花火大会」をお部屋から優雅に鑑賞</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               初冬の熱海名物・冬花火。空気が澄んでいるため煙が滞留せず、花火の光と山に反響する轟音が大迫力。混雑を避けて宿のバルコニーから楽しむ贅沢は圧巻です。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>冬の伊豆の至宝「天然活伊勢海老」ととろける黒毛和牛「静岡そだち」の鉄板焼き</span>
-            </h3>
+              <span>冬の伊豆の至宝「天然活伊勢海老」ととろける黒毛和牛「静岡そだち」の鉄板焼き</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               冬に旨味が凝縮する伊勢海老のお造りや鬼殻焼き、極上鮑の踊り焼き。目の前でシェフが焼き上げるブランド牛ステーキとともに極上のワインを堪能できます。
             </p>
@@ -177,9 +167,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  熱海パールスターホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">熱海パールスターホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  天星の透間　ＲＥＢＯＲＮ
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">天星の透間　ＲＥＢＯＲＮ</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  熱海倶楽部　迎賓館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">熱海倶楽部　迎賓館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  ホテルグランバッハ熱海クレッシェンド
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">ホテルグランバッハ熱海クレッシェンド</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  熱海温泉　古屋旅館
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">熱海温泉　古屋旅館</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function UltraLuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>熱海の冬の花火大会はいつ開催されますか？部屋から見えますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>熱海の冬の花火大会はいつ開催されますか？部屋から見えますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               熱海海上花火大会は年間を通して開催されており、12月にも冬の部が開催されます。空気が乾燥して澄み渡る冬の花火は一年で最も美しく見えると言われます。今回選定した伊豆山や海岸沿いの高台宿（パールスターホテルや迎賓館など）のオーシャンビュー客室からは、混雑を避けてお部屋や専用バルコニーから大迫力の花火を鑑賞できます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>「伊豆山神社」へはホテルから歩いて行けますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>「伊豆山神社」へはホテルから歩いて行けますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               伊豆山温泉の高台にあるホテルからは、車で約5分、または徒歩約15〜20分でアクセス可能です。参道は海岸から本殿まで800段以上の石段が続いており、上からの相模湾の眺望は圧巻です。宿の送迎車で本殿近くまで送迎してくれるプランもあります。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>客室露天風呂の温泉は源泉掛け流しですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>客室露天風呂の温泉は源泉掛け流しですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               今回選定した熱海のラグジュアリー宿の多くは、客室露天風呂にも豊富な熱海温泉・伊豆山温泉の天然源泉を引湯しています。海を見下ろすテラスで、いつでも自分たちだけの適温の湯に身を委ねることができます。
             </p>

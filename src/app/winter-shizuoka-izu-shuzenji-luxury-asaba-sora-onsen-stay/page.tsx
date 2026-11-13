@@ -105,9 +105,7 @@ export default function Page() {
             <div className="inline-block bg-amber-500/20 text-amber-300 border border-amber-400/40 text-xs font-bold px-3 py-1 rounded-full uppercase tracking-widest">
               2026-2027年冬 厳選特集
             </div>
-            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">
-              【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選
-            </h1>
+            <h1 className="text-2xl md:text-4xl font-black tracking-tight leading-tight md:leading-snug">【竹林の小径の静寂と数寄屋露天離れ】2026-2027年11-1月冬の静岡・伊豆修善寺温泉！「柳生の庄」＆「宙 SORA 渡月荘金龍」・天城軍鶏と伊豆伊勢海老・名門美食宿5選</h1>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed max-w-3xl mx-auto text-left md:text-center pt-2">
               伊豆半島最古の温泉地として千二百余年の歴史を紡ぐ修善寺温泉。桂川のせせらぎが響く温泉街は、晩秋の紅葉から初冬・厳冬期にかけて澄み切った静寂に包まれ、青々とした竹林の小径や朱塗りの渡月橋が格調高い美を放ちます。文豪や芸術家に愛された登録文化財の建築美、本格京風数寄屋造りの離れ、そして天城軍鶏や駿河湾の金目鯛、伊豆伊勢海老を味わう大人の贅沢な冬旅をご案内します。
             </p>
@@ -117,9 +115,7 @@ export default function Page() {
         <div className="max-w-4xl mx-auto px-4 mt-10 space-y-12">
           {/* 導入部 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 leading-relaxed text-slate-700">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              冬の中伊豆・修善寺・天城湯ヶ島で過ごす至福のひととき
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">冬の中伊豆・修善寺・天城湯ヶ島で過ごす至福のひととき</h2>
             <p className="text-base leading-loose">
               伊豆半島の北部に位置し、平安初期の大同2年（807年）に弘法大師空海が独鈷杵で岩を打ち霊泉を湧出させたという開湯伝説を持つ『修善寺温泉（しゅぜんじおんせん）』。桂川（修善寺川）沿いに広がる風情ある温泉街は、夏目漱石が『修善寺の記』を執筆し、芥川龍之介や川端康成ら名だたる文豪・墨客が逗留した『伊豆の小京都』として名高い歴史の街です。11月中旬の晩秋から12月、1月の初冬にかけては、夏の喧騒が完全に去り、冷涼で澄み切った大気の中に静寂が広がる年間屈指のベストシーズン。温泉街の中心を流れる桂川沿いの『竹林の小径』では、天へと伸びる青竹が冬の陽光を浴びて幽玄なコントラストを描き、朱塗りの渡月橋や虎渓橋が鮮やかに映えます。この静謐な山あいに佇むのが、約数千坪の広大な竹林に抱かれた本格料亭旅館『修善寺温泉 柳生の庄』や、一万五千坪の大庭園を見渡す『宙 SORA 渡月荘金龍』、全館が国の登録有形文化財に指定された明治創業の名門『新井旅館』。さらには創業400年の歴史を誇る『湯回廊 菊屋』など、日本の伝統美と現代の快適性が調和した最高峰の宿が揃います。夕食には、天城山麓の清らかな水と澄んだ空気で育った風味豊かな地鶏『天城軍鶏（あまぎしゃも）』の鍋仕立てや、冬に旨味を増す伊豆近海の活伊勢海老、駿河湾の極上金目鯛の煮付け、伊豆名産の本わさび。弱アルカリ性単純温泉の柔らかな湯に浸かり、冬の静寂の中で滋味あふれる美味を味わう時間は、心身を解きほぐす至高の大人のリトリートです。
             </p>
@@ -127,10 +123,7 @@ export default function Page() {
 
           {/* 訪れるべき3つの理由 */}
           <section>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-              <span className="text-amber-600">★</span>
-              <span>2026-2027年冬に訪れるべき3つの理由</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2"><span>2026-2027年冬に訪れるべき3つの理由</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               
           <div className="bg-white p-6 rounded-2xl border border-slate-200/80 shadow-sm hover:shadow-md transition">
@@ -162,9 +155,7 @@ export default function Page() {
 
           
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-6">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">
-              周辺観光スポット：桂川のせせらぎと幽玄な青竹が続く小径・修善寺温泉（伊豆の小京都・弘法大師開湯の古湯）
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3">周辺観光スポット：桂川のせせらぎと幽玄な青竹が続く小径・修善寺温泉（伊豆の小京都・弘法大師開湯の古湯）</h2>
             
             <div className="relative rounded-xl overflow-hidden aspect-video shadow-md bg-slate-100">
               <img
@@ -186,10 +177,8 @@ export default function Page() {
           {/* 厳選ホテル5選 */}
           <section className="space-y-8">
             <div className="border-b border-slate-200 pb-4">
-              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3">
-                <span className="text-amber-600">◆</span>
-                <span>厳選の最高級宿5選</span>
-              </h2>
+              <h2 className="text-2xl md:text-3xl font-black text-slate-900 flex items-center gap-3"><span className="text-amber-600">◆</span>
+                <span>厳選の最高級宿5選</span></h2>
               <p className="text-slate-500 text-xs md:text-sm mt-1">
                 ※宿泊料金・クチコミ評価は楽天トラベル公式生データ連携
               </p>
@@ -201,9 +190,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第1位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                修善寺温泉　柳生の庄
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">修善寺温泉　柳生の庄</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 竹林の静寂に抱かれる本格料亭旅館！日本の美意識を結集した数寄屋造り離れと京風懐石
               </p>
@@ -238,10 +225,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>広大な竹林の中にひっそりと佇む数寄屋造りの名門料亭旅館。竹林を渡る風の音と鳥のさえずりだけが響く静寂の別天地です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>客室ごとに趣が異なる数寄屋建築と専用露天風呂。職人の技が息づく木の温もりに包まれ、心洗われる休日を過ごせます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>東京・芝白金の料亭をルーツに持つ本格京風懐石。伊豆の旬の海の幸、天城軍鶏、旬野菜を一皿ひと皿芸術的に仕立てます。</span></li>
                 </ul>
@@ -270,9 +255,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第2位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                修善寺温泉　宙ＳＯＲＡ　渡月荘金龍
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">修善寺温泉　宙ＳＯＲＡ　渡月荘金龍</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 一万五千坪の日本庭園を一望！幻想的な光の露天風呂とモダン和会席
               </p>
@@ -307,10 +290,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>一万五千坪もの広大な日本庭園の奥に佇む高級和モダン旅館。モダンなインテリアと庭園の自然美が見事に調和しています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夜には庭園が幻想的にライトアップされ、夜空に星が輝く露天風呂「光の露天風呂」や貸切風呂で極上の湯浴みが楽しめます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は駿河湾の新鮮な地魚や伊豆牛、旬の野菜を彩り豊かにあしらった月替わりの和会席。洗練されたおもてなしが心地よい滞在を約束します。</span></li>
                 </ul>
@@ -374,10 +355,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>明治5年創業、芥川龍之介や横山大観、川端康成ら多くの文豪や日本画家が逗留し作品を生み出した国の登録有形文化財の宿です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>国の文化財に登録された名物「天平大浴堂」は、総檜造りの高い天井と伊豆石の浴槽が圧巻。良質な源泉が惜しみなく掛け流されています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>桂川の清流に面した客室から四季の移ろいを眺め、職人の伝統技が光る本格会席料理を味わう、歴史と文化に浸る贅沢な滞在が叶います。</span></li>
                 </ul>
@@ -406,9 +385,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第4位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                湯回廊　菊屋（共立リゾート）
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">湯回廊　菊屋（共立リゾート）</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 創業400年の歴史を誇る名門！回廊で結ばれた庭園と源泉掛け流し湯めぐり
               </p>
@@ -443,10 +420,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夏目漱石が逗留したことでも知られる創業四百余年の歴史を誇る名宿。時代ごとの建築美が美しい回廊で結ばれています。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>敷地内に湧く豊富な自家源泉を活かした大浴場や露天風呂、無料で利用できる趣の異なる貸切風呂など、館内で湯めぐりを満喫できます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は月替わりの趣菜会席で、お好みの台の物や洋皿を選べるスタイル。名門の伝統を受け継ぐきめ細やかなサービスが光ります。</span></li>
                 </ul>
@@ -475,9 +450,7 @@ export default function Page() {
               <div className="inline-block bg-amber-100 text-amber-900 font-bold text-xs px-3 py-1 rounded-full mb-3">
                 厳選最高級宿 第5位
               </div>
-              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">
-                修善寺温泉　瑞の里　〇久（まるきゅう）旅館
-              </h3>
+              <h3 className="text-2xl md:text-3xl font-extrabold text-slate-900 tracking-tight mb-3">修善寺温泉　瑞の里　〇久（まるきゅう）旅館</h3>
               <p className="text-sm font-semibold text-amber-700 mb-4">
                 桂川のせせらぎと多彩な湯処！伊豆の旬食材を堪能する温もりのおもてなし
               </p>
@@ -512,10 +485,8 @@ export default function Page() {
               </div>
 
               <div className="my-6">
-                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-amber-500"></span>
-                  極上のおもてなし＆滞在ポイント
-                </h4>
+                <h4 className="text-base font-bold text-slate-900 mb-3 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-500"></span>
+                  極上のおもてなし＆滞在ポイント</h4>
                 <ul className="space-y-2 bg-amber-50/40 p-4 rounded-xl border border-amber-100/60">
                   <li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>修善寺温泉街を流れる桂川のほとりに佇み、四季の風情を感じる落ち着いた和の空間が広がる老舗旅館です。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>大浴場をはじめ、野趣あふれる露天風呂や貸切風呂など多彩な湯処を完備。柔らかな修善寺の名湯に身を委ねてリフレッシュできます。</span></li><li className="flex items-start gap-2 text-slate-700 leading-relaxed"><span className="text-amber-500 font-bold shrink-0">✔</span><span>夕食は駿河湾の海の幸や天城の恵みをふんだんに取り入れた季節の会席料理。温かなもてなしと行き届いた心配りが評判です。</span></li>
                 </ul>
@@ -543,9 +514,7 @@ export default function Page() {
 
           {/* エリアへのアクセス＆冬の過ごし方 */}
           <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80">
-            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">
-              エリアへのアクセス＆冬の快適な過ごし方
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-b border-amber-200 pb-3 mb-4">エリアへのアクセス＆冬の快適な過ごし方</h2>
             <pre className="whitespace-pre-wrap font-sans text-xs md:text-sm text-slate-700 leading-relaxed bg-slate-50 p-4 rounded-xl border border-slate-200">
               【エリアへのアクセス】
 ・電車・特急から：JR東京駅より特急「踊り子号」で伊豆箱根鉄道直通「修善寺駅」まで約2時間。または東海道新幹線「三島駅」より伊豆箱根鉄道駿豆線に乗り換えて終点「修善寺駅」まで約35分。修善寺駅より各旅館までタクシーで約5〜10分（路線バスも運行）。
@@ -561,37 +530,29 @@ export default function Page() {
 
           {/* よくある質問 (FAQ) */}
           <section className="space-y-4">
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2">
-              <span className="text-amber-600">？</span>
-              <span>よくある質問（FAQ）</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 flex items-center gap-2"><span className="text-amber-600">？</span>
+              <span>よくある質問（FAQ）</span></h2>
             <div className="space-y-3">
               
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>修善寺温泉の歴史と特徴的な見どころは何ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>修善寺温泉の歴史と特徴的な見どころは何ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               平安時代の大同2年（807年）に弘法大師空海が開湯したと伝わる伊豆最古の名湯です。温泉街の中心を流れる桂川沿いの「竹林の小径」や、朱塗りの桂橋・渡月橋、古刹「修禅寺」、弘法大師ゆかりの「独鈷の湯」などがあり、川沿いを歩くだけで伊豆の小京都と呼ばれる情緒を体感できます。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>「柳生の庄」と「新井旅館」のそれぞれの魅力は何ですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>「柳生の庄」と「新井旅館」のそれぞれの魅力は何ですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               『柳生の庄』は数千坪の竹林に囲まれた本格京風料亭旅館で、剣道の柳生新陰流にちなむ格式高い空間と、料理長が腕を振るう本格割烹懐石が絶賛されています。一方『新井旅館』は明治5年創業、全館の多くの建物が国の登録有形文化財に指定されており、芥川龍之介や横山大観が愛した歴史的建築美と登録文化財の「天平大浴堂」の湯浴みが唯一無二の魅力です。
             </p>
           </div>
 
           <div className="bg-white rounded-xl p-5 border border-slate-200/80 shadow-sm">
-            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-              <span className="text-amber-600 font-extrabold">Q.</span>
-              <span>11月〜1月の気候と道路の積雪状況はどうですか？</span>
-            </h3>
+            <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+              <span>11月〜1月の気候と道路の積雪状況はどうですか？</span></h3>
             <p className="text-sm text-slate-700 leading-relaxed pl-6">
               修善寺温泉街は標高が低いため、真冬でも平野部での積雪は極めて稀です。ただし天城峠方面へ足を延ばす場合や、強い寒波が到来した早朝・深夜には橋の上などが凍結する可能性があるため、車でお越しの際は最新の天気予報をご確認の上、安全運転を心がけてください。
             </p>
@@ -625,9 +586,7 @@ export default function Page() {
 
           {/* 内部リンク・関連特集 */}
           <section className="bg-slate-100 rounded-2xl p-6 md:p-8 space-y-4">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900">
-              関連特集・あわせて読みたい冬の極上旅
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900">関連特集・あわせて読みたい冬の極上旅</h2>
             <ul className="space-y-2">
               
           <li className="bg-white p-4 rounded-xl border border-slate-200/80 shadow-sm hover:shadow-md transition flex items-center justify-between">

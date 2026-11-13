@@ -295,9 +295,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">European Autumn Magic</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                本場ヨーロッパの気品！オレンジと黄金に輝く「ハロウィーンフェスティバル」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">本場ヨーロッパの気品！オレンジと黄金に輝く「ハロウィーンフェスティバル」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -316,9 +314,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Kingdom of Lights</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                世界最大1300万球が灯る「光の王国」！大迫力のナイトショーと秋の花火
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">世界最大1300万球が灯る「光の王国」！大迫力のナイトショーと秋の花火</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -334,9 +330,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Autumn Gourmet & Wine</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                名物「佐世保レモンステーキ」＆欧州直輸入チーズと芳醇ワインの饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">名物「佐世保レモンステーキ」＆欧州直輸入チーズと芳醇ワインの饗宴</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -355,9 +349,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Architecture & Waterfront</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                本物のオランダレンガ4000万個が創る奇跡！大村湾の潮風と運河リゾート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">本物のオランダレンガ4000万個が創る奇跡！大村湾の潮風と運河リゾート</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -373,9 +365,7 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-8">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】ハウステンボス直営＆オフィシャル厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】ハウステンボス直営＆オフィシャル厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -401,9 +391,7 @@ export default function HuistenboschHalloweenFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-amber-500 shrink-0" />
@@ -426,9 +414,7 @@ export default function HuistenboschHalloweenFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -460,17 +446,13 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Romantic Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】欧風ハロウィーン散策・光の王国＆源泉温泉満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】欧風ハロウィーン散策・光の王国＆源泉温泉満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：専用クルーザー乗船・秋の街並み散策＆1300万球イルミネーション
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：専用クルーザー乗船・秋の街並み散策＆1300万球イルミネーション</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">11:00 ハウステンボス到着＆専用クルーザーで優雅にチェックイン</strong><br />
@@ -500,10 +482,8 @@ export default function HuistenboschHalloweenFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：朝の静かなヨーロッパ散策・長崎名物朝食＆お土産ショッピング
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：朝の静かなヨーロッパ散策・長崎名物朝食＆お土産ショッピング</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">07:30 朝の清々しい石畳を散歩＆シェフ特製モーニング</strong><br />
@@ -526,37 +506,29 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                秋のハウステンボスを快適に満喫するためのコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">秋のハウステンボスを快適に満喫するためのコツ</h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  広大な敷地の移動手段の確保
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  広大な敷地の移動手段の確保</h3>
                 <p className="text-stone-600 leading-relaxed">
                   園内は東京ディズニーランドの約1.5倍。カナルクルーザーやパークバス、レンタサイクル（フィッツ）を賢く活用して体力を温存しましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-amber-500" />
-                  海風による夜間の冷え込み対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-amber-500" />
+                  海風による夜間の冷え込み対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   大村湾に面しているため、秋の夜は海風で急激に冷え込みます。光の王国や花火鑑賞時はストールや防風ジャケットを必ず持参しましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <ShieldCheck className="w-4 h-4 text-amber-500" />
-                  直営・オフィシャル宿の特典活用
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><ShieldCheck className="w-4 h-4 text-amber-500" />
+                  直営・オフィシャル宿の特典活用</h3>
                 <p className="text-stone-600 leading-relaxed">
                   翌日再入場パスポートや手荷物無料配送サービスなど、提携宿ならではの特典を事前に確認しておくと時間と費用を大幅に節約できます。
                 </p>
@@ -568,18 +540,14 @@ export default function HuistenboschHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                ハウステンボス・ハロウィーン よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">ハウステンボス・ハロウィーン よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-amber-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -590,9 +558,7 @@ export default function HuistenboschHalloweenFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              ヨーロッパの薫りと光の奇跡が待つ秋のハウステンボスへ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">ヨーロッパの薫りと光の奇跡が待つ秋のハウステンボスへ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               カボチャランタンの優しい灯火、1300万球が織りなす圧倒的な光の王国、そして源泉掛け流し温泉やクラシカルな美邸に泊まる至福。非日常のヨーロッパ秋旅行へ出かけてみませんか。
             </p>

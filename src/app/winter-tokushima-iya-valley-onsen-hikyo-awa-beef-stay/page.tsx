@@ -280,10 +280,8 @@ export default function IyaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜徳島・祖谷温泉＆大歩危峡
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月徳島・祖谷温泉】<br className="hidden sm:inline" />
-            日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月徳島・祖谷温泉】<br className="hidden sm:inline" />
+            日本三大秘境初雪渓谷と谷底露天風呂・特選阿波牛＆名物祖谷そばの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四国山岳の奥深き日本三大秘境。専用ケーブルカーで高低差170mの谷底へ降りる自噴ぬる湯露天に抱かれ、囲炉裏で香るでこまわしと特選阿波牛に酔いしれる幽玄の冬旅。
           </p>
@@ -301,9 +299,7 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Japan's Top 3 Deep Secret Valleys</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初雪に白く染まる断崖絶壁のV字谷｜日本三大秘境「祖谷渓」の幽玄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初雪に白く染まる断崖絶壁のV字谷｜日本三大秘境「祖谷渓」の幽玄</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Natural Sulfur Effervescent Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                全身を包む微細な気泡｜アルカリ性単純硫黄泉のぬる湯マジック
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">全身を包む微細な気泡｜アルカリ性単純硫黄泉のぬる湯マジック</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Iya Satoyama Winter Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                秘境の冬を彩る滋味｜特選阿波牛・手打ち祖谷そば・囲炉裏でこまわし
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">秘境の冬を彩る滋味｜特選阿波牛・手打ち祖谷そば・囲炉裏でこまわし</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Secret Valley Scenic Route & Thrill</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の祖谷・大歩危散策モデルコース｜かずら橋のスリルと大歩危こたつ舟
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の祖谷・大歩危散策モデルコース｜かずら橋のスリルと大歩危こたつ舟</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function IyaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Featured Secret Valley & Gorge Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              秘境の断崖露天と温もりのもてなし｜祖谷・大歩危温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">秘境の断崖露天と温もりのもてなし｜祖谷・大歩危温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、谷底露天風呂や阿波牛会席に強い情熱を注ぐ本物の秘湯宿。
             </p>
@@ -451,9 +439,7 @@ export default function IyaOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の祖谷冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の祖谷冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                標高差による急激な冷え込みと服装
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                標高差による急激な冷え込みと服装</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 四国の山岳地帯に位置するため、平地よりも気温が5〜8℃低くなります。11月下旬以降は朝晩の気温が氷点下近くまで下がることがあります。風を通さないダウンコート、フリース、マフラー、手袋に加え、かずら橋周辺や谷底露天風呂への移動に備えて滑りにくいウォーキングシューズをご着用ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                特急南風と大歩危駅からの無料送迎
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                特急南風と大歩危駅からの無料送迎</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 JR土讃線・大歩危駅には岡山発・高知発の特急「南風」が停車し、駅から各旅館へは事前予約制の無料送迎バスが運行されています。雪道運転に不慣れな方は鉄道旅が安心です。自家用車やレンタカーで訪れる場合は、12月に入ると山間部の道路（県道32号・45号など）で路面凍結が発生するため、必ずスタッドレスタイヤを装着してください。
               </p>
@@ -565,18 +545,14 @@ export default function IyaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                徳島祖谷温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">徳島祖谷温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function IyaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい四国・関西の冬名湯＆極上和牛・絶景特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい四国・関西の冬名湯＆極上和牛・絶景特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、四国の伝統温泉文化、特選和牛やすき焼きをめぐる人気の厳選特集もぜひご覧ください。
             </p>

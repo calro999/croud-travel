@@ -108,9 +108,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  足腰に負担をかけない立ち座り！シニア世代やご両親への親孝行旅に絶大な安心感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">足腰に負担をかけない立ち座り！シニア世代やご両親への親孝行旅に絶大な安心感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 布団からの起き上がりが辛いご年配の方も、適度な高さのあるベッドなら膝や腰への負担なくスムーズ。段差を極力抑えたユニバーサルな設計で三世代旅行にも選ばれています。
@@ -123,9 +121,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  いつでも横になれる自由！お布団の上げ下げがなく完全プライベートな空間を維持
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">いつでも横になれる自由！お布団の上げ下げがなく完全プライベートな空間を維持</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 チェックイン後すぐにゴロンと横になって一休み。仲居さんのお布団敷きを待つ必要がなく、部屋の鍵を開けた瞬間からチェックアウトまで完全に自分たちだけの時間を過ごせます。
@@ -138,9 +134,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界の一流マットレスによる極上の寝心地！名湯との相乗効果で最高の目覚め
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界の一流マットレスによる極上の寝心地！名湯との相乗効果で最高の目覚め</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 シモンズ社製ポケットコイルなどの上質マットレスが体圧を理想的に分散。温泉で芯から温まった身体を包み込み、旅先特有の睡眠不足とは無縁の深い快眠へと導かれます。
@@ -183,9 +177,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県南小国町・黒川温泉の中心に佇む清流の宿！シモンズ社製ベッド完備の和モダン客室
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    黒川温泉　旅館湯本荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">黒川温泉　旅館湯本荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     黒川温泉街の中央を流れる田の原川のほとりに位置し、木造の温もりある佇まいが人気の温泉旅館。リニューアルされた和モダン客室には、快眠を約束するシモンズ社製の高級ベッドを完備し、和室の風情そのままに快適な眠りを提供しています。川のせせらぎを間近に感じる大浴場や露天風呂、無料で利用できる趣の異なる貸切風呂も大好評。夕食には熊本特産の霜降り馬刺しや肥後あか牛、地元小国の採れたて山菜を使った繊細な手作り会席が並び、心温まる九州の温泉情緒に包まれます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・強羅駅徒歩1分！全室客室檜露天風呂＆快適ローベッド付きの人気名門宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    季の湯　雪月花（共立リゾート）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">季の湯　雪月花（共立リゾート）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根登山鉄道・強羅駅の目の前に建ち、全客室のテラスに檜造りの客室露天風呂を備えた共立リゾート屈指の人気宿。客室には快適なローベッドが配置され、和の寛ぎとベッドの寝心地の良さを両立しています。大浴場では強羅温泉の異なる二つの源泉を楽しめるほか、庭園に点在する3つの無料貸切露天風呂も完備。夕食には「和食会席」または「国産牛しゃぶしゃぶ・寿司」の2つのコースから好みに合わせて選択可能で、カップルやご夫婦の快適な箱根旅行に絶大な支持を集めています。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     京都府京都市・阪急嵐山駅前！全館畳敷きの和モダンローベッド客室と五つの無料貸切温泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都　嵐山温泉　花伝抄（共立リゾート）（リニューアルオープン）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     阪急嵐山駅の目の前に位置し、玄関で靴を脱いだら全館すべて畳敷きの心地よい空間が広がる和モダン温泉宿。客室は京都の伝統的な京町家の風情を残しながら、快適な低床ツインベッドを配置し、旅の疲れを優しく癒やします。天然温泉の大浴場に加え、趣の異なる5つの貸切風呂（檜・陶器・岩・竹・レンガ）を予約不要・無料で何度でも湯めぐり可能。夕食には四季折々の京会席と揚げたて天ぷらのオーダーバイキングを堪能でき、古都・嵐山の風雅な夜を満喫できます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒川温泉 旅館湯本荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒川温泉 旅館湯本荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoWaModernTwinBedStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒川温泉 旅館湯本荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒川温泉 旅館湯本荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -285,9 +285,7 @@ export default function OkinawaNahaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-500 pl-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              重いコートを脱ぎ捨てて南国へ！温暖な陽光と琉球の聖地に祈る冬の旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">重いコートを脱ぎ捨てて南国へ！温暖な陽光と琉球の聖地に祈る冬の旅</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               平均気温18℃の避冬リゾート、琉球王国最高の聖域、そして蘇る首里城正殿
             </p>
@@ -328,9 +326,7 @@ export default function OkinawaNahaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の那覇・瀬長島を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の那覇・瀬長島を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルAPIから最新取得した、絶景天然温泉・国際通り至近・最高峰クラブラウンジ完備の信頼宿
             </p>
@@ -365,9 +361,7 @@ export default function OkinawaNahaWinterPage() {
                       <span>{hotel.access}</span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-sm text-slate-600 leading-relaxed">
                       {hotel.story}
@@ -419,9 +413,7 @@ export default function OkinawaNahaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-500 pl-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の那覇・瀬長島を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の那覇・瀬長島を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               首里城復興見学、波上宮初詣、あぐー豚しゃぶしゃぶ、ウミカジテラス絶景温泉を巡る避冬プラン
             </p>
@@ -474,47 +466,37 @@ export default function OkinawaNahaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-cyan-500 pl-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の那覇完全攻略：波上宮初詣・首里城復興・あぐー豚グルメの極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の那覇完全攻略：波上宮初詣・首里城復興・あぐー豚グルメの極意</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-amber-500" />
-                波上宮新春初詣と初日の出のベストポイント
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+                波上宮新春初詣と初日の出のベストポイント</h3>
               <p className="leading-relaxed">
                 波上宮は元旦から三が日にかけて大勢の参拝者で賑わいます。早朝7時〜8時の参拝であれば混雑を避けて厳かな空気の中で祈ることができます。参拝後はすぐ隣の波の上ビーチに足を伸ばせば、冬の朝の澄み切った海風を浴びながら新年の清らかな誓いを立てられます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                首里城公園「見せる復興」と金城町石畳道
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                首里城公園「見せる復興」と金城町石畳道</h3>
               <p className="leading-relaxed">
                 正殿復元エリアでは、木材の組み立て作業や伝統儀礼の展示をリアルタイムで見学。守礼門や歓会門をくぐり、首里城の歴史に触れた後は、樹齢300年の大アカギが立つ「金城町石畳道」へ。琉球王朝時代の風情が残る古道散策は、冬の涼しい気候だからこそ汗をかかずに楽しめます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-rose-500" />
-                あぐー豚しゃぶしゃぶと島野菜の絶品鍋
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-rose-500" />
+                あぐー豚しゃぶしゃぶと島野菜の絶品鍋</h3>
               <p className="leading-relaxed">
                 冬の夜のメインディッシュは「あぐー豚のしゃぶしゃぶ」。甘みのある脂身が極上の昆布出汁に溶け出し、レタスやハンダマ、島豆腐とともにシークヮーサーポン酢で味わう一口は至高の美味。国際通り周辺の老舗店やホテル内ダイニングで、泡盛の古酒（クース）と合わせて堪能しましょう。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-teal-500" />
-                瀬長島ウミカジテラスの夕日と天然温泉
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-teal-500" />
+                瀬長島ウミカジテラスの夕日と天然温泉</h3>
               <p className="leading-relaxed">
                 那覇空港近くの瀬長島ウミカジテラスは、白い街並みがお洒落な人気スポット。夕方には慶良間諸島に沈む夕日を眺めながらカフェタイム。その後は瀬長島ホテルの「龍神の湯」で、海を眺める立ち湯露天風呂に浸かり、飛行機のライトが流れる夜景を眺める時間は格別の贅沢です。
               </p>
@@ -526,26 +508,20 @@ export default function OkinawaNahaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-500 pl-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の沖縄・那覇：気候・服装・移動のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の沖縄・那覇：気候・服装・移動のアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-500" />
-                快適な避冬気候と海風対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-500" />
+                快適な避冬気候と海風対策</h4>
               <p>
                 平均気温18℃と温暖ですが、曇りの日や風の強い日は体感温度が下がります。日中は長袖シャツやカットソーで十分ですが、朝夕や海辺を歩く時は風を通さないウィンドブレーカーや薄手のジャケットを着用しましょう。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-4 h-4 text-indigo-500" />
-                ゆいレールとバス・タクシーの活用
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Building className="w-4 h-4 text-indigo-500" />
+                ゆいレールとバス・タクシーの活用</h4>
               <p>
                 那覇空港から国際通り、首里城までは「ゆいレール」が直結。渋滞を気にせず移動できます。瀬長島や南部観光には路線バス、タクシー、または空港周辺でレンタカーを手配すると自由に行動できます。
               </p>
@@ -557,18 +533,14 @@ export default function OkinawaNahaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-cyan-500 pl-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の沖縄・那覇観光・初詣・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の沖縄・那覇観光・初詣・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-cyan-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-cyan-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -579,10 +551,8 @@ export default function OkinawaNahaWinterPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬のリゾート＆温泉特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬のリゾート＆温泉特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-okinawa-onna-motobu-whalewatching-agu-resort-stay/"

@@ -210,9 +210,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official
             </span>
-            <h2 className="text-xl md:text-2xl font-black leading-snug">
-              楽天トラベル「日帰りバスツアー」公式予約
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black leading-snug">楽天トラベル「日帰りバスツアー」公式予約</h2>
             <p className="text-emerald-50 text-xs md:text-sm max-w-xl">
               フルーツ狩り、食べ放題、温泉入浴、工場見学がセットになった人気プランが勢揃い！楽天ポイントが貯まる＆割引クーポン配布中。
             </p>
@@ -234,9 +232,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>ROUTE COMPARISON</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【目的別】東京・新宿発 おすすめ日帰りバスツアー4大コース比較
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【目的別】東京・新宿発 おすすめ日帰りバスツアー4大コース比較</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               果物狩り・海鮮バイキング・温泉癒やし・渓谷美など、休日を120%楽しむ主要プランの料金と特徴。
             </p>
@@ -257,9 +253,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
                       {item.season}
                     </span>
                   </div>
-                  <h3 className="text-base font-black text-slate-900 leading-snug">
-                    {item.course}
-                  </h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug">{item.course}</h3>
                   <p className="text-xs text-slate-600 leading-relaxed">
                     <strong className="text-emerald-950 font-bold">見どころ：</strong>{item.highlights}
                   </p>
@@ -293,9 +287,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>VALUE ANALYSIS</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              なぜバスツアーが最強？自家用車・電車との費用＆快適度比較
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">なぜバスツアーが最強？自家用車・電車との費用＆快適度比較</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               レンタカー代、高速代、ガソリン代が高騰する昨今、バスツアーの圧倒的なお得度と気軽さを数値化。
             </p>
@@ -333,9 +325,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>DAYTRIP TIMELINE</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【人気No.1】山梨シャインマスカット＆信玄餅詰め放題 1日満喫タイムライン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【人気No.1】山梨シャインマスカット＆信玄餅詰め放題 1日満喫タイムライン</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               朝7:30に新宿を出発して夜19:00に戻る、王道黄金ルートの具体的な過ごし方。
             </p>
@@ -349,9 +339,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
                   <span className="text-xs font-black text-emerald-900 bg-emerald-100 px-2 py-0.5 rounded border border-emerald-300">
                     {step.time}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-slate-900">
-                    {step.spot}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-slate-900">{step.spot}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                   {step.detail}
@@ -367,9 +355,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>HOTELS & ONSEN RYOKAN</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              集合場所近くの前泊ホテル ＆ 日帰り目的地（山梨・石和）の贅沢温泉宿
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">集合場所近くの前泊ホテル ＆ 日帰り目的地（山梨・石和）の贅沢温泉宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               朝早い新宿発バスツアーのための前泊拠点や、「日帰りじゃ物足りない！」という方向けの美肌温泉旅館です。
             </p>
@@ -410,9 +396,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                           {hotel.hotelSpecial}
@@ -441,14 +425,10 @@ export default function TokyoDepartureDaytripBusTourPage() {
 
         {/* 💡 5. バスツアー初心者のためのチェックリスト＆よくある質問 */}
         <section className="bg-emerald-900/5 rounded-3xl p-6 md:p-8 border border-emerald-900/10 space-y-6">
-          <h2 className="text-lg md:text-xl font-black text-emerald-950">
-            日帰りバスツアー参加前の重要チェックポイント＆FAQ
-          </h2>
+          <h2 className="text-lg md:text-xl font-black text-emerald-950">日帰りバスツアー参加前の重要チェックポイント＆FAQ</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <div className="bg-white p-5 rounded-2xl border border-emerald-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span>🎒</span> 持ち物・おすすめ服装
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">持ち物・おすすめ服装</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 ・フルーツ狩りや農園散策用：歩きやすいスニーカー＆汚れが目立ちにくい服<br />
                 ・車内冷暖房対策：カーディガンや大判ストール<br />
@@ -456,25 +436,19 @@ export default function TokyoDepartureDaytripBusTourPage() {
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-emerald-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span>🕒</span> 集合場所の注意点
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">集合場所の注意点</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 新宿の集合場所は「バスタ新宿」「都庁大型バス駐車場」「新宿センタービル前」など会社によって異なります。集合時間は出発の15〜20分前厳守。週末の新宿駅構内は混雑するため、余裕を持って移動しましょう。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-emerald-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span>🚻</span> トイレ休憩・車内設備
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">トイレ休憩・車内設備</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 バスツアーでは高速道路のSA/PAで約1.5時間〜2時間おきに15〜20分のトイレ休憩が設けられます。トイレ付きバス確約プランを選ぶと渋滞時でも安心です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-emerald-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5">
-                <span>🏷️</span> クーポン利用でお得に予約
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-1.5"><span>️</span> クーポン利用でお得に予約</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 楽天トラベルでは定期的に「日帰りバスツアー割引クーポン」や「楽天スーパーSALE連動ポイント倍増」を実施。予約前にクーポン獲得をお忘れなく！
               </p>
@@ -484,9 +458,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
 
         {/* 🔗 関連記事（内部リンク） */}
         <section className="border-t border-slate-200 pt-8 space-y-4">
-          <h2 className="text-base font-bold text-slate-800">
-            あわせて読みたい関東発バス旅＆温泉ガイド
-          </h2>
+          <h2 className="text-base font-bold text-slate-800">あわせて読みたい関東発バス旅＆温泉ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/tokyo-fujikawaguchiko-highway-bus-guide/"
@@ -518,9 +490,7 @@ export default function TokyoDepartureDaytripBusTourPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と季節のフルーツ狩り・絶景温泉・食べ放題の最強プラン徹底比較の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

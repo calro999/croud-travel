@@ -285,9 +285,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-500 pl-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              天下の名城を彩る無数の光と新春の祈り！冬の大阪城・中之島が放つ圧倒的な熱量
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">天下の名城を彩る無数の光と新春の祈り！冬の大阪城・中之島が放つ圧倒的な熱量</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               豊臣秀吉ゆかりの巨城の夜景、中之島リバーサイドの近代建築イルミネーション、なにわの滋味
             </p>
@@ -309,9 +307,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         {/* 5 Hotels Detail Section */}
         <section className="space-y-10">
           <div className="text-center space-y-3">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-              大阪城・中之島・天満エリアで冬を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">大阪城・中之島・天満エリアで冬を極める厳選宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
               楽天トラベル公式APIからリアルタイムに取得した信頼のホテル群。大阪城ビューやリバーサイドの静寂、天満宮直結の利便性を兼ね備えた名宿をご案内します。
             </p>
@@ -361,12 +357,10 @@ export default function OsakaCastleNakanoshimaWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
                         {hotel.special}
                       </p>
@@ -423,9 +417,7 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-500 pl-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大阪城・中之島・天満を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大阪城・中之島・天満を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               大阪城天守閣見学、イルミナージュ光の絵巻、大阪天満宮初詣、てっちりディナーを味わい尽くす充実プラン
             </p>
@@ -478,47 +470,37 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-amber-500 pl-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大阪城・中之島・天満完全攻略：イルミネーション・初詣・なにわグルメの心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大阪城・中之島・天満完全攻略：イルミネーション・初詣・なにわグルメの心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Castle className="w-5 h-5 text-amber-500" />
-                大阪城イルミナージュのチケット事前確保と撮影法
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Castle className="w-5 h-5 text-amber-500" />
+                大阪城イルミナージュのチケット事前確保と撮影法</h3>
               <p className="leading-relaxed">
                 大阪城イルミナージュは西の丸庭園が会場となります。週末やクリスマス、年末年始の入場口は当日券売り場が大変混雑するため、事前のWeb前売りチケット購入が圧倒的にスムーズです。会場内では天守閣とイルミネーションが重なる撮影ポイントが随所に設けられており、広角レンズや夜景モードを備えたスマートフォンを使うと、漆黒の夜空に浮かび上がる壮大な光の城を美しく記録できます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-rose-500" />
-                大阪天満宮の新春参拝と「天神橋筋商店街」の歩き方
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Landmark className="w-5 h-5 text-rose-500" />
+                大阪天満宮の新春参拝と「天神橋筋商店街」の歩き方</h3>
               <p className="leading-relaxed">
                 菅原道真公を祀る大阪天満宮は、1月の新春初詣と受験生の祈願で三が日に約50万人が訪れます。混雑を避けるなら、朝7:00〜8:30の早朝参拝が清々しくおすすめです。参拝後は表参道から続く天神橋筋商店街へ。全長約2.6kmに約600店舗がひしめくアーケード商店街なので、冬の冷たい風や急な雨・雪を気にすることなく、温かい食べ歩きを満喫できます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-sky-500" />
-                中之島「大阪・光の饗宴」と水辺ナイトウォーク
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-sky-500" />
+                中之島「大阪・光の饗宴」と水辺ナイトウォーク</h3>
               <p className="leading-relaxed">
                 11月〜12月に開催される「大阪・光の饗宴」期間中、中之島エリアは光のワンダーランドになります。中央公会堂東側プロジェクションマッピングを鑑賞した後は、堂島川沿いの「中之島遊歩道」を西へ散策。水面に反射する高層ビル群のイルミネーションを眺めながら、中之島フェスティバルタワーや中之島美術館周辺の上質なバーやカフェで夜を締めくくるのが通の楽しみ方です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-500" />
-                冬のなにわグルメ「てっちり」と「出汁文化」の極意
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-orange-500" />
+                冬のなにわグルメ「てっちり」と「出汁文化」の極意</h3>
               <p className="leading-relaxed">
                 大阪は日本のふぐ消費量の過半を占める「ふぐの街」。冬の寒気で身が締まったトラフグを昆布出汁で炊き、自家製ポン酢と紅葉おろしでいただく「てっちり」は冬の贅沢の頂点です。〆のふぐ雑炊は旨味が凝縮した至高の逸品。また、昆布の出汁を極めた「きつねうどん」や、甘辛い牛肉の旨味が広がる「肉吸い」も、冬の冷えた体に優しく染み入る外せない名物です。
               </p>
@@ -530,27 +512,21 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-500 pl-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Logistics</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬（11月・12月・1月）の大阪気候・防寒対策とスムーズ周遊術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬（11月・12月・1月）の大阪気候・防寒対策とスムーズ周遊術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-500" />
-                大川リバーサイドの冷え込みと服装選び
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-500" />
+                大川リバーサイドの冷え込みと服装選び</h3>
               <p className="leading-relaxed">
                 大阪市内中心部は雪が積もることは極めて稀ですが、大阪城公園の広大なオープンスペースや中之島・大川沿いは川風が強く吹き抜けるため、体感温度は低くなります。城内の石垣や階段、未舗装の砂利道を歩く機会が多いため、靴は「歩きやすくクッション性のある防寒スニーカー」を選びましょう。ウールコートや防風ダウン、手袋、マフラーを着用すると快適に観光できます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                JR環状線・大阪メトロ・水上バスの賢い組み合わせ
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                JR環状線・大阪メトロ・水上バスの賢い組み合わせ</h3>
               <p className="leading-relaxed">
                 大阪城公園へはJR大阪環状線「大阪城公園駅」やOsaka Metro「森ノ宮駅」「谷町四丁目駅」が利用可能。大阪天満宮へはJR東西線「大阪天満宮駅」や谷町線「南森町駅」が直結しており、わずか1〜2駅で相互に移動できます。また、大阪城港から中之島・八軒家浜を結ぶ水上バス「アクアライナー」を使えば、暖かな船内から川沿いの冬景色を眺めながら優雅に移動できます。
               </p>
@@ -562,18 +538,14 @@ export default function OsakaCastleNakanoshimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-500 pl-4">
             <span className="text-amber-600 font-bold text-xs uppercase tracking-wider block">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大阪城・中之島・天満旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大阪城・中之島・天満旅行 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-amber-100 text-amber-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-amber-100 text-amber-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {item.a}
                 </p>
@@ -584,10 +556,8 @@ export default function OsakaCastleNakanoshimaWinterPage() {
 
         {/* Internal Feature Links Section */}
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-200">
-          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-600" />
-            あわせて読みたい関西の冬特選特集記事
-          </h2>
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-600" />
+            あわせて読みたい関西の冬特選特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             大阪・京都・奈良・兵庫など、近隣の魅力あふれる冬の旅特集もあわせてご覧ください。
           </p>

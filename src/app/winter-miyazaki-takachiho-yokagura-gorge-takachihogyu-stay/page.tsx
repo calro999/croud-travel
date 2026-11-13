@@ -248,12 +248,10 @@ export default function WinterMiyazakiTakachihoPage() {
             11月・12月 冬の伝統高千穂夜神楽＆神話パワースポット特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月宮崎・神話の里高千穂】冬の夜神楽と真名井の滝
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月宮崎・神話の里高千穂】冬の夜神楽と真名井の滝
             <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal">
               名物A5高千穂牛ステーキ＆かっぽ鶏・竹筒かっぽ酒を味わうパワースポット名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月中旬から翌年2月にかけて、日本神話「天孫降臨」の舞台である宮崎県高千穂町では、国の重要無形民俗文化財である冬の風物詩「高千穂の夜神楽（よかぐら）」が奉納され、神々の息吹が町全体を包み込みます。初冬の凛とした冷気の中でエメラルドグリーンに澄み渡る高千穂峡・真名井の滝や、天照大神がお隠れになった天安河原の神秘的な佇まい。夕食には日本一の和牛宮崎牛の中でも最高峰と称される「極上A5ランク高千穂牛ステーキ」や、竹筒で地鶏と野菜を蒸し焼きにする「かっぽ鶏」、青竹で燗をつける伝統の「かっぽ酒」。神話の里で心身を清め、至福の美食と温泉に浸る厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterMiyazakiTakachihoPage() {
             <Landmark className="w-4 h-4" />
             神話の里高千穂 初冬の厳かな情景
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">
-            夜を徹して舞う神々の祈りと澄み渡る峡谷の清水。太古の神話が息づく冬のパワースポット
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-stone-900 leading-snug">夜を徹して舞う神々の祈りと澄み渡る峡谷の清水。太古の神話が息づく冬のパワースポット</h2>
           <div className="text-sm sm:text-base text-stone-600 leading-relaxed space-y-4">
             <p>
               宮崎県北西端、九州山地の中央に位置する「高千穂（たかちほ）」。天孫降臨や天岩戸開きなど、日本神話の最も劇的な物語の舞台として知られ、町全体が霊験あらたかな気に満ち溢れています。
@@ -308,9 +304,7 @@ export default function WinterMiyazakiTakachihoPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の高千穂を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の高千穂を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               冬の夜神楽の厳かさと神話の自然、最高峰和牛の美食を巡る
             </p>
@@ -321,9 +315,7 @@ export default function WinterMiyazakiTakachihoPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                冬の伝統「高千穂の夜神楽」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">冬の伝統「高千穂の夜神楽」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 国重要無形民俗文化財の夜神楽。高千穂神社神楽殿で毎晩舞われる観光夜神楽と、町内各集落で徹夜で奉納される三十三番の神事。
               </p>
@@ -333,9 +325,7 @@ export default function WinterMiyazakiTakachihoPage() {
               <div className="w-12 h-12 rounded-xl bg-emerald-50 flex items-center justify-center text-emerald-700">
                 <Compass className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                澄み渡る真名井の滝＆国見ヶ丘雲海
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">澄み渡る真名井の滝＆国見ヶ丘雲海</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 初冬の柱状節理とエメラルドの水面が美しい高千穂峡。寒暖差の大きい早朝に国見ヶ丘から見下ろす幻想的な雲海の大パノラマ。
               </p>
@@ -345,9 +335,7 @@ export default function WinterMiyazakiTakachihoPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                A5高千穂牛ステーキ＆元祖かっぽ鶏
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">A5高千穂牛ステーキ＆元祖かっぽ鶏</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本一宮崎牛の最高峰A5高千穂牛。青竹筒で地鶏を蒸し焼きにする名物かっぽ鶏と、炭火で燗をつけた香り高き竹筒かっぽ酒。
               </p>
@@ -361,9 +349,7 @@ export default function WinterMiyazakiTakachihoPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-emerald-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">
-              宮崎・神話の里高千穂の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900">宮崎・神話の里高千穂の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,12 +397,10 @@ export default function WinterMiyazakiTakachihoPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {hotel.name}
                           <ExternalLink className="w-4 h-4 text-stone-400 inline" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -474,9 +458,7 @@ export default function WinterMiyazakiTakachihoPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-emerald-100">
             <Compass className="w-6 h-6 text-emerald-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の宮崎・高千穂を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の宮崎・高千穂を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -506,33 +488,25 @@ export default function WinterMiyazakiTakachihoPage() {
             <Utensils className="w-4 h-4" />
             神々の里が誇る美食の極み
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold leading-snug">
-            日本一の和牛と青竹香る伝統の技。初冬の高千穂で味わい尽くす郷土の贅
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold leading-snug">日本一の和牛と青竹香る伝統の技。初冬の高千穂で味わい尽くす郷土の贅</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5">
-                <Utensils className="w-4 h-4 text-amber-300" />
-                最高峰ブランド「A5高千穂牛」
-              </h3>
+              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5"><Utensils className="w-4 h-4 text-amber-300" />
+                最高峰ブランド「A5高千穂牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 日本一の宮崎牛の中でも最高ランクを誇る高千穂牛。澄んだ空気と清流水で育まれた肉質は、美しいサシと上品な甘みを湛え、ステーキや陶板焼きで香ばしく焼き上げれば、とろけるような肉汁が溢れます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                青竹直火焼き「元祖かっぽ鶏」
-              </h3>
+              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-emerald-400" />
+                青竹直火焼き「元祖かっぽ鶏」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 切り出した青竹の筒に地鶏や椎茸を詰め、炭火で直火蒸し焼きにする高千穂の伝統料理。竹のエキスと地鶏の脂が溶け合い、驚くほどふっくらジューシーな旨味と爽やかな竹の香りが口中に広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                青竹燗で味わう「かっぽ酒」
-              </h3>
+              <h3 className="font-bold text-emerald-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                青竹燗で味わう「かっぽ酒」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 青竹筒に注いだ辛口地酒を炭火にかざして温める伝統の燗酒。注ぐときに「カッポ、カッポ」と小気味よい音が鳴り、竹の油分が溶け込んだまろやかな風味は、冷えた夜神楽の夜に格別の温もりを与えてくれます。
               </p>
@@ -546,15 +520,11 @@ export default function WinterMiyazakiTakachihoPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の高千穂 交通アクセス＆夜神楽鑑賞のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の高千穂 交通アクセス＆夜神楽鑑賞のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-700" />
-                空港・新幹線からのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-700" />
+                空港・新幹線からのアクセス方法</h3>
               <p>
                 飛行機を利用する場合は熊本空港が最も便利で、レンタカーまたは特急バス「たかちほ号」で約1時間半〜2時間です。延岡駅からは宮崎交通の路線バスで約1時間20分でアクセスできます。
               </p>
@@ -564,10 +534,8 @@ export default function WinterMiyazakiTakachihoPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                夜神楽鑑賞時の厳しい寒さと防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                夜神楽鑑賞時の厳しい寒さと防寒対策</h3>
               <p>
                 12月の高千穂は夜間の気温が氷点下近くまで冷え込みます。高千穂神社の神楽殿や集落の神楽宿は板敷きのため、足元から底冷えします。厚手のダウンコート、ひざ掛け、貼るカイロ、厚手の靴下をご持参ください。
               </p>
@@ -584,16 +552,12 @@ export default function WinterMiyazakiTakachihoPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の宮崎・高千穂旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の宮崎・高千穂旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -605,10 +569,8 @@ export default function WinterMiyazakiTakachihoPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-emerald-950 to-stone-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい九州の冬名湯・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい九州の冬名湯・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               冬の味覚や雪見露天、ブランド和牛を堪能する九州各地の厳選旅ガイド
             </p>
@@ -620,9 +582,7 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">宮崎・青島温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                青島温泉の宮崎牛＆伊勢海老リゾートステイ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">青島温泉の宮崎牛＆伊勢海老リゾートステイ</h4>
               <p className="text-[11px] text-emerald-100 line-clamp-2">
                 鬼の洗濯板と太平洋パノラマ・宮崎牛鉄板焼きを満喫。
               </p>
@@ -633,9 +593,7 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・竹田長湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                長湯温泉の世界屈指天然炭酸泉と豊後牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">長湯温泉の世界屈指天然炭酸泉と豊後牛会席</h4>
               <p className="text-[11px] text-emerald-100 line-clamp-2">
                 くじゅう初雪絶景と銀色泡の炭酸泉・清流エノハ料理を堪能。
               </p>
@@ -646,9 +604,7 @@ export default function WinterMiyazakiTakachihoPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・黒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                黒川温泉の竹灯籠湯あかりライトアップと露天風呂巡り
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">黒川温泉の竹灯籠湯あかりライトアップと露天風呂巡り</h4>
               <p className="text-[11px] text-emerald-100 line-clamp-2">
                 冬の渓流に灯る竹あかりと肥後あか牛会席の極上宿。
               </p>

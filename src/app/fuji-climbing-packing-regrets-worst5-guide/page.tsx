@@ -277,9 +277,7 @@ export default function FujiClimbingPackingRegretsPage() {
         {/* セクション1: 後悔ワースト5 */}
         <section aria-labelledby="worst5-heading">
           <div className="border-l-4 border-emerald-600 pl-4 mb-8">
-            <h2 id="worst5-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              富士登山で最も泣いた初心者のリアル体験談【後悔ワースト5】
-            </h2>
+            <h2 id="worst5-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">富士登山で最も泣いた初心者のリアル体験談【後悔ワースト5】</h2>
             <p className="text-slate-600 text-sm mt-1">
               登頂率を大きく分けるのは体力ではなく「事前の危機管理と装備の有無」です。
             </p>
@@ -296,9 +294,7 @@ export default function FujiClimbingPackingRegretsPage() {
                     <span className="bg-emerald-400 text-emerald-950 font-black text-sm px-3 py-1 rounded-full uppercase tracking-wider">
                       Worst {regret.rank}
                     </span>
-                    <h3 className="text-lg sm:text-xl font-black text-white">
-                      {regret.title}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-black text-white">{regret.title}</h3>
                   </div>
                 </div>
 
@@ -314,17 +310,13 @@ export default function FujiClimbingPackingRegretsPage() {
 
                   <div className="grid sm:grid-cols-2 gap-4">
                     <div className="bg-slate-50 border border-slate-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-rose-600 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>❌</span> 陥りがちな典型ミス
-                      </h4>
+                      <h4 className="text-xs font-black text-rose-600 uppercase tracking-wider flex items-center gap-1.5 mb-2">陥りがちな典型ミス</h4>
                       <p className="text-xs sm:text-sm text-slate-700 leading-relaxed font-medium">
                         {regret.mistake}
                       </p>
                     </div>
                     <div className="bg-emerald-50/70 border border-emerald-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>🛡️</span> 絶対回避のプロのアドバイス
-                      </h4>
+                      <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider flex items-center gap-1.5 mb-2"><span>️</span> 絶対回避のプロのアドバイス</h4>
                       <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside leading-relaxed">
                         {regret.solution.map((sol, idx) => (
                           <li key={idx}>{sol}</li>
@@ -353,9 +345,7 @@ export default function FujiClimbingPackingRegretsPage() {
         <section aria-labelledby="checklist-heading" className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-10 shadow-sm">
           <div className="border-l-4 border-emerald-600 pl-4 mb-8">
             <div className="text-xs font-bold uppercase text-emerald-600 tracking-wider">Packing Checklist</div>
-            <h2 id="checklist-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              【完全保存版】富士登山サバイバル持ち物チェックリスト
-            </h2>
+            <h2 id="checklist-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">【完全保存版】富士登山サバイバル持ち物チェックリスト</h2>
             <p className="text-slate-600 text-sm mt-1">
               スマホの画面を見ながら荷造りができる、カテゴリー別の必需品リストです。
             </p>
@@ -368,10 +358,8 @@ export default function FujiClimbingPackingRegretsPage() {
                 className="bg-slate-50 border border-slate-200/80 rounded-2xl p-5 hover:border-emerald-300 transition"
               >
                 <div className="flex items-center justify-between pb-3 mb-4 border-b border-slate-200">
-                  <h3 className="font-black text-sm sm:text-base text-slate-900 flex items-center gap-2">
-                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-600 inline-block" />
-                    {cat.category}
-                  </h3>
+                  <h3 className="font-black text-sm sm:text-base text-slate-900 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600 inline-block" />
+                    {cat.category}</h3>
                   <span className="text-[11px] font-black text-emerald-800 bg-emerald-100 px-2 py-0.5 rounded-md">
                     {cat.badge}
                   </span>
@@ -397,9 +385,7 @@ export default function FujiClimbingPackingRegretsPage() {
 
           {/* 持ち物パッキングの掟 */}
           <div className="mt-8 bg-emerald-950 text-white rounded-2xl p-5 sm:p-6">
-            <h4 className="text-emerald-300 font-bold text-sm sm:text-base mb-2 flex items-center gap-2">
-              <span>💡</span> 富士山パッキングの鉄則：ザックの中は「全ビニール袋防水」
-            </h4>
+            <h4 className="text-emerald-300 font-bold text-sm sm:text-base mb-2 flex items-center gap-2">富士山パッキングの鉄則：ザックの中は「全ビニール袋防水」</h4>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               富士山の雨風は横殴りで、ザックカバーだけでは隙間から雨水が侵入して着替えや寝具が全滅します。
               大きな45Lゴミ袋をザックの内側に広げ、その中に荷物をパッキングする『インナーバッグ防水』を徹底してください。濡れた防寒着で山頂に留まるのは低体温症の直結ルートです。
@@ -411,9 +397,7 @@ export default function FujiClimbingPackingRegretsPage() {
         <section aria-labelledby="hotels-heading">
           <div className="border-l-4 border-emerald-600 pl-4 mb-4">
             <div className="text-xs font-bold uppercase text-emerald-600 tracking-wider">Base Camp Hotels</div>
-            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              登頂成功と下山後の疲労回復を約束する！五合目拠点のおすすめ温泉宿
-            </h2>
+            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">登頂成功と下山後の疲労回復を約束する！五合目拠点のおすすめ温泉宿</h2>
             <p className="text-slate-600 text-sm mt-1">
               前泊で高度順応と快眠を確保し、下山後は砂埃を温泉で流して極上の筋肉ケアを。
             </p>
@@ -459,9 +443,7 @@ export default function FujiClimbingPackingRegretsPage() {
                     <div className="text-[11px] font-bold text-emerald-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "富士山・河口湖エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "富士登山の前泊・後泊に最適な立地と癒しの温泉設備を完備した人気宿。"}
                     </p>
@@ -494,9 +476,7 @@ export default function FujiClimbingPackingRegretsPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 border border-slate-800">
           <div className="max-w-3xl">
             <span className="text-emerald-400 font-black text-xs uppercase tracking-wider">Model Schedule</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">
-              初心者が成功する「無理のない1泊2日」富士登山モデル行程
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">初心者が成功する「無理のない1泊2日」富士登山モデル行程</h3>
             <div className="space-y-4 text-xs sm:text-sm text-slate-300">
               <div className="flex gap-4 border-b border-slate-800 pb-3">
                 <span className="font-black text-emerald-400 shrink-0 w-20">1日目 11:00</span>
@@ -546,9 +526,7 @@ export default function FujiClimbingPackingRegretsPage() {
 
         {/* 終端FAQ */}
         <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-8">
-          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span>❓</span> 富士登山に関するよくある質問
-          </h3>
+          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">富士登山に関するよくある質問</h3>
           <div className="space-y-4 text-xs sm:text-sm">
             <div className="border-b border-slate-100 pb-3">
               <h4 className="font-bold text-slate-900 mb-1">Q. スニーカーで登ることは本当に無理ですか？</h4>
@@ -576,9 +554,7 @@ export default function FujiClimbingPackingRegretsPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリストの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と高山病・下山時の爪割れ・ヘッドライト忘れ！登頂成功の持ち物チェックリストの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

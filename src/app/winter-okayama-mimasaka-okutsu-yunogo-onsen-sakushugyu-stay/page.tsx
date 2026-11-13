@@ -248,12 +248,10 @@ export default function WinterOkayamaMimasakaPage() {
             11月・12月 清流奥津渓の初冬雪景色と美肌ぬる湯・作州牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月岡山・奥津＆湯郷温泉】美作三湯の初冬雪見と美肌湯
             <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
               吉井川の足元湧出天然岩風呂・極上作州牛＆津山そずり鍋を堪能する名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、中国山地の懐に抱かれた岡山県北部・美作（みまさか）地方は、澄み切った冬空と初雪の山並みに包まれる静寂の温泉シーズンを迎えます。中国地方を代表する名湯地帯「美作三湯（みまさかさんとう）」の中でも、吉井川の清流沿いに湧く「奥津温泉（おくつおんせん）」は、川底の岩盤から自噴する極上の足元湧出泉「鍵湯」や伝統の「足踏み洗濯」で知られる美肌の名湯。一方、白鷺が傷を癒やした伝説が残る「湯郷温泉（ゆのごうおんせん）」は、宮本武蔵の生誕地近くに位置し、肌をしっとり潤すナトリウム・カルシウム-塩化物泉が湯客を優しく温めます。初冬の冷気の中で楽しむ渓流雪見露天、夕食には岡山が誇る最高峰の黒毛和牛「作州牛（さくしゅうぎゅう）」のステーキや陶板焼き、骨まわりの旨味肉を冬野菜と煮込む津山伝統の熱々「そずり鍋」、美作の地酒。大人の贅沢な冬の湯治旅にふさわしい厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterOkayamaMimasakaPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の美作三湯の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            中国山地の奥座敷に湧く奇跡の足元湧出泉と歴史ある湯治文化
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">中国山地の奥座敷に湧く奇跡の足元湧出泉と歴史ある湯治文化</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               岡山県の北部、中国山地の豊かな森と清流・吉井川が育む美作地方。古くから「美作三湯（湯原・奥津・湯郷）」として全国にその名を轟かせるこの温泉地帯は、初冬を迎えると外界の喧騒から隔絶された静寂の隠れ里へと変貌します。中でも吉井川の清流沿いに佇む「奥津温泉」は、古くは津山藩主がその卓越した効能を独占するために一般の入浴を禁じた「鍵湯」の歴史を持ちます。何よりの魅力は、川底の天然岩盤から生まれたての湯が空気に触れずに自噴する「足元湧出」。湯船の底に敷き詰められた石の間からぷくぷくと湧き上がるアルカリ性の湯は、天然の化粧水そのもので、湯上がりの肌をしっとりと滑らかに包み込みます。
@@ -315,9 +311,7 @@ export default function WinterOkayamaMimasakaPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              岡山・美作三湯（奥津・湯郷） 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">岡山・美作三湯（奥津・湯郷） 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               国の登録有形文化財足元湧出湯、美肌ぬる湯露天、極上作州牛と津山そずり鍋を誇る名宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterOkayamaMimasakaPage() {
                         <span className="text-xs font-bold text-rose-800 bg-rose-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-rose-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterOkayamaMimasakaPage() {
             <Utensils className="w-4 h-4 text-rose-300" />
             初冬の味覚手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の美作・津山で味わい尽くす極上肉料理と地酒
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の美作・津山で味わい尽くす極上肉料理と地酒</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-400" />
-                岡山が誇る至高の黒毛和牛「作州牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-400" />
+                岡山が誇る至高の黒毛和牛「作州牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国の名だたるブランド牛の素牛（もとうし）としても名高い美作の黒毛和牛。澄んだ伏流水と自然豊かな気候で育てられ、融点の低い上質なサシと深い赤身のコクが調和。炭火焼きや陶板ステーキで極上の旨味が広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-400" />
-                津山伝統の熱々郷土鍋「そずり鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-400" />
+                津山伝統の熱々郷土鍋「そずり鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 牛の骨まわりの旨味たっぷりの肉を削ぎ（そずり）落とし、セリ、ゴボウ、豆腐、キノコとともに醤油仕立ての濃厚出汁で煮込む津山の冬の代名詞。コラーゲンと肉の旨味が溶け出したスープは冷えた身体を芯から温めます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-rose-400" />
-                美作の地酒「御前酒」と冬の新酒
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-rose-400" />
+                美作の地酒「御前酒」と冬の新酒</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 江戸時代に美作勝山藩の御用酒として献上された銘酒「御前酒」。名刀のようなキレと芳醇な米の旨味を持ち、菩提もと仕込みの深い味わいは、濃厚な牛肉料理や冬の猪鍋・鮎料理と最高のペアリングを奏でます。
               </p>
@@ -466,15 +450,11 @@ export default function WinterOkayamaMimasakaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の奥津温泉＆湯郷温泉 交通アクセス＆冬道アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の奥津温泉＆湯郷温泉 交通アクセス＆冬道アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-rose-700" />
-                岡山駅＆津山駅からのアクセス手段
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-rose-700" />
+                岡山駅＆津山駅からのアクセス手段</h3>
               <p>
                 岡山駅からJR津山線（快速ことぶき）で津山駅へ。津山駅から中鉄北部バスで奥津温泉へ約50分。湯郷温泉へはJR林野駅からタクシーで約8分、または津山駅からバスで約40分です。
               </p>
@@ -484,10 +464,8 @@ export default function WinterOkayamaMimasakaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                美肌ぬる湯の長湯のコツと湯上がり保温
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                美肌ぬる湯の長湯のコツと湯上がり保温</h3>
               <p>
                 奥津温泉の源泉は人肌よりやや温かい40℃前後の絶妙なぬる湯が多く、長時間の入浴でも身体に負担がかかりにくいのが特徴です。20〜30分程度ゆったり浸かることで肌の角質が整います。
               </p>
@@ -504,16 +482,12 @@ export default function WinterOkayamaMimasakaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岡山・美作三湯（奥津・湯郷）旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岡山・美作三湯（奥津・湯郷）旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-rose-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-rose-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterOkayamaMimasakaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-rose-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-rose-300" />
-              あわせて読みたい中国・西日本の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-rose-300" />
+              あわせて読みたい中国・西日本の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-rose-200">
               美肌の名湯と極上の冬の味覚を堪能する中国地方各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">岡山・湯原温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                湯原温泉の砂湯雪景色と蒜山和牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">湯原温泉の砂湯雪景色と蒜山和牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 露天風呂番付西の横綱「砂湯」の豪快雪見と蒜山ジャージー乳製品。
               </p>
@@ -553,9 +523,7 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                三朝温泉の世界屈指ラジウム泉と松葉ガニ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">三朝温泉の世界屈指ラジウム泉と松葉ガニ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 高濃度ラドン温泉の湯治と11月解禁の本場松葉ガニフルコースの極み。
               </p>
@@ -566,9 +534,7 @@ export default function WinterOkayamaMimasakaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                玉造温泉の神の湯美肌としまね和牛・松葉ガニ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">玉造温泉の神の湯美肌としまね和牛・松葉ガニ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 出雲大社のお膝元に湧く日本最古の美肌温泉と冬の山陰美味づくし。
               </p>

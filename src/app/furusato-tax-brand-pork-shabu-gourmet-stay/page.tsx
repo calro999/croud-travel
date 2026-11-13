@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          きめ細やかな肉質と甘くとろける上質な脂身。日本最高峰のブランド豚肉を名湯とともに味わい尽くす
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">きめ細やかな肉質と甘くとろける上質な脂身。日本最高峰のブランド豚肉を名湯とともに味わい尽くす</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              口の中でサッと溶ける融点の低い上質な白身（脂）の甘み
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">口の中でサッと溶ける融点の低い上質な白身（脂）の甘み</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               銘柄豚ならではの上品な脂身は、しつこさが一切なく、噛むほどに芳醇な甘みと旨味が口いっぱいに広がります。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              特製出汁しゃぶ・せいろ蒸し・とんかつなど多彩な調理法で満喫
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">特製出汁しゃぶ・せいろ蒸し・とんかつなど多彩な調理法で満喫</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               出汁にくぐらせるしゃぶしゃぶはもちろん、旨味を閉じ込めたせいろ蒸しやジューシーな炭火焼きなど、宿自慢のコースを堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税クーポンで高級ブランド豚会席プランをスマートに予約
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税クーポンで高級ブランド豚会席プランをスマートに予約</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               最大30%オフのトラベルクーポンを活用し、通常よりもワンランク上のしゃぶしゃぶ食べ比べプランや露天付き客室を選べます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="kurobuta_pork" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                鹿児島県霧島・指宿ふるさと納税：本場「かごしま黒豚」の極上黒豚しゃぶ会席と天然美肌砂むし温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">鹿児島県霧島・指宿ふるさと納税：本場「かごしま黒豚」の極上黒豚しゃぶ会席と天然美肌砂むし温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 約400年の歴史を誇る鹿児島の至宝「かごしま黒豚」。きめ細やかな赤身と甘みのある脂身を特製そばつゆやポン酢でいただき、霧島の硫黄泉や指宿の天然砂むし温泉で心身を解きほぐします。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県霧島市牧園町高千穂3900-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    霧島温泉郷　霧島みやまホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">霧島温泉郷　霧島みやまホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【貸切風呂★無料】リピーターが多い調理長の創作料理と、無料貸切できる3つの露天、2つの内湯が大好評！
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県指宿市湯の浜5-27-27
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    指宿温泉　いぶすき秀水園
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">指宿温泉　いぶすき秀水園</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     南薩摩の湯の里指宿にて心尽くしの料理とやすらぎのひとときを…
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     鹿児島県指宿市西方4507
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    指宿温泉　こらんの湯　錦江楼
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">指宿温泉　こらんの湯　錦江楼</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     美肌の湯（美肌成分のメタケイ酸を豊富に含む泉質）と桜島を望める和モダン旅館。
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kinka_pork" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山形県鶴岡市ふるさと納税：幻の最高品種「平田牧場金華豚」と開湯千年のあつみ温泉名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山形県鶴岡市ふるさと納税：幻の最高品種「平田牧場金華豚」と開湯千年のあつみ温泉名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 「豚肉の芸術品」と称される平田牧場の金華豚。繊維が細かく驚くほど柔らかい肉質を出汁しゃぶで堪能し、清流温海川のせせらぎを聞きながら名湯あつみ温泉に憩う至高のグルメステイです。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市戸沢神子谷103-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湯の瀬温泉　湯の瀬旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯の瀬温泉　湯の瀬旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     小さいお子様連れ大歓迎！日本最大級の大露天風呂。庄内の新鮮な魚介類を毎日仕入れています。
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市湯温海甲171
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    温海温泉　川端の宿　東屋旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温海温泉　川端の宿　東屋旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     地元の素材を大切にした御料理と家庭的な雰囲気でおもてなしいたします。
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山形県鶴岡市湯温海甲191
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    温海温泉　かしわや旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温海温泉　かしわや旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     素材が良いから料理が美味しい。庄内浜直送の新鮮な魚介類を使用してます。
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="nasu_pork" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                栃木県那須町ふるさと納税：那須高原三元豚・郡司豚のジューシーしゃぶしゃぶと開湯1300年那須温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">栃木県那須町ふるさと納税：那須高原三元豚・郡司豚のジューシーしゃぶしゃぶと開湯1300年那須温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 豊かな自然と清らかな伏流水で丹精込めて育てられた那須の銘柄豚。高原野菜とともに楽しむポークしゃぶしゃぶ会席と、硫黄の香る那須温泉「鹿の湯」源泉で芯から温まる高原リゾートです。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市湯本塩原153
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    塩原元湯温泉　ゑびすや
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">塩原元湯温泉　ゑびすや</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     塩原温泉、最古の湯『梶原の湯』飲泉可。濁り湯・二種の自家源泉掛け流し。山奥の鄙び秘湯小宿。送迎ご相談
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     栃木県那須塩原市板室841-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    板室別邸リトリート　SPA和薬草
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">板室別邸リトリート　SPA和薬草</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     那須の秘境で湯治体験。様々なコンテンツであなただけのオリジナルリトリート時間を。
                   </p>
@@ -574,9 +544,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 比内地鶏・土佐ジロー・黒さつま鶏の美食宿。
               </p>
@@ -590,9 +558,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 那須・清里・裏磐梯の森の休日。
               </p>
@@ -606,9 +572,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -626,9 +590,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -707,9 +669,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳選ガイド鹿児島黒豚・平田牧場金華豚・那須高原豚の美食旅」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            大地を揺るがす男たちの雄叫びと神仏と交わる狂乱の刻。魂を揺さぶる日本のディープカルチャー旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">大地を揺るがす男たちの雄叫びと神仏と交わる狂乱の刻。魂を揺さぶる日本のディープカルチャー旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本の伝統的な祭りの中でも、その過激さ・特異さ・圧倒的なスケールから「日本三大奇祭（三大奇天烈神事）」として国内外から熱狂的な注目を集める三つの祭典――巨大なモミの大木に男たちが跨り急坂を一気に滑り降りる長野諏訪の「諏訪大社御柱祭」、真冬の寒空の下、サラシ一丁の裸男たちが神男に触れて厄を落とそうと激しく揉み合う愛知尾張の「国府宮はだか祭」、そして大晦日の夜に荒々しい咆哮とともに家々を訪れ悪霊を祓う秋田男鹿の「男鹿のナマハゲ」。常識を覆すほどのエネルギーと土地の信仰に直に触れる体験は、旅人に強烈な感動とパワーを授けてくれます。祭りの後は、名湯温泉で温まり、名物料理に舌鼓を打つ極上の滞在を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  長野県諏訪市ふるさと納税：七年に一度の天下の大祭「諏訪大社御柱祭」木落しと上諏訪温泉ホテル紅や
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">長野県諏訪市ふるさと納税：七年に一度の天下の大祭「諏訪大社御柱祭」木落しと上諏訪温泉ホテル紅や</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   諏訪大社四社をめぐる祈りと勇気の大祭。山から巨木を切り出し諏訪大社へと曳き建てる迫力を感じた後は、諏訪湖畔に佇む「ホテル紅や」で、上諏訪の名湯展望風呂と信州サーモン・美酒諏訪五蔵を味わいます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      上諏訪温泉　ホテル紅や
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">上諏訪温泉　ホテル紅や</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>長野県諏訪市湖岸通り２－７－２１</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  愛知県稲沢市・一宮市ふるさと納税：尾張大國霊神社に数万が群がる「国府宮はだか祭」とお宿和陽館ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">愛知県稲沢市・一宮市ふるさと納税：尾張大國霊神社に数万が群がる「国府宮はだか祭」とお宿和陽館ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   千二百年続く天下の厄払い神事。裸男たちの熱気に圧倒された後は、一宮駅近くの家庭的な老舗宿「お宿 和陽館」を拠点に、愛知名物のひつまぶしや味噌カツ、尾張の地酒を満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      お宿　和陽館
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">お宿　和陽館</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>愛知県稲沢市長野2-10-8</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  秋田県男鹿市ふるさと納税：ユネスコ無形文化遺産「男鹿のナマハゲ」と男鹿温泉セイコーグランドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">秋田県男鹿市ふるさと納税：ユネスコ無形文化遺産「男鹿のナマハゲ」と男鹿温泉セイコーグランドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   なまはげ館での迫力の習俗体験。夕暮れに日本海を望む男鹿温泉「セイコーグランドホテル」で、熱した石を木桶に放り込む伝統の「名物石焼料理」と、保温効果抜群の黄金のナトリウム塩化物泉に癒やされます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      男鹿温泉　湯けむりリゾート　セイコーグランドホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">男鹿温泉　湯けむりリゾート　セイコーグランドホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>秋田県男鹿市北浦湯本草木原50-1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   那智・野沢温泉・鞍馬。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   西馬音内・郡上おどり・阿波おどり。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大薬湯＆濃厚生薬湯治宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   松之山温泉・草津温泉・有馬温泉。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】上諏訪温泉 ホテル紅やを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】上諏訪温泉 ホテル紅やを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と上諏訪温泉 ホテル紅やの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と上諏訪温泉 ホテル紅やの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

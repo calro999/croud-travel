@@ -102,9 +102,7 @@ export default function QuickConclusionBox({
                   {item.badge}
                 </span>
                 <div className="text-[11px] font-bold text-stone-500">{item.label}</div>
-                <h4 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">
-                  {item.hotel.name}
-                </h4>
+                <h4 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">{item.hotel.name}</h4>
                 <div className="flex items-center gap-2 text-xs font-bold pt-0.5">
                   <span className="text-amber-600">★ {item.hotel.rating}</span>
                   <span className="text-stone-300">•</span>

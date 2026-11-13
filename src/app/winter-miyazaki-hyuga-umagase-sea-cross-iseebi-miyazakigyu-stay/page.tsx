@@ -328,9 +328,7 @@ export default function MiyazakiHyugaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10">
           <span className="text-amber-600 font-bold text-sm tracking-widest uppercase">OCEAN VIEWS & SACRED NATURE</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-            紺碧の太平洋が刻んだ巨岩美と祈りのパワースポット
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">紺碧の太平洋が刻んだ巨岩美と祈りのパワースポット</h2>
           <div className="w-16 h-1 bg-amber-500 rounded-full mb-6" />
         </div>
 
@@ -355,9 +353,7 @@ export default function MiyazakiHyugaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="mb-10">
             <span className="text-red-600 font-bold text-sm tracking-widest uppercase">COASTAL GOURMET & SOUL FOOD</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-              冬の日向灘伊勢海老と宮崎牛・元祖チキン南蛮の饗宴
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">冬の日向灘伊勢海老と宮崎牛・元祖チキン南蛮の饗宴</h2>
             <div className="w-16 h-1 bg-red-500 rounded-full mb-6" />
           </div>
 
@@ -393,9 +389,7 @@ export default function MiyazakiHyugaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10">
           <span className="text-amber-600 font-bold text-sm tracking-widest uppercase">OCEAN ROAD ITINERARY</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">
-            日向岬絶景＆延岡美食 1泊2日 ドライブモデルコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-4 font-journal-serif">日向岬絶景＆延岡美食 1泊2日 ドライブモデルコース</h2>
           <div className="w-16 h-1 bg-amber-500 rounded-full mb-6" />
         </div>
 
@@ -452,9 +446,7 @@ export default function MiyazakiHyugaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center max-w-2xl mx-auto mb-12">
             <span className="text-amber-400 font-bold text-sm tracking-widest uppercase">HOTEL & RYOKAN SELECTION</span>
-            <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">
-              日向岬・延岡冬旅に選ばれる厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-4xl font-black mt-2 mb-4 font-journal-serif">日向岬・延岡冬旅に選ばれる厳選名宿5選</h2>
             <p className="text-slate-300 text-sm md:text-base leading-relaxed">
               楽天トラベルAPIから最新の空室状況・宿泊プラン・宿泊者評価を直接取得。日向市駅前のシティホテルから五ヶ瀬川を望む名門ホテル、繁華街至近の機能派ホテルまで厳選しました。
             </p>
@@ -509,9 +501,7 @@ export default function MiyazakiHyugaWinterPage() {
                   {/* Hotel Details */}
                   <div className="lg:col-span-7 flex flex-col justify-between">
                     <div>
-                      <h3 className="text-xl md:text-2xl font-black text-white mb-3 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-white mb-3 font-journal-serif">{hotel.name}</h3>
                       <p className="text-slate-300 text-sm md:text-base leading-relaxed mb-5">
                         {hotel.story}
                       </p>
@@ -561,19 +551,15 @@ export default function MiyazakiHyugaWinterPage() {
       <section className="max-w-5xl mx-auto px-4 py-12 md:py-16">
         <div className="mb-10 text-center">
           <span className="text-amber-600 font-bold text-sm tracking-widest uppercase">FREQUENTLY ASKED QUESTIONS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-3 font-journal-serif">
-            冬の日向岬・延岡旅行 よくある質問
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900 mt-1 mb-3 font-journal-serif">冬の日向岬・延岡旅行 よくある質問</h2>
           <div className="w-16 h-1 bg-amber-500 rounded-full mx-auto" />
         </div>
 
         <div className="space-y-4 max-w-3xl mx-auto">
           {faqsData.map((faq, index) => (
             <div key={index} className="bg-white rounded-xl border border-slate-200 p-5 shadow-sm">
-              <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2">
-                <span className="bg-amber-100 text-amber-800 text-xs px-2 py-1 rounded font-black shrink-0 mt-0.5">Q</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base md:text-lg mb-2 flex items-start gap-2"><span className="bg-amber-100 text-amber-800 text-xs px-2 py-1 rounded font-black shrink-0 mt-0.5">Q</span>
+                <span>{faq.q}</span></h3>
               <p className="text-slate-600 text-sm md:text-base leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -587,9 +573,7 @@ export default function MiyazakiHyugaWinterPage() {
         <div className="max-w-5xl mx-auto">
           <div className="text-center mb-8">
             <span className="text-slate-500 font-bold text-xs tracking-widest uppercase">RELATED WINTER FEATURES</span>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900 mt-1">
-              あわせて読みたい冬の厳選旅行特集
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900 mt-1">あわせて読みたい冬の厳選旅行特集</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm mb-8">

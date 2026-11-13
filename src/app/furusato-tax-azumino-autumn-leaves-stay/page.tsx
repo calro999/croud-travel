@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              清流に回る水車小屋と冠雪の北アルプス！絵画のような田園リゾート・安曇野
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">清流に回る水車小屋と冠雪の北アルプス！絵画のような田園リゾート・安曇野</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             雄大な北アルプスの麓に広がる田園リゾート・長野県「安曇野」。秋のシンボル「大王わさび農場」では、湧水が流れる蓼川（たでがわ）沿いの木造水車小屋を鮮やかなモミジやケヤキが包み込み、黒澤明監督の映画『夢』の舞台そのままの叙情詩のような風景が広がります。初冠雪した常念岳を背景に、美術館巡りやサイクリングを楽しんだ後は、中房温泉から引湯するpH8.5以上のアルカリ性単純温泉「穂高温泉郷」へ。肌がつるつるになる「美肌の湯」に浸かり、信州サーモンや安曇野名物の手打ち新そば、信州牛をふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                大王わさび農場の水車小屋と蓼川の紅葉リフレクション
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                大王わさび農場の水車小屋と蓼川の紅葉リフレクション</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 日本一のわさび田を流れる清らかな湧水と水車小屋。秋には川沿いの木々が黄金や真紅に染まり、クリアボートで川を下る紅葉体験も人気です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                安曇野アートライン美術館めぐりと落葉松並木ドライブ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                安曇野アートライン美術館めぐりと落葉松並木ドライブ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 安曇野ちひろ美術館や碌山美術館など個性豊かな美術館が点在。黄金色に染まるカラマツ林の道を巡る優雅なアートドライブが楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                安曇野の秋の味覚「新そば」＆信州サーモン・信州牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                安曇野の秋の味覚「新そば」＆信州サーモン・信州牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋に収穫されたばかりの香り高い手打ち新そば、鮮やかなオレンジ色の信州サーモンのお造り、とろける信州牛のステーキと安曇野産わさびを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.30 <span className="text-stone-400 text-xs">(1339件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    穂高温泉郷　安曇野穂高ビューホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">穂高温泉郷　安曇野穂高ビューホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県安曇野市穂高牧2200-3 ｜ 長野自動車道【安曇野IC】よりお車で約25分。【松本IC】よりお車で約40分／JR大糸線穂高駅よりバスで約15分　
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.32 <span className="text-stone-400 text-xs">(94件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    穂高温泉郷　ガーデンあずみ野
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">穂高温泉郷　ガーデンあずみ野</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県安曇野市穂高有明7572-1 ｜ 穂高駅よりお車にて約１１分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.41 <span className="text-stone-400 text-xs">(24件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    温泉ホテル安曇野アートキャビン
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">温泉ホテル安曇野アートキャビン</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 長野県安曇野市穂高有明2252-2 ｜ 穂高駅からお車で約７分／長野道安曇野ＩＣよりお車で約２０分／松本駅からお車で約５０分　■館内にサウナ2室あり
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】穂高温泉郷 安曇野穂高ビューホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】穂高温泉郷 安曇野穂高ビューホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と穂高温泉郷 安曇野穂高ビューホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と穂高温泉郷 安曇野穂高ビューホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

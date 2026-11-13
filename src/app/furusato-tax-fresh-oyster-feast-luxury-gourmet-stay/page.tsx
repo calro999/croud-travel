@@ -108,9 +108,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  生・焼き・揚げ・蒸し・鍋！一晩で牡蠣をあらゆる調理法で食べ尽くす贅沢
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">生・焼き・揚げ・蒸し・鍋！一晩で牡蠣をあらゆる調理法で食べ尽くす贅沢</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 本場の牡蠣会席宿の真骨頂は、素材の良さを知り尽くした料理人による多彩なバリエーション。濃厚な甘みの生牡蠣、香ばしい殻付き焼き牡蠣、自家製タルタルでいただく大粒カキフライ、味噌仕立ての土手鍋や澄まし鍋、そして牡蠣の釜飯まで、牡蠣の魅力を五感で味わい尽くせます。
@@ -123,9 +121,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  リアス式海岸と豊かな森が育む「安心・安全な極上ブランド牡蠣」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">リアス式海岸と豊かな森が育む「安心・安全な極上ブランド牡蠣」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 広島湾、伊勢志摩的矢湾、三陸気仙沼湾はいずれも背後に広大な照葉樹林や山々を抱え、植物プランクトンが極めて豊富な日本屈指の清浄海域。紫外線殺菌など徹底した衛生管理のもとで出荷されるブランド牡蠣は、エグみが一切なく、澄んだ甘みとクリーミーなコクが際立ちます。
@@ -138,9 +134,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界遺産の絶景や穏やかな海景に抱かれながら浸かる名湯露天風呂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界遺産の絶景や穏やかな海景に抱かれながら浸かる名湯露天風呂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 宮島の厳島神社大鳥居、伊勢志摩の波静かな入り江、三陸の美しい海岸線。昼は絶景観光を満喫し、夕暮れには美肌の天然温泉に身を浸してリフレッシュ。地元の銘酒とともにいただく熱々の牡蠣料理は、旅の幸福感を最高潮に高めてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     広島県廿日市市・宮島厳島神社に最も近い創業三百年の老舗名門旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    宮島グランドホテル　有もと
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">宮島グランドホテル　有もと</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本三景・宮島の嚴島神社まで徒歩約3分という絶好のロケーションに建つ、江戸時代初期創業の歴史ある数寄屋造り旅館。宮島名物の大粒で濃厚な広島牡蠣をふんだんに盛り込んだ贅沢な会席料理が自慢で、香ばしい焼き牡蠣やジューシーなカキフライ、出汁の効いた牡蠣鍋など本場の味を心ゆくまで堪能できます。雅な和の風情漂う客室露天風呂や広々とした大浴場で旅の疲れを癒やし、夜にはライトアップされた大鳥居の幻想的な姿を散策できる至高の宮島ステイが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     三重県鳥羽市・的矢かき＆本浦かきの本場・二つの自家源泉を持つ美肌名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鳥羽本浦温泉　サン浦島　悠季の里
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鳥羽本浦温泉　サン浦島　悠季の里</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊勢志摩・鳥羽の本浦湾を望む静かな岬に佇む、二つの異なる自家源泉「珠光の湯」「新珠光の湯」を誇る高級温泉旅館。冬の風物詩であるブランド牡蠣「本浦牡蠣」「的矢牡蠣」を贅沢に使った特別料理は絶品で、ぷりぷりの生牡蠣や焼き牡蠣、伊勢海老や鮑の造りとともに豪華絢爛なディナーを堪能できます。アルカリ性のトロトロとした美肌温泉に浸かりながら穏やかな海の情景を眺める時間は格別の贅沢。伊勢神宮参拝とあわせた大人の美食旅に最適です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     宮城県気仙沼市・三陸リアス海岸の栄養豊かな大粒牡蠣と獲れたて海の幸
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    気仙沼大島　旅館　椿荘花月
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">気仙沼大島　旅館　椿荘花月</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     気仙沼大島の美しい自然に包まれた、獲れたての三陸魚介と心温まるおもてなしが評判の料理旅館。気仙沼湾の豊かな森から流れ込むミネラルで育った大粒牡蠣は、クリーミーで濃厚な甘みが特徴。殻付き焼き牡蠣やカキフライ、フカヒレ料理など三陸が誇る世界最高峰の海の恵みをテーブルいっぱいに味わえます。気仙沼大島大橋の開通によりアクセスも快適になり、雄大な太平洋のパノラマを望みながら素朴で贅沢な海辺の休日をお過ごしいただけます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoFreshOysterFeastStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

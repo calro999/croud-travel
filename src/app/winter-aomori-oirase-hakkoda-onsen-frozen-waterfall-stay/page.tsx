@@ -222,9 +222,7 @@ export default function OiraseOnsenWinterPage() {
             <span>11月・12月 冬の青森・奥入瀬＆八甲田特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月奥入瀬渓流温泉と八甲田山樹氷の初冬秘湯】幻想的な氷瀑ライトアップ・白濁名湯露天風呂と青森倉石牛＆陸奥湾ホタテ会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、青森県・奥入瀬渓流と八甲田連峰は、厳しい寒さと日本海の雪雲が織りなす息をのむような白銀の芸術世界へと変貌します。渓流の激流が凍てついて青く輝く「氷瀑（ひょうばく）」、八甲田のブナ原生林やアオモリトドマツに純白の雪と氷が張り付く「初期樹氷（スノーモンスター）」、そして300年の歴史を誇る総ヒバ造り千人風呂や足元湧出の奇跡の秘湯。雪見露天風呂で温まり、青森最高峰のブランド黒毛和牛「倉石牛」や陸奥湾直送の甘みたっぷりのホタテを地酒とともに味わう、至福の冬旅をお届けします。
@@ -254,9 +252,7 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の奥入瀬・八甲田が誇る冬の奇跡と秘湯の魅力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の奥入瀬・八甲田が誇る冬の奇跡と秘湯の魅力</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Onsen Science & Tohoku Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                八甲田の強酸性硫黄泉と蔦温泉の足元自噴、冬の陸奥湾海鮮の真価
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">八甲田の強酸性硫黄泉と蔦温泉の足元自噴、冬の陸奥湾海鮮の真価</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>pH1.8の火山性強酸性泉と、空気に触れない「完全自噴生温泉」の神秘</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>pH1.8の火山性強酸性泉と、空気に触れない「完全自噴生温泉」の神秘</span></h3>
             <p>
               八甲田・十和田エリアの温泉が全国の湯治客や温泉通を惹きつけてやまない理由は、地球のマグマの息吹をダイレクトに感じる泉質の特異性にあります。標高900mに位置する酸ヶ湯温泉は、pH1.8という強烈な酸性度を誇る「酸性・含硫黄-鉄-ナトリウム-硫酸塩・塩化物温泉」です。豊富な遊離硫化水素と鉄イオンが溶け込んだ白濁の湯は、毛細血管を強力に拡張させて血流を劇的に改善し、慢性的な神経痛や冷え性を芯から解きほぐします。
             </p>
             <p>
               これと鮮やかな対比をなすのが、ブナ原生林の奥底に湧く蔦温泉の「足元湧出温泉」です。通常、温泉はポンプで汲み上げられたりパイプを通る過程で空気に触れ、成分の酸化が始まりますが、蔦温泉ではブナの浴槽の底板の隙間から源泉が自然湧出しています。40℃前後の生まれたての無色透明な炭酸水素塩・硫酸塩泉は、空気に一度も触れていない純度100%の生温泉。肌の角質を優しく整え、シルクをまとったかのような潤いをもたらします。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>幻の黒毛和牛「倉石牛」と、冬の冷水で甘みが極まる陸奥湾ホタテ</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>幻の黒毛和牛「倉石牛」と、冬の冷水で甘みが極まる陸奥湾ホタテ</span></h3>
             <p>
               青森の冬の夜長を彩る料理には、厳寒の気候が生み出す驚くべき旨味が凝縮されています。青森県南部地方の清らかな空気と良質な牧草で手塩にかけて育てられる「倉石牛（くらいしぎゅう）」は、年間出荷頭数が極めて少ない幻の黒毛和牛。きめ細かなサシ（霜降り）は融点が低く、熱を加えると甘い香りを放ち、舌の上でとろけるような至高の食感を生み出します。
             </p>
@@ -316,9 +306,7 @@ export default function OiraseOnsenWinterPage() {
               <Star className="w-3.5 h-3.5 fill-teal-700 text-teal-700" />
               <span>Rakuten Travel Verified Secret Hot Springs</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月におすすめの奥入瀬・八甲田名湯の宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの奥入瀬・八甲田名湯の宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、雪見露天の絶景、源泉掛け流しの泉質、倉石牛や陸奥湾ホタテの美食評価が高い名宿を厳選しました。
             </p>
@@ -353,9 +341,7 @@ export default function OiraseOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-teal-700 transition-colors">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-teal-700 transition-colors">{h.name}</h3>
                     </div>
                     <p className="text-xs text-teal-800 font-semibold flex items-center gap-1">
                       <Sparkles className="w-3.5 h-3.5 text-teal-600" />
@@ -420,9 +406,7 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                奥入瀬氷瀑と八甲田秘湯を巡る1泊2日冬モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">奥入瀬氷瀑と八甲田秘湯を巡る1泊2日冬モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4 text-slate-700 text-sm sm:text-base">
@@ -476,26 +460,20 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の八甲田・奥入瀬の気候と防寒装備・冬期交通対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の八甲田・奥入瀬の気候と防寒装備・冬期交通対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-700" />
-                <span>厳しい寒さに備える防寒服装</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                <span>厳しい寒さに備える防寒服装</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月中旬以降の八甲田・奥入瀬は日中でも氷点下近くまで下がり、12月に入るとマイナス5℃〜マイナス10℃前後の厳しい真冬日になります。防風・防水性のある厚手ダウンジャケット、ヒートテック等の保温下着、厚手のフリースやセーターを重ね着してください。氷瀑見学や雪道歩行には、滑り止めの付いた防水スノーブーツ、厚手の手袋、耳まで覆うニット帽、マフラーが欠かせません。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-teal-700" />
-                <span>冬期道路閉鎖と送迎バスの活用</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                <span>冬期道路閉鎖と送迎バスの活用</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 八甲田山を越える国道103号（酸ヶ湯〜谷地温泉間）は例年11月下旬から冬期通行止めとなります。山道は完全な圧雪・凍結路面となり、地吹雪によるホワイトアウトも発生するため、雪道運転に不慣れな方の車利用は避け、JR新青森駅や青森駅からの各宿の無料送迎バスやJR路線バスを必ず利用しましょう。
               </p>
@@ -511,18 +489,14 @@ export default function OiraseOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と奥入瀬・八甲田の冬旅アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と奥入瀬・八甲田の冬旅アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -535,9 +509,7 @@ export default function OiraseOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Tohoku & Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北の冬名湯＆全国の雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北の冬名湯＆全国の雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色や冬の郷土味覚を味わう東北・東日本の厳選特集もぜひご覧ください。
             </p>

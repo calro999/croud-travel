@@ -85,7 +85,7 @@ export default function KyushuTravelNightsPage() {
         </p>
         
         <div className="my-6 bg-white border-l-4 border-emerald-500 p-4 shadow-sm text-sm">
-          <h4 className="font-bold text-emerald-900 mb-2">✈️ 福岡（博多）到着までの交通費目安（片道）</h4>
+          <h4 className="font-bold text-emerald-900 mb-2">️ 福岡（博多）到着までの交通費目安（片道）</h4>
           <ul className="space-y-1 text-stone-600">
             <li>・東京から：LCC利用 <span className="font-bold text-stone-800">約5,000〜12,000円</span> / 新幹線 <span className="font-bold text-stone-800">22,220円</span></li>
             <li>・大阪から：新幹線や高速バスの比較は<Link href="/osaka-fukuoka-bus-vs-shinkansen-guide/" className="text-teal-600 underline font-bold">こちら</Link></li>
@@ -96,9 +96,7 @@ export default function KyushuTravelNightsPage() {
       {/* 2泊3日 */}
       <section className="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden">
         <div className="bg-emerald-50 px-6 py-4 border-b border-emerald-100">
-          <h2 className="text-2xl font-black font-journal-serif text-emerald-900">
-            【2泊3日】福岡 ＋ 1都市（熊本 or 別府・由布院）
-          </h2>
+          <h2 className="text-2xl font-black font-journal-serif text-emerald-900">【2泊3日】福岡 ＋ 1都市（熊本 or 別府・由布院）</h2>
         </div>
         <div className="p-6 md:p-8 space-y-6">
           <p className="text-stone-700">
@@ -106,7 +104,7 @@ export default function KyushuTravelNightsPage() {
           </p>
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200">
-            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 2泊3日の予算内訳</h3>
+            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">2泊3日の予算内訳</h3>
             <div className="grid md:grid-cols-2 gap-4 text-sm text-stone-600">
               <ul className="space-y-2">
                 <li className="flex justify-between"><span>🏨 宿泊（博多ビジネス）:</span> <span className="font-bold text-stone-800">5,500円</span></li>
@@ -137,9 +135,7 @@ export default function KyushuTravelNightsPage() {
       {/* 3泊4日 */}
       <section className="bg-white rounded-3xl border border-stone-200 shadow-sm overflow-hidden">
         <div className="bg-amber-50 px-6 py-4 border-b border-amber-100">
-          <h2 className="text-2xl font-black font-journal-serif text-amber-900">
-            【3泊4日】福岡 → 熊本 → 鹿児島（九州縦断ルート）
-          </h2>
+          <h2 className="text-2xl font-black font-journal-serif text-amber-900">【3泊4日】福岡 → 熊本 → 鹿児島（九州縦断ルート）</h2>
         </div>
         <div className="p-6 md:p-8 space-y-6">
           <p className="text-stone-700">
@@ -147,7 +143,7 @@ export default function KyushuTravelNightsPage() {
           </p>
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200">
-            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">💰 3泊4日の予算内訳</h3>
+            <h3 className="font-bold text-stone-800 mb-3 border-b-2 border-stone-300 pb-2 inline-block">3泊4日の予算内訳</h3>
             <div className="grid md:grid-cols-2 gap-4 text-sm text-stone-600">
               <ul className="space-y-2">
                 <li className="flex justify-between"><span>🏨 宿泊（博多ビジネス）:</span> <span className="font-bold text-stone-800">5,500円</span></li>
@@ -178,9 +174,7 @@ export default function KyushuTravelNightsPage() {
         <section className="pt-8 border-t border-stone-200">
           <div className="text-center mb-8">
             <span className="text-sm font-bold text-emerald-600 uppercase tracking-widest mb-2 block">Recommend</span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-800">
-              九州旅行の拠点にしたい！おすすめ宿泊施設
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-800">九州旅行の拠点にしたい！おすすめ宿泊施設</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -210,9 +204,7 @@ export default function KyushuTravelNightsPage() {
                   )}
                 </div>
                 <div className="p-3">
-                  <h3 className="text-sm font-bold text-stone-800 line-clamp-1 mb-1 group-hover:text-emerald-700 transition-colors">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-sm font-bold text-stone-800 line-clamp-1 mb-1 group-hover:text-emerald-700 transition-colors">{hotel.hotelName}</h3>
                   {hotel.reviewAverage > 0 && (
                     <div className="text-[10px] font-bold text-amber-500">
                       ★ {hotel.reviewAverage} ({hotel.reviewCount})
@@ -232,9 +224,7 @@ export default function KyushuTravelNightsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「九州旅行 何泊必要？：2泊3日・3泊4日の費用＆福岡→熊本→別府→鹿児島モデルルートの予算内訳」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -313,9 +303,7 @@ export default function KyushuTravelNightsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 九州旅行 何泊必要？エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">九州旅行 何泊必要？エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

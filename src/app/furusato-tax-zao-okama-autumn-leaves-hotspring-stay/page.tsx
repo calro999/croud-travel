@@ -89,9 +89,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            エメラルドグリーンの火口湖を抱く錦秋の大パノラマと、硫黄の香る白濁美肌湯。圧倒的な自然の息吹に包まれる蔵王秋旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">エメラルドグリーンの火口湖を抱く錦秋の大パノラマと、硫黄の香る白濁美肌湯。圧倒的な自然の息吹に包まれる蔵王秋旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             山形県と宮城県の県境にそびえる名峰・蔵王連峰。10月上旬から11月上旬にかけて、蔵王エコーラインやハイラインを走れば、山頂付近から順に山肌が燃えるような赤や黄金に染まり、天候によっては初冠雪の白と紅葉の朱、山麓の緑が同時に広がる奇跡の「三段紅葉」に出会えます。そして蔵王のシンボルである円形の火口湖「御釜（おかま）」は、太陽の光によってエメラルドグリーンから瑠璃色へと神秘的に色を変え、紅葉の岩肌との対比は息を呑む絶景です。そんなダイナミックな山岳観光の後に待っているのが、開湯約1,900年の歴史を誇る「蔵王温泉」。pH1.5〜2.0という日本屈指の強酸性硫黄泉は、高い殺菌作用と古い角質を洗い流すピーリング効果を持ち、肌を滑らかにする「美肌の湯」「美人の湯」として古くから湯治客を魅了してきました。大正ロマンあふれる木造数寄屋造りと自家源泉を誇る「おおみや旅館」、七つの貸切風呂やペット同伴対応の源泉宿「最上高湯 善七乃湯」、そして岩清水料理と木の温もり湯殿が心地よい「季の里」。極上の山形牛すき焼きや郷土名物・芋煮を味わいながら、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質2,000円で予約し、記憶に刻まれる蔵王の秋ステイを満喫しましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  神秘の五色沼「蔵王の御釜」＆蔵王エコーラインの大パノラマ紅葉ドライブ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">神秘の五色沼「蔵王の御釜」＆蔵王エコーラインの大パノラマ紅葉ドライブ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 標高約1,600mに位置する火口湖・御釜。蔵王ロープウェイからの空中散歩やエコーラインのドライブで、黄色や赤に染まる大自然のグラデーションを満喫できます。
@@ -122,9 +118,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  pH1.5〜2.0の日本屈指の強酸性硫黄泉！白濁した湯の花が舞う本物の美肌湯
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">pH1.5〜2.0の日本屈指の強酸性硫黄泉！白濁した湯の花が舞う本物の美肌湯</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 皮膚病や美肌に絶大な効果を持つ酸性・含硫黄温泉。血行を促進して身体を芯から温め、入浴後は肌が生まれ変わったようにつるつるになります。
@@ -137,9 +131,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  とろける極上「山形牛」のすき焼き・ステーキ＆山形名物「芋煮鍋」の秋会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">とろける極上「山形牛」のすき焼き・ステーキ＆山形名物「芋煮鍋」の秋会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 豊かな自然と寒暖差が育んだ最高品質の黒毛和牛・山形牛。旬の里芋と牛肉、醤油ベースの出汁が香る本場の芋煮会席が冷えた身体に染み渡ります。
@@ -174,9 +166,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                       ★ 4.55 <span className="text-stone-400 text-xs">(1,344件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    蔵王温泉　おおみや旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">蔵王温泉　おおみや旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県山形市蔵王温泉46 ｜ ●蔵王温泉バスターミナル～当館まで送迎有。※ご到着時お電話ください／●山形駅～当館での無料送迎有。※3日前迄の完全予約制
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                       ★ 4.47 <span className="text-stone-400 text-xs">(647件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">蔵王温泉　最上高湯　善七乃湯（旧：蔵王温泉　大平ホテル）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県山形市蔵王温泉825 ｜ JR山形駅より定期バス45分／山形蔵王ICより車で25分／山形駅からの無料送迎（予約サイト・EGBY12月～3月）
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
                       ★ 4.58 <span className="text-stone-400 text-xs">(444件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    蔵王温泉　岩清水料理の宿　季の里
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">蔵王温泉　岩清水料理の宿　季の里</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県山形市蔵王温泉1271-1 ｜ ＪＲ山形駅よりバスで４０分／山形自動車道→山形蔵王ＩＣより３０分      蔵王温泉スキー場徒歩５分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】蔵王温泉 おおみや旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】蔵王温泉 おおみや旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoZaoOkamaAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と蔵王温泉 おおみや旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と蔵王温泉 おおみや旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>海風を切り、湖畔を駆け抜ける爽快感。愛車とともに泊まるサイクリストの楽園</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>海風を切り、湖畔を駆け抜ける爽快感。愛車とともに泊まるサイクリストの楽園</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             青い海の上に架かる巨大な斜張橋を自転車で渡る「しまなみ海道」や、どこまでも続く湖岸道路を走る「ビワイチ（琵琶湖一周）」。サイクリングで心地よい汗を流した後は、絶景の天然温泉大浴場で筋肉をほぐし、地元の海鮮や近江牛でエネルギーをチャージ。客室に愛車をそのまま持ち込める専用バイクラックやメンテナンス工具、コインランドリー完備のサイクリストフレンドリー宿が充実しています。楽天ふるさと納税を活用して、アクティブで贅沢な休日を賢くお得に実現しましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    愛車を客室内に安全に持ち込める専用バイクラック＆スタンド完備
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">愛車を客室内に安全に持ち込める専用バイクラック＆スタンド完備</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     大切なロードバイクやクロスバイクを部屋の中で保管できる安心感。メンテナンススペースや空気入れ・工具の貸出などサイクリスト目線の設備が整っています。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ライド後の疲労を優しく癒やす展望露天風呂とサウナ
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ライド後の疲労を優しく癒やす展望露天風呂とサウナ</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     瀬戸内海や琵琶湖を一望する展望大浴場で、ペダルを漕ぎ続けた脚と身体をじっくりリフレッシュ。水風呂と外気浴で心身ともに完璧にととのいます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税返礼クーポンでサイクリングツアーや連泊をお得に
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税返礼クーポンでサイクリングツアーや連泊をお得に</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     1日では走りきれないロングライドも、発着地と中間地点の宿でクーポンを活用すれば予算を気にせず快適な2泊3日ステージツアーが組めます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="shimanami_cycling" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>愛媛県今治市ふるさと納税：しまなみ海道四国側拠点・来島海峡大橋を望む絶景展望温泉ホテル</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>愛媛県今治市ふるさと納税：しまなみ海道四国側拠点・来島海峡大橋を望む絶景展望温泉ホテル</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       世界中のサイクリストが憧れるしまなみ海道。今治側の起点に位置し、大迫力の来島海峡大橋と瀬戸内の多島美を一望。名物の来島鯛めしや瀬戸内レモン風呂を満喫できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              しまなみプライムホテル今治
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">しまなみプライムホテル今治</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               2024年3月オープン◇駅徒歩５分◇サウナ付き展望大浴場◇客室セパレート式水回り◇生ビール一杯無料
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              今治アーバンホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">今治アーバンホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               贅沢なひとときを感じる【新館】リーズナブルで快適空間をご提供する【本館】※本館・新館別棟になります※
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              今治ステーションホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">今治ステーションホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ■２０２４年６月グランドオープン■今治駅前徒歩１分■室内引戸で『静かな贅沢』■人工温泉完備
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="onomichi_cycling" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>広島県尾道市ふるさと納税：本州側起点尾道・レトロな尾道水道と倉庫リノベーションホテル</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>広島県尾道市ふるさと納税：本州側起点尾道・レトロな尾道水道と倉庫リノベーションホテル</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       坂の街・尾道の港町情緒が広がるサイクリング拠点。海沿いの遊歩道や尾道ラーメン、瀬戸内の小魚料理を楽しみ、自転車とともにチェックインできる洗練された空間でくつろげます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              尾道国際ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">尾道国際ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【広島食べんさい店グランプリ受賞】尾道駅から無料送迎＆無料駐車場あり！コンビニ徒歩1分で便利
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              尾道第一ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">尾道第一ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【尾道駅から徒歩3分】◆無料駐車場◆しまなみ海道観光＆サイクリングの拠点に＜尾道水道を望む客室あり＞
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              休暇村　大久野島
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">休暇村　大久野島</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               瀬戸内海に浮かぶ周囲４キロの小島。島内700匹以上棲息するウサギの島。忠海港から船で約15分。
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="biwako_cycling" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>滋賀県守山市・長浜市ふるさと納税：琵琶湖ビワイチ・湖畔のサイクリストフレンドリー温泉リゾート</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>滋賀県守山市・長浜市ふるさと納税：琵琶湖ビワイチ・湖畔のサイクリストフレンドリー温泉リゾート</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       日本最大の湖を一周する約200kmのビワイチ。湖岸直結の大型リゾートホテルで、雄大なびわ湖を眺める大浴場と近江牛ディナーを味わい、翌日のライドへの活力を養えます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              グランドメルキュール琵琶湖リゾート＆スパ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">グランドメルキュール琵琶湖リゾート＆スパ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               4月リブランドオープン！全てのお客様が無料で利用できるラウンジ特典付のリゾート
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ジェイホッパーズ琵琶湖ゲストハウス
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ジェイホッパーズ琵琶湖ゲストハウス</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               水遊びや登山に最適の近江舞子！ビーチまで徒歩3分のリゾート系ゲストハウス！
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルテトラ大津．京都
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルテトラ大津．京都</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               JR大津駅直結の上質なホテル。JR京都駅まで2駅9分。
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】しまなみプライムホテル今治を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】しまなみプライムホテル今治を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）としまなみプライムホテル今治の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）としまなみプライムホテル今治の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

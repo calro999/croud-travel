@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            青空や海に映える圧倒的な鳥居の威容。日常を浄化し開運を呼び込む聖地巡礼ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">青空や海に映える圧倒的な鳥居の威容。日常を浄化し開運を呼び込む聖地巡礼ステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             神仏の宿る聖域への入り口として、古来より人々の畏敬と祈りを集めてきた「日本三大鳥居（三大木造・大鳥居）」――瀬戸内海の潮が満ちれば海中に優美に浮かび、引き潮には歩いて根元まで参拝できる世界遺産・安芸の宮島「厳島神社大鳥居」、神体山である三輪山を正面に仰ぎ、高さ32.2mと車道をも跨ぐ圧倒的なスケールを誇る奈良大和の「大神神社大鳥居」、そして平安遷都千百年を記念して建立され京都岡崎のシンボルとして聳える朱塗りの「平安神宮大鳥居」。鳥居をくぐる瞬間に感じる凛とした空気の清らかさは、日常の雑念を払い心を研ぎ澄ましてくれます。格式高いホテルや名旅館で精進料理や門前名物を味わう極上の開運旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  広島県廿日市市宮島ふるさと納税：海に浮かぶ世界遺産の象徴「厳島神社大鳥居」と宮島グランドホテル有もと
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">広島県廿日市市宮島ふるさと納税：海に浮かぶ世界遺産の象徴「厳島神社大鳥居」と宮島グランドホテル有もと</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   潮の満ち引きで姿を変える朱塗りの大鳥居。宮島最古の歴史を誇る名門「宮島グランドホテル 有もと」で、厳島神社まで徒歩3分の好立地と、名物あなごめし・広島牛・瀬戸内牡蠣会席を堪能します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      宮島グランドホテル　有もと
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">宮島グランドホテル　有もと</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>広島県廿日市市宮島町南町364</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  奈良県桜井市ふるさと納税：日本最古の神社・三輪山を仰ぐ高さ32m「大神神社大鳥居」とホテル奈良さくらいの郷
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">奈良県桜井市ふるさと納税：日本最古の神社・三輪山を仰ぐ高さ32m「大神神社大鳥居」とホテル奈良さくらいの郷</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   酒造りの神様としても知られる大神神社。三輪の街並みを見守る巨大鳥居を参拝した後は、地産地消の美食宿「ホテル奈良さくらいの郷」で、本場三輪そうめんや大和ポーク、奈良の銘酒三輪山本を味わいます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル奈良さくらいの郷
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル奈良さくらいの郷</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>奈良県桜井市大字高家2220-1</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府京都市左京区ふるさと納税：岡崎の街にそびえる国登録有形文化財「平安神宮大鳥居」とホテルオークラ京都岡崎別邸
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府京都市左京区ふるさと納税：岡崎の街にそびえる国登録有形文化財「平安神宮大鳥居」とホテルオークラ京都岡崎別邸</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   朱塗りの壮大な大鳥居が迎える文化の杜。南禅寺や東天王岡崎神社を散策した後は、スモールラグジュアリーの極み「ホテルオークラ京都 岡崎別邸」で、日本庭園を望む静寂と至高のフレンチに酔いしれます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルオークラ京都　岡崎別邸
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルオークラ京都　岡崎別邸</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府京都市左京区岡崎天王町26-6</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大仏＆歴史ヒーリング名宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大仏＆歴史ヒーリング名宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   東大寺大仏・鎌倉大仏・高岡大仏。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名園＆大名庭園を愛でる名門宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   兼六園・後楽園・偕楽園。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大水城＆海に浮かぶ名城展望宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   今治城・高松城・中津城。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宮島グランドホテル 有もとを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宮島グランドホテル 有もとの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大鳥居＆聖地パワースポット宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

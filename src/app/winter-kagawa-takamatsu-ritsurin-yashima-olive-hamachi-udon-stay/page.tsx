@@ -249,9 +249,7 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Destination Analysis</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              なぜ冬の高松・屋島が格別なのか？大名庭園の凛とした静寂と1月中旬までの幻の旬魚
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ冬の高松・屋島が格別なのか？大名庭園の凛とした静寂と1月中旬までの幻の旬魚</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               ミシュラン三ツ星の庭園美と、香川県が世界に誇る冬限定オリーブブランドの共宴
             </p>
@@ -313,9 +311,7 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-gradient-to-r from-slate-900 via-teal-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-teal-400 pl-4">
             <span className="text-teal-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -349,16 +345,12 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の高松・屋島で訪れるべき三大名所
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の高松・屋島で訪れるべき三大名所</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sun className="w-5 h-5 text-teal-600" /> 特別名勝 栗林公園
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sun className="w-5 h-5 text-teal-600" /> 特別名勝 栗林公園</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ミシュラン三ツ星の特別名勝。偃月橋や飛来峰からの冬パノラマ、掬月亭の抹茶体験。冬の早朝開園直後は観光客も少なく、静寂の庭園美を独占できます。
               </p>
@@ -368,9 +360,7 @@ export default function KagawaTakamatsuYashimaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-indigo-600" /> 屋島山頂・屋島寺
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-indigo-600" /> 屋島山頂・屋島寺</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 台状の溶岩台地。展望台「獅子の霊巌」からの瀬戸内海初日の出と夜景、四国霊場第84番屋島寺の新春参拝。かわらけ投げで厄除け祈願も楽しめます。
               </p>
@@ -380,9 +370,7 @@ export default function KagawaTakamatsuYashimaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" /> サンポート高松＆高松港
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" /> サンポート高松＆高松港</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 高松港に面したウォーターフロント。赤灯台（せとしるべ）へと続く防波堤遊歩道からの夕日と冬の潮風、小豆島や直島へのフェリーが行き交う旅情あふれる港町風景。
               </p>
@@ -397,9 +385,7 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              高松・屋島の冬旅を彩る厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">高松・屋島の冬旅を彩る厳選宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               瀬戸内海パノラマ・展望温泉・オリーブハマチ＆牛ディナーの名宿
             </p>
@@ -435,9 +421,7 @@ export default function KagawaTakamatsuYashimaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -495,9 +479,7 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の高松を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の高松を満喫する1泊2日モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               讃岐うどん、栗林公園散策、屋島初日の出、オリーブハマチを堪能する充実旅
             </p>
@@ -505,10 +487,8 @@ export default function KagawaTakamatsuYashimaPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-teal-600 text-white text-xs rounded-md font-bold">1日目</span>
-                讃岐うどん巡りと特別名勝栗林公園の冬景色
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-teal-600 text-white text-xs rounded-md font-bold">1日目</span>
+                讃岐うどん巡りと特別名勝栗林公園の冬景色</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 JR高松駅に到着</strong>：駅周辺の人気讃岐うどん店へ直行。冬限定の具だくさん「しっぽくうどん」で身体を温める。</li>
                 <li><strong className="text-slate-900">13:00 国の特別名勝「栗林公園」へ</strong>：南湖に映る雪吊りの松、飛来峰からのパノラマ、偃月橋を散策。</li>
@@ -519,10 +499,8 @@ export default function KagawaTakamatsuYashimaPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
-                屋島山頂初日の出・屋島寺初詣と港町ドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
+                屋島山頂初日の出・屋島寺初詣と港町ドライブ</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">06:45 屋島「獅子の霊巌」展望台へ</strong>：瀬戸内海を見下ろす山頂から神々しい日の出と澄んだ多島美を鑑賞。</li>
                 <li><strong className="text-slate-900">08:00 四国霊場第84番「屋島寺」新春参拝</strong>：朱塗りの本堂と蓑山大明神を参拝し、新年開運と家内安全を祈願。</li>
@@ -538,16 +516,12 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Climate Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              高松・屋島へのアクセスと冬の服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">高松・屋島へのアクセスと冬の服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-teal-600" /> 電車・新幹線・飛行機
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-teal-600" /> 電車・新幹線・飛行機</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">新幹線・快速マリンライナー</strong>：山陽新幹線「岡山駅」より快速マリンライナーで瀬戸大橋を渡り高松駅まで約55分。</li>
                 <li><strong className="text-slate-900">高松空港から</strong>：羽田・成田等から就航。空港リムジンバスで高松駅まで約40分。</li>
@@ -556,9 +530,7 @@ export default function KagawaTakamatsuYashimaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-indigo-600" /> 温暖な気候と海風対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-indigo-600" /> 温暖な気候と海風対策</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">冬の気候</strong>：瀬戸内海気候で晴天率が高く、積雪はほとんどありません。平均気温は7〜10℃前後で過ごしやすいです。</li>
                 <li><strong className="text-slate-900">防寒のポイント</strong>：屋島山頂や高松港の沿岸部では海風が吹くと体感温度が下がります。マフラーや防風性のあるジャケットを持参すると快適です。</li>
@@ -571,17 +543,13 @@ export default function KagawaTakamatsuYashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の高松・屋島旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の高松・屋島旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-teal-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-teal-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -592,10 +560,8 @@ export default function KagawaTakamatsuYashimaPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-teal-600" />
-            あわせて読みたい！四国の冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-teal-600" />
+            あわせて読みたい！四国の冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-kagawa-kotohira-onsen-konpira-olive-beef-stay/"

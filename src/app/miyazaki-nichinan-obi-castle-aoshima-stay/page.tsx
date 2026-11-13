@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             天然記念物の奇岩波状岩と縁結びの聖地
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 青島神社＆「鬼の洗濯板」奇岩パノラマ・青島ビーチリゾートサーフステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 青島神社＆「鬼の洗濯板」奇岩パノラマ・青島ビーチリゾートサーフステイ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             周囲約1.5kmの青島全体が境内となっている「青島神社」。島を取り囲むように広がる「鬼の洗濯板」は、中新世の砂岩と泥岩が波の浸食を受けて規則的な階段状に削られた国の天然記念物。弥生橋を渡って島に入ると、亜熱帯植物のビロウ樹が生い茂るジャングルのような神秘の神域が広がります。山幸彦と豊玉姫の神話から縁結びの最強パワースポットとして有名。周辺はSUPやサーフィンの名所としても名高いリゾートビーチです。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        青島天然温泉ルートイングランティアあおしま太陽閣
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">青島天然温泉ルートイングランティアあおしま太陽閣</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ◇サンマリンスタジアム宮崎まで車で7分◇朝食は日向灘オーシャンビュー◇天然温泉◇露天風呂◇夕食◇
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天然温泉”たまゆらの湯”　宮崎観光ホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天然温泉”たまゆらの湯”　宮崎観光ホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         楽天トラベルからお申込み頂いた方専用ラウンジ10/26OPEN★17時からは宮崎の焼酎もご用意♪
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         サウナ付天然温泉完備で泉質は美肌の湯、海を眺めながらご入浴が可能な展望大浴場です
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＡＯＳＨＩＭＡ　ＰＩＣＮＩＣ　ＣＬＵＢ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＯＳＨＩＭＡ　ＰＩＣＮＩＣ　ＣＬＵＢ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         木々に囲まれたプライベート空間で手ぶらで快適なキャンプを楽しめます。
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             イースター島公認の七体の巨像と断崖の霊場
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. サンメッセ日南「七体の完全復刻モアイ像」＆鵜戸神宮「亀石の運玉投げ」
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. サンメッセ日南「七体の完全復刻モアイ像」＆鵜戸神宮「亀石の運玉投げ」</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             日南海岸の丘の上にそびえ立つ「サンメッセ日南」。チリ・イースター島の長老会から特別許可を得て完全復刻された高さ5.5mの7体のモアイ像は、仕事運・金運・恋愛運などそれぞれに異なるパワーが宿るとされます。さらに南へ車を走らせると、断崖絶壁の海食洞の中に朱塗りの本殿が鎮座する「鵜戸神宮（うどじんぐう）」。崖の上から海上の「亀石」のくぼみを目がけて男性は左手、女性は右手で素焼きの「運玉」を投げ入れ、入ると願いが叶うと伝わります。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテル日南北郷リゾート
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテル日南北郷リゾート</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         宮崎の奥座敷、天然温泉を生かした山の上のリゾートホテルです。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＮＡホリデイ・インリゾート宮崎　ｂｙ　ＩＨＧ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         サウナ付天然温泉完備で泉質は美肌の湯、海を眺めながらご入浴が可能な展望大浴場です
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        フェニックス・シーガイア・オーシャン・タワー
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">フェニックス・シーガイア・オーシャン・タワー</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         都会を離れ、心を整える、太陽と海のリゾート
                       </p>
@@ -492,9 +472,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             九州の小京都・飫肥杉と伊東五万石の誇り
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 飫肥城下町（重要伝統的建造物群）飫肥杉武家屋敷散策＆宮崎地頭鶏・名物飫肥天
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 飫肥城下町（重要伝統的建造物群）飫肥杉武家屋敷散策＆宮崎地頭鶏・名物飫肥天</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             伊東氏五万石の城下町として栄え、「九州の小京都」と称される日南市飫肥（おび）。樹齢100年以上の銘木「飫肥杉」を使って復元された飫肥城大手門や、石垣と白壁、立派な薬医門が連なる町並みは国の重要伝統的建造物群保存地区。魚のすり身に豆腐と黒砂糖を混ぜて揚げた名物「飫肥天」や、プリンのような食感の「厚焼き玉子」をつまみ食いしながら散策。夜は炭火で豪快に焼き上げるブランド地鶏「みやざき地頭鶏」や日南獲れの伊勢海老会席を堪能できます。
           </p>
@@ -519,8 +497,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -539,9 +516,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ビジネス旅館　マルミ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネス旅館　マルミ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★リニューアル★　生まれ変わったマルミ　日替わり料理はビジネス長期滞在に大好評♪　
                       </p>
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        皆生温泉　華水亭
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">皆生温泉　華水亭</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">お食事処リニューアルオープン♪日本海の眺望と季節の会席が愉しめる自家源泉の宿
                       </p>
                       <div className="mt-3 text-xs text-stone-300">
@@ -630,9 +603,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＡＯＳＨＩＭＡ　ＳＵＩＫＯＥＮ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＯＳＨＩＭＡ　ＳＵＩＫＯＥＮ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         リニューアルオープンAOSHIMA SUIKOEN&amp;Villa Anela インスタ映え間違い無し
                       </p>
@@ -686,9 +657,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】青島天然温泉ルートイングランティアあおしま太陽閣を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】青島天然温泉ルートイングランティアあおしま太陽閣を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -721,9 +690,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と青島天然温泉ルートイングランティアあおしま太陽閣の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と青島天然温泉ルートイングランティアあおしま太陽閣の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

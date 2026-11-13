@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            七尾湾を茜色に染める夕日と潮の香り——海から湧き出る奇跡の名湯と能登の豊かな山海の幸を味わう復興応援ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">七尾湾を茜色に染める夕日と潮の香り——海から湧き出る奇跡の名湯と能登の豊かな山海の幸を味わう復興応援ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             石川県七尾市、能登半島の中央に位置する和倉（わくら）温泉。平安時代に一羽の傷ついた白鷺が海上で休んでいるところを地元の漁師が見つけ、海中から湧き出す温泉を発見したという開湯伝説を持つ「海の温泉」です。泉質は塩分とミネラルを極めて豊富に含んだ弱アルカリ性高温泉。殺菌効果や保湿効果が非常に高く、体の芯までしっかりと温まり肌を滑らかにしてくれます。目の前には穏やかな波が寄せる七尾湾が広がり、対岸の能登島を望む風光明媚な景色が旅人を魅了します。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県七尾市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  和倉温泉　日本の宿　のと楽
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">和倉温泉　日本の宿　のと楽</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   七尾湾を一望する絶景庭園露天風呂と滝の流れるロビー！能登牛と能登の山海の旬味を味わう大型名旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  和倉温泉 日本の宿 のと楽 —— 海のパノラマと贅沢な湯巡り。多彩な露天風呂と能登の味覚三昧
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">和倉温泉 日本の宿 のと楽 —— 海のパノラマと贅沢な湯巡り。多彩な露天風呂と能登の味覚三昧</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 七尾湾の水平線を見晴らす大浴場と庭園露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">七尾湾の水平線を見晴らす大浴場と庭園露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">海風が心地よく吹き抜ける開放的な露天風呂。波の音に耳を傾けながら、良質な和倉の塩化物泉にゆったりと浸かることができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 能登牛ステーキや旬の鮮魚を盛り込んだ贅沢な会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">能登牛ステーキや旬の鮮魚を盛り込んだ贅沢な会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">厳選された能登牛の陶板焼きや、近海で水揚げされた魚介の姿造り。能登ならではの豊かな恵みを存分に味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ファミリーから三世代まで快適に過ごせる充実の館内設備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ファミリーから三世代まで快適に過ごせる充実の館内設備</h5>
                     <p className="text-stone-600 leading-relaxed">広々としたロビーラウンジやエステ、お土産処。快適な客室でプライベートな休日を満喫できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県七尾市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  和倉温泉　ゆけむりの宿美湾荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">和倉温泉　ゆけむりの宿美湾荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百二十年・海を真正面に望む特等席！七尾湾の潮騒と辻口博啓パティシエとのコラボスイーツ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  和倉温泉 ゆけむりの宿 美湾荘（びわんそう） —— 海に浮かぶような絶景。和の伝統と現代の寛ぎが調和する老舗
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">和倉温泉 ゆけむりの宿 美湾荘（びわんそう） —— 海に浮かぶような絶景。和の伝統と現代の寛ぎが調和する老舗</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 七尾湾と能登島を一望する展望大浴場「真珠風呂」と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">七尾湾と能登島を一望する展望大浴場「真珠風呂」と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">海との一体感を味わえる開放的な湯船。朝焼けに染まる海や夕暮れの幻想的な景色を眺めながらの名湯入浴は至福のひとときです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 辻口博啓氏プロデュース「ル ミュゼ ドゥ アッシュ」のスイーツ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">辻口博啓氏プロデュース「ル ミュゼ ドゥ アッシュ」のスイーツ</h5>
                     <p className="text-stone-600 leading-relaxed">七尾市出身の世界的パティシエ辻口氏のスイーツを館内で楽しめる贅沢。女性や甘党の旅行者にも大人気です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 能登の四季の味覚を職人技で仕立てた本格季節会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">能登の四季の味覚を職人技で仕立てた本格季節会席</h5>
                     <p className="text-stone-600 leading-relaxed">地元の契約漁港から届く新鮮魚介や能登野菜。目にも鮮やかな盛り付けと上品な出汁の味わいが光ります。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">石川県七尾市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  和倉温泉　味な宿　宝仙閣
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">和倉温泉　味な宿　宝仙閣</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   和倉温泉総湯のすぐ隣に位置する好立地！真心のこもったもてなしと料理長自慢の手作り料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  和倉温泉 味な宿 宝仙閣（ほうせんかく） —— 総湯への散策に最適な温もり宿。掛け流しの名湯と能登の海の幸
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">和倉温泉 味な宿 宝仙閣（ほうせんかく） —— 総湯への散策に最適な温もり宿。掛け流しの名湯と能登の海の幸</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和倉温泉のシンボル「総湯」まで徒歩すぐの絶好アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和倉温泉のシンボル「総湯」まで徒歩すぐの絶好アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">地元の人々にも愛される総湯へ気軽に立ち寄れる立地。温泉街の足湯や散策路へのアクセスも抜群です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 檜の香る大浴場と和倉の良質な天然温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">檜の香る大浴場と和倉の良質な天然温泉</h5>
                     <p className="text-stone-600 leading-relaxed">身体の芯から温まる塩分豊富な名湯。手足を伸ばしてゆったりと旅の疲れを解きほぐすことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 旬の刺身や郷土料理が並ぶアットホームな手作り和食膳
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">旬の刺身や郷土料理が並ぶアットホームな手作り和食膳</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が腕を振るう心のこもった料理。温かいおもてなしとともに、能登の味覚を気兼ねなく堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 和倉温泉・能登島＆辻口博啓美術館観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 和倉温泉・能登島＆辻口博啓美術館観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                能登島大橋ドライブと能登島水族館（のとじま水族館）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                能登島大橋ドライブと能登島水族館（のとじま水族館）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 和倉温泉と能登島を結ぶ全長1,050メートルの絶景大橋。島内にはジンベエザメが泳ぐパノラマ大水槽が人気の水族館やガラス美術館があり、ドライブに最適です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                ル ミュゼ ドゥ アッシュ（辻口博啓美術館）でのカフェタイム
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                ル ミュゼ ドゥ アッシュ（辻口博啓美術館）でのカフェタイム</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 七尾湾を望む海沿いに建つ美術館＆パティスリー。能登の厳選食材を使った芸術的なケーキを、海を眺めながら味わえます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                和倉温泉総湯と「湯元の広場」での温泉たまご作り
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                和倉温泉総湯と「湯元の広場」での温泉たまご作り</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の中心にある総湯。広場の源泉湧出口では、温泉水で約15分茹でてトロトロの温泉たまごを作る名物体験が楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              石川県七尾市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">石川県七尾市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】和倉温泉 日本の宿 のと楽を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】和倉温泉 日本の宿 のと楽を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と和倉温泉 日本の宿 のと楽の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と和倉温泉 日本の宿 のと楽の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -266,10 +266,8 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-rose-500 shrink-0" />
-              冬の長崎が魅せる極彩色の光の祝祭と港町のロマン
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-rose-500 shrink-0" />
+              冬の長崎が魅せる極彩色の光の祝祭と港町のロマン</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,9 +287,7 @@ export default function NagasakiCityWinterPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の長崎を満喫する絶景夜景ホテル＆異国情緒の名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の長崎を満喫する絶景夜景ホテル＆異国情緒の名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。夜景眺望・フェス会場アクセス・長崎美食に優れた宿を厳選
             </p>
@@ -320,9 +316,7 @@ export default function NagasakiCityWinterPage() {
                     <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
                       <div>
                         <span className="text-xs font-semibold text-rose-600 block mb-0.5">{h.access}</span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       </div>
                       <div className="flex items-center gap-1 bg-amber-50 px-3 py-1 rounded-lg border border-amber-200">
                         <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
@@ -394,10 +388,8 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Packing</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-rose-500 shrink-0" />
-              12月・1月の気温推移と長崎の坂道散策・夜景鑑賞防寒ガイド
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-rose-500 shrink-0" />
+              12月・1月の気温推移と長崎の坂道散策・夜景鑑賞防寒ガイド</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -443,38 +435,30 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photography Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-rose-500 shrink-0" />
-              1000万ドルの光を美しく撮る！稲佐山夜景＆ランタンフェス撮影攻略
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-rose-500 shrink-0" />
+              1000万ドルの光を美しく撮る！稲佐山夜景＆ランタンフェス撮影攻略</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-rose-600" />
-                稲佐山展望台のすり鉢パノラマ
-              </h3>
+              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-600" />
+                稲佐山展望台のすり鉢パノラマ</h3>
               <p className="leading-relaxed">
                 日没後15〜30分の「ブルーアワー」がベスト。空に深い藍色が残る時間帯に撮ると、長崎港の地形と街の温かな灯りのコントラストが美しく映えます。風が強いため手ブレ防止に両脇をしっかり締めて撮影を。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-rose-600" />
-                眼鏡橋の黄色いランタンリフレクション
-              </h3>
+              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-600" />
+                眼鏡橋の黄色いランタンリフレクション</h3>
               <p className="leading-relaxed">
                 中島川に架かる眼鏡橋周辺は黄色いランタンが彩る名所。川岸の遊歩道に降りて水面すれすれから狙うと、二連アーチと水面に揺れる黄金の光が重なる幻想的なシンメトリー構図が完成します。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-rose-600" />
-                湊公園の巨大干支オブジェと紅提灯
-              </h3>
+              <h3 className="font-bold text-rose-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-600" />
+                湊公園の巨大干支オブジェと紅提灯</h3>
               <p className="leading-relaxed">
                 メイン会場の湊公園では、頭上を埋め尽くす真っ赤な提灯越しに巨大な干支メインオブジェを見上げる広角アングルが圧巻。夕暮れ時の17時過ぎは提灯の光が鮮やかに発色します。
               </p>
@@ -486,28 +470,22 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Souvenirs</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-rose-500 shrink-0" />
-              長崎の冬を彩る異国情緒の美食＆老舗銘菓・角煮まんお土産
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-rose-500 shrink-0" />
+              長崎の冬を彩る異国情緒の美食＆老舗銘菓・角煮まんお土産</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-rose-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-rose-500" />
-                熱々の白濁濃厚スープ「本場長崎ちゃんぽん」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-500" />
+                熱々の白濁濃厚スープ「本場長崎ちゃんぽん」</h3>
               <p className="leading-relaxed">
                 寒風の中で街を散策した後にいただく本場のちゃんぽんは至高の温もり。豚骨と鶏ガラを強火で炊き上げた白濁スープに、冬の牡蠣、イカ、豚肉、たっぷりのキャベツの甘みが溶け出します。もちもちの太麺に濃厚スープが絡み、一口すするごとに体の芯から温まる幸福感に包まれます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-rose-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-rose-500" />
-                長崎カステラ＆角煮まんじゅうの絶品土産
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-500" />
+                長崎カステラ＆角煮まんじゅうの絶品土産</h3>
               <p className="leading-relaxed">
                 創業数百年の伝統を誇る「福砂屋」の手焼きカステラ（ざらめ糖の食感が絶妙）や、ふっくら生地にとろける豚角煮を挟んだ「岩崎本舗の長崎角煮まんじゅう」は長崎土産の最高峰。さらに、卓袱料理のデザートとして愛される「びわゼリー」や長崎和牛の旨味が凝縮されたしぐれ煮など、歴史ある港町ならではの美味を持ち帰ることができます。
               </p>
@@ -519,10 +497,8 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-rose-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-rose-400 shrink-0" />
-              ランタンフェスと稲佐山夜景を満喫する長崎1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-rose-400 shrink-0" />
+              ランタンフェスと稲佐山夜景を満喫する長崎1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -577,18 +553,14 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の長崎・ランタンフェスティバル旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の長崎・ランタンフェスティバル旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -601,9 +573,7 @@ export default function NagasakiCityWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-rose-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！長崎・九州の人気イルミネーション＆温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！長崎・九州の人気イルミネーション＆温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

@@ -297,10 +297,8 @@ export default function AwajishimaWinterPage() {
             <Eye className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 鳴門海峡の激流育ち「淡路島3年とらふぐ」＆紀淡海峡絶景温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】<br className="hidden sm:inline" />
-            紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月淡路島洲本温泉の初冬海景と淡路島3年とらふぐ】<br className="hidden sm:inline" />
+            紀淡海峡パノラマ露天と冬の絶品3年とらふぐ＆淡路牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             鳴門海峡の荒波に鍛え抜かれた冬の最高峰ブランド「淡路島3年とらふぐ」。通常2年のところ3年かけて育てられた極上の身の締まりと濃厚白子。水平線と一体になる洲本温泉の絶景インフィニティ露天風呂と、淡路牛ステーキに酔いしれる初冬の極上リゾート。
           </p>
@@ -326,9 +324,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Awaji 3-Year Torafugu & Sumoto Horizon</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                紀淡海峡の水平線から昇る朝日と、鳴門の激流が育んだ奇跡のフグ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">紀淡海峡の水平線から昇る朝日と、鳴門の激流が育んだ奇跡のフグ</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -343,10 +339,8 @@ export default function AwajishimaWinterPage() {
           
           <div className="bg-sky-50/70 rounded-2xl p-5 border border-sky-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-700" />
-                11月・12月淡路島洲本温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-sky-700" />
+                11月・12月淡路島洲本温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月解禁「淡路島3年とらふぐ」てっさ・てっちり・白子焼き・紀淡海峡インフィニティ露天風呂・A5ランク淡路牛ステーキ・神戸三宮から高速バス80分の好アクセス
               </p>
@@ -397,9 +391,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Brand Pufferfish</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                なぜ「3年」なのか？鳴門の荒波と巨大白子が証明する唯一無二の価値
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">なぜ「3年」なのか？鳴門の荒波と巨大白子が証明する唯一無二の価値</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -418,9 +410,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Horizon Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                紀淡海峡と一体化するインフィニティ露天風呂と「うるおいの湯」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">紀淡海峡と一体化するインフィニティ露天風呂と「うるおいの湯」</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -439,9 +429,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Gastronomic Harmony</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                神戸ビーフの素牛「淡路牛」と3年とらふぐの極上コラボレーション
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">神戸ビーフの素牛「淡路牛」と3年とらふぐの極上コラボレーション</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function AwajishimaWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-sky-700" />
               <span>Rakuten Travel Official API Verified</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい洲本温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい洲本温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。オーシャンビュー露天と3年とらふぐ会席で高評価を獲得している宿を厳選。
             </p>
@@ -500,9 +486,7 @@ export default function AwajishimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -563,9 +547,7 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Island Exploration</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                温暖な淡路島の初冬散策：洲本城跡と大浜海岸・水仙便り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">温暖な淡路島の初冬散策：洲本城跡と大浜海岸・水仙便り</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -595,29 +577,21 @@ export default function AwajishimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Suggested Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 神戸・大阪発〜淡路島洲本温泉 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 神戸・大阪発〜淡路島洲本温泉 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-sky-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-sky-800 uppercase tracking-wider">【1日目】明石海峡大橋を渡り淡路島へ〜パノラマ露天風呂とフグ会席</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:30 神戸・三宮から車または高速バスで淡路島へ → 淡路島バーガーランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:30 神戸・三宮から車または高速バスで淡路島へ → 淡路島バーガーランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 明石海峡大橋のダイナミックな海景を渡り、淡路島特産の甘い玉ねぎと淡路牛を使ったグルメを味わう。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 洲本温泉の名宿にチェックイン → 紀淡海峡パノラマ露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 洲本温泉の名宿にチェックイン → 紀淡海峡パノラマ露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 海と空が繋がるインフィニティ露天風呂で「うるおいの湯」を堪能。夕暮れどきの海原を眺めて心身をリセット。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 淡路島3年とらふぐフルコース＆極上淡路牛ステーキ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 淡路島3年とらふぐフルコース＆極上淡路牛ステーキ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 コリコリ食感のてっさ、巨大白子の香ばしい焼き物、てっちり鍋と雑炊、ジューシーな淡路牛を地酒とともに満喫。
               </p>
@@ -625,15 +599,11 @@ export default function AwajishimaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】水平線の朝日鑑賞〜洲本城跡とクラフトサーカス散策</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                06:45 露天風呂から水平線の朝日を鑑賞 → 地元食材の和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">06:45 露天風呂から水平線の朝日を鑑賞 → 地元食材の和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 空が茜色から黄金色へと輝くサンライズを湯船から愛でる感動の朝。淡路島玉ねぎスープや干物の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 洲本城跡からの展望 ＆ 西海岸のシーサイドマーケット散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 洲本城跡からの展望 ＆ 西海岸のシーサイドマーケット散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 戦国ロマンの石垣を見学し、淡路島西海岸のカフェや産直市場でお土産の玉ねぎやスイーツを購入して帰路へ。
               </p>
@@ -656,10 +626,8 @@ export default function AwajishimaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -674,9 +642,7 @@ export default function AwajishimaWinterPage() {
         <section className="bg-sky-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-sky-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい近畿・瀬戸内の冬・美食温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい近畿・瀬戸内の冬・美食温泉特集</h2>
             <p className="text-xs sm:text-sm text-sky-100/90 leading-relaxed">
               11月・12月ならではの旬の味覚や海絶景を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

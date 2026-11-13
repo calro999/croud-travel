@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>湯上がりの肌が驚くほどしっとり滑らか。全国屈指の「美肌の聖地」へ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>湯上がりの肌が驚くほどしっとり滑らか。全国屈指の「美肌の聖地」へ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             ナトリウム-炭酸水素塩泉や硫酸塩泉など、角質をやわらげて余分な皮脂や汚れを洗い流す「クレンジング効果」と、肌に潤いを補給する「保湿効果」を併せ持つ美肌の名湯。入浴した瞬間に肌にまとわりつくようなとろみのある湯触りは、まさに天然の美容液そのものです。楽天ふるさと納税を活用して、身体の内外から美しくなるとっておきのご褒美温泉旅へ。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    天然の美容液と呼ばれる高濃度・高泉質の自家源泉かけ流し
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">天然の美容液と呼ばれる高濃度・高泉質の自家源泉かけ流し</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     加水・加温なしのピュアな源泉を引いた湯舟で、肌が生まれ変わるような極上の浴感を体験。飲泉可能な宿では身体の内側からもデトックスを促進します。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    名物「温泉湯豆腐」やコラーゲンたっぷり美肌会席
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">名物「温泉湯豆腐」やコラーゲンたっぷり美肌会席</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     嬉野温泉の弱アルカリ泉でコトコト煮込むことで豆腐が溶け出し、豆乳スープのようになる温泉湯豆腐など、美肌湯の恵みを食でも丸ごと堪能できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    女性の一人旅や母娘旅、女子旅グループで賢くふるさと納税枠消化
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">女性の一人旅や母娘旅、女子旅グループで賢くふるさと納税枠消化</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     エステ付きプランやオーガニックアメニティ完備の宿も多く、リフレッシュに最適。返礼クーポンで実質2,000円で最高峰のスパ体験が実現します。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="ureshino_bihada" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>佐賀県嬉野市ふるさと納税：嬉野温泉・日本三大美肌の湯の筆頭・ぬめりのある重曹泉と名物湯豆腐</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>佐賀県嬉野市ふるさと納税：嬉野温泉・日本三大美肌の湯の筆頭・ぬめりのある重曹泉と名物湯豆腐</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       ナトリウムを多く含む重曹泉で、皮脂を乳化させて洗い流す効果が抜群。湯上がりのしっとり感は感動的で、老舗旅館ではとろける温泉湯豆腐と佐賀牛の絶品会席を味わえます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              嬉野温泉　旅館　吉田屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">嬉野温泉　旅館　吉田屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               新大浴場露天風呂＆テラス＆客室が誕生！日本宿TOP49・アワード8年連続受賞★ミシュラン３☆受賞
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              嬉野温泉　旅館　初音荘
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">嬉野温泉　旅館　初音荘</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               お子様満足度120％保証！お子様連れ特化旅館でお子様との大切な思い出の旅をお届けいたします♪
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              嬉野温泉　割烹旅館　鯉登苑（りとうえん）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">嬉野温泉　割烹旅館　鯉登苑（りとうえん）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【総合★4.5】もっと佐賀旅対象！趣異なる全10室の料理旅館。日本三大美肌の湯嬉野温泉と絶品料理を
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kitsuregawa_bihada" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>栃木県さくら市ふるさと納税：喜連川温泉・硫黄・塩分・鉄分が絶妙に調和した良質な美肌泉</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>栃木県さくら市ふるさと納税：喜連川温泉・硫黄・塩分・鉄分が絶妙に調和した良質な美肌泉</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       早乙女温泉と並び「日本三大美肌の湯」に選定された喜連川温泉。硫黄の香りと肌を滑らかにする塩化物泉が交わり、血行促進と保湿効果に優れた名湯を満喫できます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              喜連川温泉　ゴルフ＆ホテルベルセルバ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">喜連川温泉　ゴルフ＆ホテルベルセルバ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               トロリとした質感の「美人の湯」が自慢！天然温泉の露天風呂が楽しめる、ゴルフ場に隣接したスパリゾート
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              お丸山ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">お丸山ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日本三大美肌の湯、喜連川温泉と厳選された地元食材で仕立てた旬の会席料理をお楽しみ下さい。
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              亀の井ホテル　喜連川
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">亀の井ホテル　喜連川</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日本三大美肌の湯『喜連川温泉』＆栃木県が誇るブランド牛『とちぎ和牛』をご堪能ください。
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="tamatsukuri_bihada" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>島根県松江市ふるさと納税：玉造温泉・出雲国風土記にも記された「神の湯」天然化粧水</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>島根県松江市ふるさと納税：玉造温泉・出雲国風土記にも記された「神の湯」天然化粧水</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       製薬会社のリサーチで水分補給力と肌バリア機能の高さが実証された玉造温泉。玉湯川沿いの桜並木と風情ある温泉街を歩き、出雲大社参拝とセットで巡る美肌祈願ステイが人気です。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              玉造温泉　源泉かけ流しの宿　湯陣　千代の湯
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">玉造温泉　源泉かけ流しの宿　湯陣　千代の湯</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               最大3,000円クーポン配布中！レトロな雰囲気、源泉かけ流しの貸切風呂と大浴場・露天風呂が好評♪
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              玉造温泉　～曲水の庭～　ホテル玉泉
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">玉造温泉　～曲水の庭～　ホテル玉泉</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               2025年、76室を「畳にベッド」の上質な客室へと改修し、大浴場に「整いスペース」を新設しました！
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              玉造温泉　ＲＹＯＫＡＮ　ＯＱＯＱ　（旧：玉井別館）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">玉造温泉　ＲＹＯＫＡＮ　ＯＱＯＱ　（旧：玉井別館）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ＜2025年9月館内一部リニューアル＞オールインクルーシブとキッズスペースで大人もお子様も大歓迎！
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】嬉野温泉 旅館 吉田屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】嬉野温泉 旅館 吉田屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と嬉野温泉 旅館 吉田屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と嬉野温泉 旅館 吉田屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

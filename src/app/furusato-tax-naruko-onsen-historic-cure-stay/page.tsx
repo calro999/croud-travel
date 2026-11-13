@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            千百年の歴史を誇る奥州の三名湯、立ち上る硫黄の香り——鳴子温泉郷で心と体を解きほぐす本格湯治旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">千百年の歴史を誇る奥州の三名湯、立ち上る硫黄の香り——鳴子温泉郷で心と体を解きほぐす本格湯治旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             宮城県北部、江合川の清流沿いに広がる鳴子温泉郷は、鳴子・東鳴子・川渡・中山平・鬼首の5つの温泉地からなる東北屈指の巨大温泉郷です。承和4年（837年）の鳥谷ヶ森大噴火によって熱湯が噴出したと伝えられ、千百余年の歴史を誇ります。その最大の特徴は驚異的な泉質の豊かさ。日本に存在する10種類の主泉質のうち、実に8種類がこの狭い地域に集中しており、宿ごとに全く異なる色・香り・肌触りの湯を楽しめる「生きた温泉博物館」です。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             温泉街には伝統工芸品「鳴子こけし」の工房が並び、カランコロンと下駄の音を響かせながら外湯「滝の湯」や「早稲田桟敷湯」をめぐる情緒あふれる風景が広がります。さらに紅葉の名所として名高い「鳴子峡」の絶景や、仙台牛・みやぎ美澄豚、地元の山菜など宮城の美食も旅の大きな楽しみ。宮城県大崎市へのふるさと納税を活用すれば、30%相当のトラベルクーポンにより名門旅館や最新リゾートホテルへお得に宿泊でき、本物の名湯を心ゆくまで堪能できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（鳴子温泉郷をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（鳴子温泉郷をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">宮城県大崎市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鳴子温泉　湯元　吉祥（共立リゾート）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鳴子温泉　湯元　吉祥（共立リゾート）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   高台から温泉街を見下ろす共立リゾートの和モダン宿！源泉掛け流しの四つの無料貸切風呂と宮城の山海会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鳴子温泉 湯元 吉祥（共立リゾート） —— 伝統の温泉街に誕生した洗練のモダン湯宿。多彩な湯処と無料サービス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鳴子温泉 湯元 吉祥（共立リゾート） —— 伝統の温泉街に誕生した洗練のモダン湯宿。多彩な湯処と無料サービス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 予約不要・無料で何度でも入れる四つの源泉掛け流し貸切風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">予約不要・無料で何度でも入れる四つの源泉掛け流し貸切風呂</h5>
                     <p className="text-stone-600 leading-relaxed">檜風呂や岩風呂など趣の異なる4つの貸切風呂。空いていれば何度でも自由に利用でき、大切な人と気兼ねなく鳴子の名湯をプライベートに満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 開放感あふれる大浴場と庭園露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">開放感あふれる大浴場と庭園露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">自家源泉から引く滑らかな湯。広々とした内湯と自然の風を感じる露天風呂で、旅の疲れを心地よく癒やすことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 宮城の食材を盛り込んだ豪華和食会席と夜鳴きそば
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">宮城の食材を盛り込んだ豪華和食会席と夜鳴きそば</h5>
                     <p className="text-stone-600 leading-relaxed">旬の山海の幸を美しく盛り付けた夕食コース。湯上がり処のアイスや乳酸菌飲料、夜食のあっさり醤油ラーメン「夜鳴きそば」など、共立リゾートならではの充実した無料サービスが大好評です。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">宮城県大崎市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鳴子温泉　源蔵の湯　鳴子観光ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鳴子温泉　源蔵の湯　鳴子観光ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業四百年の伝統を守る老舗旅館！美肌の乳白色硫黄泉「源蔵の湯」と宮城の豊かな郷土会席料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鳴子温泉 源蔵の湯 鳴子観光ホテル —— 鳴子の象徴たる名門旅館。とろみのある白濁硫黄泉と心温まるおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鳴子温泉 源蔵の湯 鳴子観光ホテル —— 鳴子の象徴たる名門旅館。とろみのある白濁硫黄泉と心温まるおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> とろりとした肌触りの乳白色硫黄泉「源蔵の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">とろりとした肌触りの乳白色硫黄泉「源蔵の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">創業以来湧き出続ける自家源泉。空気に触れることで美しい乳白色に変化するアルカリ性の硫黄泉は、角質をやさしく落とし肌を整える至極の美肌湯です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鳴子温泉駅徒歩3分の便利な立地と純和風の落ち着き
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鳴子温泉駅徒歩3分の便利な立地と純和風の落ち着き</h5>
                     <p className="text-stone-600 leading-relaxed">温泉街の中心に位置し、駅や外湯、こけし通りへの散策に最適。館内は清潔感にあふれ、ゆったりとした和室でくつろぎの時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 宮城の旬素材と三陸の海の幸を味わう本格会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">宮城の旬素材と三陸の海の幸を味わう本格会席</h5>
                     <p className="text-stone-600 leading-relaxed">地元・大崎平野で収穫された美味しいお米や宮城のブランド牛、三陸直送の新鮮魚介が並ぶ豪華会席。伝統旅館ならではの上品な味付けが好評です。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">宮城県大崎市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  鳴子風雅
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">鳴子風雅</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   鳴子の自然に佇む大人のための温泉リゾート！名湯の癒やしとライブキッチンで焼き上げるみやぎ美澄豚グリル会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  鳴子風雅 —— 静寂と美食に癒やされる大人の隠れ家。モダンなデザイン空間と五感を刺激する創作ディナー
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">鳴子風雅 —— 静寂と美食に癒やされる大人の隠れ家。モダンなデザイン空間と五感を刺激する創作ディナー</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 静かな大人の時間を楽しむ和モダンリノベーション空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">静かな大人の時間を楽しむ和モダンリノベーション空間</h5>
                     <p className="text-stone-600 leading-relaxed">全館が落ち着いたモダンデザインに統一されたスタイリッシュな宿。ライブラリーラウンジやバー、テラスなど、大人が静かにリラックスできる空間が充実しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鳴子の名湯を満喫する大浴場と貸切露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鳴子の名湯を満喫する大浴場と貸切露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">豊かな湯量を誇る鳴子の湯を引いた温泉大浴場。日頃のストレスを解きほぐす柔らかな湯と、四季折々の自然の移ろいを感じられる湯浴みが魅力です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ライブキッチンで仕上げるみやぎ美澄豚と宮城の美食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ライブキッチンで仕上げるみやぎ美澄豚と宮城の美食</h5>
                     <p className="text-stone-600 leading-relaxed">レストランの鉄板カウンターで焼き上げられる地元ブランド豚や特選牛のグリル。見た目も華やかな創作会席が特別な旅の夜を華麗に演出します。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            鳴子温泉街のこけし散歩＆鳴子峡絶景観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">鳴子温泉街のこけし散歩＆鳴子峡絶景観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 紅葉の絶景「鳴子峡」と大深沢遊歩道ハイク
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 紅葉の絶景「鳴子峡」と大深沢遊歩道ハイク</h3>
               <p className="text-stone-700 text-sm leading-relaxed">深さ約100メートルの大峡谷が紅葉で錦に染まる東北屈指の絶景スポット「鳴子峡」。見晴台から眺める「大深沢橋」と電車の通過シーンはまさに絵画のような美しさ。遊歩道でのハイキングも心地よい森林浴になります。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 滝の湯の酸性泉と共同浴場めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 滝の湯の酸性泉と共同浴場めぐり</h3>
               <p className="text-stone-700 text-sm leading-relaxed">鳴子温泉神社の境内下にある共同浴場「滝の湯」（入浴料300円）。白濁した強酸性の硫黄泉が木樋から打たせ湯として注がれる昔ながらの共同浴場で、温泉ファンなら一度は入るべき名所です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 鳴子こけし通りでの絵付け体験と栗だんご
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 鳴子こけし通りでの絵付け体験と栗だんご</h3>
               <p className="text-stone-700 text-sm leading-relaxed">駅前通りに軒を連ねるこけし工房では、自分だけのこけしを作れる絵付け体験が人気。また、蒸したてアツアツのお餅にみたらし餡がたっぷりかかった深瀬の「栗だんご」は必食のご当地スイーツです。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              宮城県大崎市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">宮城県大崎市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳴子温泉 湯元 吉祥を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳴子温泉 湯元 吉祥を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳴子温泉 湯元 吉祥の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳴子温泉 湯元 吉祥の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

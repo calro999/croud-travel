@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              開湯600年！リノベーションで美しく生まれ変わった温泉街と長門の名湯
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">開湯600年！リノベーションで美しく生まれ変わった温泉街と長門の名湯</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             室町時代に大寧寺の定庵禅師が住吉大明神からのお告げによって発見したとされる山口県最古の名湯「長門湯本温泉」。近年、星野リゾートと協働した温泉街リノベーションによって、清流・音信川（おとずれがわ）を中心に川床テラスや足湯、飛び石、竹林の階段が整備され、日本で最も風情ある温泉街へと進化しました。秋には川沿いのカエデやモミジが美しくライトアップされ、幻想的な夜のそぞろ歩きが楽しめます。散策後は、歴代の要人や皇族をお迎えしてきた名門旅館で、本場山口のとらふぐや長州黒かしわをふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                音信川（おとずれがわ）の川床テラス＆紅葉ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                音信川（おとずれがわ）の川床テラス＆紅葉ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 川のせせらぎを聞きながらくつろげる川床テラスや飛び石。夜には温泉街全体がやわらかな光で照らされ、川面に映る紅葉と竹林のコントラストが情緒をかき立てます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                日本屈指の絶景「元乃隅神社」の123基の赤鳥居と日本海
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                日本屈指の絶景「元乃隅神社」の123基の赤鳥居と日本海</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 長門湯本温泉から車で約30分。青い日本海と断崖に向かって123基の朱塗りの鳥居が連なる元乃隅神社（もとのすみじんじゃ）は、世界が絶賛する絶景スポットです。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                秋・冬の本場山口「とらふぐ」フルコース＆長州牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                秋・冬の本場山口「とらふぐ」フルコース＆長州牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋から旬を迎えるとらふぐの薄造り（てっさ）、ふぐちり鍋、香ばしいひれ酒、ジューシーな地鶏「長州黒かしわ」や長州牛の陶板焼きなど贅沢な長門の美味を堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.78 <span className="text-stone-400 text-xs">(1468件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    山口県　長門湯本温泉　大谷山荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">山口県　長門湯本温泉　大谷山荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山口県長門市深川湯本2208 ｜ お車で角島・JR新山口駅へ60分／宇部空港へ70分／絶景元乃隅神社・萩へ35分／JR長門湯本駅より無料送迎5分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.38 <span className="text-stone-400 text-xs">(785件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    長門湯本温泉　楊貴妃浪漫の宿　玉仙閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">長門湯本温泉　楊貴妃浪漫の宿　玉仙閣</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山口県長門市深川湯本1234 ｜ ＪＲ長門湯本駅より徒歩約７分 送迎有、要予約／中国自動車道美祢ＩＣより３０分／路線バス停：門前（もんぜん）より徒歩１分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.25 <span className="text-stone-400 text-xs">(1019件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    長門湯本温泉　山村別館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">長門湯本温泉　山村別館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山口県長門市深川湯本字川尻533-1 ｜ マイカー・中国縦貫自動車道美称ＩＣより長門湯本車で３０分 ＪＲ長門湯本駅より徒歩１３分（送迎あり）
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】山口県 長門湯本温泉 大谷山荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】山口県 長門湯本温泉 大谷山荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と山口県 長門湯本温泉 大谷山荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と山口県 長門湯本温泉 大谷山荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

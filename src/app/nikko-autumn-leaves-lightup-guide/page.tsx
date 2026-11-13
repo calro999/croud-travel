@@ -219,9 +219,7 @@ export default function NikkoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-amber-200">
           <div className="border-l-4 border-amber-600 pl-4 mb-6">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase block">Elevation & Peak Timing</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              日光紅葉2026 標高差800mを駆け下りる見頃推移
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">日光紅葉2026 標高差800mを駆け下りる見頃推移</h2>
           </div>
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-6">
             日光の紅葉最大の特徴は、標高約1,500mの湯元温泉から標高約600mの日光駅・東照宮周辺まで、約900mもの標高差があること。
@@ -239,9 +237,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                     <span className="w-7 h-7 rounded-full bg-amber-600 text-white font-black text-xs flex items-center justify-center">
                       {idx + 1}
                     </span>
-                    <h3 className="font-bold text-base sm:text-lg text-stone-900">
-                      {stage.area}
-                    </h3>
+                    <h3 className="font-bold text-base sm:text-lg text-stone-900">{stage.area}</h3>
                   </div>
                   <div className="flex items-center gap-2">
                     <span className="text-xs px-2.5 py-0.5 rounded-full font-bold bg-stone-200/80 text-stone-700">
@@ -277,9 +273,7 @@ export default function NikkoAutumnLeavesGuidePage() {
         <section className="bg-gradient-to-br from-amber-950 via-stone-900 to-amber-900 text-white rounded-3xl p-6 sm:p-8 shadow-xl border border-amber-700">
           <div className="border-l-4 border-amber-400 pl-4 mb-6">
             <span className="text-amber-400 text-xs font-black tracking-widest uppercase block">Traffic Hack 2026</span>
-            <h2 className="text-xl sm:text-3xl font-black text-amber-100">
-              いろは坂の「大渋滞地獄」を回避する5大鉄則
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-amber-100">いろは坂の「大渋滞地獄」を回避する5大鉄則</h2>
           </div>
           <p className="text-amber-100/80 text-sm sm:text-base leading-relaxed mb-6">
             紅葉シーズンのいろは坂（上り・下り）は、日本でも有数の混雑ポイント。
@@ -301,9 +295,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                       {hack.badge}
                     </span>
                   </div>
-                  <h3 className="font-bold text-base sm:text-lg text-white mb-2">
-                    {hack.title}
-                  </h3>
+                  <h3 className="font-bold text-base sm:text-lg text-white mb-2">{hack.title}</h3>
                   <p className="text-amber-100/70 text-xs sm:text-sm leading-relaxed">
                     {hack.desc}
                   </p>
@@ -325,9 +317,7 @@ export default function NikkoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-amber-200">
           <div className="border-l-4 border-amber-600 pl-4 mb-6">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase block">Night Illuminations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              夜を彩る光と紅葉！中禅寺湖＆輪王寺逍遥園ライトアップ
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">夜を彩る光と紅葉！中禅寺湖＆輪王寺逍遥園ライトアップ</h2>
           </div>
 
           <div className="grid md:grid-cols-2 gap-6">
@@ -336,9 +326,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                 <span className="bg-amber-600 text-white text-xs font-black px-2.5 py-1 rounded-full mb-3 inline-block">
                   日光市街・世界遺産エリア
                 </span>
-                <h3 className="text-lg font-black text-stone-900 mb-2">
-                  日光山輪王寺 逍遥園「秋のライトアップ」
-                </h3>
+                <h3 className="text-lg font-black text-stone-900 mb-2">日光山輪王寺 逍遥園「秋のライトアップ」</h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mb-4">
                   江戸初期に作庭された池泉回遊式庭園「逍遥園」に広がるモミジの名木群を、柔らかな光でライトアップ。池の水面に映り込む「逆さ紅葉」は息を呑む美しさです。
                 </p>
@@ -355,9 +343,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                 <span className="bg-amber-700 text-white text-xs font-black px-2.5 py-1 rounded-full mb-3 inline-block">
                   奥日光・中禅寺湖畔
                 </span>
-                <h3 className="text-lg font-black text-stone-900 mb-2">
-                  中禅寺湖畔 イルミネーション＆英国大使館別荘記念公園
-                </h3>
+                <h3 className="text-lg font-black text-stone-900 mb-2">中禅寺湖畔 イルミネーション＆英国大使館別荘記念公園</h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mb-4">
                   大鳥居周辺や国際避暑地として栄えた洋館がライトアップされ、夜の静謐な中禅寺湖がロマンチックに浮かび上がります。夜間遊覧船（期間限定）からの眺めも格別。
                 </p>
@@ -375,9 +361,7 @@ export default function NikkoAutumnLeavesGuidePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-amber-200">
           <div className="border-l-4 border-amber-600 pl-4 mb-4">
             <span className="text-amber-700 text-xs font-black tracking-widest uppercase block">Selected Ryokan & Hotels</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              紅葉めぐりの拠点に！日光・奥日光・鬼怒川の厳選宿
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">紅葉めぐりの拠点に！日光・奥日光・鬼怒川の厳選宿</h2>
           </div>
           <p className="text-stone-600 text-sm sm:text-base leading-relaxed mb-8">
             いろは坂の混雑を避けるなら「中禅寺湖畔や奥日光の宿に前泊する」のがプロの常套手段。
@@ -417,9 +401,7 @@ export default function NikkoAutumnLeavesGuidePage() {
                   </div>
 
                   <div className="p-5">
-                    <h3 className="font-bold text-base text-stone-900 mb-2 leading-snug line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-base text-stone-900 mb-2 leading-snug line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-amber-900 line-clamp-2 mb-3 bg-amber-100/60 p-2 rounded-lg border border-amber-200">
                         {hotel.hotelSpecial}
@@ -470,9 +452,7 @@ export default function NikkoAutumnLeavesGuidePage() {
               <span className="bg-amber-600 text-white text-[10px] font-black px-2 py-0.5 rounded-full">
                 運転ストレスゼロ
               </span>
-              <h4 className="text-base sm:text-lg font-black text-amber-950">
-                首都圏発！楽天トラベル 日光・いろは坂 紅葉日帰り＆宿泊バスツアー
-              </h4>
+              <h4 className="text-base sm:text-lg font-black text-amber-950">首都圏発！楽天トラベル 日光・いろは坂 紅葉日帰り＆宿泊バスツアー</h4>
               <p className="text-xs sm:text-sm text-stone-600">
                 渋滞でも運転の疲れなし！明智平ロープウェイ乗車券付きや日光東照宮参拝、湯波御膳ランチ付きツアーが秋限定で受付中。
               </p>
@@ -490,18 +470,14 @@ export default function NikkoAutumnLeavesGuidePage() {
 
         {/* 5. 内部リンク＆関連記事 */}
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-8 border border-stone-300/80">
-          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> あわせて読みたい日光＆東日本トラベルガイド
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4 flex items-center gap-2">あわせて読みたい日光＆東日本トラベルガイド</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/nikko-chuzenji-car-free-travel-guide/"
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-500 hover:shadow transition group"
             >
               <span className="text-xs text-amber-700 font-bold block mb-1">車なし観光ガイド</span>
-              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-amber-700 transition">
-                【日光・中禅寺湖 車なし観光 1泊2日】スペーシアX＆東武バス完全攻略 →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-amber-700 transition">【日光・中禅寺湖 車なし観光 1泊2日】スペーシアX＆東武バス完全攻略 →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 紅葉時期のバス乗り継ぎと日光WEBフリーパスの活用術。
               </p>
@@ -512,9 +488,7 @@ export default function NikkoAutumnLeavesGuidePage() {
               className="block p-4 rounded-2xl bg-white border border-stone-200 hover:border-amber-500 hover:shadow transition group"
             >
               <span className="text-xs text-amber-700 font-bold block mb-1">東日本交通比較</span>
-              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-amber-700 transition">
-                【東京〜仙台 高速バス vs 新幹線】料金・所要時間・快適性比較 →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-800 group-hover:text-amber-700 transition">【東京〜仙台 高速バス vs 新幹線】料金・所要時間・快適性比較 →</h3>
               <p className="text-xs text-stone-500 mt-1">
                 東北・北関東への秋旅を最安・最短で移動する交通手段の選び方。
               </p>
@@ -527,9 +501,7 @@ export default function NikkoAutumnLeavesGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と大渋滞回避の時間帯・中禅寺湖ライトアップ＆奥日光硫黄泉の宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

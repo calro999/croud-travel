@@ -280,10 +280,8 @@ export default function KaminoyamaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・かみのやま温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・かみのやま温泉】<br className="hidden sm:inline" />
-            初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山形・かみのやま温泉】<br className="hidden sm:inline" />
+            初冬の干し柿暖簾と開湯五百六十年美肌泉・山形牛すき焼きの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             蔵王連峰の初雪冠雪を望み、軒先をオレンジ色に染める伝統の紅柿すだれ。鶴が傷を癒やした室町開湯の美肌名湯と、とろける極上山形牛を味わう大人の初冬湯治。
           </p>
@@ -301,9 +299,7 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Kaminoyama Winter Scenery & Tsuru no Yu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                蔵王の初冠雪とオレンジ色に輝く紅柿暖簾｜城下町かみのやまの初冬詩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">蔵王の初冠雪とオレンジ色に輝く紅柿暖簾｜城下町かみのやまの初冬詩</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Double Beautifying Healing Mechanism</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「塩の保湿膜×硫酸塩の弾力」かみのやま温泉の泉質と美肌効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「塩の保湿膜×硫酸塩の弾力」かみのやま温泉の泉質と美肌効能</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Yamagata Winter Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山形の初冬を味わい尽くす｜特選山形牛・伝統牛肉芋煮・手打ち山形そば
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山形の初冬を味わい尽くす｜特選山形牛・伝統牛肉芋煮・手打ち山形そば</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Historic Town Walk & Winter Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬のかみのやま散策モデルコース｜上山城下町・武家屋敷と紅柿街道
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬のかみのやま散策モデルコース｜上山城下町・武家屋敷と紅柿街道</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function KaminoyamaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Selected Luxury & Historic Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              蔵王の絶景と名湯に抱かれる｜かみのやま温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">蔵王の絶景と名湯に抱かれる｜かみのやま温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、自家源泉や山形牛会席に強いこだわりを持つ本物の名宿だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function KaminoyamaOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Travel Tips & Access</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のかみのやま冬旅｜寒暖差・服装と山形新幹線の利便性
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のかみのやま冬旅｜寒暖差・服装と山形新幹線の利便性</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                内陸盆地の初冬の寒さと防寒装備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                内陸盆地の初冬の寒さと防寒装備</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月のかみのやま温泉は日中穏やかな日差しがあっても、夕方以降は急激に冷え込み、12月に入ると氷点下まで下がります。散策には風を通さないダウンコートや厚手のアウター、手袋、マフラーが必須です。12月中旬以降は雪道となるため、靴底に深い溝がある防滑・防水スノーブーツでお越しください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                山形新幹線直着の便利さと冬用タイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                山形新幹線直着の便利さと冬用タイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 東京駅から「山形新幹線つばさ」で約2時間30分、乗り換えなしで「かみのやま温泉駅」に到着できるため、冬の雪道運転が不安な方でも安心して訪れられます。車でお越しの場合は東北中央道・山形上山ICから約10分ですが、11月中旬以降は路面凍結のおそれがあるため必ずスタッドレスタイヤを装着してください。
               </p>
@@ -562,18 +542,14 @@ export default function KaminoyamaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山形かみのやま温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山形かみのやま温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function KaminoyamaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Winter Features & Tohoku Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・山形の冬名湯＆極上和牛特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・山形の冬名湯＆極上和牛特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、山形牛やすき焼き、歴史ある名湯をめぐる人気の厳選特集もぜひご覧ください。
             </p>

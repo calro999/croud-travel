@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              「閑さや岩にしみ入る蝉の声」の舞台！奇岩と紅葉が織りなす天空の霊場
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">「閑さや岩にしみ入る蝉の声」の舞台！奇岩と紅葉が織りなす天空の霊場</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             松尾芭蕉が『おくのほそ道』で名句を詠んだことで知られる山形県の名刹「山寺（宝珠山立石寺）」。奇岩怪石がそそり立つ山肌に沿って1015段の石段を登りきると、断崖に突き出た「五大堂」から見下ろす山里一面の鮮やかな紅葉大パノラマが広がります。山寺散策の拠点は、車で約15分の名湯「天童温泉」。全国の将棋駒の9割以上を生産する歴史ある温泉街で、肌触り滑らかなナトリウム・カルシウム-硫酸塩温泉に浸かり、最高峰の「山形牛」や山形の秋の風物詩「芋煮」をふるさと納税トラベルクーポンでお得に味わい尽くしましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                山寺・立石寺 1015段の石段巡礼と五大堂からの絶景
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                山寺・立石寺 1015段の石段巡礼と五大堂からの絶景</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 根本中堂から奥の院まで、紅葉の木漏れ日を浴びながら進む石段の道。崖の上にせり出す五大堂の舞台からは、色づく山々とJR仙山線の走るのどかな風景を一望できます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                将棋駒の街・天童温泉の足湯めぐりと湯の街風情
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                将棋駒の街・天童温泉の足湯めぐりと湯の街風情</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 温泉街のいたるところに将棋の駒をモチーフにしたモニュメントや無料の足湯が点在。無色透明で保温効果の高い名湯は、旅の疲れをじんわりと癒やしてくれます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                とろける霜降り「山形牛」＆秋の郷土料理「山形芋煮」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                とろける霜降り「山形牛」＆秋の郷土料理「山形芋煮」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 昼夜の寒暖差が育む極上のブランド黒毛和牛「山形牛」のステーキやすき焼き、山形県産サトイモと牛肉・醤油仕立ての熱々「芋煮」、旬のラ・フランスのデザートを満喫。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.52 <span className="text-stone-400 text-xs">(1833件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天童温泉　美味求真の宿　天童ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天童温泉　美味求真の宿　天童ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県天童市鎌田本町2-1-3 ｜ 山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.80 <span className="text-stone-400 text-xs">(184件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天童温泉　湯の香　松の湯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天童温泉　湯の香　松の湯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県天童市鎌田本町2-2-54 ｜ 山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.64 <span className="text-stone-400 text-xs">(623件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天童温泉　松伯亭　あづま荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天童温泉　松伯亭　あづま荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山形県天童市鎌田2-2-1 ｜ ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天童温泉 美味求真の宿 天童ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天童温泉 美味求真の宿 天童ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と天童温泉 美味求真の宿 天童ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と天童温泉 美味求真の宿 天童ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -58,10 +58,8 @@ export default function AutumnBudgetSagaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-purple-600" />
-            宿泊代3,000円台！浮いた予算で呼子の活イカ＆極上佐賀牛ステーキへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-purple-600" />
+            宿泊代3,000円台！浮いた予算で呼子の活イカ＆極上佐賀牛ステーキへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             福岡・博多からJR特急かささぎ・リレーかもめで約40分と好アクセスの佐賀駅。バルーンフェスタ期間中（例年10月下旬〜11月上旬）は臨時駅「バルーンさが駅」が設置され、佐賀駅から電車で数分で会場へ直行できます。宿代を賢く3,000円〜4,000円台に抑えて、浮いた予算を本場呼子のイカコースや佐賀銘酒「鍋島」の味わい旅に贅沢に充てましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価★4.53）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルマリターレ創世　佐賀
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルマリターレ創世　佐賀</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>佐賀</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              コンフォートホテル佐賀
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">コンフォートホテル佐賀</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>佐賀</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前アクセス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈佐賀駅前中央〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈佐賀駅前中央〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>佐賀</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（南口至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈佐賀駅南口〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈佐賀駅南口〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>佐賀</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（格式高い老舗）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルニューオータニ佐賀
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルニューオータニ佐賀</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>佐賀</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetSagaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-purple-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-purple-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の佐賀バルーンフェスタ観覧のヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-purple-300"><CheckCircle2 className="w-5 h-5" />
+            秋の佐賀バルーンフェスタ観覧のヒント</h2>
           <p className="text-sm text-purple-100 leading-relaxed">
             バルーンフェスタの競技飛行は風の穏やかな早朝（7時前後）と午後（15時前後）に行われます。特に朝の一斉離陸（ローンチ）は朝焼けの空に無数の気球が浮かび上がる感動の光景！佐賀駅前泊なら早朝の臨時電車で会場入りし、ベストポジションを確保できます。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetSagaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetSagaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 佐賀エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">佐賀エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

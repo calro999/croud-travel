@@ -183,9 +183,7 @@ export default function Page() {
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            空に向かって幾重にも重なる優美な軒の反り。日本屈指の国宝五重塔を巡る旅
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">空に向かって幾重にも重なる優美な軒の反り。日本屈指の国宝五重塔を巡る旅</h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
             地震や風雪に耐え抜き、千年の時を超えて均整美と荘厳さを保ち続ける「日本三大名塔」――修験道の聖地・出羽三山の深い杉木立の中に佇み、白木素木造りの素朴さと力強さが息をのむ美しさを放つ山形の「羽黒山五重塔」、室町時代の大内文化の美意識を結集し池の水面に映る桧皮葺き屋根の曲線美が西の京を象徴する山口の「瑠璃光寺五重塔」、そして平安時代建立で京都府内に現存する最古の木造建造物として豊臣秀吉の醍醐の花見でも名高い京都の「醍醐寺五重塔」。四季折々の自然と調和する名塔の姿を鑑賞し、名湯温泉や旬の味覚を心ゆくまで味わう贅沢なひとときを楽天ふるさと納税でお楽しみください。
           </p>
@@ -194,9 +192,7 @@ export default function Page() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              ふるさと納税×日本三大名塔木造建築美 3つのメリット
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">ふるさと納税×日本三大名塔木造建築美 3つのメリット</h2>
             <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
@@ -208,9 +204,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   01
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  四季の光や雪景色に映える国宝建築美！朝夕の静けさの中で名塔と対峙する贅沢な時間
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">四季の光や雪景色に映える国宝建築美！朝夕の静けさの中で名塔と対峙する贅沢な時間</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   観光客が少ない時間帯に、杉木立のざわめきや池の水鏡とともに五重塔の美しいシルエットを心静かに堪能。
                 </p>
@@ -221,9 +215,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   02
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  庄内浜の寒鱈・のどぐろ、山口のとらふぐや長州黒かしわ、京野菜と出汁の京会席ディナー
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">庄内浜の寒鱈・のどぐろ、山口のとらふぐや長州黒かしわ、京野菜と出汁の京会席ディナー</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   名塔が建つ歴史ある土地で育まれた、海山の極上食材と伝統の割烹料理を心ゆくまで満喫。
                 </p>
@@ -234,9 +226,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   03
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  楽天ふるさと納税宿泊クーポンで老舗温泉旅館やハイクラスホテルをお得に予約
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">楽天ふるさと納税宿泊クーポンで老舗温泉旅館やハイクラスホテルをお得に予約</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   歴史建築巡りや記念日旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
                 </p>
@@ -260,9 +250,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -287,9 +275,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -404,9 +390,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の名所・歴史と絶景ホテル特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の名所・歴史と絶景ホテル特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-zen-temples-mindfulness-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -438,9 +422,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】温海温泉 萬国屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】温海温泉 萬国屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -473,9 +455,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と温海温泉 萬国屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と温海温泉 萬国屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -285,10 +285,8 @@ export default function JozankeiWinterPage() {
             <Eye className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 札幌奥座敷の雪渓谷＆北海道三大蟹・道産和牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月定山渓温泉の雪渓谷美と名湯】<br className="hidden sm:inline" />
-            札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月定山渓温泉の雪渓谷美と名湯】<br className="hidden sm:inline" />
+            札幌の奥座敷・ナトリウム塩化物泉と道産和牛＆北海道冬の三大蟹会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             札幌駅からバスでわずか60分。支笏洞爺国立公園の白銀の原生林と豊平川の深い渓谷に佇む「定山渓温泉」。芯から温まるナトリウム塩化物泉の雪見露天風呂と、冬に旬を迎える極上毛ガニ・ズワイ・タラバの三大蟹、そしてとろける道産和牛を味わい尽くす至福の北国ステイ。
           </p>
@@ -314,9 +312,7 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Jozankei Valley Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                修験僧が拓いた札幌の奥座敷。白銀の渓谷美と塩化物泉の温もり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">修験僧が拓いた札幌の奥座敷。白銀の渓谷美と塩化物泉の温もり</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function JozankeiWinterPage() {
           
           <div className="bg-sky-50/70 rounded-2xl p-5 border border-sky-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-700" />
-                11月・12月定山渓温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-sky-700" />
+                11月・12月定山渓温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 豊平川渓谷の白銀雪景色・湯冷めしにくい極上ナトリウム塩化物泉・冬の北海道三大蟹食べ比べ・とろける霜降り道産黒毛和牛・札幌駅直行バスの快適アクセス
               </p>
@@ -385,9 +379,7 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Scenic Futami Gorge</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                二見吊橋と豊平川の初冬雪景色：エゾ松と奇岩の白銀美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">二見吊橋と豊平川の初冬雪景色：エゾ松と奇岩の白銀美</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -406,35 +398,27 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Thermal Spring Qualities</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                湯冷め知らずの「熱の湯」：ナトリウム塩化物泉の温もりと効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">湯冷め知らずの「熱の湯」：ナトリウム塩化物泉の温もりと効能</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                塩のベールが熱を逃がさない
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                塩のベールが熱を逃がさない</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 定山渓の湯は無色透明でまろやかなナトリウム塩化物泉。温泉に含まれる塩分が肌に皮膜を作り、汗の蒸発を防いでポカポカとした温もりが驚くほど長く持続します。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                豊富な湧出量と多彩な自家源泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                豊富な湧出量と多彩な自家源泉</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 定山渓地区には50箇所以上もの源泉が存在し、毎分8,600リットルもの豊富な湯量を誇ります。各旅館が独自のブレンドや自家源泉かけ流しを大切に守っています。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-600" />
-                冷え性・疲労回復に抜群の効能
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-600" />
+                冷え性・疲労回復に抜群の効能</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 豊かなミネラルが血行を促進し、慢性的な冷え性や神経痛、筋肉痛、関節のこわばりを優しく和らげます。冬の北海道観光で冷えた身体を芯から癒やしてくれます。
               </p>
@@ -450,9 +434,7 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Winter Atmosphere</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の温泉街散策：定山渓神社と白銀のイルミネーション情緒
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の温泉街散策：定山渓神社と白銀のイルミネーション情緒</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -467,9 +449,7 @@ export default function JozankeiWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-extrabold text-sky-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい定山渓温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい定山渓温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               白銀の渓谷美を望む露天風呂、道産和牛と北海道三大蟹を心ゆくまで堪能できる最高峰の宿を厳選。
             </p>
@@ -508,9 +488,7 @@ export default function JozankeiWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -569,26 +547,20 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                北の大地が誇る贅の極み：北海道三大蟹と極上道産黒毛和牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">北の大地が誇る贅の極み：北海道三大蟹と極上道産黒毛和牛</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-700" />
-                冬に甘みと味噌が凝縮する「北海道三大蟹」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-700" />
+                冬に甘みと味噌が凝縮する「北海道三大蟹」</h3>
               <p className="leading-relaxed text-sm">
                 毛ガニ、ズワイガニ、タラバガニ。それぞれの魅力が際立つ北海道の冬。特に初冬の毛ガニは、繊細な甘みの身とクリーミーで濃厚なカニ味噌が詰まった最高峰の美味です。焼きガニの香ばしい薫りや、熱々のカニ鍋で引き出される芳醇な出汁は、北国の寒さを忘れさせてくれる感動の味覚です。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-sky-700" />
-                清らかな水と澄んだ空気で育つ「道産黒毛和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-sky-700" />
+                清らかな水と澄んだ空気で育つ「道産黒毛和牛」</h3>
               <p className="leading-relaxed text-sm">
                 北海道の大自然の中で良質な牧草と清涼な伏流水を飲んで育てられた道産黒毛和牛。赤身の力強い旨味ときめ細やかな霜降りのバランスが絶妙で、ステーキやしゃぶしゃぶで味わうと、口の中で上品な脂の甘みがふわっと溶け出し、上質な余韻が広がります。
               </p>
@@ -604,35 +576,25 @@ export default function JozankeiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：札幌直行バスで行く！雪見露天風呂と北の美食三昧
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：札幌直行バスで行く！雪見露天風呂と北の美食三昧</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-sky-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-sky-800 uppercase tracking-wider">【1日目】札幌駅から定山渓へ〜雪渓谷散策と名湯チェックイン</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:00 札幌駅周辺で名物スープカレーまたは味噌ラーメンランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:00 札幌駅周辺で名物スープカレーまたは味噌ラーメンランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 スパイスの効いた熱々スープカレーで身体を温め、出発の準備を整える。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                14:00 札幌駅前より直行バス「かっぱライナー号」に乗車 → 15:00 定山渓温泉到着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">14:00 札幌駅前より直行バス「かっぱライナー号」に乗車 → 15:00 定山渓温泉到着</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 車窓から山林が次第に白銀へと染まっていく美しい景色を眺めながらスムーズに到着。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 旅館へチェックイン → 豊平川渓谷を望む雪見露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 旅館へチェックイン → 豊平川渓谷を望む雪見露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 ナトリウム塩化物泉で身体の芯まで温まる。静かに雪が降り積もる冬の渓谷美を堪能。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 北海道三大蟹会席＆道産黒毛和牛ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 北海道三大蟹会席＆道産黒毛和牛ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 毛ガニ姿盛りや香ばしい焼きガニ、極上牛ステーキと北海道の地酒を心ゆくまで堪能。
               </p>
@@ -640,15 +602,11 @@ export default function JozankeiWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の清涼露天風呂〜足湯巡りと札幌ホワイトイルミネーションへ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の雪見風呂でリフレッシュ → 地産地消の北海和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の雪見風呂でリフレッシュ → 地産地消の北海和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白銀の山々に朝日が差し込む露天風呂。北海道産米ゆめぴりかといくら、焼き鮭の贅沢朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 定山渓神社や「二見吊橋」の雪景色散策＆温泉街スイーツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 定山渓神社や「二見吊橋」の雪景色散策＆温泉街スイーツ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白銀の吊り橋から渓谷美をパノラマ鑑賞。人気の温泉饅頭やアップルパイを購入しバスで札幌駅へ。
               </p>
@@ -671,10 +629,8 @@ export default function JozankeiWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -689,9 +645,7 @@ export default function JozankeiWinterPage() {
         <section className="bg-sky-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-sky-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北海道・東北の冬・雪見温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北海道・東北の冬・雪見温泉特集</h2>
             <p className="text-xs sm:text-sm text-sky-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

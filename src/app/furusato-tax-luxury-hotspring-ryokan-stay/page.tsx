@@ -104,19 +104,15 @@ export default function Page() {
             <span className="text-xs font-bold text-amber-800 bg-amber-100 px-3 py-1 rounded-full uppercase tracking-wider">
               STRATEGY GUIDE
             </span>
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">
-              控除上限枠をフル活用！普段は手が届きにくい憧れの露天風呂付き客室や老舗料亭旅館へ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mt-3 font-serif">控除上限枠をフル活用！普段は手が届きにくい憧れの露天風呂付き客室や老舗料亭旅館へ</h2>
           </div>
           <div className="space-y-6">
             
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 1
               </span>
-              <span>ポイント①：自己負担実質2,000円で高級旅館の宿泊費を大幅カット</span>
-            </h3>
+              <span>ポイント①：自己負担実質2,000円で高級旅館の宿泊費を大幅カット</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               年収や家族構成に応じた控除上限額内であれば、寄付総額から2,000円を引いた全額が住民税や所得税から控除されます。例えば10万円の寄付なら3万円分、20万円の寄付なら6万円分の宿泊クーポンが手に入り、普段はちょっと贅沢に感じるハイクラス宿の露天風呂付き客室がぐっと身近になります。
             </p>
@@ -124,12 +120,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 2
               </span>
-              <span>ポイント②：有効期限はゆとりの「3年間」！今寄付して来年泊まれる</span>
-            </h3>
+              <span>ポイント②：有効期限はゆとりの「3年間」！今寄付して来年泊まれる</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               食品や果物と違い、楽天トラベルクーポンは発行から3年間有効です。「年末に寄付枠が余っているけれど、直近は忙しくて旅行に行けない」という場合でも、先にクーポンだけ手に入れておき、ゴールデンウィークや秋の紅葉シーズンにゆっくり予約することができます。
             </p>
@@ -137,12 +131,10 @@ export default function Page() {
   
 
           <div className="bg-gradient-to-br from-amber-50/80 to-stone-50 border border-amber-200/80 rounded-2xl p-6 md:p-8 shadow-sm">
-            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif">
-              <span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
+            <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-3 flex items-start gap-3 font-serif"><span className="w-8 h-8 rounded-full bg-amber-700 text-white flex items-center justify-center text-sm font-sans font-black shrink-0">
                 3
               </span>
-              <span>ポイント③：楽天ポイント還元もダブルで獲得できる</span>
-            </h3>
+              <span>ポイント③：楽天ポイント還元もダブルで獲得できる</span></h3>
             <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-11">
               お買い物マラソンや「0と5のつく日」などのキャンペーン中に楽天ふるさと納税で寄付すれば、通常の楽天市場と同じ高倍率ポイントが付与されます。寄付でポイントを稼ぎ、旅行でクーポンを使い、さらに宿泊利用でトラベルポイントも貯まる圧倒的にお得な三重取りが可能です。
             </p>
@@ -160,9 +152,7 @@ export default function Page() {
               群馬県草津町・天下の名湯
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            草津町へのふるさと納税で泊まる、白根山系の強酸性名湯と老舗湯宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">草津町へのふるさと納税で泊まる、白根山系の強酸性名湯と老舗湯宿</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             日本三名泉の筆頭として名高い群馬県草津温泉。毎分3万2,000リットル以上という圧倒的な自然湧出量を誇り、古くから多くの文人墨客や湯治客を癒やしてきました。草津町のふるさと納税トラベルクーポンを使えば、草津温泉街の中心に佇む格式ある湯宿や、効能豊かな源泉を客室専用の露天風呂でかけ流しにする贅沢な滞在が叶います。夜の湯畑ライトアップ散策や湯もみショーなど、温泉情緒をまるごと味わい尽くす旅に最適です。
           </p>
@@ -192,9 +182,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -246,9 +234,7 @@ export default function Page() {
               静岡県河津町・海辺のオールインクルーシブ
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            河津町へのふるさと納税で泊まる、海まで0分の絶景と伊豆の味覚
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">河津町へのふるさと納税で泊まる、海まで0分の絶景と伊豆の味覚</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             早咲きの河津桜で全国に知られる伊豆・河津町。今井浜海岸の波打ち際に佇む宿では、相模灘を一望する抜群のロケーションと、2024年夏にフルリニューアルしたオールインクルーシブの上質な滞在が楽しめます。河津町の返礼クーポンを充当することで、伊豆の伊勢海老や地魚の舟盛り、水平線から昇る朝日を露天風呂から眺める至福の休日が驚くほど身近になります。首都圏から特急踊り子号で直通アクセスできる利便性も魅力です。
           </p>
@@ -278,9 +264,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -332,9 +316,7 @@ export default function Page() {
               兵庫県神戸市・日本最古の歴史湯
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">
-            神戸市へのふるさと納税で泊まる、有馬の赤湯「金泉」と極上の懐石
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-stone-900 mb-4 font-serif">神戸市へのふるさと納税で泊まる、有馬の赤湯「金泉」と極上の懐石</h2>
           <p className="text-stone-700 leading-relaxed mb-8 text-base md:text-lg">
             神話の時代から続く日本最古の温泉地・有馬温泉。太閤秀吉がこよなく愛した赤褐色の含鉄強塩泉「金泉」と、無色透明のラジウム泉「銀泉」という異なる泉質を一箇所で堪能できる世界的にも稀有な名湯です。神戸市のふるさと納税クーポンを活用すれば、歴史ある純和風旅館や六甲山麓の緑に囲まれたラグジュアリーリゾートで、名物の三田牛や明石の海の幸を取り入れた本格懐石を味わいながら、格調高い大人の休息を過ごせます。
           </p>
@@ -364,9 +346,7 @@ export default function Page() {
                   </div>
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-bold text-stone-900 text-lg md:text-xl mb-2 line-clamp-2 font-serif group-hover:text-amber-800 transition">{hotel.hotelName}</h3>
                       <p className="text-stone-600 text-xs mb-3 flex items-center gap-1.5">
                         <svg className="w-3.5 h-3.5 text-amber-600 shrink-0" fill="currentColor" viewBox="0 0 20 20">
                           <path fillRule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clipRule="evenodd" />
@@ -418,30 +398,24 @@ export default function Page() {
           <div className="space-y-4">
             
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>楽天ふるさと納税トラベルクーポンはどうやって使うのですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>楽天ふるさと納税トラベルクーポンはどうやって使うのですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 まずは楽天ふるさと納税で泊まりたい宿のある自治体（例：群馬県草津町、兵庫県神戸市など）の「楽天トラベルクーポン」を選んで寄付します。寄付完了後、通常翌日〜翌々日を目途に楽天IDへクーポンが付与されます。あとは楽天トラベルで対象宿の予約を進める際、予約入力画面でクーポンを選択するだけで自動的に宿泊代金から割引されます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>1回の宿泊で使えるクーポン枚数や金額に制限はありますか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>1回の宿泊で使えるクーポン枚数や金額に制限はありますか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 楽天トラベルでは原則として1予約（1部屋）につき利用できるふるさと納税クーポンは1枚です。ただし、他の楽天トラベルキャンペーンクーポン（宿独自クーポンや5と0のつく日クーポンなど）と併用できる場合が多く、さらにお得に宿泊できるケースがあります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-6 border border-stone-200/80">
-              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5">
-                <span className="text-amber-700 font-serif font-black text-xl">Q.</span>
-                <span>自分の寄付上限額が分からないのですが、どう調べれば良いですか？</span>
-              </h3>
+              <h3 className="text-base md:text-lg font-bold text-stone-900 mb-2 flex items-start gap-2.5"><span className="text-amber-700 font-serif font-black text-xl">Q.</span>
+                <span>自分の寄付上限額が分からないのですが、どう調べれば良いですか？</span></h3>
               <p className="text-stone-700 text-sm md:text-base leading-relaxed pl-7">
                 楽天ふるさと納税のサイト内にある「かんたんシミュレーター」や「詳細シミュレーター」を使えば、年収・家族構成・住宅ローン控除などを入力するだけで数分で上限目安が算出できます。上限額の範囲内であれば、自己負担2,000円のみで宿泊クーポンを獲得できます。
               </p>
@@ -471,9 +445,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【予約済みでも間に合う】「あとから割引」完全攻略ガイド
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【予約済みでも間に合う】「あとから割引」完全攻略ガイド</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 すでに楽天トラベルで予約してしまった宿でも大丈夫！チェックイン前日23:59までなら後からクーポンを適用できる神ワザを解説。
               </p>
@@ -490,9 +462,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【舌鼓を打つ美食旅】高千穂牛・あなご・伊勢海老！ご当地グルメ宿特集</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 旅の主役はやっぱり美味しいご飯！現地でしか食べられない幻の和牛や獲れたて魚介を返礼クーポンで味わう美食ステイ。
               </p>
@@ -509,9 +479,7 @@ export default function Page() {
                 </span>
                 <span className="text-xs text-stone-400 group-hover:text-amber-700 transition">記事を読む →</span>
               </div>
-              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">
-                【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！
-              </h4>
+              <h4 className="font-bold text-stone-900 text-base md:text-lg mb-2 group-hover:text-amber-800 transition font-serif">【愛犬同伴＆プライベートサウナ】贅沢な休日をご褒美ステイ！</h4>
               <p className="text-stone-600 text-xs md:text-sm leading-relaxed">
                 ワンちゃんと一緒に泊まれる温泉宿や、自分だけの完全貸切サウナ付きロッジをふるさと納税で賢くアップグレード。
               </p>
@@ -541,9 +509,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】草津温泉 中村屋旅館＜群馬県＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】草津温泉 中村屋旅館＜群馬県＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -576,9 +542,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と草津温泉 中村屋旅館＜群馬県＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と草津温泉 中村屋旅館＜群馬県＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

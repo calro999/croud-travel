@@ -280,10 +280,8 @@ export default function KatayamazuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上絶景特集｜石川・加賀片山津
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月石川・加賀片山津温泉】<br className="hidden sm:inline" />
-            柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月石川・加賀片山津温泉】<br className="hidden sm:inline" />
+            柴山潟と白山初冠雪パノラマ・11月解禁加能ガニ＆香箱ガニの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日に七度色を変える柴山潟の水鏡に映る霊峰白山の初雪。湖底から自噴する高濃度塩化物泉のポカポカ温まり湯に浸かり、青タグ加能ガニと冬限定香箱ガニを堪能する北陸の贅沢旅。
           </p>
@@ -301,9 +299,7 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Shibayama Lake & Sacred Mt. Hakusan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の柴山潟に映る霊峰白山の純白冠雪と、湖畔の静謐な旅情
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の柴山潟に映る霊峰白山の純白冠雪と、湖畔の静謐な旅情</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Sub-lake Thermal Spring Chemistry</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                湖底から湧き出る高濃度塩化物強塩泉「熱の湯」の驚くべき温浴力
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">湖底から湧き出る高濃度塩化物強塩泉「熱の湯」の驚くべき温浴力</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Gastronomy of Kaga & Noto</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月に味わう加能ガニ・香箱ガニと北陸の極上冬味覚
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月に味わう加能ガニ・香箱ガニと北陸の極上冬味覚</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Kaga Lake & Heritage Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                柴山潟の水鏡と加賀の歴史文化を巡る初冬の片山津おすすめ散策ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">柴山潟の水鏡と加賀の歴史文化を巡る初冬の片山津おすすめ散策ルート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function KatayamazuOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Handpicked 5 Elite Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              片山津温泉で冬の絶景と加能ガニを味わう厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">片山津温泉で冬の絶景と加能ガニを味わう厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               水上楼閣のような展望ホテルから洗練されたモダン宿、源泉元湯の湯宿まで、楽天APIから最新情報を厳選した5軒をご紹介します。
             </p>
@@ -454,9 +442,7 @@ export default function KatayamazuOnsenWinterFeature() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>石川県加賀市片山津温泉</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                     </div>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -515,26 +501,20 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Hokuriku Winter Climate & Driving</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の加賀冬旅の天候と新幹線・車利用の心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の加賀冬旅の天候と新幹線・車利用の心得</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-800" />
-                北陸特有の時雨と防寒・防水靴
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-800" />
+                北陸特有の時雨と防寒・防水靴</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 初冬の北陸は「弁当忘れても傘忘れるな」と言われるほど天気が変わりやすく、急な雨やアラレ、みぞれが降ります。気温は11月で最高12〜15℃、12月に入ると最高6〜9℃、朝晩は0〜3℃前後まで冷え込みます。折りたたみ傘や防水フード付きコート、濡れても滑りにくい防寒靴を用意しましょう。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-cyan-800" />
-                北陸新幹線加賀温泉駅と冬用タイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-cyan-800" />
+                北陸新幹線加賀温泉駅と冬用タイヤ</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 北陸新幹線の加賀温泉駅からは各宿の送迎バスやタクシーで約10分と非常に便利で、雪道運転の心配なくアクセスできます。車の場合は北陸道・片山津ICから約5分ですが、11月下旬以降は北陸道で冬用タイヤ規制がかかることがあるためスタッドレスタイヤ必須です。
               </p>
@@ -550,18 +530,14 @@ export default function KatayamazuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                加賀片山津温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">加賀片山津温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -574,9 +550,7 @@ export default function KatayamazuOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・加賀の冬名湯＆極上カニ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・加賀の冬名湯＆極上カニ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の味覚の王者・加能ガニや越前ガニ、金沢の雪吊りを楽しむ人気特集もぜひチェックしてください。
             </p>

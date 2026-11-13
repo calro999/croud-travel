@@ -58,10 +58,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            1杯数百円の極上うどん巡りと名園美！賢く泊まる秋の高松トリップ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            1杯数百円の極上うどん巡りと名園美！賢く泊まる秋の高松トリップ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             香川・高松の旅はうどん巡り・名所観光ともにコスパが抜群。高松市内のホテルも激戦区ならではのリーズナブルな価格設定で、★4.0以上のクオリティ宿が3,000円台〜4,000円台で予約可能。浮かせた予算で夕食に名物「骨付鳥」と地ビールを豪快に味わいましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（コスパ抜群）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルエリアワン高松シティ（ホテルエリアワングループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエリアワン高松シティ（ホテルエリアワングループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高松（香川）</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル　パールガーデン
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル　パールガーデン</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高松（香川）</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（伝統の安心感）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              高松国際ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">高松国際ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高松（香川）</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（雨でも快適）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リーガホテルゼスト高松
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リーガホテルゼスト高松</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高松（香川）</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              東横ＩＮＮ高松駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ高松駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高松（香川）</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の高松・栗林公園散策の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の高松・栗林公園散策の満喫ポイント</h2>
           <p className="text-sm text-emerald-100 leading-relaxed">
             栗林公園の秋のライトアップは11月下旬に開催。南湖に浮かぶ和船から眺める紅葉はまるで異世界のような美しさです。うどん店は朝営業（6時〜9時オープン）の名店も多いため、早起きして朝うどんからスタートするのが高松満喫の王道です。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「高松：栗林公園の秋紅葉ライトアップと讃岐うどん巡り！格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「高松」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「高松」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

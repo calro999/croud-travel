@@ -108,9 +108,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  ブランド苺のフレッシュ食べ比べから名作ケーキまで！ホテルパティシエの本気スイーツ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">ブランド苺のフレッシュ食べ比べから名作ケーキまで！ホテルパティシエの本気スイーツ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 あまおう、とちおとめ、スカイベリーなど名産地直送の完熟いちごのフレッシュな食べ比べはもちろん、一流パティシエが手掛けるショートケーキ、タルト、マカロン、パフェなど数十種類のストロベリースイーツを心ゆくまで味わえます。
@@ -123,9 +121,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然温泉やプール、クラブラウンジで過ごすワンランク上の優雅なホテルライフ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然温泉やプール、クラブラウンジで過ごすワンランク上の優雅なホテルライフ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 スイーツビュッフェだけでなく、地下から湧き出る天然温泉大浴場や露天風呂、屋内温水プール、リラクゼーションサロン、眺望抜群の客室など、一流ホテルならではの上質な付帯設備で1日中贅沢なリフレッシュが叶います。
@@ -138,9 +134,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  ローストビーフや石窯ピッツァも充実！ランチやディナーとしても大満足のラインナップ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">ローストビーフや石窯ピッツァも充実！ランチやディナーとしても大満足のラインナップ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ホテルのストロベリービュッフェはスイーツだけでなく、じっくり焼き上げたジューシーなローストビーフ、シェフが目の前で仕上げるパスタ、新鮮なサラダバーなどセイボリー（食事メニュー）も超一流。食事としても大満足のクオリティです。
@@ -183,9 +177,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県那須町・日本一のいちご王国！とちおとめ＆スカイベリー食べ放題と那須温泉リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    那須温泉　ホテルエピナール那須
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">那須温泉　ホテルエピナール那須</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     那須高原の雄大な自然に囲まれた総合リゾートホテル。いちごの生産量日本一を誇る栃木県ならではの、地元契約農家から届くとちおとめやスカイベリーをふんだんに使用した大人気のストロベリーフェアを開催。ホテル名物のバイキングレストラン「エルバージュ」では、数十種類のいちごスイーツに加え、握り寿司や那須高原野菜、焼き立てステーキなど豪華な料理が並びます。敷地内から湧き出る天然温泉の大型大浴場や露天風呂、温水プール、キッズコーナーなども完備し、ファミリーからカップルまで圧倒的な満足度を誇る名宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県神戸市・六甲アイランドの洗練ホテル！天然温泉スパ濱泉＆極上ストロベリーフェア
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    神戸ベイシェラトンホテル＆タワーズ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">神戸ベイシェラトンホテル＆タワーズ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     神戸の六甲アイランドに位置し、世界基準のラグジュアリーと和の温もりが融合する名門シェラトンホテル。春先には館内レストラン「ガーデンカフェ」で毎年大人気のストロベリースイーツビュッフェが開催され、華やかな苺スイーツやシェフ特製の本格料理が並びます。最大の魅力は、敷地内の地下1,600mから湧き出る本格的な自家源泉の天然温泉スパ「濱泉（はまいずみ）」。打たせ湯や露天風呂、サウナを完備した優雅な湯処でリフレッシュした後にいただく甘酸っぱいいちごスイーツは、至極の贅沢体験です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     千葉県千葉市・スイーツの最高峰スーパーあまおうショートケーキを味わう伝統の名門ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ホテルニューオータニ幕張
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ホテルニューオータニ幕張</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     東京湾を望む幕張新都心に位置し、ホテルニューオータニの伝統を受け継ぐ洗練されたホスピタリティを誇るシティ＆リゾートホテル。ホテルニューオータニの代名詞とも言える「博多あまおう」を贅沢に使った「スーパーあまおうショートケーキ」やロールケーキ、タルトなどがビュッフェ形式で惜しみなく提供されるストロベリーフェアは、全国から予約が殺到する伝説的イベント。緑豊かな日本庭園や開放的な客室、貝殻型プールなどを備え、都心からのアクセスも良好な都会のオアシスで至福のスイーツステイを堪能できます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】那須温泉 ホテルエピナール那須を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】那須温泉 ホテルエピナール那須を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoStrawberryBuffetSweetsStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と那須温泉 ホテルエピナール那須の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と那須温泉 ホテルエピナール那須の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

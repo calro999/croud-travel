@@ -197,9 +197,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-rose-200/80 space-y-6">
           <div className="border-b border-rose-100 pb-4 text-center md:text-left">
             <span className="text-xs font-bold uppercase tracking-widest text-rose-600">ANNIVERSARY CONCIERGE</span>
-            <h2 className="text-xl md:text-2xl font-bold font-journal-serif text-stone-900 mt-1">
-              箱根カップル記念日旅行で失敗しない「宿選び3つの鉄則」
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-journal-serif text-stone-900 mt-1">箱根カップル記念日旅行で失敗しない「宿選び3つの鉄則」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
@@ -241,10 +239,8 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         {/* 関連ガイド内部リンク */}
         <nav className="bg-rose-100/50 border border-rose-200 rounded-2xl p-5 md:p-6 shadow-sm">
           <div className="flex items-center justify-between mb-3">
-            <h2 className="text-xs md:text-sm font-bold text-rose-950 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-rose-600" />
-              箱根旅行計画の関連ガイド（あわせて読む）
-            </h2>
+            <h2 className="text-xs md:text-sm font-bold text-rose-950 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-rose-600" />
+              箱根旅行計画の関連ガイド（あわせて読む）</h2>
             <span className="text-[10px] text-rose-700 bg-rose-200/60 font-semibold px-2 py-0.5 rounded">
               お役立ち比較
             </span>
@@ -285,9 +281,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         <section className="bg-white rounded-3xl p-6 md:p-10 shadow-sm border border-rose-200/80 space-y-8">
           <div className="border-b border-rose-100 pb-4">
             <span className="text-xs font-bold uppercase tracking-widest text-rose-600">ROMANTIC ITINERARY</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              二人きりの記憶に残る【箱根1泊2日 記念日デートモデルコース】
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">二人きりの記憶に残る【箱根1泊2日 記念日デートモデルコース】</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               混雑を避け、お互いの会話と温泉を最優先にした大人のためのタイムスケジュールです。
             </p>
@@ -331,9 +325,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
               <div className="flex items-center gap-2 text-rose-600 font-bold text-xs uppercase tracking-wider">
                 <span>🏨 FEATURED HOTELS</span>
               </div>
-              <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-                カップル記念日におすすめの箱根露天風呂・ラグジュアリー宿
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">カップル記念日におすすめの箱根露天風呂・ラグジュアリー宿</h2>
             </div>
             <span className="text-xs text-stone-500 font-medium">
               楽天トラベル宿泊プラン・アニバーサリー特典対象
@@ -377,9 +369,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
                     {/* ホテル詳細情報 */}
                     <div className="p-5 space-y-3">
                       <div>
-                        <h3 className="font-bold font-journal-serif text-base md:text-lg text-stone-900 leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="font-bold font-journal-serif text-base md:text-lg text-stone-900 leading-snug">{hotel.hotelName}</h3>
                         {hotel.address1 && hotel.address2 ? (
                           <p className="text-[11px] text-stone-500 mt-1 flex items-center gap-1">
                             <span>📍</span>
@@ -438,9 +428,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         <section className="bg-gradient-to-br from-rose-900 to-stone-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-rose-800 space-y-6">
           <div className="border-b border-rose-800/80 pb-4">
             <span className="text-[11px] font-bold tracking-widest text-rose-300 uppercase">SURPRISE TIPS</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">
-              パートナーを感動させる！サプライズ演出の段取り3ステップ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">パートナーを感動させる！サプライズ演出の段取り3ステップ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 text-xs md:text-sm">
@@ -474,9 +462,7 @@ export default function HakoneCoupleAnniversaryGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と客室露天風呂・フレンチ懐石ディナー＆記念日サプライズ宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

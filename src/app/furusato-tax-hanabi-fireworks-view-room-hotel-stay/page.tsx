@@ -108,9 +108,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  混雑ゼロ＆場所取り不要！人混みを避けて自分たちの部屋でゆったり花火鑑賞
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">混雑ゼロ＆場所取り不要！人混みを避けて自分たちの部屋でゆったり花火鑑賞</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 帰りの電車や駐車場の渋滞を一切気にすることなく、花火の打ち上げギリギリまで部屋で寛ぐことが可能。小さなお子様やご年配の方も安心して迫力満点の花火を鑑賞できます。
@@ -123,9 +121,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  露天風呂に浸かりながらの花火鑑賞！湯船から見上げる大輪の光のアート
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">露天風呂に浸かりながらの花火鑑賞！湯船から見上げる大輪の光のアート</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 温泉に肩まで浸かりながら、夜空に打ち上がる花火と湖面・海面に反射するきらめきを眺める至高の湯浴み。温かい温泉と爽快な夜風が織りなす感動体験が待っています。
@@ -138,9 +134,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  花火の余韻に浸りながら味わう豪華ディナーと冷たい地酒・ビール
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">花火の余韻に浸りながら味わう豪華ディナーと冷たい地酒・ビール</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 伊豆の金目鯛や北海道の海の幸、信州牛など、花火の前後にいただく贅沢な会席やビュッフェ。感動的な花火の思い出とともに乾杯するひとときは格別の美味しさです。
@@ -183,9 +177,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県熱海市・熱海海上花火大会の特等席！目の前の海から打ち上がる大迫力オーシャンビュー
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    熱海温泉　熱海後楽園ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">熱海温泉　熱海後楽園ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     熱海港の突端に位置し、熱海名物の海上花火大会の打ち上げ場所に最も近い抜群のロケーションを誇る名門リゾートホテル。全客室が海に面しており、客室の窓やバルコニーからは夜空と海面を埋め尽くす大迫力のスターマインやフィナーレの「大空中ナイアガラ」を真正面から鑑賞できます。山に囲まれた熱海ならではの重低音の反響が客室にまで心地よく響き渡り、大迫力の臨場感を体感。敷地内の絶景露天風呂やインフィニティ温泉「オーシャンスパ Fuua」とともに、年間を通じて感動の花火ステイが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道壮瞥町・4月〜10月毎夜開催！洞爺湖ロングラン花火大会を全室レイクビュー客室から鑑賞
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    洞爺サンパレス　リゾート＆スパ（グランベルホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">洞爺サンパレス　リゾート＆スパ（グランベルホテルズ＆リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     支笏洞爺国立公園の美しい洞爺湖畔に建ち、道内最大級の屋内プール「Water Land」と絶景温泉大浴場を誇る大型リゾートホテル。4月下旬から10月末まで毎夜湖上を移動しながら打ち上がる「洞爺湖ロングラン花火大会」を、全室レイクビューの客室や湖畔テラスから目の前に鑑賞できます。湖面に鮮やかに映り込む花火の光と静かな波音がロマンチックな夜を演出。夕食には北海道の豊かな海と山の幸を取り入れた豪華ビュッフェが並び、子どもから大人まで笑顔になれる花火リゾートバカンスを満喫できます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県諏訪市・諏訪湖の花火を目前に望む湖畔の特等席！朱の泉と白の泉の二つの源泉を持つ名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    信州上諏訪温泉　諏訪別邸　朱白（旧　双泉の宿　朱白）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">信州上諏訪温泉　諏訪別邸　朱白（旧　双泉の宿　朱白）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     信州屈指の景勝地・諏訪湖の湖畔通りに佇み、諏訪湖祭湖上花火大会や夏の毎夜花火を目前で鑑賞できる絶好のロケーションを誇る温泉宿。客室の大きな窓からは諏訪湖の穏やかな水面と対岸のアルプスの山並みが広がり、夜には湖上花火が夜空を幻想的に染め上げます。宿の最大の自慢は、茶褐色の「朱の泉」と無色透明の「白の泉」という二つの異なる自家源泉を引いた展望大浴場。信州サーモンや信州牛を取り入れた手作り会席料理とともに、心温まる信州の花火湯治をお過ごしいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】熱海温泉 熱海後楽園ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoHanabiFireworksViewStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と熱海温泉 熱海後楽園ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

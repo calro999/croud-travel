@@ -121,9 +121,7 @@ export default function Page() {
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">
-            はじめに：秋の南陽・赤湯温泉・高畠で味わう絶景と至高の温泉時間
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">はじめに：秋の南陽・赤湯温泉・高畠で味わう絶景と至高の温泉時間</h2>
           <p className="text-slate-700 leading-relaxed mb-4">
             10月から11月にかけての山形県・南陽・赤湯温泉・高畠は、豊かな自然美と歴史情緒が鮮やかに交差する特別なシーズンを迎えます。澄んだ秋空の下、山肌や街並みが織りなす錦秋のパノラマは息をのむ美しさで、訪れる人々を魅了してやみません。
           </p>
@@ -136,9 +134,7 @@ export default function Page() {
 
         {/* Highlight Points */}
         <section className="bg-amber-50 rounded-2xl p-6 sm:p-8 border border-amber-200 mb-12">
-          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
-            <span>🍁</span> 南陽・赤湯温泉・高畠 秋旅の3大魅力ポイント
-          </h3>
+          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">南陽・赤湯温泉・高畠 秋旅の3大魅力ポイント</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">① 圧巻の秋色パノラマ絶景</div>
@@ -199,17 +195,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 A5ランク米沢牛のすき焼き鍋会席、山形名物芋煮汁、地場産ラ・フランスやぶどうのデザート、山形ワイナリー直送ワイン
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 硫黄が香る柔らかなお湯で体の芯からポカポカに。南陽のワイナリー巡りやぶどう狩りの拠点として至福のステイを提供。
               </p>
@@ -268,17 +260,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 米沢牛のサーロインステーキ会席、山形県産つや姫の新米、旬のきのこ鍋、契約農家の朝採れ地場野菜小鉢
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 大正時代にタイムスリップしたようなノスタルジックな館内。心地よい湯守りの湯に浸かり、ワインと米沢牛に酔いしれる秋の夜長。
               </p>
@@ -337,17 +325,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 米沢牛のすき焼き・しゃぶしゃぶ・ステーキ選べる会席、名物手打ち十割そば、山形郷土料理、南陽産地ワイン
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 広々とした大浴場で名湯赤湯温泉を満喫。烏帽子山公園の紅葉散策やワイナリーへのアクセスも抜群の好立地。
               </p>
@@ -368,7 +352,7 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、山形県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
@@ -402,24 +386,18 @@ export default function Page() {
           <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 南陽・赤湯温泉・高畠の秋の見頃時期はいつですか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 南陽・赤湯温泉・高畠の秋の見頃時期はいつですか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 例年10月〜11月のワイナリー新酒解禁と秋の実り・米沢牛グルメが見頃となります。標高差や気候に合わせて色づきが移り変わり、長期間にわたって楽しめます。
               </p>
             </div>
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 10月〜11月の南陽・赤湯温泉・高畠は朝夕の冷え込みが予想されます。日中は薄手のアウターで快適ですが、早朝や夜間、散策時には厚手のフリースやジャケット、歩きやすい靴をご用意ください。
               </p>
@@ -439,9 +417,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】赤湯温泉 升形屋旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】赤湯温泉 升形屋旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

@@ -109,9 +109,7 @@ export default function LuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【全室離れ客室露天風呂と相模湾絶景オーシャンビュー】2026-2027年11-12月初冬の静岡・伊豆高原！最高峰ABBA RESORTS坐漁荘＆お宿うち山・極上地金目鯛と伊勢海老・しずおか和牛を味わう大人の記念日ラグジュアリー名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             都心から特急でわずか2時間、相模湾と伊豆大島を望む静岡屈指のリゾート地・伊豆高原。初冬の澄んだ大気のもと、全室に趣の異なる源泉掛け流し専用露天風呂を備えた極上の離れ宿で過ごす至福の時間。世界基準のおもてなしを誇る名門宿から、海を見晴らす高台のプライベートスイートまで。冬に脂が乗る極上地金目鯛の煮付けや活伊勢海老、しずおか和牛を堪能する大人の記念日名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function LuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>全室が独立した離れ＆絶景露天風呂！誰にも邪魔されない至高のプライベート</span>
-            </h3>
+              <span>全室が独立した離れ＆絶景露天風呂！誰にも邪魔されない至高のプライベート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               客室専用の露天風呂や広大なテラスを備えた離れ宿が集結。相模湾の大海原や緑豊かな日本庭園を眺めながら、好きな時に何度でも源泉の湯浴みを満喫できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>冬に極まる海の至宝「極上地金目鯛の姿煮」と「伊勢海老・しずおか和牛」の饗宴</span>
-            </h3>
+              <span>冬に極まる海の至宝「極上地金目鯛の姿煮」と「伊勢海老・しずおか和牛」の饗宴</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               初冬に脂が最高潮に達する日帰り一本釣りの地金目鯛。濃厚な甘辛タレで煮上げた姿煮や、プリプリの伊勢海老、上質なしずおか和牛を贅沢に味わい尽くせます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>城ヶ崎海岸の門脇吊橋絶景と初冬の澄んだ相模湾・伊豆大島パノラマ</span>
-            </h3>
+              <span>城ヶ崎海岸の門脇吊橋絶景と初冬の澄んだ相模湾・伊豆大島パノラマ</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               大室山の溶岩が造り出した荒々しい断崖絶壁と門脇吊橋のスリルあふれる景観。空気が澄み渡る初冬は水平線上に伊豆大島や利島がくっきりと見渡せます。
             </p>
@@ -177,9 +167,7 @@ export default function LuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  ＡＢＢＡ　ＲＥＳＯＲＴＳ　ＩＺＵ　―　坐漁荘
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">ＡＢＢＡ　ＲＥＳＯＲＴＳ　ＩＺＵ　―　坐漁荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  お宿うち山　伊豆高原　全室露天風呂付き隠れ宿
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">お宿うち山　伊豆高原　全室露天風呂付き隠れ宿</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">伊豆高原温泉　客室露天風呂付リゾートホテル　コルテラルゴ伊豆高原</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">伊豆高原　記念日を祝う宿　自然家．Ｈａｃｏ（しぜんや．ハコ）</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  伊豆高原　記念日を祝う宿　別邸ＫＵＲＯ
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">伊豆高原　記念日を祝う宿　別邸ＫＵＲＯ</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function LuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>「地金目鯛」と通常の金目鯛の違いは何ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>「地金目鯛」と通常の金目鯛の違いは何ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               一般的な金目鯛は遠洋で獲られ冷凍されるものも多いですが、「地金目鯛（日戻り金目鯛）」は伊豆諸島周辺の近海で早朝に一本釣りされ、その日のうちに港へ水揚げされる完全無冷凍の最高級ブランドです。身の締まりと脂の乗りが格段に異なり、初冬から真冬にかけて一番の旬を迎えます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>記念日やプロポーズなどの特別な宿泊に向いていますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>記念日やプロポーズなどの特別な宿泊に向いていますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               今回選定した宿はすべて、記念日やハネムーン、誕生日のお祝いに特化したプレミアム宿です。ケーキや花束の手配、スパトリートメント、記念写真サービスなど細やかなアニバーサリー対応が充実しており、大切な日のサプライズに最適です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>冬の伊豆高原は雪が降りますか？車で行く際の注意点は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>冬の伊豆高原は雪が降りますか？車で行く際の注意点は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               伊豆半島の海岸沿い（東伊豆）は非常に温暖なため、11月・12月に雪が降ることは極めて稀です。基本的にはノーマルタイヤで快適にアクセスできます。ただし、箱根・伊豆スカイラインや天城峠などの標高の高い山越えルートを通る場合は、12月以降に凍結の可能性があるため、海沿いの国道135号線ルートの利用が安心です。
             </p>

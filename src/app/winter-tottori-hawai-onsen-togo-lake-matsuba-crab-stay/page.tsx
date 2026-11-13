@@ -280,10 +280,8 @@ export default function HawaiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜鳥取・はわい温泉＆東郷温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月鳥取・はわい温泉】<br className="hidden sm:inline" />
-            東郷湖上露天風呂と11月解禁鳥取松葉ガニ・鳥取和牛オレイン55の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月鳥取・はわい温泉】<br className="hidden sm:inline" />
+            東郷湖上露天風呂と11月解禁鳥取松葉ガニ・鳥取和牛オレイン55の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             周囲12kmの静寂の東郷湖に湧く奇跡の湖底温泉。湖上露天風呂から初冬の朝霧と水景を仰ぎ、11月解禁のブランド鳥取松葉ガニととろける鳥取和牛に酔いしれる贅沢な湖畔湯治。
           </p>
@@ -301,9 +299,7 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Floating Hot Springs on Lake Togo</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                東郷湖の湖上に浮かぶ幻想の湯けむりと、11月解禁鳥取松葉ガニの至福
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">東郷湖の湖上に浮かぶ幻想の湯けむりと、11月解禁鳥取松葉ガニの至福</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Lake Bed Hot Springs Mechanism</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                東郷湖の湖底から自噴する恵み｜塩化物・硫酸塩泉の温浴効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">東郷湖の湖底から自噴する恵み｜塩化物・硫酸塩泉の温浴効果</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Tottori Gourmet Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                鳥取の冬を味わい尽くす｜本場松葉ガニと最高峰「鳥取和牛オレイン55」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">鳥取の冬を味わい尽くす｜本場松葉ガニと最高峰「鳥取和牛オレイン55」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Togo Lake Winter Route & Kurayoshi Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の東郷湖畔散策モデルコース｜中国庭園燕趙園と倉吉白壁土蔵群のレトロ旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の東郷湖畔散策モデルコース｜中国庭園燕趙園と倉吉白壁土蔵群のレトロ旅</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function HawaiOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Featured Lakeside Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              東郷湖の絶景と美食に癒やされる｜はわい温泉・東郷温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">東郷湖の絶景と美食に癒やされる｜はわい温泉・東郷温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで確かな評価を獲得し、湖上露天風呂や鳥取松葉ガニにこだわる本物の湖畔宿。
             </p>
@@ -451,9 +439,7 @@ export default function HawaiOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のはわい温泉冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のはわい温泉冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-800" />
-                湖畔の朝夕の冷え込みと服装対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-800" />
+                湖畔の朝夕の冷え込みと服装対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 東郷湖周辺は水辺のため、朝夕や夜間は水面からの冷気で気温が下がります。11月下旬以降は朝晩の気温が5℃以下になる日が増えるため、厚手のジャケットやコート、マフラー、手袋をご用意ください。湖上露天風呂へ渡る桟橋は風が吹き抜けるため、羽織るものを1枚多めに持参すると快適です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-emerald-800" />
-                特急スーパーはくと＆山陰道でのアクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-emerald-800" />
+                特急スーパーはくと＆山陰道でのアクセス</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 京阪神方面からは特急「スーパーはくと」で倉吉駅まで直通約2時間30分〜3時間と電車アクセスが極めて快適です。倉吉駅から各宿への送迎バスを事前予約しておけば雪道の運転心配も不要です。車の場合は山陰自動車道はわいICより約5分ですが、12月に入ると山陰道や中国道でチェーン規制・冬用タイヤ規制が出る場合があるため、スタッドレスタイヤの装着をおすすめします。
               </p>
@@ -565,18 +545,14 @@ export default function HawaiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                鳥取はわい温泉・東郷温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">鳥取はわい温泉・東郷温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function HawaiOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい鳥取・山陰の冬名湯＆松葉ガニ・冬の味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい鳥取・山陰の冬名湯＆松葉ガニ・冬の味覚特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の鳥取松葉ガニ、世界屈指のラジウム温泉、山陰の日本海絶景をめぐる人気の厳選特集もぜひご覧ください。
             </p>

@@ -108,9 +108,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  湖面と湯船がシームレスに繋がる「インフィニティ露天風呂」の圧倒的浮遊感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">湖面と湯船がシームレスに繋がる「インフィニティ露天風呂」の圧倒的浮遊感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 まるで湖に浮かんでいるかのようなインフィニティ設計の展望露天風呂。湯船の縁から溢れ出る温泉が湖水へと溶け込んでいくような錯覚を覚え、大自然と一体化する格別の開放感を体験できます。
@@ -123,9 +121,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  全室レイクビュー！部屋のテラスでコーヒーやワインを片手に過ごす贅沢な時間
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">全室レイクビュー！部屋のテラスでコーヒーやワインを片手に過ごす贅沢な時間</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 バルコニーのデッキチェアに身を委ね、行き交う遊覧船や夕陽に照らされる湖面を眺めるひととき。朝には水鳥のさえずりと澄み切った湖風が部屋に吹き込み、日常の疲れを完全に忘れさせてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  近江牛、北海道の海の幸、箱根山麓豚！湖畔エリアならではの厳選ディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">近江牛、北海道の海の幸、箱根山麓豚！湖畔エリアならではの厳選ディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 滋賀が誇る三大和牛「近江牛」の鉄板焼き、北海道の豊かな大地と噴火湾の海の恵みを取り入れた創作ビュッフェ、箱根の洗練された会席料理など、旅情を盛り上げる極上の美食が揃っています。
@@ -183,9 +177,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     滋賀県大津市・全室レイクビューバルコニー付き！天然温泉るりの湯と近江牛ディナー
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    琵琶湖ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">琵琶湖ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     京都駅からJRでわずか約10分、日本最大の湖・琵琶湖のほとりに佇むランドマークホテル。全客室が琵琶湖に面したオーシャンならぬレイクフロントビューで、広々としたプライベートバルコニーから雄大な湖のパノラマを一望できます。館内には自家源泉の天然温泉大浴場「るりの湯」を完備し、琵琶湖を眺めながらゆったりと湯浴みを楽しめます。夕食には滋賀名産の近江牛や湖魚、地元契約農家の無農薬野菜を使ったフレンチ、鉄板焼き、日本料理など多彩な美食を選択可能。都心からのアクセスも良好な上質レイクリゾートです。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道壮瞥町・洞爺湖と一体化するインフィニティ露天風呂！全室客室温泉露天付きラグジュアリー
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ザ・レイクスイート湖の栖（グランベルホテルズ&amp;リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ザ・レイクスイート湖の栖（グランベルホテルズ&amp;リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     支笏洞爺国立公園の美しい洞爺湖畔に建ち、湖に突き出すように設計された大人のための最高峰温泉リゾート。最上階に位置する大浴場「星の湯」のインフィニティ露天風呂からは、水盤と洞爺湖、羊蹄山の山並みがシームレスに繋がり、空を飛んでいるかのような圧倒的スケール感を味わえます。全客室に温泉露天風呂と開放的なバルコニーを備え、夏から秋にかけて毎夜開催される「洞爺湖ロングラン花火大会」も部屋の特等席から鑑賞可能。北海道の旬の幸を取り入れたビュッフェや会席料理も極上評価を獲得しています。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・芦ノ湖越しに富士山を望む絶景！国登録有形文化財の数寄屋造り名門旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    龍宮殿（プリンスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">龍宮殿（プリンスホテルズ＆リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根・芦ノ湖畔に位置し、国の登録有形文化財にも指定されている歴史ある数寄屋造りの名門温泉旅館。宿の最大のハイライトは、広大な芦ノ湖とその向こうにそびえる雄大な霊峰・富士山を同時に眺めることができる絶景パノラマ露天風呂。箱根蛸川温泉の肌触り豊かな名湯に浸かりながら、夕暮れに赤く染まる富士の稜線や湖面のきらめきを愛でる贅沢は唯一無二です。四季折々の旬菜を美しく盛り込んだ伝統の本格会席料理と、歴史の風格漂う雅な和の空間で、日本の美意識を堪能する休日が叶います。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】琵琶湖ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】琵琶湖ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoLakeviewOnsenResortStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と琵琶湖ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と琵琶湖ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

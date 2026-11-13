@@ -185,10 +185,8 @@ export default function UsjFamilyHotelGuidePage() {
 
       {/* 目次 */}
       <nav className="bg-teal-50/70 border border-teal-200/80 rounded-2xl p-6 shadow-sm">
-        <h2 className="text-base font-black text-teal-950 mb-3 flex items-center gap-2">
-          <span className="w-2.5 h-2.5 rounded-full bg-teal-600"></span>
-          本記事のポイント一覧
-        </h2>
+        <h2 className="text-base font-black text-teal-950 mb-3 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-teal-600"></span>
+          本記事のポイント一覧</h2>
         <ul className="grid grid-cols-1 md:grid-cols-2 gap-2.5 text-sm text-teal-900">
           <li className="flex items-center gap-2">
             <span className="text-teal-600 font-bold">01.</span>
@@ -213,9 +211,7 @@ export default function UsjFamilyHotelGuidePage() {
       <section id="duel" className="space-y-6">
         <div className="border-l-4 border-teal-600 pl-4">
           <span className="text-xs font-black text-teal-700 tracking-wider uppercase">STRATEGY COMPARISON</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            あなたはどっち派？子連れUSJの宿泊2大戦略
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">あなたはどっち派？子連れUSJの宿泊2大戦略</h2>
           <p className="text-sm text-slate-600 mt-1">
             子どもの年齢、体力、滞在日数（1泊2日か2泊3日か）で最適な選択肢がガラリと変わります。
           </p>
@@ -240,9 +236,7 @@ export default function UsjFamilyHotelGuidePage() {
                   </div>
 
                   <div>
-                    <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider mb-2">
-                      ◎ この戦略のメリット
-                    </h4>
+                    <h4 className="text-xs font-black text-emerald-800 uppercase tracking-wider mb-2">◎ この戦略のメリット</h4>
                     <ul className="space-y-2">
                       {item.pros.map((pro, pIdx) => (
                         <li key={pIdx} className="text-xs text-slate-700 flex items-start gap-2">
@@ -254,9 +248,7 @@ export default function UsjFamilyHotelGuidePage() {
                   </div>
 
                   <div className="pt-2 border-t border-slate-100">
-                    <h4 className="text-xs font-black text-amber-800 uppercase tracking-wider mb-2">
-                      ▲ 事前に知っておくべき注意点
-                    </h4>
+                    <h4 className="text-xs font-black text-amber-800 uppercase tracking-wider mb-2">▲ 事前に知っておくべき注意点</h4>
                     <ul className="space-y-1.5">
                       {item.cons.map((con, cIdx) => (
                         <li key={cIdx} className="text-xs text-slate-600 flex items-start gap-2">
@@ -276,9 +268,7 @@ export default function UsjFamilyHotelGuidePage() {
       {/* セクション2: 子連れUSJ攻略ノウハウ */}
       <section id="tips" className="bg-gradient-to-br from-teal-50 to-cyan-50/50 border border-teal-200 rounded-3xl p-6 md:p-8 space-y-6">
         <div className="border-l-4 border-teal-600 pl-4">
-          <h2 className="text-xl md:text-2xl font-black text-teal-950">
-            家族全員が笑顔で帰るための子連れUSJ 4大攻略テクニック
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-teal-950">家族全員が笑顔で帰るための子連れUSJ 4大攻略テクニック</h2>
           <p className="text-sm text-teal-800 mt-1">
             混雑するパーク内でぐずりを防ぎ、効率的に楽しむための必須知識。
           </p>
@@ -305,9 +295,7 @@ export default function UsjFamilyHotelGuidePage() {
       <section id="hotels" className="space-y-8">
         <div className="border-l-4 border-teal-600 pl-4">
           <span className="text-xs font-black text-teal-700 tracking-wider uppercase">FEATURED HOTELS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            子連れUSJにおすすめのオフィシャル＆周辺人気ホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">子連れUSJにおすすめのオフィシャル＆周辺人気ホテル</h2>
           <p className="text-sm text-slate-600 mt-1">
             駅チカ・パーク徒歩圏・ファミリー向け客室を完備した楽天トラベル提携宿。
           </p>
@@ -354,9 +342,7 @@ export default function UsjFamilyHotelGuidePage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-xl md:text-2xl font-black text-slate-900 leading-snug">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-black text-slate-900 leading-snug">{hotel.hotelName}</h3>
                 </div>
 
                 <p className="text-xs md:text-sm text-slate-700 bg-teal-50/70 p-3.5 rounded-xl border border-teal-100 leading-relaxed font-medium">
@@ -400,9 +386,7 @@ export default function UsjFamilyHotelGuidePage() {
         <div className="flex items-center gap-3">
           <span className="text-3xl">🗺️</span>
           <div>
-            <h3 className="text-lg md:text-xl font-black text-teal-950">
-              大阪旅行をもっとお得に！あわせて読みたい関連ガイド
-            </h3>
+            <h3 className="text-lg md:text-xl font-black text-teal-950">大阪旅行をもっとお得に！あわせて読みたい関連ガイド</h3>
             <p className="text-xs md:text-sm text-teal-800">
               USJチケット代を含めた旅行総額の予算組みと、東京・関東からの交通費節約術をチェック！
             </p>

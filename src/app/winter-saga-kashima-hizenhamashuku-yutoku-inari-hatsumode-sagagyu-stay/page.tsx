@@ -175,9 +175,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-10 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Travel Narrative</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の鹿島・肥前浜宿・祐徳門前・嬉野を旅する魅力と情話
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の鹿島・肥前浜宿・祐徳門前・嬉野を旅する魅力と情話</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
@@ -190,9 +188,7 @@ export default function FeaturePage() {
           <section className="space-y-6">
             <div className="border-b border-stone-200 pb-3">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬（11・12・1月）に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬（11・12・1月）に訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 gap-4">
 
@@ -201,9 +197,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  白壁土蔵が連なる酒蔵の町！国の重伝建「肥前浜宿」の冬新酒仕込みと蔵めぐり
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">白壁土蔵が連なる酒蔵の町！国の重伝建「肥前浜宿」の冬新酒仕込みと蔵めぐり</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 江戸・明治の巨大な酒蔵が建ち並ぶ肥前浜宿酒蔵通り。冬の寒造り真っ只中の仕込み風景や、搾りたての新酒の試飲、蔵人たちの熱気あふれる職人技に触れられる日本酒の聖地です。
@@ -215,9 +209,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  年間300万人が訪れる日本三大稲荷！「祐徳稲荷神社」新春開運初詣と極彩色の本殿
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">年間300万人が訪れる日本三大稲荷！「祐徳稲荷神社」新春開運初詣と極彩色の本殿</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 京都の清水寺本堂を思わせる壮大な懸造りの朱塗り本殿。冬の澄んだ大気の中に浮かび上がる極彩色の楼門や奥の院からの有明海パノラマビューは新春の開運パワースポットとして圧巻です。
@@ -229,9 +221,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  冬の味覚の王様「竹崎カニ」と極上「佐賀牛」＆日本三大美肌の湯「嬉野温泉」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">冬の味覚の王様「竹崎カニ」と極上「佐賀牛」＆日本三大美肌の湯「嬉野温泉」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 冬に濃厚な蟹味噌と内子を抱く有明海名物・竹崎カニの塩茹でや極上佐賀牛の陶板焼き。名湯・嬉野温泉のとろとろの美肌湯と名物「温泉湯豆腐」で心も身体もとろける至福の時間を過ごせます。
@@ -244,9 +234,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
               <Compass className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アクセス・ベストシーズン・おすすめの服装
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アクセス・ベストシーズン・おすすめの服装</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 rounded-xl p-5 border border-stone-100">
               【エリアへのアクセス】
@@ -266,9 +254,7 @@ export default function FeaturePage() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                鹿島・肥前浜宿・祐徳門前・嬉野 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">鹿島・肥前浜宿・祐徳門前・嬉野 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -287,16 +273,14 @@ export default function FeaturePage() {
                       有明海の竹崎カニと地酒のペアリング！絶景露天風呂と海の恵みを味わう美食宿
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6006%2F6006.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       竹崎かにと日本酒の宿　鶴荘
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.63</span>
                     <span className="text-xs text-stone-700 font-medium">(303件)</span>
@@ -362,16 +346,14 @@ export default function FeaturePage() {
                       日本三大美肌の湯を誇る嬉野の名門旅館！広大な敷地と現代アートの融合
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F40527%2F40527.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       嬉野温泉　和多屋別荘
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.12</span>
                     <span className="text-xs text-stone-700 font-medium">(1364件)</span>
@@ -437,16 +419,14 @@ export default function FeaturePage() {
                       大正十四年創業の嬉野を代表する格式高い名宿！滝の湯と伝統会席のおもてなし
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F19923%2F19923.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       嬉野温泉　大正屋
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.46</span>
                     <span className="text-xs text-stone-700 font-medium">(1270件)</span>
@@ -512,16 +492,14 @@ export default function FeaturePage() {
                       名産「嬉野茶」を五感で楽しむ癒やしの宿！お茶を浸した名物露天風呂
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F52858%2F52858.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       嬉野温泉　茶心の宿　和楽園
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.39</span>
                     <span className="text-xs text-stone-700 font-medium">(651件)</span>
@@ -587,16 +565,14 @@ export default function FeaturePage() {
                       チームラボのデジタルアートが常設！15万坪の庭園を抱く武雄温泉の幻想リゾート
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F13417%2F13417.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       武雄温泉　御船山楽園ホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.57</span>
                     <span className="text-xs text-stone-700 font-medium">(1217件)</span>
@@ -657,9 +633,7 @@ export default function FeaturePage() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -682,37 +656,29 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の鹿島・肥前浜宿・祐徳門前・嬉野旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の鹿島・肥前浜宿・祐徳門前・嬉野旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>肥前浜宿の酒蔵通りで見学や試飲ができるおすすめの酒蔵は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>肥前浜宿の酒蔵通りで見学や試飲ができるおすすめの酒蔵は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>「肥前屋（峰松酒造場）」では、昭和の酒蔵見学や多彩な銘酒の無料試飲が楽しめる観光酒蔵として大人気です。また「富久千代酒造（鍋島）」など世界的な鑑評会でチャンピオンに輝いた名蔵が点在し、街道沿いのショップで限定酒を購入できます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>祐徳稲荷神社の初詣の混雑状況と参拝のコツは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>祐徳稲荷神社の初詣の混雑状況と参拝のコツは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>正月三が日は例年非常に多くの参拝客で賑わい、周辺道路や駐車場が混雑します。元旦の早朝（6:00〜8:00頃）または夕方以降の参拝が比較的スムーズです。本殿から奥の院までは約200段の石段が続くため、無理のないペースで登りましょう。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>嬉野温泉の「温泉湯豆腐」はなぜあんなにとろとろになるのですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>嬉野温泉の「温泉湯豆腐」はなぜあんなにとろとろになるのですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>嬉野温泉の泉質は重曹を多く含む弱アルカリ性単純温泉です。この特殊な温泉水で豆腐をコトコト煮込むと、温泉成分と豆腐のにがりが反応して豆腐の表面が溶け出し、スープが白濁してトロトロの極上食感に変化します。冬の朝食や夕食に欠かせない名物料理です。
               </p>

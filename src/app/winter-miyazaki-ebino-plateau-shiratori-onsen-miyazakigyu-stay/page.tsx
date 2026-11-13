@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、えびの高原・生駒高原・小林を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、えびの高原・生駒高原・小林を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -204,9 +202,7 @@ export default function FeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              えびの高原・生駒高原・小林 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">えびの高原・生駒高原・小林 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -236,9 +232,7 @@ export default function FeaturePage() {
                         <span>4.00</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      京町温泉　十兵衛の宿
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">京町温泉　十兵衛の宿</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>えびの市の奥座敷・京町温泉に位置し、全客室に趣の異なる自家源泉掛け流し露天風呂を備えた大人のための隠れ家温泉宿。誰にも邪魔されないプライベートな空間で、湯煙に包まれながら24時間いつでも好きな時に名湯を満喫できます。</p>
                       <p>夕食には、厳しい基準をクリアした最高峰「宮崎牛」をメインに据えた贅沢な会席料理が並び、きめ細やかなサシが舌の上でとろけるような感動の味わいを提供。洗練されたおもてなしと上質な空間が、特別な冬の旅を鮮やかに彩ります。</p>
@@ -293,9 +287,7 @@ export default function FeaturePage() {
                         <span>3.86</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      京町温泉　玉泉館
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">京町温泉　玉泉館</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>大正時代に創業し、京町温泉の歴史とともに歩んできた風格ある老舗和風旅館。数寄屋造りの建物と手入れの行き届いた日本庭園が、訪れる旅人を静かに迎え入れます。</p>
                       <p>自慢の天然温泉は加水・加温一切なしの100%源泉掛け流しで、とろみのあるやわらかな泉質が冬の乾燥した肌をしっとりと包み込みます。夕食には地元契約農家の新鮮野菜や宮崎牛の陶板焼き、清流魚の塩焼きなど、一品一品丁寧に仕上げられた手作りの会席料理が並び、心温まる滞在を約束します。</p>
@@ -355,9 +347,7 @@ export default function FeaturePage() {
                         <span>4.38</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      京町温泉　あけぼの荘
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">京町温泉　あけぼの荘</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>京町温泉の街並みに位置し、家庭的で細やかな心配りが心地よい温泉宿。ビジネスから観光まで気軽に利用できる良心的な価格設定ながら、清潔感あふれる客室と豊富に注がれる天然温泉が自慢です。</p>
                       <p>お風呂は肌に刺激の少ない単純温泉で、身体の芯までぽかぽかと温まり日頃の疲れを洗い流してくれます。夕食には宮崎県産の銘柄豚しゃぶや郷土のチキン南蛮、旬の野菜の小鉢など、手作りの温もりが伝わるボリュームたっぷりの料理が並び、一人旅にもおすすめです。</p>
@@ -417,9 +407,7 @@ export default function FeaturePage() {
                         <span>4.67</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      極楽温泉　匠の宿
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">極楽温泉　匠の宿</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>宮崎県高原町、霧島連山の霊峰・高千穂峰の麓に佇む秘湯の一軒宿。最大の自慢は、地下から自然湧出する全国屈指の濃厚な鉄炭酸泉。</p>
                       <p>茶褐色に濁る源泉露天風呂と、自然の巨石をそのままくり抜いて造られた巨大な石風呂は圧巻の迫力で、炭酸ガスの効果により驚くほどの血行促進と保温効果を実感できます。夕食には極上の宮崎牛炭火焼きや、名水百選の湧水で育まれた地元名物のチョウザメ料理、野趣あふれる山の恵みが並び、本物の温泉通をも唸らせる名宿です。</p>
@@ -474,9 +462,7 @@ export default function FeaturePage() {
                         <span>4.52</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">
-                      湯之元温泉　＜宮崎県＞
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 leading-snug">湯之元温泉　＜宮崎県＞</h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>霧島連山の麓、高原町の清らかな自然に囲まれた創業100年を超える名湯宿。こちらの源泉は全国的にも珍しい高濃度炭酸を含んだ鉱泉で、浴槽に入ると全身にびっしりと細かな気泡が付着し、湯上がりには肌がすべすべになると評判です。</p>
                       <p>館内には飲泉場も設けられており、胃腸の調子を整える効果も抜群。夕食には地元産宮崎牛の陶板焼きをはじめ、高原町で採れる滋味豊かな根菜や旬の野菜を使った身体に優しい和食膳が提供され、心身のリセットに最高の滞在が叶います。</p>
@@ -521,9 +507,7 @@ export default function FeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  宮崎県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">宮崎県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -542,18 +526,14 @@ export default function FeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬のえびの高原・生駒高原・小林旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬のえびの高原・生駒高原・小林旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>えびの高原への道路（県道1号えびのスカイライン）は冬期チェーン規制になりますか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>えびの高原への道路（県道1号えびのスカイライン）は冬期チェーン規制になりますか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 寒波が到来した際や降雪時には、冬用タイヤ規制（スタッドレスタイヤまたはタイヤチェーン携行）が実施される場合があります。冬期にえびの高原へマイカーやレンタカーで向かう際は、事前に宮崎県道路規制情報等を確認し、冬用タイヤを装備した車両をご利用ください。麓の京町温泉エリアは平野部のため積雪は稀です。
               </p>
@@ -561,10 +541,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>白鳥温泉（上湯・下湯）は日帰り入浴でも利用できますか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>白鳥温泉（上湯・下湯）は日帰り入浴でも利用できますか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 はい、白鳥温泉上湯・下湯ともに日帰り温泉施設が併設されており、大人数百円の手頃な料金で名湯を利用できます。上湯の天然蒸し風呂や絶景展望露天、下湯の緑に囲まれた大浴場をそれぞれ入り比べるのも冬の人気の過ごし方です。
               </p>
@@ -572,10 +550,8 @@ export default function FeaturePage() {
             
 
             <div className="border-b border-stone-200 pb-4 last:border-0 last:pb-0">
-              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>宮崎牛を一番美味しく味わうためのおすすめの食べ方は何ですか？</span>
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>宮崎牛を一番美味しく味わうためのおすすめの食べ方は何ですか？</span></h3>
               <p className="text-sm sm:text-base text-stone-600 leading-relaxed pl-5">
                 冬の時期は、甘辛い割り下でサッと煮てブランド卵にくぐらせる「宮崎牛のすき焼き」が格別です。また、きめ細やかなサシの甘みをダイレクトに楽しむサーロインステーキや炭火焼きも絶品。地元の焼酎（芋焼酎・米焼酎）と合わせることで、肉の旨味がさらに引き立ちます。
               </p>

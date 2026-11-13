@@ -58,10 +58,8 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-rose-600" />
-            宿泊代2,000円台！浮いた予算で日本一の「宮崎牛」を極上ステーキで
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-rose-600" />
+            宿泊代2,000円台！浮いた予算で日本一の「宮崎牛」を極上ステーキで</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             南国情緒あふれる宮崎は、秋でも穏やかで過ごしやすいドライブ旅行の天国。宮崎駅や繁華街橘通りのホテルは、2,000円台から泊まれる全国屈指のハイコスパエリアです。宿代を賢く浮かせた分で、内閣総理大臣賞を受賞した最高峰の宮崎牛や、名店「おぐら」のチキン南蛮をお腹いっぱい味わいましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルエリアワン宮崎（ホテルエリアワングループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエリアワン宮崎（ホテルエリアワングループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宮崎</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ユニーク空間）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              マンゴーホテル宮崎
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">マンゴーホテル宮崎</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宮崎</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（リバーサイド）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルマイステイズ宮崎
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルマイステイズ宮崎</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宮崎</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ニシタチ至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈宮崎駅橘通〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈宮崎駅橘通〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宮崎</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前最高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル宮崎駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル宮崎駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宮崎</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-rose-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の宮崎・高千穂ドライブの満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300"><CheckCircle2 className="w-5 h-5" />
+            秋の宮崎・高千穂ドライブの満喫ポイント</h2>
           <p className="text-sm text-rose-100 leading-relaxed">
             高千穂峡の貸しボートは紅葉シーズンの週末は予約が即埋まるため、事前ネット予約が必須。宮崎市内から高千穂までは高速道路を利用して車で約2時間。早朝に出発して神話の渓谷を巡り、夜は宮崎市街地で地鶏と焼酎を満喫するルートがおすすめです。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「宮崎：高千穂峡紅葉ドライブ拠点＆本場チキン南蛮！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetMiyazakiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 宮崎エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">宮崎エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

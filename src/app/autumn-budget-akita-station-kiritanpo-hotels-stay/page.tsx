@@ -58,10 +58,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            駅前・仲小路にハイクオリティ格安宿が集結！浮いた予算できりたんぽ御膳を満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            駅前・仲小路にハイクオリティ格安宿が集結！浮いた予算できりたんぽ御膳を満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             秋田新幹線の終着駅・秋田駅周辺は、★4.2〜★4.5超を誇る安心の大手ホテルやデザイナーズ宿が激しい価格競争を展開中。1泊2,000円台〜4,000円台で快適な部屋を確保でき、浮いた宿泊予算で老舗料亭「濱乃家」や駅前居酒屋の比内地鶏炭火焼き・銘酒新政を贅沢に楽しめます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ＥＮ　ＨＯＴＥＬ　Ａｋｉｔａ</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR秋田駅西口より徒歩4分 / 千秋公園至近
@@ -151,9 +147,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  クインテッサホテル秋田
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">クインテッサホテル秋田</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR秋田駅西口より徒歩約15分 / 川反繁華街すぐ
@@ -206,9 +200,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  リッチモンドホテル秋田駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル秋田駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR秋田駅西口より徒歩4分
@@ -261,9 +253,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ダイワロイネットホテル秋田駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル秋田駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR秋田駅西口より徒歩2分の駅チカ
@@ -316,9 +306,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ秋田駅東口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ秋田駅東口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR秋田駅東口より連絡通路直結（徒歩1分）
@@ -353,10 +341,8 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の秋田きりたんぽ＆千秋公園旅を格安に満喫するポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の秋田きりたんぽ＆千秋公園旅を格安に満喫するポイント</h2>
           <ul className="space-y-2 text-sm text-amber-100/90 leading-relaxed">
             <li>・秋の新米あきたこまちを使ったきりたんぽ鍋は比内地鶏の出汁が染み渡り、駅前名店「秋田きりたんぽ屋」で手軽に味わえる。</li>
             <li>・久保田城跡・千秋公園の紅葉は10月下旬〜11月上旬に見頃を迎え、御隅櫓展望台からの秋田市街パノラマも必見。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋田駅前：新米きりたんぽ鍋＆千秋公園紅葉！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -425,9 +409,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋田駅前で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋田駅前で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -316,9 +316,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Winter Narcissus Bloom</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                山肌を埋め尽くす1000万本の日本水仙！鋸南町「江月水仙ロード」の甘い香りと冬景色
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">山肌を埋め尽くす1000万本の日本水仙！鋸南町「江月水仙ロード」の甘い香りと冬景色</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +335,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-6">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Sacred Gold Shrine & Ocean Sunrise</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                日本三大金運神社「安房神社」新春初詣と、本州最南端「野島埼灯台」の感動初日の出
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">日本三大金運神社「安房神社」新春初詣と、本州最南端「野島埼灯台」の感動初日の出</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -358,9 +354,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">King of Winter Seafood</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                甘み極まる「房総伊勢海老」と秘伝タレ「金目鯛の姿煮」！黒潮の恵み極上会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">甘み極まる「房総伊勢海老」と秘伝タレ「金目鯛の姿煮」！黒潮の恵み極上会席</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -379,9 +373,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-8">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】館山温泉・南房総白浜周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】館山温泉・南房総白浜周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -407,9 +399,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-amber-500 shrink-0" />
@@ -432,9 +422,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -466,17 +454,13 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】江月水仙ロード・安房神社初詣＆白浜温泉満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】江月水仙ロード・安房神社初詣＆白浜温泉満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：鋸南町江月水仙ロード散策と日本寺・白浜温泉ステイ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：鋸南町江月水仙ロード散策と日本寺・白浜温泉ステイ</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">10:30 アクアライン経由で鋸南保田IC到着・道の駅保田小学校へ</strong><br />
@@ -502,10 +486,8 @@ export default function ChibaMinamibosoWinterFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：野島埼灯台の日の出・安房神社金運初詣＆フラワーライン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：野島埼灯台の日の出・安房神社金運初詣＆フラワーライン</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">06:40 野島埼灯台で太平洋水平線の日の出鑑賞</strong><br />
@@ -536,47 +518,37 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Travel Guide & Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【11・12・1月】南房総の温暖気候とアクアライン渋滞回避のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【11・12・1月】南房総の温暖気候とアクアライン渋滞回避のポイント</h2>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Flower2 className="w-4 h-4 text-amber-500" />
-                  温暖な常春気候と海風の防寒対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Flower2 className="w-4 h-4 text-amber-500" />
+                  温暖な常春気候と海風の防寒対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   南房総は黒潮の影響で冬でも平均気温が10度前後と極めて温暖です。日中の晴天時はコートを脱いで過ごせる日もありますが、野島埼灯台や海岸線では海からの強い季節風が吹き付けます。着脱しやすいウインドブレーカーやストールを準備するのがスマートです。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-rose-500" />
-                  東京湾アクアラインの上り線渋滞回避
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-rose-500" />
+                  東京湾アクアラインの上り線渋滞回避</h3>
                 <p className="text-stone-600 leading-relaxed">
                   土日祝日や正月三が日の夕方（15時〜20時）は、木更津金田ICから川崎浮島JCTにかけてアクアライン上り線が激しく渋滞します。帰路は14時台までにアクアラインを通過するか、木更津や君津で早めの夕食を済ませて20時以降に通過するのが賢明です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-amber-500" />
-                  野島埼灯台での初日の出観賞のコツ
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-amber-500" />
+                  野島埼灯台での初日の出観賞のコツ</h3>
                 <p className="text-stone-600 leading-relaxed">
                   元旦の初日の出時刻は例年6時48分頃です。灯台周辺の白浜海岸は初日の出スポットとして多くの人が集まるため、日の出の30分前（6時15分頃）には岩礁地帯の展望エリアに到着しておくと、ベストアングルで水平線からの日の出を拝むことができます。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-emerald-500" />
-                  安房神社の初詣混雑ピークと参拝時間
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-emerald-500" />
+                  安房神社の初詣混雑ピークと参拝時間</h3>
                 <p className="text-stone-600 leading-relaxed">
                   安房神社は正月三が日の日中（10:30〜14:30）に駐車場待ちの車列が発生します。混雑を避けるなら、早朝8時〜9時台の澄んだ時間帯か、夕方15時半以降の参拝がおすすめです。初詣限定の金運御守や神札を授与所で受けるのも新年の伝統です。
                 </p>
@@ -588,18 +560,14 @@ export default function ChibaMinamibosoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                南房総水仙＆安房神社冬旅 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">南房総水仙＆安房神社冬旅 よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-amber-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -610,9 +578,7 @@ export default function ChibaMinamibosoWinterFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              水仙の芳香と光り輝く水平線、伊勢海老の美味が待つ常春の南房総へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">水仙の芳香と光り輝く水平線、伊勢海老の美味が待つ常春の南房総へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               江月水仙ロードの可憐な花景色、安房神社の厳かな金運初詣、野島埼灯台の力強い初日の出、そして房総伊勢海老と金目鯛姿煮。温暖な黒潮の風に抱かれ、本州で一足早く春の温もりを感じる開運冬旅へ出かけてみませんか。
             </p>

@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              弘法大師開湯の古湯！桂川沿いの竹林と朱塗りの橋を彩る伊豆の小京都
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">弘法大師開湯の古湯！桂川沿いの竹林と朱塗りの橋を彩る伊豆の小京都</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             大同2年（807年）に弘法大師が独鈷水（とっこすい）を湧出させて開かれた伊豆最古の温泉地「修善寺温泉」。秋になると、温泉街を流れる桂川沿いの「竹林の小径」や、恋の橋めぐりで親しまれる朱塗りの橋周辺が鮮やかなモミジに包まれ、しっとりとした情緒を醸し出します。期間限定で一般公開される名刹「修禅寺」方丈庭園の美しさも必見。川のせせらぎを聞きながら国の登録有形文化財に指定された歴史ある名門旅館に滞在し、天城の本わさびや伊豆の地魚、伊豆牛の会席料理をふるさと納税トラベルクーポンでお得に贅沢に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                竹林の小径と桂川にかかる5つの朱塗り橋紅葉めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                竹林の小径と桂川にかかる5つの朱塗り橋紅葉めぐり</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 青々と茂る竹林の中央に設けられた円形ベンチから見上げる空と紅葉のコントラスト。渡月橋や虎渓橋など、恋が実ると伝わる朱塗りの橋を渡る散策路は風情満点です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                国の登録有形文化財に泊まる！明治・大正の建築美
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                国の登録有形文化財に泊まる！明治・大正の建築美</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 横山大観や芥川龍之介など文人墨客が逗留した数寄屋造りの建物。清流を望む客室や文化財指定の温泉大浴場で過ごす時間は一生の思い出になります。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                伊豆特産「天城本わさび」＆伊豆牛・駿河湾鮮魚会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                伊豆特産「天城本わさび」＆伊豆牛・駿河湾鮮魚会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 清流で育ったすりたて本わさびでいただく伊豆牛ステーキ、駿河湾直送の金目鯛の姿煮、香ばしい天城軍鶏の鍋料理など、伊豆半島が誇る旬の滋味が勢揃い。
               </p>
@@ -229,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.43 <span className="text-stone-400 text-xs">(450件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    修善寺温泉　瑞の里　〇久（まるきゅう）旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　瑞の里　〇久（まるきゅう）旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県伊豆市修善寺1146 ｜ 修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約30分
                   </p>
@@ -298,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 5.00 <span className="text-stone-400 text-xs">(36件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    修善寺温泉　柳生の庄
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　柳生の庄</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県伊豆市修善寺1116-6 ｜ 伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分　
                   </p>
@@ -400,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -435,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

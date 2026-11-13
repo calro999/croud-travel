@@ -269,9 +269,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Sacred Heritage & Winter Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                越後随一の霊峰と開湯300年の黒湯｜11月・12月に弥彦＆岩室温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">越後随一の霊峰と開湯300年の黒湯｜11月・12月に弥彦＆岩室温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Winter Scenery & Sacred Atmosphere</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初雪の弥彦連山と白波寄せる日本海｜冬の越後路が醸す幽玄の美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初雪の弥彦連山と白波寄せる日本海｜冬の越後路が醸す幽玄の美</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -314,9 +310,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月厳選】弥彦＆岩室温泉の美食と名湯に浸る名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月厳選】弥彦＆岩室温泉の美食と名湯に浸る名旅館5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               彌彦神社参拝に最適な門前宿から、自家源泉の黒湯や割烹料理を誇る老舗旅館まで、旅のスタイルに合わせて選べる5軒を厳選。
             </p>
@@ -347,9 +341,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">{h.name}</h3>
                       <span className="text-lg sm:text-xl font-extrabold text-indigo-800">
                         {h.price} <span className="text-xs font-normal text-slate-500">/人〜</span>
                       </span>
@@ -413,9 +405,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本海の荒波が育む極上寒ブリと岩室「黒湯」の温浴メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本海の荒波が育む極上寒ブリと岩室「黒湯」の温浴メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -436,9 +426,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の弥彦神社参詣と岩室黒湯・日本海冬海鮮を巡る癒やし旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の弥彦神社参詣と岩室黒湯・日本海冬海鮮を巡る癒やし旅</h2>
             </div>
           </div>
 
@@ -503,38 +491,30 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Local Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の弥彦＆岩室温泉旅行をさらに深める3つのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の弥彦＆岩室温泉旅行をさらに深める3つのポイント</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-slate-700">
             <div className="bg-indigo-50/40 rounded-2xl p-5 border border-indigo-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-indigo-600" />
-                清々しい早朝の神社参拝
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Landmark className="w-5 h-5 text-indigo-600" />
+                清々しい早朝の神社参拝</h3>
               <p className="leading-relaxed">
                 初冬の彌彦神社は、観光客が訪れる前の朝7時〜8時台が最も神聖な空気に満ちています。吐く息の白さと木漏れ日、凛とした冷気の中で行う参拝は格別のご利益を感じられます。
               </p>
             </div>
 
             <div className="bg-indigo-50/40 rounded-2xl p-5 border border-indigo-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Snowflake className="w-5 h-5 text-indigo-600" />
-                日本海の時化と冬魚の旨味
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Snowflake className="w-5 h-5 text-indigo-600" />
+                日本海の時化と冬魚の旨味</h3>
               <p className="leading-relaxed">
                 11月下旬以降、日本海は冬の季節風で海が荒れる日が増えますが、荒波を乗り越えた寒ブリやのどぐろは身が引き締まり脂が最高の状態に。時化の合間の水揚げは至高の美味です。
               </p>
             </div>
 
             <div className="bg-indigo-50/40 rounded-2xl p-5 border border-indigo-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-indigo-600" />
-                新酒しぼりたて地酒の解禁
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-indigo-600" />
+                新酒しぼりたて地酒の解禁</h3>
               <p className="leading-relaxed">
                 新潟県内各地の酒蔵では11月から12月にかけて新米で醸された「しぼりたて新酒」が次々と出荷されます。フレッシュでフルーティーな新酒生酒と濃厚な寒ブリの組み合わせは絶品です。
               </p>
@@ -550,19 +530,15 @@ export default function NiigataIwamuroYahikoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                弥彦＆岩室温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">弥彦＆岩室温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-indigo-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -575,9 +551,7 @@ export default function NiigataIwamuroYahikoWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-indigo-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！新潟・北陸の冬美食＆雪見温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！新潟・北陸の冬美食＆雪見温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               日本海沿岸の極上蟹・寒ブリ・名湯を巡る、厳選特集記事もぜひチェックしてください。
             </p>

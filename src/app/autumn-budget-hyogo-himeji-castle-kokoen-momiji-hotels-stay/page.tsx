@@ -58,10 +58,8 @@ export default function AutumnBudgetHimejiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-blue-600" />
-            宿泊代3,000円台！浮いた予算で特選播州地酒＆極上穴子づくし会席へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-blue-600" />
+            宿泊代3,000円台！浮いた予算で特選播州地酒＆極上穴子づくし会席へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             新快速で神戸や大阪から直通できる好アクセスの姫路。駅前には大手チェーンや温泉大浴場付きのシティホテルが充実し、3,000円台〜4,000円台で快適な滞在が可能。浮いた予算を、姫路駅前おみぞ筋や魚町での姫路おでんハシゴ酒や、日本酒発祥の地とされる播州の銘酒「龍力」「奥播磨」の飲み比べに充てましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈姫路駅北〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈姫路駅北〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>姫路</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉スパ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              姫路キヤッスルグランヴィリオホテル　－ルートインホテルズ－
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">姫路キヤッスルグランヴィリオホテル　－ルートインホテルズ－</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>姫路</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結ハイクラス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル日航姫路
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル日航姫路</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>姫路</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（市内最高峰★4.42）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ダイワロイネットホテル姫路
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル姫路</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>姫路</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（城下町情緒）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              姫路城下町　ホテルクレール日笠
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">姫路城下町　ホテルクレール日笠</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>姫路</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetHimejiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-blue-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の姫路城・好古園観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300"><CheckCircle2 className="w-5 h-5" />
+            秋の姫路城・好古園観光を満喫するヒント</h2>
           <p className="text-sm text-blue-100 leading-relaxed">
             好古園の「紅葉会」は11月中旬〜下旬の金・土・日・祝日に開催。池の水面に鏡のように映り込む紅葉ライトアップは息を呑む絶景です。夕食は生姜醤油で食べる姫路おでんと名物のひねぽん（親鳥のポン酢和え）を地酒とともに味わうのが定番スタイルです。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 姫路：世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">姫路：世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「姫路：世界遺産姫路城・好古園の紅葉会と姫路おでん！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetHimejiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「姫路」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「姫路」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

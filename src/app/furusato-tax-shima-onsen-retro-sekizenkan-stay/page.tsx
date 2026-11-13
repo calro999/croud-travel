@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            四万の病を癒やす伝説の霊泉——清流四万川のエメラルドブルーと歴史ある木造建築が誘うタイムトリップ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">四万の病を癒やす伝説の霊泉——清流四万川のエメラルドブルーと歴史ある木造建築が誘うタイムトリップ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             群馬県吾妻郡中之条町、上信越高原国立公園の山あいにひっそりと佇む四万（しま）温泉。「四万（よんまん）の病を治す霊泉」という伝説からその名が付けられ、昭和29年には青森の酸ヶ湯、栃木の日光湯元とともに「国民保養温泉地」の第1号指定を受けた名湯です。温泉街の傍らを流れる四万川は、光の加減によって神秘的なエメラルドグリーンからコバルトブルーに輝く「四万ブルー」として知られ、せせらぎの音とともに深い安らぎを与えてくれます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県中之条町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  四万温泉　積善館　佳松亭・山荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">四万温泉　積善館　佳松亭・山荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   元禄四年創業・日本最古の木造湯治宿！大正ロマンあふれる登録有形文化財「元禄の湯」と山荘の贅
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  四万温泉 積善館 佳松亭・山荘 —— アニメ映画の舞台としても名高い歴史の聖地。自然林に囲まれた大人の隠れ家
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">四万温泉 積善館 佳松亭・山荘 —— アニメ映画の舞台としても名高い歴史の聖地。自然林に囲まれた大人の隠れ家</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> アーチ窓から光が差し込む大正モダン建築の傑作「元禄の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">アーチ窓から光が差し込む大正モダン建築の傑作「元禄の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">昭和5年に建てられた登録有形文化財の浴室。タイル張りの床に五つの湯船が並び、蒸し風呂や自然光が織りなす空間で奇跡の湯浴みを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国の登録有形文化財「山荘」と松林を見下ろす高台の「佳松亭」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国の登録有形文化財「山荘」と松林を見下ろす高台の「佳松亭」</h5>
                     <p className="text-stone-600 leading-relaxed">歴史ある宮大工の組子障子が見事な山荘客室や、専用露天風呂を備えた佳松亭。静寂な森に包まれながら上質な時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 二十四節気を表現した滋味豊かな季節の懐石料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">二十四節気を表現した滋味豊かな季節の懐石料理</h5>
                     <p className="text-stone-600 leading-relaxed">上州牛や群馬の清流魚、旬の高原野菜をふんだんに取り入れ、目と舌で季節の移ろいを感じられる洗練された夕食を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県中之条町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  渓谷に佇む源泉湯宿　四万やまぐち館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">渓谷に佇む源泉湯宿　四万やまぐち館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   四万川の清流を真下に見下ろす源泉湯宿！三十帖の巨大露天風呂「お題目大露天風呂」と名物女将の紙芝居
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  渓谷に佇む源泉湯宿 四万やまぐち館 —— 渓流のせせらぎがBGM。川風を感じる野趣あふれる二大露天風呂
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">渓谷に佇む源泉湯宿 四万やまぐち館 —— 渓流のせせらぎがBGM。川風を感じる野趣あふれる二大露天風呂</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 四万川の渓流にせり出す大迫力の「お題目大露天風呂」と「四万川の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">四万川の渓流にせり出す大迫力の「お題目大露天風呂」と「四万川の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">川のせせらぎを間近に聞きながら入る広大な露天風呂。毎分自然湧出する良質な源泉が惜しみなく注がれ、自然との一体感を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 毎日開催される名物女将による紙芝居と心温まるおもてなし
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">毎日開催される名物女将による紙芝居と心温まるおもてなし</h5>
                     <p className="text-stone-600 leading-relaxed">四万温泉の民話や歴史を伝える名物イベント。アットホームで温かい接客が、家族連れや年配の方まで幅広い世代に愛されています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 上州麦豚や地元採れたての清流食材を使った彩り会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">上州麦豚や地元採れたての清流食材を使った彩り会席</h5>
                     <p className="text-stone-600 leading-relaxed">柔らかい上州豚の陶板焼きや手作りこんにゃく、岩魚の塩焼きなど、群馬の自然の恵みをぎゅっと詰め込んだ料理を楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県中之条町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  四万温泉　温泉三昧の宿　四万たむら
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">四万温泉　温泉三昧の宿　四万たむら</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   室町時代創業・五百年の歴史を誇る老舗！七つの自家源泉から湧く毎分千六百リットルの湯巡り
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  四万温泉 温泉三昧の宿 四万たむら —— 広大な敷地に点在する七つの温泉。森の野天風呂と本格会席料理
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">四万温泉 温泉三昧の宿 四万たむら —— 広大な敷地に点在する七つの温泉。森の野天風呂と本格会席料理</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する七つの自家源泉を引く多彩な湯船
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する七つの自家源泉を引く多彩な湯船</h5>
                     <p className="text-stone-600 leading-relaxed">森の中に佇む野天風呂「森のこだま」、茅葺き屋根の風情ある露天風呂、檜風呂など、館内だけで贅沢な湯巡りを心ゆくまで満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 数寄屋造りの気品ある佇まいと広大な敷地の散策路
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">数寄屋造りの気品ある佇まいと広大な敷地の散策路</h5>
                     <p className="text-stone-600 leading-relaxed">創業五百年の歴史を物語る格式高い建築と、清流が流れる緑豊かな庭園。四季折々の自然の息吹を感じながら静かに寛げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伝統の出汁と旬の素材が織りなす山里会席ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伝統の出汁と旬の素材が織りなす山里会席ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">料理人が手間ひまかけて仕立てる月替わりの本格会席。上州牛やすき焼きなど、厳選された素材本来の美味しさを堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 四万温泉・四万ブルーと奥四万湖アクティビティガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 四万温泉・四万ブルーと奥四万湖アクティビティガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                奥四万湖（四万川ダム）の「四万ブルー」カヌー体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                奥四万湖（四万川ダム）の「四万ブルー」カヌー体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 四万温泉の最奥部にある奥四万湖。吸い込まれそうなエメラルドグリーンの湖面をカヌーやSUPで進むアクティビティは、息を呑む絶景体験として大人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                四万の甌穴（おうけつ）群の自然散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                四万の甌穴（おうけつ）群の自然散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 四万川の清流が数万年の歳月をかけて川底の岩を削り出して作った巨大な穴（ポットホール）。群馬県の天然記念物に指定されており、青く澄んだ水流の迫力を間近に観察できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                落合通りと昭和レトロなスマートボール「柳屋遊技場」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                落合通りと昭和レトロなスマートボール「柳屋遊技場」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 昔ながらの温泉街の風情が残る落合通り。手動で玉を弾く木製のスマートボールや射的が楽しめる遊技場があり、湯上がりのノスタルジックなひとときを過ごせます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              群馬県中之条町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">群馬県中之条町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】四万温泉 積善館 佳松亭・山荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】四万温泉 積善館 佳松亭・山荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と四万温泉 積善館 佳松亭・山荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と四万温泉 積善館 佳松亭・山荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

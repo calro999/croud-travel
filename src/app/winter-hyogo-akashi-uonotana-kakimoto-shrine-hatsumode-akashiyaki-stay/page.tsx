@@ -316,9 +316,7 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-blue-600 pl-4 mb-6">
               <span className="text-xs font-bold text-blue-600 tracking-wider uppercase">Historic Poet Shrine</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                歌聖・柿本人麻呂公を祀る人麿山「柿本神社」！明石海峡一望の新春開運初詣
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">歌聖・柿本人麻呂公を祀る人麿山「柿本神社」！明石海峡一望の新春開運初詣</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +335,7 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Market Culture & Local Gourmet</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                歳末・新春の活気満ちる「魚の棚商店街」と、出汁香る熱々の本場「明石焼き」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">歳末・新春の活気満ちる「魚の棚商店街」と、出汁香る熱々の本場「明石焼き」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -358,9 +354,7 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Gourmet & Night View</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                播州の誇るソウルフード「加古川かつめし」と、海峡を彩る冬のイルミネーション
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">播州の誇るソウルフード「加古川かつめし」と、海峡を彩る冬のイルミネーション</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -379,9 +373,7 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-blue-600 pl-4 mb-8">
               <span className="text-xs font-bold text-blue-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】明石・加古川・舞子周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】明石・加古川・舞子周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -407,9 +399,7 @@ export default function HyogoAkashiWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-blue-500 shrink-0" />
@@ -432,9 +422,7 @@ export default function HyogoAkashiWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -466,17 +454,13 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-blue-600 pl-4 mb-6">
               <span className="text-xs font-bold text-blue-600 tracking-wider uppercase">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】明石海峡絶景・柿本神社初詣＆魚の棚・加古川グルメ満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】明石海峡絶景・柿本神社初詣＆魚の棚・加古川グルメ満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：魚の棚商店街食べ歩きと柿本神社初詣・明石海峡大橋夜景
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：魚の棚商店街食べ歩きと柿本神社初詣・明石海峡大橋夜景</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">11:00 JR明石駅到着・魚の棚商店街へ</strong><br />
@@ -502,10 +486,8 @@ export default function HyogoAkashiWinterFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：舞子海上プロムナードと加古川かつめし探訪
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-blue-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：舞子海上プロムナードと加古川かつめし探訪</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:30 ホテルで朝食ビュッフェ・海風散策</strong><br />
@@ -532,47 +514,37 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Travel Guide & Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【11・12・1月】明石・播磨灘エリアの海風対策と混雑攻略
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【11・12・1月】明石・播磨灘エリアの海風対策と混雑攻略</h2>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Waves className="w-4 h-4 text-blue-500" />
-                  海峡特有の強い浜風と防寒対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Waves className="w-4 h-4 text-blue-500" />
+                  海峡特有の強い浜風と防寒対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   明石海峡沿いは太平洋側気候で晴天が多いものの、海峡を抜ける強い季節風（浜風）が吹き付けます。体感温度は実際の気温より3〜5度低く感じられるため、風を通さない防風コートやウインドブレーカー、首元を温めるマフラーが必須です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Flame className="w-4 h-4 text-amber-500" />
-                  年末年始の魚の棚商店街の混雑時間帯
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Flame className="w-4 h-4 text-amber-500" />
+                  年末年始の魚の棚商店街の混雑時間帯</h3>
                 <p className="text-stone-600 leading-relaxed">
                   12月29日〜31日は正月用品を買い求める客で魚の棚商店街が年間で最も混雑します。通路が狭いため、午前10時前か午後15時以降の時間を狙うと比較的スムーズに歩けます。明石焼き店は昼時に長蛇の列ができるため、開店直後（10:30〜11:00頃）の来店がおすすめです。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Compass className="w-4 h-4 text-emerald-500" />
-                  JR新快速をフル活用したスマート移動
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Compass className="w-4 h-4 text-emerald-500" />
+                  JR新快速をフル活用したスマート移動</h3>
                 <p className="text-stone-600 leading-relaxed">
                   JR神戸線の新快速を利用すれば、大阪から明石まで約37分、三ノ宮から約15分、加古川まで約47分と極めてスピーディーに移動できます。年末年始の国道2号線や明石海峡大橋周辺の道路渋滞を回避できるため、電車でのアクセスが圧倒的に快適です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Eye className="w-4 h-4 text-rose-500" />
-                  大橋ライトアップの撮影シャッターチャンス
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Eye className="w-4 h-4 text-rose-500" />
+                  大橋ライトアップの撮影シャッターチャンス</h3>
                 <p className="text-stone-600 leading-relaxed">
                   明石海峡大橋のイルミネーションは、毎正時（毎時00分）と30分に特別なカラーチェンジ演出が行われます。特に毎正時の約5分間は虹色に輝くレインボープログラムが実施されるため、この時間帯に合わせて大蔵海岸や舞子公園のビューポイントに待機するのがベストです。
                 </p>
@@ -584,18 +556,14 @@ export default function HyogoAkashiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-blue-600 pl-4 mb-6">
               <span className="text-xs font-bold text-blue-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                明石・加古川冬旅 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">明石・加古川冬旅 よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-blue-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-blue-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-blue-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -606,9 +574,7 @@ export default function HyogoAkashiWinterFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              海峡のきらめく光と熱々の滋味が迎える、明石・播磨灘の冬旅へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">海峡のきらめく光と熱々の滋味が迎える、明石・播磨灘の冬旅へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               柿本神社の神聖な新春初詣、活気溢れる魚の棚商店街、出汁香る本場明石焼き、そして加古川かつめしと明石海峡大橋の冬夜景。海の幸と歴史の温もりが、新年の旅路を笑顔と満足感で満たしてくれます。
             </p>

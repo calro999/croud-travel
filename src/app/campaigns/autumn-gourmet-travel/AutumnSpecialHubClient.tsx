@@ -81,9 +81,7 @@ export default function AutumnSpecialHubClient({ posts }: Props) {
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-amber-100 pb-4">
           <div className="flex items-center gap-2">
             <Filter className="w-5 h-5 text-amber-700" />
-            <h2 className="text-lg md:text-xl font-bold text-stone-900 font-journal-serif">
-              秋の味覚・エリア別クイック検索
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-stone-900 font-journal-serif">秋の味覚・エリア別クイック検索</h2>
           </div>
           <p className="text-xs text-stone-600">
             該当件数: <span className="text-amber-700 font-black text-sm">{filteredPosts.length}</span> 件 / 全{posts.length}件
@@ -247,9 +245,7 @@ export default function AutumnSpecialHubClient({ posts }: Props) {
                     ))}
                   </div>
 
-                  <h3 className="text-sm md:text-base font-bold text-stone-900 line-clamp-2 leading-snug group-hover:text-amber-700 transition-colors">
-                    {post.title}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-stone-900 line-clamp-2 leading-snug group-hover:text-amber-700 transition-colors">{post.title}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-2 leading-relaxed">
                     {post.description}

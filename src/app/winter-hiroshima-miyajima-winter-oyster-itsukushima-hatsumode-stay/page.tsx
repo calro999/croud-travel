@@ -122,10 +122,8 @@ export default function WinterFeaturePage() {
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              冬の広島県・宮島・廿日市・宮浜温泉が特別な理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              冬の広島県・宮島・廿日市・宮浜温泉が特別な理由</h2>
             <div className="grid md:grid-cols-3 gap-4 pt-2">
               <div className="bg-cyan-50/50 p-4 rounded-xl border border-cyan-100">
                 <span className="text-xs font-bold text-cyan-800 block mb-1">01. 特徴</span>
@@ -150,9 +148,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              宮島・廿日市・宮浜温泉 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">宮島・廿日市・宮浜温泉 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,16 +170,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F6271%2F6271.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 宮島潮湯温泉　錦水館
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -228,10 +222,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「厳島神社を望む絶景と細やかな配慮に感謝出産前の思い出として、貸切風呂のあるお部屋に宿泊しました。お部屋からは厳島神社がよく見えて、ロケーションもとても良かったです。お風呂は夜と朝の2回」
                     </p>
@@ -268,16 +260,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161276%2F161276.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. ホテル宮島別荘
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -322,10 +312,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「海側の絶景と広島牛ステーキに大満足海側の部屋だったんですがとてもいい眺めでした。フェリー乗り場も目の前で便利です。昼間と違い朝と夜は人も少なくのんびり散歩できました。夕食バイキングにはオプショ」
                     </p>
@@ -362,16 +350,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F11125%2F11125.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 宮島　神撰の宿　ホテルみや離宮
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -416,10 +402,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「宮島の観光に最適、料理も美味しく快適清潔感があり綺麗なホテルでした。お料理も美味しく客室から鳥居が見え宮島宿泊にはぴったりなホテルです。スタッフさんの対応も気持ち良く、食事を配膳し」
                     </p>
@@ -456,16 +440,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F7754%2F7754.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. 安芸グランドホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -510,10 +492,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「プールと遊覧船からの鳥居に大満足ブールもあり楽しめました。遊覧船での厳島神社の鳥居を間近で観れて迫力があり良かったです」
                     </p>
@@ -550,16 +530,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18848%2F18848.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 宮島グランドホテル　有もと
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -604,10 +582,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです」
                     </p>
@@ -636,9 +612,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  広島県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">広島県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -657,10 +631,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の宮島・廿日市・宮浜温泉旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の宮島・廿日市・宮浜温泉旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/70">

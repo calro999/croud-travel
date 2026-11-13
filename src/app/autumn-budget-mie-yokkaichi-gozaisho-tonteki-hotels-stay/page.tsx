@@ -58,10 +58,8 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            宿泊代2,000円台！浮いた予算で御在所ロープウェイ＆四日市コンビナート夜景クルーズ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            宿泊代2,000円台！浮いた予算で御在所ロープウェイ＆四日市コンビナート夜景クルーズ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             近鉄名古屋駅から急行で約35分と好立地の近鉄四日市駅。湯の山温泉・御在所岳への直通バスや電車が発着する観光拠点です。駅前エリアは2,000円台〜4,000円台で天然温泉付きや無料朝食付きのホテルが目白押し。宿泊代を賢く浮かせ、四日市工場夜景クルーズや名物まつもとの来来憲のとんてき定食を満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルリブマックス四日市駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックス四日市駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>近鉄四日市</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉満喫）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　御在所岳の湯　スーパーホテル四日市・国道１号沿</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>近鉄四日市</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（お洒落デザイン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルネステラ（旧ビジネスホテル西浦）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルネステラ（旧ビジネスホテル西浦）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>四日市</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              三交イン四日市駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">三交イン四日市駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>近鉄四日市</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（クチコミ高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              コンフォートホテル四日市
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">コンフォートホテル四日市</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>近鉄四日市</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の御在所岳・四日市観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の御在所岳・四日市観光の満喫ポイント</h2>
           <p className="text-sm text-emerald-100 leading-relaxed">
             御在所岳の紅葉は10月中旬の山頂から始まり、11月下旬の山麓まで長期間楽しめます。ロープウェイのゴンドラから見下ろす紅葉の絨毯は圧巻。夜は四日市港ポートビル展望展示室「うみてらす14」から日本屈指の工場夜景のパノラマを堪能してください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「四日市：御在所岳の三段紅葉とスタミナ四日市とんてき！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -351,9 +335,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「四日市」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「四日市」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -266,10 +266,8 @@ export default function ArimaWinterPage() {
             <Gem className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 日本最古の名湯・金泉銀泉と最高峰神戸牛特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月有馬温泉の金泉銀泉と六甲山夜景】<br className="hidden sm:inline" />
-            日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月有馬温泉の金泉銀泉と六甲山夜景】<br className="hidden sm:inline" />
+            日本最古の名湯で芯から温まる冬・最高峰神戸牛会席を味わう老舗宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             神代より湧き出ずる日本最古の名湯。秀吉も傷と疲れを癒やした濃密な赤茶色の「金泉」は冬でも湯冷め知らず。澄み切った六甲山の1000万ドルの夜景と、霜降り美しき神戸牛の極上会席に酔いしれる週末の贅沢旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function ArimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Imperial & Samurai Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                太閤秀吉が愛した日本最古の名湯。濃厚な「金泉」がもたらす冬の極楽
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">太閤秀吉が愛した日本最古の名湯。濃厚な「金泉」がもたらす冬の極楽</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function ArimaWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-amber-800" />
-                <span>冬の六甲山頂からの「1000万ドルの夜景」鑑賞</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-800" />
+                <span>冬の六甲山頂からの「1000万ドルの夜景」鑑賞</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 有馬温泉から六甲有馬ロープウェーで山頂駅へわずか12分。大気が澄み渡る11月・12月は大阪湾から関西国際空港まで見渡せる絶景シーズンです。
               </p>
@@ -365,9 +359,7 @@ export default function ArimaWinterPage() {
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest bg-amber-50 px-3.5 py-1.5 rounded-full border border-amber-200">
               Selected 5 Historic Ryokan
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              【11・12月】有馬温泉で泊まりたい極上老舗宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">【11・12月】有馬温泉で泊まりたい極上老舗宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
               創業700年の伝統を誇る兵衛向陽閣から、文豪ゆかりの御所坊、天空展望大浴場を備える有馬グランドホテルまで、本物の有馬を体感できる名宿を厳選。
             </p>
@@ -412,9 +404,7 @@ export default function ArimaWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
 
                     <p className="text-stone-700 leading-relaxed text-sm">
                       {hotel.story}
@@ -480,9 +470,7 @@ export default function ArimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の有馬温泉 金泉銀泉＆六甲山夜景・神戸牛満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の有馬温泉 金泉銀泉＆六甲山夜景・神戸牛満喫モデルコース</h2>
             </div>
           </div>
 
@@ -574,48 +562,38 @@ export default function ArimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                有馬温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">有馬温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>有馬温泉の「金泉」と「銀泉」の泉質や効能の違いは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>有馬温泉の「金泉」と「銀泉」の泉質や効能の違いは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 有馬温泉には世界的に珍しい2つの特異な源泉があります。『金泉（きんせん）』は含鉄ナトリウム塩化物強塩高温泉で、湧出時は無色透明ですが空気に触れて鉄分が酸化し濃い赤茶色に変化します。海水の1.5〜2倍という極めて高い塩分を含み、皮膚に付着した塩分が放熱を防ぐため、抜群の保温・保湿効果があり冬の冷え性に最適です。一方、『銀泉（ぎんせん）』は無色透明の炭酸水素塩泉および放射能泉（ラドン泉）で、毛細血管を拡張させて血流を促し、高血圧や関節痛の改善、美肌効果が期待できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>有馬温泉の11月・12月の気候と六甲山からの夜景の見え方は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>有馬温泉の11月・12月の気候と六甲山からの夜景の見え方は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 有馬温泉は六甲山の北麓（標高約350〜400m）に位置するため、神戸市街地や大阪市内よりも気温が3〜5度低くなります。11月は朝晩の冷え込みが強く（5度前後）、12月に入ると朝晩は氷点下に近付きます。冬の六甲山頂（ロープウェーでアクセス可能）は空気が極限まで澄み渡るため、大阪湾から神戸港、紀伊半島まで見渡す『1000万ドルの冬夜景』が一年で最も鮮やかで美しく輝きます。厚手のダウンコートや手袋・マフラーを必ず着用してください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>大阪や神戸・京都からのアクセス方法と所要時間は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>大阪や神戸・京都からのアクセス方法と所要時間は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 大阪駅（梅田・阪急三番街）からは直行の高速バス（阪急バス・西日本JRバス）で乗り換えなし約55分。神戸三宮駅からは直行バスで約30分、または神戸市営地下鉄・神戸電鉄を乗り継いで約35分です。京都駅八条口からも直行高速バスで約75分と、関西主要都市からのアクセスは極めて快適です。お車の場合は阪神高速7号北神戸線『有馬口IC』から約5分です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>有馬温泉で味わうべき最高峰グルメは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>有馬温泉で味わうべき最高峰グルメは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 何と言っても世界に名だたる兵庫の誇り『神戸牛（但馬牛）』です。きめ細やかなサシが入った最高ランクの神戸牛をすき焼き、しゃぶしゃぶ、陶板ステーキで味わう会席は格別です。また、ピリリとした清涼感が特徴の伝統の『有馬山椒』を使った料理や、炭酸泉の恵みから生まれたパリッと香ばしい『炭酸煎餅』、手作りの『有馬麦酒（地ビール）』もお土産・食べ歩きの定番です。
               </p>
@@ -627,9 +605,7 @@ export default function ArimaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-amber-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆関西・近畿名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆関西・近畿名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -638,9 +614,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">兵庫の冬の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
             </Link>
 
             <Link 
@@ -648,9 +622,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">京都の冬情緒</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
             </Link>
 
             <Link 
@@ -658,9 +630,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三古湯の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【道後温泉】保存修理完了の本館と真鯛鯛めし・伊予牛会席の宿</h3>
             </Link>
 
             <Link 
@@ -668,9 +638,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">近畿・伊勢志摩</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【伊勢志摩】宇治橋の冬至日の出と的矢かき・伊勢海老会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【伊勢志摩】宇治橋の冬至日の出と的矢かき・伊勢海老会席の宿</h3>
             </Link>
 
             <Link 
@@ -678,9 +646,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">紀州の幻の魚</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【天然クエ料理】冬の白浜・南紀で味わう幻の高級魚クエ鍋と名湯露天
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【天然クエ料理】冬の白浜・南紀で味わう幻の高級魚クエ鍋と名湯露天</h3>
             </Link>
 
             <Link 
@@ -688,9 +654,7 @@ export default function ArimaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">日本三名泉</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hyogo-arima-onsen-kinsen-kobe-beef-stay" />

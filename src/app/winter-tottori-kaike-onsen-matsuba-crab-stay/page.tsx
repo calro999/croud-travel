@@ -259,10 +259,8 @@ export default function KaikeWinterPage() {
             <Eye className="w-4 h-4 text-blue-300" />
             <span>11月・12月限定 山陰松葉ガニ解禁＆大山雪景色・美肌塩湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月皆生温泉の大山雪景色とカニ漁解禁】<br className="hidden sm:inline" />
-            日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月皆生温泉の大山雪景色とカニ漁解禁】<br className="hidden sm:inline" />
+            日本海の美肌塩湯・11月解禁境港活松葉ガニ＆鳥取和牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海屈指のカニ水揚げを誇る境港で冬の松葉ガニ漁が一斉解禁。弓ヶ浜の波打ち際から湧く美肌の塩化物泉。白銀に輝く秀峰・大山の冠雪パノラマを望み、青タグ付き極上活松葉ガニと鳥取和牛オレイン55に酔いしれる冬の山陰旅。
           </p>
@@ -288,9 +286,7 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Sanin Sea Hot Spring Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                海中から湧く美肌の塩湯と大山の冠雪。11月6日、冬の王様「松葉ガニ」解禁
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">海中から湧く美肌の塩湯と大山の冠雪。11月6日、冬の王様「松葉ガニ」解禁</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -305,10 +301,8 @@ export default function KaikeWinterPage() {
           
           <div className="bg-blue-50/70 rounded-2xl p-5 border border-blue-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-blue-700" />
-                11月・12月皆生温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-blue-700" />
+                11月・12月皆生温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月6日解禁境港青タグ活松葉ガニ・大山白銀雪景色パノラマ・海の美肌塩湯・鳥取和牛オレイン55
               </p>
@@ -359,9 +353,7 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">King of Sanin Winter Crab</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月6日境港松葉ガニ漁解禁：青タグ活ガニの極上フルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月6日境港松葉ガニ漁解禁：青タグ活ガニの極上フルコース</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -380,9 +372,7 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Healing Ocean Salt Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                海中湧出の美肌塩湯：タラソテラピー効果と温まりの効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">海中湧出の美肌塩湯：タラソテラピー効果と温まりの効能</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -402,9 +392,7 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Sacred Mountain & Winter Peak</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                秀峰・大山（伯耆富士）の白銀初冠雪と山陰の冬を彩る「親ガニ」の秘密
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">秀峰・大山（伯耆富士）の白銀初冠雪と山陰の冬を彩る「親ガニ」の秘密</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -425,9 +413,7 @@ export default function KaikeWinterPage() {
               <Flame className="w-3.5 h-3.5" />
               <span>Rakuten Travel Official API Verified Selection</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11・12月に泊まりたい皆生温泉の名宿厳選5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい皆生温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
               楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。日本海と大山雪景色の絶景露天風呂と、境港直送活松葉ガニ＆鳥取和牛を堪能できる名宿5軒をご紹介します。
             </p>
@@ -467,9 +453,7 @@ export default function KaikeWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
                         「{hotel.special}」
@@ -481,10 +465,8 @@ export default function KaikeWinterPage() {
 
                       {/* Highlights */}
                       <div className="space-y-2 bg-stone-50 p-4 rounded-2xl border border-stone-200/70 mb-5">
-                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide">
-                          <CheckCircle2 className="w-4 h-4 text-blue-700" />
-                          冬の滞在おすすめポイント
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide"><CheckCircle2 className="w-4 h-4 text-blue-700" />
+                          冬の滞在おすすめポイント</h4>
                         <ul className="text-xs text-stone-600 space-y-1.5 pl-1">
                           {hotel.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-1.5">
@@ -545,26 +527,20 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                山陰冬の贅の極み：境港タグ付き活松葉ガニとブランド牛「鳥取和牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">山陰冬の贅の極み：境港タグ付き活松葉ガニとブランド牛「鳥取和牛」</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-700" />
-                境港直送「青タグ活松葉ガニ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-700" />
+                境港直送「青タグ活松葉ガニ」</h3>
               <p className="leading-relaxed text-sm">
                 日本海深海で栄養豊富なプランクトンを食べて育った松葉ガニ。境港に水揚げされる活松葉ガニは、太い脚にぎっしりと身が詰まり、上品な甘みとみずみずしさが際立ちます。花が咲いたようなカニ刺し、甲羅に炭火を当てて香ばしく焼き上げる焼きガニ、熱々のカニすき鍋、そしてカニ味噌を余すことなく味わう甲羅酒まで、本場ならではの贅を尽くしたコースを堪能できます。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-700" />
-                鳥取の至宝「鳥取和牛オレイン55」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-700" />
+                鳥取の至宝「鳥取和牛オレイン55」</h3>
               <p className="leading-relaxed text-sm">
                 江戸時代からの伝統を誇る名牛の産地・鳥取県。オリーブオイルの主成分でもある「オレイン酸」を55%以上含む厳選された黒毛和牛「鳥取和牛オレイン55」は、融点が16℃と極めて低く、口に入れた瞬間にとろけるような滑らかな舌触りと上品な赤身の香りが広がります。冬の松葉ガニとともにステーキやすき焼きで味わうプランは絶品です。
               </p>
@@ -580,29 +556,21 @@ export default function KaikeWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：境港水木しげるロードと皆生温泉・大山雪景色の旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：境港水木しげるロードと皆生温泉・大山雪景色の旅</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-blue-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-blue-800 uppercase tracking-wider">【1日目】米子到着〜境港でカニ三昧と皆生温泉ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:00 米子鬼太郎空港（またはJR米子駅）到着 → 境港「水木しげるロード」へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:00 米子鬼太郎空港（またはJR米子駅）到着 → 境港「水木しげるロード」へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 妖怪ブロンズ像が並ぶ水木しげるロードを散策。境港水産物直売センターで新鮮なカニや海鮮丼のランチ。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                14:00 弓ヶ浜海岸をドライブ → 皆生温泉へ到着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">14:00 弓ヶ浜海岸をドライブ → 皆生温泉へ到着</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 海岸線越しにそびえる大山の初冬冠雪を眺望。温泉街に到着しチェックイン。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 海を望む露天風呂で塩化物泉を満喫
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 海を望む露天風呂で塩化物泉を満喫</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本海の潮騒を聞きながら温まりの塩湯に浸かる。夕食は境港直送の青タグ活松葉ガニフルコースに舌鼓。
               </p>
@@ -610,15 +578,11 @@ export default function KaikeWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の海風呂〜大山山麓散策とご当地土産へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 日本海から昇る朝陽を望む展望風呂 → 地元食材の和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 日本海から昇る朝陽を望む展望風呂 → 地元食材の和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 爽快な朝の海風を感じる入浴。鳥取県産コシヒカリと宍道湖のしじみ汁、地魚干物の朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 大山山麓の「大山まきばみるくの里」へ（または米子城跡展望台へ）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 大山山麓の「大山まきばみるくの里」へ（または米子城跡展望台へ）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 雪化粧した大山の雄姿を間近に鑑賞し、名物の濃厚ソフトクリームを堪能。米子駅でお土産を購入し帰路へ。
               </p>
@@ -641,10 +605,8 @@ export default function KaikeWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -659,9 +621,7 @@ export default function KaikeWinterPage() {
         <section className="bg-blue-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-blue-300 uppercase tracking-widest">Related Winter Crab & Onsen Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山陰・冬のカニ温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山陰・冬のカニ温泉特集</h2>
             <p className="text-xs sm:text-sm text-blue-100/90 leading-relaxed">
               11月・12月ならではの絶景や旬の松葉ガニを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

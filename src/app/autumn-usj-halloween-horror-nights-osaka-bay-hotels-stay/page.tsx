@@ -295,9 +295,7 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Street Zombies & Horror Nights</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                容赦なき恐怖！神出鬼没の「ストリート・ゾンビ」と狂乱の「ゾンビ・デ・ダンス」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">容赦なき恐怖！神出鬼没の「ストリート・ゾンビ」と狂乱の「ゾンビ・デ・ダンス」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -316,9 +314,7 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Daytime Party & Pokemon</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                昼は超ハジける！「DJピカチュウ＆ゲンガー」のハロウィーン・パーティと限定フード
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">昼は超ハジける！「DJピカチュウ＆ゲンガー」のハロウィーン・パーティと限定フード</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +333,7 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-purple-600 pl-4 mb-6">
               <span className="text-xs font-bold text-purple-600 tracking-wider uppercase">Horror Maze & Survival</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                生還率わずか！？背筋が凍る「バイオハザード・ナイト・オブ・ヒーローズ」と体験型メイズ
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">生還率わずか！？背筋が凍る「バイオハザード・ナイト・オブ・ヒーローズ」と体験型メイズ</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -355,9 +349,7 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-8">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】USJメインゲート前＆天然温泉付き厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】USJメインゲート前＆天然温泉付き厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -383,9 +375,7 @@ export default function UsjHalloweenFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-red-500 shrink-0" />
@@ -408,9 +398,7 @@ export default function UsjHalloweenFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -442,17 +430,13 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">USJ Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】昼のフェスから夜のゾンビ狂乱＆展望温泉満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】昼のフェスから夜のゾンビ狂乱＆展望温泉満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：アーリーイン・昼のポケモンフェス＆夜の絶叫ホラーナイト
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：アーリーイン・昼のポケモンフェス＆夜の絶叫ホラーナイト</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 ホテルに手荷物を預けてUSJへ入場</strong><br />
@@ -482,10 +466,8 @@ export default function UsjHalloweenFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：ホテル朝食バイキング・ユニバーサル・シティウォーク散策＆帰路
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：ホテル朝食バイキング・ユニバーサル・シティウォーク散策＆帰路</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 ホテルのシェフ特製ブッフェでたこ焼き＆ステーキ朝食</strong><br />
@@ -508,37 +490,29 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">USJ Survival Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                ホラーナイトを安全・快適に楽しむための必須心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">ホラーナイトを安全・快適に楽しむための必須心得</h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-red-500" />
-                  足元は必ずスニーカー推奨
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-red-500" />
+                  足元は必ずスニーカー推奨</h3>
                 <p className="text-stone-600 leading-relaxed">
                   ゾンビの急接近で走ったり、ゾンビデダンスで激しくジャンプするため、ヒールやサンダルは危険です。クッション性の高いスニーカーを必ず着用しましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <ShieldCheck className="w-4 h-4 text-amber-500" />
-                  ホラーが苦手な方はセーフティエリアへ
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><ShieldCheck className="w-4 h-4 text-amber-500" />
+                  ホラーが苦手な方はセーフティエリアへ</h3>
                 <p className="text-stone-600 leading-relaxed">
                   ワンダーランドやミニオンパーク周辺はゾンビが出現しない安心エリアです。小さなお子様連れや過度なパニックを避けたい場合は事前に避難ルートを確認しておきましょう。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-purple-500" />
-                  エクスプレスパスの事前確保
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-purple-500" />
+                  エクスプレスパスの事前確保</h3>
                 <p className="text-stone-600 leading-relaxed">
                   10月の土日祝日は人気メイズが150分待ちになることも。ホラーアトラクションを含むエクスプレスパスを事前に入手しておくと圧倒的に効率よく回れます。
                 </p>
@@ -550,18 +524,14 @@ export default function UsjHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                USJハロウィーン・ホラー・ナイト よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">USJハロウィーン・ホラー・ナイト よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-red-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-red-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-red-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -572,9 +542,7 @@ export default function UsjHalloweenFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              日本最高峰の絶叫と熱狂が待つユニバーサル・スタジオ・ジャパンへ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">日本最高峰の絶叫と熱狂が待つユニバーサル・スタジオ・ジャパンへ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               叫んで、踊って、笑って、日常のすべてを吹き飛ばす秋のエンターテインメント。熱狂のあとはパーク直結ホテルや展望温泉で贅沢に寛ぎ、忘れられないハロウィーンの夜を刻みましょう。
             </p>

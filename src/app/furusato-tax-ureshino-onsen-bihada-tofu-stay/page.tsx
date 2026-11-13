@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            化粧水に浸かるようなトロトロの湯ざわり、朝食名物「温泉湯豆腐」の感動——嬉野温泉で叶える至高の美肌リトリート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">化粧水に浸かるようなトロトロの湯ざわり、朝食名物「温泉湯豆腐」の感動——嬉野温泉で叶える至高の美肌リトリート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             島根の斐乃上温泉、栃木の喜連川温泉とともに「日本三大美肌の湯」と称される佐賀県・嬉野温泉。ナトリウム炭酸水素塩・塩化物泉の泉質は、皮膚の余分な角質をやさしく洗い流し、水分をたっぷり補給してしっとりすべすべに仕上げる天然の美容液そのものです。嬉野川を挟んで広がる温泉街には、お茶の産地ならではの茶畑の緑が広がり、温泉の香りと香ばしい嬉野茶の香りが漂う穏やかな空気に包まれています。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             嬉野温泉の朝のハイライトといえば、名物「温泉湯豆腐」。アルカリ性の温泉水で豆腐をコトコト煮込むことで、豆腐の角が溶け出し、スープが白濁してトロトロの口当たりに変化する奇跡の郷土料理です。さらに夕食には、全国トップクラスの肉質を誇るブランド牛「佐賀牛」のすき焼きやステーキ。佐賀県嬉野市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門温泉旅館へお得に滞在でき、心もお肌も潤う贅沢な休日が実現します。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（嬉野温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（嬉野温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県嬉野市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  嬉野温泉　和多屋別荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">嬉野温泉　和多屋別荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   嬉野川沿い二万坪の壮大な日本庭園！世界的建築家・黒川紀章設計のタワー棟と三光の湯で愉しむ極上リゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  嬉野温泉 和多屋別荘 —— 二万坪の大空間に広がるカルチャーと美肌湯。アートと伝統が交差する大型名宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">嬉野温泉 和多屋別荘 —— 二万坪の大空間に広がるカルチャーと美肌湯。アートと伝統が交差する大型名宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 嬉野川のせせらぎを望む大浴場「御影殿」と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">嬉野川のせせらぎを望む大浴場「御影殿」と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">美肌の湯が贅沢に注がれる広大な大浴場。御影石と檜をふんだんに使った湯処で、トロトロとした至極の泉質を全身で堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 二万坪の敷地に点在する足湯ラウンジやブックカフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">二万坪の敷地に点在する足湯ラウンジやブックカフェ</h5>
                     <p className="text-stone-600 leading-relaxed">「BOOKS & TEA 三服」をはじめ、嬉野茶を味わいながら読書を楽しめる洗練されたラウンジ。川沿いのテラス足湯でのんびりと憩えます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 佐賀牛のステーキや伝統会席を味わう選べるダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">佐賀牛のステーキや伝統会席を味わう選べるダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">ミシュラン掲載の日本料理店や佐賀牛専門レストランなど、多彩な食のスタイル。素材本来の旨味を極限まで引き出したディナーが楽しめます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県嬉野市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  嬉野温泉　大正屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">嬉野温泉　大正屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   大正十四年創業・名建築家・吉村順三が手掛けた美の殿堂！四季の庭園と滝の湯・元祖とろける温泉湯豆腐
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  嬉野温泉 大正屋 —— 皇族も逗留した嬉野最高峰の老舗。手入れの行き届いた日本庭園と洗練のおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">嬉野温泉 大正屋 —— 皇族も逗留した嬉野最高峰の老舗。手入れの行き届いた日本庭園と洗練のおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名建築家・吉村順三が設計した光と木が調和する空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名建築家・吉村順三が設計した光と木が調和する空間</h5>
                     <p className="text-stone-600 leading-relaxed">昭和から平成にかけて増改築を重ねた美しい和風モダン建築。自然の緑を巧みに取り入れた窓や廊下の意匠が、静謐で上質な時間を紡ぎ出します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 庭園の滝を眺めながら入浴する大浴場「四季の湯」「滝の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">庭園の滝を眺めながら入浴する大浴場「四季の湯」「滝の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">吹き抜けの高い天井とガラス張りの大浴場。目の前に流れる滝と手入れされた庭園を眺めながら、極上の美肌温泉に浸かる贅沢な時間が流れます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 元祖「大正屋特製どうふ」の朝食と最高級佐賀牛会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">元祖「大正屋特製どうふ」の朝食と最高級佐賀牛会席</h5>
                     <p className="text-stone-600 leading-relaxed">専用工場で作られる自慢の豆腐を温泉水で煮込んだ朝の温泉湯豆腐。夕食にはA5ランク佐賀牛や有明海の海の幸を取り入れた正統派日本料理を味わえます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県嬉野市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  嬉野温泉　茶心の宿　和楽園
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">嬉野温泉　茶心の宿　和楽園</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本初！特産うれしの茶を贅沢に浮かべた名物「緑茶風呂」！お茶の香りと美肌温泉の至福コラボレーション
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  嬉野温泉 茶心の宿 和楽園 —— お茶をテーマにした癒しの宿。緑茶露天風呂とお茶すり体験・特選佐賀牛会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">嬉野温泉 茶心の宿 和楽園 —— お茶をテーマにした癒しの宿。緑茶露天風呂とお茶すり体験・特選佐賀牛会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大きな茶つぼからお茶のエキスが注ぐ名物「緑茶風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大きな茶つぼからお茶のエキスが注ぐ名物「緑茶風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">嬉野特産の高級緑茶を温泉に浸したユニークなお風呂。カテキンの殺菌作用とビタミンCの美白効果が美肌温泉と合わさり、極上の肌触りを実現しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> お茶パックで全身をパッティングする贅沢な湯浴み
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">お茶パックで全身をパッティングする贅沢な湯浴み</h5>
                     <p className="text-stone-600 leading-relaxed">湯船の脇に用意された特製のお茶パック。顔や体に優しく当てることで、豊かなお茶の香りに包まれながらリフレッシュできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> うれしの茶を使った創作料理と佐賀牛のしゃぶしゃぶ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">うれしの茶を使った創作料理と佐賀牛のしゃぶしゃぶ</h5>
                     <p className="text-stone-600 leading-relaxed">お茶の葉を天ぷらや出汁に活用した独自の創作会席。柔らかくとろける佐賀牛とともに、嬉野ならではの食の魅力を満喫できます。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            嬉野温泉街の足湯散歩＆茶畑・肥前吉田焼観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">嬉野温泉街の足湯散歩＆茶畑・肥前吉田焼観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> シーボルトの湯と湯宿広場の「足湯・足蒸し湯」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> シーボルトの湯と湯宿広場の「足湯・足蒸し湯」</h3>
               <p className="text-stone-700 text-sm leading-relaxed">大正ロマンを感じさせる洋館風の共同浴場「シーボルトの湯」。温泉街中心の「湯宿広場」では、全国的にも珍しい温泉蒸気を使った「足蒸し湯」を無料で体験できます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 嬉野茶畑の茶空間「茶室テラス」での絶景ティータイム
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 嬉野茶畑の茶空間「茶室テラス」での絶景ティータイム</h3>
               <p className="text-stone-700 text-sm leading-relaxed">緑豊かな茶畑の中に設けられたプライベートな屋外茶室テラス「茶空間」。専属の茶農家が淹れる最高級の嬉野茶を、絶景を眺めながら味わう非日常の体験が人気です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 肥前吉田焼の窯元めぐりと有田焼への立ち寄り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 肥前吉田焼の窯元めぐりと有田焼への立ち寄り</h3>
               <p className="text-stone-700 text-sm leading-relaxed">嬉野温泉から車で約10分の「肥前吉田焼」の窯元群。素朴でモダンな器を探す陶器市やショップ巡りが楽しめます。日本屈指の陶磁器の街・有田や伊万里へのドライブにも最適です。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              佐賀県嬉野市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">佐賀県嬉野市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】嬉野温泉 和多屋別荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】嬉野温泉 和多屋別荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と嬉野温泉 和多屋別荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と嬉野温泉 和多屋別荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

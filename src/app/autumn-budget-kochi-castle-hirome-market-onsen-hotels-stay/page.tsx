@@ -55,9 +55,7 @@ export default function KochiBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋は「戻りガツオ」の最旬期！ひろめ市場を遊び尽くすコスパ旅
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋は「戻りガツオ」の最旬期！ひろめ市場を遊び尽くすコスパ旅</h2>
           <p className="mb-4 text-stone-700">
             高知の秋はグルメの黄金期。三陸沖から南下してきた「戻りカツオ」は、初夏の初ガツオとは比べものにならないほど濃厚な脂が乗り、藁焼きの香ばしい煙で炙った熱々の「塩タタキ」にニンニクスライスを乗せて頬張る味は感動的です。
           </p>
@@ -69,10 +67,8 @@ export default function KochiBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！高知の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！高知の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KochiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.24</span>
                     <span className="text-stone-400 text-xs">(2972件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    サウスブリーズホテル　高知海月
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">サウスブリーズホテル　高知海月</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / 文化プラザかるぽーと徒歩1分・はりまや橋観光バスターミナル徒歩３分・はりまや橋徒歩7分・高知駅車で5分
                   </p>
@@ -142,9 +136,7 @@ export default function KochiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.38</span>
                     <span className="text-stone-400 text-xs">(690件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルベストプライス高知
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルベストプライス高知</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / JR高知駅より車で約7分／高知空港よりバスで約20分、バス停「宝永町駅」より徒歩約4分
                   </p>
@@ -189,9 +181,7 @@ export default function KochiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.24</span>
                     <span className="text-stone-400 text-xs">(693件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル高砂＜高知県＞
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル高砂＜高知県＞</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / 高知駅より徒歩３分。繁華街まで５分圏内、高知IC車１０分。高知空港から車で３０分。
                   </p>
@@ -236,9 +226,7 @@ export default function KochiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.15</span>
                     <span className="text-stone-400 text-xs">(1111件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    亀の井ホテル　高知
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">亀の井ホテル　高知</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 伊野駅 / ＪＲ土讃線　伊野駅より車で約５分（約２．５キロ）／高知自動車道　伊野ＩＣより国道３３号線を松山方面へ約１５分（約６ｋｍ）
                   </p>
@@ -283,9 +271,7 @@ export default function KochiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.15</span>
                     <span className="text-stone-400 text-xs">(2944件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スーパーホテル高知
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スーパーホテル高知</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 高知駅 / ＪＲ高知駅から徒歩約４分／高知ＩＣから車で約１０分
                   </p>
@@ -330,9 +316,7 @@ export default function KochiBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の高知×格安：高知城の紅葉とひろめ市場のカツオ藁焼き！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊3,000円〜6,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KochiBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の高知×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の高知×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

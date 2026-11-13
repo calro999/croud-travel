@@ -108,9 +108,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  湖・山・海！ガラス張りのサウナ室から広がる圧倒的な自然パノラマビュー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">湖・山・海！ガラス張りのサウナ室から広がる圧倒的な自然パノラマビュー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 薄暗いサウナ室の大きなピクチャーウィンドウ越しに広がる、青い湖、雪化粧した北アルプス、広大な水平線。刻一刻と変化する大自然の情景を眺めながらじっくりと汗を流す贅沢は、街のサウナでは決して味わえません。
@@ -123,9 +121,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  名水掛け流しの天然水風呂＆高原・潮風が吹き抜ける極上の外気浴デッキ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">名水掛け流しの天然水風呂＆高原・潮風が吹き抜ける極上の外気浴デッキ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 雪解け水や伏流水を使用した肌当たりのまろやかな天然水風呂でクールダウンした後は、インフィニティチェアや木製ベンチで外気浴。澄み切った高原の空気や心地よい潮風に包まれ、深い「ととのい」へと導かれます。
@@ -138,9 +134,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  サウナ後の「サ飯」が絶品！地元の名物料理や冷たいクラフトビールで乾杯
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">サウナ後の「サ飯」が絶品！地元の名物料理や冷たいクラフトビールで乾杯</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 発汗によって研ぎ澄まされた舌で味わう、北海道のジンギスカンや海鮮、信州蕎麦や黒毛和牛、駿河湾の獲れたてマグロ。キンキンに冷えた地ビールとともに味わう夕食バイキングや会席は格別の美味さです。
@@ -183,9 +177,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道壮瞥町・洞爺湖を一望する絶景フィンランドサウナ＆セルフロウリュ！サウナシュラン選出名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    洞爺湖万世閣ホテルレイクサイドテラス
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">洞爺湖万世閣ホテルレイクサイドテラス</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     洞爺湖の湖畔に建ち、サウナ愛好家から絶大な支持を集めて「サウナシュラン」にも選出された北のサウナの聖地。最上階の「星の湯」には大きな窓から洞爺湖の絶景を望むセルフロウリュサウナと、水深の深い天然水風呂、爽快な外気浴インフィニティテラスを完備。地下大浴場「月の湯」にはオートロウリュ式サウナや寝湯も備え、趣の異なるサウナを満喫できます。夕食ビュッフェでは石窯ピッツァや北海道産牛ステーキ、搾りたてチーズなど贅沢な料理が並び、心ゆくまで「ととのう」極上のサウナステイが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県白馬村・北アルプス白馬連峰パノラマを仰ぐ絶景外気浴！白馬姫川温泉の名湯リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    白馬姫川温泉　白馬ハイランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">白馬姫川温泉　白馬ハイランドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     北アルプス白馬三山（白馬岳・杓子岳・白馬鑓ヶ岳）の大パノラマを正面に望む絶好の高台に建つ温泉リゾートホテル。宿自慢の露天風呂「天神の湯」に併設されたサウナからは、雄大な山並みを眺めながらじっくりと発汗を楽しめます。北アルプスの雪解け水が育んだ清冽な水風呂で身体を締めた後は、山風が吹き抜けるデッキテラスで絶景を眺めながらの外気浴。保温効果抜群の自家源泉「白馬姫川温泉」との温冷交代浴も最高で、登山やスキー後のリフレッシュにも多くのサウナーに愛されています。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県焼津市・駿河湾と富士山を望む森のテラスサウナ＆富士山伏流水風呂！オールインクルーシブ宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    焼津温泉　焼津グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">焼津温泉　焼津グランドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     駿河湾の断崖に位置し、海と富士山の絶景を一望する森と海のリゾートホテル。大浴場「海のお風呂」と「森のお風呂」には本格的なドライサウナを完備し、富士山を望む外気浴デッキで海風を感じながらのディープリラックスが体験できます。さらに館内のドリンクやスイーツ、アクティビティがすべて宿泊料金に含まれるオールインクルーシブスタイルを採用。サウナ上がりにラウンジで静岡クラフトビールやジェラートを味わい、駿河湾の新鮮なマグロを心ゆくまで堪能できる贅沢三昧の休日をお過ごしいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】洞爺湖万世閣ホテルレイクサイドテラスを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】洞爺湖万世閣ホテルレイクサイドテラスを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoScenicSaunaTotonoiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と洞爺湖万世閣ホテルレイクサイドテラスの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と洞爺湖万世閣ホテルレイクサイドテラスの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

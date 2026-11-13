@@ -58,10 +58,8 @@ export default function AutumnBudgetHachinoheHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-blue-600" />
-            宿泊代2,000円台！浮いた予算でみろく横丁の地酒＆前沖サバとイカ刺し三昧
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-blue-600" />
+            宿泊代2,000円台！浮いた予算でみろく横丁の地酒＆前沖サバとイカ刺し三昧</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             東北新幹線はやぶさが停車する八戸。中心街（本八戸周辺）には居酒屋横丁や飲食店がひしめき、宿泊料金も全国屈指のハイコスパを誇ります。2,000円台〜3,000円台で快適なホテルに泊まり、浮かせた宿泊費で八戸名物のヒラメ漬け丼や前沖銀サバのトロ焼き、青森銘酒「陸奥八仙」「田酒」を心ゆくまで満喫しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルリブマックス本八戸駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックス本八戸駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>本八戸</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（老舗の風格）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              八戸グランドホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">八戸グランドホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>八戸</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルイマルカ八戸
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルイマルカ八戸</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>本八戸</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉満喫）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル八戸長横町
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル八戸長横町</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>本八戸</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（高評価★4.45）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈八戸中央〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈八戸中央〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>本八戸</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetHachinoheHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-blue-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の八戸観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300"><CheckCircle2 className="w-5 h-5" />
+            秋の八戸観光を満喫するヒント</h2>
           <p className="text-sm text-blue-100 leading-relaxed">
             館鼻岸壁朝市は毎週日曜日の日の出から9時頃まで開催。数百の露店が並び、手羽先揚げや焼き魚、せんべい汁など朝から絶品グルメが目白押しです。日曜日に重なる日程で宿泊すると、最高の八戸体験が楽しめます。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「八戸：種差海岸の秋風散策と八戸せんべい汁！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「八戸」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「八戸」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

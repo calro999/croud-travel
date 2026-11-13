@@ -259,10 +259,8 @@ export default function KinugawaWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 鬼怒川渓谷初冬美景＆日光ゆば・とちぎ和牛会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月鬼怒川温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
-            雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月鬼怒川温泉の初冬渓谷美と名湯】<br className="hidden sm:inline" />
+            雪化粧の奇岩とアルカリ性美肌泉・とちぎ和牛＆日光生ゆば会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             かつて日光詣での大名や高僧のみに入湯が許された関東の奥座敷・鬼怒川温泉。11月の晩秋の静寂から12月の雪景色へと移ろう渓谷美。アルカリ性美肌湯に癒やされ、日光伝統の生湯波と霜降り極上のとちぎ和牛に舌鼓を打つ大人の冬旅。
           </p>
@@ -288,9 +286,7 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Heritage of Kinugawa Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                大名が愛した名湯と鬼怒川の奇岩渓谷。11月・12月が最も風雅な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">大名が愛した名湯と鬼怒川の奇岩渓谷。11月・12月が最も風雅な理由</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -305,10 +301,8 @@ export default function KinugawaWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                11月・12月鬼怒川温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                11月・12月鬼怒川温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 鬼怒川渓谷の初冬奇岩美・雪見露天風呂・日光二つ折り生湯波・極上とちぎ和牛・東武特急スペーシアXの快適旅
               </p>
@@ -359,9 +353,7 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Scenic Winter Gorge</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                鬼怒川渓谷の初冬景観：奇岩・吊橋・初雪のグラデーション
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">鬼怒川渓谷の初冬景観：奇岩・吊橋・初雪のグラデーション</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -380,9 +372,7 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Healing Alkaline Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アルカリ性単純温泉の恵み：古くから伝わる美肌と治癒の効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アルカリ性単純温泉の恵み：古くから伝わる美肌と治癒の効能</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -402,9 +392,7 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Dragon Canyon Nature Reserve</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                火山岩が描く奇跡の造形美「龍王峡」と初冬の日光自然研究路散策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">火山岩が描く奇跡の造形美「龍王峡」と初冬の日光自然研究路散策</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -422,9 +410,7 @@ export default function KinugawaWinterPage() {
               <Flame className="w-3.5 h-3.5" />
               <span>Rakuten Travel Official API Verified Selection</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11・12月に泊まりたい鬼怒川温泉の名宿厳選5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい鬼怒川温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
               楽天トラベルAPIから最新の口コミ評価・料金・空室情報を取得。初冬の鬼怒川渓谷美と名湯、とちぎ和牛＆日光生湯波を存分に堪能できる最高峰の5軒をご紹介します。
             </p>
@@ -464,9 +450,7 @@ export default function KinugawaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
                         「{hotel.special}」
@@ -478,10 +462,8 @@ export default function KinugawaWinterPage() {
 
                       {/* Highlights */}
                       <div className="space-y-2 bg-stone-50 p-4 rounded-2xl border border-stone-200/70 mb-5">
-                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide">
-                          <CheckCircle2 className="w-4 h-4 text-amber-700" />
-                          冬の滞在おすすめポイント
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide"><CheckCircle2 className="w-4 h-4 text-amber-700" />
+                          冬の滞在おすすめポイント</h4>
                         <ul className="text-xs text-stone-600 space-y-1.5 pl-1">
                           {hotel.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-1.5">
@@ -542,26 +524,20 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                栃木冬の二大美食：とろける極上とちぎ和牛と伝統の日光生ゆば懐石
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">栃木冬の二大美食：とろける極上とちぎ和牛と伝統の日光生ゆば懐石</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-700" />
-                最高峰の黒毛和牛「A5とちぎ和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-700" />
+                最高峰の黒毛和牛「A5とちぎ和牛」</h3>
               <p className="leading-relaxed text-sm">
                 栃木の豊かな自然と清流で丹精込めて育てられた指定生産農家の黒毛和牛のうち、歩留等級A・B、肉質等級4・5を満たした最上級品のみに与えられる称号「とちぎ和牛」。きめ細やかなサシ（霜降り）が美しく、人肌で溶ける上質な脂の甘みと赤身本来の濃厚な旨味が特徴です。冬の鬼怒川温泉では、陶板焼きステーキ、すき焼き鍋、しゃぶしゃぶとして各宿の会席料理を豪華に彩ります。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-700" />
-                日光修験道の伝統食「日光生湯波」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-700" />
+                日光修験道の伝統食「日光生湯波」</h3>
               <p className="leading-relaxed text-sm">
                 日光の清らかな名水と良質な国産大豆から作られる「日光湯波」。膜の中央に串を入れて二つ折りに引き上げる独特の製法により、ふっくらとした厚みと濃厚な大豆の甘みが凝縮されています。引き上げたての「生ゆば刺し」をわさび醤油でいただくほか、出汁をたっぷり含ませた「揚巻ゆばの煮物」や熱々の豆乳小鍋仕立てなど、冬の身体を芯から温めてくれる極上の伝統料理です。
               </p>
@@ -577,29 +553,21 @@ export default function KinugawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended 2-Day Winter Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：スペーシアXで行く鬼怒川温泉と初冬の渓谷散歩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：スペーシアXで行く鬼怒川温泉と初冬の渓谷散歩</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-700 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-amber-800 uppercase tracking-wider">【1日目】新型特急で優雅に出発〜渓谷吊橋と名宿ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                10:00 浅草駅より東武特急「スペーシアX」に乗車 → 12:00 鬼怒川温泉駅到着
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">10:00 浅草駅より東武特急「スペーシアX」に乗車 → 12:00 鬼怒川温泉駅到着</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 車内でクラフトビールや猿島茶を味わいながら快適な列車旅。鬼怒川温泉駅前で名物の温泉まんじゅうや手打ち蕎麦のランチを楽しみます。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 鬼怒楯岩大吊橋を散策＆楯岩展望台へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 鬼怒楯岩大吊橋を散策＆楯岩展望台へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 高さ約37メートルの大吊橋を渡り、鬼怒川の初冬の清流と断崖絶壁の奇岩美を鑑賞。展望台の「縁結びの鐘」を鳴らして記念撮影。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 旅館へチェックイン → 渓流露天風呂で初冬の湯浴み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 旅館へチェックイン → 渓流露天風呂で初冬の湯浴み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 川風を感じながらアルカリ性美肌泉を満喫。夕食はA5とちぎ和牛と日光生湯波をふんだんに使った贅沢会席に舌鼓。
               </p>
@@ -607,15 +575,11 @@ export default function KinugawaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の雪見風呂〜龍王峡の奇岩遊歩道と日光観光へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝陽が差し込む露天風呂で目覚めの湯あみ → 朝食バイキングまたは和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝陽が差し込む露天風呂で目覚めの湯あみ → 朝食バイキングまたは和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 澄んだ空気の中、鬼怒川の川霧を眺めながらの朝風呂。湯波や地元野菜の優しい朝食で身体を温めます。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 野岩鉄道で「龍王峡」へ足を伸ばし奇岩散策（または日光東照宮へ）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 野岩鉄道で「龍王峡」へ足を伸ばし奇岩散策（または日光東照宮へ）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白龍峡・青龍峡・紫龍峡と岩の色が変わる龍王峡の遊歩道を散策。冬の澄んだ水と奇岩のコントラストを堪能し、特急で帰路へ。
               </p>
@@ -638,10 +602,8 @@ export default function KinugawaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -656,9 +618,7 @@ export default function KinugawaWinterPage() {
         <section className="bg-amber-900 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい全国の冬・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい全国の冬・温泉特集</h2>
             <p className="text-xs sm:text-sm text-amber-100/90 leading-relaxed">
               11月・12月ならではの絶景や旬の美食を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

@@ -108,9 +108,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  争奪戦の「紅葉特等席客室・展望露天」をふるさと納税クーポンでお得に確保
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">争奪戦の「紅葉特等席客室・展望露天」をふるさと納税クーポンでお得に確保</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 秋の紅葉シーズンは年間で最も宿泊料金が高騰するトップシーズンのひとつ。ふるさと納税クーポンを使えば、宿泊費の最大30％が控除補助されるため、普段は手の届きにくい紅葉ビュー客室や高級露天風呂付き客室も控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）お得に滞在できます。
@@ -123,9 +121,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日帰りの混雑を回避！夜の幻想的な紅葉ライトアップや早朝の朝露散策を独占
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日帰りの混雑を回避！夜の幻想的な紅葉ライトアップや早朝の朝露散策を独占</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 嵐山や日光、箱根などの紅葉名所は日中大変な混雑となりますが、現地に宿泊すれば日帰り客が去った後のライトアップされた幻想的な夜紅葉や、澄み切った朝の光に照らされる静かな散策道をゆったりと独占して楽しむことができます。
@@ -138,9 +134,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  松茸、秋刀魚、新米、戻り鰹！実りの秋を味わい尽くす贅沢な秋の味覚会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">松茸、秋刀魚、新米、戻り鰹！実りの秋を味わい尽くす贅沢な秋の味覚会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 秋の旅のもうひとつの主役が、芳醇な香りの松茸や焼き魚、栗ご飯、秋茄子、ブランド牛のすき焼きなど、旬の味覚を散りばめた贅沢な秋会席。身体を芯から温める名湯と滋味あふれる秋の恵みが、心身を豊かに満たしてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県日光市・中禅寺湖畔の森に佇む西洋クラシックと乳白色硫黄泉露天風呂
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    日光中禅寺温泉　中禅寺金谷ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">日光中禅寺温泉　中禅寺金谷ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日光国立公園・中禅寺湖畔の豊かな自然林の中に佇む、創業150余年の歴史を持つ金谷ホテル直営のリゾートホテル。秋になるとホテルを取り囲むカエデやミズナラが鮮やかに色づき、紅葉の森に包まれるような贅沢な滞在が叶います。奥日光湯元から引かれる源泉かけ流しの乳白色天然硫黄泉露天風呂「空ぶろ」からは、紅葉の木立越しに星空を眺める至高の湯浴みが可能。伝統のフランス料理ディナーとともに、優雅で落ち着いた秋の休日をご堪能いただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     京都府京都市・嵐山渡月橋たもとで愛でる錦秋の紅葉絵巻と伝統京懐石
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都　嵐山温泉　渡月亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都　嵐山温泉　渡月亭</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     京都随一の紅葉名所・嵐山の大堰川にかかる渡月橋の南詰に位置し、創業百二十余年の伝統を誇る名門料理旅館。宿を一歩出れば、赤や黄に染まる嵐山全体のパノラマが目の前に広がり、天龍寺や竹林の小径への散策にも最高のロケーションです。客室や食事処でいただく京懐石は、秋の味覚である丹波栗や松茸、生麩や京野菜を美しく盛り込んだ職人技の極み。嵐山温泉の肌に優しい湯に浸かりながら、古都の雅な秋の風情に心ゆくまで浸ることができます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・紅葉の小涌谷の森に包まれる露天風呂と掛け流しの美肌湯
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    箱根小涌園　美山楓林
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">箱根小涌園　美山楓林</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根登山鉄道・小涌谷駅から車で約5分、豊かな木々に囲まれた閑静な高台に佇む落ち着きある和モダン温泉ホテル。秋には客室の窓一面や館内の庭園が鮮やかな紅葉に染まり、静かな森の別荘にいるような寛ぎの時間を過ごせます。小涌谷温泉の天然温泉を湛えた露天風呂では、秋風を感じながら湯面に映る木々の色彩を鑑賞。箱根湯本や芦ノ湖へのアクセスも良く、箱根美術館の紅葉庭園や仙石原のススキ草原など秋の箱根観光の拠点としても最適です。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日光中禅寺温泉 中禅寺金谷ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日光中禅寺温泉 中禅寺金谷ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoAutumnFoliageOpenAirStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日光中禅寺温泉 中禅寺金谷ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日光中禅寺温泉 中禅寺金谷ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

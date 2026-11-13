@@ -248,12 +248,10 @@ export default function WinterYamaguchiYudaPage() {
             11月・12月 白狐の湯＆本場下関直送とらふぐ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山口・湯田温泉】白狐の湯と国宝瑠璃光寺散策
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山口・湯田温泉】白狐の湯と国宝瑠璃光寺散策
             <span className="block text-rose-300 text-lg sm:text-2xl mt-3 font-normal">
               本場下関直送とらふぐフルコース＆やまぐち和牛燦・毎分2000L源泉の名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、室町時代の雅な大内文化と幕末維新の胎動が息づく山口県山口市の「湯田温泉（ゆだおんせん）」は、冬の美食の最高峰「とらふぐ」が旬を迎え、白狐伝説に彩られた名湯がいっそう恋しくなる季節を迎えます。白狐が毎夜傷を癒やしたと伝わる湯田の湯は、1日2000トン・毎分約2000リットルという西日本屈指の湧出量を誇るpH9.1のアルカリ性単純温泉。柔らかく肌になじむアルカリ泉が古い角質をやさしく洗い流し、つるつるの美肌へ導きます。夕食には本場・下関南風泊港から直送される透き通るような「とらふぐ刺し（てっさ）」や熱々の「ふぐちり鍋」、香ばしい「ふぐヒレ酒」、山口の誇る黒毛和牛「やまぐち和牛 燦（きらめき）」。国宝・瑠璃光寺五重塔の初冬風景とともに至福の滞在を約束する厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterYamaguchiYudaPage() {
             <Landmark className="w-4 h-4" />
             初冬の維新の里・湯田温泉の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-            白狐が導いた美肌の名湯と維新の歴史、下関とらふぐが奏でる冬の祝宴
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">白狐が導いた美肌の名湯と維新の歴史、下関とらふぐが奏でる冬の祝宴</h2>
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
             <p>
               新山口駅から電車やバスでわずか20分ほど。山口市の市街地にありながら、どこか落ち着いた風情と湯けむりが漂う湯田温泉は、約800年前に傷を負った白狐が池で傷を癒やしていたことから発見されたと伝わる「白狐の湯」です。街のあちこちに愛らしい白狐のモニュメントや6つの無料足湯が整備され、訪れる旅人を温かく迎えてくれます。
@@ -308,9 +304,7 @@ export default function WinterYamaguchiYudaPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の湯田温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の湯田温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               本場とらふぐの極楽、毎分2000Lの白狐美肌湯、幕末の歴史探訪
             </p>
@@ -321,9 +315,7 @@ export default function WinterYamaguchiYudaPage() {
               <div className="w-12 h-12 rounded-xl bg-rose-50 flex items-center justify-center text-rose-700">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                本場下関直送「とらふぐフルコース＆ひれ酒」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">本場下関直送「とらふぐフルコース＆ひれ酒」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冬に旨味が凝縮されるとらふぐ。透き通るてっさ、旨味染み渡るてっちり、サクサク唐揚げ、香ばしい熱燗ひれ酒とふぐ雑炊の贅。
               </p>
@@ -333,9 +325,7 @@ export default function WinterYamaguchiYudaPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                毎分2000L湧出・pH9.1の白狐美肌湯
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">毎分2000L湧出・pH9.1の白狐美肌湯</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 白狐が傷を癒やした伝説の天然温泉。古い角質を落として肌をしっとり整える高アルカリ泉と、温泉街6箇所の無料足湯巡り。
               </p>
@@ -345,9 +335,7 @@ export default function WinterYamaguchiYudaPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                国宝瑠璃光寺五重塔＆維新の志士史跡
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">国宝瑠璃光寺五重塔＆維新の志士史跡</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本三名塔に数えられる大内文化の傑作・瑠璃光寺五重塔。西郷・木戸・龍馬が密議を凝らした松田屋ホテルの庭園など歴史探訪。
               </p>
@@ -358,9 +346,7 @@ export default function WinterYamaguchiYudaPage() {
         {/* Hotel Cards Section */}
         <section className="space-y-10">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              湯田温泉で11月・12月に泊まりたい名湯宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">湯田温泉で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
               楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
@@ -404,11 +390,9 @@ export default function WinterYamaguchiYudaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-rose-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-rose-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {h.story}
@@ -470,9 +454,7 @@ export default function WinterYamaguchiYudaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-rose-100">
             <Compass className="w-6 h-6 text-rose-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の山口湯田温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の山口湯田温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -502,35 +484,27 @@ export default function WinterYamaguchiYudaPage() {
             <Fish className="w-4 h-4" />
             山口・長州 冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            冬の味覚の王様「下関直送とらふぐ」と最高峰銘柄牛「やまぐち和牛燦」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">冬の味覚の王様「下関直送とらふぐ」と最高峰銘柄牛「やまぐち和牛燦」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Fish className="w-4 h-4 text-rose-400" />
-                本場直送「とらふぐ刺し＆ちり鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Fish className="w-4 h-4 text-rose-400" />
+                本場直送「とらふぐ刺し＆ちり鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 冬に脂と旨味が最高潮に達するとらふぐ。有田焼や萩焼の絵皿が透けて見えるほど薄く引かれた「てっさ」の繊細な歯ごたえ、ゼラチン質たっぷりのアラと冬野菜を煮込む「てっちり」、熱燗に香ばしく炙ったヒレを浮かべる「ひれ酒」は冬の極楽です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-400" />
-                山口県産最高峰「やまぐち和牛 燦」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-rose-400" />
+                山口県産最高峰「やまぐち和牛 燦」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 山口県の豊かな自然と清流で丹精込めて肥育された黒毛和牛の中でも、肉質等級4等級以上の厳格な基準を満たした最高峰ブランド「燦（きらめき）」。きめ細やかなサシが口の中でふわりと溶け、芳醇なコクと甘みが広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-rose-400" />
-                世界を魅了する山口の銘酒たち
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-rose-400" />
+                世界を魅了する山口の銘酒たち</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 旭酒造の「獺祭（だっさい）」をはじめ、澄川酒造場の「東洋美人」、八百新酒造の「雁木」など、全国屈指の酒処である山口県。フルーティーで香り高い純米大吟醸やキレのある辛口の地酒が、とらふぐ料理の繊細な旨味を最高潮に引き立てます。
               </p>
@@ -544,15 +518,11 @@ export default function WinterYamaguchiYudaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の湯田温泉 交通アクセス＆冬旅のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の湯田温泉 交通アクセス＆冬旅のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-rose-700" />
-                新幹線・飛行機・バスでのアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-rose-700" />
+                新幹線・飛行機・バスでのアクセス</h3>
               <p>
                 山陽新幹線「新山口駅」より防長路線バスで湯田温泉通まで約20分、またはJR山口線で湯田温泉駅まで約20分。山口宇部空港からは直行リムジンバスで約40分と全国からスムーズに直行可能です。
               </p>
@@ -562,10 +532,8 @@ export default function WinterYamaguchiYudaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                気候と防寒・足湯巡りのコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                気候と防寒・足湯巡りのコツ</h3>
               <p>
                 山口盆地は冬の朝晩の冷え込みが強く、12月は最低気温が0℃近くまで下がります。コートやマフラーなどの防寒対策を整えてお出かけください。
               </p>
@@ -582,16 +550,12 @@ export default function WinterYamaguchiYudaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の山口湯田温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の山口湯田温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-rose-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-rose-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -603,10 +567,8 @@ export default function WinterYamaguchiYudaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-rose-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-rose-300" />
-              あわせて読みたい山陰山陽・山口の冬ふぐ・名湯特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-rose-300" />
+              あわせて読みたい山陰山陽・山口の冬ふぐ・名湯特集</h3>
             <p className="text-xs sm:text-sm text-rose-200">
               冬のとらふぐや歴史情緒、絶景温泉を堪能する山口・山陰山陽各地の厳選旅ガイド
             </p>
@@ -618,9 +580,7 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・萩温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                萩温泉郷の城下町冬散策と日本海とらふぐ・長州牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">萩温泉郷の城下町冬散策と日本海とらふぐ・長州牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白壁となまこ壁が続く世界遺産の城下町と、冬の日本海地魚・名湯を味わう旅。
               </p>
@@ -631,9 +591,7 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                長門湯本温泉の音信川うたかたの冬宵と立ち寄り温泉街
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">長門湯本温泉の音信川うたかたの冬宵と立ち寄り温泉街</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 リノベーションされた美しい川沿い温泉街と名物恩湯、冬のとらふぐ会席。
               </p>
@@ -644,9 +602,7 @@ export default function WinterYamaguchiYudaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-rose-300 bg-rose-400/20 px-2 py-0.5 rounded-full inline-block">山口・下関川棚温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">
-                下関川棚温泉の本場とらふぐと熱々名物瓦そばステイ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-rose-200 transition line-clamp-2">下関川棚温泉の本場とらふぐと熱々名物瓦そばステイ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 熱した瓦で焼く元祖瓦そばと下関ふく料理、毛利侯ゆかりの青龍伝説の湯。
               </p>

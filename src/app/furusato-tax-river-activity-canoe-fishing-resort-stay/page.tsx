@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          せせらぎを聞き、透き通る水面と戯れる。自然と調和する水辺のヒーリングリゾート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">せせらぎを聞き、透き通る水面と戯れる。自然と調和する水辺のヒーリングリゾート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              リバービュー客室や川風そよぐ露天風呂でせせらぎに癒やされる
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">リバービュー客室や川風そよぐ露天風呂でせせらぎに癒やされる</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               窓一面に広がる穏やかな川の流れを眺めながら過ごす静寂の時間。夜には川面に映るかがり火や月明かりが幻想的な世界へ誘います。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              天然鮎の塩焼きやうるか・川エビなど清流ならではの郷土美食
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">天然鮎の塩焼きやうるか・川エビなど清流ならではの郷土美食</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               澄んだ水で育った天然鮎の香ばしい炭火塩焼き、滋味あふれる川魚会席、山菜料理など、水清き里ならではの馳走を堪能できます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              舟下り乗船券付きプランやカヌー体験とセットでふるさと納税活用
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">舟下り乗船券付きプランやカヌー体験とセットでふるさと納税活用</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿泊だけでなく周辺の伝統アクティビティや観光と組み合わせ、ふるさと納税宿泊クーポンでトータルの旅行費用を賢く節約できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="nagaragawa_river" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岐阜県岐阜市ふるさと納税：名水百選・長良川温泉・1300年の伝統「長良川鵜飼」と天然鮎会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岐阜県岐阜市ふるさと納税：名水百選・長良川温泉・1300年の伝統「長良川鵜飼」と天然鮎会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 金華山と岐阜城を仰ぐ長良川畔。赤褐色の鉄分豊かな長良川温泉に浸かり、夏の夕暮れにはかがり火揺れる鵜飼鑑賞舟へ。風情あふれる川湊の旅情を満喫できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市長良112
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長良川温泉　石金
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　石金</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【源泉かけ流し】長良川と金華山の絶景◆地元食材を堪能できる会席料理【全16室の歴史ある温泉宿】
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市湊町397-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長良川温泉　ホテルパーク
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　ホテルパーク</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     清流長良川、金華山に囲まれ四季折々のロケーションです。
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県岐阜市湊町１０番地
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長良川温泉　十八楼
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長良川温泉　十八楼</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     江戸時代より時を刻む麗しの老舗宿。長良川温泉 『蔵の湯』が好評です。
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="shimanto_river" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                高知県四万十市ふるさと納税：日本最後の清流・四万十川のカヌー体験と沈下橋を巡る南国ステイ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">高知県四万十市ふるさと納税：日本最後の清流・四万十川のカヌー体験と沈下橋を巡る南国ステイ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 大自然の原風景が残る四万十川。エメラルドグリーンの水面をカヌーや屋形船で進み、名物の天然鰻、四万十川の青のり、郷土皿鉢料理に舌鼓を打つ極上旅です。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県香南市野市町東野1630
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    高知黒潮ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高知黒潮ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     クチコミ4.2★エリア最大級の温泉ビジネスホテル。高知空港まで車で10分【トロトロ美肌湯】を満喫！
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県高知市南宝永町4-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    高知プリンスホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">高知プリンスホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     地球33番地の宿から観光もビジネスもおもいのまま。
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     高知県四万十市西土佐用井1111-11
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    四万十・川の駅　カヌー館　四万十ひろばバンガロー「ゆうゆう」
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">四万十・川の駅　カヌー館　四万十ひろばバンガロー「ゆうゆう」</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     清流四万十川で、カヌー・レンタサイクル等、アクティビティを満喫しよう！
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="hozugawa_river" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                京都府亀岡市ふるさと納税：保津川下り渓谷舟下りの起点・湯の花温泉の静寂と丹波の馳走
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">京都府亀岡市ふるさと納税：保津川下り渓谷舟下りの起点・湯の花温泉の静寂と丹波の馳走</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 亀岡から嵐山まで約16kmの巨岩渓谷を船頭の巧みな竿さばきで下る保津川下り。爽快な舟旅の後は、山峡に湧く湯の花温泉で丹波牛や京野菜の会席を味わえます。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府亀岡市亀岡駅北1-6-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天然温泉　旅人の湯　ホテルルートイン京都亀岡駅前
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　旅人の湯　ホテルルートイン京都亀岡駅前</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     JR亀岡駅北口すぐ。 サンガスタジアム徒歩2分。ホテルルートイン京都亀岡駅前7月1日OPEN！
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府亀岡市湯の花温泉
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    京都　湯の花温泉　すみや亀峰菴
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">京都　湯の花温泉　すみや亀峰菴</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     京都の旅館ならではの日本の伝統美と現代アートの空間で四季折々の京懐石とオーストリアワインを愉しむ
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京都市西京区大原野東境谷町2-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    京都竹の郷温泉　万葉の湯　ホテル京都エミナース
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">京都竹の郷温泉　万葉の湯　ホテル京都エミナース</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ご宿泊者は24時間万葉の湯入り放題！.心ゆくまで温泉を満喫下さい。
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流川床料理＆避暑せせらぎ名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 京都貴船・四万十川・越後岩室の涼風ステイ。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景サイクリング＆海沿いサイクリスト温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 しまなみ海道・尾道・琵琶湖ビワイチの絶景リゾート。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">紅葉渓谷＆錦秋の絶景露天風呂宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 定山渓・奥日光・嵐山の錦秋名湯ステイ。
               </p>

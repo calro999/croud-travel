@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            気兼ねなく浴衣で寛ぐ夕餉と、誰にも邪魔されない名湯のぬくもり——大人のひとり旅を豊かに満たす「部屋食×おこもり名宿」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">気兼ねなく浴衣で寛ぐ夕餉と、誰にも邪魔されない名湯のぬくもり——大人のひとり旅を豊かに満たす「部屋食×おこもり名宿」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             誰かと予定を合わせる気遣いから解放され、行きたい時にふらりと出かける「温泉ひとり旅」。日常の喧騒やデジタルデバイスから離れ、自分のペースで湯に浸かり、思い思いの読書や瞑想に耽る時間は現代人にとって最高の贅沢です。しかし、ひとり旅で最も気になるのが「お食事処での周囲の視線」。グループや家族連れが談笑するダイニングでは、少し落ち着かないと感じる方も少なくありません。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   草津の名湯「西の河原」「万代鉱」の2源泉を掛け流し！大人の一人旅プランが充実した創業四百有余年の名宿
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  草津温泉 望雲 —— 湯畑徒歩3分の高台に佇む静寂の宿。旬の和会席をお部屋で堪能する上質ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">草津温泉 望雲 —— 湯畑徒歩3分の高台に佇む静寂の宿。旬の和会席をお部屋で堪能する上質ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   奇跡の青「四万ブルー」の渓流を望む隠れ宿！自家源泉100％掛け流しと部屋食のこだわり美肌膳
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  四万温泉 豊島屋 —— 清流のせせらぎとマイナスイオンに包まれる。川沿い客室でいただく滋味豊かな里山会席
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">四万温泉 豊島屋 —— 清流のせせらぎとマイナスイオンに包まれる。川沿い客室でいただく滋味豊かな里山会席</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   小田急ロマンスカー箱根湯本駅から徒歩わずか2分！早川の清流を眼下に望む駅近おこもり温泉宿
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  箱根湯本温泉 箱根水明荘 —— 都心から約85分でチェックイン。渓流を望む客室で味わう月替わり本格会席
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">箱根湯本温泉 箱根水明荘 —— 都心から約85分でチェックイン。渓流を望む客室で味わう月替わり本格会席</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              おひとりさま温泉旅を最高に楽しむ3つの心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">おひとりさま温泉旅を最高に楽しむ3つの心得</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. チェックインは15時ジャスト！明るいうちの「ファースト湯浴み」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. チェックインは15時ジャスト！明るいうちの「ファースト湯浴み」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 宿に着いたら荷物を置き、夕暮れ前の明るい時間帯に大浴場へ。宿泊客がまだ少ない時間帯は露天風呂を独り占めできる確率が高く、旅の開放感を一気に高められます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. デジタルデトックスと好きな本・音楽の用意
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. デジタルデトックスと好きな本・音楽の用意</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 普段鳴り止まないスマートフォンの通知をオフにして、読みたかった文庫本や心地よい音楽を客室で楽しむのがおすすめ。頭の中のノイズが消え、深い休息が得られます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 部屋食ならではの「ご当地地酒ペアリング」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 部屋食ならではの「ご当地地酒ペアリング」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 仲居さんにその宿おすすめの地酒（冷酒や熱燗）を尋ねてオーダー。お部屋なら酔っ払ってもすぐにお布団に横になれるのが最大の特権です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人旅でも本当に部屋食プランを予約できますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人旅でも本当に部屋食プランを予約できますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、本記事でご紹介した宿はいずれも公式・楽天トラベル等でおひとりさま専用の部屋食確約プランを提供しています（時期や曜日によって設定が変わる場合がありますのでプラン詳細をご確認ください）。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人泊だと宿泊料金は割高になりますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人泊だと宿泊料金は割高になりますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 2名1室利用時と比べると1名あたりの料金はやや高くなりますが、最近はおひとりさま平日応援プランや、直前割引プランなどリーズナブルに泊まれる選択肢も増えています。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】草津温泉 望雲を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】草津温泉 望雲を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

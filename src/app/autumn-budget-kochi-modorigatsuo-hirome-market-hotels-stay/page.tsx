@@ -58,10 +58,8 @@ export default function AutumnBudgetKochiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-rose-600" />
-            宿泊代3,000円台！浮いた予算でひろめ市場の厚切り鰹タタキ＆地酒司牡丹を乾杯
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-rose-600" />
+            宿泊代3,000円台！浮いた予算でひろめ市場の厚切り鰹タタキ＆地酒司牡丹を乾杯</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             南国土佐・高知はお酒と美食を愛する旅人の聖地。高知駅や帯屋町アーケード周辺には、3,000円台〜5,000円台で大浴場付きや朝食自慢の高評価ホテルが充実。宿代を抑えて、ひろめ市場の「明神丸」で目の前で豪快に炎が上がる藁焼きタタキにニンニクスライスとワサビを乗せ、土佐の辛口銘酒とともに夜遅くまで酔いしれましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（展望露天風呂）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              サウスブリーズホテル　高知海月
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">サウスブリーズホテル　高知海月</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高知</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（高評価★4.38）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルベストプライス高知
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルベストプライス高知</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高知</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              高知ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">高知ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高知</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（展望大浴場）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル高砂＜高知県＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル高砂＜高知県＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高知</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetKochiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（はりまや橋すぐ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              高知パシフィックホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">高知パシフィックホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高知</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetKochiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-rose-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の高知・ひろめ市場散策の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300"><CheckCircle2 className="w-5 h-5" />
+            秋の高知・ひろめ市場散策の満喫ポイント</h2>
           <p className="text-sm text-rose-100 leading-relaxed">
             秋の戻り鰹は10月〜11月が最も脂が乗り、口の中でとろける旨さ。ひろめ市場では先に席を確保してから、各店舗でタタキや餃子、ウツボの唐揚げなどを買い集めるのがルール。相席になった地元の人々と乾杯を交わす土佐流のおもてなしカルチャーをぜひ体験してください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetKochiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「高知：高知城の秋紅葉と戻り鰹の塩タタキ！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetKochiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 高知エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">高知エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

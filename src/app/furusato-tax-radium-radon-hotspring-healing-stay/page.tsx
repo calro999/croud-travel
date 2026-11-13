@@ -108,9 +108,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  「浸かる・吸う・飲む」の三位一体！全身の細胞を活性化させるホルミシス効果
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">「浸かる・吸う・飲む」の三位一体！全身の細胞を活性化させるホルミシス効果</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 湯船に浸かって皮膚から吸収し、浴室に充満するラドンガスを呼吸で肺から取り込み、飲泉処で胃腸からミネラルを補給。三方向から身体に作用し、血流促進・疲労回復・自律神経の調整を促します。
@@ -123,9 +121,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  湯疲れしにくい優しい泉質！長期滞在や連泊湯治にも最適な名湯の湯力
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">湯疲れしにくい優しい泉質！長期滞在や連泊湯治にも最適な名湯の湯力</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 刺激が強すぎず、肌触りがまろやかな弱アルカリ性の単純放射能泉。何回浸かっても湯あたりしにくいため、1日に何度もゆっくりと温泉に入り、身体の芯からじっくりとデトックスできます。
@@ -138,9 +134,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  山陰の松葉蟹・のどぐろ、三河牛、新潟コシヒカリ！胃腸に優しい滋味郷土会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">山陰の松葉蟹・のどぐろ、三河牛、新潟コシヒカリ！胃腸に優しい滋味郷土会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 名湯で整った身体に染み渡る、地元の旬の恵みをふんだんに取り入れた手作り会席料理。鳥取和牛や日本海の海の幸、越後平野の旬菜など、滋養に富んだ美食が心と身体を満たします。
@@ -183,9 +177,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鳥取県三朝町・世界屈指のラジウム温泉！創業百年・十二の湯殿を誇る回遊式大庭園風呂「山の湯」
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    三朝温泉　依山楼　岩崎
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">三朝温泉　依山楼　岩崎</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     開湯八百五十年を誇る名湯・三朝温泉の中心に位置し、創業大正九年の伝統を誇る名門温泉旅館。宿のシンボルは、回遊式大庭園風呂「山の湯」に配された露天風呂、洞窟風呂、歩行湯、ラドン蒸気風呂など趣の異なる12の湯殿。世界有数のラドン含有量を誇る源泉を贅沢に掛け流し、浸かって良し、吸って良しの極上のホルミシス体験が叶います。夕食には日本海の冬の味覚・松葉蟹やのどぐろ、鳥取和牛オレイン55など贅を尽くした山陰会席を提供。文豪・島崎藤村や与謝野鉄幹・晶子夫妻にも愛された歴史ある名宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     愛知県豊田市・医者がすすめる奇跡の天然ラドン温泉！飲泉認可と手つかずの大自然に抱かれる隠れ里
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     名古屋から車で約40分、愛知県の天然記念物・猿投山の麓に広がる手つかずの自然に囲まれた静かな一軒宿。地下1,200mから湧き出る天然ラドン温泉は、愛知県で初めて飲泉許可を取得し、「医者がすすめる温泉」として全国の湯治ファンに広く知られています。加水なしの100％天然ラドン泉を湛えた大浴場や露天風呂、飲泉処を完備。夕食には三河湾の鮮魚や三河牛、季節の山菜を取り入れた心づくしの郷土会席が並び、都会の喧騒を離れて深い安らぎと健康を取り戻す休日をお過ごしいただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     新潟県阿賀野市・開湯六百六十年！四千坪の大庭園と日本最大級のラジウム温泉大露天風呂
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    村杉温泉　風雅の宿　長生館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">村杉温泉　風雅の宿　長生館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     五頭連峰の山裾、開湯六百六十年の歴史を持つ越後名湯・村杉温泉に位置する四千坪の壮大な日本庭園を抱く老舗旅館。宿自慢の大浴場「滝の湯」と日本最大級の広さを誇る庭園大露天風呂には、全国トップクラスのラドン含有量を誇る自家源泉がこんこんと注がれ、庭園の四季折々の草花を眺めながらの湯浴みは格別の贅沢です。館内には吸気浴専用ラウンジや飲泉所も完備。夕食には日本一の米どころ・魚沼コシヒカリと新潟の日本海鮮魚、にいがた和牛を味わえる極上会席が並びます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

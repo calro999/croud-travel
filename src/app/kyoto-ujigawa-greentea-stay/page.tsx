@@ -125,9 +125,7 @@ export default function MicroTouristHubPage() {
                     ✨ {guide.timing}
                   </span>
                 </div>
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-                  {guide.title}
-                </h2>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">{guide.title}</h2>
                 <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium">
                   {guide.desc}
                 </p>
@@ -153,9 +151,7 @@ export default function MicroTouristHubPage() {
               <div className="space-y-4 pt-4 border-t border-emerald-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                      <span>🏨</span> <span>{guide.title}周辺のおすすめ厳選宿</span>
-                    </h3>
+                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{guide.title}周辺のおすすめ厳選宿</span></h3>
                   </div>
                   <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
                     厳選宿
@@ -195,9 +191,7 @@ export default function MicroTouristHubPage() {
                               <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                             </div>
                           )}
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                            {hotel.hotelName}
-                          </h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{hotel.hotelName}</h4>
                           {hotel.hotelSpecial && (
                             <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
                               {hotel.hotelSpecial}
@@ -232,9 +226,7 @@ export default function MicroTouristHubPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川畔宿 厳選ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -304,9 +296,7 @@ export default function MicroTouristHubPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 京都・宇治エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">京都・宇治エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

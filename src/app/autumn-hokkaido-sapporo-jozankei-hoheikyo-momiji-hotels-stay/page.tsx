@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月秋の北海道・紅葉温泉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】<br className="hidden sm:inline" />渓谷美と名湯に寛ぐおすすめ温泉旅館5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月上旬〜中旬！札幌定山渓＆豊平峡の紅葉】<br className="hidden sm:inline" />渓谷美と名湯に寛ぐおすすめ温泉旅館5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             札幌の中心部から車で約1時間。豊平川の清流が刻む渓谷が黄金と朱色に輝く定山渓温泉と、迫力の放流と岩肌を彩る豊平峡ダムの紅葉美。歴史ある名湯と北海道の秋の味覚に浸る旅。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              札幌の奥座敷を染める錦秋のグラデーション。二見吊橋と豊平峡の壮大な大自然
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">札幌の奥座敷を染める錦秋のグラデーション。二見吊橋と豊平峡の壮大な大自然</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             支笏洞爺国立公園に位置する「定山渓温泉」は、慶応2年に美泉定山が拓いた150年以上の歴史を誇る名湯です。秋を迎えると、豊平川の渓谷に架かる真っ赤な「二見吊橋」の周囲をカエデやナナカマドが鮮やかに彩り、水面に映る紅葉の美しさは息をのむほどです。さらに奥へと進んだ「豊平峡ダム」では、切り立った岩壁と放水しぶきを黄金色の木々が包み込む圧倒的なスケールの秋景観に出会えます。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】定山渓・豊平峡の紅葉と名湯満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】定山渓・豊平峡の紅葉と名湯満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-600 pl-4 md:pl-6 space-y-4">
@@ -352,9 +344,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と定山渓温泉旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と定山渓温泉旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

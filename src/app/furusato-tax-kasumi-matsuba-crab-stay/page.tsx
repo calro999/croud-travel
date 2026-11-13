@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              関西随一のカニの聖地・香住！2大ブランドガニの食べ比べと潮騒の温泉
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">関西随一のカニの聖地・香住！2大ブランドガニの食べ比べと潮騒の温泉</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             兵庫県日本海側に位置する美方郡香住町は、関西で唯一ベニズワイガニが水揚げされる「香住ガニ」の聖地であり、11月6日には冬の味覚の王様「松葉ガニ」の漁が解禁される全国屈指のカニどころです。獲れたて新鮮なカニを刺身、炭火焼き、甲羅味噌焼き、茹で、カニすき鍋で贅沢に味わうカニ尽くしコースは、全国の食通を虜にします。日本海を望む香住温泉の名旅館に宿泊し、潮風を感じる露天風呂と至極のカニ料理を、楽天ふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                香住ガニ（紅ズワイ）と11月解禁松葉ガニの豪華競演
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                香住ガニ（紅ズワイ）と11月解禁松葉ガニの豪華競演</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 深海800m以上から引き揚げられる甘み豊かな「香住ガニ」と、身がぎっしり詰まった極上の「松葉ガニ」。秋から初冬にかけてしか味わえない贅沢な食べ比べが楽しめます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                余部鉄橋「空の駅」と山陰海岸ジオパークの絶景散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                余部鉄橋「空の駅」と山陰海岸ジオパークの絶景散策</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 地上約40mの高さから日本海を見下ろす旧余部鉄橋の展望施設「空の駅」や、奇岩が連なる鎧の袖など、山陰海岸ジオパークの壮大な景勝地を巡るドライブも魅力です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                香住漁港仲買人の宿ならではの鮮度抜群の魚介会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                香住漁港仲買人の宿ならではの鮮度抜群の魚介会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 カニだけでなく、地元香住港で競り落とされる白イカ（剣先イカ）、ノドグロ、甘エビ、但馬牛のステーキなど、日本海と但馬の大自然が育んだ至高の味覚が揃います。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.58 <span className="text-stone-400 text-xs">(404件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    なごみの香風の宿　さだ助
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">なごみの香風の宿　さだ助</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県美方郡香美町香住区下浜634 ｜ 車－北近畿自動車道【豊岡出石IC】より178号線経由で約40分。JR－山陰本線【香住駅】から約2km。駅から送迎無料
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.00 <span className="text-stone-400 text-xs">(55件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    かに楽座　甲羅戯
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">かに楽座　甲羅戯</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県美方郡香美町香住区浦上312-1 ｜ ＪＲ山陰本線　柴山駅より徒歩30秒／車で大阪・姫路より日高神鍋ICから50分　豊岡経由　柴山トンネル出てすぐ
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.65 <span className="text-stone-400 text-xs">(128件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    香住の民宿旅館　小宿　梅乃家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">香住の民宿旅館　小宿　梅乃家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県美方郡香美町香住区下ノ浜308-1 ｜ 車:北近畿豊岡道【但馬空港IC】より、R178号線経由で約40分（香住駅よりお車にて５分）／列車:ＪＲ香住駅より送迎あり
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】なごみの香風の宿 さだ助を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】なごみの香風の宿 さだ助を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）となごみの香風の宿 さだ助の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）となごみの香風の宿 さだ助の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

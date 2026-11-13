@@ -205,9 +205,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
       <section className="bg-white border border-rose-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Night Experience</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            秋の夜長を彩る！大人の焚き火リゾート4つの極上体験
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">秋の夜長を彩る！大人の焚き火リゾート4つの極上体験</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             都会のバーでは決して味わえない、澄んだ夜風と揺れる炎に包まれる特別なひととき。
           </p>
@@ -230,9 +228,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
       <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md border border-rose-900/30">
         <div className="space-y-1">
           <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Night Schedule</span>
-          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-            焚き火グランピングで過ごす理想のサンセット＆ナイトフロー
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">焚き火グランピングで過ごす理想のサンセット＆ナイトフロー</h2>
           <p className="text-xs sm:text-sm text-rose-200/80">
             日没から深夜まで、余韻を味わい尽くすタイムデザイン。
           </p>
@@ -255,9 +251,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Selected Bonfire Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            焚き火BAR＆ファイヤーピット完備！おすすめグランピング宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">焚き火BAR＆ファイヤーピット完備！おすすめグランピング宿</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             河口湖や信州の澄んだ夜空の下、薪火と美酒に浸れる大人のための厳選リゾート。
           </p>
@@ -294,9 +288,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
                     🔥 {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "専用ファイヤーピットや薪火演出、充実のドリンクBARで大人時間を満喫する極上グランピング。"}
@@ -339,18 +331,14 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
       <section className="bg-white rounded-3xl border border-rose-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            焚き火グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">焚き火グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-rose-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-rose-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-rose-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -361,9 +349,7 @@ export default function SilverWeekGlampingBonfireMarshmallowBarPage() {
 
       {/* 内部リンク・大人のナイトステイ＆夜スイーツガイド */}
       <section className="bg-rose-50/50 border border-rose-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🌙</span> あわせて読みたい大人の夜デート＆ナイトガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい大人の夜デート＆ナイトガイド</h3>
         <p className="text-xs text-stone-600">
           記念日や特別な夜を過ごすための上質な温泉ディナーや夜パフェ特集。
         </p>

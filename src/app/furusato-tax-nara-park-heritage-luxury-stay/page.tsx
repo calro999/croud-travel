@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            神の使いの鹿たちが遊ぶ緑豊かな杜と国宝の大仏殿——悠久の古都で味わうクラシックの風格とプライベート温泉ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">神の使いの鹿たちが遊ぶ緑豊かな杜と国宝の大仏殿——悠久の古都で味わうクラシックの風格とプライベート温泉ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             平城京遷都から千三百年以上の歴史を紡ぐ古都・奈良県奈良市。若草山の麓、約660ヘクタールにおよぶ広大な「奈良公園」には、世界遺産に登録された東大寺の大仏殿や興福寺の五重塔、春日大社の朱塗りの社殿が点在し、約1,300頭の野生のニホンジカが国の天然記念物として穏やかに暮らしています。春の桜、初夏の新緑、秋の紅葉、冬の澄んだ空気と、四季折々に幽玄な美しさをたたえています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">奈良県奈良市（奈良公園周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  奈良ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">奈良ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   明治四十二年創業・「関西の迎賓館」と謳われた名門！アインシュタインやオードリー・ヘプバーンが愛した本館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  奈良ホテル —— 辰野金吾が手がけた木造建築の最高峰。名画や調度品に囲まれるクラシカルステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">奈良ホテル —— 辰野金吾が手がけた木造建築の最高峰。名画や調度品に囲まれるクラシカルステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 吉野杉をふんだんに使った桃山風御殿造りの登録有形文化財本館
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">吉野杉をふんだんに使った桃山風御殿造りの登録有形文化財本館</h5>
                     <p className="text-stone-600 leading-relaxed">吹き抜けのマントルピースや鳥居型シャンデリア。歴史の息吹が宿る重厚な空間が旅人を明治・大正の浪漫へと誘います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 荒池のほとりに位置し奈良公園・東大寺へ徒歩すぐの好立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">荒池のほとりに位置し奈良公園・東大寺へ徒歩すぐの好立地</h5>
                     <p className="text-stone-600 leading-relaxed">朝の澄んだ空気の中で鹿が庭を散歩する風景。興福寺やならまちの古い町並み散策にも最高の拠点です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> メインダイニング「三笠」での伝統の本格フランス料理ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">メインダイニング「三笠」での伝統の本格フランス料理ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">創業以来受け継がれてきた格式高いフレンチ。歴代料理長が磨き上げた極上のソースと旬の美味を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">奈良県奈良市（奈良公園周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ふふ　奈良
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ふふ　奈良</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   世界的建築家・隈研吾氏が設計！全室に天然温泉露天風呂を備えた奈良公園の杜に溶け込む至高宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ふふ 奈良 —— 庭園の木々に包まれるプライベートリゾート。全室温泉露天付きスイートと大和の恵み
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ふふ 奈良 —— 庭園の木々に包まれるプライベートリゾート。全室温泉露天付きスイートと大和の恵み</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> すべての客室に薬草湯の香りが漂う天然温泉露天風呂を完備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">すべての客室に薬草湯の香りが漂う天然温泉露天風呂を完備</h5>
                     <p className="text-stone-600 leading-relaxed">プライベートな露天風呂で心ゆくまで名湯に浸かる贅沢。鳥のさえずりと風の音に包まれる至極の癒やしです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本庭園「瑜伽山園地（ゆうずえんち）」に隣接する静謐な立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本庭園「瑜伽山園地（ゆうずえんち）」に隣接する静謐な立地</h5>
                     <p className="text-stone-600 leading-relaxed">木や和紙を贅沢に使ったモダン和の美学。自然と建築が美しく調和した贅沢なプライベート空間です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大和野菜や厳選牛を取り入れた日本料理「滴翠（てきすい）」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大和野菜や厳選牛を取り入れた日本料理「滴翠（てきすい）」</h5>
                     <p className="text-stone-600 leading-relaxed">奈良の歴史や薬膳の思想を取り入れた繊細な懐石料理。個室食事処でゆったりと五感で味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">奈良県奈良市（奈良公園周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＪＷマリオット・ホテル奈良
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＪＷマリオット・ホテル奈良</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本初進出のマリオット最高級ブランド！奈良の伝統美とモダンラグジュアリーが織りなす極上の館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  JWマリオット・ホテル奈良 —— 国際的ブランドの洗練とおもてなし。屋内プールと贅沢なダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">JWマリオット・ホテル奈良 —— 国際的ブランドの洗練とおもてなし。屋内プールと贅沢なダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 奈良の鹿や木々のモチーフを散りばめたスタイリッシュな客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">奈良の鹿や木々のモチーフを散りばめたスタイリッシュな客室</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした空間に最高級ベッドと大理石バスルームを完備。洗練された現代ラグジュアリーステイが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> インドア温水プールや本格「SPA by JW」で極上リフレッシュ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">インドア温水プールや本格「SPA by JW」で極上リフレッシュ</h5>
                     <p className="text-stone-600 leading-relaxed">旅の疲れを解きほぐす本格スパ施設。都会のリゾートのような優雅なウェルネス体験を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本料理「校倉」の鉄板焼き・寿司＆オールデイダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本料理「校倉」の鉄板焼き・寿司＆オールデイダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">奈良県産食材をふんだんに取り入れたディナーコースや、出来立てオムレツが人気の朝食ビュッフェが評判です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 奈良公園・東大寺大仏殿＆春日大社・ならまち観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 奈良公園・東大寺大仏殿＆春日大社・ならまち観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                世界文化遺産「東大寺」盧舎那仏（奈良の大仏）と南大門金剛力士像
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                世界文化遺産「東大寺」盧舎那仏（奈良の大仏）と南大門金剛力士像</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 世界最大級の木造建築である大仏殿に鎮座する高さ約15mの国宝大仏。運慶・快慶作の金剛力士像が睨みを利かす南大門も必見です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                朱塗りの廻廊と三千基の燈籠が美しい「春日大社」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                朱塗りの廻廊と三千基の燈籠が美しい「春日大社」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 藤原氏の氏神として創建された全国春日神社の総本社。原生林に囲まれた参道には数千基の石燈籠が並び、神聖な空気に満ちています。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                江戸時代の町家が残るレトロな街並み「ならまち」散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                江戸時代の町家が残るレトロな街並み「ならまち」散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 格子の美しい町家を活かしたカフェ、雑貨店、酒蔵が並ぶ人気エリア。名物のかき氷や吉野葛スイーツの食べ歩きが楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              奈良県奈良市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">奈良県奈良市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】奈良ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】奈良ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と奈良ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と奈良ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

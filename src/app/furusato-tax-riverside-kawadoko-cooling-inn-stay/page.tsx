@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>天然の冷涼クーラーに包まれる贅沢。川のせせらぎを間近に味わう至極の和食</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>天然の冷涼クーラーに包まれる贅沢。川のせせらぎを間近に味わう至極の和食</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             真夏の暑さを忘れさせてくれる、川面に張り出した特等席「川床（かわどこ）」。水面から立ち上るマイナスイオンと清流を渡る涼風を感じながらいただく鮎の塩焼きや湯引き鱧、京野菜の涼やかな会席は、日本の夏が誇る最高峰の風雅です。楽天ふるさと納税クーポンを使えば、予約困難な名物川床ディナー付きの上質な宿泊プランも控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）優雅に楽しめます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    市街地よりマイナス5度から10度涼しい川床の特等席でディナー
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">市街地よりマイナス5度から10度涼しい川床の特等席でディナー</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     清流のすぐ上に設えられた座敷でいただく伝統料理。せせらぎの音を天然のBGMに、昼は木漏れ日、夜は提灯の明かりに照らされた幻想的な風情を満喫できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    清流で育まれた天然鮎の炭火焼きや岩魚・川エビの極上美味
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">清流で育まれた天然鮎の炭火焼きや岩魚・川エビの極上美味</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     串に刺して炭火で香ばしくじっくり焼き上げた鮎は、ほろ苦いワタとふっくらした身の甘みが絶品。地元の純米酒との相性も抜群です。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    避暑地リゾートや由緒ある温泉旅館の滞在とセットでお得に消化
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">避暑地リゾートや由緒ある温泉旅館の滞在とセットでお得に消化</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     川床料理を提供する老舗旅館は宿泊単価が高めですが、ふるさと納税クーポンを活用すれば最大30%の大幅割引。夏の贅沢旅行に最適です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="kibune_kawadoko" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>京都府京都市ふるさと納税：京都奥座敷貴船・清流の上に設えられた元祖川床料理と貴船神社</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>京都府京都市ふるさと納税：京都奥座敷貴船・清流の上に設えられた元祖川床料理と貴船神社</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       貴船川のせせらぎが手の届く距離に流れる川床席。京都の夏の風物詩である活鮎や鱧料理、冷酒を心ゆくまで堪能し、縁結びの神として名高い貴船神社の静寂な朝を散策できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              京都“元祖川床”発祥の老舗料理旅館　貴船ふじや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京都“元祖川床”発祥の老舗料理旅館　貴船ふじや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               貴船・川床の元祖【創業天保年間】貴船神社門前に佇み、洛北の四季を盛り込んだ川魚生簀料理が自慢。
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              料理旅館　ひろ文
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">料理旅館　ひろ文</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               貴船川の最上流に位置する当館で川床料理を愉しむ！貴船神社結社に徒歩1分の好立地。
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              京・貴船　ひろや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">京・貴船　ひろや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               貴船川に面した昔ながらの料理旅館。季節京会席が自慢で、特に貴船川の川床は夏の風物詩として好評。
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shimanto_kawadoko" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>高知県四万十市ふるさと納税：日本最後の清流四万十川・屋形船遊覧と天然鮎・川エビの郷土料理</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>高知県四万十市ふるさと納税：日本最後の清流四万十川・屋形船遊覧と天然鮎・川エビの郷土料理</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       名水百選に選ばれる四万十川。沈下橋を望む雄大な自然の中で、屋形船での川下りや天然青のり・天然ウナギの美味を味わい、川のせせらぎを聴きながら天然温泉に浸かる癒やしの休日です。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              薬湯風呂　ホテルクラウンヒルズ中村（ＢＢＨホテルグループ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">薬湯風呂　ホテルクラウンヒルズ中村（ＢＢＨホテルグループ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               中村駅より徒歩約５分。国道５６号線を折れてすぐ！駐車場無料！
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="iwamuro_kawadoko" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>新潟県新潟市ふるさと納税：越後平野の奥座敷・開湯300年岩室温泉の日本庭園と旬の清流美味</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>新潟県新潟市ふるさと納税：越後平野の奥座敷・開湯300年岩室温泉の日本庭園と旬の清流美味</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       弥彦山麓に抱かれた歴史ある温泉郷。風情ある数寄屋造りの老舗宿で、日本庭園のせせらぎを愛でながら、日本海の海の幸と新潟が誇る極上米・地酒のマリアージュを楽しめます。
                     </p>
@@ -437,9 +411,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              岩室温泉　ゆもとや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　ゆもとや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               館内は五層吹き抜けのつくりとなっており、広々とした開放的な空間が広がります。
                             </p>
@@ -489,9 +461,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              岩室温泉　高志の宿　高島屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　高志の宿　高島屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【楽天トラベルアワード2024】ブロンズアワード受賞！大切な日は高島屋で…
                             </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              岩室温泉　めんめん亭わたや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">岩室温泉　めんめん亭わたや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ２本の源泉100％かけ流し!癒しの宿★ご予約特典★だいろの湯入館券プレゼント！
                             </p>
@@ -649,9 +617,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】京都“元祖川床”発祥の老舗料理旅館 貴船ふじやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】京都“元祖川床”発祥の老舗料理旅館 貴船ふじやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -684,9 +650,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と京都“元祖川床”発祥の老舗料理旅館 貴船ふじやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と京都“元祖川床”発祥の老舗料理旅館 貴船ふじやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

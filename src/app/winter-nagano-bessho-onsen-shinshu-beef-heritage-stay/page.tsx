@@ -269,9 +269,7 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Heritage of Shinshu</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                千四百年の時を紡ぐ古湯と厄除け信仰｜11月・12月に信州別所温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">千四百年の時を紡ぐ古湯と厄除け信仰｜11月・12月に信州別所温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Shioda Plain & Snowy Peaks</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冠雪の浅間山連峰と塩田平の静寂｜信州の鎌倉が織りなす冬の陰影
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冠雪の浅間山連峰と塩田平の静寂｜信州の鎌倉が織りなす冬の陰影</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -314,9 +310,7 @@ export default function NaganoBesshoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Timeless Heritage Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月厳選】別所温泉の美食と掛け流し名湯に浸る名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月厳選】別所温泉の美食と掛け流し名湯に浸る名旅館5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               北向観音の隣に佇む老舗から、全館畳敷きの展望風呂自慢、数寄屋造りの贅を尽くした料理旅館まで、極上の5宿を厳選。
             </p>
@@ -347,9 +341,7 @@ export default function NaganoBesshoWinterFeature() {
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">{h.name}</h3>
                       <span className="text-lg sm:text-xl font-extrabold text-violet-800">
                         {h.price} <span className="text-xs font-normal text-slate-500">/人〜</span>
                       </span>
@@ -413,9 +405,7 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                信州プレミアム牛の芳醇オレイン酸と単純硫黄泉の美肌メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">信州プレミアム牛の芳醇オレイン酸と単純硫黄泉の美肌メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -436,9 +426,7 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の別所温泉・北向観音参詣と国宝三重塔・信州牛を巡る歴史散歩
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の別所温泉・北向観音参詣と国宝三重塔・信州牛を巡る歴史散歩</h2>
             </div>
           </div>
 
@@ -507,38 +495,30 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Local Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の別所温泉旅行を深める3つの心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の別所温泉旅行を深める3つの心得</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-slate-700">
             <div className="bg-violet-50/40 rounded-2xl p-5 border border-violet-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-violet-600" />
-                「両参り」で満願成就
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Landmark className="w-5 h-5 text-violet-600" />
+                「両参り」で満願成就</h3>
               <p className="leading-relaxed">
                 善光寺と北向観音は向かい合う関係。長野新幹線を利用すれば長野駅の善光寺と上田駅の別所温泉は1時間圏内。両方を参詣することで現世と来世の完全なご利益が得られます。
               </p>
             </div>
 
             <div className="bg-violet-50/40 rounded-2xl p-5 border border-violet-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-violet-600" />
-                3つの外湯めぐり
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-violet-600" />
+                3つの外湯めぐり</h3>
               <p className="leading-relaxed">
                 別所温泉街には「石湯（真田幸村隠しの湯）」「大師の湯（慈覚大師）」「大湯（木曽義仲ゆかり）」の3つの公衆浴場があり、地元の人々と語らいながらの湯巡りもおすすめです。
               </p>
             </div>
 
             <div className="bg-violet-50/40 rounded-2xl p-5 border border-violet-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-violet-600" />
-                蜜入りサンふじの最盛期
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-violet-600" />
+                蜜入りサンふじの最盛期</h3>
               <p className="leading-relaxed">
                 信州上田・塩田平周辺は全国屈指のりんご産地。11月中旬から12月にかけて収穫される「完熟サンふじ」は蜜がたっぷりと入り、シャキシャキの歯ごたえとお土産に最高の人気を誇ります。
               </p>
@@ -554,19 +534,15 @@ export default function NaganoBesshoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-violet-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                信州別所温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">信州別所温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-violet-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-violet-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -579,9 +555,7 @@ export default function NaganoBesshoWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-violet-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-violet-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！甲信越・信州の冬美食＆名湯温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！甲信越・信州の冬美食＆名湯温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               長野・群馬・山梨の雪見露天・和牛会席・歴史情緒を巡る、厳選特集記事もぜひチェックしてください。
             </p>

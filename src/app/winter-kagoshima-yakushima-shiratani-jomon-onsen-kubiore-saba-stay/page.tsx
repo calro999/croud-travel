@@ -84,37 +84,29 @@ export default function WinterFeaturePage() {
         <section className="max-w-4xl mx-auto px-4 py-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
             <div className="space-y-1">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2026-2027年冬の屋久島・宮之浦・安房が格別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2026-2027年冬の屋久島・宮之浦・安房が格別な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 冬ならではの絶景・温泉・美食のハイライト
               </p>
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  静寂の森を独り占めできる冬の「白谷雲水峡」と苔の雫
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  静寂の森を独り占めできる冬の「白谷雲水峡」と苔の雫</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   映画のモデルとして名高い白谷雲水峡。夏は多くの登山者で賑わいますが、11月から1月は静けさに包まれます。冬の澄んだ大気と朝露によって苔の瑞々しさが際立ち、神秘的な緑の回廊を心ゆくまで自分のペースでトレッキングできます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  冬に脂乗りがピークに達する「首折れサバ」と島の美味
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  冬に脂乗りがピークに達する「首折れサバ」と島の美味</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   屋久島近海で一本釣りされ、鮮度を保つため首を折って血抜きされる「首折れサバ」。厳冬期は身が引き締まり脂の乗りが抜群で、コリコリとした歯ごたえと上質な脂の甘みはここでしか味わえません。トビウオの姿揚げや屋久鹿料理との相性も格別です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  海と森に抱かれる絶景温泉と、湯けむりからの星空観賞
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  海と森に抱かれる絶景温泉と、湯けむりからの星空観賞</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   屋久島南部の尾之間温泉や平内海中温泉をはじめ、島内屈指のリゾートホテルには源泉掛け流しやオーシャンビューの露天風呂が点在。冬は空気が澄み渡るため、湯船に浸かりながら満天の天の川や東シナ海の水平線を一望できます。
                 </p>
@@ -126,10 +118,8 @@ export default function WinterFeaturePage() {
         {/* アクセス・気候・服装ガイド */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-600" />
-              冬のアクセス・気候とおすすめの服装
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-cyan-600" />
+              冬のアクセス・気候とおすすめの服装</h2>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 p-4 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
 ・飛行機：鹿児島空港より屋久島空港まで約40分（JALグループ便）。大阪（伊丹）や福岡からも直行便が季節運航されています。屋久島空港より宮之浦・安房各地区へ車・路線バスで約15〜25分。
@@ -148,9 +138,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              屋久島・宮之浦・安房 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">屋久島・宮之浦・安房 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,9 +162,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     宮之浦港近く・東シナ海パノラマ展望大浴場と極上会席
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ＴＨＥ　ＨＯＴＥＬ　ＹＡＫＵＳＨＩＭＡ　ＯＣＥＡＮ　＆　ＦＯＲＥＳＴ＜屋久島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ＴＨＥ　ＨＯＴＥＬ　ＹＡＫＵＳＨＩＭＡ　ＯＣＥＡＮ　＆　ＦＯＲＥＳＴ＜屋久島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.50
@@ -240,9 +226,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     モッチョム岳直下・自家源泉の天然温泉とリゾートステイ
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    屋久島いわさきホテル　＜屋久島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">屋久島いわさきホテル　＜屋久島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.36
@@ -302,9 +286,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     宮之浦川の清流沿い・創業昭和レトロの老舗割烹旅館
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    田代別館　＜屋久島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">田代別館　＜屋久島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.18
@@ -368,9 +350,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     安房川の絶景渓谷を眼下に望むトレッカー御用達の老舗宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル　屋久島山荘　＜屋久島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル　屋久島山荘　＜屋久島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.45
@@ -434,9 +414,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     安房港近くのオーシャンフロント・天然鉱石大浴場と島会席
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    屋久島グリーンホテル＜屋久島＞
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">屋久島グリーンホテル＜屋久島＞</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.45
@@ -490,9 +468,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  鹿児島県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">鹿児島県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -511,10 +487,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の屋久島・宮之浦・安房旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の屋久島・宮之浦・安房旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

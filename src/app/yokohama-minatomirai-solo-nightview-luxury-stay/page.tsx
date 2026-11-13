@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            夜空を染める大観覧車のグラデーションと、海風そよぐプライベートバルコニー——誰にも気兼ねせず港の輝きに抱かれる「横浜みなとみらい・至極の夜」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">夜空を染める大観覧車のグラデーションと、海風そよぐプライベートバルコニー——誰にも気兼ねせず港の輝きに抱かれる「横浜みなとみらい・至極の夜」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             都心からわずか30分でアクセスできる日本屈指のウォーターフロント都市・横浜みなとみらい。赤レンガ倉庫や山下公園、汽車道など、港町の歴史と未来的なスカイラインが交差する景観は、大人がひとり気ままに散策するのに最高のシチュエーションです。さらに近年はKアリーナ横浜やぴあアリーナMMをはじめとする最新アリーナが続々と誕生し、全国からライブやコンサート遠征に訪れる拠点としても圧倒的な人気を誇っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   みなとみらい駅直結！大観覧車「コスモクロック21」を目の前に望むエリア唯一のプライベートバルコニー付きホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  横浜ベイホテル東急 —— クイーンズスクエア直結。海風を感じるバルコニーと「カフェ トスカ」の伝説的朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">横浜ベイホテル東急 —— クイーンズスクエア直結。海風を感じるバルコニーと「カフェ トスカ」の伝説的朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   国内屈指のウェルネスホテル！「ヘブンリーベッド」と総合スパ・屋内温水プールで心身を再生する最先端ラグジュアリー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ウェスティンホテル横浜 —— みなとみらい21地区の最新ランドマーク。天空のクラブラウンジと極上のスリープ体験
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ウェスティンホテル横浜 —— みなとみらい21地区の最新ランドマーク。天空のクラブラウンジと極上のスリープ体験</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   2023年開業！最上階20階ロビーに広がる絶景スカイプールと夜景を見下ろすモダンラグジュアリー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル横浜みなとみらいプレミア —— 横浜コネクトスクエア上層階。天空のオアシスと爽快な朝食ビュッフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル横浜みなとみらいプレミア —— 横浜コネクトスクエア上層階。天空のオアシスと爽快な朝食ビュッフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              横浜みなとみらいの夜景とグルメを一人で味わい尽くす散策プラン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">横浜みなとみらいの夜景とグルメを一人で味わい尽くす散策プラン</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 黄昏時の汽車道（きしゃみち）から赤レンガ倉庫へアーバンウォーキング
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 黄昏時の汽車道（きしゃみち）から赤レンガ倉庫へアーバンウォーキング</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 海の上を渡る遊歩道から眺めるみなとみらいのビル群。徐々に明かりが灯っていくマジックアワーは必見の絶景です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 野毛（のげ）のレトロな飲食街で一人ホルモン＆クラフトビール
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 野毛（のげ）のレトロな飲食街で一人ホルモン＆クラフトビール</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 みなとみらいのすぐ隣、桜木町駅西側の「野毛」は昭和レトロな大衆酒場街。カウンター席で地元民と触れ合いながらはしご酒が楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 深夜は客室でオリジナルカクテルを片手に大観覧車の消灯演出を待つ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 深夜は客室でオリジナルカクテルを片手に大観覧車の消灯演出を待つ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 深夜0時に観覧車のライトアップが一瞬消灯する特別な瞬間。静寂に包まれる港の夜景を部屋から眺める至福。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>Kアリーナ横浜やぴあアリーナMMへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>Kアリーナ横浜やぴあアリーナMMへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ご紹介した3ホテルはいずれもみなとみらい中心部に位置し、各アリーナへ徒歩約8〜12分程度でアクセス可能。終演後の電車混雑を気にせず歩いて帰館できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でアフタヌーンティーやバーを利用できますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でアフタヌーンティーやバーを利用できますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 各ホテルのラウンジやバーは洗練された開放的な空間で、おひとりさまで優雅にアフタヌーンティーやワインを楽しむゲストが多数います。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】横浜ベイホテル東急を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】横浜ベイホテル東急を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

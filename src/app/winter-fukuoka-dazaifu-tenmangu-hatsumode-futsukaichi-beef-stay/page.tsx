@@ -262,9 +262,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の太宰府が放つ神聖なエネルギーと、万葉集の湯の癒やし
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の太宰府が放つ神聖なエネルギーと、万葉集の湯の癒やし</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               合格祈願の絵馬が揺れる天神さまの神域と、1300年の歴史が温める二日市温泉
             </p>
@@ -320,9 +318,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-indigo-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】太宰府合格祈願・初詣と万葉の古湯・博多和牛美食黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】太宰府合格祈願・初詣と万葉の古湯・博多和牛美食黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               西鉄電車で天神・博多から約25分。天神さまと名湯を巡る開運リフレッシュの旅。
             </p>
@@ -333,9 +329,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:00 博多・福岡空港発 ➔ 西鉄電車で二日市温泉チェックイン＆外湯めぐり
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:00 博多・福岡空港発  西鉄電車で二日市温泉チェックイン＆外湯めぐり</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   西鉄福岡（天神）駅または博多駅から西鉄電車で二日市温泉へ。慶応元年創業の大丸別荘や温泉宿にチェックインし、源泉掛け流しラドン温泉に浸かって長旅の疲れを解きほぐします。風情ある温泉街の共同浴場「博多湯」で外湯の熱湯を体験。
                 </p>
@@ -344,9 +338,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 極上霜降り「博多和牛ステーキ」＆本場博多の郷土鍋ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 極上霜降り「博多和牛ステーキ」＆本場博多の郷土鍋ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   宿で味わう伝統の会席料理。福岡県産の黒毛和牛「博多和牛」のステーキやすき焼き、玄界灘の冬の鮮魚、博多名物のもつ鍋や水炊き小鍋を堪能。三千坪の日本庭園の夜景を眺めながら、静かに心身を整える贅沢な一夜を過ごします。
                 </p>
@@ -355,9 +347,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 早朝〜朝</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:00 太宰府天満宮へ ➔ 話題の仮殿参拝・合格祈願・御神木「飛梅」鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:00 太宰府天満宮へ  話題の仮殿参拝・合格祈願・御神木「飛梅」鑑賞</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   混雑前の朝一番に西鉄電車で太宰府駅へ。神聖な太鼓橋を渡り、藤本壮介氏設計の美しい緑の「仮殿」で学業成就や一年の開運を静かに祈願。早咲きの白梅・御神木「飛梅」を愛で、絵馬を奉納して心を込めて祈ります。
                 </p>
@@ -366,9 +356,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-indigo-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-indigo-400 tracking-wider uppercase">DAY 2 昼〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:00 参道で焼き立て「梅ヶ枝餅」食べ比べ ➔ 九州国立博物館見学〜帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:00 参道で焼き立て「梅ヶ枝餅」食べ比べ  九州国立博物館見学〜帰路へ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   参道沿いの老舗「かさの家」などで出来立てアツアツの梅ヶ枝餅を購入し、パリッとした皮と温かい小豆あんを堪能。隣接する九州国立博物館で特別展を見学した後、太宰府ライナーバス旅人で博多駅や福岡空港へ戻り帰路へ。
                 </p>
@@ -381,27 +369,21 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              太宰府名物「梅ヶ枝餅」の由緒と、福岡の至宝「博多和牛」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">太宰府名物「梅ヶ枝餅」の由緒と、福岡の至宝「博多和牛」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-indigo-700" />
-                菅原道真公の伝説が息づく「梅ヶ枝餅」の温かな歴史
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-indigo-700" />
+                菅原道真公の伝説が息づく「梅ヶ枝餅」の温かな歴史</h3>
               <p>
                 太宰府参道の名物「梅ヶ枝餅」は、大宰府に左遷された菅原道真公を見かねた近所の老婆・浄妙尼が、道真公の好物であった餅に梅の枝を添えて差し入れたことが始まりと伝わります。うるち米ともち米を絶妙な比率で配合した生地に、北海道産小豆の上品な粒あんを包み、鉄板で両面を香ばしく焼き上げます。熱々の焼きたては外皮がパリッと香ばしく、中はモチモチ。冬の参道を歩きながら味わう手元の温もりは太宰府観光の何よりの記憶になります。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-700" />
-                稲わらと清流水で育まれた極上黒毛和牛「博多和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+                稲わらと清流水で育まれた極上黒毛和牛「博多和牛」</h3>
               <p>
                 福岡県内の登録農家で良質な稲わらと清冽な水で丁寧に育てられた「博多和牛」。肉質はやわらかく、赤身と霜降りのバランスが抜群で、噛むほどにジューシーな旨味と甘みが口いっぱいに広がります。冬には上質な割り下で煮立てるすき焼き鍋や、炭火で香ばしく焼き上げるステーキが絶品。博多名物の水炊きやもつ鍋とともに、福岡の冬の豊かな食文化を象徴する極上グルメです。
               </p>
@@ -415,9 +397,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
             <span className="text-indigo-700 font-bold text-xs sm:text-sm tracking-wider uppercase block">
               Handpicked Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">
-              太宰府天満宮初詣＆二日市温泉を愉しむ厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">太宰府天満宮初詣＆二日市温泉を愉しむ厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
@@ -446,8 +426,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group">
-                      <a 
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
                         rel="noopener noreferrer" 
@@ -455,8 +434,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
                       >
                         {hotel.name}
                         <ExternalLink className="w-4 h-4 text-stone-400 group-hover:text-indigo-700 inline" />
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-500 text-xs sm:text-sm flex items-center gap-1.5">
                       <MapPin className="w-4 h-4 text-indigo-600 shrink-0" />
@@ -479,10 +457,8 @@ export default function FukuokaDazaifuFutsukaichiPage() {
 
                   {/* Editorial Story */}
                   <div className="space-y-3 bg-stone-50/70 rounded-2xl p-4 sm:p-5 border border-stone-200/60">
-                    <h4 className="text-xs sm:text-sm font-bold text-indigo-900 flex items-center gap-1.5">
-                      <Building className="w-4 h-4 text-indigo-600" />
-                      宿の魅力と冬の滞在ストーリー
-                    </h4>
+                    <h4 className="text-xs sm:text-sm font-bold text-indigo-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-indigo-600" />
+                      宿の魅力と冬の滞在ストーリー</h4>
                     <p className="text-stone-700 text-xs sm:text-sm leading-relaxed">
                       {hotel.story}
                     </p>
@@ -540,9 +516,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="bg-indigo-50/60 rounded-3xl p-6 sm:p-10 border border-indigo-200/60 space-y-6">
           <div className="border-b border-indigo-200/80 pb-4">
             <span className="text-indigo-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950 font-serif">
-              太宰府天満宮初詣＆二日市温泉を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-indigo-950 font-serif">太宰府天満宮初詣＆二日市温泉を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-indigo-950">
@@ -582,20 +556,16 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              太宰府天満宮初詣・梅ヶ枝餅＆二日市温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">太宰府天満宮初詣・梅ヶ枝餅＆二日市温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-indigo-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-indigo-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -608,9 +578,7 @@ export default function FukuokaDazaifuFutsukaichiPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい九州・全国の初詣・名湯・冬グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい九州・全国の初詣・名湯・冬グルメ特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

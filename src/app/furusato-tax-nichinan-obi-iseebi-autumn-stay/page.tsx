@@ -121,9 +121,7 @@ export default function Page() {
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">
-            はじめに：10月・11月の日南・飫肥城下町・青島で叶える極上の秋旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">はじめに：10月・11月の日南・飫肥城下町・青島で叶える極上の秋旅</h2>
           <p className="text-slate-700 leading-relaxed mb-4">
             秋が深まる10月から11月、宮崎県・日南・飫肥城下町・青島エリアは一年の中で最も豊かで魅力的な表情を見せてくれます。澄み切った秋空に映える山々や渓谷のグラデーション、歴史ある町並みに漂う秋の情緒、そしてこの季節ならではの極上グルメが旅人を迎えます。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
 
         {/* Highlight Map / Summary Points */}
         <section className="bg-amber-50 rounded-2xl p-6 sm:p-8 border border-amber-200 mb-12">
-          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
-            <span>🍁</span> 日南・飫肥城下町・青島 秋旅の3大魅力ポイント
-          </h3>
+          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">日南・飫肥城下町・青島 秋旅の3大魅力ポイント</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">① 秋ならではの絶景パノラマ</div>
@@ -202,17 +198,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 秋の日南海岸伊勢海老のお造り＆鬼殻焼き、特選宮崎牛の溶岩プレート焼き、日南一本釣りカツオのタタキ、宮崎名物チキン南蛮
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろりとした化粧水のような極上美肌湯と、飫肥城下町の情緒。夕食には秋に解禁されたばかりのぷりぷり天然伊勢海老を贅沢に味わえます。
               </p>
@@ -271,17 +263,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 日南海岸獲れたて天然伊勢海老会席、宮崎牛すき焼き、日南鶏の炭火焼き、飫肥名物「厚焼き玉子」と郷土の小鉢
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 開放感抜群のパノラマ露天風呂に浸かりながら、秋風そよぐ日南の山並みを一望。秋の伊勢海老まつりプランでグルメ旅を極める滞在。
               </p>
@@ -340,17 +328,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 宮崎牛の陶板焼き、日南獲れ伊勢海老鍋（秋季限定）、近海マグロ・カツオのお造り、宮崎郷土料理ビュッフェまたは御膳
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 青島神社や鬼の洗濯板への観光拠点に最適。温暖な秋の南国リゾート気分と、天然温泉でゆったり寛げるコストパフォーマンス抜群の宿。
               </p>
@@ -371,7 +355,7 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-amber-950 to-stone-900 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、宮崎県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
@@ -405,24 +389,18 @@ export default function Page() {
           <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 日南・飫肥城下町・青島の秋のベストシーズンはいつですか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 日南・飫肥城下町・青島の秋のベストシーズンはいつですか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 例年10月〜11月の秋獲れ天然伊勢海老解禁と温暖な日南海岸の秋リゾートが最高の見頃となります。標高差や気候に合わせて色づきや食材の旬が移り変わり、10月から11月下旬まで長く楽しめます。
               </p>
             </div>
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 10月〜11月の日南・飫肥城下町・青島は朝晩の冷え込みが予想されます。日中は薄手のアウターで快適ですが、早朝や夜間、山間部の散策には防風ジャケットやフリース、歩きやすい靴をご用意ください。
               </p>
@@ -442,9 +420,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉ひなたの宿日南宮崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉ひなたの宿日南宮崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

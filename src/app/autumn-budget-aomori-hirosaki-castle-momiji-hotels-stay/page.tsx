@@ -55,9 +55,7 @@ export default function HirosakiBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            お濠の水面に映る真紅の絵巻「弘前城菊と紅葉まつり」
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">お濠の水面に映る真紅の絵巻「弘前城菊と紅葉まつり」</h2>
           <p className="mb-4 text-stone-700">
             春の桜で有名な弘前公園は、秋の紅葉も東北随一の美しさを誇ります。11月上旬にかけて開催される「弘前城菊と紅葉まつり」では、古城の白壁や杉の大木と鮮やかな紅葉が調和。特に中濠や蓮池の水面に映り込むシンメトリーの紅葉ライトアップは息を呑む絶景です。
           </p>
@@ -69,10 +67,8 @@ export default function HirosakiBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！弘前の大浴場・温泉付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！弘前の大浴場・温泉付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function HirosakiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.16</span>
                     <span className="text-stone-400 text-xs">(2284件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    アートホテル弘前シティ
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">アートホテル弘前シティ</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分
                   </p>
@@ -142,9 +136,7 @@ export default function HirosakiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.07</span>
                     <span className="text-stone-400 text-xs">(2841件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スーパーホテル弘前
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スーパーホテル弘前</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / 弘前駅より徒歩約１2分　100円バスで6分　東北自動車道路「大鰐弘前ＩＣ」より20分　駐車場は先着順（1台500円/泊）
                   </p>
@@ -189,9 +181,7 @@ export default function HirosakiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.06</span>
                     <span className="text-stone-400 text-xs">(1095件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルルートイン弘前城東
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルルートイン弘前城東</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 弘前駅 / JR奥羽本線弘前駅城東口より約2km/東北自動車道大鰐・弘前ICより約8km/青森空港より弘前バスターミナルまで約60分
                   </p>
@@ -236,9 +226,7 @@ export default function HirosakiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.37</span>
                     <span className="text-stone-400 text-xs">(4503件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 中央弘前駅 / JR弘前駅より車で約10分
                   </p>
@@ -283,9 +271,7 @@ export default function HirosakiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.1</span>
                     <span className="text-stone-400 text-xs">(140件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルあずまし屋
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルあずまし屋</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 駅 / 東北自動車道　黒石ＩＣからお車にて約１０分
                   </p>
@@ -330,9 +316,7 @@ export default function HirosakiBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の弘前×格安：弘前城菊と紅葉まつりと焼きたてアップルパイ！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function HirosakiBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の弘前×格安で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の弘前×格安で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

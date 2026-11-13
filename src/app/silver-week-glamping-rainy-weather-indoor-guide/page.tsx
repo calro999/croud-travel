@@ -200,9 +200,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-slate-700 pl-4 space-y-1">
           <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">Inspection Points</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            天候に左右されない！全天候型グランピングのチェックリスト
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">天候に左右されない！全天候型グランピングのチェックリスト</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             「予約したのに雨で台無し」を防ぐために、予約前に必ず確認すべき4つの設備条件。
           </p>
@@ -225,9 +223,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
       <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md border border-slate-800">
         <div className="space-y-1">
           <span className="text-xs font-bold text-slate-400 uppercase tracking-widest">Risk Management</span>
-          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-            悪天候時のキャンセル規定＆判断基準のリアル
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">悪天候時のキャンセル規定＆判断基準のリアル</h2>
           <p className="text-xs sm:text-sm text-slate-300">
             シルバーウィーク直前に台風が発生した際、慌てないための心得と手順。
           </p>
@@ -236,9 +232,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {cancelPolicyGuides.map((item, i) => (
             <div key={i} className="bg-slate-800/80 rounded-2xl p-5 border border-slate-700 space-y-2.5">
-              <h3 className="font-bold text-sm text-slate-100 border-b border-slate-700 pb-2">
-                {item.caseType}
-              </h3>
+              <h3 className="font-bold text-sm text-slate-100 border-b border-slate-700 pb-2">{item.caseType}</h3>
               <div className="text-xs text-amber-300 font-bold">
                 規定: {item.rule}
               </div>
@@ -254,9 +248,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-slate-700 pl-4 space-y-1">
           <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">All-Weather Selection</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            雨でも快適！屋根付きデッキ＆温泉完備のグランピング宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">雨でも快適！屋根付きデッキ＆温泉完備のグランピング宿</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             屋根付きBBQテラス、直結温泉、室内ラウンジなど雨対策が万全な高評価施設を厳選。
           </p>
@@ -293,9 +285,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
                     {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-slate-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-slate-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "屋根付きテラスと快適な室内設備を備えた全天候対応グランピングリゾート。"}
@@ -338,18 +328,14 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
       <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-slate-700 pl-4 space-y-1">
           <span className="text-xs font-bold text-slate-500 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            全天候型グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">全天候型グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-slate-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-slate-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-slate-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -360,9 +346,7 @@ export default function SilverWeekGlampingRainyWeatherIndoorPage() {
 
       {/* 内部リンク・雨の日の観光モデルコース */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-          <span>🌧️</span> あわせて読みたい雨天・屋内観光ガイド
-        </h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><span>️</span> あわせて読みたい雨天・屋内観光ガイド</h3>
         <p className="text-xs text-slate-600">
           グランピング前後のドライブや立ち寄りに最適な、雨の日でも楽しめる観光モデルコース。
         </p>

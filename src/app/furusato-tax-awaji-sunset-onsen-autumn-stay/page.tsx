@@ -130,9 +130,7 @@ export default function Page() {
       />
         {/* イントロダクション */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            秋の兵庫・淡路島（洲本・南あわじ）を旅する魅力と贅沢なふるさと納税活用法
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の兵庫・淡路島（洲本・南あわじ）を旅する魅力と贅沢なふるさと納税活用法</h2>
           <p className="text-stone-700 leading-relaxed">
             秋風が心地よく吹き抜け、木々が鮮やかに色づく10月・11月。日本各地がもっとも美しく、実り豊かな季節を迎えます。なかでも「兵庫・淡路島（洲本・南あわじ）」は、播磨灘サンセット・秋の大潮うずしおクルーズ・淡路島3年とらふぐ解禁など、この時期にしか出逢えない息を呑む絶景と旬の味覚が凝縮された屈指の名所です。
           </p>
@@ -180,9 +178,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 1</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                洲本温泉　ホテルニューアワジ別亭　淡路夢泉景　＜淡路島＞
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">洲本温泉　ホテルニューアワジ別亭　淡路夢泉景　＜淡路島＞</h3>
               <p className="text-xs text-stone-500 mt-1">兵庫県洲本市小路谷1052-2</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -230,9 +226,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 2</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">サンセットビューホテル　けひの海～うずしお温泉～　＜淡路島＞</h3>
               <p className="text-xs text-stone-500 mt-1">兵庫県南あわじ市松帆古津路970-76</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -280,9 +274,7 @@ export default function Page() {
           <div className="flex flex-col md:flex-row md:items-center justify-between border-b pb-4">
             <div>
               <span className="text-xs font-bold text-amber-600 bg-amber-50 px-2.5 py-1 rounded border border-amber-200">厳選宿 3</span>
-              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">
-                洲本温泉　海のホテル　島花　＜淡路島＞
-              </h3>
+              <h3 className="text-xl md:text-2xl font-bold text-stone-900 mt-2">洲本温泉　海のホテル　島花　＜淡路島＞</h3>
               <p className="text-xs text-stone-500 mt-1">兵庫県洲本市小路谷1277-5</p>
             </div>
             <div className="mt-3 md:mt-0 flex items-center space-x-2">
@@ -327,9 +319,7 @@ export default function Page() {
 
         {/* 1泊2日おすすめモデルコース */}
         <section className="bg-white p-6 md:p-8 rounded-xl shadow-sm border border-stone-200 space-y-6">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-            【秋旅モデルコース】兵庫・淡路島（洲本・南あわじ）を満喫する1泊2日の極上周遊ルート
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 border-l-4 border-amber-600 pl-3">【秋旅モデルコース】兵庫・淡路島（洲本・南あわじ）を満喫する1泊2日の極上周遊ルート</h2>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
               <h3 className="font-bold text-stone-900 text-base">【1日目】錦秋の絶景巡りと極上温泉チェックイン</h3>
@@ -377,9 +367,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】洲本温泉 ホテルニューアワジ別亭 淡路夢泉景 ＜淡路島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】洲本温泉 ホテルニューアワジ別亭 淡路夢泉景 ＜淡路島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -412,9 +400,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と洲本温泉 ホテルニューアワジ別亭 淡路夢泉景 ＜淡路島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と洲本温泉 ホテルニューアワジ別亭 淡路夢泉景 ＜淡路島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

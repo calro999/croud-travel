@@ -248,9 +248,7 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Phenomenon & History</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              日本唯一の現存山城天守が雲海に浮かぶ奇跡、赤銅の町並みと漆黒の星空
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本唯一の現存山城天守が雲海に浮かぶ奇跡、赤銅の町並みと漆黒の星空</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               標高430mの臥牛山に宿る中世の威容と、幻の蔓牛が紡ぐ奥備中の贅沢
             </p>
@@ -309,9 +307,7 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-gradient-to-r from-slate-900 to-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-amber-400 pl-4">
             <span className="text-amber-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -345,16 +341,12 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき高梁＆新見の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき高梁＆新見の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-amber-600" /> 備中松山城雲海展望台
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-amber-600" /> 備中松山城雲海展望台</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 臥牛山の北東約2kmに位置する絶景テラス。夜明け前から午前8時頃にかけて、深い霧の海に浮かぶ天守を真正面から捉えられます。朝日に照らされて黄金色に染まる雲海のグラデーションは必見です。
               </p>
@@ -364,9 +356,7 @@ export default function OkayamaTakahashiUnkaiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-rose-600" /> 吹屋ふるさと村
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-rose-600" /> 吹屋ふるさと村</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 赤銅色の石州瓦とベンガラ格子で統一された重要伝統的建造物群保存地区。豪商の屋敷「旧片山家住宅」や日本最古の木造校舎「旧吹屋小学校」、ベンガラ染め体験などタイムスリップしたような風情を満喫。
               </p>
@@ -376,9 +366,7 @@ export default function OkayamaTakahashiUnkaiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sun className="w-5 h-5 text-indigo-600" /> 井原市 美星天文台＆星空保護区
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sun className="w-5 h-5 text-indigo-600" /> 井原市 美星天文台＆星空保護区</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 国際ダークスカイ協会認定の星空の街。国内最大級の公開望遠鏡（口径101cm）を備える美星天文台では、澄み切った冬空に輝く星雲や惑星をリアルタイムに観測。街全体が星を守る光害対策を徹底。
               </p>
@@ -393,9 +381,7 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の高梁＆新見を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の高梁＆新見を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               雲海展望台アクセス至近・本場千屋牛すき焼き・高原リゾート・美肌温泉名宿
             </p>
@@ -431,9 +417,7 @@ export default function OkayamaTakahashiUnkaiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -491,9 +475,7 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の高梁＆新見を満喫する1泊2日天空の城・美星町星空モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の高梁＆新見を満喫する1泊2日天空の城・美星町星空モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               吹屋ふるさと村、美星町満天星空、早朝の雲海展望台と千屋牛すき焼きを味わい尽くす旅日程
             </p>
@@ -501,10 +483,8 @@ export default function OkayamaTakahashiUnkaiPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
-                城下町高梁散策・吹屋ふるさと村見学と美星町ナイトスターハント
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-amber-600 text-white text-xs rounded-md font-bold">1日目</span>
+                城下町高梁散策・吹屋ふるさと村見学と美星町ナイトスターハント</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 JR備中高梁駅に到着</strong>：高梁市複合施設・図書館で一息つき、城下町の武家屋敷通りを散策。</li>
                 <li><strong className="text-slate-900">12:30 名物インディアントマト焼そばランチ</strong>：カレー風味と地元産完熟トマトの酸味が絶妙なご当地グルメを堪能。</li>
@@ -515,10 +495,8 @@ export default function OkayamaTakahashiUnkaiPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-slate-800 text-white text-xs rounded-md font-bold">2日目</span>
-                備中松山城早朝雲海鑑賞と本丸登城・猫城主対面
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-slate-800 text-white text-xs rounded-md font-bold">2日目</span>
+                備中松山城早朝雲海鑑賞と本丸登城・猫城主対面</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">06:00 宿を出発し雲海展望台へ</strong>：夜明け前の「備中松山城雲海展望台」へ。朝日に染まる純白の雲海に浮かぶ天空の城をじっくり観賞・撮影。</li>
                 <li><strong className="text-slate-900">08:00 ふいご峠から本丸へ登城</strong>：山道を登り、国の重要文化財・現存天守へ。猫城主さんじゅーろーにご挨拶。</li>
@@ -534,16 +512,12 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              高梁＆新見への交通アクセスと冬道ドライブの注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">高梁＆新見への交通アクセスと冬道ドライブの注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-600" /> 電車・特急やくも号アクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" /> 電車・特急やくも号アクセス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">岡山駅から</strong>：JR伯備線特急「やくも」で「備中高梁駅」まで約35分、「新見駅」まで約65分。普通列車でも約55分（高梁着）。</li>
                 <li><strong className="text-slate-900">山陽新幹線接続</strong>：東京・新大阪・博多方面から岡山駅で新幹線から特急やくもへスムーズに対面乗り換え可能。</li>
@@ -551,9 +525,7 @@ export default function OkayamaTakahashiUnkaiPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-rose-600" /> 車・レンタカー＆早朝凍結の注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-rose-600" /> 車・レンタカー＆早朝凍結の注意</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：岡山自動車道「賀陽IC」または「有漢IC」より高梁市街まで約15〜20分。中国自動車道「新見IC」直結。</li>
                 <li><strong className="text-slate-900">雲海展望台＆峠道の凍結注意</strong>：早朝の雲海展望台周辺や吹屋ふるさと村への山道は、12月〜1月に路面凍結（ブラックアイスバーン）が発生しやすくなります。早朝ドライブにはスタッドレスタイヤの装着が必須です。</li>
@@ -566,17 +538,13 @@ export default function OkayamaTakahashiUnkaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の高梁＆新見旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の高梁＆新見旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -587,10 +555,8 @@ export default function OkayamaTakahashiUnkaiPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-amber-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/"

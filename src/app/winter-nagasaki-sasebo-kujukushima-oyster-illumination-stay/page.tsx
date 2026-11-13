@@ -301,9 +301,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              夕陽に染まる208の多島美と、世界一の光が包み込むヨーロッパの街
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">夕陽に染まる208の多島美と、世界一の光が包み込むヨーロッパの街</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -350,17 +348,13 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Gourmet & Illumination</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              炭火で弾ける海のミルクと、1300万球が灯るヨーロッパの奇跡
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">炭火で弾ける海のミルクと、1300万球が灯るヨーロッパの奇跡</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 leading-relaxed text-sm sm:text-base">
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-orange-600" />
-                なぜ「九十九島かき」は格別に甘いのか
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+                なぜ「九十九島かき」は格別に甘いのか</h3>
               <p>
                 日本全国に牡蠣の産地は数あれど、九十九島かきほど「凝縮感」を感じさせる牡蠣は稀です。九十九島の内海は外海からの荒波が遮られた穏やかな海で、山林から注ぐ豊富な栄養塩により植物プランクトンが密集しています。
               </p>
@@ -372,10 +366,8 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
               </p>
             </div>
             <div className="space-y-4">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <Castle className="w-5 h-5 text-orange-600" />
-                冬のハウステンボス「白銀の世界」の圧倒的感動
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><Castle className="w-5 h-5 text-orange-600" />
+                冬のハウステンボス「白銀の世界」の圧倒的感動</h3>
               <p>
                 冬のハウステンボスは、年間で最もロマンチックなシーズンです。日没を迎えると、アムステルダム広場の中心に立つチャペルにて「白銀の世界」点灯式が厳粛に行われます。荘厳なパイプオルガンと鐘の音が響き渡り、プロのシンガーによる生歌が響く中、カウントダウンとともに広場一面が純白のイルミネーションへと一瞬にして変貌します。
               </p>
@@ -389,10 +381,8 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
           </div>
 
           <div className="bg-amber-50/70 p-5 sm:p-6 rounded-2xl border border-amber-200/60">
-            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-600" />
-              佐世保港を望む美肌の湯「九十九島温泉」
-            </h4>
+            <h4 className="font-bold text-amber-950 text-base mb-2 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-600" />
+              佐世保港を望む美肌の湯「九十九島温泉」</h4>
             <p className="text-amber-900 text-xs sm:text-sm leading-relaxed">
               佐世保エリアには、地下深くから湧き出す天然温泉が点在しています。ホテルオークラJRハウステンボスの黄金の湯「琴乃湯」や、弓張の丘ホテルの「潮の湯」、ホテルフラッグスの「九十九島温泉」など、塩分や炭酸水素塩を豊富に含んだ湯が揃います。冬の夜風に吹かれながら露天風呂に浸かれば、肌がしっとり潤い、体の芯まで温もりが持続します。
             </p>
@@ -403,9 +393,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-black text-stone-900">
-              【長崎・佐世保＆九十九島】冬の牡蠣と光の王国を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black text-stone-900">【長崎・佐世保＆九十九島】冬の牡蠣と光の王国を満喫する名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm mt-1">
               ハウステンボス直営・公式ホテルや九十九島の絶景を望むオーシャンビュー温泉リゾート
             </p>
@@ -439,9 +427,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>九十九島・ハウステンボス・佐世保エリア</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-black text-stone-900 leading-snug">{h.name}</h3>
                       <p className="text-stone-500 text-xs mt-1 flex items-center gap-1">
                         <Compass className="w-3.5 h-3.5" /> {h.access}
                       </p>
@@ -495,9 +481,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の九十九島かき＆ハウステンボス光の王国 1泊2日満喫モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の九十九島かき＆ハウステンボス光の王国 1泊2日満喫モデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -563,19 +547,15 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-orange-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-orange-600" />
-              冬の佐世保・九十九島旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-orange-600" />
+              冬の佐世保・九十九島旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="p-4 sm:p-5 bg-stone-50 rounded-2xl border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-orange-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
         <section className="bg-gradient-to-br from-slate-900 to-stone-900 rounded-3xl p-6 sm:p-10 text-white space-y-6 shadow-xl">
           <div className="border-b border-slate-700 pb-4">
             <span className="text-orange-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて読みたい！全国の11・12・1月冬の温泉＆味覚特集</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               冬の牡蠣・避寒リゾート・イルミネーションを楽しむ至極の旅ガイド
             </p>
@@ -605,9 +583,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   福岡・糸島＆博多
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の糸島カキ小屋めぐりと玄界灘天然とらふぐ・熱々博多もつ鍋名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の糸島カキ小屋めぐりと玄界灘天然とらふぐ・熱々博多もつ鍋名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -622,9 +598,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   沖縄・恩納村＆本部
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の避寒リゾート！ホエールウォッチングと美ら海・あぐー豚しゃぶ名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の避寒リゾート！ホエールウォッチングと美ら海・あぐー豚しゃぶ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -639,9 +613,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   長崎・雲仙温泉
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛と乳白色硫黄泉
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">立ち上る雲仙地獄の白煙と冬の奇跡「霧氷」・極上雲仙牛と乳白色硫黄泉</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -656,9 +628,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   岡山・日生牡蠣＆牛窓
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">瀬戸内冬の味覚「日生牡蠣」カキオコと牛窓オリーブ園夕陽＆絶景名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -673,9 +643,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   広島・宮島＆江田島
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  雪化粧の厳島神社と瀬戸内「広島生牡蠣」炭火焼き＆絶景オーシャン名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">雪化粧の厳島神社と瀬戸内「広島生牡蠣」炭火焼き＆絶景オーシャン名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →
@@ -690,9 +658,7 @@ export default function NagasakiSaseboKujukushimaWinterPage() {
                 <span className="inline-block px-2 py-0.5 bg-orange-950/80 border border-orange-400/40 text-orange-300 text-[10px] font-bold rounded-md mb-2">
                   高知・天然クエ＆鰹
                 </span>
-                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">
-                  冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・高知城ライトアップ名宿
-                </h3>
+                <h3 className="font-bold text-white text-sm group-hover:text-orange-300 transition-colors line-clamp-2">冬の幻の高級魚「天然クエ鍋」と脂の乗る戻り鰹・高知城ライトアップ名宿</h3>
               </div>
               <span className="text-xs text-orange-400 font-semibold mt-3 flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                 特集を見る →

@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            定禅寺通のケヤキ並木と伊達政宗の美意識、芳ばしい牛タンの炭火香——杜の都で仕事の疲れを溶かす「仙台・天然温泉＆美食ステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">定禅寺通のケヤキ並木と伊達政宗の美意識、芳ばしい牛タンの炭火香——杜の都で仕事の疲れを溶かす「仙台・天然温泉＆美食ステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線「はやぶさ」で東京から最短約1時間30分。東北地方の経済・文化の中心都市である仙台は、出張やひとり旅の目的地として圧倒的な人気を誇ります。名物の厚切り牛タン焼き、三陸産の獲れたて牡蠣や戻り鰹、銘酒「浦霞」「一ノ蔵」など、夜の国分町や駅周辺の横丁には大人の好奇心をそそる食文化が咲き誇っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   仙台トラストタワー高層階！地上約180mの天空から仙台市街と太平洋を一望する最高峰ラグジュアリー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ウェスティンホテル仙台 —— 杜の都のスカイラインを独り占め。「ヘブンリーベッド」が約束する至上の眠りとクラブラウンジ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ウェスティンホテル仙台 —— 杜の都のスカイラインを独り占め。「ヘブンリーベッド」が約束する至上の眠りとクラブラウンジ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR仙台駅西口から徒歩約5分！男女別天然温泉大浴場＆水風呂サウナ・名物夜鳴きそば完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 萩の湯 ドーミーイン仙台駅前 —— 新幹線改札すぐ。天然温泉とサウナ、宮城の郷土料理朝食で整う王道ビジホ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 萩の湯 ドーミーイン仙台駅前 —— 新幹線改札すぐ。天然温泉とサウナ、宮城の郷土料理朝食で整う王道ビジホ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   中欧プラハの街並みをイメージしたクラシカルホテル！最上階の本格天然温泉スパ＆ラウンジ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルモントレ仙台 —— 仙台駅西口徒歩3分。ヨーロッパの薫り漂う館内と天然温泉「サラ・テレナ」
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルモントレ仙台 —— 仙台駅西口徒歩3分。ヨーロッパの薫り漂う館内と天然温泉「サラ・テレナ」</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              仙台の夜をひとり旅で満喫するスマートグルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">仙台の夜をひとり旅で満喫するスマートグルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 牛タンは「定食」だけでなく「単品＋地酒」で楽しむ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 牛タンは「定食」だけでなく「単品＋地酒」で楽しむ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 麦飯・テールスープ付きの定食はもちろん、カウンター割烹で牛タンたたきや茹でたんを宮城の辛口純米酒と合わせるのがツウの楽しみ方です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 壱弐参（いろは）横丁や文化横丁のディープなはしご酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 壱弐参（いろは）横丁や文化横丁のディープなはしご酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 昭和レトロな雰囲気が残る横丁には、カウンター5〜6席の小さな隠れ家バーや小料理屋が密集。気さくな店主との会話を楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は青葉城址（仙台城跡）の伊達政宗公騎馬像へ早朝散歩
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は青葉城址（仙台城跡）の伊達政宗公騎馬像へ早朝散歩</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 広瀬川を見下ろす高台からのパノラマ展望。朝の澄んだ空気の中で仙台の街並みと太平洋を一望できます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>仙台空港から市内ホテルまでのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>仙台空港から市内ホテルまでのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 仙台空港アクセス線を使えば、空港から仙台駅まで最速約17分で直結。主要ホテルはいずれも駅から徒歩数分圏内のため非常にスムーズです。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で気軽に入れる牛タンの名店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で気軽に入れる牛タンの名店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 仙台駅構内の「牛たん通り」や駅周辺の有名店（善治郎、利久、司、伊達の牛たん本舗など）は全店カウンター席を備えており、一人客が日常的に多数利用しています。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 萩の湯 ドーミーイン仙台駅前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 萩の湯 ドーミーイン仙台駅前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

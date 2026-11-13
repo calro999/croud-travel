@@ -55,9 +55,7 @@ export default function IkahoOnsenAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            河鹿橋の幻想的な紅葉ライトアップと伊香保の二大名湯
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">河鹿橋の幻想的な紅葉ライトアップと伊香保の二大名湯</h2>
           <p className="mb-4 text-stone-700">
             伊香保温泉の最奥部、湯元近くに架かる「河鹿橋（かじかばし）」は、北関東屈指の紅葉ビュースポットです。朱塗りのアーチ橋と頭上を覆う鮮烈なモミジの紅のコントラストは息を呑む美しさ。見頃期間中には夕方からライトアップが開催され、闇夜に浮かび上がる錦秋のトンネルは旅のハイライトにふさわしい絶景となります。
           </p>
@@ -69,10 +67,8 @@ export default function IkahoOnsenAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！伊香保温泉の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！伊香保温泉の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function IkahoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.84</span>
                     <span className="text-stone-400 text-xs">(328件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊香保温泉　香雲館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊香保温泉　香雲館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ渋川駅から伊香保温泉行きバス乗車で２５分※バス停までは随時送迎可。到着時お電話下さい。
                   </p>
@@ -142,9 +136,7 @@ export default function IkahoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.58</span>
                     <span className="text-stone-400 text-xs">(1541件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊香保温泉　和心の宿　大森
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊香保温泉　和心の宿　大森</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / 関越道『渋川伊香保IC』より12km/JR上越線『渋川駅』
                   </p>
@@ -189,9 +181,7 @@ export default function IkahoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.53</span>
                     <span className="text-stone-400 text-xs">(3298件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊香保温泉　ホテル松本楼
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊香保温泉　ホテル松本楼</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ上越線渋川駅よりバスで見晴下下車／関越自動車道渋川・伊香保ＩＣより約１０ｋｍ
                   </p>
@@ -236,9 +226,7 @@ export default function IkahoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.41</span>
                     <span className="text-stone-400 text-xs">(914件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊香保温泉　温泉宿　塚越屋七兵衛
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊香保温泉　温泉宿　塚越屋七兵衛</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / 関越自動車道 渋川・伊香保ICより車にて20分　※路線バス・高速バスをご利用の際はバス停送迎有（到着時連絡）
                   </p>
@@ -283,9 +271,7 @@ export default function IkahoOnsenAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.28</span>
                     <span className="text-stone-400 text-xs">(583件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    伊香保温泉　いかほ秀水園
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">伊香保温泉　いかほ秀水園</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 渋川駅 / ＪＲ上越線【渋川駅】より路線バス又はお車で約20分　「伊香保温泉バスターミナル」徒歩3分　★石段まで徒歩圏内★
                   </p>
@@ -330,9 +316,7 @@ export default function IkahoOnsenAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レトロ散策！黄金の湯を楽しむおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function IkahoOnsenAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の伊香保温泉」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の伊香保温泉」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

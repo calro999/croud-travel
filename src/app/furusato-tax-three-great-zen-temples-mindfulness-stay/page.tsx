@@ -183,9 +183,7 @@ export default function Page() {
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            凛とした静寂に包まれる境内。日本の禅の美学と心をリセットする極上宿
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">凛とした静寂に包まれる境内。日本の禅の美学と心をリセットする極上宿</h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
             多忙な日常を離れ、呼吸を整え己と向き合う「禅（Zen）」の精神文化を今に伝える名刹「日本三大禅寺」――臨済宗五山別格の格式を誇り石川五右衛門の絶景かなで名高い三門や水路閣が美しい京都の「南禅寺」、北条時頼が建立し日本最初の禅宗専門道場としてビャクシンの古木が荘厳さを漂わせる神奈川の「鎌倉・建長寺」、そして道元禅師が開創し鬱蒼とした杉木立のなか修行僧（雲水）が厳しい修行を続ける曹洞宗大本山・福井の「大本山永平寺」。静寂の枯山水庭園を鑑賞し、朝の勤行や坐禅体験で心を研ぎ澄まし、心身に染み渡る精進料理や旬の美味を味わう旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -194,9 +192,7 @@ export default function Page() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              ふるさと納税×日本三大禅寺マインドフルネス 3つのメリット
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">ふるさと納税×日本三大禅寺マインドフルネス 3つのメリット</h2>
             <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
@@ -208,9 +204,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   01
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  早朝の静謐な境内参拝や本格的な坐禅体験！観光客で混雑する前の特別な祈りの時間
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">早朝の静謐な境内参拝や本格的な坐禅体験！観光客で混雑する前の特別な祈りの時間</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   宿坊や近隣の名宿に宿泊するからこそ叶う、澄み切った朝の空気の中でのマインドフルネスな体験。
                 </p>
@@ -221,9 +215,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   02
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  出汁の真髄を極めた湯豆腐・伝統の胡麻豆腐や精進料理、若狭や相模湾の新鮮な地魚会席
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">出汁の真髄を極めた湯豆腐・伝統の胡麻豆腐や精進料理、若狭や相模湾の新鮮な地魚会席</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   禅寺の門前町で受け継がれてきたヘルシーで奥深い精進料理と、ご当地の高級食材を贅沢に堪能。
                 </p>
@@ -234,9 +226,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   03
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  楽天ふるさと納税宿泊クーポンで憧れの老舗料亭旅館や本格宿坊ホテルをお得に予約
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">楽天ふるさと納税宿泊クーポンで憧れの老舗料亭旅館や本格宿坊ホテルをお得に予約</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   大人の一人旅や夫婦の癒やし旅でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
                 </p>
@@ -260,9 +250,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -287,9 +275,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -404,9 +390,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の名所・歴史と絶景ホテル特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の名所・歴史と絶景ホテル特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-bell-towers-historic-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -438,9 +422,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】南禅寺 八千代を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】南禅寺 八千代を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -473,9 +455,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と南禅寺 八千代の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と南禅寺 八千代の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

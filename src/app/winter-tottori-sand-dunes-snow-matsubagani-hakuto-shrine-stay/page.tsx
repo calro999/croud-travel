@@ -190,10 +190,8 @@ export default function TottoriSandDunesPage() {
       <main className="max-w-5xl mx-auto px-4 py-12">
         {/* リード文・見どころ詳細解説 */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4">
-            <Wind className="w-6 h-6 text-amber-600" />
-            風と雪が描く砂の造形美：冬の鳥取砂丘と神話の恋物語「白兎神社」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4"><Wind className="w-6 h-6 text-amber-600" />
+            風と雪が描く砂の造形美：冬の鳥取砂丘と神話の恋物語「白兎神社」</h2>
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -212,10 +210,8 @@ export default function TottoriSandDunesPage() {
 
           {/* 現地攻略インフォボックス */}
           <div className="mt-8 bg-amber-50/70 border border-amber-100 rounded-xl p-5 sm:p-6">
-            <h3 className="text-base font-bold text-amber-950 mb-3 flex items-center gap-2">
-              <Info className="w-5 h-5 text-amber-600" />
-              冬の鳥取砂丘＆松葉ガニ満喫：覚えておきたい3つの黄金ルール
-            </h3>
+            <h3 className="text-base font-bold text-amber-950 mb-3 flex items-center gap-2"><Info className="w-5 h-5 text-amber-600" />
+              冬の鳥取砂丘＆松葉ガニ満喫：覚えておきたい3つの黄金ルール</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-amber-900">
               <div className="bg-white p-3.5 rounded-lg border border-amber-100">
                 <span className="font-bold text-amber-700 block mb-1">1. 足元は長靴レンタルを活用</span>
@@ -239,9 +235,7 @@ export default function TottoriSandDunesPage() {
             <span className="text-xs sm:text-sm font-extrabold text-amber-600 tracking-wider uppercase bg-amber-50 px-3.5 py-1.5 rounded-full border border-amber-100">
               Selected 5 Tottori Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">
-              鳥取砂丘・白兎神社と本場松葉ガニを満喫する厳選ホテル・老舗温泉宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">鳥取砂丘・白兎神社と本場松葉ガニを満喫する厳選ホテル・老舗温泉宿5選</h2>
             <p className="text-sm text-slate-600 mt-2 max-w-2xl mx-auto">
               市街地唯一の自家源泉掛け流し老舗旅館から、ヨーロッパ調の瀟洒な温泉ホテル、駅前の一流シティホテルまで、冬の山陰美食ステイを彩る名宿をご紹介します。
             </p>
@@ -266,16 +260,14 @@ export default function TottoriSandDunesPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14072%2F14072.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     鳥取温泉　観水庭こぜにや
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -296,10 +288,8 @@ export default function TottoriSandDunesPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>敷地内から自噴する極上の自家源泉を100%掛け流しで堪能する露天風呂</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>錦鯉が優雅に泳ぐ池泉回遊式日本庭園と数寄屋造りの情緒あふれる佇まい</span></li>
@@ -353,16 +343,14 @@ export default function TottoriSandDunesPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F591%2F591.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     鳥取温泉　ホテルモナーク鳥取
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -383,10 +371,8 @@ export default function TottoriSandDunesPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>白を基調とした優美なヨーロッパ調建築と吹き抜けのアトリウムロビー</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>自家源泉から湧き出る天然温泉大浴場＆サウナで寛ぎのひととき</span></li>
@@ -440,16 +426,14 @@ export default function TottoriSandDunesPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5623%2F5623.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     ホテルニューオータニ鳥取
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -470,10 +454,8 @@ export default function TottoriSandDunesPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>JR鳥取駅北口から徒歩2分！雪の日でも移動がスムーズな抜群の立地</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>ニューオータニならではの洗練されたホスピタリティと快適な客室環境</span></li>
@@ -527,16 +509,14 @@ export default function TottoriSandDunesPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18911%2F18911.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     鳥取温泉　白兎会館
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -557,10 +537,8 @@ export default function TottoriSandDunesPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>鳥取温泉の源泉を引く広々とした天然温泉大浴場でゆったり湯治気分</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>日本神話・因幡の白兎にちなんだ心温まるおもてなしと落ち着いた和室</span></li>
@@ -614,16 +592,14 @@ export default function TottoriSandDunesPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176748%2F176748.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -644,10 +620,8 @@ export default function TottoriSandDunesPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>JR鳥取駅北口徒歩3分の好立地！飲食店街や鳥取温泉街も徒歩圏内</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>北海道長万部二股温泉の鉱石を使用した「二股炭酸カルシウム人工温泉」大浴場</span></li>
@@ -688,18 +662,14 @@ export default function TottoriSandDunesPage() {
 
         {/* 1泊2日モデルコース */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <Compass className="w-6 h-6 text-amber-600" />
-            【1泊2日】雪砂丘の風紋と白兎神社初詣＆本場松葉ガニ堪能モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5"><Compass className="w-6 h-6 text-amber-600" />
+            【1泊2日】雪砂丘の風紋と白兎神社初詣＆本場松葉ガニ堪能モデルコース</h2>
 
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-amber-600 uppercase tracking-wider mb-1">1日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                JR鳥取駅／鳥取砂丘コナン空港到着 ➔ 白兎神社で新春縁結び初詣 ➔ 海鮮ランチ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">JR鳥取駅／鳥取砂丘コナン空港到着  白兎神社で新春縁結び初詣  海鮮ランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 特急スーパーはくとまたは飛行機で鳥取へ到着。まずは白兎海岸の「白兎神社」へ参拝し、可愛らしいうさぎの像に「結び石」を乗せて良縁祈願。道の駅神話の里白うさぎで名物の白うさぎもなかや焼きたて海鮮を味わい、日本海を望む展望デッキでひと息つきます。
               </p>
@@ -708,9 +678,7 @@ export default function TottoriSandDunesPage() {
             <div className="border-l-2 border-orange-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-orange-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-orange-600 uppercase tracking-wider mb-1">1日目：夕方〜夜</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                鳥取温泉の宿へチェックイン ➔ 源泉掛け流し名湯 ➔ 本場松葉ガニフルコース会席
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">鳥取温泉の宿へチェックイン  源泉掛け流し名湯  本場松葉ガニフルコース会席</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 鳥取市街地のホテルへチェックイン。開湯120年を誇る鳥取温泉のやわらかな天然温泉に浸かり、移動の疲れをじんわりと癒やします。夕食は冬の山陰が誇る最高峰「活松葉ガニ」のフルコース！茹でガニ、焼きガニ、カニ刺し、甲羅味噌の甲羅酒、カニ雑炊まで、カニ尽くしの至福を心ゆくまで堪能します。
               </p>
@@ -719,9 +687,7 @@ export default function TottoriSandDunesPage() {
             <div className="border-l-2 border-yellow-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-yellow-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-yellow-600 uppercase tracking-wider mb-1">2日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                朝の鳥取砂丘で雪砂丘＆風紋の絶景鑑賞 ➔ 砂の美術館 ➔ 鳥取港海鮮市場でお土産
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">朝の鳥取砂丘で雪砂丘＆風紋の絶景鑑賞  砂の美術館  鳥取港海鮮市場でお土産</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝、澄み切った空気の中で鳥取砂丘へ。「馬の背」へ登り、日本海の荒波と白銀の砂丘が織りなす大パノラマと、足元に広がる美しい風紋を目に焼き付けます。その後「砂の美術館」で世界トップクラスの砂像アートを鑑賞。鳥取港海鮮産直市場「かろいち」で新鮮な松葉ガニや干物をお土産に購入し帰路へ。
               </p>
@@ -734,10 +700,8 @@ export default function TottoriSandDunesPage() {
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">
-          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2">
-            <Heart className="w-5 h-5 text-rose-400" />
-            あわせて読みたい！山陰・中国地方の冬カニ温泉旅おすすめ特集
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2"><Heart className="w-5 h-5 text-rose-400" />
+            あわせて読みたい！山陰・中国地方の冬カニ温泉旅おすすめ特集</h2>
           <p className="text-xs sm:text-sm text-slate-300 mb-6 leading-relaxed">
             鳥取・島根をはじめとする山陰地方には、名湯三朝温泉や皆生温泉、出雲大社など、冬の日本海グルメと歴史ある名所が目白押しです。
           </p>

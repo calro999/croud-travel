@@ -269,9 +269,7 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Sunset & Salmon Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本海の夕映えと鮭の食文化｜11月・12月に瀬波温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本海の夕映えと鮭の食文化｜11月・12月に瀬波温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Sunset & Maritime Wonder</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本海の初冬季節風と茜色の水平線が魅せる劇的な黄昏時間
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本海の初冬季節風と茜色の水平線が魅せる劇的な黄昏時間</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function NiigataSenamiWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-orange-700 tracking-wider uppercase">Selected Seaside Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【瀬波温泉】日本海夕日露天と越後村上鮭三昧を愉しむ厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【瀬波温泉】日本海夕日露天と越後村上鮭三昧を愉しむ厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               日本海の絶景オーシャンビュー露天、本場塩引鮭・はらこ飯、極上村上牛を味わえるおすすめの宿を詳しく紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function NiigataSenamiWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-orange-700 transition-colors">
-                      <a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-orange-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
                         {h.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       {h.story}
@@ -444,9 +436,7 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                三面川の鮭文化が生んだ塩引熟成の科学と村上牛の極上サシ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">三面川の鮭文化が生んだ塩引熟成の科学と村上牛の極上サシ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -467,9 +457,7 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の越後村上鮭三昧・日本海夕日露天と町屋散策の休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の越後村上鮭三昧・日本海夕日露天と町屋散策の休日</h2>
             </div>
           </div>
 
@@ -538,48 +526,38 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Travel Advice & Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の瀬波温泉旅行を満喫するための4大秘訣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の瀬波温泉旅行を満喫するための4大秘訣</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-orange-50/40 rounded-2xl p-5 border border-orange-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Sunset className="w-5 h-5 text-orange-600" />
-                日没の30分前には温泉露天風呂へチェックイン
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Sunset className="w-5 h-5 text-orange-600" />
+                日没の30分前には温泉露天風呂へチェックイン</h3>
               <p className="leading-relaxed">
                 11月・12月の新潟県村上の日の入り時刻は16時20分〜16時40分頃と早めです。茜色の夕日が水平線に沈み、空の色彩が最も美しくグラデーションを描くマジックアワーを逃さないよう、16時前には露天風呂に浸かれるスケジュールを組みましょう。
               </p>
             </div>
 
             <div className="bg-orange-50/40 rounded-2xl p-5 border border-orange-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Fish className="w-5 h-5 text-orange-600" />
-                本場の塩引鮭は地方発送・お歳暮に大人気
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Fish className="w-5 h-5 text-orange-600" />
+                本場の塩引鮭は地方発送・お歳暮に大人気</h3>
               <p className="leading-relaxed">
                 11月から12月にかけて仕込まれる塩引鮭は、お歳暮や冬の贈答品として全国から注文が殺到します。町屋通りの老舗店では一本丸ごとや切り身の真空パックを全国発送できるため、旅の記念や大切な方への冬のギフトに最適です。
               </p>
             </div>
 
             <div className="bg-orange-50/40 rounded-2xl p-5 border border-orange-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-orange-600" />
-                日本海の強い浜風対策には防風アウターが必須
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-orange-600" />
+                日本海の強い浜風対策には防風アウターが必須</h3>
               <p className="leading-relaxed">
                 瀬波海岸沿いは日本海からの冷たい北西風が直接吹き付けます。気温以上に体感温度が低く感じられるため、ウィンドブレーカーや防風仕様のダウンジャケット、フード付きコート、マフラーを着用して散策を楽しみましょう。
               </p>
             </div>
 
             <div className="bg-orange-50/40 rounded-2xl p-5 border border-orange-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-orange-600" />
-                酒蔵直営店での限定生酒・新酒の利き酒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-orange-600" />
+                酒蔵直営店での限定生酒・新酒の利き酒</h3>
               <p className="leading-relaxed">
                 11月・12月は新潟の酒蔵で新酒の仕込みと初しぼりが始まる時期です。村上市内の酒販店や蔵元では、一般には流通しない蔵出し生原酒や限定にごり酒が手に入ります。冬の鮭料理や村上牛と合わせることで、至高の晩酌が完成します。
               </p>
@@ -595,19 +573,15 @@ export default function NiigataSenamiWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-orange-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                瀬波温泉・越後村上の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">瀬波温泉・越後村上の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-orange-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-orange-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -620,9 +594,7 @@ export default function NiigataSenamiWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-orange-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-orange-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！新潟・北陸の冬海鮮＆名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！新潟・北陸の冬海鮮＆名湯特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               新潟の冬情緒あふれる名湯や、北陸・富山の寒ブリ・のどぐろ特集もぜひあわせてチェックしてください。
             </p>

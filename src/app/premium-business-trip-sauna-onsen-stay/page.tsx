@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            高層階の外気浴で整い、天然温泉の湯気に包まれる——ただの宿泊を出張のハイライトに変える「プレミアムビジホ革命」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">高層階の外気浴で整い、天然温泉の湯気に包まれる——ただの宿泊を出張のハイライトに変える「プレミアムビジホ革命」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             新幹線や飛行機での長距離移動、終日の商談や現場立ち会い。出張は想像以上に体力と気力を消耗します。ビジネスホテルに戻った時、狭いユニットバスでシャワーを浴びるだけでは、肩こりや脚のむくみ、頭の疲れはなかなか抜けません。「出張先だからこそ、大きなお風呂に手足を伸ばして浸かりたい」「サウナと水風呂でしっかり整って熟睡したい」。そんな現代のビジネスパーソンから絶大な支持を集めているのが「プレミアムビジネスホテル」です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   豊洲駅直結・地上36階の天空ロビー！東京ベイエリアのパノラマ夜景を見下ろす大浴場と外気浴テラス
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル豊洲プレミア —— 都心とベイエリアを結ぶ天空のオアシス。仕事の疲れを吹き飛ばす絶景バスタイム
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル豊洲プレミア —— 都心とベイエリアを結ぶ天空のオアシス。仕事の疲れを吹き飛ばす絶景バスタイム</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   銀座のど真ん中で黒湯の天然温泉！オートロウリュサウナ・強冷水風呂・無料の夜鳴きそばまで揃う至高のドーミーイン
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 七宝の湯 ドーミーインPREMIUM銀座 —— 東銀座駅徒歩4分。銀座唯一の黒湯天然温泉とサウナで極上のととのい体験
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 七宝の湯 ドーミーインPREMIUM銀座 —— 東銀座駅徒歩4分。銀座唯一の黒湯天然温泉とサウナで極上のととのい体験</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   銀座五丁目に湧く名湯！名湯「奥湯河原」から毎日運ばれる天然温泉とレディースフロアも完備の上質ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 奥湯河原の湯 スーパーホテルPremier銀座 —— 東銀座駅徒歩1分。美肌の天然温泉と選べる8種の快眠枕
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 奥湯河原の湯 スーパーホテルPremier銀座 —— 東銀座駅徒歩1分。美肌の天然温泉と選べる8種の快眠枕</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              出張疲れを残さない！翌朝パフォーマンスを最大化するホテルの過ごし方
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">出張疲れを残さない！翌朝パフォーマンスを最大化するホテルの過ごし方</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. チェックイン後すぐに温冷交代浴（サウナ→水風呂または湯船→水シャワー）
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. チェックイン後すぐに温冷交代浴（サウナ→水風呂または湯船→水シャワー）</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 移動直後に入浴して血流を促すことで、乳酸などの疲労物質を効率よく排出。自律神経が整い、夕食後の作業効率もアップします。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. ベッドに入る90分前の入浴完了で「深部体温」を下げる
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. ベッドに入る90分前の入浴完了で「深部体温」を下げる</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 お風呂から上がって約90分後に体の中心の温度が下がり、自然で深い眠りに入りやすくなります。睡眠の質が劇的に向上します。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 加湿空気清浄機の稼働と水分補給
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 加湿空気清浄機の稼働と水分補給</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ホテルの客室は乾燥しがちです。加湿器をしっかりセットし、就寝前と起床後にコップ1杯の常温水を飲むことで翌朝の喉の不快感を防げます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>領収書はインボイス制度に対応していますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>領収書はインボイス制度に対応していますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、ご紹介したホテルはいずれも適格請求書発行事業者であり、現地決済または楽天トラベルのオンライン決済領収書にてインボイス対応の領収書が発行されます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>深夜チェックインや早朝チェックアウトも可能ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>深夜チェックインや早朝チェックアウトも可能ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 24時間フロント対応を行っており、深夜のチェックインや早朝の出発にもスムーズに対応してもらえます。事前に到着予定時刻を伝えておくとさらに安心です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】三井ガーデンホテル豊洲プレミアを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】三井ガーデンホテル豊洲プレミアを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と三井ガーデンホテル豊洲プレミアの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と三井ガーデンホテル豊洲プレミアの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

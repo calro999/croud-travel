@@ -258,9 +258,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  東かがわ・さぬき・高松東部 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">東かがわ・さぬき・高松東部 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -283,9 +281,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    じゃこ丸パーク津田（国民宿舎松琴閣　クアパーク津田）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">じゃこ丸パーク津田（国民宿舎松琴閣　クアパーク津田）</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     日本の渚百選・津田の松原の海岸に佇む名湯クアリゾート・瀬戸内海一望の天然温泉
                   </p>
@@ -350,9 +346,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    あじ温泉　庵治観光ホテル　海のやどり
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">あじ温泉　庵治観光ホテル　海のやどり</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     映画ロケ地・庵治半島の先端に佇む絶景温泉旅館・波打ち際の展望露天と極上海鮮
                   </p>
@@ -417,9 +411,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    クラフトホテル瀬戸内
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">クラフトホテル瀬戸内</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     東かがわ・引田の歴史とクラフトマンシップが融合した洗練のリノベーションホテル
                   </p>
@@ -484,9 +476,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    夕凪の湯　ＨＯＴＥＬ花樹海
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">夕凪の湯　ＨＯＴＥＬ花樹海</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     高松市街と瀬戸内海の夜景を一望する丘の上の名旅館・展望露天「夕凪の湯」と讃岐会席
                   </p>
@@ -551,9 +541,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    高松国際ホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">高松国際ホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     半世紀以上の伝統を誇る格式あるシティホテル・名門レストランの美食ディナー
                   </p>
@@ -629,10 +617,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h3 className="font-bold text-stone-800 text-sm sm:text-base pt-2">【エリアへのアクセス】</h3>
             <p className="text-xs sm:text-sm text-stone-600 pl-2 leading-relaxed">・電車・特急：JR高松駅よりJR高徳線（特急うずしお）で讃岐白鳥駅まで約35分、引田駅まで約40分。白鳥神社へは讃岐白鳥駅より徒歩約5分。津田の松原へは讃岐津田駅より徒歩約10分。徳島駅からも特急うずしおで引田駅まで約30分とアクセス良好。</p>
@@ -647,33 +633,25 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の東かがわ・さぬき・高松東部旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の東かがわ・さぬき・高松東部旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>白鳥神社の新春初詣の混雑状況と参拝のコツは？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>白鳥神社の新春初詣の混雑状況と参拝のコツは？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               元旦の未明（0:00〜2:30）および三が日の昼前後（10:30〜14:30）は讃岐・阿波両県からの参拝客で混み合います。落ち着いて参拝したい方は、早朝（朝8:00〜9:30）または夕方（15:30以降）のお参りがおすすめです。駐車場は境内周辺に整備されています。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>「オリーブハマチ」と通常のハマチはどう違うのですか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>「オリーブハマチ」と通常のハマチはどう違うのですか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               オリーブハマチは、香川県産オリーブの葉の粉末を添加した餌を一定期間与えて育てたブランド魚です。オリーブ葉に含まれる抗酸化成分（ポリフェノールやビタミンE）の働きにより、肉質の変色が抑えられ、脂のしつこさが抜けてさっぱりとした清涼感のある旨味と強いコシ（歯ごたえ）が楽しめます。11月〜1月の冬期が最も脂が乗って美味とされます。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>引田の町並み見学の所要時間と見どころは？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>引田の町並み見学の所要時間と見どころは？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               引田の古い町並み（風待ちの港町）の散策所要時間は約1〜2時間です。国登録有形文化財の商家「讃州井筒屋敷」や「かめびし屋」の赤壁、レトロな洋風建築「旧引田郵便局（風の館）」などが見どころ。カフェやショップも点在しており、冬の穏やかな海風を感じながらのんびり歩けます。
             </p>

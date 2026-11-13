@@ -258,9 +258,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  小浜・若狭・三方五湖 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">小浜・若狭・三方五湖 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -283,9 +281,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    夕雅と旬彩の宿　せくみ屋
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">夕雅と旬彩の宿　せくみ屋</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     小浜港の潮騒を聞く老舗温泉旅館・本場若狭ふぐフルコースと若狭牛会席の名門
                   </p>
@@ -350,9 +346,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    若狭みかた　きらら温泉　水月花
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">若狭みかた　きらら温泉　水月花</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     三方五湖・水月湖畔に佇む絶景レイクビュー温泉宿・湖上露天風呂と若狭の味覚
                   </p>
@@ -417,9 +411,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    海香の宿　波華楼
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">海香の宿　波華楼</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     若狭湾を一望する大人の隠れ家・わずか客室数の限定された海香る美食旅館
                   </p>
@@ -481,9 +473,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    四季彩の宿　花椿
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">四季彩の宿　花椿</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     若狭高浜の白砂青松を望む料理宿・冬の若狭ふぐと地魚料理をリーズナブルに満喫
                   </p>
@@ -548,9 +538,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルアーバンポート
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルアーバンポート</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     小浜湾を真正面に望むオーシャンフロントホテル・ビジネスから観光まで快適ステイ
                   </p>
@@ -623,10 +611,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h3 className="font-bold text-stone-800 text-sm sm:text-base pt-2">【エリアへのアクセス】</h3>
             <p className="text-xs sm:text-sm text-stone-600 pl-2 leading-relaxed">・電車・特急：JR北陸新幹線「敦賀駅」よりJR小浜線に乗り換えて東小浜駅または小浜駅まで約50〜60分。明通寺へは東小浜駅よりタクシーで約10分、または小浜市コミュニティバス「あいあいバス」で約15分。京都駅からは湖西線特急サンダーバードで敦賀駅経由、または近江今津駅より若江線（JRバス）で小浜駅まで約55分。</p>
@@ -641,33 +627,25 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の小浜・若狭・三方五湖旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の小浜・若狭・三方五湖旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>冬の明通寺を拝観する際の注意点や拝観時間は？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>冬の明通寺を拝観する際の注意点や拝観時間は？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               明通寺の拝観時間は9:00〜17:00（冬期は降雪状況により16:30頃に繰り上がる場合があります）。積雪時は境内の石段や山道が滑りやすくなるため、長靴やスノーブーツでの参拝が推奨されます。堂内は暖房設備が限られるため、足元を温める厚手の靴下を着用して向かうのが快適です。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>「若狭ふぐ」のシーズンとおすすめの食べ方は？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>「若狭ふぐ」のシーズンとおすすめの食べ方は？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               若狭ふぐの旬は10月下旬から3月上旬で、特に水温が最も下がる12月〜1月が身の締まり・脂の乗りともに最盛期を迎えます。刺身の「てっさ」はしっかりとした弾力があり噛むほどに甘みが広がり、「てっちり鍋」や「ふぐから揚げ」、「ひれ酒」で身体の芯から温まるのが醍醐味です。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>小浜の名物「浜焼き鯖」とはどのような料理ですか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>小浜の名物「浜焼き鯖」とはどのような料理ですか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               浜焼き鯖は、丸ごと一匹の鯖の口から尾に向けて竹串を刺し、炭火や専用の焼き台でじっくりと素焼きにした小浜の伝統郷土料理です。余分な脂が落ちて皮が香ばしく、身はふっくらジューシー。生姜醤油やポン酢で味わうのが定番で、小浜市内の魚市場や商店街で焼き立てを購入できます。
             </p>

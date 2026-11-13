@@ -180,9 +180,7 @@ export default function SilverWeekGlampingSetouchiPage() {
       <section className="bg-white border border-amber-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">SETOUCHI HIGHLIGHTS</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            心ほどける島時間。瀬戸内グランピングを特別な旅にする4つの魅力
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">心ほどける島時間。瀬戸内グランピングを特別な旅にする4つの魅力</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             静寂に包まれた波の音、絶品の島食材、海と一体になる天然温泉が織りなす極上の休日。
           </p>
@@ -200,9 +198,7 @@ export default function SilverWeekGlampingSetouchiPage() {
                   {feat.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {feat.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{feat.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {feat.desc}
               </p>
@@ -215,9 +211,7 @@ export default function SilverWeekGlampingSetouchiPage() {
       <section className="bg-white border border-amber-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">SEASIDE COMPARISON</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            瀬戸内シーサイドグランピング vs 一般的な外洋・海岸キャンプ 比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">瀬戸内シーサイドグランピング vs 一般的な外洋・海岸キャンプ 比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             穏やかな内海だからこそ味わえる安心感と、島々が連なる唯一無二のロケーション。
           </p>
@@ -255,9 +249,7 @@ export default function SilverWeekGlampingSetouchiPage() {
       <section className="space-y-6" aria-labelledby="setouchi-hotels-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">SETOUCHI LUXURY RESORTS</span>
-          <h2 id="setouchi-hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            シルバーウィークに泊まりたい瀬戸内・中四国の厳選オーシャンビューヴィラ
-          </h2>
+          <h2 id="setouchi-hotels-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">シルバーウィークに泊まりたい瀬戸内・中四国の厳選オーシャンビューヴィラ</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             しまなみ海道の島リゾート、香川の天然温泉グランピング、隠れ家離島のプライベートヴィラを厳選。
           </p>
@@ -307,9 +299,7 @@ export default function SilverWeekGlampingSetouchiPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "瀬戸内海の美しい島並みと海風に癒やされる贅沢なリゾートステイ。新鮮な海山の幸と上質な客室空間をお楽しみください。"}
@@ -346,18 +336,14 @@ export default function SilverWeekGlampingSetouchiPage() {
       <section className="bg-white rounded-3xl border border-amber-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            瀬戸内グランピング旅行のよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">瀬戸内グランピング旅行のよくある質問</h2>
         </div>
 
         <div className="divide-y divide-amber-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-amber-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -368,9 +354,7 @@ export default function SilverWeekGlampingSetouchiPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-stone-800">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🚢</span> 淡路島＆関西発のおすすめ旅行ガイド
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">淡路島＆関西発のおすすめ旅行ガイド</h3>
         <p className="text-xs text-stone-300">
           瀬戸内海エリアの車なし旅行や、大阪・関西発の便利な日帰りバスツアー情報も合わせてチェック。
         </p>

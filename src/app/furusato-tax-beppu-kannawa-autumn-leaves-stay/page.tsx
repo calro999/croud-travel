@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              重要文化的景観の湯けむりと鶴見岳の錦秋！名湯別府八湯の中心・鉄輪
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">重要文化的景観の湯けむりと鶴見岳の錦秋！名湯別府八湯の中心・鉄輪</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本一の湧出量と源泉数を誇る温泉天国・別府。その中でも最も温泉情緒が色濃く残るのが、街のあちこちから白煙が立ち上る「鉄輪（かんなわ）温泉」です。秋のハイライトは、別府ロープウェイで登る「鶴見岳」。山頂から山麓へと駆け下りる紅葉グラデーションと、眼下に広がる別府湾・由布岳の360度大パノラマは圧巻です。観光後は、石畳の路地から立ち上る湯けむりを眺めながら、約100度の温泉蒸気釜で素材の旨味を凝縮させた名物「地獄蒸し料理」や豊後牛を、ふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                別府ロープウェイで行く鶴見岳の錦秋パノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                別府ロープウェイで行く鶴見岳の錦秋パノラマ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 標高1,375mの山頂まで約10分の空中散歩。秋にはナナカマドやモミジが山肌を赤く染め、天気が良ければ遠く四国まで見渡せる絶景が広がります。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                江戸時代から続く伝統の調理法「地獄蒸し料理」体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                江戸時代から続く伝統の調理法「地獄蒸し料理」体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 高温の温泉噴気で一気に蒸し上げる地獄蒸し。余分な脂が落ち、温泉の塩分とミネラルが素材本来の甘みと旨味を極限まで引き出します。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                大分ブランド「豊後牛（おおいた和牛）」＆関アジ・関サバ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                大分ブランド「豊後牛（おおいた和牛）」＆関アジ・関サバ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 きめ細かな霜降りととろける旨味の「おおいた和牛」、豊後水道の激流で育った身の引き締まった高級魚「関アジ」「関サバ」の姿造りを贅沢に堪能できます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.75 <span className="text-stone-400 text-xs">(192件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    別府鉄輪温泉　旅館　みゆき屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">別府鉄輪温泉　旅館　みゆき屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 大分県別府市鉄輪東6組 ｜ 別府駅よりタクシーで約１５分／別府ＩＣから約７分※ナビは正確でない場合があります。お電話でお尋ねください。
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.60 <span className="text-stone-400 text-xs">(329件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    日本旅館　器　別府鉄輪
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">日本旅館　器　別府鉄輪</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 大分県別府市鉄輪東4組-2 ｜ 鉄輪バスターミナルより徒歩5分・別府ICより車で10分・別府駅より車で15分・大分空港より車で50分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.38 <span className="text-stone-400 text-xs">(191件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    別府鉄輪温泉　かんなわ荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">別府鉄輪温泉　かんなわ荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 大分県別府市井田2組 ｜ JR別府駅から車で13分、亀の井バス停から徒歩5分、大分交通バス停から徒歩1分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別府鉄輪温泉 旅館 みゆき屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別府鉄輪温泉 旅館 みゆき屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別府鉄輪温泉 旅館 みゆき屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別府鉄輪温泉 旅館 みゆき屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

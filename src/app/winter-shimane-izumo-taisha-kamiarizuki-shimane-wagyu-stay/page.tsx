@@ -280,10 +280,8 @@ export default function ShimaneIzumoWinterFeature() {
             <HeartHandshake className="w-4 h-4" />
             11月・12月 神在月開運参拝＆山陰美食特集｜島根・出雲大社周辺温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月島根・出雲大社周辺温泉】<br className="hidden sm:inline" />
-            神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月島根・出雲大社周辺温泉】<br className="hidden sm:inline" />
+            神在月参拝と初冬解禁日本海の幸・しまね和牛＆絶景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             八百万の神々が集う神聖なる神在月。早朝の静寂に包まれた出雲大社で縁結びを祈り、11月解禁の松葉ガニ・高級魚ノドグロ・しまね和牛を堪能。美肌の天然温泉で心身を清める至福の旅。
           </p>
@@ -301,9 +299,7 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Kamiarizuki Sacred Gathering & Sanin Winter Bounties</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                八百万の神が集う神在月｜神話の聖地・出雲大社の祈りと初冬の日本海美食
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">八百万の神が集う神在月｜神話の聖地・出雲大社の祈りと初冬の日本海美食</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Metasilicic Acid & Sacred Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                心身を清め素肌を磨く「出雲大社周辺温泉の美肌メタケイ酸泉」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">心身を清め素肌を磨く「出雲大社周辺温泉の美肌メタケイ酸泉」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Sanin Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月解禁松葉ガニと白身のトロ「ノドグロ」｜しまね和牛と出雲そばの饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月解禁松葉ガニと白身のトロ「ノドグロ」｜しまね和牛と出雲そばの饗宴</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Kamiarizuki Pilgrimage Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の出雲開運モデルコース｜稲佐の浜・出雲大社と日御碕神社を巡る旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の出雲開運モデルコース｜稲佐の浜・出雲大社と日御碕神社を巡る旅</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function ShimaneIzumoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-purple-700 uppercase tracking-widest">Featured Izumo Sacred Inns & Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              大社参拝と冬美食の特等席｜出雲大社周辺の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">大社参拝と冬美食の特等席｜出雲大社周辺の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い評価を獲得し、出雲大社へのアクセスや山陰の冬美食、良質な温泉に秀でた宿だけを厳選。
             </p>
@@ -451,9 +439,7 @@ export default function ShimaneIzumoWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の出雲冬旅｜山陰の気候と防寒対策・早朝参拝のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の出雲冬旅｜山陰の気候と防寒対策・早朝参拝のポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-purple-800" />
-                変わりやすい日本海気候と雨具の準備
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-purple-800" />
+                変わりやすい日本海気候と雨具の準備</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 初冬の出雲は急な時雨（通り雨）が降りやすくなります。防風防水性のあるコートや折りたたみ傘を必ず携帯しましょう。朝夕は冷え込みますので、マフラーや手袋などの防寒アイテムを準備すると快適に参拝できます。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-purple-800" />
-                門前宿だからできる早朝の静寂参拝
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-purple-800" />
+                門前宿だからできる早朝の静寂参拝</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 神在月期間中は日中に多くの参拝客で混雑します。出雲大社周辺の宿に宿泊し、朝6時〜7時台の静かな時間帯に参拝するのが最大の秘訣です。澄み切った朝の神気に包まれ、心穏やかに良縁を祈願できます。
               </p>
@@ -565,18 +545,14 @@ export default function ShimaneIzumoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                島根・出雲大社周辺温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">島根・出雲大社周辺温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-purple-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-purple-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function ShimaneIzumoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-purple-400 uppercase tracking-widest">Related Winter Features & Sanin Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山陰・中国地方の冬名湯＆極上松葉ガニ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山陰・中国地方の冬名湯＆極上松葉ガニ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の玉造温泉、三朝温泉、皆生温泉、萩・長門湯本をめぐる人気の厳選特集もぜひご覧ください。
             </p>

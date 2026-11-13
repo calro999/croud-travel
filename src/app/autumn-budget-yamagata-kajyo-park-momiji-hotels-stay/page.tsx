@@ -58,10 +58,8 @@ export default function AutumnBudgetYamagataHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-red-600" />
-            秋の味覚が爆発する山形！賢く泊まって米沢牛・地酒を味わう旅
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-red-600" />
+            秋の味覚が爆発する山形！賢く泊まって米沢牛・地酒を味わう旅</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             秋の山形といえば、馬見ヶ崎川沿いの名物芋煮会はもちろん、市内各地の居酒屋や郷土料理店で供される旬の味覚。山形駅周辺は洗練されたビジネスホテルが多く、最安3,000円台から快適に泊まれる激戦区です。宿代を賢く浮かせて、夜は山形牛のステーキや出羽桜・十四代など幻の銘酒巡りに繰り出しましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（価格重視派◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              山形グランドホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">山形グランドホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ山形駅東口より徒歩15分</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（温泉で温まる）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スーパーホテル山形駅西口　天然温泉　花笠の湯
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル山形駅西口　天然温泉　花笠の湯</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>山形新幹線・JR山形駅西口より徒歩約7分</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結・雨雪安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              山形駅西口ワシントンホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">山形駅西口ワシントンホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ山形駅（東西自由通路）直結徒歩２分</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（市内最高峰クオリティ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルアーバングレイスグラン＜山形＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルアーバングレイスグラン＜山形＞</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>山形駅東口より徒歩約3分</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食絶賛）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル山形駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル山形駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>ＪＲ山形駅西口徒歩約２分</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetYamagataHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-950 to-red-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-red-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の山形・霞城公園旅を120%楽しむアドバイス
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-red-300"><CheckCircle2 className="w-5 h-5" />
+            秋の山形・霞城公園旅を120%楽しむアドバイス</h2>
           <p className="text-sm text-red-100 leading-relaxed">
             霞城公園は東大手門周辺の復元建築と紅葉のコラボレーションが圧巻。駅から徒歩10〜15分ほどでアクセスできるため、朝の澄んだ空気の中での散策にもぴったりです。名物の芋煮は店によって味付け（醤油×牛肉、味噌×豚肉など）が異なるため、食べ比べも楽しんでみてください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「山形：霞城公園の秋紅葉と本場芋煮を満喫！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetYamagataHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 山形で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">山形で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -228,9 +228,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
             </span>
             <div>
               <span className="text-amber-800 font-bold text-xs uppercase tracking-wider">Fare Calculation</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                何回乗れば元が取れる？江ノ電の運賃体系と損益分岐点
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">何回乗れば元が取れる？江ノ電の運賃体系と損益分岐点</h2>
             </div>
           </div>
           <p className="text-slate-600 leading-relaxed mb-6">
@@ -257,9 +255,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
             <div className="bg-white rounded-2xl p-5 border border-amber-200 flex flex-col justify-between">
               <div>
                 <span className="px-2.5 py-1 rounded-full bg-amber-100 text-amber-900 font-bold text-xs">損益分岐点の真実</span>
-                <h4 className="text-base font-black text-slate-900 mt-2">
-                  長距離なら「3回」、短距離でも「4回」で元が取れる！
-                </h4>
+                <h4 className="text-base font-black text-slate-900 mt-2">長距離なら「3回」、短距離でも「4回」で元が取れる！</h4>
                 <p className="text-xs text-slate-600 mt-2 leading-relaxed">
                   最も長い区間（310円）なら「鎌倉→江ノ島」「江ノ島→藤沢」「途中下車1回」の計3回（880円）で即座に元が取れます。
                   近距離（200円・260円）でも4回乗れば860円〜となり、のりおりくん（800円）の勝ちが確定します。
@@ -316,9 +312,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
             </span>
             <div>
               <span className="text-amber-800 font-bold text-xs uppercase tracking-wider">Golden Timetable</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                朝から夕暮れまで満喫！途中下車黄金タイムテーブル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">朝から夕暮れまで満喫！途中下車黄金タイムテーブル</h2>
             </div>
           </div>
 
@@ -343,9 +337,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 border border-amber-800/40">
           <div className="max-w-2xl mb-8">
             <span className="text-amber-400 font-black text-xs uppercase tracking-wider">Perks & Discounts</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              乗車券以上の価値！「のりおりくん」提示の割引特典3選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">乗車券以上の価値！「のりおりくん」提示の割引特典3選</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-2 leading-relaxed">
               のりおりくんは電車乗り放題だけでなく、江の島エリアや鎌倉の約60の飲食店・観光施設で提示優待が受けられます。これらを併用すれば元取れ額はさらに跳ね上がります！
             </p>
@@ -391,9 +383,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
         <section className="bg-amber-950/20 rounded-3xl p-6 sm:p-10 border border-amber-300">
           <div className="max-w-2xl mb-8">
             <span className="text-amber-800 font-black text-xs uppercase tracking-wider">Stay & Relax</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              江ノ電旅の拠点に最適！鎌倉・由比ヶ浜・藤沢ホテル
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">江ノ電旅の拠点に最適！鎌倉・由比ヶ浜・藤沢ホテル</h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-2 leading-relaxed">
               朝の静寂に包まれた鎌倉を散策するなら「鎌倉駅・由比ヶ浜至近」、コスパ重視＆夜遅くまで楽しむなら「藤沢駅直結ホテル」がベストチョイス。
             </p>
@@ -434,9 +424,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
                     <div className="text-[11px] font-bold text-amber-800 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "鎌倉・藤沢・湘南エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-800 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-800 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "江ノ電・湘南散策の拠点に最適な立地。観光とグルメを満喫する快適な宿泊体験。"}
                     </p>
@@ -467,9 +455,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
 
         {/* セクション5：江ノ電攻略の注意点・Tips */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-amber-200/60">
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">
-            江ノ電「のりおりくん」旅を120%楽しむプロの知恵袋
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">江ノ電「のりおりくん」旅を120%楽しむプロの知恵袋</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-2xl bg-amber-50/60 border border-amber-200/60">
               <h3 className="font-bold text-slate-900 mb-1">① 週末の混雑ピークは11:00〜16:00</h3>
@@ -529,9 +515,7 @@ export default function EnoshimaKamakuraNoriorikunPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と800円で元を取るモデルコース＆海沿い途中下車の旅の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と800円で元を取るモデルコース＆海沿い途中下車の旅の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              V字谷が錦に燃える日本三大秘境・祖谷と大歩危の清流美
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">V字谷が錦に燃える日本三大秘境・祖谷と大歩危の清流美</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             四国の山深き地に位置する日本三大秘境「祖谷渓」。切り立ったV字谷の断崖絶壁が10月下旬から11月中旬にかけて赤や黄色に染まりあがる光景はまさに息をのむ絶景です。国の重要有形民俗文化財「祖谷のかずら橋」を渡るスリル、断崖に立つ「小便小僧」、吉野川の激流が削り出した「大歩危峡遊覧船」など見どころが満載。さらに、専用ケーブルカーで谷底や山上の露天風呂へ向かうユニークな名湯宿で、秘境ならではの湯浴みと阿波の味覚をふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                スリル満点！国指定重要有形民俗文化財「祖谷のかずら橋」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                スリル満点！国指定重要有形民俗文化財「祖谷のかずら橋」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 自生するシラクチカズラを編んで作られた吊り橋。歩くたびにギシギシと揺れ、足元のすき間から川面が見えるスリルと、周囲を取り囲む紅葉の壮大な美しさは圧巻です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                吉野川の大歩危峡観光遊覧船＆舟下り紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                吉野川の大歩危峡観光遊覧船＆舟下り紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 2億年の時をかけて結晶片岩が削られた大歩危峡。遊覧船に乗って川面から見上げる巨岩・奇岩と紅葉のコントラストは、ジオパークならではのダイナミックな体験です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                名物・祖谷そば＆阿波尾鶏・鮎の塩焼き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                名物・祖谷そば＆阿波尾鶏・鮎の塩焼き</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 つなぎをほとんど使わない素朴で香り高い「祖谷そば」や、徳島の地鶏「阿波尾鶏」、吉野川の清流で育った鮎の塩焼き、でこまわし（豆腐やこんにゃくの田楽）など郷土の滋味を満喫できます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.71 <span className="text-stone-400 text-xs">(987件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    新祖谷温泉　ホテルかずら橋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">新祖谷温泉　ホテルかずら橋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 徳島県三好市西祖谷山村善徳３３－１ ｜ ＪＲのお客様 大歩危駅～路線バス20分（タクシー15分）・お車のお客様　徳島自動車道井川池田ＩＣより大歩危経由で５０分　
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.65 <span className="text-stone-400 text-xs">(567件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    和の宿　ホテル祖谷温泉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">和の宿　ホテル祖谷温泉</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 徳島県三好市池田町松尾松本367-28 ｜ 井川池田ＩＣより約２５km（国道３２号線経由）／ＪＲ大歩危駅下車　四国交通バスで約30分　
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.20 <span className="text-stone-400 text-xs">(1210件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    大歩危温泉　サンリバー大歩危
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大歩危温泉　サンリバー大歩危</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 徳島県三好市山城町西宇1259-1 ｜ お車は井川池田インターより国道32号線沿いに３０分。列車はＪＲ大歩危駅または小歩危駅から送迎有。（要連絡）
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】新祖谷温泉 ホテルかずら橋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】新祖谷温泉 ホテルかずら橋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と新祖谷温泉 ホテルかずら橋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と新祖谷温泉 ホテルかずら橋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

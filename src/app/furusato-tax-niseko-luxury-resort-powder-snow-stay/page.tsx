@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            シャンパンパウダースノーと蝦夷富士・羊蹄山の威容——世界屈指のウィンターリゾートで味わう極上の温泉ウェルネスと北の美食体験
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">シャンパンパウダースノーと蝦夷富士・羊蹄山の威容——世界屈指のウィンターリゾートで味わう極上の温泉ウェルネスと北の美食体験</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北海道後志総合振興局管内に位置するニセコエリア（倶知安町・ニセコ町）。「蝦夷富士」と称えられる秀峰・羊蹄山（ようていざん）とニセコアンヌプリを望むこの地は、日本海からの寒気がもたらす水分量わずか数パーセントの超極上「シャンパンパウダースノー」が降り積もる世界屈指のウィンタースポーツの聖地です。近年は世界各国から最高級ホテルブランドが進出し、国際色豊かなハイエンドリゾートタウンへと進化を遂げました。冬のスキー・スノーボードはもちろん、夏から秋には爽やかな高原リゾートとしてゴルフ、ラフティング、トレッキング、星空観察など四季折々の自然を満喫できます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道倶知安町・ニセコ町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  パークハイアットニセコＨＡＮＡＺＯＮＯ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">パークハイアットニセコＨＡＮＡＺＯＮＯ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   ニセコHANAZONOリゾート直結！全室スイート仕様・天然温泉大浴場と世界屈指のダイニング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  パークハイアットニセコ HANAZONO —— ゲレンデ直結の国際的ラグジュアリー。アンヌプリと白樺の美景に包まれる最高峰リゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">パークハイアットニセコ HANAZONO —— ゲレンデ直結の国際的ラグジュアリー。アンヌプリと白樺の美景に包まれる最高峰リゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> HANAZONOゲレンデ直結のスキーイン・スキーアウト環境
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">HANAZONOゲレンデ直結のスキーイン・スキーアウト環境</h5>
                     <p className="text-stone-600 leading-relaxed">スキーバトラーサービスや専用ロッカーを備え、白銀のパウダースノーゲレンデへスムーズに直行できる贅沢なロケーションです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミネラル豊富なニセコの天然温泉大浴場＆スパウェルネス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミネラル豊富なニセコの天然温泉大浴場＆スパウェルネス</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした内湯とスタイリッシュな温水プール、プライベートトリートメントルームを完備。至高のリラクゼーションを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン星付きシェフ監修など多彩な10のレストラン＆バー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン星付きシェフ監修など多彩な10のレストラン＆バー</h5>
                     <p className="text-stone-600 leading-relaxed">北海道の旬食材を活かした炉端焼き、フレンチ、中華、本格イタリアン、鉄板焼きなど、世界的グルメを優雅に堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道倶知安町・ニセコ町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  雪ニセコ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">雪ニセコ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   羊蹄山のパノラマビューを望むグランディール！天然温泉スパとミシュラン星付き監修ダイニング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  雪ニセコ（Setsu Niseko） —— 雄大な羊蹄山を正面に望む極上ウェルネス。天然温泉と美食が織りなす現代の別荘ステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">雪ニセコ（Setsu Niseko） —— 雄大な羊蹄山を正面に望む極上ウェルネス。天然温泉と美食が織りなす現代の別荘ステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 雄大な羊蹄山（蝦夷富士）を望む圧倒的な眺望と客室設計
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">雄大な羊蹄山（蝦夷富士）を望む圧倒的な眺望と客室設計</h5>
                     <p className="text-stone-600 leading-relaxed">大きなピクチャーウィンドウから四季折々の羊蹄山を眺める贅沢。キッチンやリビングを備えたコンドミニアムスタイルの広々スイートです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 屋内外の天然温泉大浴場と貸切温泉、サウナ施設
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">屋内外の天然温泉大浴場と貸切温泉、サウナ施設</h5>
                     <p className="text-stone-600 leading-relaxed">ミネラルをたっぷり含んだ天然温泉の露天風呂。サウナやリラクゼーションラウンジも充実し、本格的な「ととのい」を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン星付き名店「メログラーノ」監修レストランと和食処
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン星付き名店「メログラーノ」監修レストランと和食処</h5>
                     <p className="text-stone-600 leading-relaxed">北海道の上質な海産物や十勝ハーブ牛を取り入れたイタリアンや割烹料理、本格カフェなど多彩な食の楽しみが揃っています。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">北海道倶知安町・ニセコ町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  坐忘林
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">坐忘林</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   白樺の原生林に佇むわずか15室の珠玉！全室に源泉掛け流しの内湯と露天の２つの湯船を完備
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  坐忘林（Zaborin） —— 日常の雑念を忘れ大自然に浸る「坐忘」の極み。北斗の大地で味わう独自の「キタ・カイセキ」
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">坐忘林（Zaborin） —— 日常の雑念を忘れ大自然に浸る「坐忘」の極み。北斗の大地で味わう独自の「キタ・カイセキ」</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室に自噴する天然温泉の「内湯」と「露天風呂」の２つを配備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室に自噴する天然温泉の「内湯」と「露天風呂」の２つを配備</h5>
                     <p className="text-stone-600 leading-relaxed">地下約千メートルから湧き出る新鮮な美肌の湯を贅沢に完全掛け流し。白樺林の雪景色や新緑を眺めながら心ゆくまで名湯に浸かれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 静寂と自然美が包み込むわずか15棟の独立感ある客室空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">静寂と自然美が包み込むわずか15棟の独立感ある客室空間</h5>
                     <p className="text-stone-600 leading-relaxed">木と石とガラスが調和した日本建築の美。床暖房や暖炉を備え、大自然の静寂の中で真のプライベートステイが約束されます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道の風土と旬の恵みを昇華させた独自懐石「キタ・カイセキ」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道の風土と旬の恵みを昇華させた独自懐石「キタ・カイセキ」</h5>
                     <p className="text-stone-600 leading-relaxed">北海道産の厳選食材を用い、感性豊かに仕立てられたオリジナル懐石ディナー。一皿ごとに北の大地の物語が広がります。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> ニセコエリア・羊蹄山＆パウダースノー・アウトドア観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> ニセコエリア・羊蹄山＆パウダースノー・アウトドア観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                ニセコユナイテッド（4大スキー場）での極上パウダースノー体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                ニセコユナイテッド（4大スキー場）での極上パウダースノー体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 ニセコアンヌプリ、ニセコビレッジ、ニセコマウンテンリゾートグラン・ヒラフ、HANAZONOの4大ゲレンデが連なるビッグリゾート。世界屈指の雪質と多彩なコースを満喫できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                羊蹄山（蝦夷富士）の名水湧水群とふきだし公園
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                羊蹄山（蝦夷富士）の名水湧水群とふきだし公園</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 羊蹄山の雪解け水が数十年の歳月をかけて湧き出す京極町の「ふきだし公園」や真狩村の湧水。ミネラル豊富な冷たい名水を味わえ、道の駅グルメも人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                夏の清流尻別川ラフティング＆ニセコパノラマラインドライブ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                夏の清流尻別川ラフティング＆ニセコパノラマラインドライブ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 日本一の清流に何度も選ばれた尻別川でのダイナミックなラフティングやカヤック。神仙沼を巡るニセコパノラマラインの絶景ドライブや紅葉散策も格別です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              北海道倶知安町・ニセコ町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">北海道倶知安町・ニセコ町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】パークハイアットニセコＨＡＮＡＺＯＮＯを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】パークハイアットニセコＨＡＮＡＺＯＮＯを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とパークハイアットニセコＨＡＮＡＺＯＮＯの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とパークハイアットニセコＨＡＮＡＺＯＮＯの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

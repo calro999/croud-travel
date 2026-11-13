@@ -197,9 +197,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-indigo-600 pl-4 mb-8">
             <span className="text-indigo-700 text-xs font-black tracking-widest uppercase">REAL REGRETS RANKING</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              知らなかったでは済まされない！USJ旅行のリアル後悔ワースト5
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">知らなかったでは済まされない！USJ旅行のリアル後悔ワースト5</h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-1">
               数万人の来場者が痛感した「あの時こうしておけば…」の教訓集。
             </p>
@@ -225,9 +223,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
                   </div>
                 </div>
 
-                <h3 className="text-lg sm:text-xl font-black text-slate-900 mb-3 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-lg sm:text-xl font-black text-slate-900 mb-3 leading-snug">{item.title}</h3>
 
                 <div className="text-xs sm:text-sm text-slate-600 leading-relaxed bg-indigo-50/40 p-4 rounded-2xl border border-indigo-100 mb-4">
                   <strong className="text-indigo-950 block mb-1 font-bold">💥 現地で起きた大悲劇：</strong>
@@ -247,9 +243,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
         <section className="bg-white border-2 border-indigo-100 rounded-3xl p-6 sm:p-8 shadow-sm">
           <div className="border-l-4 border-indigo-600 pl-4 mb-6">
             <span className="text-indigo-700 text-xs font-black tracking-widest uppercase">PACKING SURVIVAL GEAR</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              USJ持ち物サバイバルリスト【完全装備ガイド】
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">USJ持ち物サバイバルリスト【完全装備ガイド】</h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-1">
               アトラクション待ちと過酷な天候を乗り切るための厳選パッキング。
             </p>
@@ -287,9 +281,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
         <section>
           <div className="border-l-4 border-indigo-600 pl-4 mb-8">
             <span className="text-indigo-700 text-xs font-black tracking-widest uppercase">OFFICIAL & ACCESS HOTELS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              朝の開園ダッシュで勝つ！USJオフィシャル＆アクセス抜群ホテル
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">朝の開園ダッシュで勝つ！USJオフィシャル＆アクセス抜群ホテル</h2>
             <p className="text-slate-600 text-xs sm:text-sm mt-1">
               パーク徒歩1分のオフィシャルホテルから、大阪駅・新大阪直結のコスパ宿まで厳選。
             </p>
@@ -327,9 +319,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
                         </div>
                       )}
                       <div className="p-5">
-                        <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 group-hover:text-indigo-600 transition leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 group-hover:text-indigo-600 transition leading-snug">{hotel.hotelName}</h3>
                         <p className="text-xs text-slate-500 mb-2">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -398,9 +388,7 @@ export default function UsjTripPackingRegretsWorst5Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とエクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とエクスプレスパスなしで大絶望！？ニンテンドー入場整理券＆必須持ち物の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

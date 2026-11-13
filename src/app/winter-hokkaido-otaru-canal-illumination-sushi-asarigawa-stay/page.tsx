@@ -220,12 +220,10 @@ export default function WinterHokkaidoOtaruPage() {
             11月・12月 冬の風物詩特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月北海道・小樽】青の運河イルミネーションと朝里川雪見露天
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月北海道・小樽】青の運河イルミネーションと朝里川雪見露天
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               小樽前浜極上寿司＆道産牛会席を味わう冬の運河・温泉名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、小樽は初雪が舞い散る運河沿いに約1万個の青色LEDが輝く「小樽ゆき物語・青の運河」が開幕し、息を呑むほどロマンチックな初冬の装いに包まれます。明治・大正期の石造り倉庫群が雪化粧をまとい、揺らめくガス灯が水面に映る情緒あふれる散策の後は、小樽港から届く冬の極上ウニ・イクラ・蝦夷前寿司、そして小樽奥座敷・朝里川温泉の清流沿いに湧く美肌の雪見露天風呂を満喫。日本海のパノラマ絶景を望む岬のホテルから歴史的風情が息づく運河畔の名宿まで、厳選5宿の魅力を徹底解説します。
@@ -259,9 +257,7 @@ export default function WinterHokkaidoOtaruPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Sparkle className="w-6 h-6 text-teal-700" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の静謐と青い光の回廊｜11月・12月に小樽・朝里川温泉を訪れるべき理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の静謐と青い光の回廊｜11月・12月に小樽・朝里川温泉を訪れるべき理由</h2>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
             <p>
@@ -312,9 +308,7 @@ export default function WinterHokkaidoOtaruPage() {
             <span className="text-xs sm:text-sm font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
               Selected 5 Luxury Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の小樽・朝里川温泉を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の小樽・朝里川温泉を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               小樽運河の絶景を望む宿から、朝里川温泉の森に包まれた雪見名湯、日本海を見下ろす岬のパノラマホテルまで、11・12月の旅を格別にする宿を厳選。
             </p>
@@ -354,9 +348,7 @@ export default function WinterHokkaidoOtaruPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                     <p className="text-xs text-slate-500 flex items-start gap-1">
                       <MapPin className="w-3.5 h-3.5 text-teal-700 flex-shrink-0 mt-0.5" />
@@ -425,9 +417,7 @@ export default function WinterHokkaidoOtaruPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】小樽の青の運河イルミネーションと朝里川雪見露天を巡る1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】小樽の青の運河イルミネーションと朝里川雪見露天を巡る1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -456,34 +446,26 @@ export default function WinterHokkaidoOtaruPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              小樽の初冬グルメ完全ガイド！寿司・冬シャコ・小樽ワイン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">小樽の初冬グルメ完全ガイド！寿司・冬シャコ・小樽ワイン</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                蝦夷前握り寿司＆冬シャコ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                蝦夷前握り寿司＆冬シャコ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 初冬の小樽港では、秋から初冬にかけて子持ちとなる「冬シャコ」が旬を迎えます。濃厚な卵の食感と上品な甘みは小樽ならではの贅沢。さらに生ウニ、ボタンエビ、脂の乗った寒ブリが並ぶ特上にぎりは格別の味わいです。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                熱々あんかけ焼きそば＆真鱈白子鍋
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                熱々あんかけ焼きそば＆真鱈白子鍋</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 昭和30年代から小樽市民に愛されてきたソウルフード「小樽あんかけ焼きそば」。香ばしく焼いた麺の上にたっぷりの海鮮と野菜の熱々餡が絡み、冷えた体を芯から温めます。また冬限定の真鱈の白子（タチ）ポン酢や鍋も必食です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                小樽ワイン＆地酒「北の誉」
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                小樽ワイン＆地酒「北の誉」</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 小樽・余市エリアは日本有数のワイン用ブドウの産地。初冬の海鮮フレンチや寿司には、すっきりとした酸味が心地よい白ワイン（ケルナーやミュラー・トゥルガウ）が相性抜群。地酒の熱燗とともに冬の夜長を贅沢に過ごせます。
               </p>
@@ -495,9 +477,7 @@ export default function WinterHokkaidoOtaruPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Footprints className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              11月・12月の小樽観光！気候・服装・散策のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の小樽観光！気候・服装・散策のアドバイス</h2>
           </div>
           <div className="space-y-4 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -505,19 +485,15 @@ export default function WinterHokkaidoOtaruPage() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ThermometerSun className="w-4 h-4 text-teal-700" />
-                  おすすめの服装・防寒着
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                  おすすめの服装・防寒着</h4>
                 <p className="text-slate-600">
                   風を通さないロング丈のダウンコート、吸湿発熱インナー、厚手のセーターやフリース、マフラー、手袋、耳あて付きニット帽が必須。屋内は暖房が効いているため着脱しやすい重ね着が快適です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-teal-700" />
-                  足元の滑り止め・靴選び
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                  足元の滑り止め・靴選び</h4>
                 <p className="text-slate-600">
                   小樽は坂道が多く、運河沿いの石畳や歩道は圧雪や凍結で非常に滑りやすくなります。靴底に深い溝がある防水防寒スノーブーツか、現地や駅で購入できる着脱式スパイクの装着を強く推奨します。
                 </p>
@@ -530,9 +506,7 @@ export default function WinterHokkaidoOtaruPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Map className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              小樽・朝里川温泉へのアクセス情報
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">小樽・朝里川温泉へのアクセス情報</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
@@ -562,18 +536,14 @@ export default function WinterHokkaidoOtaruPage() {
             <HelpCircle className="w-6 h-6 text-teal-800" />
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の小樽・朝里川温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の小樽・朝里川温泉旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +556,7 @@ export default function WinterHokkaidoOtaruPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の北海道＆名湯・美食特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の北海道＆名湯・美食特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -596,9 +564,7 @@ export default function WinterHokkaidoOtaruPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・阿寒湖</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                阿寒湖温泉の初冬フロストフラワーとアイヌ文化・毛蟹宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">阿寒湖温泉の初冬フロストフラワーとアイヌ文化・毛蟹宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 奇跡の霜の花とオホーツク海鮮毛蟹・北海道黒毛和牛を堪能。
               </p>
@@ -608,9 +574,7 @@ export default function WinterHokkaidoOtaruPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・十勝川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">十勝川温泉の初冬白鳥飛来と遺産モール温泉・十勝牛宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 北海道遺産植物性モール温泉と白鳥の飛来を望む極上ステイ。
               </p>
@@ -620,9 +584,7 @@ export default function WinterHokkaidoOtaruPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・函館湯の川</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">湯の川温泉の津軽海峡漁火雪見露天と函館冬海鮮宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 津軽海峡にきらめくイカ釣り漁火と函館の冬の味覚を堪能。
               </p>
@@ -632,9 +594,7 @@ export default function WinterHokkaidoOtaruPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">北海道・定山渓</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                定山渓温泉の札幌奥座敷雪見渓谷露天風呂宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">定山渓温泉の札幌奥座敷雪見渓谷露天風呂宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 白糸の滝や豊平川渓谷の雪景色と名湯を味わう大人の休日。
               </p>

@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              天に架かる緑の橋と燃えるような成相寺の紅葉！海の京都が輝く秋
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天に架かる緑の橋と燃えるような成相寺の紅葉！海の京都が輝く秋</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             宮城の松島、広島の宮島と並び日本三景に数えられる京都府宮津市の「天橋立」。約3.6kmにわたる白砂青松の砂州を望む秋の景観は格別です。傘松公園からバスで向かう西国第二十八番札所「成相寺」は、五重塔を包む鮮やかなもみじのトンネルが広がる丹後屈指の紅葉名所。成相寺パノラマ展望所から見下ろす宮津湾と天橋立の全景は言葉を失う美しさです。散策の後は、海を望む天橋立温泉に浸かり、11月6日に解禁される丹後・宮津港水揚げの松葉ガニや寒ブリ、丹後牛をふるさと納税トラベルクーポンでお得に味わい尽くしましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                成相寺（なりあいじ）の五重塔を彩る紅葉トンネル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                成相寺（なりあいじ）の五重塔を彩る紅葉トンネル</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 「願い事が成り相う」寺として知られる成相寺。秋には境内のモミジが一斉に色づき、朱塗りの五重塔や本堂を美しく引き立てる丹後随一の紅葉絵巻が広がります。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                傘松公園・天橋立ビューランドからの「股のぞき」絶景
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                傘松公園・天橋立ビューランドからの「股のぞき」絶景</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 股の間から逆さに覗くことで、天橋立が天に架かる緑の龍のように見える伝統の「股のぞき」。秋の澄んだ空と穏やかな阿蘇海・宮津湾の青のコントラストは絶景です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                11月解禁の丹後松葉ガニ＆寒ブリ・丹後牛会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                11月解禁の丹後松葉ガニ＆寒ブリ・丹後牛会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 間人（たいざ）ガニで名高い丹後エリア。11月解禁の松葉ガニ尽くしコースや、脂が乗り切った丹後名物「ブリしゃぶ」、京都府産黒毛和牛のステーキなど極上の美食が揃います。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.49 <span className="text-stone-400 text-xs">(546件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天橋立温泉　和のリゾート　文珠荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天橋立温泉　和のリゾート　文珠荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府宮津市字文珠510 ｜ 京都丹後鉄道　天橋立駅より徒歩3分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.32 <span className="text-stone-400 text-xs">(1071件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天橋立温泉　天橋立ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天橋立温泉　天橋立ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府宮津市文珠310 ｜ 天橋立駅より徒歩1分／宮津天橋立I.C.より約10分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.56 <span className="text-stone-400 text-xs">(528件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天橋立温泉　対橋楼
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天橋立温泉　対橋楼</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 京都府宮津市文珠471 ｜ お車：京都縦貫自動車道宮津天橋立ＩＣより約７分　　電車：京都丹後鉄道　天橋立駅より徒歩約3分です。天橋立の入り口。
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天橋立温泉 和のリゾート 文珠荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天橋立温泉 和のリゾート 文珠荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と天橋立温泉 和のリゾート 文珠荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と天橋立温泉 和のリゾート 文珠荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

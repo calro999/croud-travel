@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            鏡川の清流と高知城の天守閣、藁の炎で香ばしく炙られる戻り鰹——ひろめ市場の熱気と名湯に包まれる「高知・豪快プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">鏡川の清流と高知城の天守閣、藁の炎で香ばしく炙られる戻り鰹——ひろめ市場の熱気と名湯に包まれる「高知・豪快プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             高知龍馬空港から市内中心部までバスで約30分。南国特有の明るい太陽と、雄大な太平洋の波音が響く高知県高知市。日中のビジネスや商談を終えた後、誰もが吸い寄せられるのが帯屋町アーケード内にある屋台村「ひろめ市場」です。約60店舗がひしめく活気あふれる空間で、豪快な藁焼きの炎で焼き上げられたばかりの温かい「カツオの塩たたき」にニンニクスライスを乗せ、淡麗辛口の土佐酒「司牡丹」「酔鯨」で乾杯する体験は、日本中どこを探してもここにしかありません。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   ひろめ市場まで徒歩約5分！最上階の男女別天然温泉大浴場「紺碧の湯」＆露天風呂・サウナ完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 紺碧の湯 ドーミーイン高知 —— 帯屋町アーケード近く。天然温泉とサウナでととのい、ひろめ市場へ直行できる最強拠点
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 紺碧の湯 ドーミーイン高知 —— 帯屋町アーケード近く。天然温泉とサウナでととのい、ひろめ市場へ直行できる最強拠点</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   創業明治七年・皇族や文豪を迎えてきた老舗旅館！最上階の展望露天風呂から高知城下町を一望
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  城西館（じょうせいかん） —— 土佐のおもてなしの最高峰。展望大浴場と藁焼きタタキ実演工房を備えた名門宿
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">城西館（じょうせいかん） —— 土佐のおもてなしの最高峰。展望大浴場と藁焼きタタキ実演工房を備えた名門宿</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR高知駅南口から徒歩わずか2分！新しく機能的な客室と全室シモンズベッド完備の快適ステイ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＪＲクレメントイン高知 —— 駅前の好ロケーション。ワイドデスクと充実した設備でビジネス出張を強力サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＪＲクレメントイン高知 —— 駅前の好ロケーション。ワイドデスクと充実した設備でビジネス出張を強力サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              高知「ひろめ市場」を一人旅で120％楽しむ相席＆注文の極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">高知「ひろめ市場」を一人旅で120％楽しむ相席＆注文の極意</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. まずは「やいろ亭」または「明神丸」でカツオの塩たたきを注文
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. まずは「やいろ亭」または「明神丸」でカツオの塩たたきを注文</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 厚切りに切られたカツオに粗塩とスライスにんにく、わさびを乗せて一口で。藁の香ばしさと脂の乗った身の甘みが口いっぱいに広がります。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 相席になった地元のお客さんと笑顔で「乾杯！」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 相席になった地元のお客さんと笑顔で「乾杯！」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ひろめ市場は相席が基本ルール。「どちらから来られたが？」と気さくに声をかけてくれる地元民と土佐酒を酌み交わすのが最高の醍醐味。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 屋台餃子「安兵衛」のパリパリ揚げ焼き餃子でシメ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 屋台餃子「安兵衛」のパリパリ揚げ焼き餃子でシメ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 極薄の皮を多めの油でパリッと黄金色に焼き上げた小ぶりな餃子。ビールやレモンサワーとの相性が抜群です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>高知龍馬空港から高知駅や市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>高知龍馬空港から高知駅や市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 高知龍馬空港から市内行きリムジンバスが頻発しており、JR高知駅前やはりまや橋まで約30〜35分でスムーズに直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でひろめ市場の席を確保するのは大変ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でひろめ市場の席を確保するのは大変ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 夜19時前後は混み合いますが、一人客なら相席の空きスペースを見つけやすく、注文前に席の確保（ハンカチや上着を置く）をしておけば安心です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 紺碧の湯 ドーミーイン高知を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 紺碧の湯 ドーミーイン高知を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

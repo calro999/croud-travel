@@ -108,9 +108,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  千利休、松平不昧公、前田利家、茶人たちの美意識が息づく歴史茶室巡り
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">千利休、松平不昧公、前田利家、茶人たちの美意識が息づく歴史茶室巡り</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大茶道都市には、国宝や重要文化財に指定された歴史ある名茶室が数多く保存されています。京都の大徳寺や妙喜庵待庵、松江の明々庵や菅田庵、金沢の兼六園三芳庵や成巽閣。一畳台目や二畳といった極限まで無駄を削ぎ落とした空間に座し、炉の湯の沸く音（松風）に耳を澄ませる時間は、頭の中の雑念を払い、澄み切ったマインドフルネスの境地へと導いてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  全国屈指の老舗和菓子司が創り出す芸術的な上生菓子と抹茶
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">全国屈指の老舗和菓子司が創り出す芸術的な上生菓子と抹茶</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 お茶の文化が発展した地には、必ず最高峰の和菓子文化が存在します。京都の老舗が誂える四季の京菓子、松江の不昧公三大銘菓（山川・若草・菜種の里）、金沢の加賀百万石の雅を映した落雁や彩り豊かな上生菓子。職人が一つひとつ手作業で季節の花鳥風月を写し取った美しい和菓子を口に含み、ほろ苦い点てたての抹茶をいただく瞬間は、至高の口福をもたらします。
@@ -138,9 +134,7 @@ export default function FurusatoRound65ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  数寄屋大工が手掛けた名旅館や庭園を望む洗練されたラグジュアリーホテル
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">数寄屋大工が手掛けた名旅館や庭園を望む洗練されたラグジュアリーホテル</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 祇園の町家風情と現代のラグジュアリーが調和する京都のザ・セレスティン、宍道湖の美しい夕日と自家源泉の露天風呂を全室から楽しめる松江の「なにわ一水」、兼六園すぐそばで大正ロマンのステンドグラスと天然温泉が彩る金沢白鳥路ホテル山楽。ふるさと納税クーポンを使えば、格式高い名門客室も実質2,000円で驚くほど賢く手に入ります。
@@ -181,9 +175,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市東山区八坂通東大路西入小松町572</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ホテル　ザ　セレスティン京都祇園
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ホテル　ザ　セレスティン京都祇園</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     清らかな環境と行き届いたおもてなし、地元の旬の素材を活かした極上料理と名湯が自慢の名宿です。
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 島根県 松江市千鳥町63</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    松江しんじ湖温泉　なにわ一水
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">松江しんじ湖温泉　なにわ一水</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「他の画像や…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound65ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 石川県 金沢市丸の内6-3</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    金沢白鳥路　ホテル山楽
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">金沢白鳥路　ホテル山楽</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル ザ セレスティン京都祇園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル ザ セレスティン京都祇園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound65ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル ザ セレスティン京都祇園の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル ザ セレスティン京都祇園の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

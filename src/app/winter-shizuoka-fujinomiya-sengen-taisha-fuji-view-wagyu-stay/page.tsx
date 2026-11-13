@@ -249,9 +249,7 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Destination Analysis</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              なぜ冬の富士宮が格別なのか？一年で最も澄み渡る大気と富士山信仰の深層
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ冬の富士宮が格別なのか？一年で最も澄み渡る大気と富士山信仰の深層</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               冠雪の霊峰が放つ神々しい迫力と、富士山の伏流水が育む冬の恵み
             </p>
@@ -310,9 +308,7 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-gradient-to-r from-slate-900 to-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-sky-400 pl-4">
             <span className="text-sky-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -346,16 +342,12 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき富士宮の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき富士宮の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-sky-600" /> 田貫湖（たぬきこ）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-sky-600" /> 田貫湖（たぬきこ）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝霧高原の一角に位置する周囲約3.3kmの人造湖。波のない穏やかな早朝、白雪の富士山が湖面にそのまま映り込む「逆さ富士」の聖地。南側展望デッキや休暇村前からのアングルが絶景です。
               </p>
@@ -365,9 +357,7 @@ export default function ShizuokaFujinomiyaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-rose-600" /> 富士山本宮浅間大社
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Flame className="w-5 h-5 text-rose-600" /> 富士山本宮浅間大社</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 富士山頂を奥宮とする本宮。徳川家康寄進の二重楼閣造り「浅間造」の本殿、神聖な湧玉池、樹齢500年超の信玄桜など見どころ多数。新春の福みくじやお札受けで運気を授かります。
               </p>
@@ -377,9 +367,7 @@ export default function ShizuokaFujinomiyaPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-emerald-600" /> 白糸の滝・音止の滝
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-emerald-600" /> 白糸の滝・音止の滝</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 国の名勝・天然記念物。高さ20m、幅150mの湾曲した断崖から無数の絹糸を垂らしたように富士の伏流水が流れ落ちる名瀑。冬は澄んだ空気と水しぶきが白銀の光を放ち幻想的です。
               </p>
@@ -394,9 +382,7 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の富士宮を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の富士宮を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               富士山眺望・天然温泉・初詣アクセス・地元グルメを兼ね備えた特選宿
             </p>
@@ -432,9 +418,7 @@ export default function ShizuokaFujinomiyaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3">{h.name}</h3>
 
                       <p className="text-sm text-slate-600 leading-relaxed mb-4">
                         {h.story}
@@ -492,9 +476,7 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の富士宮を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の富士宮を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               絶景撮影、新春初詣、名物グルメ、温泉を無理なく巡る理想のスケジュール
             </p>
@@ -502,10 +484,8 @@ export default function ShizuokaFujinomiyaPage() {
 
           <div className="space-y-6">
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-sky-600 text-white text-xs rounded-md font-bold">1日目</span>
-                世界遺産センター・浅間大社初詣と白糸の滝巡り
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-sky-600 text-white text-xs rounded-md font-bold">1日目</span>
+                世界遺産センター・浅間大社初詣と白糸の滝巡り</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">11:00 JR富士宮駅に到着</strong>：駅前の「静岡県富士山世界遺産センター」へ。逆さ富士を模した木格子建築と水盤に映る本物の富士山の絶景を鑑賞。</li>
                 <li><strong className="text-slate-900">12:30 お宮横丁でランチ</strong>：浅間大社前のお宮横丁で、鉄板で焼き上げる熱々の名物「富士宮やきそば」を食べ比べ。</li>
@@ -516,10 +496,8 @@ export default function ShizuokaFujinomiyaPage() {
             </div>
 
             <div className="border border-slate-200 rounded-2xl p-5 bg-slate-50/50">
-              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2">
-                <span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
-                田貫湖早朝逆さ富士と朝霧高原牧場ドライブ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base mb-3 flex items-center gap-2"><span className="px-2.5 py-1 bg-indigo-600 text-white text-xs rounded-md font-bold">2日目</span>
+                田貫湖早朝逆さ富士と朝霧高原牧場ドライブ</h3>
               <ol className="space-y-3 text-xs sm:text-sm text-slate-700 list-decimal list-inside leading-relaxed">
                 <li><strong className="text-slate-900">06:45 田貫湖畔で日の出観賞</strong>：波のない早朝の湖畔へ。朝日に染まる紅富士と湖面に映る雪化粧の逆さ富士をじっくり鑑賞。</li>
                 <li><strong className="text-slate-900">08:00 宿で朝食</strong>：名物やきそばや朝霧高原の新鮮ミルク、炊きたてご飯でエネルギーをチャージ。</li>
@@ -535,16 +513,12 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Access & Winter Driving</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              富士宮への交通アクセスと冬道運転の重要注意点
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">富士宮への交通アクセスと冬道運転の重要注意点</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-sky-600" /> 電車・新幹線・高速バス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-sky-600" /> 電車・新幹線・高速バス</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">東京方面から</strong>：東海道新幹線で「新富士駅」下車、路線バスで富士宮駅まで約30分。またはJR東海道本線「富士駅」乗り換え、JR身延線で「富士宮駅」まで約20分。</li>
                 <li><strong className="text-slate-900">名古屋方面から</strong>：東海道新幹線で「静岡駅」下車、東海道線富士駅経由で約1時間40分。</li>
@@ -553,9 +527,7 @@ export default function ShizuokaFujinomiyaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆冬用タイヤ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" /> 車・レンタカー＆冬用タイヤ</h3>
               <ul className="space-y-2 list-disc list-inside leading-relaxed">
                 <li><strong className="text-slate-900">高速道路IC</strong>：新東名高速「新富士IC」または東名高速「富士IC」から西富士道路（国道139号バイパス）経由で富士宮市街まで約15分。</li>
                 <li><strong className="text-slate-900">朝霧高原・田貫湖方面の注意点</strong>：標高600〜900mに位置するため、市街地と比べて気温が5〜8℃低くなります。12月〜1月は路面凍結（ブラックアイスバーン）が頻発するため、スタッドレスタイヤ装着が必須です。</li>
@@ -568,17 +540,13 @@ export default function ShizuokaFujinomiyaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-2xl font-bold text-slate-900">
-              冬の富士宮旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">冬の富士宮旅行 よくある質問（FAQ）</h2>
           </div>
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="pb-6 border-b border-slate-100 last:border-b-0 last:pb-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-sky-600 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-sky-600 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -589,10 +557,8 @@ export default function ShizuokaFujinomiyaPage() {
 
         {/* Internal Link Network */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-10 border border-slate-200">
-          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <Compass className="w-5 h-5 text-sky-600" />
-            あわせて読みたい！近隣エリアの冬特集記事
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2"><Compass className="w-5 h-5 text-sky-600" />
+            あわせて読みたい！近隣エリアの冬特集記事</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <Link
               href="/winter-shizuoka-atami-onsen-winter-fireworks-kinmedai-stay/"

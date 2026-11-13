@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              札幌市中心部から1時間！黄金色に染まる渓谷美と名湯・定山渓温泉
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">札幌市中心部から1時間！黄金色に染まる渓谷美と名湯・定山渓温泉</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             北海道・札幌の奥座敷として古くから親しまれる定山渓温泉。10月上旬から下旬にかけて、豊平川沿いの渓谷や断崖絶壁が赤や黄色のグラデーションに染まりあがり、道内屈指の紅葉パノラマが広がります。名所「二見吊橋」からの渓谷美や、紅葉シャトルバスで向かう「豊平峡ダム」のダイナミックな景観は必見。散策の後は、伝統ある名湯で心身を温め、北海道の秋の味覚（秋鮭、いくら、白老牛、蝦夷アワビなど）を贅沢に味わうひとときを、楽天ふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                二見吊橋＆かっぱ淵から望む絶景紅葉渓谷
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                二見吊橋＆かっぱ淵から望む絶景紅葉渓谷</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 豊平川にかかる赤い吊り橋「二見吊橋」から見下ろす二見岩や、澄んだ清流に映る紅葉のグラデーションは定山渓のシンボル。散策路も整備され気軽に紅葉ハイキングが楽しめます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                豊平峡ダムのダイナミックな放流と岩壁紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                豊平峡ダムのダイナミックな放流と岩壁紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 電気バスで向かう「豊平峡（ほうへいきょう）ダム」。巨大なアーチ式コンクリートダムと千丈岩の切り立った岩肌を覆う紅葉の壮大なコントラストは圧巻です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                北海道・秋の海鮮＆道産ブランド牛の極上会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                北海道・秋の海鮮＆道産ブランド牛の極上会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋に旬を迎える脂の乗った秋鮭やプチプチのいくら、白老牛のサーロインステーキ、旬の道産野菜やキノコを使った創作会席など、秋の北海道ならではの美食を存分に堪能できます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.62 <span className="text-stone-400 text-xs">(1397件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    定山渓温泉　ぬくもりの宿　ふる川
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">定山渓温泉　ぬくもりの宿　ふる川</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道札幌市南区定山渓温泉西4-353 ｜ じょうてつバス定山渓線定山渓湯の町下車すぐ。無料送迎バス毎日１便運行／大通西１丁目テレビ塔北向かい出発。事前予約制。
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.42 <span className="text-stone-400 text-xs">(905件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    定山渓温泉　章月グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">定山渓温泉　章月グランドホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道札幌市南区定山渓温泉東3-239 ｜ 札幌駅より片道1000円で送迎バス運行！要予約・運休日有／札幌中心部より車で約50分、駐車場有
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.55 <span className="text-stone-400 text-xs">(533件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">定山渓温泉　女性のための宿　翠蝶館（旧：定山渓温泉　Ｓｐａ＆Ｅｓｔｈｅｔｉｑｕｅ　翠蝶館）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道札幌市南区定山渓温泉西3-57 ｜ 札幌より無料送迎バス運行（要予約） ／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】定山渓温泉 ぬくもりの宿 ふる川を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】定山渓温泉 ぬくもりの宿 ふる川を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と定山渓温泉 ぬくもりの宿 ふる川の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と定山渓温泉 ぬくもりの宿 ふる川の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

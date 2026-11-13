@@ -262,9 +262,7 @@ export default function TochigiNikkoToshoguPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の日光東照宮が魅せる「静謐の美」と門前文化の神髄
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の日光東照宮が魅せる「静謐の美」と門前文化の神髄</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               秋の喧騒を過ぎた11月下旬から1月、日光山内は最も清らかな神気に満たされます
             </p>
@@ -320,9 +318,7 @@ export default function TochigiNikkoToshoguPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】世界遺産日光東照宮参拝と門前湯波・雪見温泉を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】世界遺産日光東照宮参拝と門前湯波・雪見温泉を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               東京・浅草から新型特急スペーシアXでアクセス。混雑を避けて神聖な気を受け取る冬の旅路。
             </p>
@@ -333,9 +329,7 @@ export default function TochigiNikkoToshoguPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:45 東武日光駅到着 ➔ 神橋散策＆表参道「老舗日光湯波」ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:45 東武日光駅到着  神橋散策＆表参道「老舗日光湯波」ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   東武浅草駅や北千住駅から特急スペーシアXに乗車し、快適に東武日光駅へ。駅前で名物の熱々「揚げゆばまんじゅう」を味わった後、バスで朱塗りの名橋「神橋」へ移動し、大谷川の青い渓流と白雪、朱色の橋の雪景色を鑑賞。門前町の老舗「油源」や「日光ゆば遊膳」で、出汁の染みた巻き湯波煮や生湯波刺身のランチを味わいます。
                 </p>
@@ -344,9 +338,7 @@ export default function TochigiNikkoToshoguPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 輪王寺三仏堂＆日光二荒山神社参拝 ➔ 日光温泉の宿へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 輪王寺三仏堂＆日光二荒山神社参拝  日光温泉の宿へチェックイン</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   日光山輪王寺の三仏堂で金色に輝く三尊仏を拝観し新春の護摩祈祷。良縁祈願で知られる日光二荒山神社で初詣を済ませた後、日光山内の温泉宿へ早めにチェックイン。冷えた身体を庭園露天風呂や大浴場のアルカリ性単純温泉で芯まで温めます。
                 </p>
@@ -355,9 +347,7 @@ export default function TochigiNikkoToshoguPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 贅を尽くした「日光湯波懐石」＆「とちぎ和牛ステーキ」ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 贅を尽くした「日光湯波懐石」＆「とちぎ和牛ステーキ」ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   宿自慢の本格会席。目の前で引き上げる温かな生湯波、季節の炊き合わせ、そしてきめ細やかな霜降りのとちぎ和牛を鉄板焼きやすき焼きで堪能。栃木の銘酒「四季桜」や「鳳凰美田」とともに、静寂に包まれる冬の日光の夜を心ゆくまで満喫します。
                 </p>
@@ -366,9 +356,7 @@ export default function TochigiNikkoToshoguPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  08:30 開門直後の日光東照宮へ ➔ 国宝陽明門・薬師堂鳴龍・奥宮参拝
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">08:30 開門直後の日光東照宮へ  国宝陽明門・薬師堂鳴龍・奥宮参拝</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   一般客の少ない開門直後の朝一番に日光東照宮へ。朝日に輝く純白と黄金の陽明門を鑑賞し、薬師堂で天井に響く鳴龍の鈴のような反響音を体感。眠り猫をくぐり、雪の杉並木が続く207段の石段を登って家康公が眠る奥宮へ参拝。門前町で日光羊羹や酒饅頭を購入して帰路へ。
                 </p>
@@ -381,27 +369,21 @@ export default function TochigiNikkoToshoguPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              修験道が育んだ日光湯波の知恵と、ブランド牛「とちぎ和牛」の魅力
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">修験道が育んだ日光湯波の知恵と、ブランド牛「とちぎ和牛」の魅力</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                肉厚でジューシーな「日光湯波」の歴史と多彩な調理法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                肉厚でジューシーな「日光湯波」の歴史と多彩な調理法</h3>
               <p>
                 日光湯波の歴史は奈良時代末期、勝道上人が日光山を開山した際に修験僧の貴重な栄養源として持ち込まれたことに始まります。豆乳を熱して表面に張る膜の中央に串を入れ、2つ折りに巻き上げて引き上げるため、一枚仕立ての京都湯葉に比べて肉厚で食べ応えがあるのが最大の特徴です。煮汁をたっぷり含む「巻き湯波（揚巻湯波）」の含め煮、とろりとした食感の「生湯波の刺身」、香ばしい「揚げ湯波そば」など、冬の寒さに温かい出汁が染み渡ります。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                澄んだ水と肥沃な大地が育む極上霜降り「とちぎ和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                澄んだ水と肥沃な大地が育む極上霜降り「とちぎ和牛」</h3>
               <p>
                 栃木県内の指定生産農家によって丹精込めて肥育された黒毛和牛のうち、格付基準A4・A5ランクを満たした最高級ブランド「とちぎ和牛」。きめ細やかなサシが細部まで美しく入り、融点が低いため舌の上でサラリととろけるような甘みと濃厚な赤身の旨味が広がります。冬の夕食には、地元のたまり醤油と合わせた割り下で煮込むすき焼きや、備長炭で香ばしく表面を焼き上げるフィレステーキが絶品。冷えた身体に確かな活力を与えてくれます。
               </p>
@@ -415,9 +397,7 @@ export default function TochigiNikkoToshoguPage() {
             <span className="text-amber-700 font-bold text-xs sm:text-sm tracking-wider uppercase block">
               Handpicked Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">
-              日光東照宮参拝と美食・雪見温泉を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">日光東照宮参拝と美食・雪見温泉を堪能する名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
@@ -446,8 +426,7 @@ export default function TochigiNikkoToshoguPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group">
-                      <a 
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
                         rel="noopener noreferrer" 
@@ -455,8 +434,7 @@ export default function TochigiNikkoToshoguPage() {
                       >
                         {hotel.name}
                         <ExternalLink className="w-4 h-4 text-stone-400 group-hover:text-amber-700 inline" />
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-500 text-xs sm:text-sm flex items-center gap-1.5">
                       <MapPin className="w-4 h-4 text-amber-600 shrink-0" />
@@ -479,10 +457,8 @@ export default function TochigiNikkoToshoguPage() {
 
                   {/* Editorial Story */}
                   <div className="space-y-3 bg-stone-50/70 rounded-2xl p-4 sm:p-5 border border-stone-200/60">
-                    <h4 className="text-xs sm:text-sm font-bold text-amber-900 flex items-center gap-1.5">
-                      <Building className="w-4 h-4 text-amber-600" />
-                      宿の魅力と冬の滞在ストーリー
-                    </h4>
+                    <h4 className="text-xs sm:text-sm font-bold text-amber-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-amber-600" />
+                      宿の魅力と冬の滞在ストーリー</h4>
                     <p className="text-stone-700 text-xs sm:text-sm leading-relaxed">
                       {hotel.story}
                     </p>
@@ -540,9 +516,7 @@ export default function TochigiNikkoToshoguPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/60 space-y-6">
           <div className="border-b border-amber-200/80 pb-4">
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-amber-950 font-serif">
-              冬の日光東照宮・門前町を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-amber-950 font-serif">冬の日光東照宮・門前町を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-amber-950">
@@ -582,20 +556,16 @@ export default function TochigiNikkoToshoguPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              冬の日光東照宮参拝・湯波グルメに関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">冬の日光東照宮参拝・湯波グルメに関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -608,9 +578,7 @@ export default function TochigiNikkoToshoguPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい全国の冬景色・初詣・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい全国の冬景色・初詣・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

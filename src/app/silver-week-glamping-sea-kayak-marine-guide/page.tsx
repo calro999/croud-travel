@@ -205,9 +205,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
       <section className="bg-cyan-50/60 border border-cyan-200/70 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-cyan-700 uppercase tracking-wider">Autumn Marine Resort</span>
-          <h2 className="text-xl sm:text-2xl font-black text-cyan-950 font-journal-serif">
-            秋の海グランピングが大人に支持される3つの理由
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-cyan-950 font-journal-serif">秋の海グランピングが大人に支持される3つの理由</h2>
           <p className="text-xs sm:text-sm text-cyan-900/80">
             日差しのジリジリ感がなくなり、潮風が心地よいシルバーウィーク。山派も思わず感動するオーシャンフロントの魅力。
           </p>
@@ -233,9 +231,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">Seaside Glamping Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            SUP・シーカヤック・海鮮BBQが楽しめる全国の海グランピング
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">SUP・シーカヤック・海鮮BBQが楽しめる全国の海グランピング</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             瀬戸内海から九州・奄美大島・沖縄まで、ビーチ直結でマリンアクティビティが満喫できる人気施設。
           </p>
@@ -288,9 +284,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "目の前に広がる穏やかな海と白い砂浜。SUPやカヤックなど多彩なマリンアクティビティを楽しめるウォーターフロント施設。"}
@@ -328,9 +322,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
         <div className="max-w-3xl space-y-6">
           <div className="space-y-1">
             <span className="text-cyan-400 font-black text-xs uppercase tracking-widest">Marine Trip Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              秋の海グランピング 1泊2日アクティビティモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">秋の海グランピング 1泊2日アクティビティモデルコース</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               SUP・シーカヤック体験から絶品海鮮ディナー、波音を聞く夜まで無駄のない理想的なリゾートプラン。
             </p>
@@ -354,18 +346,14 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
       <section className="bg-white rounded-3xl border border-cyan-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-cyan-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-cyan-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            海グランピング・マリンアクティビティのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">海グランピング・マリンアクティビティのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-cyan-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-cyan-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -376,9 +364,7 @@ export default function SilverWeekGlampingSeaKayakMarinePage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-cyan-50/40 border border-cyan-200/60 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-          <span>🧭</span> あわせて読みたい海の絶景・リゾート旅行ガイド
-        </h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">あわせて読みたい海の絶景・リゾート旅行ガイド</h3>
         <p className="text-xs text-slate-600">
           伊豆・下田の透明な海を車なしで楽しむ旅や、連休の予算シミュレーションに役立つ厳選記事はこちら。
         </p>

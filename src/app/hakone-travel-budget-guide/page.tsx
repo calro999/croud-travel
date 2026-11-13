@@ -81,9 +81,7 @@ export default function HakoneBudgetGuidePage() {
       <section className="bg-orange-50 rounded-3xl p-8 border border-orange-200 shadow-sm">
         <div className="flex flex-col gap-8 items-center">
           <div className="flex-1 space-y-4">
-            <h2 className="text-2xl font-black text-orange-950 font-journal-serif">
-              🎫 「箱根フリーパス」は本当に元が取れる？
-            </h2>
+            <h2 className="text-2xl font-black text-orange-950 font-journal-serif">「箱根フリーパス」は本当に元が取れる？</h2>
             <p className="text-sm text-orange-900/80 leading-relaxed">
               新宿発の箱根フリーパス（2日間有効）は大人6,100円。これだけで箱根登山鉄道、ケーブルカー、ロープウェイ、海賊船、登山バスが乗り放題になります。（※ロマンスカー特急券1,110円は別途必要）
             </p>
@@ -107,16 +105,12 @@ export default function HakoneBudgetGuidePage() {
 
       {/* 日帰り vs 1泊2日 比較 */}
       <section className="px-4 md:px-0 space-y-6">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 text-center">
-          💸 箱根旅行の総額シミュレーション
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 text-center">箱根旅行の総額シミュレーション</h2>
         
         <div className="grid md:grid-cols-2 gap-6">
           {/* 日帰り */}
           <div className="bg-white rounded-3xl p-8 border border-slate-200 shadow-sm">
-            <h3 className="text-xl font-bold text-slate-800 border-b-2 border-slate-100 pb-3 mb-4">
-              日帰り箱根プラン
-            </h3>
+            <h3 className="text-xl font-bold text-slate-800 border-b-2 border-slate-100 pb-3 mb-4">日帰り箱根プラン</h3>
             <div className="text-3xl font-black text-orange-600 mb-6 text-center">
               約12,000円<span className="text-sm text-slate-500 font-normal"> / 1人</span>
             </div>
@@ -142,9 +136,7 @@ export default function HakoneBudgetGuidePage() {
             <div className="absolute top-0 right-4 -translate-y-1/2 bg-amber-500 text-white text-xs font-bold px-3 py-1 rounded-full">
               おすすめ！
             </div>
-            <h3 className="text-xl font-bold border-b-2 border-slate-700 pb-3 mb-4">
-              1泊2日 温泉旅館満喫プラン
-            </h3>
+            <h3 className="text-xl font-bold border-b-2 border-slate-700 pb-3 mb-4">1泊2日 温泉旅館満喫プラン</h3>
             <div className="text-3xl font-black text-amber-400 mb-6 text-center">
               約2.5〜5万円<span className="text-sm text-slate-400 font-normal"> / 1人</span>
             </div>
@@ -176,9 +168,7 @@ export default function HakoneBudgetGuidePage() {
 
       {/* 🏨 ホテルセクション */}
       <section className="px-4 md:px-0">
-        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6 border-b-2 border-orange-200 pb-2">
-          🏨 箱根エリアのおすすめ温泉旅館
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-slate-900 mb-6 border-b-2 border-orange-200 pb-2">箱根エリアのおすすめ温泉旅館</h2>
         {hotels.length > 0 ? (
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
             {hotels.map((hotel: any) => (
@@ -211,9 +201,7 @@ export default function HakoneBudgetGuidePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリーパス活用の交通費＆温泉旅館の宿泊費シミュレーション」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -292,9 +280,7 @@ export default function HakoneBudgetGuidePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「箱根旅行 費用」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「箱根旅行 費用」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -302,9 +302,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              澄んだ冬空に輝く1000万ドルのパノラマと、港町を包む異国情緒の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">澄んだ冬空に輝く1000万ドルのパノラマと、港町を包む異国情緒の温もり</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -327,9 +325,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の長崎を満喫する3大感動体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の長崎を満喫する3大感動体験</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -337,9 +333,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-amber-50 border border-amber-200 flex items-center justify-center text-amber-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 稲佐山からの世界新三大夜景パノラマ
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 稲佐山からの世界新三大夜景パノラマ</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 冬の澄んだ大気のもと、光の粒が立体的にきらめく1000万ドルの絶景。稲佐山山頂展望台や中腹ホテルの客室・露天風呂から、長崎港を取り囲む光の海を独り占めする贅沢。
               </p>
@@ -349,9 +343,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-rose-50 border border-rose-200 flex items-center justify-center text-rose-700">
                 <Building className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. グラバー園イルミネーション＆異国情緒
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. グラバー園イルミネーション＆異国情緒</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 冬の夜を彩る洋館のライトアップと園内の温かな光。石畳の小径、大浦天主堂、東山手のオランダ坂を巡り、歴史ある居留地のロマンチックな雰囲気に浸る時間。
               </p>
@@ -361,9 +353,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-yellow-50 border border-yellow-200 flex items-center justify-center text-yellow-700">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 本場長崎ちゃんぽん＆伝統卓袱料理
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 本場長崎ちゃんぽん＆伝統卓袱料理</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 新地中華街で味わう冬の海鮮・野菜たっぷりの濃厚ちゃんぽん。老舗料亭で受け継がれる円卓の卓袱料理や長崎和牛ステーキなど、東西の食文化が融合した至福の美食。
               </p>
@@ -375,9 +365,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】世界新三大夜景と異国情緒を満喫する長崎の冬黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】世界新三大夜景と異国情緒を満喫する長崎の冬黄金モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               JR長崎駅を拠点に、路面電車やシャトルバスを活用して冬の絶景夜景とグルメを無駄なく巡る王道観光プラン。
             </p>
@@ -388,9 +376,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 JR長崎駅到着 ➔ 長崎新地中華街で本場ちゃんぽん＆角煮まんランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 JR長崎駅到着  長崎新地中華街で本場ちゃんぽん＆角煮まんランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   西九州新幹線かもめで長崎駅へ。路面電車で新地中華街へ移動し、名店「江山楼」などで熱々の長崎ちゃんぽん、具材の旨味が染み出た皿うどん、蒸したての豚角煮まんじゅうを頬張り、身体を温めます。
                 </p>
@@ -399,9 +385,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 出島散策 ➔ オランダ坂からグラバー園イルミネーションへ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 出島散策  オランダ坂からグラバー園イルミネーションへ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   復元された出島の和蘭商館跡を見学後、風情あふれるオランダ坂の石畳を散策。夕暮れに合わせて南山手のグラバー園へ入場。トワイライトタイムに点灯する洋館のイルミネーションと長崎港の夕景を堪能します。
                 </p>
@@ -410,9 +394,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  17:30 稲佐山の夜景ホテルへチェックイン ➔ 1000万ドルのパノラマ夜景＆長崎和牛ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">17:30 稲佐山の夜景ホテルへチェックイン  1000万ドルのパノラマ夜景＆長崎和牛ディナー</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   稲佐山中腹の特等席ホテルへ。客室の大きな窓や展望テラスから、すり鉢状の街並みが無数の宝石のように輝く世界新三大夜景を一望。夕食は長崎和牛や卓袱の技が光る会席ディナーを味わいます。
                 </p>
@@ -421,9 +403,7 @@ export default function NagasakiCityInasayamaWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 鎮西大社 諏訪神社（お諏訪さん）初詣 ➔ 老舗カステラ本舗めぐり
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 鎮西大社 諏訪神社（お諏訪さん）初詣  老舗カステラ本舗めぐり</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   長崎の総氏神・諏訪神社の長坂石段を登り新春の開運祈願。その後、福砂屋や松翁軒などの老舗で伝統手焼きカステラをお土産に購入し、長崎出島ワーフで海を眺めて帰路へ就きます。
                 </p>
@@ -436,27 +416,21 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              和華乱の美学が生んだ長崎独自の食文化と伝統の銘品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">和華乱の美学が生んだ長崎独自の食文化と伝統の銘品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                円卓を囲む和華乱の粋「卓袱（しっぽく）料理」の礼儀作法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                円卓を囲む和華乱の粋「卓袱（しっぽく）料理」の礼儀作法</h3>
               <p>
                 卓袱料理は、朱塗りの円卓を囲み、身分の上下なく直箸で料理を取り分ける長崎独自のスタイル。宴の始まりは当主の「お鰭（おひれ）をどうぞ」という挨拶から。お鰭とは鯛のヒレが入った吸い物のことで、「お客様一人に対し魚一匹を使って歓迎します」という誠意を表します。この吸い物を飲み干した後は自由にお酒や料理を歓談とともに楽しむのが粋な長崎の流儀です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-amber-700" />
-                四百年受け継がれる手焼きカステラと南蛮菓子の歴史
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-amber-700" />
+                四百年受け継がれる手焼きカステラと南蛮菓子の歴史</h3>
               <p>
                 室町時代末期にポルトガル人によって伝えられたカステラは、長崎の職人たちの手で日本独自の極上和菓子へと進化しました。底にザラメ糖を残す製法や、小麦粉・卵・砂糖・水飴のみで泡立てる「別立て法」など、老舗ごとに秘伝の技が継承されています。冬には熱い緑茶や淹れたての珈琲とともにいただくしっとりとしたカステラが至福のひとときをもたらします。
               </p>
@@ -468,9 +442,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              世界新三大夜景と冬の長崎グルメを堪能する特等席名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">世界新三大夜景と冬の長崎グルメを堪能する特等席名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、夜景眺望・料理・立地が高評価の宿。
             </p>
@@ -504,9 +476,7 @@ export default function NagasakiCityInasayamaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -566,9 +536,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/60 space-y-6">
           <div className="border-b border-amber-200/80 pb-4">
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">
-              冬の長崎市街＆稲佐山を快適に旅するための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">冬の長崎市街＆稲佐山を快適に旅するための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-amber-950">
@@ -608,20 +576,16 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の長崎市街・稲佐山夜景＆グルメに関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の長崎市街・稲佐山夜景＆グルメに関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function NagasakiCityInasayamaWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・夜景・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・夜景・温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

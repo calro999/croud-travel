@@ -266,10 +266,8 @@ export default function HirugamiWinterPage() {
             <Sparkles className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 日本一の星空＆美肌湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月阿智村の日本一の星空ナイトツアー】<br className="hidden sm:inline" />
-            昼神温泉の極上美肌湯と南信州冬の味覚宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月阿智村の日本一の星空ナイトツアー】<br className="hidden sm:inline" />
+            昼神温泉の極上美肌湯と南信州冬の味覚宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             環境省が認定した「日本一星が輝いて見える場所」。空気が最も澄み切る初冬、標高1400mの山頂に広がる満天の星の海へ。冷えた体をpH9.7のとろとろ美肌温泉で解きほぐし、囲炉裏の炭火料理と信州牛に舌鼓を打つ極上の冬旅。
           </p>
@@ -295,9 +293,7 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Starry Sky & Silk Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                手の届きそうな満天の星屑と、とろけるような強アルカリ美肌湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">手の届きそうな満天の星屑と、とろけるような強アルカリ美肌湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function HirugamiWinterPage() {
           </p>
           <div className="bg-indigo-50/70 rounded-2xl p-5 border border-indigo-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-indigo-700" />
-                星空ナイトツアーは宿の「送迎＆チケット付きプラン」が鉄則
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-indigo-700" />
+                星空ナイトツアーは宿の「送迎＆チケット付きプラン」が鉄則</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 夜間の山道運転やチケット完売の心配なし。昼神温泉の提携旅館なら宿から会場までの専用直行バスで安心・快適に楽しめます。
               </p>
@@ -332,9 +326,7 @@ export default function HirugamiWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の阿智村で体験したい3つの奇跡
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の阿智村で体験したい3つの奇跡</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function HirugamiWinterPage() {
         <section id="hotel-list" className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月に泊まりたい昼神温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月に泊まりたい昼神温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの最新空室状況・宿泊プランと連携。星空ツアー提携宿から囲炉裏料理が自慢の湯宿までを厳選。
             </p>
@@ -399,9 +389,7 @@ export default function HirugamiWinterPage() {
                           <span className="text-stone-400">({hotel.reviews}件のクチコミ)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                         {hotel.access}
@@ -430,17 +418,13 @@ export default function HirugamiWinterPage() {
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-indigo-800 flex items-center gap-1.5 mb-1">
-                            <Coffee className="w-3.5 h-3.5" /> 客室選びのポイント
-                          </h4>
+                          <h4 className="text-xs font-bold text-indigo-800 flex items-center gap-1.5 mb-1"><Coffee className="w-3.5 h-3.5" /> 客室選びのポイント</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.roomTip}
                           </p>
                         </div>
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1">
-                            <Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり
-                          </h4>
+                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1"><Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.gourmetTip}
                           </p>
@@ -451,10 +435,8 @@ export default function HirugamiWinterPage() {
 
                   {/* Highlights */}
                   <div className="bg-indigo-50/50 rounded-2xl p-4 sm:p-5 border border-indigo-100/80 space-y-2.5">
-                    <h4 className="text-xs font-bold text-indigo-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <CheckCircle2 className="w-4 h-4 text-indigo-600" />
-                      この宿のおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-indigo-900 uppercase tracking-wider flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-indigo-600" />
+                      この宿のおすすめポイント</h4>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                       {hotel.highlights.map((hl, hIdx) => (
                         <div key={hIdx} className="flex items-start gap-2 text-xs text-stone-700">
@@ -494,9 +476,7 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の阿智村を満喫する「1泊2日 日本一の星空＆美肌湯モデルコース」</h2>
             </div>
           </div>
 
@@ -608,18 +588,14 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Onsen Science & Beauty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                pH9.7の強アルカリ美肌泉！昼神温泉の泉質秘密と効果的な入浴法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">pH9.7の強アルカリ美肌泉！昼神温泉の泉質秘密と効果的な入浴法</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-600" />
-                全国屈指の強アルカリ性（pH9.7）と硫黄成分
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-600" />
+                全国屈指の強アルカリ性（pH9.7）と硫黄成分</h3>
               <p>
                 一般的なアルカリ性温泉がpH8.5前後であるのに対し、昼神温泉はpH9.7という驚異的な数値を誇ります。皮脂や角質を素早く分解・乳化して落とす石鹸のような強力なクレンジング効果があります。
               </p>
@@ -629,10 +605,8 @@ export default function HirugamiWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                星空ツアー前後のダブル入浴メソッド
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                星空ツアー前後のダブル入浴メソッド</h3>
               <p>
                 星空ナイトツアー前の入浴では、身体の芯まで熱を届けて体温を上げておくことで、山頂での耐寒性が大幅にアップします。
               </p>
@@ -651,9 +625,7 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Souvenirs & Delights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の阿智村・昼神温泉で手に入れたい厳選名物土産＆冬スイーツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の阿智村・昼神温泉で手に入れたい厳選名物土産＆冬スイーツ</h2>
             </div>
           </div>
 
@@ -692,18 +664,14 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Star Watching Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の阿智村星空ナイトツアー 完全攻略ガイド
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の阿智村星空ナイトツアー 完全攻略ガイド</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-indigo-600" />
-                標高1400mの極寒対策！万全の装備リスト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Snowflake className="w-4 h-4 text-indigo-600" />
+                標高1400mの極寒対策！万全の装備リスト</h3>
               <p>
                 11月〜12月の山頂会場は氷点下（マイナス3℃〜マイナス8℃）まで冷え込みます。スキーウェアなどの防風・保温性の高いアウター、厚手のフリース、インナータイツ、防寒ブーツが必須です。
               </p>
@@ -713,10 +681,8 @@ export default function HirugamiWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                新月カレンダーと天候の選び方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                新月カレンダーと天候の選び方</h3>
               <p>
                 満天の星や淡い天の川をより濃密に楽しむなら、月明かりの影響が少ない「新月」の前後1週間がベストタイミングです。月明かりがある日でも、月のクレーター観測や明るい1等星の輝きを楽しめます。
               </p>
@@ -735,48 +701,38 @@ export default function HirugamiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の阿智村・昼神温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の阿智村・昼神温泉旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-indigo-700 font-extrabold">Q.</span>
-                冬の星空ナイトツアーは雨や雪、曇りの場合はどうなりますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                冬の星空ナイトツアーは雨や雪、曇りの場合はどうなりますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 雨天や降雪、厚い雲で星が見えない場合でも、会場のドーム施設内にて最新鋭のプロジェクションマッピングや星空解説プログラムが開催される場合があります。ただしゴンドラが強風等で運行不能となった場合は中止となります。最新の運行情報は当日の公式発表をご確認ください。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-indigo-700 font-extrabold">Q.</span>
-                昼神温泉の朝市は冬でも開催されていますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                昼神温泉の朝市は冬でも開催されていますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 昼神温泉の朝市広場では、冬期も毎朝6時半頃（12月〜3月は7時頃）から開催されています。地元の新鮮な野菜やりんご、手作りの漬物、加工品などが並び、地元農家のお母さんたちとの温かな触れ合いを楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-indigo-700 font-extrabold">Q.</span>
-                名古屋や東京からのアクセス経路と所要時間は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                名古屋や東京からのアクセス経路と所要時間は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 名古屋方面からは中央自動車道で約1時間30分（園原ICまたは飯田山本IC利用）。東京方面からは中央道で約3時間30分です。高速バス利用の場合は「昼神温泉」バス停直通便やJR飯田駅経由の路線バスが運行されています。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-indigo-700 font-extrabold">Q.</span>
-                南信州名物の「五平餅」の特徴と美味しい食べ方は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                南信州名物の「五平餅」の特徴と美味しい食べ方は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 南信州の五平餅は、炊きたてのご飯を半搗き（はんごろし）にして串に刺し、胡桃（くるみ）や胡麻、落花生をたっぷり使った秘伝の味噌ダレを塗って香ばしく炭火で焼き上げます。外はカリッと中はモチモチで、香ばしい甘辛味噌がクセになる冬の郷土の味です。
               </p>
@@ -788,9 +744,7 @@ export default function HirugamiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -803,9 +757,7 @@ export default function HirugamiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-indigo-800 bg-indigo-100/80 px-2 py-0.5 rounded">天体観測特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-indigo-900 transition-colors">
-                満天の冬星空と天体撮影が楽しめる全国の絶景温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-indigo-900 transition-colors">満天の冬星空と天体撮影が楽しめる全国の絶景温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 人工の光が届かない山頂リゾートや高原露天風呂で仰ぐ満天の天の川。
               </p>
@@ -816,9 +768,7 @@ export default function HirugamiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">信州冬特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                地獄谷スノーモンキーと湯田中渋温泉郷の九湯めぐり
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">地獄谷スノーモンキーと湯田中渋温泉郷の九湯めぐり</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 雪の中で温泉に浸かる野生のニホンザルと情緒豊かな外湯めぐり街。
               </p>
@@ -829,9 +779,7 @@ export default function HirugamiWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-indigo-50/60 border border-stone-200 hover:border-indigo-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">絶景パノラマ</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                冬の澄天に輝く白銀の富士山絶景ホテル・温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">冬の澄天に輝く白銀の富士山絶景ホテル・温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 1年で最も美しい雪化粧の富士山を客室露天やラウンジから独占する旅。
               </p>
@@ -840,9 +788,7 @@ export default function HirugamiWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              長野県および甲信越・中部エリアのおすすめ温泉宿一覧
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">長野県および甲信越・中部エリアのおすすめ温泉宿一覧</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/nagano/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">長野県の宿一覧</Link>
               <Link href="/prefectures/yamanashi/" className="px-3 py-1.5 bg-stone-100 hover:bg-indigo-100 text-stone-700 hover:text-indigo-900 rounded-lg transition-colors font-medium">山梨県の宿一覧</Link>

@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            標高1,800mの雲上に広がる奇跡の乳白色湯、夜空を埋め尽くす天の川——万座温泉で味わう極上の湯治体験
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">標高1,800mの雲上に広がる奇跡の乳白色湯、夜空を埋め尽くす天の川——万座温泉で味わう極上の湯治体験</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             上信越高原国立公園内、標高約1,800メートルの山岳地帯に位置する万座温泉は、「星に一番近い温泉」として名高い日本屈指の高所温泉郷です。白根山の山懐から湧き出る温泉は、硫黄の含有量が日本一を誇る超濃厚な酸性硫黄泉。エメラルドグリーンから乳白色へと変化するにごり湯は、美肌作用はもちろん、冷え性や神経痛、疲労回復に抜群の効果を発揮し、古くから多くの人々を惹きつけてやまない名湯です。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             万座のハイライトは、視界を遮るもののない大自然と一体化する雲上の大露天風呂。昼は雄大な山並みと白樺の原生林、夜は澄み切った高冷地ならではの満天の星空や天の川を湯船から仰ぎ見る感動体験が待っています。群馬県嬬恋村へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門リゾートや老舗湯治宿へお得に宿泊でき、心洗われる雲上リトリートを最高のコストパフォーマンスで満喫できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（万座温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（万座温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県嬬恋村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  万座温泉　万座プリンスホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">万座温泉　万座プリンスホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   標高1800mの天空に浮かぶ絶景露天風呂「こまくさの湯」！乳白色のにごり湯と満天の星空パノラマ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  万座温泉 万座プリンスホテル —— 山岳パノラマと開放感の極み。星空に近い高原リゾート
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">万座温泉 万座プリンスホテル —— 山岳パノラマと開放感の極み。星空に近い高原リゾート</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 雄大な山並みを見渡す名物露天風呂「こまくさの湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">雄大な山並みを見渡す名物露天風呂「こまくさの湯」</h5>
                     <p className="text-stone-600 leading-relaxed">標高1,800mの斜面にせり出すように造られた絶景露天風呂。乳白色の濃厚な硫黄泉に浸かりながら、眼下に広がる渓谷美と遠くの山々を一望する大パノラマは圧巻です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 女性専用・混浴露天風呂を備えた多彩な湯処
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">女性専用・混浴露天風呂を備えた多彩な湯処</h5>
                     <p className="text-stone-600 leading-relaxed">専用の湯浴み着で安心して楽しめる混浴露天風呂のほか、女性専用露天風呂や内湯も完備。カップルや家族で同じ絶景を共有できる貴重な温泉体験が叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 高原の恵みを味わう和洋中ブッフェ＆会席ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">高原の恵みを味わう和洋中ブッフェ＆会席ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">嬬恋村特産のキャベツや高原野菜、上州牛や群馬県産もち豚など、地元の新鮮素材をふんだんに取り入れた充実のビュッフェ料理が宿泊者の舌を喜ばせます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県嬬恋村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  万座温泉　万座高原ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">万座温泉　万座高原ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   黄・緑・白と異なる4つの自家源泉！渓流沿いに広がる名物石庭露天風呂「百泉の湯」で究極の泉質めぐり
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  万座温泉 万座高原ホテル —— 8つの湯船が並ぶ石庭露天風呂。色彩豊かな源泉掛け流しパラダイス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">万座温泉 万座高原ホテル —— 8つの湯船が並ぶ石庭露天風呂。色彩豊かな源泉掛け流しパラダイス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 4つの自家源泉が注ぐ圧巻の石庭露天風呂「百泉の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">4つの自家源泉が注ぐ圧巻の石庭露天風呂「百泉の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">渓流沿いの大自然の中に広がる8つの露天風呂。万座唯一の「黄色い湯」をはじめ、透明、緑、白濁と色も成分も異なる自家源泉をその場で湯巡りできる贅沢な温泉施設です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 万座プリンスホテルの絶景露天風呂も無料で利用可能
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">万座プリンスホテルの絶景露天風呂も無料で利用可能</h5>
                     <p className="text-stone-600 leading-relaxed">宿泊者はシャトルバスや徒歩で姉妹館「万座プリンスホテル」の露天風呂も無料で相互利用可能。万座の名湯を余すところなく味わい尽くすことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> カジュアルに楽しむ高原バイキング＆リーズナブルな連泊プラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">カジュアルに楽しむ高原バイキング＆リーズナブルな連泊プラン</h5>
                     <p className="text-stone-600 leading-relaxed">好きなものを自由に選べる和洋中バイキング。気取らない雰囲気とリーズナブルな価格設定で、じっくりと湯治を楽しみたい温泉ファンや長期滞在者に最適です。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県嬬恋村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  万座温泉　日進舘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">万座温泉　日進舘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百五十余年・万座最古の木造湯治宿！総檜造りの名物大浴場「長寿の湯」と心身を癒やす健康プログラム
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  万座温泉 日進舘 —— 万座の原点を受け継ぐ奇跡の湯治場。九つの天然温泉とぬくもりの木造建築
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">万座温泉 日進舘 —— 万座の原点を受け継ぐ奇跡の湯治場。九つの天然温泉とぬくもりの木造建築</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 天然木に囲まれた総檜造りの名湯大浴場「長寿の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">天然木に囲まれた総檜造りの名湯大浴場「長寿の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">木の温もりと硫黄の香りに包まれる風情満点の大浴場。苦湯、姥湯、ささ湯など、異なる効能を持つ湯船が並び、昔ながらの本格的な湯治文化を肌で体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 満天の星空と雲海を仰ぐ展望露天風呂「極楽湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">満天の星空と雲海を仰ぐ展望露天風呂「極楽湯」</h5>
                     <p className="text-stone-600 leading-relaxed">本館から少し歩いた高台に佇む露天風呂「極楽湯」。昼は雄大な熊四郎山のパノラマ、夜は満天の星空を眺めながら、源泉100％の白濁湯に浸かる時間はまさに極楽そのものです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 健康に配慮したヘルシーなビュッフェと毎夜のフロアショー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">健康に配慮したヘルシーなビュッフェと毎夜のフロアショー</h5>
                     <p className="text-stone-600 leading-relaxed">地元産の新鮮野菜や玄米、身体に優しい和食を中心としたバイキング。ロビーでは毎晩コンサートや健康セミナーなどの催しが開かれ、滞在を楽しく彩ります。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            万座温泉周辺のハイキング・星空観賞＆嬬恋村ドライブ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">万座温泉周辺のハイキング・星空観賞＆嬬恋村ドライブ</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 万座空吹（からぶき）と熊四郎洞窟の遊歩道散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 万座空吹（からぶき）と熊四郎洞窟の遊歩道散策</h3>
               <p className="text-stone-700 text-sm leading-relaxed">万座温泉の名物スポット「空吹」。昔の噴火口から今も硫黄の噴気がモクモクと立ち上る迫力の光景を間近で見学できます。また、縄文時代の土器が出土した「熊四郎洞窟」への遊歩道ハイクも人気です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 志賀草津高原ルートの絶景ドライブ（雪の回廊・新緑・紅葉）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 志賀草津高原ルートの絶景ドライブ（雪の回廊・新緑・紅葉）</h3>
               <p className="text-stone-700 text-sm leading-relaxed">日本一標高の高い国道（渋峠・標高2,172m）を通る「志賀草津高原ルート」。春の開通直後の巨大な「雪の回廊」、夏の新緑と高山植物、秋の全山紅葉と、息をのむ絶景ドライブコースです。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 愛妻の丘と嬬恋高原キャベツ畑のパノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 愛妻の丘と嬬恋高原キャベツ畑のパノラマ</h3>
               <p className="text-stone-700 text-sm leading-relaxed">広大なキャベツ畑がどこまでも広がる嬬恋高原。「愛妻家の聖地」として知られる「愛妻の丘」からは、浅間山と広大な緑の絨毯を見渡すロマンチックなパノラマが広がります。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              群馬県嬬恋村ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">群馬県嬬恋村ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】万座温泉 万座プリンスホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】万座温泉 万座プリンスホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と万座温泉 万座プリンスホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と万座温泉 万座プリンスホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

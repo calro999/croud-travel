@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            白壁の土蔵に映る柳の影、日本三名園「後楽園」の借景——瀬戸内の温暖な風と歴史情緒に包まれる「岡山・倉敷大人のリトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">白壁の土蔵に映る柳の影、日本三名園「後楽園」の借景——瀬戸内の温暖な風と歴史情緒に包まれる「岡山・倉敷大人のリトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山陽新幹線が全列車停車し、瀬戸大橋線（四国方面）や伯備線（山陰方面）が結節する西日本屈指の交通の要衝・岡山。そしてJRでわずか約15分の距離に広がるのが、江戸時代の天領の面影を色濃く残す「倉敷美観地区」です。大原美術館の近代絵画、倉敷川の舟流し、レトロモダンな町家カフェなど、ひとり旅の目的地としてこれ以上ない知的好奇心を刺激する要素が揃っています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR岡山駅直結！新幹線改札から雨に濡れずにチェックインできる西日本屈指のメガターミナルランドマーク
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルグランヴィア岡山 —— 圧倒的な利便性と格式。高層階からのパノラマビューと多彩な直営レストラン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルグランヴィア岡山 —— 圧倒的な利便性と格式。高層階からのパノラマビューと多彩な直営レストラン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   倉敷美観地区・大原美術館のすぐ隣！世界的版画家・棟方志功の大作板壁画が迎える歴史と気品の名門ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  倉敷国際ホテル —— 白壁の街に溶け込む建築美。倉敷美観地区の散策に最高のロケーションと本格フレンチ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">倉敷国際ホテル —— 白壁の街に溶け込む建築美。倉敷美観地区の散策に最高のロケーションと本格フレンチ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR岡山駅後楽園口（東口）徒歩2分！宿泊者専用の庭園大浴場と充実の地元食材モーニング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル岡山 —— 駅前の上質オアシス。旅の疲れを湯で洗い流す大浴場とスタイリッシュ客室
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル岡山 —— 駅前の上質オアシス。旅の疲れを湯で洗い流す大浴場とスタイリッシュ客室</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              岡山・後楽園と倉敷美観地区を巡る大人のひとり旅モデルプラン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">岡山・後楽園と倉敷美観地区を巡る大人のひとり旅モデルプラン</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 午前中は日本三名園「岡山後楽園」と漆黒の「岡山城（烏城）」へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 午前中は日本三名園「岡山後楽園」と漆黒の「岡山城（烏城）」へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 広大な芝生と池、茶畑が広がる回遊式庭園。旭川を挟んでそびえる黒い天守閣（烏城）とのコントラストが見事です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 午後はJRで倉敷へ移動し、倉敷川の舟流し＆倉敷アイビースクエア散策
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 午後はJRで倉敷へ移動し、倉敷川の舟流し＆倉敷アイビースクエア散策</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 船頭さんの案内で水上から見上げる白壁の土蔵。赤レンガに蔦が絡まるアイビースクエアのカフェで一息つく優雅な時間。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は岡山駅周辺の居酒屋で「鰆の塩たたき」と岡山の地酒「御前酒」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は岡山駅周辺の居酒屋で「鰆の塩たたき」と岡山の地酒「御前酒」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 岡山で鰆は生やタタキで食べるのが常識。とろけるような脂の甘みを辛口の地酒がキリリと引き締めます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>岡山駅から倉敷駅まではどれくらい時間がかかりますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>岡山駅から倉敷駅まではどれくらい時間がかかりますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 JR山陽本線または伯備線の普通列車で約15〜17分（運賃330円程度）で直結しており、本数も日中1時間に4〜5本あるため、非常に気軽に移動できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で果物パフェ（フルーツパフェ）を食べられるお店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で果物パフェ（フルーツパフェ）を食べられるお店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 岡山は「フルーツ王国」と呼ばれ、岡山駅構内や倉敷美観地区の町家カフェ（くらしき桃子など）にはカウンター席が多く、おひとりさまでも気兼ねなく季節の贅沢パフェを堪能できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルグランヴィア岡山を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルグランヴィア岡山を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

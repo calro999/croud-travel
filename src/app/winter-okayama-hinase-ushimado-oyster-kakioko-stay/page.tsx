@@ -301,9 +301,7 @@ export default function OkayamaHinaseOysterWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の播磨灘がもたらす奇跡の「一年牡蠣」と、穏やかな日本のエーゲ海・牛窓の美学
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の播磨灘がもたらす奇跡の「一年牡蠣」と、穏やかな日本のエーゲ海・牛窓の美学</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function OkayamaHinaseOysterWinterPage() {
               <Sparkles className="w-4 h-4 text-sky-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              日生牡蠣と牛窓の冬絶景を味わい尽くす名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">日生牡蠣と牛窓の冬絶景を味わい尽くす名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function OkayamaHinaseOysterWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function OkayamaHinaseOysterWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の岡山・日生＆牛窓 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の岡山・日生＆牛窓 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：岡山空港・岡山駅出発・備前焼の里伊部散策と日生カキオコランチ＆五味の市
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：岡山空港・岡山駅出発・備前焼の里伊部散策と日生カキオコランチ＆五味の市</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 岡山駅または岡山桃太郎空港からレンタカーで出発。まずは日本六古窯の一つ「備前焼の里・伊部（いんべ）」へ。赤レンガの煙突が連なる風情ある町並みを散策し、作家の器を品定め。昼は日生町へ移動し、名店「もりした」や「あらた」で熱々のカキオコを堪能。午後は日生港の「五味の市」で活気あふれる魚市場を見学し、日生大橋を渡って鹿久居島・頭島へ絶景ドライブ。夕方に牛窓の宿へチェックインし、瀬戸内海の夕陽と日生牡蠣会席を味わいます。
               </p>
@@ -475,9 +465,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：日本のエーゲ海・牛窓オリーブ園の絶景散策と海の駅しおじ焼き牡蠣BBQ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：日本のエーゲ海・牛窓オリーブ園の絶景散策と海の駅しおじ焼き牡蠣BBQ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝は牛窓の海辺をのんびり散策。高台にそびえる「牛窓オリーブ園」へ登り、幸福の鐘を鳴らして小豆島を望む360度の大パノラマを満喫。オリーブショップで冬限定の搾りたてエキストラバージンオリーブオイルを購入。昼食は日生へ戻り「海の駅しおじ」のバーベキューコーナーで、朝獲れの殻付き日生牡蠣を炭火で豪快に焼き上げて頬張ります。午後は岡山ブルーラインをドライブして渋川海岸や鷲羽山展望台へ向かい、瀬戸大橋の雄大な夕景を眺めて温泉リゾートに投宿。
               </p>
@@ -486,9 +474,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-sky-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-sky-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：倉敷美観地区の白壁雪景色散策・名物きびだんごとお土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：倉敷美観地区の白壁雪景色散策・名物きびだんごとお土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は白壁と瓦屋根の蔵屋敷が立ち並ぶ「倉敷美観地区」へ。冬の朝の澄んだ空気の中、倉敷川沿いの柳並木や大原美術館の建築美を鑑賞。アイビースクエアの赤レンガ館内を散策し、ランチは岡山名物のデミカツ丼や千屋牛の牛鍋を堪能。銘菓きびだんごや倉敷帆布、マスカットスイーツをお土産に買い揃え、岡山駅または岡山空港から帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function OkayamaHinaseOysterWinterPage() {
             <ThermometerSun className="w-4 h-4 text-sky-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の岡山・日生＆牛窓を快適に巡るための気候・服装・ドライブ注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の岡山・日生＆牛窓を快適に巡るための気候・服装・ドライブ注意点</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【服装：温暖な気候と海沿いの浜風対策】</span>
@@ -528,26 +512,20 @@ export default function OkayamaHinaseOysterWinterPage() {
               <ShoppingBag className="w-4 h-4 text-sky-800" />
               日生＆牛窓・備前の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              瀬戸内の海の恵みと伝統産業が織りなす銘品たち
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">瀬戸内の海の恵みと伝統産業が織りなす銘品たち</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                日生殻付き牡蠣（発泡スチロール箱）＆牡蠣の燻製オイル漬け
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                日生殻付き牡蠣（発泡スチロール箱）＆牡蠣の燻製オイル漬け</h3>
               <p>
                 五味の市や海の駅しおじで購入できる朝獲れ殻付き牡蠣は、クール便で全国発送が可能。自宅で蒸し焼きや鍋にして本場の味を再現できます。また、日生牡蠣を桜チップで燻製しエキストラバージンオリーブオイルに漬け込んだ瓶詰めは、白ワインや日本酒のアテに最高の贅沢品です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-700" />
-                牛窓オリーブ園の初摘みオイル・備前焼のビアマグ＆酒器
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-700" />
+                牛窓オリーブ園の初摘みオイル・備前焼のビアマグ＆酒器</h3>
               <p>
                 牛窓オリーブ園で秋から冬にかけて収穫・搾油される国産エキストラバージンオリーブオイルは、青々しいフレッシュな香りとピリッとしたポリフェノールの辛みが特徴。さらに備前焼のビアマグやぐい呑みは、微細な気孔がきめ細かな泡を生み出し、岡山の冬の地酒（御前酒、大典白菊など）をよりまろやかに引き立てます。
               </p>
@@ -562,27 +540,21 @@ export default function OkayamaHinaseOysterWinterPage() {
               <Compass className="w-4 h-4 text-sky-800" />
               日生食文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ日生で「カキオコ」が誕生し、全国の食通を魅了し続けるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ日生で「カキオコ」が誕生し、全国の食通を魅了し続けるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-700" />
-                漁師町の女将たちの愛情から生まれた究極の鉄板料理
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-sky-700" />
+                漁師町の女将たちの愛情から生まれた究極の鉄板料理</h3>
               <p>
                 カキオコの歴史は昭和40年代、日生町の漁師町に遡ります。市場に出荷できない傷物の牡蠣や小粒の牡蠣を、お好み焼き店の女将たちが「もったいないから」と生地にたっぷりと入れて振る舞ったのが始まりです。漁師たちの冷えた体を温めるため、キャベツは山盛りに、牡蠣は惜しみなく投入。鉄板の強火で一気に焼き上げることで、牡蠣の表面が香ばしくキャラメリゼされ、内側の濃厚なミルキーエキスがぎゅっと閉じ込められます。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-sky-700" />
-                ソースと醤油の「ハーフ＆ハーフ」で味わう日生の流儀
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-sky-700" />
+                ソースと醤油の「ハーフ＆ハーフ」で味わう日生の流儀</h3>
               <p>
                 本場日生のカキオコ店では、一枚のお好み焼きを半分に切り、半分に特製の濃厚甘口ソース、もう半分に特製醤油や岩塩をかけて提供するスタイルが定着しています。ソースの香ばしさと牡蠣の濃厚さ、醤油が引き出す牡蠣本来の上品な磯の香りとキャベツの甘み。二つの異なる表情を交互に楽しめる工夫こそ、牡蠣の味を知り尽くした日生ならではの食文化の深さです。
               </p>
@@ -597,18 +569,14 @@ export default function OkayamaHinaseOysterWinterPage() {
               <HelpCircle className="w-4 h-4 text-sky-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の日生・牛窓旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の日生・牛窓旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

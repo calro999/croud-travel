@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            深く息を吸い込めば満たされる清冽なフィトンチッド。五感で銘木の生命力を味わう森林リトリート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">深く息を吸い込めば満たされる清冽なフィトンチッド。五感で銘木の生命力を味わう森林リトリート</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本古来の建築や暮らしを支え、その圧倒的な美しさと耐久性、清らかな香りで「日本三大美林」と称えられてきた三つの銘木産地――ヒノキチオールを豊富に含み防腐・殺菌効果と芳醇な香りを放つ青森下北の「青森ヒバ」、まっすぐに伸びる美しい木目と香りが曲げわっぱなどの工芸品に受け継がれる秋田の「秋田スギ」、そして伊勢神宮の式年遷宮に用いられる御神木を何百年も大切に育て守り継いできた長野の「木曽ヒノキ」。木漏れ日が降り注ぐ天然林を歩く森林セラピー体験と、湯船から壁一面に銘木が惜しみなく使われた温泉風呂に浸かる時間は至福の極み。銘木アロマに包まれながら地元の山菜やブランド牛を味わう癒やしの休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  青森県むつ市ふるさと納税：日本屈指の耐朽性と癒やしの香り「青森ヒバの美林」とむつグランドホテル斗南温泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">青森県むつ市ふるさと納税：日本屈指の耐朽性と癒やしの香り「青森ヒバの美林」とむつグランドホテル斗南温泉</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   下北半島の雄大な自然に育まれた青森ヒバ。釜臥山を望む丘の上に佇む「むつグランドホテル」で、美肌の「斗南温泉 美人の湯」と、陸奥湾ホタテや大間マグロ、津軽の旬彩を味わう極上の北国ステイです。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      むつグランドホテル　斗南温泉
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">むつグランドホテル　斗南温泉</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>青森県むつ市田名部下道4</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  秋田県大館市ふるさと納税：樹齢二百年の巨木が息づく「秋田スギ」伝統工芸曲げわっぱと大館ぽかぽか温泉ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">秋田県大館市ふるさと納税：樹齢二百年の巨木が息づく「秋田スギ」伝統工芸曲げわっぱと大館ぽかぽか温泉ホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   天然秋田スギの美林が広がる大館・能代。本場の大館曲げわっぱ制作体験を楽しんだ後は、効能豊かな自家源泉掛け流しの「大館ぽかぽか温泉ホテル」で、比内地鶏のきりたんぽ鍋に舌鼓を打ちます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      大館ぽかぽか温泉ホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">大館ぽかぽか温泉ホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>秋田県大館市清水4-4-34</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  長野県木曽町ふるさと納税：伊勢神宮の御神木を育む「木曽ヒノキ」中山道妻籠宿とおん宿蔦屋ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">長野県木曽町ふるさと納税：伊勢神宮の御神木を育む「木曽ヒノキ」中山道妻籠宿とおん宿蔦屋ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   木曽五木の筆頭として保護されてきた木曽ヒノキ。木曽路の歴史ある宿場町を散策した後は、創業三百有余年の老舗「きそふくしま温泉 おん宿 蔦屋」で、木曽ヒノキの香り漂う薬用風呂と信州牛・手打ち蕎麦を満喫します。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      きそふくしま温泉　街道浪漫　おん宿　蔦屋
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">きそふくしま温泉　街道浪漫　おん宿　蔦屋</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>長野県木曽郡木曽町福島本町5162</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大原生林＆世界自然遺産宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大原生林＆世界自然遺産宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   知床・屋久島・白神山地。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   越前和紙・美濃和紙・小川和紙。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大銘茶の産地＆茶香炉ヒーリング宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   静岡茶・宇治茶・朝宮茶。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】むつグランドホテル 斗南温泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】むつグランドホテル 斗南温泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とむつグランドホテル 斗南温泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とむつグランドホテル 斗南温泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「日本三大美林＆天然木アロマ温泉宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

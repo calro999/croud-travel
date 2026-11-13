@@ -266,10 +266,8 @@ export default function HuistenboschChristmasPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>日本一1,300万球の輝き 冬の特別リゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月長崎ハウステンボス】<br className="hidden sm:inline" />
-            日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月長崎ハウステンボス】<br className="hidden sm:inline" />
+            日本一1300万球「光の街のクリスマス」とヨーロッパ風リゾート宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             中世ヨーロッパのレンガ造りの街並みが、1300万球のまばゆい光で満たされる奇跡の季節。運河アイススケートやクリスマス花火に胸躍らせ、直営オフィシャルホテルの気品と温もりに包まれる至福の冬旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function HuistenboschChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">European Fantasy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                本場ヨーロッパ以上の美しさと温もり。冬のハウステンボスが魅せる奇跡
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">本場ヨーロッパ以上の美しさと温もり。冬のハウステンボスが魅せる奇跡</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function HuistenboschChristmasPage() {
           </p>
           <div className="bg-indigo-50/60 rounded-2xl p-5 border border-indigo-200/60 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Heart className="w-5 h-5 text-indigo-600" />
-                宿泊者だけの特権：開園前の静寂なヨーロッパ街並み散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Heart className="w-5 h-5 text-indigo-600" />
+                宿泊者だけの特権：開園前の静寂なヨーロッパ街並み散策</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 場内ホテルに泊まれば、一般来園者がいない澄み切った朝の静寂の街をのんびり散策できます。
               </p>
@@ -332,9 +326,7 @@ export default function HuistenboschChristmasPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Winter Magic</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬のハウステンボスで絶対に体験したい3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬のハウステンボスで絶対に体験したい3大ハイライト</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function HuistenboschChristmasPage() {
         <section id="hotel-list" className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Selected Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">
-              光の街のクリスマスを堪能するヨーロッパ風リゾート＆名湯宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">光の街のクリスマスを堪能するヨーロッパ風リゾート＆名湯宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
               楽天トラベル公式APIから取得した最新の料金・クチコミ評価とともに、冬のハウステンボス観光に最適な5軒を詳細解説。
             </p>
@@ -412,9 +402,7 @@ export default function HuistenboschChristmasPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 mt-2 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-stone-400 shrink-0" />
@@ -423,10 +411,8 @@ export default function HuistenboschChristmasPage() {
 
                       {/* Detailed Story & Deep Dive Review */}
                       <div className="mt-4 pt-4 border-t border-stone-100 space-y-3">
-                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Info className="w-4 h-4 text-indigo-600" />
-                          ホテルの魅力と滞在・グルメ体験レビュー
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5"><Info className="w-4 h-4 text-indigo-600" />
+                          ホテルの魅力と滞在・グルメ体験レビュー</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {hotel.story}
                         </p>
@@ -479,9 +465,7 @@ export default function HuistenboschChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Comparison</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                ハウステンボス厳選5ホテルのロケーション＆滞在特典比較
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">ハウステンボス厳選5ホテルのロケーション＆滞在特典比較</h2>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -538,44 +522,34 @@ export default function HuistenboschChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Resort Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬のハウステンボスを120%楽しむためのエキスパート情報
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬のハウステンボスを120%楽しむためのエキスパート情報</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-600" />
-                光の滝とアンブレラストリートは日没直後がベスト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-600" />
+                光の滝とアンブレラストリートは日没直後がベスト</h3>
               <p>
                 完全な夜景も綺麗ですが、空が深い青色に染まる「マジックアワー（17:15〜17:45頃）」に撮影すると、ヨーロッパの石造りの街並みとイルミネーションのコントラストが最もドラマチックに写ります。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Coffee className="w-4 h-4 text-indigo-600" />
-                場内専用パスポートの選び方
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Coffee className="w-4 h-4 text-indigo-600" />
+                場内専用パスポートの選び方</h3>
               <p>
                 直営オフィシャルホテルに宿泊する場合、1.5デイパスポートや翌日再入場パスポートなど、宿泊者限定のお得なチケットプランが利用できます。チェックイン時にホテルフロントで確認するのが一番確実です。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Award className="w-4 h-4 text-indigo-600" />
-                冬限定の長崎カステラ＆輸入チョコレート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Award className="w-4 h-4 text-indigo-600" />
+                冬限定の長崎カステラ＆輸入チョコレート</h3>
               <p>
                 場内のカステラの城には日本屈指の品揃えを誇る長崎カステラが集結。冬限定のチョコレートカステラや、オランダ直輸入のチーズ・ワインは、旅の思い出やお土産として大変喜ばれます。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-indigo-600" />
-                巨大ツリー前での記念撮影サービス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-indigo-600" />
+                巨大ツリー前での記念撮影サービス</h3>
               <p>
                 高さ12mのメインクリスマスツリー前ではプロカメラマンによるフォトサービスも実施。自身のスマートフォンでもシャッターを押してもらえるため、カップルや家族全員での集合写真に最適です。
               </p>
@@ -587,9 +561,7 @@ export default function HuistenboschChristmasPage() {
         <section className="bg-gradient-to-br from-indigo-50/70 via-white to-stone-50 rounded-3xl p-6 sm:p-10 border border-indigo-200/80 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">Model Course</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              【1泊2日】光の街のクリスマスとヨーロッパ風情を満喫する王道プラン
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">【1泊2日】光の街のクリスマスとヨーロッパ風情を満喫する王道プラン</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               11月・12月の冬期限定イベントを最も美しく、無理のない動線で巡るタイムスケジュール。
             </p>
@@ -668,9 +640,7 @@ export default function HuistenboschChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-600 uppercase tracking-widest">FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬のハウステンボス旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬のハウステンボス旅行 よくある質問</h2>
             </div>
           </div>
 
@@ -725,9 +695,7 @@ export default function HuistenboschChristmasPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Internal Links</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                長崎・九州のイルミネーション＆温泉特集を探す
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">長崎・九州のイルミネーション＆温泉特集を探す</h2>
             </div>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">

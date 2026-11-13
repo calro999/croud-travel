@@ -175,9 +175,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-10 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Travel Narrative</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の南薩摩・知覧・枕崎・開聞岳を旅する魅力と情話
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の南薩摩・知覧・枕崎・開聞岳を旅する魅力と情話</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
@@ -190,9 +188,7 @@ export default function FeaturePage() {
           <section className="space-y-6">
             <div className="border-b border-stone-200 pb-3">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬（11・12・1月）に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬（11・12・1月）に訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 gap-4">
 
@@ -201,9 +197,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  端正な石垣と借景枯山水が織りなす静寂の美！国の名勝「知覧武家屋敷庭園」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">端正な石垣と借景枯山水が織りなす静寂の美！国の名勝「知覧武家屋敷庭園」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 江戸時代の薩摩武士が美を競い合った知覧麓の武家屋敷群。母ヶ岳を巧みに借景とした枯山水庭園や、琉球貿易の影響を感じさせる石垣の意匠を冬の澄んだ木漏れ日の中でじっくりと散策できます。
@@ -215,9 +209,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  鰹節の香る港町・枕崎の極上グルメ！「一本釣り鰹の藁焼き」と最高級本枯節出汁
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">鰹節の香る港町・枕崎の極上グルメ！「一本釣り鰹の藁焼き」と最高級本枯節出汁</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 全国の日本料理店を支える枕崎の本枯節。冬に旨味が凝縮する一本釣りの新鮮な鰹を炎で一気に炙る藁焼きタタキや、削りたての本枯節を贅沢に味わう鰹出汁料理はまさに至高の美味です。
@@ -229,9 +221,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  薩摩富士「開聞岳」の雄大な冬パノラマと指宿名物「砂むし温泉」の極上ぬくもり
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">薩摩富士「開聞岳」の雄大な冬パノラマと指宿名物「砂むし温泉」の極上ぬくもり</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 どこまでも続く東シナ海と開聞岳の稜線美。冬でも温暖な南薩摩海岸を巡るドライブと、地下から湧き出る地熱を利用した指宿の砂むし温泉や塩化物泉が旅の疲れを心地よく解きほぐします。
@@ -244,9 +234,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
               <Compass className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アクセス・ベストシーズン・おすすめの服装
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アクセス・ベストシーズン・おすすめの服装</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 rounded-xl p-5 border border-stone-100">
               【エリアへのアクセス】
@@ -266,9 +254,7 @@ export default function FeaturePage() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                南薩摩・知覧・枕崎・開聞岳 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">南薩摩・知覧・枕崎・開聞岳 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -287,16 +273,14 @@ export default function FeaturePage() {
                       枕崎港と東シナ海を眼下に見晴らす絶景ホテル！名物鰹会席と展望大浴場
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50792%2F50792.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       空と海を臨む宿　Ocean　Hotel　Iwato（旧：枕崎観光ホテル　岩戸）
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.04</span>
                     <span className="text-xs text-stone-700 font-medium">(249件)</span>
@@ -362,16 +346,14 @@ export default function FeaturePage() {
                       日本伝統の雅を極めた指宿屈指の温泉旅館！圧巻の元禄風呂と砂むし温泉
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F12529%2F12529.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       鹿児島　砂むし温泉　指宿白水館
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.48</span>
                     <span className="text-xs text-stone-700 font-medium">(2473件)</span>
@@ -437,16 +419,14 @@ export default function FeaturePage() {
                       全室温泉露天風呂付きの大人のおこもり宿！錦江湾の波打ち際で過ごす極上の休日
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F49347%2F49347.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       指宿温泉　夫婦露天風呂の宿　吟松（ぎんしょう）
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.61</span>
                     <span className="text-xs text-stone-700 font-medium">(1578件)</span>
@@ -512,16 +492,14 @@ export default function FeaturePage() {
                       錦江湾と大隅半島を望むオーシャンリゾート！名物砂むし温泉とビュッフェ
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8580%2F8580.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       指宿温泉　休暇村　指宿
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.29</span>
                     <span className="text-xs text-stone-700 font-medium">(1207件)</span>
@@ -587,16 +565,14 @@ export default function FeaturePage() {
                       日本三大砂丘・吹上浜に佇む静かな公共の宿！広大な松林と天然温泉の寛ぎ
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F198633%2F198633.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       吹上砂丘荘
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.16</span>
                     <span className="text-xs text-stone-700 font-medium">(19件)</span>
@@ -657,9 +633,7 @@ export default function FeaturePage() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -682,37 +656,29 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の南薩摩・知覧・枕崎・開聞岳旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の南薩摩・知覧・枕崎・開聞岳旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>知覧武家屋敷庭園を巡る所要時間と拝観のコツは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>知覧武家屋敷庭園を巡る所要時間と拝観のコツは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>7つの公開庭園と武家屋敷通り全体をゆっくり鑑賞する場合、所要時間は約1時間30分〜2時間です。各庭園ごとに築山や枯滝、石組みの趣が異なるため、入口で配布される共通拝観券の解説マップを手に巡るのがおすすめです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>冬の枕崎で味わうべきおすすめの鰹料理は何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>冬の枕崎で味わうべきおすすめの鰹料理は何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>冬の枕崎では、脂がほどよく乗った戻り鰹の一本釣りをその場で藁焼きにした香ばしいタタキはもちろん、最高級本枯節を削りたてで山盛りに乗せた「枕崎鰹船人めし」や、鰹のビンタ（頭）煮、鰹節出汁のしゃぶしゃぶが絶品です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>指宿の砂むし温泉は冬でも体験できますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>指宿の砂むし温泉は冬でも体験できますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>砂むし温泉は一年中体験可能です。むしろ外気温が低い冬こそ、約50〜55℃の温かい天然砂に全身を包まれる快感とデトックス効果、湯上がりの心地よさが際立ち、最もおすすめのシーズンです。
               </p>

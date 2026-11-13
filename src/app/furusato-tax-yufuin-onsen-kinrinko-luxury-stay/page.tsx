@@ -82,15 +82,12 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          由布岳の優美な山容と立ちのぼる幻想的な朝霧。自然とアート、極上湯に抱かれる由布院の贅沢な休日へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">由布岳の優美な山容と立ちのぼる幻想的な朝霧。自然とアート、極上湯に抱かれる由布院の贅沢な休日へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           豊後富士と称される秀峰「由布岳」の麓に広がる、日本屈指の憧れ温泉リゾート「由布院温泉（湯布院）」。澄んだ湧水と温泉水が混ざり合い、秋冬の早朝には幻想的な湯煙の朝霧が湖面を覆う「金鱗湖」をはじめ、お洒落なスイーツショップやギャラリーが軒を連ねる「湯の坪街道」など、散策するだけで心浮き立つ魅力に溢れています。豊かな湧出量を誇るアルカリ性単純温泉は、さらりとして刺激が少なく、肌をしっとりと包み込む極上の湯触り。静寂の森に点在するプライベート離れ客室、客室専用露天風呂から見上げる由布岳の稜線、そして大分が誇るブランド黒毛和牛「豊後牛（おおいた和牛）」や関アジ・関サバを取り入れた季節の創作会席料理は、旅人を至福の非日常へと誘います。本特集では、高台から由布岳と朝霧の雲海パノラマを一望する全室露天風呂付き離れ宿「ゆふいん花由」、金鱗湖や湯の坪街道へ徒歩圏内で最上階展望風呂が評判の「ゆふいんホテル秀峰館」、そして一万坪の広大な自然庭園の中に佇み名水と巨石露天風呂を誇る「由布院 梅園 GARDEN RESORT」の3大名宿を厳選。大分県由布市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの由布院温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">由布院温泉＆金鱗湖名門宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】由布院温泉　朝霧のみえる宿　ゆふいん花由</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 由布院温泉＆金鱗湖名門宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">由布院温泉＆金鱗湖名門宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            由布院温泉　朝霧のみえる宿　ゆふいん花由
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">由布院温泉　朝霧のみえる宿　ゆふいん花由</h2>
           <p className="text-xs md:text-sm text-amber-100">大分県由布市・高台から由布岳と朝霧を見渡す絶景宿！全室温泉露天風呂付き離れ客室＆口コミ総合4.7超の最高峰</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            由布院温泉　ゆふいんホテル秀峰館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">由布院温泉　ゆふいんホテル秀峰館</h2>
           <p className="text-xs md:text-sm text-amber-100">大分県由布市・金鱗湖＆湯の坪街道へ徒歩圏内！最上階展望大浴場から由布岳を正面に仰ぐ好立地リゾート温泉宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">由布院　梅園　ＧＡＲＤＥＮ　ＲＥＳＯＲＴ</h2>
           <p className="text-xs md:text-sm text-amber-100">大分県由布市・一万坪の大自然庭園に包まれるリゾート！由布岳を望む巨石大露天風呂と名水仕込みの極上会席</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoYufuinOnsenKinrinkoStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

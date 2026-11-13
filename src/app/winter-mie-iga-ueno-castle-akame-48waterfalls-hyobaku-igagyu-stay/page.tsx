@@ -316,9 +316,7 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-6">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Castle Town & Shrine Heritage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                高さ約30mの白銀高石垣「伊賀上野城」と、学問の神を仰ぐ「上野天神宮」新春初詣
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">高さ約30mの白銀高石垣「伊賀上野城」と、学問の神を仰ぐ「上野天神宮」新春初詣</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +335,7 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-cyan-600 pl-4 mb-6">
               <span className="text-xs font-bold text-cyan-600 tracking-wider uppercase">Frozen Waterfall Adventure</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                修験道の聖地に現れる自然のクリスタル！「赤目四十八滝」神秘の氷瀑トレッキング
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">修験道の聖地に現れる自然のクリスタル！「赤目四十八滝」神秘の氷瀑トレッキング</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -358,9 +354,7 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Gourmet & Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                流通量わずかな幻の最高峰「伊賀牛すき焼き」と、肌を潤す名湯「赤目温泉」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">流通量わずかな幻の最高峰「伊賀牛すき焼き」と、肌を潤す名湯「赤目温泉」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -379,9 +373,7 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-8">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】赤目温泉・伊賀上野周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】赤目温泉・伊賀上野周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -407,9 +399,7 @@ export default function MieIgaWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-emerald-500 shrink-0" />
@@ -432,9 +422,7 @@ export default function MieIgaWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -466,17 +454,13 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-6">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】伊賀上野城下町初詣と赤目四十八滝氷瀑・伊賀牛堪能ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】伊賀上野城下町初詣と赤目四十八滝氷瀑・伊賀牛堪能ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：伊賀上野城下町散策・上野天神宮新春初詣＆赤目温泉
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：伊賀上野城下町散策・上野天神宮新春初詣＆赤目温泉</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">10:30 伊賀鉄道 上野市駅（忍者市駅）到着・城下町散策</strong><br />
@@ -502,10 +486,8 @@ export default function MieIgaWinterFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：赤目四十八滝冬の氷瀑トレッキング＆名張散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-emerald-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：赤目四十八滝冬の氷瀑トレッキング＆名張散策</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 宿で朝風呂と地元産食材の和朝食</strong><br />
@@ -532,47 +514,37 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Travel Guide & Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【11・12・1月】伊賀・名張の気候・服装・トレッキングの注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【11・12・1月】伊賀・名張の気候・服装・トレッキングの注意点</h2>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Snowflake className="w-4 h-4 text-emerald-500" />
-                  盆地の底冷えと防寒レイヤリング
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Snowflake className="w-4 h-4 text-emerald-500" />
+                  盆地の底冷えと防寒レイヤリング</h3>
                 <p className="text-stone-600 leading-relaxed">
                   伊賀盆地は周囲の山々から冷気が吹き溜まるため、冬の朝晩は氷点下に達する厳しい「底冷え」に見舞われます。風を通さない防風アウター、吸湿発熱インナー、マフラー、手袋を着用し、重ね着で温度調整ができる服装を準備してください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Footprints className="w-4 h-4 text-cyan-500" />
-                  赤目四十八滝の足元対策と安全装備
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Footprints className="w-4 h-4 text-cyan-500" />
+                  赤目四十八滝の足元対策と安全装備</h3>
                 <p className="text-stone-600 leading-relaxed">
                   赤目四十八滝の散策路は自然の岩場や石段が多く、冬期は飛沫が凍りついてツルツルに滑る箇所があります。スニーカーでは転倒の危険があるため、防水性のあるトレッキングシューズや防滑スノーブーツの着用が不可欠です。必要に応じて簡易チェーンスパイクを持参してください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  名阪国道の凍結とスタッドレスタイヤ
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  名阪国道の凍結とスタッドレスタイヤ</h3>
                 <p className="text-stone-600 leading-relaxed">
                   名阪国道は山間部を抜ける高速規格の幹線道路であり、冬期は標高の高い区間（特に山添IC〜上野IC周辺）で濃霧や路面凍結が多発します。急ブレーキ・急ハンドルを避け、12月〜2月に車で訪れる際は必ずスタッドレスタイヤを装着して安全運転を心がけてください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-rose-500" />
-                  新春初詣と伊賀牛名店の事前予約
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-rose-500" />
+                  新春初詣と伊賀牛名店の事前予約</h3>
                 <p className="text-stone-600 leading-relaxed">
                   上野天神宮は元旦から1月3日にかけて初詣客で賑わいますが、境内が広いため比較的落ち着いて参拝できます。注意が必要なのは伊賀牛の老舗割烹や専門店です。正月三が日は休業または満席になることが多いため、食事付き宿泊プランを選ぶか、早めの事前予約を強く推奨します。
                 </p>
@@ -584,18 +556,14 @@ export default function MieIgaWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-emerald-600 pl-4 mb-6">
               <span className="text-xs font-bold text-emerald-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                伊賀上野初詣＆赤目四十八滝冬旅 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">伊賀上野初詣＆赤目四十八滝冬旅 よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-emerald-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-emerald-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -606,9 +574,7 @@ export default function MieIgaWinterFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              白銀の高石垣と神秘の氷瀑、とろける伊賀牛が待つ冬の伊賀名張へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">白銀の高石垣と神秘の氷瀑、とろける伊賀牛が待つ冬の伊賀名張へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               藤堂高虎公の誇る高石垣と上野天神宮の厳かな初詣、赤目四十八滝のクリスタル氷瀑、そして幻の伊賀牛すき焼きと赤目温泉。冬の凛とした空気の中で味わう歴史と自然の恵みが、新年の旅路を贅沢に彩ってくれます。
             </p>

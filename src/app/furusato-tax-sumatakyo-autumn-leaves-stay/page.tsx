@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              死ぬまでに渡りたい世界の徒歩吊橋！エメラルドグリーンの湖に架かる夢の吊橋
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">死ぬまでに渡りたい世界の徒歩吊橋！エメラルドグリーンの湖に架かる夢の吊橋</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             南アルプスの麓、奥大井の大自然に抱かれた秘境「寸又峡」。世界のトリップアドバイザーで「死ぬまでに渡りたい世界の徒歩吊橋10選」に選ばれた「夢の吊橋」は、秋になると周囲の原生林が真っ赤や黄色に染まりあがり、神秘的なミルキーブルー・エメラルドグリーンの湖面との対比が奇跡のような絶景を生み出します。大井川鐵道の蒸気機関車（SL）やアプト式列車に揺られるノスタルジックな鉄道旅も大人気。散策後は、湯上がりの肌がつるつるになる「美女づくりの湯」に浸かり、名物の山菜や川魚、猪鍋をふるさと納税トラベルクーポンでお得に堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                ミルキーブルーの湖面にかかる「夢の吊橋」スリル紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                ミルキーブルーの湖面にかかる「夢の吊橋」スリル紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 長さ90m、高さ8mの吊橋。橋の中央で願い事をすると恋が叶うという伝説があり、足元のすき間からエメラルドグリーンの大間ダム湖を見下ろすスリルと紅葉は圧巻です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                大井川鐵道のSL・アプト式列車と奥大井湖上駅の絶景
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                大井川鐵道のSL・アプト式列車と奥大井湖上駅の絶景</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 煙を上げて走るレトロな蒸気機関車と、日本唯一のアプト式ラック鉄道。エメラルドグリーンの湖に浮かぶ孤島の駅「奥大井湖上駅」の紅葉風景は息をのむ美しさです。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                銘茶「川根茶」＆旬のジビエ猪鍋・駿河湾の海の幸
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                銘茶「川根茶」＆旬のジビエ猪鍋・駿河湾の海の幸</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 香り高い高級茶「川根茶」のおもてなしや、秋から冬にかけて脂が乗る猪鍋（ししなべ）、清流山女魚の塩焼き、静岡県産黒毛和牛「静岡そだち」の会席料理を味わえます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.21 <span className="text-stone-400 text-xs">(982件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    翠紅苑
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">翠紅苑</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県榛原郡川根本町千頭279 ｜ JR金谷駅より大井川鉄道乗換え千頭駅より寸又峡温泉行きバス40分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.66 <span className="text-stone-400 text-xs">(680件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    大井川鐵道　川根温泉ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大井川鐵道　川根温泉ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県島田市川根町笹間渡195-1 ｜ 新東名島田金谷ＩＣよりお車にて約３５分／大井川鉄道　川根温泉笹間渡駅より徒歩にて約１０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 3.73 <span className="text-stone-400 text-xs">(349件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    寸又峡温泉　湯屋飛龍の宿
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">寸又峡温泉　湯屋飛龍の宿</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県榛原郡川根本町千頭350 ｜ 東海道線金谷駅より大井川鉄道で千頭駅下車 寸又峡温泉行きバスにて約60分 / 静岡ICより362号線経由約2時間
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】翠紅苑を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】翠紅苑を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と翠紅苑の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と翠紅苑の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

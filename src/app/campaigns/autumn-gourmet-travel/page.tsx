@@ -51,9 +51,7 @@ export default function AutumnGourmetTravelPage() {
             全国{autumnPostsData.length}特集 網羅
           </span>
         </div>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">
-          全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug">全国の秋の味覚＆紅葉を満喫する絶品温泉宿特集</h1>
         <p className="text-amber-100/95 text-xs md:text-sm max-w-3xl leading-relaxed font-medium">
           ズワイガニ・北海道秋鮭いくら、丹波・信州松茸の土瓶蒸し、採れたてシャインマスカット・完熟フルーツ狩り、伊勢海老・活車海老、極上のブランド黒毛和牛など！
           目的や地方エリアで迷わずスムーズにお好みの個別特集記事へアクセスできます。
@@ -84,9 +82,7 @@ export default function AutumnGourmetTravelPage() {
         <span className="inline-block text-[10px] font-black tracking-wider bg-white/20 px-3 py-0.5 rounded-full uppercase">
           WINTER SPECIAL ❄️
         </span>
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif">
-          冬の旅行計画ならこちら！冬の厳選温泉・美食特集 500選
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif">冬の旅行計画ならこちら！冬の厳選温泉・美食特集 500選</h2>
         <p className="text-sky-100 text-xs md:text-sm max-w-2xl leading-relaxed">
           冬本番を迎える越前ガニ・松葉ガニ、下関とらふぐ、絶景の雪見露天風呂、新春初詣、きらめく冬イルミネーションなど、冬ならではの日本全国の旅宿特集を一挙公開中。
         </p>

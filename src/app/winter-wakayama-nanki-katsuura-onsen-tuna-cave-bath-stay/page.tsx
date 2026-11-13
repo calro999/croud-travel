@@ -222,9 +222,7 @@ export default function NankiKatsuuraWinterPage() {
             <span>11月・12月 冬の南紀勝浦・熊野古道特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月南紀勝浦温泉の太平洋大洞窟露天風呂と初冬の熊野古道】勝浦港直送生マグロ尽くし・極上熊野牛ステーキ会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて、紀伊半島南端の勝浦温泉は太平洋の水平線から昇る神々しい朝日の光と、世界遺産・熊野古道の神聖な静寂に包まれます。打ち寄せる荒波が穿った巨大海蝕洞窟に湧き出る名湯「忘帰洞」や、波打ち際で潮騒を聞く絶景露天風呂の開放感。日本一の生鮮水揚げを誇る勝浦港直送の完全非冷凍「天然生マグロ」のモチモチとした極上の旨味、世界遺産の清流が育んだ最高峰黒毛和牛「熊野牛」のサーロインを堪能する、冬の南紀海辺名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function NankiKatsuuraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Coastal Sacred Sanctuary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の南紀勝浦が特別な理由：温暖な冬と聖地への祈り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の南紀勝浦が特別な理由：温暖な冬と聖地への祈り</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -283,26 +279,20 @@ export default function NankiKatsuuraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Cave Thermal & Tuna Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                勝浦温泉の含硫黄塩化物泉と、完全非冷凍「生マグロ」の真価
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">勝浦温泉の含硫黄塩化物泉と、完全非冷凍「生マグロ」の真価</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-rose-700" />
-              <span>海蝕洞窟に立ち籠める硫黄スチームと塩化物泉の温熱・保湿メカニズム</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+              <span>海蝕洞窟に立ち籠める硫黄スチームと塩化物泉の温熱・保湿メカニズム</span></h3>
             <p>
               勝浦温泉は、勝浦湾を囲む半島や離島に約175本もの源泉が点在する全国屈指の湯量を誇る温泉郷です。泉質は主に「含硫黄-ナトリウム・カルシウム-塩化物温泉（硫化水素型）」。地下深くから湧き出る濃厚な硫黄成分が末梢毛細血管をダイレクトに拡張して血流を活発にし、体内の疲労物質の排出を劇的に促します。
             </p>
             <p>
               さらに、海水由来の豊富な塩化物（塩分）が皮膚を覆って水分の蒸発を防ぎ、保温と保湿のダブル効果を発揮します。「忘帰洞」のような天然の巨大海蝕洞窟風呂では、湯面から立ち上る濃厚な温泉蒸気が洞窟内に充満し、天然のスチームサウナのような環境が形成されます。波の音を全身で浴びながら温泉ミストを深呼吸することで、呼吸器系が潤い、自律神経のバランスが深く整えられる極上のリフレッシュが得られます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-rose-700" />
-              <span>延縄漁法による日本一の「生マグロ」と、世界遺産熊野牛の深いコク</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-rose-700" />
+              <span>延縄漁法による日本一の「生マグロ」と、世界遺産熊野牛の深いコク</span></h3>
             <p>
               勝浦の食文化の頂点に君臨するのが、勝浦漁港に水揚げされる「天然生マグロ」です。日本で流通するマグロの約8割以上がマイナス60℃で急速冷凍された解凍品であるのに対し、勝浦港では近海のはえ縄漁船が釣り上げたマグロを船上で瞬時に活け締め・血抜きし、氷水で徹底した温度管理を行いながら一度も凍らせずに水揚げします。
             </p>
@@ -316,9 +306,7 @@ export default function NankiKatsuuraWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Selected Oceanfront Retreats</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              南紀勝浦温泉の魅力を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">南紀勝浦温泉の魅力を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               大洞窟風呂のメガリゾート、専用船で渡る離島隠れ家、源泉100%掛け流し、水平線パノラマ、港前料理旅館まで徹底比較。
             </p>
@@ -360,19 +348,15 @@ export default function NankiKatsuuraWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-slate-600 text-xs sm:text-sm leading-relaxed">
                         {h.story}
                       </p>
 
                       <div className="space-y-2 pt-2 border-t border-slate-100">
-                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Sparkles className="w-3.5 h-3.5 text-rose-700" />
-                          <span>この宿の宿泊ハイライト</span>
-                        </h4>
+                        <h4 className="text-xs font-bold text-slate-800 uppercase tracking-wider flex items-center gap-1.5"><Sparkles className="w-3.5 h-3.5 text-rose-700" />
+                          <span>この宿の宿泊ハイライト</span></h4>
                         <ul className="grid grid-cols-1 gap-1.5 text-xs text-slate-600">
                           {h.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-2">
@@ -430,17 +414,13 @@ export default function NankiKatsuuraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Kumano Sacred Pilgrimage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月 熊野古道祈りと洞窟温泉を満喫する1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月 熊野古道祈りと洞窟温泉を満喫する1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs">1</span>
-                <span>1日目：熊野古道・大門坂と那智の滝参拝</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs">1</span>
+                <span>1日目：熊野古道・大門坂と那智の滝参拝</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-rose-800 shrink-0">11:30</span>
@@ -466,10 +446,8 @@ export default function NankiKatsuuraWinterPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200/70">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs">2</span>
-                <span>2日目：太平洋の日の出と勝浦漁港の朝市</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs">2</span>
+                <span>2日目：太平洋の日の出と勝浦漁港の朝市</span></h3>
               <ul className="space-y-2.5 pl-2">
                 <li className="flex items-start gap-2">
                   <span className="font-bold text-rose-800 shrink-0">06:30</span>
@@ -504,26 +482,20 @@ export default function NankiKatsuuraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Checklist</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の南紀勝浦旅行で知っておくべき重要アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の南紀勝浦旅行で知っておくべき重要アドバイス</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-700" />
-                <span>温暖な気候と朝晩の寒暖差対策</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-700" />
+                <span>温暖な気候と朝晩の寒暖差対策</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 南紀勝浦は冬でも日中は15℃前後まで上がり過ごしやすいですが、朝晩や海上、露天風呂では浜風で急激に冷え込みます。調節しやすい前開きのカーディガンや軽量ダウン、ストールを準備しましょう。古道を歩く際は汗をかきやすいため、速乾性インナーが快適です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-rose-700" />
-                <span>熊野古道の石畳と足元の注意</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Footprints className="w-4 h-4 text-rose-700" />
+                <span>熊野古道の石畳と足元の注意</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 大門坂や那智山周辺の石畳は、初冬の朝露や雨上がりには非常に滑りやすくなります。革靴やヒールでの歩行は危険ですので、グリップの効いたスニーカーやトレッキングシューズを必ず履いていきましょう。また、夕方は16時半を過ぎると山影で急速に暗くなるため、早めの行動が安心です。
               </p>
@@ -539,18 +511,14 @@ export default function NankiKatsuuraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                南紀勝浦冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">南紀勝浦冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -563,9 +531,7 @@ export default function NankiKatsuuraWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Related Coastal & Cultural Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい関西・東海の冬名湯＆海鮮グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい関西・東海の冬名湯＆海鮮グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の旬の海の幸と歴史ある温泉街を巡る、人気の厳選特集もぜひご覧ください。
             </p>

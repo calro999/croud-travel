@@ -108,9 +108,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  混雑ゼロ＆写真撮影も自由自在！完全プライベートな水上リラクゼーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">混雑ゼロ＆写真撮影も自由自在！完全プライベートな水上リラクゼーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 共用ホテルのプールのような混雑や場所取りのストレスは一切なし。子どもたちが水しぶきをあげて大はしゃぎしても周囲に気兼ねする必要がなく、ファミリー旅行でも安心です。また、SNS映えする浮き輪を使った写真や、水面に映るサンセットのシルエット写真など、周囲の目を気にせず思い出に残る素敵な写真を心ゆくまで撮影できます。
@@ -123,9 +121,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  温水プール＆屋外ジャグジー併設なら春〜秋・冬のナイトプールも快適
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">温水プール＆屋外ジャグジー併設なら春〜秋・冬のナイトプールも快適</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 温水対応のプライベートプールや温水ジャグジーが備わったヴィラなら、真夏のシーズンだけでなく春や秋の涼しい季節、さらには夜の静寂の中で温まりながら星空を見上げるナイトプールまでオールシーズン快適に楽しめます。プールから上がってすぐに温かいシャワーやリビングへ移動できる動線の良さも魅力です。
@@ -138,9 +134,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  プールサイドでの本格BBQやシェフ出張ディナーで優雅なリゾートナイト
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">プールサイドでの本格BBQやシェフ出張ディナーで優雅なリゾートナイト</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 夕食はプールサイドのテラスで潮風を感じながら、地元ブランド牛や新鮮な海の幸を焼き上げるプライベートBBQが定番。専属シェフが出張して目の前で腕を振るってくれるプレミアムプランを用意しているヴィラもあり、記念日やプロポーズ、家族の大切なお祝いにふさわしい華やかなディナータイムを演出してくれます。
@@ -183,9 +177,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     沖縄県本部町・やんばるの豊かな森とエメラルドの海を望む専用プールヴィラ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    プライベートプールヴィラもとぶ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">プライベートプールヴィラもとぶ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     沖縄本島北部・本部町の緑豊かな高台に位置し、美ら海水族館や備瀬のフクギ並木へもアクセス抜群の完全プライベートヴィラ。各棟のテラスには専用の広々としたプライベートプールが設置されており、やんばるの森を抜ける心地よい海風を感じながら開放感あふれるスイミングを楽しめます。室内にはアイランドキッチンや大型冷蔵庫、洗濯乾燥機が完備され、別荘感覚の長期滞在にも最適。暮らすように旅する贅沢な沖縄リゾートライフが叶います。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     千葉県鴨川市・都心から行けるプライベートプール＆本格サウナ付き大型ヴィラ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　鴨川
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">Ｒａｋｕｔｅｎ　ＳＴＡＹ　ＶＩＬＬＡ　鴨川</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     東京湾アクアラインを利用して都心から約90分、千葉県外房の美しい海岸近くに誕生した話題のラグジュアリーヴィラ。全棟に専用の大型プライベートプールと本格フィンランド式サウナ、水風呂、外気浴テラスを完備した贅沢極まりない設計です。人工温泉の内風呂や広々としたリビング、最新家電が揃い、最大定員も多いため家族やグループでの旅行に大人気。テラスでの千葉県産銘柄肉BBQとともに最高峰のバカンスをお楽しみいただけます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     沖縄県宮古島市・宮古ブルーの海とサンゴ礁に抱かれるプライベートプールスイート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    プライベートプールヴィラ　イムギャーリゾート＜宮古島＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">プライベートプールヴィラ　イムギャーリゾート＜宮古島＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     透明度抜群の天然の入り江「イムギャーマリンガーデン」を目前に望む、宮古島屈指のハイクラスプライベートプールヴィラ。全室のテラスに宮古ブルーの海と空に溶け込む専用プライベートプールが備えられ、デッキチェアに寝そべりながら波の音と潮風に包まれる時間は至福そのもの。シュノーケリングで色鮮やかな熱帯魚やウミガメと出逢った後は、お部屋のプールでゆったりとクールダウン。満天の天の川を仰ぐ南国の夜をご堪能ください。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】プライベートプールヴィラもとぶを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】プライベートプールヴィラもとぶを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoPrivatePoolLuxuryStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とプライベートプールヴィラもとぶの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とプライベートプールヴィラもとぶの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -58,10 +58,8 @@ export default function AutumnBudgetHakodateHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代2,000円台！浮いた予算で函館朝市の特盛うにいくら丼＆活イカ釣りへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代2,000円台！浮いた予算で函館朝市の特盛うにいくら丼＆活イカ釣りへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             観光都市・函館は秋の紅葉・グルメシーズンでもホテル競争が活発で、★4.0以上の高評価ホテルが2,000円台〜3,000円台で予約できる超穴場期。浮かせた宿泊費で、朝市の元祖活いか釣堀や大門横丁のハシゴ酒、ラッキーピエロのチャイニーズチキンバーガーを満喫する贅沢な秋旅を楽しみましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              クレドホテル函館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">クレドホテル函館</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span></span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（お洒落デザイン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルオールインステイ函館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルオールインステイ函館</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>函館</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉直結）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル・ラ・ジェント・プラザ函館北斗
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル・ラ・ジェント・プラザ函館北斗</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span></span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（五稜郭至便）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スマイルホテルプレミアム函館五稜郭
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スマイルホテルプレミアム函館五稜郭</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span></span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場＆朝食）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル法華クラブ函館
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル法華クラブ函館</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>函館</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetHakodateHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-950 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の函館・五稜郭観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の函館・五稜郭観光を満喫するヒント</h2>
           <p className="text-sm text-teal-100 leading-relaxed">
             五稜郭公園の紅葉は10月下旬〜11月上旬が見頃。濠沿いの散策路を歩いた後にタワーへ登ると、星形の幾何学模様と紅葉のコントラストが立体的に楽しめます。秋イカはゴロ（肝）醤油でいただく刺身が絶品。夜は函館山ロープウェイで夜景を鑑賞してください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「函館：五稜郭の星形秋紅葉と名物秋真イカ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 函館エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">函館エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

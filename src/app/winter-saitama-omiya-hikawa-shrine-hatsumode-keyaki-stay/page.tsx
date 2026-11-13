@@ -285,9 +285,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-500 pl-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              2400年の神域と15万球の光の森！冬のさいたま・大宮が魅せる圧倒的コントラスト
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">2400年の神域と15万球の光の森！冬のさいたま・大宮が魅せる圧倒的コントラスト</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               武蔵国総鎮守の新春開運祈願、約2kmのケヤキ並木参道、天然温泉と埼玉の滋味
             </p>
@@ -312,9 +310,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         {/* 5 Hotels Detail Section */}
         <section className="space-y-10">
           <div className="text-center space-y-3">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-              大宮・さいたま新都心で冬を満喫する厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">大宮・さいたま新都心で冬を満喫する厳選宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
               楽天トラベル公式APIからリアルタイムに取得した信頼のホテル群。駅直結の高級シティホテルから天然温泉大浴場・サウナ完備の宿まで特選しました。
             </p>
@@ -364,12 +360,10 @@ export default function SaitamaOmiyaHikawaWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-600 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
                         {hotel.special}
                       </p>
@@ -426,9 +420,7 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-500 pl-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大宮・さいたま新都心を巡る1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大宮・さいたま新都心を巡る1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               けやきひろばイルミネーション、武蔵一宮氷川神社新春初詣、武州和牛ディナー、天然温泉を巡る充実プラン
             </p>
@@ -481,47 +473,37 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-teal-500 pl-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大宮・さいたま新都心完全攻略：氷川神社・けやきひろば・埼玉グルメの心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大宮・さいたま新都心完全攻略：氷川神社・けやきひろば・埼玉グルメの心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-teal-500" />
-                武蔵一宮氷川神社の新春初詣と混雑回避時間帯
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Landmark className="w-5 h-5 text-teal-500" />
+                武蔵一宮氷川神社の新春初詣と混雑回避時間帯</h3>
               <p className="leading-relaxed">
                 2400年以上の歴史を誇る大宮氷川神社は、新春三が日に約200万人以上が訪れる全国屈指の初詣スポットです。三が日の11:00〜15:00は楼門前から参道まで参拝客で埋め尽くされるため、快適にお参りするなら早朝6:30〜8:30の清らかな時間帯がベスト。朝霧と木漏れ日が差し込む神域で手を合わせると、新年のエネルギーを存分に授かることができます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <TreePine className="w-5 h-5 text-emerald-500" />
-                全長2kmの「氷川参道」散歩とおしゃれカフェ巡り
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><TreePine className="w-5 h-5 text-emerald-500" />
+                全長2kmの「氷川参道」散歩とおしゃれカフェ巡り</h3>
               <p className="leading-relaxed">
                 一の鳥居（さいたま新都心駅東口近く）から境内（三の鳥居）へと続く氷川参道は、日本一の長さを誇る並木道です。巨木が連なる参道沿いには、自家焙煎のスペシャルティコーヒー店や天然酵母ベーカリー、クラフトビール醸造所などが点在。冬の澄んだ空気の中、テイクアウトした温かいラテを片手に約30〜40分の心地よいウォーキングを楽しめます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Sparkles className="w-5 h-5 text-indigo-500" />
-                さいたま新都心けやきひろば「光の森」撮影テクニック
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-indigo-500" />
+                さいたま新都心けやきひろば「光の森」撮影テクニック</h3>
               <p className="leading-relaxed">
                 約150本のケヤキに15万球のLEDが灯るけやきひろばイルミネーション。広場2階のデッキ中央からは、青と白に輝く木々の奥にさいたまスーパーアリーナの幾何学的な屋根が重なり、近未来的な光景を撮影できます。また、ホテルメトロポリタンさいたま新都心の上層階客室からは、見下ろす角度で広大なイルミネーションを一望できる特等席ビューが広がります。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-500" />
-                冬の埼玉ご当地グルメ「武州和牛」と「武蔵野肉汁うどん」
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-500" />
+                冬の埼玉ご当地グルメ「武州和牛」と「武蔵野肉汁うどん」</h3>
               <p className="leading-relaxed">
                 冬に体を温めるグルメとして外せないのが「武蔵野うどん」。極太で力強いコシを持つ地粉麺を、豚肉と長ネギの甘辛い熱々つけ汁に浸して豪快にすする郷土の逸品です。また、埼玉の厳選黒毛和牛「武州和牛」は、きめ細やかなサシと柔らかな赤身が特徴で、すき焼きや鉄板焼で極上の味わいを提供。熱々の「大宮ナポリタン」もノスタルジックな名物です。
               </p>
@@ -533,27 +515,21 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-500 pl-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Logistics</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬（11月・12月・1月）の埼玉気候・からっ風対策と交通アクセス術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬（11月・12月・1月）の埼玉気候・からっ風対策と交通アクセス術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <ShieldCheck className="w-5 h-5 text-teal-500" />
-                赤城おろしの寒風と参道散策のフットウェア
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-teal-500" />
+                赤城おろしの寒風と参道散策のフットウェア</h3>
               <p className="leading-relaxed">
                 冬の埼玉県南部は太平洋側気候のため晴天率が高いものの、「赤城おろし」と呼ばれる冷たく乾燥した北西の季節風が強く吹きます。風を通さないダウンジャケットや防風ブルゾン、マフラー、手袋が必須です。また、氷川参道や境内は往復で約4kmの歩行距離になるため、底の厚いウォーキング用スニーカーを選び、足元の冷えを防ぎましょう。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-indigo-500" />
-                上野東京ライン・湘南新宿ラインの圧倒的アクセス
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-500" />
+                上野東京ライン・湘南新宿ラインの圧倒的アクセス</h3>
               <p className="leading-relaxed">
                 大宮駅およびさいたま新都心駅は、JR上野東京ライン（東海道線直通）で東京駅から約30分、JR湘南新宿ラインで新宿駅から約30分と都心から至近。大宮駅とさいたま新都心駅はわずか1駅（電車で約2分）なので、さいたま新都心から氷川参道を歩いて大宮氷川神社へ参拝し、大宮駅から電車に乗る片道スルー散策が最も無駄がなく快適です。
               </p>
@@ -565,18 +541,14 @@ export default function SaitamaOmiyaHikawaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-500 pl-4">
             <span className="text-teal-600 font-bold text-xs uppercase tracking-wider block">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大宮・氷川神社・さいたま新都心旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大宮・氷川神社・さいたま新都心旅行 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-teal-100 text-teal-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-teal-100 text-teal-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {item.a}
                 </p>
@@ -587,10 +559,8 @@ export default function SaitamaOmiyaHikawaWinterPage() {
 
         {/* Internal Feature Links Section */}
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-200">
-          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-teal-600" />
-            あわせて読みたい関東の冬特選特集記事
-          </h2>
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-teal-600" />
+            あわせて読みたい関東の冬特選特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             秩父夜祭や川越、東京ベイエリア、足利・筑波山など近隣の魅力的な冬旅特集もぜひご覧ください。
           </p>

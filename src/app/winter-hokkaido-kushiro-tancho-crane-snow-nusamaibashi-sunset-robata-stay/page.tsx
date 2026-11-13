@@ -303,10 +303,8 @@ export default function HokkaidoKushiroWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-sky-600" />
-            11・12・1月の釧路・道東 冬旅ハイライト
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-sky-600" />
+            11・12・1月の釧路・道東 冬旅ハイライト</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="space-y-2 border-l-2 border-sky-500 pl-4">
               <h3 className="font-bold text-slate-900">雪原に舞う丹頂鶴の気品</h3>
@@ -341,9 +339,7 @@ export default function HokkaidoKushiroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">NATURAL MONUMENT & HARBOR HERITAGE</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                湿原の神サルルンカムイと港町の黄昏：雪原のタンチョウと幣舞橋の詩情
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">湿原の神サルルンカムイと港町の黄昏：雪原のタンチョウと幣舞橋の詩情</h2>
             </div>
           </div>
 
@@ -368,9 +364,7 @@ export default function HokkaidoKushiroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">GOURMET & THERMAL SPRINGS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                炭火の煙が香る元祖「釧路炉端焼き」と冬の真だち、最上階の展望天然温泉
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">炭火の煙が香る元祖「釧路炉端焼き」と冬の真だち、最上階の展望天然温泉</h2>
             </div>
           </div>
 
@@ -394,9 +388,7 @@ export default function HokkaidoKushiroWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-sky-600" />
               HOTEL SELECTION BY RAKUTEN API
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              丹頂鶴見学と幣舞橋夕日・炉端焼きを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">丹頂鶴見学と幣舞橋夕日・炉端焼きを満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
               楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。天然温泉大浴場、幣舞橋や駅へのアクセス、極上海鮮朝食に優れた屈指の宿を厳選しました。
             </p>
@@ -433,9 +425,7 @@ export default function HokkaidoKushiroWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
                     <p className="text-xs text-slate-500 mb-3 line-clamp-2">
                       {hotel.special}
                     </p>
@@ -494,19 +484,15 @@ export default function HokkaidoKushiroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                1泊2日 鶴居村タンチョウ撮影＆幣舞橋世界三大夕日・炉端焼き堪能モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">1泊2日 鶴居村タンチョウ撮影＆幣舞橋世界三大夕日・炉端焼き堪能モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-sky-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-sky-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                たんちょう釧路空港到着、鶴居村でタンチョウ観察と幣舞橋の劇的夕日
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-sky-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                たんちょう釧路空港到着、鶴居村でタンチョウ観察と幣舞橋の劇的夕日</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>10:30 たんちょう釧路空港に到着、レンタカーで鶴居村へ</strong><br />
                 羽田からわずか95分で到着。空港でレンタカーを借り、雪道の景観を楽しみながら鶴居村へ向かう（車で約35分）。
@@ -527,10 +513,8 @@ export default function HokkaidoKushiroWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                和商市場の朝食「勝手丼」と釧路湿原細岡展望台、冬の湿原号
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                和商市場の朝食「勝手丼」と釧路湿原細岡展望台、冬の湿原号</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:00 宿のいくら朝食、または「和商市場」で名物「勝手丼」朝食</strong><br />
                 市場の店舗を巡り、新鮮ないくらやウニ、タラの白子、サーモンをご飯にのせて自分だけのオリジナル勝手丼を完成させて堪能。
@@ -559,19 +543,15 @@ export default function HokkaidoKushiroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                北海道・釧路＆鶴居 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">北海道・釧路＆鶴居 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-sky-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-sky-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function HokkaidoKushiroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！北海道・北日本の厳選「冬の雪景色＆海鮮グルメ・温泉特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！北海道・北日本の厳選「冬の雪景色＆海鮮グルメ・温泉特集」</h2>
             </div>
           </div>
 

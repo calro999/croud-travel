@@ -354,9 +354,7 @@ export default function ShimaneYunotsuWinterPage() {
               <History className="w-4 h-4" />
               銀の積出港が育んだ、時を超える木造湯治街のぬくもり
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              初冬の温泉津・有福温泉が旅人を魅了する3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">初冬の温泉津・有福温泉が旅人を魅了する3つの理由</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -380,9 +378,7 @@ export default function ShimaneYunotsuWinterPage() {
             <span className="text-emerald-900 font-bold text-xs sm:text-sm tracking-wider uppercase bg-emerald-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              温泉津＆有福温泉で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">温泉津＆有福温泉で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               温泉街中心の料理宿から百余年の木造老舗旅館、大正ロマンの宿、美肌白湯のブティックホテルまで
             </p>
@@ -416,9 +412,7 @@ export default function ShimaneYunotsuWinterPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-emerald-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-emerald-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-emerald-900 font-medium">
                         {hotel.special}
                       </p>
@@ -481,35 +475,27 @@ export default function ShimaneYunotsuWinterPage() {
             <Utensils className="w-4 h-4 text-emerald-300" />
             初冬の石見美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の温泉津で味わい尽くす白身のトロのどぐろとしまね和牛
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の温泉津で味わい尽くす白身のトロのどぐろとしまね和牛</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                日本海の至宝「極上のどぐろ一本焼き」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-400" />
+                日本海の至宝「極上のどぐろ一本焼き」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 日本海の荒波にもまれ、11月から12月に最も上質な脂を蓄える「のどぐろ（アカムツ）」。皮目をパリッと焼き上げた塩焼きは、箸を入れると透明な脂がジュワッと溢れ出し、白身とは思えない濃厚なコクと甘みが口いっぱいに広がります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-400" />
-                内閣総理大臣賞の栄誉「しまね和牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-400" />
+                内閣総理大臣賞の栄誉「しまね和牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国和牛能力共進会で最高賞に輝いた実績を誇る「しまね和牛」。オレイン酸を豊富に含み、融点が低いため後味がさっぱりとしていて胃もたれしません。すき焼き鍋や陶板ステーキでいただけば、芳醇な肉の香りと深い甘みに心奪われます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-emerald-400" />
-                石見の銘酒「開春」「死神」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-emerald-400" />
+                石見の銘酒「開春」「死神」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 温泉津町にある老舗蔵元「若林酒造」が醸す銘酒「開春」。日本海の新鮮な海の幸やのどぐろの脂をスパッと流してくれる力強い米の旨味とキレ味が特徴。冬の熱燗でいただく地酒は、名湯上がりの贅沢なひとときを完璧に彩ります。
               </p>
@@ -523,17 +509,13 @@ export default function ShimaneYunotsuWinterPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            世界遺産石見銀山と温泉津湯治を満喫する1泊2日モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">世界遺産石見銀山と温泉津湯治を満喫する1泊2日モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-emerald-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-emerald-100 text-emerald-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：石見銀山の大森散策から温泉津へ・外湯薬師湯と極上のどぐろの夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                銀山坑道跡を見学し、重伝建の木造街並み散策とオール5自噴赤湯に浸かる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">銀山坑道跡を見学し、重伝建の木造街並み散策とオール5自噴赤湯に浸かる</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午後、出雲空港または出雲市駅からレンタカーで世界遺産「石見銀山」の大森地区へ。龍源寺間歩や武家屋敷が並ぶ町並みを散策します。車で約20分移動して温泉津温泉へチェックイン。まずは外湯「薬師湯」へ向かい、大正洋館の浴場でオール5の濃厚自噴赤湯に浸かり、身体の深部まで熱を行き渡らせます。夕食にはのどぐろ一本塩焼きやしまね和牛陶板焼き、冬のカニ料理を堪能。
               </p>
@@ -543,9 +525,7 @@ export default function ShimaneYunotsuWinterPage() {
               <div className="inline-block bg-emerald-100 text-emerald-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：温泉津港の朝散歩から有福温泉の美肌白湯めぐり
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                銀の積出港の波音を聴き、山あいの名湯有福温泉で化粧水風呂を体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">銀の積出港の波音を聴き、山あいの名湯有福温泉で化粧水風呂を体験</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、銀の積出港であった温泉津港まで朝の散策。穏やかな入江の風景と初冬の澄んだ空気を味わいます。朝食後は車で約30分の「有福温泉」へ。レトロな洋風共同浴場「御前湯」で化粧水のようなアルカリ性美肌白湯を満喫。赤湯と白湯の泉質の違いを楽しみ、石見焼の窯元に立ち寄って出雲空港または広島方面へ帰路につきます。
               </p>
@@ -559,25 +539,19 @@ export default function ShimaneYunotsuWinterPage() {
             <Sun className="w-4 h-4" />
             11月・12月の気候・服装・快適アクセス案内
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の石見地方（温泉津・有福）旅行のポイントと寒さ対策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の石見地方（温泉津・有福）旅行のポイントと寒さ対策</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-800" />
-                日本海からの北風としぐれ対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-800" />
+                日本海からの北風としぐれ対策</h3>
               <p>
                 温泉津は沿岸部のため11月中の積雪は稀ですが、最高気温は12〜16℃、12月に入ると8〜12℃まで低下します。日本海特有の時雨（急な雨）や冷たい海風が吹き付けるため、折りたたみ傘と防風・防水性のあるダウンジャケット、マフラーなどの防寒装備を用意しましょう。12月中旬以降の車移動は念のためスタッドレスタイヤが安心です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-800" />
-                出雲空港および広島方面からのアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-800" />
+                出雲空港および広島方面からのアクセス</h3>
               <p>
                 出雲縁結び空港から山陰道経由でレンタカー約75分。またはJR山陰本線温泉津駅より路線バス約5分です。広島方面からは浜田道経由で約2時間と、高速道路の整備により中国地方南北の移動もスムーズ。世界遺産石見銀山（大森地区）へも車で約20分と観光の組み合わせに最高の立地です。
               </p>
@@ -591,16 +565,12 @@ export default function ShimaneYunotsuWinterPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の島根・温泉津温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の島根・温泉津温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -612,10 +582,8 @@ export default function ShimaneYunotsuWinterPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-950 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい山陰の冬名湯・松葉ガニ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい山陰の冬名湯・松葉ガニ特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               歴史ある名湯と日本海初冬の冬の味覚を堪能する山陰厳選旅ガイド
             </p>
@@ -627,9 +595,7 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">島根・玉造温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                出雲神在月美肌湯＆山陰松葉がにとしまね和牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">出雲神在月美肌湯＆山陰松葉がにとしまね和牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本最古の美肌温泉と出雲大社初冬参拝、解禁された松葉ガニを味わう旅。
               </p>
@@ -640,9 +606,7 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">鳥取・三朝温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                鳥取タグ付き松葉ガニ＆世界屈指のラジウム三朝温泉名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">鳥取タグ付き松葉ガニ＆世界屈指のラジウム三朝温泉名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 三徳山三仏寺の霊泉と三朝川の露天風呂、極上タグ付き松葉ガニフルコース。
               </p>
@@ -653,9 +617,7 @@ export default function ShimaneYunotsuWinterPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">山口・長門湯本温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                音信川冬灯り＆下関直送本とらふぐとやまぐち和牛名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">音信川冬灯り＆下関直送本とらふぐとやまぐち和牛名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 清流音信川の飛び石と立ち寄り湯、下関直送の本場とらふぐを堪能する冬旅。
               </p>

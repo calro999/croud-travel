@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              世界に誇る木造・石造アーチの建築美と川面に映る逆さ橋の絶景
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">世界に誇る木造・石造アーチの建築美と川面に映る逆さ橋の絶景</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               錦帯橋の五連アーチや長崎眼鏡橋の二連アーチが水面に映り込む美しい景観を、朝夕の静かな時間帯に鑑賞できます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              帝都の摩天楼パノラマから長崎の1000万ドルの夜景まで多彩な眺望ステイ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">帝都の摩天楼パノラマから長崎の1000万ドルの夜景まで多彩な眺望ステイ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日本橋の五つ星ラグジュアリーホテルや長崎港を一望する高台の別邸宿など、極上の展望客室で優雅に寛げます。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              江戸前寿司・岩国寿司・長崎卓袱料理など歴史ある水辺の郷土料理
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">江戸前寿司・岩国寿司・長崎卓袱料理など歴史ある水辺の郷土料理</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               橋を通じて運ばれてきた豊かな食材と食文化。その土地ならではの伝統料理を名匠の技とともに堪能できます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -334,9 +324,7 @@ export default function FurusatoUpgradedPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -388,9 +376,7 @@ export default function FurusatoUpgradedPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大名橋の歴史美と城下町名門宿×ふるさと納税厳選ガイド日本橋・錦帯橋・長崎眼鏡橋エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

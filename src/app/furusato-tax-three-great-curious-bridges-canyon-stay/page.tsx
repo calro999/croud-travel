@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            釘を使わずに組み上げられた奇跡の構造美。激流と断崖を渡る歴史ロマンと清流温泉の旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">釘を使わずに組み上げられた奇跡の構造美。激流と断崖を渡る歴史ロマンと清流温泉の旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             険しい日本の山河を渡るため、現代の工学をも驚かせる知恵と技で造り上げられた「日本三奇橋（日本三大名橋/奇橋）」――清流錦川に優美な波のように連なる五連の木造アーチが圧巻の山口「錦帯橋」、桂川の深い渓谷に橋脚を一切立てず両岸の岩盤から張り出した刎木（はねぎ）で支える山梨の「甲斐の猿橋」、そして平家の落人が追手の進入を防ぐためにシラクチカズラを編んで架けたと伝わる秘境徳島の「祖谷のかずら橋」。一歩踏み出せば、ギシギシと揺れるスリルと眼下に広がる清流パノラマに息をのみます。名橋を渡った後は、渓谷沿いの絶景露天風呂や山川の幸を味わうドラマチックな休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山口県岩国市ふるさと納税：清流錦川に架かる五連木造アーチの奇跡「錦帯橋」とアパホテル山口岩国駅前西
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山口県岩国市ふるさと納税：清流錦川に架かる五連木造アーチの奇跡「錦帯橋」とアパホテル山口岩国駅前西</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   延宝元年に創建された世界的木造名橋・錦帯橋。岩国城ロープウェイからの大パノラマを楽しんだ後は、岩国駅前の快適ホテルを拠点に、名物押し寿司「岩国寿司」やレンコン料理、地酒獺祭を満喫します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン）
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">アパホテル〈山口岩国駅前西〉（２０２６年６月プレオープン）</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山口県岩国市麻里布町2-9-30</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  山梨県大月市・笛吹市ふるさと納税：歌川広重も描いた刎橋の構造美「甲斐の猿橋」と石和温泉ホテル平安
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">山梨県大月市・笛吹市ふるさと納税：歌川広重も描いた刎橋の構造美「甲斐の猿橋」と石和温泉ホテル平安</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   深い桂川渓谷を跨ぐ奇想の橋・猿橋。国の名勝に指定された絶壁の眺めを堪能した後は、山梨屈指の名湯・石和温泉「ホテル平安」で、毎分湧出する自慢の美肌温泉と甲州牛会席料理に癒やされます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      石和温泉　ホテル平安
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">石和温泉　ホテル平安</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>山梨県笛吹市石和町川中島538</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  徳島県三好市祖谷渓ふるさと納税：足元がすくむスリル満点の吊り橋「祖谷のかずら橋」と新祖谷温泉ホテルかずら橋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">徳島県三好市祖谷渓ふるさと納税：足元がすくむスリル満点の吊り橋「祖谷のかずら橋」と新祖谷温泉ホテルかずら橋</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   国の重要有形民俗文化財・祖谷のかずら橋。敷板の隙間から谷底を見下ろすスリルを味わった後は、専用ケーブルカーで登る天空露天風呂が自慢の「新祖谷温泉 ホテルかずら橋」で、阿波尾鶏や祖谷そばを味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      新祖谷温泉　ホテルかずら橋
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">新祖谷温泉　ホテルかずら橋</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>徳島県三好市西祖谷山村善徳３３－１</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   錦帯橋・眼鏡橋・猿橋。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   清津峡・黒部峡谷・瀞峡。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   最上川・富士川・球磨川。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】アパホテル〈山口岩国駅前西〉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】アパホテル〈山口岩国駅前西〉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とアパホテル〈山口岩国駅前西〉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とアパホテル〈山口岩国駅前西〉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

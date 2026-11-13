@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              紅葉と富士山が湖面に映る逆さ富士！山中湖畔の幻想的な秋景色
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">紅葉と富士山が湖面に映る逆さ富士！山中湖畔の幻想的な秋景色</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             富士五湖の中で最も標高が高く、富士山に最も近い「山中湖」。10月下旬から11月中旬にかけて、湖畔の旭日丘緑地公園を中心に「夕焼けの渚 紅葉まつり」が開催され、約600mにわたるもみじ回廊が夜間美しくライトアップされます。秋の澄み切った空に浮かぶ冠雪の富士山と、湖畔を真っ赤に染める紅葉のコントラストは圧巻。名水百選「忍野八海」の透明度の高い湧水池めぐりと合わせて、富士山を望むプライベートサウナ付き温泉宿や上質リゾートホテルで、甲州牛や山梨ワインをふるさと納税トラベルクーポンでお得に楽しみましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                山中湖・夕焼けの渚 紅葉まつり＆600mのライトアップ回廊
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                山中湖・夕焼けの渚 紅葉まつり＆600mのライトアップ回廊</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 日本の渚百選に選ばれた「夕焼けの渚」。夕暮れ時には真っ赤な夕日に染まる富士山と紅葉のコラボ、夜にはライトアップされた木々が湖面に映り込む幻想的な世界が広がります。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                世界遺産・忍野八海（おしにはっかい）の神秘的な透明湧水
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                世界遺産・忍野八海（おしにはっかい）の神秘的な透明湧水</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 富士山の雪解け水が数十年の歳月をかけて湧き出る忍野八海。吸い込まれそうなエメラルドグリーンの水鏡に映る紅葉と富士山の絶景は必見です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                甲州ワインビーフ＆富士の恵み・名物ほうとうの美味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                甲州ワインビーフ＆富士の恵み・名物ほうとうの美味</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 ワインの搾りかすで育った柔らかくジューシーな「甲州ワインビーフ」、富士山の湧水で打った手打ちそば、旬のカボチャやキノコがたっぷり入った熱々の「ほうとう」を満喫。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.88 <span className="text-stone-400 text-xs">(511件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    富士山の見える全室個室サウナ付旅館　しずく
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">富士山の見える全室個室サウナ付旅館　しずく</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県南都留郡山中湖村山中172 ｜ 【都心から中央道or東名道で車2時間】【新宿からのアクセス◎→高速バス：バスタ新宿→山中局入口徒歩5秒】
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.40 <span className="text-stone-400 text-xs">(134件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    富士マリオットホテル山中湖
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">富士マリオットホテル山中湖</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県南都留郡山中湖村平野1256-1 ｜ 富士急行線　富士山駅からお車にて約４０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.00 <span className="text-stone-400 text-xs">(456件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    フォレストリゾート　山中湖　秀山荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">フォレストリゾート　山中湖　秀山荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 山梨県南都留郡山中湖村平野2505 ｜ 新宿駅より高速バスで２時間１５分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】富士山の見える全室個室サウナ付旅館 しずくを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】富士山の見える全室個室サウナ付旅館 しずくを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と富士山の見える全室個室サウナ付旅館 しずくの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と富士山の見える全室個室サウナ付旅館 しずくの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

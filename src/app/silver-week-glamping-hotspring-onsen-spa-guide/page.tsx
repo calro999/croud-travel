@@ -200,9 +200,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
       <section className="bg-white border border-amber-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Ultimate Luxury</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            ただのキャンプとは別格！温泉グランピング3つの極上体験
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">ただのキャンプとは別格！温泉グランピング3つの極上体験</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             名湯の癒やしと大自然のアウトドア体験が一度に手に入る、大人の贅沢ステイ。
           </p>
@@ -223,9 +221,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
       <section className="bg-white border border-amber-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Comparison</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            簡易シャワー型グランピング vs 本格源泉かけ流し温泉宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">簡易シャワー型グランピング vs 本格源泉かけ流し温泉宿</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             水回りの快適性は旅全体の満足度を大きく左右します。
           </p>
@@ -261,9 +257,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Selected Onsen Resorts</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            源泉かけ流し風呂を完備！おすすめ名湯グランピング宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">源泉かけ流し風呂を完備！おすすめ名湯グランピング宿</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             由布院や霧島の名湯を客室露天や敷地内温泉で堪能できる、屈指の高評価グランピング。
           </p>
@@ -300,9 +294,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
                     ♨️ {hotel.address1} {hotel.address2}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "天然温泉の豊かな恵みと本格的なグランピングBBQを同時に味わえる至高のリゾート。"}
@@ -345,18 +337,14 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
       <section className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-amber-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            温泉付きグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">温泉付きグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-amber-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-amber-700 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-amber-700 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -367,9 +355,7 @@ export default function SilverWeekGlampingHotspringOnsenSpaPage() {
 
       {/* 内部リンク・名湯＆紅葉温泉ガイド */}
       <section className="bg-amber-50/50 border border-amber-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>♨️</span> あわせて読みたい秋の温泉名所ガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2"><span>️</span> あわせて読みたい秋の温泉名所ガイド</h3>
         <p className="text-xs text-stone-600">
           全国屈指の名湯巡りや紅葉ライトアップと組み合わせた秋の温泉旅行プラン。
         </p>

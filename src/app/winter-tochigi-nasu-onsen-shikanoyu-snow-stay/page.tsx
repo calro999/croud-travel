@@ -285,10 +285,8 @@ export default function NasuWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 開湯1380年鹿の湯の歴史＆那須与一牛・ロイヤルリゾート特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月那須温泉郷の初冬高原美と名湯】<br className="hidden sm:inline" />
-            茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月那須温泉郷の初冬高原美と名湯】<br className="hidden sm:inline" />
+            茶臼岳雪化粧と開湯千三百年鹿の湯・最高峰那須与一牛＆高原温泉会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             白鹿が傷を癒やした伝説から千三百年余。皇室の那須御用邸が置かれ、茶臼岳の壮大なパノラマを望む「那須温泉郷」。初冬の澄んだ空気の中に立ち上る硫黄の湯煙。名湯「鹿の湯」の乳白色露天風呂と、最高峰黒毛和牛「那須与一牛」＆高原会席に心満たされる極上の休日。
           </p>
@@ -314,9 +312,7 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Nasu 1380-Year Royal Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                白鹿伝説と御用邸が紡ぐ格式の地。初冬の茶臼岳と名湯の温もり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白鹿伝説と御用邸が紡ぐ格式の地。初冬の茶臼岳と名湯の温もり</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function NasuWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                11月・12月那須温泉郷 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                11月・12月那須温泉郷 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 茶臼岳の白銀雪化粧パノラマ・開湯1380年「鹿の湯」の乳白色硫黄泉・最高峰ブランド「那須与一牛」ステーキ・高原野菜と濃厚チーズ会席・東京から新幹線70分の好アクセス
               </p>
@@ -385,9 +379,7 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Chause Snow Panorama</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                茶臼岳の初冬冠雪パノラマと殺生石の荒涼美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">茶臼岳の初冬冠雪パノラマと殺生石の荒涼美</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -406,35 +398,27 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Ancient Mineral Qualities</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                茶臼岳のマグマが生み出す恵み：酸性含硫黄泉と多彩な那須七湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">茶臼岳のマグマが生み出す恵み：酸性含硫黄泉と多彩な那須七湯</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                白濁の濃厚な酸性含硫黄泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                白濁の濃厚な酸性含硫黄泉</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 元湯「鹿の湯」をはじめとする源泉は、強い硫黄臭と乳白色の濁り湯が特徴。強い殺菌力と角質軟化作用を持ち、慢性皮膚病や切り傷、疲労回復に抜群の効能を誇ります。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                標高ごとに異なる「那須七湯」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                標高ごとに異なる「那須七湯」</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 那須湯本の酸性硫黄泉から、標高の高い大丸温泉の単純温泉、弁天温泉の炭酸水素塩泉まで、標高によって泉質がガラリと変化。多彩な湯巡りが楽しめます。
               </p>
             </div>
             <div className="p-5 rounded-2xl bg-stone-50 border border-stone-100 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-600" />
-                短時間の入浴でも芯まで温まる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-600" />
+                短時間の入浴でも芯まで温まる</h3>
               <p className="text-stone-600 leading-relaxed text-xs sm:text-sm">
                 高濃度の天然ミネラルが血流を急速に活性化させ、冬の厳しい寒さで縮こまった身体を深部からほぐし、湯上がり後もポカポカ感が驚くほど持続します。
               </p>
@@ -450,9 +434,7 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Ancient Bathing Tradition</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                開湯1380年「鹿の湯」の伝統入浴作法とかぶり湯の知恵
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">開湯1380年「鹿の湯」の伝統入浴作法とかぶり湯の知恵</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -467,9 +449,7 @@ export default function NasuWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-extrabold text-amber-800 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたい那須温泉郷の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたい那須温泉郷の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               茶臼岳の雪景色を望む露天風呂、最高峰那須与一牛やとちぎ和牛会席を堪能できる宿を厳選。
             </p>
@@ -508,9 +488,7 @@ export default function NasuWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -569,26 +547,20 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                那須の大地が育む極上美食：「那須与一牛」と冬の高原温泉会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">那須の大地が育む極上美食：「那須与一牛」と冬の高原温泉会席</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-700" />
-                幻の最高峰黒毛和牛「那須与一牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-700" />
+                幻の最高峰黒毛和牛「那須与一牛」</h3>
               <p className="leading-relaxed text-sm">
                 那須地域の指定牧場で、清らかな伏流水と良質な穀物飼料で手塩にかけて育てられた最高等級黒毛和牛。肉質は非常に柔らかく、口に含むと芳醇な甘みを持つサシがすっと溶け出し、赤身の濃厚な旨味が溢れます。炭火ステーキやしゃぶしゃぶで、肉本来のポテンシャルを存分に堪能できます。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-amber-700" />
-                寒さで甘みを増す高原野菜と濃厚乳製品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-amber-700" />
+                寒さで甘みを増す高原野菜と濃厚乳製品</h3>
               <p className="leading-relaxed text-sm">
                 初冬の厳しい朝晩の冷え込みによって、大根やカブ、人参などの根菜は自ら糖度を蓄え、驚くほど甘く育ちます。地元の酪農家から届く絞りたて生乳を使ったチーズやバター、熱々のチーズフォンデュやクリーム仕立ての鍋料理は、冬の那須ステイならではの至福の味覚です。
               </p>
@@ -604,35 +576,25 @@ export default function NasuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：新幹線で70分！鹿の湯巡りと茶臼岳雪景色・高原リゾート満喫旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：新幹線で70分！鹿の湯巡りと茶臼岳雪景色・高原リゾート満喫旅</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-amber-800 uppercase tracking-wider">【1日目】新幹線から那須高原へ〜鹿の湯入浴と名宿チェックイン</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:30 東北新幹線でJR那須塩原駅に到着 → 路線バスまたは送迎バスに乗車
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:30 東北新幹線でJR那須塩原駅に到着 → 路線バスまたは送迎バスに乗車</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 車窓から雄大な那須連山の初冬冠雪パノラマを眺めながら、那須街道を登る。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                12:30 那須湯本で名物「すいとん」ランチ＆開湯1380年「鹿の湯」へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">12:30 那須湯本で名物「すいとん」ランチ＆開湯1380年「鹿の湯」へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 木造湯屋の「鹿の湯」で乳白色の硫黄泉に浸かる。かぶり湯作法でじっくり温まる。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 旅館へチェックイン → 庭園露天風呂で初冬の雪見風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 旅館へチェックイン → 庭園露天風呂で初冬の雪見風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 肌に優しい単純泉で長湯を楽しむ。夕暮れの高原林を眺めながら優雅なひととき。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 最高峰那須与一牛ステーキ＆高原野菜会席ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 最高峰那須与一牛ステーキ＆高原野菜会席ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 とろける和牛のサシと冬の高原野菜、栃木の銘酒「惣誉」とのマリアージュに舌鼓。
               </p>
@@ -640,15 +602,11 @@ export default function NasuWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の清涼露天風呂〜那須ガーデンアウトレットとスイーツ巡り</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → 栃木産コシヒカリと御養卵の朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂 → 栃木産コシヒカリと御養卵の朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 澄み切った朝の高原の冷気が心地よい露天風呂。濃厚な那須御養卵の卵かけご飯。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:30 「チーズガーデン 那須本店」でお土産購入＆那須塩原駅へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:30 「チーズガーデン 那須本店」でお土産購入＆那須塩原駅へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 名物「御用邸チーズケーキ」や冬限定スイーツを購入。新幹線で快適に帰路へ。
               </p>
@@ -671,10 +629,8 @@ export default function NasuWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -689,9 +645,7 @@ export default function NasuWinterPage() {
         <section className="bg-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北関東・東日本の冬・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北関東・東日本の冬・名湯特集</h2>
             <p className="text-xs sm:text-sm text-amber-100/90 leading-relaxed">
               11月・12月ならではの雪景色や旬の郷土グルメを堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

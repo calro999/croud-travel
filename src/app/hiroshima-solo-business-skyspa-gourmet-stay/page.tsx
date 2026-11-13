@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            川面に映る原爆ドームの静けさと、鉄板で踊るソースの香ばしい煙——瀬戸内の風を感じてととのう「広島・スカイスパ＆美食出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">川面に映る原爆ドームの静けさと、鉄板で踊るソースの香ばしい煙——瀬戸内の風を感じてととのう「広島・スカイスパ＆美食出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             山陽新幹線「のぞみ」が発着し、マツダをはじめとするものづくり産業や官公庁が集結する中国地方の中枢・広島。太田川の三角洲に発達した「水の都」でもあり、世界遺産の原爆ドームや嚴島神社（宮島）を擁する国際観光都市でもあります。夜になれば流川・薬研堀の繁華街から漂うお好み焼きのソースの香りや、瀬戸内海の旬の牡蠣、小イワシの刺身が旅人の五感を刺激します。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR広島駅新幹線口からペデストリアンデッキ直結徒歩1分！世界水準のホスピタリティと快適客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  シェラトングランドホテル広島 —— 新幹線を降りてすぐチェックイン。広々客室と高層階クラブラウンジで味わう極上ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">シェラトングランドホテル広島 —— 新幹線を降りてすぐチェックイン。広々客室と高層階クラブラウンジで味わう極上ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   八丁堀電停徒歩2分！最上階14階に広がる展望露天風呂「スカイスパ」とオートロウリュサウナ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）広島八丁堀 —— 繁華街のオアシス。夜空を見上げる星空外気浴と洗練の和モダン客室
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）広島八丁堀 —— 繁華街のオアシス。夜空を見上げる星空外気浴と洗練の和モダン客室</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   平和大通り沿い！天然温泉大浴場＆水風呂サウナ・名物夜鳴きそば完備のリニューアル美空間
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  安芸の湯 ドーミーイン広島 —— 中町・袋町すぐ。自家源泉の天然温泉と広島名物を取り入れた朝食バイキング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">安芸の湯 ドーミーイン広島 —— 中町・袋町すぐ。自家源泉の天然温泉と広島名物を取り入れた朝食バイキング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              広島お好み焼きをひとり旅で120％楽しむ注文のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">広島お好み焼きをひとり旅で120％楽しむ注文のコツ</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 注文は「そば肉玉（そば・豚肉・卵）」が基本の王道
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 注文は「そば肉玉（そば・豚肉・卵）」が基本の王道</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 トッピングには「イカ天」や「ネギかけ」を追加するのが地元流。麺は「パリパリ系」か「しっとり系」か、お店ごとの個性を味わうのが醍醐味です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 皿ではなく「鉄板の上からヘラで直喰い」に挑戦
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 皿ではなく「鉄板の上からヘラで直喰い」に挑戦</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 カウンターの鉄板前なら、ヘラを使ってハフハフと冷めないうちに食べるのが一番美味。火傷に注意しながら一口サイズに切り分けます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は路面電車（広電）に乗って平和記念公園へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は路面電車（広電）に乗って平和記念公園へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 朝の静かな元安川沿いを散策。朝日に照らされる原爆ドームを眺めながら、平和への祈りと静かな思索の時間を過ごせます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>広島駅から八丁堀や繁華街まではどう移動するのが便利ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>広島駅から八丁堀や繁華街まではどう移動するのが便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 広島駅南口から路面電車（広電）に乗れば約10分で八丁堀電停に到着します。ICOCAやSuica等の交通系ICカードがそのまま利用可能です。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>出張の合間に宮島（厳島神社）へ行く時間は取れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>出張の合間に宮島（厳島神社）へ行く時間は取れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 JR山陽本線を使えば広島駅から宮島口駅まで約28分、そこからフェリーで約10分（計約40分）で行けるため、午前中や夕方の半日空き時間があれば十分に参拝可能です。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「広島出張＆大人ひとり旅：広島駅直結・最上階スカイスパ・流川お好み焼き！心身をととのえる名ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -503,9 +473,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 広島出張＆大人ひとり旅エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">広島出張＆大人ひとり旅エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

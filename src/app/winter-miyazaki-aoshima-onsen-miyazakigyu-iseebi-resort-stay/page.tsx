@@ -269,9 +269,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Sunny Winter Getaway</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                青い海と椰子の木が揺れる温暖避寒地｜11月・12月の宮崎青島温泉が選ばれる理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">青い海と椰子の木が揺れる温暖避寒地｜11月・12月の宮崎青島温泉が選ばれる理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Spiritual Coastline</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                神話の島・青島と鬼の洗濯板が放つ神秘のエネルギー｜初冬の干潮時に現れる絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">神話の島・青島と鬼の洗濯板が放つ神秘のエネルギー｜初冬の干潮時に現れる絶景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -318,9 +314,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Aoshima Winter Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の宮崎青島1泊2日満喫モデルコース｜南国ドライブと最高峰宮崎牛・伊勢海老紀行
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の宮崎青島1泊2日満喫モデルコース｜南国ドライブと最高峰宮崎牛・伊勢海老紀行</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -339,9 +333,7 @@ export default function MiyazakiAoshimaWinterFeature() {
         <section className="space-y-12">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Selected Aoshima Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の青島温泉を満喫する厳選おすすめ宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の青島温泉を満喫する厳選おすすめ宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               ビーチ直結の大型リゾートホテルから、鬼の洗濯板一望の絶景宿、極上トロトロ湯の隠れ宿まで、現地取材に基づき厳選しました。
             </p>
@@ -383,9 +375,7 @@ export default function MiyazakiAoshimaWinterFeature() {
                             宮崎県宮崎市青島
                           </span>
                         </div>
-                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                         <p className="text-xs sm:text-sm text-amber-800 font-medium bg-amber-50/70 px-3 py-1.5 rounded-lg border border-amber-100/80">
                           {h.special}
                         </p>
@@ -453,28 +443,22 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Miyazaki Gourmet Royalty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本一の最高峰「宮崎牛」と冬の日向灘「天然伊勢海老」を味わい尽くす
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本一の最高峰「宮崎牛」と冬の日向灘「天然伊勢海老」を味わい尽くす</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-slate-700 leading-relaxed">
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-500" />
-                内閣総理大臣賞4連覇・至高の「宮崎牛」ステーキ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-amber-500" />
+                内閣総理大臣賞4連覇・至高の「宮崎牛」ステーキ</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 5年に一度開催される和牛のオリンピックで、史上初の4大会連続内閣総理大臣賞に輝いた宮崎牛。美しいサシと芳醇な香り、口に入れた瞬間に溶け出す上品な脂はまさに別格。鉄板焼きや溶岩焼きで香ばしく焼き上げ、宮崎特産の柑橘「へべす」や塩でシンプルにいただくのが最高の贅沢です。
               </p>
             </div>
 
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" />
-                黒潮が育む日向灘獲れ「天然活伊勢海老」
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" />
+                黒潮が育む日向灘獲れ「天然活伊勢海老」</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 初秋から冬にかけて解禁され、身がぎゅっと引き締まる日向灘の天然伊勢海老。透き通る身の強い甘みとプリッとした弾力を堪能できる活造り、香ばしい味噌の風味がたまらない鬼殻焼き、そして翌朝の味噌汁に染み渡る濃厚な出汁まで、伊勢海老の全てを味わい尽くせます。
               </p>
@@ -490,9 +474,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Natural Serum Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold">
-                驚異のとろみ触感｜青島炭酸水素塩泉のクレンジング＆美肌効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold">驚異のとろみ触感｜青島炭酸水素塩泉のクレンジング＆美肌効果</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-200 leading-relaxed">
@@ -525,9 +507,7 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Planning & Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                青島温泉へのアクセスと冬旅を快適に楽しむポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">青島温泉へのアクセスと冬旅を快適に楽しむポイント</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -559,18 +539,14 @@ export default function MiyazakiAoshimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                宮崎・青島温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">宮崎・青島温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -583,9 +559,7 @@ export default function MiyazakiAoshimaWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Kyushu & Resort Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい九州の冬名湯＆極上グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい九州の冬名湯＆極上グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の九州各地の温暖な避寒旅、名湯めぐり、絶景露天風呂をめぐる厳選特集もぜひご覧ください。
             </p>

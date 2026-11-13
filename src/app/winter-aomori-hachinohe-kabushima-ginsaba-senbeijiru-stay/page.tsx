@@ -301,9 +301,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              三陸の冷水が鍛え上げた日本一の脂乗りと、南部人の知恵が生んだ熱々郷土鍋
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">三陸の冷水が鍛え上げた日本一の脂乗りと、南部人の知恵が生んだ熱々郷土鍋</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の八戸を満喫する3つの絶対的ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の八戸を満喫する3つの絶対的ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月の八戸だからこそ体験できる、極上の旬味と開運の絶景ポイント。
             </p>
@@ -339,9 +335,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 脂乗り30%超の奇跡！極上「八戸前沖銀鯖」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 脂乗り30%超の奇跡！極上「八戸前沖銀鯖」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 海水温が低下する11月〜12月に最盛期を迎える八戸前沖さば。特に大型の「銀鯖」は、マグロのトロを凌ぐ極上の甘みと舌触りを誇ります。炙り刺しや鯖しゃぶの贅沢な味わいは冬限定の至福です。
               </p>
@@ -351,9 +345,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <ShoppingBag className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 八食センター七輪村＆熱々せんべい汁
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 八食センター七輪村＆熱々せんべい汁</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 市場で買った活ホタテやカニをその場で七輪炭火焼きにする「七輪村」。そして南部地鶏の旨味出汁を吸ったモチモチ食感の「八戸せんべい汁」が、凍てつく冬の体を芯まで温めます。
               </p>
@@ -363,9 +355,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-rose-100 flex items-center justify-center text-rose-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 「株が上がる」蕪島神社初詣＆横丁ハシゴ酒
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 「株が上がる」蕪島神社初詣＆横丁ハシゴ酒</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 太平洋の荒波を望む蕪島神社は、金運・商売繁盛・株価上昇の強力パワースポット。夜は八戸名物「みろく横丁」の屋台で、名酒「陸奥八仙」とともに地元の人情に触れる冬の夜長を過ごせます。
               </p>
@@ -377,9 +367,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の八戸を味わい尽くす厳選ホテル＆温泉宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の八戸を味わい尽くす厳選ホテル＆温泉宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-2">
               天然温泉大浴場、みろく横丁至近の好立地、太平洋を望む絶景宿まで、楽天トラベル公式データに基づき厳選。
             </p>
@@ -421,9 +409,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
                           {hotel.special}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">{hotel.name}</h3>
                       <p className="text-stone-600 text-sm leading-relaxed mb-4">
                         {hotel.story}
                       </p>
@@ -477,9 +463,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の八戸を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の八戸を満喫する1泊2日王道モデルコース</h2>
             <p className="text-stone-600 text-sm mt-1">
               銀鯖、せんべい汁、八食センターの買い出し、蕪島神社初詣、夜の横丁までを効率的に巡るタイムスケジュール。
             </p>
@@ -550,37 +534,29 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-10 border border-stone-200 space-y-6">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の八戸旅行を快適に楽しむための実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の八戸旅行を快適に楽しむための実践ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4 text-sky-600" />
-                気候と防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-sky-600" />
+                気候と防寒対策</h3>
               <p>
                 八戸の冬は降雪こそ比較的少ないものの、太平洋からの「やませ」などの浜風が非常に冷たく、体感温度は氷点下まで下がります。防風性の高いロングダウンジャケット、耳あて付きニット帽、手袋、マフラーが必須です。靴は滑り止め溝の深い防寒ブーツが安心です。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Compass className="w-4 h-4 text-sky-600" />
-                路面凍結と交通事情
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Compass className="w-4 h-4 text-sky-600" />
+                路面凍結と交通事情</h3>
               <p>
                 雪が少ない分、夜間に濡れたアスファルトが凍結する「ブラックアイスバーン」が発生しやすくなります。レンタカーを運転する場合はスタッドレスタイヤ必須で、急減速・急ハンドルは厳禁。市内観光は「八食100円バス」やJR八戸線を上手に活用するのが賢明です。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-sky-600" />
-                年末年始の買い出しと初詣
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Calendar className="w-4 h-4 text-sky-600" />
+                年末年始の買い出しと初詣</h3>
               <p>
                 12月28日〜31日の八食センターは早朝から大変な賑わいを見せます。七輪村や人気鮮魚店を利用する場合は朝9時〜10時台の早い時間帯を目指しましょう。蕪島神社の元旦初詣は午前中が比較的スムーズに参拝でき、新春の御守授与も行われます。
               </p>
@@ -592,9 +568,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい東北・北国の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい東北・北国の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -604,9 +578,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">青森・下北半島</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">
-                  下風呂温泉と冬の大間マグロ・津軽海峡アンコウ鍋ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">下風呂温泉と冬の大間マグロ・津軽海峡アンコウ鍋ステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -617,9 +589,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">青森・十和田八甲田</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">
-                  奥入瀬渓流の氷瀑ライトアップと八甲田雪見秘湯ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">奥入瀬渓流の氷瀑ライトアップと八甲田雪見秘湯ステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -630,9 +600,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">岩手・三陸鉄道</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">
-                  三陸鉄道こたつ列車と冬の三陸海鮮・絶景パノラマステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">三陸鉄道こたつ列車と冬の三陸海鮮・絶景パノラマステイ</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -643,9 +611,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-sky-700 bg-sky-50 px-2 py-0.5 rounded block w-fit mb-2">岩手・花巻温泉郷</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">
-                  花巻温泉郷の雪見露天風呂と前沢牛・宮沢賢治の世界を巡る宿
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-sky-600 line-clamp-2">花巻温泉郷の雪見露天風呂と前沢牛・宮沢賢治の世界を巡る宿</h3>
               </div>
               <span className="text-xs text-sky-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -656,18 +622,14 @@ export default function AomoriHachinoheKabushimaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の八戸旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の八戸旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200 rounded-2xl p-5 hover:border-sky-200 transition-colors">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                  <HelpCircle className="w-5 h-5 text-sky-600 shrink-0 mt-0.5" />
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><HelpCircle className="w-5 h-5 text-sky-600 shrink-0 mt-0.5" />
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-7">
                   {faq.a}
                 </p>
@@ -678,9 +640,7 @@ export default function AomoriHachinoheKabushimaWinterPage() {
 
         {/* Final Editorial Note */}
         <section className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 text-center space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の北三陸・八戸で出会う、魂を揺さぶる極上の美味と人情
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の北三陸・八戸で出会う、魂を揺さぶる極上の美味と人情</h2>
           <p className="text-slate-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             寒風吹き抜ける太平洋の海原、立ち上る七輪の煙と出汁の香り、そして屋台の暖簾の向こうで交わされる温かな笑顔。11月から1月の八戸は、寒冷な気候だからこそ人の温もりと海の恵みがひときわ輝く特別な季節です。本物の八戸前沖銀鯖とせんべい汁を味わう冬の旅へ、ぜひ出かけてみませんか。
           </p>

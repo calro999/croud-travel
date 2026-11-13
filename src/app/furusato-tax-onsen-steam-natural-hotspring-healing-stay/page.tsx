@@ -108,9 +108,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然の温泉蒸気100％！素材本来の旨味を凝縮する伝統の「地獄蒸し料理」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然の温泉蒸気100％！素材本来の旨味を凝縮する伝統の「地獄蒸し料理」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 江戸時代から続く鉄輪温泉の「地獄蒸し」は、摂氏約100度の温泉噴気釜で食材を一気に蒸し上げる調理法。高温の温泉蒸気で蒸すことで、肉は余分な脂が落ちてふっくらジューシーに、地場野菜は甘みが劇的に凝縮され、温泉に含まれる微量な塩分とミネラルが天然の調味料となります。油を使わない究極にヘルシーで贅沢な美食体験です。
@@ -123,9 +121,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界でも極めて稀少！大地の重みと温熱で全身をデトックスする「天然砂むし温泉」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界でも極めて稀少！大地の重みと温熱で全身をデトックスする「天然砂むし温泉」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 海岸の砂浜から湧き出す天然温泉の熱を利用した指宿名物の「砂むし温泉」。浴衣を着て砂の上に横たわり、砂掛さんに温かい砂をかけてもらうと、心地よい砂の圧力と約50度の地熱によって全身の血行が劇的に促進されます。わずか10〜15分で大量の汗が噴き出し、通常の温泉入浴の数倍とも言われるデトックス効果と爽快感を体感できます。
@@ -138,9 +134,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  石畳の坂道、湯治長屋、レトロな共同浴場を浴衣と下駄で巡る風情ある温泉街歩き
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">石畳の坂道、湯治長屋、レトロな共同浴場を浴衣と下駄で巡る風情ある温泉街歩き</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 立ち上る湯煙の中を浴衣姿で歩く温泉街散策は、日本の温泉旅の真骨頂。鉄輪温泉のレトロな共同浴場「むし湯」や、雲仙温泉の湯けむり立ち込める雲仙地獄の木道散策、温泉たまごや温泉まんじゅうを食べ歩くひとときは格別です。古き良き湯治場の温もりが、旅人の心を優しく解きほぐしてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・鉄輪温泉の風情ある湯治文化を受け継ぐ温もり宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    別府鉄輪温泉　やすらぎのある宿　旅館　さくら屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">別府鉄輪温泉　やすらぎのある宿　旅館　さくら屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     別府八湯の中でも最も湯煙情緒あふれる鉄輪温泉の中心に佇む、温かなもてなしと家庭的な心地よさが魅力の温泉旅館。敷地内には自家源泉から湧き出る天然スチームを利用した地獄蒸し釜が設置されており、宿泊客が自由に地元の食材を持ち込んで蒸し料理を楽しむことができます。高温で良質な源泉かけ流しの内湯と露天風呂でじっくり身体の芯まで温まった後は、レトロな鉄輪の湯煙の街並みをそぞろ歩きする贅沢な湯治ステイが楽しめます。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鹿児島県指宿市・名物砂むし温泉と元禄風呂を誇る南国名門宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鹿児島　砂むし温泉　指宿白水館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鹿児島　砂むし温泉　指宿白水館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     錦江湾に面した広大な敷地と約170メートルの大回廊を誇る、南九州を代表する名門温泉旅館。館内には波打ち際の本格的な専用「天然砂むし温泉」が併設されており、外に出ることなく快適に砂むし入浴を体験できます。さらに江戸時代の風呂文化を現代に再現した圧巻の千坪大浴場「元禄風呂」では、打たせ湯や釜風呂など多彩なお風呂を満喫可能。鹿児島が誇る黒豚や黒毛和牛、きびなごなどの豪華薩摩会席とともに至福のひとときを約束します。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長崎県雲仙市・雲仙地獄の白煙とおしどりの池を望む名旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">雲仙温泉・源泉かけ流し＆おしどりの池を望む美食の宿　東園</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     雲仙天草国立公園内に位置し、立ち上る雲仙地獄の噴気と穏やかなおしどりの池の湖畔に佇む上質な料理旅館。自家源泉から引かれる乳白色の濃厚な硫黄温泉は、美肌効果が高く湯上がりの肌がしっとりすべすべになると評判です。客室や露天風呂からは絵画のように美しい湖と山々の大自然が一望でき、四季折々の野鳥の声に心が洗われます。島原半島の豊かな山の幸と有明海の海の幸を融合させた極上の会席料理が旅を華やかに彩ります。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoOnsenSteamHealingStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別府鉄輪温泉 やすらぎのある宿 旅館 さくら屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

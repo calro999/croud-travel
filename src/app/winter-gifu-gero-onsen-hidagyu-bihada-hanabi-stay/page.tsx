@@ -248,12 +248,10 @@ export default function WinterGifuGeroOnsenPage() {
             11月・12月 日本三名泉＆冬花火・極上飛騨牛すき焼き特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月岐阜・下呂温泉】日本三名泉と冬花火物語
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月岐阜・下呂温泉】日本三名泉と冬花火物語
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               名物飛騨牛すき焼き＆朴葉味噌・極上の美肌ぬめり湯を堪能する老舗名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、室町時代の儒学者・万里集九や江戸時代の儒学者・林羅山によって有馬・草津と並ぶ「日本三名泉」に称えられた岐阜県の下呂温泉（げろおんせん）は、澄み切った初冬の空気と幻想的な温泉街の明かりが旅情をそそる最高の季節を迎えます。pH9.2前後のアルカリ性単純温泉は、入浴した瞬間に肌がツルツルと滑らかになる天然の石鹸効果を誇る「美肌の湯」。12月に入ると飛騨川河畔で毎週土曜日に「下呂温泉花火物語（冬花火）」が開催され、冬の夜空に大輪の華が咲き誇ります。夕食にはきめ細やかなサシと芳醇な香りがとろける最高級「飛騨牛」のすき焼きや陶板焼き、香ばしい「朴葉味噌（ほおばみそ）」焼き。初冬の飛騨路で極上のぬくもりに浸る厳選名宿5選を徹底解説します。
@@ -290,9 +288,7 @@ export default function WinterGifuGeroOnsenPage() {
               <Landmark className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                天下の三名泉・下呂温泉が初冬の旅人に選ばれ続ける理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">天下の三名泉・下呂温泉が初冬の旅人に選ばれ続ける理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 林羅山が絶賛した名湯、トロリとした絹のような美肌湯、冬の夜空を焦がす冬花火
               </p>
@@ -310,9 +306,7 @@ export default function WinterGifuGeroOnsenPage() {
               <Sparkles className="w-3.5 h-3.5" />
               厳選5宿の徹底比較
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              初冬の下呂温泉を満喫するおすすめ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">初冬の下呂温泉を満喫するおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 max-w-2xl mx-auto">
               楽天トラベル最新APIから取得したリアルタイムの宿泊料金・客室情報・アクセス・料理プランを基に、独自の視点で徹底解説します。
             </p>
@@ -357,9 +351,7 @@ export default function WinterGifuGeroOnsenPage() {
                         <span className="text-xs font-bold text-amber-800 tracking-wide uppercase">
                           {hotel.special}
                         </span>
-                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">{hotel.name}</h3>
                       </div>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -439,9 +431,7 @@ export default function WinterGifuGeroOnsenPage() {
             <Footprints className="w-4 h-4" />
             冬の1泊2日 満喫モデルコース
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            日本三名泉のぬめり湯と飛騨牛・冬花火を満喫する下呂温泉旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">日本三名泉のぬめり湯と飛騨牛・冬花火を満喫する下呂温泉旅</h2>
           <div className="space-y-4 border-l-2 border-amber-200 pl-4 sm:pl-6 ml-2 sm:ml-4">
             <div className="space-y-2">
               <div className="flex items-center gap-2 font-bold text-stone-900 text-sm sm:text-base">
@@ -470,35 +460,27 @@ export default function WinterGifuGeroOnsenPage() {
             <Flame className="w-4 h-4" />
             下呂・飛騨冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            飛騨の山里が育む三大至宝「飛騨牛」「朴葉味噌」「納豆喰豚」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">飛騨の山里が育む三大至宝「飛騨牛」「朴葉味噌」「納豆喰豚」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                最高峰の肉質「特選 飛騨牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                最高峰の肉質「特選 飛騨牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 飛騨の清らかな水と澄んだ空気、職人の熱意によって育てられるブランド黒毛和牛。きめ細やかなサシが網目状に入り、低温でもサッととろける上質な脂と濃厚な赤身の旨味が特徴。冬のすき焼きや陶板ステーキで最高の甘みを楽しめます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                飛騨の伝統郷土料理「朴葉味噌」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                飛騨の伝統郷土料理「朴葉味噌」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 乾燥させた朴の木の葉に、自家製味噌、刻みネギ、キノコ、飛騨牛を乗せて炭火で焼く冬の伝統料理。熱が加わることで朴の葉の芳しい香りと焦げた味噌の香ばしさが立ち上り、炊きたてのご飯が進んで止まらなくなる飛騨路の味です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                下呂のブランド豚「納豆喰豚」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                下呂のブランド豚「納豆喰豚」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 納豆の粉末を飼料に配合して健康に育てられた下呂特産の銘柄豚（なっとくとん）。豚肉特有の臭みが全くなく、柔らかくジューシーな赤身とさっぱりとした甘みのある脂身が絶品。しゃぶしゃぶや角煮、陶板焼きで高い人気を誇ります。
               </p>
@@ -512,15 +494,11 @@ export default function WinterGifuGeroOnsenPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の下呂温泉 交通アクセス＆冬旅のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の下呂温泉 交通アクセス＆冬旅のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                JR特急ひだ号・車でのアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                JR特急ひだ号・車でのアクセス</h3>
               <p>
                 名古屋駅からはJR特急ひだ号で約1時間40分。高山方面からも特急で約45分と、列車でのアクセスが非常に便利で冬道運転の心配もありません。
               </p>
@@ -530,10 +508,8 @@ export default function WinterGifuGeroOnsenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                美肌湯の入浴法と冬花火観賞の防寒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                美肌湯の入浴法と冬花火観賞の防寒</h3>
               <p>
                 下呂の湯はアルカリ性が強いため、石鹸でゴシゴシ洗わなくても皮脂汚れが落ちます。湯上がり後はシャワーで洗い流さずそのまま上がることで、保湿成分が肌に留まります。
               </p>
@@ -550,16 +526,12 @@ export default function WinterGifuGeroOnsenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岐阜下呂温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岐阜下呂温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -571,10 +543,8 @@ export default function WinterGifuGeroOnsenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい東海・甲信越の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい東海・甲信越の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               歴史ある名湯とブランド牛・冬の絶景を巡る中部エリアの厳選旅ガイド
             </p>
@@ -586,9 +556,7 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岐阜・白川郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                白川郷合掌造り集落の白銀ライトアップと飛騨牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">白川郷合掌造り集落の白銀ライトアップと飛騨牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 世界遺産白川郷の雪景色と幻想的な夜間照明、囲炉裏端で味わう飛騨の美味。
               </p>
@@ -599,9 +567,7 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・昼神温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                阿智村昼神温泉の日本一の星空ナイトツアーと美肌湯
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿智村昼神温泉の日本一の星空ナイトツアーと美肌湯</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 冬の澄み渡る夜空に輝く満天の星と信州屈指の強アルカリ美肌温泉。
               </p>
@@ -612,9 +578,7 @@ export default function WinterGifuGeroOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">兵庫・有馬温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                有馬温泉の金泉・銀泉と神戸牛すき焼き名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">有馬温泉の金泉・銀泉と神戸牛すき焼き名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 下呂と並ぶ日本三名泉の金泉・銀泉と極上神戸牛を味わう極楽の旅。
               </p>

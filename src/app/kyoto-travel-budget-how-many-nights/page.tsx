@@ -69,10 +69,8 @@ export default function KyotoNightsGuide() {
         </p>
 
         <section className="mb-12">
-          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center">
-            <span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">1</span>
-            回れるエリアの限界を知る
-          </h2>
+          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center"><span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">1</span>
+            回れるエリアの限界を知る</h2>
           
           <div className="flex flex-col gap-6">
             <div className="flex-1 bg-stone-100 rounded-2xl p-6 border-l-4 border-stone-400">
@@ -82,7 +80,7 @@ export default function KyotoNightsGuide() {
             </div>
             
             <div className="flex-1 bg-teal-50 rounded-2xl p-6 border-l-4 border-teal-500">
-              <h3 className="font-bold text-lg text-teal-800 mb-3">✨ 2泊3日の場合</h3>
+              <h3 className="font-bold text-lg text-teal-800 mb-3">2泊3日の場合</h3>
               <p className="text-teal-900 mb-3"><strong>じっくりエリア：</strong> 東山・嵐山 ＋ 伏見稲荷・宇治・金閣寺・錦市場</p>
               <p className="text-sm text-teal-700">エリアを分けて効率的に回れます。朝早くから動ける日があるため、混雑する伏見稲荷の早朝参拝も可能に！</p>
             </div>
@@ -93,10 +91,8 @@ export default function KyotoNightsGuide() {
         </section>
 
         <section className="mb-12">
-          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center">
-            <span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">2</span>
-            日数別！リアルな費用比較テーブル
-          </h2>
+          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center"><span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">2</span>
+            日数別！リアルな費用比較テーブル</h2>
           <div className="overflow-x-auto">
             <table className="w-full text-left">
               <thead>
@@ -145,10 +141,8 @@ export default function KyotoNightsGuide() {
         </section>
 
         <section className="mb-12">
-          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center">
-            <span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">3</span>
-            宿選びで変わる予算
-          </h2>
+          <h2 className="font-journal-serif text-2xl font-bold text-teal-800 mb-6 flex items-center"><span className="w-8 h-8 rounded-full bg-teal-100 flex items-center justify-center mr-3 text-teal-700 text-sm">3</span>
+            宿選びで変わる予算</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
             <div className="bg-white border border-stone-200 p-4 rounded-xl text-center">
               <p className="text-xs text-stone-500 mb-1">節約派に</p>
@@ -176,19 +170,17 @@ export default function KyotoNightsGuide() {
           
       {/* 泊数別の満足度と回りやすさ比較 */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-800 mb-6 border-b-2 border-teal-200 pb-2">
-          1泊2日 vs 2泊3日：リアルなスケジュール比較
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-800 mb-6 border-b-2 border-teal-200 pb-2">1泊2日 vs 2泊3日：リアルなスケジュール比較</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-slate-50 p-6 rounded-3xl border border-slate-200">
-            <h3 className="font-bold text-slate-800 text-lg mb-2">⚡ 1泊2日：王道エリア弾丸プラン</h3>
+            <h3 className="font-bold text-slate-800 text-lg mb-2">1泊2日：王道エリア弾丸プラン</h3>
             <p className="text-sm text-slate-600 leading-relaxed mb-3">
               1日目に清水寺〜八坂神社〜祇園、2日目午前に嵐山の竹林と天龍寺を回って終了。移動時間を切り詰める計画性が必須です。
             </p>
             <span className="text-xs bg-slate-200 text-slate-700 px-2.5 py-1 rounded-full font-bold">リピーター・週末旅行向き</span>
           </div>
           <div className="bg-teal-50 p-6 rounded-3xl border border-teal-200">
-            <h3 className="font-bold text-teal-900 text-lg mb-2">✨ 2泊3日：京都満喫の黄金プラン</h3>
+            <h3 className="font-bold text-teal-900 text-lg mb-2">2泊3日：京都満喫の黄金プラン</h3>
             <p className="text-sm text-teal-800 leading-relaxed mb-3">
               伏見稲荷の早朝参拝、宇治の抹茶スイーツ、夕暮れの先斗町ディナーまで網羅。混雑する昼を避けて朝夕の静寂を楽しめます。
             </p>
@@ -199,9 +191,7 @@ export default function KyotoNightsGuide() {
 
       {/* よくある質問 FAQ */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-800 mb-6 border-b-2 border-teal-200 pb-2">
-          京都旅行 何泊・予算のよくある質問（FAQ）
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-teal-800 mb-6 border-b-2 border-teal-200 pb-2">京都旅行 何泊・予算のよくある質問（FAQ）</h2>
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
             <h3 className="font-bold text-slate-800 mb-2">Q. 1泊2日と2泊3日、どちらが満足度が高い？</h3>
@@ -267,9 +257,7 @@ export default function KyotoNightsGuide() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「京都旅行 何泊がベスト？：1泊2日 vs 2泊3日 費用・満足度・モデルコース徹底比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -348,9 +336,7 @@ export default function KyotoNightsGuide() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「京都旅行 何泊がベスト？」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「京都旅行 何泊がベスト？」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

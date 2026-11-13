@@ -295,9 +295,7 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-orange-500 pl-4 mb-6">
               <span className="text-xs font-bold text-orange-600 tracking-wider uppercase">Halloween Parade & Atmosphere</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                ヴィランズが主役！熱狂の「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」と秋のパーク演出
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">ヴィランズが主役！熱狂の「ザ・ヴィランズ・ハロウィーン “Into the Frenzy”」と秋のパーク演出</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -316,9 +314,7 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-purple-600 pl-4 mb-6">
               <span className="text-xs font-bold text-purple-600 tracking-wider uppercase">Costume & Special Attraction</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                大人の全身仮装ルール＆期間限定「ホーンテッドマンション “ホリデーナイトメアー”」徹底攻略
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">大人の全身仮装ルール＆期間限定「ホーンテッドマンション “ホリデーナイトメアー”」徹底攻略</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +333,7 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Autumn Limited Gourmet</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                パンプキン＆紫芋の絶品スイーツ！ハロウィーン限定まん＆スペシャルチュロス食べ歩き
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">パンプキン＆紫芋の絶品スイーツ！ハロウィーン限定まん＆スペシャルチュロス食べ歩き</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -355,9 +349,7 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-orange-500 pl-4 mb-8">
               <span className="text-xs font-bold text-orange-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】舞浜オフィシャル＆新浦安パートナー厳選ホテル5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】舞浜オフィシャル＆新浦安パートナー厳選ホテル5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -383,9 +375,7 @@ export default function TdrHalloweenFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-orange-500 shrink-0" />
@@ -408,9 +398,7 @@ export default function TdrHalloweenFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -442,17 +430,13 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-orange-500 pl-4 mb-6">
               <span className="text-xs font-bold text-orange-600 tracking-wider uppercase">Halloween Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】ディズニー・ハロウィーン満喫＆ホテルリゾートステイ
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】ディズニー・ハロウィーン満喫＆ホテルリゾートステイ</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-orange-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：仮装準備・ランド入園とヴィランズパレード＆夜のホーンテッドマンション
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-orange-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：仮装準備・ランド入園とヴィランズパレード＆夜のホーンテッドマンション</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 ホテルに荷物を預け・または客室で仮装メイク準備</strong><br />
@@ -482,10 +466,8 @@ export default function TdrHalloweenFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-orange-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：贅沢朝食ビュッフェ・東京ディズニーシー散策＆秋のハーバーショー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-orange-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：贅沢朝食ビュッフェ・東京ディズニーシー散策＆秋のハーバーショー</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">07:30 ホテルのシェフ特製モーニングビュッフェを満喫</strong><br />
@@ -516,37 +498,29 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-500 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Important Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                ハロウィーン期間のパーク訪問で後悔しないための注意点
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">ハロウィーン期間のパーク訪問で後悔しないための注意点</h2>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  着替え場所と仮装マナーの厳守
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  着替え場所と仮装マナーの厳守</h3>
                 <p className="text-stone-600 leading-relaxed">
                   パーク内外のトイレでの着替えやメイクは厳禁です。必ず宿泊ホテルの客室または事前予約制の専用着替えスペースを利用しましょう。武器小道具の持ち込み制限にも要注意です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-orange-500" />
-                  週末チケットの早期完売対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-orange-500" />
+                  週末チケットの早期完売対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   10月の連休や週末はパークチケットが数週間前に売り切れます。ホテル宿泊者専用のチケット購入権利付きプランや、チケット確約オフィシャルプランの早期予約が推奨されます。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-purple-500" />
-                  海風による夜間の冷え込み対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-purple-500" />
+                  海風による夜間の冷え込み対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   舞浜は東京湾直結のため、秋の夜は海風で急激に気温が下がります。薄手のダウンやストール、ヒートインナー、カイロを準備してパレード待ちでの体温低下を防ぎましょう。
                 </p>
@@ -558,18 +532,14 @@ export default function TdrHalloweenFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-orange-500 pl-4 mb-6">
               <span className="text-xs font-bold text-orange-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                ディズニー・ハロウィーン よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">ディズニー・ハロウィーン よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-orange-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-orange-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-orange-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -580,9 +550,7 @@ export default function TdrHalloweenFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              秋の魔法にかけられたディズニーリゾートで、心躍るハロウィーンの思い出を
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">秋の魔法にかけられたディズニーリゾートで、心躍るハロウィーンの思い出を</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               ヴィランズが織りなす妖艶なパレード、心に残るキャラクター全身仮装、そして天然温泉や快適なベッドが待つ舞浜・新浦安の名宿。年に一度のスペシャルな秋の冒険へ、今すぐ旅立ちましょう。
             </p>

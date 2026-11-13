@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              大山・鍵掛峠の紅葉大パノラマと三朝川の風情！世界が認める高濃度ラジウム泉
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大山・鍵掛峠の紅葉大パノラマと三朝川の風情！世界が認める高濃度ラジウム泉</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             標高1,729mの「伯耆富士」こと鳥取県の名峰・大山。秋には西日本最大級のブナ原生林が黄金色に染まりあがり、南壁を望む「鍵掛峠（かぎかけとうげ）」からの大パノラマは息をのむ美しさを誇ります。大山ドライブの後は、三徳川沿いにレトロな温泉街が広がる「三朝温泉」へ。世界屈指の高濃度ラドンを含み、免疫力向上やアンチエイジング効果（ホルミシス効果）で知られる奇跡の温泉です。川沿いの河原風呂や足湯を楽しみ、11月6日解禁の本場「鳥取松葉ガニ」や鳥取和牛をふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                大山・鍵掛峠のブナ原生林黄金紅葉と荒々しい南壁
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                大山・鍵掛峠のブナ原生林黄金紅葉と荒々しい南壁</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 大山環状道路屈指のビュースポット鍵掛峠。むき出しの岩肌と、山裾を覆うブナやカエデの黄金色の絨毯が織りなすダイナミックな景観は必見です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                吸って・飲んで・浸かる！三徳川沿いの世界屈指ラジウム泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                吸って・飲んで・浸かる！三徳川沿いの世界屈指ラジウム泉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 湯気からラドンを吸入し、飲泉し、浸かることで全身の細胞を活性化。三朝橋の袂にある名物混浴露天「河原風呂」や各宿の趣向を凝らした回遊式大庭園風呂を満喫。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                11月解禁の鳥取ブランド「松葉ガニ」＆鳥取和牛オレイン55
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                11月解禁の鳥取ブランド「松葉ガニ」＆鳥取和牛オレイン55</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 鳥取港や境港で水揚げされるトップブランド松葉ガニ。焼きガニ、甲羅味噌、カニ鍋のフルコースと、上質なオレイン酸を豊富に含む「鳥取和牛」の極上ステーキを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.43 <span className="text-stone-400 text-xs">(2180件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    三朝温泉　依山楼　岩崎
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">三朝温泉　依山楼　岩崎</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 鳥取県東伯郡三朝町三朝365-1 ｜ ◆車 中国道院庄IC60分／山陰道泊東郷IC20分 ◆JR 倉吉駅送迎バス14時20分～18時 ※要予約（前日まで）
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.42 <span className="text-stone-400 text-xs">(278件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    三朝温泉　旅館　大橋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">三朝温泉　旅館　大橋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 鳥取県東伯郡三朝町三朝302-1 ｜ JR山陰本線-倉吉駅下車～バス20分／中国道-院庄ICよりＲ１７９号を倉吉方面に約50分/ANA羽田～鳥取～バス～倉吉
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.90 <span className="text-stone-400 text-xs">(40件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    三朝温泉　ちくま旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">三朝温泉　ちくま旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 鳥取県東伯郡三朝町山田121-1 ｜ ＪＲ　倉吉駅よりお車にて約２０分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】三朝温泉 依山楼 岩崎を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と三朝温泉 依山楼 岩崎の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

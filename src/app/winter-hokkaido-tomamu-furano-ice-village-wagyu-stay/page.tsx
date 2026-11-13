@@ -301,9 +301,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              極寒が創り出す奇跡の青い氷の街と、白銀の富良野で味わう至高の肉とチーズ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">極寒が創り出す奇跡の青い氷の街と、白銀の富良野で味わう至高の肉とチーズ</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <Sparkles className="w-4 h-4 text-indigo-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              トマムの氷の絶景と富良野雪景色・富良野和牛を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">トマムの氷の絶景と富良野雪景色・富良野和牛を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期やプランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function HokkaidoTomamuFuranoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬のトマム氷の街と白銀の富良野 2泊3日白銀リゾートモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬のトマム氷の街と白銀の富良野 2泊3日白銀リゾートモデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：トマム到着と夕暮れのアイスヴィレッジ幻想体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：トマム到着と夕暮れのアイスヴィレッジ幻想体験</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 新千歳空港からJR特急またはリゾートバスで星野リゾート トマムへ到着。チェックイン後、まずは雪景色を望む露天風呂「木林の湯」で旅の疲れを癒やします。夕方17時、氷点下に冷え込む中、青い光に輝く「アイスヴィレッジ」へ。一枚氷のドームが並ぶ氷の街を歩き、氷のBarで氷グラスのカクテルを一杯。氷の滑り台を楽しんだ後、ホタルストリートのレストランで北海道産牛のグリルディナーを味わいます。
               </p>
@@ -475,9 +465,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：山頂の「霧氷テラス」絶景と白銀の富良野・ニングルテラス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：山頂の「霧氷テラス」絶景と白銀の富良野・ニングルテラス</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝、雲海ゴンドラに乗車して標高1,088mの「霧氷テラス」へ。氷点下の空気の中で純白の霧氷をまとった木々と日高山脈の壮大な山並みを鑑賞。展望カフェで温かいスイーツを楽しんだ後、JRまたはリゾートライナーで富良野へ移動。新富良野プリンスホテルにチェックインし、夕暮れには雪の森に優しい灯りが灯る「ニングルテラス」のログハウスを散策。夜は富良野温泉「紫彩の湯」に浸かり、富良野和牛ステーキと濃厚ふらのチーズフォンデュに舌鼓。
               </p>
@@ -486,9 +474,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：富良野の美景と北国の味覚・チーズ工房巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：富良野の美景と北国の味覚・チーズ工房巡り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は十勝岳連峰の雄大な雪景色を眺めながら「富良野チーズ工房」へ。本格チーズの製造工程を見学し、焼きたてのピッツァを堪能。市街地で名物「富良野オムカレー」を味わい、ふらのワインやチーズをお土産に購入。旭川空港または新千歳空港へ向かい、感動の北国冬リゾート旅行を締めくくります。
               </p>
@@ -502,9 +488,7 @@ export default function HokkaidoTomamuFuranoWinterPage() {
             <ThermometerSun className="w-4 h-4 text-indigo-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            氷点下30度のトマム・富良野を快適に楽しむ極寒対策とスマホの防寒
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">氷点下30度のトマム・富良野を快適に楽しむ極寒対策とスマホの防寒</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-indigo-100 leading-relaxed pt-2">
             <div className="space-y-2 bg-stone-900/60 p-4 rounded-2xl border border-indigo-800/60">
               <span className="font-bold text-white block">【スマホ・カメラの急速バッテリー消費対策】</span>
@@ -528,26 +512,20 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <ShoppingBag className="w-4 h-4 text-indigo-800" />
               トマム・富良野の冬名物＆おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              北の大地の恵みが凝縮された富良野チーズとクラフト名品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">北の大地の恵みが凝縮された富良野チーズとクラフト名品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                富良野チーズ工房の「ワインチェダー」＆ふらのワイン「羆の撃」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                富良野チーズ工房の「ワインチェダー」＆ふらのワイン「羆の撃」</h3>
               <p>
                 富良野チーズ工房で作られる日本で唯一の「ワインチェダー」は、赤ワインをチーズの表面に練り込んだ美しい大理石模様と芳醇なアロマが特徴。冬の晩酌に最適で、地元産のぶどうだけで醸造される本格熟成赤ワイン「ふらのワイン 羆の撃（ひぐまのげき）」とともに購入すれば、北海道のテロワールを自宅でもじっくり楽しめます。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                ニングルテラスの雪結晶クラフト＆フラノデリスの「ドゥーブルフロマージュ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                ニングルテラスの雪結晶クラフト＆フラノデリスの「ドゥーブルフロマージュ」</h3>
               <p>
                 新富良野プリンスホテル敷地内の「ニングルテラス」では、「森のろうそく屋」の木漏れ日を模したアロマキャンドルや、本物の雪の結晶を閉じ込めたガラスアクセサリーが女性に大人気。スイーツでは、菓子工房フラノデリスの瓶入り「ふらの牛乳プリン」や、とろける2層のチーズケーキ「ドゥーブルフロマージュ」が冬の北海道を代表する絶品スイーツです。
               </p>
@@ -562,27 +540,21 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <Compass className="w-4 h-4 text-indigo-800" />
               北海道内陸の極寒環境・ディープダイブ解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              氷点下30度が生み出す「シルキースノー」と青い氷のドーム建築の秘密
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">氷点下30度が生み出す「シルキースノー」と青い氷のドーム建築の秘密</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-indigo-700" />
-                日本屈指の内陸性放射冷却と「水分含有率5%」の奇跡の粉雪
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Snowflake className="w-4 h-4 text-indigo-700" />
+                日本屈指の内陸性放射冷却と「水分含有率5%」の奇跡の粉雪</h3>
               <p>
                 トマムと富良野は四方を日高山脈と十勝岳連峰に囲まれた盆地状の地形です。冬は海からの湿った風が山脈で遮られるため、日本海側やオホーツク海側と比べて湿度が非常に低く、放射冷却によって夜間に地表の熱が急激に宇宙へ逃げます。このマイナス20度を下回る極度の乾燥と冷気の中で降る雪は、水分含有率がわずか5%程度しかない「シルキースノー」となり、握っても固まらないサラサラの雪煙を巻き上げます。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-indigo-700" />
-                一枚氷で造り上げる「アイスヴィレッジ」の特殊特殊工法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-indigo-700" />
+                一枚氷で造り上げる「アイスヴィレッジ」の特殊特殊工法</h3>
               <p>
                 アイスヴィレッジのドーム型氷建造物は、巨大な空気膜（風船のようなバルーン）を膨らませ、その上からトマムの極冷水を何日もかけて幾層にも吹き付けて凍らせ、氷の厚みが数十センチに達した後に内部のバルーンを抜くという特殊な工法で作られています。継ぎ目のない一体成型の氷だからこそ高い強度と透明度を誇り、日光や照明が当たると氷に含まれる微細な気泡が光を散乱させて神秘的なコバルトブルーに輝きます。
               </p>
@@ -597,18 +569,14 @@ export default function HokkaidoTomamuFuranoWinterPage() {
               <HelpCircle className="w-4 h-4 text-indigo-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期のトマム・富良野旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期のトマム・富良野旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

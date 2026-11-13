@@ -108,9 +108,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  お気に入りの色浴衣を選んで街へ！写真映え抜群のレトロノスタルジックな風景
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">お気に入りの色浴衣を選んで街へ！写真映え抜群のレトロノスタルジックな風景</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 色鮮やかな女性用色浴衣や粋な男性用浴衣の無料レンタル、番傘や巾着袋の貸出サービスが充実。太鼓橋の上やガス灯が灯る夕暮れの川沿い、木造三層四層の歴史建築を背景に撮る浴衣姿の写真は、旅の最高の思い出の1枚になります。カップルや女子旅、夫婦旅行に絶大な人気を誇ります。
@@ -123,9 +121,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  共同浴場巡りの醍醐味！城崎の「七湯めぐり」や渋温泉の「九湯めぐり」を満喫
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">共同浴場巡りの醍醐味！城崎の「七湯めぐり」や渋温泉の「九湯めぐり」を満喫</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 宿の宿泊者には外湯めぐりパス（デジタル湯めぐり券など）が配布され、個性豊かな外湯（共同浴場）を何度でも無料で利用可能。滝風呂、洞窟風呂、ヒノキ風呂など異なる趣や泉質を巡りながら、地元の人々との温かな触れ合いを楽しむ本物の湯治場体験が味わえます。
@@ -138,9 +134,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  射的、スマートボール、温泉まんじゅう、地ビール！夜まで賑わう温泉街の夜散歩
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">射的、スマートボール、温泉まんじゅう、地ビール！夜まで賑わう温泉街の夜散歩</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 夕食後も温泉街の楽しみは続きます。昭和レトロな射的場やスマートボールで盛り上がり、湯上がりに地元のクラフトビールやできたてアツアツの温泉まんじゅうを頬張るひととき。夜風を感じながら下駄の音を響かせて歩く夜散歩は、日常を忘れさせる非日常の楽しさに満ちています。
@@ -183,9 +177,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県豊岡市・城崎温泉の中心に建つ料理自慢の老舗情緒旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    城崎温泉　料理旅館　よしはる
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">城崎温泉　料理旅館　よしはる</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     城崎温泉のシンボルである大谿川の柳並木通りに近く、七つの外湯めぐりへ出かけるのに絶好のロケーションを誇る名門料理旅館。宿では色鮮やかな色浴衣の無料貸出を行っており、浴衣と下駄に着替えてすぐに風情ある湯の街へ繰り出せます。館内には24時間入浴可能な天然温泉大浴場も完備。夕食には世界最高峰の肉質を誇るブランド牛「但馬牛」のすき焼きやステーキ、冬には日本海名物の活松葉ガニ料理が贅沢に並び、至高の美食と湯めぐりの休日を堪能できます。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県山ノ内町・信州渋温泉の石畳坂道に佇むノスタルジック宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    渋温泉　いかり屋旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">渋温泉　いかり屋旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     千三百年の歴史を誇る信州渋温泉のメインストリート・石畳の小路沿いに佇む風情あふれる温泉宿。渋温泉名物の「九湯めぐり（厄除巡浴外湯めぐり）」の鍵を受け取り、手ぬぐいにスタンプを押しながら九つの外湯を巡る伝統体験が楽しめます。宿自慢の源泉かけ流し天然温泉は肌当たり滑らかで、身体の芯からポカポカに温まります。信州サーモンや信州牛、地元高原野菜を使った素朴で心温まる田舎会席料理が、旅情を優しく包み込みます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山形県尾花沢市・銀山温泉の大正浪漫木造建築美とガス灯の宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    銀山温泉　古勢起屋別館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">銀山温泉　古勢起屋別館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     大正浪漫の面影を今に伝える奇跡の温泉街・銀山温泉の川沿いに佇む木造建築の老舗別館。夕暮れ時になると銀山川の両岸に灯るガス灯と、川面に映るレトロな街並みは息を呑むほどの美しさ。宿のレトロな客室からはこの幻想的な温泉街を一望できます。源泉かけ流しの名湯で旅の疲れを癒やした後は、山形名物の尾花沢牛や山菜、鮎など地元の恵みを凝縮した手作り会席に舌鼓。まるで大正時代にタイムスリップしたかのような特別な宿泊体験をお楽しみください。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 料理旅館 よしはるを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 料理旅館 よしはるを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoRetroOnsenTownYukataStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 料理旅館 よしはるの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 料理旅館 よしはるの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            立ち上る湯けむりと石畳の坂道——十三の外湯を巡り、源泉掛け流しの霊泉と信州の美味に浸る素朴で贅沢な休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">立ち上る湯けむりと石畳の坂道——十三の外湯を巡り、源泉掛け流しの霊泉と信州の美味に浸る素朴で贅沢な休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             長野県下高井郡野沢温泉村、毛無山の山麓に広がる野沢（のざわ）温泉。奈良時代に行基や聖武天皇の時代に開湯されたと伝わり、古くから湯治場として栄えてきた日本を代表する名湯です。国の天然記念物「麻釜（おがま）」では100度近い高温泉が湧き出し、地元の人々が野菜や野沢菜を茹でる日常の風景が今なお息づいています。温泉街には「大湯」をはじめとする13箇所の外湯（共同浴場）が点在し、地元住民組織「湯仲間」によって大切に管理され、訪れる旅人にも開放されています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県野沢温泉村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  野沢温泉　旅館　さかや
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">野沢温泉　旅館　さかや</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百余年・野沢を代表する宮大工建築の最高峰！自然湧出する自家源泉を注ぐ名湯「鷹の湯」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  野沢温泉 旅館 さかや —— 伝統の木造建築美と源泉の温もり。太い梁が交差する湯屋と極上の創作和食会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">野沢温泉 旅館 さかや —— 伝統の木造建築美と源泉の温もり。太い梁が交差する湯屋と極上の創作和食会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 宮大工が組み上げた伝統の湯屋建築「鷹の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">宮大工が組み上げた伝統の湯屋建築「鷹の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">高い天井と太い梁が美しい総木造りの大浴場。自然湧出する自家源泉を非加熱・無加水で掛け流し、温泉本来の力強い効能を肌で実感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本庭園を望む落ち着いた和室とモダンなサロンラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本庭園を望む落ち着いた和室とモダンなサロンラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">歴史の風格を感じさせる館内。手入れされた庭園や暖炉のあるラウンジで、静かに大人の時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 信州牛の陶板焼きや地元の山里の恵みを味わう特選会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">信州牛の陶板焼きや地元の山里の恵みを味わう特選会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が腕によりをかけて仕立てる月替わりの会席。器の美しさと出汁の深い味わいに職人技が光ります。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県野沢温泉村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  野沢温泉　河一屋旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">野沢温泉　河一屋旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   野沢温泉屈指の名湯「真湯」を引く白濁の露天風呂！信州プレミアム牛ステーキと郷土の温もり
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  野沢温泉 河一屋旅館 —— 源泉掛け流しのにごり湯露天風呂。心温まる接客と信州牛を味わう癒やしの宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">野沢温泉 河一屋旅館 —— 源泉掛け流しのにごり湯露天風呂。心温まる接客と信州牛を味わう癒やしの宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 神秘的なエメラルドグリーンから白濁へと変わる名湯「真湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">神秘的なエメラルドグリーンから白濁へと変わる名湯「真湯」</h5>
                     <p className="text-stone-600 leading-relaxed">湯の花が舞う良質な硫黄泉を引き込んだ露天風呂。内湯には麻釜源泉を引いており、館内で二つの泉質を愉しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 温泉街の中心部や外湯へ徒歩すぐの便利な立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">温泉街の中心部や外湯へ徒歩すぐの便利な立地</h5>
                     <p className="text-stone-600 leading-relaxed">大湯や麻釜への散策に最適なロケーション。湯上がりの外湯めぐりや足湯散歩をストレスなく楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最高ランク信州プレミアム牛やすき焼きが自慢の夕食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最高ランク信州プレミアム牛やすき焼きが自慢の夕食</h5>
                     <p className="text-stone-600 leading-relaxed">柔らかくジューシーな信州牛や地元野菜をふんだんに取り入れた郷土料理。温かい手作りのおもてなしが評判です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">長野県野沢温泉村</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  野沢温泉　村のホテル　住吉屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">野沢温泉　村のホテル　住吉屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   麻釜のすぐ隣に佇む明治２年創業の歴史宿！自家源泉かけ流しの湯とアケビ細工が彩る民芸の美
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  野沢温泉 村のホテル 住吉屋 —— 麻釜の湯けむりを望む特等席。自家源泉の滑らかな湯と素朴な民芸空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">野沢温泉 村のホテル 住吉屋 —— 麻釜の湯けむりを望む特等席。自家源泉の滑らかな湯と素朴な民芸空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する良質な自家源泉を引く大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する良質な自家源泉を引く大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">滑らかな肌触りの弱アルカリ性硫黄泉。湯口から絶え間なく注がれる新鮮な名湯に浸かり、疲れた体を芯から解きほぐせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 麻釜の目の前に位置する温泉情緒たっぷりのロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">麻釜の目の前に位置する温泉情緒たっぷりのロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">地元の人々が野菜を茹でる麻釜の風景を間近に見下ろす立地。朝の散歩や外湯めぐりに最高の拠点です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 信州の季節の食材をふんだんに使った手作り創作料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">信州の季節の食材をふんだんに使った手作り創作料理</h5>
                     <p className="text-stone-600 leading-relaxed">地元の旬の野菜や山菜、きのこ、岩魚などを使った滋味豊かな料理。信州の地酒とともにゆったりと味わえます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 野沢温泉街・外湯めぐり＆麻釜（おがま）観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 野沢温泉街・外湯めぐり＆麻釜（おがま）観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                十三の外湯めぐり（大湯・河原湯・真湯など）と集印帳散歩
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                十三の外湯めぐり（大湯・河原湯・真湯など）と集印帳散歩</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街に点在する無料の共同浴場。一番人気の「大湯」は木造二階建ての堂々たる湯屋建築。各外湯の記念スタンプを集める「集印帳めぐり」も人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                国の天然記念物「麻釜（おがま）」の見学
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                国の天然記念物「麻釜（おがま）」の見学</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 100度近い高温泉が湧き出す野沢温泉のシンボル。地元住民が山菜や野沢菜、卵を茹でる昔ながらの生活風景を見学できます（観光客の立ち入り制限あり）。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                野沢温泉スキー場とサマーアクティビティ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                野沢温泉スキー場とサマーアクティビティ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 極上のパウダースノーを誇る日本屈指のビッグゲレンデ。夏から秋にはマウンテンバイクやジップライン、高原植物の観察が楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              長野県野沢温泉村ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">長野県野沢温泉村ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】野沢温泉 旅館 さかやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】野沢温泉 旅館 さかやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と野沢温泉 旅館 さかやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と野沢温泉 旅館 さかやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

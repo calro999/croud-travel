@@ -121,9 +121,7 @@ export default function Page() {
       />
         {/* Intro Section */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">
-            はじめに：秋の豊田・香嵐渓・猿投が魅せる極上の錦秋美と温泉旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-amber-950 border-b-2 border-amber-600 pb-3 mb-6">はじめに：秋の豊田・香嵐渓・猿投が魅せる極上の錦秋美と温泉旅</h2>
           <p className="text-slate-700 leading-relaxed mb-4">
             10月から11月にかけて、愛知県・豊田・香嵐渓・猿投エリアは一年で最も艶やかでドラマチックな季節を迎えます。澄み渡る秋空の下、木々が深紅や山吹色、黄金色へと染まりゆく圧巻のグラデーションは、訪れる旅人の心を奪ってやみません。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
 
         {/* Highlight Map / Summary Points */}
         <section className="bg-amber-50 rounded-2xl p-6 sm:p-8 border border-amber-200 mb-12">
-          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">
-            <span>🍁</span> 豊田・香嵐渓・猿投 秋旅の3大魅力ポイント
-          </h3>
+          <h3 className="text-lg sm:text-xl font-bold text-amber-900 mb-4 flex items-center gap-2">豊田・香嵐渓・猿投 秋旅の3大魅力ポイント</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white p-5 rounded-xl border border-amber-100 shadow-sm">
               <div className="text-amber-700 font-bold text-base mb-2">① 標高差が織りなす絶景パノラマ</div>
@@ -202,17 +198,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 三河牛の溶岩焼き、三河湾直送の天然鮮魚、愛知名物の八丁味噌仕立て鍋、猿投温泉の源泉水で炊き上げた極上釜飯
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 静寂な山あいに包まれ、飲んで良し浸かって良しのラドン温泉で体の内側から細胞を活性化。香嵐渓の紅葉狩りとセットで訪れる極上リトリート。
               </p>
@@ -271,17 +263,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 飛騨牛・三河牛の食べ比べ陶板焼き、子持ち鮎の塩焼き、季節の山菜と松茸の釜飯会席、名物手作り豆腐
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 南国植物が生い茂る巨大なジャングル大風呂は圧巻の開放感。湯けむりの中でゆったりと旅の疲れを解きほぐせます。
               </p>
@@ -340,17 +328,13 @@ export default function Page() {
 
           <div className="bg-stone-50 rounded-xl p-5 border border-stone-200 mb-6 space-y-4">
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>🍽️</span> 料理のこだわり・秋の旬会席
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5"><span>️</span> 料理のこだわり・秋の旬会席</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 奥三河のジビエ（猪・鹿肉）鍋、奥矢作名物の天然鮎・あまごの塩焼き、五平餅、山里の手打ちそば会席
               </p>
             </div>
             <div>
-              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">
-                <span>✨</span> おすすめの過ごし方・魅力
-              </h5>
+              <h5 className="font-bold text-stone-800 text-sm mb-1 flex items-center gap-1.5">おすすめの過ごし方・魅力</h5>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 川のせせらぎと満天の星に包まれる素朴な贅沢。観光地の喧騒を離れ、奥三河の自然の恵みと温かいもてなしに癒やされます。
               </p>
@@ -371,7 +355,7 @@ export default function Page() {
 
         {/* Furusato Tax Guide Section */}
         <section className="bg-gradient-to-br from-amber-900 to-stone-900 text-white rounded-2xl p-6 sm:p-8 shadow-lg mb-12">
-          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">💡 楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
+          <h3 className="text-xl sm:text-2xl font-bold mb-4 text-amber-200">楽天ふるさと納税で「宿泊クーポン」を賢く手に入れる3ステップ</h3>
           <p className="text-stone-200 text-sm sm:text-base leading-relaxed mb-6">
             楽天ふるさと納税を利用すれば、愛知県内の対象宿泊施設で使える楽天トラベルクーポンが寄付額に応じて返礼品として付与されます。控除上限内なら自己負担実質2,000円（寄付額の最大30%クーポン進呈）で高級宿にお得に泊まれるお得な活用法をチェックしましょう。
           </p>
@@ -405,24 +389,18 @@ export default function Page() {
           <h3 className="text-xl sm:text-2xl font-bold text-slate-900 border-b border-slate-200 pb-3 mb-6">よくある質問（FAQ）</h3>
           <div className="space-y-6">
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 豊田・香嵐渓・猿投の紅葉の見頃時期はいつですか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 豊田・香嵐渓・猿投の紅葉の見頃時期はいつですか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 例年11月の燃えるようなもみじライトアップと天然ラドン療養泉が見頃となります。標高の高い山頂付近から徐々に色づきが始まり、山麓の温泉街へと紅葉前線が降りてくるため、長期間にわたって楽しめます。
               </p>
             </div>
             <div className="border-b border-slate-100 pb-4">
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> ふるさと納税クーポンと楽天トラベルの他セールクーポンは併用できますか？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">楽天トラベルでは、原則として自治体発行のふるさと納税クーポンと一部の宿クーポン等を組み合わせて利用可能です。予約ステップで適用可能なクーポンが自動表示されます。
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2">
-                <span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？
-              </h4>
+              <h4 className="font-bold text-slate-800 text-base mb-2 flex items-center gap-2"><span className="text-amber-600 font-bold">Q.</span> 秋の旅行時に必要な服装や装備は？</h4>
               <p className="text-sm text-slate-600 leading-relaxed pl-6">
                 10月〜11月の豊田・香嵐渓・猿投は朝晩の冷え込みが厳しくなります。脱ぎ着しやすいフリースや厚手のジャケット、歩きやすいスニーカーやトレッキングシューズの着用をおすすめします。
               </p>
@@ -442,9 +420,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】しあわせ隠れ里 猿投温泉 癒しの宿 金泉閣を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

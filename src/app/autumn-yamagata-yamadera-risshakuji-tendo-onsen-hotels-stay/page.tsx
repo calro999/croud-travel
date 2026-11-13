@@ -55,9 +55,7 @@ export default function YamaderaTendoAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            五大堂から望む圧巻の秋パノラマと天童温泉の湯量豊富な癒やし
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">五大堂から望む圧巻の秋パノラマと天童温泉の湯量豊富な癒やし</h2>
           <p className="mb-4 text-stone-700">
             慈覚大師円仁が開山した霊場「山寺（宝珠山立石寺）」。根本中堂から奥之院へと続く1,015段の石段は、一段登るごとに煩悩が消え去ると伝えられます。杉木立を抜けると突如現れる切り立った崖上の舞台「五大堂」からは、里山とJR仙山線の線路を包み込む赤や黄色の燃えるような紅葉パノラマが広がり、登山の疲れを一瞬で忘れさせてくれます。
           </p>
@@ -69,10 +67,8 @@ export default function YamaderaTendoAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！天童温泉の厳選名旅館5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！天童温泉の厳選名旅館5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function YamaderaTendoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.72</span>
                     <span className="text-stone-400 text-xs">(188件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天童温泉　湯の香　松の湯
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天童温泉　湯の香　松の湯</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / 山形新幹線東京駅から天童駅まで約2時間45分。天童駅から車で約5分
                   </p>
@@ -142,9 +136,7 @@ export default function YamaderaTendoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.64</span>
                     <span className="text-stone-400 text-xs">(624件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天童温泉　松伯亭　あづま荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天童温泉　松伯亭　あづま荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / ＪＲ天童駅下車（東京～天童間　山形新幹線で約２時間４０分）／山形自動車道　山形北ＩＣより２０分
                   </p>
@@ -189,9 +181,7 @@ export default function YamaderaTendoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.58</span>
                     <span className="text-stone-400 text-xs">(1055件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天童温泉　ほほえみの宿　滝の湯
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天童温泉　ほほえみの宿　滝の湯</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / ＪＲ山形新幹線　天童駅より車にて３分、徒歩にて１５分（無料送迎あり）　山形北ＩＣより２０分
                   </p>
@@ -236,9 +226,7 @@ export default function YamaderaTendoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.56</span>
                     <span className="text-stone-400 text-xs">(366件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天童温泉　ほほえみの空湯舟　つるや
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天童温泉　ほほえみの空湯舟　つるや</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / JR天童駅よりお車にて５分、徒歩にて１５分（無料送迎あり）。山形北ＩＣより１５分。
                   </p>
@@ -283,9 +271,7 @@ export default function YamaderaTendoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.55</span>
                     <span className="text-stone-400 text-xs">(1899件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天童温泉　美味求真の宿　天童ホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天童温泉　美味求真の宿　天童ホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 天童駅 / 山形新幹線で東京駅ー天童駅3H。天童駅東口から無料送迎4分（要予約）。天童ICから10分、山形北ICから15分。街中の宿
                   </p>
@@ -330,9 +316,7 @@ export default function YamaderaTendoAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の山形：山寺（立石寺）の奇岩絶壁紅葉クライミングと天童温泉！美食と名湯を楽しむおすすめ旅館5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function YamaderaTendoAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の山形で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の山形で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

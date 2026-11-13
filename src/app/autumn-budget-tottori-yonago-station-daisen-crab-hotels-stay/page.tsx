@@ -58,10 +58,8 @@ export default function AutumnBudgetHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            米子駅前に温泉大浴場付き＆高コスパ宿が集結！浮いた予算で本場の松葉ガニ・紅ズワイガニを満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            米子駅前に温泉大浴場付き＆高コスパ宿が集結！浮いた予算で本場の松葉ガニ・紅ズワイガニを満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             山陰の鉄道結節点・米子駅前は、近年リニューアルが進み美しく生まれ変わった注目のエリア。人工温泉大浴場付きホテルや駅直結ホテルが、秋の平日なら1泊2,000円台〜5,000円台で宿泊可能。浮いた予算で境港直送のカニ尽くし会席や鳥取和牛の炭火焼きを心ゆくまで堪能できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  グリーンリッチホテル米子駅前　人工温泉・二股湯の華
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">グリーンリッチホテル米子駅前　人工温泉・二股湯の華</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   米子
@@ -152,9 +148,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ米子駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ米子駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   米子
@@ -208,9 +202,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  スーパーホテル米子駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル米子駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   米子
@@ -264,9 +256,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルハーベストイン米子
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルハーベストイン米子</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   米子
@@ -320,9 +310,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルフロンティア米子
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルフロンティア米子</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   米子
@@ -386,9 +374,7 @@ export default function AutumnBudgetHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「米子駅前：名峰大山の紅葉＆境港紅ズワイガニ！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -458,9 +444,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「米子駅前」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「米子駅前」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

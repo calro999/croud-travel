@@ -70,9 +70,7 @@ export default function KanazawaBudgetGuide() {
       </p>
 
       <section className="mb-10 bg-emerald-50 rounded-3xl p-6">
-        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4 border-b-2 border-emerald-200 pb-2">
-          パターン別！金沢旅行の合計費用 早見表
-        </h2>
+        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4 border-b-2 border-emerald-200 pb-2">パターン別！金沢旅行の合計費用 早見表</h2>
         <div className="overflow-x-auto">
           <table className="w-full text-left bg-white rounded-lg overflow-hidden shadow-sm">
             <thead className="bg-emerald-100 text-emerald-900">
@@ -121,27 +119,25 @@ export default function KanazawaBudgetGuide() {
       </section>
 
       <section className="mb-10">
-        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">
-          交通費のリアル（東京・大阪・名古屋から）
-        </h2>
+        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">交通費のリアル（東京・大阪・名古屋から）</h2>
         <p className="text-gray-700 mb-4">金沢へのアクセスは新幹線や特急、高速バスで大きく変わります。</p>
         <ul className="space-y-4 mb-6">
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
-            <h3 className="font-bold text-lg text-emerald-700">🗼 東京から</h3>
+            <h3 className="font-bold text-lg text-emerald-700">東京から</h3>
             <p className="text-gray-600 mb-2">北陸新幹線なら片道約14,380円、夜行バスなら3,000円〜。費用を抑えたいならバス一択！</p>
             <Link href="/tokyo-kanazawa-bus-vs-shinkansen-guide/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 東京〜金沢のバス・新幹線徹底比較はこちら
             </Link>
           </li>
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
-            <h3 className="font-bold text-lg text-emerald-700">🐙 大阪から</h3>
+            <h3 className="font-bold text-lg text-emerald-700">大阪から</h3>
             <p className="text-gray-600 mb-2">サンダーバード＋新幹線で約9,410円、高速バスなら約3,500円〜。</p>
             <Link href="/osaka-kanazawa-highway-bus-model-course/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 大阪〜金沢の高速バスモデルコースはこちら
             </Link>
           </li>
           <li className="bg-white border border-gray-200 rounded-xl p-4 shadow-sm">
-            <h3 className="font-bold text-lg text-emerald-700">🍤 名古屋から</h3>
+            <h3 className="font-bold text-lg text-emerald-700">名古屋から</h3>
             <p className="text-gray-600 mb-2">特急しらさぎで約7,330円、高速バスなら約3,000円台〜。</p>
             <Link href="/nagoya-kanazawa-bus-vs-train-guide/" className="text-amber-600 hover:underline font-medium text-sm">
               ▶ 名古屋〜金沢のバス・電車比較はこちら
@@ -151,12 +147,10 @@ export default function KanazawaBudgetGuide() {
       </section>
 
       <section className="mb-10">
-        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">
-          食費の内訳（私のおすすめ店と金額）
-        </h2>
+        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">食費の内訳（私のおすすめ店と金額）</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-amber-50 rounded-2xl p-5 border border-amber-100">
-            <h3 className="text-amber-800 font-bold mb-2 text-lg">☀️ 朝食</h3>
+            <h3 className="text-amber-800 font-bold mb-2 text-lg">️ 朝食</h3>
             <ul className="text-gray-700 space-y-2 text-sm">
               <li>・近江町市場 海鮮丼: <strong>2,200円</strong></li>
               <li>・もりもり寿し: <strong>1,800円</strong></li>
@@ -164,7 +158,7 @@ export default function KanazawaBudgetGuide() {
             <p className="text-xs text-gray-500 mt-2">朝から贅沢に海鮮！近江町市場は外せません。</p>
           </div>
           <div className="bg-amber-50 rounded-2xl p-5 border border-amber-100">
-            <h3 className="text-amber-800 font-bold mb-2 text-lg">🌤️ 昼食</h3>
+            <h3 className="text-amber-800 font-bold mb-2 text-lg">️ 昼食</h3>
             <ul className="text-gray-700 space-y-2 text-sm">
               <li>・ハントンライス: <strong>1,100円</strong></li>
               <li>・金沢カレー: <strong>850円</strong></li>
@@ -172,7 +166,7 @@ export default function KanazawaBudgetGuide() {
             <p className="text-xs text-gray-500 mt-2">B級グルメで賢く節約。ボリューム満点！</p>
           </div>
           <div className="bg-amber-50 rounded-2xl p-5 border border-amber-100">
-            <h3 className="text-amber-800 font-bold mb-2 text-lg">🌙 夕食</h3>
+            <h3 className="text-amber-800 font-bold mb-2 text-lg">夕食</h3>
             <ul className="text-gray-700 space-y-2 text-sm">
               <li>・金沢おでん: <strong>2,500円</strong></li>
               <li>・加賀料理: <strong>4,500円</strong></li>
@@ -183,9 +177,7 @@ export default function KanazawaBudgetGuide() {
       </section>
 
       <section className="mb-10">
-        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">
-          入場料・体験・お土産のリアルな出費
-        </h2>
+        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">入場料・体験・お土産のリアルな出費</h2>
         <ul className="list-disc list-inside text-gray-700 space-y-2 mb-4 bg-gray-50 p-6 rounded-2xl">
           <li><strong>兼六園 入園料:</strong> 320円（安くて最高！）</li>
           <li><strong>21世紀美術館 コレクション展:</strong> 1,200円（※特別展は別途）</li>
@@ -196,9 +188,7 @@ export default function KanazawaBudgetGuide() {
       </section>
 
       <section className="mb-10">
-        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">
-          宿泊費の3段階とおすすめホテル
-        </h2>
+        <h2 className="font-journal-serif text-2xl font-semibold text-emerald-800 mb-4">宿泊費の3段階とおすすめホテル</h2>
         <p className="text-gray-700 mb-6">
           金沢のホテルは用途に合わせて3つの価格帯から選べます。
           ビジネスホテル（5,000〜8,000円）、駅前温泉ホテル（9,000〜15,000円）、高級旅館（25,000円〜）。
@@ -207,9 +197,7 @@ export default function KanazawaBudgetGuide() {
         
       {/* 賢く浮かす！金沢旅行の節約テクニック */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          金沢旅行の費用を浮かす3大節約テクニック
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">金沢旅行の費用を浮かす3大節約テクニック</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-5 rounded-2xl border border-slate-100 shadow-sm">
             <h3 className="font-bold text-emerald-900 mb-2">1. 兼六園の早朝無料入園を活用</h3>
@@ -234,9 +222,7 @@ export default function KanazawaBudgetGuide() {
 
       {/* よくある質問 FAQ */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">
-          金沢旅行 費用・予算のよくある質問（FAQ）
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-emerald-800 mb-6 border-b-2 border-emerald-200 pb-2">金沢旅行 費用・予算のよくある質問（FAQ）</h2>
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
             <h3 className="font-bold text-slate-800 mb-2">Q. 1泊2日の総額費用はいくら？</h3>
@@ -297,9 +283,7 @@ export default function KanazawaBudgetGuide() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「金沢旅行 費用：1泊2日・2泊3日いくらかかる？交通費・宿泊費・食費の内訳＆節約術」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -360,9 +344,7 @@ export default function KanazawaBudgetGuide() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「金沢旅行 費用」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「金沢旅行 費用」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

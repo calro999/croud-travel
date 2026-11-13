@@ -266,10 +266,8 @@ export default function OkunikkoWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 奥日光の本格雪見温泉</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月奥日光の白銀世界と濃厚にごり湯】<br className="hidden sm:inline" />
-            日本屈指のエメラルド硫黄泉と日光湯波会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月奥日光の白銀世界と濃厚にごり湯】<br className="hidden sm:inline" />
+            日本屈指のエメラルド硫黄泉と日光湯波会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             標高約1500mの雲上に広がる純白の雪国。空気に触れるとエメラルドグリーンから乳白色へと変化する奇跡の硫黄泉露天風呂で温まり、名物日光湯波ととちぎ和牛に舌鼓を打つ極上の冬旅。
           </p>
@@ -295,9 +293,7 @@ export default function OkunikkoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Alpine Snow & Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                首都圏からわずか2時間半。標高1500mに広がる奇跡の雪見天国
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">首都圏からわずか2時間半。標高1500mに広がる奇跡の雪見天国</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function OkunikkoWinterPage() {
           </p>
           <div className="bg-teal-50/70 rounded-2xl p-5 border border-teal-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-teal-700" />
-                奥日光の冬旅は「バス移動＋にごり湯宿」が鉄則
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-teal-700" />
+                奥日光の冬旅は「バス移動＋にごり湯宿」が鉄則</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 雪道運転の不安を解消する東武バスのフリーパスが便利。湯上がり後は湯冷め知らずの濃厚硫黄泉で極楽のひとときを。
               </p>
@@ -332,9 +326,7 @@ export default function OkunikkoWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の奥日光湯元温泉で感動する3つの特別な体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の奥日光湯元温泉で感動する3つの特別な体験</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function OkunikkoWinterPage() {
         <section id="hotel-list" className="space-y-12">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Selected Hot Spring Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              奥日光湯元の極上にごり湯と美食を味わう名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">奥日光湯元の極上にごり湯と美食を味わう名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルで4.0以上の高評価を誇る奥日光湯元温泉の宿。加水なしの源泉かけ流し、雪見露天の絶景、日光湯波料理に優れた宿を厳選。
             </p>
@@ -418,11 +408,9 @@ export default function OkunikkoWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-teal-800 transition-colors">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug hover:text-teal-800 transition-colors"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-700 text-sm leading-relaxed">
                       {hotel.story}
@@ -480,9 +468,7 @@ export default function OkunikkoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-stone-200 space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              【1泊2日】白銀の奥日光湯元温泉を満喫する雪見リトリートモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】白銀の奥日光湯元温泉を満喫する雪見リトリートモデルコース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               東武バスを活用して雪道運転なし！中禅寺湖の冬景色、華厳の滝の氷瀑予兆、にごり湯三昧を楽しむ王道プラン。
             </p>
@@ -562,40 +548,30 @@ export default function OkunikkoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Local Specialties</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                奥日光・湯元温泉で絶対に味わいたい冬の美食4選
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">奥日光・湯元温泉で絶対に味わいたい冬の美食4選</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-teal-700">●</span> 伝統製法の「日光巻き湯波（ゆば）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-teal-700">●</span> 伝統製法の「日光巻き湯波（ゆば）」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 二重に巻き上げた日光独自の製法。出汁をたっぷり含んだふくよかな厚みがあり、煮物にすると噛むほどに旨味エキスが口いっぱいに広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-teal-700">●</span> 極上の霜降り「とちぎ和牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-teal-700">●</span> 極上の霜降り「とちぎ和牛」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 指定生産者が丹精込めて育てた黒毛和牛。きめ細やかなサシと芳醇な香り、とろけるような柔らかさが陶板焼きやしゃぶしゃぶで際立ちます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-teal-700">●</span> 奥日光の清流が育む「ヤシオマス・岩魚」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-teal-700">●</span> 奥日光の清流が育む「ヤシオマス・岩魚」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日光山系の清らかな伏流水で育った高級サーモン「ヤシオマス」。脂が上品にのったお刺身や、炭火でじっくり焼き上げた岩魚の塩焼きは絶品。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-teal-700">●</span> 冬季限定の銘菓「揚げ湯波まんじゅう」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-teal-700">●</span> 冬季限定の銘菓「揚げ湯波まんじゅう」</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日光駅前で行列を作る名物。湯波を練り込んだ衣で漉し餡まんじゅうをカラッと揚げ、天然塩をパラリ。甘じょっぱさと熱々のサクサク感が癖になります。
               </p>
@@ -611,48 +587,38 @@ export default function OkunikkoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Q&A Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の奥日光湯元温泉旅行 よくある質問と雪道対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の奥日光湯元温泉旅行 よくある質問と雪道対策</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-teal-700 font-extrabold">Q.</span>
-                11月・12月の奥日光湯元温泉へノーマルタイヤの車で行けますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                11月・12月の奥日光湯元温泉へノーマルタイヤの車で行けますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 絶対に不可です。奥日光は標高1500mの高地であり、11月中旬以降はいろは坂の上部や戦場ヶ原、湯元温泉周辺で降雪や日陰のアイスバーン（凍結路面）が発生します。必ずスタッドレスタイヤを装着し、チェーンを携行してください。運転に少しでも不安がある場合は、日光駅からの東武路線バスのご利用を強くおすすめします。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-teal-700 font-extrabold">Q.</span>
-                東武バスの「湯元温泉フリーパス」はお得ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                東武バスの「湯元温泉フリーパス」はお得ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 非常にお得です。JR・東武日光駅から湯元温泉までの片道通常運賃は約1,950円ですが、2日間乗り降り自由の「湯元温泉フリーパス」（約3,500円）を使えば往復だけで元が取れ、さらに中禅寺湖や竜頭の滝、東照宮周辺での途中下車も自由になります。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-teal-700 font-extrabold">Q.</span>
-                硫黄泉に入浴する際の注意点はありますか？（貴金属など）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                硫黄泉に入浴する際の注意点はありますか？（貴金属など）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 日光湯元温泉の泉質は硫黄分が極めて濃厚なため、銀製品（シルバーアクセサリーや指輪）や金・プラチナの合金は一瞬で黒く変色してしまいます。必ず入浴前に貴金属類はすべて外してください。また、湯あたりを防ぐため、1回の入浴時間は10〜15分程度を目安にし、しっかり水分補給を行ってください。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-teal-700 font-extrabold">Q.</span>
-                冬の奥日光散策に適した靴や服装は何ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                冬の奥日光散策に適した靴や服装は何ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 12月は氷点下の日が多いため、防寒スノーブーツ（防水性があり靴底に深い溝があるもの）が必須です。普通のスニーカーや革靴は雪が浸みて冷えるだけでなく、凍結路面で転倒の危険があります。服装はダウンジャケット、厚手の靴下、手袋、耳が隠れるニット帽、携帯用カイロを必ずご用意ください。
               </p>
@@ -664,9 +630,7 @@ export default function OkunikkoWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -679,9 +643,7 @@ export default function OkunikkoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">標高1800m雪見にごり湯</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                万座温泉の日本一濃厚硫黄泉と雪見星空宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">万座温泉の日本一濃厚硫黄泉と雪見星空宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 群馬・標高1800mの白銀世界！乳白色のにごり湯露天風呂と満天の星空。
               </p>
@@ -692,9 +654,7 @@ export default function OkunikkoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">名湯雪見特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                草津温泉の湯畑ライトアップと雪見露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">草津温泉の湯畑ライトアップと雪見露天風呂</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 日本三名泉・草津温泉の圧倒的な湯量と冬の幻想的な湯けむり散策。
               </p>
@@ -705,9 +665,7 @@ export default function OkunikkoWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-teal-50/60 border border-stone-200 hover:border-teal-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-cyan-800 bg-cyan-100/80 px-2 py-0.5 rounded">冬の氷の絶景</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">
-                秩父三十槌の氷柱ライトアップと秩父温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">秩父三十槌の氷柱ライトアップと秩父温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 大自然が生み出す巨大な氷のカーテンと秩父の温かい郷土鍋料理。
               </p>
@@ -716,9 +674,7 @@ export default function OkunikkoWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              近隣・全国の都道府県別おすすめ宿
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">近隣・全国の都道府県別おすすめ宿</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/tochigi/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">栃木県の宿一覧</Link>
               <Link href="/prefectures/gunma/" className="px-3 py-1.5 bg-stone-100 hover:bg-teal-100 text-stone-700 hover:text-teal-900 rounded-lg transition-colors font-medium">群馬県の宿一覧</Link>

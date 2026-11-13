@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            朱塗りの雷門と仲見世通りの賑わい、天高くそびえる東京スカイツリー——下町の歴史浪漫と黒湯天然温泉に癒やされる東京エスケープ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">朱塗りの雷門と仲見世通りの賑わい、天高くそびえる東京スカイツリー——下町の歴史浪漫と黒湯天然温泉に癒やされる東京エスケープ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東京都台東区、隅田川の西岸に広がる東京最古の寺院・浅草寺の門前町として栄えた「浅草」。大提灯が掲げられた「雷門」をくぐれば、日本最古の商店街の一つである「仲見世通り」が続き、人形焼やすりたて抹茶スイーツ、揚げまんじゅうなどの食べ歩きが楽しめます。背後には高さ634mの「東京スカイツリー」がそびえ立ち、伝統的な下町情緒と近未来的な都市景観が織りなす独特の景観は世界中の観光客を惹きつけてやみません。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都台東区（浅草・上野）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  浅草ビューホテル　アネックス　六区
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">浅草ビューホテル　アネックス　六区</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   浅草六区の伝統文化を体験できる和モダンホテル！スカイツリービューと歌舞伎・芸能の空間
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  浅草ビューホテル アネックス 六区 —— 浅草芸能の歴史を受け継ぐ新ホテル。スカイツリーの絶景と粋な和のおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">浅草ビューホテル アネックス 六区 —— 浅草芸能の歴史を受け継ぐ新ホテル。スカイツリーの絶景と粋な和のおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 客室の窓から東京スカイツリーと浅草の街並みを一望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">客室の窓から東京スカイツリーと浅草の街並みを一望</h5>
                     <p className="text-stone-600 leading-relaxed">畳スペースを設けたモダン和室。夜にはライトアップされたスカイツリーの煌めきをプライベートに眺められます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 1階ロビーの舞台で上演される伝統芸能や浅草文化体験
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">1階ロビーの舞台で上演される伝統芸能や浅草文化体験</h5>
                     <p className="text-stone-600 leading-relaxed">和楽器演奏や活弁などのイベントを開催。ホテル内にいながら浅草の下町文化や芸能を肌で感じられます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 「ブロードウェイ六区」での浅草銘菓や焼きたてパンの朝食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">「ブロードウェイ六区」での浅草銘菓や焼きたてパンの朝食</h5>
                     <p className="text-stone-600 leading-relaxed">地元の老舗パンや浅草の味覚を取り入れたこだわりブレックファスト。清々しい気分で浅草観光へ出発できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都台東区（浅草・上野）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＴＨＥ　ＧＡＴＥ　ＨＯＴＥＬ（ザ・ゲートホテル）　雷門　ｂｙ　ＨＵＬＩＣ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＴＨＥ　ＧＡＴＥ　ＨＯＴＥＬ（ザ・ゲートホテル）　雷門　ｂｙ　ＨＵＬＩＣ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   雷門まで徒歩2分！13階ロビーから浅草寺とスカイツリーを見晴らすデザイナーズホテルの傑作
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  THE GATE HOTEL 雷門 by HULIC —— 浅草の特等席。大人の隠れ家バーと絶景レストラン
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">THE GATE HOTEL 雷門 by HULIC —— 浅草の特等席。大人の隠れ家バーと絶景レストラン</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 13階フロントロビーとオープンエアテラスからの息をのむ大パノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">13階フロントロビーとオープンエアテラスからの息をのむ大パノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">チェックインの瞬間に出会うスカイツリーと浅草寺の絶景。宿泊者専用テラスで潮風を感じながら夜景を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 世界的デザイナーの内田繁氏が手がけた洗練の客室インテリア
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">世界的デザイナーの内田繁氏が手がけた洗練の客室インテリア</h5>
                     <p className="text-stone-600 leading-relaxed">スランバーランド社製高級ベッドと上質な調度品。大人の落ち着きある空間で贅沢な寛ぎを満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 評判の焼きたてエッグベネディクト＆搾りたてオレンジジュースの朝食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">評判の焼きたてエッグベネディクト＆搾りたてオレンジジュースの朝食</h5>
                     <p className="text-stone-600 leading-relaxed">東京のホテル朝食ランキング上位の極上モーニング。絶景を眺めながら優雅な朝のひとときを過ごせます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都台東区（浅草・上野）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉　凌雲の湯　御宿　野乃浅草（ドーミーイン・御宿野乃　ホテルズグループ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉　凌雲の湯　御宿　野乃浅草（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全館畳敷きの和風プレミアムホテル！ミネラル豊富な「黒湯」天然温泉大浴場と名物いくら丼
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  天然温泉 凌雲の湯 御宿 野乃 浅草 —— 都会で温泉旅館気分。素足で寛ぐ畳空間と漆黒の自家源泉
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">天然温泉 凌雲の湯 御宿 野乃 浅草 —— 都会で温泉旅館気分。素足で寛ぐ畳空間と漆黒の自家源泉</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 靴を脱いで素足で過ごす全館畳敷きの心地よい和風空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">靴を脱いで素足で過ごす全館畳敷きの心地よい和風空間</h5>
                     <p className="text-stone-600 leading-relaxed">玄関で靴を預けて館内へ。日本の旅館の温もりとビジネスホテルの快適性が見事に融合しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下から湧出するミネラル豊富な「黒湯」の天然温泉大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下から湧出するミネラル豊富な「黒湯」の天然温泉大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">美肌効果の高い濃い琥珀色の天然温泉。サウナや水風呂も完備し、本格的な温活とリフレッシュが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> いくら盛り放題の豪華海鮮丼や名物「夜鳴きそば」サービス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">いくら盛り放題の豪華海鮮丼や名物「夜鳴きそば」サービス</h5>
                     <p className="text-stone-600 leading-relaxed">朝食バイキングでのいくらや旬魚のセルフ海鮮丼。夜には無料で振る舞われる特製醤油ラーメンが大人気です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 浅草寺・仲見世通り＆かっぱ橋道具街・隅田公園観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 浅草寺・仲見世通り＆かっぱ橋道具街・隅田公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                都内最古の寺院「浅草寺」の本堂参拝とおみくじ散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                都内最古の寺院「浅草寺」の本堂参拝とおみくじ散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 本尊の聖観世音菩薩を祀る名刹。夜のライトアップされた五重塔や宝蔵門の静けさは、宿泊者だけが出会える幻想的な風景です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                仲見世通り＆伝法院通りの下町グルメ食べ歩き
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                仲見世通り＆伝法院通りの下町グルメ食べ歩き</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 揚げまんじゅう、きびだんご、メロンパン、芋ようかんなど名物スイーツが勢揃い。着物をレンタルして散策するのも人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                隅田川テラス散策と水上バス「ヒミコ」でのクルーズ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                隅田川テラス散策と水上バス「ヒミコ」でのクルーズ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 隅田川沿いの爽やかな遊歩道。漫画家・松本零士氏デザインの近未来水上バスに乗って、お台場や浜離宮へのリバークルーズが楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              東京都台東区ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">東京都台東区ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】浅草ビューホテル アネックス 六区を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】浅草ビューホテル アネックス 六区を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と浅草ビューホテル アネックス 六区の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と浅草ビューホテル アネックス 六区の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

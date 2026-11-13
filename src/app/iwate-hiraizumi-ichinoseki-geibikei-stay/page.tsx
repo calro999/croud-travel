@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             世界遺産・みちのく黄金文化の最高峰
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 中尊寺金色堂＆毛越寺「浄土庭園」（平安仏教美術と奥州藤原氏の夢の跡）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 中尊寺金色堂＆毛越寺「浄土庭園」（平安仏教美術と奥州藤原氏の夢の跡）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             奥州藤原氏初代清衡公が建立した中尊寺。なかでも皆金色に輝く「金色堂」は平安仏教美術の最高峰であり、国宝第1号に指定された奇跡の堂宇。螺鈿細工や透かし彫りの金具、四根の巻柱が眩いばかりの光を放ちます。また二代基衡公が建立した毛越寺の大泉が池を中心とする「浄土庭園」は、平安時代の作庭様式を完全に留める特別名勝・特別史跡の二重指定地です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥州・平泉温泉旅館　ＩＴＳＵＭＵ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【いわて割第2弾 9/1～開催】世界遺産の地・平泉に佇む古都奥州の宿。東北観光の拠点に。
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        千貫石温泉　湯元　東館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">千貫石温泉　湯元　東館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         中尊寺まで35分！とろとろの極上湯でお肌しっとり、身体ぽかぽか長続き×品数豊富な手作り朝食が大人気！
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        花巻温泉　佳松園
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">花巻温泉　佳松園</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         とろとろの湯と心に残るおもてなし。特別な日を佳松園で過ごす愉しみ。花巻ICよりわずか5分の別世界。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        旅館　舞鶴＜岩手県＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　舞鶴＜岩手県＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         楽天トラベルブロンズアワード2020受賞｜世界遺産平泉の中心♪料理が高評価のおもてなしの宿
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             船頭の追分とエメラルドの渓谷美
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 猊鼻渓「手漕ぎ舟下り」＆厳美渓「空飛ぶだんご」（大迫力渓谷アクティビティ）
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 猊鼻渓「手漕ぎ舟下り」＆厳美渓「空飛ぶだんご」（大迫力渓谷アクティビティ）</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             砂鉄川の浸食によってできた高さ100m超の石灰岩岸壁が約2km続く「猊鼻渓」。エンジンを使わず船頭が竿一本で巧みに操る舟に乗り、川風を感じながら往復90分の優雅な舟旅。折り返し地点の獅子ヶ鼻では、開運の素焼き玉を穴に投げ入れる「運玉投げ」に挑戦できます。対照的に荒々しい岩肌と滝が続く「厳美渓」では、川を越えて対岸からロープで運ばれる名物「空飛ぶ郭公だんご」が大人気です。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        祭畤温泉　かみくら
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">祭畤温泉　かみくら</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         全7室のリトリート宿。泡付き温泉と着物で愉しむJapanese French。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        須川高原温泉
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">須川高原温泉</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         何もいらない、この湯けむりと暖かい陽ざし、植物を揺らす風が少しあればいい、そこが癒しの宿須川高原温泉
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        伊豆・伊東温泉　お風呂ずきの宿　大東館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">伊豆・伊東温泉　お風呂ずきの宿　大東館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         源泉１００％掛け流し！２４時間入浴OK！３種の貸切風呂は無料♪日替わり手作り朝食付！平日８５５０円☆
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥州・平泉温泉旅館　ＩＴＳＵＭＵ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州・平泉温泉旅館　ＩＴＳＵＭＵ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【いわて割第2弾 9/1～開催】世界遺産の地・平泉に佇む古都奥州の宿。東北観光の拠点に。
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             とろける霜降り前沢牛と日本一のもち食文化
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 前沢牛の極上ステーキ・一関「もち膳」＆名物わんこそば美食めぐり
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 前沢牛の極上ステーキ・一関「もち膳」＆名物わんこそば美食めぐり</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             豊かな水と良質な飼料で丹精込めて育てられた奥州の最高峰黒毛和牛「前沢牛」。鮮やかな霜降りと口の中でとろける甘みは日本屈指のブランド肉です。また一関・平泉地方は江戸時代から続く独自の「もち食文化」があり、あんこやごま、ずんだ、えび、じゅうね（えごま）など数十種類の創作もち料理が膳に並ぶ「もち膳」が名物。椀コそばの老舗での食べ比べも旅の醍醐味です。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        亀の井ホテル　一関
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">亀の井ホテル　一関</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         無料の「ねまらいラウンジ」、温泉はエリア最大級。前沢牛や松茸釜飯など料理押し。土曜は郷土イベント開催
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        奥州平泉温泉　そば庵　しづか亭
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">奥州平泉温泉　そば庵　しづか亭</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         源泉かけ流しの大浴場と、自家菜園から収穫する野菜の美味しさ。岩手名産「前沢牛」も味わえる
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        陸前高田　キャピタルホテル１０００
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">陸前高田　キャピタルホテル１０００</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         奇跡の一本松、東日本大震災津波伝承館から車で５分の好立地。復興を象徴するホテルです！
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        水沢　翠明荘＜岩手県＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">水沢　翠明荘＜岩手県＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ◆大好評！前沢牛のビーフカレーなど食べ放題／24時間大浴場・Wi-Fi無料
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】奥州・平泉温泉旅館 ＩＴＳＵＭＵを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】奥州・平泉温泉旅館 ＩＴＳＵＭＵを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と奥州・平泉温泉旅館 ＩＴＳＵＭＵの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と奥州・平泉温泉旅館 ＩＴＳＵＭＵの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

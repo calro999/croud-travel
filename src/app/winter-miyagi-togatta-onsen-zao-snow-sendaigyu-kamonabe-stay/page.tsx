@@ -406,9 +406,7 @@ export default function MiyagiTogattaWinterPage() {
               <Landmark className="w-4 h-4 text-blue-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冠雪の蔵王を望む名湯とA5仙台牛・せり鍋を堪能する遠刈田の宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冠雪の蔵王を望む名湯とA5仙台牛・せり鍋を堪能する遠刈田の宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -424,9 +422,7 @@ export default function MiyagiTogattaWinterPage() {
                       <span className="inline-block text-xs font-bold text-blue-800 bg-blue-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -506,17 +502,13 @@ export default function MiyagiTogattaWinterPage() {
               <Compass className="w-4 h-4 text-blue-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の宮城蔵王を満喫する1泊2日おすすめ周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の宮城蔵王を満喫する1泊2日おすすめ周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【1日目】仙台・白石から遠刈田温泉へ＆伝統工芸と名湯
-              </h3>
+              <h3 className="font-bold text-blue-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【1日目】仙台・白石から遠刈田温泉へ＆伝統工芸と名湯</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -542,10 +534,8 @@ export default function MiyagiTogattaWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【2日目】共同浴場・朝市散策＆滝見台の初冬絶景
-              </h3>
+              <h3 className="font-bold text-blue-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【2日目】共同浴場・朝市散策＆滝見台の初冬絶景</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -579,27 +569,21 @@ export default function MiyagiTogattaWinterPage() {
               <ShoppingBag className="w-4 h-4 text-blue-800" />
               初冬の遠刈田・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街で手に入れたい初冬の蔵王銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街で手に入れたい初冬の蔵王銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-blue-700" />
-                蔵王チーズキャビンと搾りたて生乳スイーツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-blue-700" />
+                蔵王チーズキャビンと搾りたて生乳スイーツ</h3>
               <p>
                 遠刈田温泉から車で約5分の蔵王酪農センター「チーズキャビン」では、蔵王山麓の新鮮な生乳から作られる多彩なナチュラルチーズが並びます。特に初冬に人気の「クリーミースプレッド（バニラ・トマト・ガーリック）」や、熟成チェダー、蔵王カマンベールは試食も充実。併設の売店で味わう濃厚なチーズソフトクリームやチーズドリンクも立ち寄り必須の美味しさです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-blue-700" />
-                木地処さとう・遠刈田こけし工房と手打ち蕎麦処
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-blue-700" />
+                木地処さとう・遠刈田こけし工房と手打ち蕎麦処</h3>
               <p>
                 遠刈田温泉街には伝統こけしの工房が複数点在し、職人の繊細な轆轤（ろくろ）挽きの手仕事を間近で見学できます。初冬の静かな季節は、ゆっくりと自分好みのこけしを選んだり、オリジナルの絵付けを体験するのに最適。また、温泉街には「はせがわ屋」の三角油揚げや豆乳スイーツ、石臼挽きの蔵王新蕎麦を提供する名店が揃い、散策の合間の小腹満たしにも困りません。
               </p>
@@ -614,27 +598,21 @@ export default function MiyagiTogattaWinterPage() {
               <Shield className="w-4 h-4 text-blue-800" />
               11月・12月の気候・服装・快適アクセス案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の宮城蔵王旅行のポイントと防寒・移動のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の宮城蔵王旅行のポイントと防寒・移動のコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-700" />
-                蔵王山麓の初冬寒気と路面凍結対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-700" />
+                蔵王山麓の初冬寒気と路面凍結対策</h3>
               <p>
                 遠刈田温泉街は標高約330mに位置し、11月下旬以降は朝晩の気温が0℃近くまで冷え込みます。日中は10℃前後まで上がることもありますが、風が吹くと体感温度は一気に氷点下近くまで下がります。厚手のダウンコート、裏起毛インナー、手袋、マフラーは必須。11月下旬以降に車で訪れる場合は、朝晩のブラックアイスバーン（凍結路面）に備え、スタッドレスタイヤを必ず装着してください。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-blue-700" />
-                仙台駅直通高速バスと東北新幹線白石蔵王駅ルート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-blue-700" />
+                仙台駅直通高速バスと東北新幹線白石蔵王駅ルート</h3>
               <p>
                 雪道運転に不安がある方は公共交通機関が非常に便利です。仙台駅西口から遠刈田温泉直通の高速バスが毎日運行されており、乗り換えなし約50分で温泉街中心に到着します。また東北新幹線「白石蔵王駅」からも路線バスが接続しており、東京方面からのアクセスも極めてスムーズ。温泉街は徒歩で散策できるコンパクトなサイズ感のため、車なしでも快適に滞在できます。
               </p>
@@ -649,9 +627,7 @@ export default function MiyagiTogattaWinterPage() {
               <Utensils className="w-4 h-4 text-blue-800" />
               名物グルメ＆工芸の深掘り
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の遠刈田を味わい尽くす3大味覚と伝統工芸
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の遠刈田を味わい尽くす3大味覚と伝統工芸</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -694,18 +670,14 @@ export default function MiyagiTogattaWinterPage() {
               <HelpCircle className="w-4 h-4 text-blue-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の遠刈田温泉旅行・よくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の遠刈田温泉旅行・よくある質問（FAQ）</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -717,9 +689,7 @@ export default function MiyagiTogattaWinterPage() {
         {/* Internal Links / Related Features Section */}
         <section className="bg-gradient-to-br from-stone-100 to-blue-50/50 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-base sm:text-lg font-bold text-stone-900">
-              宮城・東北エリアのあわせて読みたい人気温泉特集
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-stone-900">宮城・東北エリアのあわせて読みたい人気温泉特集</h3>
             <p className="text-xs sm:text-sm text-stone-600">
               遠刈田温泉とあわせて巡りたい、東北屈指の名湯と冬の味覚特集をご紹介します。
             </p>
@@ -731,9 +701,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・秋保温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">
-                秋保温泉の仙台牛とせり鍋・名取川渓谷美肌ステイ
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">秋保温泉の仙台牛とせり鍋・名取川渓谷美肌ステイ</h4>
             </Link>
 
             <Link
@@ -741,9 +709,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・作並温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">
-                作並温泉の雪見露天風呂とニッカウヰスキー宮城峡蒸溜所
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">作並温泉の雪見露天風呂とニッカウヰスキー宮城峡蒸溜所</h4>
             </Link>
 
             <Link
@@ -751,9 +717,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">山形・蔵王温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">
-                蔵王温泉の強酸性美肌湯と樹氷スノーモンスター・山形牛
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">蔵王温泉の強酸性美肌湯と樹氷スノーモンスター・山形牛</h4>
             </Link>
 
             <Link
@@ -761,9 +725,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">福島・磐梯熱海温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">
-                磐梯熱海温泉の萩姫美肌湯と猪苗代湖の白鳥・福島牛会席
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">磐梯熱海温泉の萩姫美肌湯と猪苗代湖の白鳥・福島牛会席</h4>
             </Link>
 
             <Link
@@ -771,9 +733,7 @@ export default function MiyagiTogattaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-blue-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-blue-700 bg-blue-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">
-                松島湾展望露天風呂と解禁直後のぷりぷり松島牡蠣三昧
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-blue-700 transition line-clamp-2">松島湾展望露天風呂と解禁直後のぷりぷり松島牡蠣三昧</h4>
             </Link>
 
             <Link

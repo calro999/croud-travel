@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              清冽なせせらぎと水飛沫が運ぶ天然マイナスイオンで心身を深層浄化
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">清冽なせせらぎと水飛沫が運ぶ天然マイナスイオンで心身を深層浄化</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               朝の散策では木漏れ日と苔むした岩肌、清流の囁きに包まれ、深呼吸するだけで日々の疲労やストレスがすっと溶け出します。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              渓谷美を一望する露天風呂で川の音を聴きながら湯浴みする贅沢
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">渓谷美を一望する露天風呂で川の音を聴きながら湯浴みする贅沢</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               清流のすぐそばに設えられた客室露天風呂や大浴場から、時間とともに表情を変えるダイナミックな渓谷パノラマを堪能できます。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              岩魚・山女魚や旬の山菜、極上ブランド和牛を味わう山川の美食会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">岩魚・山女魚や旬の山菜、極上ブランド和牛を味わう山川の美食会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               清らかな源流水で育まれた川魚の塩焼きや地元契約農家の朝採れ野菜、滋味あふれる郷土会席料理を美酒とともに味わえます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -329,7 +319,7 @@ export default function FurusatoUpgradedPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド奥入瀬・三段峡・御岳の絶景宿：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大渓流の清澄を愛でる渓谷美露天風呂宿×ふるさと納税厳選ガイド奥入瀬・三段峡・御岳の絶景宿：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -390,55 +380,55 @@ export default function FurusatoUpgradedPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. 寛ぎの宿　輝雲荘（島根県・★4.42）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. 寛ぎの宿　輝雲荘（島根県・4.42）</h4>
               <p><strong>【特徴】</strong>1300年の歴史がある温泉の昔の趣を持つ温泉街にある真心込めたおもてなしで落ちつける宿。</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ温泉津駅下車 ／ 駐車場：有り　無料14台</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。 何度も緊急性の無い電話がかかってきた…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸（兵庫県・★4.45）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. シーサイドホテル舞子ビラ神戸（兵庫県・4.45）</h4>
               <p><strong>【特徴】</strong>【1月ポイント10倍！得旅キャンペーンエントリー必須】25年5月新館リニューアル！大浴場/サウナ無料</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ神戸線「舞子駅」から徒歩で7分。ＪＲ舞子駅はＪＲ三宮駅から約１９分。 ／ 駐車場：有り　300台　1泊24時間　800円（2025年4月1日より）</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「明石海峡大橋の絶景と新しい施設に感動朝夕と部屋の窓から見える明石海峡大橋が迫力があり、美しかったです。今回は息子と一緒に宿泊しました。実家から近く、幼い頃からよくお邪魔していたのですが、久しぶ…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. 金沢東急ホテル（石川県・★4.56）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. 金沢東急ホテル（石川県・4.56）</h4>
               <p><strong>【特徴】</strong>武家文化の風雅さと和モダンの上質な空間で金沢のおもてなしを。。ビジネス・観光にも最適な市内中心に立地</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ金沢駅からタクシーで約8分、バスで約10分。北陸道金沢西又は東ＩＣより車15分。 ／ 駐車場：ホテル隣【香林坊地下駐車場】200台　1泊1,500円(14時-翌11時)左記以外は30分150円</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋は広くて快適だが、説明不足でモヤモヤお部屋がとても広くて快適に過ごせました。大人5人でも充分な広さで開放感もあり、2泊ではもったいないくらいでした。トイレが2つ、お風呂も独立していて広く、また…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌（北海道・★4.45）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. プレミアホテル－ＴＳＵＢＡＫＩ－札幌（北海道・4.45）</h4>
               <p><strong>【特徴】</strong>ご宿泊者様専用サウナ＆フィットネス◇すすきの徒歩圏内◇ご宿泊者様専用ラウンジ（利用条件有り）</p>
               <p><strong>【交通・駐車場】</strong>《新千歳空港から》空港連絡バス「プレミアホテルTSUBAKI」下車 《お車》地下駐車場有《JR札幌駅から》シャトルバス有 ／ 駐車場：地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. ザ・プリンス　京都宝ヶ池、オートグラフコレクション（・★4.43）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. ザ・プリンス　京都宝ヶ池、オートグラフコレクション（・4.43）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>【地下鉄烏丸線】京都駅から国際会館駅まで乗り換えなし20分。④-2出入口より徒歩3分【車】京都東I.C.から平常時35分 ／ 駐車場：有り</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

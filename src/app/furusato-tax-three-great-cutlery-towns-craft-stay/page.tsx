@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            赤く燃える炎と響き渡る鎚の音。世界中のシェフが憧れる至高の刃物と美食を訪ねる旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">赤く燃える炎と響き渡る鎚の音。世界中のシェフが憧れる至高の刃物と美食を訪ねる旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             鎌倉時代から続く刀鍛冶の秘伝の技を今に伝え、現代では世界中の三つ星シェフや家庭料理人を魅了してやまない「日本三大刃物産地」――ドイツ・ゾーリンゲンと並ぶ世界三大刃物都市として名高い岐阜の「関の刃物」、漆器や和紙と並び七百年の手打ち鍛造技術を守り続ける福井の「越前打刃物」、そして日本のプロ用和包丁シェア90%以上を誇る大阪の「堺打刃物」。鋭い切れ味が食材の細胞を潰さず、料理の味そのものを格段に引き上げる至高の刃物は一生モノの宝物。刃物工房での見学や研ぎ直し体験を楽しんだ後は、名料理人がその包丁で腕を振るう旬の会席料理を味わう上質なクラフト旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岐阜県関市ふるさと納税：世界三大刃物産地「関の刃物」鍛冶伝承館とホテルルートイン関
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岐阜県関市ふるさと納税：世界三大刃物産地「関の刃物」鍛冶伝承館とホテルルートイン関</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   名刀「関の孫六」の伝統を受け継ぐ刃物のまち。岐阜関刃物ミュージアムで古式日本刀鍛錬を見学した後は、ホテルルートイン関の大浴場で寛ぎ、飛騨牛料理や関名物のうなぎ丼に舌鼓を打ちます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル　ルートイン関
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル　ルートイン関</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岐阜県関市西本郷通4-3-30</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福井県越前市ふるさと納税：七百年の伝統火造り鍛造「越前打刃物」タケフナイフビレッジとホテルクラウンヒルズ武生駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福井県越前市ふるさと納税：七百年の伝統火造り鍛造「越前打刃物」タケフナイフビレッジとホテルクラウンヒルズ武生駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   日本初の伝統工芸品指定を受けた打刃物。円形工房タケフナイフビレッジで職人の火花散る鍛造を見学した後は、ホテルクラウンヒルズ武生駅前を拠点に名物越前おろしそばや若狭牛を堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルクラウンヒルズ武生駅前（ＢＢＨホテルグループ）</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福井県越前市府中1-2-3</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  大阪府堺市ふるさと納税：プロ料理人が信頼を寄せる最高峰和包丁「堺刃物」堺伝統産業会館とホテルアゴーラリージェンシー大阪堺
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">大阪府堺市ふるさと納税：プロ料理人が信頼を寄せる最高峰和包丁「堺刃物」堺伝統産業会館とホテルアゴーラリージェンシー大阪堺</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   千利休を生んだ堺の歴史と鍛冶の技。堺伝匠館で包丁の奥深さを学んだ後は、堺駅直結のシティリゾート「ホテルアゴーラリージェンシー大阪堺」で、一流シェフが織りなす鉄板焼きや本格中華を味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテル　アゴーラ　リージェンシー　大阪堺
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテル　アゴーラ　リージェンシー　大阪堺</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>大阪府堺市堺区戎島町4丁45番地の1</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大和紙の里＆工芸温泉宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   越前和紙・美濃和紙・小川和紙の里。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大陶磁器の郷＆焼き物窯元めぐり宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   有田焼・美濃焼・瀬戸焼の窯元。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  職人技が光る伝統工芸＆有形文化財の名旅館ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">職人技が光る伝統工芸＆有形文化財の名旅館ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   匠の技が息づく建築宿。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル ルートイン関を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル ルートイン関を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテル ルートイン関の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテル ルートイン関の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大刃物の里＆職人クラフト宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

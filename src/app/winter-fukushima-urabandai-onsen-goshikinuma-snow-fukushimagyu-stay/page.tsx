@@ -248,12 +248,10 @@ export default function WinterFukushimaUrabandaiPage() {
             11月・12月 五色沼初雪ウォーク＆桧原湖ワカサギ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福島・裏磐梯温泉郷】五色沼初雪ウォークと磐梯山雪景色
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福島・裏磐梯温泉郷】五色沼初雪ウォークと磐梯山雪景色
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               極上福島牛ステーキ＆会津地鶏鍋・桧原湖ワカサギを味わう高原リゾート名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、標高約800mの磐梯高原に位置する福島県・裏磐梯温泉郷は、青やエメラルドグリーンに輝く神秘の湖沼群「五色沼」に純白の初雪が降り積もり、冬の幻想美が幕を開けます。堂々たる雪化粧の磐梯山を望む絶景スノーウォーク、冬の桧原湖名物「ワカサギ釣り（暖房完備ドーム船）」の開幕、鉄分や塩分を豊富に含み体の芯から温まる源泉濁り湯露天風呂。夕食にはサシと赤身のバランスが絶妙な「福島牛ステーキ」や、旨味濃厚な会津地鶏鍋、会津伝統の雪下野菜、冬限定の搾りたて地酒を味わう高原の厳選リゾート・温泉名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterFukushimaUrabandaiPage() {
             <Landmark className="w-4 h-4" />
             裏磐梯温泉郷の初冬の魅力
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            純白の初雪が縁取るエメラルドの湖沼群と雄大な磐梯山。冬の高原リゾートで出逢う静寂と温もり
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">純白の初雪が縁取るエメラルドの湖沼群と雄大な磐梯山。冬の高原リゾートで出逢う静寂と温もり</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               福島県北部、磐梯朝日国立公園の中心に位置する「裏磐梯（うらばんだい）」は、明治21（1888）年の磐梯山水蒸気爆発によって川が堰き止められ、桧原湖や五色沼湖沼群など300を超える美しい湖沼群が誕生した奇跡の高原地帯です。標高800mに位置するため、秋の紅葉シーズンが11月上旬に終わりを告げると、間もなく初雪が舞い散り、街はしっとりとした静けさに包まれます。
@@ -308,9 +304,7 @@ export default function WinterFukushimaUrabandaiPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の裏磐梯温泉郷を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の裏磐梯温泉郷を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               白銀の高原自然と温まりの温泉、会津の美食を味わい尽くす
             </p>
@@ -321,9 +315,7 @@ export default function WinterFukushimaUrabandaiPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                初雪の五色沼＆磐梯山雪見ウォーク
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">初雪の五色沼＆磐梯山雪見ウォーク</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 純白の雪とエメラルドグリーンの湖水が織りなす幻想美。白樺林を歩くスノーシュー体験と雪化粧した雄大な磐梯山の絶景。
               </p>
@@ -333,9 +325,7 @@ export default function WinterFukushimaUrabandaiPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                桧原湖ワカサギ釣り＆福島牛ディナー
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">桧原湖ワカサギ釣り＆福島牛ディナー</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 暖房完備のドーム船で楽しむ冬のワカサギ釣りと揚げたて天ぷら。極上霜降り福島牛ステーキや会津地鶏鍋に舌鼓。
               </p>
@@ -345,9 +335,7 @@ export default function WinterFukushimaUrabandaiPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                芯から温まる黄金濁り湯雪見露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">芯から温まる黄金濁り湯雪見露天</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 塩分と鉄分を豊富に含む赤褐色の天然温泉。初冬の冷気の中で立ち上る湯けむりと桧原湖を望む極上の雪見風呂。
               </p>
@@ -361,9 +349,7 @@ export default function WinterFukushimaUrabandaiPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-teal-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              福島・裏磐梯温泉郷の高原リゾート名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">福島・裏磐梯温泉郷の高原リゾート名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,9 +397,7 @@ export default function WinterFukushimaUrabandaiPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -487,9 +471,7 @@ export default function WinterFukushimaUrabandaiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の裏磐梯を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の裏磐梯を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -517,34 +499,26 @@ export default function WinterFukushimaUrabandaiPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              裏磐梯の初冬グルメ完全ガイド！福島牛・ワカサギ・会津地鶏
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">裏磐梯の初冬グルメ完全ガイド！福島牛・ワカサギ・会津地鶏</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-300" />
-                極上福島牛ステーキ＆すき焼き
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-300" />
+                極上福島牛ステーキ＆すき焼き</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 上質な霜降りと芳醇な赤身の香りを誇る「福島牛」。シェフが絶妙な火入れで焼き上げるフィレステーキや、甘辛い割下でいただくすき焼き小鍋は、高原の寒い夜に心まで温まる至高のご馳走です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-orange-300" />
-                桧原湖獲れたてワカサギ天ぷら
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-orange-300" />
+                桧原湖獲れたてワカサギ天ぷら</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 11月1日に解禁を迎える桧原湖のワカサギ。冷たく澄んだ湖水で育つワカサギは臭みがなく、サクッと揚げた天ぷらに会津山塩をつけて頬張れば、ほくほくとした甘みと香ばしさが口いっぱいに広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                会津地鶏鍋＆搾りたて新酒地酒
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                会津地鶏鍋＆搾りたて新酒地酒</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 噛むほどに濃密なコクが溢れ出す「会津地鶏」の小鍋仕立て。全国新酒鑑評会で金賞日本一を連覇した福島・会津の酒蔵から届く、初冬ならではの搾りたて生酒（初しぼり）とともに味わう至福の晩酌です。
               </p>
@@ -558,15 +532,11 @@ export default function WinterFukushimaUrabandaiPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の裏磐梯温泉郷 交通アクセス＆冬道運転のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の裏磐梯温泉郷 交通アクセス＆冬道運転のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                アクセス方法と冬期通行止め路線
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                アクセス方法と冬期通行止め路線</h3>
               <p>
                 車の場合は、磐越道猪苗代磐梯高原ICより国道115号・459号経由で約25〜30分。11月下旬以降はスタッドレスタイヤが必須（4WD推奨）です。なお、磐梯吾妻レークラインやゴールドライン、西吾妻スカイバレーは11月中旬頃より冬期通行止めとなります。
               </p>
@@ -576,10 +546,8 @@ export default function WinterFukushimaUrabandaiPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                気候と防寒・スノーアクティビティ対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                気候と防寒・スノーアクティビティ対策</h3>
               <p>
                 12月の裏磐梯は日中でも氷点下近く、朝晩は-5〜-10℃前後に達します。ダウンジャケット、防水防寒スノーブーツ、厚手手袋、耳当て付きニット帽などスキーウェア同等の装備をご準備ください。
               </p>
@@ -596,16 +564,12 @@ export default function WinterFukushimaUrabandaiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の福島・裏磐梯温泉郷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の福島・裏磐梯温泉郷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -617,10 +581,8 @@ export default function WinterFukushimaUrabandaiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい東北の雪見温泉・冬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい東北の雪見温泉・冬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の雪景色や名湯、ブランド牛を堪能する東北各地の厳選旅ガイド
             </p>
@@ -632,9 +594,7 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・会津東山</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                会津東山温泉の渓流雪見露天と歴史名門宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">会津東山温泉の渓流雪見露天と歴史名門宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 湯川渓谷の雪景色と竹久夢二ゆかりの老舗旅館ステイ。
               </p>
@@ -645,9 +605,7 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福島・芦ノ牧温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                芦ノ牧温泉の大川渓谷雪見露天と会津美食宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">芦ノ牧温泉の大川渓谷雪見露天と会津美食宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 大川渓谷の絶景を見下ろす棚田状露天風呂と会津牛会席。
               </p>
@@ -658,9 +616,7 @@ export default function WinterFukushimaUrabandaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">山形・米沢小野川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                小野川温泉のかまくら雪見露天と米沢牛すき焼き宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">小野川温泉のかまくら雪見露天と米沢牛すき焼き宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 小野小町ゆかりの美肌硫黄泉と本場極上米沢牛を満喫。
               </p>

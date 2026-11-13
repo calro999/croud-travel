@@ -298,10 +298,8 @@ export default function NarukoOnsenWinterPage() {
             <Footprints className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 日本屈指の9泉質が集う湯治場 初冬の鳴子峡雪景色と極上仙台牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】<br className="hidden sm:inline" />
-            多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月宮城鳴子温泉郷の冬湯治と雪見露天】<br className="hidden sm:inline" />
+            多彩な源泉めぐりと初冬の鳴子峡・極上仙台牛すき焼き＆奥羽郷土会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             国内11泉質のうち9種類が集うみちのく屈指の湯治郷。乳白色やエメラルドグリーンに輝く多彩な雪見風呂、手削りこけしの温もり、最高ランクA5仙台牛と熱々のみたらし栗だんごを堪能する冬の東北旅。
           </p>
@@ -327,9 +325,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Naruko Onsen Winter Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                千百年の湯治文化。世界でも類を見ない「9つの泉質」が織りなす奇跡の雪見湯治
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">千百年の湯治文化。世界でも類を見ない「9つの泉質」が織りなす奇跡の雪見湯治</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Naruko Hot Springs Miracle</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                なぜ鳴子は特別なのか？色彩と効能が劇的に異なる湯巡りの醍醐味
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">なぜ鳴子は特別なのか？色彩と効能が劇的に異なる湯巡りの醍醐味</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,9 +407,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Heritage of Naruko</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                源義経伝説と地名の起源。愛らしい伝統工芸「鳴子こけし」の温もり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">源義経伝説と地名の起源。愛らしい伝統工芸「鳴子こけし」の温もり</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -434,9 +426,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の鳴子温泉郷が選ばれる3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の鳴子温泉郷が選ばれる3つの理由</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -474,9 +464,7 @@ export default function NarukoOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】鳴子温泉郷の冬湯治を極める厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】鳴子温泉郷の冬湯治を極める厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、源泉掛け流しの湯質、雪見露天風呂の情趣、最高級A5仙台牛会席、宿泊者レビュー評価で選び抜いた5軒。
             </p>
@@ -513,11 +501,9 @@ export default function NarukoOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-emerald-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -577,9 +563,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Miyagi Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                全国最高基準「A5仙台牛」の贅沢と心解きほぐす名物栗だんご
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">全国最高基準「A5仙台牛」の贅沢と心解きほぐす名物栗だんご</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -609,9 +593,7 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の鳴子温泉郷を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の鳴子温泉郷を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4">
@@ -665,26 +647,20 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・雪道運転＆列車旅のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・雪道運転＆列車旅のポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-700" />
-                <span>みちのくの冬気候と防寒服装</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-700" />
+                <span>みちのくの冬気候と防寒服装</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 鳴子温泉郷は奥羽山脈の山間部に位置するため、11月下旬からは最低気温が氷点下に達し、雪が舞い始めます。12月は最高気温でも4℃前後、夜間はマイナス5℃近くまで冷え込みます。厚手のダウンコート、保温インナー、手袋、マフラー、滑り止めソールの防水ブーツが必須です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-700" />
-                <span>国道47号の雪道対策と「陸羽東線」の快適列車旅</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-700" />
+                <span>国道47号の雪道対策と「陸羽東線」の快適列車旅</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 東北道「古川IC」から国道47号経由で約40分。11月中旬以降にお車で訪れる場合は必ずスタッドレスタイヤを装着してください。雪道運転が不安な方は、東北新幹線「古川駅」からJR陸羽東線（奥の細道湯けむりライン）に乗り換えれば、車窓の雪景色を眺めながら快適に鳴子温泉駅へアクセスできます。
               </p>
@@ -700,18 +676,14 @@ export default function NarukoOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の鳴子温泉郷旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の鳴子温泉郷旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -724,9 +696,7 @@ export default function NarukoOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Tohoku Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・みちのくの冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・みちのくの冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色、名湯めぐり、仙台牛・前沢牛の極上会席を味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

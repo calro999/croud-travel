@@ -99,9 +99,7 @@ export default function KusatsuPackingMistakesPage() {
         <div className="flex items-start gap-3">
           <span className="text-2xl mt-0.5">💡</span>
           <div>
-            <h2 className="text-lg font-bold text-amber-950 mb-1">
-              草津温泉の泉質スペック：pH2.1（塩酸・硫酸・硫化水素）
-            </h2>
+            <h2 className="text-lg font-bold text-amber-950 mb-1">草津温泉の泉質スペック：pH2.1（塩酸・硫酸・硫化水素）</h2>
             <p className="text-sm text-amber-900/90 leading-relaxed">
               草津の湯はレモン果汁と同等以上の強酸性です。1円玉を浸けると1週間で溶け、雑菌は数秒で死滅すると言われるほどの殺菌力。肌の角質を溶かすピーリング効果も抜群ですが、一般的な温泉（弱アルカリ性や単純温泉）と同じノリで入ると痛い目を見ます。
             </p>
@@ -113,18 +111,14 @@ export default function KusatsuPackingMistakesPage() {
       <section className="space-y-6">
         <div className="border-b-2 border-amber-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-amber-700">Reality Check</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            草津温泉で旅行者が実際に後悔したことワースト5
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">草津温泉で旅行者が実際に後悔したことワースト5</h2>
         </div>
 
         {/* ワースト1 */}
         <div className="bg-white rounded-2xl p-6 md:p-8 border border-amber-200/70 shadow-sm relative pl-6 md:pl-8 border-l-8 border-l-amber-600">
           <div className="flex items-center gap-3 mb-3">
             <span className="bg-amber-600 text-white font-black text-sm px-2.5 py-0.5 rounded-full">第1位</span>
-            <h3 className="text-lg md:text-xl font-bold text-slate-900">
-              お気に入りのシルバーアクセサリー（銀製品）が一瞬で真っ黒に
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-slate-900">お気に入りのシルバーアクセサリー（銀製品）が一瞬で真っ黒に</h3>
           </div>
           <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-4">
             一番多い絶叫ポイントがこれです。ネックレスや指輪をつけたまま湯船に入った瞬間、あるいは湯畑周辺の強い湯煙を浴びただけで、硫化反応により銀が瞬時に黒ずみ（硫化銀化）ます。
@@ -141,9 +135,7 @@ export default function KusatsuPackingMistakesPage() {
         <div className="bg-white rounded-2xl p-6 md:p-8 border border-amber-200/70 shadow-sm relative pl-6 md:pl-8 border-l-8 border-l-amber-500">
           <div className="flex items-center gap-3 mb-3">
             <span className="bg-amber-500 text-white font-black text-sm px-2.5 py-0.5 rounded-full">第2位</span>
-            <h3 className="text-lg md:text-xl font-bold text-slate-900">
-              顔を洗って激痛！目や剃刀負けの傷口にしみて悶絶
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-slate-900">顔を洗って激痛！目や剃刀負けの傷口にしみて悶絶</h3>
           </div>
           <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-4">
             美肌の湯だからと温泉水でバシャバシャ顔を洗った瞬間、目に強酸が染みて激痛が走ります。また、前夜や当朝にヒゲ剃り・除毛をした箇所、小さな擦り傷にも激しく染みて痛みを伴います。
@@ -158,9 +150,7 @@ export default function KusatsuPackingMistakesPage() {
         <div className="bg-white rounded-2xl p-6 md:p-8 border border-amber-200/70 shadow-sm relative pl-6 md:pl-8 border-l-8 border-l-yellow-500">
           <div className="flex items-center gap-3 mb-3">
             <span className="bg-yellow-500 text-white font-black text-sm px-2.5 py-0.5 rounded-full">第3位</span>
-            <h3 className="text-lg md:text-xl font-bold text-slate-900">
-              お気に入りの白タオルや服が硫黄と酸で黄ばみ・臭い移り
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-slate-900">お気に入りの白タオルや服が硫黄と酸で黄ばみ・臭い移り</h3>
           </div>
           <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-4">
             高級な白い今治タオルや、お気に入りの白いTシャツを持参して大後悔するパターン。草津の硫黄成分や湯の花、微量な鉄分が付着すると黄色く染まり、洗濯しても二度と落ちません。またスーツケース内に硫黄臭が充満します。
@@ -175,9 +165,7 @@ export default function KusatsuPackingMistakesPage() {
         <div className="bg-white rounded-2xl p-6 md:p-8 border border-amber-200/70 shadow-sm relative pl-6 md:pl-8 border-l-8 border-l-amber-400">
           <div className="flex items-center gap-3 mb-3">
             <span className="bg-amber-400 text-slate-900 font-black text-sm px-2.5 py-0.5 rounded-full">第4位</span>
-            <h3 className="text-lg md:text-xl font-bold text-slate-900">
-              「草津よいとこ」と調子に乗って何軒もハシゴ…強烈な湯あたり
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-slate-900">「草津よいとこ」と調子に乗って何軒もハシゴ…強烈な湯あたり</h3>
           </div>
           <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-4">
             「大滝乃湯」「西の河原露天風呂」「御座之湯」と三名湯巡りをしたり無料の共同浴場をハシゴした結果、夕方には体がだるくて起き上がれなくなる「湯あたり」を起こす人が続出します。
@@ -192,9 +180,7 @@ export default function KusatsuPackingMistakesPage() {
         <div className="bg-white rounded-2xl p-6 md:p-8 border border-amber-200/70 shadow-sm relative pl-6 md:pl-8 border-l-8 border-l-slate-400">
           <div className="flex items-center gap-3 mb-3">
             <span className="bg-slate-400 text-white font-black text-sm px-2.5 py-0.5 rounded-full">第5位</span>
-            <h3 className="text-lg md:text-xl font-bold text-slate-900">
-              標高1,200mの寒さを舐めていた！湯上がり湯冷めで風邪をひく
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-slate-900">標高1,200mの寒さを舐めていた！湯上がり湯冷めで風邪をひく</h3>
           </div>
           <p className="text-sm md:text-base text-slate-700 leading-relaxed mb-4">
             草津温泉街は標高約1,200メートルの高地に位置します。東京や平野部と比べて気温は常に7〜10℃低く、春や秋でも夜は一桁台まで冷え込みます。浴衣一枚にペラペラの羽織で湯畑のライトアップを見に行き、激しい湯冷めをする人が多数。
@@ -210,9 +196,7 @@ export default function KusatsuPackingMistakesPage() {
       <section className="bg-white rounded-3xl p-6 md:p-10 border border-amber-200 shadow-md space-y-6">
         <div className="text-center space-y-2">
           <span className="bg-amber-100 text-amber-800 text-xs font-bold px-3 py-1 rounded-full">Packing Checklist</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            草津温泉 必須＆持って行って助かった持ち物チェックリスト
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">草津温泉 必須＆持って行って助かった持ち物チェックリスト</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             パッキング時にそのまま見返せる実用リストです。
           </p>
@@ -220,9 +204,7 @@ export default function KusatsuPackingMistakesPage() {
 
         <div className="grid md:grid-cols-2 gap-4">
           <div className="border border-amber-200/80 rounded-2xl p-5 bg-amber-50/40">
-            <h3 className="font-bold text-amber-900 mb-3 flex items-center gap-2 text-base">
-              <span>🎒</span> 必須レベル（忘れると現地で困る）
-            </h3>
+            <h3 className="font-bold text-amber-900 mb-3 flex items-center gap-2 text-base">必須レベル（忘れると現地で困る）</h3>
             <ul className="space-y-2.5 text-sm text-slate-700">
               <li className="flex items-start gap-2">
                 <span className="text-amber-600 font-bold">☑</span>
@@ -244,9 +226,7 @@ export default function KusatsuPackingMistakesPage() {
           </div>
 
           <div className="border border-amber-200/80 rounded-2xl p-5 bg-amber-50/40">
-            <h3 className="font-bold text-amber-900 mb-3 flex items-center gap-2 text-base">
-              <span>✨</span> あると感動する便利アイテム
-            </h3>
+            <h3 className="font-bold text-amber-900 mb-3 flex items-center gap-2 text-base">あると感動する便利アイテム</h3>
             <ul className="space-y-2.5 text-sm text-slate-700">
               <li className="flex items-start gap-2">
                 <span className="text-amber-600 font-bold">☑</span>
@@ -276,9 +256,7 @@ export default function KusatsuPackingMistakesPage() {
             <span className="bg-white/20 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider inline-block">
               Rakuten Travel Deal
             </span>
-            <h3 className="text-xl md:text-2xl font-black">
-              草津温泉の旅館で使える「5と0のつく日」最大20%OFFクーポン
-            </h3>
+            <h3 className="text-xl md:text-2xl font-black">草津温泉の旅館で使える「5と0のつく日」最大20%OFFクーポン</h3>
             <p className="text-rose-100 text-xs md:text-sm">
               草津の人気老舗宿・湯畑前宿は早期満室になりがち。クーポン獲得＆事前エントリーでお得に予約しましょう。
             </p>
@@ -295,9 +273,7 @@ export default function KusatsuPackingMistakesPage() {
 
         <div className="border-b-2 border-amber-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-amber-700">Featured Accommodations</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            湯畑徒歩圏内！泉質と立地で選ぶ草津温泉おすすめ旅館
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">湯畑徒歩圏内！泉質と立地で選ぶ草津温泉おすすめ旅館</h2>
           <p className="text-slate-600 text-xs md:text-sm mt-1">
             湯畑の散策にすぐ出かけられ、良質な源泉掛け流しを堪能できる高評価宿を厳選しました。
           </p>
@@ -334,9 +310,7 @@ export default function KusatsuPackingMistakesPage() {
                   )}
                 </div>
 
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">
-                  {hotel.hotelName}
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
                 <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
                   {hotel.hotelSpecial || "草津温泉の極上源泉を掛け流しで楽しめる温泉宿。観光名所へのアクセスも良好です。"}

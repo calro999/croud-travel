@@ -55,9 +55,7 @@ export default function FukuokaBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋の博多は「昼は古都の紅葉、夜は屋台グルメ」が最高
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋の博多は「昼は古都の紅葉、夜は屋台グルメ」が最高</h2>
           <p className="mb-4 text-stone-700">
             博多駅から西鉄電車や直行バスでアクセスできる太宰府エリアは、11月中旬から下旬にかけて鮮やかな紅葉が見頃を迎えます。特に太宰府天満宮の心字池にかかる太鼓橋と紅葉、竈門神社の紅葉のトンネルは九州を代表する名所です。
           </p>
@@ -69,10 +67,8 @@ export default function FukuokaBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！博多の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！博多の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function FukuokaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.15</span>
                     <span className="text-stone-400 text-xs">(814件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル・トリフィート博多祇園
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル・トリフィート博多祇園</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 祇園（福岡）駅 / ■地下鉄「祇園駅」徒歩5分■西鉄バス停「奥の堂」徒歩3分■福岡空港 地下鉄利用で最短15分■マリンメッセまでバスで7分
                   </p>
@@ -142,9 +136,7 @@ export default function FukuokaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.29</span>
                     <span className="text-stone-400 text-xs">(2248件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スーパーホテルＰｒｅｍｉｅｒ博多駅・筑紫口天然温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / JR博多駅・筑紫口徒歩約８分！福岡空港から車で約10分！地下鉄博多駅東5番出口！博多駅東３丁目交差点セブンイレブン前
                   </p>
@@ -189,9 +181,7 @@ export default function FukuokaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4</span>
                     <span className="text-stone-400 text-xs">(344件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ＫＯＫＯ　ＨＯＴＥＬ　博多新幹線口</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / JR博多駅より徒歩4分。地下鉄空港線博多駅 東6出口より徒歩2分。都市高速博多駅東ICまで1分！
                   </p>
@@ -236,9 +226,7 @@ export default function FukuokaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.11</span>
                     <span className="text-stone-400 text-xs">(992件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    アパホテル＆リゾート〈博多駅東〉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">アパホテル＆リゾート〈博多駅東〉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / 福岡市営地下鉄空港線「博多駅」東7番出口から徒歩2分／JR各線「博多駅」筑紫口から徒歩4分
                   </p>
@@ -283,9 +271,7 @@ export default function FukuokaBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.2</span>
                     <span className="text-stone-400 text-xs">(4598件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　八百治の湯　八百治博多ホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　八百治の湯　八百治博多ホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 博多駅 / 博多駅博多口より徒歩５分（福岡空港から博多駅まで地下鉄で５分。）
                   </p>
@@ -330,9 +316,7 @@ export default function FukuokaBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の福岡・博多×格安：太宰府の紅葉と中洲屋台グルメ！天然温泉＆大浴場付き1泊6,000円台〜のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function FukuokaBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の福岡・博多×格安で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の福岡・博多×格安で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

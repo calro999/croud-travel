@@ -80,18 +80,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          物語が生まれた書斎と湯の香。歴史と美意識が交差するクラシックな和の真髄を旅する
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">物語が生まれた書斎と湯の香。歴史と美意識が交差するクラシックな和の真髄を旅する</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              文豪直筆の書やゆかりの調度品が息づく歴史的空間で過ごす時間
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">文豪直筆の書やゆかりの調度品が息づく歴史的空間で過ごす時間</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               文豪が執筆に使用した机や展示室、登録有形文化財に指定された意匠など、まるで博物館や文学館に泊まっているかのような知的好奇心を満たす滞在が叶います。
             </p>
@@ -101,9 +97,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              浴衣姿で歩く風情ある温泉街と伝統の湯巡り体験
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">浴衣姿で歩く風情ある温泉街と伝統の湯巡り体験</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               柳並木の太鼓橋が美しい城崎の外湯めぐりや、坊っちゃん湯で知られる道後本館の風情。昔ながらの日本の湯治情緒を味わえます。
             </p>
@@ -113,9 +107,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              但馬牛・伊豆の山海の幸・伊予の鯛めしなど文豪も舌鼓を打った郷土会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">但馬牛・伊豆の山海の幸・伊予の鯛めしなど文豪も舌鼓を打った郷土会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               その土地の旬の食材を最も美味しく仕立てる伝統の和会席。滋味深く上品な味わいが旅の夜を豊かに彩ります。
             </p>
@@ -130,9 +122,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="kinosaki_literary" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                兵庫県豊岡市ふるさと納税：志賀直哉『城の崎にて』の舞台・七つの外湯めぐりと但馬牛老舗旅館
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">兵庫県豊岡市ふるさと納税：志賀直哉『城の崎にて』の舞台・七つの外湯めぐりと但馬牛老舗旅館</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 大正2年に志賀直哉が逗留し、不朽の名作『城の崎にて』を執筆した城崎温泉。大谿川沿いの柳並木をカランコロンと下駄を鳴らして歩く外湯めぐりと、冬の松葉ガニ・但馬牛が自慢です。
               </p>
@@ -160,9 +150,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島573
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    城崎温泉　つちや旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　つちや旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2025温泉宿総選挙全国第3位　 但馬牛をはじめ、旬を極める料理旅館
                   </p>
@@ -206,9 +194,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島180
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    城崎温泉　料理旅館　よしはる
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　料理旅館　よしはる</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     楽天トラベルアワード2012受賞★口コミ5つ星！城崎温泉駅徒歩３分。貸切風呂・男女デザイン浴衣もあり
                   </p>
@@ -252,9 +238,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県豊岡市城崎町湯島601
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    城崎温泉　春日屋旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">城崎温泉　春日屋旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ★外湯めぐり立地最高★帰ればほっとする懐かしの和室宿で賑わいを楽しむ城崎満喫旅！
                   </p>
@@ -283,9 +267,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="yugashima_literary" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                静岡県伊豆市ふるさと納税：川端康成『伊豆の踊子』執筆の地・天城越えの狩野川渓谷温泉宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">静岡県伊豆市ふるさと納税：川端康成『伊豆の踊子』執筆の地・天城越えの狩野川渓谷温泉宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 ノーベル文学賞作家・川端康成が青春時代に逗留した湯ヶ島温泉。天城の豊かな原生林と狩野川の清流に包まれ、巨石や巨木を配した野趣あふれる秘湯で文芸の薫りに浸れます。
               </p>
@@ -313,9 +295,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島1594
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天城湯ヶ島温泉　白壁　和とモダンが織りなす里山の古民家</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     源泉掛け流しの温泉旅館。湯浴みテラス付露天風呂付客室で贅沢なひと時を。
                   </p>
@@ -359,9 +339,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島347
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    水のみち　風のみち　湯ヶ島　たつた
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">水のみち　風のみち　湯ヶ島　たつた</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ＜田舎で過ごすあたたかな時間＞伊豆唯一の川床料理と100％源泉け流し温泉で心ほどけるひとときを。
                   </p>
@@ -405,9 +383,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市湯ヶ島1887-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    おちあいろう
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">おちあいろう</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     伊豆の雄大な山々に抱かれ狩野川の畔に佇む文化財の宿。明治7年からの歴史を継承しおもてなしいたします。
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="dogo_literary" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                愛媛県松山市ふるさと納税：夏目漱石『坊っちゃん』の道後温泉・3000年の古湯と伊予の伝統美を紡ぐ名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">愛媛県松山市ふるさと納税：夏目漱石『坊っちゃん』の道後温泉・3000年の古湯と伊予の伝統美を紡ぐ名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本三古湯の一つ、道後温泉。夏目漱石や正岡子規が愛した道後温泉本館を中心に、伊予絣や砥部焼の器でいただく鯛めし・瀬戸内の幸など、洗練されたおもてなしを堪能できます。
               </p>
@@ -466,9 +440,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市上市2-8-9
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    道後温泉　旅亭　うめ乃や
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">道後温泉　旅亭　うめ乃や</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     湯築の杜を望む静かな落ち着き。数寄屋造りの歴史感じる温泉宿で過ごす大人の贅沢。
                   </p>
@@ -512,9 +484,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市道後湯之町1-33
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    道後温泉　ふなや
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">道後温泉　ふなや</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ★文人ゆかりの宿・道後一の老舗★　日本庭園には、自然の川が流れ四季折々の風情がお楽しみいただけます。
                   </p>
@@ -558,9 +528,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     愛媛県松山市住吉2-7-30
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    古民家　三津浜旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">古民家　三津浜旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     築106年の歴史と苔庭が息づく貸切宿。新しさと懐かしさが織りなす老舗旅館の風情漂う贅沢な再生体験を
                   </p>
@@ -621,9 +589,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
               </p>
@@ -637,9 +603,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
               </p>
@@ -653,9 +617,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>

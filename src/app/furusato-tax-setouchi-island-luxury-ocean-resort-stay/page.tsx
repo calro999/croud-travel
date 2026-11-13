@@ -108,9 +108,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  どこまでも穏やかな波音と多島美！刻一刻と表情を変える朝夕の海景グラデーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">どこまでも穏やかな波音と多島美！刻一刻と表情を変える朝夕の海景グラデーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 外洋のような荒々しい波がなく、水面が鏡のように光を反射する瀬戸内海。朝の清々しい青と白のコントラストから、夕暮れに空と海が黄金色や茜色に染まるマジックアワー、そして満月の夜に海面に現れる「月の道」まで、部屋にいながら感動の絶景を独占できます。
@@ -123,9 +121,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  瀬戸内海の旬魚・小豆島オリーブ牛・採れたてレモン！豊かな気候が育む贅沢グルメ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">瀬戸内海の旬魚・小豆島オリーブ牛・採れたてレモン！豊かな気候が育む贅沢グルメ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 激しい潮流で身の引き締まった鯛（タイ）やタコ、オリーブの絞り果実を与えて育てた極上のオリーブ牛、国内屈指の生産量を誇る瀬戸田レモンや小豆島オリーブオイル。素材本来の爽やかな風味と旨味を活かした極上の会席や創作ディナーが旅を彩ります。
@@ -138,9 +134,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  しまなみサイクリング、アート巡り、古い町並み散策など多彩なアクティビティ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">しまなみサイクリング、アート巡り、古い町並み散策など多彩なアクティビティ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 しまなみ海道の爽快なサイクリング、小豆島の二十四の瞳映画村や寒霞渓の渓谷美、鞆の浦の常夜燈と江戸情緒残る町並みなど、宿泊拠点の周囲には見どころが満載。アクティブにも静寂なリトリートにも自在にアレンジ可能です。
@@ -183,9 +177,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     香川県土庄町・エンジェルロードが目の前！全室オーシャンビューと小豆島温泉の名宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    小豆島国際ホテル　＜小豆島＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">小豆島国際ホテル　＜小豆島＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     小豆島の象徴的な観光名所であり、「大切な人と手を繋いで渡ると願いが叶う」とされるエンジェルロードに最も近い全室オーシャンビューのリゾートホテル。客室の窓や海沿いの露天風呂からは、潮の満ち引きによって現れたり消えたりする砂の道を間近に見下ろすことができます。肌にしっとりと馴染む小豆島温泉の大浴場、小豆島名産のオリーブ牛や讃岐うどん、瀬戸内の新鮮な海の幸を贅沢に盛り込んだ会席料理も大好評。瀬戸内海の穏やかな潮風に吹かれながらロマンチックで贅沢な島時間を満喫できます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     広島県福山市・鞆の浦の潮待ちの風情と仙酔島を望む全室温泉露天風呂付き隠れ家
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鞆の浦温泉　汀邸　遠音近音（みぎわてい　をちこち）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鞆の浦温泉　汀邸　遠音近音（みぎわてい　をちこち）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本屈指の景勝地・鞆の浦の海岸線に佇み、江戸時代の面影を残す歴史情緒と現代の快適性が調和した大人のための全室温泉露天風呂付き名旅館。全客室のテラスに備えられた客室露天風呂からは、波静かな鞆の浦の海とパワースポットとして知られる仙酔島が一望できます。夕食には瀬戸内名物の小鯛や渡り蟹、アコウなど鞆の浦漁港で揚がった最高鮮度の魚介を職人が丁寧に仕立てる会席料理を提供。海を眺めながら静寂の中で温泉に浸かる、プライベート感あふれる極上の休日をお過ごしいただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     広島県尾道市・しまなみ海道生口島にアマン創業者が創り上げた最高峰のラグジュアリー旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    Ａｚｕｍｉ　Ｓｅｔｏｄａ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">Ａｚｕｍｉ　Ｓｅｔｏｄａ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     しまなみ海道のほぼ中央に位置するレモンの島・生口島瀬戸田のしおまち商店街に誕生した、アマン創業者エイドリアン・ゼッカ氏が手掛ける世界注目の旅館。築140年の製塩豪商・堀内家の旧邸宅を数寄屋大工の手で再生し、伝統的な日本建築の陰影と現代の洗練されたホスピタリティが融合しています。中庭の緑を望むヒノキ風呂付き客室、瀬戸内の契約農家や漁師から届く食材で構成される極上のダイニング、向かいにある銭湯「yubune」でのサウナ・温浴体験など、旅の本質を極めた至高の文化体験が叶います。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】小豆島国際ホテル ＜小豆島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】小豆島国際ホテル ＜小豆島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoSetouchiIslandResortStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と小豆島国際ホテル ＜小豆島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と小豆島国際ホテル ＜小豆島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

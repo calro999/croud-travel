@@ -108,9 +108,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  水族館直結や専用入館パス！開館から閉館まで何度でも出入り自由の圧倒的利便性
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">水族館直結や専用入館パス！開館から閉館まで何度でも出入り自由の圧倒的利便性</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 オフィシャルホテルや隣接ホテルならではの特権。混雑する日中を避けて朝一番のシャチパフォーマンスや夕方の餌やりタイムを狙えるほか、お昼寝や着替えのために部屋へいつでも戻れる安心感が魅力です。
@@ -123,9 +121,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  全室オーシャンビュー＆波音のBGM！大浴場や露天風呂で大人もしっかりリフレッシュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">全室オーシャンビュー＆波音のBGM！大浴場や露天風呂で大人もしっかりリフレッシュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 昼間は水族館で思い切りはしゃぎ、夕暮れには部屋のバルコニーから水平線に沈む夕日を鑑賞。天然温泉や真珠エキス配合の美肌風呂で旅の疲れを洗い流し、大人も贅沢なリゾート気分を満喫できます。
@@ -138,9 +134,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  キッズバイキングやベビーアメニティ完備！子連れファミリーに寄り添う万全の設備
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">キッズバイキングやベビーアメニティ完備！子連れファミリーに寄り添う万全の設備</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 子ども用のプレートや離乳食対応、ベッドガードやオムツ用ゴミ箱の貸出など、ファミリー向けのホスピタリティが充実。大人は新鮮な海の幸や地元牛をバイキングや会席で贅沢に味わえます。
@@ -183,9 +177,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     千葉県鴨川市・鴨川シーワールド直結！宿泊者限定入館パスポート付き全室オーシャンビューホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鴨川シーワールドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鴨川シーワールドホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     房総半島の太平洋沿いに建ち、日本有数の海洋テーマパーク「鴨川シーワールド」に専用連絡通路で直結する公式ホテル。宿泊客はチェックイン日からチェックアウト日まで何度でも無料で水族館に入館できるパスポート付きで、朝一番のシャチパフォーマンスやナイトアドベンチャーなど公式ホテルだけの特別体験も充実しています。全客室が太平洋を望むオーシャンビューで、館内には天然温泉大浴場やキッズアメニティも完備。房総の新鮮な海の幸を取り入れたディナーバイキングとともに、家族みんなが笑顔になれる至高の水族館ステイが叶います。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     三重県鳥羽市・日本一の飼育数を誇る鳥羽水族館至近！ミキモト真珠風呂と伊勢志摩の美食リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鳥羽国際ホテル　潮路亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鳥羽国際ホテル　潮路亭</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     波静かな鳥羽湾を望み、日本一の生きものの種類数を誇る「鳥羽水族館」へ車でわずか約3分の好立地に建つ和モダンリゾート。宿の最大のハイライトは、ミキモト コスメティックスが手掛けた世界初の「パールオーロラ風呂」。真珠由来の美容成分が溶け込んだキラキラと輝く湯船に浸かれば、お肌がしっとりと潤う至福の湯浴みが体験できます。夕食には伊勢海老や鮑、松阪牛など伊勢志摩の最高級食材をオープンキッチンで豪快かつ繊細に仕上げる会席料理が並び、大人も子どもも贅沢な休日を満喫できます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     沖縄県本部町・沖縄美ら海水族館へ徒歩約7分！エメラルドビーチ直結の全室オーシャンフロントホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    オリオンホテル　モトブリゾート＆スパ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">オリオンホテル　モトブリゾート＆スパ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     沖縄本島北部・本部半島の美しいエメラルドビーチの正面に位置し、世界的な名所「沖縄美ら海水族館」へ徒歩約7分・備瀬のフクギ並木へも徒歩圏という絶好のロケーションを誇る最高峰リゾート。全客室が50平米以上の広々としたオーシャンフロントバルコニー付きで、伊江島の城山（タッチュー）と東シナ海に沈むサンセットを一望できます。地下1,500mから湧出する天然温泉大浴場「ジュラ紀温泉」やインドアプール、沖縄県産食材をふんだんに使った贅沢ビュッフェやバーベキューなど、南国の極上バカンスをお過ごしいただけます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鴨川シーワールドホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鴨川シーワールドホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoAquariumFamilyResortStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鴨川シーワールドホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鴨川シーワールドホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

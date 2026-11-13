@@ -250,9 +250,7 @@ export default function GlampingFirstTimeRegretsPage() {
         {/* セクション1: 後悔ワースト5 */}
         <section aria-labelledby="worst5-heading">
           <div className="border-l-4 border-teal-600 pl-4 mb-8">
-            <h2 id="worst5-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              手ぶらOKを信じた初心者が泣いた【後悔ワースト5】
-            </h2>
+            <h2 id="worst5-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">手ぶらOKを信じた初心者が泣いた【後悔ワースト5】</h2>
             <p className="text-slate-600 text-sm mt-1">
               自然の中で過ごすアウトドアだからこそ、わずかな準備の違いが天国と地獄を分けます。
             </p>
@@ -269,9 +267,7 @@ export default function GlampingFirstTimeRegretsPage() {
                     <span className="bg-teal-400 text-teal-950 font-black text-sm px-3 py-1 rounded-full uppercase tracking-wider">
                       Worst {regret.rank}
                     </span>
-                    <h3 className="text-lg sm:text-xl font-black text-white">
-                      {regret.title}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-black text-white">{regret.title}</h3>
                   </div>
                 </div>
 
@@ -287,17 +283,13 @@ export default function GlampingFirstTimeRegretsPage() {
 
                   <div className="grid sm:grid-cols-2 gap-4">
                     <div className="bg-rose-50/50 border border-rose-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-rose-700 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>❌</span> 初心者が陥るトラップ
-                      </h4>
+                      <h4 className="text-xs font-black text-rose-700 uppercase tracking-wider flex items-center gap-1.5 mb-2">初心者が陥るトラップ</h4>
                       <p className="text-xs sm:text-sm text-slate-700 leading-relaxed font-medium">
                         {regret.mistake}
                       </p>
                     </div>
                     <div className="bg-teal-50 border border-teal-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-teal-900 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>🛡️</span> 失敗ゼロの快適テクニック
-                      </h4>
+                      <h4 className="text-xs font-black text-teal-900 uppercase tracking-wider flex items-center gap-1.5 mb-2"><span>️</span> 失敗ゼロの快適テクニック</h4>
                       <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside leading-relaxed">
                         {regret.solution.map((sol, idx) => (
                           <li key={idx}>{sol}</li>
@@ -326,9 +318,7 @@ export default function GlampingFirstTimeRegretsPage() {
         <section aria-labelledby="gear-heading" className="bg-white rounded-3xl border border-teal-200/80 p-6 sm:p-10 shadow-sm">
           <div className="border-l-4 border-teal-600 pl-4 mb-8">
             <div className="text-xs font-bold uppercase text-teal-700 tracking-wider">Camping Essentials</div>
-            <h2 id="gear-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              手ぶらプランにプラスするだけ！持って行くべき神グッズリスト
-            </h2>
+            <h2 id="gear-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">手ぶらプランにプラスするだけ！持って行くべき神グッズリスト</h2>
             <p className="text-slate-600 text-sm mt-1">
               施設のアメニティに頼り切らず、これらをカバンに入れておくだけで快適度が10倍跳ね上がります。
             </p>
@@ -340,10 +330,7 @@ export default function GlampingFirstTimeRegretsPage() {
                 key={idx}
                 className="bg-teal-50/40 border border-teal-200/70 rounded-2xl p-5"
               >
-                <h3 className="font-black text-base text-teal-950 pb-3 mb-4 border-b border-teal-200 flex items-center gap-2">
-                  <span className="text-lg">✨</span>
-                  {group.category}
-                </h3>
+                <h3 className="font-black text-base text-teal-950 pb-3 mb-4 border-b border-teal-200 flex items-center gap-2">{group.category}</h3>
                 <ul className="space-y-4">
                   {group.items.map((item, itemIdx) => (
                     <li key={itemIdx} className="flex items-start gap-2.5 text-xs sm:text-sm">
@@ -364,9 +351,7 @@ export default function GlampingFirstTimeRegretsPage() {
           </div>
 
           <div className="mt-8 bg-teal-950 text-white rounded-2xl p-5 sm:p-6">
-            <h4 className="text-teal-300 font-bold text-sm sm:text-base mb-2 flex items-center gap-2">
-              <span>🌿</span> グランピングの靴選び：スニーカー＋スリッポンの2足体制が最強
-            </h4>
+            <h4 className="text-teal-300 font-bold text-sm sm:text-base mb-2 flex items-center gap-2">グランピングの靴選び：スニーカー＋スリッポンの2足体制が最強</h4>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               行き帰りの移動はスニーカー、サイト内やテントの出入りにはカカトを踏めるスリッポンやクロックスを使うのが最もストレスフリー。テント内は土足禁止のため、1日に何十回も靴を脱ぎ履きする煩わしさが劇的に解消されます。
             </p>
@@ -377,9 +362,7 @@ export default function GlampingFirstTimeRegretsPage() {
         <section aria-labelledby="villas-heading">
           <div className="border-l-4 border-teal-600 pl-4 mb-4">
             <div className="text-xs font-bold uppercase text-teal-700 tracking-wider">Hot Spring & Luxury Glamping</div>
-            <h2 id="villas-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              冷え・虫・トイレの悩みを全解消！客室温泉付きおすすめグランピング施設
-            </h2>
+            <h2 id="villas-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">冷え・虫・トイレの悩みを全解消！客室温泉付きおすすめグランピング施設</h2>
             <p className="text-slate-600 text-sm mt-1">
               源泉かけ流し露天風呂や専用トイレ・シャワーを完備した、初心者でも安心して泊まれる極上ヴィラ。
             </p>
@@ -425,9 +408,7 @@ export default function GlampingFirstTimeRegretsPage() {
                     <div className="text-[11px] font-bold text-teal-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "グランピングリゾート"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "大自然の開放感とリゾートホテルの快適さを融合した、源泉温泉付きの贅沢グランピング滞在。"}
                     </p>
@@ -460,9 +441,7 @@ export default function GlampingFirstTimeRegretsPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 border border-slate-800">
           <div className="max-w-3xl">
             <span className="text-teal-400 font-black text-xs uppercase tracking-wider">Perfect Day Schedule</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">
-              失敗しない！初心者向けグランピング1泊2日タイムスケジュール
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">失敗しない！初心者向けグランピング1泊2日タイムスケジュール</h3>
             <div className="space-y-4 text-xs sm:text-sm text-slate-300">
               <div className="flex gap-4 border-b border-slate-800 pb-3">
                 <span className="font-black text-teal-400 shrink-0 w-24">1日目 15:00</span>
@@ -505,9 +484,7 @@ export default function GlampingFirstTimeRegretsPage() {
 
         {/* よくある質問 */}
         <section className="bg-white rounded-3xl border border-teal-200 p-6 sm:p-8">
-          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span>❓</span> グランピングのよくある質問
-          </h3>
+          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">グランピングのよくある質問</h3>
           <div className="space-y-4 text-xs sm:text-sm">
             <div className="border-b border-slate-100 pb-3">
               <h4 className="font-bold text-slate-900 mb-1">Q. 雨が降ったらグランピングはどうなりますか？</h4>
@@ -529,9 +506,7 @@ export default function GlampingFirstTimeRegretsPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と夜の冷え込み・虫対策・煙で服崩壊！持って行くべき神グッズの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

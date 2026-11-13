@@ -108,9 +108,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  家族水入らずで語り合える「部屋食・個室食事処」＆長寿祝い特典が充実
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">家族水入らずで語り合える「部屋食・個室食事処」＆長寿祝い特典が充実</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 親孝行旅行では周囲の目を気にせずリラックスして団らんできるお部屋食や完全個室の料亭プランが一番人気。乾杯用のお祝い酒や鯛の姿造り、赤・紫・黄色のちゃんちゃんこ無料貸出、家族記念写真の台紙プレゼントなど、宿ならではの心温まる長寿祝い専用サービスが旅行の雰囲気を華やかに盛り上げてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  シニア世代の身体に優しい！バリアフリー設計・手すり付き客室露天風呂
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">シニア世代の身体に優しい！バリアフリー設計・手すり付き客室露天風呂</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 高齢のご両親を連れた旅行で安心なのが、段差を最小限に抑えたユニバーサルデザイン客室や、ベッド完備の和洋室。大浴場まで長い廊下を歩くことなく、お部屋のテラスに備えられた手すり付きの温泉露天風呂でいつでもゆったりと湯浴みを楽しめる環境は、ご両親にとっても大きな安心感と寛ぎをもたらします。
@@ -138,9 +134,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  金泉銀泉・加賀料理・淡路島海の幸！五感で満喫する本物の名湯と郷土美食
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">金泉銀泉・加賀料理・淡路島海の幸！五感で満喫する本物の名湯と郷土美食</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 万病に効くとされる有馬温泉の濃厚な「金泉」や、湯涌温泉のやわらかな美肌湯。そして加賀野菜やのどぐろ、淡路牛や由良産の天然鯛など、熟練の料理人が真心を込めて仕立てる旬の会席料理。身体の内外から健康と活力を取り戻す至高のひとときは、ご両親にとって生涯忘れられない最高の贈り物になります。
@@ -183,9 +177,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県神戸市・有馬温泉の高台に佇む四季の花と金泉の名旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    有馬温泉　御幸荘　花結び
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">有馬温泉　御幸荘　花結び</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本三古湯・有馬温泉の温泉街を見下ろす高台に位置し、「花」をテーマにした心温まるおもてなしが評判の名門宿。名湯「金泉」を湛えた大浴場や展望露天風呂に加え、バリアフリー対応の客室露天風呂付きプランも充実。還暦や古希など長寿祝い向けのプランでは、特製お祝い会席やお祝いちゃんちゃんこの貸出、記念写真など手厚いサポートが揃っています。神戸牛や旬の山海の恵みをふんだんに盛り込んだ彩り豊かな花懐石をお部屋食で気兼ねなくお楽しみいただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     石川県金沢市・金沢の奥座敷・湯涌温泉に佇む数寄屋造りの名門宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    金沢湯涌温泉　湯の出旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">金沢湯涌温泉　湯の出旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     金沢駅から車で約20分、文豪や画家たちに愛された閑静な湯涌温泉に佇む料理自慢の老舗旅館。伝統的な数寄屋造りの館内は落ち着いた和の風情に満ち、静かに時を過ごしたい親孝行旅行に最適です。客室専用の露天風呂や広々とした内湯で名湯を堪能した後は、輪島塗や九谷焼の器に美しく盛り付けられた加賀会席を堪能。日本海で獲れたてのどぐろや能登牛、加賀野菜など北陸の極上素材を熟練の職人技で味わう至福の夕食が、ご両親の特別な記念日を華やかに彩ります。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     兵庫県洲本市・紀淡海峡の海景と全世代に優しい絶景スパリゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">洲本温泉　淡路インターナショナルホテル　ザ・サンプラザ　＜淡路島＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     淡路島・洲本温泉の海沿いに建ち、全室オーシャンビューを誇る総合リゾートホテル。館内はバリアフリー対応が進んでおり、車椅子の貸出やフラット設計の客室など三世代やシニア連れの旅行でもストレスなく快適に過ごせます。目の前に広がる穏やかな海の景色を眺めながらの名湯・洲本温泉入浴は開放感抜群。夕食には名物の淡路牛ステーキや鯛の宝楽焼きなど、淡路島の豊かな御食国（みけつくに）の美味を存分に堪能できるお祝いの宴が叶います。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】有馬温泉 御幸荘 花結びを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】有馬温泉 御幸荘 花結びを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoKanrekiCelebrationStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と有馬温泉 御幸荘 花結びの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と有馬温泉 御幸荘 花結びの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

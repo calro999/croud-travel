@@ -248,12 +248,10 @@ export default function WinterMieKashikojimaPage() {
             11月・12月 英虞湾夕日絶景＆冬の伊勢海老・松阪牛特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月三重・志摩賢島温泉】英虞湾夕日と冬の伊勢志摩美食
             <span className="block text-amber-300 text-lg sm:text-2xl mt-3 font-normal">
               本場伊勢海老＆幻のあのりふぐ・極上松阪牛・真珠の海を望む絶景宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、伊勢志摩国立公園の真珠の海「英虞湾（あごわん）」に浮かぶ賢島（かしこじま）周辺は、澄み渡る初冬の青空の下、無数の真珠養殖筏が織りなすリアス海岸が夕陽に黄金色へと染まり、1年で最もドラマチックな美しさを放ちます。G7伊勢志摩サミットの舞台となった世界的名門ホテルをはじめ、海を一望する絶景温泉旅館が立ち並ぶ賢島温泉。10月に解禁され冬に甘みとプリプリの食感が極まる「伊勢海老」の姿造りや鬼殻焼き、志摩半島安乗沖で獲れる天然トラフグの最高峰「あのりふぐ」、クリーミーな「的矢かき」、世界の美食家を唸らせる極上の「松阪牛」。英虞湾の穏やかな波音と満天の星空に抱かれ、至高の美味と名湯に酔いしれる厳選宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterMieKashikojimaPage() {
             <Waves className="w-4 h-4" />
             初冬の伊勢志摩・英虞湾の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-            夕陽に染まる真珠筏のシルエットと名湯、海の幸と松阪牛が織りなす至高の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">夕陽に染まる真珠筏のシルエットと名湯、海の幸と松阪牛が織りなす至高の休日</h2>
           <div className="space-y-4 text-stone-600 text-sm sm:text-base leading-relaxed">
             <p>
               近鉄の観光特急「しまかぜ」に揺られ、終点の賢島駅に降り立つと、そこには潮風と針葉樹の香りが混ざり合う穏やかなリゾートの空気が満ちています。リアス海岸の入り江が複雑に入り組む英虞湾は、かつて世界で初めて真珠の養殖に成功した「真珠の海」。青い水面には無数の真珠筏が規則正しく並び、まるで一幅の絵画のような静けさを湛えています。
@@ -308,9 +304,7 @@ export default function WinterMieKashikojimaPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の志摩賢島を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の志摩賢島を満喫する3つの醍醐味</h2>
             <p className="text-sm text-stone-500">
               日本の夕日百選、冬の伊勢海老・あのりふぐ、名門リゾートの贅
             </p>
@@ -321,9 +315,7 @@ export default function WinterMieKashikojimaPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-700">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                英虞湾の夕日絵巻＆真珠筏の情景
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">英虞湾の夕日絵巻＆真珠筏の情景</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 空気が澄む初冬こそが最も美しい夕暮れ。真珠養殖筏が連なる波静かな海面が茜色から黄金色へと輝く息をのむ絶景パノラマ。
               </p>
@@ -333,9 +325,7 @@ export default function WinterMieKashikojimaPage() {
               <div className="w-12 h-12 rounded-xl bg-rose-50 flex items-center justify-center text-rose-700">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                本場伊勢海老・あのりふぐ・極上松阪牛
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">本場伊勢海老・あのりふぐ・極上松阪牛</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 冬に甘みが極まる活伊勢海老の姿造りや鬼殻焼き、安乗沖の天然トラフグ「あのりふぐ」、的矢かき、とろける極上松阪牛の饗宴。
               </p>
@@ -345,9 +335,7 @@ export default function WinterMieKashikojimaPage() {
               <div className="w-12 h-12 rounded-xl bg-stone-100 flex items-center justify-center text-stone-700">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                サミットの舞台＆伊勢志摩温泉の癒やし
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-stone-900">サミットの舞台＆伊勢志摩温泉の癒やし</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 G7主会場となった志摩観光ホテルなど名門ホテルの至福のもてなし。冷え切った身体を包む良質な塩化物泉の展望露天風呂。
               </p>
@@ -358,9 +346,7 @@ export default function WinterMieKashikojimaPage() {
         {/* Hotel Cards Section */}
         <section className="space-y-10">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              志摩賢島温泉で11月・12月に泊まりたい名湯宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">志摩賢島温泉で11月・12月に泊まりたい名湯宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-2">
               楽天トラベルAPIより最新の宿データ・宿泊プラン・評価情報を取得して掲載しています
             </p>
@@ -404,11 +390,9 @@ export default function WinterMieKashikojimaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-amber-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-2xl font-bold text-stone-900 hover:text-amber-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {h.story}
@@ -470,9 +454,7 @@ export default function WinterMieKashikojimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-amber-100">
             <Compass className="w-6 h-6 text-amber-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              初冬の志摩賢島を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の志摩賢島を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-stone-700">
             <div className="space-y-2">
@@ -502,35 +484,27 @@ export default function WinterMieKashikojimaPage() {
             <Utensils className="w-4 h-4" />
             伊勢志摩 冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            真珠の海が育む「伊勢海老」「あのりふぐ」「的矢かき」と「松阪牛」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">真珠の海が育む「伊勢海老」「あのりふぐ」「的矢かき」と「松阪牛」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Waves className="w-4 h-4 text-amber-400" />
-                海の王様「伊勢海老」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-400" />
+                海の王様「伊勢海老」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 10月に漁が解禁され、水温が下がる11〜12月に身の締まりと甘みが最高潮に。半透明のプリプリした活造り、香ばしい殻の香りが食欲をそそる鬼殻焼き、味噌のコクが溶け出す具足煮など、本場ならではの鮮度と圧倒的な美味しさを誇ります。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Fish className="w-4 h-4 text-amber-400" />
-                天然トラフグの最高峰「あのりふぐ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Fish className="w-4 h-4 text-amber-400" />
+                天然トラフグの最高峰「あのりふぐ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 遠州灘から熊野灘にかけて一本釣りされる体重1kg以上の極上天然トラフグ「あのりふぐ」。冬の荒波で揉まれた身肉は強い弾力と深い甘みを持ち、透き通るてっさや唐揚げ、てっちり鍋で味わう冬の伊勢志摩屈指のプレミアムな味覚です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                世界の至宝「極上松阪牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                世界の至宝「極上松阪牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 伊勢平野の豊かな風土で丹精込めて育てられる黒毛和牛の最高峰「松阪牛」。不飽和脂肪酸が多く含まれるため人の体温で融け出すほど融点が低く、芳醇な和牛香と上品な甘みが口いっぱいに広がります。すき焼きやステーキで至福の瞬間を演出。
               </p>
@@ -544,15 +518,11 @@ export default function WinterMieKashikojimaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の志摩賢島 交通アクセス＆冬旅のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の志摩賢島 交通アクセス＆冬旅のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                近鉄特急・車でのアクセス方法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                近鉄特急・車でのアクセス方法</h3>
               <p>
                 近鉄観光特急「しまかぜ」または「伊勢志摩ライナー」を利用すれば、大阪難波・近鉄名古屋・京都各駅から賢島駅まで乗り換えなしで快適にアクセスできます。各ホテルへは駅より無料送迎バスが運行。
               </p>
@@ -562,10 +532,8 @@ export default function WinterMieKashikojimaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                気候と防寒・夕日観賞のポイント
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                気候と防寒・夕日観賞のポイント</h3>
               <p>
                 海洋性気候のため日中は日差しがあれば比較的温暖ですが、海沿いのため夕方以降は冷たい浜風が吹き込みます。防風性のあるアウターやストールをご用意ください。
               </p>
@@ -582,16 +550,12 @@ export default function WinterMieKashikojimaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の三重志摩賢島温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の三重志摩賢島温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -603,10 +567,8 @@ export default function WinterMieKashikojimaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい東海・三重の冬伊勢海老・冬イルミ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい東海・三重の冬伊勢海老・冬イルミ特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               冬の伊勢海老や絶景温泉、イルミネーションを満喫する三重・東海各地の厳選旅ガイド
             </p>
@@ -618,9 +580,7 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・鳥羽温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鳥羽温泉郷の冬の伊勢湾オーシャンビューと伊勢海老会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鳥羽温泉郷の冬の伊勢湾オーシャンビューと伊勢海老会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 鳥羽湾を望む絶景露天風呂と解禁直後の伊勢海老・的矢かきを味わう海辺の宿。
               </p>
@@ -631,9 +591,7 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・桑名</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                なばなの里国内最大級冬イルミネーションと長島温泉
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">なばなの里国内最大級冬イルミネーションと長島温泉</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 光のトンネルと大スケールのイルミ絶景、天然温泉で温まるロマンチック冬旅。
               </p>
@@ -644,9 +602,7 @@ export default function WinterMieKashikojimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">三重・湯の山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                御在所岳の樹氷ロープウェイと湯の山温泉僧兵鍋ステイ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">御在所岳の樹氷ロープウェイと湯の山温泉僧兵鍋ステイ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 白銀の鈴鹿山脈の樹氷と開湯1300年の名湯、名物熱々僧兵鍋を堪能。
               </p>

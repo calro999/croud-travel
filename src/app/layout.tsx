@@ -178,9 +178,7 @@ export default function RootLayout({
           <div className="max-w-6xl mx-auto px-4 space-y-10">
             {/* カテゴリ別ナビ（SEO内部リンク強化） */}
             <div className="space-y-3 pb-6 border-b border-emerald-950/5">
-              <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">
-                <span>🏷️</span> <span>旅のテーマ・カテゴリから探す</span>
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5"><span>️</span> <span>旅のテーマ・カテゴリから探す</span></h3>
               <div className="flex flex-wrap gap-2">
                 {[
                   { label: "🌡️ 温泉旅行", href: "/?category=onsen" },
@@ -206,9 +204,7 @@ export default function RootLayout({
 
             <div className="space-y-4 pt-4 border-b border-emerald-950/5 pb-8">
               <div className="flex items-center justify-between">
-                <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5">
-                  <span>🗾</span> <span>全国47都道府県の見所ガイド＆宿特集から探す</span>
-                </h3>
+                <h3 className="font-bold text-emerald-950 text-sm font-journal-serif flex items-center gap-1.5"><span>全国47都道府県の見所ガイド＆宿特集から探す</span></h3>
                 <Link href="/prefectures/" className="text-[11px] font-bold text-teal-800 hover:underline">
                   一覧ページを見る →
                 </Link>

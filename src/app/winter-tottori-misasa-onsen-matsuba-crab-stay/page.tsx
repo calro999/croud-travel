@@ -266,10 +266,8 @@ export default function MisasaCrabWinterPage() {
             <Utensils className="w-4 h-4 text-amber-200" />
             <span>11月解禁！冬の味覚の王様＆世界屈指のラジウム泉</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11月解禁！鳥取松葉ガニと三朝温泉】<br className="hidden sm:inline" />
-            日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11月解禁！鳥取松葉ガニと三朝温泉】<br className="hidden sm:inline" />
+            日本海直送タグ付き活ガニと世界屈指のラジウム名湯宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日、日本海の冬を告げる松葉ガニ漁が一斉解禁。境港直送のブランドタグ付き活カニをフルコースで味わい、「三日目の朝には病が治る」と伝わる奇跡のラジウム名湯で心身を解き放つ至福の山陰ステイ。
           </p>
@@ -295,9 +293,7 @@ export default function MisasaCrabWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">King of Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                雪降る山陰に響く解禁の汽笛。活松葉ガニと奇跡のラジウム名湯の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雪降る山陰に響く解禁の汽笛。活松葉ガニと奇跡のラジウム名湯の饗宴</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function MisasaCrabWinterPage() {
           </p>
           <div className="bg-rose-50/60 rounded-2xl p-5 border border-rose-200/60 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-rose-700" />
-                タグ付き活松葉ガニ会席は11月・12月の早期予約が絶対条件
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-rose-700" />
+                タグ付き活松葉ガニ会席は11月・12月の早期予約が絶対条件</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月6日の解禁直後から年末にかけては予約が最も殺到します。活ガニプランは数量限定のため早めの確保が鉄則です。
               </p>
@@ -332,9 +326,7 @@ export default function MisasaCrabWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Sanin Masterpiece</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の三朝温泉で堪能すべき3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の三朝温泉で堪能すべき3大ハイライト</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function MisasaCrabWinterPage() {
         <section id="hotel-list" className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Selected Ryokans</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">
-              タグ付き活松葉ガニと世界屈指のラジウム湯を堪能する厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mt-1">タグ付き活松葉ガニと世界屈指のラジウム湯を堪能する厳選宿5選</h2>
             <p className="text-stone-500 text-sm mt-2">
               楽天トラベル公式APIより取得した最新情報に基づき、料理・源泉・建物格調において高いクチコミ評価を誇る5軒を厳選。
             </p>
@@ -412,9 +402,7 @@ export default function MisasaCrabWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 mt-2 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-stone-400 shrink-0" />
@@ -423,10 +411,8 @@ export default function MisasaCrabWinterPage() {
 
                       {/* Detailed Story & Deep Dive Review */}
                       <div className="mt-4 pt-4 border-t border-stone-100 space-y-3">
-                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5">
-                          <Info className="w-4 h-4 text-rose-700" />
-                          宿の魅力と自噴泉・活松葉ガニ会席レビュー
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-800 uppercase tracking-wider flex items-center gap-1.5"><Info className="w-4 h-4 text-rose-700" />
+                          宿の魅力と自噴泉・活松葉ガニ会席レビュー</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {hotel.story}
                         </p>
@@ -479,9 +465,7 @@ export default function MisasaCrabWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Comparison</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                三朝温泉厳選5宿 自家源泉・カニ料理・特徴比較表
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">三朝温泉厳選5宿 自家源泉・カニ料理・特徴比較表</h2>
             </div>
           </div>
           <div className="overflow-x-auto">
@@ -538,26 +522,20 @@ export default function MisasaCrabWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Gourmet & Onsen Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                三朝温泉の飲泉とタグ付き松葉ガニを極める専門TIPS
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">三朝温泉の飲泉とタグ付き松葉ガニを極める専門TIPS</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-700" />
-                タグ付き松葉ガニの「赤タグ」と「青タグ」の違い
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-700" />
+                タグ付き松葉ガニの「赤タグ」と「青タグ」の違い</h3>
               <p>
                 鳥取県境港・網代港で水揚げされた松葉ガニには「赤タグ」、お隣の兵庫県津居山港では「青タグ」、間人港では「緑タグ」が付きます。いずれも厳格な基準をクリアした最高品質のブランドガニであり、タグ付きを選ぶことが絶対に失敗しないカニ旅の鉄則です。
               </p>
             </div>
             <div className="space-y-2 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-rose-700" />
-                三朝温泉の「飲泉場」で源泉を美味しく飲むコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-rose-700" />
+                三朝温泉の「飲泉場」で源泉を美味しく飲むコツ</h3>
               <p>
                 温泉街にある「株湯」や「薬師の湯」の飲泉所では、新鮮な源泉を直接飲用できます。無味無臭で飲みやすく、朝食前や入浴前にコップ1杯をゆっくり口に含むことで、胃腸の調子を整え、内臓からホルミシス効果を受け取ることができます。
               </p>
@@ -569,9 +547,7 @@ export default function MisasaCrabWinterPage() {
         <section className="bg-gradient-to-br from-rose-50/70 via-white to-stone-50 rounded-3xl p-6 sm:p-10 border border-rose-200/80 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">Model Course</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              【1泊2日】タグ付き活松葉ガニと奇跡のラジウム湯治コース
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">【1泊2日】タグ付き活松葉ガニと奇跡のラジウム湯治コース</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               倉吉の町並み散策から、世界有数のラドン泉温浴、冬の味覚の王様・活松葉ガニを味わい尽くす旅程。
             </p>
@@ -646,9 +622,7 @@ export default function MisasaCrabWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-700 uppercase tracking-widest">FAQ</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の鳥取・三朝温泉松葉ガニ旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の鳥取・三朝温泉松葉ガニ旅行 よくある質問</h2>
             </div>
           </div>
 
@@ -703,9 +677,7 @@ export default function MisasaCrabWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-stone-500 uppercase tracking-widest">Internal Links</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                鳥取・山陰・近畿の冬のカニ＆名湯特集を探す
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">鳥取・山陰・近畿の冬のカニ＆名湯特集を探す</h2>
             </div>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs sm:text-sm">

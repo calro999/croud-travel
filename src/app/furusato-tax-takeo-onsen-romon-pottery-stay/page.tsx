@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            竜宮城を思わせる朱塗りの楼門と弱アルカリ性美肌の湯——有田焼・波佐見焼の器と極上佐賀牛を愛でる旅
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">竜宮城を思わせる朱塗りの楼門と弱アルカリ性美肌の湯——有田焼・波佐見焼の器と極上佐賀牛を愛でる旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             佐賀県武雄市、西九州新幹線の開通でアクセスが飛躍的に向上した武雄（たけお）温泉。開湯は千三百年以上前の神話の時代と伝わり、宮本武蔵やシーボルト、伊達政宗など歴史上の偉人たちが湯治に訪れた記録が残されています。武雄温泉のシンボルである朱塗りの「武雄温泉楼門」は、東京駅の設計で知られる唐津出身の建築家・辰野金吾が手がけた国の重要文化財。釘を一本も使わずに建てられた竜宮城のような楼門をくぐると、歴史ある大衆浴場「元湯」や「武雄温泉新館」が立ち並び、タイムスリップしたような情緒が漂います。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県武雄市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  武雄温泉　大正浪漫の宿　京都屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">武雄温泉　大正浪漫の宿　京都屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百十余年・大正ロマンの香るクラシック旅館！蓄音機やアンティーク家具が彩る空間と自家源泉美肌の湯
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  武雄温泉 大正浪漫の宿 京都屋 —— クラシカルな気品と温もり。クラシックカーでの送迎と自家源泉の掛け流し
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">武雄温泉 大正浪漫の宿 京都屋 —— クラシカルな気品と温もり。クラシックカーでの送迎と自家源泉の掛け流し</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大正浪漫のアンティーク家具や蓄音機が並ぶレトロモダンな館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大正浪漫のアンティーク家具や蓄音機が並ぶレトロモダンな館内</h5>
                     <p className="text-stone-600 leading-relaxed">一歩足を踏み入れると大正時代のサロンのような優雅な空間。珈琲の香りが漂う喫茶去や、クラシックカーでの駅送迎など特別な演出が魅力です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自家源泉から湧き出る武雄温泉掛け流しの大浴場と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自家源泉から湧き出る武雄温泉掛け流しの大浴場と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内から湧く良質な弱アルカリ性温泉。とろりとした肌触りの名湯に浸かりながら、心身ともに解きほぐされる湯浴みを堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> A5等級佐賀牛や若楠ポーク、有田鶏を味わう特選和食会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">A5等級佐賀牛や若楠ポーク、有田鶏を味わう特選和食会席</h5>
                     <p className="text-stone-600 leading-relaxed">佐賀の恵まれた大自然が育んだ極上牛。陶板焼きやしゃぶしゃぶなど、素材の旨味を最大限に引き出した料理を味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県武雄市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  武雄温泉　ホテル春慶屋
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">武雄温泉　ホテル春慶屋</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業六百余年の歴史を誇る老舗！武雄の街並みと御船山を一望する最上階展望露天風呂と佐賀牛会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  武雄温泉 ホテル春慶屋（しゅんけいや） —— 展望露天風呂から望む絶景。掛け流しの名湯と本格会席料理の宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">武雄温泉 ホテル春慶屋（しゅんけいや） —— 展望露天風呂から望む絶景。掛け流しの名湯と本格会席料理の宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階から武雄の山並みと街並みを見晴らす展望露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階から武雄の山並みと街並みを見晴らす展望露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">開放感抜群の屋上展望露天風呂。澄み切った風を感じながら、掛け流しの美肌の湯に浸かり至福のリフレッシュを味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 源泉掛け流し100％の贅沢な天然温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">源泉掛け流し100％の贅沢な天然温泉</h5>
                     <p className="text-stone-600 leading-relaxed">一切加水・循環なしの純生温泉。肌にしっとりと馴染む武雄ならではの極上のお湯を心ゆくまで満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 佐賀牛の陶板焼きや名物温泉湯豆腐を味わう季節の会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">佐賀牛の陶板焼きや名物温泉湯豆腐を味わう季節の会席</h5>
                     <p className="text-stone-600 leading-relaxed">とろけるような食感の佐賀牛や、温泉水で炊き上げる名物温泉湯豆腐。山海の幸をバランスよく盛り込んだ会席料理が好評です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">佐賀県武雄市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  武雄温泉　なかます旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">武雄温泉　なかます旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   武雄温泉楼門まで徒歩わずか1分の好立地！アットホームな老舗旅館で味わう名湯と家庭的な郷土料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  武雄温泉 なかます旅館 —— 楼門のすぐそばに佇む素朴なやすらぎ。元湯への湯巡りと心のこもったもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">武雄温泉 なかます旅館 —— 楼門のすぐそばに佇む素朴なやすらぎ。元湯への湯巡りと心のこもったもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国指定重要文化財「武雄温泉楼門・元湯」まで徒歩1分の絶好アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国指定重要文化財「武雄温泉楼門・元湯」まで徒歩1分の絶好アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">歴史ある楼門や元湯、立ち寄り湯へいつでも気軽に出かけられるロケーション。朝風呂や夜のライトアップ散策にも最適です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 武雄の良質な天然温泉を引く落ち着いた浴室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">武雄の良質な天然温泉を引く落ち着いた浴室</h5>
                     <p className="text-stone-600 leading-relaxed">滑らかな肌触りの弱アルカリ性単純温泉。混雑を気にせず、静かにゆったりとお湯の良さを実感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地元佐賀の食材を活かした温かい手作り和食膳
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地元佐賀の食材を活かした温かい手作り和食膳</h5>
                     <p className="text-stone-600 leading-relaxed">旬の魚や地元野菜をふんだんに取り入れた家庭的な料理。気取らない温かいおもてなしが旅の疲れを優しく癒やしてくれます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 武雄温泉・御船山楽園＆武雄市図書館観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 武雄温泉・御船山楽園＆武雄市図書館観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                御船山楽園（みふねやまらくえん）の四季の花々とチームラボ展示
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                御船山楽園（みふねやまらくえん）の四季の花々とチームラボ展示</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 武雄鍋島家が造営した十五万坪の大庭園。春のツツジや秋の紅葉ライトアップ、そしてチームラボによる廃墟や庭園を使った大規模アート展が世界中から注目されています。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                武雄温泉楼門と新館の見学
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                武雄温泉楼門と新館の見学</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 辰野金吾設計の国の重要文化財。楼門の天井には干支の四つの彫刻が施されており、東京駅ドーム天井の八つの干支と合わせると十二支が完成するという歴史ミステリーも魅力です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                武雄市図書館でのモダンな読書＆カフェ体験
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                武雄市図書館でのモダンな読書＆カフェ体験</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 蔦屋書店とスターバックスが併設された話題の公立図書館。吹き抜けの洗練された空間で珈琲を片手に本を探す心地よい時間を過ごせます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              佐賀県武雄市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">佐賀県武雄市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】武雄温泉 大正浪漫の宿 京都屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】武雄温泉 大正浪漫の宿 京都屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と武雄温泉 大正浪漫の宿 京都屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と武雄温泉 大正浪漫の宿 京都屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

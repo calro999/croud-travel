@@ -263,9 +263,7 @@ export default function MieSuzukaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Luminous Wonder</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              みちびきの神域が放つ清澄な気と、冬の夜空を埋め尽くす幾千万の光彩
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">みちびきの神域が放つ清澄な気と、冬の夜空を埋め尽くす幾千万の光彩</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               二千年の歴史を刻む伊勢国一の宮と、木曽三川の汽水域が育む桑名蛤の滋味
             </p>
@@ -326,9 +324,7 @@ export default function MieSuzukaPage() {
           <div className="border-b border-slate-200 pb-4 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
             <div>
               <span className="text-amber-600 font-bold text-xs uppercase tracking-wider block">SELECTED ACCOMMODATIONS</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-                冬の鈴鹿・桑名・四日市を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の鈴鹿・桑名・四日市を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
               ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
@@ -364,9 +360,7 @@ export default function MieSuzukaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -430,9 +424,7 @@ export default function MieSuzukaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三重北勢を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三重北勢を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               みちびき初詣、大迫力イルミネーション、桑名伝統の蛤鍋と名湯をめぐる極上旅
             </p>
@@ -485,25 +477,19 @@ export default function MieSuzukaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Winter Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三重北勢旅を快適に楽しむための気候・イルミ混雑回避・アクセスのアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三重北勢旅を快適に楽しむための気候・イルミ混雑回避・アクセスのアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                気候と防寒・鈴鹿おろし対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                気候と防寒・鈴鹿おろし対策</h4>
               <p>
                 平野部は温暖ですが、鈴鹿山麓（椿大神社）や海岸沿いの長島温泉では「鈴鹿おろし」「伊勢湾の寒風」が強く吹き抜けます。夜のイルミネーション観賞では体感温度が氷点下近くまで下がるため、風を通さない厚手コート、手袋、マフラー、貼るカイロが必須です。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-500" />
-                なばなの里イルミの混雑回避
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-amber-500" />
+                なばなの里イルミの混雑回避</h4>
               <p>
                 12月の週末やクリスマス、年末年始の点灯直後（17時〜18時）は道路やゲートが非常に混み合います。宿泊者専用無料シャトルバスを利用するか、19時半以降の遅い時間帯に訪れると、ゆったりと絶景を鑑賞できます。
               </p>
@@ -515,18 +501,14 @@ export default function MieSuzukaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の三重北勢観光・アクセス・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の三重北勢観光・アクセス・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -537,10 +519,8 @@ export default function MieSuzukaPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"

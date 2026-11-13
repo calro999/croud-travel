@@ -108,9 +108,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  聖徳太子や太閤秀吉が愛した、三千年滾々と湧き出る奇跡の泉質
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">聖徳太子や太閤秀吉が愛した、三千年滾々と湧き出る奇跡の泉質</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三古湯の魅力は、単なる歴史の古さだけでなく、現代の科学でも驚嘆される泉質の豊かさにあります。肌触りなめらかで湯治にも最適な道後のアルカリ性単純温泉。地下数百キロのプレート境界から海水よりも濃い塩分を含んで湧き出る有馬の含鉄ナトリウム強塩高温泉（金泉）。そして湧出温度が高く硫黄の香りが心地よい白浜の塩化物泉。何千年もの時を超えて人々を癒やし続けてきた奇跡の湯の力は、日頃のストレスや疲労を根底から解き放ちます。
@@ -123,9 +121,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  有馬牛、瀬戸内鯛めし、紀州本クエや伊勢海老、海の幸・山の幸の競演
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">有馬牛、瀬戸内鯛めし、紀州本クエや伊勢海老、海の幸・山の幸の競演</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 古都や大港湾に近接し、天皇家を迎えてきた三古湯の周辺は、日本有数の美食エリアでもあります。有馬温泉ではブランド牛の原点である神戸牛・三田牛のすき焼きやしゃぶしゃぶ。道後温泉では宇和島風や松山風の真鯛の鯛めしと瀬戸内小魚の舟盛り。白浜温泉では冬の味覚の王様・幻の天然本クエ鍋や伊勢海老、アワビの踊り焼き。伝統の出汁と卓越した板前の技が光る会席料理が、特別な旅の夜を華やかに彩ります。
@@ -138,9 +134,7 @@ export default function FurusatoRound66ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  老舗の格式と現代の快適性が共鳴する名門宿・絶景リゾートでの逗留
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">老舗の格式と現代の快適性が共鳴する名門宿・絶景リゾートでの逗留</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 道後温泉本館のすぐそばで屋上露天風呂や洗練された館内デザインが評判の「茶玻瑠」、有馬温泉で創業七百年・三つの湯処で九つの湯船を巡る名門「兵衛向陽閣」、白浜の海辺の岬に佇み海と一体になる混浴露天風呂を備えた「海舟」。ふるさと納税クーポンを使えば、憧れの特別室や露天風呂付き客室も実質自己負担2,000円で驚くほど賢く予約できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 愛媛県 松山市道後湯月町4-4</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    道後温泉　茶玻瑠
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">道後温泉　茶玻瑠</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事は満足、立地も最高で散策に便利夕食も朝食も種類が豊富で大変満足でした。また、道後温泉も目の前で温泉街散策にも、とてもいい立地でした。1つお願いがあるとしたら、夕食に子ども用メイン料理がつく…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 兵庫県 神戸市北区有馬町1904</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    有馬温泉　兵衛向陽閣
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">有馬温泉　兵衛向陽閣</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「憧れのお宿で心温まるおもてなしと温泉を満喫憧れのお宿に泊まることができて、とても嬉しかったです。こちらの事情で、チェックインが遅くなり、夕飯が遅いスタートになってしまったのですが、荷物や車など様々…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound66ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 和歌山県 西牟婁郡白浜町1698-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    浜千鳥の湯　海舟（共立リゾート）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">浜千鳥の湯　海舟（共立リゾート）</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「すべてのサービスが最高でした全サービス最高」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】道後温泉 茶玻瑠を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】道後温泉 茶玻瑠を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound66ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と道後温泉 茶玻瑠の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と道後温泉 茶玻瑠の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

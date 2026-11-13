@@ -108,9 +108,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  運転ストレス＆渋滞ゼロ！移動中から駅弁や地酒を楽しめる列車旅の醍醐味
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">運転ストレス＆渋滞ゼロ！移動中から駅弁や地酒を楽しめる列車旅の醍醐味</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 高速道路の渋滞に巻き込まれる心配がなく、正確な時間通りに移動できるのが新幹線・特急旅の最大の魅力。運転担当者だけがお酒を我慢する必要もなく、車窓を流れる景色を眺めながらご当地駅弁やクラフトビールで乾杯する贅沢な移動時間を過ごせます。
@@ -123,9 +121,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  駅周辺の飲食店、お土産物街、足湯、観光スポットへ徒歩でラクラク直行
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">駅周辺の飲食店、お土産物街、足湯、観光スポットへ徒歩でラクラク直行</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 駅近の宿なら、到着してすぐにチェックイン前でも荷物をフロントに預けて手ぶらで観光へ繰り出せます。駅前の商店街で名物の温泉まんじゅうを食べ歩きしたり、足湯に浸かったり、地元の居酒屋をハシゴしたりと、アクティブに街歩きを楽しめます。
@@ -138,9 +134,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  冬の豪雪地帯でも安心！ノーマルタイヤでも行ける安心・安全のアクセス
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">冬の豪雪地帯でも安心！ノーマルタイヤでも行ける安心・安全のアクセス</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 冬の温泉旅行で最大のハードルとなるのが雪道や凍結路面の運転。新幹線直結の越後湯沢や熱海などの駅近宿なら、冬用タイヤやチェーンの心配を一切することなく、普段着とスニーカー感覚で安全に本物の名湯露天風呂を満喫できます。
@@ -183,9 +177,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県熱海市・新幹線熱海駅から徒歩圏内！海と街並みを望む老舗名湯宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    熱海温泉　旅館　立花
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">熱海温泉　旅館　立花</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     JR熱海駅から温泉街の賑やかな仲見世通りを抜けて徒歩圏内、熱海サンビーチにも近い好立地に建つ老舗温泉旅館。自家源泉から引く肌に優しい天然温泉を露天風呂や大浴場で24時間満喫できます。夕食には相模湾で獲れた新鮮な海の幸を中心とした会席料理をお部屋食でゆったりとご提供。新幹線で東京駅から最短約35分という抜群の近さで、思い立ったらすぐに手ぶらで出かけられる気軽さと、歴史ある名宿の温かいおもてなしが両立しています。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     新潟県湯沢町・越後湯沢駅徒歩数分！新幹線直結の静寂に包まれる和風旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    越後湯沢温泉　音羽屋旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">越後湯沢温泉　音羽屋旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     上越新幹線・越後湯沢駅西口から徒歩約7分。駅前温泉街の賑わいから一歩奥に入った閑静な高台に佇む、全館に木の温もりが漂う純和風温泉旅館。駅近でありながら車の音も気にならない静寂に包まれ、岩造りの露天風呂や貸切風呂で湯沢の名湯を心ゆくまで堪能できます。料理長が手作りする旬の越後会席と、炊きたての南魚沼産コシヒカリのご飯は感動の美味しさ。雪道運転の心配なく真冬の白銀世界を満喫できる理想の駅近宿です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     佐賀県嬉野市・嬉野温泉バスセンター至近！美肌湯と名物温泉湯どうふの宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    嬉野温泉　割烹旅館　鯉登苑（りとうえん）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">嬉野温泉　割烹旅館　鯉登苑（りとうえん）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本三大美肌の湯として名高い佐賀県・嬉野温泉の中心に位置し、嬉野温泉バスセンターから徒歩すぐの好アクセスを誇る割烹旅館。西九州新幹線の開業により博多方面からのアクセスもさらに快適に。とろとろの美肌温泉を引く露天風呂で肌をしっとり潤した後は、嬉野名物の「温泉湯どうふ」や佐賀牛を贅沢に盛り込んだ本格割烹会席に舌鼓。車がなくても嬉野の情緒ある温泉街散策や足湯巡りをストレスフリーで満喫できます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】熱海温泉 旅館 立花を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】熱海温泉 旅館 立花を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoStationWalkCarFreeStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と熱海温泉 旅館 立花の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と熱海温泉 旅館 立花の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

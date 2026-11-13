@@ -269,9 +269,7 @@ export default function NaganoTateshinaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Yatsugatake Snow & Highland Quietude</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白樺の静寂と澄み渡る八ヶ岳ブルー｜11月・12月に蓼科高原を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白樺の静寂と澄み渡る八ヶ岳ブルー｜11月・12月に蓼科高原を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function NaganoTateshinaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Highland Terroir & Shingen History</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                八ヶ岳の伏流水と火山テロワール｜武田信玄が守った秘湯の科学と信州牛の育ち
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">八ヶ岳の伏流水と火山テロワール｜武田信玄が守った秘湯の科学と信州牛の育ち</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -347,9 +343,7 @@ export default function NaganoTateshinaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Selected Highland Hot Spring Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月の蓼科温泉郷を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月の蓼科温泉郷を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               極上信州蓼科牛ステーキと八ヶ岳新蕎麦、武田信玄の隠し湯を引く渓流露天風呂を誇る、楽天トラベル高評価の特選宿をご紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function NaganoTateshinaWinterFeature() {
                 <div className="p-6 sm:p-8 flex flex-col justify-between flex-grow space-y-5">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="text-right">
                         <span className="text-xs text-slate-500 block">参考宿泊料金（2名1室時1名）</span>
                         <span className="text-xl font-extrabold text-emerald-800">{hotel.price}</span>
@@ -463,9 +455,7 @@ export default function NaganoTateshinaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】八ヶ岳の初雪と信玄の隠し湯を極める1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】八ヶ岳の初雪と信玄の隠し湯を極める1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -494,31 +484,23 @@ export default function NaganoTateshinaWinterFeature() {
         <section className="bg-gradient-to-br from-emerald-950 to-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-6 shadow-md">
           <div className="flex items-center gap-3 pb-3 border-b border-emerald-800">
             <Compass className="w-6 h-6 text-emerald-400" />
-            <h2 className="text-xl sm:text-2xl font-bold">
-              11月・12月の蓼科温泉旅行を満喫する実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">11月・12月の蓼科温泉旅行を満喫する実践ガイド</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4" /> 気温と冬用タイヤ必須
-              </h3>
+              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4" /> 気温と冬用タイヤ必須</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 標高1,200mを超えるため朝晩は氷点下に達します。11月中旬以降のお車でのアクセスには必ずスタッドレスタイヤを装着してください。厚手のダウンや手袋、滑り止め靴の携行が必須です。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4" /> 御射鹿池と蓼科湖散策
-              </h3>
+              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5"><Footprints className="w-4 h-4" /> 御射鹿池と蓼科湖散策</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 初冬の御射鹿池は観光客が少なく、神秘的な水鏡と初雪のコントラストを静かに鑑賞できる穴場シーズン。足元が凍結している場合があるため滑りにくい靴でゆっくり散策しましょう。
               </p>
             </div>
             <div className="space-y-2 bg-white/10 p-5 rounded-2xl backdrop-blur-sm border border-white/10">
-              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5">
-                <Utensils className="w-4 h-4" /> 蓼科牛と新蕎麦の旬
-              </h3>
+              <h3 className="font-bold text-emerald-300 flex items-center gap-1.5"><Utensils className="w-4 h-4" /> 蓼科牛と新蕎麦の旬</h3>
               <p className="text-slate-200 text-xs leading-relaxed">
                 秋から初冬にかけて出回る八ヶ岳産の新蕎麦は香り・喉越しともに年間最高。さらに直営牧場や地元精肉店から仕入れる信州蓼科牛のステーキは、冬の寒さの中で体を芯から満たしてくれます。
               </p>
@@ -534,18 +516,14 @@ export default function NaganoTateshinaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の蓼科温泉郷旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の蓼科温泉郷旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-emerald-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -558,9 +536,7 @@ export default function NaganoTateshinaWinterFeature() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-emerald-100">
             <Compass className="w-6 h-6 text-emerald-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！冬の温泉・美食旅行特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！冬の温泉・美食旅行特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -568,9 +544,7 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">長野・上諏訪</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">
-                諏訪湖畔温泉の初冬レイクビュー露天と信州牛すき焼き宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">諏訪湖畔温泉の初冬レイクビュー露天と信州牛すき焼き宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 諏訪五蔵の銘酒と湯量豊富な上諏訪温泉で温まる冬の湖畔ステイ。
               </p>
@@ -580,9 +554,7 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・別所</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">
-                信州最古の別所温泉・信州牛会席と国宝巡りの湯宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">信州最古の別所温泉・信州牛会席と国宝巡りの湯宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 信州の鎌倉と呼ばれる名刹と極上の硫黄泉を巡る文化紀行。
               </p>
@@ -592,9 +564,7 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">山梨・河口湖</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">
-                河口湖温泉の冬富士絶景露天風呂と甲州牛ステーキ宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">河口湖温泉の冬富士絶景露天風呂と甲州牛ステーキ宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 冠雪した富士山を真正面に望むパノラマ露天と甲州ワインの贅沢。
               </p>
@@ -604,9 +574,7 @@ export default function NaganoTateshinaWinterFeature() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-emerald-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-700 bg-emerald-100/60 px-2 py-0.5 rounded-full inline-block">信州・松本浅間</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">
-                浅間温泉の初冬松本城雪景色と信州牛ステーキ会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-emerald-800 transition line-clamp-2">浅間温泉の初冬松本城雪景色と信州牛ステーキ会席宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 国宝松本城の冬の風情と城下町の奥座敷・浅間温泉の温もり。
               </p>

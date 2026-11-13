@@ -242,9 +242,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
             <span className="w-8 h-8 rounded-full bg-teal-500 text-slate-950 font-black flex items-center justify-center text-sm">
               ✨
             </span>
-            <h2 className="text-lg sm:text-2xl font-bold text-white">
-              なぜ札幌市民は飲んだ後に「夜パフェ」を食べるのか？
-            </h2>
+            <h2 className="text-lg sm:text-2xl font-bold text-white">なぜ札幌市民は飲んだ後に「夜パフェ」を食べるのか？</h2>
           </div>
           <div className="space-y-4 text-xs sm:text-sm text-slate-300 leading-relaxed">
             <p>
@@ -268,10 +266,8 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
         {/* メイン1：夜パフェ名店3選 */}
         <section className="space-y-6">
           <div className="border-b border-teal-500/30 pb-3">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-              <span className="text-teal-400 font-mono">PARFAIT</span>
-              すすきのの夜を彩る！極上シメパフェ名店3選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3"><span className="text-teal-400 font-mono">PARFAIT</span>
+              すすきのの夜を彩る！極上シメパフェ名店3選</h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
               深夜2時まで営業。視覚と味覚を刺激する大人の芸術パフェ
             </p>
@@ -327,10 +323,8 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
         {/* メイン2：深夜ラーメン＆温かいシメ */}
         <section className="space-y-6">
           <div className="border-b border-teal-500/30 pb-3">
-            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-              <span className="text-teal-400 font-mono">RAMEN</span>
-              深夜の身体を芯から温める！すすきの深夜麺3選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3"><span className="text-teal-400 font-mono">RAMEN</span>
+              深夜の身体を芯から温める！すすきの深夜麺3選</h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
               パフェとハシゴも可能！深夜2時・3時でも熱気の冷めない名店たち
             </p>
@@ -363,9 +357,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
 
         {/* すすきの夜遊びタイムライン */}
         <section className="bg-gradient-to-br from-teal-950/40 via-slate-900 to-slate-950 border border-teal-500/30 rounded-3xl p-6 sm:p-8">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-2 flex items-center gap-2">
-            <span>🌙</span> 翌朝も爽快！「すすきの夜遊び〜サウナ就寝」モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-2 flex items-center gap-2">翌朝も爽快！「すすきの夜遊び〜サウナ就寝」モデルコース</h2>
           <p className="text-xs sm:text-sm text-slate-400 mb-6">
             深夜2時まで遊んでも翌日バテないためのベストルート
           </p>
@@ -393,10 +385,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
           <div className="border-b border-teal-500/30 pb-3">
             <div className="flex items-center justify-between flex-wrap gap-2">
               <div>
-                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">
-                  <span className="text-teal-400">🏨</span>
-                  すすきの繁華街から歩いて帰れる！大浴場＆サウナ付きホテル
-                </h2>
+                <h2 className="text-xl sm:text-3xl font-extrabold text-white flex items-center gap-3">すすきの繁華街から歩いて帰れる！大浴場＆サウナ付きホテル</h2>
                 <p className="text-xs sm:text-sm text-slate-400 mt-1">
                   深夜のシメパフェ・ラーメン後も徒歩数分でベッドイン！朝食いくら食べ放題宿も
                 </p>
@@ -451,9 +440,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
                           )}
                         </div>
 
-                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-base sm:text-lg font-bold text-white mb-2 line-clamp-2 leading-snug">{hotel.hotelName}</h3>
 
                         {hotel.hotelSpecial && (
                           <p className="text-xs text-slate-300 line-clamp-3 mb-3 leading-relaxed">
@@ -500,9 +487,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
         {/* 内部リンク回遊ブロック */}
         <section className="pt-8 border-t border-slate-800">
           <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 text-center">
-            <h3 className="text-sm font-bold text-slate-300 mb-4">
-              あわせて読みたい北海道旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-slate-300 mb-4">あわせて読みたい北海道旅行ガイド</h3>
             <div className="flex flex-col sm:flex-row justify-center items-center gap-4">
               <Link
                 href="/hokkaido-travel-budget-plan/"
@@ -527,9 +512,7 @@ export default function SapporoShimeParfaitLateNightGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と深夜2時まで営業！飲んだ後のシメ文化完全攻略の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と深夜2時まで営業！飲んだ後のシメ文化完全攻略の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

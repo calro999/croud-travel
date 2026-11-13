@@ -406,9 +406,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               <Landmark className="w-4 h-4 text-amber-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              本州一遅い紅葉と美肌黒湯・かずさ和牛・猪鍋を堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">本州一遅い紅葉と美肌黒湯・かずさ和牛・猪鍋を堪能する名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -424,9 +422,7 @@ export default function ChibaYoroKeikokuWinterPage() {
                       <span className="inline-block text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -506,17 +502,13 @@ export default function ChibaYoroKeikokuWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              小湊鐵道トロッコと粟又の滝を巡る！初冬の養老渓谷満喫ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">小湊鐵道トロッコと粟又の滝を巡る！初冬の養老渓谷満喫ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】小湊鐵道トロッコ列車で養老渓谷へ＆粟又の滝散策
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】小湊鐵道トロッコ列車で養老渓谷へ＆粟又の滝散策</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -546,10 +538,8 @@ export default function ChibaYoroKeikokuWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】朝の渓谷露天風呂＆大多喜城下町巡り
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】朝の渓谷露天風呂＆大多喜城下町巡り</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -583,27 +573,21 @@ export default function ChibaYoroKeikokuWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               初冬の養老渓谷・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              渓谷と城下町で手に入れたい初冬の房総銘品＆立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">渓谷と城下町で手に入れたい初冬の房総銘品＆立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Trees className="w-4 h-4 text-amber-700" />
-                大多喜城下町の銘酒「腰古井」と特産自然薯・ゆず加工品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Trees className="w-4 h-4 text-amber-700" />
+                大多喜城下町の銘酒「腰古井」と特産自然薯・ゆず加工品</h3>
               <p>
                 養老渓谷の玄関口である大多喜町は、歴史ある酒蔵「吉野酒造」が醸す銘酒「腰古井（こしごい）」のふるさと。初冬にはできたての新酒や純米吟醸が手に入ります。また、里山で収穫される粘りと風味の強い「自然薯」や、香り高い房総ゆずを使ったゆず味噌・ゆず胡椒など、冬の食卓を豊かに彩る特産品が城下町の老舗商店に並びます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                道の駅たけゆらの里おおたきと養老渓谷手打ち蕎麦処
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                道の駅たけゆらの里おおたきと養老渓谷手打ち蕎麦処</h3>
               <p>
                 国道297号沿いの「道の駅 たけゆらの里おおたき」は、地元猟師が仕留めた天然猪肉や鹿肉のジビエ加工品（ソーセージや冷凍ぼたん鍋セット）が手に入る人気スポット。さらに温泉街や大多喜町内には、清らかな水で打つ石臼挽きの常陸秋そばや自然薯そばの名店が多く、紅葉狩りの途中に立ち寄るランチにぴったりです。
               </p>
@@ -618,27 +602,21 @@ export default function ChibaYoroKeikokuWinterPage() {
               <Shield className="w-4 h-4 text-amber-800" />
               11月・12月の気候・服装・快適アクセス案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の養老渓谷旅行のポイントと防寒・ハイキングのコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の養老渓谷旅行のポイントと防寒・ハイキングのコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                房総の温暖気候と渓谷ハイキングの防寒・足元対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                房総の温暖気候と渓谷ハイキングの防寒・足元対策</h3>
               <p>
                 房総半島は冬でも温暖ですが、養老渓谷は切り立った谷底に位置するため、日当たりが限られ朝晩や川沿いは体感温度がぐっと下がります。日中は12〜15℃前後で歩くと体が温まりますが、夕暮れのライトアップ鑑賞時は5〜8℃近くまで冷え込みます。フリースやダウンジャケット、防風アウターを着用し、遊歩道の濡れた岩場や落葉で滑らないようトレッキングシューズや滑り止めソールの靴を選んでください。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                圏央道市原鶴舞ICから25分＆小湊鐵道トロッコ列車アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                圏央道市原鶴舞ICから25分＆小湊鐵道トロッコ列車アクセス</h3>
               <p>
                 東京湾アクアラインを利用すれば、都心から圏央道「市原鶴舞IC」経由で約80〜90分と日帰りも可能な近さです。紅葉ピークの土日祝日は県道の渋滞が予想されるため、午前早めの到着がスムーズ。鉄道派には、JR五井駅からの小湊鐵道「里山トロッコ列車」が人気で、レトロな駅舎や車窓の紅葉美を楽しみながらのんびりアクセスできます。
               </p>
@@ -653,9 +631,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               <Utensils className="w-4 h-4 text-amber-800" />
               名物グルメ＆温泉の深掘り
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の養老渓谷を味わう3大名物と黒湯の秘密
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の養老渓谷を味わう3大名物と黒湯の秘密</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -698,18 +674,14 @@ export default function ChibaYoroKeikokuWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の養老渓谷温泉旅行・よくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の養老渓谷温泉旅行・よくある質問（FAQ）</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -721,9 +693,7 @@ export default function ChibaYoroKeikokuWinterPage() {
         {/* Internal Links / Related Features Section */}
         <section className="bg-gradient-to-br from-stone-100 to-amber-50/50 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-base sm:text-lg font-bold text-stone-900">
-              千葉・関東近郊エリアのあわせて読みたい人気温泉特集
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-stone-900">千葉・関東近郊エリアのあわせて読みたい人気温泉特集</h3>
             <p className="text-xs sm:text-sm text-stone-600">
               養老渓谷温泉とあわせて巡りたい、関東の紅葉名所や避寒温泉特集をご紹介します。
             </p>
@@ -735,9 +705,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り名宿
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り名宿</h4>
             </Link>
 
             <Link
@@ -745,9 +713,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">神奈川・湯河原温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                文豪が愛した万葉の隠れ名湯と相模湾地魚・懐石料理
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">文豪が愛した万葉の隠れ名湯と相模湾地魚・懐石料理</h4>
             </Link>
 
             <Link
@@ -755,9 +721,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                竹林の小径と初冬の遅い紅葉・桂川沿いの老舗湯宿
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">竹林の小径と初冬の遅い紅葉・桂川沿いの老舗湯宿</h4>
             </Link>
 
             <Link
@@ -765,9 +729,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">埼玉・秩父温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                12月秩父夜祭の屋台曳行と武州牛・長瀞渓谷の初冬風情
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">12月秩父夜祭の屋台曳行と武州牛・長瀞渓谷の初冬風情</h4>
             </Link>
 
             <Link
@@ -775,9 +737,7 @@ export default function ChibaYoroKeikokuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">栃木・鬼怒川温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                鬼怒川渓谷の初冬美景とアルカリ性単純温泉・とちぎ和牛
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">鬼怒川渓谷の初冬美景とアルカリ性単純温泉・とちぎ和牛</h4>
             </Link>
 
             <Link

@@ -205,9 +205,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
       <section className="bg-teal-50/60 border border-teal-200/70 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-teal-700 uppercase tracking-wider">Quiet Autumn Retreat</span>
-          <h2 className="text-xl sm:text-2xl font-black text-teal-950 font-journal-serif">
-            なぜ今、大人が「ひとりで泊まるグランピング」を選ぶのか
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-teal-950 font-journal-serif">なぜ今、大人が「ひとりで泊まるグランピング」を選ぶのか</h2>
           <p className="text-xs sm:text-sm text-teal-900/80">
             日常の人間関係やスマートフォンから少しだけ距離を置き、五感をリセットする秋のリトリート体験。
           </p>
@@ -233,9 +231,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">Solo Traveler Friendly</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            シルバーウィークに1人泊できる厳選ソログランピング＆リトリート宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 font-journal-serif">シルバーウィークに1人泊できる厳選ソログランピング＆リトリート宿</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             山頂絶景のキャビンからノスタルジックな廃校リノベーション宿、富士山を望むプライベートヴィラまで。
           </p>
@@ -288,9 +284,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-teal-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "静寂の森に囲まれたプライベート空間。マイペースに焚き火や読書を楽しみながら心身をリセットするソロステイ。"}
@@ -328,9 +322,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
         <div className="max-w-3xl space-y-6">
           <div className="space-y-1">
             <span className="text-teal-400 font-black text-xs uppercase tracking-widest">Solo Retreat Flow</span>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              大人の秋ソログランピング 1泊2日タイムライン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">大人の秋ソログランピング 1泊2日タイムライン</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               急がず、何もしない贅沢を味わい尽くす、自分を整えるためのモデルスケジュール。
             </p>
@@ -354,18 +346,14 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
       <section className="bg-white rounded-3xl border border-teal-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-teal-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-teal-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            おひとり様ソログランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">おひとり様ソログランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-teal-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-teal-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-teal-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -376,9 +364,7 @@ export default function SilverWeekGlampingSoloStayRetreatPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-teal-50/40 border border-teal-200/60 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-          <span>🧭</span> あわせて読みたい車なし一人旅＆長距離アクセスガイド
-        </h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">あわせて読みたい車なし一人旅＆長距離アクセスガイド</h3>
         <p className="text-xs text-slate-600">
           大自然へのアクセスや車なし旅、夜行バスでの快適な移動術など、ひとり旅を快適にする知恵はこちら。
         </p>

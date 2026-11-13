@@ -280,10 +280,8 @@ export default function MinamichitaOnsenWinterFeature() {
             <Sunset className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜愛知・知多半島
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月南知多温泉郷】<br className="hidden sm:inline" />
-            伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月南知多温泉郷】<br className="hidden sm:inline" />
+            伊勢湾パノラマ夕日露天と本場とらふぐフルコース・知多牛の海辺宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             日本有数の水揚げ高を誇る天然とらふぐの聖地。伊勢湾の水平線に沈む黄金の夕日を望む天空露天風呂で温まり、透き通るてっさと極上知多牛ステーキを堪能する知多半島の冬の極上旅。
           </p>
@@ -301,9 +299,7 @@ export default function MinamichitaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Sunset Ocean View & Maritime Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                伊勢湾を染める黄金のサンセットと、知多半島の千賀水軍ロマン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">伊勢湾を染める黄金のサンセットと、知多半島の千賀水軍ロマン</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,26 +340,20 @@ export default function MinamichitaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Thermal Science & Coastal Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本屈指の天然とらふぐ産地「南知多・日間賀島」の真実と知多牛の霜降り美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本屈指の天然とらふぐ産地「南知多・日間賀島」の真実と知多牛の霜降り美</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>地下1,300mの古代化石海水「塩化物強塩泉」がもたらす熱の湯効果</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>地下1,300mの古代化石海水「塩化物強塩泉」がもたらす熱の湯効果</span></h3>
             <p>
               南知多温泉郷の地下深層（1,300m前後）には、何百万年も前の太古の海水が地層深くに閉じ込められた「化石海水」が豊富に眠っています。源泉は無色透明から淡黄色を帯びた「ナトリウム・カルシウム-塩化物強塩温泉」。塩分濃度が海水を上回るほど高いため、入浴すると塩分が皮膚表面の皮脂膜と結合して「塩の保護膜（ベール）」を形成します。
             </p>
             <p>
               この塩の膜が汗の過剰な蒸発を完全に遮断するため、湯上がり後も体温の放散が強力に抑えられ、「熱の湯」「温まりの湯」として抜群の保温持続力を誇ります。海風が冷たく吹き付ける冬の夕暮れや夜間であっても、湯冷めを一切起こさず、冷え性改善や神経痛、関節痛の緩和に絶大な効果を発揮します。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>伊勢湾と三河湾の潮流が育む「本場天然とらふぐ」の弾力とアミノ酸</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>伊勢湾と三河湾の潮流が育む「本場天然とらふぐ」の弾力とアミノ酸</span></h3>
             <p>
               南知多の冬の味覚を象徴するのが「天然とらふぐ」です。日間賀島や篠島、師崎港周辺は、太平洋の黒潮と伊勢湾・三河湾の激しい潮流が交差する絶好の漁場。激流に逆らって泳ぎ、豊富なエビや小魚を捕食して育つ天然とらふぐは、筋肉繊維が極限まで引き締まり、噛みしめるほどに凝縮されたグルタミン酸やイノシン酸の旨味が舌を満たします。
             </p>
@@ -377,9 +367,7 @@ export default function MinamichitaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              南知多温泉郷・冬の滞在を彩る厳選海辺宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">南知多温泉郷・冬の滞在を彩る厳選海辺宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
@@ -405,11 +393,9 @@ export default function MinamichitaOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                     </div>
                     <div className="text-right flex sm:flex-col items-baseline sm:items-end justify-between sm:justify-center">
                       <span className="text-xs text-slate-500">1名あたり参考料金（税込）</span>
@@ -498,9 +484,7 @@ export default function MinamichitaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">1泊2日 満喫ルート</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                南知多海岸ドライブ＆野間埼灯台と本場とらふぐ三昧モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">南知多海岸ドライブ＆野間埼灯台と本場とらふぐ三昧モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -533,26 +517,20 @@ export default function MinamichitaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Advisory</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の南知多 冬旅の注意点と服装・海風対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の南知多 冬旅の注意点と服装・海風対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                海洋性気候と伊勢湾のからっ風
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                海洋性気候と伊勢湾のからっ風</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 積雪や凍結の心配はほとんどありませんが、海沿いのため冬期は強い西風・北西風（伊勢湾のからっ風）が吹き抜ける日があります。展望露天風呂や海岸散策を楽しむ際は、風を遮る防風性のアウターやストール、マフラーを1枚携行すると快適です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                日没時刻と夕日鑑賞のタイミング
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                日没時刻と夕日鑑賞のタイミング</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月・12月の知多半島の日没時刻は16時30分〜16時45分頃と非常に早くなります。チェックインを15時〜15時30分頃までに済ませ、客室や最上階の露天風呂から夕暮れ時の絶景グラデーションを余裕を持って楽しむスケジュールがおすすめです。
               </p>
@@ -568,18 +546,14 @@ export default function MinamichitaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                南知多温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">南知多温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -592,9 +566,7 @@ export default function MinamichitaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東海・伊勢志摩の冬名湯＆極上海の幸特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東海・伊勢志摩の冬名湯＆極上海の幸特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の海絶景と、本場のとらふぐ・伊勢海老・牡蠣を味わう人気の厳選特集もぜひご覧ください。
             </p>

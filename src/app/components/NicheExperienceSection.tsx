@@ -76,9 +76,7 @@ export default function NicheExperienceSection() {
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-[10px] font-black tracking-widest uppercase border border-teal-400/30">
             <span>🎯 目的・こだわりから選ぶ</span>
           </div>
-          <h2 className="text-xl md:text-3xl font-black text-white mt-2 font-journal-serif">
-            大手が載せない！ニッチなこだわり・体験で選ぶ厳選テーマ宿
-          </h2>
+          <h2 className="text-xl md:text-3xl font-black text-white mt-2 font-journal-serif">大手が載せない！ニッチなこだわり・体験で選ぶ厳選テーマ宿</h2>
         </div>
         <p className="text-xs text-teal-200/80 max-w-md leading-relaxed">
           「ただ泊まるだけじゃ物足りない」あなたへ。洞窟風呂やボルダリング、シアタールームなど、旅の目的が明確な読者に選ばれている高満足度特集です。
@@ -99,9 +97,7 @@ export default function NicheExperienceSection() {
                   {topic.badge}
                 </span>
               </div>
-              <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-300 transition line-clamp-1">
-                {topic.title}
-              </h3>
+              <h3 className="text-sm md:text-base font-bold text-white group-hover:text-teal-300 transition line-clamp-1">{topic.title}</h3>
               <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
                 {topic.desc}
               </p>

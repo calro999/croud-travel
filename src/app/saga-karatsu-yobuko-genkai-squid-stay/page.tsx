@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本三大松原の緑と唐津湾の天守閣
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 唐津城天守（舞鶴城）＆名勝「虹の松原」百万本黒松街道・唐津焼名窯めぐり
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 唐津城天守（舞鶴城）＆名勝「虹の松原」百万本黒松街道・唐津焼名窯めぐり</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             唐津湾に突き出た満島山に築かれた「唐津城」。左右に広がる砂浜と松原が翼を広げた鶴に見えることから「舞鶴城」の別名を持ちます。天守閣からは唐津湾と玄界灘の島々を一望。「虹の松原」は初代唐津藩主・寺沢広高が防風・防砂のために植林した長さ約4.5km・幅約500mに及ぶ松原で、約100万本の黒松が緑のトンネルを作ります。茶人に愛された「一楽二萩三唐津」と称される伝統工芸「唐津焼」の窯元巡りも雅な旅の楽しみです。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        日本料理　水野旅館＜唐津＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日本料理　水野旅館＜唐津＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         “美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＯＮＣＲＩ－ＫＡＲＡＴＳＵ（おんくり唐津）（旧：旅館魚半）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         〈グランドオープン〉自然の恩恵を享受する海辺のリゾート
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        からつ温泉　かぐや姫の湯　旅館　綿屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天然温泉と陶芸コーナー新設の和風老舗旅館
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        割烹旅館　長崎荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　長崎荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         Gotoキャンペーン対象　
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             大正時代から続く日本三大朝市と透明な海の宝石
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 呼子の朝市（名物おばちゃんとの対話）＆呼子「イカの活き造り」・後造り天ぷら
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 呼子の朝市（名物おばちゃんとの対話）＆呼子「イカの活き造り」・後造り天ぷら</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             元旦を除く年中無休で毎朝7時半から開かれる「呼子の朝市」。呼子港の朝市通り約200mに地元の元気なおばちゃんたちの露店が並び、獲れたての鮮魚、干物、ウニ、野菜が所狭しと並びます。そして全国にその名を轟かせる「呼子のイカ活き造り」。玄界灘で一本釣りされたイカを生簀から揚げて数秒で捌くため、身はクリスタルガラスのように透き通り、口の中で甘みが広がります。刺身を堪能した後の下足や耳を塩焼きやサクサクの「天ぷら」にする後造りも絶品です。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        からつ温泉　かぐや姫の湯　旅館　綿屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">からつ温泉　かぐや姫の湯　旅館　綿屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天然温泉と陶芸コーナー新設の和風老舗旅館
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        割烹旅館　筑前屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　筑前屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         唐津市呼子港にある割烹旅館です。抜群のロケーションと新鮮な魚料理を存分にお楽しみ下さい。
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        日本料理　水野旅館＜唐津＞
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">日本料理　水野旅館＜唐津＞</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         “美食と歴史”を堪能する宿。玄界灘の海の幸と唐津焼、歴史ある空間が織りなすひとときをお愉しみください
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        割烹旅館　長崎荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">割烹旅館　長崎荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         Gotoキャンペーン対象　
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             恋人の聖地と玄界灘の沈みゆく夕日
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 波戸岬「ハートのモニュメント」＆名護屋城跡・玄界灘パノラマ夕日露天宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 波戸岬「ハートのモニュメント」＆名護屋城跡・玄界灘パノラマ夕日露天宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             九州本土の最西北端に突き出た「波戸岬（はどみさき）」。白いハートのオブジェが海を背景に佇む「恋人の聖地」として知られ、海中展望塔からは水深7mの海中を泳ぐ魚たちを観察できます。名物の「サザエのつぼ焼き」小屋が並び、香ばしい醤油の香りが漂います。近くの「特別史跡 名護屋城跡」は豊臣秀吉が朝鮮出兵の拠点とした巨大山城で、130以上の大名陣跡が残る歴史の証人。夜は玄界灘を望む展望露天風呂で夕日を眺めながらゆったり寛げます。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        唐津シーサイドホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">唐津シーサイドホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         唐津湾と虹の松原に囲まれた景色と海の幸・山の幸。天然温泉で心身ともにリラックス！
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        観光ホテル　大望閣
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">観光ホテル　大望閣</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         2023年リニューアル、『呼子のイカ』究極の鮮度で、忘れられない味わいを体感。特別なひとときを
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＴＨＥ　ＴＲＡＩＬＥＲＨＯＵＳＥ　ＶＩＬＬＡＧＥ　長崎　ＴＳＵＢＡＫＩ　ＰＲＥＭＩＵＭ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＴＨＥ　ＴＲＡＩＬＥＲＨＯＵＳＥ　ＶＩＬＬＡＧＥ　長崎　ＴＳＵＢＡＫＩ　ＰＲＥＭＩＵＭ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         海辺で気軽にアウトドア♪トレーラーハウスは13.5ｍのプレミアムサイズ！4名でもゆったり★コスパ最高
                       </p>
@@ -733,9 +702,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日本料理 水野旅館＜唐津＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日本料理 水野旅館＜唐津＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -768,9 +735,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日本料理 水野旅館＜唐津＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日本料理 水野旅館＜唐津＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

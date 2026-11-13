@@ -12,9 +12,7 @@ export default function FurusatoStepSection({ municipality, theme }: FurusatoSte
 
   return (
     <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm mb-16">
-      <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-6 text-center">
-        ふるさと納税トラベルクーポンの簡単3ステップ
-      </h2>
+      <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-6 text-center">ふるさと納税トラベルクーポンの簡単3ステップ</h2>
       <div className="grid md:grid-cols-3 gap-6">
         <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 text-center">
           <div className="w-10 h-10 rounded-full bg-amber-600 text-white font-bold flex items-center justify-center mx-auto mb-3">1</div>

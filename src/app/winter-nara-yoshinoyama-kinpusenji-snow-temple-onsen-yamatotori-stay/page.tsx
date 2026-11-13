@@ -84,37 +84,29 @@ export default function WinterFeaturePage() {
         <section className="max-w-4xl mx-auto px-4 py-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
             <div className="space-y-1">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2026-2027年冬の吉野山・金峯山寺・吉野温泉が格別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2026-2027年冬の吉野山・金峯山寺・吉野温泉が格別な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 冬ならではの絶景・温泉・美食のハイライト
               </p>
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  白雪に浮かび上がる世界遺産・金峯山寺蔵王堂の圧倒的威容と新春初詣
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  白雪に浮かび上がる世界遺産・金峯山寺蔵王堂の圧倒的威容と新春初詣</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   木造建築として日本有数の規模を誇る国宝・蔵王堂。冬の雪をまとった大屋根と重厚な柱の姿は、修験道の霊場にふさわしい神秘的な迫力に満ちています。新春の護摩祈祷では太鼓と法螺貝の音が山内に響き渡り、清らかな新年を迎えることができます。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  文豪が愛した秘湯「吉野温泉」のにごり湯と雪見風呂
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  文豪が愛した秘湯「吉野温泉」のにごり湯と雪見風呂</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   吉野山深くの谷あいに湧く吉野温泉は、鉄分と炭酸を豊富に含み、空気に触れると赤褐色や黄金色に濁る名湯。文豪・島崎藤村が滞在して名作を構想したことでも知られ、冬の雪景色を眺めながらの湯浴みは旅情の極みです。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  奈良の至宝「大和肉鶏」と体を芯から温める「吉野本葛鍋」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  奈良の至宝「大和肉鶏」と体を芯から温める「吉野本葛鍋」</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   大和の豊かな自然で長期飼育された地鶏「大和肉鶏」は、引き締まった肉質と噛むほどに溢れる深いコクが特徴。吉野葛を用いたとろみ出汁の鍋料理や西行鍋は、葛の保温効果で身体の芯までぽかぽかに温めてくれます。
                 </p>
@@ -126,10 +118,8 @@ export default function WinterFeaturePage() {
         {/* アクセス・気候・服装ガイド */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-600" />
-              冬のアクセス・気候とおすすめの服装
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-cyan-600" />
+              冬のアクセス・気候とおすすめの服装</h2>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 p-4 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
 ・電車：近鉄大阪阿部野橋駅より近鉄特急で吉野駅まで約1時間15分。近鉄京都駅より橿原神宮前駅乗り換えで約1時間40分。吉野駅より吉野山ロープウェイ（冬期運休日は代行バスあり）または徒歩・旅館送迎。
@@ -147,9 +137,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              吉野山・金峯山寺・吉野温泉 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">吉野山・金峯山寺・吉野温泉 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -173,9 +161,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     中千本の絶景高台・吉野山パノラマ露天風呂と季節会席
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    景勝の宿　芳雲館
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">景勝の宿　芳雲館</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.44
@@ -239,9 +225,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     豊臣秀吉ゆかりの名勝庭園「群芳園」と格調高い宿坊旅館
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    竹林院群芳園
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">竹林院群芳園</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.80
@@ -301,9 +285,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     島崎藤村の逗留の地・谷あいに自噴する秘湯にごり湯の元湯
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    吉野温泉元湯
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">吉野温泉元湯</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.70
@@ -367,9 +349,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     金峯山寺蔵王堂徒歩3分・名物「西行鍋」と大和牛の老舗割烹
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    世界遺産吉野山　吉野荘湯川屋
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">世界遺産吉野山　吉野荘湯川屋</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.50
@@ -433,9 +413,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     中千本の好立地・絶景展望風呂と吉野郷土の味覚を愉しむ宿
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    世界遺産・吉野山　眺望風呂と桜の宿　一休庵
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">世界遺産・吉野山　眺望風呂と桜の宿　一休庵</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.60
@@ -485,9 +463,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  奈良県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">奈良県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -506,10 +482,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の吉野山・金峯山寺・吉野温泉旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の吉野山・金峯山寺・吉野温泉旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

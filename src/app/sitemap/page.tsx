@@ -122,9 +122,7 @@ export default function SitemapPage() {
 
       {/* 1. メインナビゲーション */}
       <section className="bg-white rounded-3xl p-6 md:p-8 border border-emerald-950/10 shadow-sm space-y-6">
-        <h2 className="text-xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-3 flex items-center gap-2">
-          <span>📌</span> <span>主要メインページ</span>
-        </h2>
+        <h2 className="text-xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-3 flex items-center gap-2"><span>主要メインページ</span></h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-4">
           <Link
             href="/"
@@ -166,16 +164,12 @@ export default function SitemapPage() {
 
       {/* 2. 47都道府県＆エリア・市町村・観光名所ガイド */}
       <section className="bg-white rounded-3xl p-6 md:p-8 border border-emerald-950/10 shadow-sm space-y-6">
-        <h2 className="text-xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-3 flex items-center gap-2">
-          <span>🗾</span> <span>全国47都道府県・市町村・名所ガイド</span>
-        </h2>
+        <h2 className="text-xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-3 flex items-center gap-2"><span>全国47都道府県・市町村・名所ガイド</span></h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {Object.entries(REGIONS_MAP).map(([regionName, prefNames]) => (
             <div key={regionName} className="bg-emerald-50/40 rounded-2xl p-4 border border-emerald-950/5 space-y-3">
-              <h3 className="text-xs font-black text-amber-700 uppercase tracking-wider border-b border-amber-200/60 pb-1.5 flex items-center justify-between">
-                <span>【{regionName}】</span>
-                <span className="text-[10px] text-emerald-950/40 font-normal">{prefNames.length}県</span>
-              </h3>
+              <h3 className="text-xs font-black text-amber-700 uppercase tracking-wider border-b border-amber-200/60 pb-1.5 flex items-center justify-between"><span>【{regionName}】</span>
+                <span className="text-[10px] text-emerald-950/40 font-normal">{prefNames.length}県</span></h3>
               <div className="space-y-3 text-xs">
                 {prefNames.map((pName) => {
                   const pInfo = PREFECTURES_DATA.find((p) => p.name === pName);
@@ -256,9 +250,7 @@ export default function SitemapPage() {
       {featureHubs.length > 0 && (
         <section className="bg-white rounded-3xl p-6 md:p-8 border border-emerald-950/10 shadow-sm space-y-6">
           <div className="border-b border-emerald-950/10 pb-3 flex items-center justify-between">
-            <h2 className="text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🌟</span> <span>目的別・季節別 テーマ特化特集ハブ（全{featureHubs.length}テーマ）</span>
-            </h2>
+            <h2 className="text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>目的別・季節別 テーマ特化特集ハブ（全{featureHubs.length}テーマ）</span></h2>
           </div>
           <p className="text-xs text-emerald-950/60 leading-relaxed">
             絶景温泉、記念日スイート、ご当地グルメ、サウナ、ワーケーション、新幹線・空港直行など、旅行の目的に合わせた専用特集ページです。
@@ -284,9 +276,7 @@ export default function SitemapPage() {
       <section className="bg-white rounded-3xl p-6 md:p-8 border border-emerald-950/10 shadow-sm space-y-8">
         <div className="border-b border-emerald-950/10 pb-4 space-y-1">
           <div className="flex items-center justify-between">
-            <h2 className="text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>📚</span> <span>宿泊施設 徹底比較ルポ記事（全{posts.length}件）</span>
-            </h2>
+            <h2 className="text-xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>宿泊施設 徹底比較ルポ記事（全{posts.length}件）</span></h2>
           </div>
           <p className="text-xs text-emerald-950/60">
             全国の主要観光地・温泉街ごとの目的別ホテル＆旅館徹底比較ガイド記事の一覧です。
@@ -301,9 +291,7 @@ export default function SitemapPage() {
             return (
               <div key={pref.slug} className="space-y-3">
                 <div className="flex items-center gap-2 border-l-4 border-amber-600 pl-3">
-                  <h3 className="font-bold text-emerald-950 text-base font-journal-serif">
-                    {pref.name}の宿泊比較ガイド記事
-                  </h3>
+                  <h3 className="font-bold text-emerald-950 text-base font-journal-serif">{pref.name}の宿泊比較ガイド記事</h3>
                   <span className="text-[10px] font-extrabold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded-full border border-amber-200">
                     {prefPosts.length}件
                   </span>
@@ -344,9 +332,7 @@ export default function SitemapPage() {
           {otherPosts.length > 0 && (
             <div className="space-y-3 pt-4 border-t border-emerald-950/10">
               <div className="flex items-center gap-2 border-l-4 border-emerald-800 pl-3">
-                <h3 className="font-bold text-emerald-950 text-base font-journal-serif">
-                  その他の特集・全国比較記事
-                </h3>
+                <h3 className="font-bold text-emerald-950 text-base font-journal-serif">その他の特集・全国比較記事</h3>
                 <span className="text-[10px] font-extrabold text-emerald-800 bg-emerald-50 px-2.5 py-0.5 rounded-full border border-emerald-200">
                   {otherPosts.length}件
                 </span>

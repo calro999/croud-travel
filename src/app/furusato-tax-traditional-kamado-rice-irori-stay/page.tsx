@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          パチパチとはぜる薪の火と湯気立ち上る羽釜。心まで温まる田舎の原風景と郷土ご馳走ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">パチパチとはぜる薪の火と湯気立ち上る羽釜。心まで温まる田舎の原風景と郷土ご馳走ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              直火羽釜炊きだからこそ味わえる究極のお米の甘みとお焦げ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">直火羽釜炊きだからこそ味わえる究極のお米の甘みとお焦げ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               強い火力で一気に炊き上げた地元産新米コシヒカリ。ふっくらとした粒立ちと香ばしいお焦げの美味しさは、電気炊飯器では決して出せない感動の味です。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              囲炉裏を囲んで味わう炭火焼き・ジビエ・郷土鍋ディナー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">囲炉裏を囲んで味わう炭火焼き・ジビエ・郷土鍋ディナー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               赤々と燃える炭火を囲み、串刺しの岩魚の塩焼きや飛騨牛の朴葉味噌焼き、丹波篠山名物ぼたん鍋などをゆっくりとお酒とともに楽しめます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              1棟貸し切りや昔ながらの木造古民家で過ごす静かな時間
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">1棟貸し切りや昔ながらの木造古民家で過ごす静かな時間</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               太い梁や柱、畳の香りに包まれた空間で、時間を忘れて読書をしたり縁側でお茶を飲んだり、贅沢なスローライフを堪能できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="shirakawago_kamado" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岐阜県白川村・飛騨高山ふるさと納税：世界遺産「白川郷」合掌造り集落とかまど炊き飛騨牛囲炉裏宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岐阜県白川村・飛騨高山ふるさと納税：世界遺産「白川郷」合掌造り集落とかまど炊き飛騨牛囲炉裏宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 急勾配の茅葺き屋根が並ぶ白川郷。合掌造りの宿で囲炉裏の炭火を囲み、香ばしい岩魚の塩焼きや飛騨牛の朴葉味噌焼き、かまどで炊いた熱々ご飯を満喫する昔話のような滞在です。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市西之一色町3-829
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    飛騨高山温泉　飛騨の里　旅館　むら山
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">飛騨高山温泉　飛騨の里　旅館　むら山</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     飛騨高山温泉◎カップル・ファミリーにうれしい無料貸切風呂あり♪個室食事処も★駐車場無料♪
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県郡上市八幡町柳町264
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    料理旅館　備前屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">料理旅館　備前屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     一期一会の気持ちを込めて郡上の季節をお届けします。明治創業、日本庭園には四季の移り変わりが見られます
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県高山市一之宮町1682
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    日本の宿　ひだ高山　倭乃里
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">日本の宿　ひだ高山　倭乃里</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室スイートのやすらぎの一室　絶景、美食、清流の宿
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="tono_kamado" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岩手県遠野市・花巻温泉郷ふるさと納税：カッパ伝説の民話の里・南部曲り家と郷土ひっつみ鍋・名湯秘湯宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岩手県遠野市・花巻温泉郷ふるさと納税：カッパ伝説の民話の里・南部曲り家と郷土ひっつみ鍋・名湯秘湯宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 人と馬が同じ屋根の下で暮らした「南部曲り家」が残る遠野。地元のお米で作る手作りどぶろくや郷土料理ひっつみ汁をいただき、花巻温泉郷の奥座敷で源泉かけ流しの名湯に浸かれます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市鉛中平75-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    岩手　花巻温泉郷　鉛温泉　藤三旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">岩手　花巻温泉郷　鉛温泉　藤三旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2024年6月宮沢賢治をテーマにした「なめとこ山サウナ」がグランドオープン
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岩手県花巻市台２－４５
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">花巻温泉郷　台温泉　いやしろの湯　ホテル三右ェ門</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     閑静で落ち着いた昔変らぬ宿心。移り変わる風情とともに、台温泉で過ごすお時間をごゆるりとお寛ぎ下さい
                   </p>
@@ -389,9 +367,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="sasayama_kamado" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                兵庫県丹波篠山市ふるさと納税：丹波篠山城下町の町家古民家と丹波黒豆羽釜ご飯・冬の名物ぼたん鍋
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">兵庫県丹波篠山市ふるさと納税：丹波篠山城下町の町家古民家と丹波黒豆羽釜ご飯・冬の名物ぼたん鍋</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 丹波篠山コシヒカリをふっくら炊き上げた黒豆ご飯、丹波栗、そして天然猪肉を使った伝統のぼたん鍋。江戸情緒残る商家町の古民家ホテルで、丹波焼の器とともに極上の里山ディナーを味わえます。
               </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     兵庫県丹波篠山市立町15
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    豆家
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">豆家</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     十件の文化財と灯る石庭に包まれ過ごす一棟宿
                   </p>
@@ -482,9 +456,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
               </p>
@@ -498,9 +470,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 星峠・白米千枚田・大山千枚田の休日。
               </p>
@@ -514,9 +484,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>
@@ -534,9 +502,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -615,9 +581,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納税厳選ガイド白川郷・遠野・丹波篠山のおばあちゃん家ステイ」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

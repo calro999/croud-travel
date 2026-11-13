@@ -108,9 +108,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  水上に浮かぶ聖地で体感する唯一無二のスピリチュアルな高揚感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">水上に浮かぶ聖地で体感する唯一無二のスピリチュアルな高揚感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大弁財天の共通点は、すべて「水に囲まれた島や水上」に位置していることです。船に乗って湖を渡る竹生島、橋を渡って青い海と緑の島へと足を踏み入れる江の島、潮の満ち引きによって海に浮かぶ社殿の姿を変える厳島。水は古来より浄化の象徴とされ、日常の喧騒や邪気を祓い清める力を持つと信じられてきました。潮騒の音や波のリズムを感じながら手を合わせる瞬間、全身が清らかな気で満たされていくような深い感動を味わえます。
@@ -123,9 +121,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  近江牛、湘南シラス、瀬戸内鮮魚・牡蠣、門前町を彩る極上美食
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">近江牛、湘南シラス、瀬戸内鮮魚・牡蠣、門前町を彩る極上美食</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 三大弁財天の門前町や周辺エリアは、日本屈指の美食の宝庫でもあります。竹生島の玄関口・長浜ではとろける極上近江牛とびわ湖の鮎や鴨料理、江の島では朝獲れ生シラスや相模湾の伊勢海老・地魚料理、宮島では大粒の焼き牡蠣や穴子飯、瀬戸内の鯛会席。水辺の清らかな環境が育んだ至高の海の幸・山の幸が、巡礼の旅をこの上なく贅沢に彩ります。
@@ -138,9 +134,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  歴史ある名門老舗旅館や海を一望する絶景リゾートホテルでの逗留
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">歴史ある名門老舗旅館や海を一望する絶景リゾートホテルでの逗留</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 江の島で江戸時代から宿坊として続く格式ある老舗宿、宮島で嚴島神社を借景に露天風呂を満喫できる創業百余年の名旅館、琵琶湖畔で太閤秀吉ゆかりの温泉に浸かる風情あふれる温泉宿など、宿泊体験そのものが旅の素晴らしい目的地となります。ふるさと納税クーポンを使えば、憧れの名門宿も自己負担わずか2,000円で驚くほどお得に予約できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 滋賀県 長浜市公園町4-25</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 神奈川県 藤沢市江の島2-2-7</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    湘南・江の島の海と富士山を望む歴史の宿　岩本楼本館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">湘南・江の島の海と富士山を望む歴史の宿　岩本楼本館</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「プールがあることを知らずに驚いたプールがあるのを知らなかった」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 広島県 廿日市市宮島町南町364</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    宮島グランドホテル　有もと
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">宮島グランドホテル　有もと</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「ケトルの沸騰が遅く電源も切れない部屋のケトル湧くのが遅い湧いて居るけど、電源が切れてなくずっと湧いたままになってます。よろしくお願い致します」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】びわ湖畔 おいしい湯の宿 長浜太閤温泉 浜湖月を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】びわ湖畔 おいしい湯の宿 長浜太閤温泉 浜湖月を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とびわ湖畔 おいしい湯の宿 長浜太閤温泉 浜湖月の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とびわ湖畔 おいしい湯の宿 長浜太閤温泉 浜湖月の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

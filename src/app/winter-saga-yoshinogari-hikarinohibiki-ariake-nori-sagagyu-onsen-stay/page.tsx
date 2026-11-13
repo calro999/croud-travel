@@ -243,9 +243,7 @@ export default function Page() {
         {/* なぜ冬に訪れるべきかの3ポイント */}
         <section className="max-w-4xl mx-auto px-4 mb-14 space-y-4">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              この冬、佐賀・吉野ヶ里・古湯を訪れるべき3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">この冬、佐賀・吉野ヶ里・古湯を訪れるべき3つの理由</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               11月〜1月ならではの幻想的な光景、開運初詣、そして冬が一番美味しい旬の味覚
             </p>
@@ -257,9 +255,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   1
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  弥生の古代集落に灯る数千のキャンドルと熱気球ナイトグロー！「吉野ヶ里・光の響」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">弥生の古代集落に灯る数千のキャンドルと熱気球ナイトグロー！「吉野ヶ里・光の響」</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 国の特別史跡・吉野ヶ里歴史公園で12月に開催される冬の風物詩。キャンドルの温かな灯籠が幾何学模様を描き、主祭殿のライトアップと巨大な熱気球バルーンが夜空を茜色に照らす姿は、現代と古代が交錯する奇跡の空間。冬の澄んだ大気の中でしか味わえない特別な体験です。
@@ -271,9 +267,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   2
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬が旬の最高峰「有明海初摘み海苔」と口福のブランド肉「佐賀牛」の饗宴
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">冬が旬の最高峰「有明海初摘み海苔」と口福のブランド肉「佐賀牛」の饗宴</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 11月中旬から1月にかけて収穫される「初摘み海苔」は、柔らかく極上の旨味と口どけを誇る海の恵み。そして、厳しい基準をクリアした最高峰「佐賀牛」の霜降り肉。美しいサシの脂は融点が低く、口に入れた瞬間にとろける極上の甘み。佐賀の誇る山海の美味が冬の食卓を飾ります。
@@ -285,9 +279,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   3
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  開湯2200年の秘湯「古湯温泉」ぬる湯浴みと佐賀城下町の歴史ロマン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">開湯2200年の秘湯「古湯温泉」ぬる湯浴みと佐賀城下町の歴史ロマン</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 秦の始皇帝の命で不老長寿の薬を求めて来日した徐福が発見したと伝わる「古湯温泉」。38度前後の心地よい「ぬる湯」は、長湯しても身体に負担がなく、神経を静めて美肌へ導く奇跡の温泉です。日本最大級の木造復元建築である佐賀城本丸歴史館とともに、歴史ある大人の隠れ家を満喫できます。
@@ -301,9 +293,7 @@ export default function Page() {
           <div className="bg-cyan-950/5 border border-cyan-800/20 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-2">
               <Thermometer className="w-5 h-5 text-cyan-800" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                アクセス・気候・冬の服装ガイド
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">アクセス・気候・冬の服装ガイド</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line bg-white/70 p-5 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
@@ -323,9 +313,7 @@ export default function Page() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              佐賀・吉野ヶ里・古湯 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">佐賀・吉野ヶ里・古湯 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・立地に秀でた極上宿
             </p>
@@ -347,9 +335,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ガーデンテラス佐賀ホテル＆リゾート
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ガーデンテラス佐賀ホテル＆リゾート</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     プライベートテラス付きデザイナーズスイート・極上佐賀牛鉄板焼き
                   </p>
@@ -414,9 +400,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    古湯温泉　旅館　杉乃家
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">古湯温泉　旅館　杉乃家</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     古湯温泉の高台に佇む絶景老舗旅館・展望露天風呂と自家製佐賀牛会席
                   </p>
@@ -481,9 +465,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルマリターレ創世　佐賀
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルマリターレ創世　佐賀</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     イタリアルネサンス建築の優美なホテル・本格スパと美食の館
                   </p>
@@ -548,9 +530,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    古湯温泉　ＯＮＣＲＩ　／　おんくり
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">古湯温泉　ＯＮＣＲＩ　／　おんくり</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     自然と調和する山峡の湯治リゾート・十数種の湯巡りとバー＆ライブラリ
                   </p>
@@ -615,9 +595,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルニューオータニ佐賀
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルニューオータニ佐賀</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     佐賀城のお堀端に佇む格式ある名門ホテル・緑と水に囲まれた静寂
                   </p>
@@ -676,9 +654,7 @@ export default function Page() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -700,36 +676,28 @@ export default function Page() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の佐賀・吉野ヶ里・古湯旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の佐賀・吉野ヶ里・古湯旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>吉野ヶ里歴史公園「光の響」の開催時期と熱気球を見るためのコツは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>吉野ヶ里歴史公園「光の響」の開催時期と熱気球を見るためのコツは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 例年12月中旬〜下旬の土日を中心に開催されます（17:00〜21:00頃）。熱気球の夜間係留（ナイトグロー）は風の影響を受けやすいため、天候や風速の穏やかな日が最も美しく立ち上がります。点灯直後のトワイライト（マジックアワー）の時間帯から入場すると、夕景とキャンドル、熱気球の素晴らしいグラデーションを鑑賞できます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>「古湯温泉」のぬる湯は冬でも寒くありませんか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>「古湯温泉」のぬる湯は冬でも寒くありませんか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 古湯温泉の源泉温度は約38℃〜40℃前後で、人間の体温に非常に近い「ぬる湯」です。最初はぬるく感じられますが、アルカリ性単純温泉の成分がじっくりと皮膚に浸透し、30分以上浸かることで血管が拡張して身体の芯からポカポカと温まり、湯冷めしにくいのが大きな特徴です。多くの宿では加温したあつ湯の浴槽も併設されているため交互浴も楽しめます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>佐賀市内で本場の佐賀牛や初摘み海苔をお土産に購入できるスポットは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>佐賀市内で本場の佐賀牛や初摘み海苔をお土産に購入できるスポットは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 佐賀駅直結の「えきマチ1丁目」や佐賀城近くの「佐賀工房」、道の駅「吉野ヶ里」で初摘み海苔の最高級品を購入できます。また、佐賀牛はJAさが直営の「佐賀牛レストラン季楽」や専門精肉店でギフト発送が可能です。
               </p>
@@ -741,9 +709,7 @@ export default function Page() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/saga/"

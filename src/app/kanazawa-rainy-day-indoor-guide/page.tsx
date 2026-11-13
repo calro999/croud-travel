@@ -204,9 +204,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
         <section>
           <div className="border-l-4 border-teal-400 pl-4 mb-8">
             <span className="text-teal-400 text-xs font-black tracking-widest uppercase">INDOOR HIGHLIGHTS</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              雨の日だからこそ感動が倍増する！金沢インドア3大ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">雨の日だからこそ感動が倍増する！金沢インドア3大ハイライト</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -237,9 +235,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
         <section className="bg-slate-800/60 border border-teal-900/80 rounded-3xl p-6 sm:p-8">
           <div className="border-l-4 border-teal-400 pl-4 mb-8">
             <span className="text-teal-400 text-xs font-black tracking-widest uppercase">MODEL TIMELINE</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              傘をほとんど差さずに回る！雨の日1日モデルコース
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">傘をほとんど差さずに回る！雨の日1日モデルコース</h2>
             <p className="text-slate-400 text-xs sm:text-sm mt-1">
               もてなしドーム発着の「城下まち金沢周遊バス」を活用し、歩行移動を最小限に抑えた最適ルート。
             </p>
@@ -269,9 +265,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
         <section>
           <div className="border-l-4 border-teal-400 pl-4 mb-8">
             <span className="text-teal-400 text-xs font-black tracking-widest uppercase">STAY & RELAX</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              雨の金沢を極上にする「駅近温泉＆割烹旅館」特選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">雨の金沢を極上にする「駅近温泉＆割烹旅館」特選</h2>
             <p className="text-slate-400 text-xs sm:text-sm mt-1">
               濡れずにチェックインできる駅前アクセス良好宿や、館内でゆっくり加賀料理とお湯を堪能できる名宿。
             </p>
@@ -309,9 +303,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
                         </div>
                       )}
                       <div className="p-6">
-                        <h3 className="text-xl font-bold text-white mb-2 group-hover:text-teal-300 transition">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="text-xl font-bold text-white mb-2 group-hover:text-teal-300 transition">{hotel.hotelName}</h3>
                         <p className="text-xs text-slate-400 mb-3">
                           {hotel.address1} {hotel.address2}
                         </p>
@@ -356,9 +348,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
 
         {/* セクション4：雨の日持ち物・移動テクニック */}
         <section className="bg-gradient-to-r from-teal-950/70 to-slate-900 border border-teal-800/40 rounded-3xl p-6 sm:p-8">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 flex items-center gap-2">
-            <span>🎒</span> 金沢の雨を制する！地元民直伝の雨天装備テク
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 flex items-center gap-2">金沢の雨を制する！地元民直伝の雨天装備テク</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm text-slate-300">
             <div className="p-4 bg-slate-900/80 rounded-2xl border border-teal-900/50">
               <strong className="text-teal-300 block mb-1 text-sm">① 防水スニーカーや撥水ミスト</strong>
@@ -401,9 +391,7 @@ export default function KanazawaRainyDayIndoorGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と「弁当忘れても傘忘れるな」の街！21世紀美術館・ひがし茶屋街カフェ・金箔貼り体験の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -266,10 +266,8 @@ export default function NoboribetsuWinterPage() {
             <Snowflake className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 北海道名湯・白銀地獄谷と極上名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月登別温泉の白銀地獄谷と極上名湯】<br className="hidden sm:inline" />
-            圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月登別温泉の白銀地獄谷と極上名湯】<br className="hidden sm:inline" />
+            圧倒的湯量と9つの泉質・冬の北海道毛ガニ＆白老牛を堪能する名宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初雪に染まる北の大地。荒涼とした地獄谷の岩肌から天を突くように立ち昇る圧倒的な白煙。世界でも類を見ない9種類の泉質を誇る名湯に身を沈め、身入りの良い冬の毛ガニととろける極上白老牛に舌鼓を打つ、感動の冬旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function NoboribetsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Geological Wonder & Thermal Power</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                雪煙舞う白銀の地獄谷。大地の鼓動を肌で感じる世界的温泉デパート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雪煙舞う白銀の地獄谷。大地の鼓動を肌で感じる世界的温泉デパート</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function NoboribetsuWinterPage() {
           
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-cyan-800" />
-                <span>冬の地獄谷ライトアップ「鬼火の路」</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-cyan-800" />
+                <span>冬の地獄谷ライトアップ「鬼火の路」</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 日没から21:30まで点灯。雪化粧した地獄谷の谷底へ続く木道がフットライトで照らされ、幻想的な夜の散策が楽しめます。
               </p>
@@ -365,9 +359,7 @@ export default function NoboribetsuWinterPage() {
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest bg-cyan-50 px-3.5 py-1.5 rounded-full border border-cyan-200">
               Selected 5 Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              【11・12月】登別温泉で泊まりたい極上名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">【11・12月】登別温泉で泊まりたい極上名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
               楽天トラベルで圧倒的な支持を集める老舗宿から、35の湯船を誇る温泉天国、全室スイートの最高級宿まで、登別の冬を堪能できる5軒を厳選。
             </p>
@@ -412,9 +404,7 @@ export default function NoboribetsuWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-cyan-800 transition">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-cyan-800 transition">{hotel.name}</h3>
 
                     <p className="text-stone-700 leading-relaxed text-sm">
                       {hotel.story}
@@ -480,9 +470,7 @@ export default function NoboribetsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の登別温泉 地獄谷絶景＆北国美食満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の登別温泉 地獄谷絶景＆北国美食満喫モデルコース</h2>
             </div>
           </div>
 
@@ -574,48 +562,38 @@ export default function NoboribetsuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                登別温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">登別温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                <span>登別温泉の11月・12月の雪の状況と気温、服装のアドバイスは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                <span>登別温泉の11月・12月の雪の状況と気温、服装のアドバイスは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 登別温泉は11月中旬頃に初雪が降り、12月に入ると本格的な積雪期に入ります。11月の平均気温は約3〜5度、朝晩は0度前後に冷え込みます。12月は日中でも氷点下になる日が多く、朝晩はマイナス5度以下まで下がります。ダウンジャケットや厚手のウールコート、手袋、マフラー、ニット帽の防寒具が必須です。道路や歩道は圧雪や凍結（ブラックアイスバーン）になるため、靴底にしっかりとした溝のあるスノーブーツや滑り止め付きの靴をご用意ください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                <span>登別温泉の「9種類の泉質」とは具体的にどのようなものですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                <span>登別温泉の「9種類の泉質」とは具体的にどのようなものですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 登別温泉は1日に1万トン以上湧出する世界的にも稀有な温泉地で、代表的な『硫黄泉』（白濁し血管を拡張・血行促進）、『食塩泉』（温まりの湯で保温効果抜群）、『明礬泉』（肌を引き締める）、『芒硝泉』（美肌と動脈硬化予防）、『緑礬泉』（鉄分を含み貧血改善）、『鉄泉』、『酸性鉄泉』、『重曹泉』（肌を滑らかにする美人の湯）、『ラジウム泉』の9種類が存在します。宿の大浴場ごとに引いている源泉が異なるため、多彩な効能の湯めぐりが楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                <span>新千歳空港や札幌からのアクセス方法と冬の移動時間は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                <span>新千歳空港や札幌からのアクセス方法と冬の移動時間は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 新千歳空港からは、直行の高速バス『高速登別温泉エアポート号』で約1時間15分、またはJR快速エアポートと特急北斗を乗り継いでJR登別駅まで約50分＋路線バス約15分です。札幌駅からは直行の都市間高速バス『高速おんせん号』で約1時間40分、またはJR特急で約1時間10分＋路線バスです。冬場は降雪により道路の遅延やJRの徐行運転が発生することがあるため、移動時間には余裕を持ったスケジュールをおすすめします。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                <span>冬の登別温泉で味わうべきご当地グルメは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                <span>冬の登別温泉で味わうべきご当地グルメは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 冬に身がぎっしりと詰まり濃厚なカニ味噌が絶品の『北海道産毛ガニ』、地元胆振の洞爺・白老地区で肥育される最高峰黒毛和牛『白老牛（しらおいぎゅう）』のステーキやすき焼き、冬の噴火湾で獲れる肉厚なホタテや真タラの白子（タチ）、地元B級グルメとして人気の『登別閻魔やきそば』などが代表的です。
               </p>
@@ -627,9 +605,7 @@ export default function NoboribetsuWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-cyan-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆雪見名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆雪見名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -638,9 +614,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">東北の雪見名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -648,9 +622,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">秘湯の雪見露天</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【乳頭温泉郷】雪深いブナ原生林の秘湯とにごり湯・比内地鶏きりたんぽ鍋
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【乳頭温泉郷】雪深いブナ原生林の秘湯とにごり湯・比内地鶏きりたんぽ鍋</h3>
             </Link>
 
             <Link 
@@ -658,9 +630,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -668,9 +638,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">冬の味覚の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -678,9 +646,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">信州の白銀名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
             </Link>
 
             <Link 
@@ -688,9 +654,7 @@ export default function NoboribetsuWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-cyan-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-cyan-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">
-                【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-cyan-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-hokkaido-noboribetsu-onsen-snow-jigokudani-stay" />

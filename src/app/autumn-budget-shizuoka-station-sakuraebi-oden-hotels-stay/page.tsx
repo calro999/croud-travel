@@ -58,10 +58,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            1泊3,000円台〜の激戦区！宿代を抑えて駿河湾グルメとおでんハシゴを満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            1泊3,000円台〜の激戦区！宿代を抑えて駿河湾グルメとおでんハシゴを満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             静岡駅前はビジネス・観光ホテルが充実しており、全国屈指のハイコスパエリア。★4.0以上の高評価チェーンや免震・免振設備の整った上質ホテルが、1泊3,000円〜4,000円台で予約可能です。浮いた宿泊費で、清水港直送のマグロ刺身や秋限定の生桜えび、地酒・磯自慢を贅沢に味わえます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル〈静岡駅北〉
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈静岡駅北〉</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR静岡駅北口より徒歩5分 / 青葉おでん街まで徒歩数分
@@ -151,9 +147,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  くれたけインプレミアム静岡駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">くれたけインプレミアム静岡駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR静岡駅北口より徒歩3分
@@ -206,9 +200,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  静鉄ホテルプレジオ 静岡駅北
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">静鉄ホテルプレジオ 静岡駅北</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR静岡駅北口より徒歩3分 / 地下道直結
@@ -261,9 +253,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  静鉄ホテルプレジオ 静岡駅南
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">静鉄ホテルプレジオ 静岡駅南</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR静岡駅南口より徒歩2分の好立地
@@ -316,9 +306,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ静岡駅北口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ静岡駅北口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR静岡駅北口より徒歩5分
@@ -353,10 +341,8 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の静岡駅前グルメ旅行を格安に楽しむポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の静岡駅前グルメ旅行を格安に楽しむポイント</h2>
           <ul className="space-y-2 text-sm text-teal-100/90 leading-relaxed">
             <li>・青葉おでん街・青葉横丁は席数が限られるため、18時前後の早めの入店または2軒目利用がおすすめ。</li>
             <li>・駅構内「アスティ静岡」や北口地下街にも名店が多く、雨の日でも濡れずに静岡グルメを堪能可能。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 静岡駅前：駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">静岡駅前：駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「静岡駅前：駿河湾の戻り鰹・桜えび＆黒おでん！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -425,9 +409,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「静岡駅前」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「静岡駅前」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

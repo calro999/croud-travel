@@ -89,9 +89,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            小京都・修善寺の朱塗りの桂橋と竹林を彩る真紅のモミジ。日本一遅い錦秋に浸る大人の伊豆温泉リトリートへ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">小京都・修善寺の朱塗りの桂橋と竹林を彩る真紅のモミジ。日本一遅い錦秋に浸る大人の伊豆温泉リトリートへ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             温暖な気候に恵まれた静岡県・伊豆半島。全国各地の紅葉シーズンが終盤を迎える11月中旬から12月上旬にかけて、いよいよ最高潮を迎えるのが「伊豆修善寺温泉」および「熱海梅園」の“日本一遅い紅葉”です。修善寺温泉街を流れる桂川沿いの「竹林の小径」や、恋の橋巡りで知られる朱塗りの桂橋・楓橋、そして秋限定で特別公開される「修禅寺方丈庭園」では、緑の竹林と燃えるような紅葉が織りなす息を呑むコントラストが広がります。弘法大師が開湯したと伝わる「独鈷の湯」をはじめとする伊豆最古の温泉は、弱アルカリ性で肌に優しく、しっとりとした潤いを与えてくれます。芥川龍之介や横山大観など多くの文豪・画家に愛され全館が国の登録有形文化財に指定されている「新井旅館」、円（えん）をモチーフにした心地よい空間と四つの貸切風呂を誇る「瑞の里 〇久旅館」、そして竹林の静寂の中に佇み本格京風懐石と数寄屋建築を極めた最高峰宿「柳生の庄」。伊豆名物の金目鯛姿煮や天城軍鶏、本わさびを味わいながら、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、風雅な大人の遅紅葉旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  11月中旬〜12月上旬が見頃！「竹林の小径」と修禅寺庭園特別公開の遅紅葉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">11月中旬〜12月上旬が見頃！「竹林の小径」と修禅寺庭園特別公開の遅紅葉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 全国で最も遅くまで紅葉が楽しめる伊豆エリア。桂川にかかる朱塗りの橋と青竹、紅葉が織りなす「伊豆の小京都」ならではの風情を満喫できます。
@@ -122,9 +118,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  開湯千二百年の伊豆最古の湯！肌触り滑らかなアルカリ性単純温泉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">開湯千二百年の伊豆最古の湯！肌触り滑らかなアルカリ性単純温泉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 弘法大師ゆかりの歴史ある名湯。刺激が少なく肌をしっとり整える美肌の湯で、文化財風呂や野趣あふれる露天風呂で贅沢な湯浴みが叶います。
@@ -137,9 +131,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  伊豆稲取直送「極上金金目鯛の姿煮」・天城軍鶏・採れたて本生わさび会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">伊豆稲取直送「極上金金目鯛の姿煮」・天城軍鶏・採れたて本生わさび会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 秘伝の濃厚なタレでふっくら炊き上げた金目鯛の煮付けや、風味豊かなすりたて本わさびで味わうお造り・伊豆牛など、海の幸・山の幸の饗宴です。
@@ -241,9 +233,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                       ★ 4.43 <span className="text-stone-400 text-xs">(680件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    修善寺温泉　瑞の里　〇久（まるきゅう）旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　瑞の里　〇久（まるきゅう）旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県伊豆市修善寺1146 ｜ 修善寺駅よりタクシー約10分／東名高速　沼津ＩＣより伊豆縦貫道を通り約30分
                   </p>
@@ -310,9 +300,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                       ★ 5.00 <span className="text-stone-400 text-xs">(36件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    修善寺温泉　柳生の庄
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">修善寺温泉　柳生の庄</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 静岡県伊豆市修善寺1116-6 ｜ 伊豆箱根鉄道　修善寺駅から車で約１０分 東名高速道路沼津ICまたは新東名高速道路長泉沼津ICから30分　
                   </p>
@@ -443,9 +431,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】修善寺温泉 国の登録文化財の宿 新井旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -478,9 +464,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と修善寺温泉 国の登録文化財の宿 新井旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

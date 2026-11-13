@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>銘酒の故郷に泊まる贅沢。酒蔵仕込みの美酒と天然温泉のマリアージュ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>銘酒の故郷に泊まる贅沢。酒蔵仕込みの美酒と天然温泉のマリアージュ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             日本有数の酒どころに足を運び、蔵元が丹精込めて醸した搾りたての純米大吟醸や限定酒を、その土地の郷土料理とともに味わう至福。お酒をたっぷり入れた「酒風呂」で温まる温泉宿や、利き酒師がセレクトするペアリングコースを備えた宿なら、移動の心配なく心ゆくまで美酒を堪能できます。楽天ふるさと納税クーポンを活用して、大人の舌と心を潤すプレミアムな日本酒旅を叶えましょう。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    利き酒師が提案する料理一皿ごとの地酒ペアリング
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">利き酒師が提案する料理一皿ごとの地酒ペアリング</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     前菜からメイン、デザートに至るまで、温度帯（冷酒・常温・ぬる燗）や酒質を完璧に合わせたペアリングコースで、食とお酒の相乗効果を極限まで体感できます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    天然温泉に本物の日本酒を注ぐ「酒風呂」で血行促進＆美肌効果
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">天然温泉に本物の日本酒を注ぐ「酒風呂」で血行促進＆美肌効果</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     アミノ酸やミネラルを豊富に含む日本酒を湯船に入れた名物「酒風呂」。身体の芯から温まり、湯上がりは肌がつるつるすべすべになる贅沢な湯浴みです。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    近隣の老舗酒蔵めぐりや限定酒のお土産特典付きプランも
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">近隣の老舗酒蔵めぐりや限定酒のお土産特典付きプランも</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     普段は一般非公開の蔵見学や、市販されていない限定ボトルのプレゼント付きプランも多数。ふるさと納税で地域の酒文化継承を応援できます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="echigoyuzawa_sake" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>新潟県湯沢町ふるさと納税：米どころ越後湯沢・ぽんしゅ館の利き酒と酒風呂温泉ステイ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>新潟県湯沢町ふるさと納税：米どころ越後湯沢・ぽんしゅ館の利き酒と酒風呂温泉ステイ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       越後三山を望む雪国・湯沢。新潟県内全蔵元の日本酒が試飲できる越後湯沢駅のぽんしゅ館とともに、天然温泉に地酒を贅沢に注いだ酒風呂や、魚沼産コシヒカリと新潟清酒を堪能できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              エンゼルグランディア越後中里（越後湯沢）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">エンゼルグランディア越後中里（越後湯沢）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【露天温泉＆プール完備】イベント充実◎子育て応援リゾート！オータムフェスタ9/5（土）～開催予定♪
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              越後湯沢温泉　湯沢グランドホテル＜新潟県＞
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">越後湯沢温泉　湯沢グランドホテル＜新潟県＞</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ★楽天シルバーアワード3年連続受賞★湯沢旅館部門売上1位★出来立ての美味しさが自慢のバイキング★
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              越後湯沢温泉　松泉閣花月
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">越後湯沢温泉　松泉閣花月</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               「お帰りなさいませ「「いってらっしゃいませ」が花月の合言葉　故郷に帰ってきたようにお過ごしください
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="suwa_sake" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県諏訪市ふるさと納税：諏訪湖畔・諏訪五蔵（真澄・横笛・本金・麗人・舞姫）街道の名湯</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県諏訪市ふるさと納税：諏訪湖畔・諏訪五蔵（真澄・横笛・本金・麗人・舞姫）街道の名湯</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       甲州街道沿いのわずか数百メートルに名門5蔵が立ち並ぶ諏訪。霧ヶ峰の伏流水で仕込まれた銘酒を味わい、諏訪湖を一望する自家源泉露天風呂で寛ぐ上質な休日です。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">信州・上諏訪温泉　琥珀色の自家源泉を持つ宿【ホテル鷺乃湯】</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               露天風呂付客室も有。芯から温まる自家源泉と心を癒す日本庭園をもつ百余年の歴史が香る宿。
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              上諏訪温泉　ぬのはん
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">上諏訪温泉　ぬのはん</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               『プロが選ぶホテル・旅館100選』料理部門にて2011年より連続受賞
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              高遠温泉　高遠さくらホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">高遠温泉　高遠さくらホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ■pH9.7トロトロ肌触りの天然温泉／露天風呂＆貸切風呂／城址公園・高遠湖望む全室レイクビュー■
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="aizu_sake" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>福島県会津若松市ふるさと納税：会津若松・全国新酒鑑評会金賞蔵の里＆東山温泉の囲炉裏会席</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>福島県会津若松市ふるさと納税：会津若松・全国新酒鑑評会金賞蔵の里＆東山温泉の囲炉裏会席</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       全国最多の金賞受賞歴を誇る銘酒王国・会津。東山温泉の老舗旅館で、炭火の囲炉裏端でいただく郷土料理や馬刺しとともに、会津の厳選地酒を心ゆくまで酌み交わせます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              会津東山温泉　いろりの宿　芦名
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">会津東山温泉　いろりの宿　芦名</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               7つの囲炉裏に7つの客室。懐かしい佇まいのいろりの宿。お客様より４つ星以上の人気宿に選ばれました
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              会津東山温泉　くつろぎ宿　新滝
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">会津東山温泉　くつろぎ宿　新滝</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               明治、大正、昭和と多くの文人、墨客に愛された宿です。趣の異なる多彩な湯処が自慢。
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              会津湯野上温泉　ホテル大坂屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">会津湯野上温泉　ホテル大坂屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               24時間入浴可能♪卓球台利用サービスあり★！四季折々の渓谷美を楽しめる宿
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】エンゼルグランディア越後中里を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】エンゼルグランディア越後中里を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とエンゼルグランディア越後中里の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とエンゼルグランディア越後中里の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

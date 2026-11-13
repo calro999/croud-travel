@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            海から湧き出る塩類泉と大山・日本海の絶景——境港直送の活松葉ガニと鳥取和牛を味わい尽くす山陰のリゾート
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">海から湧き出る塩類泉と大山・日本海の絶景——境港直送の活松葉ガニと鳥取和牛を味わい尽くす山陰のリゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             鳥取県米子市、弓ヶ浜半島の日本海に面した皆生（かいけ）温泉。明治33年に地元の漁師が海中に湧き出す温泉を発見したことから始まった「海から湧く温泉」です。泉質はナトリウム・カルシウム塩化物泉で、豊富な塩分が肌に薄いヴェールを作り出し、入浴後の保温・保湿効果が極めて高いことから「塩の美肌湯」として全国に名を馳せています。客室や露天風呂からは、青く広がる日本海と白砂青松の海岸線、そして背後には名峰・大山（だいせん）の雄姿を望むことができます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県米子市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  皆生温泉　皆生つるや　四季を奏でるさらさの宿
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">皆生温泉　皆生つるや　四季を奏でるさらさの宿</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業から受け継ぐ数寄屋建築の美と名庭園！日本海を望む大浴場と境港の松葉ガニ・鳥取和牛会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  皆生温泉 皆生つるや 四季を奏でるさらさの宿 —— 伝統と格式の老舗旅館。真心のこもったもてなしと山陰の旬味
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">皆生温泉 皆生つるや 四季を奏でるさらさの宿 —— 伝統と格式の老舗旅館。真心のこもったもてなしと山陰の旬味</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 優美な数寄屋造りの建築と四季折々の草花が彩る館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">優美な数寄屋造りの建築と四季折々の草花が彩る館内</h5>
                     <p className="text-stone-600 leading-relaxed">日本旅館の落ち着きと品格が漂う館内。手入れの行き届いた日本庭園や生花が飾られ、静かで上質な大人の寛ぎを提供します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 海風を感じながら入る名湯皆生の塩化物泉大浴場と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">海風を感じながら入る名湯皆生の塩化物泉大浴場と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">体の芯までぽかぽかと温まる良質な皆生の湯。露天風呂や広々とした内湯で、旅の疲れを心地よく癒やすことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 境港水揚げの松葉ガニや鳥取和牛を盛り込んだ本格会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">境港水揚げの松葉ガニや鳥取和牛を盛り込んだ本格会席</h5>
                     <p className="text-stone-600 leading-relaxed">鮮度抜群の日本海の魚介や、ブランド牛「鳥取和牛」を贅沢に使用。出汁の風味豊かな会席料理をお部屋や個室食事処で味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県米子市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  皆生温泉　華水亭
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">皆生温泉　華水亭</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室オーシャンビューの絶景名門リゾート！日本海と弓ヶ浜の水平線を望む展望露天風呂と贅沢スパ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  皆生温泉 華水亭（かすいてい） —— 海の気品漂うラグジュアリーホテル。波の音を聞く展望露天と極上ダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">皆生温泉 華水亭（かすいてい） —— 海の気品漂うラグジュアリーホテル。波の音を聞く展望露天と極上ダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 窓一面に広がる日本海と弓ヶ浜の雄大なオーシャンビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">窓一面に広がる日本海と弓ヶ浜の雄大なオーシャンビュー</h5>
                     <p className="text-stone-600 leading-relaxed">すべての客室が海に面した贅沢な設計。朝日に輝く水面や夕暮れの茜空、夜の漁火（いさりび）など、時間とともに移ろう海の表情を独り占めできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 水平線と一体化する展望大浴場と波打ち際の露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">水平線と一体化する展望大浴場と波打ち際の露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">潮騒に包まれながら楽しむ名湯の湯浴み。自家源泉を引く良質な温泉とサウナで、極上のリラクゼーションを体験できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 松葉ガニや鮑、鳥取和牛を五感で味わう季節の特選会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">松葉ガニや鮑、鳥取和牛を五感で味わう季節の特選会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が選び抜いた山陰の最高級食材。彩り鮮やかな器に盛り付けられた芸術的な料理が、特別な夜を優雅に演出します。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">鳥取県米子市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  皆生温泉　湯喜望　白扇
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">皆生温泉　湯喜望　白扇</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室に展望ジャグジーまたは露天風呂を完備！白砂青松の海岸線を望む畳敷きの和モダンリゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  皆生温泉 湯喜望 白扇（はくせん） —— 素足で過ごす全館畳敷きの温もり。海を一望する客室展望風呂の贅
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">皆生温泉 湯喜望 白扇（はくせん） —— 素足で過ごす全館畳敷きの温もり。海を一望する客室展望風呂の贅</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室から日本海を一望できる展望風呂・ジャグジー付き客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室から日本海を一望できる展望風呂・ジャグジー付き客室</h5>
                     <p className="text-stone-600 leading-relaxed">お部屋にいながら波の音を聞き、水平線を眺めて入浴できる贅沢なプライベートバス。誰にも気兼ねなく温泉タイムを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 玄関から全館畳敷きの心地よい空間と海を望む大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">玄関から全館畳敷きの心地よい空間と海を望む大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">スリッパなしで歩ける畳敷きの館内は足触りが良くリラックス効果抜群。海を真正面に望む大浴場や露天風呂も完備しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 境港直送の新鮮なカニ料理や山陰の山海の恵み会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">境港直送の新鮮なカニ料理や山陰の山海の恵み会席</h5>
                     <p className="text-stone-600 leading-relaxed">日本海の旬魚のお造りやカニ料理、鳥取和牛など、山陰ならではの味覚をプライベートなお部屋食または個室でゆっくり味わえます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 皆生温泉・境港水木しげるロード＆名峰大山ドライブガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 皆生温泉・境港水木しげるロード＆名峰大山ドライブガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                境港「水木しげるロード」と海鮮市場での買い物
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                境港「水木しげるロード」と海鮮市場での買い物</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 皆生温泉から車で約20分。170体以上のブロンズ像が並ぶ水木しげるロードの散策や、境港水産物直売センターで獲れたての松葉ガニや干物を購入できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                名峰・大山（伯耆富士）のドライブと大山まきばみるくの里
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                名峰・大山（伯耆富士）のドライブと大山まきばみるくの里</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 標高1,729メートルの中国地方最高峰・大山。放牧された牛たちを眺めながら濃厚なソフトクリームを味わえる「大山まきばみるくの里」や大山寺の参拝が人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                皆生海岸遊歩道での朝の散歩と日本の夕陽百選
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                皆生海岸遊歩道での朝の散歩と日本の夕陽百選</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の目の前に広がる海岸遊歩道。白砂青松の海岸線と日本海に沈む夕日は「日本の夕陽百選」にも選ばれる絶景スポットです。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              鳥取県米子市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">鳥取県米子市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】皆生温泉 皆生つるや 四季を奏でるさらさの宿を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】皆生温泉 皆生つるや 四季を奏でるさらさの宿を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と皆生温泉 皆生つるや 四季を奏でるさらさの宿の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と皆生温泉 皆生つるや 四季を奏でるさらさの宿の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

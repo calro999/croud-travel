@@ -154,10 +154,8 @@ export default function FeatureDetailPage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"「泥湯温泉 奥山旅館」へのアクセスや移動方法について","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」へは、JR奥羽本線湯沢駅下車、車で50分。最寄りの湯沢駅からの経路案内も充実しています。"}},{"@type":"Question","name":"「泥湯温泉 奥山旅館」の魅力や予約時のポイントは？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」は『手つかずの自然という贅沢が当館のおもてなし。3種の源泉からかけ流しの泥湯温泉が自慢、秘境の。』という点が旅行者から高く支持されています。連休や人気シーズンは予約が集中しやすいため、空室状況はお早めのチェックが安心です。"}},{"@type":"Question","name":"プラン選びや宿の比較で意識すべき点は？","acceptedAnswer":{"@type":"Answer","text":"「泥湯温泉 奥山旅館」と「どろ湯の旅籠さくらさくら温泉 霧島神宮温泉郷」はそれぞれ立地や施設設備に独自の魅力があります。湯巡り重視か、料理やお部屋の寛ぎ重視かなど、今回の旅の目的に合わせてお選びください。"}}]}) }}
       />
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-            <Award className="w-6 h-6 text-amber-600" />
-            天然ミネラル泥パック＆極上美肌泥湯の宿の楽しみ方＆おすすめの選び方
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Award className="w-6 h-6 text-amber-600" />
+            天然ミネラル泥パック＆極上美肌泥湯の宿の楽しみ方＆おすすめの選び方</h2>
           <p className="text-slate-600 leading-relaxed text-sm sm:text-base">楽天トラベルに寄せられたリアルな宿泊者口コミの中から、特に評価の高いハイクラス宿・隠れ家宿を厳選。テーマに特化した最高峰の体験とおもてなしをお約束します。
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-4">
@@ -178,9 +176,7 @@ export default function FeatureDetailPage() {
 
         <section className="space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-2xl font-bold text-slate-900">
-              編集部が選ぶおすすめ名宿一覧（全3選）
-            </h2>
+            <h2 className="text-2xl font-bold text-slate-900">編集部が選ぶおすすめ名宿一覧（全3選）</h2>
             <p className="text-sm text-slate-500 mt-1">楽天トラベル公式APIから最新の空室・料金情報を取得しています</p>
           </div>
 
@@ -206,11 +202,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">秋田県</span>
                       <span>湯沢市高松泥湯沢25</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141266%2F141266.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F141266%2F141266.html" target="_blank" rel="sponsored noopener noreferrer">
                         泥湯温泉　奥山旅館
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -265,11 +259,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">鹿児島県</span>
                       <span>霧島市霧島田口2324-7</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15081%2F15081.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F15081%2F15081.html" target="_blank" rel="sponsored noopener noreferrer">
                         どろ湯の旅籠さくらさくら温泉　霧島神宮温泉郷
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -324,11 +316,9 @@ export default function FeatureDetailPage() {
                       <span className="bg-slate-100 text-slate-700 font-medium px-2 py-0.5 rounded">新潟県</span>
                       <span>妙高市関川2452</span>
                     </div>
-                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5121%2F5121.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-xl font-bold text-slate-900 mb-2 hover:text-amber-600 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F5121%2F5121.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホテルアルペンブリック
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="flex items-center gap-2 mb-3">
                       <div className="flex items-center text-amber-500">
                         <Star className="w-4 h-4 fill-amber-400" />
@@ -390,9 +380,7 @@ export default function FeatureDetailPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】泥湯温泉 奥山旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】泥湯温泉 奥山旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -425,9 +413,7 @@ export default function FeatureDetailPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と泥湯温泉 奥山旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と泥湯温泉 奥山旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -522,9 +508,7 @@ export default function FeatureDetailPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「2026年：天然クレイで全身つるつる美肌！泥パック泥湯＆源泉掛け流し泥温泉宿5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -576,9 +560,7 @@ export default function FeatureDetailPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「天然クレイで全身つるつる美肌（泥パック泥湯＆源泉掛け流し泥温泉宿5選）」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「天然クレイで全身つるつる美肌（泥パック泥湯＆源泉掛け流し泥温泉宿5選）」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

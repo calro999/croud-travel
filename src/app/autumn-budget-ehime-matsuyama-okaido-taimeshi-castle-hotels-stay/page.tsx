@@ -58,10 +58,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-orange-600" />
-            城下町・大街道は激戦区！宿代を抑えて鯛めし食べ比べ＆道後温泉本館へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+            城下町・大街道は激戦区！宿代を抑えて鯛めし食べ比べ＆道後温泉本館へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             松山市の中心繁華街・大街道や松山市駅周辺は、道後温泉旅館街よりも圧倒的に宿泊費が安く、1泊2,000円台〜4,000円台で快適なホテルが充実。路面電車で道後温泉へわずか10分で出かけられるため、昼は鯛めしと城下町散策、夜は道後温泉本館の外湯巡りを賢く楽しめます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテル勝山
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル勝山</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   路面電車「勝山町」電停より徒歩約3分 / 大街道徒歩圏
@@ -151,9 +147,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アビスイン道後・松山
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アビスイン道後・松山</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   市内電車「勝山町」電停より徒歩3分 / 大街道まで徒歩7分
@@ -206,9 +200,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル〈松山市駅前〉
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈松山市駅前〉</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊予鉄道「松山市駅」より徒歩1分
@@ -261,9 +253,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルＮｏ．１松山
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルＮｏ．１松山</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   大街道商店街より徒歩3分 / 勝山町電停徒歩約3分
@@ -316,9 +306,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  レフ松山市駅　ｂｙ　ベッセルホテルズ
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">レフ松山市駅　ｂｙ　ベッセルホテルズ</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊予鉄道「松山市駅」隣接（徒歩1分）
@@ -353,10 +341,8 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-orange-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の松山鯛めし＆城下町旅を格安に満喫するポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300"><CheckCircle2 className="w-5 h-5" />
+            秋の松山鯛めし＆城下町旅を格安に満喫するポイント</h2>
           <ul className="space-y-2 text-sm text-orange-100/90 leading-relaxed">
             <li>・大街道の「丸水」や「かどや」で味わう宇和島鯛めしと、炊き込みの松山鯛めしを食べ比べるのが贅沢の極み。</li>
             <li>・松山城へはロープウェイ街のカフェで愛媛みかんジェラートを味わいながら散策するのがおすすめルート。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「松山・大街道：宇和島鯛めし＆現存天守・松山城！2,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 松山・大街道で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">松山・大街道で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

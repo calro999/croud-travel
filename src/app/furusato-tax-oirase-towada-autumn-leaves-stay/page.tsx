@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              奇跡の黄金トンネル・奥入瀬渓流と静寂のカルデラ湖・十和田湖
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">奇跡の黄金トンネル・奥入瀬渓流と静寂のカルデラ湖・十和田湖</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             国の特別名勝・天然記念物に指定されている奥入瀬渓流。十和田湖の子ノ口から焼山まで約14kmにわたり続く清流沿いは、10月中旬から11月上旬にかけてブナやカツラ、モミジが色づき、息をのむような「黄金のトンネル」へと姿を変えます。阿修羅の流れや銚子大滝など無数の名瀑を巡るハイキングを楽しんだ後は、十和田湖畔の温泉宿で源泉掛け流しの湯に浸かり、名物の十和田バラ焼きやヒメマス料理をふるさと納税トラベルクーポンでお得に堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                奥入瀬渓流 14kmの黄金トンネルと名瀑巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                奥入瀬渓流 14kmの黄金トンネルと名瀑巡り</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 躍動感あふれる「阿修羅の流れ」や幅20m・落差7mの「銚子大滝」、繊細な「雲井の滝」など、紅葉の木立の間から覗く滝と清流のダイナミックな景観は日本随一のウォーキングルートです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                十和田湖遊覧船から望む360度の大パノラマ紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                十和田湖遊覧船から望む360度の大パノラマ紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 十和田湖の休屋や子ノ口から運航する遊覧船に乗れば、中山半島や御倉半島の断崖絶壁を彩る紅葉と、群青色の湖面の対比を湖上から贅沢に楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                十和田バラ焼き＆十和田湖特産ヒメマスの美味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                十和田バラ焼き＆十和田湖特産ヒメマスの美味</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 青森ご当地グルメ「十和田バラ焼き」の甘辛いタレと玉ねぎ・牛バラ肉の旨味、十和田湖の清らかな水で育ったヒメマス（十和田湖ひめます）の塩焼きや刺身など、秋の地元食材が食欲を刺激します。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 3.87 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    十和田湖畔温泉　ホテル十和田荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">十和田湖畔温泉　ホテル十和田荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 青森県十和田市大字奥瀬字十和田湖畔休屋３４０ ｜ 東北自動車道十和田ICから車で45分　JR八戸駅、JR青森駅から車で120分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.10 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    十和田湖畔温泉　とわだこ賑山亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">十和田湖畔温泉　とわだこ賑山亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 秋田県鹿角郡小坂町十和田湖休平35 ｜ ＪＲ八戸駅より十和田湖行きＪＲバスで140分、終点十和田湖下車、徒歩4分／東北自動車道小坂ＩＣより４０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.14 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    十和田西湖畔温泉　十和田プリンスホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">十和田西湖畔温泉　十和田プリンスホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 秋田県鹿角郡小坂町十和田湖西湖畔 ｜ 東北道小坂ＩＣから３１ｋｍ（約４０分）／八戸駅（木～日曜日のみ運行）・休屋バス停から無料送迎バスあり（２日前まで予約）
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】十和田湖畔温泉 ホテル十和田荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】十和田湖畔温泉 ホテル十和田荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と十和田湖畔温泉 ホテル十和田荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と十和田湖畔温泉 ホテル十和田荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

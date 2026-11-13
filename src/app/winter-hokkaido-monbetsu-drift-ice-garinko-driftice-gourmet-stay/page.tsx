@@ -191,10 +191,8 @@ export default function MonbetsuDriftIcePage() {
       <main className="max-w-5xl mx-auto px-4 py-12">
         {/* リード文・見どころ詳細解説 */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4">
-            <Waves className="w-6 h-6 text-cyan-600" />
-            巨大ドリルが氷を砕き進む！世界でここだけの流氷体験「ガリンコ号」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4"><Waves className="w-6 h-6 text-cyan-600" />
+            巨大ドリルが氷を砕き進む！世界でここだけの流氷体験「ガリンコ号」</h2>
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -213,10 +211,8 @@ export default function MonbetsuDriftIcePage() {
 
           {/* 現地攻略インフォボックス */}
           <div className="mt-8 bg-cyan-50/70 border border-cyan-100 rounded-xl p-5 sm:p-6">
-            <h3 className="text-base font-bold text-cyan-950 mb-3 flex items-center gap-2">
-              <Info className="w-5 h-5 text-cyan-600" />
-              冬のオホーツク流氷旅行：快適に楽しむための3大心得
-            </h3>
+            <h3 className="text-base font-bold text-cyan-950 mb-3 flex items-center gap-2"><Info className="w-5 h-5 text-cyan-600" />
+              冬のオホーツク流氷旅行：快適に楽しむための3大心得</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-cyan-900">
               <div className="bg-white p-3.5 rounded-lg border border-cyan-100">
                 <span className="font-bold text-cyan-700 block mb-1">1. ガリンコ号は事前予約が鉄則</span>
@@ -240,9 +236,7 @@ export default function MonbetsuDriftIcePage() {
             <span className="text-xs sm:text-sm font-extrabold text-cyan-600 tracking-wider uppercase bg-cyan-50 px-3.5 py-1.5 rounded-full border border-cyan-100">
               Selected 5 Drift Ice Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">
-              紋別・網走で流氷と北の海鮮美食を満喫する厳選ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">紋別・網走で流氷と北の海鮮美食を満喫する厳選ホテル5選</h2>
             <p className="text-sm text-slate-600 mt-2 max-w-2xl mx-auto">
               ガリンコ号乗り場至近のシティホテルから、天然温泉大浴場付きの老舗宿、古代オホーツク文化の意匠を極めた湖畔リゾートまで、冬の滞在を彩る名宿をご紹介します。
             </p>
@@ -267,16 +261,14 @@ export default function MonbetsuDriftIcePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F14610%2F14610.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     ホテルオホーツクパレス
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -297,10 +289,8 @@ export default function MonbetsuDriftIcePage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-sky-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-sky-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>紋別バスターミナル徒歩圏！ガリンコ号乗り場へのアクセスもスムーズ</span></li>
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>オホーツク海産の獲れたて海の幸を贅沢に振る舞う館内和食レストラン</span></li>
@@ -354,16 +344,14 @@ export default function MonbetsuDriftIcePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F863%2F863.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     紋別セントラルホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -384,10 +372,8 @@ export default function MonbetsuDriftIcePage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-sky-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-sky-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>紋別市街地で希少な天然温泉大浴場＆サウナで極寒の冷えを芯から解消</span></li>
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>朝食バイキングで味わうホタテの刺身や郷土料理「帆立ご飯」が大好評</span></li>
@@ -441,16 +427,14 @@ export default function MonbetsuDriftIcePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68067%2F68067.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     北天の丘あばしり湖鶴雅リゾート
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -471,10 +455,8 @@ export default function MonbetsuDriftIcePage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-sky-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-sky-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>北方少数民族「オホーツク人」の神秘的な文化とアートが息づく館内意匠</span></li>
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>網走湖を望む自家源泉の露天風呂と暖炉を囲む贅沢なラウンジ空間</span></li>
@@ -528,16 +510,14 @@ export default function MonbetsuDriftIcePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F31670%2F31670.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     天都の宿　網走観光ホテル（BBHホテルグループ）
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -558,10 +538,8 @@ export default function MonbetsuDriftIcePage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-sky-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-sky-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>網走湖の雄大な白銀パノラマを見晴らす高台の展望露天風呂</span></li>
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>自家源泉掛け流しの天然温泉と無料のウェルカムドリンク・地酒サービス</span></li>
@@ -615,16 +593,14 @@ export default function MonbetsuDriftIcePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32093%2F32093.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-blue-600 transition-colors"
                   >
                     ホテルルートイン網走駅前
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -645,10 +621,8 @@ export default function MonbetsuDriftIcePage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-sky-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-sky-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>JR網走駅の目の前！女満別空港行バス停も至近でアクセス抜群</span></li>
                         <li className="flex items-start gap-2"><span className="text-sky-500 font-bold">•</span><span>男女別天然温泉大浴場「旅人の湯」で移動とクルーズの疲れをリフレッシュ</span></li>
@@ -689,18 +663,14 @@ export default function MonbetsuDriftIcePage() {
 
         {/* 1泊2日モデルコース */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <Compass className="w-6 h-6 text-amber-600" />
-            【1泊2日】白銀の流氷原ガリンコ号クルーズとオホーツク海鮮三昧モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5"><Compass className="w-6 h-6 text-amber-600" />
+            【1泊2日】白銀の流氷原ガリンコ号クルーズとオホーツク海鮮三昧モデルコース</h2>
 
           <div className="space-y-6">
             <div className="border-l-2 border-cyan-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-cyan-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-cyan-600 uppercase tracking-wider mb-1">1日目：昼〜夕方</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                羽田発 ➔ オホーツク紋別空港到着 ➔ オホーツクタワー＆とっかりセンター散策
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">羽田発  オホーツク紋別空港到着  オホーツクタワー＆とっかりセンター散策</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 羽田空港からの直行便で昼過ぎにオホーツク紋別空港へ到着。無料連絡バスで紋別市街地へ。チェックイン前に「氷海展望塔オホーツクタワー」へ足を伸ばし、海底窓から流氷下の冷たい海と愛らしいクリオネを観察。隣接するとっかりセンターで愛嬌たっぷりのアザラシたちと触れ合います。
               </p>
@@ -709,9 +679,7 @@ export default function MonbetsuDriftIcePage() {
             <div className="border-l-2 border-blue-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-blue-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-blue-600 uppercase tracking-wider mb-1">1日目：夜</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                天然温泉で温まり ➔ 地元割烹や宿で「毛ガニ・ホタテ尽くし」を堪能
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">天然温泉で温まり  地元割烹や宿で「毛ガニ・ホタテ尽くし」を堪能</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ホテルへ戻り、冷えた手足を天然温泉大浴場でじんわりと温めます。夕食はオホーツク海の毛ガニの姿盛り、ぷりぷりの生ホタテ刺身、ホタテのバター醤油焼き、旬の海鮮鍋を地酒「北の勝」や北海道限定ビールとともに贅沢に満喫します。
               </p>
@@ -720,9 +688,7 @@ export default function MonbetsuDriftIcePage() {
             <div className="border-l-2 border-indigo-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-indigo-600 uppercase tracking-wider mb-1">2日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                ガリンコ号III IMERUで流氷クルーズ ➔ カニの爪オブジェ記念撮影 ➔ 空港へ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">ガリンコ号III IMERUで流氷クルーズ  カニの爪オブジェ記念撮影  空港へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝、防寒着を着込んで海洋交流館へ。ガリンコ号IIIに乗船し、氷海へと出航！スクリュードリルが氷を豪快に粉砕する轟音と飛沫、どこまでも続く白銀の氷原に息を呑みます。下船後は高さ12mの巨大な「カニの爪オブジェ」で記念撮影。紋別名物のかまぼこをお土産に購入し、午後の便で羽田へ帰路につきます。
               </p>
@@ -735,10 +701,8 @@ export default function MonbetsuDriftIcePage() {
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">
-          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2">
-            <Heart className="w-5 h-5 text-rose-400" />
-            あわせて読みたい！冬の北海道・海鮮温泉旅おすすめ特集
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2"><Heart className="w-5 h-5 text-rose-400" />
+            あわせて読みたい！冬の北海道・海鮮温泉旅おすすめ特集</h2>
           <p className="text-xs sm:text-sm text-slate-300 mb-6 leading-relaxed">
             冬の北海道には、流氷の知床、白銀の美瑛・富良野、情緒ある小樽運河など、心震える絶景と美食が溢れています。
           </p>

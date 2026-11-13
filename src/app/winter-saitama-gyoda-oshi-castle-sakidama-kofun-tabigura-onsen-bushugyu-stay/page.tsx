@@ -175,9 +175,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-10 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Travel Narrative</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の行田・熊谷・加須・羽生を旅する魅力と情話
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の行田・熊谷・加須・羽生を旅する魅力と情話</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
@@ -190,9 +188,7 @@ export default function FeaturePage() {
           <section className="space-y-6">
             <div className="border-b border-stone-200 pb-3">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬（11・12・1月）に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬（11・12・1月）に訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 gap-4">
 
@@ -201,9 +197,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  水攻めに耐えた不落の名城！「忍城」御三階櫓の冬晴れ雪景色と戦国ロマン
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">水攻めに耐えた不落の名城！「忍城」御三階櫓の冬晴れ雪景色と戦国ロマン</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 石田三成の水攻めを跳ね返した浮き城・忍城。冬の澄んだ青空に凛と聳える御三階櫓と東門の木橋、堀端の風情は戦国史好き必見の美しさ。併設の行田市郷土博物館で歴史探訪も楽しめます。
@@ -215,9 +209,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日本遺産第1号！レトロな「足袋蔵のまち」散策と古代の息吹「さきたま古墳群」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日本遺産第1号！レトロな「足袋蔵のまち」散策と古代の息吹「さきたま古墳群」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 江戸から昭和にかけて日本の足袋の約8割を生産した行田の足袋蔵群。国宝の金錯銘鉄剣が出土した稲荷山古墳など9基の大型古墳が並ぶさきたま古墳群の冬景色は圧巻のスケールです。
@@ -229,9 +221,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  湯量豊富な「行田天然温泉」のぬくもりと名物「加須うどん」＆極上「武州牛」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">湯量豊富な「行田天然温泉」のぬくもりと名物「加須うどん」＆極上「武州牛」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 地下約1,200mから湧出する源泉かけ流しの天然温泉。冬の寒風で冷えた身体を芯から温めた後は、強いコシが自慢の加須手打ちうどんや、霜降りの甘みが広がる武州牛会席を満喫できます。
@@ -244,9 +234,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
               <Compass className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アクセス・ベストシーズン・おすすめの服装
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アクセス・ベストシーズン・おすすめの服装</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 rounded-xl p-5 border border-stone-100">
               【エリアへのアクセス】
@@ -266,9 +254,7 @@ export default function FeaturePage() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                行田・熊谷・加須・羽生 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">行田・熊谷・加須・羽生 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -287,16 +273,14 @@ export default function FeaturePage() {
                       源泉かけ流し天然温泉SPAを完備！羽生IC至近の極上リラクゼーションホテル
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F18683%2F18683.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       羽生天然温泉ルートイングランティア羽生ＳＰＡ　ＲＥＳＯＲＴ
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.26</span>
                     <span className="text-xs text-stone-700 font-medium">(1427件)</span>
@@ -362,16 +346,14 @@ export default function FeaturePage() {
                       熊谷駅直結のハイクラスシティホテル！開放感あふれる客室と優雅なレストラン
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F72808%2F72808.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       キングアンバサダーホテル熊谷
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.12</span>
                     <span className="text-xs text-stone-700 font-medium">(3145件)</span>
@@ -437,16 +419,14 @@ export default function FeaturePage() {
                       熊谷バイパス沿いの好立地！旅人のオアシスとなる快適大浴場と充実サービス
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F161022%2F161022.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       ホテルルートイン熊谷
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.27</span>
                     <span className="text-xs text-stone-700 font-medium">(385件)</span>
@@ -512,16 +492,14 @@ export default function FeaturePage() {
                       熊谷駅前プレミアム！サウナ付き鉱泉浴大浴場で極上のととのい体験
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F181831%2F181831.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       サウナ付鉱泉浴大浴場付『ホテルグランワイズ熊谷駅前プレミア』
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.17</span>
                     <span className="text-xs text-stone-700 font-medium">(1227件)</span>
@@ -587,16 +565,14 @@ export default function FeaturePage() {
                       熊谷駅北口から徒歩すぐ！アットホームな笑顔と清潔感あふれる快適空間
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1486%2F1486.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       スマイルホテル熊谷
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 3.93</span>
                     <span className="text-xs text-stone-700 font-medium">(2015件)</span>
@@ -657,9 +633,7 @@ export default function FeaturePage() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -682,37 +656,29 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の行田・熊谷・加須・羽生旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の行田・熊谷・加須・羽生旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>忍城御三階櫓の中に入ることはできますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>忍城御三階櫓の中に入ることはできますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>はい、御三階櫓の内部は行田市郷土博物館の一部となっており入館可能です。最上階の展望室からは行田市内を一望でき、冬の晴れた日には遠く富士山や秩父連山の雄大な稜線も見渡せます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>行田名物の「ゼリーフライ」と「フライ」の違いは何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>行田名物の「ゼリーフライ」と「フライ」の違いは何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>「ゼリーフライ」はおからと蒸したジャガイモ、人参などを練り合わせ、衣をつけずに素揚げして特製ソースをくぐらせた小判形のおやつ（銭フライが訛ったもの）。一方「フライ」は水で溶いた小麦粉に豚肉やネギを乗せて鉄板で薄く焼き、ソースや醤油を塗ったお好み焼き風の軽食です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>さきたま古墳群の見学に必要な所要時間はどれくらいですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>さきたま古墳群の見学に必要な所要時間はどれくらいですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>主要な丸墓山古墳や稲荷山古墳、さきたま史跡博物館をじっくり巡る場合、約1時間30分〜2時間程度が目安です。丸墓山古墳の頂上からは忍城方面を見渡すことができ、石田三成が陣を敷いた歴史の現場を体感できます。
               </p>

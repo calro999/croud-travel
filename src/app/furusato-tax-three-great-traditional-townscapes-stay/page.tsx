@@ -183,9 +183,7 @@ export default function Page() {
       />
         {/* リードセクション */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            なまこ壁と黒漆喰、出桁造り。日本の美しい建築遺産が残る町を歩く
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">なまこ壁と黒漆喰、出桁造り。日本の美しい建築遺産が残る町を歩く</h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
             江戸から明治・大正にかけて商業や海運・産業の中心として栄え、今なお息づく暮らしの美が国の「重要伝統的建造物群保存地区」として大切に守られている「日本の三大伝統的町並み」――白壁の土蔵となまこ壁、川沿いの柳並木が詩情を誘う岡山の「倉敷美観地区」、大火に耐えるため耐火建築として建てられた黒漆喰の蔵造り商家が連なる埼玉の「小江戸・川越」、そして瀬戸内海の製塩と酒造りで財を成した豪商たちの重厚な邸宅が立ち並ぶ広島の「安芸の小京都・竹原」。夕暮れ時に行灯や街灯が灯る静かな町並みを歩き、歴史を感じる宿で土地の美味を味わう情緒豊かな旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -194,9 +192,7 @@ export default function Page() {
         {/* メリット3選 */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">
-              ふるさと納税×日本三大町並み重伝建 3つのメリット
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-slate-900">ふるさと納税×日本三大町並み重伝建 3つのメリット</h2>
             <p className="text-xs md:text-sm text-slate-500">控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
@@ -208,9 +204,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   01
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  日中の混雑を避けて早朝や夜のライトアップ散策！人影の少ない町並みを独占できる贅沢
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">日中の混雑を避けて早朝や夜のライトアップ散策！人影の少ない町並みを独占できる贅沢</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   川面に映る白壁土蔵の夜景や、静けさに包まれる朝の路地散歩を心ゆくまで満喫。
                 </p>
@@ -221,9 +215,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   02
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  瀬戸内の鰆やタコ料理、川越名物うなぎ蒲焼やさつまいも会席、広島の牡蠣と峠下牛
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">瀬戸内の鰆やタコ料理、川越名物うなぎ蒲焼やさつまいも会席、広島の牡蠣と峠下牛</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   歴史ある町並みの料亭やホテルで、伝統の味を受け継ぐ職人こだわりの郷土ディナーを堪能。
                 </p>
@@ -234,9 +226,7 @@ export default function Page() {
                 <span className="inline-block w-8 h-8 rounded-full bg-emerald-100 text-emerald-800 font-bold text-center leading-8 text-sm">
                   03
                 </span>
-                <h3 className="font-bold text-base text-slate-900 leading-snug">
-                  楽天ふるさと納税宿泊クーポンで登録有形文化財の宿やシティホテルをお得に予約
-                </h3>
+                <h3 className="font-bold text-base text-slate-900 leading-snug">楽天ふるさと納税宿泊クーポンで登録有形文化財の宿やシティホテルをお得に予約</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   歴史建築散策や女子旅、夫婦旅行でも、寄付金額に応じた最大30%オフの即時割引クーポンでスマートにお得ステイ。
                 </p>
@@ -260,9 +250,7 @@ export default function Page() {
                   <span className="inline-block bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-1 rounded mb-2">
                     厳選スポット #{idx + 1}
                   </span>
-                  <h3 className="text-lg md:text-xl font-bold text-slate-900">
-                    {h.themeTitle}
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-slate-900">{h.themeTitle}</h3>
                   <p className="text-xs md:text-sm text-slate-600 mt-2 leading-relaxed">
                     {h.themeDesc}
                   </p>
@@ -287,9 +275,7 @@ export default function Page() {
                     <div className="space-y-3">
                       <div className="flex items-start justify-between">
                         <div>
-                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">
-                            {h.hotelName}
-                          </h4>
+                          <h4 className="font-bold text-base md:text-lg text-slate-900 leading-snug">{h.hotelName}</h4>
                           <p className="text-xs text-slate-500 mt-0.5">
                             {h.address1}{h.address2}
                           </p>
@@ -404,9 +390,7 @@ export default function Page() {
 
         {/* 関連記事（相互内部リンク） */}
         <section className="bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-slate-200/80 space-y-4">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">
-            あわせて読みたい日本の名所・伝統文化と絶景宿特集
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 border-l-4 border-emerald-500 pl-3">あわせて読みたい日本の名所・伝統文化と絶景宿特集</h2>
           <div className="grid md:grid-cols-3 gap-4">
             
             <Link href="/furusato-tax-three-great-post-towns-nakasendo-stay/" className="group block bg-slate-50 hover:bg-emerald-50/50 p-4 rounded-xl border border-slate-200/70 hover:border-emerald-300 transition duration-200">
@@ -438,9 +422,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】料理旅館 鶴形を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】料理旅館 鶴形を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -473,9 +455,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と料理旅館 鶴形の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と料理旅館 鶴形の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

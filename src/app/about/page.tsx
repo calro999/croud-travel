@@ -34,9 +34,7 @@ export default function AboutPage() {
         <span className="text-[10px] font-black tracking-widest bg-teal-100 text-teal-900 px-3 py-1 rounded-full uppercase inline-block">
           ABOUT & EDITORIAL POLICY
         </span>
-        <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-stone-900">
-          運営者情報とコンテンツ編集方針
-        </h1>
+        <h1 className="text-2xl md:text-4xl font-black font-journal-serif text-stone-900">運営者情報とコンテンツ編集方針</h1>
         <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
           日本全国・旅宿クラウドは、旅人が「本当に泊まってよかった」と心から思える宿泊体験に出会えるよう、公平で正確な旅宿情報と旬の観光ガイドをお届けする総合旅行情報メディアです。
         </p>
@@ -44,10 +42,8 @@ export default function AboutPage() {
 
       {/* 運営者情報 */}
       <section className="bg-white rounded-3xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-6">
-        <h2 className="text-lg md:text-xl font-bold text-stone-900 flex items-center gap-2">
-          <Building className="w-5 h-5 text-teal-700" />
-          <span>メディア運営概要</span>
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-stone-900 flex items-center gap-2"><Building className="w-5 h-5 text-teal-700" />
+          <span>メディア運営概要</span></h2>
         <dl className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm">
           <dt className="font-bold text-stone-500 py-2 border-b border-stone-100">サイト名</dt>
           <dd className="md:col-span-2 text-stone-900 py-2 border-b border-stone-100 font-semibold">
@@ -75,36 +71,28 @@ export default function AboutPage() {
 
       {/* E-E-A-T 編集・検証方針 */}
       <section className="bg-white rounded-3xl p-6 md:p-8 border border-stone-200 shadow-sm space-y-6">
-        <h2 className="text-lg md:text-xl font-bold text-stone-900 flex items-center gap-2">
-          <ShieldCheck className="w-5 h-5 text-teal-700" />
-          <span>編集方針・信頼性の担保（E-E-A-T基準）</span>
-        </h2>
+        <h2 className="text-lg md:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-teal-700" />
+          <span>編集方針・信頼性の担保（E-E-A-T基準）</span></h2>
         <div className="space-y-4 text-xs md:text-sm text-stone-600 leading-relaxed">
           <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <Award className="w-4 h-4 text-amber-600" />
-              <span>1. 公平な宿泊施設選定とデータ連携</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Award className="w-4 h-4 text-amber-600" />
+              <span>1. 公平な宿泊施設選定とデータ連携</span></h3>
             <p>
               当メディアで掲載する各宿泊施設の客室設備、宿泊料金プラン、温泉泉質、評価スコア等は、楽天トラベル公式APIおよび各宿公式サイトの最新公開データをもとに定期的に取得・整理しています。特定の宿を不当に優遇・誇張することなく、旅行者の目的に応じた選択肢を提案します。
             </p>
           </div>
 
           <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <Compass className="w-4 h-4 text-teal-600" />
-              <span>2. 観光情報・アクセスの正確性検証</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+              <span>2. 観光情報・アクセスの正確性検証</span></h3>
             <p>
               各地域の観光名所、世界遺産、季節の見頃情報、気候およびアクセス情報は、各自治体観光課、公益社団法人日本観光振興協会、気象庁統計、およびフリー百科事典ウィキペディア等の公開資料と照合・確認して制作しています。
             </p>
           </div>
 
           <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <HeartHandshake className="w-4 h-4 text-rose-600" />
-              <span>3. アフィリエイトプログラムに関する表記（広告開示）</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><HeartHandshake className="w-4 h-4 text-rose-600" />
+              <span>3. アフィリエイトプログラムに関する表記（広告開示）</span></h3>
             <p>
               当サイトは楽天グループ株式会社が提供する「楽天アフィリエイト」プログラムに参加しています。当サイト経由で宿泊予約が行われた場合、運営者に所定の手数料が支払われる場合があります。ただし、これによって宿泊者の支払金額が増加することはありません。
             </p>

@@ -406,9 +406,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <Landmark className="w-4 h-4 text-amber-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              美肌硫黄泉と常磐もの寒アンコウ鍋・福島牛を堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">美肌硫黄泉と常磐もの寒アンコウ鍋・福島牛を堪能する名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -424,9 +422,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
                       <span className="inline-block text-xs font-bold text-amber-800 bg-amber-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -506,17 +502,13 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              特急ひたちで行く！温暖ないわき湯本と常磐もの美食周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">特急ひたちで行く！温暖ないわき湯本と常磐もの美食周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】東京・上野から特急ひたちで湯本へ＆国宝白水阿弥陀堂
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】東京・上野から特急ひたちで湯本へ＆国宝白水阿弥陀堂</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -542,10 +534,8 @@ export default function FukushimaIwakiYumotoWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】小名浜港の活気＆アクアマリンふくしま散策
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】小名浜港の活気＆アクアマリンふくしま散策</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -579,27 +569,21 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               初冬のいわき湯本・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街と港で手に入れたい初冬の常磐名物＆立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街と港で手に入れたい初冬の常磐名物＆立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-amber-700" />
-                小名浜港の朝獲れ干物と目光みりん干し・アンコウ加工品
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-amber-700" />
+                小名浜港の朝獲れ干物と目光みりん干し・アンコウ加工品</h3>
               <p>
                 小名浜港に隣接する「いわき・ら・ら・ミュウ」には、初冬に脂が乗った「常磐もの」の鮮魚や自家製干物がずらりと並びます。特に目光の天日干しやみりん干しは、トースターで軽く炙るだけで絶品の酒の肴に。また、特製味噌とアンコウの肝を合わせた鍋用セットや、高級かまぼこ・すり身加工品も自宅用やお土産として大人気です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                温泉街の老舗和菓子・みよし「じゃんがら」と地酒「又兵衛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                温泉街の老舗和菓子・みよし「じゃんがら」と地酒「又兵衛」</h3>
               <p>
                 いわき湯本温泉街散策で外せないのが、郷土芸能の太鼓を模した銘菓「じゃんがら」。水を使わず卵と小麦粉で練り上げた皮に、北海道産小豆の練り餡をサンドした上品な甘さは温泉土産の定番です。さらにいわきの地酒「又兵衛」の初冬限定新酒や、温泉街の足湯「鶴の足湯」「童謡館足湯」巡りなど、歩いて楽しめる温かなスポットが揃っています。
               </p>
@@ -614,27 +598,21 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <Shield className="w-4 h-4 text-amber-800" />
               11月・12月の気候・服装・快適アクセス案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のいわき湯本旅行のポイントと防寒・移動のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のいわき湯本旅行のポイントと防寒・移動のコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                東北のハワイの温暖気候と海風対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                東北のハワイの温暖気候と海風対策</h3>
               <p>
                 いわき市は黒潮の影響で年間を通じて日照時間が長く、東北地方とは思えないほど温暖です。11月・12月でも日中は12〜16℃程度まで上がり、雪が積もることは極めて稀です。ただし海岸部や夕暮れ以降は太平洋からの冷たい海風が吹き付けるため、防風性のあるコートやストールがあると安心。真冬の東北のような重装備は不要で、軽やかな冬の装いで快適に旅を楽しめます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                品川・上野から特急ひたち直通2時間＆常磐道アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                品川・上野から特急ひたち直通2時間＆常磐道アクセス</h3>
               <p>
                 交通アクセスの良さはいわき湯本温泉の大きな強みです。JR常磐線の特急「ひたち」に乗車すれば、品川・東京・上野駅から乗り換えなし約2時間〜2時間15分で「湯本駅」へ直通。駅前から各旅館へは徒歩5〜10分圏内と徒歩移動も楽々です。車の場合も常磐自動車道「いわき湯本IC」から約10分。高速道路も降雪の心配が極めて少なく、冬のドライブにも最適です。
               </p>
@@ -649,9 +627,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <Utensils className="w-4 h-4 text-amber-800" />
               名物グルメの深掘り解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のいわき湯本で味わいたい3大極上グルメ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のいわき湯本で味わいたい3大極上グルメ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -694,18 +670,14 @@ export default function FukushimaIwakiYumotoWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬のいわき湯本温泉旅行・よくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬のいわき湯本温泉旅行・よくある質問（FAQ）</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -717,9 +689,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
         {/* Internal Links / Related Features Section */}
         <section className="bg-gradient-to-br from-stone-100 to-amber-50/50 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-base sm:text-lg font-bold text-stone-900">
-              福島・東北エリアのあわせて読みたい人気温泉特集
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-stone-900">福島・東北エリアのあわせて読みたい人気温泉特集</h3>
             <p className="text-xs sm:text-sm text-stone-600">
               いわき湯本温泉とあわせて巡りたい、東北屈指の名湯と冬の美味特集をご紹介します。
             </p>
@@ -731,9 +701,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・岳温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                安達太良山麓のミルキー強酸性美肌湯と川俣シャモ・福島牛
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">安達太良山麓のミルキー強酸性美肌湯と川俣シャモ・福島牛</h4>
             </Link>
 
             <Link
@@ -741,9 +709,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・高湯＆土湯温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                吾妻連峰の雪見露天風呂と白濁硫黄泉・極上福島牛すき焼き
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">吾妻連峰の雪見露天風呂と白濁硫黄泉・極上福島牛すき焼き</h4>
             </Link>
 
             <Link
@@ -751,9 +717,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">福島・会津東山温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                鶴ヶ城初冬の雪景色と渓谷美・会津馬刺しと地酒めぐり名宿
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">鶴ヶ城初冬の雪景色と渓谷美・会津馬刺しと地酒めぐり名宿</h4>
             </Link>
 
             <Link
@@ -761,9 +725,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">千葉・南房総館山</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">温暖な南房総の避寒温泉と旬の伊勢海老・房総地魚舟盛り</h4>
             </Link>
 
             <Link
@@ -771,9 +733,7 @@ export default function FukushimaIwakiYumotoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-amber-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-amber-700 bg-amber-50 px-2 py-0.5 rounded-md">宮城・松島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">
-                日本三景松島の朝日パノラマ露天風呂と冬の焼き牡蠣食べ放題
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition line-clamp-2">日本三景松島の朝日パノラマ露天風呂と冬の焼き牡蠣食べ放題</h4>
             </Link>
 
             <Link

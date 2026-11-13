@@ -266,10 +266,8 @@ export default function KagaWinterPage() {
             <Utensils className="w-4 h-4 text-red-300" />
             <span>11月・12月限定 北陸名湯・加能ガニ解禁と九谷焼の美特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】<br className="hidden sm:inline" />
-            山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月加賀温泉郷の冬の贅と加能ガニ解禁】<br className="hidden sm:inline" />
+            山代・山中温泉の歴史名湯と九谷焼で味わう極上ズワイガニ会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日のズワイガニ漁解禁。青いタグ光る石川の至宝「加能ガニ」と、12月末までの奇跡の味覚「香箱ガニ」。開湯1300年の名湯・山代温泉と鶴仙渓の渓谷美を誇る山中温泉。九谷焼や山中塗の絢爛たる器で味わう究極の冬の日本海グルメ旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function KagaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Heritage, Art & Winter Delicacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月6日カニ漁解禁。魯山人も愛した加賀の美意識と北陸随一の名湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月6日カニ漁解禁。魯山人も愛した加賀の美意識と北陸随一の名湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function KagaWinterPage() {
           
           <div className="bg-red-50/70 rounded-2xl p-5 border border-red-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-red-800" />
-                <span>11月・12月限定「香箱ガニ」の旬を逃さない！</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Utensils className="w-5 h-5 text-red-800" />
+                <span>11月・12月限定「香箱ガニ」の旬を逃さない！</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 雌ガニ（香箱ガニ）の漁期は資源保護のため12月末まで。内子と外子を一度に味わえるのはこの時期だけの特権です。
               </p>
@@ -365,9 +359,7 @@ export default function KagaWinterPage() {
             <span className="text-xs font-bold text-red-800 uppercase tracking-widest bg-red-50 px-3.5 py-1.5 rounded-full border border-red-200">
               Selected 5 Ryokan
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              【11・12月】加賀温泉郷で泊まりたい極上名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">【11・12月】加賀温泉郷で泊まりたい極上名旅館5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
               楽天トラベル高評価の老舗名門から、一泊三湯十八ゆめぐりの温泉天国、鶴仙渓の絶景を望む高級宿まで、冬の加賀を満喫できる5軒をご紹介。
             </p>
@@ -412,9 +404,7 @@ export default function KagaWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-red-800 transition">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-red-800 transition">{hotel.name}</h3>
 
                     <p className="text-stone-700 leading-relaxed text-sm">
                       {hotel.story}
@@ -480,9 +470,7 @@ export default function KagaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の加賀温泉郷 湯の曲輪散策＆加能ガニ解禁満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の加賀温泉郷 湯の曲輪散策＆加能ガニ解禁満喫モデルコース</h2>
             </div>
           </div>
 
@@ -563,48 +551,38 @@ export default function KagaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                加賀温泉郷の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">加賀温泉郷の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>北陸のズワイガニ漁解禁日はいつですか？「加能ガニ」と「香箱ガニ」の違いは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>北陸のズワイガニ漁解禁日はいつですか？「加能ガニ」と「香箱ガニ」の違いは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 石川県をはじめとする北陸のズワイガニ漁は毎年11月6日に一斉解禁されます。『加能ガニ（かのうがに）』は石川県内の漁港で水揚げされた雄のズワイガニのことで、青いタグが付けられます。太い脚にぎっしり詰まった甘い身と濃厚なカニ味噌が特徴です。一方、『香箱ガニ（こうばこがに）』は雌のズワイガニのことで、漁期が11月6日から12月末までの約2ヶ月間と極めて限定されています。小ぶりながら、お腹の外子（プチプチとした卵）と甲羅の中の内子（濃厚な未受精卵）、カニ味噌が凝縮された冬の珍味です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>加賀温泉郷の11月・12月の気候と服装、雪への備えは必要ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>加賀温泉郷の11月・12月の気候と服装、雪への備えは必要ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 加賀温泉郷は11月中旬頃までは比較的穏やかですが、下旬から冷え込みが強まり、12月に入ると日本海特有の冬の気圧配置（雨やみぞれ、雪）が増えます。12月中旬以降は雪が積もることがあるため、お車の場合はスタッドレスタイヤが必須です。冬の北陸は湿り気を帯びた冷たい風が吹くため、防水・防寒性に優れたダウンジャケット、傘、滑りにくい靴を必ずご用意ください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>山代温泉と山中温泉の雰囲気の違いや見どころは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>山代温泉と山中温泉の雰囲気の違いや見どころは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 『山代温泉』は開湯1300年の歴史を持ち、共同浴場『総湯』『古総湯』を中心に紅殻格子の旅館が円状に連なる『湯の曲輪（ゆのがわ）』が象徴的。北大路魯山人ゆかりの地で、九谷焼の窯元巡りや町歩きが魅力です。一方、『山中温泉』は名勝・鶴仙渓の深い渓谷沿いに広がり、松尾芭蕉が愛した名湯。こおろぎ橋やあやとり橋を巡る渓谷美と、伝統工芸・山中漆器の職人技が息づく風光明媚な温泉地です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-red-800 font-extrabold">Q.</span>
-                <span>北陸新幹線加賀温泉駅からのアクセスは便利ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-red-800 font-extrabold">Q.</span>
+                <span>北陸新幹線加賀温泉駅からのアクセスは便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 北陸新幹線の敦賀延伸開業により、東京方面や関西・中京方面からのアクセスが飛躍的に向上しました。加賀温泉駅からは、各主要旅館の無料送迎バス（要予約）または路線バス『キャン・バス』が運行されており、山代温泉へは約10分、山中温泉へは約15〜20分でスムーズに到着できます。
               </p>
@@ -616,9 +594,7 @@ export default function KagaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-red-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆カニ・名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆カニ・名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -627,9 +603,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">冬の味覚の王様</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【極上カニ宿ランキング】冬の味覚・本場活ガニをフルコースで味わう至高の温泉旅館</h3>
             </Link>
 
             <Link 
@@ -637,9 +611,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">山陰の松葉ガニ名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【城崎温泉】冬の松葉ガニ解禁と七田外湯めぐり・浴衣そぞろ歩き宿</h3>
             </Link>
 
             <Link 
@@ -647,9 +619,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">ラジウム名湯＆カニ</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【三朝温泉】世界屈指のラジウム泉と冬の極上松葉がにフルコース</h3>
             </Link>
 
             <Link 
@@ -657,9 +627,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">東海の美肌名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
 
             <Link 
@@ -667,9 +635,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">京都の冬情緒</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【京都嵐山】渡月橋の初冬絶景と名物湯豆腐会席・静寂の名旅館</h3>
             </Link>
 
             <Link 
@@ -677,9 +643,7 @@ export default function KagaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-red-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-red-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">
-                【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-red-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-ishikawa-kaga-yamashiro-kano-crab-stay" />

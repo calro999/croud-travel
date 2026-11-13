@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            神話の国・出雲で巡る美肌の湯、縁結びの祈りと山陰の至福会席——玉造温泉で過ごす潤いのふるさと納税旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">神話の国・出雲で巡る美肌の湯、縁結びの祈りと山陰の至福会席——玉造温泉で過ごす潤いのふるさと納税旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             島根県松江市に位置し、奈良時代の『出雲国風土記』にも「ひとたび濯げば形容端正しく、再び浴すれば万の病ことごとく癒ゆ」と記された日本最古の美肌温泉・玉造温泉。その泉質は硫酸塩・塩化物泉で、保湿成分であるメタケイ酸やカルシウムイオンが豊富に含まれ、天然の化粧水と称されるほど高い美肌作用を誇ります。玉湯川沿いには風情ある旅館が建ち並び、桜並木や足湯、勾玉橋など、歩くだけで心が洗われる温泉街が広がっています。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             玉造温泉は、日本屈指のパワースポットである「出雲大社」へのアクセスも抜群。出雲大社で良縁を祈願し、玉作湯神社で「願い石・叶い石」を授かり、美肌の湯に浸かるコースは、女子旅や夫婦・カップル旅行に絶大な人気を誇ります。さらに夕食には、日本海で獲れたのどぐろ、松葉ガニ、しまね和牛、宍道湖の七道など山陰の美食が勢揃い。松江市へのふるさと納税を活用すれば、30%相当のトラベルクーポンにより憧れの名門老舗旅館へお得に滞在できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（玉造温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（玉造温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">島根県松江市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  玉造温泉　佳翠苑　皆美
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">玉造温泉　佳翠苑　皆美</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業百三十余年の歴史を誇る名門！手入れの行き届いた日本庭園と展望大浴場「天遊の湯」・秘伝の皆美鯛めし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  玉造温泉 佳翠苑 皆美 —— 数寄屋の風情と名園の静寂。プロが選ぶ日本のホテル・旅館100選常連の格式宿
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">玉造温泉 佳翠苑 皆美 —— 数寄屋の風情と名園の静寂。プロが選ぶ日本のホテル・旅館100選常連の格式宿</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階から玉造温泉街を見晴らす展望露天風呂「天遊の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階から玉造温泉街を見晴らす展望露天風呂「天遊の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">最上階に位置する展望露天風呂からは、玉造の山並みと街並みを一望。天然の化粧水と称される自家源泉が注がれ、朝夕で表情を変える絶景パノラマ湯浴みを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 松江藩主・松平不昧公ゆかりの秘伝「皆美家伝鯛めし」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">松江藩主・松平不昧公ゆかりの秘伝「皆美家伝鯛めし」</h5>
                     <p className="text-stone-600 leading-relaxed">皆美館の歴史とともに受け継がれてきた名物料理。そぼろ状にした鯛の身、裏漉しした卵、出汁をかけて味わう伝統の鯛めしは、ここでしか味わえない至高の逸品です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> うるおい手湯足湯と四季の移ろいを映す日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">うるおい手湯足湯と四季の移ろいを映す日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">館内ロビーから眺める枯山水の美しい日本庭園。足湯や手湯処も整備され、温泉街の散策前後にもゆったりと癒しの時間を過ごせます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">島根県松江市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  玉造温泉　湯之助の宿　長楽園
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">玉造温泉　湯之助の宿　長楽園</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本一の広さを誇る百二十坪の混浴大露天風呂！一万坪の壮大な廻遊式日本庭園と湧き出る美肌源泉
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  玉造温泉 湯之助の宿 長楽園 —— 明治元年創業・玉造の湯守の歴史。大自然の湯船に抱かれる至極の湯浴み
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">玉造温泉 湯之助の宿 長楽園 —— 明治元年創業・玉造の湯守の歴史。大自然の湯船に抱かれる至極の湯浴み</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本一の広さを誇る混浴大露天風呂「龍宮の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本一の広さを誇る混浴大露天風呂「龍宮の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">120坪という驚異的な広さを誇る源泉掛け流し露天風呂。湯浴み着を着用して入浴するため、家族やカップルで気兼ねなく広大な湯船を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一万坪の広大な敷地に広がる廻遊式日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一万坪の広大な敷地に広がる廻遊式日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">四季折々の花々や池、小橋が配された名園。昭和天皇をはじめ多くの皇族や要人が宿泊された歴史があり、静かな散策路を歩くだけで心が整います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> しまね和牛と日本海の旬魚を味わう季節会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">しまね和牛と日本海の旬魚を味わう季節会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が選び抜いた山陰の山海の幸。のどぐろの塩焼きやしまね和牛のステーキなど、素材の鮮度と職人技が光る贅沢なディナーを堪能できます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">島根県松江市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  出雲・玉造温泉　白石家
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">出雲・玉造温泉　白石家</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業三百年・花と音楽でお迎えする老舗宿！総檜大浴場と毎夜開催される伝統芸能「安来節ショー」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  出雲・玉造温泉 白石家 —— 女性に優しいおもてなしの宿。総檜風呂の木の温もりと山陰美食の饗宴
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">出雲・玉造温泉 白石家 —— 女性に優しいおもてなしの宿。総檜風呂の木の温もりと山陰美食の饗宴</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 古代檜の香りに包まれる総檜大浴場「白露の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">古代檜の香りに包まれる総檜大浴場「白露の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">樹齢二千年の古代檜を贅沢に使用した大浴場。檜の清々しい香りと弱アルカリ性の美肌温泉が融合し、極上のリフレッシュ効果をもたらします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 毎夜ロビーで開催される迫力の安来節生ライブ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">毎夜ロビーで開催される迫力の安来節生ライブ</h5>
                     <p className="text-stone-600 leading-relaxed">島根の伝統芸能「安来節（どじょうすくい）」の生演奏と踊りを毎晩ロビーで上演。観客も参加できる楽しい演出で、旅の夜を笑顔で締めくくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 選べる色浴衣と細やかな女性向けアメニティ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">選べる色浴衣と細やかな女性向けアメニティ</h5>
                     <p className="text-stone-600 leading-relaxed">数十種類から選べる色浴衣の無料貸出や、こだわりのスキンケアアメニティを用意。女子旅や母娘旅行に嬉しい細やかな気配りが随所に施されています。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            玉造温泉街のパワースポットめぐり＆出雲大社観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">玉造温泉街のパワースポットめぐり＆出雲大社観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 玉作湯神社の「願い石・叶い石」と恋叶い橋
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 玉作湯神社の「願い石・叶い石」と恋叶い橋</h3>
               <p className="text-stone-700 text-sm leading-relaxed">玉造温泉街の奥に鎮座する「玉作湯神社」。社務所で授かる「叶い石」を境内の「願い石」に触れさせて祈願するオリジナルの願掛けが全国から女性参拝者を集めています。宮橋（恋叶い橋）から鳥居を背景に写真を撮ると良縁に恵まれるというジンクスも有名です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 美肌温泉ボトルのテイクアウトと足湯散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 美肌温泉ボトルのテイクアウトと足湯散策</h3>
               <p className="text-stone-700 text-sm leading-relaxed">玉湯川沿いには「湯薬師広場」があり、備え付けのボトル（200円）に湧き出たばかりの新鮮な源泉を詰めて持ち帰ることができます。防腐剤無添加の天然化粧水として自宅でも美肌ケアが楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 出雲大社（いづもおおやしろ）と日御碕灯台
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 出雲大社（いづもおおやしろ）と日御碕灯台</h3>
               <p className="text-stone-700 text-sm leading-relaxed">玉造温泉から車または電車で約1時間。大国主大神を祀る縁結びの聖地・出雲大社へ。神楽殿の大注連縄や本殿参拝の後は、門前の神門通りで出雲そばやぜんざいを味わい、日本一の高さを誇る白亜の「日御碕灯台」へ足を延ばすのが王道ルートです。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              島根県松江市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">島根県松江市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】玉造温泉 佳翠苑 皆美を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】玉造温泉 佳翠苑 皆美を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と玉造温泉 佳翠苑 皆美の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と玉造温泉 佳翠苑 皆美の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

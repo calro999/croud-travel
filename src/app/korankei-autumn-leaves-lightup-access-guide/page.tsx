@@ -184,9 +184,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section className="bg-stone-900/90 border border-red-900/40 rounded-3xl p-6 sm:p-10 space-y-8 shadow-xl">
           <div className="border-l-4 border-red-500 pl-4 space-y-1">
             <span className="text-red-400 text-xs font-bold uppercase tracking-wider">Access & Traffic Guide</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              大渋滞に巻き込まれない！アクセス手段 徹底比較
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">大渋滞に巻き込まれない！アクセス手段 徹底比較</h2>
             <p className="text-xs sm:text-sm text-stone-400">
               ピーク時の国道153号は豊田勘八ICから香嵐渓まで通常40分のところ、2〜3時間以上要することも。自分に合った移動手段を選択しましょう。
             </p>
@@ -229,10 +227,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
 
           {/* 渋滞回避の秘訣 */}
           <div className="bg-gradient-to-r from-red-950/40 via-stone-950 to-stone-900 p-5 rounded-2xl border border-red-800/40 space-y-3">
-            <h4 className="text-sm font-bold text-red-300 flex items-center gap-2">
-              <span>💡</span>
-              <span>車で行く場合の裏技：午前7:30前の現地着、または豊田市駅前宿泊</span>
-            </h4>
+            <h4 className="text-sm font-bold text-red-300 flex items-center gap-2"><span>車で行く場合の裏技：午前7:30前の現地着、または豊田市駅前宿泊</span></h4>
             <p className="text-xs text-stone-300 leading-relaxed">
               自家用車で訪れる場合は、駐車場が満車になる前の<strong>朝7:30までに宮町・川見駐車場等へ入庫する</strong>のが絶対鉄則です。または、前夜に<strong>名鉄豊田市駅前のホテルに宿泊</strong>し、翌朝一番の臨時直行バスに乗車すると、渋滞が本格化する前に現地に到着でき、スムーズに散策を楽しめます。
             </p>
@@ -243,9 +238,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-red-500 pl-4 space-y-1">
             <span className="text-red-400 text-xs font-bold uppercase tracking-wider">Must-See Highlights</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              黄金と深紅の美景！香嵐渓の4大ビュースポット
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">黄金と深紅の美景！香嵐渓の4大ビュースポット</h2>
             <p className="text-xs sm:text-sm text-stone-400">
               昼夜で全く異なる表情を見せる散策路。外せない撮影名所をご紹介します。
             </p>
@@ -258,9 +251,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                 className="bg-stone-900/80 border border-stone-800 hover:border-red-500/50 rounded-2xl p-6 transition duration-300 space-y-3 group shadow-lg"
               >
                 <div className="flex items-center justify-between">
-                  <h3 className="text-lg font-bold font-serif text-white group-hover:text-red-300 transition">
-                    {spot.name}
-                  </h3>
+                  <h3 className="text-lg font-bold font-serif text-white group-hover:text-red-300 transition">{spot.name}</h3>
                   <span className="text-[11px] text-amber-300 bg-red-950/60 border border-red-800/40 px-2 py-0.5 rounded">
                     {spot.role}
                   </span>
@@ -277,9 +268,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section className="bg-stone-900/80 border border-stone-800 rounded-3xl p-6 sm:p-8 space-y-6">
           <div className="space-y-1 border-b border-stone-800 pb-3">
             <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Local Food</span>
-            <h2 className="text-xl sm:text-2xl font-black font-serif text-white">
-              散策のお供に！絶対に味わいたい香嵐渓グルメ3選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black font-serif text-white">散策のお供に！絶対に味わいたい香嵐渓グルメ3選</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
@@ -297,9 +286,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-red-500 pl-4 space-y-1">
             <span className="text-red-400 text-xs font-bold uppercase tracking-wider">Hotels in Toyota City</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              香嵐渓への前泊・後泊に最適！豊田市駅前の人気ホテル
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">香嵐渓への前泊・後泊に最適！豊田市駅前の人気ホテル</h2>
             <p className="text-xs sm:text-sm text-stone-400">
               名鉄豊田市駅前から香嵐渓行きの直行バスが発着。駅前のビジネスホテルに前泊すれば渋滞知らずでアクセス可能です。
             </p>
@@ -347,9 +334,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                       )}
                     </div>
 
-                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-red-300 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-red-300 transition">{hotel.hotelName}</h3>
 
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-stone-400 line-clamp-3 leading-relaxed">
@@ -386,9 +371,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-red-900/40 pb-5">
             <div>
               <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Rakuten Travel Day Trip</span>
-              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">
-                名古屋駅発 香嵐渓直行バスツアー＆愛知観光特集
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">名古屋駅発 香嵐渓直行バスツアー＆愛知観光特集</h2>
             </div>
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2Ftour%2F"
@@ -408,9 +391,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-red-900/40 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                名古屋駅直行！香嵐渓ライトアップ鑑賞ツアー
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">名古屋駅直行！香嵐渓ライトアップ鑑賞ツアー</h3>
               <p className="text-stone-300 leading-relaxed text-xs">
                 夕暮れからライトアップまでゆっくり満喫。昼食付きや小原の四季桜コラボツアーなど多彩なプランが充実。
               </p>
@@ -423,9 +404,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-red-900/40 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🎫</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                楽天トラベル 愛知・東海エリア宿泊クーポン
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">楽天トラベル 愛知・東海エリア宿泊クーポン</h3>
               <p className="text-stone-300 leading-relaxed text-xs">
                 名古屋市内や豊田市内のホテルで使える特別割引クーポン配布中。ポイント還元キャンペーンも併催。
               </p>
@@ -442,9 +421,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               className="p-4 rounded-xl bg-stone-900/80 border border-stone-800 hover:border-red-500/40 transition block group"
             >
               <span className="text-red-400 text-xs font-bold">名古屋発バスツアー</span>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">
-                【名古屋駅発 日帰りバスツアーおすすめ比較】季節の絶景・食べ放題・温泉プラン完全ガイド →
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">【名古屋駅発 日帰りバスツアーおすすめ比較】季節の絶景・食べ放題・温泉プラン完全ガイド →</h3>
             </Link>
 
             <Link
@@ -452,9 +429,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
               className="p-4 rounded-xl bg-stone-900/80 border border-stone-800 hover:border-red-500/40 transition block group"
             >
               <span className="text-red-400 text-xs font-bold">交通・移動比較</span>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">
-                【名古屋〜金沢 高速バスvsしらさぎ・新幹線 徹底比較】料金・時間・乗換ルートまとめ →
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-white mt-1">【名古屋〜金沢 高速バスvsしらさぎ・新幹線 徹底比較】料金・時間・乗換ルートまとめ →</h3>
             </Link>
           </div>
         </nav>
@@ -464,9 +439,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバスの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバスの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -551,9 +524,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「香嵐渓 紅葉もみじまつり2026：4000本の絶景ライトアップ・大渋滞回避アクセス＆名古屋発日帰りバス」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -605,9 +576,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 香嵐渓 紅葉もみじまつり2026で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">香嵐渓 紅葉もみじまつり2026で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

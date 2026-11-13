@@ -262,10 +262,8 @@ export default function NaganoYamadaPage() {
             信州高山村・山田温泉の初冬の魅力
           </div>
           
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">
-            松川渓谷の断崖に湧く名湯と、小布施・北信濃が誇る美食。<br />
-            文人墨客が愛した静寂の山里で過ごす贅沢な冬の休日
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">松川渓谷の断崖に湧く名湯と、小布施・北信濃が誇る美食。<br />
+            文人墨客が愛した静寂の山里で過ごす贅沢な冬の休日</h2>
 
           <div className="text-stone-600 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
@@ -314,9 +312,7 @@ export default function NaganoYamadaPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の長野・高山村山田温泉で泊まるべき名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の長野・高山村山田温泉で泊まるべき名宿5選</h2>
             <p className="text-stone-500 text-sm mt-1">
               楽天トラベルで卓越した評価を誇る、渓谷絶景と信州の美食を極めた宿
             </p>
@@ -357,9 +353,7 @@ export default function NaganoYamadaPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                         {hotel.story}
@@ -430,35 +424,27 @@ export default function NaganoYamadaPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の信州高山美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の長野・高山村で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の長野・高山村で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰「信州プレミアム牛肉」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰「信州プレミアム牛肉」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 長野県独自の厳格なオレイン酸含有基準をクリアした最高品質の黒毛和牛「信州プレミアム牛肉」。きめ細やかなサシの甘みと芳醇な香りが口の中でとろけ、石焼きステーキやすき焼きで極上の肉の旨味を堪能できます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                名物「小布施栗おこわ」と栗菓子
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                名物「小布施栗おこわ」と栗菓子</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 隣接する小布施町で古くから愛されてきた栗文化。秋に収穫された大粒の栗をふっくら炊き上げた「小布施栗おこわ」は、ほのかな塩気と栗本来の濃厚な甘みが絶妙なバランスで、初冬の旅路を温かく満たしてくれます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                世界が認める「信州高山ワイン」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                世界が認める「信州高山ワイン」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 日照時間が長く水はけの良い扇状地が広がる高山村は、日本屈指のワイン用ブドウ産地。国内外のコンクールで高い評価を受けるシャルドネやピノ・ノワールは、信州サーモンや信州牛会席と息を呑むマリアージュを奏でます。
               </p>
@@ -472,17 +458,13 @@ export default function NaganoYamadaPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長野・高山村山田温泉＆松川渓谷 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長野・高山村山田温泉＆松川渓谷 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：小布施の栗散策から松川渓谷へ・断崖雪見露天と信州牛の饗宴
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                長野電鉄で小布施の栗おこわランチ、渓谷の絶景露天と高山村ワイン
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">長野電鉄で小布施の栗おこわランチ、渓谷の絶景露天と高山村ワイン</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 北陸新幹線長野駅から長野電鉄の特急で小布施駅へ。風情ある蔵造りの街並みや北斎館を散策し、老舗で名物「小布施栗おこわ」と栗菓子の昼食を満喫。午後は高山村へ向かい、松川渓谷にかかる高井橋から白銀に染まる渓谷美を眺めて山田温泉の宿へチェックイン。百数十段の階段を下りて辿り着く野天風呂で、雪をかぶった断崖と清流の瀬音に包まれながら湯浴み。夜は信州プレミアム牛の石焼きと地元高山村産ワインのマリアージュに酔いしれます。
               </p>
@@ -492,9 +474,7 @@ export default function NaganoYamadaPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：渓流の雪見朝風呂から山田温泉大湯・国宝善光寺参拝へ
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                朝の滑らか名湯から、木造建築の大湯立ち寄り・信州蕎麦ランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">朝の滑らか名湯から、木造建築の大湯立ち寄り・信州蕎麦ランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 川風が心地よい朝、渓流露天風呂で身体を目覚めさせた後、信州米と温かい郷土汁の朝食を味わってチェックアウト。山田温泉のシンボルである総木造の共同浴場「大湯」に立ち寄り、江戸情緒漂う湯殿で滑らかな源泉を再堪能。信州高山ワイナリー直売所でワインをお土産に選んだ後は、長野市内へ移動して門前町の老舗で打ち立ての手打ち信州蕎麦を昼食に味わい、初冬の澄み切った空気に包まれる国宝・善光寺を参拝して新幹線で帰路へ。
               </p>
@@ -509,16 +489,12 @@ export default function NaganoYamadaPage() {
             初冬の山田温泉・松川渓谷 旅の心得とアクセスガイド
           </div>
 
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            渓谷の雪景色と高原ドライブを安全に満喫するヒント
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">渓谷の雪景色と高原ドライブを安全に満喫するヒント</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                新幹線長野駅＋長電特急のスマートアクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                新幹線長野駅＋長電特急のスマートアクセス</h3>
               <p>
                 東京駅から北陸新幹線で長野駅まで約1時間20分。長野電鉄の特急電車に乗り換えて須坂駅まで約25分です。
               </p>
@@ -528,10 +504,8 @@ export default function NaganoYamadaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-amber-700" />
-                マイカー利用時の山道・積雪対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-amber-700" />
+                マイカー利用時の山道・積雪対策</h3>
               <p>
                 上信越道須坂長野東ICまたは小布施スマートICより車で約25〜40分。高山村中心部から松川渓谷上流部へ進むにつれて標高が高くなり、道路状況が変化します。
               </p>
@@ -542,10 +516,8 @@ export default function NaganoYamadaPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              渓谷雪見露天風呂の入浴マナーと湯冷め対策
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              渓谷雪見露天風呂の入浴マナーと湯冷め対策</h3>
             <p>
               渓谷の野天風呂は外気との寒暖差が非常に激しいため、浴室に入る前の丁寧なかけ湯が欠かせません。
             </p>
@@ -561,16 +533,12 @@ export default function NaganoYamadaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の長野・山田温泉＆松川渓谷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の長野・山田温泉＆松川渓谷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -582,10 +550,8 @@ export default function NaganoYamadaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい信州・長野の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい信州・長野の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀のアルプス絶景と名湯、極上の信州牛会席を満喫する厳選旅ガイド
             </p>
@@ -597,9 +563,7 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・渋温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                渋温泉の九湯めぐりと石畳の雪景色
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">渋温泉の九湯めぐりと石畳の雪景色</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 厄除け巡浴祈願と情緒あふれる木造宿、スノーモンキー地獄谷野猿公苑を巡る冬旅。
               </p>
@@ -610,9 +574,7 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・別所温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                信州の鎌倉・別所温泉の古刹と信州牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">信州の鎌倉・別所温泉の古刹と信州牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 北向観音の門前町に湧く美肌の湯と雪景色、極上信州牛すき焼きを味わう歴史ロマン旅。
               </p>
@@ -623,9 +585,7 @@ export default function NaganoYamadaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">長野・浅間温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                国宝松本城の白銀雪景色と浅間温泉名宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">国宝松本城の白銀雪景色と浅間温泉名宿</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 松本藩主ゆかりの奥座敷と冬の城下町散策、信州サーモンと手打ち蕎麦を堪能。
               </p>

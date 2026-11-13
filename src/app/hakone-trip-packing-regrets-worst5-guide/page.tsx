@@ -259,9 +259,7 @@ export default function HakoneTripPackingRegretsPage() {
         {/* セクション1: 後悔ワースト5 */}
         <section aria-labelledby="regrets-heading">
           <div className="border-l-4 border-amber-600 pl-4 mb-8">
-            <h2 id="regrets-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              箱根旅行で初心者がハマる落とし穴【後悔ワースト5】
-            </h2>
+            <h2 id="regrets-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">箱根旅行で初心者がハマる落とし穴【後悔ワースト5】</h2>
             <p className="text-slate-600 text-sm mt-1">
               事前の対策とちょっとした時間配分の工夫で、これらすべてのトラブルは100%回避できます。
             </p>
@@ -278,9 +276,7 @@ export default function HakoneTripPackingRegretsPage() {
                     <span className="bg-amber-300 text-amber-950 font-black text-sm px-3 py-1 rounded-full uppercase tracking-wider">
                       Regret #{regret.rank}
                     </span>
-                    <h3 className="text-lg sm:text-xl font-black text-white">
-                      {regret.title}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-black text-white">{regret.title}</h3>
                   </div>
                 </div>
 
@@ -296,17 +292,13 @@ export default function HakoneTripPackingRegretsPage() {
 
                   <div className="grid sm:grid-cols-2 gap-4">
                     <div className="bg-rose-50/50 border border-rose-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-rose-700 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>❌</span> やりがちな失敗パターン
-                      </h4>
+                      <h4 className="text-xs font-black text-rose-700 uppercase tracking-wider flex items-center gap-1.5 mb-2">やりがちな失敗パターン</h4>
                       <p className="text-xs sm:text-sm text-slate-700 leading-relaxed font-medium">
                         {regret.mistake}
                       </p>
                     </div>
                     <div className="bg-amber-50/70 border border-amber-200 rounded-2xl p-4">
-                      <h4 className="text-xs font-black text-amber-900 uppercase tracking-wider flex items-center gap-1.5 mb-2">
-                        <span>💡</span> スマートな解決知恵袋
-                      </h4>
+                      <h4 className="text-xs font-black text-amber-900 uppercase tracking-wider flex items-center gap-1.5 mb-2">スマートな解決知恵袋</h4>
                       <ul className="text-xs sm:text-sm text-slate-700 space-y-1.5 list-disc list-inside leading-relaxed">
                         {regret.solution.map((sol, idx) => (
                           <li key={idx}>{sol}</li>
@@ -335,9 +327,7 @@ export default function HakoneTripPackingRegretsPage() {
         <section aria-labelledby="packing-heading" className="bg-white rounded-3xl border border-amber-200/80 p-6 sm:p-10 shadow-sm">
           <div className="border-l-4 border-amber-600 pl-4 mb-8">
             <div className="text-xs font-bold uppercase text-amber-700 tracking-wider">Smart Packing</div>
-            <h2 id="packing-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              箱根旅行を120%快適にするパッキングチェックリスト
-            </h2>
+            <h2 id="packing-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">箱根旅行を120%快適にするパッキングチェックリスト</h2>
             <p className="text-slate-600 text-sm mt-1">
               山間部ならではの寒暖差や移動の多さに合わせた厳選持ち物リスト。
             </p>
@@ -349,10 +339,7 @@ export default function HakoneTripPackingRegretsPage() {
                 key={idx}
                 className="bg-amber-50/40 border border-amber-200/60 rounded-2xl p-5"
               >
-                <h3 className="font-black text-base text-amber-950 pb-3 mb-4 border-b border-amber-200/80 flex items-center gap-2">
-                  <span className="text-lg">🎒</span>
-                  {sec.title}
-                </h3>
+                <h3 className="font-black text-base text-amber-950 pb-3 mb-4 border-b border-amber-200/80 flex items-center gap-2">{sec.title}</h3>
                 <ul className="space-y-4">
                   {sec.items.map((item, itemIdx) => (
                     <li key={itemIdx} className="flex items-start gap-2.5 text-xs sm:text-sm">
@@ -377,9 +364,7 @@ export default function HakoneTripPackingRegretsPage() {
         <section aria-labelledby="hotels-heading">
           <div className="border-l-4 border-amber-600 pl-4 mb-4">
             <div className="text-xs font-bold uppercase text-amber-700 tracking-wider">Recommended Onsen Ryokan</div>
-            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              夕食難民知らず＆濁り湯三昧！箱根湯本・強羅のおすすめ温泉旅館
-            </h2>
+            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">夕食難民知らず＆濁り湯三昧！箱根湯本・強羅のおすすめ温泉旅館</h2>
             <p className="text-slate-600 text-sm mt-1">
               夕朝食付きプランでゆったり贅沢な会席を堪能。駅近アクセス＆自家源泉自慢の名宿です。
             </p>
@@ -425,9 +410,7 @@ export default function HakoneTripPackingRegretsPage() {
                     <div className="text-[11px] font-bold text-amber-700 mb-1">
                       {hotel.nearestStation || hotel.address1 || "箱根湯本・強羅エリア"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "箱根の豊かな自然に包まれた良質な名湯と、旬の味覚を詰め込んだ和会席が魅力の人気宿。"}
                     </p>
@@ -460,9 +443,7 @@ export default function HakoneTripPackingRegretsPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 border border-stone-800">
           <div className="max-w-3xl">
             <span className="text-amber-400 font-black text-xs uppercase tracking-wider">Smart Travel Strategy</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">
-              混雑・渋滞に一切巻き込まれない「反時計回り（逆ルート）」モデル行程
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1 mb-4">混雑・渋滞に一切巻き込まれない「反時計回り（逆ルート）」モデル行程</h3>
             <div className="space-y-4 text-xs sm:text-sm text-slate-300">
               <div className="flex gap-4 border-b border-stone-800 pb-3">
                 <span className="font-black text-amber-400 shrink-0 w-24">1日目 09:30</span>
@@ -505,9 +486,7 @@ export default function HakoneTripPackingRegretsPage() {
 
         {/* よくある質問 */}
         <section className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-8">
-          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span>❓</span> 箱根旅行のよくある質問
-          </h3>
+          <h3 className="text-xl font-black text-slate-900 mb-6 flex items-center gap-2">箱根旅行のよくある質問</h3>
           <div className="space-y-4 text-xs sm:text-sm">
             <div className="border-b border-slate-100 pb-3">
               <h4 className="font-bold text-slate-900 mb-1">Q. 車と電車（フリーパス）、どちらで行くのがおすすめですか？</h4>
@@ -529,9 +508,7 @@ export default function HakoneTripPackingRegretsPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と大涌谷ロープウェイ強風運休＆夕方カフェ難民！渋滞回避の知恵袋の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

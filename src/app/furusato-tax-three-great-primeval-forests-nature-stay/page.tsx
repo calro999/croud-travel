@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            神々が宿る深き森の静寂と清冽な源流のせせらぎ。地球の原初の記憶に包まれるウェルネス旅
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">神々が宿る深き森の静寂と清冽な源流のせせらぎ。地球の原初の記憶に包まれるウェルネス旅</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             人の手がほとんど加わらず、数千年から数万年にわたり独自の生態系を紡いできた「日本三大原生林（三大世界自然遺産）」――海と森が連鎖しヒグマやエゾシカ、オオワシが共生する北海道の「知床原生林」、花崗岩の巨岩と苔むす森に数千年の樹齢を誇る屋久杉が聳える鹿児島の「屋久島・白谷雲水峡」、そして東アジア最大級の原生的なブナ林が広がりコバルトブルーの十二湖・青池を抱く青森・秋田の「白神山地」。森の奥深くへと足を踏み入れれば、フィトンチッドに満ちた澄んだ空気と生命の鼓動が五感を研ぎ澄ましてくれます。トレッキングの後は、オホーツク海の海鮮バイキングや屋久島トビウオ、日本海の夕日露天風呂を味わう至高の旅を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  北海道斜里町ふるさと納税：知床五湖の原生林とオホーツク海の絶景パノラマ・知床第一ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">北海道斜里町ふるさと納税：知床五湖の原生林とオホーツク海の絶景パノラマ・知床第一ホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   世界自然遺産・知床の玄関口ウトロ温泉。オホーツク海に沈む夕日を一望する「知床第一ホテル」で、名物マルスコイの80種天然海鮮バイキングと、美肌の天然温泉を満喫する感動の北の大地リゾートです。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ウトロ温泉　知床第一ホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ウトロ温泉　知床第一ホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>北海道斜里郡斜里町ウトロ香川 306</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  鹿児島県屋久島町ふるさと納税：苔むすもののけの森「白谷雲水峡」とモッチョム岳を仰ぐ屋久島いわさきホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">鹿児島県屋久島町ふるさと納税：苔むすもののけの森「白谷雲水峡」とモッチョム岳を仰ぐ屋久島いわさきホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   東洋のガラパゴスと称される太古の島。白谷雲水峡やヤクスギランドを散策した後は、雄大なモッチョム岳を背に建つ「屋久島いわさきホテル」で、屋久杉の香る館内と首折れサバ・飛魚会席に酔いしれます。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      屋久島いわさきホテル　＜屋久島＞
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">屋久島いわさきホテル　＜屋久島＞</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>鹿児島県熊毛郡屋久島町尾之間1306</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  青森県深浦町ふるさと納税：世界最大級のブナ林「白神山地・十二湖青池」と波打ち際の名湯・黄金崎不老ふ死温泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">青森県深浦町ふるさと納税：世界最大級のブナ林「白神山地・十二湖青池」と波打ち際の名湯・黄金崎不老ふ死温泉</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   神秘のコバルトブルーに輝く青池のブナ原生林。マイナスイオンを浴びて森林浴を楽しんだ後は、日本海の波打ち際に沸く赤褐色の露天風呂「黄金崎不老ふ死温泉」で、海に沈む夕日と深浦マグロ・鮑を味わいます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      黄金崎不老ふ死温泉
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">黄金崎不老ふ死温泉</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>青森県西津軽郡深浦町舮作下清滝15</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   最上川・富士川・球磨川の清流。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   清津峡・黒部峡谷・瀞峡の大自然。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   龍泉洞・龍河洞・秋芳洞の奇跡。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ウトロ温泉 知床第一ホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ウトロ温泉 知床第一ホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とウトロ温泉 知床第一ホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とウトロ温泉 知床第一ホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三大原生林＆世界遺産ネイチャーリゾート×ふるさと納税ガイド」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

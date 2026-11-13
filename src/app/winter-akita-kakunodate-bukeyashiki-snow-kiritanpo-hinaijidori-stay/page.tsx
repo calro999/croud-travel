@@ -248,9 +248,7 @@ export default function AkitaKakunodatePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              黒板塀に降り積もる純白の雪と、新米の香ばしいたんぽが温める東北の冬
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">黒板塀に降り積もる純白の雪と、新米の香ばしいたんぽが温める東北の冬</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               みちのくの小京都が魅せる水墨画の世界と、日本一深いカルデラ湖の神秘
             </p>
@@ -309,9 +307,7 @@ export default function AkitaKakunodatePage() {
         <section className="bg-gradient-to-r from-slate-900 to-sky-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-sky-400 pl-4">
             <span className="text-sky-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
@@ -360,16 +356,12 @@ export default function AkitaKakunodatePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき角館・田沢湖の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき角館・田沢湖の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-sky-600" /> 角館武家屋敷通り（内町）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-sky-600" /> 角館武家屋敷通り（内町）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 重要伝統的建造物群保存地区。青柳家や石黒家など江戸時代からの名門武家屋敷が立ち並びます。冬は黒板塀の上に純白の雪が降り積もり、凛とした静寂に包まれます。邸内では囲炉裏の火が灯され、伝統工芸の樺細工実演や歴史資料の展示を鑑賞できます。
               </p>
@@ -379,9 +371,7 @@ export default function AkitaKakunodatePage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-sky-600" /> 田沢湖（たつこ像＆御座石神社）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-sky-600" /> 田沢湖（たつこ像＆御座石神社）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 水深423.4mを誇る日本最深のカルデラ湖。永遠の美しさを求めて龍になった伝説の乙女「たつこ像」が黄金に輝き、北岸の「御座石神社」では雪の湖面に朱塗りの鳥居が鮮やかに映えます。冬晴れの澄んだ湖水は言葉を失う瑠璃色を湛えます。
               </p>
@@ -391,9 +381,7 @@ export default function AkitaKakunodatePage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-sky-600" /> 田沢湖高原温泉郷＆雪見風呂
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-sky-600" /> 田沢湖高原温泉郷＆雪見風呂</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 秋田駒ヶ岳の中腹に広がる名湯地。標高約600mの高台から白銀の田沢湖を見晴らす露天風呂や、乳白色の濃厚な硫黄泉が注ぐ湯舟が揃います。頭上に雪が舞う露天風呂で身体を芯から温める体験は、冬の東北旅ならではの至福です。
               </p>
@@ -406,9 +394,7 @@ export default function AkitaKakunodatePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の角館・田沢湖を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の角館・田沢湖を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-slate-700">
@@ -431,9 +417,7 @@ export default function AkitaKakunodatePage() {
         <section className="space-y-8">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              冬の角館・田沢湖を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の角館・田沢湖を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               武家屋敷至近の歴史的蔵ホテルから田沢湖一望の高原リゾート・濁り湯の秘湯まで
             </p>
@@ -467,9 +451,7 @@ export default function AkitaKakunodatePage() {
                 <div className="md:w-7/12 p-6 sm:p-8 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       <span className="text-sm sm:text-base font-bold text-sky-800">
                         {hotel.price}
                       </span>
@@ -528,9 +510,7 @@ export default function AkitaKakunodatePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の角館・田沢湖旅行 よくある質問とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の角館・田沢湖旅行 よくある質問とアドバイス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               現地を熟知した専門視点から冬の旅をサポートする5つの疑問に回答
             </p>
@@ -539,10 +519,8 @@ export default function AkitaKakunodatePage() {
           <div className="space-y-6">
             {faqList.map((faq, idx) => (
               <div key={idx} className="border-b border-slate-100 pb-5 last:border-b-0 last:pb-0 space-y-2">
-                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5">
-                  <span className="w-6 h-6 rounded-full bg-sky-100 text-sky-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
-                  {faq.q}
-                </h3>
+                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5"><span className="w-6 h-6 rounded-full bg-sky-100 text-sky-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
+                  {faq.q}</h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-8">
                   {faq.a}
                 </p>
@@ -555,9 +533,7 @@ export default function AkitaKakunodatePage() {
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-10 border border-slate-200 space-y-6">
           <div className="border-l-4 border-slate-600 pl-4">
             <span className="text-slate-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Guides</span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              東北・北日本の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">東北・北日本の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

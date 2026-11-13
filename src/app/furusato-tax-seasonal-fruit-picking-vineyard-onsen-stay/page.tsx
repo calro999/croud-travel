@@ -108,9 +108,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  スーパーでは絶対に出会えない！樹上で完熟を迎えた「朝採り果実」の圧倒的な濃縮感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">スーパーでは絶対に出会えない！樹上で完熟を迎えた「朝採り果実」の圧倒的な濃縮感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 一般の流通に乗るフルーツは日持ちを考慮して完熟前に収穫されますが、産地の果樹園で食べるフルーツは樹上で限界まで糖度を高めた「本物の完熟品」。指先で触れるだけで果汁があふれ出す桃や、パリッと皮が弾けて甘い果汁が広がる大粒シャインマスカット、果肉の芯まで真っ赤に染まった完熟いちごの芳醇な香りは、産地に足を運んだ人だけが味わえる至高の特権です。
@@ -123,9 +121,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日本ワイン発祥の地を巡る！ワイナリー併設ショップや試飲ツアーと美肌温泉の共演
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日本ワイン発祥の地を巡る！ワイナリー併設ショップや試飲ツアーと美肌温泉の共演</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 果樹園のすぐ隣には、その土地の葡萄だけで仕込むクラフトワイナリーが点在。山梨・勝沼や笛吹では、樽出し生ワインの試飲や歴史ある地下セラーの見学が楽しめます。宿に戻れば、アルカリ性単純温泉や塩化物泉などの美肌の湯でリフレッシュ。夕食時にはソムリエが厳選した地元産ワインと旬食材のマリアージュに酔いしれる、大人のための豊かな時間が流れます。
@@ -138,9 +134,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  ファミリー・カップル・女子旅に大人気！もぎたて収穫体験とお土産直売所の楽しみ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">ファミリー・カップル・女子旅に大人気！もぎたて収穫体験とお土産直売所の楽しみ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 果樹園での収穫体験は、大人から子どもまで誰もが笑顔になれる人気アクティビティ。自分でもぎ取った最高の1果をその場で味わう感動は格別です。農園直営のカフェでいただくフルーツパフェやジェラート、直売所で手に入れる限定ジャムやドライフルーツなど、旅の思い出とともに持ち帰るお土産選びも旅の大きな醍醐味となります。
@@ -183,9 +177,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山梨県笛吹市・桃と葡萄の郷・石和温泉の純和風名湯旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    石和温泉　みなもと旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">石和温泉　みなもと旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     山梨県屈指の果樹園地帯・笛吹市石和温泉に位置し、緑豊かな日本庭園と手作りの郷土懐石が評判の温もりある名旅館。石和温泉は日本有数のブドウ・桃の産地に囲まれており、シーズン中はいちご狩りや桃狩り、シャインマスカット狩りの観光農園へ車ですぐの好立地。アルカリ性単純温泉のやわらかな天然温泉を引く大浴場や露天風呂で旅の疲れを癒やした後は、山梨名物の甲州牛やほうとう鍋、地元ワイナリーの銘醸甲州ワインを心ゆくまでお楽しみいただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊豆の国市・完熟いちご狩り街道と古奈の名湯
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    伊豆長岡温泉　招福の宿　ゑびすや（えびすや）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">伊豆長岡温泉　招福の宿　ゑびすや（えびすや）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     静岡県屈指のいちごの産地として知られる伊豆の国市に佇み、平安時代から続く名湯「古奈温泉」の源泉かけ流しを誇る老舗料理旅館。周辺には章姫や紅ほっぺを時間無制限で楽しめる人気のいちご狩り施設が多数集結しています。館内にはヒノキの香り漂う貸切風呂や趣ある大浴場が揃い、肌当たり滑らかな美肌の湯を堪能。夕食には駿河湾から直送される鮮魚のお造りや季節の会席料理が美しく並び、心温まる伊豆の休日を満喫できます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     福島県福島市・フルーツラインの桃やりんごと摺上川の渓谷美
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    飯坂温泉　摺上亭　大鳥
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">飯坂温泉　摺上亭　大鳥</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     吾妻連峰の麓に約14kmにわたって広がる果樹園ロード「フルーツライン」の拠点となる飯坂温泉の名旅館。摺上川の清流を望む広大な敷地に、自家源泉から引く開放感あふれる大露天風呂や多彩なサウナ・内湯を完備しています。初夏のさくらんぼ、夏の桃、秋の梨、冬のりんごと、一年を通じて果樹王国ふくしまの恵みを満喫可能。料理人が腕を振るう福島牛や旬の山海の幸を盛り込んだ会席料理は絶品で、極上の癒やしと美食の時間を届けてくれます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】石和温泉 みなもと旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】石和温泉 みなもと旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoSeasonalFruitPickingStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と石和温泉 みなもと旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と石和温泉 みなもと旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

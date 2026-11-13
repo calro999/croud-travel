@@ -298,10 +298,8 @@ export default function IbusukiOnsenWinterPage() {
             <SunMedium className="w-4 h-4 text-amber-400" />
             <span>11月・12月限定 初冬でも暖かい南国リゾート 世界唯一の天然砂むしと黒豚美食</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】<br className="hidden sm:inline" />
-            開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月指宿温泉の南国初冬リゾートと天然砂むし温泉】<br className="hidden sm:inline" />
+            開聞岳望む錦江湾露天・極上かごしま黒豚しゃぶしゃぶ＆薩摩美味会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             寒さを忘れる南国薩摩の温暖な潮風。世界でここだけの「天然砂むし温泉」で心身を解き放ち、開聞岳の美景露天風呂と甘み際立つ極上「かごしま黒豚」しゃぶしゃぶを味わう癒やしの冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Southern Tropical Winter Resort</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                本州の冬を抜け出し、温暖な南国薩摩へ。世界唯一の「砂むし温泉」がもたらす奇跡の癒やし
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">本州の冬を抜け出し、温暖な南国薩摩へ。世界唯一の「砂むし温泉」がもたらす奇跡の癒やし</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Sand Bath & Satsuma Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                保温と美肌の「塩化物泉」と、至高の美味「かごしま黒豚＆薩摩地鶏」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">保温と美肌の「塩化物泉」と、至高の美味「かごしま黒豚＆薩摩地鶏」</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,37 +407,29 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の指宿温泉が旅人を魅了してやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の指宿温泉が旅人を魅了してやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="space-y-4">
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">1</span>
-                <span>本州の冬の寒さを忘れる日中気温18〜20℃の快適な南国バカンス</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">1</span>
+                <span>本州の冬の寒さを忘れる日中気温18〜20℃の快適な南国バカンス</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 寒さが厳しくなる11月下旬〜12月にこそ、指宿の温暖な気候のありがたみを実感できます。ダウンジャケットを脱ぎ、穏やかな錦江湾の潮風を感じながらヤシ並木や海岸線を散策。12月下旬には早くも黄色い菜の花が沿道に咲き誇り、日本で最も早い春の息吹を感じながらリゾート気分を満喫できます。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">2</span>
-                <span>波の音を聞きながら汗を流す世界唯一の「天然砂むし温泉」</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">2</span>
+                <span>波の音を聞きながら汗を流す世界唯一の「天然砂むし温泉」</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 海岸の地熱で温められた砂にすっぽりと包まれる体験は、指宿でしか味わえない唯一無二の贅沢です。約55℃の砂の心地よい重量感が全身の血行を促し、10〜15分で通常の入浴の3倍以上もの汗が噴き出します。砂から上がった後の身体の軽さと肌のツルツル感は、日々のストレスや疲れを一掃してくれます。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">3</span>
-                <span>甘み際立つ極上「かごしま黒豚」しゃぶしゃぶと本場芋焼酎</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-900 text-white flex items-center justify-center text-xs">3</span>
+                <span>甘み際立つ極上「かごしま黒豚」しゃぶしゃぶと本場芋焼酎</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 サツマイモをたっぷり食べて育った最高級の「かごしま黒豚」は、脂身の甘さとさっぱりとした後味が絶品覚醒。昆布出汁や蕎麦つゆ仕立てでいただく黒豚しゃぶしゃぶ鍋は、冬の指宿の夜を最高に彩ります。さらに、地元酒蔵の芋焼酎をお湯で割って立ち上る芳醇な香りを愉しむのが薩摩の粋な夜の過ごし方です。
               </p>
@@ -455,9 +441,7 @@ export default function IbusukiOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】指宿温泉の南国情緒と砂むしを極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】指宿温泉の南国情緒と砂むしを極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、専用砂むし温泉の有無、錦江湾と開聞岳の眺望、かごしま黒豚会席の料理内容、宿泊者レビュー評価で選び抜いた5軒。
             </p>
@@ -494,11 +478,9 @@ export default function IbusukiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-amber-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -558,9 +540,7 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の指宿を満喫する1泊2日砂むし＆薩摩美食モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の指宿を満喫する1泊2日砂むし＆薩摩美食モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -614,26 +594,20 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・アクセス情報
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・アクセス情報</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                <span>南国の気候と服装ガイド</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                <span>南国の気候と服装ガイド</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 指宿は本州と比べて格段に暖かく、11月の日中は20℃を超える快適な陽気が続きます。12月でも日中は15℃〜18℃前後で過ごしやすく、過剰な重装備は不要です。ただし朝晩や海沿いは潮風で10℃近くまで冷え込むことがあるため、脱ぎ着しやすいカーディガンやジャケット、ストールがあると便利です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-amber-700" />
-                <span>快適なアクセスと観光特急</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-amber-700" />
+                <span>快適なアクセスと観光特急</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 鹿児島中央駅からは、JRの観光特急「指宿のたまて箱号」の利用が旅情満点でおすすめです。車内からは桜島と錦江湾の絶景をパノラマで楽しめます。鹿児島空港からは直行リムジンバスで約95分。冬でも道路の積雪や路面凍結の心配はほぼ皆無なため、レンタカーでの開聞岳・長崎鼻ドライブも快適そのものです。
               </p>
@@ -649,18 +623,14 @@ export default function IbusukiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の指宿温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の指宿温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -673,9 +643,7 @@ export default function IbusukiOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Kyushu & Resort Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい南国九州の冬名湯＆全国の温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい南国九州の冬名湯＆全国の温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               霧島温泉や天草の海景色、別府・由布院など、冬でも魅力あふれる九州の名湯ガイドを多数公開中。
             </p>

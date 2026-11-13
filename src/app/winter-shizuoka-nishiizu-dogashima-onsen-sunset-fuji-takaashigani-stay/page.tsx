@@ -248,12 +248,10 @@ export default function WinterShizuokaDogashimaPage() {
             11月・12月 夕陽百選＆駿河湾深海グルメ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月静岡・西伊豆堂ヶ島温泉】夕陽百選＆駿河湾越しの雪化粧富士
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物戸田高足ガニ＆伊勢海老・地金目鯛会席を堪能する絶景オーシャンビュー名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、西伊豆・堂ヶ島温泉は空気が澄み渡り、駿河湾の彼方に白雪を戴く雄大な富士山と、日本屈指の美しさを誇る「夕陽百選」の黄金色の落日が重なる奇跡のベストシーズンを迎えます。奇岩が織りなす「伊豆の松島」堂ヶ島天窓洞や三四郎島の絶景、海辺に湧く肌触りなめらかな硫酸塩温泉。そして初冬に旬の最盛期を迎える駿河湾深海の名物「戸田の高足ガニ（タカアシガニ）」や伊勢海老、脂の乗った地金目鯛の姿煮を味わう絶景オーシャンビュー名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterShizuokaDogashimaPage() {
             <Landmark className="w-4 h-4" />
             西伊豆の初冬の魅力
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            茜色に染まる黄金の海と雪化粧富士。初冬の西伊豆堂ヶ島温泉が旅人を惹きつける理由
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">茜色に染まる黄金の海と雪化粧富士。初冬の西伊豆堂ヶ島温泉が旅人を惹きつける理由</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               伊豆半島の西海岸、リアス海岸が創り出す無数の島々と海食崖が織りなす「堂ヶ島（どうがしま）」は、古くから「伊豆の松島」と称えられてきた風光明媚な景勝地です。春や夏の賑わいが落ち着きを見せる11月から12月にかけて、この地は1年で最もドラマチックな美しさに包まれます。晩秋から初冬にかけて大陸から吹き渡る冷涼な季節風によって大気中の水蒸気が払われ、駿河湾の水平線はどこまでもクリアに見渡せるようになります。
@@ -308,9 +304,7 @@ export default function WinterShizuokaDogashimaPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の西伊豆堂ヶ島温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の西伊豆堂ヶ島温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               冬の訪れとともに輝きを増す、堂ヶ島だけの贅沢な体験
             </p>
@@ -321,9 +315,7 @@ export default function WinterShizuokaDogashimaPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Sun className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                夕陽百選の黄金落日と雪化粧富士
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">夕陽百選の黄金落日と雪化粧富士</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 澄み切った初冬の空に広がる茜色のサンセット。黄金崎や恋人岬、堂ヶ島遊歩道から望む海越しの白雪の富士山は息を呑む絶景です。
               </p>
@@ -333,9 +325,7 @@ export default function WinterShizuokaDogashimaPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                戸田高足ガニ＆地金目鯛の冬美味
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">戸田高足ガニ＆地金目鯛の冬美味</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 駿河湾深海の名物「戸田の高足ガニ」の蒸しガニやカニしゃぶ、脂が乗った地金目鯛の秘伝姿煮、伊勢海老の活造りを地酒とともに満喫。
               </p>
@@ -345,9 +335,7 @@ export default function WinterShizuokaDogashimaPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                海と一体になる波打ち際露天風呂
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">海と一体になる波打ち際露天風呂</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 カルシウム・ナトリウム硫酸塩泉のなめらかな美肌湯。冷たい海風を感じながら温かい湯船に浸かり、潮騒を聴く至福の湯浴み。
               </p>
@@ -361,9 +349,7 @@ export default function WinterShizuokaDogashimaPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-teal-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              西伊豆堂ヶ島温泉の絶景オーシャンビュー名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">西伊豆堂ヶ島温泉の絶景オーシャンビュー名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベルの最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,9 +397,7 @@ export default function WinterShizuokaDogashimaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -487,9 +471,7 @@ export default function WinterShizuokaDogashimaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の西伊豆堂ヶ島を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の西伊豆堂ヶ島を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -517,34 +499,26 @@ export default function WinterShizuokaDogashimaPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              西伊豆・堂ヶ島の初冬グルメ完全ガイド！深海甲殻類と地金目鯛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">西伊豆・堂ヶ島の初冬グルメ完全ガイド！深海甲殻類と地金目鯛</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                戸田の高足ガニ（タカアシガニ）
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                戸田の高足ガニ（タカアシガニ）</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 駿河湾の深海500mから水揚げされる世界最大の蟹。11月〜12月は身入りが良く、ふっくらとした肉厚の脚肉と濃厚なカニミソが格別。丸ごと豪快に蒸し上げた「蒸しガニ」やカニしゃぶで至福の旨味を味わえます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                極上地金目鯛の秘伝甘辛姿煮
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                極上地金目鯛の秘伝甘辛姿煮</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 初冬の冷たい海水で身が引き締まり、脂乗りが年間最高潮を迎える「地金目鯛」。醤油・みりん・地酒でこってりと炊き上げた煮付けは、ふっくらとした白身に濃厚なタレが絡み、ご飯もお酒も止まらない西伊豆の王道名物です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                伝統の潮かつお＆伊豆生わさび
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                伝統の潮かつお＆伊豆生わさび</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 西伊豆町田子に伝わる伝統保存食「潮かつお（塩鰹）」を刻んでふりかけた名物「しおかつおうどん」は香ばしい出汁の風味が絶品。天城山麓の清流が育んだ本生わさびとともにいただく新鮮な地魚刺身も欠かせません。
               </p>
@@ -558,15 +532,11 @@ export default function WinterShizuokaDogashimaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の西伊豆堂ヶ島温泉 交通アクセス＆散策のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の西伊豆堂ヶ島温泉 交通アクセス＆散策のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                アクセス方法と峠道の注意点
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                アクセス方法と峠道の注意点</h3>
               <p>
                 東京方面からは東名高速・新東名高速の長泉沼津ICより伊豆縦貫道・修善寺道路を経由して国道136号線を南下。所要時間は約2時間半〜3時間です。沿岸部は降雪が極めて稀ですが、内陸の天城峠や船原峠などの山間部を経由する場合は、12月中旬以降の夜間や早朝に路面凍結の可能性があります。冬用タイヤの装着を推奨します。
               </p>
@@ -576,10 +546,8 @@ export default function WinterShizuokaDogashimaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                気候と防寒対策・夕暮れ散策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                気候と防寒対策・夕暮れ散策</h3>
               <p>
                 西伊豆は黒潮の恩恵を受けるため、日中の最高気温は11月で15〜18℃、12月でも12〜14℃と比較的過ごしやすい陽気です。ただし、海沿い特有の西風（季節風）が吹くと体感温度がぐっと下がるため、風を通さない防風ダウンやウィンドブレーカー、手袋、ストールが重宝します。
               </p>
@@ -596,16 +564,12 @@ export default function WinterShizuokaDogashimaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の西伊豆堂ヶ島温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の西伊豆堂ヶ島温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -617,10 +581,8 @@ export default function WinterShizuokaDogashimaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい全国の冬温泉・旬の味覚特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい全国の冬温泉・旬の味覚特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の味覚や雪見露天、イルミネーションを満喫する全国各地の厳選旅ガイド
             </p>
@@ -632,9 +594,7 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">東伊豆・熱川</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                熱川温泉の湯けむり櫓と水平線日の出露天＆地金目鯛姿煮宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">熱川温泉の湯けむり櫓と水平線日の出露天＆地金目鯛姿煮宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 100度の高温泉櫓が立ち上る温泉情緒と相模灘オーシャンビューを満喫。
               </p>
@@ -645,9 +605,7 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">南伊豆・下田</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                下田温泉の水平線オーシャンビュー露天と極上金目鯛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">下田温泉の水平線オーシャンビュー露天と極上金目鯛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 爪木崎の水仙まつりと黒船来航の歴史ロマン、極上金目鯛を味わう。
               </p>
@@ -658,9 +616,7 @@ export default function WinterShizuokaDogashimaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">神奈川・箱根</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                箱根温泉の白雪富士ビュー露天風呂と伝統会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">箱根温泉の白雪富士ビュー露天風呂と伝統会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 澄んだ初冬の芦ノ湖と雪化粧富士を望む天下の名湯リゾートステイ。
               </p>

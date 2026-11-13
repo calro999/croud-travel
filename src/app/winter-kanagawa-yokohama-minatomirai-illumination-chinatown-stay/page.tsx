@@ -266,10 +266,8 @@ export default function YokohamaMinatomiraiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Port City Chronicle</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-rose-500 shrink-0" />
-              冬の横浜を彩る光の奇跡と歴史ある港町の美食文化
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-rose-500 shrink-0" />
+              冬の横浜を彩る光の奇跡と歴史ある港町の美食文化</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -328,9 +326,7 @@ export default function YokohamaMinatomiraiWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Prime Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              横浜・みなとみらい＆山下町で冬を愉しむ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">横浜・みなとみらい＆山下町で冬を愉しむ名宿5選</h2>
             <p className="text-slate-600 text-xs sm:text-sm">
               楽天トラベルAPIより最新の空室・料金・口コミデータをリアルタイム取得。冬の特別な記念日や観光ステイにふさわしい極上の5軒を厳選しました。
             </p>
@@ -352,12 +348,10 @@ export default function YokohamaMinatomiraiWinterPage() {
                           {h.access}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-rose-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-rose-700 font-medium">{h.special}</p>
                     </div>
 
@@ -438,10 +432,8 @@ export default function YokohamaMinatomiraiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Holiday Plan</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-rose-500 shrink-0" />
-              1泊2日！冬の横浜クリスマスマーケット＆イルミネーション・中華街 王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-rose-500 shrink-0" />
+              1泊2日！冬の横浜クリスマスマーケット＆イルミネーション・中華街 王道モデルコース</h2>
           </div>
 
           <div className="relative border-l-2 border-rose-200 ml-4 pl-6 space-y-8 my-4">
@@ -514,18 +506,14 @@ export default function YokohamaMinatomiraiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-rose-500 shrink-0" />
-              冬の横浜観光！海風対策・クリスマスマーケット予約のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-rose-500 shrink-0" />
+              冬の横浜観光！海風対策・クリスマスマーケット予約のコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Wind className="w-5 h-5 text-rose-600" />
-                臨海部の強風対策と服装のポイント
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Wind className="w-5 h-5 text-rose-600" />
+                臨海部の強風対策と服装のポイント</h3>
               <p className="leading-relaxed">
                 みなとみらいや赤レンガパーク、大さん橋は遮るもののない海に面しているため、冬場は東京湾からの冷たいビル風・海風が吹き込みます。気温が10度前後であっても、体感温度は5度以下に冷え込みます。
               </p>
@@ -535,10 +523,8 @@ export default function YokohamaMinatomiraiWinterPage() {
             </div>
 
             <div className="space-y-3">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Calendar className="w-5 h-5 text-rose-600" />
-                クリスマスマーケット＆中華街の混雑回避術
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Calendar className="w-5 h-5 text-rose-600" />
+                クリスマスマーケット＆中華街の混雑回避術</h3>
               <p className="leading-relaxed">
                 赤レンガ倉庫のクリスマスマーケットは、12月の週末や12月23日〜25日の夕方17時〜19時が混雑のピークとなります。ゆっくり雰囲気を楽しむなら、点灯直前の16時前に入場するか、平日の夕方早い時間帯を狙うのがベストです。
               </p>
@@ -548,10 +534,8 @@ export default function YokohamaMinatomiraiWinterPage() {
             </div>
 
             <div className="space-y-3 md:col-span-2 bg-slate-50 p-4 rounded-xl border border-slate-150">
-              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-rose-600" />
-                冬夜景の絶景撮影スポットと水上バス「シーバス」の活用
-              </h3>
+              <h3 className="text-base font-bold text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-rose-600" />
+                冬夜景の絶景撮影スポットと水上バス「シーバス」の活用</h3>
               <p className="leading-relaxed">
                 横浜みなとみらいの冬夜景を美しく撮影するなら、「万国橋」からの定番構図（運河の水面に大観覧車とランドマークタワーの光が鏡のように反射するスポット）が屈指の人気を誇ります。また、横浜駅東口（ベイクォーター）から赤レンガ倉庫や山下公園を結ぶ水上バス「シーバス」の夕暮れ便・夜便を利用すれば、遮るもののない海上から360度のイルミネーションパノラマをクルーズ気分で鑑賞でき、移動手段としても風情満点です。
               </p>
@@ -563,18 +547,14 @@ export default function YokohamaMinatomiraiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-rose-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の横浜・みなとみらい観光 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の横浜・みなとみらい観光 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-rose-100 text-rose-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-rose-100 text-rose-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <div className="text-xs sm:text-sm text-slate-600 pl-6 leading-relaxed">
                   {item.a}
                 </div>
@@ -585,10 +565,8 @@ export default function YokohamaMinatomiraiWinterPage() {
 
         {/* Section 6: 関連内部リンク */}
         <section className="bg-gradient-to-br from-slate-950 to-indigo-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-400" />
-            あわせて読みたい！冬の人気特集記事
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-400" />
+            あわせて読みたい！冬の人気特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-300">
             当サイトでは、全国各地の冬の絶景・夜景・イルミネーション・美食を徹底特集しています。冬の旅行計画にお役立てください。
           </p>

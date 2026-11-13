@@ -280,10 +280,8 @@ export default function ShigaOgotoWinterFeature() {
             <Mountain className="w-4 h-4" />
             11月・12月 初冬の湖畔美景＆極上和牛特集｜滋賀・おごと温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月滋賀・おごと温泉】<br className="hidden sm:inline" />
-            初冬びわ湖景観と開湯1200年美肌霊泉・特選近江牛＆真鴨鍋の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月滋賀・おごと温泉】<br className="hidden sm:inline" />
+            初冬びわ湖景観と開湯1200年美肌霊泉・特選近江牛＆真鴨鍋の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             京都駅からJRでわずか20分。比叡山の初冠雪を仰ぎ、茜色に染まる琵琶湖を望む極上の湖畔リトリート。伝教大師最澄ゆかりのpH9.0美肌霊泉と、霜降り近江牛＆冬限定真鴨鍋の饗宴。
           </p>
@@ -301,9 +299,7 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Lake Biwa Winter Serenity & Sacred Healing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                比叡山の初雪と朝霧に煙る琵琶湖｜千二百年の祈りが息づく湖畔の美肌温泉郷
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">比叡山の初雪と朝霧に煙る琵琶湖｜千二百年の祈りが息づく湖畔の美肌温泉郷</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Alkaline Pure Spring Mechanism</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「天然の化粧水に浸かる」おごと温泉の高アルカリ美肌メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「天然の化粧水に浸かる」おごと温泉の高アルカリ美肌メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Omi Beef & Lake Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の美食饗宴｜400年の伝統「近江牛」と冬の風物詩「天然真鴨鍋」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の美食饗宴｜400年の伝統「近江牛」と冬の風物詩「天然真鴨鍋」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Hiei Heritage & Lakeside Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬のおごと・大津観光モデルコース｜比叡山延暦寺・日吉大社から湖畔温泉へ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬のおごと・大津観光モデルコース｜比叡山延暦寺・日吉大社から湖畔温泉へ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -418,9 +408,7 @@ export default function ShigaOgotoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-700 uppercase tracking-widest">Featured Lakeside Ryokan & Hot Springs</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              琵琶湖の絶景と美肌泉に抱かれる｜おごと温泉の厳選旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">琵琶湖の絶景と美肌泉に抱かれる｜おごと温泉の厳選旅館5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、近江牛会席や琵琶湖パノラマ露天風呂に秀でた本物の名宿だけを厳選。
             </p>
@@ -451,9 +439,7 @@ export default function ShigaOgotoWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -530,26 +516,20 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のおごと冬旅｜気候と服装・京都からのアクセスと送迎活用法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のおごと冬旅｜気候と服装・京都からのアクセスと送迎活用法</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-800" />
-                湖畔の冷え込みと比叡山参拝の防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-800" />
+                湖畔の冷え込みと比叡山参拝の防寒対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 琵琶湖畔は夕方から夜にかけて湖風が吹き込み、体感温度がぐっと下がります。特に比叡山山頂は平地よりも4〜5℃気温が低いため、11月下旬以降はしっかりとしたダウンジャケットや手袋、ニット帽の着用をおすすめします。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-emerald-800" />
-                JR京都駅から20分の直通快適アクセスと無料送迎
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-emerald-800" />
+                JR京都駅から20分の直通快適アクセスと無料送迎</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 京都観光で歩き疲れたあとでも、JR湖西線に乗ればわずか20分でおごと温泉駅へ到着します。各旅館の無料送迎バスを利用すれば、重い荷物を持っていてもスムーズにチェックイン可能。冬道の運転リスクを完全に避けられる安心の鉄道旅です。
               </p>
@@ -565,18 +545,14 @@ export default function ShigaOgotoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                滋賀・おごと温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">滋賀・おごと温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -589,9 +565,7 @@ export default function ShigaOgotoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Winter Features & Kansai Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい近畿・関西の冬名湯＆極上鍋・ブランド和牛特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい近畿・関西の冬名湯＆極上鍋・ブランド和牛特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の京都嵐山、丹波湯の花、有馬温泉、飛騨高山をめぐる人気の厳選特集もぜひご覧ください。
             </p>

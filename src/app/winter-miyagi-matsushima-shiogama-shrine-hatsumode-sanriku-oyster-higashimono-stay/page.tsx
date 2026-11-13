@@ -303,10 +303,8 @@ export default function MiyagiMatsushimaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-cyan-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の宮城・松島＆塩竈旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-cyan-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の宮城・松島＆塩竈旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-cyan-50/60 p-4 rounded-xl border border-cyan-100">
               <span className="font-bold text-cyan-950 block mb-1">① 鹽竈神社202段表坂と新春祈祷</span>
@@ -344,9 +342,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">AREA ATMOSPHERE & GEO OVERVIEW</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                千年の歌枕・松島湾の雪化粧と、奥州一ノ宮が放つ新春の神気
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">千年の歌枕・松島湾の雪化粧と、奥州一ノ宮が放つ新春の神気</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function MiyagiMatsushimaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-cyan-50/70 border border-cyan-100">
-              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5">
-                <Footprints className="w-4 h-4 text-cyan-700" /> 陸奥総鎮守 鹽竈神社 表坂202段
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5"><Footprints className="w-4 h-4 text-cyan-700" /> 陸奥総鎮守 鹽竈神社 表坂202段</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 千二百年の歴史を誇る奥州一ノ宮。表坂の石段を登り詰め迎える新春初詣は東北屈指の格式と威厳。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-cyan-50/70 border border-cyan-100">
-              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-cyan-700" /> 国宝 瑞巌寺と五大堂すかし橋
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-cyan-700" /> 国宝 瑞巌寺と五大堂すかし橋</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 伊達政宗公の美意識が宿る桃山美術の傑作。雪の杉並木回廊と海に浮かぶ五大堂の冬景色。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-cyan-50/70 border border-cyan-100">
-              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-cyan-700" /> 松島温泉「太古天泉」美肌の湯
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm mb-1 flex items-center gap-1.5"><Waves className="w-4 h-4 text-cyan-700" /> 松島温泉「太古天泉」美肌の湯</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 地下1,500mから湧出するアルカリ性単純温泉。とろりとした湯触りで冬の冷えと乾燥肌を優しく癒やします。
               </p>
@@ -398,9 +388,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">WINTER LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                冬に身が太る濃厚「三陸松島かき」と奇跡の鮪「塩竈ひがしもの」、仙台牛の饗宴
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">冬に身が太る濃厚「三陸松島かき」と奇跡の鮪「塩竈ひがしもの」、仙台牛の饗宴</h2>
             </div>
           </div>
 
@@ -418,9 +406,7 @@ export default function MiyagiMatsushimaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-700" /> 松島牡蠣の冬の贅沢
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-700" /> 松島牡蠣の冬の贅沢</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>蒸し焼き牡蠣：</strong>鉄板の蒸気で旨味を閉じ込めたプリプリの身。レモン汁でシンプルに。</li>
                 <li>・<strong>仙台味噌牡蠣鍋：</strong>コク深い仙台赤味噌と牡蠣のエキスが根菜に染み渡る熱々鍋。</li>
@@ -428,9 +414,7 @@ export default function MiyagiMatsushimaWinterPage() {
               </ul>
             </div>
             <div className="p-5 rounded-xl bg-amber-50/70 border border-amber-100">
-              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-amber-700" /> 塩竈ひがしもの＆仙台牛の調和
-              </h3>
+              <h3 className="font-bold text-amber-950 text-sm mb-2 flex items-center gap-1.5"><Wine className="w-4 h-4 text-amber-700" /> 塩竈ひがしもの＆仙台牛の調和</h3>
               <ul className="text-xs text-slate-600 space-y-1.5 leading-relaxed">
                 <li>・<strong>三陸塩竈ひがしもの握り：</strong>ねっとりとした極上中トロと赤身の食べ比べ寿司。</li>
                 <li>・<strong>仙台牛A5ステーキ：</strong>香ばしく焼き上げた最高級霜降りとワサビ醤油の絶品コンビ。</li>
@@ -444,9 +428,7 @@ export default function MiyagiMatsushimaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">RECOMMENDED ACCOMMODATIONS</span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              松島雪景色＆鹽竈神社初詣・三陸牡蠣を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">松島雪景色＆鹽竈神社初詣・三陸牡蠣を満喫する厳選名宿5選</h2>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
               楽天トラベルAPIから最新の空室状況・評価を取得。水上庭園のオールインクルーシブから福浦橋望む絶景宿、駅近温泉ホテルまで網羅。
             </p>
@@ -486,9 +468,7 @@ export default function MiyagiMatsushimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 mb-2 font-journal-serif">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0" />
@@ -547,19 +527,15 @@ export default function MiyagiMatsushimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                11・12・1月を満喫する「鹽竈神社初詣と松島雪景色・三陸かき」1泊2日黄金コース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">11・12・1月を満喫する「鹽竈神社初詣と松島雪景色・三陸かき」1泊2日黄金コース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-cyan-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                仙台駅から本塩釜へ、鹽竈神社新春初詣と塩竈魚市場ランチ、松島温泉へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                仙台駅から本塩釜へ、鹽竈神社新春初詣と塩竈魚市場ランチ、松島温泉へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>10:00 仙台駅よりJR仙石線にて「本塩釜駅」へ到着</strong><br />
                 電車で約30分。駅前からタクシーまたは徒歩で鹽竈神社表参道へ向かう。
@@ -580,10 +556,8 @@ export default function MiyagiMatsushimaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                松島湾冬の日の出、国宝瑞巌寺参拝と松島遊覧船クルーズ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                松島湾冬の日の出、国宝瑞巌寺参拝と松島遊覧船クルーズ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>07:00 部屋や露天風呂から松島湾の神々しい日の出を鑑賞</strong><br />
                 島々の合間から昇る冬の朝日に照らされ、黄金色に輝く海面と雪の小島を目に焼き付ける。
@@ -612,19 +586,15 @@ export default function MiyagiMatsushimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                宮城・松島＆塩竈 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">宮城・松島＆塩竈 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-cyan-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -641,9 +611,7 @@ export default function MiyagiMatsushimaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！東北＆日本三景の厳選「冬の初詣＆絶景・美食特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！東北＆日本三景の厳選「冬の初詣＆絶景・美食特集」</h2>
             </div>
           </div>
 

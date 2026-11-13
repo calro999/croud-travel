@@ -254,9 +254,7 @@ export default function HighwayBusArticlePage() {
         <div className="space-y-8">
           {itinerary.map((dayPlan: any, dIdx: number) => (
             <div key={dIdx} className="space-y-4">
-              <h3 className="text-base md:text-lg font-black text-slate-900 border-l-4 border-cyan-600 pl-3 py-0.5">
-                {dayPlan.day}
-              </h3>
+              <h3 className="text-base md:text-lg font-black text-slate-900 border-l-4 border-cyan-600 pl-3 py-0.5">{dayPlan.day}</h3>
               <div className="relative pl-6 space-y-6 before:absolute before:left-2 before:top-3 before:bottom-3 before:w-0.5 before:bg-slate-200">
                 {dayPlan.steps.map((step: any, sIdx: number) => (
                   <div key={sIdx} className="relative space-y-1">
@@ -265,9 +263,7 @@ export default function HighwayBusArticlePage() {
                       <span className="text-xs font-black text-cyan-800 bg-cyan-50 px-2 py-0.5 rounded border border-cyan-200">
                         {step.time}
                       </span>
-                      <h4 className="text-sm font-bold text-slate-900">
-                        {step.title}
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-900">{step.title}</h4>
                     </div>
                     <p className="text-xs text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                       {step.desc}
@@ -286,9 +282,7 @@ export default function HighwayBusArticlePage() {
           <div className="flex items-center gap-2 text-amber-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🏨 RECOMMENDED HOTELS & RYOKAN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            名古屋駅太閤通口徒歩5分！大浴場＆サウナ付き人気ホテル
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">名古屋駅太閤通口徒歩5分！大浴場＆サウナ付き人気ホテル</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">バス停や駅からのアクセスが抜群で、浮いた交通費でワンランク上の滞在が叶う人気宿泊施設です。
           </p>
         </div>
@@ -327,9 +321,7 @@ export default function HighwayBusArticlePage() {
                         <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                       </div>
                     )}
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                         {hotel.hotelSpecial}
@@ -355,9 +347,7 @@ export default function HighwayBusArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「東京〜名古屋：新幹線 vs 高速バス徹底比較！片道2,000円〜行く名古屋めし爆食1泊2日モデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -409,9 +399,7 @@ export default function HighwayBusArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「東京〜名古屋」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「東京〜名古屋」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

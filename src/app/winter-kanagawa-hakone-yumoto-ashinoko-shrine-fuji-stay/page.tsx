@@ -281,9 +281,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Panoramic Vista</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬晴れの紺碧芦ノ湖に映える白雪富士と、開運を運ぶ箱根三社の祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬晴れの紺碧芦ノ湖に映える白雪富士と、開運を運ぶ箱根三社の祈り</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               古の東海道を旅した人々を癒やした名湯と、関東総鎮守が誇る千二百年の格式
             </p>
@@ -345,9 +343,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="bg-gradient-to-r from-slate-900 to-sky-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-sky-400 pl-4">
             <span className="text-sky-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月｜箱根の月別見どころと旅のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月｜箱根の月別見どころと旅のポイント</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               気候の変化と標高差を見極めて計画する、冬の箱根パーフェクトカレンダー
             </p>
@@ -396,9 +392,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-sky-600 pl-4">
             <span className="text-sky-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の箱根を満喫する1泊2日 王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の箱根を満喫する1泊2日 王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               ロマンスカーと公共交通を駆使して冬道の心配なく絶景と名湯を巡る黄金旅程
             </p>
@@ -406,18 +400,14 @@ export default function KanagawaHakoneWinterFeaturePage() {
 
           <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-sky-800">
-                【1日目】新宿・東京からロマンスカーで箱根湯本へ → 芦ノ湖富士山クルーズ → 絶景名宿チェックイン
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-sky-800">【1日目】新宿・東京からロマンスカーで箱根湯本へ → 芦ノ湖富士山クルーズ → 絶景名宿チェックイン</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝、小田急ロマンスカーで箱根湯本駅へ到着。駅前で名物の湯もちや出来立て温泉まんじゅうを食べ歩き後、箱根登山バスで元箱根港へ。芦ノ湖海賊船の甲板から澄み渡る白雪富士と朱塗りの平和の鳥居を眺める感動クルーズ。夕方、湖畔のクラシックホテルや湯本の源泉宿へチェックイン。相模湾の寒魚や国産牛会席に舌鼓を打ち、満天の星空を仰ぐ露天風呂で温まります。
               </p>
             </div>
 
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-sky-800">
-                【2日目】箱根神社早朝参拝 → 九頭龍神社・箱根元宮 → 湯本商店街でお土産探し
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-sky-800">【2日目】箱根神社早朝参拝 → 九頭龍神社・箱根元宮 → 湯本商店街でお土産探し</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝一番、観光客で賑わう前の静寂に包まれた箱根神社へ参拝。平和の鳥居で記念撮影を行い、清らかな心で新春の開運を祈願。時間があれば駒ヶ岳ロープウェイで山頂へ上がり、360度の大パノラマと箱根元宮を参拝。午後は箱根湯本へ戻り、名物のお豆腐ランチや老舗干物店、寄木細工の工房を巡ってお土産を購入。夕方のロマンスカーで快適に帰路へ。
               </p>
@@ -429,9 +419,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="space-y-8">
           <div>
             <span className="text-sky-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の箱根湯本＆芦ノ湖を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の箱根湯本＆芦ノ湖を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
               楽天トラベル公式APIを通じてレビュー評価、泉質、立地、冬の特別プランを徹底検証した極上の宿泊施設です。
             </p>
@@ -477,11 +465,9 @@ export default function KanagawaHakoneWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-sky-700 transition">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-sky-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-500 mt-1 italic">
                       {hotel.special}
@@ -536,18 +522,14 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-200/80 space-y-6">
           <div className="border-b border-slate-150 pb-4">
             <span className="text-sky-600 font-bold text-xs uppercase tracking-wider">FREQUENTLY ASKED QUESTIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の箱根旅行 よくある質問と実用アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の箱根旅行 よくある質問と実用アドバイス</h2>
           </div>
 
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -560,9 +542,7 @@ export default function KanagawaHakoneWinterFeaturePage() {
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <Compass className="w-5 h-5 text-sky-700" />
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              首都圏・東日本の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">首都圏・東日本の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

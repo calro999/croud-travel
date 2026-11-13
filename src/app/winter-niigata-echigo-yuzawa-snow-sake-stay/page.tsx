@@ -266,10 +266,8 @@ export default function YuzawaWinterPage() {
             <Snowflake className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 雪国名湯・新米コシヒカリと地酒巡り特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月越後湯沢温泉の雪国情緒と地酒巡り】<br className="hidden sm:inline" />
-            川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月越後湯沢温泉の雪国情緒と地酒巡り】<br className="hidden sm:inline" />
+            川端康成ゆかりの名湯・南魚沼産コシヒカリ新米と越後もち豚会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             「国境の長いトンネルを抜けると雪国であった」。東京から新幹線で最速約70分。谷川連峰を越えた先に広がる純白の白銀世界。日本一の南魚沼産コシヒカリ新米の甘み、ぽんしゅ館の地酒呑み比べ、柔らかな湯が芯まで温める至福の冬旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function YuzawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Literary Romance & Winter Harvest</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                文豪が愛した雪国の温もり。新米と新酒、純白の銀世界が広がる越後の特等席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">文豪が愛した雪国の温もり。新米と新酒、純白の銀世界が広がる越後の特等席</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function YuzawaWinterPage() {
           
           <div className="bg-indigo-50/70 rounded-2xl p-5 border border-indigo-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-indigo-800" />
-                <span>越後湯沢駅直結「ぽんしゅ館」の利き酒番所</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Wine className="w-5 h-5 text-indigo-800" />
+                <span>越後湯沢駅直結「ぽんしゅ館」の利き酒番所</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 コイン5枚（500円）で新潟全蔵元90蔵・100種類以上の地酒自販機から試飲できる大人気スポット。電車の待ち時間に気軽に立ち寄れます。
               </p>
@@ -365,9 +359,7 @@ export default function YuzawaWinterPage() {
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest bg-indigo-50 px-3.5 py-1.5 rounded-full border border-indigo-200">
               Selected 5 Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              【11・12月】越後湯沢で泊まりたい極上名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">【11・12月】越後湯沢で泊まりたい極上名旅館5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
               駅チカの便利な老舗宿から、冠雪の谷川連峰を見晴らす展望露天、源泉かけ流し自慢の宿まで、越後湯沢の冬を味わい尽くす名宿をご紹介。
             </p>
@@ -412,9 +404,7 @@ export default function YuzawaWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-indigo-800 transition">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group-hover:text-indigo-800 transition">{hotel.name}</h3>
 
                     <p className="text-stone-700 leading-relaxed text-sm">
                       {hotel.story}
@@ -480,9 +470,7 @@ export default function YuzawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の越後湯沢 雪国文学＆新米地酒満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の越後湯沢 雪国文学＆新米地酒満喫モデルコース</h2>
             </div>
           </div>
 
@@ -563,48 +551,38 @@ export default function YuzawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                越後湯沢温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">越後湯沢温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-indigo-800 font-extrabold">Q.</span>
-                <span>越後湯沢の11月・12月の雪の降り始めと積雪量は？新幹線の運行状況は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                <span>越後湯沢の11月・12月の雪の降り始めと積雪量は？新幹線の運行状況は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 越後湯沢では、例年11月中旬〜下旬に谷川連峰や周囲の山々に初冠雪を観測し、12月上旬〜中旬にかけて温泉街でも本格的な降雪と積雪が始まります。12月下旬の年末には街中でも50cm〜1m以上の積雪となる豪雪地帯です。しかし上越新幹線は日本屈指の強力なスプリンクラー消雪設備と高架構造を備えているため、豪雪時でもほとんど遅延や運休がなく極めて安定して運行されます。お車の場合は関越自動車道で冬用タイヤ規制やチェーン規制が頻繁にかかるため、スタッドレスタイヤの装着が必須となります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-indigo-800 font-extrabold">Q.</span>
-                <span>越後湯沢駅の「ぽんしゅ館」とはどんな施設ですか？楽しみ方は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                <span>越後湯沢駅の「ぽんしゅ館」とはどんな施設ですか？楽しみ方は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 越後湯沢駅構内（改札外のがんぎ通り）にある新潟の食と酒のテーマパークです。名物の『利き酒番所』では、受付で500円を支払うとお猪口と専用メダル5枚が渡され、壁一面に並ぶ新潟県内全90蔵以上・100種類以上の地酒自販機から好きな銘柄を選んでテイスティングできます。塩や味噌の無料おつまみコーナーもあり味比べが楽しめます。さらに日本酒を贅沢にブレンドした名物『酒風呂 湯の沢』や、南魚沼産コシヒカリ1合を使った巨大な『爆弾おにぎり』も大人気です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-indigo-800 font-extrabold">Q.</span>
-                <span>南魚沼産コシヒカリの「新米」はいつから宿で食べられますか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                <span>南魚沼産コシヒカリの「新米」はいつから宿で食べられますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 南魚沼産コシヒカリの収穫は例年9月下旬〜10月上旬に行われ、10月中旬以降から各旅館の夕食・朝食に新米として登場します。11月から12月にかけては、ツヤ、粘り、甘みが最も際立つ新米のまさにゴールデンシーズンです。ふっくら炊き上げた土鍋ご飯や釜飯で味わう新米の美味しさは感動的で、お米本来の深い旨味を堪能できます。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-indigo-800 font-extrabold">Q.</span>
-                <span>越後湯沢で味わうべき冬の地元名物グルメは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                <span>越後湯沢で味わうべき冬の地元名物グルメは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 日本一のブランド米『南魚沼産コシヒカリ新米』、きめ細やかで脂の甘い新潟銘柄豚『越後もち豚』のしゃぶしゃぶや角煮、布海苔（つなぎの海藻）を使った喉越しの良い『へぎそば』、日本海の冬の王様『のどぐろ』の塩焼き、新潟の郷土汁『のっぺ汁』や『から汁』が代表的です。各旅館ではこれらを組み合わせた贅沢な会席料理が提供されます。
               </p>
@@ -616,9 +594,7 @@ export default function YuzawaWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-indigo-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆甲信越・北陸名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆甲信越・北陸名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -627,9 +603,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">信州の白銀名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【野沢温泉】極上パウダースノーと十三外湯めぐり・信州牛郷土会席</h3>
             </Link>
 
             <Link 
@@ -637,9 +611,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">東北の米沢牛名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【小野川温泉】かまくら村と極上米沢牛すき焼き・美肌の硫黄泉宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【小野川温泉】かまくら村と極上米沢牛すき焼き・美肌の硫黄泉宿</h3>
             </Link>
 
             <Link 
@@ -647,9 +619,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">関越沿線の名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【伊香保温泉】365段の石段街と黄金の湯・上州牛会席を味わう名旅館</h3>
             </Link>
 
             <Link 
@@ -657,9 +627,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">会津の初雪名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【会津東山温泉】雪化粧の湯川渓谷露天と会津地鶏・極上馬刺し会席の宿</h3>
             </Link>
 
             <Link 
@@ -667,9 +635,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">甲州の新酒ワイン名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【石和温泉】山梨ヌーボー解禁と美肌湯・甲州牛ステーキ＆ほうとう宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【石和温泉】山梨ヌーボー解禁と美肌湯・甲州牛ステーキ＆ほうとう宿</h3>
             </Link>
 
             <Link 
@@ -677,9 +643,7 @@ export default function YuzawaWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-indigo-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-indigo-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">
-                【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-indigo-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-niigata-echigo-yuzawa-snow-sake-stay" />

@@ -248,12 +248,10 @@ export default function WinterAomoriShimofuroPage() {
             11月・12月 津軽海峡冬景色と名物風間浦あんこう・大間マグロ特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月青森・下風呂温泉】津軽海峡冬景色と風間浦あんこう
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月青森・下風呂温泉】津軽海峡冬景色と風間浦あんこう
             <span className="block text-sky-300 text-lg sm:text-2xl mt-3 font-normal">
               本州最北の白濁硫黄泉・極重大間マグロと海峡の漁火を望む名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、本州最北端・下北半島の津軽海峡沿いに位置する風間浦村の「下風呂温泉（しもふろおんせん）」は、海峡を渡る寒風と初雪が舞う冬の旅情に包まれます。文豪・井上靖が名作『海峡』の執筆にあたり滞在したこの地は、室町時代から五百年以上の歴史を誇る秘湯。白濁した強い硫黄の香りを放つ「大湯」「新湯」など複数の源泉が湧き、対岸の北海道・恵山岬や海峡を照らすイカ釣り漁船の漁火を望む雪見風呂は圧巻です。さらに初冬の下風呂温泉を語る上で欠かせないのが、全国で唯一、生きたまま水揚げされる幻の極上魚「風間浦鮟鱇（かざまうらあんこう）」。鮮度抜群だからこそ味わえる透明なあんこうの刺身や濃厚な肝和え、熱々のあんこう鍋、そして近隣の大間港から届く「大間マグロ」。最果ての海峡温泉で心身を解き放つ至極の名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterAomoriShimofuroPage() {
             <Waves className="w-4 h-4" />
             11月・12月の下風呂温泉の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            荒れ狂う津軽海峡と立ち上る白濁の湯煙・最果ての文学と美食が交差する地
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">荒れ狂う津軽海峡と立ち上る白濁の湯煙・最果ての文学と美食が交差する地</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               本州の最北端、斧の形をした下北半島の背骨を走る国道279号「はまなすライン」を北上し、荒波が寄せる海岸線に差し掛かると、潮の香りに混じって強い硫黄の匂いが鼻先をくすぐります。ここが室町時代からの開湯伝説を持つ「下風呂温泉」です。かつてニシン漁やイカ漁の漁師たちを温め、同志社大学を創設した新島襄や、小説家・井上靖など数多くの文化人を惹きつけてきました。井上靖は小説『海峡』の中で「ああ、海峡の匂いだ。下風呂の湯の匂いだ」と書き残しており、五百年変わらぬ温泉と海の調和が今も息づいています。
@@ -315,9 +311,7 @@ export default function WinterAomoriShimofuroPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              青森・下北半島下風呂温泉 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">青森・下北半島下風呂温泉 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               津軽海峡オーシャンビュー、風間浦鮟鱇と大間マグロ会席、白濁源泉掛け流しを備えた名宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterAomoriShimofuroPage() {
                         <span className="text-xs font-bold text-sky-800 bg-sky-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-sky-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterAomoriShimofuroPage() {
             <Utensils className="w-4 h-4 text-sky-300" />
             初冬の味覚手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の下北半島で味わう幻の味覚と海の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の下北半島で味わう幻の味覚と海の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-sky-400" />
-                生きたまま揚がる「風間浦鮟鱇」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-sky-400" />
+                生きたまま揚がる「風間浦鮟鱇」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 津軽海峡の激流で育つ風間浦村のアンコウは、延縄漁で活魚のまま水揚げされる唯一無二のブランド魚。透き通るような白身の刺身はフグにも匹敵する歯ごたえと甘みがあり、肝を溶いた熱々のあんこう鍋は冬の至高の味覚です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-sky-400" />
-                黒いダイヤ「大間産天然本マグロ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-sky-400" />
+                黒いダイヤ「大間産天然本マグロ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 下風呂温泉から目と鼻の先にある大間港。初冬の津軽海峡で一本釣りされる本マグロは脂の乗りが最高潮に達します。酸味と深いコクが際立つ赤身と、舌の温度で溶ける大トロの握りは、旅の満足感を格段に引き上げます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Wine className="w-4 h-4 text-sky-400" />
-                最北の地酒「関乃井」と郷土の味
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Wine className="w-4 h-4 text-sky-400" />
+                最北の地酒「関乃井」と郷土の味</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 本州最北の酒蔵・関乃井酒造が醸すキレのある辛口清酒。海鮮料理の繊細な旨味を邪魔せず、あんこう鍋の濃厚な味噌とアンキモのコクを鮮やかに引き立てます。地元の家庭で愛されるホタテ貝焼き味噌との相性も抜群です。
               </p>
@@ -466,15 +450,11 @@ export default function WinterAomoriShimofuroPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の下風呂温泉 交通アクセス＆冬道・海風対策アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の下風呂温泉 交通アクセス＆冬道・海風対策アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-sky-700" />
-                新幹線＆大湊線・路線バス利用のコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-sky-700" />
+                新幹線＆大湊線・路線バス利用のコツ</h3>
               <p>
                 下北半島は距離が長いため、東北新幹線で八戸駅へ出て、青い森鉄道とJR大湊線で下北駅へアクセスし、そこから下北交通の路線バス（佐井線 約70分）を利用するのが最も確実で安全なルートです。
               </p>
@@ -484,10 +464,8 @@ export default function WinterAomoriShimofuroPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-sky-700" />
-                防風対策と硫黄泉の湯浴みマナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-sky-700" />
+                防風対策と硫黄泉の湯浴みマナー</h3>
               <p>
                 津軽海峡沿いは気温以上に風速が強く体感温度が著しく下がります。風を通さないウインドブレーカーやダウンジャケット、手袋、ニット帽は必携です。
               </p>
@@ -504,16 +482,12 @@ export default function WinterAomoriShimofuroPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の青森・下北半島下風呂温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の青森・下北半島下風呂温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-sky-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-sky-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterAomoriShimofuroPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-slate-950 to-sky-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-sky-300" />
-              あわせて読みたい青森・北東北の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-sky-300" />
+              あわせて読みたい青森・北東北の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-sky-200">
               白銀の絶景と極上の郷土鍋・海の幸を堪能する北東北各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・浅虫温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                浅虫温泉の陸奥湾雪景色と本マグロ・ホタテ会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">浅虫温泉の陸奥湾雪景色と本マグロ・ホタテ会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 青森の奥座敷・浅虫温泉で味わう陸奥湾の海の幸と歴史ある名湯。
               </p>
@@ -553,9 +523,7 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・酸ヶ湯温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                八甲田・酸ヶ湯温泉の千人風呂と豪雪雪見
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">八甲田・酸ヶ湯温泉の千人風呂と豪雪雪見</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 総ヒバ造りの名物千人風呂と圧倒的な積雪量を誇る酸性硫黄泉の真髄。
               </p>
@@ -566,9 +534,7 @@ export default function WinterAomoriShimofuroPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-sky-300 bg-sky-400/20 px-2 py-0.5 rounded-full inline-block">青森・奥入瀬渓流</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">
-                奥入瀬渓流の氷瀑ライトアップと八甲田名湯
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-sky-200 transition line-clamp-2">奥入瀬渓流の氷瀑ライトアップと八甲田名湯</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 凍りつく滝「氷瀑」の幻想的な雪景色と渓流リゾートの冬ステイ。
               </p>

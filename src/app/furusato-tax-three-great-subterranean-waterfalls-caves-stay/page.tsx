@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            暗闇の奥から響く地鳴りのような瀑布の轟音。地球の胎内を旅するウォーターアドベンチャー
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">暗闇の奥から響く地鳴りのような瀑布の轟音。地球の胎内を旅するウォーターアドベンチャー</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             気の遠くなるような歳月をかけて地下水が石灰岩を穿ち、洞窟の内部にダイナミックな滝を出現させた「日本三大地底滝鍾乳洞」――高さ240mにおよぶ高梁川の絶壁内部に全長1,200mの空間が広がり落差50mの地底滝が白煙を上げる岡山の「井倉洞」、三千万年もの歳月をかけて地下水が育んだ天井高29mの巨大ホール「滝根御殿」と石柱が林立する福島の「あぶくま洞」、そして東京都内にありながら白衣観音や死出の山など迷宮のような巨大地下空間を誇る奥多摩の「日原鍾乳洞」。ひんやりと冷涼な空洞を進み、暗闇の奥から現れる神秘の地底滝を目の当たりにしたときの感動は言葉を失うほど。探検の後は、清流リバーサイドの温泉宿でご当地和牛や清流川魚を味わう休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  岡山県新見市ふるさと納税：高さ50mの地底滝「井倉洞」と日本最古の蔓牛・新見グランドホテルみよしや
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">岡山県新見市ふるさと納税：高さ50mの地底滝「井倉洞」と日本最古の蔓牛・新見グランドホテルみよしや</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   高梁川の断崖に穿たれた全長1,200mの巨大洞窟。地底の大滝や水簾観音の威容に驚嘆した後は、新見駅前の快適ホテル「グランドホテルみよしや」で、和牛のルーツ千屋牛ステーキと地酒三光正宗を満喫します。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      新見　グランドホテルみよしや
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">新見　グランドホテルみよしや</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>岡山県新見市高尾２４５６</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福島県田村市ふるさと納税：三千万年の奇跡「あぶくま洞・滝根御殿」と三十種の湯舎・磐梯熱海温泉ホテル華の湯
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福島県田村市ふるさと納税：三千万年の奇跡「あぶくま洞・滝根御殿」と三十種の湯舎・磐梯熱海温泉ホテル華の湯</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   東洋一の種類と数を誇る鍾乳石の回廊。幻想的なライトアップを楽しんだ後は、美肌の湯として名高い磐梯熱海温泉「ホテル華の湯」で、30種類の湯舎めぐりと福島牛・旬の創作ビュッフェを心ゆくまで堪能します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      磐梯熱海温泉　ホテル華の湯
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">磐梯熱海温泉　ホテル華の湯</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福島県郡山市熱海町熱海5丁目 8-60</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  東京都奥多摩町ふるさと納税：関東随一のスケール「日原鍾乳洞」と鳩ノ巣渓谷を望む奥多摩の風はとのす荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">東京都奥多摩町ふるさと納税：関東随一のスケール「日原鍾乳洞」と鳩ノ巣渓谷を望む奥多摩の風はとのす荘</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   巨岩が連なる荘厳な日原鍾乳洞。神秘的な鍾乳石を巡った後は、鳩ノ巣渓谷沿いに佇むデザイナーズ温泉宿「奥多摩の風 はとのす荘」で、自家源泉の美肌温泉と奥多摩ヤマメ・本格イタリアンフルコースに癒やされます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      奥多摩の風　はとのす荘
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">奥多摩の風　はとのす荘</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>東京都西多摩郡奥多摩町棚沢662</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   龍泉洞・龍河洞・秋芳洞。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大氷穴・洞窟探検宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大氷穴・洞窟探検宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   富岳風穴・玉泉洞・昇竜洞。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   清津峡・黒部峡谷・瀞峡。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】新見 グランドホテルみよしやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】新見 グランドホテルみよしやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と新見 グランドホテルみよしやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と新見 グランドホテルみよしやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大地底滝鍾乳洞＆地底アドベンチャー宿×ふるさと納税ガイドで比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

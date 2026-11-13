@@ -238,9 +238,7 @@ export default function TransitNavigationSection() {
               交通費を浮かせて宿をランクアップ！
             </span>
           </div>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900 tracking-tight flex items-center gap-2.5">
-            <span>🚅</span> <span>新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース</span>
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-slate-900 tracking-tight flex items-center gap-2.5"><span>新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース</span></h2>
           <p className="text-xs md:text-sm text-slate-600 leading-relaxed font-medium">
             「新幹線と高速バス、どっちが安い？」「乗り換えなしで行く方法は？」移動費を1万円以上節約して、現地の美味しいグルメや温泉宿を贅沢にするスマートな旅の意思決定ガイド。
           </p>
@@ -299,9 +297,7 @@ export default function TransitNavigationSection() {
             </div>
 
             {/* タイトル */}
-            <h3 className="text-sm md:text-base font-black text-slate-900 group-hover:text-teal-800 transition font-journal-serif line-clamp-2 leading-snug">
-              {item.title}
-            </h3>
+            <h3 className="text-sm md:text-base font-black text-slate-900 group-hover:text-teal-800 transition font-journal-serif line-clamp-2 leading-snug">{item.title}</h3>
 
             {/* 料金目安 */}
             <div className="text-[11px] font-bold text-amber-800 bg-amber-50 border border-amber-200 px-3 py-1 rounded-lg">

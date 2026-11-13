@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              春の桜が秋に真紅へ！約1,000本の古木モミジとお堀の水鏡ライトアップ
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">春の桜が秋に真紅へ！約1,000本の古木モミジとお堀の水鏡ライトアップ</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本屈指の桜の名所として知られる青森県「弘前城（弘前公園）」。秋になると、園内の約2,600本の桜の葉が赤く色づき、さらに樹齢300年を超える古木を含む約1,100本ものカエデ・モミジが一斉に燃え上がるような錦秋の絶景へと変貌します。「弘前城 菊と紅葉まつり」では、豪華絢爛な菊人形や菊の誓約オブジェが飾られ、夜にはお堀の水面に映り込む紅葉が美しくライトアップ。散策の後は、岩木山を望む天然温泉大浴場付きのホテルに滞在し、津軽名物「けの汁」や「せんべい汁」、青森県産りんごスイーツ、倉石牛をふるさと納税トラベルクーポンでお得に贅沢に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                弘前城 菊と紅葉まつり＆中濠水鏡ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                弘前城 菊と紅葉まつり＆中濠水鏡ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 天守や辰巳櫓を背景に広がる紅葉とお濠のリフレクション。夜のライトアップに照らされた朱塗りの杉の大橋と真紅のモミジのコントラストは息をのむ美しさです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                津軽の伝統が息づく菊人形展＆藤田記念庭園の洋館
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                津軽の伝統が息づく菊人形展＆藤田記念庭園の洋館</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 弘前城植物園で開催される伝統の菊人形展や、隣接する名勝「藤田記念庭園」の大正ロマン漂う洋館喫茶でいただくアップルパイ食べ比べが大人気。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                青森の味覚満載！津軽郷土料理バイキング＆倉石牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                青森の味覚満載！津軽郷土料理バイキング＆倉石牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 根菜と山菜たっぷりの郷土料理「けの汁」や貝焼き味噌、八戸せんべい汁、最高級ブランド「倉石牛」のステーキ、完熟青森りんごデザートを堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.36 <span className="text-stone-400 text-xs">(4451件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">天然温泉　岩木桜の湯　ドーミーイン弘前（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 青森県弘前市大字本町71-1 ｜ JR弘前駅より車で約10分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.17 <span className="text-stone-400 text-xs">(2261件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    アートホテル弘前シティ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">アートホテル弘前シティ</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 青森県弘前市大町1-1-2 ｜ ＪＲ弘前駅中央口より徒歩1分、青森空港より車で約６０分、東北自動車道（大鰐・弘前ＩＣ）より車で約１５分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.04 <span className="text-stone-400 text-xs">(2284件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    ホテルルートイン　弘前駅前
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">ホテルルートイン　弘前駅前</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 青森県弘前市駅前町5-1 ｜ ＪＲ奥羽本線　弘前駅より徒歩３分／東北自動車道大鰐・弘前ＩＣより１５分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 岩木桜の湯 ドーミーイン弘前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 岩木桜の湯 ドーミーイン弘前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と天然温泉 岩木桜の湯 ドーミーイン弘前の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と天然温泉 岩木桜の湯 ドーミーイン弘前の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

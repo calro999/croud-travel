@@ -151,9 +151,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <div className="flex items-center gap-2 text-teal-400 text-xs font-black tracking-wider uppercase">
               <span>⚠️ 4 MAJOR PITFALLS</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">
-              京都寺社巡りで本当によくある服装・靴の落とし穴
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">京都寺社巡りで本当によくある服装・靴の落とし穴</h2>
             <p className="text-xs sm:text-sm text-teal-200/80">
               「歩きやすい靴で行ったはずなのに…」多くの旅行者が現地で直面する想定外のトラブル。
             </p>
@@ -169,9 +167,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                   <span className="text-xs font-black bg-teal-600 text-white px-2.5 py-1 rounded-lg">
                     CASE {mistake.num}
                   </span>
-                  <h3 className="text-base sm:text-lg font-black text-white">
-                    {mistake.theme}
-                  </h3>
+                  <h3 className="text-base sm:text-lg font-black text-white">{mistake.theme}</h3>
                 </div>
 
                 <div className="bg-rose-950/20 border-l-4 border-rose-500 p-3.5 rounded-r-xl space-y-1">
@@ -198,9 +194,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <div className="flex items-center gap-2 text-teal-400 text-xs font-black tracking-wider uppercase">
               <span>🎒 ESSENTIAL SMART GEAR</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              古都を快適＆優雅に歩くためのスマート参拝ギア6選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">古都を快適＆優雅に歩くためのスマート参拝ギア6選</h2>
             <p className="text-xs text-teal-300/80">
               荷物を最小限に抑えつつ、参拝ストレスを極限まで減らすプロ仕様のセレクト。
             </p>
@@ -218,9 +212,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                   </span>
                   <span className="text-xs text-emerald-400">推奨アイテム</span>
                 </div>
-                <h3 className="text-sm font-black text-white">
-                  {gear.name}
-                </h3>
+                <h3 className="text-sm font-black text-white">{gear.name}</h3>
                 <p className="text-xs text-slate-400 leading-relaxed">
                   {gear.desc}
                 </p>
@@ -235,9 +227,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <div className="flex items-center gap-2 text-amber-400 text-xs font-black tracking-wider uppercase">
               <span>👣 20,000 STEPS ROUTE & PAUSE</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white">
-              足を潰さない！「東山〜祇園」スマート巡回タイム配分
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white">足を潰さない！「東山〜祇園」スマート巡回タイム配分</h2>
             <p className="text-xs sm:text-sm text-teal-200">
               坂道と石段が続く東山エリアを、途中の茶屋休憩と大浴場ゴールで完璧に乗り切るプラン。
             </p>
@@ -292,9 +282,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
             <div className="flex items-center gap-2 text-teal-400 text-xs font-black tracking-wider uppercase">
               <span>♨️ KYOTO HOTELS WITH HOT SPRINGS & BATHS</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              2万歩の疲れを完全リセット！京都駅・四条烏丸の天然温泉＆大浴場ホテル
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">2万歩の疲れを完全リセット！京都駅・四条烏丸の天然温泉＆大浴場ホテル</h2>
             <p className="text-xs sm:text-sm text-slate-400">
               京都観光の宿は「大浴場付き」が絶対条件。広い湯船でふくらはぎを伸ばし、翌朝スッキリ目覚められる人気宿です。
             </p>
@@ -339,9 +327,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
                           <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount || 0}件）</span>
                         </div>
                       )}
-                      <h3 className="text-sm font-black text-white line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-sm font-black text-white line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-xs text-slate-400 line-clamp-2">
                           {hotel.hotelSpecial}
@@ -380,9 +366,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
           <div className="flex items-center gap-2 text-teal-400 text-xs font-black tracking-wider uppercase">
             <span>🔗 KYOTO TRAVEL GUIDES</span>
           </div>
-          <h2 className="text-lg font-black text-white">
-            京都観光の予算・雨の日プランもあわせてチェック
-          </h2>
+          <h2 className="text-lg font-black text-white">京都観光の予算・雨の日プランもあわせてチェック</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
               href="/kyoto-travel-budget-how-many-nights/"
@@ -391,9 +375,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
               <div className="text-xs font-black text-teal-400 group-hover:text-teal-300">
                 💰 京都旅の予算相場
               </div>
-              <h3 className="text-sm font-bold text-white">
-                京都旅行の予算は何泊でいくら？拝観料・交通費・ホテル費用のリアル内訳
-              </h3>
+              <h3 className="text-sm font-bold text-white">京都旅行の予算は何泊でいくら？拝観料・交通費・ホテル費用のリアル内訳</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 宿泊税や市バス地下鉄1日券の活用術、一人旅からカップル旅までの費用シミュレーション。
               </p>
@@ -406,9 +388,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
               <div className="text-xs font-black text-teal-400 group-hover:text-teal-300">
                 🌧️ 雨の京都しっとり散歩
               </div>
-              <h3 className="text-sm font-bold text-white">
-                雨の京都だからこそ美しい名刹・苔寺＆町家ブックカフェ巡り
-              </h3>
+              <h3 className="text-sm font-bold text-white">雨の京都だからこそ美しい名刹・苔寺＆町家ブックカフェ巡り</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 雨に濡れる三千院の苔庭、ぬくもりある町家カフェで過ごす静謐な大人の京都時間。
               </p>
@@ -433,9 +413,7 @@ export default function KyotoTempleWalkingShoesGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と1日2万歩で足崩壊＆靴の脱ぎ履き地獄を回避するスマート参拝術の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -405,10 +405,8 @@ export default function AichiIragoOnsenWinterPage() {
         {/* Hotel List Section */}
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Star className="w-5 h-5 text-amber-500 fill-amber-500" />
-              伊良湖温泉＆渥美半島のおすすめ名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Star className="w-5 h-5 text-amber-500 fill-amber-500" />
+              伊良湖温泉＆渥美半島のおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベルAPIよりリアルタイムの空室料金・クチコミ評価・アクセス情報を取得して掲載
             </p>
@@ -449,9 +447,7 @@ export default function AichiIragoOnsenWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-blue-900 transition-colors">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-blue-900 transition-colors">{hotel.name}</h3>
 
                       <p className="text-xs text-stone-500 flex items-center gap-1 mt-1 mb-3">
                         <MapPin className="w-3.5 h-3.5 shrink-0 text-stone-400" />
@@ -516,17 +512,13 @@ export default function AichiIragoOnsenWinterPage() {
               <Compass className="w-4 h-4 text-blue-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              伊良湖天然とらふぐと伊良湖温泉・絶景岬ドライブの旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">伊良湖天然とらふぐと伊良湖温泉・絶景岬ドライブの旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【1日目】渥美半島爽快ドライブと岬の冬夕日
-              </h3>
+              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【1日目】渥美半島爽快ドライブと岬の冬夕日</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -552,10 +544,8 @@ export default function AichiIragoOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-blue-700" />
-                【2日目】岬の朝散歩と産直マーケットめぐり
-              </h3>
+              <h3 className="font-bold text-blue-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-blue-700" />
+                【2日目】岬の朝散歩と産直マーケットめぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-1" />
@@ -585,27 +575,21 @@ export default function AichiIragoOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-blue-800" />
               渥美半島・冬のおみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              伊良湖・田原で手に入れたい初冬の逸品と絶景スポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">伊良湖・田原で手に入れたい初冬の逸品と絶景スポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-blue-700" />
-                恋路ヶ浜と伊良湖岬灯台の初冬夕景
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-blue-700" />
+                恋路ヶ浜と伊良湖岬灯台の初冬夕景</h3>
               <p>
                 伊良湖岬の先端に広がる白砂の弓状海岸「恋路ヶ浜」は、島崎藤村の抒情詩『椰子の実』の舞台としても名高いロマンチックな名所。冬は空気が乾燥して澄み渡るため、水平線に沈む夕日が息を呑むほど鮮やかに輝きます。白亜の伊良湖岬灯台へと続く遊歩道は、潮風を感じながらの散策に最適です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-blue-700" />
-                渥美半島の冬キャベツ・ブランド干物＆あさりせんべい
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-blue-700" />
+                渥美半島の冬キャベツ・ブランド干物＆あさりせんべい</h3>
               <p>
                 日本一の農業産出額を誇る田原市は、冬キャベツやブロッコリーなど甘みたっぷりの高原・平地野菜の宝庫。道の駅では採れたての冬野菜が格安で並びます。また、三河湾名物の生あさりを丸ごとプレス焼きした香ばしい「あさりせんべい」や、地元漁港で天日干しされたカマス・アジの干物は絶品のお土産です。
               </p>
@@ -620,32 +604,24 @@ export default function AichiIragoOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-blue-800" />
               初冬の伊良湖温泉・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の伊良湖は「冬の極上美食温泉」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の伊良湖は「冬の極上美食温泉」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-blue-700" />
-              新源泉・塩化物温泉がもたらす抜群の保温持続力
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-blue-700" />
+              新源泉・塩化物温泉がもたらす抜群の保温持続力</h3>
             <p>
               伊良湖温泉の泉質は「ナトリウム・カルシウム-塩化物温泉」。入浴すると塩分が皮膚の表面を覆い、汗の蒸発を抑える「パック効果」を発揮するため、入浴後も体が冷めにくく、手足の先までポカポカとした温もりが長時間続きます。また弱アルカリ性のpH値により肌の角質が優しくオフされ、カルシウムイオンが肌の引き締めと滑らかさをサポート。海辺の心地よい潮風を感じながら、冬の乾燥に負けない極上の湯浴みが楽しめます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-blue-700" />
-              遠州灘の荒波と三河湾の栄養が生む天然とらふぐの力強い旨味
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-blue-700" />
+              遠州灘の荒波と三河湾の栄養が生む天然とらふぐの力強い旨味</h3>
             <p>
               伊良湖沖の海域は、太平洋の荒々しい外洋と穏やかでプランクトンが豊富な三河湾の海水がぶつかり合う豊かな漁場です。この過酷な海流を泳ぎ回る天然とらふぐは、運動量が多いため筋肉質で引き締まり、歯応えが極めてシャープ。熟成させることでイノシン酸などの旨味成分が爆発的に凝縮し、噛みしめるほどに奥深い甘みが溢れ出します。養殖ふぐとは一線を画す天然物ならではの香気とコクは、冬の伊良湖ならではの贅沢です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-blue-700" />
-              温暖な気候と澄み切った大気が約束する冬のオープンリゾート
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-blue-700" />
+              温暖な気候と澄み切った大気が約束する冬のオープンリゾート</h3>
             <p>
               豪雪地帯とは対照的に、渥美半島は冬でも雪の心配がほぼない温暖な常春の地。ドライブ旅行でも積雪や凍結を過度に警戒する必要がなく、快適なクルージングを楽しめます。さらに冬場は太平洋高気圧の澄んだ空気により、空の透明度が年間で最も高くなり、海と空の雄大な青、夕暮れの茜色、夜の星空が鮮明に広がります。寒さを気にせずリゾート気分に浸れる絶好のロケーションです。
             </p>
@@ -659,18 +635,14 @@ export default function AichiIragoOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-blue-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の伊良湖温泉・渥美半島旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の伊良湖温泉・渥美半島旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

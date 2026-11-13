@@ -280,10 +280,8 @@ export default function AsamushiOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜青森・浅虫温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月青森・浅虫温泉】<br className="hidden sm:inline" />
-            初冬陸奥湾絶景と開湯千二百年名湯・津軽海峡冬マグロ＆津軽三味線の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月青森・浅虫温泉】<br className="hidden sm:inline" />
+            初冬陸奥湾絶景と開湯千二百年名湯・津軽海峡冬マグロ＆津軽三味線の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             平安開湯の歴史を誇る青森の奥座敷。初冬の陸奥湾パノラマと湯の島を仰ぎ、津軽海峡冬本マグロや肉厚活ホタテ、心揺さぶる津軽三味線の響きに酔いしれる北国の情熱温泉旅。
           </p>
@@ -301,9 +299,7 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Historic Coastal Springs on Mutsu Bay</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の陸奥湾を望む「東北の熱海」｜開湯千二百年の歴史と津軽の浪漫
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の陸奥湾を望む「東北の熱海」｜開湯千二百年の歴史と津軽の浪漫</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Gentle Alkaline Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                身体の芯まで優しく温める｜浅虫温泉の泉質と効能メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">身体の芯まで優しく温める｜浅虫温泉の泉質と効能メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Tsugaru Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                津軽海峡の冬本マグロと陸奥湾ホタテ｜北国の誇る極上海の恵み
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">津軽海峡の冬本マグロと陸奥湾ホタテ｜北国の誇る極上海の恵み</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Mutsu Bay Winter Route & Culture Walk</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の浅虫・青森散策モデルコース｜湯の島とサンセットビーチ・棟方志功の足跡
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の浅虫・青森散策モデルコース｜湯の島とサンセットビーチ・棟方志功の足跡</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function AsamushiOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-blue-700 uppercase tracking-widest">Featured Oceanfront & Historic Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              陸奥湾の絶景と三味線の調べ｜浅虫温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">陸奥湾の絶景と三味線の調べ｜浅虫温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで確かな評価を獲得し、展望温泉風呂や津軽海鮮会席に情熱を注ぐ本物の宿。
             </p>
@@ -448,9 +436,7 @@ export default function AsamushiOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の浅虫冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の浅虫冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-800" />
-                北東北の厳しい寒気と防寒・防滑対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-800" />
+                北東北の厳しい寒気と防寒・防滑対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月下旬以降は朝晩の気温が0℃を下回り、12月は本格的な積雪期となります。海風も強く吹き抜けるため、防風・防水機能のある厚手ダウンジャケット、ヒート系インナー、マフラー、手袋が不可欠です。路面凍結による転倒を防ぐため、溝の深い防滑スノーブーツの着用をおすすめします。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-blue-800" />
-                青い森鉄道での駅近アクセスと安心旅
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-blue-800" />
+                青い森鉄道での駅近アクセスと安心旅</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 新幹線・新青森駅から青森駅を経由し、青い森鉄道で浅虫温泉駅まで約25分。駅から各主要旅館へは徒歩3〜5分と近いため、冬道の運転が不安な方でもストレスなく電車でアクセスできます。車で訪れる場合は国道4号線が圧雪・凍結路面となるため、必ずスタッドレスタイヤを装着して車間距離を確保してください。
               </p>
@@ -562,18 +542,14 @@ export default function AsamushiOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                青森浅虫温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">青森浅虫温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function AsamushiOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-blue-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい青森・東北の冬名湯＆海の幸・雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい青森・東北の冬名湯＆海の幸・雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や氷瀑、東北の極上和牛や海の幸をめぐる人気の厳選特集もぜひご覧ください。
             </p>

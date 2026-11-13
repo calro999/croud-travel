@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            赤レンガ駅舎の歴史と皇居外苑の美しい杜——世界最高峰のサービスと美食に包まれる日本の中枢ラグジュアリーステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">赤レンガ駅舎の歴史と皇居外苑の美しい杜——世界最高峰のサービスと美食に包まれる日本の中枢ラグジュアリーステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東京都千代田区、日本の政治・経済・交通の中心地である東京駅・丸の内エリア。大正三年（1914年）に創建され、戦災復興を経て創建当時の優美な姿へと復原された辰野金吾設計の赤レンガ駅舎（丸の内駅舎）は、国の重要文化財に指定されています。丸の内仲通りの洗練された街路樹やブランドショップ、皇居外苑の広大な緑と濠、三菱一号館美術館など、歴史と最先端の文化が融合した日本屈指のプレステージエリアです。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都千代田区（東京駅・丸の内）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  東京ステーションホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">東京ステーションホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   国指定重要文化財・東京駅丸の内駅舎の中に泊まる唯一無二の体験！クラシックホテルの最高峰
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  東京ステーションホテル —— 百年の物語を紡ぐ名門。高い天井と優美なヨーロピアンクラシック空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">東京ステーションホテル —— 百年の物語を紡ぐ名門。高い天井と優美なヨーロピアンクラシック空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 東京駅丸の内駅舎のドームサイドや駅前広場を望む特別な客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">東京駅丸の内駅舎のドームサイドや駅前広場を望む特別な客室</h5>
                     <p className="text-stone-600 leading-relaxed">創建当時のレリーフを窓から眺める「ドームサイド」など唯一無二の部屋。防音性も極めて高く、驚くほどの静寂が広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 川端康成や松本清張ら文豪に愛された歴史と気品あふれる調度品
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">川端康成や松本清張ら文豪に愛された歴史と気品あふれる調度品</h5>
                     <p className="text-stone-600 leading-relaxed">原稿用紙をモチーフにしたメモ帳など文学の香り漂う演出。細部までこだわり抜かれた上質なインテリアが魅力です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 駅舎中央最上階のアトリウムで味わう伝説の朝食ブッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">駅舎中央最上階のアトリウムで味わう伝説の朝食ブッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">天窓から自然光が注ぐ広大な空間で味わう約100種類の贅沢朝食。出来立ての和洋料理やスイーツが絶品です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都千代田区（東京駅・丸の内）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  パレスホテル東京
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">パレスホテル東京</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   皇居外苑の豊かな緑とお濠を望む抜群のロケーション！フォーブス・トラベルガイド5つ星の至高ホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  パレスホテル東京 —— 水と緑に寄り添うおもてなしの美学。皇居を見晴らすバルコニー付き客室と最高峰ダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">パレスホテル東京 —— 水と緑に寄り添うおもてなしの美学。皇居を見晴らすバルコニー付き客室と最高峰ダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大手町駅直結・皇居の濠に面した都心屈指のパノラマビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大手町駅直結・皇居の濠に面した都心屈指のパノラマビュー</h5>
                     <p className="text-stone-600 leading-relaxed">多くの客室に都内では希少なオープンエアテラスを完備。爽やかな風を感じながら白鳥が遊ぶお濠や皇居の緑を眺められます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> フォーブス・トラベルガイドで最高ランク「5つ星」を連続獲得
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">フォーブス・トラベルガイドで最高ランク「5つ星」を連続獲得</h5>
                     <p className="text-stone-600 leading-relaxed">世界が認めた洗練のホスピタリティ。細やかな心配りと温もりあふれるサービスで、極上の寛ぎが約束されます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名物「マロンシャンテリー」やミシュラン星付きフレンチ「エステール」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名物「マロンシャンテリー」やミシュラン星付きフレンチ「エステール」</h5>
                     <p className="text-stone-600 leading-relaxed">伝統のスイーツからアラン・デュカス監修の現代フランス料理まで。美食家たちを魅了し続ける多彩な名店が揃っています。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都千代田区（東京駅・丸の内）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  帝国ホテル東京
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">帝国ホテル東京</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   明治二十三年開業・日本の迎賓館として歴史を刻んできた名門！伝統のローストビーフとおもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  帝国ホテル 東京 —— 日本のホテル文化の原点。伝統のサービスと最新の快適性が融合する最高峰グランドホテル
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">帝国ホテル 東京 —— 日本のホテル文化の原点。伝統のサービスと最新の快適性が融合する最高峰グランドホテル</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日比谷公園や銀座、丸の内へ徒歩すぐのプレステージ立地
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日比谷公園や銀座、丸の内へ徒歩すぐのプレステージ立地</h5>
                     <p className="text-stone-600 leading-relaxed">観劇やショッピング、散策に最高のロケーション。重厚感あふれるロビーと美しい装花が旅人を優雅に迎えます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> フランク・ロイド・ライトの思想を受け継ぐ格式高い建築美と客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">フランク・ロイド・ライトの思想を受け継ぐ格式高い建築美と客室</h5>
                     <p className="text-stone-600 leading-relaxed">静寂と機能性を追求した落ち着きある客室。細部まで行き届いた清掃と上質なリネンが心地よい眠りを届けます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 名門フレンチ「レ セゾン」や元祖バイキング「インペリアルバイキング サール」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">名門フレンチ「レ セゾン」や元祖バイキング「インペリアルバイキング サール」</h5>
                     <p className="text-stone-600 leading-relaxed">バイキング発祥の地として名高いビュッフェや伝統のローストビーフ。一流シェフが織りなす伝統の味を堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 東京駅丸の内駅舎・丸の内仲通り＆皇居外苑・丸ビル観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 東京駅丸の内駅舎・丸の内仲通り＆皇居外苑・丸ビル観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                東京駅丸の内駅舎ドーム天井の干支レリーフとライトアップ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                東京駅丸の内駅舎ドーム天井の干支レリーフとライトアップ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 大正創建当時の姿に蘇った八角形ドーム天井の彫刻。日没後にオレンジ色に照らし出される赤レンガ駅舎の夜景は息をのむ美しさです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                丸の内仲通りの街路樹散策とオープンカフェ・イルミネーション
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                丸の内仲通りの街路樹散策とオープンカフェ・イルミネーション</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 石畳の美しい並木道。冬には約120万球のシャンパンゴールドのLEDで輝く「丸の内イルミネーション」が街をロマンチックに彩ります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                皇居外苑「二重橋」散策と和田倉噴水公園
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                皇居外苑「二重橋」散策と和田倉噴水公園</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 歴史を感じる楠木正成像や二重橋の風景。お濠端の遊歩道を歩きながら、都心の摩天楼と緑豊かな杜のコントラストを楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              東京都千代田区ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">東京都千代田区ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】東京ステーションホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】東京ステーションホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と東京ステーションホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と東京ステーションホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

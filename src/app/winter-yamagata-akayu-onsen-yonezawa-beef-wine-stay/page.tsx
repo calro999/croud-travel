@@ -280,10 +280,8 @@ export default function AkayuOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜山形・南陽赤湯
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月山形・赤湯温泉】<br className="hidden sm:inline" />
-            置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月山形・赤湯温泉】<br className="hidden sm:inline" />
+            置賜盆地雲海と開湯920年名湯・特選米沢牛＆老舗ワイナリーの宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             平安開湯の古湯にして上杉鷹山公も愛した名湯郷。晩秋から初冬の置賜盆地を包む幻想の白竜湖雲海を仰ぎ、霜降り極まる米沢牛と日本最古級の赤湯ワインに酔いしれる贅沢な冬の隠れ宿。
           </p>
@@ -301,9 +299,7 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Sea of Clouds & Historic Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の置賜盆地を染める幻想の雲海と、開湯920余年の歴史浪漫
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の置賜盆地を染める幻想の雲海と、開湯920余年の歴史浪漫</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Thermal Chemistry & Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                肌にしっとり馴染む硫黄と塩化物泉の恵みと、赤湯の湯治文化
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">肌にしっとり馴染む硫黄と塩化物泉の恵みと、赤湯の湯治文化</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Winter Gastronomy of Okitama</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月に赤湯で味わう米沢牛の真髄と山形の旬の恵み
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月に赤湯で味わう米沢牛の真髄と山形の旬の恵み</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -396,9 +388,7 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Okitama Winter Route & Wine Walking</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白竜湖の雲海と老舗ワイナリー巡り・初冬の赤湯おすすめ散策ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白竜湖の雲海と老舗ワイナリー巡り・初冬の赤湯おすすめ散策ルート</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function AkayuOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Handpicked 5 Elite Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              赤湯温泉で冬の美食と名湯を極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">赤湯温泉で冬の美食と名湯を極める厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               藩主御用達の格式ある老舗から、全室源泉露天付きのモダンリゾート、平屋数寄屋造りの隠れ家まで、楽天APIから厳選した5軒をご紹介します。
             </p>
@@ -454,9 +442,7 @@ export default function AkayuOnsenWinterFeature() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>山形県南陽市赤湯</span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                     </div>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
@@ -515,26 +501,20 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の赤湯冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の赤湯冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-800" />
-                内陸盆地の厳しい冷え込み対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-800" />
+                内陸盆地の厳しい冷え込み対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 盆地特有の放射冷却により、11月下旬以降は朝晩の気温が0℃を下回ることが増えます。12月は本格的な積雪期に入ります。厚手のダウンコート、手袋、マフラーに加え、滑り止めがついた防水防寒靴が必須です。カイロをポケットに忍ばせておくと雲海散策時も快適です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-rose-800" />
-                山形新幹線での快適アクセスと冬道運転
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-rose-800" />
+                山形新幹線での快適アクセスと冬道運転</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 赤湯駅は山形新幹線の停車駅のため、東京から直通約2時間25分と新幹線アクセスが抜群です。雪道運転が不安な方は電車旅が最も安心です。車の場合は東北中央自動車道を利用し、11月下旬以降は必ずスタッドレスタイヤを装着して急ブレーキ・急ハンドルを避けて走行してください。
               </p>
@@ -550,18 +530,14 @@ export default function AkayuOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-rose-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                山形赤湯温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">山形赤湯温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-rose-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-rose-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -574,9 +550,7 @@ export default function AkayuOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-rose-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山形・東北の冬名湯＆極上和牛特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山形・東北の冬名湯＆極上和牛特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、米沢牛や郷土料理を味わう人気の厳選特集もぜひご覧ください。
             </p>

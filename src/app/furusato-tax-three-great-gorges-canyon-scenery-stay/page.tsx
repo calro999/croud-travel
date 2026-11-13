@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            そびえ立つ柱状節理の岩壁とエメラルドグリーンの清流。五感を揺さぶる大峡谷のネイチャーステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">そびえ立つ柱状節理の岩壁とエメラルドグリーンの清流。五感を揺さぶる大峡谷のネイチャーステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             国の特別名勝や天然記念物に指定され、日本を代表する険しいV字峡谷の絶景を誇る「日本三大峡谷」――巨大な柱状節理の岩肌とインスタ映えする水鏡トンネルアートで世界中から注目を集める新潟の「清津峡」、北アルプスを縫うように走るトロッコ電車から万年雪や断崖を望む富山の「黒部峡谷」、そして吉野熊野国立公園の深奥に位置し、巨岩奇岩とエメラルドブルーの静水が神秘的な静寂を生む「瀞峡（どろきょう）」。川のせせらぎや鳥のさえずりだけが響く幽玄な世界で、大地のパワーをダイレクトに感じる温泉に浸かり、清らかな水と澄んだ空気が育んだ地元の旬菜会席を味わう極上のひとときを楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  新潟県十日町市ふるさと納税：巨大な柱状節理と水鏡アート「清津峡渓谷トンネル」と清津峡湯元温泉清津館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">新潟県十日町市ふるさと納税：巨大な柱状節理と水鏡アート「清津峡渓谷トンネル」と清津峡湯元温泉清津館</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   世界が称賛するアート空間・清津峡。渓谷に最も近い一軒宿「清津館」で、足元から湧き出る源泉掛け流しの薬湯と、清津川を望む渓流露天風呂、魚沼産コシヒカリと里山料理に癒やされます。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      清津峡湯元温泉　清津館
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">清津峡湯元温泉　清津館</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>新潟県十日町市小出癸2126-1</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  富山県黒部市ふるさと納税：黒部川の清流とトロッコ電車の旅「黒部峡谷」と宇奈月温泉ホテル黒部ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">富山県黒部市ふるさと納税：黒部川の清流とトロッコ電車の旅「黒部峡谷」と宇奈月温泉ホテル黒部ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   日本一深いV字峡谷を行く黒部峡谷鉄道。全室から黒部峡谷とトロッコ電車を望む「ホテル黒部」で、宇奈月の透明度日本一の美肌温泉と、富山湾のキトキトな白エビ・ブリ会席を満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      黒部峡谷・宇奈月温泉　ホテル黒部
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">黒部峡谷・宇奈月温泉　ホテル黒部</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>富山県黒部市宇奈月温泉７番地</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  和歌山県新宮市・田辺市ふるさと納税：エメラルドグリーンの深淵「瀞峡」巨岩めぐりと世界遺産リゾート熊野倶楽部
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">和歌山県新宮市・田辺市ふるさと納税：エメラルドグリーンの深淵「瀞峡」巨岩めぐりと世界遺産リゾート熊野倶楽部</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   熊野川の支流・北山川が削り出した神秘の瀞峡。瀞八丁の断崖をウォータージェット船で巡った後は、全室スイート仕様の「里創人 熊野倶楽部」で、熊野牛のローストビーフと満天の星空露天風呂に酔いしれます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      里創人　熊野倶楽部
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">里創人　熊野倶楽部</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>三重県熊野市久生屋町1430</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大奇勝＆巨岩奇峰パノラマ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   妙義山・耶馬渓・寒霞渓の岩峰。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   秋吉台・四国カルスト・平尾台。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大急流＆舟下り・リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   最上川・富士川・球磨川の舟旅。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】清津峡湯元温泉 清津館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】清津峡湯元温泉 清津館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と清津峡湯元温泉 清津館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と清津峡湯元温泉 清津館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大峡谷＆断崖絶壁・エメラルド渓谷宿×ふるさと納税ガイドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            石畳の路地に響く下駄の音、朝の読経と線香の薫香——日常のノイズを脱ぎ捨てて古都の静寂に溶け込む大人の京都ひとり旅
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">石畳の路地に響く下駄の音、朝の読経と線香の薫香——日常のノイズを脱ぎ捨てて古都の静寂に溶け込む大人の京都ひとり旅</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             誰かと訪れる京都も楽しいものですが、京都の真髄である「静寂」「幽玄」「わびさび」を肌で味わうなら、ひとり旅に勝るものはありません。早朝、まだ誰もいない寺院の境内を歩き、清らかな空気を胸いっぱいに吸い込む。枯山水の石庭の前にただ腰を下ろし、風に揺れる竹林の葉音に耳を澄ませる。自分のペースで気ままに町家カフェへ立ち寄り、夕暮れの鴨川沿いを歩く時間は、何ものにも代えがたい心のデトックスです。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   八坂通・建仁寺のすぐそば！祇園の風情漂う閑静な立地と名店「八坂圓堂」監修の揚げたて天ぷら朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル ザ セレスティン京都祇園 —— 東山の趣に包まれる上質な隠れ家。大浴場とゲスト専用ラウンジで味わう極上の寛ぎ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル ザ セレスティン京都祇園 —— 東山の趣に包まれる上質な隠れ家。大浴場とゲスト専用ラウンジで味わう極上の寛ぎ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   寺院とホテルが一体化した奇跡の空間！朝の「お勤め体験」とミシュラン掲載店監修の精進和朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル京都河原町浄教寺 —— 500年の歴史を持つ寺院の跡地に誕生。大浴場と墨絵のアートが彩る唯一無二の寺ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル京都河原町浄教寺 —— 500年の歴史を持つ寺院の跡地に誕生。大浴場と墨絵のアートが彩る唯一無二の寺ホテル</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   烏丸駅・四条駅徒歩すぐ！大浴場＆時間帯ごとの無料ラウンジサービス（ワイン・お茶漬けバイキング）が大好評
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルインターゲート京都 四条新町 —— 伝統工芸と現代デザインの融合。京都の朝を五感で楽しむ贅沢ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルインターゲート京都 四条新町 —— 伝統工芸と現代デザインの融合。京都の朝を五感で楽しむ贅沢ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              混雑を避けて京都を味わい尽くす「朝活ひとり旅」のススメ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">混雑を避けて京都を味わい尽くす「朝活ひとり旅」のススメ</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 午前6:00〜7:30の清水寺・伏見稲荷・八坂神社参拝
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 午前6:00〜7:30の清水寺・伏見稲荷・八坂神社参拝</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 昼間は観光客で溢れる人気スポットも、早朝なら静まり返り神秘的な本来の姿を見せてくれます。写真撮影も周囲を気にせず楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 鴨川の飛び石とモーニングカフェ巡り
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 鴨川の飛び石とモーニングカフェ巡り</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 朝の鴨川沿いを散策しながら、老舗喫茶店（イノダコーヒや前田珈琲など）で味わうネルドリップ珈琲と厚切りトーストは京都の定番の幸せです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 午後はホテルのラウンジや大浴場で「中休み」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 午後はホテルのラウンジや大浴場で「中休み」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 一番混雑する午後の時間帯はあえてホテルへ戻り、ラウンジで読書や大浴場でのんびり。夕暮れから再び夜の先斗町やライトアップへ出かけるのが賢い巡り方です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>女性一人旅でも安全に宿泊できますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>女性一人旅でも安全に宿泊できますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ご紹介したホテルはすべて24時間フロント対応、カードキーによるエレベーターセキュリティ、女性専用セキュリティ付き大浴場などを備えており、女性おひとりさまでも非常に安心して宿泊できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人での夕食はどこで取るのがおすすめですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人での夕食はどこで取るのがおすすめですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ホテルの周辺（祇園・四条河原町・烏丸）にはカウンター席中心の割烹、おばんざいバル、町家カフェが多数あり、一人客を快く歓迎してくれます。フロントのコンシェルジュにおすすめを聞くのもおすすめです。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテル ザ セレスティン京都祇園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテル ザ セレスティン京都祇園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

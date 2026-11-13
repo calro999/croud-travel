@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            青い海と白い砂浜、潮風にそよぐ幾千本もの深緑の松。日本の美意識が息づく海岸リゾート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">青い海と白い砂浜、潮風にそよぐ幾千本もの深緑の松。日本の美意識が息づく海岸リゾート</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             古来より数多の和歌や浮世絵に描かれ、自然が作り出した奇跡の造形美として親しまれてきた「日本三大松原（三大砂州）」――天へと昇る龍の如く宮津湾を横断する日本三景・京都の「天橋立」、敦賀湾に弓なりに広がる白砂と赤松・黒松のコントラストが美しい福井の「気比の松原」、そして青い駿河湾越しに霊峰富士を仰ぎ見る世界遺産・静岡の「三保の松原」。松林を抜ける心地よい潮風を感じながら散策し、夕暮れには茜色に染まる海景を客室や展望露天風呂から眺める時間はまさに至福。丹後とり貝や若狭ふぐ、駿河湾の桜えびなど獲れたての海の幸を味わう贅沢な滞在を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  京都府宮津市ふるさと納税：日本三景「天橋立」白砂青松の架け橋と数寄屋造りの名門旅館・文珠荘ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">京都府宮津市ふるさと納税：日本三景「天橋立」白砂青松の架け橋と数寄屋造りの名門旅館・文珠荘ステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   約8,000本の松が生い茂る奇跡の砂州。智恩寺山門前に位置し、運河を行き交う小舟を眺めながら天橋立温泉の柔らかな湯に浸かり、丹後の旬の魚介や丹後牛を味わう極上の数寄屋ステイです。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      天橋立温泉　和のリゾート　文珠荘
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">天橋立温泉　和のリゾート　文珠荘</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>京都府宮津市字文珠510</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  福井県敦賀市ふるさと納税：萬葉の息吹残る白砂青松「気比の松原」若狭湾の海の幸と敦賀トンネル温泉北国グランドホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">福井県敦賀市ふるさと納税：萬葉の息吹残る白砂青松「気比の松原」若狭湾の海の幸と敦賀トンネル温泉北国グランドホテル</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   長さ約1.5kmに及ぶ敦賀湾の美しき松原。赤松と黒松が織りなす松林を散策した後は、美肌効果抜群の敦賀トンネル温泉の展望大浴場で寛ぎ、名物越前ガニや敦賀真鯛の会席を満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      敦賀トンネル温泉　北国グランドホテル＜福井県＞
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">敦賀トンネル温泉　北国グランドホテル＜福井県＞</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>福井県敦賀市中80-1-3</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  静岡県静岡市清水区ふるさと納税：世界遺産富士山と駿河湾を望む「三保の松原」風景美術館・日本平ホテルステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">静岡県静岡市清水区ふるさと納税：世界遺産富士山と駿河湾を望む「三保の松原」風景美術館・日本平ホテルステイ</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   羽衣伝説で知られる三保の松原。眼下に広がる清水港と富士山の雄大な大パノラマを絵画のように切り取る「風景美術館」日本平ホテルで、駿河湾の新鮮な魚介と洗練されたフレンチに酔いしれます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      日本平ホテル
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">日本平ホテル</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>静岡県静岡市清水区馬走1500-2</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大美港＆ウォーターフロントホテル×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   神戸・横浜・長崎の港町ステイ。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">絶景オーシャンフロント×波音ヒーリング宿ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   海を間近に感じる名宿。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大名橋＆清流リバーサイド宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   錦帯橋・眼鏡橋・猿橋の絶景。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天橋立温泉 和のリゾート 文珠荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天橋立温泉 和のリゾート 文珠荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と天橋立温泉 和のリゾート 文珠荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と天橋立温泉 和のリゾート 文珠荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納税ガイド」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

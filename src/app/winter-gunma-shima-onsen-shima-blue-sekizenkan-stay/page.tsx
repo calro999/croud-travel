@@ -280,10 +280,8 @@ export default function ShimaOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上名湯特集｜群馬・上州四万温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月群馬・四万温泉】<br className="hidden sm:inline" />
-            神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月群馬・四万温泉】<br className="hidden sm:inline" />
+            神秘の四万ブルーと千二百年霊泉・積善館の歴史美＆上州牛の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             四万の病を癒やすと伝わる千二百年の霊泉郷。四万川が澄み切る初冬の奇跡のコバルトブルーを仰ぎ、重要文化財積善館のノスタルジーと特選上州牛の会席料理に心奪われる大人の冬湯治。
           </p>
@@ -301,9 +299,7 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Shima Blue & 1200 Years Healing Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                透明度極まる初冬の「四万ブルー」と、四万の病を癒やす名湯の歴史
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">透明度極まる初冬の「四万ブルー」と、四万の病を癒やす名湯の歴史</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Natural Healing Hot Spring Mechanism</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「飲んで効く、浸かって美肌」四万温泉の泉質と効能メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「飲んで効く、浸かって美肌」四万温泉の泉質と効能メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Joshu Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の味覚を味わい尽くす｜特選上州牛・下仁田ねぎ・生芋こんにゃく
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の味覚を味わい尽くす｜特選上州牛・下仁田ねぎ・生芋こんにゃく</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Scenic Winter Route & Historic Walk</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の四万散策モデルコース｜奥四万湖の絶景ダムとノスタルジックな温泉街
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の四万散策モデルコース｜奥四万湖の絶景ダムとノスタルジックな温泉街</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function ShimaOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Featured Historic & Luxury Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              四万川の清流と歴史に抱かれる｜四万温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">四万川の清流と歴史に抱かれる｜四万温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、自家源泉や上州牛会席に強いこだわりを持つ本物の名宿だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function ShimaOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の四万冬旅の気温・服装と快適アクセスのポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の四万冬旅の気温・服装と快適アクセスのポイント</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-800" />
-                標高700mの初冬冷え込みと積雪対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-800" />
+                標高700mの初冬冷え込みと積雪対策</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 四万温泉は標高約700mの高地に位置するため、平地よりも気温が5〜8℃低くなります。11月下旬からは朝晩の気温が0℃を下回り、12月中旬以降は雪が舞う白銀の世界となります。散策には防風性の高いダウンジャケットやコート、滑りにくいソールを備えた防水スノーブーツ、マフラー、手袋が不可欠です。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-cyan-800" />
-                直行バス「四万温泉号」と雪道ドライブの注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-cyan-800" />
+                直行バス「四万温泉号」と雪道ドライブの注意</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 東京駅八重洲通りから運行する高速バス「四万温泉号」を利用すれば、雪道運転の不安なく乗り換えなしで温泉街へ直行できます。自家用車で向かう場合は関越道・渋川伊香保ICより国道353号を経由しますが、11月下旬以降は日陰や橋梁の凍結に備え必ずスタッドレスタイヤを装着して安全運転を心がけてください。
               </p>
@@ -562,18 +542,14 @@ export default function ShimaOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                群馬四万温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">群馬四万温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function ShimaOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい群馬・関東甲信越の冬名湯＆極上和牛特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい群馬・関東甲信越の冬名湯＆極上和牛特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、上州牛やすき焼き、歴史ある名湯をめぐる人気の厳選特集もぜひご覧ください。
             </p>

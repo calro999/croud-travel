@@ -82,15 +82,12 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          渓流のせせらぎ、木漏れ日と立ちのぼる湯煙。入湯手形を手に巡る阿蘇・黒川温泉の極上癒やし旅へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">渓流のせせらぎ、木漏れ日と立ちのぼる湯煙。入湯手形を手に巡る阿蘇・黒川温泉の極上癒やし旅へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           熊本県阿蘇郡南小国町、標高700メートルの山あいにひっそりと佇む「黒川温泉（くろかわおんせん）」。かつて全国的な過疎の危機を乗り越え、「街全体が一つの宿、通りは廊下、旅館は客室、木々は庭の植木」という一貫した景観哲学のもと再生を遂げ、ミシュラン・グリーンガイド・ジャポンで異例の2つ星評価を獲得した日本屈指の名湯です。黒川温泉を代表する名物が、杉の間伐材で作られた「入湯手形」。これを手にすれば、加盟旅館の中から好きな露天風呂を自由に3箇所めぐることができ、雑木林の小道や川端通りを浴衣と下駄で歩く風情はまさに日本の原風景そのものです。田の原川の清流がすぐ目の前に迫る野趣あふれるダイナミックな渓流露天風呂、職人が長い年月をかけて手彫りした幻想的な洞窟風呂、茅葺き屋根と竹林に包まれた静寂の空間など、宿ごとに全く異なる魅力が凝縮。夕食には、阿蘇の大草原で育ったヘルシーで旨味濃厚な「肥後あか牛」の炭火焼きや陶板焼き、熊本名物の極上馬刺し、清流のヤマメや鮎など、里山の豊かな恵みを五感で堪能できます。本特集では、渓流と森が一体化した圧倒的な露天風呂を誇る「山あいの宿 山みず木」、竹林と茅葺き門に迎えられる多彩な湯処の名宿「旅館 奥の湯」、そして名物「手掘り洞窟風呂」と風情ある川端通りのシンボル「山の宿 新明館」の3大名宿を厳選。熊本県南小国町への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの黒川温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">黒川温泉 入湯手形＆秘湯名宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】黒川温泉　山あいの宿　山みず木</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 黒川温泉 入湯手形＆秘湯名宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">黒川温泉 入湯手形＆秘湯名宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            黒川温泉　山あいの宿　山みず木
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">黒川温泉　山あいの宿　山みず木</h2>
           <p className="text-xs md:text-sm text-amber-100">熊本県南小国町・田の原川の渓流と原生林に抱かれた最高峰露天風呂！口コミ総合4.6超・自然と一体になる究極の癒やし宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            黒川温泉　旅館　奥の湯
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">黒川温泉　旅館　奥の湯</h2>
           <p className="text-xs md:text-sm text-amber-100">熊本県南小国町・茅葺き屋根の山門と竹林の静寂！混浴露天・女性専用露天・洞窟風呂など多彩な湯巡りが楽しめる名門</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            黒川温泉　山の宿　新明館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">黒川温泉　山の宿　新明館</h2>
           <p className="text-xs md:text-sm text-amber-100">熊本県南小国町・黒川温泉街の中心・川端通り沿い！名物「手掘り洞窟風呂」と囲炉裏の風情が香る創業創業明治の名旅館</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoKurokawaOnsenYumeguriStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

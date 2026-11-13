@@ -125,9 +125,7 @@ export default function LuxuryPremiumHubPage() {
                     💎 {guide.timing}
                   </span>
                 </div>
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-950">
-                  {guide.title}
-                </h2>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-950">{guide.title}</h2>
                 <p className="text-xs md:text-sm text-stone-700 leading-relaxed font-medium">
                   {guide.desc}
                 </p>
@@ -153,9 +151,7 @@ export default function LuxuryPremiumHubPage() {
               <div className="space-y-4 pt-4 border-t border-amber-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base font-bold font-journal-serif text-stone-950 flex items-center gap-2">
-                      <span>🏨</span> <span>{guide.title}におすすめの最高峰宿</span>
-                    </h3>
+                    <h3 className="text-base font-bold font-journal-serif text-stone-950 flex items-center gap-2"><span>{guide.title}におすすめの最高峰宿</span></h3>
                   </div>
                   <span className="text-xs font-bold text-amber-900 bg-amber-100/70 border border-amber-300 px-3 py-1 rounded-full">
                     極上プレミアム
@@ -195,9 +191,7 @@ export default function LuxuryPremiumHubPage() {
                               <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                             </div>
                           )}
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-stone-950 line-clamp-2">
-                            {hotel.hotelName}
-                          </h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-stone-950 line-clamp-2">{hotel.hotelName}</h4>
                           {hotel.hotelSpecial && (
                             <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
                               {hotel.hotelSpecial}

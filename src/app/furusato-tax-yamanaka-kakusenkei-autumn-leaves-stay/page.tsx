@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              「山中や 菊は手折らじ 湯の匂い」の名句の舞台！鶴仙渓の奇岩と紅葉絵巻
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">「山中や 菊は手折らじ 湯の匂い」の名句の舞台！鶴仙渓の奇岩と紅葉絵巻</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             松尾芭蕉が有馬・草津と並ぶ「扶桑三名湯」と称賛した石川県・加賀温泉郷の「山中温泉」。秋のハイライトは、大聖寺川沿いに約1.3km続く名勝「鶴仙渓（かくせんけい）」の紅葉散策です。優美な総檜造りの「こおろぎ橋」や、草月流家元・勅使河原宏氏デザインの斬新な紅紫色の「あやとり橋」から見下ろす錦秋渓谷は圧巻。渓流沿いの「川床」でスイーツを楽しんだ後は、開湯1300年のまろやかなカルシウム・ナトリウム-硫酸塩泉に癒やされ、11月6日に解禁される本場北陸のズワイガニ（加能ガニ・香箱ガニ）や能登牛をふるさと納税トラベルクーポンでお得に贅沢に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                鶴仙渓遊歩道とあやとり橋・こおろぎ橋の紅葉パノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                鶴仙渓遊歩道とあやとり橋・こおろぎ橋の紅葉パノラマ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 奇岩・怪石が連なる清流沿いの遊歩道。S字を描くあやとり橋の曲線美と紅葉のコントラスト、風情ある木造のこおろぎ橋など、写真映えする名所が続きます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                11月6日解禁！石川県産ブランド「加能ガニ＆香箱ガニ」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                11月6日解禁！石川県産ブランド「加能ガニ＆香箱ガニ」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 青いタグが付いたオスの加能ガニ（ズワイガニ）と、内子・外子がぎっしり詰まったメスの香箱ガニ。獲れたてを茹でガニやカニ刺し、甲羅焼きで贅沢に食べ比べできます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                伝統工芸「山中漆器」の器でいただく加賀会席料理
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                伝統工芸「山中漆器」の器でいただく加賀会席料理</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 山中漆器や九谷焼の美しい器に盛り付けられる能登牛ステーキ、日本海の寒ブリや甘エビ、加賀野菜の治部煮など、目と舌で楽しむ極上の加賀会席を堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.64 <span className="text-stone-400 text-xs">(1878件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    山中温泉　かがり吉祥亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">山中温泉　かがり吉祥亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 石川県加賀市山中温泉こおろぎ町ニ1-1 ｜ 加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより16分。金沢・福井へは車で1時間
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.73 <span className="text-stone-400 text-xs">(1649件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    山中温泉　吉祥やまなか
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">山中温泉　吉祥やまなか</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 石川県加賀市山中温泉東町1-ホ14-3 ｜ 加賀温泉駅・小松空港から無料送迎あり（要予約/定時便）【車】加賀ICより14分。金沢・福井へは車で1時間
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.58 <span className="text-stone-400 text-xs">(977件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    山中温泉　白鷺湯たわらや
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">山中温泉　白鷺湯たわらや</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 石川県加賀市山中温泉東町２丁目ヘ-1 ｜ ＪＲ加賀温泉駅からバスで山中温泉バスターミナル２５分。さらに徒歩３分。（無料送迎有。要予約１４：００～１８：００）。
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】山中温泉 かがり吉祥亭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】山中温泉 かがり吉祥亭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と山中温泉 かがり吉祥亭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と山中温泉 かがり吉祥亭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -55,9 +55,7 @@ export default function TakedaCastleAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            秋の晴れた早朝だけに出会える「奇跡の天空パノラマ」
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">秋の晴れた早朝だけに出会える「奇跡の天空パノラマ」</h2>
           <p className="mb-4 text-stone-700">
             標高353mの古城山山頂に築かれた竹田城跡。寒暖差の大きくなる10月から11月にかけてのよく晴れた早朝、濃い朝霧が発生し、まるで白い雲の海に城が浮かんでいるような神秘的な姿を見せます。対岸の朝来山中腹にある「立雲峡（りつうんきょう）」展望台から見渡すその姿は、「日本のマチュピチュ」と称されるにふさわしい光景です。
           </p>
@@ -69,10 +67,8 @@ export default function TakedaCastleAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！竹田城跡周辺の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！竹田城跡周辺の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function TakedaCastleAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.73</span>
                     <span className="text-stone-400 text-xs">(69件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">竹田城下まち　朱々　‐ＳｈｕＳｈｕ‐</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / ＪＲ播但線　竹田駅より徒歩１分（約100ｍ）／北近畿自動車道和田山IC～竹田方面へお車５分
                   </p>
@@ -142,9 +136,7 @@ export default function TakedaCastleAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.67</span>
                     <span className="text-stone-400 text-xs">(222件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    竹田城　城下町　ホテルＥＮ（えん）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">竹田城　城下町　ホテルＥＮ（えん）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / JR播但線　竹田駅より徒歩にて3分（駅より250ｍ）
                   </p>
@@ -189,9 +181,7 @@ export default function TakedaCastleAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.65</span>
                     <span className="text-stone-400 text-xs">(248件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    有斐軒
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">有斐軒</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 和田山駅 / ＪＲ山陰本線　和田山駅より徒歩５分
                   </p>
@@ -236,9 +226,7 @@ export default function TakedaCastleAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.27</span>
                     <span className="text-stone-400 text-xs">(99件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    囲炉裏の宿　豊楽
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">囲炉裏の宿　豊楽</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 寺前駅 / ＪＲ播但線寺前駅より無料送迎15分。神崎南ICより峰山高原方向へ車で約15分。
                   </p>
@@ -283,9 +271,7 @@ export default function TakedaCastleAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.26</span>
                     <span className="text-stone-400 text-xs">(222件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    竹田町屋　寺子屋　はな亭
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">竹田町屋　寺子屋　はな亭</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 竹田（兵庫）駅 / 北近畿自動車道・播但有料道路和田山ＩＣから車で10分。ＪＲ和田山駅乗り換え7分のＪＲ竹田駅より徒歩にて１分
                   </p>
@@ -330,9 +316,7 @@ export default function TakedaCastleAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の竹田城跡：天空の城の幻想的な雲海と但馬牛グルメ！城下町を満喫するおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function TakedaCastleAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の竹田城跡」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の竹田城跡」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            万葉の昔から愛される眉山（びざん）のなだらかな稜線と、新町川の水面に映る街明かり——阿波踊りの熱気と地鶏美食に満たされる「徳島スマートステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">万葉の昔から愛される眉山（びざん）のなだらかな稜線と、新町川の水面に映る街明かり——阿波踊りの熱気と地鶏美食に満たされる「徳島スマートステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             神戸・三宮や大阪から明石海峡大橋・大鳴門橋を経由する高速バスで約2時間〜2時間半。四国の東の玄関口として製薬産業や化学・電子産業が盛んな徳島市。四国三郎・吉野川のデルタ地帯に発達した水の都であり、8月の阿波おどり期間中には国内外から100万人を超える人々で沸き返ります。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR徳島駅直結・高速バスターミナルすぐ！眉山を一望する四国屈指のランドマークシティホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  JRホテルクレメント徳島 —— 駅ナカ直結の安心と品格。広々とした客室と地元徳島の旬食材を味わう美食空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">JRホテルクレメント徳島 —— 駅ナカ直結の安心と品格。広々とした客室と地元徳島の旬食材を味わう美食空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   新町川のほとりに佇むリバーサイドリゾート！自家源泉の天然温泉大浴場「華の湯」完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  徳島グランヴィリオホテル —— 水都・徳島のオアシス。川沿いの絶景露天温泉と多彩な和洋レストラン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">徳島グランヴィリオホテル —— 水都・徳島のオアシス。川沿いの絶景露天温泉と多彩な和洋レストラン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR徳島駅前徒歩1分！全室シモンズ製ベッド完備の機能的で清潔なスタイリッシュホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル徳島駅前 —— 駅前の好ロケーション。ワイドデスクと充実設備でビジネスを完全サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル徳島駅前 —— 駅前の好ロケーション。ワイドデスクと充実設備でビジネスを完全サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              徳島「阿波尾鶏＆徳島ラーメン」を一人旅で満喫するグルメ術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">徳島「阿波尾鶏＆徳島ラーメン」を一人旅で満喫するグルメ術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 徳島ラーメンは「生卵」をトッピングしてご飯と一緒にすする
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 徳島ラーメンは「生卵」をトッピングしてご飯と一緒にすする</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 濃厚な甘辛豚骨醤油スープ「茶系（いのたに、東大など）」が王道。すき焼きのように甘辛い豚バラ肉を生卵に絡めながら食べるのが絶品。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 夜は駅前居酒屋で地鶏「阿波尾鶏の骨付きもも焼き」とすだち酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 夜は駅前居酒屋で地鶏「阿波尾鶏の骨付きもも焼き」とすだち酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 脂肪が少なく引き締まった肉質と深いコク。徳島特産のすだちをキュッと搾って辛口地酒「鳴門鯛」とともに。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 眉山ロープウェイで山頂へ登り徳島平野と紀伊水道を一望
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 眉山ロープウェイで山頂へ登り徳島平野と紀伊水道を一望</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 阿波おどり会館からロープウェイで約6分。晴れた日には淡路島や和歌山方面まで見渡せる絶景スポットです。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>関西（大阪・神戸）から徳島へ行くにはどのルートが便利ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>関西（大阪・神戸）から徳島へ行くにはどのルートが便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 三宮や大阪駅から発着する高速バス（JRバス・阪急バス・徳島バス等）が約15〜30分間隔で運行しており、乗り換えなしでJR徳島駅前へダイレクトに直結しています。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>徳島空港（阿波おどり空港）から市内への移動はどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>徳島空港（阿波おどり空港）から市内への移動はどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 飛行機の発着に合わせてJR徳島駅直行の空港連絡バスが運行しており、約25〜30分で駅前バスターミナルへスムーズにアクセスできます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＪＲホテルクレメント徳島を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＪＲホテルクレメント徳島を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

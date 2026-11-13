@@ -285,9 +285,7 @@ export default function NaraParkKasugaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-500 pl-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              朱塗りの回廊と静謐な白銀！冬の奈良公園・春日大社が旅人の心を洗う理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">朱塗りの回廊と静謐な白銀！冬の奈良公園・春日大社が旅人の心を洗う理由</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               世界遺産の荘厳な神仏の杜、冬毛に包まれた神鹿、古都の奥深きもてなし
             </p>
@@ -312,9 +310,7 @@ export default function NaraParkKasugaWinterPage() {
         {/* 5 Hotels Detail Section */}
         <section className="space-y-10">
           <div className="text-center space-y-3">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-              奈良公園・ならまちで冬の静謐を愛でる厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">奈良公園・ならまちで冬の静謐を愛でる厳選名宿5選</h2>
             <p className="text-slate-600 text-sm sm:text-base max-w-2xl mx-auto">
               楽天トラベル公式APIからリアルタイムに取得した信頼の宿泊施設。創業110余年のクラシックホテルから客室露天風呂付きリゾートまで厳選しました。
             </p>
@@ -364,12 +360,10 @@ export default function NaraParkKasugaWinterPage() {
                     </div>
 
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-emerald-600 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer nofollow" className="flex items-center gap-2 group">
                           <span>{hotel.name}</span>
                           <ExternalLink className="w-4 h-4 opacity-50 group-hover:opacity-100 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs sm:text-sm text-slate-500 mt-1 font-medium">
                         {hotel.special}
                       </p>
@@ -426,9 +420,7 @@ export default function NaraParkKasugaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-500 pl-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の奈良公園・春日大社を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の奈良公園・春日大社を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               ならまち散策、東大寺大仏殿見学、大和牛すき焼き、早朝の春日大社新春初詣を巡る静謐な旅プラン
             </p>
@@ -481,47 +473,37 @@ export default function NaraParkKasugaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-emerald-500 pl-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の奈良公園・春日大社完全攻略：初詣・大仏殿・大和牛の心得
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の奈良公園・春日大社完全攻略：初詣・大仏殿・大和牛の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Landmark className="w-5 h-5 text-emerald-500" />
-                春日大社の釣燈籠と早朝参拝の静寂美
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Landmark className="w-5 h-5 text-emerald-500" />
+                春日大社の釣燈籠と早朝参拝の静寂美</h3>
               <p className="leading-relaxed">
                 春日大社は平安時代から貴族や武士、庶民によって奉納された約3,000基の燈籠（石燈籠2,000基、青銅の釣燈籠1,000基）を有します。新春三が日の日中は初詣客で大変混雑しますが、開門直後の早朝7:00〜8:30は観光客もまばら。杉木立を抜ける朝日の光条と朱塗りの柱、青銅の燈籠が織りなす静謐な光景は息を呑む美しさで、新年の心静かな誓いに最高の時間帯です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                東大寺大仏殿の見学と観相窓の特別開扉
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                東大寺大仏殿の見学と観相窓の特別開扉</h3>
               <p className="leading-relaxed">
                 東大寺大仏殿は幅57m、奥行き50m、高さ48mの世界最大級の木造建築。冬の引き締まった冷気の中で堂内に入ると、大仏様（盧舎那仏）の圧倒的な存在感に包まれます。元旦の0:00〜8:00には大仏殿正面の「観相窓（かんそうまど）」が開扉され、堂外の中門から大仏様のお顔を拝むことができる年越し万灯会が行われます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <TreePine className="w-5 h-5 text-teal-500" />
-                冬毛に包まれた奈良の鹿との正しい接し方
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><TreePine className="w-5 h-5 text-teal-500" />
+                冬毛に包まれた奈良の鹿との正しい接し方</h3>
               <p className="leading-relaxed">
                 奈良公園の鹿たちは、冬になると濃い茶褐色の厚い冬毛に包まれ、ふっくらとした愛らしい姿になります。春日大社の神使として大切に守られており、鹿せんべいを手に持つとお辞儀をしてくれます。焦らさずにスムーズに与え、なくなったら両手の平をパーにして見せるのが円滑なコミュニケーションの秘訣です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-500" />
-                冬の大和美食「大和牛」「飛鳥鍋」「三輪にゅうめん」
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-500" />
+                冬の大和美食「大和牛」「飛鳥鍋」「三輪にゅうめん」</h3>
               <p className="leading-relaxed">
                 冬の奈良の味覚を代表する「大和牛」は、上品な霜降りと赤身のコクが調和した銘柄牛。熱々のすき焼きでいただくのが最高です。また、牛乳に鶏出汁と白味噌を合わせた奈良伝統の「飛鳥鍋」は、まろやかなコクが冷えた体に染み渡る郷土の味。伝統の手延べ三輪そうめんを温かい出汁でいただく「にゅうめん」も、冬の散策途中のランチに欠かせません。
               </p>
@@ -533,27 +515,21 @@ export default function NaraParkKasugaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-500 pl-4">
             <span className="text-emerald-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Logistics</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬（11月・12月・1月）の奈良気候・底冷え対策と公園内アクセス術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬（11月・12月・1月）の奈良気候・底冷え対策と公園内アクセス術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <ShieldCheck className="w-5 h-5 text-emerald-500" />
-                盆地特有の底冷えと寺社拝観の足元防寒
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-emerald-500" />
+                盆地特有の底冷えと寺社拝観の足元防寒</h3>
               <p className="leading-relaxed">
                 奈良盆地は内陸性気候のため、冬は足元からしんしんと冷え込む「底冷え」が特徴です。寺院の堂内を拝観する際は靴を脱いで板張りの廊下を歩く機会が多いため、厚手のウール靴下やタイツ、携帯用スリッパがあると寒さを防げます。靴は厚底のクッション性の高いスニーカーまたは防寒ブーツを選び、ダウンコートとマフラー、手袋を万全に装備しましょう。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Compass className="w-5 h-5 text-indigo-500" />
-                ぐるっとバスと近鉄・JR奈良駅の使い分け
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Compass className="w-5 h-5 text-indigo-500" />
+                ぐるっとバスと近鉄・JR奈良駅の使い分け</h3>
               <p className="leading-relaxed">
                 近鉄奈良駅は奈良公園に近く徒歩約15分で大仏殿や興福寺へアクセス可能ですが、JR奈良駅からは少し距離があります。土日祝を中心に1回100円で運行している「ぐるっとバス（奈良公園ルート・若草山麓ルート）」を活用すれば、主要寺社間を寒さに震えることなく快適に移動できます。京都や大阪（難波・梅田）からも電車で約35〜45分とアクセス抜群です。
               </p>
@@ -565,18 +541,14 @@ export default function NaraParkKasugaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-emerald-500 pl-4">
             <span className="text-emerald-600 font-bold text-xs uppercase tracking-wider block">FAQ</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の奈良公園・春日大社・東大寺旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の奈良公園・春日大社・東大寺旅行 よくある質問</h2>
           </div>
 
           <div className="divide-y divide-slate-100 space-y-4">
             {faqData.map((item: any, idx: number) => (
               <div key={idx} className="pt-4 first:pt-0 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="bg-emerald-100 text-emerald-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="bg-emerald-100 text-emerald-700 text-xs px-2 py-0.5 rounded-md shrink-0 font-extrabold mt-0.5">Q</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {item.a}
                 </p>
@@ -587,10 +559,8 @@ export default function NaraParkKasugaWinterPage() {
 
         {/* Internal Feature Links Section */}
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-8 space-y-4 border border-slate-200">
-          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-emerald-600" />
-            あわせて読みたい大和路・近畿の冬特選特集記事
-          </h2>
+          <h2 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-emerald-600" />
+            あわせて読みたい大和路・近畿の冬特選特集記事</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             奈良吉野や長谷寺、京都・大阪・滋賀など近隣の魅力あふれる冬旅特集もぜひご覧ください。
           </p>

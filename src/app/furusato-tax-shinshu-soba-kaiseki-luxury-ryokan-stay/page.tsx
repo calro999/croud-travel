@@ -108,9 +108,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  挽きたて・打ちたて・茹でたての「三たて」！職人が目の前で打つ極上の喉越し
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">挽きたて・打ちたて・茹でたての「三たて」！職人が目の前で打つ極上の喉越し</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 石臼で丁寧に挽いた地元産そば粉を使用し、職人がその日の気温や湿度を見極めて手打ち。茹でたてを氷水でキュッと締めた十割蕎麦は、噛むほどに甘みが広がり、鮮烈な香りが鼻腔をくすぐります。
@@ -123,9 +121,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  安曇野本わさび、旬の山菜天ぷら、信州牛！蕎麦前と会席料理の贅沢なマリアージュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">安曇野本わさび、旬の山菜天ぷら、信州牛！蕎麦前と会席料理の贅沢なマリアージュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 名水で育った爽やかな辛味の生わさび、タラの芽やフキノトウの揚げたて天ぷら、信州牛の朴葉味噌焼き。蕎麦の前に地酒をちびちびと楽しむ「蕎麦前」の粋な文化を宿の会席でゆったりと堪能できます。
@@ -138,9 +134,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  北アルプスの大自然と柔らかな美肌温泉！心身を清らかにリセットする山里リトリート
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">北アルプスの大自然と柔らかな美肌温泉！心身を清らかにリセットする山里リトリート</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 標高の高い澄んだ空気と、古くから湯治場として栄えた信州の名湯。静かな山あいの温泉で身体を温めた後にいただく温もりある蕎麦料理は、都会で疲れた胃腸と心身を優しく癒やしてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県長野市・日本三大蕎麦戸隠そば発祥の宿坊！創業二百有余年の伝統手打ち蕎麦と神職料理
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    戸隠のそば宿・宿坊極意
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">戸隠のそば宿・宿坊極意</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     修験道の聖地・戸隠神社の門前に位置し、江戸時代から二百有余年にわたり神職の宿坊として歴史を紡ぐ名旅館。日本三大蕎麦の一つである「戸隠そば」の伝統を守り、店主自らが手打ちする戸隠名物の「ぼっち盛り（一口サイズに束ねた盛り付け）」の十割蕎麦は、香り・コシ・喉越しのすべてが完璧な逸品です。宿坊ならではの神職料理をベースに、季節の山菜や岩魚、戸隠の大根など地元食材を取り入れた滋味深い手作り会席料理が並びます。国の登録有形文化財にも指定された茅葺き屋根の風格ある館内で、神聖な祈りと本物の蕎麦文化を体感できます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県安曇野市・名水わさび田の里！築百五十年の古民家離れと十割手打ち蕎麦会席の名隠れ宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    安曇野　にし屋別荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">安曇野　にし屋別荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     北アルプスの麓、安曇野・穂高温泉郷の豊かな赤松林の中に佇む、全室離れの静寂に包まれた大人の隠れ宿。築百五十年の古民家を移築した趣ある客室は、囲炉裏や太い梁が温かな風情を醸し出しています。夕食の主役は、毎朝館内の蕎麦打ち場で主人が手打ちする安曇野産十割蕎麦。名水百選に選ばれる澄んだ伏流水と安曇野特産のおろし立て生わさびでいただく蕎麦は、驚くほど澄んだ甘みと力強い風味が広がります。肌に優しい単純温泉の源泉かけ流し風呂とともに、田舎に帰ってきたかのような心安らぐ休日をお過ごしいただけます。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県松本市・国宝松本城の奥座敷！石臼挽き手打ち蕎麦会席と全館畳敷きの和の温もり
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    信州松本　浅間温泉　別亭　一花
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">信州松本　浅間温泉　別亭　一花</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     国宝松本城から車で約10分、開湯千三百年を誇る浅間温泉に位置し、全館すべて畳敷きで素足のまま寛げる和モダン温泉旅館。夕食の会席料理では、信州八ヶ岳山麓や安曇野の契約農家から届く厳選そば粉を石臼で挽き、熟練の料理人が打ち上げる本格手打ち蕎麦を提供。信州牛のすき焼きや旬の川魚料理とともに、信州の地酒とのペアリングも存分に楽しめます。美肌効果の高い浅間温泉の柔らかな湯を湛えた大浴場や露天風呂で旅の疲れを癒やし、城下町の歴史散策と蕎麦美食を心ゆくまで満喫できます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】戸隠のそば宿・宿坊極意を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】戸隠のそば宿・宿坊極意を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoShinshuSobaKaisekiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と戸隠のそば宿・宿坊極意の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と戸隠のそば宿・宿坊極意の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

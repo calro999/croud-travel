@@ -266,10 +266,8 @@ export default function HakoneWinterPage() {
             <Sparkles className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 箱根富士山絶景特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月箱根芦ノ湖の冬晴れ富士山絶景】<br className="hidden sm:inline" />
-            澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月箱根芦ノ湖の冬晴れ富士山絶景】<br className="hidden sm:inline" />
+            澄み渡る空と雪化粧の富士を望む露天風呂＆極上湯宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             年間で最も晴天率が高く、空気が凛と澄み渡る初冬の芦ノ湖。紺碧の湖面に映る雪化粧の白銀富士、朱色の箱根神社平和の鳥居。絶景露天風呂で身体を温め、相模湾の冬魚と足柄牛に舌鼓を打つ極上の箱根リゾートステイ。
           </p>
@@ -295,9 +293,7 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Clear Sky & Majestic Mt. Fuji</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1年で最も空気が研ぎ澄まされる季節。芦ノ湖に広がる白銀富士の絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1年で最も空気が研ぎ澄まされる季節。芦ノ湖に広がる白銀富士の絶景</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function HakoneWinterPage() {
           </p>
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-cyan-700" />
-                富士山を確実に狙うなら「早朝の芦ノ湖畔」がベスト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-cyan-700" />
+                富士山を確実に狙うなら「早朝の芦ノ湖畔」がベスト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 初冬の富士山は午前中に最も美しく姿を現します。芦ノ湖畔の宿に宿泊していれば、観光客の少ない朝一番の澄み切った絶景を独占できます。
               </p>
@@ -332,9 +326,7 @@ export default function HakoneWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の箱根芦ノ湖で満喫する3つの特権
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の箱根芦ノ湖で満喫する3つの特権</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function HakoneWinterPage() {
         <section id="hotel-list" className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月に泊まりたい箱根芦ノ湖の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月に泊まりたい箱根芦ノ湖の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの最新空室状況・宿泊プランと連携。富士山ビューの名門ホテルから客室露天風呂付き隠れ家までを厳選。
             </p>
@@ -399,9 +389,7 @@ export default function HakoneWinterPage() {
                           <span className="text-stone-400">({hotel.reviews}件のクチコミ)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                         {hotel.access}
@@ -430,17 +418,13 @@ export default function HakoneWinterPage() {
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-cyan-900 flex items-center gap-1.5 mb-1">
-                            <Coffee className="w-3.5 h-3.5" /> 客室選びのポイント
-                          </h4>
+                          <h4 className="text-xs font-bold text-cyan-900 flex items-center gap-1.5 mb-1"><Coffee className="w-3.5 h-3.5" /> 客室選びのポイント</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.roomTip}
                           </p>
                         </div>
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1">
-                            <Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり
-                          </h4>
+                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1"><Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.gourmetTip}
                           </p>
@@ -451,10 +435,8 @@ export default function HakoneWinterPage() {
 
                   {/* Highlights */}
                   <div className="bg-cyan-50/50 rounded-2xl p-4 sm:p-5 border border-cyan-100/80 space-y-2.5">
-                    <h4 className="text-xs font-bold text-cyan-950 uppercase tracking-wider flex items-center gap-1.5">
-                      <CheckCircle2 className="w-4 h-4 text-cyan-600" />
-                      この宿のおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-cyan-950 uppercase tracking-wider flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-cyan-600" />
+                      この宿のおすすめポイント</h4>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                       {hotel.highlights.map((hl, hIdx) => (
                         <div key={hIdx} className="flex items-start gap-2 text-xs text-stone-700">
@@ -494,9 +476,7 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の箱根芦ノ湖を満喫する「1泊2日 富士山絶景＆極上温泉リゾートモデルコース」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の箱根芦ノ湖を満喫する「1泊2日 富士山絶景＆極上温泉リゾートモデルコース」</h2>
             </div>
           </div>
 
@@ -608,18 +588,14 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Onsen Science & Wellness</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                箱根芦ノ湖エリアの泉質特徴と冬の高原リフレッシュ入浴法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">箱根芦ノ湖エリアの泉質特徴と冬の高原リフレッシュ入浴法</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-600" />
-                蛸川温泉・姥子温泉の多彩な泉質
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-600" />
+                蛸川温泉・姥子温泉の多彩な泉質</h3>
               <p>
                 芦ノ湖周辺には、敷地内から湧出する蛸川温泉（単純温泉・カルシウム硫酸塩泉）や、歴史ある姥子温泉（単純温泉）などがあります。
               </p>
@@ -629,10 +605,8 @@ export default function HakoneWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                高原の冷涼な空気と温湯による自律神経の整え
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                高原の冷涼な空気と温湯による自律神経の整え</h3>
               <p>
                 標高720mの芦ノ湖畔は冬期、気温がぐっと下がります。熱めの露天風呂に浸かりながら、顔や頭部だけ冷たい外気に触れることで「頭寒足熱」の理想的な血行循環が生まれます。
               </p>
@@ -651,9 +625,7 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Souvenirs & Crafts</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の箱根旅行で手に入れたい伝統工芸＆厳選銘菓
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の箱根旅行で手に入れたい伝統工芸＆厳選銘菓</h2>
             </div>
           </div>
 
@@ -692,18 +664,14 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Travel & Photo Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の箱根芦ノ湖 富士山撮影と観光の実用アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の箱根芦ノ湖 富士山撮影と観光の実用アドバイス</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Snowflake className="w-4 h-4 text-cyan-600" />
-                富士山撮影のゴールデンタイムと撮影ポイント
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Snowflake className="w-4 h-4 text-cyan-600" />
+                富士山撮影のゴールデンタイムと撮影ポイント</h3>
               <p>
                 富士山を最もクリアに撮影できる時間帯は、日の出直後から午前9時〜10時頃です。午後になると気温上昇に伴って上昇気流が発生し、山頂付近に雲がかかりやすくなります。
               </p>
@@ -713,10 +681,8 @@ export default function HakoneWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                標高720mの寒さ対策と交通アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                標高720mの寒さ対策と交通アクセス</h3>
               <p>
                 芦ノ湖は箱根湯本よりも大幅に標高が高く、真冬並みの防寒が必要です。防風性のあるコート、マフラー、手袋、カイロを必ず携行しましょう。
               </p>
@@ -735,48 +701,38 @@ export default function HakoneWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の箱根芦ノ湖旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の箱根芦ノ湖旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                11月と12月ではどちらが富士山が綺麗に見えますか？紅葉との兼ね合いは？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                11月と12月ではどちらが富士山が綺麗に見えますか？紅葉との兼ね合いは？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 11月上旬〜中旬は芦ノ湖畔の紅葉が美しく、紅葉越しの富士山が楽しめます。11月下旬から12月にかけては富士山の冠雪が裾野近くまで広がり、大気中の湿度がさらに下がって空気の透明度が最高潮に達します。純白の富士山をくっきりと見たい方には12月が最もおすすめです。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                冬の芦ノ湖海賊船は運行していますか？寒さは厳しいですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                冬の芦ノ湖海賊船は運行していますか？寒さは厳しいですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 箱根海賊船は冬期も通常運行しています（天候・強風による運休を除く）。デッキに出ると湖上の冷たい風が強く吹き付けるため、防寒着や耳当て、手袋が必須です。船内には暖房の効いた快適な客室があり、大きな窓から暖かく富士山と芦ノ湖を眺めることもできます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                箱根神社の平和の鳥居での写真撮影の混雑状況は？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                箱根神社の平和の鳥居での写真撮影の混雑状況は？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 日中の時間帯は平和の鳥居前で記念撮影を行う観光客で行列ができることが多く、30分〜1時間待ちになることもあります。芦ノ湖畔に宿泊すれば、朝7時台〜8時台の静かな時間帯に訪れることができるため、待ち時間なしで幻想的な朝日と鳥居の写真が撮影できます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-extrabold">Q.</span>
-                冬の箱根グルメでおすすめのものは何ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                冬の箱根グルメでおすすめのものは何ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 芦ノ湖名物のワカサギ料理（フライや天ぷら）、箱根山麓で育つ「足柄牛」のすき焼き・ステーキ、小田原漁港直送の新鮮な金目鯛や寒ブリなどの地魚、そして冬に粘りと甘みが増す箱根名物の「自然薯（じねんじょ）とろろ蕎麦」が絶品です。
               </p>
@@ -788,9 +744,7 @@ export default function HakoneWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -803,9 +757,7 @@ export default function HakoneWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">富士山特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">
-                富士河口湖紅葉まつりと逆さ富士を望む露天風呂宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-cyan-900 transition-colors">富士河口湖紅葉まつりと逆さ富士を望む露天風呂宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 もみじ回廊ライトアップと湖畔から望む圧倒的な冬富士パノラマ。
               </p>
@@ -816,9 +768,7 @@ export default function HakoneWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded">近隣温泉特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                伊豆の極上金目鯛しゃぶしゃぶとオーシャンビュー温泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">伊豆の極上金目鯛しゃぶしゃぶとオーシャンビュー温泉</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 箱根から足を伸ばせる伊豆半島で冬が旬の脂の乗った金目鯛を堪能。
               </p>
@@ -829,9 +779,7 @@ export default function HakoneWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-cyan-50/60 border border-stone-200 hover:border-cyan-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">首都圏冬ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                東京丸の内シャンパンゴールドイルミネーション宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">東京丸の内シャンパンゴールドイルミネーション宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 丸の内仲通りの光の並木道と東京駅周辺のラグジュアリーホテル。
               </p>
@@ -840,9 +788,7 @@ export default function HakoneWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              神奈川県および関東・甲信越エリアのおすすめ温泉宿一覧
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">神奈川県および関東・甲信越エリアのおすすめ温泉宿一覧</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/kanagawa/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">神奈川県の宿一覧</Link>
               <Link href="/prefectures/shizuoka/" className="px-3 py-1.5 bg-stone-100 hover:bg-cyan-100 text-stone-700 hover:text-cyan-900 rounded-lg transition-colors font-medium">静岡県の宿一覧</Link>

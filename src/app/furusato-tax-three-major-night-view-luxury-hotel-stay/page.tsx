@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>宝石箱をひっくり返したような光の絨毯。天空の客室から愛でる夜景のパノラマ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>宝石箱をひっくり返したような光の絨毯。天空の客室から愛でる夜景のパノラマ</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             すり鉢状の地形に光が立体的に広がる長崎、港と六甲山の稜線が美しく調和する神戸、そして両側を海に挟まれたくびれのシルエットが幻想的な函館。日本を代表する三大夜景ホテルでは、窓一面に広がる光の海を眺めながらシャンパンを傾ける優雅な時間が流れます。楽天ふるさと納税を活用すれば、高層階夜景確約ルームやクラブラウンジ付きプランも最大30%OFFで贅沢に予約可能です。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    高層階・海側・夜景ビュー確約ルームで感動のパノラマを独占
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">高層階・海側・夜景ビュー確約ルームで感動のパノラマを独占</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     部屋に入った瞬間に息を呑む1000万ドルの夜景。プライベートな空間で誰にも邪魔されず、夜景のきらめきとともに大切な人と特別なひとときを過ごせます。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ホテル最上階のクラブラウンジや夜景露天風呂の非日常体験
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ホテル最上階のクラブラウンジや夜景露天風呂の非日常体験</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     カクテルタイムの無料ドリンクやオードブルを片手に夜景を鑑賞できるラウンジアクセス。光の海を見下ろしながら湯船に浸かる展望大浴場も格別です。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    プロポーズ・結婚記念日・誕生日祝いのサプライズに最高の選択肢
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">プロポーズ・結婚記念日・誕生日祝いのサプライズに最高の選択肢</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     アニバーサリー特典（ケーキ・花束・ワイン）が付いたラグジュアリープランもふるさと納税の対象。一生の思い出に残る記念旅行を格安で叶えられます。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="nagasaki_nightview" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長崎県長崎市ふるさと納税：世界新三大夜景・稲佐山山頂からすり鉢状の長崎港を見下ろすホテル</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長崎県長崎市ふるさと納税：世界新三大夜景・稲佐山山頂からすり鉢状の長崎港を見下ろすホテル</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       モナコ、上海と並び「世界新三大夜景」に認定された長崎。稲佐山の中腹に建つホテルから望む長崎港の夜景は、山々に広がる街の灯りが星空のように輝く圧倒的なスケールを誇ります。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              稲佐山観光ホテル
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">稲佐山観光ホテル</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               長崎の夜景を最高にお楽しみいただけます。季節感を大切にしたお料理をご提供！全館無料Wi-Fi接続
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="kobe_nightview" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>兵庫県神戸市ふるさと納税：日本三大夜景・神戸六甲山テラス＆ベイエリアの摩天楼ステイ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>兵庫県神戸市ふるさと納税：日本三大夜景・神戸六甲山テラス＆ベイエリアの摩天楼ステイ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       大阪平野から神戸港まで100万ドルのパノラマが広がる六甲山。港に浮かぶポートタワーやメリケンパークのライトアップ、神戸牛ディナーとともにロマンチックな夜を演出します。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルオークラ神戸
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルオークラ神戸</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               神戸ポートタワーのとなり、35階建てホテル。夜景が自慢。ホテル～三宮間無料シャトルバス毎日運行
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              神戸ベイシェラトンホテル＆タワーズ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">神戸ベイシェラトンホテル＆タワーズ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               天然自家源泉100％・神戸六甲温泉「濱泉」（宿泊者無料）。三宮・新神戸から直通バス（有料）運行。
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ホテルプラザ神戸
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ホテルプラザ神戸</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               車アクセス良好★ユニバーサルシティまで20分圏内！ご家族やグループで楽しい思い出を♪
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="hakodate_nightview" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>北海道函館市ふるさと納税：函館山ロープウェイ至近・津軽海峡の漁火ときらめく街並み</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>北海道函館市ふるさと納税：函館山ロープウェイ至近・津軽海峡の漁火ときらめく街並み</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       扇形に広がる独特の地峡が生み出す奇跡の夜景。夜空を照らす街の光と、漆黒の津軽海峡に点々と浮かぶイカ釣り漁船の漁火が織りなす幻想的な景色を特等席の客室から楽しめます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              イマジンホテル＆リゾート函館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">イマジンホテル＆リゾート函館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【楽天トラベルゴールドアワード2025受賞！】海と星空が広がる【絶景露天風呂】
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              プレミアホテル－ＣＡＢＩＮ　ＰＲＥＳＩＤＥＮＴ－函館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">プレミアホテル－ＣＡＢＩＮ　ＰＲＥＳＩＤＥＮＴ－函館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               JR函館駅や空港発着バスターミナルまでわずか徒歩1分。アクセス抜群のシティホテルです。
                             </p>
@@ -645,9 +611,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              東急ステイ函館朝市　灯の湯（あかりのゆ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">東急ステイ函館朝市　灯の湯（あかりのゆ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               函館朝市の至近でビジネスや観光の拠点に便利！最上階には、函館の絶景を楽しめる露天風呂付温泉大浴場も！
                             </p>
@@ -753,9 +717,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -788,9 +750,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と稲佐山温泉 ホテルアマンディ ～長崎の日本三大夜景を一望～の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

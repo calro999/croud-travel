@@ -285,9 +285,7 @@ export default function ShizuokaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Deep Dive Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              駿河湾に浮かぶ冠雪富士と東照宮の極彩色！冬の静岡に満ちる開運の光
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">駿河湾に浮かぶ冠雪富士と東照宮の極彩色！冬の静岡に満ちる開運の光</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               霊峰富士を望む日本平の絶景回廊、徳川家康公の眠る国宝聖地、そして日本一のマグロ港
             </p>
@@ -328,9 +326,7 @@ export default function ShizuokaCityWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Handpicked Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の静岡・日本平・清水を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の静岡・日本平・清水を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルAPIから最新取得した、富士山絶景パノラマ・駅直結・最上階天然温泉完備の信頼宿
             </p>
@@ -365,9 +361,7 @@ export default function ShizuokaCityWinterPage() {
                       <span>{hotel.access}</span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-sm text-slate-600 leading-relaxed">
                       {hotel.story}
@@ -419,9 +413,7 @@ export default function ShizuokaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の静岡・清水を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の静岡・清水を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               日本平富士山絶景、久能山東照宮初詣、清水港本マグロ、青葉おでん街を巡る爽快プラン
             </p>
@@ -482,47 +474,37 @@ export default function ShizuokaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Travel Strategy</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の静岡・清水完全攻略：富士山鑑賞・初詣・港グルメの極意
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の静岡・清水完全攻略：富士山鑑賞・初詣・港グルメの極意</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-teal-500" />
-                日本平夢テラスでの富士山撮影ベストアングル
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Mountain className="w-5 h-5 text-teal-500" />
+                日本平夢テラスでの富士山撮影ベストアングル</h3>
               <p className="leading-relaxed">
                 夢テラスの3階展望回廊からは、駿河湾越しに富士山山頂まで遮るもののない大パノラマが広がります。午前8時〜10時は太陽光が富士山の前面を綺麗に照らすため、純白の雪肌がくっきりと写る絶好の撮影タイム。夕暮れ時は茜色に染まる紅富士と湾内の漁火が幻想的です。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-500" />
-                国宝・久能山東照宮の新春初詣とロープウェイ
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Building className="w-5 h-5 text-indigo-500" />
+                国宝・久能山東照宮の新春初詣とロープウェイ</h3>
               <p className="leading-relaxed">
                 日本平山頂からロープウェイでアクセスすれば、深い渓谷を渡りながら空中散歩を楽しめます。東照宮境内では家康公の神廟や極彩色の本殿へ参拝。元旦〜三が日は初詣で賑わいますが、午前9時前の早い便を利用することで、混雑を避けて厳かな空気の中で祈りを捧げることができます。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Utensils className="w-5 h-5 text-amber-500" />
-                清水港河岸の市での冬マグロ食べ比べ
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-500" />
+                清水港河岸の市での冬マグロ食べ比べ</h3>
               <p className="leading-relaxed">
                 清水港は日本一の冷凍マグロ水揚げ拠点。「河岸の市」のまぐろ館には専門店が並び、本マグロの大トロ・中トロ・赤身が贅沢に乗った海鮮丼を堪能できます。冬は脂の甘みが際立ち、一口ごとに濃厚な旨味が広がります。週末の昼時は混み合うため、11時前の早め訪問がおすすめです。
               </p>
             </div>
 
             <div className="bg-slate-50 p-6 rounded-2xl border border-slate-100 space-y-3">
-              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-orange-500" />
-                青葉おでん街の静岡おでんと地酒の夜
-              </h3>
+              <h3 className="font-bold text-base text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-orange-500" />
+                青葉おでん街の静岡おでんと地酒の夜</h3>
               <p className="leading-relaxed">
                 夜は静岡駅近くの「青葉横丁」「青葉おでん街」へ。提灯が連なるレトロな長屋に小さなおでん屋が並び、黒はんぺんや牛すじを煮込んだ真っ黒な出汁の香りが漂います。出汁粉と青海苔を振りかけて頬張り、静岡の地酒「磯自慢」や「初亀」の熱燗を合わせる時間は冬旅の醍醐味です。
               </p>
@@ -534,26 +516,20 @@ export default function ShizuokaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の静岡・清水：気候・服装・移動のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の静岡・清水：気候・服装・移動のアドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-500" />
-                温暖な気候と山頂の風対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-500" />
+                温暖な気候と山頂の風対策</h4>
               <p>
                 静岡市内は冬でも晴天が多く温暖ですが、日本平山頂や久能山東照宮は海からの強い風が吹き付けます。脱ぎ着しやすい防風コートやマフラー、手袋を持参し、体温調節を行いましょう。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-4 h-4 text-indigo-500" />
-                新幹線と路線バス・レンタカーの使い分け
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Building className="w-4 h-4 text-indigo-500" />
+                新幹線と路線バス・レンタカーの使い分け</h4>
               <p>
                 静岡駅へは東海道新幹線ひかり号で東京から約1時間。駅からは日本平山頂直行バスが運行しています。三保松原や由比港まで足を伸ばす場合は、駅前でレンタカーを借りるのも効率的です。
               </p>
@@ -565,18 +541,14 @@ export default function ShizuokaCityWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の静岡・日本平・清水観光・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の静岡・日本平・清水観光・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-teal-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-teal-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -587,10 +559,8 @@ export default function ShizuokaCityWinterPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-shizuoka-mishima-numazu-taisha-fuji-suruga-stay/"

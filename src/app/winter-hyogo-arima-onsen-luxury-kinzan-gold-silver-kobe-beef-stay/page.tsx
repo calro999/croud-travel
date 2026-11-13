@@ -109,9 +109,7 @@ export default function LuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【日本最古の名湯・金湯銀湯を客室露天で独り占め】2026-2027年11-12月初冬の兵庫・有馬温泉！名門・欽山＆中の坊瑞苑・極上神戸牛ステーキと伝統会席・ミシュラン掲載の大人の最高峰高級旅館5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             日本三古湯・三名泉の筆頭に君臨する兵庫県・有馬温泉。鉄分と塩分を豊富に含み赤褐色に輝く「金泉」と、炭酸とラドンを含む無色透明の「銀泉」というふたつの奇跡の湯を擁する聖地。ミシュランガイドに掲載され、一流の料亭旅館として名高い「欽山」や、大人の静寂を約束する「中の坊 瑞苑」など、全室スイートや専用露天風呂付き客室で過ごす最高峰の滞在。世界最高峰ブランド「神戸牛」の炭火焼きステーキや伝統会席を堪能する極上名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function LuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>世界に誇る奇跡の恵み！濃厚な赤褐色の「金泉」と清冽な「銀泉」の極上湯浴み</span>
-            </h3>
+              <span>世界に誇る奇跡の恵み！濃厚な赤褐色の「金泉」と清冽な「銀泉」の極上湯浴み</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               海水の約1.5〜2倍の塩分濃度を誇る金泉と、炭酸ガスやラドンを含む銀泉。大地の深部から湧き出る2つの異なる名湯を客室露天風呂や大浴場で贅沢に堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>世界の美食家を魅了する最高峰ブランド「神戸牛」の極上すき焼き＆ステーキ</span>
-            </h3>
+              <span>世界の美食家を魅了する最高峰ブランド「神戸牛」の極上すき焼き＆ステーキ</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               人肌でとろける究極の霜降りと芳醇な甘み。厳選された神戸牛の炭火焼きステーキやすき焼きを、一流の料理人が仕立てる伝統の京風懐石とともに個室で味わえます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>名門「欽山」＆「中の坊瑞苑」！ミシュラン掲載の洗練されたおもてなしと静寂</span>
-            </h3>
+              <span>名門「欽山」＆「中の坊瑞苑」！ミシュラン掲載の洗練されたおもてなしと静寂</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               小学生以下の宿泊をご遠慮いただく大人の宿など、喧騒を離れて静かに寛げる格式高い名旅館が集結。数寄屋造りの建築美と細やかなもてなしが特別な滞在を約束します。
             </p>
@@ -177,9 +167,7 @@ export default function LuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  有馬温泉　欽山
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">有馬温泉　欽山</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  有馬温泉　中の坊　瑞苑
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">有馬温泉　中の坊　瑞苑</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  有馬温泉　有馬グランドホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">有馬温泉　有馬グランドホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  有馬温泉　兵衛向陽閣
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">有馬温泉　兵衛向陽閣</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function LuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  有馬温泉　陶泉　御所坊
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">有馬温泉　陶泉　御所坊</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -546,28 +524,22 @@ export default function LuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>金泉のお湯に入るとタオルが茶色くなりますか？肌への刺激は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>金泉のお湯に入るとタオルが茶色くなりますか？肌への刺激は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               金泉は鉄分を豊富に含んでいるため、無色透明の源泉が空気に触れて赤褐色になります。白いタオルをお湯につけると茶色く染まりますので、宿で提供される専用タオルを使用するのが安心です。また塩分濃度が非常に高いため保温効果抜群ですが、肌が敏感な方は入浴後に軽くシャワーで洗い流すと肌触りがさっぱりします。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>有馬温泉の高級旅館は子ども連れでも宿泊できますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>有馬温泉の高級旅館は子ども連れでも宿泊できますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               旅館によってポリシーが異なります。『欽山』や『中の坊 瑞苑』など一部の名門宿は大人の静寂な時間を守るため、小学生以下のお子様の宿泊を制限（または利用可能日を限定）しています。一方で『有馬グランドホテル』や『兵衛向陽閣』などはファミリー向けの上質な特別フロアやファミリールームを備えており、三世代旅行にも大変おすすめです。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>12月の有馬温泉は積雪や凍結の心配はありますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>12月の有馬温泉は積雪や凍結の心配はありますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               有馬温泉は瀬戸内気候に属するため、豪雪地帯のように雪が積もることは稀です。ただし12月中旬以降の強い寒波の際や早朝・夜間には、山道や橋の上でうっすらと路面凍結が発生することがあります。高速道路（阪神高速北神戸線等）を利用する場合は、チェーン規制や冬用タイヤ規制の有無を事前に交通情報で確認しておくと安心です。
             </p>

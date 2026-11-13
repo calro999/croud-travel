@@ -58,10 +58,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-rose-600" />
-            高級リゾートのイメージを覆す！3,000円台〜泊まれる下田の穴場コスパ宿
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-rose-600" />
+            高級リゾートのイメージを覆す！3,000円台〜泊まれる下田の穴場コスパ宿</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             伊豆急行線の終着駅・伊豆急下田駅周辺や下田港エリアには、源泉かけ流しの天然温泉やオーシャンビューを誇りながら、3,000円台〜7,000円台で利用できるお得な温泉宿・リゾートホテルが点在しています。浮いた予算で下田名物の金目鯛一本煮付けを贅沢に味わいましょう。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  下田荘　浜辺の湯
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">下田荘　浜辺の湯</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   白浜海岸すぐ / 伊豆急下田駅よりバス約10分
@@ -151,9 +147,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  下田温泉　下田伊東園ホテルはな岬
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">下田温泉　下田伊東園ホテルはな岬</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊豆急下田駅より徒歩約6分 / 下田港を望む好立地
@@ -206,9 +200,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  下田温泉　下田ベイクロシオ
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">下田温泉　下田ベイクロシオ</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊豆急下田駅より車で5分（無料送迎あり）
@@ -261,9 +253,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  下田温泉　黒船ホテル
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">下田温泉　黒船ホテル</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊豆急下田駅より徒歩10分 / 下田港に面した老舗
@@ -316,9 +306,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  下田東急ホテル
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">下田東急ホテル</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   伊豆急下田駅より車で約6分（定時無料シャトルバスあり）
@@ -353,10 +341,8 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-rose-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の伊豆下田金目鯛旅行を格安に満喫するポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-rose-300"><CheckCircle2 className="w-5 h-5" />
+            秋の伊豆下田金目鯛旅行を格安に満喫するポイント</h2>
           <ul className="space-y-2 text-sm text-rose-100/90 leading-relaxed">
             <li>・秋の下田金目鯛は脂乗りが最上。下田港周辺の魚料理店「魚でん」や「徳造丸」の煮付け定食が絶品です。</li>
             <li>・ペリーロードのなまこ壁古民家カフェやレトロな街並みは、気候が穏やかな秋の散策に最高のロケーション。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「伊豆下田：旬の金目鯛煮付け＆名湯満喫！3,000円台〜泊まれる格安温泉ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -425,9 +409,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 伊豆下田エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">伊豆下田エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

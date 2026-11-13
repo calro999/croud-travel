@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            地上数十階から見渡す摩天楼の夜景と、シャンパン傾けるクラブラウンジ——日常を脱ぎ捨てて自分を甘やかす至極の週末ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">地上数十階から見渡す摩天楼の夜景と、シャンパン傾けるクラブラウンジ——日常を脱ぎ捨てて自分を甘やかす至極の週末ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             誰にも気を使わず、ただ美しい空間に身を委ね、美味しいお酒と軽食を味わいながら過ごす「ひとりホテルステイ」。近年、感度の高い大人たちの間で「自分への定期的なご褒美」として大人気を集めています。特にその魅力を最大化してくれるのが、専用フロア宿泊者だけが足を踏み入れることを許される「エグゼクティブ・クラブラウンジ」です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   浜離宮恩賜庭園と東京ベイを眼下に見下ろす唯一無二のビュー！全室に電子ピアノを備えた五感を刺激する次世代ラグジュアリー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  メズム東京、オートグラフ コレクション —— 竹芝ウォーターフロントに聳えるデザインホテル。水辺のパノラマと洗練のクラブラウンジ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">メズム東京、オートグラフ コレクション —— 竹芝ウォーターフロントに聳えるデザインホテル。水辺のパノラマと洗練のクラブラウンジ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   地上180mの天空に佇むマリオット最高峰ラグジュアリー！圧倒的なパノラマビューと洗練を極めたクラブラウンジ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ザ・プリンスギャラリー 東京紀尾井町 —— 都心の高層階で味わう静寂。額縁のような大窓から広がる摩天楼夜景と温水プール
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ザ・プリンスギャラリー 東京紀尾井町 —— 都心の高層階で味わう静寂。額縁のような大窓から広がる摩天楼夜景と温水プール</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   品川駅から徒歩約5分！約2万㎡の広大な日本庭園と全室バルコニー付きのゆとりあるモダン客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  グランドプリンスホテル新高輪 —— 都心とは思えない緑と静けさ。「クラブラウンジ」ホッピングで味わう優雅な休日
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">グランドプリンスホテル新高輪 —— 都心とは思えない緑と静けさ。「クラブラウンジ」ホッピングで味わう優雅な休日</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              クラブラウンジ付きご褒美ステイを120％楽しむタイムスケジュール
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">クラブラウンジ付きご褒美ステイを120％楽しむタイムスケジュール</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                14:30〜16:00: 専用カウンターでチェックイン＆アフタヌーンティー
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">14:30〜16:00: 専用カウンターでチェックイン＆アフタヌーンティー</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 並ばずにラウンジでスムーズにチェックイン。ウェルカムスイーツと厳選紅茶で旅の始まりを優雅にスタートします。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                17:30〜19:30: カクテルタイム（夕暮れアペリティフ）
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">17:30〜19:30: カクテルタイム（夕暮れアペリティフ）</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 空が夕焼けから藍色、夜景へと変わるゴールデンアワー。シャンパンやワインとともにシェフ特製のオードブルを味わいます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                21:00〜翌朝: 客室の深めのバスタブ＆極上ベッドで熟睡
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">21:00〜翌朝: 客室の深めのバスタブ＆極上ベッドで熟睡</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 バスソルトを入れてゆったり入浴した後は、最高級マットレスに包まれて誰にも邪魔されない深い眠りへ。翌朝はラウンジの贅沢モーニングが待っています。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>クラブラウンジに一人で行っても浮きませんか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>クラブラウンジに一人で行っても浮きませんか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 まったく浮きません。むしろ出張のエグゼクティブや一人で読書・PCワークを楽しんでいる大人のソロゲストが非常に多く、静かで落ち着いた雰囲気のため一人の方が快適に過ごせることも多いです。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>カクテルタイムのオードブルで夕食の代わりになりますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>カクテルタイムのオードブルで夕食の代わりになりますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ハイクラスホテルのラウンジでは、ローストビーフや温かい肉・魚料理、チーズ、ブレッドなどが豊富に並ぶため、軽めの夕食として十分に満足される方が大半です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】メズム東京、オートグラフ コレクションを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】メズム東京、オートグラフ コレクションを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とメズム東京、オートグラフ コレクションの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とメズム東京、オートグラフ コレクションの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

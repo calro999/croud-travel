@@ -297,10 +297,8 @@ export default function AwaraWinterPage() {
             <Eye className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 越前がに解禁と関西の奥座敷あわら温泉特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月あわら温泉の冬名湯と越前がに】<br className="hidden sm:inline" />
-            関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月あわら温泉の冬名湯と越前がに】<br className="hidden sm:inline" />
+            関西の奥座敷・庭園露天風呂と黄色いタグ付き越前蟹＆若狭牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             11月6日の越前がに漁解禁とともに冬の黄金期を迎える福井の奥座敷「あわら温泉」。74本もの独自源泉が注ぐ庭園露天風呂で温まり、三國港直送の黄色いタグ付き極上越前がにと若狭牛を味わい尽くす至福の冬旅。
           </p>
@@ -326,9 +324,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Awara Onsen Heritage & Echizen Crab</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                田園の井戸から湧き出た名湯と、黄色いタグが輝く冬の味覚王者
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">田園の井戸から湧き出た名湯と、黄色いタグが輝く冬の味覚王者</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -343,10 +339,8 @@ export default function AwaraWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-700" />
-                11月・12月あわら温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-700" />
+                11月・12月あわら温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月6日越前がに漁解禁・三國港直送の黄色タグ付き姿茹で蟹・74本の独自源泉を巡る庭園露天風呂・とろけるA5若狭牛・北陸新幹線直通の快適アクセス
               </p>
@@ -397,9 +391,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Natural Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                宿ごとに異なる湯触りを楽しむ「マイ源泉」の贅沢
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">宿ごとに異なる湯触りを楽しむ「マイ源泉」の贅沢</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -418,9 +410,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Winter Delicacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月6日解禁！黄色いタグ付き越前がにの真髄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月6日解禁！黄色いタグ付き越前がにの真髄</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -456,9 +446,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Enhanced Access</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                北陸新幹線「芦原温泉駅」直通で関東・関西からも快適旅
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">北陸新幹線「芦原温泉駅」直通で関東・関西からも快適旅</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -476,9 +464,7 @@ export default function AwaraWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-amber-700" />
               <span>Rakuten Travel Official API Verified</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11月・12月に泊まりたいあわら温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11月・12月に泊まりたいあわら温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。越前がに会席と庭園露天風呂で高評価を獲得している宿を厳選。
             </p>
@@ -517,9 +503,7 @@ export default function AwaraWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                         {hotel.story}
@@ -580,9 +564,7 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Fukui Local Flavors</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                あわら温泉で堪能する冬の二大味覚：越前がに＆若狭牛
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわら温泉で堪能する冬の二大味覚：越前がに＆若狭牛</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -601,29 +583,21 @@ export default function AwaraWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Suggested Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 あわら温泉〜東尋坊・三國港 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 あわら温泉〜東尋坊・三國港 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-amber-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-amber-800 uppercase tracking-wider">【1日目】新幹線で芦原温泉へ〜東尋坊の冬波と名湯</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                13:00 北陸新幹線「芦原温泉駅」到着 → バスで名勝「東尋坊」へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">13:00 北陸新幹線「芦原温泉駅」到着 → バスで名勝「東尋坊」へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 国の天然記念物・東尋坊の柱状節理の断崖絶壁を見学。冬の日本海が打ち寄せる迫力ある白波を鑑賞。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 あわら温泉の名宿にチェックイン → 庭園露天風呂で湯浴み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 あわら温泉の名宿にチェックイン → 庭園露天風呂で湯浴み</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 自家源泉の塩化物泉に浸かり、初冬の澄んだ空気と庭園の雪吊りを眺めながらゆったり温まる。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 越前がにフルコース＆若狭牛の豪華ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 越前がにフルコース＆若狭牛の豪華ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 黄色いタグ付き越前がにの姿茹で、甲羅みそ焼き、若狭牛ステーキを福井の地酒「黒龍」「梵」とともに堪能。
               </p>
@@ -631,15 +605,11 @@ export default function AwaraWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】あわら湯のまち散策〜三國湊レトロ通り</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂でリフレッシュ → 郷土料理朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂でリフレッシュ → 郷土料理朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 越前がにの出汁が効いた味噌汁や福井県産コシヒカリ、焼き魚の朝食で一日をスタート。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 あわら湯のまち駅「芦湯（総檜足湯）」＆三國湊レトロ通り散策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 あわら湯のまち駅「芦湯（総檜足湯）」＆三國湊レトロ通り散策</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 北前船で栄えた豪商の町・三國湊の格子戸が連なる風情ある町並みを散策し、お土産に越前がにや羽二重餅を購入。
               </p>
@@ -662,10 +632,8 @@ export default function AwaraWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -680,9 +648,7 @@ export default function AwaraWinterPage() {
         <section className="bg-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北陸・近畿の冬・雪見・カニ温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北陸・近畿の冬・雪見・カニ温泉特集</h2>
             <p className="text-xs sm:text-sm text-amber-100/90 leading-relaxed">
               11月・12月ならではの旬の味覚や雪景色を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

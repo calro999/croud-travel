@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月下旬〜11月上旬！東北屈指の大峡谷紅葉特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月上旬！宮城鳴子峡の紅葉】<br className="hidden sm:inline" />大深沢橋列車ビューと名湯鳴子温泉郷の宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月下旬〜11月上旬！宮城鳴子峡の紅葉】<br className="hidden sm:inline" />大深沢橋列車ビューと名湯鳴子温泉郷の宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             深さ約100mの断崖絶壁が燃えるような赤と黄金色に染まる東北屈指の紅葉名所「鳴子峡」！トンネルから現れる陸羽東線の列車絶景と、多彩な泉質を誇る名湯・鳴子温泉郷の厳選宿。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              深さ100mの大峡谷が錦秋に染まる！大深沢橋と鉄道が描く日本の秋景色
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">深さ100mの大峡谷が錦秋に染まる！大深沢橋と鉄道が描く日本の秋景色</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             宮城県大崎市に位置する「鳴子峡（なるこきょう）」は、大谷川の浸食によって削り出された深さ約100mの切り立ったV字峡谷です。秋を迎えると奇岩怪石の岩肌にモミジやカエデ、ブナ、マツの常緑樹が混ざり合い、息をのむほど鮮やかな紅葉の錦織り成すパノラマが広がります。峡谷に架かる大深沢橋と、紅葉の谷を抜ける陸羽東線の観光列車が徐行する光景は日本の秋の象徴。散策後は開湯千年の歴史を誇る鳴子温泉郷へ戻り、名湯に身を委ねて仙台牛の極上会席を味わいましょう。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-red-600 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳴子峡紅葉＆鳴子温泉郷満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳴子峡紅葉＆鳴子温泉郷満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-red-600 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-red-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳴子温泉郷旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳴子温泉郷旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

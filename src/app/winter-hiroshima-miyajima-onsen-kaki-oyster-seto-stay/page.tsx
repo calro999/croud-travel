@@ -269,9 +269,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Sacred Heritage & Winter Tastes</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の澄んだ瀬戸内海と至高の牡蠣｜11月・12月に宮島温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の澄んだ瀬戸内海と至高の牡蠣｜11月・12月に宮島温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Tides & Timeless Wonder</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                潮の満ち引きが描く社殿の二面性と初冬の澄んだ瀬戸内ブルー
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">潮の満ち引きが描く社殿の二面性と初冬の澄んだ瀬戸内ブルー</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -314,9 +310,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Iconic Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月厳選】宮島温泉の美食と大鳥居絶景を味わう名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月厳選】宮島温泉の美食と大鳥居絶景を味わう名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               厳島神社に隣接する格式高い老舗旅館から、自家源泉の潮湯温泉、対岸から大鳥居を望むナイトクルーズ付きリゾートまで厳選。
             </p>
@@ -347,9 +341,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
                 <div className="p-6 md:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-3">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900">{h.name}</h3>
                       <span className="text-lg sm:text-xl font-extrabold text-red-800">
                         {h.price} <span className="text-xs font-normal text-slate-500">/人〜</span>
                       </span>
@@ -413,9 +405,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                広島湾の太田川汽水域が育む大粒牡蠣と宮島潮湯温泉のミネラル
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">広島湾の太田川汽水域が育む大粒牡蠣と宮島潮湯温泉のミネラル</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -436,9 +426,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の宮島島内ステイ・厳島神社夜間参拝と牡蠣づくしの休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の宮島島内ステイ・厳島神社夜間参拝と牡蠣づくしの休日</h2>
             </div>
           </div>
 
@@ -507,38 +495,30 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Local Travel Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の宮島観光を深く楽しむための3つの知恵
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の宮島観光を深く楽しむための3つの知恵</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 text-sm text-slate-700">
             <div className="bg-red-50/40 rounded-2xl p-5 border border-red-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Waves className="w-5 h-5 text-red-600" />
-                満潮・干潮の潮汐表チェック
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Waves className="w-5 h-5 text-red-600" />
+                満潮・干潮の潮汐表チェック</h3>
               <p className="leading-relaxed">
                 宮島観光の鍵は潮の満ち引き。満潮時には社殿が海に浮かぶ優雅な姿を、干潮時には大鳥居の真下まで歩いて触れる体験ができます。潮汐表を事前に確認して訪れましょう。
               </p>
             </div>
 
             <div className="bg-red-50/40 rounded-2xl p-5 border border-red-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Ship className="w-5 h-5 text-red-600" />
-                海上ナイトクルーズの感動
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Ship className="w-5 h-5 text-red-600" />
+                海上ナイトクルーズの感動</h3>
               <p className="leading-relaxed">
                 小型遊覧船でライトアップされた大鳥居をくぐるナイトクルーズは宿泊者ならではの特権。夜の海から仰ぎ見る大鳥居の迫力は一生の思い出に残る圧倒的な体験です。
               </p>
             </div>
 
             <div className="bg-red-50/40 rounded-2xl p-5 border border-red-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-red-600" />
-                広島地酒「吟醸酒発祥の地」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-red-600" />
+                広島地酒「吟醸酒発祥の地」</h3>
               <p className="leading-relaxed">
                 広島県西条は日本三大銘醸地の一つ。軟水仕込みによるまろやかで芳醇な地酒は、濃厚な牡蠣の土手鍋や甘みのある穴子料理と最高の相乗効果を生み出します。
               </p>
@@ -554,19 +534,15 @@ export default function HiroshimaMiyajimaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-red-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                宮島・厳島神社の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">宮島・厳島神社の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-red-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-red-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -579,9 +555,7 @@ export default function HiroshimaMiyajimaWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-red-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-red-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！中国・四国・瀬戸内の冬美食＆温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！中国・四国・瀬戸内の冬美食＆温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               瀬戸内海沿岸の極上ふぐ・牡蠣・鯛・歴史情緒を巡る、厳選特集記事もぜひチェックしてください。
             </p>

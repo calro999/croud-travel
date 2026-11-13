@@ -248,9 +248,7 @@ export default function HyogoHimejiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Atmosphere & Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬空に白く輝く不戦の名城と西の比叡山、播磨灘がもたらす冬の味覚の宴
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬空に白く輝く不戦の名城と西の比叡山、播磨灘がもたらす冬の味覚の宴</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               世界遺産400年の美を誇る白漆喰天守と、映画の舞台にもなった古刹の静寂
             </p>
@@ -309,9 +307,7 @@ export default function HyogoHimejiPage() {
         <section className="bg-gradient-to-r from-stone-900 to-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-indigo-400 pl-4">
             <span className="text-indigo-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Seasonal Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月の見どころカレンダー＆気候・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月の見どころカレンダー＆気候・服装ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm">
@@ -360,16 +356,12 @@ export default function HyogoHimejiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-8">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Must-Visit Winter Spots</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬に訪れるべき姫路・播磨の三大名所と体験ポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬に訪れるべき姫路・播磨の三大名所と体験ポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Castle className="w-5 h-5 text-indigo-600" /> 世界遺産 姫路城（白鷺城）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Castle className="w-5 h-5 text-indigo-600" /> 世界遺産 姫路城（白鷺城）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 日本初の世界文化遺産にして国宝。白漆喰総塗籠造りの大天守群が冬青空に眩しく輝きます。冬期は混雑が緩和され、大天守内部の木造建築構造や千姫化粧櫓を落ち着いて見学できます。夜間の純白ライトアップも圧巻。
               </p>
@@ -379,9 +371,7 @@ export default function HyogoHimejiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-indigo-600" /> 書写山圓教寺（西の比叡山）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Mountain className="w-5 h-5 text-indigo-600" /> 書写山圓教寺（西の比叡山）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ラストサムライの舞台となった天台宗の別格本山。樹齢数百年の巨杉に囲まれた山上に大講堂・食堂・常行堂がコの字型に並ぶ三之堂は国の重要文化財。ロープウェイで登る冬の山上参道は厳かな静寂に包まれます。
               </p>
@@ -391,9 +381,7 @@ export default function HyogoHimejiPage() {
             </div>
 
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Building className="w-5 h-5 text-indigo-600" /> 姫路城西御屋敷跡庭園 好古園
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Building className="w-5 h-5 text-indigo-600" /> 姫路城西御屋敷跡庭園 好古園</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 姫路城を借景にした約1万坪の池泉回遊式日本庭園。江戸の武家屋敷割りを活かした9つの庭園群があり、冬には白鷺城を背景にした寒牡丹や雪景色、初冬の紅葉ライトアップなど風情ある景観が広がります。
               </p>
@@ -406,9 +394,7 @@ export default function HyogoHimejiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の姫路を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の姫路を満喫する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-slate-700">
@@ -431,9 +417,7 @@ export default function HyogoHimejiPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Curated Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              冬の姫路・播磨灘を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の姫路・播磨灘を満喫する厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               キャッスルビュー名宿から天然温泉大浴場付き・駅直結サウナホテルまで
             </p>
@@ -467,9 +451,7 @@ export default function HyogoHimejiPage() {
                 <div className="md:w-7/12 p-6 sm:p-8 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-baseline justify-between gap-2 border-b border-slate-100 pb-3">
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
                       <span className="text-sm sm:text-base font-bold text-indigo-800">
                         {hotel.price}
                       </span>
@@ -528,9 +510,7 @@ export default function HyogoHimejiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-indigo-600 pl-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の姫路・播磨旅行 よくある質問とアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の姫路・播磨旅行 よくある質問とアドバイス</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               現地を熟知した専門視点から冬の旅をサポートする5つの疑問に回答
             </p>
@@ -539,10 +519,8 @@ export default function HyogoHimejiPage() {
           <div className="space-y-6">
             {faqList.map((faq, idx) => (
               <div key={idx} className="border-b border-slate-100 pb-5 last:border-b-0 last:pb-0 space-y-2">
-                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5">
-                  <span className="w-6 h-6 rounded-full bg-indigo-100 text-indigo-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
-                  {faq.q}
-                </h3>
+                <h3 className="font-bold text-slate-900 text-base sm:text-lg flex items-start gap-2.5"><span className="w-6 h-6 rounded-full bg-indigo-100 text-indigo-800 flex items-center justify-center text-xs shrink-0 font-bold mt-0.5">Q</span>
+                  {faq.q}</h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-8">
                   {faq.a}
                 </p>
@@ -555,9 +533,7 @@ export default function HyogoHimejiPage() {
         <section className="bg-slate-100/80 rounded-3xl p-6 sm:p-10 border border-slate-200 space-y-6">
           <div className="border-l-4 border-slate-600 pl-4">
             <span className="text-slate-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Guides</span>
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              関西・山陽エリアの冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">関西・山陽エリアの冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

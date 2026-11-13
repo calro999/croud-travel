@@ -301,9 +301,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              南アルプスの清流が織りなす青の奇跡と、古湯がもたらす至極の潤い
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">南アルプスの清流が織りなす青の奇跡と、古湯がもたらす至極の潤い</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の寸又峡・奥大井を満喫する3つの絶対的ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の寸又峡・奥大井を満喫する3つの絶対的ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               年間最高の透明度を誇る湖面、美容液のような極上美肌湯、そして山里の冬の味覚。
             </p>
@@ -339,9 +335,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-100 flex items-center justify-center text-teal-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 冬こそ最高峰！「夢の吊橋」ミルキーブルー
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 冬こそ最高峰！「夢の吊橋」ミルキーブルー</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 雨が少なく水が澄み渡る11月〜1月はチンダル現象が最も冴え渡る季節。揺れる吊り橋の足元に広がる吸い込まれそうなエメラルドブルーは息を呑む絶景です。
               </p>
@@ -351,9 +345,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. とろとろ「美女づくりの湯」＆冬の天然猪鍋
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. とろとろ「美女づくりの湯」＆冬の天然猪鍋</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 美容液のような粘性と硫黄の香りを放つ名湯で肌をつるつるに整え、夕食には脂の乗った天然猪肉の熱々味噌鍋で体の内側から温まります。
               </p>
@@ -363,9 +355,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Mountain className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 奥大井湖上駅の絶景＆大井川鐵道SL旅
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 奥大井湖上駅の絶景＆大井川鐵道SL旅</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 ダム湖に突き出た尾根にぽつんと浮かぶ秘境「奥大井湖上駅」と赤いレインボーブリッジ。大井川鐵道の冬景色をゆったり楽しむ列車の旅も魅力です。
               </p>
@@ -377,9 +367,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の寸又峡＆奥大井を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の寸又峡＆奥大井を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-2">
               美女づくりの湯の老舗宿、源泉かけ流しの隠れ家、SLを望むリゾートホテルまで、楽天トラベル公式データに基づき厳選。
             </p>
@@ -421,9 +409,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
                           {hotel.special}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">{hotel.name}</h3>
                       <p className="text-stone-600 text-sm leading-relaxed mb-4">
                         {hotel.story}
                       </p>
@@ -477,9 +463,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              夢の吊橋と奥大井湖上駅を巡る冬の1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">夢の吊橋と奥大井湖上駅を巡る冬の1泊2日モデルコース</h2>
             <p className="text-stone-600 text-sm mt-1">
               大井川鐵道の車窓美、奥大井湖上駅の絶景、寸又峡温泉での極上の湯浴みとしし鍋、翌朝の夢の吊橋散策プラン。
             </p>
@@ -550,37 +534,29 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-10 border border-stone-200 space-y-6">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の寸又峡・奥大井旅行を快適に楽しむための実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の寸又峡・奥大井旅行を快適に楽しむための実践ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4 text-teal-600" />
-                夢の吊橋散策の服装と靴
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-600" />
+                夢の吊橋散策の服装と靴</h3>
               <p>
                 遊歩道は1周約90分（アップダウンのある階段約300段を含む）のコースです。吊り橋の足場は木板2枚分で隙間があるため、ヒールやサンダルは厳禁。歩きやすいスニーカーまたはトレッキングシューズが必須です。山陰は冷え込むためフリースやダウンを持参しましょう。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Compass className="w-4 h-4 text-teal-600" />
-                冬の道路事情と運転の注意
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Compass className="w-4 h-4 text-teal-600" />
+                冬の道路事情と運転の注意</h3>
               <p>
                 千頭駅から寸又峡へ至る県道77号は、一部道幅が狭く大型バスや対向車とのすれ違いに注意が必要です。また、12月下旬〜1月の厳冬期は朝晩に日陰が路面凍結することがあります。必ずスタッドレスタイヤを装着し、余裕を持ったスケジュールで走行しましょう。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-teal-600" />
-                冬の混雑回避と光のベストタイム
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Calendar className="w-4 h-4 text-teal-600" />
+                冬の混雑回避と光のベストタイム</h3>
               <p>
                 紅葉シーズンのような橋の上での数時間待ちは冬にはありませんが、週末は日中に観光客が集中します。午前8時〜10時台の早い時間に訪れると、静まり返った渓谷でほぼ貸切状態で渡ることができます。また湖面が最も青く輝くのは太陽光が差し込む10:00〜14:00です。
               </p>
@@ -592,9 +568,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい静岡・東海の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい静岡・東海の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -604,9 +578,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・奥静岡</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">
-                  梅ヶ島温泉の極上美肌湯と奥静岡の雪景色・駿河軍鶏鍋ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">梅ヶ島温泉の極上美肌湯と奥静岡の雪景色・駿河軍鶏鍋ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -617,9 +589,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・焼津温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">
-                  焼津温泉から望む富士山絶景と冬の極上南マグロ尽くしステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">焼津温泉から望む富士山絶景と冬の極上南マグロ尽くしステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -630,9 +600,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・伊豆修善寺</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">
-                  修善寺温泉の竹林の小径と冬の静寂・歴史ある湯治ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">修善寺温泉の竹林の小径と冬の静寂・歴史ある湯治ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -643,9 +611,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded block w-fit mb-2">静岡・浜名湖舘山寺</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">
-                  浜名湖舘山寺温泉と冬の天然トラフグ・名物鰻と湖畔温泉ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-teal-600 line-clamp-2">浜名湖舘山寺温泉と冬の天然トラフグ・名物鰻と湖畔温泉ステイ</h3>
               </div>
               <span className="text-xs text-teal-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -656,18 +622,14 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の寸又峡温泉旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の寸又峡温泉旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200 rounded-2xl p-5 hover:border-teal-200 transition-colors">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                  <HelpCircle className="w-5 h-5 text-teal-600 shrink-0 mt-0.5" />
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><HelpCircle className="w-5 h-5 text-teal-600 shrink-0 mt-0.5" />
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-7">
                   {faq.a}
                 </p>
@@ -678,9 +640,7 @@ export default function ShizuokaSumatakyoOnsenWinterPage() {
 
         {/* Final Editorial Note */}
         <section className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 text-center space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold">
-            澄み切った青の奇跡と極上の湯が誘う、南アルプス冬の隠れ里
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">澄み切った青の奇跡と極上の湯が誘う、南アルプス冬の隠れ里</h2>
           <p className="text-slate-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             冬の大気の中で一段と輝きを増す夢の吊橋のミルキーブルー、美容液のように肌を包み込む名湯の潤い、そして囲炉裏端でいただく熱々の猪鍋。11月から1月の寸又峡には、現代人が忘れかけている静寂と本物の安らぎが満ちています。心洗われる冬の秘境旅へ足を踏み入れてみましょう。
           </p>

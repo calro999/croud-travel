@@ -186,9 +186,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         {/* セクション1: 九州グランピング 3大エリアの特徴と選び方 */}
         <section aria-labelledby="kyushu-areas-heading" className="space-y-6">
           <div className="border-l-4 border-emerald-600 pl-4">
-            <h2 id="kyushu-areas-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              【阿蘇・糸島・別府由布院】スタイルで選ぶ九州3大リゾート
-            </h2>
+            <h2 id="kyushu-areas-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">【阿蘇・糸島・別府由布院】スタイルで選ぶ九州3大リゾート</h2>
             <p className="text-slate-600 text-sm mt-1">
               大自然のスケール、海辺の開放感、名湯の癒やし。旅の目的に応じて最適なエリアを見極めましょう。
             </p>
@@ -245,9 +243,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         {/* セクション2: 厳選宿泊施設 */}
         <section aria-labelledby="hotels-heading" className="space-y-8">
           <div className="border-l-4 border-emerald-600 pl-4">
-            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">
-              【九州】秋のシルバーウィークにおすすめのグランピング宿
-            </h2>
+            <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">【九州】秋のシルバーウィークにおすすめのグランピング宿</h2>
             <p className="text-slate-600 text-sm mt-1">
               全棟源泉かけ流し温泉付き宿から、アクティビティ完備リゾートまで厳選ラインナップ。
             </p>
@@ -292,9 +288,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                       <span>📍</span>
                       <span>{hotel.address1} {hotel.address2} {hotel.nearestStation ? `（最寄り: ${hotel.nearestStation}駅）` : ""}</span>
                     </div>
-                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-3 leading-relaxed">
                       {hotel.hotelSpecial || "九州屈指の自然環境と源泉かけ流しの名湯を味わえるリゾート。プライベートなグランピング空間で特別な連休をお過ごしいただけます。"}
                     </p>
@@ -327,9 +321,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         <section className="bg-gradient-to-br from-slate-950 to-emerald-950 text-white rounded-3xl p-6 sm:p-10 border border-emerald-800/40 space-y-6">
           <div>
             <span className="text-emerald-400 font-black text-xs uppercase tracking-wider">Kyushu Onsen Glamping Ritual</span>
-            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">
-              源泉かけ流し×九州BBQを満喫する「最高の滞在ルーティン」
-            </h3>
+            <h3 className="text-xl sm:text-2xl font-black text-white mt-1">源泉かけ流し×九州BBQを満喫する「最高の滞在ルーティン」</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-slate-300">
@@ -356,16 +348,12 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
 
         {/* セクション4: FAQ（構造化データ連動） */}
         <section aria-labelledby="faq-heading" className="bg-white rounded-3xl border border-emerald-200 p-6 sm:p-8">
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">
-            <span className="text-emerald-600">❓</span> 九州グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 mb-6 flex items-center gap-2">九州グランピングのよくある質問</h2>
           <div className="divide-y divide-emerald-100">
             {faqList.map((faq, idx) => (
               <div key={idx} className="py-4 first:pt-0 last:pb-0">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2">
-                  <span className="text-emerald-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base mb-1.5 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-slate-600 text-xs sm:text-sm leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -379,9 +367,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -467,9 +453,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「九州シルバーウィーク グランピング：阿蘇カルデラ・糸島ビーチ・由布院温泉の極上ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -521,9 +505,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「九州シルバーウィーク グランピング」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「九州シルバーウィーク グランピング」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

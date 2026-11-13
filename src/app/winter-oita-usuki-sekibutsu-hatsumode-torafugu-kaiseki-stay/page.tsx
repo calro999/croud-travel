@@ -84,37 +84,29 @@ export default function WinterFeaturePage() {
         <section className="max-w-4xl mx-auto px-4 py-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
             <div className="space-y-1">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2026-2027年冬の臼杵・豊後水道・津久見が格別な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2026-2027年冬の臼杵・豊後水道・津久見が格別な理由</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 冬ならではの絶景・温泉・美食のハイライト
               </p>
             </div>
             <div className="grid grid-cols-1 gap-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  全国の食通が唸る豊後水道の最高峰「本場・臼杵とらふぐ」の厚切りてっさ
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  全国の食通が唸る豊後水道の最高峰「本場・臼杵とらふぐ」の厚切りてっさ</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   臼杵のふぐ刺しは、他地域のように寝かせて薄引きにするのではなく、水揚げ当日に締めた極めて鮮度の高いとらふぐを大胆に厚切りで提供します。跳ね返すような歯ごたえと噛むほどに溢れ出す芳醇な甘みは、本場臼杵でしか体験できない奇跡の味覚です。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏」の新春初詣と厳かな雪景色
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  平安・鎌倉の祈りが息づく国宝「臼杵磨崖仏」の新春初詣と厳かな雪景色</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   岩肌に彫られた59体もの石仏群は、日本の磨崖仏として第1号の国宝に指定された至宝。特に古園石仏の大日如来像の気品ある微笑みは世界的な傑作と称されます。冬の凛とした冷気と薄雪に包まれた石仏群への新春参拝は、特別な清涼感をもたらします。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/80 space-y-1.5">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                  <span className="w-2 h-2 rounded-full bg-cyan-600"></span>
-                  江戸時代の面影を残す「二王座歴史の道」と名湯での癒やし
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600"></span>
+                  江戸時代の面影を残す「二王座歴史の道」と名湯での癒やし</h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                   白壁の土蔵や石畳、武家屋敷が今も残る城下町・臼杵。冬の静かな小路をそぞろ歩き、味噌や醤油の蔵元を訪ねる風情ある散策が楽しめます。湯量豊富な別府温泉や近隣の秘湯・六ヶ迫温泉へも好アクセスで、極上の湯浴みが叶います。
                 </p>
@@ -126,10 +118,8 @@ export default function WinterFeaturePage() {
         {/* アクセス・気候・服装ガイド */}
         <section className="max-w-4xl mx-auto px-4 mb-10">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <ShieldCheck className="w-5 h-5 text-cyan-600" />
-              冬のアクセス・気候とおすすめの服装
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><ShieldCheck className="w-5 h-5 text-cyan-600" />
+              冬のアクセス・気候とおすすめの服装</h2>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 p-4 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
 ・電車：JR大分駅よりJR日豊本線特急「にちりん」「ソニック」でJR臼杵駅まで約30分。小倉駅より特急で約1時間50分、博多駅より特急で約2時間30分（大分駅経由）。
@@ -148,9 +138,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              臼杵・豊後水道・津久見 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">臼杵・豊後水道・津久見 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,9 +162,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     創業明治・臼杵を代表する元祖ふぐ料理の老舗料亭旅館
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    御宿・料亭　春光園
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">御宿・料亭　春光園</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 5.00
@@ -236,9 +222,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     JR臼杵駅徒歩1分・天然鉱石大浴場と城下町散策のベスト拠点
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    クレドホテル臼杵
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">クレドホテル臼杵</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.75
@@ -302,9 +286,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     臼杵市街地中心・ビジネスから観光まで安心の老舗シティホテル
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルニューうすき
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルニューうすき</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 3.90
@@ -368,9 +350,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     豊後水道の海の玄関口・佐伯駅前で人工温泉大浴場完備
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルルートイン佐伯駅前
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルルートイン佐伯駅前</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.32
@@ -434,9 +414,7 @@ export default function WinterFeaturePage() {
                   <div className="inline-block px-2.5 py-0.5 rounded-full text-[11px] font-bold bg-cyan-50 text-cyan-800 border border-cyan-200 mb-2">
                     佐伯駅徒歩3分・豊後水道の新鮮魚介レストランと上質ステイ
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル　金水苑
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル　金水苑</h3>
                   <div className="flex items-center gap-3 mt-2 text-xs text-stone-600">
                     <span className="flex items-center text-amber-500 font-bold text-sm">
                       ★ 4.05
@@ -490,9 +468,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  大分県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">大分県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -511,10 +487,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の臼杵・豊後水道・津久見旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の臼杵・豊後水道・津久見旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <details className="group border border-stone-200 rounded-xl p-4 [&_summary::-webkit-details-marker]:hidden bg-stone-50/50">

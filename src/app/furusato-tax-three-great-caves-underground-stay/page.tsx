@@ -140,9 +140,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              世界有数の透明度を誇るドラゴンブルー地底湖の幻想的なイルミネーション
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">世界有数の透明度を誇るドラゴンブルー地底湖の幻想的なイルミネーション</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               地底深く湧き出る透明度抜群の地底湖が青くライトアップされ、息を呑むほど美しい神秘の空間を体感できます。
             </p>
@@ -151,9 +149,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              年間を通じて快適な洞窟探検の後に楽しむ自家源泉かけ流しの名湯
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">年間を通じて快適な洞窟探検の後に楽しむ自家源泉かけ流しの名湯</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               夏は涼しく冬は暖かい鍾乳洞を歩いた後は、湯田温泉や三陸の天然温泉でじんわりと身体を温められます。
             </p>
@@ -162,9 +158,7 @@ export default function FurusatoUpgradedPage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              三陸のアワビ・毛ガニや山口の天然とらふぐ、土佐のカツオ藁焼き会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">三陸のアワビ・毛ガニや山口の天然とらふぐ、土佐のカツオ藁焼き会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               洞窟の山麓から少し足を延ばせば豊かな漁場。獲れたての高級魚介と銘酒を心ゆくまで味わえます。
             </p>
@@ -178,9 +172,7 @@ export default function FurusatoUpgradedPage() {
           {hotels.map((h, idx) => (
             <div key={h.key} className="space-y-6">
               <div className="border-l-4 border-amber-500 pl-4">
-                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                  {h.spotTitle}
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">{h.spotTitle}</h2>
                 <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                   {h.spotDesc}
                 </p>
@@ -207,11 +199,9 @@ export default function FurusatoUpgradedPage() {
                       <div className="text-xs font-bold text-amber-500/90 mb-1 tracking-wider uppercase">
                         {h.label}
                       </div>
-                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition">
-                        <a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
+                      <h3 className="text-2xl font-black text-white mb-3 hover:text-amber-400 transition"><a href={h.affiliateUrl} target="_blank" rel="sponsored noopener noreferrer">
                           {h.hotelName}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <div className="flex items-center gap-3 mb-4 text-sm text-stone-400">
                         <span className="flex items-center text-amber-400 font-bold">
                           ★ {h.reviewAverage}
@@ -329,7 +319,7 @@ export default function FurusatoUpgradedPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大鍾乳洞の神秘の地底美と山麓名湯宿×ふるさと納税厳選ガイド龍泉洞・秋芳洞・龍河洞：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -390,55 +380,55 @@ export default function FurusatoUpgradedPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. 札幌グランドホテル（北海道・★4.45）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. 札幌グランドホテル（北海道・4.45）</h4>
               <p><strong>【特徴】</strong>2025年7月、本館客室がリニューアル！札幌駅地下歩行空間直結♪</p>
               <p><strong>【交通・駐車場】</strong>★地下歩行空間8番出口横にてホテル直結★JR札幌駅南口より徒歩10分、地下鉄大通駅より徒歩5分 ／ 駐車場：立体/屋外180台、立体：1泊2500円/台(先着順)、屋外：1泊3500円/台</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「広めの部屋と朝食は満足、朝食会場は混雑少し広めのスーペリアツインに夫婦で宿泊、いつも出張でシングルのビジホに泊まっていたのでそれに比べると快適でした。ホテルスタッフも親切でプロの仕事ぶりで良かった…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. グリーンヒルホテル尾道（広島県・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. グリーンヒルホテル尾道（広島県・4.4）</h4>
               <p><strong>【特徴】</strong>ＪＲ尾道駅から徒歩２分に位置し、尾道観光やしまなみ海道サイクリングの拠点に最適！</p>
               <p><strong>【交通・駐車場】</strong>山陽本線尾道駅駅前　山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分 ／ 駐車場：専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. ホテルグランヴィア岡山（岡山県・★4.44）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. ホテルグランヴィア岡山（岡山県・4.44）</h4>
               <p><strong>【特徴】</strong>JR岡山駅２階から連絡通路で直結。全室無線LAN（WI-FI）接続が無料でご利用いただけます。</p>
               <p><strong>【交通・駐車場】</strong>JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分 ／ 駐車場：ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思います」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. 熱海温泉　月の栖　熱海聚楽ホテル（静岡県・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. 熱海温泉　月の栖　熱海聚楽ホテル（静岡県・4.4）</h4>
               <p><strong>【特徴】</strong>【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り ／ 駐車場：有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. 紋別セントラルホテル（北海道・★4.44）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. 紋別セントラルホテル（北海道・4.44）</h4>
               <p><strong>【特徴】</strong>◆無料無線ＬＡＮ（Ｗｉ-Ｆi)◆駐車場無料◆光明石温泉大浴場◆シャワートイレ◆空気清浄機◆</p>
               <p><strong>【交通・駐車場】</strong>オホーツク紋別空港から車で約10分。旭川紋別自動車道・丸瀬布（まるせっぷ）ＩＣから約60分。 ／ 駐車場：有り　150台　無料</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古めだが清潔感があり快適ちょっと古めですが清潔感があるので普通に良い感じです。素泊まりです。」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

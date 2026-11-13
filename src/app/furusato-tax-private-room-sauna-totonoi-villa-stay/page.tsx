@@ -108,9 +108,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  時間も人目も気にしない！何度でも自由自在なセルフロウリュと好みの温度設定
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">時間も人目も気にしない！何度でも自由自在なセルフロウリュと好みの温度設定</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 客室専用サウナ最大の特権は、白樺やヒノキなど好みの天然アロマ水を使ったセルフロウリュが24時間いつでも気兼ねなく楽しめること。熱い蒸気が一気に立ち上り、サウナストーンの弾ける音と心地よい香りに包まれます。カップルや夫婦、サウナ仲間同士で会話を楽しみながら、誰にも邪魔されない完全プライベートなサウナタイムを満喫できます。
@@ -123,9 +121,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然地下水掛け流しの水風呂＆絶景を望む特等席「インフィニティチェア」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然地下水掛け流しの水風呂＆絶景を望む特等席「インフィニティチェア」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 サウナ室のすぐ目の前には、富士山の湧水や霧島の天然地下水を掛け流しにした専用水風呂を完備。火照った身体をしっかり冷やした後は、海風や高原の澄んだ空気が吹き抜ける屋外ウッドデッキに設置されたインフィニティチェアへ。視界いっぱいに広がる星空や大自然を眺めながらのディープリラックスは、日頃の脳疲労を劇的にリセットしてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  サウナ上がりの「サ飯」が絶品！地元厳選牛のBBQや本格会席料理に舌鼓
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">サウナ上がりの「サ飯」が絶品！地元厳選牛のBBQや本格会席料理に舌鼓</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 しっかりととのった後は、味覚が研ぎ澄まされた状態でいただく至高の「サ飯（サウナ飯）」が待っています。プライベートテラスで楽しむ地元ブランド牛の本格BBQや、料理人が腕を振るう旬の創作会席料理、冷えたクラフトビールやオロポ。プライベート空間だからこそ、バスローブや部屋着のままリラックスして美食に酔いしれることができます。
@@ -183,9 +177,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県熱海市・相模湾を見下ろす高台のプライベートサウナスイート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＩＳＨＩＮＯＹＡ熱海／石のや熱海（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     熱海の高台に建ち、相模湾の青い海と初島を望むラグジュアリーホテル。客室専用の本格サウナを備えたスイートルームでは、ヒノキの香り漂うサウナ室でのセルフロウリュ、専用水風呂、そして海風が心地よいテラスでの外気浴という完璧な導線が実現。源泉かけ流しの天然温泉露天風呂も完備されており、サウナと名湯を交互に愉しむ贅沢を独占できます。夕食には伊豆の新鮮な海の幸と厳選和牛を取り入れた和モダン会席をご堪能ください。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     山梨県富士河口湖町・富士山を望む天空のサウナ＆露天風呂ヴィラ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    天空の温泉ヴィラ紬　河口湖
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">天空の温泉ヴィラ紬　河口湖</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     河口湖を見下ろす絶好のロケーションに誕生した、全棟に富士山ビュー天然温泉露天風呂とプライベートサウナを完備した完全独立型ヴィラ。テラスからは雄大な富士山のパノラマが広がり、サウナ後の外気浴はまさに天空に浮かんでいるかのような爽快感。広々としたリビングや最新キッチン、プライベートBBQ設備が整い、別荘感覚で贅沢なおこもりステイが楽しめます。富士山麓の澄んだ空気と星空に包まれる感動体験がここにあります。
                   </p>
@@ -304,9 +294,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鹿児島県霧島市・美肌源泉かけ流しと客室バレルサウナの極上温泉宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">全室源泉かけ流し温泉付き旅館＆グランピング　美肌の湯　こしかの温泉</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     湯量豊富な美肌の名湯として名高い霧島・こしかの温泉。全室に源泉かけ流し天然温泉風呂と専用の本格バレルサウナが設置されており、誰にも邪魔されないプライベート空間で極上の温冷交代浴が楽しめます。霧島の清らかな天然水を使った水風呂と緑豊かな中庭での外気浴は格別。グランピングスタイルや本館和室など好みに合わせた滞在ができ、鹿児島黒豚や黒毛和牛を使った絶品サ飯ディナーが旅の満足度を最高潮に高めてくれます。
                   </p>
@@ -410,9 +398,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＩＳＨＩＮＯＹＡ熱海／石のや熱海を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＩＳＨＩＮＯＹＡ熱海／石のや熱海を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -445,9 +431,7 @@ export default function FurusatoPrivateRoomSaunaTotonoiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＩＳＨＩＮＯＹＡ熱海／石のや熱海の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＩＳＨＩＮＯＹＡ熱海／石のや熱海の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

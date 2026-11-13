@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本最初の国立公園と白濁硫黄の噴気
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 雲仙地獄めぐり（大叫喚地獄・お糸地獄）＆白濁源泉かけ流し老舗リゾート宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 雲仙地獄めぐり（大叫喚地獄・お糸地獄）＆白濁源泉かけ流し老舗リゾート宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             キリシタン殉教の歴史を秘め、岩肌から白い噴気と熱湯がゴボゴボと湧き出す「雲仙地獄」。木道が整備された地獄地帯を歩けば、硫黄の香りと地球の強烈なエネルギーを五感で実感できます。名物の温泉スチームで蒸した「温泉たまご」や足元から地熱を感じる「足蒸し」も人気。強酸性の濃厚な硫黄泉は殺菌効果が高く美肌の湯としても知られ、クラシックホテルや露天風呂付き離れ宿で至福の湯浴みが楽しめます。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        雲仙温泉　ゆやど　雲仙新湯
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">雲仙温泉　ゆやど　雲仙新湯</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【美肌の湯】 は、どこよりも濃く。 “最上のご褒美” をお届け。個室食プラン、露天風呂付きプランあり
                       </p>
@@ -171,9 +166,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             水の都の白亜天守と名水百選の城下町
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 島原城天守＆湧水庭園「四明荘」・武家屋敷水路散策・名物「具雑煮」グルメ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 島原城天守＆湧水庭園「四明荘」・武家屋敷水路散策・名物「具雑煮」グルメ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             安土桃山様式の美しい五層白亜の天守がそびえる「島原城」。キリシタン史料や島原の乱の貴重な展示を鑑賞できます。城下には澄み切った名水が流れる水路沿いに江戸時代の武家屋敷が残り、住宅の庭園に一日3000トンもの清らかな水が湧き出す「四明荘」では座敷から透明な池を泳ぐ鯉を眺めながら優雅な時間を過ごせます。島原の乱の際に農民軍が炊いたとされる餅や山海の幸が山盛りの「具雑煮」は必食です。
           </p>
@@ -198,8 +191,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -218,9 +210,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        島原温泉　旅館海望荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">島原温泉　旅館海望荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         島原港の高台に位置し、有明海を一望！島原の自然の恵みを使った自慢の料理と温泉で癒しのひと時を
                       </p>
@@ -264,9 +254,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ビジネス旅館　梅崎
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネス旅館　梅崎</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         シンプルでリーズナブルなバストイレ付のお部屋で、仕事でゆっくり、家族や友達と楽しくご利用できます
                       </p>
@@ -310,9 +298,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        雲仙温泉　雲仙スカイホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">雲仙温泉　雲仙スカイホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         雲仙国立公園温泉街の中心に位置する温泉旅館。雲仙地蔵入口徒歩１分、源泉掛け流し大浴場露天風呂が自慢
                       </p>
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ビジネスイン　うめさき
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ビジネスイン　うめさき</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ビジネス、ご家族で、合宿セミナー等にもご利用下さい。遊園地グリーンランド゛まで車で15分！
                       </p>
@@ -400,9 +384,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             橘湾に沈む夕日と日本一長い足湯
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 小浜温泉「ほっとふっと105」＆橘湾サンセット・小浜ちゃんぽん名湯ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 小浜温泉「ほっとふっと105」＆橘湾サンセット・小浜ちゃんぽん名湯ステイ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             橘湾の海岸沿いに位置する小浜温泉は、105度の源泉温度にちなんで名付けられた日本一の長さ105mを誇る露天足湯「ほっとふっと105」がシンボル。海に面した足湯に浸かりながら、水平線に沈む黄金の夕日を眺める時間は格別です。蒸し釜では持参した野菜や卵、海産物を高温温泉スチームで一気に蒸し上げて味わえます。長崎ちゃんぽんをベースに殻付きエビや魚介の旨味が凝縮した「小浜ちゃんぽん」も大人気です。
           </p>
@@ -427,8 +409,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -447,9 +428,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        小浜温泉　くつろぎの宿　旅館山田屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">小浜温泉　くつろぎの宿　旅館山田屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★ふるさとで“心呼吸”の旅キャンペーン★九州絶景の湯ベスト１０に選ばれた檜造展望露天はまさに圧巻！！
                       </p>
@@ -493,9 +472,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        小浜温泉　つたや旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">小浜温泉　つたや旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         全室オーシャンビュー和室★大浴場＆5つの貸切展望風呂完備★日本一長い足湯まで徒歩5分♪
                       </p>
@@ -549,9 +526,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】雲仙温泉 ゆやど 雲仙新湯を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】雲仙温泉 ゆやど 雲仙新湯を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -584,9 +559,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と雲仙温泉 ゆやど 雲仙新湯の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と雲仙温泉 ゆやど 雲仙新湯の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -218,10 +218,8 @@ export default function FamilyKanazawaModelCoursePage() {
       {/* 内部リンク・関連ガイドナビゲーション */}
       <nav className="bg-emerald-50/80 border border-emerald-200/90 rounded-2xl p-6 shadow-sm">
         <div className="flex items-center justify-between mb-3">
-          <h2 className="text-sm md:text-base font-black text-emerald-950 flex items-center gap-2">
-            <span className="w-2.5 h-2.5 rounded-full bg-emerald-600"></span>
-            金沢旅行の交通・予算ガイド（あわせて読みたい）
-          </h2>
+          <h2 className="text-sm md:text-base font-black text-emerald-950 flex items-center gap-2"><span className="w-2.5 h-2.5 rounded-full bg-emerald-600"></span>
+            金沢旅行の交通・予算ガイド（あわせて読みたい）</h2>
           <span className="text-[10px] text-emerald-700 bg-emerald-100/70 font-bold px-2 py-0.5 rounded">
             計画お役立ちリンク
           </span>
@@ -264,9 +262,7 @@ export default function FamilyKanazawaModelCoursePage() {
           <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🗺️ MODEL ITINERARY</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            ベビーカー連れでも疲れない！金沢1泊2日王道モデルコース
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">ベビーカー連れでも疲れない！金沢1泊2日王道モデルコース</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             お昼寝時間やオムツ替えタイミングを無理なく組み込んだ、ファミリーのための安心工程表です。
           </p>
@@ -276,9 +272,7 @@ export default function FamilyKanazawaModelCoursePage() {
           {itinerary.map((dayPlan, dIdx) => (
             <div key={dIdx} className="space-y-4">
               <div className="bg-emerald-50/70 border border-emerald-200 p-4 rounded-2xl">
-                <h3 className="text-base md:text-lg font-black text-emerald-950">
-                  {dayPlan.day}
-                </h3>
+                <h3 className="text-base md:text-lg font-black text-emerald-950">{dayPlan.day}</h3>
                 <p className="text-xs text-emerald-800/80 mt-0.5">
                   {dayPlan.subtitle}
                 </p>
@@ -301,9 +295,7 @@ export default function FamilyKanazawaModelCoursePage() {
                       </span>
                     </div>
 
-                    <h4 className="text-sm md:text-base font-bold text-stone-900 pt-0.5">
-                      {step.title}
-                    </h4>
+                    <h4 className="text-sm md:text-base font-bold text-stone-900 pt-0.5">{step.title}</h4>
 
                     <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
                       {step.desc}
@@ -322,9 +314,7 @@ export default function FamilyKanazawaModelCoursePage() {
           <div className="flex items-center gap-2 text-teal-800 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>💡 PRACTICAL TIPS</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-            現役トラベルライター伝授！金沢子連れ旅行で後悔しない4大チェックポイント
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">現役トラベルライター伝授！金沢子連れ旅行で後悔しない4大チェックポイント</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             出発前に知っておくだけで現地の移動ストレスやトラブルが劇的に減る実践テクニック。
           </p>
@@ -335,9 +325,7 @@ export default function FamilyKanazawaModelCoursePage() {
             <div key={idx} className="bg-white border border-emerald-100 rounded-2xl p-5 shadow-sm space-y-2">
               <div className="flex items-center gap-2">
                 <span className="text-2xl">{tip.icon}</span>
-                <h3 className="text-sm font-bold text-emerald-950 leading-snug">
-                  {tip.title}
-                </h3>
+                <h3 className="text-sm font-bold text-emerald-950 leading-snug">{tip.title}</h3>
               </div>
               <p className="text-xs text-stone-600 leading-relaxed">
                 {tip.desc}
@@ -353,9 +341,7 @@ export default function FamilyKanazawaModelCoursePage() {
           <div className="flex items-center gap-2 text-emerald-700 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>🏨 RECOMMENDED FAMILY HOTELS</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            金沢駅徒歩圏＆和室・大浴場あり！子連れファミリー向け厳選宿泊先
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">金沢駅徒歩圏＆和室・大浴場あり！子連れファミリー向け厳選宿泊先</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             添い寝歓迎、靴を脱げる和室、一棟貸し町家など、お子様連れでも気兼ねなく寛げるホテル＆宿をピックアップ。
           </p>
@@ -396,9 +382,7 @@ export default function FamilyKanazawaModelCoursePage() {
                       </div>
                     ) : null}
                     
-                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
 
                     <p className="text-[11px] text-stone-600 line-clamp-2 font-medium">
                       {hotel.hotelSpecial || ""}
@@ -437,9 +421,7 @@ export default function FamilyKanazawaModelCoursePage() {
               失敗しない宿泊予約のコツ
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            赤ちゃん・幼児連れ予約で備考欄に書いておきたい3つの要望
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">赤ちゃん・幼児連れ予約で備考欄に書いておきたい3つの要望</h2>
         </div>
 
         <ul className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs md:text-sm text-emerald-100">

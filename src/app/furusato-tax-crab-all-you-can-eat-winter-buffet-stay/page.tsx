@@ -82,15 +82,12 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          甘くトロけるカニ刺し、香ばしい焼きガニ、旨味凝縮のカニすき鍋。本場日本海の冬の王様をふるさと納税で贅沢に味わう
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">甘くトロけるカニ刺し、香ばしい焼きガニ、旨味凝縮のカニすき鍋。本場日本海の冬の王様をふるさと納税で贅沢に味わう</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           冬の温泉旅行の代名詞といえば、何といっても「蟹（カニ）料理」。11月の漁解禁とともに日本海沿岸の温泉街はカニの甘い香りと活気に包まれます。透き通るような身をほおばると上品な甘みが広がる「カニ刺し」、香ばしい煙とともに旨味が凝縮する「焼きガニ」、身がぎっしり詰まった「茹でガニ」、そして特製出汁にカニの濃厚なエキスが溶け出す「カニすき鍋」と締めのごちそう「カニ雑炊」——。さらに近年では、心ゆくまでカニを頬張れる「ズワイガニ食べ放題ビュッフェプラン」も大人気です。本特集では、美人の湯として名高い丹後半島・夕日ヶ浦温泉に位置し、カニ尽くし会席やズワイガニ食べ放題が絶賛される「夕日ヶ浦温泉 佳松苑」、創業160年・国登録有形文化財の数寄屋建築と広大な日本庭園を誇り、津居山港・柴山港水揚げの最高峰松葉ガニを供する城崎温泉の最高峰「城崎温泉 西村屋本館」、そして城崎温泉街の柳並木や外湯巡りに至近で、本場カニ料理と但馬牛を温かな木造宿で味わえる「城崎温泉 心の宿 三國屋」の3大名宿を厳選。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、実質自己負担2,000円で一生モノのカニ三昧温泉旅を実現しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">カニ食べ放題＆松葉ガニ名宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】夕日ヶ浦温泉　時季を彩る　佳松苑</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> カニ食べ放題＆松葉ガニ名宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">カニ食べ放題＆松葉ガニ名宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            夕日ヶ浦温泉　時季を彩る　佳松苑
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">夕日ヶ浦温泉　時季を彩る　佳松苑</h2>
           <p className="text-xs md:text-sm text-amber-100">京都府京丹後市・夕日百選の夕日ヶ浦温泉！カニ尽くし会席＆ズワイガニ食べ放題プランが大好評の美食宿</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            城崎温泉　西村屋本館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">城崎温泉　西村屋本館</h2>
           <p className="text-xs md:text-sm text-amber-100">兵庫県豊岡市・創業百六十年を誇る有形文化財宿！津居山港・柴山港水揚げの最高峰「松葉ガニ会席」の真髄</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            城崎温泉　心の宿　三國屋
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">城崎温泉　心の宿　三國屋</h2>
           <p className="text-xs md:text-sm text-amber-100">兵庫県豊岡市・城崎温泉駅徒歩3分の木造老舗！本場津居山かに＆特選但馬牛を味わう隠れ家温泉旅館</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -325,7 +314,7 @@ export default function FurusatoCrabAllYouCanEatBuffetStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

@@ -109,9 +109,7 @@ export default function WinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 11月〜12月初冬の厳選狙い目特集</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石！名物白石温麺と極上仙台牛会席・木造湯治宿の雪見風呂名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【冬毛モフモフの蔵王キツネ村と開湯600年鎌先温泉の薬湯】2026-2027年11-12月初冬の宮城・白石！名物白石温麺と極上仙台牛会席・木造湯治宿の雪見風呂名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             11月〜12月に冬毛へと生え変わり最もモフモフで愛らしい姿を見せる世界的人気スポット「宮城蔵王キツネ村」！南蔵王の麓、開湯600年の歴史を誇る「奥羽の薬湯」鎌先温泉の風情ある木造旅館群で心身を癒やす旅。油を使わず胃腸に優しい伝統名物「白石温麺（うーめん）」と、きめ細やかなサシがとろける最高峰仙台牛を味わう初冬の厳選名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function WinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが11〜12月の旅におすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが11〜12月の旅におすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>世界が注目！11〜12月限定「冬毛モフモフ」の蔵王キツネ村で奇跡の癒やし体験</span>
-            </h3>
+              <span>世界が注目！11〜12月限定「冬毛モフモフ」の蔵王キツネ村で奇跡の癒やし体験</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               冬の寒さに備えて毛が密集し、一年で最も丸々と愛らしい冬毛姿になるベストシーズン。100頭以上のキツネが放し飼いされる自然林を歩き、冬ならではのモフモフな姿に間近で出会えます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>開湯600年「奥羽の薬湯」鎌先温泉！木造建築美と茶褐色のにごり湯治風呂</span>
-            </h3>
+              <span>開湯600年「奥羽の薬湯」鎌先温泉！木造建築美と茶褐色のにごり湯治風呂</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               農民が鎌の先で掘り当てた伝説に由来する鎌先温泉。歴史ある木造数寄屋造りの旅館群が軒を連ね、鉄分や塩分を含む良質な源泉が冷えた体を芯から包み込みます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>胃腸に優しい伝統「白石温麺」ととろける最高峰ブランド「仙台牛」の饗宴</span>
-            </h3>
+              <span>胃腸に優しい伝統「白石温麺」ととろける最高峰ブランド「仙台牛」の饗宴</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               油を使わず9cmの短さで製麺される400年の伝統食・白石温麺の優しい味わいと、A5・B5ランクのみに許される最高峰黒毛和牛「仙台牛」の濃厚な霜降りを贅沢に味わえます。
             </p>
@@ -177,9 +167,7 @@ export default function WinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                初冬を満喫する厳選名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">初冬を満喫する厳選名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  鎌先温泉　最上屋旅館＜宮城県＞
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">鎌先温泉　最上屋旅館＜宮城県＞</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  パシフィックホテル白石
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">パシフィックホテル白石</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  ベネシアンホテル白石蔵王
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">ベネシアンホテル白石蔵王</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  白石温泉薬師の湯
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">白石温泉薬師の湯</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  時音の宿　湯主一條
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">時音の宿　湯主一條</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function WinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>蔵王キツネ村でキツネを触ったり抱っこすることはできますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>蔵王キツネ村でキツネを触ったり抱っこすることはできますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               放し飼いエリア内ではキツネに直接触れることは噛まれる危険があるため禁止されています。ただし、専用の「抱っこ体験」（実施期間やキツネの体調により時間が指定されます）に参加すれば、スタッフのサポートのもとで専用の上着を着用してモフモフのキツネを優しく抱っこして記念撮影が楽しめます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>白石温麺（うーめん）とは通常の素麺と何が違うのですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>白石温麺（うーめん）とは通常の素麺と何が違うのですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               一般的な素麺は麺を伸ばす際に表面に植物油を塗りますが、白石温麺は油を一切使わず小麦粉と塩水のみで練り上げて乾燥させます。そのため油が酸化せず、胃腸に極めて優しく消化が良いのが特徴です。長さも約9cmと短く、小さなお子様やお年寄りでも食べやすい白石の伝統健康食です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月・12月に車でキツネ村や鎌先温泉へ行く場合、冬用タイヤは必要ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月・12月に車でキツネ村や鎌先温泉へ行く場合、冬用タイヤは必要ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               キツネ村は標高約600mの山間に位置するため、11月中旬以降は雪が降ったり早朝・日陰で路面が凍結することがあります。11月中旬以降にお車でアクセスする場合は、必ずスタッドレスタイヤの装着をお願いします。ノーマルタイヤでの冬期の山道走行は大変危険です。
             </p>

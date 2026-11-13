@@ -303,10 +303,8 @@ export default function WakayamaKushimotoWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <CheckCircle2 className="w-5 h-5 text-cyan-600" />
-            11・12・1月の串本・潮岬 冬旅ハイライト
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2"><CheckCircle2 className="w-5 h-5 text-cyan-600" />
+            11・12・1月の串本・潮岬 冬旅ハイライト</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="space-y-2 border-l-2 border-cyan-500 pl-4">
               <h3 className="font-bold text-slate-900">本州最南端の初日の出</h3>
@@ -341,9 +339,7 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">GEOGRAPHY & OCEAN HERITAGE</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                黒潮が創り出した大自然の造形美：本州最南端・潮岬と神話が宿る橋杭岩
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">黒潮が創り出した大自然の造形美：本州最南端・潮岬と神話が宿る橋杭岩</h2>
             </div>
           </div>
 
@@ -368,9 +364,7 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">GOURMET & THERMAL SPRINGS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                世界を驚かせた完全養殖の結晶「近大マグロ」と冬の黒潮海鮮、名湯串本温泉
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">世界を驚かせた完全養殖の結晶「近大マグロ」と冬の黒潮海鮮、名湯串本温泉</h2>
             </div>
           </div>
 
@@ -394,9 +388,7 @@ export default function WakayamaKushimotoWinterPage() {
               <Sparkles className="w-3.5 h-3.5 text-cyan-600" />
               HOTEL SELECTION BY RAKUTEN API
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              本州最南端初日の出と近大マグロを満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">本州最南端初日の出と近大マグロを満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm max-w-2xl mx-auto">
               楽天トラベルAPIより最新の空室状況・宿泊評価・公式写真を取得。潮岬や橋杭岩へのアクセス、絶景露天風呂、極上マグロ料理に秀でた屈指の宿泊施設を厳選しました。
             </p>
@@ -433,9 +425,7 @@ export default function WakayamaKushimotoWinterPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg md:text-xl font-black text-slate-900 leading-snug mb-2 font-journal-serif">{hotel.name}</h3>
                     <p className="text-xs text-slate-500 mb-3 line-clamp-2">
                       {hotel.special}
                     </p>
@@ -494,19 +484,15 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">SUGGESTED ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                1泊2日 潮岬初日の出＆橋杭岩朝焼け・近大マグロ堪能モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">1泊2日 潮岬初日の出＆橋杭岩朝焼け・近大マグロ堪能モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-cyan-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                南紀串本へ到着、天然記念物・橋杭岩散策と近大マグロランチ、絶景温泉
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-cyan-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                南紀串本へ到着、天然記念物・橋杭岩散策と近大マグロランチ、絶景温泉</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 JR特急「くろしお」にてJR串本駅に到着（または南紀白浜空港より移動）</strong><br />
                 駅前レンタカーを借りて串本市街へ。まずは串本港近くの名店で、世界初の完全養殖「近大マグロ」の海鮮丼や握り寿司を堪能。
@@ -527,10 +513,8 @@ export default function WakayamaKushimotoWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                本州最南端「潮岬」の水平線初日の出と潮岬灯台、南紀白浜・那智勝浦へ周遊
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                本州最南端「潮岬」の水平線初日の出と潮岬灯台、南紀白浜・那智勝浦へ周遊</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>06:30 本州最南端「潮岬望楼の芝」へ、感動の太平洋初日の出を拝む</strong><br />
                 冬の澄み渡る空気の中、視界270度の水平線から昇る太陽を拝する。新年の幸福を祈り、本州最南端到達の証明書を手に入れる。
@@ -559,19 +543,15 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                和歌山・串本＆本州最南端 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">和歌山・串本＆本州最南端 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-cyan-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-cyan-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -588,9 +568,7 @@ export default function WakayamaKushimotoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-700 uppercase tracking-widest block">RELATED WINTER FEATURES</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                あわせて読みたい！全国の厳選「冬の初日の出＆絶景温泉・海鮮グルメ特集」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">あわせて読みたい！全国の厳選「冬の初日の出＆絶景温泉・海鮮グルメ特集」</h2>
             </div>
           </div>
 

@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          悠久の歴史を繋ぐ美しいアーチと水面のきらめき。日本の土木美と伝統美を愛でる大人の旅
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">悠久の歴史を繋ぐ美しいアーチと水面のきらめき。日本の土木美と伝統美を愛でる大人の旅</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              客室の窓やリバーサイドテラスから名橋のライトアップを独占
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">客室の窓やリバーサイドテラスから名橋のライトアップを独占</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               夕暮れから夜にかけて光で浮かび上がる名橋のシルエット。水面に反射する光のアートをお部屋からゆっくりと鑑賞できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              岩国寿司・長崎卓袱料理・江戸前寿司など名橋の街が誇る伝統美食
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">岩国寿司・長崎卓袱料理・江戸前寿司など名橋の街が誇る伝統美食</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               歴史ある橋の袂で発展した名物料理。見た目も華やかな押し寿司や異国情緒あふれる郷土会席を地酒とともに味わえます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              城下町やレトロな石畳散策など風情ある街歩きに最適な好立地
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">城下町やレトロな石畳散策など風情ある街歩きに最適な好立地</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿を一歩出れば名橋と情緒ある川沿いの並木道。早朝や夕暮れの清々しい時間帯に人混みを避けて散策できます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="kintaikyo_bridge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山口県岩国市ふるさと納税：五連の木造アーチ橋「錦帯橋」と清流錦川を望む名門料理旅館
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山口県岩国市ふるさと納税：五連の木造アーチ橋「錦帯橋」と清流錦川を望む名門料理旅館</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 延宝元年に創建された世界的木造橋・錦帯橋。春の桜、夏の鵜飼、秋の紅葉、冬の雪景色と四季折々の美しさを誇り、名物の郷土料理「岩国寿司」や鮎料理、良質な天然温泉を堪能できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山口県周南市湯野4255-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    湯野温泉　芳山園
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">湯野温泉　芳山園</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     名湯の露天風呂の硫黄の香りと四季折々の日本庭園に心癒される。旬の味覚と共に至福の時間を独り占め。
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     広島県廿日市市宮浜温泉2-5-4
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宮浜温泉　湯の宿　宮浜グランドホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮浜温泉　湯の宿　宮浜グランドホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     展望大浴場と旬の素材を使った料理が好評。宮島口から車で12分。無料駐車場有！
                   </p>
@@ -236,9 +222,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="meganebashi_bridge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長崎県長崎市ふるさと納税：日本最古のアーチ式石橋「長崎眼鏡橋」と中島川沿いの南蛮クラシックホテル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長崎県長崎市ふるさと納税：日本最古のアーチ式石橋「長崎眼鏡橋」と中島川沿いの南蛮クラシックホテル</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 寛永11年に架設された国指定重要文化財・眼鏡橋。ハートストーン探しを楽しみながら、南蛮貿易の歴史が息づく長崎の街を巡り、新鮮な地魚会席や卓袱料理、夜景を満喫する歴史旅です。
               </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市大鳥町523
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　長崎ホテル清風（リニューアルオープン）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     露天風呂や客室、プレミアムラウンジから世界新三大夜景を望む温泉ホテル
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市新地町1-14
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    長崎バスターミナルホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">長崎バスターミナルホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ■長崎中華街まで徒歩1分■≪全室Wi-Fi完備≫長崎市の中心部、ビジネス・観光の拠点に最適な立地です
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長崎県長崎市曙町39-38
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">稲佐山温泉　ホテルアマンディ　～長崎の日本三大夜景を一望～</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     日本三大夜景を一望！100％源泉の露天風呂や岩盤浴が人気のリゾートホテル。駐車場無料・Wi-Fi完備
                   </p>
@@ -389,9 +367,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="nihonbashi_bridge" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                東京都中央区ふるさと納税：五街道の起点・石造二連アーチ「日本橋」と老舗名店が軒を連ねる江戸ラグジュアリー
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">東京都中央区ふるさと納税：五街道の起点・石造二連アーチ「日本橋」と老舗名店が軒を連ねる江戸ラグジュアリー</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 慶長8年に架けられた日本橋。橋詰の青銅麒麟像や格調高き石造りの景観を間近に感じ、日本橋三越や老舗鰻・蕎麦・江戸前寿司の名店めぐりを楽しむ洗練された都心ステイです。
               </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     東京都江東区東陽6-3-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルイースト２１東京（オークラホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルイースト２１東京（オークラホテルズ＆リゾーツ）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     東京駅から電車で約30分！東陽町駅から徒歩7分！19世紀のヨーロッパの雰囲気漂うホテル
                   </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     茨城県水戸市千波町2078-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    水戸プラザホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">水戸プラザホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ■シアワセを記憶するホテル■ジョン・デビッド・エジソンをインテリアデザイナーに迎えた森の中の迎賓館
                   </p>
@@ -528,9 +500,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">国宝天守・城下町キャッスルビュー名門宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 姫路城・松本城・彦根城の歴史旅。
               </p>
@@ -544,9 +514,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三名園＆大名庭園を望む老舗旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 兼六園・後楽園・偕楽園の庭園美ステイ。
               </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">登録有形文化財・宮大工名建築旅館×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 修善寺新井旅館・渋温泉金具屋・箱根環翠楼の歴史宿。
               </p>
@@ -580,9 +546,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -661,9 +625,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと納税厳選ガイド岩国錦帯橋・長崎眼鏡橋・東京日本橋の風情旅エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

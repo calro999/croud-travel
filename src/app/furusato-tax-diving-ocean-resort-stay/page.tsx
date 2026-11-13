@@ -80,18 +80,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          エメラルドグリーンの水中世界へダイブ。マリンアクティビティと温泉海鮮を両立する究極の海辺リゾート
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">エメラルドグリーンの水中世界へダイブ。マリンアクティビティと温泉海鮮を両立する究極の海辺リゾート</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ビーチ直結・マリーナ至近でスムーズなエントリーが可能
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ビーチ直結・マリーナ至近でスムーズなエントリーが可能</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               重い器材を運ぶストレスなく、ホテルから直行で海へアクセス。ダイビングショップ提携や専用器材ロッカー完備の施設も多く、ストレスフリーに海を楽しめます。
             </p>
@@ -101,9 +97,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              潜った後の冷えた身体を温める天然温泉＆サウナ完備
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">潜った後の冷えた身体を温める天然温泉＆サウナ完備</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               海から上がった後は、潮風を感じる展望露天風呂やサウナで芯まで温まり、心地よい疲労感をディープなリラクゼーションへと昇華させます。
             </p>
@@ -113,9 +107,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              獲れたて伊勢海老・地魚のお造りなど豪華なディナー
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">獲れたて伊勢海老・地魚のお造りなど豪華なディナー</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               海辺の宿ならではの醍醐味である活きの良い海の幸会席。沖縄のアグー豚＆泡盛、南紀のクエ・ケンケン鰹、伊豆の金目鯛など地域ごとのご馳走が待っています。
             </p>
@@ -130,9 +122,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="onna_diving" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                沖縄県恩納村ふるさと納税：青の洞窟・真栄田岬至近！エメラルドビーチ直結のラグジュアリーリゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">沖縄県恩納村ふるさと納税：青の洞窟・真栄田岬至近！エメラルドビーチ直結のラグジュアリーリゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 沖縄本島屈指の透明度を誇る恩納村海岸。ボートダイビングやSUP、シュノーケリングの拠点として最高峰の立地を誇り、夕暮れ時には東シナ海に沈むサンセットを一望できます。
               </p>
@@ -160,9 +150,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村真栄田1888
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ベストウェスタン沖縄恩納ビーチ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ベストウェスタン沖縄恩納ビーチ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【楽天トラベルブロンズアワード2021受賞】何もない贅沢がここにはある。沖縄県民割彩発見使えます。
                   </p>
@@ -206,9 +194,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村字前兼久1203
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ザ・ムーンビーチ　ミュージアムリゾート
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ザ・ムーンビーチ　ミュージアムリゾート</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     南国の太陽と心地いい海風に包まれて亜熱帯の自然とアートがタイムレスに融合するリゾート・ミュージアム
                   </p>
@@ -252,9 +238,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     沖縄県国頭郡恩納村瀬良垣2260
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＡＮＡインターコンチネンタル万座ビーチリゾート　ｂｙ　ＩＨＧ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     サンゴ礁に囲まれ最高の透明度と美しさを誇る 贅沢ビーチリゾートで
                   </p>
@@ -283,9 +267,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kushimoto_diving" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                和歌山県串本町ふるさと納税：本州最南端のサンゴ群生地！串本海域公園の海中景観と太平洋一望の温泉宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">和歌山県串本町ふるさと納税：本州最南端のサンゴ群生地！串本海域公園の海中景観と太平洋一望の温泉宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 黒潮が直接ぶつかる串本の海は、本州屈指の温かさと世界北限のテーブルサンゴ群落を誇るダイバーの聖地。ダイナミックな海中遊泳の後は海沿いの名湯で癒やされます。
               </p>
@@ -313,9 +295,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町湯川1065
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦　湯川温泉　恵比須屋＜和歌山県＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     無色透明なめらかなイオウ泉　家族でもてなし新鮮魚料理
                   </p>
@@ -359,9 +339,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦448
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南紀勝浦温泉　くつろぎの宿　料理旅館　万清楼</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【ホテル浦島の温泉も利用可】紀州勝浦産の生まぐろや南紀の食材を使った会席料理をお楽しみください。
                   </p>
@@ -405,9 +383,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     和歌山県東牟婁郡那智勝浦町勝浦1179-9
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    碧き島の宿　熊野別邸　中の島
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">碧き島の宿　熊野別邸　中の島</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【碧き海に浮かぶ、一島一旅館のおもてなし】開放感抜群の絶景露天風呂は圧巻！露天風呂付客室も好評
                   </p>
@@ -436,9 +412,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="nishiizu_diving" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                静岡県西伊豆ふるさと納税：大瀬崎・黄金崎の澄んだ駿河湾ブルーと名峰富士を望む海辺の温泉名宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">静岡県西伊豆ふるさと納税：大瀬崎・黄金崎の澄んだ駿河湾ブルーと名峰富士を望む海辺の温泉名宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本屈指のダイビングメッカ大瀬崎や黄金崎。波穏やかで透明度の高い海で潜った後は、駿河湾越しに望む夕日と獲れたて地魚料理を堪能する大人の贅沢ステイです。
               </p>
@@ -466,9 +440,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県賀茂郡西伊豆町宇久須2102-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宇久須温泉　西伊豆クリスタルビューホテル（伊東園ホテルズ）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     クリスタルビーチを眼下に望む温泉リゾート。
                   </p>
@@ -512,9 +484,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市小土肥241
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    西伊豆小土肥温泉　茜色の海　あるじ栖
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">西伊豆小土肥温泉　茜色の海　あるじ栖</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2019年9月にリニューアル！西伊豆の浜辺に佇む隠れ宿。眺望抜群の露天風呂付客室が大人気！
                   </p>
@@ -558,9 +528,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     静岡県伊豆市土肥349-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    愛犬と泊まれる温泉宿　ゆるり西伊豆
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">愛犬と泊まれる温泉宿　ゆるり西伊豆</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【海まで徒歩5分】愛犬とゆったりお過ごしいただける温泉宿★夕陽を眺めて入れる展望露天風呂も
                   </p>
@@ -621,9 +589,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景インフィニティ温泉×海空一体パノラマ露天宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景インフィニティ温泉×海空一体パノラマ露天宿</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 熱海・南紀白浜・指宿の海と空に溶け込む湯守宿。
               </p>
@@ -637,9 +603,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景夕日・サンセット特等席の海宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 堂ヶ島・由良・白浜の茜色マジックアワー温泉。
               </p>
@@ -653,9 +617,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 八戸・沼津・高知の獲れたて市場グルメと浜焼き。
               </p>

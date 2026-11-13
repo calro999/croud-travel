@@ -209,9 +209,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
       <section className="bg-white border border-emerald-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">COMFORT CRITERIA</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            アウトドアの不満を全解消！潔癖派が感動する4つの高規格スペック
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">アウトドアの不満を全解消！潔癖派が感動する4つの高規格スペック</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             キャンプに対する「汚い・不便・眠れない」の常識を覆すラグジュアリー設備。
           </p>
@@ -229,9 +227,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
                   {item.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {item.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{item.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {item.desc}
               </p>
@@ -244,9 +240,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
       <section className="bg-white border border-emerald-100 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-emerald-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">SPEC COMPARISON</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            高規格快適グランピング vs 一般的なキャンプ・旧型テント 設備比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">高規格快適グランピング vs 一般的なキャンプ・旧型テント 設備比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             妥協のない快適性が約束された、ホテル同等の住環境をご覧ください。
           </p>
@@ -284,9 +278,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
       <section className="space-y-6" aria-labelledby="comfort-hotels-heading">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">SELECTED COMFORT RETREATS</span>
-          <h2 id="comfort-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            水回り安心＆極上快眠！高規格グランピング＆オーベルジュ厳選4選
-          </h2>
+          <h2 id="comfort-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">水回り安心＆極上快眠！高規格グランピング＆オーベルジュ厳選4選</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             房総の渓谷リゾートから那須の北欧風コテージ、宮古島の絶景ヴィラ、八ヶ岳オーベルジュまで。
           </p>
@@ -334,9 +326,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "清潔な客室設備と充実のアメニティを完備。アウトドアの醍醐味とホテルの寛ぎを両立した高規格ステイを提供します。"}
@@ -373,18 +363,14 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
       <section className="bg-white rounded-3xl border border-emerald-100 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-emerald-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            高規格グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">高規格グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-emerald-50">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-emerald-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -395,9 +381,7 @@ export default function SilverWeekGlampingAirConditioningBedPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-emerald-950 text-white rounded-3xl p-6 sm:p-8 space-y-4 border border-emerald-800/40">
-        <h3 className="text-base font-bold text-white flex items-center gap-2">
-          <span>🎒</span> 初心者・ファミリー向け安心ステイ関連記事
-        </h3>
+        <h3 className="text-base font-bold text-white flex items-center gap-2">初心者・ファミリー向け安心ステイ関連記事</h3>
         <p className="text-xs text-emerald-200/80">
           快適性重視の旅行計画や持ち物チェックに役立つ人気特集記事。
         </p>

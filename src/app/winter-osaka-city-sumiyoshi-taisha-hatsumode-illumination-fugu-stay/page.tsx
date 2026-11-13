@@ -281,9 +281,7 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Metropolis & Divine Tradition</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              世界屈指の光の街道が街を包み、古代の信仰と天下の台所が熱気を帯びる冬のなにわ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">世界屈指の光の街道が街を包み、古代の信仰と天下の台所が熱気を帯びる冬のなにわ</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               御堂筋イルミネーションの幻想美と、日本三大住吉の総本社が織りなす新春の祈り
             </p>
@@ -342,9 +340,7 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="bg-gradient-to-r from-slate-900 to-amber-950 text-white rounded-3xl p-6 sm:p-10 shadow-md space-y-6">
           <div className="border-l-4 border-amber-400 pl-4">
             <span className="text-amber-300 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Calendar</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              11月・12月・1月｜大阪の月別見どころと旅のポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月・1月｜大阪の月別見どころと旅のポイント</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-1">
               光の点灯から新春の賑わいまで、冬の大阪を満喫するためのシーズンガイド
             </p>
@@ -393,9 +389,7 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の大阪を満喫する1泊2日 満喫モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の大阪を満喫する1泊2日 満喫モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               光の街道散策と名刹初詣、極上なにわグルメを効率よく巡る王道ツアープラン
             </p>
@@ -403,18 +397,14 @@ export default function OsakaCityWinterFeaturePage() {
 
           <div className="space-y-4 text-slate-700 text-sm sm:text-base leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-amber-800">
-                【1日目】新大阪・大阪駅から中之島レトロ建築散策 → 御堂筋イルミネーション歩き → 本場てっちりディナー＆絶景ステイ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-amber-800">【1日目】新大阪・大阪駅から中之島レトロ建築散策 → 御堂筋イルミネーション歩き → 本場てっちりディナー＆絶景ステイ</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 昼頃、大阪に到着。中之島エリアで大阪市中央公会堂や中之島美術館、国立国際美術館を鑑賞。夕暮れ時から点灯する御堂筋イルミネーションを淀屋橋から難波方面へと歩き、光のグラデーションを満喫。夜はミナミの老舗割烹やホテルダイニングで熱々の「てっちり」と「ひれ酒」に舌鼓。地上高層の客室や天然温泉大浴場で大阪の夜景を眺めながらゆったり宿泊。
               </p>
             </div>
 
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-200/70 space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-amber-800">
-                【2日目】なんばから南海電車で住吉大社へ → 反橋・国宝本殿参拝 → 黒門市場・道頓堀散策＆お土産購入
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base text-amber-800">【2日目】なんばから南海電車で住吉大社へ → 反橋・国宝本殿参拝 → 黒門市場・道頓堀散策＆お土産購入</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 朝、なんば駅から南海本線に乗り約9分で住吉大社へ。反橋を渡って心身を清め、国宝本殿で新春の開運祈願。五所御前で「五大力」の石を探してお守りに。再びなんばへ戻り、黒門市場で出来立ての海鮮串やたこ焼きを堪能。道頓堀や高島屋でお土産を調達し、午後の新幹線で快適に帰路へ。
               </p>
@@ -426,9 +416,7 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="space-y-8">
           <div>
             <span className="text-amber-600 font-bold text-xs uppercase tracking-wider">VERIFIED ACCOMMODATIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の大阪を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の大阪を満喫する厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 mt-2">
               楽天トラベル公式APIを通じてレビュー評価、立地、夜景、天然温泉、美食プランを厳選した最高品質のホテルです。
             </p>
@@ -474,11 +462,9 @@ export default function OsakaCityWinterFeaturePage() {
                 {/* Hotel Information */}
                 <div className="md:w-7/12 flex flex-col justify-between space-y-4">
                   <div>
-                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-700 transition">
-                      <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-amber-700 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                         {hotel.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-500 mt-1 italic">
                       {hotel.special}
@@ -533,18 +519,14 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-slate-200/80 space-y-6">
           <div className="border-b border-slate-150 pb-4">
             <span className="text-amber-600 font-bold text-xs uppercase tracking-wider">FREQUENTLY ASKED QUESTIONS</span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-              冬の大阪旅行 よくある質問と実用アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の大阪旅行 よくある質問と実用アドバイス</h2>
           </div>
 
           <div className="space-y-6">
             {faqList.map((faq, index) => (
               <div key={index} className="space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -557,9 +539,7 @@ export default function OsakaCityWinterFeaturePage() {
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <Compass className="w-5 h-5 text-amber-700" />
-            <h2 className="text-lg sm:text-xl font-bold text-slate-900">
-              関西・近畿の冬旅＆関連する冬の厳選特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-slate-900">関西・近畿の冬旅＆関連する冬の厳選特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

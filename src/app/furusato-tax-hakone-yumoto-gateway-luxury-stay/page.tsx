@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            早川のせせらぎと箱根山麓の豊かな自然——開湯千二百年の名湯と美食に心癒やされる至福の箱根湯本ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">早川のせせらぎと箱根山麓の豊かな自然——開湯千二百年の名湯と美食に心癒やされる至福の箱根湯本ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             神奈川県足柄下郡箱根町、箱根連山の東麓に位置する箱根湯本（はこねゆもと）温泉。奈良時代の天平十年（738年）、泰澄の弟子・浄定坊によって発見されたと伝わる「箱根十七湯」の中で最も古い歴史を誇る名湯です。新宿駅から小田急ロマンスカーで乗り換えなし約85分という抜群のアクセスを誇り、駅前には寄木細工の民芸品店や温泉まんじゅう、焼き蒲鉾などの食べ歩きが楽しい賑やかな商店街が広がっています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町（箱根湯本）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  はつはな
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">はつはな</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室に自家源泉露天風呂を完備！須雲川の渓谷美と４つの貸切風呂・女性に優しい極上スパリゾート
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  はつはな —— 須雲川のせせらぎに包まれる現代の湯治宿。全室露天風呂付き客室と五感を満たすモダン懐石
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">はつはな —— 須雲川のせせらぎに包まれる現代の湯治宿。全室露天風呂付き客室と五感を満たすモダン懐石</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室に自家源泉の露天風呂を備えた贅沢なプライベート空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室に自家源泉の露天風呂を備えた贅沢なプライベート空間</h5>
                     <p className="text-stone-600 leading-relaxed">須雲川の渓谷の緑や紅葉を望む専用露天風呂。誰にも邪魔されず、好きな時に何度でも箱根の名湯を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 趣の異なる4つの貸切風呂と2つの大浴場で湯めぐり三昧
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">趣の異なる4つの貸切風呂と2つの大浴場で湯めぐり三昧</h5>
                     <p className="text-stone-600 leading-relaxed">岩風呂や竹林を望む展望風呂など個性豊かな貸切風呂。美肌の湯として名高い自家源泉を心ゆくまで巡れます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 神奈川の旬の恵みとモダンな感性が融合した特選創作懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">神奈川の旬の恵みとモダンな感性が融合した特選創作懐石</h5>
                     <p className="text-stone-600 leading-relaxed">相模湾の海の幸や厳選牛、彩り豊かな季節の野菜を繊細に仕立てたディナー。器や盛り付けの美しさも秀逸です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町（箱根湯本）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  箱根湯本温泉　吉池旅館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">箱根湯本温泉　吉池旅館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   旧岩崎家別邸の歴史を受け継ぐ一万坪の名園！六本の自家源泉から毎分最大720L湧出する完全掛け流し
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  箱根湯本温泉 吉池旅館 —— 国登録有形文化財の庭園と湧出量豊富な名湯。自家源泉かけ流しの贅沢と山海の美味
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">箱根湯本温泉 吉池旅館 —— 国登録有形文化財の庭園と湧出量豊富な名湯。自家源泉かけ流しの贅沢と山海の美味</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 国の登録有形文化財に指定された一万坪の池泉回遊式日本庭園「山月園」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">国の登録有形文化財に指定された一万坪の池泉回遊式日本庭園「山月園」</h5>
                     <p className="text-stone-600 leading-relaxed">四季折々の花木や鯉が泳ぐ清らかな池。朝夕の散策で、都会の喧騒を忘れさせる静寂の美に出会えます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内にある6本の自家源泉から湧き出る豊富な天然温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内にある6本の自家源泉から湧き出る豊富な天然温泉</h5>
                     <p className="text-stone-600 leading-relaxed">加水・加温・循環一切なしの本物の源泉掛け流し。広大な庭園露天風呂や大浴場、貸切風呂で贅沢な湯浴みが叶います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 相模湾の新鮮魚介や旬の山の幸を贅沢に盛り込んだ会席料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">相模湾の新鮮魚介や旬の山の幸を贅沢に盛り込んだ会席料理</h5>
                     <p className="text-stone-600 leading-relaxed">板前が丹精込めて仕立てる本格和食会席。庭園の借景とともに、季節の味覚を五感でゆったりと味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町（箱根湯本）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  箱根湯本温泉　湯本富士屋ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">箱根湯本温泉　湯本富士屋ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   箱根湯本駅から徒歩3分の好立地！早川のほとりに佇む老舗名門リゾートと本格和洋中ダイニング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  箱根湯本温泉 湯本富士屋ホテル —— 駅近の利便性と豊かな自然。名門富士屋ホテルのおもてなしと多彩な温泉施設
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">箱根湯本温泉 湯本富士屋ホテル —— 駅近の利便性と豊かな自然。名門富士屋ホテルのおもてなしと多彩な温泉施設</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 箱根湯本駅（あじさい橋）から徒歩わずか3分の抜群のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">箱根湯本駅（あじさい橋）から徒歩わずか3分の抜群のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">荷物を預けてすぐに箱根観光へ出発可能。駅前商店街での買い物や食べ歩きにも最高の拠点です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 広々とした大浴場と緑に囲まれた開放感あふれる露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">広々とした大浴場と緑に囲まれた開放感あふれる露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">男女別の大浴場、露天風呂、サウナ、家族風呂を完備。柔らかな単純温泉が旅の疲れを心地よく解きほぐします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本料理・フランス料理・中国料理から選べる伝統のディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本料理・フランス料理・中国料理から選べる伝統のディナー</h5>
                     <p className="text-stone-600 leading-relaxed">富士屋ホテル伝統のフレンチ、季節の会席料理、本格広東料理と多彩な選択肢。三世代旅行や記念日にもぴったりです。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 箱根湯本駅前商店街・早川渓谷＆芦ノ湖・彫刻の森観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 箱根湯本駅前商店街・早川渓谷＆芦ノ湖・彫刻の森観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                箱根湯本駅前商店街での食べ歩き＆寄木細工ショッピング
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                箱根湯本駅前商店街での食べ歩き＆寄木細工ショッピング</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 焼き立ての「箱根まんじゅう」や籠清のかまぼこ、ジェラートなどのグルメが充実。伝統工芸品「箱根寄木細工」の体験工房やお土産探しも楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                早川渓谷のあじさい橋散策と須雲川遊歩道
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                早川渓谷のあじさい橋散策と須雲川遊歩道</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 朱塗りの欄干が美しい「あじさい橋」。早川の清流を眺めながら川沿いの遊歩道を散歩すれば、初夏の紫陽花や秋の紅葉など豊かな四季を満喫できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                箱根登山電車で行く彫刻の森美術館＆強羅・芦ノ湖
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                箱根登山電車で行く彫刻の森美術館＆強羅・芦ノ湖</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 スイッチバックで急勾配を登る日本有数の山岳鉄道「箱根登山電車」。彫刻の森美術館や大涌谷の黒たまご、芦ノ湖の海賊船へと続く黄金ルートの起点です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】箱根湯本温泉 吉池旅館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】箱根湯本温泉 吉池旅館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と箱根湯本温泉 吉池旅館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と箱根湯本温泉 吉池旅館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

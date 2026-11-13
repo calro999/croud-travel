@@ -409,9 +409,7 @@ export default function MieSakakibaraAkameWinterPage() {
               <Landmark className="w-4 h-4 text-emerald-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              七栗の美肌湯と幻の伊賀牛を満喫する初冬の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">七栗の美肌湯と幻の伊賀牛を満喫する初冬の名宿</h2>
           </div>
 
           <div className="space-y-10">
@@ -428,9 +426,7 @@ export default function MieSakakibaraAkameWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>三重県中勢・伊賀エリア</span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3 shrink-0">
                       <div className="flex items-center gap-1 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200/60 text-amber-900 text-xs font-bold">
@@ -519,17 +515,13 @@ export default function MieSakakibaraAkameWinterPage() {
               <Calendar className="w-4 h-4 text-emerald-800" />
               11月・12月おすすめ1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              七栗の美肌ぬる湯と赤目渓谷竹あかり・伊賀牛を巡る初冬の三重旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">七栗の美肌ぬる湯と赤目渓谷竹あかり・伊賀牛を巡る初冬の三重旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【1日目】枕草子の名湯体験と赤目渓谷の竹あかり散策
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【1日目】枕草子の名湯体験と赤目渓谷の竹あかり散策</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -555,10 +547,8 @@ export default function MieSakakibaraAkameWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【2日目】初冬の赤目渓谷トレッキングと伊賀城下町
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【2日目】初冬の赤目渓谷トレッキングと伊賀城下町</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -588,27 +578,21 @@ export default function MieSakakibaraAkameWinterPage() {
               <ShoppingBag className="w-4 h-4 text-emerald-800" />
               初冬の三重・中勢＆伊賀・おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街と城下町で手に入れたい初冬の銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街と城下町で手に入れたい初冬の銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-700" />
-                榊原温泉水配合コスメと源泉せんべい
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+                榊原温泉水配合コスメと源泉せんべい</h3>
               <p>
                 pH9.5前後の強アルカリ天然美肌源泉をそのままボトリングした「さかきばら温泉ミスト」や石鹸は、防腐剤無添加で冬の乾燥肌にしっとりと浸透する大人気のおみやげ。また、源泉水で練り上げた素朴で香ばしい「温泉せんべい」は、サクサクとした軽い歯ざわりとほんのりとした甘みが特徴で、お茶請けにぴったりです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-emerald-700" />
-                伝統工芸「伊賀くみひも」と伊賀の地酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-emerald-700" />
+                伝統工芸「伊賀くみひも」と伊賀の地酒</h3>
               <p>
                 映画のモチーフとしても有名になった伝統工芸「伊賀くみひも」は、絹糸が織りなす美しい色彩と丈夫な締め心地が魅力。ブレスレットやキーホルダー、帯締めなど現代的なデザインも多数揃います。また、良質な伊賀米と清流で作られる地酒「半蔵」「義左衛門」「るみ子の酒」は、冬の鍋料理や伊賀牛と抜群の相性を誇ります。
               </p>
@@ -623,32 +607,24 @@ export default function MieSakakibaraAkameWinterPage() {
               <ThermometerSun className="w-4 h-4 text-emerald-800" />
               初冬の榊原温泉・泉質と入浴メカニズムの徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ31℃の「生源泉ぬる湯」が究極の美肌と自律神経調整をもたらすのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ31℃の「生源泉ぬる湯」が究極の美肌と自律神経調整をもたらすのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-emerald-700" />
-              pH9.5超のアルカリ性単純温泉がもたらす天然ピーリング作用
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-700" />
+              pH9.5超のアルカリ性単純温泉がもたらす天然ピーリング作用</h3>
             <p>
               榊原温泉の泉質は、無色透明のアルカリ性単純温泉（単純硫黄温泉）。特筆すべきはpH9.4〜9.6という日本有数のアルカリ度です。アルカリ性泉は皮膚表面の古い角質を軟化させ、余分な皮脂汚れを優しく石鹸のように乳化させて洗い流す「天然のピーリング効果」を持ちます。さらに微量に含まれる硫黄成分がメラニンの生成を抑え、湯上がりにはくすみが抜けてワントーン明るい透明感のある肌へと導いてくれます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-emerald-700" />
-              31℃ぬる湯と41℃加温湯の「温冷交互浴」が自律神経をリセットする科学
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-emerald-700" />
+              31℃ぬる湯と41℃加温湯の「温冷交互浴」が自律神経をリセットする科学</h3>
             <p>
               一般的な温泉は40℃〜42℃に加温されますが、榊原温泉では自噴する31℃前後の源泉をそのまま浴槽に注ぎ込む「生源泉風呂」が大切に守られています。体温よりやや低い31℃のお湯は、心拍数を上げず副交感神経を優位にする鎮静効果があります。まず温かい湯船（41℃）で血行を促進し、次にぬる湯（31℃）で体を冷まさず鎮静させる「温冷交互浴」を繰り返すことで、末梢血管が柔軟に伸縮し、冬特有の冷え症や不眠、慢性的疲労を劇的にリセットしてくれます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-emerald-700" />
-              幻の伊賀牛と伊賀米がもたらす冬の滋養強壮
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+              幻の伊賀牛と伊賀米がもたらす冬の滋養強壮</h3>
             <p>
               伊賀盆地は四方を山に囲まれた特異な地形で、昼夜の寒暖差が極めて大きいのが特徴です。この厳しい気候環境と、淀川水系の清冽な伏流水で肥育される伊賀牛は、肉繊維がきめ細かくサシが細微に分散するため、加熱しても肉汁が逃げず極めてジューシー。さらに伊賀盆地の粘土質土壌で栽培される伊賀米コシヒカリは、甘みともっちり感が全国トップクラスと評価され、伊賀牛すき焼きの割り下を吸ったご飯の美味しさは格別です。名湯でデトックスした後に極上の滋養を取り入れることで、初冬の免疫力を高める理想的なウェルネス旅が完成します。
             </p>
@@ -662,18 +638,14 @@ export default function MieSakakibaraAkameWinterPage() {
               <HelpCircle className="w-4 h-4 text-emerald-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の榊原温泉・赤目四十八滝旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の榊原温泉・赤目四十八滝旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

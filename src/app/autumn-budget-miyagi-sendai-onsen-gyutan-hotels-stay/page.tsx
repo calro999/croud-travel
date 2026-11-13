@@ -55,9 +55,7 @@ export default function SendaiBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            天然温泉とサウナでととのい、杜の都の秋グルメを満喫
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">天然温泉とサウナでととのい、杜の都の秋グルメを満喫</h2>
           <p className="mb-4 text-stone-700">
             新幹線で東京から約1時間半の仙台。秋を迎えると定禅寺通りや青葉通りのケヤキが一斉に色づき、ケヤキ並木の中央の遊歩道を歩くだけで心地よい秋の散策が楽しめます。郊外へ足を伸ばせば、国指定名勝「秋保大滝」のダイナミックな滝と紅葉の絶景も待っています。
           </p>
@@ -69,10 +67,8 @@ export default function SendaiBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！仙台の天然温泉付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！仙台の天然温泉付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function SendaiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.22</span>
                     <span className="text-stone-400 text-xs">(4042件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　弦月の湯　スーパーホテル仙台・広瀬通り
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　弦月の湯　スーパーホテル仙台・広瀬通り</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / 地下鉄　広瀬通り駅より徒歩で約3分／ＪＲ　仙台駅より徒歩で15分　繁華街国分町徒歩10分
                   </p>
@@ -142,9 +136,7 @@ export default function SendaiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.41</span>
                     <span className="text-stone-400 text-xs">(1617件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スーパーホテルＰｒｅｍｉｅｒ仙台国分町天然温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スーパーホテルＰｒｅｍｉｅｒ仙台国分町天然温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 勾当台公園駅 / 地下鉄南北線「勾当台公園駅」南出口3より徒歩6分/地下鉄東西線「青葉通一番町」より徒歩10分/「仙台宮城IC」より車6分
                   </p>
@@ -189,9 +181,7 @@ export default function SendaiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.49</span>
                     <span className="text-stone-400 text-xs">(1123件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スーパーホテル仙台駅東口天然温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スーパーホテル仙台駅東口天然温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / 仙台駅東口より徒歩で約５分/北部名掛丁自由通路」を通り出口を出てから徒歩2分/高速バス「仙台駅前」のりばから徒歩5分
                   </p>
@@ -236,9 +226,7 @@ export default function SendaiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.19</span>
                     <span className="text-stone-400 text-xs">(5803件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　萩の湯　ドーミーイン仙台駅前（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 仙台駅 / JR仙台駅西口より徒歩約5分。東北道宮城ＩＣより１５分。仙台空港線で約３０分。高速バス停留所より徒歩２分。駅前通沿い。
                   </p>
@@ -283,9 +271,7 @@ export default function SendaiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.24</span>
                     <span className="text-stone-400 text-xs">(605件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    名取岩沼天然温泉「旅人の湯」ホテルルートイン名取岩沼インター　－仙台空港－
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">名取岩沼天然温泉「旅人の湯」ホテルルートイン名取岩沼インター　－仙台空港－</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 岩沼駅 / JR岩沼駅より車で約8分 仙台東部道路【仙台空港IC】より車で約8分　仙台空港より車で約13分　
                   </p>
@@ -330,9 +316,7 @@ export default function SendaiBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の仙台×格安：定禅寺通りのケヤキ紅葉と牛たんグルメ！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」！天然温泉付き1泊4,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -393,9 +377,7 @@ export default function SendaiBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の仙台×格安」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の仙台×格安」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

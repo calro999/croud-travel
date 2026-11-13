@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             秋の山陰絶景特集・伯耆富士大山と海辺の名湯
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月下旬〜11月上旬！鳥取大山の紅葉】<br className="hidden sm:inline" />鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月下旬〜11月上旬！鳥取大山の紅葉】<br className="hidden sm:inline" />鍵掛峠の絶景パノラマと皆生温泉オーシャンビュー宿5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             西日本最大級のブナ原生林が黄金色に染まる名峰「大山」！「鍵掛峠」から見上げる荒々しい南壁と紅葉のコントラストを堪能し、日本海を一望する塩化物泉・皆生温泉の極上宿へ。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              西日本一のブナ林が黄金色に輝く霊峰。荒々しい岩肌と日本海の海風に癒やされる山陰旅
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">西日本一のブナ林が黄金色に輝く霊峰。荒々しい岩肌と日本海の海風に癒やされる山陰旅</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             中国地方最高峰（標高1,729m）を誇り、「伯耆富士」の名で親しまれる名峰・大山。秋を迎えると西日本最大規模のブナの天然林が山肌を一斉に黄金色へと染め上げます。特に鍵掛峠から望む荒涼とした岩肌の南壁と、足元一面に広がるブナの絨毯のコントラストは圧巻の一言。山裾のブナ林散策や古刹・大山寺参拝を楽しんだ後は、車で約30分の皆生温泉へ。日本海の白波を望むインフィニティ露天風呂で温まり、境港直送の紅ズワイガニや鳥取和牛を堪能しましょう。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳥取大山紅葉ドライブ＆皆生温泉満喫モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳥取大山紅葉ドライブ＆皆生温泉満喫モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-700 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-700 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳥取大山・皆生温泉旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳥取大山・皆生温泉旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

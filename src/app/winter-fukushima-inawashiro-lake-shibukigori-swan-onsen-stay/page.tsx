@@ -266,10 +266,8 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
-              氷と白鳥が織りなす冬の奇跡！猪苗代湖のしぶき氷と名湯・磐梯熱海の魅力
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
+              氷と白鳥が織りなす冬の奇跡！猪苗代湖のしぶき氷と名湯・磐梯熱海の魅力</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-cyan-500 shrink-0" />
-              猪苗代湖＆磐梯熱海温泉で泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-cyan-500 shrink-0" />
+              猪苗代湖＆磐梯熱海温泉で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。レイクビューの雪見風呂、多彩な湯巡り、会津地鶏と福島牛の美食を誇る名宿を厳選。
             </p>
@@ -334,12 +330,10 @@ export default function FukushimaInawashiroBandaiWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-cyan-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-cyan-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-cyan-700 bg-cyan-50 border border-cyan-200/60 rounded-md px-2.5 py-1 mt-2 inline-block font-medium">
                         {h.special}
@@ -396,10 +390,8 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-cyan-500 shrink-0" />
-              猪苗代湖・磐梯熱海の冬の気候と時期別おすすめの服装・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-cyan-500 shrink-0" />
+              猪苗代湖・磐梯熱海の冬の気候と時期別おすすめの服装・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -439,38 +431,30 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-cyan-500 shrink-0" />
-              冬の猪苗代湖を美しく切り取る！絶景フォトスポット＆撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-cyan-500 shrink-0" />
+              冬の猪苗代湖を美しく切り取る！絶景フォトスポット＆撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                天神浜の天然しぶき氷アート
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                天神浜の天然しぶき氷アート</h3>
               <p className="leading-relaxed">
                 晴天の午前中（9:00〜11:00）がベスト。斜光から逆光気味のアングルを選ぶと、樹木を包み込む氷柱の透明感とクリスタルのような輝きが引き立ちます。広角レンズで群生する氷の造形全体を捉えつつ、望遠やマクロで氷の繊細な表情を切り取るのがコツです。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                長浜の白鳥と冠雪磐梯山
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                長浜の白鳥と冠雪磐梯山</h3>
               <p className="leading-relaxed">
                 朝の清々しい順光時間帯が狙い目。静かな湖面に浮かぶ真っ白な白鳥たちの優雅な群れと、背景に堂々とそびえる雪の磐梯山をバランスよく配置。シャッタースピードを速め（1/1000秒以上）に設定し、羽ばたく瞬間や着水シーンを連写で捉えると躍動感あふれる一枚になります。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-600" />
-                磐梯熱海温泉の雪吊り庭園と湯煙
-              </h3>
+              <h3 className="font-bold text-cyan-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-600" />
+                磐梯熱海温泉の雪吊り庭園と湯煙</h3>
               <p className="leading-relaxed">
                 夕暮れ時のトワイライトタイム。五百川沿いの雪景色や名門旅館の庭園に施された雪吊りがライトアップされ、露天風呂から立ち上る白い湯けむりが情緒を掻き立てます。暖色系の露光調整で、雪の白さと温泉宿の温もりを対比させて撮影するのがおすすめです。
               </p>
@@ -482,38 +466,30 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Local Delicacies</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
-              冬の会津・猪苗代を味わう！会津地鶏・極上馬刺し・福島牛・熱々喜多方ラーメン
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
+              冬の会津・猪苗代を味わう！会津地鶏・極上馬刺し・福島牛・熱々喜多方ラーメン</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                会津地鶏の鍋＆すき焼き
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                会津地鶏の鍋＆すき焼き</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 平家の落人が愛育したと伝わる幻の地鶏「会津地鶏」。赤身が濃く、噛むほどに溢れ出す芳醇な肉汁とコク深い脂の旨味が特徴です。冬はシャキシャキの地元野菜とともに水炊きやつみれ鍋、すき焼きで味わうと、体の芯からポカポカに温まります。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                会津名物「極上赤身馬刺し」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                会津名物「極上赤身馬刺し」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 会津の馬刺しは、脂身の少ない鮮やかな赤身肉が特徴。一切の臭みがなく、驚くほど柔らかく上品な甘みがあります。地元特製のピリッと辛い「にんにく辛子味噌」を醤油に溶いて絡めて食べるのが会津流。地酒との相性は最高です。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                福島牛ステーキ＆喜多方ラーメン
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                福島牛ステーキ＆喜多方ラーメン</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 豊かな自然と清らかな水で育まれた黒毛和牛「福島牛」。きめ細やかなサシが入ったサーロインステーキや陶板焼きは、とろけるような口どけです。また、手揉み縮れ太麺と澄んだ醤油スープが特徴の喜多方ラーメンも冬の散策に欠かせないご馳走です。
               </p>
@@ -525,10 +501,8 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-cyan-400 shrink-0" />
-              しぶき氷と白鳥に出会う1泊2日冬の王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-400 shrink-0" />
+              しぶき氷と白鳥に出会う1泊2日冬の王道モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -589,18 +563,14 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の猪苗代湖・磐梯熱海旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の猪苗代湖・磐梯熱海旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -613,9 +583,7 @@ export default function FukushimaInawashiroBandaiWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！東北・福島エリアの冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！東北・福島エリアの冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

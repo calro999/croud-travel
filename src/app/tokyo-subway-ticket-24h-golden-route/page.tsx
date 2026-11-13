@@ -223,9 +223,7 @@ export default function TokyoSubwayTicket24hPage() {
             </span>
             <div>
               <span className="text-cyan-700 font-bold text-xs uppercase tracking-wider">Fare Simulation</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                東京メトロの運賃体系 vs 24時間券の損益分岐点
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">東京メトロの運賃体系 vs 24時間券の損益分岐点</h2>
             </div>
           </div>
           <p className="text-slate-600 leading-relaxed mb-6">
@@ -278,7 +276,7 @@ export default function TokyoSubwayTicket24hPage() {
           </div>
 
           <div className="p-4 rounded-2xl bg-cyan-50 border border-cyan-200">
-            <h4 className="text-cyan-900 font-bold text-sm mb-1">🎯 結論：都内観光なら確実に元が取れる！</h4>
+            <h4 className="text-cyan-900 font-bold text-sm mb-1">結論：都内観光なら確実に元が取れる！</h4>
             <p className="text-cyan-800 text-xs sm:text-sm leading-relaxed">
               「浅草観光 → 銀座でカフェ → 六本木で夜景」と移動するだけで既に運賃は570円〜600円に到達。
               これにホテルへの帰宅や翌朝の移動を1回加えるだけで、100%確実に利益（元取れ）が発生します。
@@ -290,9 +288,7 @@ export default function TokyoSubwayTicket24hPage() {
         <section>
           <div className="text-center max-w-2xl mx-auto mb-10">
             <span className="text-cyan-700 font-bold text-xs uppercase tracking-wider">Smart Features</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">
-              普通の1日乗車券とここが違う！24時間券の圧倒的強み
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-slate-900 mt-1">普通の1日乗車券とここが違う！24時間券の圧倒的強み</h2>
             <p className="text-slate-600 text-sm mt-2">
               「終電で使えなくなる切符」から「翌日の同じ時刻まで使える時間制」への大進化。
             </p>
@@ -323,9 +319,7 @@ export default function TokyoSubwayTicket24hPage() {
             </span>
             <div>
               <span className="text-cyan-700 font-bold text-xs uppercase tracking-wider">Ultimate 24h Model Course</span>
-              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                1枚で2日分得する！「13:00スタート〜翌日12:59」完全踏破タイムテーブル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-slate-900">1枚で2日分得する！「13:00スタート〜翌日12:59」完全踏破タイムテーブル</h2>
             </div>
           </div>
 
@@ -372,9 +366,7 @@ export default function TokyoSubwayTicket24hPage() {
         <section className="bg-gradient-to-br from-slate-900 via-cyan-950 to-slate-950 text-white rounded-3xl p-6 sm:p-10 border border-cyan-800/40">
           <div className="max-w-2xl mb-8">
             <span className="text-cyan-400 font-black text-xs uppercase tracking-wider">Metropolitan Bases</span>
-            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">
-              メトロ駅チカで身軽に観光！銀座・築地・都心の厳選ホテル
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white mt-1">メトロ駅チカで身軽に観光！銀座・築地・都心の厳選ホテル</h2>
             <p className="text-slate-300 text-xs sm:text-sm mt-2 leading-relaxed">
               銀座線・日比谷線・大江戸線などの駅に近いホテルを選べば、チェックイン前後の荷物預けもスムーズ。歩き疲れた体を癒やす大浴場付きホテルやスタイリッシュな最新宿を厳選。
             </p>
@@ -415,9 +407,7 @@ export default function TokyoSubwayTicket24hPage() {
                     <div className="text-[11px] font-bold text-cyan-800 mb-1">
                       {hotel.nearestStation ? `最寄駅: ${hotel.nearestStation}` : hotel.address1 || "東京・銀座・築地"}
                     </div>
-                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-cyan-700 transition line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-600 mt-2 line-clamp-2 leading-relaxed">
                       {hotel.hotelSpecial || "地下鉄各線へのアクセス抜群。東京観光・ショッピングの拠点に最適な快適ステイ。"}
                     </p>
@@ -448,9 +438,7 @@ export default function TokyoSubwayTicket24hPage() {
 
         {/* セクション5：知っておくべき注意点・メトロ攻略Tips */}
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-cyan-100">
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">
-            東京メトロ24時間券の注意点＆乗換のコツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 mb-6">東京メトロ24時間券の注意点＆乗換のコツ</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-2xl bg-cyan-50/60 border border-cyan-100">
               <h3 className="font-bold text-slate-900 mb-1">① 都営地下鉄やJR山手線には乗れない</h3>
@@ -510,9 +498,7 @@ export default function TokyoSubwayTicket24hPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と600円で都内観光乗り倒し！元を取るコスパ最強ルート＆駅チカ宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

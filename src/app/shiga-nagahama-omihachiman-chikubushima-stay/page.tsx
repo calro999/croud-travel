@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             ガラス工芸と明治レトロの商店街
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 長浜黒壁スクエア（黒壁ガラス館・体験工房）＆長浜城歴史博物館・豊公園
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 長浜黒壁スクエア（黒壁ガラス館・体験工房）＆長浜城歴史博物館・豊公園</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             明治時代の旧第百三十国立銀行長浜支店を活用した「黒壁一號館 黒壁ガラス館」を中心に、北国街道沿いの古い町並みがリノベーションされた「黒壁スクエア」。国内外の繊細なガラス工芸品が並び、吹きガラスやステンドグラスの制作体験が楽しめます。琵琶湖畔の豊公園にそびえる「長浜城歴史博物館」の天守展望台からは琵琶湖と伊吹山の大パノラマを一望。名物の「焼き鯖そうめん」やのっぺいうどんの食べ歩きも人気です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ホテルルートイン長浜インター
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ホテルルートイン長浜インター</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ＷＯＷＯＷ全室で無料視聴可■VODルームシアター無料視聴可能(一般映画のみ：コンフォートルーム特典）
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        グランドメルキュール琵琶湖リゾート＆スパ
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グランドメルキュール琵琶湖リゾート＆スパ</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         4月リブランドオープン！全てのお客様が無料で利用できるラウンジ特典付のリゾート
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        グリーンホテルＹｅｓ長浜　みなと館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グリーンホテルＹｅｓ長浜　みなと館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         和をモチーフにした落ち着いた雰囲気と、炭酸カルシウム温泉で心と体の疲れを癒して下さい
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ベッセルイン滋賀守山駅前（守山・栗東・草津）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ベッセルイン滋賀守山駅前（守山・栗東・草津）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         JR守山駅から徒歩1分でアクセス抜群◆ビジネスや観光の拠点に最適◆全室Ｗｉ－Ｆｉ無料！
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             琵琶湖に浮かぶ日本三大弁財天の神域
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 竹生島クルーズ（国宝宝厳寺唐門・都久夫須麻神社）＆かわらけ投げ願掛け体験
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 竹生島クルーズ（国宝宝厳寺唐門・都久夫須麻神社）＆かわらけ投げ願掛け体験</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             琵琶湖北部に浮かぶ周囲約2kmの島「竹生島（ちくぶしま）」。古来より神仏が宿る神聖な島とされ、日本三大弁財天の一つである「宝厳寺」と「都久夫須麻神社（竹生島神社）」が鎮座します。秀吉の御座船「日本丸」の部材を用いて建てられたとされる宝厳寺の「唐門」や「観音堂」は国宝・重要文化財。本殿前のかわらけ（素焼きの小皿）に願い事を書き、琵琶湖に向かって突き出た鳥居の間へ投げ通すと願いが叶う「かわらけ投げ」が人気です。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">びわ湖畔　おいしい湯の宿　長浜太閤温泉　浜湖月</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         琵琶湖を眺め、新鮮な湖国の幸を活かした料理自慢
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        レジーナリゾートびわ湖長浜
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">レジーナリゾートびわ湖長浜</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ～愛犬とともに琵琶湖を望む温宿でくつろぎの時間を～
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        旅館　紅鮎
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　紅鮎</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         「いらっしゃいませ」と申し上げるより、「おかえりなさいませ」と迎えてさしあげたい。
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        尾上　旅館　うをよし
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">尾上　旅館　うをよし</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         目の前に広がる北琵琶湖、竹生島、神秘的な景色は旅人の期待を決して裏切りません。
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             近江商人のふるさとと日本最古のブランド牛
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 近江八幡「八幡堀」手漕ぎ和船水郷めぐり＆日本三大和牛「近江牛」すき焼き会席
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 近江八幡「八幡堀」手漕ぎ和船水郷めぐり＆日本三大和牛「近江牛」すき焼き会席</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             豊臣秀次が築いた八幡山城の城下町であり、近江商人の本拠地として栄えた「近江八幡」。白壁の土蔵が水面に映る「八幡堀」を手漕ぎの和船に揺られて進む水郷めぐりは、時代劇の世界に迷い込んだような風情。国の重要伝統的建造物群保存地区に指定された新町通りには豪商の屋敷が並びます。夕食には約400年の歴史を誇る「近江牛」の極上サーロインステーキやすき焼きを老舗料亭で堪能できます。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        ＡＢホテル近江八幡
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">ＡＢホテル近江八幡</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         近江八幡駅より徒歩２分！和洋バイキング無料朝食！男女別大浴場完備♪
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        グリーンホテルＹＥＳ近江八幡
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">グリーンホテルＹＥＳ近江八幡</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ★ウェルカムワイン実施中★赤・白ワインを選べます＜宿泊者限定＞
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        近江八幡ステーションホテル
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">近江八幡ステーションホテル</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         ＪＲ近江八幡駅から徒歩１分。ビジネス・レジャーと用途に合わせて、お気軽にご利用下さい。
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">近江八幡　まちや倶楽部（旧名称：ＭＡＣＨＩＹＡ　ＩＮＮ近江八幡）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         近江八幡の工芸やアートに触れる、小さな町家ホテル。江戸時代からの空間で心休まるひとときをどうぞ
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルルートイン長浜インターを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルルートイン長浜インターを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルルートイン長浜インターの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルルートイン長浜インターの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

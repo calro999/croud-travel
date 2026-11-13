@@ -58,10 +58,8 @@ export default function AutumnBudgetGifuHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代2,000円台！浮かせた予算で特選飛騨牛＆長良川の落ち鮎を堪能
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代2,000円台！浮かせた予算で特選飛騨牛＆長良川の落ち鮎を堪能</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             名古屋から快速で約20分と好アクセスの岐阜駅。名古屋市内よりも宿泊相場が大幅にリーズナブルで、2,000円台〜3,000円台で大浴場付きや朝食付きの良質ホテルが利用できます。賢く浮かせた旅費で、老舗精肉店の飛騨牛すき焼きや贅沢ディナーを心ゆくまで楽しみましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場無料◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＡＢホテル岐阜
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＡＢホテル岐阜</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岐阜</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（格安駅近）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルエンディア岐阜
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエンディア岐阜</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>新岐阜</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（スタイリッシュ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルリソル岐阜
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリソル岐阜</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岐阜</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（清流リゾート）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              長良川清流ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">長良川清流ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岐阜</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（最高評価ステイ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ダイワロイネットホテル岐阜
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル岐阜</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>岐阜</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetGifuHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の岐阜・金華山観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の岐阜・金華山観光の満喫ポイント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             金華山山頂の岐阜城パノラマ夜景は東海屈指の美しさ。ロープウェーの秋季夜間特別運行日を事前に確認して訪れるのがおすすめです。夜は岐阜駅北側の「玉宮町」で飛騨牛にぎりや地酒三千盛の飲み比べを楽しんでください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetGifuHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「岐阜：金華山・岐阜城のパノラマ紅葉と飛騨牛グルメ！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetGifuHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「岐阜」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「岐阜」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

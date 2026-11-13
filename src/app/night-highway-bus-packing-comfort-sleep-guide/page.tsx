@@ -224,9 +224,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <div className="flex items-center gap-2 text-indigo-400 text-xs font-black tracking-wider uppercase">
               <span>⚠️ NIGHT BUS TRAPS</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">
-              なぜ夜行バスで一睡もできないのか？初心者がハマる3大トラップ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">なぜ夜行バスで一睡もできないのか？初心者がハマる3大トラップ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
@@ -260,9 +258,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-black tracking-wider uppercase bg-indigo-500/20 text-indigo-300 border border-indigo-500/30">
               <span>🎒 MUST-HAVE SLEEP GEAR</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">
-              夜行バスで熟睡するための神アイテム10選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-white font-journal-serif">夜行バスで熟睡するための神アイテム10選</h2>
             <p className="text-xs sm:text-sm text-slate-400">
               カバンの手元ポケットに常備必須！これがあるだけで翌朝の身体の軽さが天と地ほど変わります。
             </p>
@@ -288,9 +284,7 @@ export default function NightHighwayBusPackingGuidePage() {
                   </div>
                 </div>
 
-                <h3 className="text-base sm:text-lg font-black text-white">
-                  {item.name}
-                </h3>
+                <h3 className="text-base sm:text-lg font-black text-white">{item.name}</h3>
 
                 <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
                   {item.whyNeed}
@@ -311,17 +305,13 @@ export default function NightHighwayBusPackingGuidePage() {
             <div className="flex items-center gap-2 text-rose-400 text-xs font-black tracking-wider uppercase">
               <span>📉 REAL FAILURE STORIES</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">
-              先輩トラベラーの「一睡もできなかった」リアル失敗談
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">先輩トラベラーの「一睡もできなかった」リアル失敗談</h2>
           </div>
 
           <div className="space-y-4">
             {failureStories.map((story, idx) => (
               <div key={idx} className="bg-slate-950/80 border border-indigo-900/40 rounded-2xl p-5 space-y-3">
-                <h3 className="text-sm sm:text-base font-black text-rose-300">
-                  {story.caseTitle}
-                </h3>
+                <h3 className="text-sm sm:text-base font-black text-rose-300">{story.caseTitle}</h3>
                 <div className="text-xs text-slate-300 space-y-1 bg-rose-950/20 border-l-2 border-rose-500 pl-3 py-1">
                   <strong className="text-rose-200">実際の悲劇：</strong>{story.situation}
                 </div>
@@ -339,9 +329,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <div className="flex items-center gap-2 text-indigo-400 text-xs font-black tracking-wider uppercase">
               <span>⏰ TIMELINE STRATEGY</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">
-              爆睡に導く「乗車前〜到着後」行動タイムライン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">爆睡に導く「乗車前〜到着後」行動タイムライン</h2>
             <p className="text-xs text-slate-400 mt-1">
               グッズだけでなく「行動の段取り」が睡眠効率を最大化します。
             </p>
@@ -355,9 +343,7 @@ export default function NightHighwayBusPackingGuidePage() {
                   <span className="text-xs font-black text-indigo-300 bg-indigo-950 px-2.5 py-0.5 rounded border border-indigo-800/80">
                     {hack.time}
                   </span>
-                  <h3 className="text-sm sm:text-base font-bold text-white">
-                    {hack.title}
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-white">{hack.title}</h3>
                 </div>
                 <p className="text-xs text-slate-300 leading-relaxed pl-1">
                   {hack.desc}
@@ -371,9 +357,7 @@ export default function NightHighwayBusPackingGuidePage() {
         <section className="bg-gradient-to-r from-indigo-900 via-indigo-950 to-slate-900 border border-indigo-500/40 rounded-3xl p-6 sm:p-8 shadow-2xl space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-2xl">🎫</span>
-            <h2 className="text-lg sm:text-xl font-black text-white">
-              楽天トラベル 高速バス予約でシートを厳選しよう
-            </h2>
+            <h2 className="text-lg sm:text-xl font-black text-white">楽天トラベル 高速バス予約でシートを厳選しよう</h2>
           </div>
           <p className="text-xs sm:text-sm text-indigo-200 leading-relaxed">
             爆睡の究極の近道は、そもそも「3列独立シート」や「カーテン仕切り付きリクライニングシート」を予約すること。楽天トラベルならシートタイプ絞り込み検索やお得な限定クーポンが充実しています。
@@ -397,9 +381,7 @@ export default function NightHighwayBusPackingGuidePage() {
             <div className="flex items-center gap-2 text-indigo-400 text-xs font-black tracking-wider uppercase">
               <span>♨️ POST-BUS BATH & REFRESH</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">
-              夜行バス到着後すぐ行ける！主要ターミナル直結・大浴場＆サウナ付きホテル
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white mt-1">夜行バス到着後すぐ行ける！主要ターミナル直結・大浴場＆サウナ付きホテル</h2>
             <p className="text-xs sm:text-sm text-slate-400 mt-1">
               早朝到着後の荷物預けや、前泊・後泊に最適！凝り固まった身体を天然温泉とサウナでリセットできる厳選宿です。
             </p>
@@ -444,9 +426,7 @@ export default function NightHighwayBusPackingGuidePage() {
                           <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount || 0}件）</span>
                         </div>
                       )}
-                      <h3 className="text-sm font-black text-white line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-sm font-black text-white line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-xs text-slate-400 line-clamp-2">
                           {hotel.hotelSpecial}
@@ -485,9 +465,7 @@ export default function NightHighwayBusPackingGuidePage() {
           <div className="flex items-center gap-2 text-indigo-400 text-xs font-black tracking-wider uppercase">
             <span>🔗 RELATED BUS GUIDES</span>
           </div>
-          <h2 className="text-lg font-black text-white">
-            夜行バス比較・モデルコースもあわせてチェック
-          </h2>
+          <h2 className="text-lg font-black text-white">夜行バス比較・モデルコースもあわせてチェック</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">
             <Link
               href="/tokyo-osaka-bus-vs-shinkansen-guide/"
@@ -496,9 +474,7 @@ export default function NightHighwayBusPackingGuidePage() {
               <div className="text-xs font-black text-indigo-400 group-hover:text-indigo-300">
                 🚌 東京 ⇄ 大阪 徹底比較
               </div>
-              <h3 className="text-sm font-bold text-white">
-                【新幹線 vs 夜行バス】差額2万円でUSJ・道頓堀1泊2日モデルコース
-              </h3>
+              <h3 className="text-sm font-bold text-white">【新幹線 vs 夜行バス】差額2万円でUSJ・道頓堀1泊2日モデルコース</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 早朝開園待ちに直行できる夜行バスと最速新幹線のコスパ徹底比較ガイド。
               </p>
@@ -511,9 +487,7 @@ export default function NightHighwayBusPackingGuidePage() {
               <div className="text-xs font-black text-indigo-400 group-hover:text-indigo-300">
                 🦀 東京 ⇄ 金沢 徹底比較
               </div>
-              <h3 className="text-sm font-bold text-white">
-                北陸新幹線と高速バスどっち？料金比較＆朝イチ海鮮丼モデルコース
-              </h3>
+              <h3 className="text-sm font-bold text-white">北陸新幹線と高速バスどっち？料金比較＆朝イチ海鮮丼モデルコース</h3>
               <p className="text-[11px] text-slate-400 line-clamp-2">
                 宿泊代1泊分浮く金沢夜行便のメリットと近江町市場早朝攻略プラン。
               </p>
@@ -538,9 +512,7 @@ export default function NightHighwayBusPackingGuidePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と首が痛い・乾燥・寒さで一睡もできなかった失敗談を完全解決の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

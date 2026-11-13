@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            「国境の長いトンネルを抜けると雪国であった」——越後湯沢温泉で巡る文学の足跡と極上の米・酒・湯治ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">「国境の長いトンネルを抜けると雪国であった」——越後湯沢温泉で巡る文学の足跡と極上の米・酒・湯治ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             ノーベル文学賞作家・川端康成が不朽の名作『雪国』を執筆したことで世界的に知られる越後湯沢温泉。東京駅から上越新幹線でわずか約70分という抜群のアクセスを誇りながら、谷川連峰の雄大な山々に抱かれた白銀の別世界が広がります。平安時代末期に源泉が発見されたと伝わる歴史ある湯は、肌に優しく柔らかなアルカリ性単純温泉。湯上がりの肌がしっとりと潤い、長旅の疲れをじんわりと解きほぐしてくれます。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             越後湯沢の旅をさらに特別なものにするのが、日本一の米どころ南魚沼が誇る「魚沼産コシヒカリ」の炊きたてご飯と、新潟が世界に誇る銘酒（八海山・鶴齢・上善如水など）の数々。さらに冬のスキー＆スノーボード、秋の紅葉トレッキング、夏の爽やかな高原アクティビティと、四季を通じて魅力が尽きません。新潟県湯沢町へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名旅館や一流リゾートホテルへお得に滞在でき、贅を尽くした雪国ステイが実現します。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（越後湯沢温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（越後湯沢温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県湯沢町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  越後湯沢湯元　卵の湯　雪國の宿　高半
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">越後湯沢湯元　卵の湯　雪國の宿　高半</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業九百余年・川端康成が「雪国」を執筆した歴史宿！かすみ草の部屋と源泉100％掛け流し天然名湯「卵の湯」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  越後湯沢湯元 卵の湯 雪国の宿 高半 —— 文豪の筆が走った静寂の高台。湧き出たままの奇跡の源泉掛け流し
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">越後湯沢湯元 卵の湯 雪国の宿 高半 —— 文豪の筆が走った静寂の高台。湧き出たままの奇跡の源泉掛け流し</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 湧き出たまま一切加水・加温なしの極上源泉「卵の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">湧き出たまま一切加水・加温なしの極上源泉「卵の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">湯沢温泉発祥の源泉をそのまま掛け流す贅沢な浴槽。ほのかな硫黄の香りと細かい湯花が舞い、温泉成分がそのまま肌に染み渡る極上の湯浴みを体感できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 川端康成が逗留した客室「かすみ草の間」を保存
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">川端康成が逗留した客室「かすみ草の間」を保存</h5>
                     <p className="text-stone-600 leading-relaxed">川端康成が昭和初年に滞在し小説『雪国』を執筆した部屋が当時のまま大切に保存・公開。資料室には貴重な直筆原稿や映画の資料などが展示され、文学散歩を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 南魚沼産コシヒカリと越後の旬の味覚を味わう田舎会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">南魚沼産コシヒカリと越後の旬の味覚を味わう田舎会席</h5>
                     <p className="text-stone-600 leading-relaxed">地元農家から直送される最高峰の魚沼産コシヒカリの釜炊きご飯。新潟の地酒とともに、日本海の鮮魚や山の恵みを取り入れた滋味豊かな会席料理を味わえます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県湯沢町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  越後湯沢温泉　松泉閣花月
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">越後湯沢温泉　松泉閣花月</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全館畳敷きの温もりあふれる純和風旅館！四つの露天風呂と南魚沼産コシヒカリを極める釜炊き会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  越後湯沢温泉 松泉閣 花月 —— 裸足で歩く心地よさ。風情あふれる庭園風呂と細やかなおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">越後湯沢温泉 松泉閣 花月 —— 裸足で歩く心地よさ。風情あふれる庭園風呂と細やかなおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 玄関から廊下まで全館畳敷きの心地よい和の空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">玄関から廊下まで全館畳敷きの心地よい和の空間</h5>
                     <p className="text-stone-600 leading-relaxed">スリッパを使わず素足で歩ける畳敷きの館内。足元から伝わるイ草の温もりと、和モダンに統一された設えが、旅人を優しく包み込みます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 庭園露天風呂や釜風呂など趣の異なる四つの湯船
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">庭園露天風呂や釜風呂など趣の異なる四つの湯船</h5>
                     <p className="text-stone-600 leading-relaxed">岩造りの露天風呂や大きな釜風呂、檜風呂など、庭園の緑や雪景色を眺めながらゆったりと湯巡りを楽しめる大浴場。柔らかな名湯で体の芯まで温まります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 炊きたての南魚沼産コシヒカリと越後牛の贅沢会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">炊きたての南魚沼産コシヒカリと越後牛の贅沢会席</h5>
                     <p className="text-stone-600 leading-relaxed">お米の甘みと香りが際立つ釜炊きご飯。にいがた和牛や旬の山菜、日本海直送の鮮魚など、新潟の豊かな食文化を贅沢に盛り込んだ会席料理が絶品です。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県湯沢町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  越後湯沢温泉　ＮＡＳＰＡニューオータニ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">越後湯沢温泉　ＮＡＳＰＡニューオータニ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   ホテルニューオータニ直営の本格温泉リゾート！二百五十坪の大浴場と極上バイキング・スキー直結の充実施設
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  越後湯沢温泉 NASPAニューオータニ —— 一流ホテルのホスピタリティとリゾートの解放感。全世代対応の高原ステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">越後湯沢温泉 NASPAニューオータニ —— 一流ホテルのホスピタリティとリゾートの解放感。全世代対応の高原ステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 男女各250坪を誇る圧倒的スケールの温泉大浴場
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">男女各250坪を誇る圧倒的スケールの温泉大浴場</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした内湯とジャグジー、露天風呂、サウナを完備した大浴場。スキーや観光で疲れた体を広大な湯船でゆったりと癒やすことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ニューオータニ伝統のローストビーフ＆豪華ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ニューオータニ伝統のローストビーフ＆豪華ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">シェフが目の前でカッティングする伝統の特製ローストビーフをはじめ、和洋中の熟練シェフが手掛ける豪華ディナーバイキング。スイーツコーナーも大充実です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> スキーヤー専用ゲレンデ「NASPAスキーガーデン」直結
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">スキーヤー専用ゲレンデ「NASPAスキーガーデン」直結</h5>
                     <p className="text-stone-600 leading-relaxed">ホテル直結のゲレンデはスノーボード全面滑走禁止のスキーヤー専用。ファミリーやビギナーも安心してスキーを楽しめる理想的なスノーリゾート環境です。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            越後湯沢駅周辺の観光・ぽんしゅ館＆南魚沼グルメ散策
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">越後湯沢駅周辺の観光・ぽんしゅ館＆南魚沼グルメ散策</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 越後湯沢駅構内「ぽんしゅ館」で新潟の全酒蔵きき酒体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 越後湯沢駅構内「ぽんしゅ館」で新潟の全酒蔵きき酒体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed">越後湯沢駅直結の「ぽんしゅ館 越後湯沢店」。コインを購入して500円で5種類のお酒を試飲できる巨大なきき酒マシンが並び、新潟県内約90の全蔵元の銘酒を飲み比べできます。名物の「爆弾おにぎり」や酒風呂「湯の沢」も併設されています。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 湯沢高原パノラマパークと世界最大級ロープウェイ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 湯沢高原パノラマパークと世界最大級ロープウェイ</h3>
               <p className="text-stone-700 text-sm leading-relaxed">温泉街から世界最大級（166人乗り）のロープウェイに乗って標高1,000mの山頂へ。春〜秋は高山植物や雲海テラスの絶景、ジップラインなどのアクティビティが楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 清津峡渓谷トンネル（十日町）へのアートトリップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 清津峡渓谷トンネル（十日町）へのアートトリップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed">越後湯沢から車で約30分の日本三大峡谷「清津峡」。トンネル終点にある水鏡のパノラマステーションは、渓谷の岩肌と水面が一体化するSNSでも大人気のアートスポットです。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              新潟県湯沢町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">新潟県湯沢町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】越後湯沢湯元 卵の湯 雪國の宿 高半を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】越後湯沢湯元 卵の湯 雪國の宿 高半を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と越後湯沢湯元 卵の湯 雪國の宿 高半の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と越後湯沢湯元 卵の湯 雪國の宿 高半の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

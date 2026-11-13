@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            藤木川の渓谷に響くせせらぎと千年のいで湯——夏目漱石や芥川龍之介が愛した文豪の隠れ里で味わう至高の懐石美禄
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">藤木川の渓谷に響くせせらぎと千年のいで湯——夏目漱石や芥川龍之介が愛した文豪の隠れ里で味わう至高の懐石美禄</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             神奈川県最南端、相模湾と箱根連山に挟まれた山間に湧く湯河原（ゆがわら）温泉。万葉集に「足柄の土肥の河内に出づる湯の…」と詠まれた東日本唯一の万葉古湯であり、明治から大正にかけては夏目漱石が絶筆『明暗』を執筆し、芥川龍之介、国木田独歩、島崎藤村ら名だたる文豪が逗留して創作に耽った日本を代表する文学の街です。特に温泉街の最奥部に位置する「奥湯河原」は、深い緑の渓谷と静寂に包まれた極上の大人の隠れ家エリアとして知られています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県湯河原町（奥湯河原）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  海石榴　つばき
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">海石榴　つばき</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   奥湯河原の豊かな自然に包まれた名門料亭旅館！四季を彩る極上の懐石料理と数寄屋造りの美
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  海石榴 つばき —— 藤木川の清流沿いに佇む最高峰の和風旅館。日本の美意識が息づく静寂と至高の料理美禄
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">海石榴 つばき —— 藤木川の清流沿いに佇む最高峰の和風旅館。日本の美意識が息づく静寂と至高の料理美禄</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 四季の野花と椿が咲き誇る山間に佇む数寄屋建築の館
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">四季の野花と椿が咲き誇る山間に佇む数寄屋建築の館</h5>
                     <p className="text-stone-600 leading-relaxed">手入れの行き届いた庭園と清流のせせらぎ。日本の伝統美と現代の快適性が調和した静寂の空間です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 奥湯河原の豊かな大自然を望む大浴場と露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">奥湯河原の豊かな大自然を望む大浴場と露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">無色透明で肌に優しい名湯。湯船から眺める新緑や紅葉、雪景色が日々の疲れを優しく解き放ちます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 「料亭旅館」の名に恥じない最高峰の四季折々京風懐石料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">「料亭旅館」の名に恥じない最高峰の四季折々京風懐石料理</h5>
                     <p className="text-stone-600 leading-relaxed">吟味された食材と職人の技が織りなす芸術的な料理。お部屋や個室食事処でゆったりと至福の時間を過ごせます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県湯河原町（奥湯河原）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  山翠楼SANSUIROU
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">山翠楼SANSUIROU</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   奥湯河原の山並みを一望する展望露天風呂「大空」！名物自家製湯葉と本格懐石料理を堪能する名宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  山翠楼 SANSUIROU —— 聚楽壁と銘木が薫る本格料亭旅館。奥湯河原の絶景風呂と湯葉料理が織りなす美食ステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">山翠楼 SANSUIROU —— 聚楽壁と銘木が薫る本格料亭旅館。奥湯河原の絶景風呂と湯葉料理が織りなす美食ステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 屋上に設けられた展望露天風呂「大空」からの360度大自然パノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">屋上に設けられた展望露天風呂「大空」からの360度大自然パノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">山並みと空に溶け込むような開放感。満天の星空や朝の清々しい山霧を眺めながらの入浴は格別の体験です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 厳選された国産大豆と天然水で作る名物「自家製引き上げ湯葉」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">厳選された国産大豆と天然水で作る名物「自家製引き上げ湯葉」</h5>
                     <p className="text-stone-600 leading-relaxed">毎朝手作りされる新鮮な湯葉料理。できたてのまろやかなコクと上品な甘みが口いっぱいに広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 旬の食材を贅沢に取り入れた月替わりの本格会席コース
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">旬の食材を贅沢に取り入れた月替わりの本格会席コース</h5>
                     <p className="text-stone-600 leading-relaxed">相模湾の新鮮魚介や黒毛和牛、季節の野菜を組み合わせた端正な料理。料理長の確かな技が光ります。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県湯河原町（奥湯河原）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  湯河原温泉　ふきや
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">湯河原温泉　ふきや</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   屋上に３つの貸切露天風呂を完備！数寄屋造りの上質空間と月替わりの繊細な日本料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  湯河原温泉 ふきや —— 現代に生きる日本の美意識。屋上貸切風呂湯めぐりと旬を愛でる繊細な懐石
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">湯河原温泉 ふきや —— 現代に生きる日本の美意識。屋上貸切風呂湯めぐりと旬を愛でる繊細な懐石</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 屋上と大浴場に設えられた計7つの個性豊かな湯船と貸切風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">屋上と大浴場に設えられた計7つの個性豊かな湯船と貸切風呂</h5>
                     <p className="text-stone-600 leading-relaxed">湯河原の山並みを望む展望貸切露天風呂や檜風呂。予約不要で空いていれば何度でも自由に利用できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伝統的な数寄屋大工の技が息づく落ち着いた純和風客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伝統的な数寄屋大工の技が息づく落ち着いた純和風客室</h5>
                     <p className="text-stone-600 leading-relaxed">無垢材や畳の香りが心地よいプライベート空間。静けさの中で日常の喧騒を忘れ、ゆったりと寛げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全国から厳選した旬の素材を活かしたこだわりの日本料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全国から厳選した旬の素材を活かしたこだわりの日本料理</h5>
                     <p className="text-stone-600 leading-relaxed">出汁の引き方から器の選定まで徹底的に美を追求した会席。お部屋で気兼ねなく味わえる贅沢が魅力です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 万葉公園・玄関テラス・不動滝＆幕山公園観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 万葉公園・玄関テラス・不動滝＆幕山公園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                リニューアルした万葉公園「湯河原惣湯 Books and Retreat」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                リニューアルした万葉公園「湯河原惣湯 Books and Retreat」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 渓流沿いの森林浴と源泉掛け流し足湯、カフェが融合した人気スポット。木漏れ日の中で読書やカフェタイムを優雅に楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                落差15mの名瀑「不動滝」と茶屋の甘味
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                落差15mの名瀑「不動滝」と茶屋の甘味</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 竹林に囲まれた清涼感あふれる名瀑。滝の左側には身代わり不動、右側には出世大黒尊が祀られ、パワースポットとしても知られています。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                幕山公園の湯河原梅林（2月〜3月）とハイキングコース
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                幕山公園の湯河原梅林（2月〜3月）とハイキングコース</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 幕山の山肌を約4,000本の紅白梅が埋め尽くす「梅の宴」。山頂からは相模湾や真鶴半島を一望する絶景トレッキングが楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              神奈川県湯河原町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">神奈川県湯河原町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】山翠楼SANSUIROUを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】山翠楼SANSUIROUを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と山翠楼SANSUIROUの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と山翠楼SANSUIROUの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

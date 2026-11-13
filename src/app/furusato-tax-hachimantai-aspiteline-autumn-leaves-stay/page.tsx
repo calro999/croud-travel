@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              東北最高峰のパノラマドライブ！黄色と赤の海を抜けるアスピーテラインと秘湯・松川
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">東北最高峰のパノラマドライブ！黄色と赤の海を抜けるアスピーテラインと秘湯・松川</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             岩手県と秋田県にまたがる八幡平国立公園を貫く全長約27kmの山岳観光道路「八幡平アスピーテライン」。9月下旬から10月中旬にかけて、ダケカンバの黄金色やナナカマド・モミジの鮮やかな真紅が山肌を埋め尽くし、東北随一の壮大な紅葉ドライブが楽しめます。山頂周辺の八幡沼・ガマ沼を巡るトレッキングも爽快。散策後は、深いブナの原生林に抱かれた開湯280年の秘湯「松川温泉」へ。白濁した単純硫黄泉を贅沢に掛け流す野趣あふれる露天風呂に浸かり、岩手銘柄「いわて短角牛」や八幡平サーモンをふるさと納税トラベルクーポンでお得に心ゆくまで満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                八幡平アスピーテラインの黄金ダケカンバ紅葉ロード
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                八幡平アスピーテラインの黄金ダケカンバ紅葉ロード</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 茶臼岳から見返峠へと登る絶景ロード。車窓を流れる赤・黄・緑のグラデーションと、澄んだ秋空のコントラストは息をのむ美しさです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                日本初の地熱発電の里！乳白色の秘湯「松川温泉」露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                日本初の地熱発電の里！乳白色の秘湯「松川温泉」露天風呂</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 青みを帯びた乳白色の濃厚な硫黄泉。松川渓谷のせせらぎを聞きながら入る木造りや岩造りの露天風呂は秘湯ファン憧れの湯浴み体験です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                いわて短角牛＆八幡平マッシュルーム・サーモン会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                いわて短角牛＆八幡平マッシュルーム・サーモン会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 赤身肉の旨味が際立つ「いわて短角牛」のステーキ、清流で育つ「八幡平サーモン」、地熱を利用して栽培される香り高い「八幡平マッシュルーム」の美食を堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.34 <span className="text-stone-400 text-xs">(774件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    八幡平マウンテンホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">八幡平マウンテンホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県八幡平市松尾寄木第1地割509-1 ｜ 東北自動車道 松尾ICより15分。盛岡駅より岩手県北バスで約80分。
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.65 <span className="text-stone-400 text-xs">(188件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    松川温泉　峡雲荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">松川温泉　峡雲荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県八幡平市松尾寄木　松川温泉 ｜ 盛岡駅→バス松川温泉行き約１１０分松川温泉徒歩約０分（大人片道1350円）／東北自動車道　松尾八幡平ＩＣより車で約２５分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 3.79 <span className="text-stone-400 text-xs">(86件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    松川温泉　松川荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">松川温泉　松川荘</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県八幡平市松尾寄木　松川温泉 ｜ 盛岡駅より岩手県北バスで110分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】八幡平マウンテンホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】八幡平マウンテンホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と八幡平マウンテンホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と八幡平マウンテンホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

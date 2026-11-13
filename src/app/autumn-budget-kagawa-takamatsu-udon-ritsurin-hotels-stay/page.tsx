@@ -58,10 +58,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            1杯数百円の極上うどん！宿泊費を抑えて香川のソウルフードを食べ尽くす
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            1杯数百円の極上うどん！宿泊費を抑えて香川のソウルフードを食べ尽くす</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             香川県・高松市は四国の交通結節点であり、競合するビジネスホテルが非常に多いため、★4.0以上の高クオリティ宿が1泊3,000円台〜4,000円台で多数見つかります。名物うどん店が密集するアーケード街や高松港へのアクセスも抜群で、浮いた宿泊予算で骨付鳥やオリーブ牛、瀬戸内の新鮮魚介も堪能できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルエリアワン高松シティ
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルエリアワン高松シティ</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   ことでん瓦町駅より徒歩5分 / ライオン通りうどん店至近
@@ -151,9 +147,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  高松国際ホテル
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">高松国際ホテル</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   高松中央ICより車で約10分 / 無料駐車場完備
@@ -206,9 +200,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  リーガホテルゼスト高松
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">リーガホテルゼスト高松</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR高松駅より徒歩10分 / 空港リムジンバス停正面
@@ -261,9 +253,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  天然温泉　讃岐の湯　スーパーホテル高松・田町
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　讃岐の湯　スーパーホテル高松・田町</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   ことでん瓦町駅より徒歩3分 / 田町商店街アーケード直結
@@ -316,9 +306,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ＫＯＫＯ　ＨＯＴＥＬ　高松
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ＫＯＫＯ　ＨＯＴＥＬ　高松</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   ことでん瓦町駅より徒歩約6分 / 丸亀町商店街至近
@@ -353,10 +341,8 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の高松うどん巡り＆紅葉庭園を格安に楽しむポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の高松うどん巡り＆紅葉庭園を格安に楽しむポイント</h2>
           <ul className="space-y-2 text-sm text-emerald-100/90 leading-relaxed">
             <li>・早朝から営業している「さか枝」や「手打十段 うどんバカ一代」の釜バターうどんで最高の朝食スタート。</li>
             <li>・栗林公園の秋は掬月亭での抹茶一服と、南湖を周遊する和船乗船（要予約）が風情たっぷり。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「高松：秋の讃岐うどん巡り＆栗林公園紅葉！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「高松」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「高松」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -316,9 +316,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Sacred Mountain Heritage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                標高1153mの霊峰山頂から霊峰富士を仰ぐ！身延山久遠寺「奥之院思親閣」新春初詣
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">標高1153mの霊峰山頂から霊峰富士を仰ぐ！身延山久遠寺「奥之院思親閣」新春初詣</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +335,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Culinary Culture & Scenic River</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                日本三大急流「富士川」の冬情景と、日蓮聖人伝承の至高の滋味「身延山ゆば料理」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">日本三大急流「富士川」の冬情景と、日蓮聖人伝承の至高の滋味「身延山ゆば料理」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -358,9 +354,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-teal-600 pl-4 mb-6">
               <span className="text-xs font-bold text-teal-600 tracking-wider uppercase">Medicinal Hot Spring Retreat</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                武田信玄公の隠し湯「下部温泉」！冷鉱泉×あつ湯が織りなす究極の温冷交互浴
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">武田信玄公の隠し湯「下部温泉」！冷鉱泉×あつ湯が織りなす究極の温冷交互浴</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -379,9 +373,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-8">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】身延山久遠寺・下部温泉の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】身延山久遠寺・下部温泉の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -407,9 +399,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
@@ -432,9 +422,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -466,17 +454,13 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】身延山初詣と下部温泉ぬる湯治・身延ゆば満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】身延山初詣と下部温泉ぬる湯治・身延ゆば満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-indigo-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：身延山門前町散策と久遠寺本堂参拝・下部温泉ぬる湯治
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：身延山門前町散策と久遠寺本堂参拝・下部温泉ぬる湯治</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">11:30 JR身延駅到着・富士川舟運の歴史散策</strong><br />
@@ -502,10 +486,8 @@ export default function YamanashiMinobusanWinterFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-indigo-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：身延山ロープウェイで奥之院思親閣へ・白銀富士山パノラマ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-indigo-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：身延山ロープウェイで奥之院思親閣へ・白銀富士山パノラマ</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">06:00 久遠寺本堂での朝勤（お朝事）参列（希望者）</strong><br />
@@ -536,47 +518,37 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Travel Guide & Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【11・12・1月】身延山・下部温泉の気候・服装・混雑回避のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【11・12・1月】身延山・下部温泉の気候・服装・混雑回避のポイント</h2>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Snowflake className="w-4 h-4 text-indigo-500" />
-                  山頂と谷あいの厳しい冷え込み対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Snowflake className="w-4 h-4 text-indigo-500" />
+                  山頂と谷あいの厳しい冷え込み対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   身延山山頂（標高1153m）は麓よりも気温が約6〜8度低く、12月〜1月の日中でも氷点下近くまで下がることがあります。風を通さない防風ダウンコート、厚手の保温インナー、ニット帽、手袋を必ず着用してください。菩提梯や奥之院の散策路は急勾配のため、滑りにくいソールを備えた歩きやすい靴が必須です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <AlertTriangle className="w-4 h-4 text-amber-500" />
-                  正月三が日の交通規制と混雑回避
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><AlertTriangle className="w-4 h-4 text-amber-500" />
+                  正月三が日の交通規制と混雑回避</h3>
                 <p className="text-stone-600 leading-relaxed">
                   元旦から1月3日の正月三が日は、身延山久遠寺周辺で交通規制が敷かれ、門前町への車両進入が制限されます。臨時駐車場からシャトルバスが運行されますが、混雑を避けるなら午前8時前の早朝到着か、午後14時以降の参拝がスムーズです。下部温泉郷の宿に前泊して朝一番に参拝するのが最も賢明なルートです。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Mountain className="w-4 h-4 text-teal-500" />
-                  スタッドレスタイヤ装着と冬期運転
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Mountain className="w-4 h-4 text-teal-500" />
+                  スタッドレスタイヤ装着と冬期運転</h3>
                 <p className="text-stone-600 leading-relaxed">
                   中部横断道や国道52号線は除雪体制が整っていますが、下部温泉の温泉街や身延山の山道は日陰が多く、夜間や早朝に路面凍結（ブラックアイスバーン）が発生します。ノーマルタイヤでの走行は極めて危険なため、12月〜2月の自動車利用時は必ずスタッドレスタイヤを装着してください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Sunrise className="w-4 h-4 text-rose-500" />
-                  冬晴れの富士山撮影シャッターチャンス
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Sunrise className="w-4 h-4 text-rose-500" />
+                  冬晴れの富士山撮影シャッターチャンス</h3>
                 <p className="text-stone-600 leading-relaxed">
                   冬の身延山は太平洋高気圧に覆われて晴天率が高く、富士山鑑賞のベストシーズンです。特に午前9時〜11時の時間帯は太陽が東南から差し込む順光となり、白銀の宝永山や山肌の雪稜がくっきりと陰影を帯びて撮影できます。ロープウェイのガラス越しではなく山頂展望デッキからの撮影が推奨されます。
                 </p>
@@ -588,18 +560,14 @@ export default function YamanashiMinobusanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                身延山久遠寺初詣＆下部温泉旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">身延山久遠寺初詣＆下部温泉旅行 よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-indigo-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-indigo-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -610,9 +578,7 @@ export default function YamanashiMinobusanWinterFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              霊峰の神聖な祈りと名湯の温もりに包まれる、身延・下部への冬の開運旅へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">霊峰の神聖な祈りと名湯の温もりに包まれる、身延・下部への冬の開運旅へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               白銀の富士山を仰ぐ身延山久遠寺の奥之院新春初詣、滋味深い身延山ゆば料理、そして信玄公ゆかりの下部温泉での極上ぬる湯治。冬の寒さを忘れさせてくれる豊かな歴史と名湯が、新年の清々しい門出を温かく祝福してくれます。
             </p>

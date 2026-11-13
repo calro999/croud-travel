@@ -55,9 +55,7 @@ export default function KurashikiBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋の美観地区は「早朝散策×大浴場ホテル」が最も快適
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋の美観地区は「早朝散策×大浴場ホテル」が最も快適</h2>
           <p className="mb-4 text-stone-700">
             江戸情緒を今に残す「倉敷美観地区」。秋になると柳並木の緑にイチョウやハゼの紅葉が加わり、白壁や格子窓との対比が一層際立ちます。日中は多くの観光客で賑わいますが、倉敷駅周辺のホテルに宿泊すれば、朝靄の残る静寂の美観地区を独り占めできるのが最大の魅力です。
           </p>
@@ -69,10 +67,8 @@ export default function KurashikiBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！倉敷の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！倉敷の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KurashikiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4</span>
                     <span className="text-stone-400 text-xs">(1233件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　桃太郎の湯　スーパーホテルＩｎｎ倉敷水島
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　桃太郎の湯　スーパーホテルＩｎｎ倉敷水島</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 栄（岡山）駅 / 水島臨海鉄道 栄駅より徒歩にて2分 / 瀬戸中央道 水島ICより10分
                   </p>
@@ -142,9 +136,7 @@ export default function KurashikiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.33</span>
                     <span className="text-stone-400 text-xs">(851件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    たびのホテル倉敷水島
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">たびのホテル倉敷水島</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 常盤（岡山）駅 / 水島臨海鉄道水島本線常盤駅より徒歩5分。瀬戸内中央自動車道水島ICより約14分。
                   </p>
@@ -189,9 +181,7 @@ export default function KurashikiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.45</span>
                     <span className="text-stone-400 text-xs">(1210件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ロイヤルパークホテル倉敷
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ロイヤルパークホテル倉敷</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / 【商店街アーケード直結】倉敷駅より徒歩にて約５分　
                   </p>
@@ -236,9 +226,7 @@ export default function KurashikiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.38</span>
                     <span className="text-stone-400 text-xs">(987件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル　グラン・ココエ倉敷
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル　グラン・ココエ倉敷</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / 山陽本線ＪＲ倉敷駅から徒歩で３分。
                   </p>
@@ -283,9 +271,7 @@ export default function KurashikiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.36</span>
                     <span className="text-stone-400 text-xs">(4350件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    天然温泉　阿智の湯　ドーミーイン倉敷
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">天然温泉　阿智の湯　ドーミーイン倉敷</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 倉敷駅 / JR倉敷駅南口より徒歩7分
                   </p>
@@ -330,9 +316,7 @@ export default function KurashikiBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」！大浴場付き1泊4,000円〜7,000円台のコスパ最強ホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KurashikiBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「秋の倉敷美観地区×格安」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「秋の倉敷美観地区×格安」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -266,10 +266,8 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Overview</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Mountain className="w-6 h-6 text-cyan-500 shrink-0" />
-              白銀の秀峰と荒波寄せる日本海！海と山が隣り合う鳥取の冬の醍醐味
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Mountain className="w-6 h-6 text-cyan-500 shrink-0" />
+              白銀の秀峰と荒波寄せる日本海！海と山が隣り合う鳥取の冬の醍醐味</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-cyan-500 shrink-0" />
-              伯耆大山＆皆生温泉で泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-cyan-500 shrink-0" />
+              伯耆大山＆皆生温泉で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。海辺の絶景露天風呂、極上松葉ガニ会席、心温まるもてなしを誇る名宿を厳選。
             </p>
@@ -329,12 +325,10 @@ export default function TottoriDaisenKaikeWinterPage() {
 
                   <div className="w-full flex flex-col justify-between space-y-4">
                     <div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-cyan-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-cyan-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
                         {h.access}
@@ -389,38 +383,30 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gastronomy</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
-              冬の鳥取を味わう三大美味！境港の松葉ガニ・鳥取和牛オレイン55・大山どり
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
+              冬の鳥取を味わう三大美味！境港の松葉ガニ・鳥取和牛オレイン55・大山どり</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                境港水揚げ「松葉ガニ」フルコース
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                境港水揚げ「松葉ガニ」フルコース</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 日本海で育まれたズワイガニの雄「松葉ガニ」。境港は水揚げ日本一の規模を誇り、鮮度抜群の活ガニが届きます。繊細な甘みのカニ刺し、香ばしい焼きガニ、濃厚な旨味が凝縮した茹でガニ、そして甲羅味噌の甲羅焼きまで、冬の贅沢の頂点を堪能できます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                とろける脂の甘み「鳥取和牛オレイン55」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                とろける脂の甘み「鳥取和牛オレイン55」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 江戸時代からの歴史を持つ鳥取の黒毛和牛。オリーブオイルと同じ良質なオレイン酸を55%以上含む個体のみが認定される「オレイン55」は、人肌の温度でサッと溶け、口いっぱいに上品な香りと甘みが広がります。すき焼きやステーキで至福の余韻を味わえます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-cyan-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-500" />
-                大山山麓が育む「大山どり」と地酒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-500" />
+                大山山麓が育む「大山どり」と地酒</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 名峰・大山の清らかな伏流水と澄んだ空気の中で育まれた銘柄鶏「大山どり」。脂乗りが良くジューシーで、旨味成分が豊富な肉質は冬の鍋料理や炭火焼きに最適です。千代むすびや大山などの山陰の辛口銘酒とともに味わえば、体の芯から温まります。
               </p>
@@ -432,44 +418,34 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Sightseeing & Snow Activities</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
-              白銀の大自然を五感で体感！冬の大山＆米子周辺の必訪スポット
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-cyan-500 shrink-0" />
+              白銀の大自然を五感で体感！冬の大山＆米子周辺の必訪スポット</h2>
           </div>
 
           <div className="space-y-6 text-slate-600 text-sm sm:text-base leading-relaxed">
             <div className="border-l-4 border-cyan-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                1. 大山ホワイトリゾート＆ブナ原生林のスノーシュートレッキング
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">1. 大山ホワイトリゾート＆ブナ原生林のスノーシュートレッキング</h3>
               <p className="text-xs sm:text-sm">
                 海の見えるスキー場として全国的な知名度を誇る「大山ホワイトリゾート」。ゲレンデ上部からは、眼下に青く輝く日本海と白銀の弓ヶ浜半島を望みながらの爽快なクルージングが楽しめます。またスキーをしない方でも、西日本随一の広さを誇るブナの原生林を巡るスノーシューツアーが大人気。雪の上に残るウサギやキツネの足跡、静寂の中で枝から落ちる雪の音など、冬にしか出会えない自然の息吹に触れられます。
               </p>
             </div>
 
             <div className="border-l-4 border-cyan-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                2. 日本最大級のフラワーパーク「とっとり花回廊」の冬イルミネーション
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">2. 日本最大級のフラワーパーク「とっとり花回廊」の冬イルミネーション</h3>
               <p className="text-xs sm:text-sm">
                 秀峰大山を一望する広大な園内が、約100万球の幻想的な光で包まれる山陰屈指の冬の風物詩「フラワーイルミネーション（11月中旬〜1月上旬開催）」。直径50mの巨大なガラス温室「フラワードーム」や日本屈指の展望回廊が光のアートに彩られ、冬の夜空に大輪の花を咲かせる花火イベントも開催されます。皆生温泉からも車で約30分とアクセス良好で、夕食前後のナイトトリップに最適です。
               </p>
             </div>
 
             <div className="border-l-4 border-cyan-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                3. 大山寺参道商店街のあったかグルメ＆大神山神社奥宮の雪景色
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">3. 大山寺参道商店街のあったかグルメ＆大神山神社奥宮の雪景色</h3>
               <p className="text-xs sm:text-sm">
                 参拝前の散策に楽しい大山寺参道商店街では、大山山麓の清らかな水で打った名物「大山そば」や、ホクホクの大山おこわ、大山豚を使った温かい豚汁が冷えた体を温めてくれます。参道から大神山神社奥宮へと続く自然石の石畳は、冬には両脇の巨木に雪の花が咲き、モノトーンの幽玄な美しさが際立ちます。雪煙が舞う静寂の中での参拝は、心洗われる格別の思い出になります。
               </p>
             </div>
 
             <div className="border-l-4 border-cyan-500 pl-4 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base sm:text-lg">
-                4. 皆生海浜公園の潮風足湯＆冬の日本海に沈む夕日
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base sm:text-lg">4. 皆生海浜公園の潮風足湯＆冬の日本海に沈む夕日</h3>
               <p className="text-xs sm:text-sm">
                 皆生温泉街の海岸沿いに整備された「皆生海浜公園」には、誰でも無料で利用できる源泉足湯「潮風の足湯」が設置されています。足元からポカポカ温まりながら、冬の日本海に押し寄せる白い怒濤と、夕暮れ時に茜色から群青色へと刻一刻と変化する空のグラデーションを眺める時間は、温泉街散策の最高のハイライトです。
               </p>
@@ -481,28 +457,22 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-cyan-50/60 rounded-2xl p-6 sm:p-10 border border-cyan-100 space-y-6">
           <div className="border-b border-cyan-200/60 pb-4">
             <span className="text-cyan-700 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Travel Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <ShieldCheck className="w-6 h-6 text-cyan-600 shrink-0" />
-              冬の大山・皆生温泉旅行を快適に楽しむ防寒装備＆雪道運転の心得
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><ShieldCheck className="w-6 h-6 text-cyan-600 shrink-0" />
+              冬の大山・皆生温泉旅行を快適に楽しむ防寒装備＆雪道運転の心得</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-700 leading-relaxed">
             <div className="bg-white p-5 rounded-xl border border-cyan-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-cyan-600" />
-                服装と足元の防寒対策
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-cyan-600" />
+                服装と足元の防寒対策</h3>
               <p>
                 大山山麓は平野部より気温が5〜8度低く、厳冬期の体感温度は氷点下になります。防水・防風仕様の厚手ダウンジャケット、ヒートテック等の機能性インナー、フリースなどの重ね着（レイヤリング）が基本です。また、大山寺参道や神社参拝は雪や凍結で滑りやすいため、底に溝の深いスノーブーツや滑り止め（簡易アイゼン）の着用が欠かせません。耳当て付きニット帽や防水手袋もお忘れなく。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-xl border border-cyan-100 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-4 h-4 text-cyan-600" />
-                レンタカー選びと雪道運転の注意点
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-4 h-4 text-cyan-600" />
+                レンタカー選びと雪道運転の注意点</h3>
               <p>
                 米子駅や米子空港でレンタカーを借りる際は、必ず「4WD（四輪駆動）＋スタッドレスタイヤ」指定で予約してください。米子道や大山環状道路ではチェーン規制や冬用タイヤ規制が敷かれる日があります。急発進・急ブレーキ・急ハンドルを避け、車間距離を通常の2〜3倍確保するのが鉄則です。大山寺行きの冬季シャトルバス「大山るーぷバス」を活用するのも安心でおすすめです。
               </p>
@@ -514,10 +484,8 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-cyan-400 shrink-0" />
-              伯耆大山雪景色と皆生温泉松葉ガニを満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-400 shrink-0" />
+              伯耆大山雪景色と皆生温泉松葉ガニを満喫する1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -581,18 +549,14 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の大山＆皆生温泉旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の大山＆皆生温泉旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -605,9 +569,7 @@ export default function TottoriDaisenKaikeWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！山陰・中国地方の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！山陰・中国地方の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

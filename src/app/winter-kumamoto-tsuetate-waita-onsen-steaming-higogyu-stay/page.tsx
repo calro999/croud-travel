@@ -363,9 +363,7 @@ export default function KumamotoTsuetateWaitaPage() {
               <Mountain className="w-4 h-4" />
               弘法大師ゆかりの霊泉と、大地のエネルギーが沸き立つ蒸気郷
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-              11月から12月へ。川霧と湯けむりに包まれる山峡のレトロな湯治場
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">11月から12月へ。川霧と湯けむりに包まれる山峡のレトロな湯治場</h2>
           </div>
           <div className="text-stone-700 text-sm sm:text-base space-y-4 leading-relaxed">
             <p>
@@ -386,9 +384,7 @@ export default function KumamotoTsuetateWaitaPage() {
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase bg-amber-100/60 px-3 py-1 rounded-full">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              杖立温泉＆わいた温泉郷で泊まりたい至高の名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">杖立温泉＆わいた温泉郷で泊まりたい至高の名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm max-w-xl mx-auto">
               県境にまたがる創業300年の名門から伝統むし湯宿、涌蓋山ビューの絶景離れまで
             </p>
@@ -423,9 +419,7 @@ export default function KumamotoTsuetateWaitaPage() {
                           {hotel.access}
                         </span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900 group-hover:text-amber-800 transition">{hotel.name}</h3>
                       <p className="text-xs text-amber-900 font-medium">
                         {hotel.special}
                       </p>
@@ -488,35 +482,27 @@ export default function KumamotoTsuetateWaitaPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の阿蘇小国美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の杖立・わいた温泉郷で味わい尽くす阿蘇の恵みと名物スイーツ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の杖立・わいた温泉郷で味わい尽くす阿蘇の恵みと名物スイーツ</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰赤身肉「肥後あか牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰赤身肉「肥後あか牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 阿蘇の大草原で育まれる「肥後あか牛（くまもとあか牛）」。脂肪分が控えめでアミノ酸が豊富に含まれ、噛むほどに赤身本来の濃厚な肉の旨味が広がります。熱々の陶板焼きや炭火ステーキは、ワインや地酒との相性も抜群です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                共同蒸し場「地獄蒸し＆元祖杖立プリン」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                共同蒸し場「地獄蒸し＆元祖杖立プリン」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 温泉街のいたる所にある「蒸し場」で蒸し上げる卵やサツマイモ。さらに小国ジャージー牛乳と新鮮地卵を高温蒸気でじっくり蒸し上げた「杖立プリン」は、滑らかな口当たりとほろ苦いカラメルが絶妙に調和する名物スイーツです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                本場熊本特選馬刺しと小国ジャージー牛乳
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                本場熊本特選馬刺しと小国ジャージー牛乳</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 熊本ならではの本場直送馬刺し。極上のサシが入った霜降り肉やタテガミの甘みは格別。また、乳脂肪分が高く濃厚な小国ジャージー牛乳を使ったアイスクリームやチーズ料理も、旅の食卓を華やかに彩ります。
               </p>
@@ -530,17 +516,13 @@ export default function KumamotoTsuetateWaitaPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の杖立温泉＆わいた温泉郷 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の杖立温泉＆わいた温泉郷 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：日田ICから小国郷へ・元祖むし湯体験と肥後あか牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                日田ICから名瀑「鍋ヶ滝」散策、杖立温泉むし湯と共同蒸し場巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">日田ICから名瀑「鍋ヶ滝」散策、杖立温泉むし湯と共同蒸し場巡り</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 大分自動車道日田ICから国道212号線を南下し、まずは小国町の名勝「鍋ヶ滝」へ。カーテンのように落ちる清流の裏側を歩く神秘的な体験を楽しんだ後、杖立温泉へチェックイン。開湯1800年の歴史を持つ天然サウナ「むし湯」で心地よい汗を流し、共同の「蒸し場」で温泉卵やサツマイモを蒸して散策。夕食は赤身の旨味が凝縮された肥後あか牛の陶板焼きステーキや本場熊本直送の極上馬刺しに舌鼓。
               </p>
@@ -550,9 +532,7 @@ export default function KumamotoTsuetateWaitaPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：川霧と湯けむりの朝露天・杖立プリン巡りとわいた高原絶景
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                渓流の朝露天風呂から温泉街「背戸屋」散歩、大観峰パノラマへ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">渓流の朝露天風呂から温泉街「背戸屋」散歩、大観峰パノラマへ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、杖立川の川面から立ち上る幻想的な川霧を眺めながらの露天風呂で爽快な目覚め。朝食に地獄蒸し野菜と炊き立てご飯を味わいチェックアウト。迷路のようなレトロな路地「背戸屋（せどや）」を散策し、各宿自慢の「杖立プリン」を食べ比べ。その後、車でわいた温泉郷や阿蘇の大観峰へ向かい、初冬の澄んだ青空の下に広がる阿蘇五岳の白銀パノラマ絶景を堪能して帰路へ。
               </p>
@@ -566,15 +546,11 @@ export default function KumamotoTsuetateWaitaPage() {
             <Snowflake className="w-4 h-4" />
             11月・12月の気候・雪道運転・服装完全ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            阿蘇小国郷の冬の冷え込みと国道212号線ドライブ注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">阿蘇小国郷の冬の冷え込みと国道212号線ドライブ注意点</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Clock className="w-4 h-4 text-sky-700" />
-                阿蘇山麓の気温変化と防寒装備
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Clock className="w-4 h-4 text-sky-700" />
+                阿蘇山麓の気温変化と防寒装備</h3>
               <p>
                 11月中旬の最高気温は10〜13℃程度ですが、夜間や早朝は2〜4℃まで急降下します。12月に入ると氷点下を記録する朝が多くなり、寒暖差が非常に激しくなります。
               </p>
@@ -584,10 +560,8 @@ export default function KumamotoTsuetateWaitaPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                国道212号線とわいた高原の運転注意点
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                国道212号線とわいた高原の運転注意点</h3>
               <p>
                 大分道日田ICから国道212号線は整備された走りやすい道路ですが、小国郷に入ると橋の上やトンネル出口で夜間凍結することがあります。11月下旬以降は念のためスタッドレスタイヤ装着が推奨されます。
               </p>
@@ -598,10 +572,8 @@ export default function KumamotoTsuetateWaitaPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              伝統「むし湯」の正しい入り方と水分補給
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              伝統「むし湯」の正しい入り方と水分補給</h3>
             <p>
               むし湯は高温の蒸気が充満しているため、浴衣やタオルを巻いて利用します。初めは5〜10分程度から始め、無理をせず途中で休憩を挟みながら利用するのがコツです。
             </p>
@@ -617,16 +589,12 @@ export default function KumamotoTsuetateWaitaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の杖立温泉＆わいた温泉郷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の杖立温泉＆わいた温泉郷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -638,10 +606,8 @@ export default function KumamotoTsuetateWaitaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい熊本・阿蘇の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい熊本・阿蘇の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               黒川温泉の湯あかり、阿蘇内牧のカルデラ絶景、平山の美肌湯を巡る冬旅ガイド
             </p>
@@ -653,9 +619,7 @@ export default function KumamotoTsuetateWaitaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・黒川温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                黒川温泉の湯あかり幻想イルミと露天巡り
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">黒川温泉の湯あかり幻想イルミと露天巡り</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 田の原川に浮かぶ無数の竹灯籠と入湯手形での湯巡り、肥後牛を味わう冬の風物詩。
               </p>
@@ -666,9 +630,7 @@ export default function KumamotoTsuetateWaitaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                阿蘇カルデラ雪景色とあか牛丼グルメ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿蘇カルデラ雪景色とあか牛丼グルメ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 世界最大級のカルデラを望む町湯巡りと名物あか牛丼、阿蘇の天然温泉を満喫。
               </p>
@@ -679,9 +641,7 @@ export default function KumamotoTsuetateWaitaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・平山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                トロトロ硫黄泉の極上美肌湯と隠れ里
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">トロトロ硫黄泉の極上美肌湯と隠れ里</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 美容液のようなpH9超の化粧水温泉と静かな竹林露天、熊本の馬刺しと会席料理。
               </p>

@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              約700本のもみじが燃える紅葉谷公園と海に浮かぶ世界遺産・厳島神社
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">約700本のもみじが燃える紅葉谷公園と海に浮かぶ世界遺産・厳島神社</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本三景の一つに数えられる世界遺産「安芸の宮島」。秋の宮島といえば、弥山（みせん）の麓に広がる「紅葉谷公園」が約700本ものモミジで真っ赤に染まり、朱塗りのもみじ橋とのコントラストが絵画のような美しさを誇ります。大鳥居と社殿が秋の澄んだ海に浮かぶ厳島神社の幻想的な姿や、弥山展望台からの瀬戸内海の多島美は一生に一度は見たい絶景。散策後は、名湯・宮島潮湯温泉や対岸の隠れ宿で、解禁を迎えたぷりぷりの広島牡蠣や名物穴子飯をふるさと納税トラベルクーポンでお得に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                約700本のもみじが織りなす「紅葉谷公園」ともみじ橋
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                約700本のもみじが織りなす「紅葉谷公園」ともみじ橋</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 イロハモミジやオオモミジが境内を鮮やかに染め上げる紅葉谷公園。朱塗りのもみじ橋周辺は、赤と黄のグラデーションに包まれ、宮島随一のフォトスポットです。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                海に浮かぶ国宝・厳島神社と大鳥居の夕景＆ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                海に浮かぶ国宝・厳島神社と大鳥居の夕景＆ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 満潮時には海の上に浮かんでいるかのように見える厳島神社。夕暮れ時のマジックアワーや、夜のライトアップされた大鳥居は息をのむ美しさです。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                秋が旬！ぷりっぷりの広島牡蠣＆名物穴子飯・広島牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                秋が旬！ぷりっぷりの広島牡蠣＆名物穴子飯・広島牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋から冬にかけて身が引き締まり濃厚な旨味を増す広島牡蠣の焼き牡蠣やカキフライ、創業以来継ぎ足しのタレで香ばしく焼き上げる名物あなごめし、広島牛会席を堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.66 <span className="text-stone-400 text-xs">(1054件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宮島潮湯温泉　錦水館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宮島潮湯温泉　錦水館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮島町1133 ｜ 宮島口駅よりフェリーで約10分。宮島桟橋より徒歩5分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.69 <span className="text-stone-400 text-xs">(430件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    宮島　離れの宿　ＩＢＵＫＵ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">宮島　離れの宿　ＩＢＵＫＵ</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮浜温泉1-21-48 ｜ ＪＲ　大野浦駅からお車にて約５～１０分（送迎有り）
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.58 <span className="text-stone-400 text-xs">(1585件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    グランヴィリオホテル宮島　和蔵　－ルートインホテルズ－
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">グランヴィリオホテル宮島　和蔵　－ルートインホテルズ－</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 広島県廿日市市宮島口西1丁目1ー37 ｜ JR山陽本線　宮島口駅よりホテルまで約１Ｋｍ　所要時間：徒歩約１２分　※JR宮島口駅～ホテル間　無料送迎バス運行有り
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】宮島潮湯温泉 錦水館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】宮島潮湯温泉 錦水館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と宮島潮湯温泉 錦水館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と宮島潮湯温泉 錦水館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

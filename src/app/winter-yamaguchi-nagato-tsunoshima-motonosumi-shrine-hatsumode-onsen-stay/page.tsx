@@ -266,10 +266,8 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Waves className="w-6 h-6 text-teal-500 shrink-0" />
-              冬の山口・長門が放つ圧倒的な海の絶景と再生の名湯文化
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Waves className="w-6 h-6 text-teal-500 shrink-0" />
+              冬の山口・長門が放つ圧倒的な海の絶景と再生の名湯文化</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,9 +287,7 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="space-y-8">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Verified Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の長門・角島を満喫する極上温泉旅館＆絶景リゾート5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の長門・角島を満喫する極上温泉旅館＆絶景リゾート5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               楽天トラベルAPIより最新の空室・プラン情報、クチコミ評価を取得。絶景露天・美肌温泉・冬の味覚会席に優れた宿を厳選
             </p>
@@ -320,9 +316,7 @@ export default function YamaguchiNagatoWinterPage() {
                     <div className="flex flex-wrap items-center justify-between gap-2 border-b border-slate-100 pb-3">
                       <div>
                         <span className="text-xs font-semibold text-teal-600 block mb-0.5">{h.access}</span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       </div>
                       <div className="flex items-center gap-1 bg-amber-50 px-3 py-1 rounded-lg border border-amber-200">
                         <Star className="w-4 h-4 fill-amber-400 text-amber-400" />
@@ -394,10 +388,8 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-teal-500 shrink-0" />
-              11月・12月・1月の気温推移と山口・長門の冬海風対策・服装ガイド
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-teal-500 shrink-0" />
+              11月・12月・1月の気温推移と山口・長門の冬海風対策・服装ガイド</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -443,38 +435,30 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photography Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-teal-500 shrink-0" />
-              青と紅の絶景を撮る！角島大橋＆元乃隅神社のプロ直伝撮影攻略
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-teal-500 shrink-0" />
+              青と紅の絶景を撮る！角島大橋＆元乃隅神社のプロ直伝撮影攻略</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                角島大橋展望台の順光パノラマ
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                角島大橋展望台の順光パノラマ</h3>
               <p className="leading-relaxed">
                 午前10時から13時の太陽が高い時間帯がベスト。海面が最も透き通るエメラルドグリーンに輝きます。橋の手前の小高い丘（角島展望テラス周辺）から道路と橋の直線を美しく収めるアングルが定番です。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                元乃隅神社123基鳥居と龍宮の潮吹
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                元乃隅神社123基鳥居と龍宮の潮吹</h3>
               <p className="leading-relaxed">
                 崖の上部から海を見下ろす俯瞰アングルが圧巻。荒波が打ち寄せる日に訪れると、鳥居の深紅と打ち上がる白い潮吹きのしぶきがダイナミックに対比し、奇跡の1枚が撮影できます。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-600" />
-                音信川の竹林ライトアップ
-              </h3>
+              <h3 className="font-bold text-teal-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-600" />
+                音信川の竹林ライトアップ</h3>
               <p className="leading-relaxed">
                 日没直後のブルーアワーに音信川沿いの竹林階段へ。温かな竹灯篭の灯りと、清流に映る光のリフレクションをスローシャッターで捉えると、幻想的な温泉街情緒が美しく表現されます。
               </p>
@@ -486,28 +470,22 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Souvenirs</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-teal-500 shrink-0" />
-              冬の日本海が育む至高の美味＆仙崎港・長門の厳選お土産
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-teal-500 shrink-0" />
+              冬の日本海が育む至高の美味＆仙崎港・長門の厳選お土産</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-teal-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-500" />
-                透明な身が躍る仙崎活イカ＆本場とらふぐ会席
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-500" />
+                透明な身が躍る仙崎活イカ＆本場とらふぐ会席</h3>
               <p className="leading-relaxed">
                 仙崎港名物の活イカは、注文後に生け簀から揚げて捌くため身が透き通る美しさ。コリコリとした歯ごたえと噛むほどに広がる濃厚な甘みは冬の日本海ならでは。さらに11月から1月にかけて旬を迎えるとらふぐは、大皿に美しく引かれた「てっさ」、熱々の出汁が染みる「てっちり鍋」、香ばしいヒレ酒まで贅を尽くしたフルコースで楽しめます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-teal-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-teal-500" />
-                センザキッチンの名産蒲鉾＆長門ゆずきち・地酒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-teal-500" />
+                センザキッチンの名産蒲鉾＆長門ゆずきち・地酒</h3>
               <p className="leading-relaxed">
                 道の駅「センザキッチン」には、仙崎伝統の焼き抜き蒲鉾「白楽」や揚げたて天ぷらが勢揃い。魚本来の強いコシと旨味が詰まった名品です。さらに長門特産の柑橘「長門ゆずきち」を使った爽やかなポン酢やドレッシング、山口が誇る銘酒「東洋美人」「獺祭」の限定酒など、冬の食卓を豊かに彩るお土産が手に入ります。
               </p>
@@ -519,10 +497,8 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-teal-400 shrink-0" />
-              角島大橋・元乃隅神社と長門湯本温泉を満喫する1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-teal-400 shrink-0" />
+              角島大橋・元乃隅神社と長門湯本温泉を満喫する1泊2日モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -577,18 +553,14 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-teal-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の長門・角島・元乃隅神社旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の長門・角島・元乃隅神社旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -601,9 +573,7 @@ export default function YamaguchiNagatoWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！山口・山陰の人気温泉＆冬の美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！山口・山陰の人気温泉＆冬の美食特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

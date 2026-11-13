@@ -236,9 +236,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
             <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
             TRANSIT PASS & TRAIN
           </div>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">
-            車なし日光観光を劇的に快適にする「電車＆バス」3大ポイント
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800 tracking-tight">車なし日光観光を劇的に快適にする「電車＆バス」3大ポイント</h2>
           <p className="text-slate-600 text-sm mt-2">
             広大な日光・奥日光エリアを車なしで楽しむための必須交通ネットワークを解説。
           </p>
@@ -291,9 +289,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
           <span className="text-xs font-black tracking-widest text-emerald-700 bg-emerald-50 px-3 py-1 rounded-full border border-emerald-200">
             TIME TABLE & ROUTE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-800">
-            【完全タイムテーブル】日光・中禅寺湖 1泊2日 車なしモデルコース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-800">【完全タイムテーブル】日光・中禅寺湖 1泊2日 車なしモデルコース</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             バスの乗り継ぎ・拝観時間・ランチ休憩を計算し尽くした、無理なく回れるタイムスケジュール。
           </p>
@@ -321,9 +317,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                         <span className="text-xs font-black text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded-md border border-emerald-200 font-mono">
                           {step.time}
                         </span>
-                        <h4 className="font-bold text-slate-900 text-sm md:text-base">
-                          {step.title}
-                        </h4>
+                        <h4 className="font-bold text-slate-900 text-sm md:text-base">{step.title}</h4>
                       </div>
                       <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                         {step.desc}
@@ -343,9 +337,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
           <span className="text-emerald-400 text-xs font-black tracking-widest uppercase">
             LOCAL EXPERT RULES
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">
-            日光・奥日光の「車なしバス移動」で知っておくべき4つの鉄則
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white mt-1">日光・奥日光の「車なしバス移動」で知っておくべき4つの鉄則</h2>
         </div>
 
         <div className="grid md:grid-cols-2 gap-4">
@@ -372,9 +364,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
               <span className="w-2 h-2 rounded-full bg-emerald-600"></span>
               HOTEL & ONSEN SELECTION
             </div>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">
-              車なし旅に嬉しい！日光・中禅寺湖・鬼怒川の駅近＆バス直通温泉宿
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 tracking-tight">車なし旅に嬉しい！日光・中禅寺湖・鬼怒川の駅近＆バス直通温泉宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               東武日光駅前・バス停徒歩すぐ、または無料送迎付きの温泉旅館を厳選。
             </p>
@@ -431,9 +421,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
                     </div>
 
                     <div className="p-5 space-y-3">
-                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition-colors">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="font-black text-slate-900 text-lg leading-snug group-hover:text-emerald-700 transition-colors">{hotel.hotelName}</h3>
 
                       {specialText && (
                         <p className="text-xs text-slate-600 line-clamp-2 leading-relaxed bg-emerald-50/50 p-2.5 rounded-xl border border-emerald-100">
@@ -486,9 +474,7 @@ export default function NikkoChuzenjiCarFreeTravelGuidePage() {
 
       {/* 内部リンク＆関連記事 */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">
-          <span>🔗</span> あわせて読みたい公共交通・長距離移動ガイド
-        </h3>
+        <h3 className="font-black text-slate-800 text-base md:text-lg flex items-center gap-2">あわせて読みたい公共交通・長距離移動ガイド</h3>
         <div className="grid md:grid-cols-2 gap-4">
           <Link
             href="/tokyo-sendai-bus-vs-shinkansen-guide/"

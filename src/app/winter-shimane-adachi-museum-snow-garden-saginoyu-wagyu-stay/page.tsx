@@ -262,9 +262,7 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              世界が称賛する足立美術館の「冬の静寂」と、さぎの湯の温もり
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">世界が称賛する足立美術館の「冬の静寂」と、さぎの湯の温もり</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               雪の枯山水庭が描く墨絵の世界と、山陰の冬が育む至高の味覚
             </p>
@@ -320,9 +318,7 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-teal-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】白銀の足立美術館とさぎの湯名湯・カニ和牛美食を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】白銀の足立美術館とさぎの湯名湯・カニ和牛美食を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               特急やくも号でアクセス。世界一の雪庭と源泉掛け流し温泉に浸かる至高の休日。
             </p>
@@ -333,9 +329,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 安来駅到着 ➔ 無料シャトルバスでさぎの湯温泉へチェックイン
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 安来駅到着  無料シャトルバスでさぎの湯温泉へチェックイン</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JR岡山駅から新型の特急やくも号でJR安来駅へ。駅前から足立美術館・さぎの湯温泉行きの無料シャトルバスに乗車し約20分。安来は古くから「たたら製鉄」と安来節の民謡で栄えた歴史ある街です。美術館至近の老舗宿にチェックインし、敷地内自噴の源泉100％掛け流し露天風呂で冷えた身体をじっくり温めます。
                 </p>
@@ -344,9 +338,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  18:30 本場松葉ガニづくし＆最高級「しまね和牛ステーキ」会席ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">18:30 本場松葉ガニづくし＆最高級「しまね和牛ステーキ」会席ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   隣接する境港から届いたばかりの冬の王者・松葉ガニの茹でガニや焼きガニ、カニすき鍋と、きめ細やかなサシがとろけるしまね和牛ステーキを贅沢に味わうディナー。島根の銘酒「月山」や「李白」とともに、雪の静寂に包まれる大人の夜を過ごします。
                 </p>
@@ -355,9 +347,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 開館直後の「足立美術館」へ ➔ 白銀の枯山水庭・生の額絵・大観名画鑑賞
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 開館直後の「足立美術館」へ  白銀の枯山水庭・生の額絵・大観名画鑑賞</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   徒歩ですぐの足立美術館へ。朝一番の静けさの中、雪化粧をまとった5万坪の枯山水庭園と生の額絵を鑑賞。横山大観の『富士越しの龍』や近代日本画の名作、魯山人館を鑑賞し、庭園を望む喫茶室で雪景色を眺めながらお茶を楽しみます。
                 </p>
@@ -366,9 +356,7 @@ export default function ShimaneAdachiSaginoyuPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-teal-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-teal-400 tracking-wider uppercase">DAY 2 昼〜午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  12:30 安来節演芸館＆名物どじょう鍋ランチ ➔ シャトルバスで安来駅へ帰路へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">12:30 安来節演芸館＆名物どじょう鍋ランチ  シャトルバスで安来駅へ帰路へ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   美術館隣接の「安来節演芸館」で郷土民謡の生演奏を鑑賞。安来名物のどじょう柳川鍋や出雲そばのランチを堪能し、お土産に銘菓「どじょう掬いまんじゅう」を購入。無料シャトルバスで安来駅へ戻り、特急やくもで帰路へ。
                 </p>
@@ -381,27 +369,21 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              境港直送の松葉ガニと、内閣総理大臣賞の「しまね和牛」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">境港直送の松葉ガニと、内閣総理大臣賞の「しまね和牛」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-teal-700" />
-                冬の日本海の至宝「本松葉ガニ」の濃厚な甘みとカニ味噌
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-teal-700" />
+                冬の日本海の至宝「本松葉ガニ」の濃厚な甘みとカニ味噌</h3>
               <p>
                 安来からほど近い境港は、日本屈指のズワイガニ水揚げ港。11月上旬から3月にかけて水揚げされるオスのズワイガニは「松葉ガニ」と呼ばれ、日本海の荒波とプランクトン豊富な深海で育った身は甘みが極めて濃厚です。繊細な甘みが引き立つカニ刺し、香ばしい煙とともに旨味が凝縮される焼きガニ、濃厚なカニ味噌の甲羅焼きは、冬の山陰を訪れる最大の歓びです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-teal-700" />
-                全国和牛能力共進会日本一に輝いた「しまね和牛」の極み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+                全国和牛能力共進会日本一に輝いた「しまね和牛」の極み</h3>
               <p>
                 「和牛のオリンピック」と称される全国和牛能力共進会において、内閣総理大臣賞を受賞した実績を持つ「しまね和牛」。良質なオレイン酸を豊富に含み、体温でさっと溶け出す脂の融点の低さが特徴です。口に運んだ瞬間に広がる芳醇な香りと、重たさを感じさせない軽やかな後味は、冬のステーキやすき焼きでその真価を発揮します。
               </p>
@@ -415,9 +397,7 @@ export default function ShimaneAdachiSaginoyuPage() {
             <span className="text-teal-700 font-bold text-xs sm:text-sm tracking-wider uppercase block">
               Handpicked Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">
-              足立美術館雪景色＆さぎの湯温泉を堪能する名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">足立美術館雪景色＆さぎの湯温泉を堪能する名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
@@ -446,8 +426,7 @@ export default function ShimaneAdachiSaginoyuPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group">
-                      <a 
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
                         rel="noopener noreferrer" 
@@ -455,8 +434,7 @@ export default function ShimaneAdachiSaginoyuPage() {
                       >
                         {hotel.name}
                         <ExternalLink className="w-4 h-4 text-stone-400 group-hover:text-teal-700 inline" />
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-500 text-xs sm:text-sm flex items-center gap-1.5">
                       <MapPin className="w-4 h-4 text-teal-600 shrink-0" />
@@ -479,10 +457,8 @@ export default function ShimaneAdachiSaginoyuPage() {
 
                   {/* Editorial Story */}
                   <div className="space-y-3 bg-stone-50/70 rounded-2xl p-4 sm:p-5 border border-stone-200/60">
-                    <h4 className="text-xs sm:text-sm font-bold text-teal-900 flex items-center gap-1.5">
-                      <Building className="w-4 h-4 text-teal-600" />
-                      宿の魅力と冬の滞在ストーリー
-                    </h4>
+                    <h4 className="text-xs sm:text-sm font-bold text-teal-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-teal-600" />
+                      宿の魅力と冬の滞在ストーリー</h4>
                     <p className="text-stone-700 text-xs sm:text-sm leading-relaxed">
                       {hotel.story}
                     </p>
@@ -540,9 +516,7 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="bg-teal-50/60 rounded-3xl p-6 sm:p-10 border border-teal-200/60 space-y-6">
           <div className="border-b border-teal-200/80 pb-4">
             <span className="text-teal-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-teal-950 font-serif">
-              足立美術館雪景色＆さぎの湯温泉を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-teal-950 font-serif">足立美術館雪景色＆さぎの湯温泉を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-teal-950">
@@ -582,20 +556,16 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-teal-600 pl-4">
             <span className="text-teal-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              足立美術館雪景色＆さぎの湯温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">足立美術館雪景色＆さぎの湯温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-teal-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-teal-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -608,9 +578,7 @@ export default function ShimaneAdachiSaginoyuPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-teal-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい山陰・中国地方の冬景色・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい山陰・中国地方の冬景色・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

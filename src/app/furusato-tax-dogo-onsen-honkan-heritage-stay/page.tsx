@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            神話の時代から湧き続ける日本最古の名湯——保存修理を終えた道後温泉本館と老舗名宿で過ごす優雅な休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">神話の時代から湧き続ける日本最古の名湯——保存修理を終えた道後温泉本館と老舗名宿で過ごす優雅な休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             愛媛県松山市に位置する道後温泉は、兵庫の有馬、和歌山の白浜と並び「日本三古湯」の一つに数えられる三千年の歴史を持つ名湯です。白鷺が傷を癒やした伝説や、聖徳太子の来訪、そして文豪・夏目漱石の小説『坊っちゃん』の舞台としても広く親しまれています。温泉街の中央に堂々とそびえる「道後温泉本館」は、明治27年に建てられた国の重要文化財。全館保存修理工事を経て美しく甦り、木造多層の城郭風建築と「振鷺閣（しんろかく）」から響く刻太鼓の音が、旅情を心地よく刺激します。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  道後温泉　ふなや
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">道後温泉　ふなや</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業三百九十余年・皇族や文豪に愛された道後屈指の名門！千五百坪の自然庭園と渓流足湯
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  道後温泉 ふなや —— 歴史と品格が宿る最高峰旅館。渓流流れる広大な日本庭園と洗練された美食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">道後温泉 ふなや —— 歴史と品格が宿る最高峰旅館。渓流流れる広大な日本庭園と洗練された美食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 千五百坪の自然庭園「詠風庭」とせせらぎの足湯テラス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">千五百坪の自然庭園「詠風庭」とせせらぎの足湯テラス</h5>
                     <p className="text-stone-600 leading-relaxed">御手洗川の清流が流れる広大な庭園。四季折々の花木や苔むす小道を散策でき、川床や足湯テラスで爽やかな風を感じながら寛ぐことができます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 道後の名湯を引き込んだ檜大浴場「湯山」と御影石「水軍の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">道後の名湯を引き込んだ檜大浴場「湯山」と御影石「水軍の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">無加水・無加温にこだわった良質なアルカリ性単純温泉。手足を伸ばしてゆったりと名湯に浸かり、旅の疲れを心地よく癒やせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 瀬戸内の天然真鯛や伊予牛を贅沢に盛り込んだ本格和風会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">瀬戸内の天然真鯛や伊予牛を贅沢に盛り込んだ本格和風会席</h5>
                     <p className="text-stone-600 leading-relaxed">愛媛の豊かな自然が育んだ海の幸・山の幸。繊細な出汁の味わいと美しい盛り付けに老舗のプライドが宿る極上の料理を堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  道後御湯
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">道後御湯</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室に温泉露天風呂を完備！現代湯治をコンセプトにした大人の洗練ラグジュアリーホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  道後御湯（みゆ） —— プライベートな癒やしを極める宿。客室露天風呂と松山城を望む展望ラウンジ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">道後御湯（みゆ） —— プライベートな癒やしを極める宿。客室露天風呂と松山城を望む展望ラウンジ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全三十室すべてに配されたプライベート温泉露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全三十室すべてに配されたプライベート温泉露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">客室の広々としたデッキに設えられた専用露天風呂。道後温泉の引湯を24時間いつでも好きな時にプライベートに堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階の展望大浴場と松山城・夜景を望むスカイラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階の展望大浴場と松山城・夜景を望むスカイラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">松山市街や松山城を見晴らすパノラマビュー。夕暮れどきや夜のライトアップを眺めながら、フリードリンクとともに贅沢なひとときを過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 愛媛の旬の味覚を五感で楽しむダイニング「tachibana」のモダン和食
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">愛媛の旬の味覚を五感で楽しむダイニング「tachibana」のモダン和食</h5>
                     <p className="text-stone-600 leading-relaxed">瀬戸内海の旬魚や伊予牛、地元無農薬野菜を現代的なアレンジで仕立てた創作コース。洗練された空間で特別なディナーを味わえます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛媛県松山市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  道後温泉　茶玻瑠
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">道後温泉　茶玻瑠</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   道後温泉本館まで徒歩1分！道後初の屋上露天風呂とモダンな和洋ビュッフェが人気のスタイリッシュ宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  道後温泉 茶玻瑠（ちゃはる） —— 本館至近の抜群ロケーション。屋上露天風呂からの街並み展望と美食ダイニング
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">道後温泉 茶玻瑠（ちゃはる） —— 本館至近の抜群ロケーション。屋上露天風呂からの街並み展望と美食ダイニング</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 道後の街並みと夜景を見晴らす道後初の「屋上露天風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">道後の街並みと夜景を見晴らす道後初の「屋上露天風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">最上階から道後の風を感じながら入る展望露天風呂。金・土・日には女性露天風呂に生花を浮かべる「バラ風呂」も開催され大人気です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 道後温泉本館・商店街ハイカラ通りまで徒歩1分の好アクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">道後温泉本館・商店街ハイカラ通りまで徒歩1分の好アクセス</h5>
                     <p className="text-stone-600 leading-relaxed">本館や飛鳥乃湯泉、お土産屋さんが並ぶ商店街へすぐ出られる抜群の立地。湯上がりのそぞろ歩きや買い物に最適です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 愛媛の郷土料理と本格洋食が融合したオープンキッチンディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">愛媛の郷土料理と本格洋食が融合したオープンキッチンディナー</h5>
                     <p className="text-stone-600 leading-relaxed">シェフが目の前で仕上げる出来立て料理や、名物の鯛めし、伊予牛のグリルなど、バラエティ豊かで上質な美食を楽しめます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 道後温泉街・本館＆飛鳥乃湯泉と松山城観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 道後温泉街・本館＆飛鳥乃湯泉と松山城観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                道後温泉本館と別館「飛鳥乃湯泉（あすかのゆ）」の湯巡り
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                道後温泉本館と別館「飛鳥乃湯泉（あすかのゆ）」の湯巡り</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 重厚な木造建築が美しい本館と、飛鳥時代の建築様式を取り入れた飛鳥乃湯泉。伝統工芸と最新アートが融合した特別浴室での入浴や、休憩室でのお茶菓子接待が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                道後ハイカラ通りの散策と「坊っちゃん団子」食べ歩き
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                道後ハイカラ通りの散策と「坊っちゃん団子」食べ歩き</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 本館から道後温泉駅へと続くアーケード商店街。三色の餡が可愛らしい「坊っちゃん団子」や、焼きたての一六タルト、今治タオルショップ巡りが人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                松山城天守閣からの瀬戸内海パノラマビュー
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                松山城天守閣からの瀬戸内海パノラマビュー</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 道後温泉から路面電車で約10分。標高132メートルの城山山頂にそびえる現存十二天守の一つ。ロープウェイで登れば、松山市街と瀬戸内海、石鎚山系を一望できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              愛媛県松山市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">愛媛県松山市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】道後温泉 ふなやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】道後温泉 ふなやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と道後温泉 ふなやの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と道後温泉 ふなやの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

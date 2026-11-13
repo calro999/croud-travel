@@ -30,9 +30,7 @@ export default function PrivacyPage() {
       </nav>
 
       <header className="space-y-3 border-b border-stone-200 pb-6">
-        <h1 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">
-          プライバシーポリシー・免責事項
-        </h1>
+        <h1 className="text-2xl md:text-3xl font-black font-journal-serif text-stone-900">プライバシーポリシー・免責事項</h1>
         <p className="text-xs text-stone-500">最終改定日: 2026年10月12日</p>
       </header>
 

@@ -263,9 +263,7 @@ export default function KyotoFushimiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Historic Serenity</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              朱の鳥居が織りなす神聖な回廊と、伏水が醸す冬限定「寒仕込み」の芳醇
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">朱の鳥居が織りなす神聖な回廊と、伏水が醸す冬限定「寒仕込み」の芳醇</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               全国稲荷神社の総本宮での新春祈願と、宇治川の静寂に佇む平安王朝の美
             </p>
@@ -329,9 +327,7 @@ export default function KyotoFushimiPage() {
           <div className="border-b border-slate-200 pb-4 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
             <div>
               <span className="text-red-600 font-bold text-xs uppercase tracking-wider block">SELECTED ACCOMMODATIONS</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-                冬の伏見・宇治を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の伏見・宇治を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
               ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
@@ -367,9 +363,7 @@ export default function KyotoFushimiPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -433,9 +427,7 @@ export default function KyotoFushimiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の伏見・宇治を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の伏見・宇治を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               千本鳥居初詣、伏見酒蔵新酒巡り、宇治平等院と京鴨すき鍋を堪能する大人の休日
             </p>
@@ -488,25 +480,19 @@ export default function KyotoFushimiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Winter Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の伏見・宇治旅を快適に楽しむための底冷え対策・混雑回避・移動のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の伏見・宇治旅を快適に楽しむための底冷え対策・混雑回避・移動のアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                京の底冷えと足元防寒
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                京の底冷えと足元防寒</h4>
               <p>
                 盆地特有の底冷えが厳しく、神社の石畳や板敷きの参道は足元から急激に熱を奪います。厚手の靴下や保温インソール、裏起毛パンツを着用し、カイロを靴先や腰に貼るのが効果的です。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Building className="w-4 h-4 text-red-500" />
-                電車移動と初詣の混雑回避
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Building className="w-4 h-4 text-red-500" />
+                電車移動と初詣の混雑回避</h4>
               <p>
                 新春の伏見稲荷大社周辺は道路が全面交通規制・大渋滞となります。必ずJR奈良線または京阪電車を利用してください。また、午前8時前または夕方以降の参拝がもっとも混雑を避けられます。
               </p>
@@ -518,18 +504,14 @@ export default function KyotoFushimiPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-red-600 pl-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の伏見・宇治観光・新春参拝・交通 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の伏見・宇治観光・新春参拝・交通 よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-red-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-red-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -540,10 +522,8 @@ export default function KyotoFushimiPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"

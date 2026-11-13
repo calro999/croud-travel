@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            銀座四丁目交差点の賑わいと柳の揺れる並木道、洗練のハイブランド街——日本の最高峰で味わう優雅なショッピングと極上ナイトビュー
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">銀座四丁目交差点の賑わいと柳の揺れる並木道、洗練のハイブランド街——日本の最高峰で味わう優雅なショッピングと極上ナイトビュー</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東京都中央区、明治のガス灯の時代から日本の最先端トレンドと文化を発信し続けてきた街「銀座」。銀座通り（中央通り）には世界的な高級ブランドの旗艦店や老舗百貨店が建ち並び、週末の「歩行者天国」は世界中の人々で賑わいます。伝統芸能の殿堂「歌舞伎座」や、新旧のカルチャーが交差する「GINZA SIX」、活気あふれる築地場外市場も徒歩圏内に位置し、美食と文化の最高峰が集結しています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都中央区（銀座・築地）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  三井ガーデンホテル銀座プレミア
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">三井ガーデンホテル銀座プレミア</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   銀座随一の高層階ホテル！客室ビューバスから東京タワーやベイエリアの煌めく夜景を一望
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  三井ガーデンホテル銀座プレミア —— 地上16階ロビーからの息をのむパノラマ。東京タワーを望む天空のステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">三井ガーデンホテル銀座プレミア —— 地上16階ロビーからの息をのむパノラマ。東京タワーを望む天空のステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が17階以上の高層階に位置する銀座唯一のタワーホテル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が17階以上の高層階に位置する銀座唯一のタワーホテル</h5>
                     <p className="text-stone-600 leading-relaxed">大きなピクチャーウィンドウから広がる東京タワーや汐留の摩天楼。都会の煌めく夜景を独り占めできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 夜景を眺めながらバスタブに浸かれる人気の「ビューバス」客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">夜景を眺めながらバスタブに浸かれる人気の「ビューバス」客室</h5>
                     <p className="text-stone-600 leading-relaxed">開放感あふれるガラス張りのバスルーム。ゆったりとお湯に浸かりながら贅沢なバスタイムを楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 16階「RISTORANTE E&apos;VOLTA il Cielo」での極上イタリアン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">16階「RISTORANTE E&apos;VOLTA il Cielo」での極上イタリアン</h5>
                     <p className="text-stone-600 leading-relaxed">厳選された日本の食材と本場イタリアの技法が融合したコース。東京の夜景を眺めながら優雅なディナーを味わえます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都中央区（銀座・築地）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ミレニアム三井ガーデンホテル東京
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ミレニアム三井ガーデンホテル東京</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   銀座四丁目交差点・歌舞伎座まで徒歩2分！三越や松屋でのショッピングに最高の好立地ホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ミレニアム 三井ガーデンホテル 東京 —— 銀座の中心に暮らすような滞在。洗練されたモダンデザインと快適空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ミレニアム 三井ガーデンホテル 東京 —— 銀座の中心に暮らすような滞在。洗練されたモダンデザインと快適空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 銀座駅や東銀座駅から徒歩1〜2分の圧倒的なアクセスの良さ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">銀座駅や東銀座駅から徒歩1〜2分の圧倒的なアクセスの良さ</h5>
                     <p className="text-stone-600 leading-relaxed">ショッピングや歌舞伎鑑賞の合間に荷物を置きに戻れる便利さ。雨の日も地下鉄出口からすぐです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室バストイレ別の独立設計と上質なインテリア
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室バストイレ別の独立設計と上質なインテリア</h5>
                     <p className="text-stone-600 leading-relaxed">機能性と美しさを両立した落ち着きある客室。快適なシモンズ製ベッドが旅の疲れを心地よく癒やします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下1階レストランでの彩り豊かな朝食ビュッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下1階レストランでの彩り豊かな朝食ビュッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">新鮮な野菜や焼きたてパン、体に優しい和洋メニューが充実。清々しい朝のスタートを迎えることができます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">東京都中央区（銀座・築地）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルモントレ銀座
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルモントレ銀座</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   銀座の柳通りに面した欧州クラシカルホテル！パリのアパルトマンを思わせるアンティークな空間
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ホテルモントレ銀座 —— 喧騒を離れた落ち着きの隠れ家。ヨーロッパの気品と本格フレンチレストラン
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ホテルモントレ銀座 —— 喧騒を離れた落ち着きの隠れ家。ヨーロッパの気品と本格フレンチレストラン</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ヨーロッパのクラシックホテルをイメージしたお洒落な外観と内装
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ヨーロッパのクラシックホテルをイメージしたお洒落な外観と内装</h5>
                     <p className="text-stone-600 leading-relaxed">木製家具や wrought iron の装飾が美しい館内。異国情緒あふれる優雅な雰囲気が大人の滞在を彩ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 銀座一丁目駅から徒歩1分・有楽町や東京駅も徒歩圏内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">銀座一丁目駅から徒歩1分・有楽町や東京駅も徒歩圏内</h5>
                     <p className="text-stone-600 leading-relaxed">静かな通りに面しながら主要駅へ好アクセス。銀座の隠れ家レストランやバー巡りにも最適です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 本格フランス料理「エスカーレ」での伝統のディナーコース
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">本格フランス料理「エスカーレ」での伝統のディナーコース</h5>
                     <p className="text-stone-600 leading-relaxed">旬の食材を活かした繊細なフレンチと厳選ワイン。落ち着いたレストラン空間で至福のひとときを過ごせます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 銀座中央通り・GINZA SIX＆歌舞伎座・築地場外市場観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 銀座中央通り・GINZA SIX＆歌舞伎座・築地場外市場観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                銀座通り（中央通り）でのショッピング＆歩行者天国（土日祝）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                銀座通り（中央通り）でのショッピング＆歩行者天国（土日祝）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 国内外のトップブランドが並ぶメインストリート。休日の歩行者天国では、オープンカフェでくつろぎながら優雅な銀ぶらを楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                伝統芸能の最高峰「歌舞伎座」での観劇と木挽町広場
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                伝統芸能の最高峰「歌舞伎座」での観劇と木挽町広場</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 桃山様式の壮麗な殿堂。一幕見席での手軽な観劇や、地下の木挽町広場での歌舞伎グッズ・銘菓のお土産探しが人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                築地場外市場での朝獲れ海鮮丼＆玉子焼き食べ歩き
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                築地場外市場での朝獲れ海鮮丼＆玉子焼き食べ歩き</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 銀座から徒歩圏内のグルメタウン。名物の甘い焼き立て玉子焼きや、新鮮なマグロ丼、海鮮串焼きの食べ歩きが楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              東京都中央区ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">東京都中央区ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】三井ガーデンホテル銀座プレミアを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】三井ガーデンホテル銀座プレミアを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と三井ガーデンホテル銀座プレミアの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と三井ガーデンホテル銀座プレミアの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

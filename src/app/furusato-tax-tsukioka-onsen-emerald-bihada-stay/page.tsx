@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            エメラルドグリーンに輝く奇跡の白玉の湯——国内屈指の濃厚な硫黄泉と米どころ越後の美食に酔いしれる
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">エメラルドグリーンに輝く奇跡の白玉の湯——国内屈指の濃厚な硫黄泉と米どころ越後の美食に酔いしれる</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             新潟県新発田市に位置する月岡温泉は、大正時代に石油採掘中に湧出したと伝えられる全国的にも珍しい名湯です。月岡温泉の最大の特徴は、美しいエメラルドグリーンに輝く弱アルカリ性の含硫黄ナトリウム塩化物温泉。硫黄含有量は全国第2位を誇り、入浴した瞬間に肌がツルツルになることから「もっと美人になれる温泉」「不老長寿の湯」として絶大な人気を集めています。湯上がり後も体が芯からポカポカと温まり、しっとりとした潤いが長く続きます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  月岡温泉　白玉の湯　華鳳
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">月岡温泉　白玉の湯　華鳳</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   プロが選ぶ日本のホテル旅館100選で全国総合第3位！六千坪の広大な日本庭園とエメラルドグリーンの大露天風呂
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  月岡温泉 白玉の湯 華鳳（かほう） —— 全国屈指の最高峰名門旅館。小高い丘から越後平野を見晴らす贅沢空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">月岡温泉 白玉の湯 華鳳（かほう） —— 全国屈指の最高峰名門旅館。小高い丘から越後平野を見晴らす贅沢空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 小高い丘から越後平野の田園風景を一望する回遊式大庭園露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">小高い丘から越後平野の田園風景を一望する回遊式大庭園露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">木造回廊が美しい広大な露天風呂。敷地内から自噴する自家源泉「白玉の湯」のエメラルドグリーンのお湯に浸かりながら、開放感あふれる絶景を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 六千坪の広大な日本庭園と美術品が飾られた美術館のような館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">六千坪の広大な日本庭園と美術品が飾られた美術館のような館内</h5>
                     <p className="text-stone-600 leading-relaxed">手入れの行き届いた池泉回遊式庭園の散策や、ラウンジでのフリードリンクサービス、温水プールなど、最高級リゾートにふさわしい充実の設備が整っています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 日本海の高級魚「のどぐろ」や村上牛を味わう至高の越後会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">日本海の高級魚「のどぐろ」や村上牛を味わう至高の越後会席</h5>
                     <p className="text-stone-600 leading-relaxed">料理人が腕によりをかけて仕立てる月替わりの本格日本料理。脂の乗ったのどぐろやA5ランク新潟和牛、地元新発田の旬野菜を贅沢に堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  月岡温泉　白玉の湯　泉慶
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">月岡温泉　白玉の湯　泉慶</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   白玉の湯グループの原点にして姉妹館！大岩を配した野趣あふれる露天風呂と真心のこもったもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  月岡温泉 白玉の湯 泉慶（せんけい） —— 華鳳の伝統を受け継ぐ名館。美肌の自家源泉と美食割烹の饗宴
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">月岡温泉 白玉の湯 泉慶（せんけい） —— 華鳳の伝統を受け継ぐ名館。美肌の自家源泉と美食割烹の饗宴</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 巨岩と檜の湯船が並ぶ大浴場「月鏡」と「花鏡」の自家源泉露天
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">巨岩と檜の湯船が並ぶ大浴場「月鏡」と「花鏡」の自家源泉露天</h5>
                     <p className="text-stone-600 leading-relaxed">華鳳と同じく自家源泉「白玉の湯」を引く贅沢な大浴場。濃厚な硫黄の香りと絹のような肌触りの湯に浸かり、日頃の疲れを解きほぐせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 館内随所に飾られた越後の伝統工芸と温かみあふれる和の風情
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">館内随所に飾られた越後の伝統工芸と温かみあふれる和の風情</h5>
                     <p className="text-stone-600 leading-relaxed">広々としたロビーラウンジやアトリウム。スタッフの親しみやすく細やかな接客が、訪れる旅人に心地よい安心感を与えてくれます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> お食事処や個室料亭でいただく新潟の山海の幸会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">お食事処や個室料亭でいただく新潟の山海の幸会席</h5>
                     <p className="text-stone-600 leading-relaxed">日本海の新鮮な刺身盛り合わせや旬の煮物、コシヒカリの釜飯など、新潟の食の豊かさを存分に実感できる充実のコース料理です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">新潟県新発田市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  月岡温泉　風鈴屋（ホテルエリアワングループ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">月岡温泉　風鈴屋（ホテルエリアワングループ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   四季の彩りを感じる日本庭園と露天風呂！越後の美酒と旬菜バイキング・会席が人気の和モダンホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  月岡温泉 風鈴屋 —— 庭園を望むやすらぎの宿。良質な月岡の湯とアットホームな滞在
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">月岡温泉 風鈴屋 —— 庭園を望むやすらぎの宿。良質な月岡の湯とアットホームな滞在</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 豊かな緑と風情ある岩組みが調和する庭園露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">豊かな緑と風情ある岩組みが調和する庭園露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">月岡の名湯に身を浸しながら、そよぐ木々の葉音と温泉の心地よい温もりを堪能。手足を伸ばしてゆったりと寛げます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 新潟名物と季節の旬菜をカジュアルに楽しむお食事スタイル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">新潟名物と季節の旬菜をカジュアルに楽しむお食事スタイル</h5>
                     <p className="text-stone-600 leading-relaxed">越後の郷土料理や地元の新鮮食材をふんだんに取り入れた料理。ファミリーやグループでも気兼ねなく美味しい食事を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 温泉街の散策に便利な立地と落ち着いた和の客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">温泉街の散策に便利な立地と落ち着いた和の客室</h5>
                     <p className="text-stone-600 leading-relaxed">月岡温泉街のメインストリートにも近く、足湯「湯足美」や地酒の試飲処「蔵」への散策拠点として抜群のロケーションです。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 月岡温泉街・歩いて楽しむ温泉街めぐりガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 月岡温泉街・歩いて楽しむ温泉街めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                新潟全蔵元の地酒を試飲できる「蔵（KURA）」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                新潟全蔵元の地酒を試飲できる「蔵（KURA）」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 月岡温泉街にある人気スポット。新潟県内にある全酒蔵のプレミアムな銘酒が揃い、お猪口片手にコイン式で多彩な日本酒の飲み比べ体験が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                あしゆ「湯足美（ゆたび）」と演舞場
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                あしゆ「湯足美（ゆたび）」と演舞場</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 温泉街の中心にある無料の足湯施設。手湯や足湯を楽しみながら、夜にはライトアップされた和傘のオブジェやイベント演舞を鑑賞できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                新潟米を使った手焼きせんべい体験「田（DEN）」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                新潟米を使った手焼きせんべい体験「田（DEN）」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 新潟名物の特大せんべいを自分で炭火で焼き、醤油や七味で味付けして絵を描ける体験処。旅の記念やお土産にぴったりです。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              新潟県新発田市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">新潟県新発田市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】月岡温泉 白玉の湯 華鳳を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】月岡温泉 白玉の湯 華鳳を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と月岡温泉 白玉の湯 華鳳の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と月岡温泉 白玉の湯 華鳳の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

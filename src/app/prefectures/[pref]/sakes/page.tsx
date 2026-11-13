@@ -130,9 +130,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
 
       {/* イントロダクション＆比較・選び方ガイド（長文SEOコンテンツ） */}
       <article className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm leading-relaxed text-sm md:text-base text-emerald-950/90">
-        <h2 className="text-2xl font-black font-journal-serif text-indigo-950 border-b border-indigo-200 pb-3 flex items-center gap-2">
-          <span>🍶</span> <span>{prefInfo.name}の地酒・日本酒を100%味わい尽くすための3つの比較ポイント</span>
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-indigo-950 border-b border-indigo-200 pb-3 flex items-center gap-2"><span>{prefInfo.name}の地酒・日本酒を100%味わい尽くすための3つの比較ポイント</span></h2>
 
         <p className="text-sm leading-relaxed">
           {prefInfo.name}には個性豊かな蔵元が点在し、それぞれ水・米・醸造法に独自のこだわりを持っています。自分好みの特別な一本や、旅行中に楽しみたい酒を見つけるための重要チェックポイントを解説します。
@@ -159,9 +157,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
 
       {/* 地酒ランキング比較表 */}
       <section className="bg-indigo-50/40 border border-indigo-300/40 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-indigo-950 flex items-center gap-2">
-          <span>📊</span> <span>【一目でわかる】{prefInfo.name}のおすすめ地酒・日本酒比較一覧表</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-indigo-950 flex items-center gap-2"><span>【一目でわかる】{prefInfo.name}のおすすめ地酒・日本酒比較一覧表</span></h2>
 
         <div className="overflow-x-auto">
           <table className="w-full text-left text-xs md:text-sm border-collapse bg-white rounded-2xl overflow-hidden shadow-sm">
@@ -194,9 +190,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
 
       {/* 各地酒の詳細ルポ・比較分析 */}
       <section className="space-y-8">
-        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">
-          🏆 {prefInfo.name}の銘酒・地酒名醸蔵 詳細ガイド
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">{prefInfo.name}の銘酒・地酒名醸蔵 詳細ガイド</h2>
 
         <div className="space-y-8">
           {prefInfo.sakes.map((sake, i) => (
@@ -215,9 +209,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
                 </span>
               </div>
 
-              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-indigo-950">
-                {sake.name}
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-indigo-950">{sake.name}</h3>
 
               <div className="prose prose-indigo max-w-none text-xs md:text-sm text-emerald-950/80 leading-relaxed space-y-3">
                 <p>{sake.description}</p>
@@ -246,16 +238,12 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
 
       {/* FAQセクション */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-          <span>❓</span> <span>{prefInfo.name}の地酒・日本酒に関するよくある質問（FAQ）</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>{prefInfo.name}の地酒・日本酒に関するよくある質問（FAQ）</span></h2>
         <div className="space-y-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-5 rounded-2xl bg-indigo-50/40 border border-indigo-200/60 space-y-2">
-              <h3 className="text-sm font-bold text-indigo-950 flex items-start gap-2">
-                <span className="text-indigo-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-indigo-950 flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -266,9 +254,7 @@ export default async function PrefectureSakesPage({ params }: { params: Promise<
 
       {/* ボトムナビゲーション */}
       <section className="p-8 rounded-3xl bg-slate-900 text-white text-center space-y-4 shadow-xl">
-        <h2 className="text-xl font-black font-journal-serif">
-          {prefInfo.name}の旅をもっと深掘りしよう
-        </h2>
+        <h2 className="text-xl font-black font-journal-serif">{prefInfo.name}の旅をもっと深掘りしよう</h2>
         <p className="text-xs text-slate-300 max-w-xl mx-auto leading-relaxed">
           地酒をチェックした後は、{prefInfo.name}の絶景カフェや人気のお土産・銘菓、そして美味しい料理と日本酒を味わえる温泉宿・ホテルをチェックしましょう。
         </p>

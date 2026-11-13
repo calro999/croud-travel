@@ -301,9 +301,7 @@ export default function KochiCityTosaKueWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の黒潮がもたらす深海の覇者「天然クエ」と、熱き土佐の酒宴「おきゃく」文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の黒潮がもたらす深海の覇者「天然クエ」と、熱き土佐の酒宴「おきゃく」文化</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function KochiCityTosaKueWinterPage() {
               <Sparkles className="w-4 h-4 text-red-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              天然クエ鍋と高知城下町を満喫する名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">天然クエ鍋と高知城下町を満喫する名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function KochiCityTosaKueWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function KochiCityTosaKueWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-red-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の高知・土佐 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の高知・土佐 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-red-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-red-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：高知龍馬空港到着・日曜市散策とひろめ市場鰹タタキ＆高知城冬ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：高知龍馬空港到着・日曜市散策とひろめ市場鰹タタキ＆高知城冬ライトアップ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 高知龍馬空港またはJR高知駅に到着後、高知市街へ。日曜日の場合は江戸時代から続く名物「日曜市」を散策し、名物の揚げたて芋天やつきたて田舎寿司をつまみ食い。昼は「ひろめ市場」のやいろ亭や明神丸で、豪快な藁焼き塩タタキランチ。午後は高知城歴史博物館を見学し、夕方に高知城下の温泉宿へチェックイン。夜は幻想的な光に彩られる高知城冬ライトアップを散策し、夕食には熱々の天然クエ鍋会席に酔いしれます。
               </p>
@@ -475,9 +465,7 @@ export default function KochiCityTosaKueWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-red-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-red-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：桂浜の太平洋サンライズ・坂本龍馬記念館と牧野植物園＆老舗割烹ディナー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：桂浜の太平洋サンライズ・坂本龍馬記念館と牧野植物園＆老舗割烹ディナー</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、車または路線バスで桂浜へ。水平線から昇る神々しい朝陽と坂本龍馬像の雄姿を拝み、リニューアルした桂浜海のテラスで朝の海風を満喫。高知県立坂本龍馬記念館で幕末の情熱に触れた後、五台山へ移動して四国霊場第31番札所・竹林寺参拝と高知県立牧野植物園の温室を鑑賞。夜は老舗割烹旅館で、土佐あかうしのすき焼きや天然クエの薄造り、辛口の土佐地酒を味わい尽くします。
               </p>
@@ -486,9 +474,7 @@ export default function KochiCityTosaKueWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-red-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-red-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：神秘の鍾乳洞・龍河洞探検と南国果樹園ドライブ＆お土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：神秘の鍾乳洞・龍河洞探検と南国果樹園ドライブ＆お土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は香美市にある国指定天然記念物・史跡「龍河洞」へ。冬でも洞内は年間を通じて約15℃と暖かく、悠久の時が創り出した鍾乳石と神の壺の神秘美を探検。昼食は南国市の手結港周辺で海を見下ろしながら土佐の海鮮ランチ。銘菓かんざしやミレービスケット、土佐地酒をお土産に購入し、高知龍馬空港から帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function KochiCityTosaKueWinterPage() {
             <ThermometerSun className="w-4 h-4 text-red-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の高知・土佐を快適に巡るための気候・服装・移動手段アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の高知・土佐を快適に巡るための気候・服装・移動手段アドバイス</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【気候と服装：南国の強い日差しと海風の寒暖差】</span>
@@ -528,26 +512,20 @@ export default function KochiCityTosaKueWinterPage() {
               <ShoppingBag className="w-4 h-4 text-red-800" />
               土佐・高知の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              黒潮の恵みと豊かな太陽が育んだ土佐の名産品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">黒潮の恵みと豊かな太陽が育んだ土佐の名産品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-red-700" />
-                辛口土佐地酒のしぼりたて新酒（司牡丹・酔鯨・美丈夫）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-red-700" />
+                辛口土佐地酒のしぼりたて新酒（司牡丹・酔鯨・美丈夫）</h3>
               <p>
                 淡麗辛口の代名詞である土佐の日本酒。11月下旬から1月にかけては、新米で仕込まれた「しぼりたて生原酒」や「活性にごり酒」が続々と蔵出しされます。キリッと引き締まった酸味と米の旨みは、脂の乗った天然クエ鍋や鰹タタキの脂をスッと洗い流し、最高の食中酒として旅の夜を彩ります。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-red-700" />
-                野根まんじゅう・芋けんぴ・馬路村のゆずぽん酢
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-red-700" />
+                野根まんじゅう・芋けんぴ・馬路村のゆずぽん酢</h3>
               <p>
                 高知の冬の定番お土産といえば、室戸の伝統銘菓「野根まんじゅう」や、黄金色に揚げられたカリカリの「芋けんぴ」。さらに日本一の柚子の産地・高知ならではの無添加ゆず果汁やゆずぽん酢「ゆずの村」は、自宅での鍋料理の味を格段に引き上げる万能調味料として大人気です。
               </p>
@@ -562,27 +540,21 @@ export default function KochiCityTosaKueWinterPage() {
               <Compass className="w-4 h-4 text-red-800" />
               土佐食文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ高知で「皿鉢料理」が生まれ、酒宴を「おきゃく」と尊ぶのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ高知で「皿鉢料理」が生まれ、酒宴を「おきゃく」と尊ぶのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-red-700" />
-                女性も一緒に楽しむための知恵から生まれた大皿「皿鉢（さわち）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-red-700" />
+                女性も一緒に楽しむための知恵から生まれた大皿「皿鉢（さわち）」</h3>
               <p>
                 有田焼や九谷焼の直径数十センチの大皿に、旬の刺身、タタキ、煮物、寿司、羊羹や果物まで彩り豊かに豪快に盛り付ける「皿鉢料理」。これは宴会の席で台所に立つ女性たちが何度も料理を運ぶ手間を省き、最初から全員が揃って車座になり酒宴を楽しめるようにという平等の精神から生まれました。身分の分け隔てなく客人を心から歓迎する土佐人の温かな気質が凝縮されています。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Fish className="w-4 h-4 text-red-700" />
-                天然クエの一本釣り：海中深くの主と漁師の命がけの駆け引き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Fish className="w-4 h-4 text-red-700" />
+                天然クエの一本釣り：海中深くの主と漁師の命がけの駆け引き</h3>
               <p>
                 クエは縄張り意識が極めて強く、普段は海底の岩穴に潜んでじっと獲物を待ち伏せしています。太いテグスに生きたサバやイカを仕掛け、アタリがあった瞬間に一気に根から引き剥がす一本釣り。わずか数秒の遅れで岩穴に潜り込まれ、仕掛けを切られてしまう極限の勝負です。荒れる冬の黒潮に耐え、釣り上げられた一本の天然クエには、漁師の誇りと土佐の海の生命力が宿っています。
               </p>
@@ -597,18 +569,14 @@ export default function KochiCityTosaKueWinterPage() {
               <HelpCircle className="w-4 h-4 text-red-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の高知・土佐旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の高知・土佐旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-red-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-red-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

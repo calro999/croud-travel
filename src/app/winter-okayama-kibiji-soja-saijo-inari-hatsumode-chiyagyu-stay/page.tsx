@@ -294,10 +294,8 @@ export default function OkayamaKibijiWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-red-700 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の吉備路・最上稲荷旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-red-700 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の吉備路・最上稲荷旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-red-50/60 p-4 rounded-xl border border-red-100">
                 <span className="font-bold text-red-900 block mb-1">① 最上稲荷の新春大初詣</span>
@@ -321,9 +319,7 @@ export default function OkayamaKibijiWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">SAIJO INARI NEW YEAR PILGRIMAGE</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                大鳥居が迎える中国屈指の初詣霊場！「最上稲荷」の新春祈祷と門前町の賑わい
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">大鳥居が迎える中国屈指の初詣霊場！「最上稲荷」の新春祈祷と門前町の賑わい</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -342,9 +338,7 @@ export default function OkayamaKibijiWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">KIBITSU SHRINE & KIBIJI LANDSCAPE</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                桃太郎伝説の総鎮守！国宝「吉備津神社」の400m大廻廊と備中国分寺五重塔
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">桃太郎伝説の総鎮守！国宝「吉備津神社」の400m大廻廊と備中国分寺五重塔</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -363,9 +357,7 @@ export default function OkayamaKibijiWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">CHIYAGYU WAGYU & GASTRONOMY</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                日本最古の蔓牛が生む奇跡の肉質！幻の「千屋牛」と冬の岡山会席
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">日本最古の蔓牛が生む奇跡の肉質！幻の「千屋牛」と冬の岡山会席</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -384,9 +376,7 @@ export default function OkayamaKibijiWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">VERIFIED RECOMMENDED HOTELS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                吉備路＆最上稲荷・総社を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">吉備路＆最上稲荷・総社を満喫する厳選名宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室・料金・口コミ情報をリアルタイム連携
               </p>
@@ -421,9 +411,7 @@ export default function OkayamaKibijiWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -463,9 +451,7 @@ export default function OkayamaKibijiWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！最上稲荷新春初詣と国宝吉備津神社・備中国分寺を巡る冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！最上稲荷新春初詣と国宝吉備津神社・備中国分寺を巡る冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-red-200 ml-4 pl-6 space-y-8 text-sm">
@@ -518,10 +504,8 @@ export default function OkayamaKibijiWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-red-50/70 border border-red-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-red-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-red-700 flex-shrink-0" />
-              <span>冬（11・12・1月）の吉備路・最上稲荷旅行・知っておきたいお役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-red-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-red-700 flex-shrink-0" />
+              <span>冬（11・12・1月）の吉備路・最上稲荷旅行・知っておきたいお役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-red-950">
               <div className="bg-white/80 p-4 rounded-xl border border-red-100">
                 <strong className="block mb-1 text-red-900 font-bold">・年末年始の最上稲荷周辺の交通規制</strong>
@@ -546,18 +530,14 @@ export default function OkayamaKibijiWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-red-700 pl-4">
               <span className="text-xs font-bold text-red-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                吉備路＆最上稲荷の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">吉備路＆最上稲荷の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq: any, idx: number) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-red-700 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-red-700 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -568,10 +548,8 @@ export default function OkayamaKibijiWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-red-700" />
-              <span>岡山・山陽および冬の目的別おすすめ特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-red-700" />
+              <span>岡山・山陽および冬の目的別おすすめ特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-okayama-kurashiki-bikan-yakei-kibitsu-chiyagyu-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-red-400 transition font-medium text-slate-700">
                 🏮 倉敷美観地区・冬の夜景と千屋牛名宿

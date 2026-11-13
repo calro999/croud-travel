@@ -259,10 +259,8 @@ export default function ShirahamaWinterPage() {
             <Eye className="w-4 h-4 text-cyan-300" />
             <span>11月・12月限定 日本三古湯の絶景オーシャンビュー＆幻の紀州本クエ鍋特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月南紀白浜温泉の太平洋絶景と名湯】<br className="hidden sm:inline" />
-            白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月南紀白浜温泉の太平洋絶景と名湯】<br className="hidden sm:inline" />
+            白良浜夕陽と日本三古湯・幻の天然本クエ鍋＆熊野牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             万葉の昔から歴代天皇が湯治に訪れた日本三古湯・南紀白浜温泉。11月から旬を迎える「幻の高級魚・紀州本クエ」の濃厚な旨味。水平線に沈む黄金の夕陽を眺める海辺のインフィニティ露天風呂と、白良浜の冬のイルミネーションを愉しむ至福旅。
           </p>
@@ -288,9 +286,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Nihon Sankoto Shirahama Ocean Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                万葉の天皇が愛した牟婁の湯。初冬の太平洋夕陽と幻の「紀州本クエ」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">万葉の天皇が愛した牟婁の湯。初冬の太平洋夕陽と幻の「紀州本クエ」</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -305,10 +301,8 @@ export default function ShirahamaWinterPage() {
           
           <div className="bg-cyan-50/70 rounded-2xl p-5 border border-cyan-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-700" />
-                11月・12月南紀白浜 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-700" />
+                11月・12月南紀白浜 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 旬の本クエ鍋＆クエ刺し・太平洋絶景インフィニティ露天・白良浜夕陽と冬イルミ・日本三古湯・熊野牛
               </p>
@@ -359,9 +353,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">King of Winter Fish</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                幻の高級魚「本クエ」の真髄：旬の脂とコラーゲン鍋
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">幻の高級魚「本クエ」の真髄：旬の脂とコラーゲン鍋</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -380,9 +372,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Ocean Infinity Waters</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                日本三古湯の恵み：海を望むインフィニティ露天と泉質
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">日本三古湯の恵み：海を望むインフィニティ露天と泉質</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -402,9 +392,7 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Scenic Coastal Wonders</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の白良浜シーサイドイルミネーションと名勝・三段壁洞窟の歴史ロマン
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の白良浜シーサイドイルミネーションと名勝・三段壁洞窟の歴史ロマン</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -425,9 +413,7 @@ export default function ShirahamaWinterPage() {
               <Flame className="w-3.5 h-3.5" />
               <span>Rakuten Travel Official API Verified Selection</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              11・12月に泊まりたい南紀白浜温泉の名宿厳選5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">11・12月に泊まりたい南紀白浜温泉の名宿厳選5選</h2>
             <p className="text-stone-600 text-sm max-w-2xl mx-auto">
               楽天トラベルAPIから最新の口コミ評価・宿泊料金・空室情報を取得。太平洋の絶景露天風呂と幻の紀州本クエ鍋、極上熊野牛を心ゆくまで堪能できる名宿5軒をご紹介します。
             </p>
@@ -467,9 +453,7 @@ export default function ShirahamaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug mb-3">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-600 line-clamp-2 mb-4 italic">
                         「{hotel.special}」
@@ -481,10 +465,8 @@ export default function ShirahamaWinterPage() {
 
                       {/* Highlights */}
                       <div className="space-y-2 bg-stone-50 p-4 rounded-2xl border border-stone-200/70 mb-5">
-                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide">
-                          <CheckCircle2 className="w-4 h-4 text-cyan-700" />
-                          冬の滞在おすすめポイント
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 flex items-center gap-1.5 uppercase tracking-wide"><CheckCircle2 className="w-4 h-4 text-cyan-700" />
+                          冬の滞在おすすめポイント</h4>
                         <ul className="text-xs text-stone-600 space-y-1.5 pl-1">
                           {hotel.highlights.map((hl: string, idx: number) => (
                             <li key={idx} className="flex items-start gap-1.5">
@@ -545,26 +527,20 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Delicacies</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                紀州の冬の饗宴：幻の紀州本クエ会席と極上黒毛和牛「熊野牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">紀州の冬の饗宴：幻の紀州本クエ会席と極上黒毛和牛「熊野牛」</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-stone-700">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-700" />
-                天然の恵み「紀州本クエフルコース」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-700" />
+                天然の恵み「紀州本クエフルコース」</h3>
               <p className="leading-relaxed text-sm">
                 白浜の冬の料理長たちが腕を競い合う「本クエ会席」。繊細な技が光るクエの薄造り（クエ刺し）は、上品な脂と歯ごたえが絶品。香ばしく焼き上げる「焼きクエ」、サクサクの衣の中にジューシーな白身を閉じ込めた「クエの唐揚げ」、そして出汁に旨味が溶け出す「本クエ鍋」。クエの頭やアラから抽出される濃厚なスープで作る〆の雑炊まで、一切れも無駄にしない極上の食体験が待っています。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-cyan-700" />
-                紀州伝統の黒毛和牛「熊野牛」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-cyan-700" />
+                紀州伝統の黒毛和牛「熊野牛」</h3>
               <p className="leading-relaxed text-sm">
                 紀州の豊かな緑と清流で育まれた和歌山県特産の黒毛和牛「熊野牛」。きめ細やかな赤身にバランス良く入った美しい霜降りと、焼いたときに立ち上る甘い香りが特徴です。脂にしつこさがなく、肉本来のコクがしっかりと感じられるため、本クエの鍋とともにステーキや陶板焼きとして楽しむ贅沢なコラボレーションプランが大人気です。
               </p>
@@ -580,29 +556,21 @@ export default function ShirahamaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Recommended 2-Day Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1泊2日 王道モデルコース：白良浜の夕陽と冬の絶景名勝巡り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 王道モデルコース：白良浜の夕陽と冬の絶景名勝巡り</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-cyan-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-cyan-800 uppercase tracking-wider">【1日目】温暖な南紀へ〜海辺の名所散策と本クエ宿ステイ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                11:30 南紀白浜空港（またはJR白浜駅）到着 → 「とれとれ市場」で海鮮ランチ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">11:30 南紀白浜空港（またはJR白浜駅）到着 → 「とれとれ市場」で海鮮ランチ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 西日本最大級の海鮮マーケットで新鮮なマグロ丼や海の幸を堪能。市場内でお土産もチェック。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:30 名勝「千畳敷」＆大迫力の断崖絶壁「三段壁」を見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:30 名勝「千畳敷」＆大迫力の断崖絶壁「三段壁」を見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 太平洋の荒波が削り出した畳状の岩盤や、地下の三段壁洞窟を見学。初冬のダイナミックな海景を体感。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:30 旅館へチェックイン → 太平洋に沈む黄金の夕陽露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:30 旅館へチェックイン → 太平洋に沈む黄金の夕陽露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 夕暮れ時の温泉に浸かり、茜色に染まる空と海を鑑賞。夕食は旬の天然本クエ鍋会席に舌鼓。
               </p>
@@ -610,15 +578,11 @@ export default function ShirahamaWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝の海風呂〜白良浜の白砂散歩と円月島へ</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 爽快な朝の潮風を感じる露天風呂 → 紀州名物の和朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 爽快な朝の潮風を感じる露天風呂 → 紀州名物の和朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 朝陽に輝く海を眺めながら目覚めの入浴。紀州南高梅や干物、茶粥などの優しい朝食。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                10:00 白良浜のサラサラな白砂を素足で散歩＆円月島（高嶋）を眺望
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">10:00 白良浜のサラサラな白砂を素足で散歩＆円月島（高嶋）を眺望</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 真っ白なビーチの波打ち際を散策。中央に丸い海蝕洞が開いたシンボル「円月島」で記念撮影し、帰路へ。
               </p>
@@ -641,10 +605,8 @@ export default function ShirahamaWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -659,9 +621,7 @@ export default function ShirahamaWinterPage() {
         <section className="bg-cyan-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-300 uppercase tracking-widest">Related Winter Hot Spring Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい西日本・海の温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい西日本・海の温泉特集</h2>
             <p className="text-xs sm:text-sm text-cyan-100/90 leading-relaxed">
               11月・12月ならではの絶景や旬の海の幸を堪能できる全国各地の名湯ガイドを多数公開中。次の旅の計画にぜひお役立てください。
             </p>

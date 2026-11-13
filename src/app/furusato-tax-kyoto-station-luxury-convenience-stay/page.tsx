@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            新幹線ホームから直行できる極上の利便性と千年の都の美意識——手荷物を預けて身軽に巡る贅沢な京都ステイ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">新幹線ホームから直行できる極上の利便性と千年の都の美意識——手荷物を預けて身軽に巡る贅沢な京都ステイ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東海道新幹線をはじめJR各線、近鉄、地下鉄、そして市内全域へ網の目のように伸びる市バスの起終点である「京都駅」。原広司氏設計の壮大なガラスと鉄骨のアトリウムが迎えるこの巨大ターミナルは、千年の歴史を誇る古都への第一歩となる象徴的な空間です。駅周辺には京都タワーや東本願寺、西本願寺、東寺の五重塔が徒歩圏内に位置し、嵐山、祇園、清水寺、金閣寺など市内のあらゆる名所へスムーズにアクセスできます。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">京都府京都市（京都駅周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルグランヴィア京都
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルグランヴィア京都</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   JR京都駅烏丸口直結！改札から雨に濡れずにチェックインできる京都随一のランドマークホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ホテルグランヴィア京都 —— 駅直結の圧倒的ロケーション。大パノラマの客室と充実のレストラン＆プール
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ホテルグランヴィア京都 —— 駅直結の圧倒的ロケーション。大パノラマの客室と充実のレストラン＆プール</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> JR京都駅の駅ビル内に位置する抜群のアクセスと利便性
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">JR京都駅の駅ビル内に位置する抜群のアクセスと利便性</h5>
                     <p className="text-stone-600 leading-relaxed">新幹線中央口やJR在来線西口から直結。天候を気にせずチェックインでき、観光やビジネスの拠点として最強の立地です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 京都タワーや京都市街を一望する高層階からの絶景ビュー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">京都タワーや京都市街を一望する高層階からの絶景ビュー</h5>
                     <p className="text-stone-600 leading-relaxed">開放感あふれる大きな窓から広がる古都の夜景。上質なアメニティと広々としたベッドが上質な眠りを誘います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 本格京懐石「浮橋」やビュー＆ダイニングなど多彩な名店
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">本格京懐石「浮橋」やビュー＆ダイニングなど多彩な名店</h5>
                     <p className="text-stone-600 leading-relaxed">京都の旬の味覚を散りばめた四季折々の会席料理や、シェフが目の前で焼き上げる鉄板焼きディナーを優雅に堪能できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">京都府京都市（京都駅周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ザ・サウザンド京都
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ザ・サウザンド京都</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   京都駅中央口から徒歩2分！千年の都の知恵息づく「現代の茶室」のような静謐なる隠れ家ラグジュアリー
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ザ・サウザンド京都 —— 光と緑、心地よい静けさ。茶道や禅の美意識を取り入れた大人の極上ウェルネスホテル
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ザ・サウザンド京都 —— 光と緑、心地よい静けさ。茶道や禅の美意識を取り入れた大人の極上ウェルネスホテル</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 駅前にありながら喧騒を忘れさせる緑豊かなアプローチと大階段
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">駅前にありながら喧騒を忘れさせる緑豊かなアプローチと大階段</h5>
                     <p className="text-stone-600 leading-relaxed">ロビーへと続く壮大な階段と柔らかな光の演出。都会の真ん中にいることを忘れるような静寂な非日常空間です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 引き算の美学を取り入れたミニマルで洗練された快適客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">引き算の美学を取り入れたミニマルで洗練された快適客室</h5>
                     <p className="text-stone-600 leading-relaxed">自然素材を多用したぬくもりあるインテリア。全室バストイレ別で、独立した洗い場付きバスルームを完備しています。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 京都の出汁文化を活かした日本料理「KIZAHASHI」とイタリアン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">京都の出汁文化を活かした日本料理「KIZAHASHI」とイタリアン</h5>
                     <p className="text-stone-600 leading-relaxed">厳選された旬の食材を繊細な感性で仕立てるイノベーティブな料理。お茶のペアリングなど独自の食体験が魅力です。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">京都府京都市（京都駅周辺）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  リーガロイヤルホテル京都
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">リーガロイヤルホテル京都</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   京都唯一の回転展望フレンチレストラン「トップ オブ キョウト」！伝統のおもてなしと名門の風格
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  リーガロイヤルホテル京都 —— 古都を見下ろす360度パノラマ。名門ホテルの伝統とおもてなしの心
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">リーガロイヤルホテル京都 —— 古都を見下ろす360度パノラマ。名門ホテルの伝統とおもてなしの心</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全席窓側・360度ゆっくり回転しながら夜景を望むフレンチレストラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全席窓側・360度ゆっくり回転しながら夜景を望むフレンチレストラン</h5>
                     <p className="text-stone-600 leading-relaxed">京都の街並みや五重塔、周囲の山々をぐるりと一望。特別な記念日やプロポーズにふさわしい伝説のダイニングです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和の趣を現代風に昇華させた落ち着きあるリニューアル客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和の趣を現代風に昇華させた落ち着きあるリニューアル客室</h5>
                     <p className="text-stone-600 leading-relaxed">西陣織や唐紙など京都の伝統工芸をモチーフにした上質な設え。ゆったりとした広さで旅の疲れを心地よく癒やせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 京都駅から無料シャトルバス運行・充実の屋内温水プール＆サウナ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">京都駅から無料シャトルバス運行・充実の屋内温水プール＆サウナ</h5>
                     <p className="text-stone-600 leading-relaxed">京都駅八条口からホテルまで専用シャトルバスが随時運行。大型駐車場も完備し、マイカー旅行にも安心です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 京都駅ビル・東寺五重塔＆東本願寺・渉成園観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 京都駅ビル・東寺五重塔＆東本願寺・渉成園観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                京都駅ビル「大階段グラフィカルイルミネーション」＆空中径路
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                京都駅ビル「大階段グラフィカルイルミネーション」＆空中径路</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 171段の大階段を彩るLEDイルミネーションと、地上45mの空中径路から見下ろす京都の夜景。駅自体が巨大な観光スポットです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                世界文化遺産「東寺（教王護国寺）」の日本一高い木造五重塔
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                世界文化遺産「東寺（教王護国寺）」の日本一高い木造五重塔</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 京都駅から徒歩約15分。高さ約55mの五重塔や講堂の立体曼荼羅、春の不二桜・秋の紅葉ライトアップは圧巻の美しさです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                東本願寺の阿弥陀堂・御影堂門と国の名勝「渉成園（枳殻邸）」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                東本願寺の阿弥陀堂・御影堂門と国の名勝「渉成園（枳殻邸）」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 世界最大級の木造建築である東本願寺御影堂。隣接する渉成園の池泉回遊式庭園では、四季折々の花々と静寂の散策が楽しめます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              京都府京都市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">京都府京都市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルグランヴィア京都を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルグランヴィア京都を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルグランヴィア京都の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルグランヴィア京都の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          雪解け水が幾重もの地層で磨かれた奇跡の一滴。清冽な名水が引き出す素材の真味と極上湯浴み
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">雪解け水が幾重もの地層で磨かれた奇跡の一滴。清冽な名水が引き出す素材の真味と極上湯浴み</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              名水だからこそ実現する究極の手打ち蕎麦や名水豆腐の朝夕食
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">名水だからこそ実現する究極の手打ち蕎麦や名水豆腐の朝夕食</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               水の違いがダイレクトに味へ影響する蕎麦や豆腐。透き通るような名水で仕込んだ繊細で香り高い料理を堪能できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              肌当たり柔らかな天然ミネラル豊富な天然水風呂＆温泉
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">肌当たり柔らかな天然ミネラル豊富な天然水風呂＆温泉</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               飲泉も可能なほど清らかな湧水や名湯は、肌への刺激が少なく、湯上がりには驚くほどのしっとり感と爽快感をもたらします。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              湧水池の清涼な空気と緑豊かな水辺散策で心身を浄化
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">湧水池の清涼な空気と緑豊かな水辺散策で心身を浄化</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               湧き水が織りなす清流沿いの遊歩道や水車小屋、わさび田を巡り、マイナスイオンに満ちた癒やしの時間を過ごせます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="oshino_water" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山梨県忍野村・富士吉田市ふるさと納税：世界遺産富士の伏流水・忍野八海と名水手打ち蕎麦宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山梨県忍野村・富士吉田市ふるさと納税：世界遺産富士の伏流水・忍野八海と名水手打ち蕎麦宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 富士山の雪解け水が数十年の歳月をかけて湧き出る忍野八海。吸い込まれそうなコバルトブルーの水深池を巡り、清冽な富士の恵みで打つコシの強い蕎麦と富士山ビュー温泉を満喫できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡富士河口湖町浅川366-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    河口湖天然温泉「霊水の湯」ホテルルートイン河口湖
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">河口湖天然温泉「霊水の湯」ホテルルートイン河口湖</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ◆天然温泉展望大浴場より富士山・河口湖が眺望可能◆ＷＯＷＯＷ無料視聴可◆WiFi無料◆バイキング朝食
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡山中湖村山中195
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    天然温泉　富士松の湯　富士松園ホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">天然温泉　富士松の湯　富士松園ホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全てのお部屋が【富士山】又は【山中湖】の眺望自慢のホテル！富士山を眺める溶岩風呂で温泉も満喫♪
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県南都留郡山中湖村平野2977
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    カントリーホテル　スターダスト
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">カントリーホテル　スターダスト</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     ＜全6室＞富士の恵みたっぷりの本格欧風料理！別荘地の隠れ家で、県内産ワインやマジックショーを楽しむ
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="azumino_water" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                長野県安曇野市ふるさと納税：北アルプス安曇野わさび田湧水群と大王わさび農場・名湯リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">長野県安曇野市ふるさと納税：北アルプス安曇野わさび田湧水群と大王わさび農場・名湯リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 一日数十万トンもの雪解け水が湧き出す安曇野。水車小屋と緑豊かなわさび田の風景の中、摺りたての本わさびを添えた名水信州蕎麦と、肌に優しい単純温泉でリフレッシュできます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県安曇野市穂高有明2252-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    温泉ホテル安曇野アートキャビン
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">温泉ホテル安曇野アートキャビン</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     全室温泉付き｜好きなときに温泉に浸かれる10室の静かな宿
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県安曇野市穂高牧2200-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    穂高温泉郷　安曇野穂高ビューホテル
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">穂高温泉郷　安曇野穂高ビューホテル</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     松本エリアから車で約40分★口コミ朝食４．7 心癒す旅を
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     長野県安曇野市豊科4677-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ホテルルートインコート安曇野豊科駅南
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ホテルルートインコート安曇野豊科駅南</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     楽天からのご予約は、ルートインの会員カードのポイント特典、HPからのご予約特典は受けられません
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="gujo_water" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                岐阜県郡上市ふるさと納税：名水百選第一号「宗祇水」・水の城下町郡上八幡と長良川天然鮎会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">岐阜県郡上市ふるさと納税：名水百選第一号「宗祇水」・水の城下町郡上八幡と長良川天然鮎会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 町中に水路が張り巡らされ、せせらぎが響く水の都・郡上八幡。宗祇水のほとりや町家カフェを散策し、郡上の名水で仕込む地酒や郡上天然鮎の塩焼き、極上豆腐料理を味わう風情旅です。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県郡上市八幡町柳町264
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    料理旅館　備前屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">料理旅館　備前屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     一期一会の気持ちを込めて郡上の季節をお届けします。明治創業、日本庭園には四季の移り変わりが見られます
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県郡上市八幡町大手町
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    あさの旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">あさの旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     郡上八幡を満喫★城下町プラザから徒歩1分！地元食材・郡上の味と城下町の街並みをお楽しみください
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     岐阜県郡上市八幡町島谷808
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    旅館　三冨久
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">旅館　三冨久</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     心を癒す吉田川を眺められ町の中心にありながら閑静で心安らぐ旅館　郡上踊りの会場にも近くて便利です。
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">清流アクティビティ＆リバービュー温泉宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 長良川・四万十川・保津川の舟旅。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">高原リゾート＆美食フレンチオーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 那須・清里・裏磐梯の森の休日。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -672,9 +634,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -753,9 +713,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「名水百選・湧水めぐり＆名水蕎麦豆腐料理の宿×ふるさと納税厳選ガイド忍野八海・安曇野・郡上八幡の名湯」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

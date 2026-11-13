@@ -266,10 +266,8 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-cyan-500 shrink-0" />
-              冬の宮古島が最高の大人の避寒リゾートである理由
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-cyan-500 shrink-0" />
+              冬の宮古島が最高の大人の避寒リゾートである理由</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -322,9 +320,7 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Verified Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の宮古島を満喫する厳選オーシャンリゾートホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の宮古島を満喫する厳選オーシャンリゾートホテル5選</h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
               楽天APIからリアルタイム取得した最新宿泊料金・クチコミ評価点に基づき、オールスイート・天然温泉・白砂ビーチ直結・極上宮古牛ダイニングを兼ね備えた名宿を厳選紹介。
             </p>
@@ -367,9 +363,7 @@ export default function OkinawaMiyakojimaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-tight">{hotel.name}</h3>
 
                       <div className="flex items-start gap-2 text-xs sm:text-sm text-slate-600">
                         <MapPin className="w-4 h-4 text-cyan-500 shrink-0 mt-0.5" />
@@ -427,10 +421,8 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Miyakojima Winter Dining</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
-              幻の黒毛和牛「宮古牛」と冬の新鮮島魚・雪塩スイーツ探訪
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-cyan-500 shrink-0" />
+              幻の黒毛和牛「宮古牛」と冬の新鮮島魚・雪塩スイーツ探訪</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -447,10 +439,8 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Island Climate & Clothing</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-cyan-500 shrink-0" />
-              11月・12月・1月の気温と冬の宮古島ドライブ服装術
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-cyan-500 shrink-0" />
+              11月・12月・1月の気温と冬の宮古島ドライブ服装術</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -490,10 +480,8 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Suggested Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-cyan-500 shrink-0" />
-              2泊3日 冬の宮古ブルー巡り＆東平安名崎初日の出ドライブモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-500 shrink-0" />
+              2泊3日 冬の宮古ブルー巡り＆東平安名崎初日の出ドライブモデルコース</h2>
           </div>
 
           <div className="space-y-6">
@@ -578,18 +566,14 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-cyan-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の宮古島旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の宮古島旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -602,9 +586,7 @@ export default function OkinawaMiyakojimaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！冬の沖縄＆南国避寒リゾート特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！冬の沖縄＆南国避寒リゾート特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

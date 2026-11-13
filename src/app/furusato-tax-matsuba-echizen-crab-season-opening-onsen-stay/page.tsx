@@ -89,9 +89,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            花開く純白のカニ刺し、炭火で香ばしく焼ける濃厚な甲羅みそ。11月解禁の初物ブランド蟹を本場・名湯で味わう至福
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">花開く純白のカニ刺し、炭火で香ばしく焼ける濃厚な甲羅みそ。11月解禁の初物ブランド蟹を本場・名湯で味わう至福</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             日本全国の美食家が一年で最も心待ちにしている冬の風物詩、それが毎年11月6日に一斉に解禁される「日本海のズワイガニ漁（山陰の松葉ガニ、北陸の越前ガニ）」です。水揚げ港の黄色や青色のブランドタグが証明する正真正銘の本物ガニは、身の締まり、上品な甘み、そして芳醇なカニ味噌の濃厚さが格別。透き通るような身が花咲く「カニ刺し」、香ばしい煙とともに甘みが凝縮する「焼きガニ」、濃厚な味噌に身を絡めて味わう「甲羅みそ焼き」、出汁の旨みが染み渡る「カニすき鍋」と最後の「カニ雑炊」まで、まさにカニ尽くしのフルコースを堪能できます。五万坪の大庭園と洗練されたおもてなしを誇る城崎温泉の名門「西村屋ホテル招月庭」、カニ料理一筋で極上の味を届ける名宿「医食同源の宿 かに庵」、そして越前海岸の波打ち際に建ち越前ガニと北陸の海の幸を貸切風呂とともに味わう「さかな遊びの宿 やまちょう」。11月〜冬の予約殺到シーズンを前に、楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を使って実質自己負担2,000円で賢く予約し、極上の初物カニ旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  11月6日解禁！水揚げ港タグ付きの本場「活松葉ガニ・越前ガニ」フルコース
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">11月6日解禁！水揚げ港タグ付きの本場「活松葉ガニ・越前ガニ」フルコース</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 冷凍物とは別次元の圧倒的な甘みと弾力。カニ刺し、焼きガニ、茹でガニ、甲羅みそ、カニすき鍋と、カニの旨味を余すところなく堪能できます。
@@ -122,9 +118,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  城崎温泉の情緒あふれる「外湯めぐり」や日本海の荒波を望む絶景温泉
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">城崎温泉の情緒あふれる「外湯めぐり」や日本海の荒波を望む絶景温泉</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 浴衣に下駄を鳴らして柳並木の温泉街を歩く城崎の七湯めぐりや、越前海岸に沈む夕日を眺める露天風呂など、名湯が身体の芯まで温めてくれます。
@@ -137,9 +131,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  但馬牛・若狭牛・地魚の舟盛り！日本海の極上冬の味覚を贅沢に食べ比べ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">但馬牛・若狭牛・地魚の舟盛り！日本海の極上冬の味覚を贅沢に食べ比べ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 カニだけでなく、最高峰の黒毛和牛ステーキや、朝獲れの寒ブリ、アオリイカなど山陰・北陸ならではの豊かな海の幸・山の幸が饗宴を広げます。
@@ -174,9 +166,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                       ★ 4.72 <span className="text-stone-400 text-xs">(1,178件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    城崎温泉　西村屋ホテル招月庭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">城崎温泉　西村屋ホテル招月庭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県豊岡市城崎町湯島1016-2 ｜ 【電車】JR城崎温泉駅から旅館組合無料乗合バスで5～15分【車】北近畿豊岡自動車道・豊岡出石ICから約18分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                       ★ 4.28 <span className="text-stone-400 text-xs">(116件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    城崎温泉　医食同源の宿　かに庵
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">城崎温泉　医食同源の宿　かに庵</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 兵庫県豊岡市城崎町湯島690 ｜ ＪＲ　城崎温泉駅より徒歩にて約７分。　大阪方面より中国道～舞鶴道～北近畿豊岡自動車道～但馬空港ＩＣ下車　約30分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
                       ★ 4.83 <span className="text-stone-400 text-xs">(25件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    越前カニ　北陸の海鮮と貸切風呂　さかな遊びの宿　やまちょう
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">越前カニ　北陸の海鮮と貸切風呂　さかな遊びの宿　やまちょう</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 福井県福井市両橋屋町23-40 ｜ ＪＲ　福井駅より車にて３０分、京福バスにて３０～４０分（宿前・橋屋口下車）／北陸自動車道　北ＩＣより４０分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】城崎温泉 西村屋ホテル招月庭を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】城崎温泉 西村屋ホテル招月庭を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoMatsubaEchizenCrabSeasonStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と城崎温泉 西村屋ホテル招月庭の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と城崎温泉 西村屋ホテル招月庭の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

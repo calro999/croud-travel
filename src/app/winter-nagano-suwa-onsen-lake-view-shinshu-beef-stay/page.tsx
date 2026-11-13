@@ -298,10 +298,8 @@ export default function SuwaOnsenWinterPage() {
             <Wine className="w-4 h-4 text-sky-300" />
             <span>11月・12月限定 諏訪湖初冬パノラマと諏訪五蔵新酒めぐり・信州美食旅</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月諏訪湖・上諏訪温泉の冬名湯と信州美食】<br className="hidden sm:inline" />
-            諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月諏訪湖・上諏訪温泉の冬名湯と信州美食】<br className="hidden sm:inline" />
+            諏訪湖一望露天と千人風呂・諏訪五蔵新酒＆信州プレミアム牛の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の澄み切った大気に浮かぶ冠雪の八ヶ岳と富士山。毎分万リットルを誇る上諏訪温泉の湖畔露天風呂に浸かり、国重文・片倉館千人風呂、諏訪五蔵の搾りたて新酒めぐりと極上信州プレミアム牛すき焼きを堪能する大人の信州旅。
           </p>
@@ -327,9 +325,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Suwako Kamisuwa Onsen Winter Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本有数の湧出量と大正ロマン、冬空に映える信州屈指のレイクサイド名湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本有数の湧出量と大正ロマン、冬空に映える信州屈指のレイクサイド名湯</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -368,9 +364,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Heritage Bath & Spring Quality</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                国重文・片倉館「千人風呂」の深湯体験と上諏訪が誇る2大自家源泉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">国重文・片倉館「千人風呂」の深湯体験と上諏訪が誇る2大自家源泉</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -389,9 +383,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Suwa Five Breweries Sake Tour</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                甲州街道わずか500mに凝縮！『諏訪五蔵』秋あがり＆初冬搾りたて新酒めぐり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">甲州街道わずか500mに凝縮！『諏訪五蔵』秋あがり＆初冬搾りたて新酒めぐり</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -410,9 +402,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の上諏訪温泉・諏訪湖が旅人を惹きつける3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の上諏訪温泉・諏訪湖が旅人を惹きつける3つの理由</h2>
             </div>
           </div>
           
@@ -453,9 +443,7 @@ export default function SuwaOnsenWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              上諏訪温泉 11月・12月におすすめの名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">上諏訪温泉 11月・12月におすすめの名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベルの最新公式APIデータをもとに、諏訪湖畔の眺望露天・2大自家源泉・信州牛美食を誇る名門宿を厳選。
             </p>
@@ -491,11 +479,9 @@ export default function SuwaOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-sky-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-sky-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-sky-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -555,9 +541,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Shinshu Suwa Winter Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                4. 諏訪の初冬グルメ：信州プレミアム牛・ワカサギ天ぷら・信州蕎麦の極み
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">4. 諏訪の初冬グルメ：信州プレミアム牛・ワカサギ天ぷら・信州蕎麦の極み</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -576,41 +560,29 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 1泊2日 上諏訪温泉〜諏訪大社・諏訪五蔵めぐり 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 1泊2日 上諏訪温泉〜諏訪大社・諏訪五蔵めぐり 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-sky-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-sky-800 uppercase tracking-wider">【1日目】上諏訪駅到着〜諏訪五蔵利き酒めぐり＆諏訪湖サンセット露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                12:00 JR上諏訪駅到着 → 駅近くの老舗で「手打ち信州蕎麦」ランチ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">12:00 JR上諏訪駅到着 → 駅近くの老舗で「手打ち信州蕎麦」ランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 新そばの香りが広がるもり蕎麦と、熱々のワカサギ天ぷらを堪能。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                13:30 甲州街道沿いの「諏訪五蔵（真澄・舞姫・麗人・本金・横笛）」めぐり
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">13:30 甲州街道沿いの「諏訪五蔵（真澄・舞姫・麗人・本金・横笛）」めぐり</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 徒歩で5つの酒蔵を散策。お猪口を片手に搾りたての冬新酒や秋あがりを贅沢に飲み比べ。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                15:30 国重文「片倉館」で立ち寄り入浴 → 宿へチェックイン
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">15:30 国重文「片倉館」で立ち寄り入浴 → 宿へチェックイン</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 深さ1.1mの玉砂利千人風呂を体感。その後湖畔の宿へチェックイン。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                17:00 展望露天風呂から茜色に染まる諏訪湖のサンセット鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">17:00 展望露天風呂から茜色に染まる諏訪湖のサンセット鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 富士山や八ヶ岳の稜線が夕焼けに浮かび上がる絶景のトワイライトタイム。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:00 信州プレミアム牛のすき焼き会席と地酒ペアリング
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:00 信州プレミアム牛のすき焼き会席と地酒ペアリング</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろける信州牛の旨みを諏訪の銘酒とともに心ゆくまで味わう贅沢ディナー。
               </p>
@@ -618,27 +590,19 @@ export default function SuwaOnsenWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】冬のドーム船ワカサギ釣り〜諏訪大社上社本宮参拝</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝の湖畔露天風呂 → 郷土の味覚朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝の湖畔露天風呂 → 郷土の味覚朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝霧が立ち込める諏訪湖の静寂を眺めながらの爽快な朝風呂。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:00 諏訪湖ドーム船で快適ワカサギ釣り体験
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:00 諏訪湖ドーム船で快適ワカサギ釣り体験</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 暖房完備の船内で手ぶらで楽しむワカサギ釣り。初心者でも気軽に挑戦できます。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                11:30 信濃國一之宮「諏訪大社 上社本宮」参拝
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">11:30 信濃國一之宮「諏訪大社 上社本宮」参拝</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 荘厳な御柱が聳え立つ本宮で旅の無事と幸福を祈願。杉木立の神聖な空気に癒やされます。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 上諏訪駅より特急あずさ号で帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 上諏訪駅より特急あずさ号で帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 駅ホームの足湯で最後の温もりをチャージし、新宿まで約2時間15分の快適アクセス。
               </p>
@@ -654,9 +618,7 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Winter Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・冬道ドライブ対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・冬道ドライブ対策</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -675,18 +637,14 @@ export default function SuwaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の上諏訪温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の上諏訪温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -699,9 +657,7 @@ export default function SuwaOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-sky-300 uppercase tracking-widest">Related Shinshu & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい信州・甲信越の冬名湯＆富士山絶景特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい信州・甲信越の冬名湯＆富士山絶景特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色、温泉街のイルミネーション、旬の郷土グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

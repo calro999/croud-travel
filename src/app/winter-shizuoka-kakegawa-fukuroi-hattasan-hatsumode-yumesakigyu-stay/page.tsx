@@ -303,10 +303,8 @@ export default function ShizuokaKakegawaWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-emerald-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の掛川・袋井旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-emerald-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の掛川・袋井旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-emerald-50/60 p-4 rounded-xl border border-emerald-100">
               <span className="font-bold text-emerald-950 block mb-1">① 法多山尊永寺 厄除け初詣</span>
@@ -344,9 +342,7 @@ export default function ShizuokaKakegawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">ENSHU SPIRIT & HERITAGE</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                千古の古刹に新春の鐘が響き、東海の名城が冬空に白銀の天守を誇る
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">千古の古刹に新春の鐘が響き、東海の名城が冬空に白銀の天守を誇る</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function ShizuokaKakegawaWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-emerald-50/70 border border-emerald-100">
-              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sunrise className="w-4 h-4 text-emerald-700" /> 法多山 厄除け新春初詣
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5"><Sunrise className="w-4 h-4 text-emerald-700" /> 法多山 厄除け新春初詣</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 厄除け観音として全国に知られる名刹。荘厳な本堂への参拝と、蒸したて名物厄除団子の味わいは格別。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-emerald-50/70 border border-emerald-100">
-              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
-                <Flower2 className="w-4 h-4 text-emerald-700" /> 可睡齋 室内ぼたん＆雛祭り
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5"><Flower2 className="w-4 h-4 text-emerald-700" /> 可睡齋 室内ぼたん＆雛祭り</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 徳川家康ゆかりの曹洞宗名刹。藁ぼっちに守られた冬咲きぼたんと、大広間を埋め尽くす圧巻の雛人形。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-emerald-50/70 border border-emerald-100">
-              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-emerald-700" /> 掛川城 本格木造復元天守
-              </h3>
+              <h3 className="font-bold text-emerald-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-emerald-700" /> 掛川城 本格木造復元天守</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 日本初の本格木造復元天守。青森ヒバの香りが漂う城内と、最上階から見渡す富士山と遠州平野の冬絶景。
               </p>
@@ -398,9 +388,7 @@ export default function ShizuokaKakegawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                日本一の栄冠「遠州夢咲牛」と、濃厚な甘みを醸す「掛川深蒸し茶」
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">日本一の栄冠「遠州夢咲牛」と、濃厚な甘みを醸す「掛川深蒸し茶」</h2>
             </div>
           </div>
 
@@ -425,9 +413,7 @@ export default function ShizuokaKakegawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">HISTORIC EXPLORATION</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                城下町の風情残る掛川城と、目の霊山・油山寺の静寂
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">城下町の風情残る掛川城と、目の霊山・油山寺の静寂</h2>
             </div>
           </div>
 
@@ -446,10 +432,8 @@ export default function ShizuokaKakegawaWinterPage() {
 
         {/* Section 4: Travel Practical Tips */}
         <section className="bg-slate-100/80 rounded-2xl p-6 md:p-8 border border-slate-200 space-y-4">
-          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-            <span>冬の掛川・袋井 旅の実践アドバイス（気候・服装・新幹線アクセス）</span>
-          </h2>
+          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+            <span>冬の掛川・袋井 旅の実践アドバイス（気候・服装・新幹線アクセス）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
             <div>
               <strong className="block text-slate-900 font-bold mb-1">【気候と防寒】</strong>
@@ -468,9 +452,7 @@ export default function ShizuokaKakegawaWinterPage() {
             <span className="text-xs font-black text-emerald-800 uppercase tracking-widest bg-emerald-100 px-3 py-1 rounded-full inline-block">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              法多山初詣＆掛川城を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">法多山初詣＆掛川城を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。掛川城を望む展望天然温泉ホテルから、新幹線駅直結シティホテル、袋井駅前の大浴場付きホテルまで厳選しました。
             </p>
@@ -510,11 +492,9 @@ export default function ShizuokaKakegawaWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-emerald-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-emerald-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -580,19 +560,15 @@ export default function ShizuokaKakegawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest block">MODEL ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                掛川城＆法多山初詣・可睡齋 1泊2日冬の黄金モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">掛川城＆法多山初詣・可睡齋 1泊2日冬の黄金モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                掛川城木造天守を見学し、展望温泉と遠州夢咲牛を堪能
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                掛川城木造天守を見学し、展望温泉と遠州夢咲牛を堪能</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 東海道新幹線・掛川駅に到着</strong><br />
                 駅周辺の名物店で、自然薯とろろ汁と遠州夢咲牛のステーキ重ランチを堪能。
@@ -609,10 +585,8 @@ export default function ShizuokaKakegawaWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-amber-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                法多山尊永寺で厄除け初詣、可睡齋の雛祭りと室内ぼたんへ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-amber-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                法多山尊永寺で厄除け初詣、可睡齋の雛祭りと室内ぼたんへ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>08:30 ホテルを出発、法多山尊永寺へ</strong><br />
                 朝の清々しい杉並木を歩き本堂へ参拝。一年の無病息災・厄除けを祈願した後、茶屋で蒸したての名物「厄除団子」をいただく。
@@ -637,19 +611,15 @@ export default function ShizuokaKakegawaWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                掛川・袋井 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">掛川・袋井 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-emerald-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>

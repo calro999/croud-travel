@@ -215,19 +215,15 @@ export default function Page() {
           {/* イントロセクション */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-                <Compass className="w-6 h-6 text-cyan-700" />
-                <span>冬の南城・知念岬・南部海岸探訪：静寂と温もりに包まれる旅の魅力</span>
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Compass className="w-6 h-6 text-cyan-700" />
+                <span>冬の南城・知念岬・南部海岸探訪：静寂と温もりに包まれる旅の魅力</span></h2>
             </div>
             <p className="text-stone-700 leading-relaxed text-sm sm:text-base whitespace-pre-line">
               冬の沖縄本島南部・南城市は、夏の強い日差しや台風の喧騒が過ぎ去り、一年の中で最も清らかで穏やかな空気に包まれる季節を迎えます。最高気温は18度から21度前後と、本州の秋晴れのような過ごしやすい気候が続き、静寂の中で自らの内面と向き合う旅に最適な環境が整います。この南城の杜に厳かに佇む「斎場御嶽（せーふぁうたき）」は、琉球開闢の祖神・アマミキヨが創成したと伝わる琉球王国最高の聖域。巨岩が互いを支え合う「三庫理（さんぐーい）」の崇高な空間を抜けると、コバルトブルーの海原の先に神々の住まう東方の聖地「久高島」が神々しく浮かび上がります。新春には新たな一年の平穏と感謝を捧げる祈りの場として、深い静寂が満ち渡ります。そこから車でわずか数分の「知念岬公園」は、太平洋を250度見渡す大パノラマが広がり、元旦には水平線から昇る感動の初日の出を拝む絶好の名所。さらに冬の南城・南部エリアは、地下深くから湧出する塩分とミネラルを豊富に含んだ希少な天然温泉「琉球温泉」や、甘み豊かなあぐー豚の出汁しゃぶしゃぶ、冬に身が締まる近海の夜光貝やイラブチャーなど、滋味豊かな島の手料理が旅人を温かく迎えてくれます。冬だからこそ味わえる澄み切った海風と神聖なる杜の息吹に包まれる、贅沢な南沖縄滞在をお届けします。
             </p>
 
             <div className="space-y-4 pt-4 border-t border-stone-100">
-              <h3 className="text-lg font-bold text-stone-900">
-                この冬、南城・知念岬・南部海岸を訪れるべき3つの理由
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">この冬、南城・知念岬・南部海岸を訪れるべき3つの理由</h3>
               <div className="grid grid-cols-1 gap-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-3">
@@ -235,9 +231,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  琉球王国最高の聖地で新春開運祈願！世界遺産「斎場御嶽」と神の島・久高島遥拝
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">琉球王国最高の聖地で新春開運祈願！世界遺産「斎場御嶽」と神の島・久高島遥拝</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 木々の木漏れ日と静寂が支配する斎場御嶽の神域。巨大な二つの巨岩が三角形を描く三庫理の空間は圧倒的な神聖さを誇り、その奥から望む久高島のシルエットは新春の新たな門出にふさわしい清廉な活力を与えてくれます。
@@ -249,9 +243,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  太平洋を望む大パノラマ！「知念岬」の絶景初日の出と冬の爽快な美ら海ドライブ
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">太平洋を望む大パノラマ！「知念岬」の絶景初日の出と冬の爽快な美ら海ドライブ</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 知念半島の突端に位置する知念岬公園。冬の澄み切った大気の中、水平線から昇る朝日の美しさは沖縄屈指を誇ります。ニライカナイ橋から見下ろす紺碧のグラデーションの海を巡る冬のドライブは、混雑もなく快適そのものです。
@@ -263,9 +255,7 @@ export default function Page() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  太古の海水が育む琥珀色の「琉球天然温泉」と冬の極上「あぐー豚しゃぶしゃぶ」
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">太古の海水が育む琥珀色の「琉球天然温泉」と冬の極上「あぐー豚しゃぶしゃぶ」</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 沖縄では珍しい地下深層から湧出する高張性天然温泉。身体の芯までぽかぽかと温まる美肌の湯に浸かり、夜は脂の融点が低くとろける旨味のあぐー豚や地元島野菜の鍋料理を堪能する至福の時間を過ごせます。
@@ -276,10 +266,8 @@ export default function Page() {
 
             {/* アクセス・気候・おすすめ服装 */}
             <div className="bg-cyan-50/60 border border-cyan-100 rounded-xl p-5 space-y-3 text-xs sm:text-sm text-stone-700">
-              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base">
-                <ShieldCheck className="w-4 h-4 text-cyan-700" />
-                <span>アクセス・気候・おすすめの服装ガイド</span>
-              </h4>
+              <h4 className="font-bold text-cyan-950 flex items-center gap-1.5 text-sm sm:text-base"><ShieldCheck className="w-4 h-4 text-cyan-700" />
+                <span>アクセス・気候・おすすめの服装ガイド</span></h4>
               <pre className="font-sans whitespace-pre-line leading-relaxed text-stone-600 text-xs sm:text-sm">
                 【エリアへのアクセス】
 ・飛行機・那覇空港から：那覇空港より車・レンタカーで那覇空港自動車道（南風原南IC経由）を利用し、斎場御嶽・知念岬まで約45〜50分。
@@ -299,9 +287,7 @@ export default function Page() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                南城・知念岬・南部海岸 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">南城・知念岬・南部海岸 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -316,9 +302,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第1位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      百名伽藍
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">百名伽藍</h3>
                     <p className="text-xs text-cyan-800 font-medium">南城の崖上に佇む全室オーシャンビューの最高峰琉球リゾート・露天風呂と極上懐石</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -382,9 +366,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第2位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ウェルネスリゾート沖縄　ユインチホテル南城
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ウェルネスリゾート沖縄　ユインチホテル南城</h3>
                     <p className="text-xs text-cyan-800 font-medium">南城市の高台から太平洋と久高島を一望！太古の天然温泉と充実のウェルネスステイ</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -448,9 +430,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第3位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      琉球温泉　瀬長島ホテル
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">琉球温泉　瀬長島ホテル</h3>
                     <p className="text-xs text-cyan-800 font-medium">那覇空港至近の瀬長島に位置する絶景アイランドリゾート・立ち湯露天と夕日パノラマ</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -514,9 +494,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第4位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      サザンビーチホテル&amp;リゾート沖縄
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">サザンビーチホテル&amp;リゾート沖縄</h3>
                     <p className="text-xs text-cyan-800 font-medium">美々ビーチいとまん目前の大型ビーチリゾート・多彩なプールと贅沢オーシャンビュー</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -580,9 +558,7 @@ export default function Page() {
                     <span className="inline-block bg-cyan-100 text-cyan-900 text-xs px-2.5 py-1 rounded-full font-semibold">
                       第5位 厳選名宿
                     </span>
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                      ホテルグランビューガーデン沖縄
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900">ホテルグランビューガーデン沖縄</h3>
                     <p className="text-xs text-cyan-800 font-medium">豊崎美らSUNビーチ至近の快適シティリゾート・展望大浴場と極上アウトレットアクセス</p>
                   </div>
                   <div className="flex items-center gap-1.5 bg-amber-50 border border-amber-200 px-3 py-1.5 rounded-lg text-amber-900">
@@ -645,9 +621,7 @@ export default function Page() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -670,37 +644,29 @@ export default function Page() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の南城・知念岬・南部海岸旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の南城・知念岬・南部海岸旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>冬の沖縄旅行の最大の魅力は何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>冬の沖縄旅行の最大の魅力は何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>冬の沖縄は台風の心配がほぼゼロで、湿度が低く非常に過ごしやすいのが大きな魅力です。真夏の強い日差しに邪魔されることなく世界遺産や自然散策をじっくり満喫でき、航空券やリゾートホテルの価格も落ち着くため、上質な滞在をリーズナブルに楽しめます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>斎場御嶽を参拝する際のマナーや注意点はありますか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>斎場御嶽を参拝する際のマナーや注意点はありますか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>斎場御嶽は現在も地元の方々にとって極めて神聖な祈りの場（拝所）です。大声での会話や岩肌への落書き、立ち入り禁止区域への侵入は固く禁じられています。露出の多い服装を避け、敬虔な気持ちで静かに歩きましょう。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>知念岬で初日の出を見る場合のポイントは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>知念岬で初日の出を見る場合のポイントは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>元旦の日の出時刻は例年7:15頃です。周辺の駐車場は6:00過ぎから混み合いますので、日の出の45分前には到着しておくことをおすすめします。海風が冷たいため防寒具をしっかり着用してください。
               </p>

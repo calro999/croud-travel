@@ -406,9 +406,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <Landmark className="w-4 h-4 text-emerald-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の川湯仙人風呂・湯の峰つぼ湯を満喫する極上温泉宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の川湯仙人風呂・湯の峰つぼ湯を満喫する極上温泉宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -444,9 +442,7 @@ export default function WakayamaKawayuYunomineWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -496,17 +492,13 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <Compass className="w-4 h-4 text-emerald-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の熊野本宮・仙人風呂＆世界遺産つぼ湯を巡る周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の熊野本宮・仙人風呂＆世界遺産つぼ湯を巡る周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【1日目】熊野本宮大社参拝と大塔川仙人風呂体験
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【1日目】熊野本宮大社参拝と大塔川仙人風呂体験</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -532,10 +524,8 @@ export default function WakayamaKawayuYunomineWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-emerald-700" />
-                【2日目】世界遺産つぼ湯と源泉温泉粥モーニング
-              </h3>
+              <h3 className="font-bold text-emerald-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-emerald-700" />
+                【2日目】世界遺産つぼ湯と源泉温泉粥モーニング</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-1" />
@@ -569,27 +559,21 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <ShoppingBag className="w-4 h-4 text-emerald-800" />
               初冬の熊野本宮・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温泉街で手に入れたい初冬の紀州銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温泉街で手に入れたい初冬の紀州銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-700" />
-                湯筒で作る温泉たまごと温泉コーヒー
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-700" />
+                湯筒で作る温泉たまごと温泉コーヒー</h3>
               <p>
                 湯の峰温泉の中心を流れる川沿いには、約90度の熱湯が湧き出る「湯筒（ゆづつ）」があります。近くの売店でネット入りの生卵や野菜を購入し、湯筒に10〜12分ほど浸けておくだけで、ほんのり硫黄の風味が薫る極上の半熟温泉たまごが完成します。また、温泉街の茶屋では飲泉可能なアルカリ源泉でドリップした「温泉コーヒー」が提供されており、まろやかで雑味のない深い味わいが冬の散策で冷えた喉を温めてくれます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-emerald-700" />
-                伝統の郷土食「めはり寿司」と本場紀州南高梅
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-emerald-700" />
+                伝統の郷土食「めはり寿司」と本場紀州南高梅</h3>
               <p>
                 熊野古道の旅人に親しまれてきた名物「めはり寿司」は、炊きたてのご飯に刻んだ高菜を混ぜ、大きな塩漬け高菜の葉で包み込んだ素朴ながら奥深い郷土の味覚。「目をみはるほど美味しい」「目を見張るほど大きい」ことからその名がついたとされ、初冬の澄んだ空気の中で頬張る味は格別です。また本宮大社前の参道では、果肉が柔らかく芳醇な香りを誇る本場紀州の完熟南高梅や、熊野の地酒「黒牛」「太平洋」が揃い、お土産選びに最適です。
               </p>
@@ -604,24 +588,18 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <ThermometerSun className="w-4 h-4 text-emerald-800" />
               初冬の熊野本宮温泉郷・泉質と気候の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月の熊野温泉は「蘇生の湯」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月の熊野温泉は「蘇生の湯」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-emerald-700" />
-              川底から直接湧き出す熱湯と大塔川の清流が生む奇跡のバランス
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-emerald-700" />
+              川底から直接湧き出す熱湯と大塔川の清流が生む奇跡のバランス</h3>
             <p>
               川湯温泉の最大の特徴は、河原を掘ればどこからでも73℃のナトリウム-炭酸水素塩・塩化物泉が湧き出すという類稀な地質構造にあります。夏場は川遊びとともに手掘りのマイ露天風呂を楽しむ人々で賑わいますが、水量が安定し川の水温が下がる初冬（12月1日）になると、重機を使って大塔川をせき止め、幅数十メートルに及ぶ日本最大級の天然混浴大露天風呂「仙人風呂」が完成します。周囲は遮るもののない川の谷間。昼は初冬の青空と原生林のコントラストを、夜は湯煙越しに瞬く冬の星空を眺めながら、大自然と完全に一体となる湯浴みが体験できます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-emerald-700" />
-              世界遺産つぼ湯の薬効とアルカリ温泉粥のデトックス効果
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-emerald-700" />
+              世界遺産つぼ湯の薬効とアルカリ温泉粥のデトックス効果</h3>
             <p>
               湯の峰温泉の主泉質は、含硫黄-ナトリウム-炭酸水素塩・塩化物泉（含弱放射能-硫黄-ナトリウム-炭酸水素塩泉）。硫黄成分が血管を拡張して血行を促進し、炭酸水素塩成分が肌の角質を柔らかく溶かすため、「美肌の湯」「若返りの湯」として平安時代から歴代の上皇や貴族が熊野詣の際に湯垢離（ゆごり＝身を清める儀式）を行ってきました。また、この源泉は重曹成分を多く含む弱アルカリ性のため、飲泉すると胃酸を中和し胃腸の調子を整える働きがあります。源泉で炊いた温泉粥は、米のデンプンがアルカリによって滑らかに糊化し、甘みと栄養が最大限に引き出される理想的な冬の養生食です。
             </p>
@@ -635,18 +613,14 @@ export default function WakayamaKawayuYunomineWinterPage() {
               <HelpCircle className="w-4 h-4 text-emerald-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の熊野本宮・川湯・湯の峰温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の熊野本宮・川湯・湯の峰温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

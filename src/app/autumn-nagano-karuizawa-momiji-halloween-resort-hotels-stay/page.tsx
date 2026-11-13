@@ -131,9 +131,7 @@ export default function FeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             10月高原リゾート・紅葉＆ハロウィン特集
           </div>
-          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【10月紅葉＆ハロウィン！秋の軽井沢】<br className="hidden sm:inline" />雲場池もみじと星野・旧軽井沢リゾートホテル5選
-          </h1>
+          <h1 className="text-3xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【10月紅葉＆ハロウィン！秋の軽井沢】<br className="hidden sm:inline" />雲場池もみじと星野・旧軽井沢リゾートホテル5選</h1>
           <p className="max-w-2xl mx-auto text-sm md:text-base text-stone-200 leading-relaxed">
             澄んだ空気に赤や黄色のモミジが映える秋の軽井沢。水鏡が息をのむ美しさの「雲場池」や星野エリアの紅葉散策、ハロウィンの華やぎに包まれる高原リゾート宿を厳選してご案内します。
           </p>
@@ -198,9 +196,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              水面に映る深紅のモミジと高原の静寂。心解き放つ秋の軽井沢プレミアムステイ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">水面に映る深紅のモミジと高原の静寂。心解き放つ秋の軽井沢プレミアムステイ</h2>
           </div>
           <p className="text-stone-700 leading-relaxed text-base md:text-lg mb-8">
             都心から新幹線で約1時間。高原の風が冷涼さを増す10月、軽井沢の森は鮮やかな黄金色と真紅のグラデーションに染まります。「御膳水」を水源とする雲場池の湖畔散策や、ウッドデッキが心地よいハルニレテラス、歴史ある旧軽井沢の洋館群など、秋ならではの風情があふれています。夕暮れには焚き火や薪火料理に癒やされ、温泉露天風呂で冷えた身体をじっくり温める至福のひとときをお過ごしください。
@@ -273,9 +269,7 @@ export default function FeaturePage() {
                       <span className="text-xs text-stone-400">({hotel.reviews}件のクチコミ)</span>
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-bold text-stone-900 group-hover:text-amber-700 transition-colors mb-3">{hotel.name}</h3>
 
                     <div className="flex items-start gap-1.5 text-xs md:text-sm text-stone-500 mb-4">
                       <MapPin className="w-4 h-4 text-stone-400 shrink-0 mt-0.5" />
@@ -316,9 +310,7 @@ export default function FeaturePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】雲場池の紅葉とリゾートステイを満喫するモデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】雲場池の紅葉とリゾートステイを満喫するモデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-600 pl-4 md:pl-6 space-y-4">
@@ -351,9 +343,7 @@ export default function FeaturePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-600 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と軽井沢旅行のポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と軽井沢旅行のポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

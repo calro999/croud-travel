@@ -82,15 +82,12 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          飛騨川のせせらぎ、湯煙立ちのぼる白鷺の湯。絹のように滑らかな美肌の湯に包まれる下呂温泉の休日へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">飛騨川のせせらぎ、湯煙立ちのぼる白鷺の湯。絹のように滑らかな美肌の湯に包まれる下呂温泉の休日へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           室町時代の詩僧・万里集九や、江戸時代の儒学者・林羅山によって「有馬温泉」「草津温泉」とともに日本三名泉の一つとして天下に轟く岐阜県「下呂温泉（げろおんせん）」。傷ついた白鷺が泉源を教えたという伝説が残り、千有余年の長きにわたり旅人の心と体を癒やし続けてきました。下呂温泉の最大の誇りは、「天然の美肌液」と称される極上の泉質。pH9.2前後のアルカリ性単純温泉は、無色透明でほのかな硫黄の香りが漂い、肌に触れた瞬間にトロリとまとわりつくようなまろやかな感触が特徴です。古い角質を落とし肌をつるつるに整えるクレンジング効果と高い保湿効果を誇り、一度入浴すればその違いを実感できます。宿の露天風呂から飛騨川の清流や山々の稜線を眺めながら入る温泉は、まさに極楽の心地。さらに食事は、豊かな大自然と清流が育んだ最高峰のブランド黒毛和牛「飛騨牛（ひだぎゅう）」。美しい霜降りのサーロインステーキや陶板焼き、名物朴葉味噌（ほおばみそ）焼きなど、料理人が腕を振るう華やかな本格会席料理が旅を至高の歓びで満たしてくれます。本特集では、創業九十余年の歴史を誇り館内に三つの異なる大浴場を擁する象徴的宿「下呂温泉 水明館」、飛騨川沿いの一千百坪もの壮大な日本庭園と開放感あふれる大露天風呂が自慢の「下呂温泉 望川館」、そして昭和6年築の国登録有形文化財の木造建築美と五万坪の森林に佇む最高峰「下呂温泉 湯之島館」の3大名宿を厳選。岐阜県下呂市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの下呂温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">下呂温泉 日本三名泉＆名門宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】下呂温泉　水明館</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 下呂温泉 日本三名泉＆名門宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">下呂温泉 日本三名泉＆名門宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            下呂温泉　水明館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">下呂温泉　水明館</h2>
           <p className="text-xs md:text-sm text-amber-100">岐阜県下呂市・創業九十余年の象徴！飛騨川沿い「野天風呂」「展望大浴場」「檜風呂」の三大大浴場巡り＆飛騨牛会席（水明館・口コミ6,200件超）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            下呂温泉　望川館（ぼうせんかん）
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">下呂温泉　望川館（ぼうせんかん）</h2>
           <p className="text-xs md:text-sm text-amber-100">岐阜県下呂市・飛騨川を望む一千百坪の壮大な日本庭園！四季の自然美と開放感抜群の大露天風呂＆飛騨牛料理（望川館）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            下呂温泉　湯之島館
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">下呂温泉　湯之島館</h2>
           <p className="text-xs md:text-sm text-amber-100">岐阜県下呂市・昭和六年創業・国の登録有形文化財！五万坪の大森林に佇む木造建築の最高峰＆自家源泉100％名湯（湯之島館）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

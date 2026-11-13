@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            早雲山の借景、白濁の美肌温泉、贅を尽くした客室露天風呂——箱根強羅で叶える大人の至福リトリート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">早雲山の借景、白濁の美肌温泉、贅を尽くした客室露天風呂——箱根強羅で叶える大人の至福リトリート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             明治以降、政財界人や文人墨客の避暑地・別荘地として拓かれた箱根屈指のハイグレード温泉地・強羅温泉。大涌谷から引き湯された乳白色の濃厚な酸性硫酸塩泉や、自家源泉の滑らかな美肌湯など、多彩な泉質を誇ります。急勾配を登る箱根登山鉄道やケーブルカー、四季の草花が彩る強羅公園、彫刻の森美術館やポーラ美術館などの世界的な美術館が点在し、温泉と文化芸術が美しく調和するプレミアムな滞在が叶います。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             特に強羅エリアの宿は、プライベート感を極めた「客室温泉露天風呂付き」のハイクラス旅館が多く、喧騒を離れて静寂に浸りたい大人旅や記念日旅行の舞台として絶大な人気を誇ります。夕食には相模湾の新鮮魚介や足柄牛、厳選素材を繊細に仕上げた極上懐石料理。神奈川県箱根町へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより通常1泊十数万円クラスの憧れの最高級旅館へ驚くほどお得に滞在できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（箱根強羅温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（箱根強羅温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  箱根強羅　白檀
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">箱根強羅　白檀</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   三千七百坪の落葉樹林に佇む大人の隠れ家！白檀の芳香薫る全室源泉掛け流し露天風呂付きラグジュアリー
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  箱根強羅 白檀 —— 静謐な自然と調和する和モダン美学。自家源泉の黄金湯と極上懐石
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">箱根強羅 白檀 —— 静謐な自然と調和する和モダン美学。自家源泉の黄金湯と極上懐石</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室に自家源泉掛け流しの天然温泉露天風呂を完備
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室に自家源泉掛け流しの天然温泉露天風呂を完備</h5>
                     <p className="text-stone-600 leading-relaxed">敷地内から自噴する弱アルカリ性ナトリウム塩化物泉。全室のウッドデッキに設けられた露天風呂に掛け流され、早雲山と森の緑を眺めながら誰にも邪魔されない入浴を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 館内を優しく包み込む天然香木「白檀」の上品な香り
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">館内を優しく包み込む天然香木「白檀」の上品な香り</h5>
                     <p className="text-stone-600 leading-relaxed">エントランスに足を踏み入れた瞬間から漂う高貴な白檀の芳香。現代アートが配されたロビーラウンジでは、フリードリンクや地酒とともに極上のリラックスタイムを過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 真鶴の伊勢海老や旬の幸を紡ぐ至高の懐石料理
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">真鶴の伊勢海老や旬の幸を紡ぐ至高の懐石料理</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が素材の旨味を最大限に引き出す本格日本料理。厳選された器、季節のあしらい、繊細な出汁の味わいが、五感を満たす贅沢なディナーを約束します。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  季の湯　雪月花（共立リゾート）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">季の湯　雪月花（共立リゾート）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   強羅駅徒歩一分！全客室に檜の露天風呂を完備し、二つの自家源泉と三つの無料貸切風呂を愉しむ人気宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  季の湯 雪月花（共立リゾート） —— 圧倒的な利便性と充実の温泉情緒。選べる夕食会席と湯巡り三昧
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">季の湯 雪月花（共立リゾート） —— 圧倒的な利便性と充実の温泉情緒。選べる夕食会席と湯巡り三昧</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室に風情ある檜造りの露天風呂を設置
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室に風情ある檜造りの露天風呂を設置</h5>
                     <p className="text-stone-600 leading-relaxed">客室バルコニーに配された天然木の檜露天風呂。強羅の爽やかな高原の風を感じながら、いつでもプライベートに湯浴みを楽しめる贅沢な造りです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 強羅温泉の二つの異なる源泉を引く大浴場＆炭酸泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">強羅温泉の二つの異なる源泉を引く大浴場＆炭酸泉</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした大浴場「玉桂の湯」に加え、予約不要で自由に利用できる三つの無料貸切露天風呂を完備。館内だけで本格的な湯巡りを堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 選べる夕食「和食会席」または「国産牛しゃぶしゃぶ・寿司」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">選べる夕食「和食会席」または「国産牛しゃぶしゃぶ・寿司」</h5>
                     <p className="text-stone-600 leading-relaxed">旬の食材を活かした本格的な和食会席と、国産牛しゃぶしゃぶとお寿司の組み合わせからお好みを選択可能。夜鳴きそばなどの無料サービスも大好評です。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  強羅温泉　桐谷　箱根荘
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">強羅温泉　桐谷　箱根荘</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   大涌谷から引湯する源泉掛け流しのにごり湯！早雲山を望む絶景露天風呂と創業六十余年の純和風おもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  強羅温泉 桐谷 箱根荘 —— 本物のにごり湯を愛する温泉通の宿。乳白色の硫黄泉と心温まる郷土会席
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">強羅温泉 桐谷 箱根荘 —— 本物のにごり湯を愛する温泉通の宿。乳白色の硫黄泉と心温まる郷土会席</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大涌谷源泉100％掛け流しの濃厚な白濁美肌温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大涌谷源泉100％掛け流しの濃厚な白濁美肌温泉</h5>
                     <p className="text-stone-600 leading-relaxed">加水・加温一切なしの新鮮なにごり湯。硫黄の香る酸性硫酸塩泉が注ぐ大浴場や露天風呂、貸切風呂は、肌の角質をなめらかに整える極上の美肌作用を誇ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 早雲山の豊かな自然林に包まれる静寂のロケーション
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">早雲山の豊かな自然林に包まれる静寂のロケーション</h5>
                     <p className="text-stone-600 leading-relaxed">強羅の奥、静かな高台に位置し、鳥のさえずりと風の音だけが聞こえる穏やかな環境。昔ながらの温もりを残す和室で、ゆったりとくつろげます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 季節の素材を素朴かつ丁寧に仕立てた和食膳
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">季節の素材を素朴かつ丁寧に仕立てた和食膳</h5>
                     <p className="text-stone-600 leading-relaxed">相模湾の新鮮な海の幸や旬の山の幸を取り入れた手作り料理。温かいものは温かいうちに運ばれ、どこか懐かしく滋味深い味わいが旅人の心を癒やします。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            箱根強羅の自然アート＆絶景観光モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">箱根強羅の自然アート＆絶景観光モデルコース</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 彫刻の森美術館＆ポーラ美術館の森のアート体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 彫刻の森美術館＆ポーラ美術館の森のアート体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed">自然の景観と一体化した野外彫刻が並ぶ「彫刻の森美術館」や、モネやルノワールなどの印象派絵画と森の遊歩道が美しい「ポーラ美術館」。箱根を代表する美の殿堂を巡る知的な旅が楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 箱根強羅公園のフランス式庭園とクラフト体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 箱根強羅公園のフランス式庭園とクラフト体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed">日本初のフランス式整型庭園である「強羅公園」。四季折々の花々や温室の熱帯植物、サンドブラストや吹きガラスなどの本格的なクラフト体験工房が人気です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 大涌谷の噴煙地と名物「黒たまご」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 大涌谷の噴煙地と名物「黒たまご」</h3>
               <p className="text-stone-700 text-sm leading-relaxed">強羅から箱根登山ケーブルカーとロープウェイを乗り継いで大涌谷へ。立ち上る白煙と荒涼とした大地を見下ろす空中散歩を楽しみ、1個食べると7年長生きすると言われる名物の「黒たまご」を味わえます。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】箱根強羅 白檀を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】箱根強羅 白檀を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と箱根強羅 白檀の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と箱根強羅 白檀の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

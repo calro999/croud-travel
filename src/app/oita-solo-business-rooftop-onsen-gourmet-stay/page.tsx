@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            地上80mから見下ろす別府湾と高崎山のパノラマ、豊後水道が育む関アジのコリコリとした歯ごたえ——おんせん県の都で極上のととのいを手に入れる「大分プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">地上80mから見下ろす別府湾と高崎山のパノラマ、豊後水道が育む関アジのコリコリとした歯ごたえ——おんせん県の都で極上のととのいを手に入れる「大分プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             博多からJR特急「ソニック」で約2時間、小倉から約1時間20分。鉄鋼や化学コンビナートが広がる臨海工業地帯を抱え、東九州の経済中枢として多くのビジネスパーソンが訪れる大分県大分市。「おんせん県」の名にふさわしく、市内中心部にも良質な天然温泉が数多く湧出しています。日中の商談を終えた後の夜の楽しみは、豊後水道の荒波で身が引き締まった「関アジ・関サバ」のお造りや、サクサクジューシーな「大分とり天」、そして名酒「西の関」「八鹿」です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR大分駅直結！地上約80m・最上階21階の屋上露天風呂「CITY SPA てんくう」＆サウナシュラン仕様の絶景ステイ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  JR九州ホテル ブラッサム大分 —— 水戸岡鋭治氏デザインの最高峰。空に浮かぶ天然温泉と大分郷土料理ビュッフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">JR九州ホテル ブラッサム大分 —— 水戸岡鋭治氏デザインの最高峰。空に浮かぶ天然温泉と大分郷土料理ビュッフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   地上101m・大分市街のランドマークタワー！全室高層階からのパノラマビューとオークラニッコーの上質サービス
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテル日航大分 オアシスタワー —— 格式と品格のオアシス。広々としたモダン客室と豊後の味覚を味わう朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテル日航大分 オアシスタワー —— 格式と品格のオアシス。広々としたモダン客室と豊後の味覚を味わう朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   大分市中心街・府内町ビジネス街すぐ！全室広々とした客室設計と大型デスク完備の安心ステイ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル大分 —— 都心のビジネス拠点。セパレートバスルームと快適なワーク環境
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル大分 —— 都心のビジネス拠点。セパレートバスルームと快適なワーク環境</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              大分の夜を一人旅で満喫する「関アジ＆とり天」グルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">大分の夜を一人旅で満喫する「関アジ＆とり天」グルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 都町（みやこまち）や府内町の割烹で「関アジ・関サバの刺身」をオーダー
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 都町（みやこまち）や府内町の割烹で「関アジ・関サバの刺身」をオーダー</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 一本釣りで獲られ活け締めされた黄金の魚。コリコリとした驚異的な歯ごたえと上品な脂の甘みは産地大分ならではの感動。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 郷土料理「りゅうきゅう」と麦焼酎「二階堂」「吉四六」のロック
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 郷土料理「りゅうきゅう」と麦焼酎「二階堂」「吉四六」のロック</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 新鮮な魚の切り身を甘辛い醤油ダレ、胡麻、生姜、ネギで和えた大分の家庭の味。麦焼酎の発祥地ならではの芳醇な一杯とともに。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 揚げたて熱々の「大分とり天」をポン酢と練り辛子で食す
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 揚げたて熱々の「大分とり天」をポン酢と練り辛子で食す</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 唐揚げとは一味違う、ふんわりサクサクの衣に包まれた柔らかな鶏肉。さっぱりとした酢醤油と辛子が最高の組み合わせです。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>大分空港から大分駅やホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>大分空港から大分駅やホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 大分空港から大分市内行き空港特急バス（エアライナー）が運行しており、約60分でJR大分駅前へ直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>出張の合間に別府温泉へ立ち寄る時間は取れますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>出張の合間に別府温泉へ立ち寄る時間は取れますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 大分駅から別府駅まではJR日豊本線の普通列車で約12分（特急なら約8分）とすぐ隣駅感覚で行けるため、夕方や休日のちょっとした空き時間に立ち寄り湯を満喫できます。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「大分出張＆豊後ソログルメ泊：大分駅直結・地上80m屋上インフィニティ天然温泉・関アジ関サバ！名物とり天を満喫する極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -503,9 +473,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「大分出張＆豊後ソログルメ泊」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「大分出張＆豊後ソログルメ泊」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -248,12 +248,10 @@ export default function WinterAkitaNyutoOnsenPage() {
             11月・12月 初冬の秘湯雪見露天＆名物きりたんぽ鍋特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月秋田・乳頭温泉郷】初冬雪見秘湯と濁り湯めぐり
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月秋田・乳頭温泉郷】初冬雪見秘湯と濁り湯めぐり
             <span className="block text-cyan-300 text-lg sm:text-2xl mt-3 font-normal">
               名物きりたんぽ鍋＆比内地鶏・ブナ原生林に湧く七湯の濁り湯を巡る名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、十和田八幡平国立公園の乳頭山麓に抱かれた秋田県仙北市の「乳頭温泉郷（にゅうとうおんせんきょう）」は、日本中の温泉ファンが息を呑む白銀の秘湯シーズンへと突入します。初雪がブナの原生林を静かに覆い、立ち上る白い湯けむりと乳白色・茶褐色の濁り湯が幻想的なコントラストを描きます。厳しい寒さの中で浸かる雪見露天風呂の開放感はまさに至福。夕食には収穫したての新米あきたこまちを手作業で香ばしく焼き上げた名物「きりたんぽ鍋」や、濃厚なコクと歯ごたえが自慢の「比内地鶏」、郷土の味「山の芋鍋」、初冬に旬を迎えるハタハタ。雪の静寂に包まれる秋田の奥座敷で、心も身体も芯から温まる極上の厳選名宿5選を徹底解説します。
@@ -290,9 +288,7 @@ export default function WinterAkitaNyutoOnsenPage() {
               <Mountain className="w-6 h-6" />
             </div>
             <div>
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                なぜ11月・12月の乳頭温泉郷が旅の目的地として最高峰なのか？
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">なぜ11月・12月の乳頭温泉郷が旅の目的地として最高峰なのか？</h2>
               <p className="text-xs sm:text-sm text-stone-500">
                 初冬の雪景色、乳白色の秘湯、新米あきたこまちのきりたんぽ鍋が重なる奇跡の季節
               </p>
@@ -310,9 +306,7 @@ export default function WinterAkitaNyutoOnsenPage() {
               <Sparkles className="w-3.5 h-3.5" />
               厳選5宿の徹底比較
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              初冬の乳頭温泉郷・田沢湖高原を満喫するおすすめ名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">初冬の乳頭温泉郷・田沢湖高原を満喫するおすすめ名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 max-w-2xl mx-auto">
               楽天トラベル最新APIから取得したリアルタイムの宿泊料金・客室情報・アクセス・料理プランを基に、独自の視点で徹底解説します。
             </p>
@@ -357,9 +351,7 @@ export default function WinterAkitaNyutoOnsenPage() {
                         <span className="text-xs font-bold text-cyan-800 tracking-wide uppercase">
                           {hotel.special}
                         </span>
-                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">
-                          {hotel.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1 leading-snug">{hotel.name}</h3>
                       </div>
 
                       <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
@@ -439,9 +431,7 @@ export default function WinterAkitaNyutoOnsenPage() {
             <Footprints className="w-4 h-4" />
             冬の1泊2日 満喫モデルコース
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            乳頭温泉郷の白銀秘湯と秋田郷土料理を味わい尽くす冬旅プラン
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">乳頭温泉郷の白銀秘湯と秋田郷土料理を味わい尽くす冬旅プラン</h2>
           <div className="space-y-4 border-l-2 border-cyan-200 pl-4 sm:pl-6 ml-2 sm:ml-4">
             <div className="space-y-2">
               <div className="flex items-center gap-2 font-bold text-stone-900 text-sm sm:text-base">
@@ -470,35 +460,27 @@ export default function WinterAkitaNyutoOnsenPage() {
             <Flame className="w-4 h-4" />
             秋田冬の味覚図鑑
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            雪国の冬が育む三大滋味「本場きりたんぽ鍋」「比内地鶏」「ハタハタ」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">雪国の冬が育む三大滋味「本場きりたんぽ鍋」「比内地鶏」「ハタハタ」</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2 text-stone-200 text-xs sm:text-sm leading-relaxed">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-cyan-400" />
-                新米の香ばしさ「本場きりたんぽ鍋」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-cyan-400" />
+                新米の香ばしさ「本場きりたんぽ鍋」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月・12月は収穫したての新米あきたこまちを使う一年で最も贅沢な季節。丁寧にすり潰して杉串に巻き、炭火でこんがり焼いたたんぽをちぎり、比内地鶏の濃厚な出汁、根付きセリ、舞茸、笹がきゴボウと煮込みます。出汁を吸ったモチモチの食感は冬の秋田の誇りです。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-cyan-400" />
-                日本三大美味鶏「比内地鶏」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-cyan-400" />
+                日本三大美味鶏「比内地鶏」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 薩摩地鶏・名古屋コーチンと並ぶ日本三大美味鶏。秋田の大自然の中で放し飼いされ、余分な脂肪がつかず、しっかりとした噛みごたえと芳醇なコクが特徴。噛むほどに溢れ出るジューシーな旨味と、黄金色に輝く甘い脂は鍋や炭火焼きで真価を発揮します。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-cyan-400" />
-                冬の日本海の使者「八森ハタハタ」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-cyan-400" />
+                冬の日本海の使者「八森ハタハタ」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 11月下旬から12月、初冬の荒波の日本海から産卵のために接岸する秋田の県魚。プチプチと弾ける卵「ブリコ」をたっぷり抱えたメスのハタハタは冬の風物詩。香ばしい塩焼き、田楽味噌焼き、伝統の魚醤「しょっつる」を使った小鍋仕立ては秋田ならではの冬の味覚です。
               </p>
@@ -512,15 +494,11 @@ export default function WinterAkitaNyutoOnsenPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の乳頭温泉郷 交通アクセス＆冬道・防寒アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の乳頭温泉郷 交通アクセス＆冬道・防寒アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-cyan-700" />
-                秋田新幹線＆路線バス利用のコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-cyan-700" />
+                秋田新幹線＆路線バス利用のコツ</h3>
               <p>
                 冬期の乳頭温泉郷は雪深いため、JR田沢湖駅からの路線バス（羽後交通 乳頭線）の利用が最も安全で確実です。新幹線の到着時間に合わせて接続バスが運行されています。
               </p>
@@ -530,10 +508,8 @@ export default function WinterAkitaNyutoOnsenPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-cyan-700" />
-                雪見露天の入り方と防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-cyan-700" />
+                雪見露天の入り方と防寒対策</h3>
               <p>
                 12月は氷点下の厳しい寒さとなるため、脱衣所から湯船までの移動時に急激な温度変化が起こります。必ず十分なかけ湯を行い、足元が凍結していないか確認しながらゆっくり入りましょう。
               </p>
@@ -550,16 +526,12 @@ export default function WinterAkitaNyutoOnsenPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の秋田乳頭温泉郷旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の秋田乳頭温泉郷旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-cyan-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -571,10 +543,8 @@ export default function WinterAkitaNyutoOnsenPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-cyan-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-cyan-300" />
-              あわせて読みたい東北・北日本の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-cyan-300" />
+              あわせて読みたい東北・北日本の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-cyan-200">
               白銀の絶景と極上の郷土鍋・ブランド牛を堪能する東北各地の厳選旅ガイド
             </p>
@@ -586,9 +556,7 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">山形・銀山温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                銀山温泉の大正ロマン雪景色とガス灯の宵
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">銀山温泉の大正ロマン雪景色とガス灯の宵</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 木造多層建築が連なる銀山川の雪景色と尾花沢牛・雪見露天の贅。
               </p>
@@ -599,9 +567,7 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 宮沢賢治ゆかりのイーハトーブ花巻で味わう極上前沢牛と清流雪見風呂。
               </p>
@@ -612,9 +578,7 @@ export default function WinterAkitaNyutoOnsenPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-cyan-300 bg-cyan-400/20 px-2 py-0.5 rounded-full inline-block">宮城・鳴子温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
-                鳴子温泉郷の多彩な源泉めぐりと仙台牛すき焼き
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">鳴子温泉郷の多彩な源泉めぐりと仙台牛すき焼き</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 日本にある11泉質のうち9泉質が集う奇跡の湯治場で楽しむ冬の湯めぐり。
               </p>

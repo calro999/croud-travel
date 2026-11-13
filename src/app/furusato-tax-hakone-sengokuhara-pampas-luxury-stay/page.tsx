@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            黄金色に揺れるすすき草原、森の静寂に溶け込む乳白色のにごり湯——箱根仙石原で叶える至福の高原エスケープ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">黄金色に揺れるすすき草原、森の静寂に溶け込む乳白色のにごり湯——箱根仙石原で叶える至福の高原エスケープ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             標高約650メートルの高原に広がる箱根・仙石原。秋になると台ヶ岳の山裾を埋め尽くす「すすき草原」が黄金色に輝き、息をのむ大パノラマを描き出します。かつてカルデラ湖の底であったこの地は、豊かな自然と大涌谷からの恵みである乳白色の硫酸塩泉に恵まれ、古くから文化人や文豪に愛された閑静な別荘地として発展してきました。箱根ラリック美術館やガラスの森美術館、ポーラ美術館など、世界水準のアート施設が点在する知的な雰囲気も大きな魅力です。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             仙石原の宿は、広大な敷地にプライベートな客室露天風呂やテラスを配したハイクラス旅館や、シェフが腕を振るう美食オーベルジュが充実。夕食には相模湾や近郊のブランド牛、厳選された旬の恵みを味わう贅沢なコースが待っています。神奈川県箱根町へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより高級宿への宿泊費を大幅に節約でき、日常を完全に忘れられる上質な大人のリトリートステイが実現します。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（箱根仙石原温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（箱根仙石原温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  仙石原温泉　きたの風茶寮
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">仙石原温泉　きたの風茶寮</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全十室すべてに源泉掛け流し露天風呂を完備！北海道の厳選素材と箱根の四季が融合する最高峰美食オーベルジュ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  仙石原温泉 きたの風茶寮 —— 静寂の竹林と洗練の和モダン。美肌の白濁湯と五感を満たす創作懐石ディナー
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">仙石原温泉 きたの風茶寮 —— 静寂の竹林と洗練の和モダン。美肌の白濁湯と五感を満たす創作懐石ディナー</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室に大涌谷引湯の白濁源泉掛け流し客室露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室に大涌谷引湯の白濁源泉掛け流し客室露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">すべての客室に天然温泉の露天風呂または展望風呂を設置。プライベートなテラスで鳥のさえずりと高原の風を感じながら、濃厚なにごり湯を独り占めできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 北海道と箱根の極上味覚が織りなす「和乃懐石」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">北海道と箱根の極上味覚が織りなす「和乃懐石」</h5>
                     <p className="text-stone-600 leading-relaxed">北海道直送の新鮮魚介（ウニ・毛ガニなど）と、箱根近郊の厳選野菜やブランド牛が織りなす唯一無二のディナーコース。一皿ごとに感動が広がる美食体験です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大人のための静かなプライベートラウンジとバー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大人のための静かなプライベートラウンジとバー</h5>
                     <p className="text-stone-600 leading-relaxed">わずか10室のみの隠れ家。ライブラリーラウンジやバーでは、厳選されたワインやウイスキーを傾けながら、誰にも邪魔されない静寂の夜を堪能できます。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  仙石原温泉　仙郷楼
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">仙石原温泉　仙郷楼</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   創業明治三年・大涌谷から引湯する元祖にごり湯の老舗！一万五千坪の広大な庭園と文豪が愛した純和風の格式
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  仙石原温泉 仙郷楼 —— 仙石原の歴史とともに歩む名旅館。湧き出たままの奇跡の白濁湯と風情ある日本庭園
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">仙石原温泉 仙郷楼 —— 仙石原の歴史とともに歩む名旅館。湧き出たままの奇跡の白濁湯と風情ある日本庭園</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大涌谷から自噴する乳白色の天然硫黄泉掛け流し
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大涌谷から自噴する乳白色の天然硫黄泉掛け流し</h5>
                     <p className="text-stone-600 leading-relaxed">加水・加温なしの新鮮なにごり湯。大浴場や野趣あふれる大露天風呂に注がれ、肌にしっとりと吸い付くような柔らかな浴感と美肌効果を誇ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一万五千坪の自然林が広がる壮大な日本庭園と散策路
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一万五千坪の自然林が広がる壮大な日本庭園と散策路</h5>
                     <p className="text-stone-600 leading-relaxed">四季折々の花々や木々、小川が流れる広大な庭園。湯上がりの夕暮れや朝の澄んだ空気の中をそぞろ歩きするだけで、心が清らかに整います。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 月替わりの本格会席料理と老舗旅館の温かなおもてなし
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">月替わりの本格会席料理と老舗旅館の温かなおもてなし</h5>
                     <p className="text-stone-600 leading-relaxed">旬の食材を厳選し、出汁にこだわった正統派の日本料理。客室または個室で供され、落ち着いた空間で老舗の味をじっくりと堪能できます。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">神奈川県箱根町</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＢＬＩＳＳＴＩＡ箱根仙石原
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＢＬＩＳＳＴＩＡ箱根仙石原</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全室温泉付きスイート仕様のプレミアムリゾート！大涌谷白濁温泉大浴場と本格フレンチの美食マリアージュ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  BLISSTIA箱根仙石原 —— 現代リゾートの快適性と名湯の癒し。洗練されたモダン空間で過ごす上質な休日
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">BLISSTIA箱根仙石原 —— 現代リゾートの快適性と名湯の癒し。洗練されたモダン空間で過ごす上質な休日</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 大涌谷温泉のにごり湯を引くスタイリッシュ大浴場＆露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">大涌谷温泉のにごり湯を引くスタイリッシュ大浴場＆露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">モダンな建築デザインの大浴場と露天風呂。大涌谷の濃厚な白濁湯に浸かりながら、夜は間接照明と星空が織りなす幻想的な空間でリラックスできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室ゆったりとしたリビングを備えたスイート設計
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室ゆったりとしたリビングを備えたスイート設計</h5>
                     <p className="text-stone-600 leading-relaxed">広々とした客室には高品質なベッド、テラス、ミニキッチンなどを完備。長期滞在やワーケーション、グループ旅行にも快適なホテルライフを提供します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地元の旬素材を活かした本格フレンチディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地元の旬素材を活かした本格フレンチディナー</h5>
                     <p className="text-stone-600 leading-relaxed">開放的なレストランで楽しむ洗練されたフレンチコース。厳選ワインとのペアリングとともに、特別な旅の夜を華やかに演出します。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            箱根仙石原の絶景すすき草原＆美術館めぐりガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">箱根仙石原の絶景すすき草原＆美術館めぐりガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 仙石原すすき草原の黄金の波（見頃：9月下旬〜11月上旬）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 仙石原すすき草原の黄金の波（見頃：9月下旬〜11月上旬）</h3>
               <p className="text-stone-700 text-sm leading-relaxed">「かながわの景勝50選」に選ばれる仙石原のシンボル。一面に広がるすすきの中を一本の遊歩道が貫き、秋風にそよぐ黄金色の穂に囲まれながら歩く景色は圧巻です。春の「山焼き」の光景も名物です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 箱根ガラスの森美術館・ポーラ美術館・星の王子さまミュージアム跡地
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 箱根ガラスの森美術館・ポーラ美術館・星の王子さまミュージアム跡地</h3>
               <p className="text-stone-700 text-sm leading-relaxed">ヴェネチアン・グラスが水辺にきらめく「ガラスの森美術館」や、緑の森の中に溶け込む建築美が素晴らしい「ポーラ美術館」。仙石原は世界的なアートの集積地としても楽しめます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 金時山ハイクと富士山の大パノラマ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 金時山ハイクと富士山の大パノラマ</h3>
               <p className="text-stone-700 text-sm leading-relaxed">仙石原から登れる日本三百名山「金時山（きんときやま）」。往復約3時間のお手軽ハイクで山頂に立つと、正面に裾野を広げる大迫力の富士山と箱根芦ノ湖・大涌谷を一望できます。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">神奈川県箱根町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】仙石原温泉 きたの風茶寮を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】仙石原温泉 きたの風茶寮を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と仙石原温泉 きたの風茶寮の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と仙石原温泉 きたの風茶寮の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

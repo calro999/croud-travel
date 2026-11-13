@@ -314,9 +314,7 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Sacred Daruma Pilgrimage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                己の弱さに打ち勝つ！「勝尾寺」の勝ちダルマ信仰と厳かな新春大護摩供
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">己の弱さに打ち勝つ！「勝尾寺」の勝ちダルマ信仰と厳かな新春大護摩供</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -335,9 +333,7 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Nature & Traditional Craft</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                日本の滝百選「箕面大滝」冬の清冽な氷紋と、1300年伝承銘菓「もみじの天ぷら」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">日本の滝百選「箕面大滝」冬の清冽な氷紋と、1300年伝承銘菓「もみじの天ぷら」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -356,9 +352,7 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-teal-600 pl-4 mb-6">
               <span className="text-xs font-bold text-teal-600 tracking-wider uppercase">Hot Spring Healing</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                大阪平野一望の天空パノラマ「箕面温泉」と山里の秘湯「伏尾温泉」の極上湯浴み
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">大阪平野一望の天空パノラマ「箕面温泉」と山里の秘湯「伏尾温泉」の極上湯浴み</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -377,9 +371,7 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-8">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】箕面温泉・勝尾寺周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】箕面温泉・勝尾寺周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※リアルタイムAPIから取得した宿泊料金目安・レビュー評価・立地条件を掲載しています。
               </p>
@@ -405,9 +397,7 @@ export default function OsakaMinohWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-rose-500 shrink-0" />
@@ -430,9 +420,7 @@ export default function OsakaMinohWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -467,17 +455,13 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-stone-700 pl-4 mb-6">
               <span className="text-xs font-bold text-stone-600 tracking-wider uppercase">Model Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日】勝運祈願と冬の滝道・美肌温泉を満喫する箕面モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日】勝運祈願と冬の滝道・美肌温泉を満喫する箕面モデルコース</h2>
             </div>
             <div className="bg-white border border-stone-200 rounded-xl p-6 space-y-6">
               <div>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-stone-800 text-white text-xs font-bold rounded">DAY 1</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    都心から箕面へ！北大阪急行延伸で直通・勝尾寺で勝ちダルマ初詣と大阪夜景温泉
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">都心から箕面へ！北大阪急行延伸で直通・勝尾寺で勝ちダルマ初詣と大阪夜景温泉</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -504,9 +488,7 @@ export default function OsakaMinohWinterFeaturePage() {
               <div className="pt-4 border-t border-stone-100">
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-rose-600 text-white text-xs font-bold rounded">DAY 2</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    朝の清冽な箕面大滝へ！滝道ウォーキングと熱々もみじ天ぷら実演
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">朝の清冽な箕面大滝へ！滝道ウォーキングと熱々もみじ天ぷら実演</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -533,17 +515,13 @@ export default function OsakaMinohWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                冬の箕面・勝尾寺旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">冬の箕面・勝尾寺旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
               {faqList.map((f, i) => (
                 <div key={i} className="bg-white border border-stone-200 rounded-xl p-5">
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2">
-                    <span className="text-rose-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2"><span className="text-rose-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-rose-100">
                     {f.a}
                   </p>
@@ -554,10 +532,8 @@ export default function OsakaMinohWinterFeaturePage() {
 
           {/* Section 7: 内部リンク & 関連記事クロスナビゲーション */}
           <section className="border-t border-stone-200 pt-10">
-            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2">
-              <Compass className="w-4 h-4 text-rose-600" />
-              RELATED WINTER FEATURES（冬の注目特集一覧）
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2"><Compass className="w-4 h-4 text-rose-600" />
+              RELATED WINTER FEATURES（冬の注目特集一覧）</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
                 href="/winter-hyogo-takarazuka-kiyoshikojin-hatsumode-takedao-onsen-sandagyu-stay/"

@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            地上数百メートルの摩天楼スカイビューと熱気あふれる名古屋城下の歴史——洗練のラグジュアリーホテルと名古屋メシを堪能する極上シティエスケープ
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">地上数百メートルの摩天楼スカイビューと熱気あふれる名古屋城下の歴史——洗練のラグジュアリーホテルと名古屋メシを堪能する極上シティエスケープ</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             中部地方の経済・文化の中枢であり、徳川御三家筆頭の城下町として栄えた愛知県名古屋市。東京・新大阪から東海道新幹線で最速約35〜50分という抜群のアクセスを誇り、金のシャチホコが輝く「名古屋城」や、三種の神器の一つを祀る「熱田神宮」、緑豊かな「ジブリパーク」など多彩な見どころが集結しています。街中にはひつまぶし、手羽先、味噌カツ、名古屋コーチン、きしめんなど独自の進化を遂げた「名古屋メシ」の食文化が息づいています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛知県名古屋市（名駅・栄）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  名古屋マリオットアソシアホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">名古屋マリオットアソシアホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   JR名古屋駅真上・地上200m超のパノラマビュー！圧倒的な利便性と最高峰のクラブラウンジ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  名古屋マリオットアソシアホテル —— 名古屋のランドマーク。新幹線改札から直結の摩天楼ステイと極上のおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">名古屋マリオットアソシアホテル —— 名古屋のランドマーク。新幹線改札から直結の摩天楼ステイと極上のおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> JR名古屋駅の直上・JRセントラルタワーズの圧倒的な利便性
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">JR名古屋駅の直上・JRセントラルタワーズの圧倒的な利便性</h5>
                     <p className="text-stone-600 leading-relaxed">改札からエレベーターで直結。雨に濡れずにチェックインでき、観光やショッピングに最高の拠点です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地上200m超の客室から望む名古屋市街と鈴鹿山脈の眺望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地上200m超の客室から望む名古屋市街と鈴鹿山脈の眺望</h5>
                     <p className="text-stone-600 leading-relaxed">煌めく都市夜景を眼下に一望。上質なインテリアと大理石バスルームが非日常のひとときを演出します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地上52階のスカイラウンジ「ジーニス」と多彩な名門レストラン
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地上52階のスカイラウンジ「ジーニス」と多彩な名門レストラン</h5>
                     <p className="text-stone-600 leading-relaxed">鉄板焼き、本格広東料理、フレンチなど一流の味が勢揃い。夜景を眺めながらのディナーは記念日に最適です。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛知県名古屋市（名駅・栄）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＴＩＡＤ，Ａｕｔｏｇｒａｐｈ　Ｃｏｌｌｅｃｔｉｏｎ（マリオットグループ）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＴＩＡＤ，Ａｕｔｏｇｒａｐｈ　Ｃｏｌｌｅｃｔｉｏｎ（マリオットグループ）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   久屋大通公園の緑を望むマリオット独立系最高峰ブランド！全室50㎡超・テラス付き最新ホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  TIAD, Autograph Collection —— 自然と都市が美しく調和。インドアウェルネスプールと洗練のモダンデザイン
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">TIAD, Autograph Collection —— 自然と都市が美しく調和。インドアウェルネスプールと洗練のモダンデザイン</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室50㎡以上の広さを誇り、バルコニーを備えた開放的な客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室50㎡以上の広さを誇り、バルコニーを備えた開放的な客室</h5>
                     <p className="text-stone-600 leading-relaxed">公園の緑や街並みを望むプライベートテラス。スタイリッシュな家具と最新設備が心地よい寛ぎを約束します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自然光が差し込むインドアインフィニティプールとウェルネス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自然光が差し込むインドアインフィニティプールとウェルネス</h5>
                     <p className="text-stone-600 leading-relaxed">都会にいながらリゾート気分を味わえる温水プールとジム。極上のウェルネス体験で心身をリフレッシュできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> フレンチと和の技法が融合したオールデイダイニング「Table For Tomorrow」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">フレンチと和の技法が融合したオールデイダイニング「Table For Tomorrow」</h5>
                     <p className="text-stone-600 leading-relaxed">愛知・東海の厳選食材を活かしたモダンな料理。オープンキッチンから届く出来立ての味を楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">愛知県名古屋市（名駅・栄）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  名古屋観光ホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">名古屋観光ホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   昭和十一年創業・中部の迎賓館として賓客を迎えてきた伝統と格式！伝統のおもてなしと至福のフレンチ
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  名古屋観光ホテル —— 歴史に裏打ちされた品格。クラシカルな美しさと熟練のホテルマンによる心温まるサービス
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">名古屋観光ホテル —— 歴史に裏打ちされた品格。クラシカルな美しさと熟練のホテルマンによる心温まるサービス</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 歴史ある伝統建築とリニューアルされた上質な客室空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">歴史ある伝統建築とリニューアルされた上質な客室空間</h5>
                     <p className="text-stone-600 leading-relaxed">皇族や国内外の要人に愛されてきたクラシックホテル。気品漂うロビーと落ち着いたインテリアが旅人を包み込みます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 地下鉄「伏見駅」から徒歩2分・栄や名駅へアクセス抜群
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">地下鉄「伏見駅」から徒歩2分・栄や名駅へアクセス抜群</h5>
                     <p className="text-stone-600 leading-relaxed">名古屋のビジネスとショッピングの中心地に位置。御園座や名古屋市美術館への散策にも便利です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伝統の技を受け継ぐ老舗フレンチ「エスコフィエ」とライブキッチンブッフェ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伝統の技を受け継ぐ老舗フレンチ「エスコフィエ」とライブキッチンブッフェ</h5>
                     <p className="text-stone-600 leading-relaxed">一流の料理人が仕立てるクラシックフレンチや、厳選食材が並ぶ朝食バイキング。本物の美味を堪能できます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 名古屋城・本丸御殿＆熱田神宮・大須商店街観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 名古屋城・本丸御殿＆熱田神宮・大須商店街観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                特別史跡「名古屋城」と復元された豪華絢爛「本丸御殿」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                特別史跡「名古屋城」と復元された豪華絢爛「本丸御殿」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 徳川家康が築城した名城。狩野派の障壁画や金箔が輝く本丸御殿の美しさは圧巻。「金シャチ横丁」での名古屋メシ食べ歩きも人気です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                三種の神器「草薙神剣」を祀る古社「熱田神宮」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                三種の神器「草薙神剣」を祀る古社「熱田神宮」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 鬱蒼とした神苑に抱かれる東海屈指のパワースポット。名物「宮きしめん」や、近隣の「あつた蓬莱軒」でのひつまぶしが定番です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                活気あふれるアーケード街「大須商店街」＆大須観音
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                活気あふれるアーケード街「大須商店街」＆大須観音</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 古着、電化製品、多国籍グルメ、老舗和菓子店がひしめく日本一元気な商店街。食べ歩きやカルチャー散策に最適です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              愛知県名古屋市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">愛知県名古屋市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】名古屋マリオットアソシアホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】名古屋マリオットアソシアホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と名古屋マリオットアソシアホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と名古屋マリオットアソシアホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

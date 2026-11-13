@@ -108,9 +108,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  宿泊者だけの特権！夜間貸切の美術館散策や客室に飾られた本物のアート作品
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">宿泊者だけの特権！夜間貸切の美術館散策や客室に飾られた本物のアート作品</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 一般の鑑賞者が帰った後の静謐な夜の美術館を独占して鑑賞できる特別な宿泊者プログラム。客室の壁やテラス、回廊にも一流アーティストの作品が展示され、生活とアートが溶け合う至福のひとときを体験できます。
@@ -123,9 +121,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  世界的建築家が創り上げた空間美！光と影、幾何学的な造形が織りなす圧倒的世界観
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">世界的建築家が創り上げた空間美！光と影、幾何学的な造形が織りなす圧倒的世界観</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 安藤忠雄氏をはじめとする名建築家による自然光の計算された採光、雄大な自然美と幾何学建築のコントラスト。建物自体が一つの巨大な芸術品であり、歩くだけでインスピレーションを刺激されます。
@@ -138,9 +134,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  器や盛り付けにも美学が宿る！五感で味わうアートな創作フレンチ＆日本料理
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">器や盛り付けにも美学が宿る！五感で味わうアートな創作フレンチ＆日本料理</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 地元特産の新鮮な食材を使用し、美しい色彩とアーティスティックな盛り付けで仕上げられるディナー。作家ものの陶器やガラス器とともに供される一皿一皿が、旅の感動をさらに深めてくれます。
@@ -183,9 +177,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     香川県直島町・世界的建築家安藤忠雄設計！現代アートと自然が融合する世界屈指の美術館ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ベネッセハウス　＜直島＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ベネッセハウス　＜直島＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     瀬戸内海に浮かぶアートの島・直島の南端に位置し、「自然・建築・アートの共生」をコンセプトに安藤忠雄氏の設計によって創られた世界的に名高いミュージアムホテル。美術館の内部に宿泊する「ミュージアム」棟をはじめ、海を間近に望む「パーク」「ビーチ」、丘の上に佇む「オーバル」など個性的な4つの棟で構成されています。宿泊客は夜間も美術館内を自由に散策でき、静寂の中で現代アートの傑作と向き合う贅沢な時間が叶います。瀬戸内海の豊かな魚介を活かしたフレンチや日本料理とともに、世界中の旅人が憧れる唯一無二のアートリトリートをご体験いただけます。
                   </p>
@@ -243,9 +235,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県箱根町・彫刻の森美術館至近！全室客室温泉露天風呂付きラグジュアリーアート空間
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">箱根・強羅　佳ら久（オリックスホテルズ＆リゾーツ）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     箱根・強羅の豊かな自然に包まれ、箱根彫刻の森美術館やポーラ美術館、岡田美術館など国内有数のアートスポットへのアクセス拠点として誕生したハイエンド温泉旅館。館内には随所に洗練されたアート作品や現代工芸が配され、五感を優しく解き放つ美の空間が広がります。全客室のバルコニーに強羅温泉の自家源泉を引いた客室露天風呂を備え、山並みを見渡す展望露天風呂や多彩なラウンジも完備。厳選された旬の食材を独創的な美意識で仕立てるグリルや会席ディナーとともに、大人の贅沢なアート＆温泉ステイを堪能できます。
                   </p>
@@ -303,9 +293,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     青森県三沢市・十和田市現代美術館拠点！岡本太郎作品と青森のねぶた祭り文化が息づく宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    青森屋　ｂｙ　星野リゾート
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">青森屋　ｂｙ　星野リゾート</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     青森の豊かな自然と伝統文化をまるごと体感できる星野リゾートの温泉宿。草間彌生やロン・ミュエクの巨大彫刻で世界的に注目される「十和田市現代美術館」への観光拠点として絶好の立地です。宿のラウンジには岡本太郎作の巨大な暖炉「森の神話」「河神」が堂々と鎮座し、館内各所に伝統のねぶた絵画や津軽裂織のアートが散りばめられています。池に浮かぶような開放的な露天風呂「浮湯」で源泉かけ流しの名湯に浸かり、青森名物のホタテや牛肉、郷土料理を味わうビュッフェとともに、北国のダイナミックな芸術文化に浸ることができます。
                   </p>
@@ -409,9 +397,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ベネッセハウス ＜直島＞を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ベネッセハウス ＜直島＞を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -444,9 +430,7 @@ export default function FurusatoArtMuseumHotelStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とベネッセハウス ＜直島＞の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とベネッセハウス ＜直島＞の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

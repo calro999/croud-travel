@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          幾重にも入り組んだ青い入江と茜色の夕景。海の王者・伊勢海老と鮑を味わい尽くす海浜ステイ
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">幾重にも入り組んだ青い入江と茜色の夕景。海の王者・伊勢海老と鮑を味わい尽くす海浜ステイ</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              伊勢海老のお造り・鬼殻焼きや天然鮑の踊り焼きなど豪華海鮮会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">伊勢海老のお造り・鬼殻焼きや天然鮑の踊り焼きなど豪華海鮮会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               水揚げ直後の活きた伊勢海老のプリプリとした甘み、肉厚な鮑のジューシーな旨味を余すところなく堪能できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              穏やかな入江に沈む夕日と多島美パノラマ露天風呂
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">穏やかな入江に沈む夕日と多島美パノラマ露天風呂</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               外海の荒波が遮られたリアス海岸ならではの鏡のような水面。茜色に染まる夕暮れ時の絶景を湯船から心ゆくまで愛でられます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              クルージングや真珠取り出し体験など海と一体になるアクティビティ
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">クルージングや真珠取り出し体験など海と一体になるアクティビティ</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               英虞湾遊覧船や伊根湾の海上タクシーなど、海側からしか見られない壮大な景観を楽しむ特別な体験が揃っています。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="shima_rias" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                三重県志摩市ふるさと納税：真珠の海・英虞湾の多島美パノラマと本場伊勢海老・志摩温泉リゾート
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">三重県志摩市ふるさと納税：真珠の海・英虞湾の多島美パノラマと本場伊勢海老・志摩温泉リゾート</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 約60の島々が浮かぶリアス海岸の代表格・英虞湾。夕暮れ時に黄金色に輝く海を望む展望露天風呂と、三重ブランドの伊勢海老・的矢かき・松阪牛会席を味わう洗練のリゾートステイです。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町神明687-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　志摩彩朝楽</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     眼下に広がる英虞湾の絶景と夕日を堪能するオーシャンフロントの温泉宿
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町神明731
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    志摩観光ホテル　ザ　クラシック
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">志摩観光ホテル　ザ　クラシック</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     伊勢志摩サミット開催ホテル。落ち着いた空間で時を過ごせるリゾートホテル。
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     三重県志摩市阿児町鵜方3618-33
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    都リゾート　志摩　ベイサイドテラス
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">都リゾート　志摩　ベイサイドテラス</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     英虞湾の絶景を望む、南欧風リゾート　海辺のオーベルジュ
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="sanriku_rias" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                宮城県南三陸町ふるさと納税：三陸リアス海岸インフィニティ露天風呂と南三陸名物「活鮑の踊り焼き」
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">宮城県南三陸町ふるさと納税：三陸リアス海岸インフィニティ露天風呂と南三陸名物「活鮑の踊り焼き」</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 太平洋の大海原とリアス海岸の岬が眼前に迫る絶景宿。海と一体化するインフィニティ露天風呂で波音に包まれ、志津川名物の活アワビ踊り焼きやウニ、フカヒレを堪能できます。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県本吉郡南三陸町志津川字黒崎99-17
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    南三陸　ホテル観洋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">南三陸　ホテル観洋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     海と一つになる絶景インフィニティ温泉と三陸海鮮を味わう宮城の宿
                   </p>
@@ -358,9 +338,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県宮城郡松島町磯崎字浜1-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">大江戸温泉物語Ｐｒｅｍｉｕｍ　ホテル壮観</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     絶好のロケーションでグルメや名所を堪能！プレミアムラウンジとテラスで心地よい海風に癒されるひと時を。
                   </p>
@@ -404,9 +382,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     宮城県気仙沼市港町4-19
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    サンマリン気仙沼ホテル観洋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">サンマリン気仙沼ホテル観洋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     気仙沼湾を見渡す高台に建ち、地下1800Mから湧き出す「気仙沼温泉」と三陸の海鮮料理をご堪能ください
                   </p>
@@ -435,9 +411,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="ine_rias" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                京都府伊根町・丹後ふるさと納税：日本で最も海に近い町「伊根の舟屋」と丹後名物海の幸会席
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">京都府伊根町・丹後ふるさと納税：日本で最も海に近い町「伊根の舟屋」と丹後名物海の幸会席</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 1階が船のガレージ、2階が居住空間となった舟屋が約230軒連なる伊根湾。まるで海に浮かんでいるかのような非日常の空間で、朝獲れの伊根マグロや岩がき、地魚会席を満喫できます。
               </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京丹後市久美浜町湊宮1795
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    海辺の料理旅館　浜の路　臨江庵
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">海辺の料理旅館　浜の路　臨江庵</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【1日5組限定◆3つの貸切温泉＆個室食事処】個室お食事処で食べる旬の味覚会席を堪能する料理旅館
                   </p>
@@ -511,9 +483,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府京丹後市網野町浜詰765
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    旅館　浜乃屋
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">旅館　浜乃屋</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     京丹後・夕日ヶ浦の旅館です。別館のオーシャンビュー客室や露天風呂が自慢！波音を聴きながらゆっくりと。
                   </p>
@@ -557,9 +527,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     京都府宮津市獅子崎198-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    宮津温泉　旅館つるのや
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">宮津温泉　旅館つるのや</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     京都縦貫道　宮津天橋立インターより約１０分
                   </p>
@@ -620,9 +588,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">絶景オーシャンフロント×波音ヒーリングの海宿ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 稲取・南房総・読谷村の全室オーシャンビューと潮騒露天。
               </p>
@@ -636,9 +602,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本三景の絶景オーシャンビュー宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 松島・天橋立・宮島の名門旅館。
               </p>
@@ -652,9 +616,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">海鮮浜焼き・港町朝市めぐり直結宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 八戸・沼津・高知の獲れたて市場グルメと浜焼き。
               </p>
@@ -672,9 +634,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -753,9 +713,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">夕映えリアス式海岸＆伊勢海老・鮑料理の海宿×ふるさと納税厳選ガイド志摩英虞湾・南三陸・伊根の舟屋の贅沢旅エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

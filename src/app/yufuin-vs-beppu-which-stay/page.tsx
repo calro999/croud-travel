@@ -79,14 +79,10 @@ export default function YufuinVsBeppuPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">
-          ① 雰囲気の比較：あなたはどっち派？
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">① 雰囲気の比較：あなたはどっち派？</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-md border border-gray-100">
-            <h3 className="text-xl font-bold text-emerald-700 mb-4 flex items-center">
-              <span className="text-2xl mr-2">🌿</span>由布院：おしゃれ＆静寂
-            </h3>
+            <h3 className="text-xl font-bold text-emerald-700 mb-4 flex items-center">由布院：おしゃれ＆静寂</h3>
             <p className="text-gray-600 leading-relaxed mb-4">
               由布院は、メインストリート「湯の坪街道」に可愛らしい雑貨屋さんやおしゃれなカフェが立ち並び、女子旅やカップルに大人気。
               早朝には金鱗湖に朝霧がかかる幻想的な景色が楽しめます。「静かにおこもりステイ」を満喫したいなら圧倒的に由布院。
@@ -97,9 +93,7 @@ export default function YufuinVsBeppuPage() {
             </ul>
           </div>
           <div className="bg-white rounded-3xl p-6 md:p-8 shadow-md border border-gray-100">
-            <h3 className="text-xl font-bold text-amber-700 mb-4 flex items-center">
-              <span className="text-2xl mr-2">👹</span>別府：ディープ＆レトロ
-            </h3>
+            <h3 className="text-xl font-bold text-amber-700 mb-4 flex items-center">別府：ディープ＆レトロ</h3>
             <p className="text-gray-600 leading-relaxed mb-4">
               迫力満点の「地獄めぐり」や、湯けむりが立ち上る鉄輪温泉の昭和レトロな路地裏。別府はまさに温泉マニアのためのパラダイス。
               街全体が活気に溢れており、「とにかく色んな温泉に入りまくりたい！」というガチ勢にたまりません。
@@ -113,9 +107,7 @@ export default function YufuinVsBeppuPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">
-          ② 泉質・温泉体験の違い
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">② 泉質・温泉体験の違い</h2>
         <div className="bg-emerald-50 rounded-3xl p-6 md:p-10 border border-emerald-100 space-y-6">
           <div>
             <h4 className="text-lg font-bold text-gray-800 mb-2 border-l-4 border-emerald-500 pl-3">由布院：肌にやさしい「美人の湯」</h4>
@@ -134,9 +126,7 @@ export default function YufuinVsBeppuPage() {
       </section>
 
       <section className="px-4">
-        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">
-          ③ 宿の相場とグルメ比較
-        </h2>
+        <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6 font-journal-serif border-b-4 border-emerald-500 inline-block pb-2">③ 宿の相場とグルメ比較</h2>
         
         <div className="grid md:grid-cols-2 gap-8 mb-8">
           <div className="space-y-6">
@@ -193,9 +183,7 @@ export default function YufuinVsBeppuPage() {
 
       <section className="px-4">
         <div className="bg-gray-800 text-white rounded-3xl p-8 md:p-12 text-center shadow-xl">
-          <h2 className="text-2xl md:text-3xl font-bold font-journal-serif mb-6">
-            結論：どっちに泊まるべき？
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold font-journal-serif mb-6">結論：どっちに泊まるべき？</h2>
           <div className="max-w-2xl mx-auto space-y-6 text-left">
             <div className="bg-white/10 p-5 rounded-xl border border-white/20">
               <p className="font-bold text-lg mb-2 text-emerald-300">✨ おしゃれ＆静かに過ごしたい → 由布院</p>
@@ -215,9 +203,7 @@ export default function YufuinVsBeppuPage() {
 
       {hotels.length > 0 && (
         <section className="px-4 mt-16">
-          <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">
-            由布院・別府のおすすめ宿
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-8 font-journal-serif text-center">由布院・別府のおすすめ宿</h2>
           <div className="grid md:grid-cols-2 gap-8">
             {hotels.map((hotel: any, index: number) => (
               <div key={index} className="bg-white rounded-3xl shadow-lg overflow-hidden border border-gray-100 flex flex-col transition-transform hover:-translate-y-1">
@@ -232,9 +218,7 @@ export default function YufuinVsBeppuPage() {
                   </div>
                 )}
                 <div className="p-6 flex flex-col flex-grow">
-                  <h3 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-3 line-clamp-2">{hotel.hotelName}</h3>
                   {hotel.hotelMinCharge && (
                     <div className="text-emerald-600 font-bold text-lg mb-4">
                       目安：{hotel.hotelMinCharge.toLocaleString()}円〜 /人
@@ -269,9 +253,7 @@ export default function YufuinVsBeppuPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿のタイプ・観光スポット・費用を完全比較」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -350,9 +332,7 @@ export default function YufuinVsBeppuPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「由布院 vs 別府 どっちに泊まる？」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「由布院 vs 別府 どっちに泊まる？」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

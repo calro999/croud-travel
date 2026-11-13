@@ -108,9 +108,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  冷凍とは次元が違う！一度も凍らせない「本場生マグロ」のモチモチとした舌触り
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">冷凍とは次元が違う！一度も凍らせない「本場生マグロ」のモチモチとした舌触り</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 港町だからこそ味わえる未冷凍の生マグロは、ドリップが出ないため旨味成分が一切損なわれず、まるで吸い付くような弾力と深い赤身のコクが際立ちます。大トロのきめ細やかな霜降りは口に入れた瞬間に上質な脂の甘みへと昇華します。
@@ -123,9 +121,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  お造り・兜焼き・カマの塩焼き・ねぎま鍋！部位ごとの魅力を知り尽くした料理人の技
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">お造り・兜焼き・カマの塩焼き・ねぎま鍋！部位ごとの魅力を知り尽くした料理人の技</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 大トロや中トロの刺身だけでなく、コラーゲンたっぷりの目玉煮付け、濃厚なカマ焼き、希少部位の頬肉ステーキや脳天の握りなど、一頭買いや市場直結だからこそ提供できる多彩なマグロ料理を心ゆくまで堪能できます。
@@ -138,9 +134,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  海を望む名湯露天風呂と潮風！旅の情緒を高める絶景ロケーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">海を望む名湯露天風呂と潮風！旅の情緒を高める絶景ロケーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 津軽海峡越しに北海道の山並みを望む硫黄泉、専用船で渡る孤島の波打ち際露天風呂、三浦海岸を見下ろす高台温泉など、いずれの宿も唯一無二の絶景風呂を完備。温泉で心身を解きほぐした後に味わうマグロ会席は格別の幸福感をもたらします。
@@ -183,9 +177,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     青森県風間浦村・津軽海峡大間まぐろ尽くしと下風呂温泉の名湯白濁硫黄泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    下風呂観光ホテル　三浦屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">下風呂観光ホテル　三浦屋</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     本州最北端・下北半島の津軽海峡沿いに位置する歴史ある下風呂温泉郷に佇み、名物の津軽海峡本マグロ（大間マグロ）と濃厚な硫黄泉を心ゆくまで堪能できる温泉旅館。夕食には大間産本マグロの大トロ・中トロ・赤身を惜しみなく盛り込んだお造りや、旬の海峡魚介、地元名物のイカ刺しが並び、魚好きを唸らせる圧巻の料理が評判です。源泉かけ流しの乳白色の硫黄泉は大浴場に豊富に注がれ、湯治場として栄えた確かな湯力を実感。津軽海峡の漁火を眺めながら静かな本州最果ての旅情に浸れます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     和歌山県那智勝浦町・専用船で渡る孤島の秘境温泉！生マグロ会席と海中絶景露天
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    碧き島の宿　熊野別邸　中の島
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">碧き島の宿　熊野別邸　中の島</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     南紀勝浦港から専用送迎船でわずか数分、波静かな勝浦湾に浮かぶ周囲数キロの島全体がひとつのリゾートとなっている非日常の宿。日本有数の生マグロ水揚げ港・勝浦ならではの、獲れたて生マグロを中心とした贅沢会席が自慢で、冷凍では絶対に味わえない極上の食感と脂の甘みを満喫できます。最大のハイライトは、潮の満ち引きで表情を変える海中露天風呂「紀州潮聞之湯」。打ち寄せる波の音を間近に聴きながら源泉かけ流しの美肌湯に浸かる時間は、まさに夢のような至福のひとときです。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     神奈川県三浦市・三崎港直送まぐろ食べ放題と東京湾オーシャンビュー温泉リゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    マホロバ・マインズ三浦
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">マホロバ・マインズ三浦</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     都心から約1時間、三浦海岸駅より徒歩約6分の好立地に建ち、全室オーシャンビューの本館をはじめ広々とした客室を誇る人気温泉リゾート。夕食バイキングでは、三浦三崎港直送の上質なマグロを刺身やお寿司で心ゆくまで味わえる「まぐろ食べ放題」が大好評。自家源泉の天然温泉大浴場や露天風呂、屋内温水プールなど充実したウェルネス施設も魅力です。都心からのアクセスが抜群で、気軽に本場の三崎まぐろと温泉旅を両立させたいファミリーやカップルに圧倒的な支持を集めています。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】下風呂観光ホテル 三浦屋を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】下風呂観光ホテル 三浦屋を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoBrandMaguroTunaStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と下風呂観光ホテル 三浦屋の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と下風呂観光ホテル 三浦屋の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

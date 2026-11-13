@@ -119,18 +119,14 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
       <section className="space-y-6">
         <div className="border-b-2 border-slate-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-slate-500">Real Regrets</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            冬の北海道で旅行者が後悔した「足元＆装備」の生々しい失敗例
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">冬の北海道で旅行者が後悔した「足元＆装備」の生々しい失敗例</h2>
         </div>
 
         <div className="space-y-4">
           {/* 失敗1 */}
           <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm border-l-8 border-l-slate-700">
-            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
-              <span className="text-rose-600 font-black">×</span>
-              某有名ブランドのムートンブーツで行ったら、雪解け水で中までグショグショに
-            </h3>
+            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2"><span className="text-rose-600 font-black">×</span>
+              某有名ブランドのムートンブーツで行ったら、雪解け水で中までグショグショに</h3>
             <p className="text-sm text-slate-700 leading-relaxed mb-3">
               暖かそうに見えるシープスキンのムートンブーツ。しかし撥水・防水加工がないものは、雪道を踏みしめた体温で雪が溶け、スポンジのように水分を吸い上げます。開始30分で靴下が濡れて氷のように冷たくなり、つま先の感覚が麻痺して歩行不能に。
             </p>
@@ -141,10 +137,8 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
 
           {/* 失敗2 */}
           <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm border-l-8 border-l-slate-600">
-            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
-              <span className="text-rose-600 font-black">×</span>
-              厚手ニットの上に極厚ダウンを着て、デパ地下や地下歩行空間で脱げずに悶絶
-            </h3>
+            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2"><span className="text-rose-600 font-black">×</span>
+              厚手ニットの上に極厚ダウンを着て、デパ地下や地下歩行空間で脱げずに悶絶</h3>
             <p className="text-sm text-slate-700 leading-relaxed mb-3">
               札幌駅から大通・すすきのまで続く巨大な地下街「チ・カ・ホ」や商業施設はTシャツでも過ごせるほどの暖かさ。インナーに超極暖を着て厚手のセーターを重ねていると、ダウンを脱いでも汗が止まらなくなります。
             </p>
@@ -155,10 +149,8 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
 
           {/* 失敗3 */}
           <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm border-l-8 border-l-slate-500">
-            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2">
-              <span className="text-rose-600 font-black">×</span>
-              雪まつりや小樽運河の夜景撮影中、スマホのバッテリーが残量70%から一瞬で1%に
-            </h3>
+            <h3 className="text-lg font-bold text-slate-900 mb-2 flex items-center gap-2"><span className="text-rose-600 font-black">×</span>
+              雪まつりや小樽運河の夜景撮影中、スマホのバッテリーが残量70%から一瞬で1%に</h3>
             <p className="text-sm text-slate-700 leading-relaxed mb-3">
               スマホのリチウムイオン電池は氷点下の環境で急激に電圧が降下し、シャットダウンする特性があります。写真を撮ろうとポケットから出して外気に晒していたら突如画面が真っ暗になり、電子チケットやマップが見られなくなるトラブルが続出。
             </p>
@@ -173,9 +165,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
       <section className="bg-slate-900 rounded-3xl p-6 md:p-10 text-white shadow-lg space-y-6">
         <div className="space-y-2">
           <span className="text-cyan-400 text-xs font-bold uppercase tracking-wider">Walking Technique</span>
-          <h2 className="text-2xl md:text-3xl font-black">
-            道民直伝！ツルツル氷道で転ばない「ペンギン歩き」4原則
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black">道民直伝！ツルツル氷道で転ばない「ペンギン歩き」4原則</h2>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4 text-sm">
@@ -202,9 +192,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
       <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-md space-y-6">
         <div className="text-center space-y-2">
           <span className="bg-slate-100 text-slate-800 text-xs font-bold px-3 py-1 rounded-full">Winter Packing List</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            冬の北海道 持ち物完全チェックリスト
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">冬の北海道 持ち物完全チェックリスト</h2>
           <p className="text-slate-600 text-xs md:text-sm">
             マイナス10度でも快適に観光するための厳選装備。
           </p>
@@ -212,9 +200,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
 
         <div className="grid md:grid-cols-2 gap-4">
           <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200">
-            <h3 className="font-bold text-slate-900 mb-3 flex items-center gap-2 text-base">
-              <span>🧳</span> 必須ウェア・防寒ギア
-            </h3>
+            <h3 className="font-bold text-slate-900 mb-3 flex items-center gap-2 text-base">必須ウェア・防寒ギア</h3>
             <ul className="space-y-2.5 text-xs md:text-sm text-slate-700">
               <li className="flex items-start gap-2">
                 <span className="text-slate-800 font-bold">☑</span>
@@ -240,9 +226,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
           </div>
 
           <div className="bg-slate-50 rounded-2xl p-5 border border-slate-200">
-            <h3 className="font-bold text-slate-900 mb-3 flex items-center gap-2 text-base">
-              <span>🔋</span> 現地で救われる実用ガジェット＆消耗品
-            </h3>
+            <h3 className="font-bold text-slate-900 mb-3 flex items-center gap-2 text-base">現地で救われる実用ガジェット＆消耗品</h3>
             <ul className="space-y-2.5 text-xs md:text-sm text-slate-700">
               <li className="flex items-start gap-2">
                 <span className="text-slate-800 font-bold">☑</span>
@@ -276,9 +260,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
             <span className="bg-white/20 text-white text-xs font-black px-3 py-1 rounded-full uppercase tracking-wider inline-block">
               Winter Stay Strategy
             </span>
-            <h3 className="text-xl md:text-2xl font-black">
-              冬の北海道は「駅直結・地下街直結ホテル」を選ぶのが勝利の鉄則！
-            </h3>
+            <h3 className="text-xl md:text-2xl font-black">冬の北海道は「駅直結・地下街直結ホテル」を選ぶのが勝利の鉄則！</h3>
             <p className="text-slate-300 text-xs md:text-sm">
               雪道を重いスーツケースを引いて歩くのは過酷そのもの。駅直結ホテルなら外気に触れずチェックインできます。
             </p>
@@ -295,9 +277,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
 
         <div className="border-b-2 border-slate-200 pb-3">
           <span className="text-xs font-bold uppercase tracking-wider text-slate-500">Curated Accommodations</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            駅直結＆冬の滞在が快適な北海道おすすめホテル
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">駅直結＆冬の滞在が快適な北海道おすすめホテル</h2>
           <p className="text-slate-600 text-xs md:text-sm mt-1">
             雪道知らずのアクセスと極上サービスを誇る人気宿泊施設をピックアップ。
           </p>
@@ -334,9 +314,7 @@ export default function HokkaidoWinterShoesClothingGuidePage() {
                   )}
                 </div>
 
-                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">
-                  {hotel.hotelName}
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-slate-900 leading-snug">{hotel.hotelName}</h3>
 
                 <p className="text-xs md:text-sm text-slate-600 line-clamp-2">
                   {hotel.hotelSpecial || "冬の北海道観光に最高のアクセスと快適な客室を備えた宿泊施設です。"}

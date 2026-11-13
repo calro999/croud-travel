@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            新陳代謝を高める最上階スカイスパと、パリッと香ばしい焼き餃子の湯気——北関東の中枢で仕事もリフレッシュも極める「宇都宮進化系ステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">新陳代謝を高める最上階スカイスパと、パリッと香ばしい焼き餃子の湯気——北関東の中枢で仕事もリフレッシュも極める「宇都宮進化系ステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線で東京から最短約48分。本田技研工業やキヤノンをはじめとする巨大ハイテク工場群や工業団地が集結し、次世代型路面電車（芳賀・宇都宮LRT）の開業で劇的な進化を遂げた街・宇都宮。日中の商談や工場視察をこなした後の最大の楽しみは、全国にその名を轟かせる「宇都宮餃子」の食べ比べです。野菜たっぷりのあっさり系、パリパリの羽付き、ジューシーな水餃子など、専門店ごとに異なる個性が旅人の胃袋を掴んで離しません。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   宇都宮テラス直結・最上階14階に広がる展望露天風呂「スカイスパ」とオートロウリュサウナ完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）宇都宮 —— 駅東口の最新ランドマーク。天空のオアシスとサウナシュラン仕様のととのい体験
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）宇都宮 —— 駅東口の最新ランドマーク。天空のオアシスとサウナシュラン仕様のととのい体験</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR宇都宮駅西口直結・駅ビルパセオ直結！シモンズ社製最高級ベッド完備の快適ステイ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ＪＲ東日本ホテルメッツ 宇都宮 —— 雨に濡れずにチェックイン。大谷石を配した落ち着きある空間と充実の快眠機能
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ＪＲ東日本ホテルメッツ 宇都宮 —— 雨に濡れずにチェックイン。大谷石を配した落ち着きある空間と充実の快眠機能</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   宇都宮駅東口徒歩3分！全室広々とした客室設計と大谷石をあしらったモダンロビー
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルマイステイズ宇都宮 —— 落ち着いた大人のシティホテル。充実したフィットネスジムと栃木の味覚朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルマイステイズ宇都宮 —— 落ち着いた大人のシティホテル。充実したフィットネスジムと栃木の味覚朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              宇都宮餃子を一人でスマートに食べ比べるための黄金ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">宇都宮餃子を一人でスマートに食べ比べるための黄金ルート</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. まずは駅ビル「パセオ」の餃子小路（みんみん、青源など）で焼き＆水餃子
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. まずは駅ビル「パセオ」の餃子小路（みんみん、青源など）で焼き＆水餃子</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 新幹線を降りてすぐ立ち寄れる特等席。「焼き＋水＋ライス」のダブル注文が宇都宮の王道スタイルです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 次世代路面電車（LRT）に乗って東エリアのアーバンビューを体感
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 次世代路面電車（LRT）に乗って東エリアのアーバンビューを体感</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 最新鋭のライトラインに乗車。未来都市のような乗り心地を楽しみながら、鬼怒川方面への車窓パノラマを楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は宮の橋周辺の居酒屋で栃木の銘酒「鳳凰美田」「仙禽」と乾杯
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は宮の橋周辺の居酒屋で栃木の銘酒「鳳凰美田」「仙禽」と乾杯</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 全国の日本酒ファンを魅了する栃木の地酒。華やかな吟醸香が、香ばしい餃子や湯波料理の美味しさを一層引き立てます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>LRT（芳賀・宇都宮LRT）の乗り方はどうなっていますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>LRT（芳賀・宇都宮LRT）の乗り方はどうなっていますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 宇都宮駅東口から発着しており、SuicaやPASMO、totraなどの交通系ICカードを全扉のリーダーにタッチするだけでスムーズに乗降できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で「餃子通り」へ行くにはどう行けばいいですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で「餃子通り」へ行くにはどう行けばいいですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 宇都宮駅西口から市内路線バスで約5分（馬場町下車）、または徒歩約15分で、みんみん本店や正嗣（まさし）が並ぶ餃子通りへアクセスできます。
               </p>
@@ -417,9 +391,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「宇都宮出張＆餃子ひとり旅：最上階展望スカイスパ・駅直結・名物餃子食べ比べ！北関東の要所で整う極上ホテル 厳選3選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -503,9 +473,7 @@ export default function ArticlePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「宇都宮出張＆餃子ひとり旅」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「宇都宮出張＆餃子ひとり旅」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

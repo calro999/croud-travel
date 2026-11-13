@@ -179,9 +179,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
         <section className="bg-stone-900/90 border border-emerald-800/40 rounded-3xl p-6 sm:p-10 space-y-8 shadow-xl">
           <div className="border-l-4 border-emerald-400 pl-4 space-y-1">
             <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Walking Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              白波と黄金樹海を歩く！石ヶ戸〜子ノ口 絶景散策コース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">白波と黄金樹海を歩く！石ヶ戸〜子ノ口 絶景散策コース</h2>
             <p className="text-xs sm:text-sm text-emerald-200/80">
               勾配がゆるやかな下流から上流へ歩くことで、流れに向かい合う迫力ある景色を楽しめます。
             </p>
@@ -198,9 +196,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <span className="text-xs text-emerald-300 font-semibold">
                     [{stage.distance}]
                   </span>
-                  <h3 className="text-base sm:text-lg font-bold font-serif text-white">
-                    {stage.spot}
-                  </h3>
+                  <h3 className="text-base sm:text-lg font-bold font-serif text-white">{stage.spot}</h3>
                 </div>
                 <p className="text-xs sm:text-sm text-stone-300 leading-relaxed font-normal bg-stone-950/50 p-3.5 rounded-xl border border-emerald-900/40">
                   {stage.desc}
@@ -211,10 +207,8 @@ export default function OiraseAutumnLeavesHotspringPage() {
 
           {/* 散策アドバイスボックス */}
           <div className="bg-gradient-to-r from-emerald-900/60 to-stone-900 p-5 rounded-2xl border border-emerald-700/50 space-y-3">
-            <h4 className="text-sm font-bold text-amber-300 flex items-center gap-2">
-              <span>⚠️</span>
-              <span>奥入瀬散策の重要ポイント＆エコロードフェスタ（マイカー規制）</span>
-            </h4>
+            <h4 className="text-sm font-bold text-amber-300 flex items-center gap-2"><span>️</span>
+              <span>奥入瀬散策の重要ポイント＆エコロードフェスタ（マイカー規制）</span></h4>
             <p className="text-xs text-emerald-100/90 leading-relaxed">
               例年10月下旬の週末には「奥入瀬渓流エコロードフェスタ」が実施され、惣辺交差点〜子ノ口間（国道102号）の一般車両通行規制が行われます。指定駐車場からのシャトルバス利用が必須となるため、事前に青森県公式サイトで該当日程をご確認ください。また、遊歩道は水滴や落ち葉で滑りやすいため、防水トレッキングシューズと防寒レインウェアの着用を強く推奨します。
             </p>
@@ -225,9 +219,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-amber-400 pl-4 space-y-1">
             <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Hot Spring Features</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              散策の疲れを癒やす！奥入瀬・八甲田の3大名湯
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">散策の疲れを癒やす！奥入瀬・八甲田の3大名湯</h2>
             <p className="text-xs sm:text-sm text-emerald-200/80">
               渓流リゾートから足元自噴の秘湯、白濁のヒバ千人風呂まで、個性豊かな温泉郷が広がります。
             </p>
@@ -243,9 +235,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                   <span className="text-[11px] font-bold text-amber-300 bg-amber-950/60 border border-amber-700/40 px-2 py-0.5 rounded">
                     {item.type}
                   </span>
-                  <h3 className="text-lg font-bold font-serif text-white">
-                    {item.title}
-                  </h3>
+                  <h3 className="text-lg font-bold font-serif text-white">{item.title}</h3>
                   <div className="text-[11px] text-emerald-300 font-medium">
                     泉質：{item.spring}
                   </div>
@@ -262,9 +252,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
         <section className="space-y-6">
           <div className="border-l-4 border-emerald-400 pl-4 space-y-1">
             <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Recommended Hotels</span>
-            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">
-              奥入瀬・十和田湖エリアのおすすめ宿泊施設
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-black font-serif text-white">奥入瀬・十和田湖エリアのおすすめ宿泊施設</h2>
             <p className="text-xs sm:text-sm text-emerald-200/80">
               奥入瀬渓流沿いのリゾートから八甲田山麓の秘湯旅館まで。秋の紅葉シーズンは満室が早いため早期予約を推奨します。
             </p>
@@ -312,9 +300,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
                       )}
                     </div>
 
-                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-amber-300 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-base font-bold font-serif text-white line-clamp-2 group-hover:text-amber-300 transition">{hotel.hotelName}</h3>
 
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-stone-300 line-clamp-3 leading-relaxed">
@@ -351,9 +337,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
           <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-emerald-800/40 pb-5">
             <div>
               <span className="text-amber-400 text-xs font-bold uppercase tracking-wider">Rakuten Travel Campaign</span>
-              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">
-                東北紅葉バスツアー＆温泉宿特別割引
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-black font-serif text-white mt-1">東北紅葉バスツアー＆温泉宿特別割引</h2>
             </div>
             <a
               href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Fseason%2Fautumn%2F"
@@ -373,9 +357,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-emerald-800/50 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">🚌</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                新幹線＋奥入瀬・八甲田周遊バスツアー
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">新幹線＋奥入瀬・八甲田周遊バスツアー</h3>
               <p className="text-stone-300 leading-relaxed text-xs">
                 新青森・八戸発着の観光バスで、奥入瀬渓流散策・十和田湖遊覧船・八甲田ロープウェーを効率よく巡る人気ツアー。
               </p>
@@ -388,9 +370,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               className="bg-stone-950/70 hover:bg-stone-950/90 border border-emerald-800/50 hover:border-amber-400/50 p-4 rounded-xl space-y-2 transition block group"
             >
               <div className="text-2xl">♨️</div>
-              <h3 className="font-bold text-white group-hover:text-amber-300">
-                楽天トラベル 青森・東北の温泉クーポン
-              </h3>
+              <h3 className="font-bold text-white group-hover:text-amber-300">楽天トラベル 青森・東北の温泉クーポン</h3>
               <p className="text-stone-300 leading-relaxed text-xs">
                 源泉かけ流しの一軒宿やリゾートホテルで利用できる限定クーポン。連泊割引や早期割プランも掲載中。
               </p>
@@ -409,9 +389,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
               <div className="flex items-center gap-2 text-amber-400 text-xs font-bold mb-1">
                 <span>🚅 VS 🚌 移動手段比較</span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-stone-100 group-hover:text-white">
-                【東京〜青森 高速バスvs新幹線 徹底比較】料金・所要時間・快適性と安く行く方法完全ガイド →
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-stone-100 group-hover:text-white">【東京〜青森 高速バスvs新幹線 徹底比較】料金・所要時間・快適性と安く行く方法完全ガイド →</h3>
               <p className="text-xs text-stone-400 mt-1">
                 はやぶさ号と夜行高速バスのコスパ比較や、八戸・新青森から奥入瀬渓流への乗り継ぎアクセスまで詳しく解説。
               </p>
@@ -424,9 +402,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -511,9 +487,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「奥入瀬渓流・十和田湖 紅葉2026厳選ガイド：見頃・散策モデルコース＆星野リゾート・秘湯酸ヶ湯ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -592,9 +566,7 @@ export default function OiraseAutumnLeavesHotspringPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 奥入瀬渓流・十和田湖 紅葉2026厳選ガイドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">奥入瀬渓流・十和田湖 紅葉2026厳選ガイドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

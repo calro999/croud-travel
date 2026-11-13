@@ -262,9 +262,7 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              成田山新勝寺の御護摩の炎と、北総小江戸が紡ぐ冬の物語
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">成田山新勝寺の御護摩の炎と、北総小江戸が紡ぐ冬の物語</h2>
             <p className="text-stone-500 text-xs sm:text-sm mt-1">
               12月の納め不動から正月三が日の初詣へ。江戸庶民の信仰と美食が今なお息づく北総の冬
             </p>
@@ -320,9 +318,7 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="bg-stone-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-stone-800 pb-4">
             <span className="text-rose-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">
-              【1泊2日】成田山初詣と門前うなぎ・佐原小江戸こたつ舟を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white font-serif">【1泊2日】成田山初詣と門前うなぎ・佐原小江戸こたつ舟を巡る黄金モデルコース</h2>
             <p className="text-stone-400 text-xs sm:text-sm mt-1">
               東京駅から快速約1時間の快適アクセス。初詣の熱気と江戸の静寂を味わい尽くす冬の休日。
             </p>
@@ -333,9 +329,7 @@ export default function ChibaNaritasanSawaraPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 午前〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  10:30 成田駅到着 ➔ 表参道の老舗うなぎ店で整理券取得＆絶品うな重ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">10:30 成田駅到着  表参道の老舗うなぎ店で整理券取得＆絶品うな重ランチ</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   JRまたは京成成田駅から風情ある表参道へ。まずは人気老舗「川豊本店」や「駿河屋」で店頭の整理券を取得。熟練職人の見事な捌きを見学しながら待つことしばし、備長炭で香ばしく焼き上げられたふっくら熱々の絶品うな重を堪能します。
                 </p>
@@ -344,9 +338,7 @@ export default function ChibaNaritasanSawaraPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 成田山新勝寺総門から大本堂へ ➔ 荘厳な御護摩祈祷＆成田山公園散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 成田山新勝寺総門から大本堂へ  荘厳な御護摩祈祷＆成田山公園散策</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   重厚な総門をくぐり大本堂へ。轟く太鼓の音と燃え盛る御護摩の炎に合掌し新年の厄除け開運を祈願。自分の手荷物を炎にかざして清める御火加持を受け、三重塔や出世稲荷を参拝。広大な成田山公園で冬の木立や池の静けさを味わいます。
                 </p>
@@ -355,9 +347,7 @@ export default function ChibaNaritasanSawaraPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 宿へチェックイン ➔ 成田天然温泉または佐原の重伝建宿で美食ディナー
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 宿へチェックイン  成田天然温泉または佐原の重伝建宿で美食ディナー</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   成田山門前の宿や佐原の商家町ホテル、天然温泉宿にチェックイン。冷えた身体を強塩温泉の湯船で温め、夕食には房総の冬の恵みを取り入れた本格会席や酒蔵を改装したフレンチコースを堪能。静寂に包まれる冬の夜をゆったりと過ごします。
                 </p>
@@ -366,9 +356,7 @@ export default function ChibaNaritasanSawaraPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-rose-500 border-4 border-stone-900" />
                 <span className="text-xs font-bold text-rose-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:30 水郷・佐原へ移動 ➔ 冬限定「こたつ舟めぐり」＆伊能忠敬旧宅見学
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:30 水郷・佐原へ移動  冬限定「こたつ舟めぐり」＆伊能忠敬旧宅見学</h3>
                 <p className="text-stone-300 text-xs sm:text-sm mt-2 leading-relaxed">
                   北総の小江戸・佐原の小野川沿いへ。ぬくぬくの豆炭こたつが入った観光舟に乗り込み、水上から白壁の蔵屋敷や柳並木の冬景色をゆったり鑑賞。伊能忠敬旧宅や老舗醤油蔵・酒蔵を見学し、佐原名物の草だんごやお芋スイーツをお土産に帰路へ。
                 </p>
@@ -381,27 +369,21 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              成田山表参道うなぎの職人技と、北総水郷が誇る発酵文化
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">成田山表参道うなぎの職人技と、北総水郷が誇る発酵文化</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-rose-700" />
-                成田山表参道に受け継がれる江戸前うなぎの手仕事
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-rose-700" />
+                成田山表参道に受け継がれる江戸前うなぎの手仕事</h3>
               <p>
                 成田山表参道に軒を連ねるうなぎ料理店では、現在も多くの店で店先にまな板を構え、職人が鮮やかな手さばきで鰻を裂き、串を打つ光景が見られます。関東風の調理法で、一度白焼きにしてからじっくり蒸し上げ、秘伝のタレをつけて備長炭で焼き上げる蒲焼は、箸を入れるとすっと切れるほど柔らかく、香ばしさと脂の甘みが絶妙。江戸時代から続く老舗のタレには、北総名産の濃口醤油と本みりんが使われ、奥深いコクを生み出しています。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-rose-700" />
-                利根川舟運がもたらした佐原・北総の酒造りと醤油醸造
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-rose-700" />
+                利根川舟運がもたらした佐原・北総の酒造りと醤油醸造</h3>
               <p>
                 水郷・佐原は、良質な米と水、そして江戸への舟運を背景に「酒造り」と「醤油醸造」の一大拠点として繁栄しました。江戸時代創業の「東薫酒造」や「馬場本店酒造」では、冬の寒冷な気候を生かした伝統の寒造りが行われ、新酒の芳醇な香りが漂います。江戸の食文化を支えた伝統の発酵調味料は、現代のオーベルジュや老舗料亭でも料理の隠し味として息づき、冬の郷土料理を滋味豊かに引き立てています。
               </p>
@@ -415,9 +397,7 @@ export default function ChibaNaritasanSawaraPage() {
             <span className="text-rose-700 font-bold text-xs sm:text-sm tracking-wider uppercase block">
               Handpicked Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">
-              成田山新勝寺初詣＆小江戸佐原を愉しむ厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-black text-stone-900 font-serif">成田山新勝寺初詣＆小江戸佐原を愉しむ厳選名宿5選</h2>
             <p className="text-stone-500 text-xs sm:text-sm">
               公式楽天トラベルAPIより取得した最新の宿泊データ・クチコミ・最低料金を掲載
             </p>
@@ -446,8 +426,7 @@ export default function ChibaNaritasanSawaraPage() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group">
-                      <a 
+                    <h3 className="text-xl sm:text-2xl font-bold text-stone-900 group"><a 
                         href={hotel.url} 
                         target="_blank" 
                         rel="noopener noreferrer" 
@@ -455,8 +434,7 @@ export default function ChibaNaritasanSawaraPage() {
                       >
                         {hotel.name}
                         <ExternalLink className="w-4 h-4 text-stone-400 group-hover:text-rose-700 inline" />
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-stone-500 text-xs sm:text-sm flex items-center gap-1.5">
                       <MapPin className="w-4 h-4 text-rose-600 shrink-0" />
@@ -479,10 +457,8 @@ export default function ChibaNaritasanSawaraPage() {
 
                   {/* Editorial Story */}
                   <div className="space-y-3 bg-stone-50/70 rounded-2xl p-4 sm:p-5 border border-stone-200/60">
-                    <h4 className="text-xs sm:text-sm font-bold text-rose-900 flex items-center gap-1.5">
-                      <Building className="w-4 h-4 text-rose-600" />
-                      宿の魅力と冬の滞在ストーリー
-                    </h4>
+                    <h4 className="text-xs sm:text-sm font-bold text-rose-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-rose-600" />
+                      宿の魅力と冬の滞在ストーリー</h4>
                     <p className="text-stone-700 text-xs sm:text-sm leading-relaxed">
                       {hotel.story}
                     </p>
@@ -540,9 +516,7 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="bg-rose-50/60 rounded-3xl p-6 sm:p-10 border border-rose-200/60 space-y-6">
           <div className="border-b border-rose-200/80 pb-4">
             <span className="text-rose-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-rose-950 font-serif">
-              成田山新勝寺初詣＆佐原小江戸を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-rose-950 font-serif">成田山新勝寺初詣＆佐原小江戸を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-rose-950">
@@ -582,20 +556,16 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-700 font-bold text-xs uppercase tracking-wider block">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              成田山初詣・表参道うなぎ＆佐原小江戸に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">成田山初詣・表参道うなぎ＆佐原小江戸に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-rose-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-rose-700 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -608,9 +578,7 @@ export default function ChibaNaritasanSawaraPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">
-              あわせて読みたい関東・全国の初詣・小江戸・開運特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 font-serif">あわせて読みたい関東・全国の初詣・小江戸・開運特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

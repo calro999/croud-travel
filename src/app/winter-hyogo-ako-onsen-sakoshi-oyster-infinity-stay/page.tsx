@@ -280,10 +280,8 @@ export default function AkoOnsenWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の美食＆絶景特集｜兵庫・播州赤穂温泉
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月兵庫・播州赤穂温泉】<br className="hidden sm:inline" />
-            播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月兵庫・播州赤穂温泉】<br className="hidden sm:inline" />
+            播磨灘夕景と11月解禁坂越牡蠣・インフィニティ絶景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             11月下旬の解禁を迎えた名物「坂越牡蠣」のミルキーな甘みと、12月14日赤穂義士祭の歴史絵巻。瀬戸内海の波打ち際と一体化するインフィニティ露天風呂で夕日に抱かれる極上ステイ。
           </p>
@@ -301,9 +299,7 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Harima Sunset & Sakoshi Oyster Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月下旬解禁の「坂越牡蠣」と、忠臣蔵の魂が蘇る12月「赤穂義士祭」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月下旬解禁の「坂越牡蠣」と、忠臣蔵の魂が蘇る12月「赤穂義士祭」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">High Saline Healing Thermal Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                「塩のベールが熱を逃がさない」赤穂温泉の強塩泉メカニズム
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">「塩のベールが熱を逃がさない」赤穂温泉の強塩泉メカニズム</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Sakoshi Oyster & Seto Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月解禁坂越牡蠣を堪能し尽くす｜焼き・蒸し・土手鍋・牡蠣フライの饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月解禁坂越牡蠣を堪能し尽くす｜焼き・蒸し・土手鍋・牡蠣フライの饗宴</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Ako Heritage & Coastal Scenic Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の赤穂散策モデルコース｜赤穂城跡・大石神社と坂越浦レトロ通り
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の赤穂散策モデルコース｜赤穂城跡・大石神社と坂越浦レトロ通り</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function AkoOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-sky-700 uppercase tracking-widest">Featured Oceanview & Luxury Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              海と夕日に抱かれる絶景宿｜播州赤穂温泉の厳選旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">海と夕日に抱かれる絶景宿｜播州赤穂温泉の厳選旅館5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高評価を獲得し、インフィニティ露天や坂越牡蠣会席に強いこだわりを持つ本物の名宿だけを厳選。
             </p>
@@ -448,9 +436,7 @@ export default function AkoOnsenWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の赤穂冬旅｜温暖な瀬戸内気候と海風対策・JR新快速の利便性
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の赤穂冬旅｜温暖な瀬戸内気候と海風対策・JR新快速の利便性</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-sky-800" />
-                穏やかな瀬戸内気候と夕刻の海風
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-sky-800" />
+                穏やかな瀬戸内気候と夕刻の海風</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 赤穂市は晴天に恵まれる日が多く、雪の心配はほとんどありません。ただし赤穂御崎の海岸沿いは播磨灘からの海風が吹くため、日没前後は急激に肌寒くなります。露天風呂や岬の散策を楽しむ際は、風を遮るコートやストールをご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-sky-800" />
-                JR新快速で大阪・三ノ宮から直通の快適アクセス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-sky-800" />
+                JR新快速で大阪・三ノ宮から直通の快適アクセス</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 JR大阪駅から新快速で乗り換えなし約1時間35分、三ノ宮駅から約1時間15分と関西主要都市からのアクセスが抜群です。駅からは旅館の送迎バスが運行しており、冬道の運転に不安がある方でも手軽に絶景温泉と坂越牡蠣を満喫できます。
               </p>
@@ -562,18 +542,14 @@ export default function AkoOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-sky-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                兵庫播州赤穂温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">兵庫播州赤穂温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-sky-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-sky-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function AkoOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-sky-400 uppercase tracking-widest">Related Winter Features & Kansai Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい兵庫・関西の冬名湯＆極上海鮮グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい兵庫・関西の冬名湯＆極上海鮮グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の松葉ガニ、3年とらふぐ、名湯金泉をめぐる人気の厳選特集もぜひご覧ください。
             </p>

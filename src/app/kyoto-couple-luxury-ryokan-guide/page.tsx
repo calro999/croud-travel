@@ -136,9 +136,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         <section className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-emerald-200/80 space-y-6">
           <div className="border-b border-emerald-100 pb-4 text-center md:text-left">
             <span className="text-xs font-bold uppercase tracking-widest text-emerald-700">AREA SELECTION</span>
-            <h2 className="text-xl md:text-2xl font-bold font-journal-serif text-stone-900 mt-1">
-              大人のカップル旅で選びたい京都の3大宿泊ロケーション
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-journal-serif text-stone-900 mt-1">大人のカップル旅で選びたい京都の3大宿泊ロケーション</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
@@ -151,9 +149,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <span className="text-[11px] font-black text-emerald-800 bg-emerald-100 px-2.5 py-0.5 rounded-full inline-block">
                     {item.area}
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base leading-snug">
-                    {item.vibe}
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base leading-snug">{item.vibe}</h3>
                   <p className="text-xs text-stone-600 leading-relaxed">
                     {item.charm}
                   </p>
@@ -172,10 +168,8 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         {/* 内部リンク（京都・金沢 予算比較） */}
         <nav className="bg-emerald-100/60 border border-emerald-300/80 rounded-2xl p-5 md:p-6 shadow-sm">
           <div className="flex items-center justify-between mb-3">
-            <h2 className="text-xs md:text-sm font-bold text-emerald-950 flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-emerald-700" />
-              京都旅行計画の関連ガイド（あわせて読む）
-            </h2>
+            <h2 className="text-xs md:text-sm font-bold text-emerald-950 flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-emerald-700" />
+              京都旅行計画の関連ガイド（あわせて読む）</h2>
             <span className="text-[10px] text-emerald-800 bg-emerald-200/80 font-bold px-2 py-0.5 rounded">
               必見旅ガイド
             </span>
@@ -219,9 +213,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
               <div className="flex items-center gap-2 text-emerald-700 font-bold text-xs uppercase tracking-wider">
                 <span>🏮 SELECTED KYOTO STAYS</span>
               </div>
-              <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-                大人の二人が選ぶべき京都の洗練宿・高級旅館
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">大人の二人が選ぶべき京都の洗練宿・高級旅館</h2>
             </div>
             <span className="text-xs text-stone-500 font-medium">
               楽天トラベル宿泊プラン・露天風呂客室プラン掲載
@@ -265,9 +257,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                     {/* 詳細 */}
                     <div className="p-5 space-y-3">
                       <div>
-                        <h3 className="font-bold font-journal-serif text-base md:text-lg text-stone-900 leading-snug">
-                          {hotel.hotelName}
-                        </h3>
+                        <h3 className="font-bold font-journal-serif text-base md:text-lg text-stone-900 leading-snug">{hotel.hotelName}</h3>
                         {hotel.address1 && hotel.address2 ? (
                           <p className="text-[11px] text-stone-500 mt-1 flex items-center gap-1">
                             <span>📍</span>
@@ -325,9 +315,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         <section className="bg-gradient-to-br from-[#0c2e21] to-stone-950 text-white rounded-3xl p-6 md:p-10 shadow-xl border border-emerald-800/60 space-y-6">
           <div className="border-b border-emerald-800/80 pb-4">
             <span className="text-[11px] font-bold tracking-widest text-emerald-300 uppercase">RYOKAN CONCIERGE</span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">
-              大人の京都宿ステイをより豊かにする「3つの心得」
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">大人の京都宿ステイをより豊かにする「3つの心得」</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-5 text-xs md:text-sm">
@@ -357,9 +345,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と祇園・嵐山で二人きりの特別な夜を過ごす大人の宿の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と祇園・嵐山で二人きりの特別な夜を過ごす大人の宿の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -444,9 +430,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「京都カップル旅行 おすすめ高級旅館＆町家ホテル：祇園・嵐山で二人きりの特別な夜を過ごす大人の宿」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -525,9 +509,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 京都カップル旅行 おすすめ高級旅館＆町家ホテルエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">京都カップル旅行 おすすめ高級旅館＆町家ホテルエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

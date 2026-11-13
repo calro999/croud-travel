@@ -82,15 +82,12 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* リード文ブロック */}
       <section className="bg-gradient-to-br from-amber-50/70 via-orange-50/40 to-yellow-50/60 p-6 md:p-8 rounded-2xl border border-amber-200/80 mb-12 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">
-          <span className="text-2xl">✨</span>
-          カランコロンと鳴る下駄の音、石段を流れる茶褐色の湯滝。黄金の湯と白銀の湯に包まれる伊香保のノスタルジックな休日へ
-        </h2>
+        <h2 className="text-xl md:text-2xl font-bold text-amber-950 mb-4 flex items-center gap-2">カランコロンと鳴る下駄の音、石段を流れる茶褐色の湯滝。黄金の湯と白銀の湯に包まれる伊香保のノスタルジックな休日へ</h2>
         <p className="text-base md:text-lg text-gray-800 leading-relaxed mb-6">
           榛名山の中腹、標高約700メートルの高地に広がる関東屈指の古湯「伊香保温泉（いかほおんせん）」。中心に伸びる「365段の石段街」は、温泉街のシンボルとして全国的な知名度を誇り、石段を挟んで立ち並ぶ射的場やお土産屋、温泉まんじゅう発祥の店、そして石段の真ん中を流れるガラス張りの「湯樋（ゆどい）」など、歩くだけで大正・昭和のレトロな温泉情緒に浸ることができます。伊香保温泉の最大の魅力は、歴史ある二大名湯「黄金の湯（こがねのゆ）」と「白銀の湯（しろがねのゆ）」。鉄分を豊富に含み空気に触れると独特の茶褐色に変化する「黄金の湯」は、体を芯から温めて血行を促進し、古くから「子宝の湯」として親しまれてきました。一方、近年湧出した無色透明の「白銀の湯」は、メタけい酸を多く含み肌をやさしく潤す美肌の湯。この2つの泉質を贅沢に引き湯する一流旅館での湯浴みは、至福のリラクゼーションをもたらします。さらに夕食は、上州の大自然が育んだブランド黒毛和牛「上州牛」の霜降りステーキやすき焼き、地元群馬の名産である下仁田ねぎや旬の舞茸、手打ちの上州うどんなど、滋味豊かな郷土会席が食卓を彩ります。本特集では、創業四百四十年を誇り石段街の最上位19階に直結する名門「福一」、創業天正四年・石段街に面し希少な黄金の湯を100％完全かけ流しで注ぐ「岸権旅館」、そして伊香保随一の湯量を誇り北関東最大級の大浴場「子の湯千両」を持つ老舗「ホテル木暮」の3宿を厳選。群馬県渋川市への楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの伊香保温泉ステイをお得に予約しましょう。
         </p>
         <div className="bg-white/90 rounded-xl p-4 md:p-5 border border-amber-300 shadow-sm">
-          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5"><span>📌</span> なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
+          <h3 className="font-bold text-amber-900 text-sm md:text-base mb-2 flex items-center gap-1.5">なぜ「ふるさと納税×楽天トラベル」が選ばれているのか？</h3>
           <ul className="text-xs md:text-sm text-gray-700 space-y-1.5">
             <li className="flex items-start gap-1">
               <span className="text-amber-600 font-bold">✔</span>
@@ -110,7 +107,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* 目次 */}
       <section className="bg-gray-50 rounded-xl p-5 mb-12 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2"><span>📑</span> 目次</h2>
+        <h2 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">目次</h2>
         <ol className="list-decimal list-inside space-y-2 text-sm text-gray-700">
           <li><a href="#three-points" className="text-amber-800 hover:underline font-medium">伊香保温泉 石段街＆黄金の湯宿特集が選ばれる3つの理由</a></li>
           <li><a href="#hotel-1" className="text-amber-800 hover:underline font-medium">【第1選】伊香保温泉　福一</a></li>
@@ -123,9 +120,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* 3つの魅力セクション */}
       <section id="three-points" className="mb-14">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">
-          <span>🌟</span> 伊香保温泉 石段街＆黄金の湯宿特集が選ばれる3つの理由
-        </h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">伊香保温泉 石段街＆黄金の湯宿特集が選ばれる3つの理由</h2>
         <div className="grid md:grid-cols-3 gap-6">
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">01</span>
@@ -149,9 +144,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
       <section id="hotel-1" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第1選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            伊香保温泉　福一
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">伊香保温泉　福一</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県渋川市・創業四百四十年！石段街最上位に佇む歴史的名門「黄金の湯」「白銀の湯」二大名湯を同時堪能（口コミ1,700件超）</p>
         </div>
         <div className="p-6 md:p-8">
@@ -186,9 +179,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
       <section id="hotel-2" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第2選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">岸権旅館　石段街隣接　希少源泉「黄金の湯」の宿</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県渋川市・創業天正四年！石段街に面した抜群の立地＆希少な「黄金の湯」完全100％源泉掛け流しと上州牛会席</p>
         </div>
         <div className="p-6 md:p-8">
@@ -223,9 +214,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
       <section id="hotel-3" className="mb-16 bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
         <div className="bg-gradient-to-r from-amber-700 to-amber-900 text-white p-4 md:p-6">
           <span className="bg-amber-500 text-white text-xs font-bold px-2.5 py-1 rounded-full uppercase tracking-wider mb-2 inline-block">厳選名宿 第3選</span>
-          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">
-            伊香保温泉　ホテル木暮
-          </h2>
+          <h2 className="text-xl md:text-3xl font-bold leading-tight mb-2">伊香保温泉　ホテル木暮</h2>
           <p className="text-xs md:text-sm text-amber-100">群馬県渋川市・伊香保随一の豊富な湯量！北関東最大級の大浴場「子の湯千両」＆口コミ総合4.7超の最高峰大型温泉ホテル</p>
         </div>
         <div className="p-6 md:p-8">
@@ -258,7 +247,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2">楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
@@ -293,7 +282,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* FAQ */}
       <section id="faq" className="mb-16">
-        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2"><span>❓</span> よくある質問（Q&A）</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-gray-900 mb-6 pb-2 border-b-2 border-amber-600 flex items-center gap-2">よくある質問（Q&A）</h2>
         <div className="space-y-4">
           <details className="bg-white p-5 rounded-xl border border-gray-200 shadow-xs group cursor-pointer">
             <summary className="font-bold text-gray-900 text-sm md:text-base flex justify-between items-center">
@@ -324,7 +313,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* 関連記事リンク */}
       <section className="bg-gray-50 p-6 md:p-8 rounded-2xl border border-gray-200">
-        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2"><span>🔗</span> あわせて読みたい注目のふるさと納税特集</h2>
+        <h2 className="text-lg md:text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">あわせて読みたい注目のふるさと納税特集</h2>
         <div className="grid sm:grid-cols-2 gap-3">
           
           <Link

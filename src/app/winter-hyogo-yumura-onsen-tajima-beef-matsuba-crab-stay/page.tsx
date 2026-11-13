@@ -269,9 +269,7 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Ancient High-Temperature Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                湯けむり立ち上る荒湯と冬の極上美食｜11月・12月の湯村温泉が旅情を誘う理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">湯けむり立ち上る荒湯と冬の極上美食｜11月・12月の湯村温泉が旅情を誘う理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Arayu Boiling Culture</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                源泉98度の荒湯で楽しむ名物「湯がき体験」｜住民と旅人が集うぬくもりの文化
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">源泉98度の荒湯で楽しむ名物「湯がき体験」｜住民と旅人が集うぬくもりの文化</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -318,9 +314,7 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Yumura Winter Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の湯村温泉1泊2日満喫モデルコース｜荒湯散策と解禁松葉ガニ・但馬牛会席紀行
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の湯村温泉1泊2日満喫モデルコース｜荒湯散策と解禁松葉ガニ・但馬牛会席紀行</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -339,9 +333,7 @@ export default function HyogoYumuraWinterFeature() {
         <section className="space-y-12">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Selected Yumura Ryokan</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の湯村温泉を満喫する厳選おすすめ宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の湯村温泉を満喫する厳選おすすめ宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               格式ある大型名旅館から、自家源泉掛け流しの数寄屋宿、洗練された和モダンホテルまで、現地取材に基づき厳選しました。
             </p>
@@ -383,9 +375,7 @@ export default function HyogoYumuraWinterFeature() {
                             兵庫県美方郡新温泉町湯
                           </span>
                         </div>
-                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                         <p className="text-xs sm:text-sm text-emerald-800 font-medium bg-emerald-50/70 px-3 py-1.5 rounded-lg border border-emerald-100/80">
                           {h.special}
                         </p>
@@ -453,28 +443,22 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Tajima Gourmet Heaven</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月解禁「浜坂産松葉ガニ」と最高峰「但馬牛」が競演する至高の冬会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月解禁「浜坂産松葉ガニ」と最高峰「但馬牛」が競演する至高の冬会席</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-slate-700 leading-relaxed">
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Waves className="w-5 h-5 text-cyan-600" />
-                近隣浜坂港直送・タグ付き活松葉ガニのフルコース
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Waves className="w-5 h-5 text-cyan-600" />
+                近隣浜坂港直送・タグ付き活松葉ガニのフルコース</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 11月6日に解禁される山陰の松葉ガニ。湯村温泉では、浜坂漁港で競り落とされた鮮度抜群の活ガニが供されます。透き通る身の甘みが広がる「カニ刺し」、炭火で香ばしく焼き上げる「焼きガニ」、濃厚なカニ味噌をすする「甲羅焼き」、そして旨味たっぷりの「カニすき」まで、冬の味覚の王様を堪能できます。
               </p>
             </div>
 
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-500" />
-                全国の銘柄和牛のルーツ「本場但馬牛」の霜降りステーキ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-amber-500" />
+                全国の銘柄和牛のルーツ「本場但馬牛」の霜降りステーキ</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 松阪牛や神戸牛などの素牛として知られる純血種の但馬牛。人肌で溶ける上質な脂と赤身の深い旨味は、鉄板焼きステーキやすき焼きでその真価を発揮します。初冬の冷気の中で熱々のすき焼き鍋を囲み、地元の地酒とともに味わう時間は、まさに大人の贅沢旅行の極みです。
               </p>
@@ -490,9 +474,7 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Three-Fold Beautifying Water</span>
-              <h2 className="text-xl sm:text-2xl font-bold">
-                三大美肌成分を一度に補給｜湯村温泉の奇跡的な美肌効能
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold">三大美肌成分を一度に補給｜湯村温泉の奇跡的な美肌効能</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-200 leading-relaxed">
@@ -525,9 +507,7 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Travel Planning & Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                湯村温泉へのアクセスと冬旅を快適に楽しむポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">湯村温泉へのアクセスと冬旅を快適に楽しむポイント</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -559,18 +539,14 @@ export default function HyogoYumuraWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                兵庫・但馬 湯村温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">兵庫・但馬 湯村温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-emerald-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-emerald-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -583,9 +559,7 @@ export default function HyogoYumuraWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-400 uppercase tracking-widest">Related Kansai & Sanin Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい山陰・関西の冬名湯＆極上カニ・和牛会席特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい山陰・関西の冬名湯＆極上カニ・和牛会席特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚、松葉ガニやブランド和牛、歴史ある名湯をめぐる厳選特集もぜひご覧ください。
             </p>

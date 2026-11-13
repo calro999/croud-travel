@@ -108,9 +108,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  いくら、帆立、甘エビ、マグロ！好きなネタを好きなだけ盛る「勝手丼」の圧倒的贅沢
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">いくら、帆立、甘エビ、マグロ！好きなネタを好きなだけ盛る「勝手丼」の圧倒的贅沢</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ホテルの朝食ビュッフェで大人気の海鮮丼コーナー。ご飯が見えなくなるほどいくらを敷き詰めたり、高級魚介を贅沢に重ねたりと、街中の海鮮丼専門店なら数千円する豪華丼を自分好みに無限に作れます。
@@ -123,9 +121,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  朝から贅沢に満たされる！市場直送ならではの鮮度抜群な海のミルクと旨味
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">朝から贅沢に満たされる！市場直送ならではの鮮度抜群な海のミルクと旨味</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 港町直結のホテルだからこそ実現する圧倒的な鮮度。身の引き締まったお造りや、ぷちぷちと弾けて濃厚な旨味が広がるいくらは、一日の観光のエネルギーを最高潮にチャージしてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  天然温泉展望風呂や海底風呂！海を眺めながらの名湯で心身リフレッシュ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">天然温泉展望風呂や海底風呂！海を眺めながらの名湯で心身リフレッシュ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 函館山と港を見下ろす最上階展望露天風呂や金沢の名湯、巨大水槽を魚が泳ぐユニークな海底温泉など、温泉の魅力も超一流。美味しい海鮮と名湯の組み合わせが至高の満足感をもたらします。
@@ -183,9 +177,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道函館市・朝食いくら盛り放題の伝説！金森赤レンガ倉庫至近のハイクラス別館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ラビスタ函館ベイＡＮＮＥＸ（共立リゾート）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ラビスタ函館ベイＡＮＮＥＸ（共立リゾート）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     函館ベイエリアの金森赤レンガ倉庫に隣接し、全国の旅行者を虜にする「朝食いくらかけ放題」の代名詞的ホテル・ラビスタ函館ベイのハイクラス別館。朝食バイキングでは、北海道産いくらを惜しみなくスプーンで山盛りにできるほか、獲れたてのイカ、甘エビ、サーモン、ホタテなど贅沢な海の幸を盛り放題。さらに炙り焼きや北海道産牛乳・スイーツなど超豪華なラインナップが並びます。最上階には函館の夜景を一望する自家源泉の天然温泉大浴場や露天風呂を完備し、上質なクラシック空間で極上の函館ステイを堪能できます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     石川県金沢市・近江町市場至近！大正ロマンの風情と加賀の美食海鮮朝食バイキング
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    金沢白鳥路　ホテル山楽
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">金沢白鳥路　ホテル山楽</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     金沢城公園に隣接し、兼六園や「金沢市民の台所」近江町市場へも徒歩圏という観光の特等席に位置するクラシックホテル。朝食ビュッフェでは、日本海直送の新鮮魚介を自分で盛り付ける特製海鮮丼をはじめ、郷土料理の治部煮や加賀野菜の天ぷらなど金沢の美味が美しく並びます。館内にはステンドグラスが輝く大正ロマンの優雅な雰囲気が漂い、地下から湧き出る琥珀色の美肌天然温泉大浴場も完備。歴史と美食を両立させた大人の金沢旅行に絶大な人気を誇る名門宿です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊東市・相模灘一望のオーシャンフロント！名物海底温泉魚風呂と豪華海鮮ディナーバイキング
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    伊東温泉　サンハトヤ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">伊東温泉　サンハトヤ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     伊豆・伊東の海岸線に堂々とそびえ、全室から相模灘のオーシャンビューを望む海辺の一大温泉リゾートホテル。宿の最大のハイライトは、巨大水槽の中をウミガメや魚たちが悠々と泳ぐ名物の「海底温泉魚風呂」。水族館の中で温泉に浸かっているかのようなユニークな体験が楽しめます。夕食や朝食のバイキングでは、名物の金目鯛の煮付けをはじめ、新鮮な刺身や握り寿司、海鮮舟盛りが並び、魚好きにはたまらない海の幸の饗宴が待っています。伊豆の青い海を眺めながらファミリーやカップルで賑やかに過ごせる名宿です。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ラビスタ函館ベイＡＮＮＥＸを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ラビスタ函館ベイＡＮＮＥＸを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoSpillOverKaisendonStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とラビスタ函館ベイＡＮＮＥＸの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とラビスタ函館ベイＡＮＮＥＸの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

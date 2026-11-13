@@ -195,9 +195,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             SPOT HIGHLIGHTS
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🌟</span> <span>【{spot.name}】ここだけは見ておきたい！3つの見どころポイント</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【{spot.name}】ここだけは見ておきたい！3つの見どころポイント</span></h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -222,9 +220,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             NEARBY HOTELS & INNS
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🏨</span> <span>【{spot.name} 周辺】徒歩・車ですぐ行ける！おすすめ人気ホテル＆温泉宿</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【{spot.name} 周辺】徒歩・車ですぐ行ける！おすすめ人気ホテル＆温泉宿</span></h2>
           <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
             「{spot.name}」を満喫したあとにすぐチェックインできる快適な宿や、天然温泉・絶品料理が自慢の人気ホテルをご案内します。
           </p>
@@ -267,9 +263,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                       <span className="text-amber-600 font-extrabold">⭐ {post.rating}</span>
                     )}
                   </div>
-                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                    {post.hotel_name}
-                  </h3>
+                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{post.hotel_name}</h3>
                   {post.description && (
                     <p className="text-[11px] text-stone-600 leading-relaxed line-clamp-3">
                       {post.description}
@@ -312,9 +306,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
 
         {finalHotelPosts.length > 0 && (
           <div className="pt-6 border-t border-emerald-950/10 space-y-4">
-            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">
-              📊 {spot.name}周辺 おすすめホテル・温泉宿スペック＆料金比較表
-            </h3>
+            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">{spot.name}周辺 おすすめホテル・温泉宿スペック＆料金比較表</h3>
             <div className="overflow-x-auto">
               <table className="w-full text-left text-xs border-collapse bg-white rounded-2xl overflow-hidden border border-stone-200">
                 <thead>
@@ -352,9 +344,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             <span className="text-[10px] font-extrabold text-teal-800 bg-teal-100 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               COMBINED SIGHTSEEING
             </span>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🗺️</span> <span>【{spot.name}】と一緒に巡る！周辺のおすすめ観光名所</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>️</span> <span>【{spot.name}】と一緒に巡る！周辺のおすすめ観光名所</span></h2>
             <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
               「{spot.name}」のすぐ近くにある人気の観光スポット。徒歩や車でスムーズに回れるおすすめルートです。
             </p>
@@ -369,9 +359,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
                       📍 周辺おすすめスポット
                     </span>
                   </div>
-                  <h3 className="text-lg font-black font-journal-serif text-emerald-950">
-                    {sib.name}
-                  </h3>
+                  <h3 className="text-lg font-black font-journal-serif text-emerald-950">{sib.name}</h3>
                   <p className="text-xs text-stone-700 leading-relaxed line-clamp-3">
                     {sib.description}
                   </p>

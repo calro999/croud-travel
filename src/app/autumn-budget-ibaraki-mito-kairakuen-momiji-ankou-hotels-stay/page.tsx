@@ -58,10 +58,8 @@ export default function AutumnBudgetMitoHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            宿泊代2,000円台！浮いた予算で老舗料亭の「あんこうどぶ汁鍋」へ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            宿泊代2,000円台！浮いた予算で老舗料亭の「あんこうどぶ汁鍋」へ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             大洗や北茨城の温泉旅館はあんこう鍋シーズンに高値になりますが、JR水戸駅前に泊まれば2,000円〜3,000円台で良質なビジネスホテルを確保可能。浮いた予算で水戸市内の老舗郷土料理店「山翠」などで肝を炒り込んだ濃厚などぶ汁鍋や地酒を贅沢に味わうのが、大人の賢い旅スタイルです。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              コートホテル水戸
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">コートホテル水戸</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>水戸</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場サウナ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アーク　ライフスタイルスペース＆ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アーク　ライフスタイルスペース＆ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>水戸</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（レイクビュー）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルシーズン
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルシーズン</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>水戸</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅直結ハイクラス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ＪＲ東日本ホテルメッツ水戸
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ＪＲ東日本ホテルメッツ水戸</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>水戸</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetMitoHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（伝統のおもてなし）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              水戸京成ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">水戸京成ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>水戸</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetMitoHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-stone-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の水戸・偕楽園もみじ谷観光のヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-amber-300"><CheckCircle2 className="w-5 h-5" />
+            秋の水戸・偕楽園もみじ谷観光のヒント</h2>
           <p className="text-sm text-amber-100 leading-relaxed">
             偕楽園もみじ谷のライトアップは例年11月中旬〜下旬に開催。谷あいのモミジ約170本が黄金色や朱色に照らし出され、幻想的な散策が楽しめます。夜は水戸駅周辺であんこう鍋をつつきながら茨城の地酒「来福」「森嶋」を味わってください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetMitoHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「水戸：偕楽園もみじ谷ライトアップと旬のあんこう鍋！2,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetMitoHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 水戸エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">水戸エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

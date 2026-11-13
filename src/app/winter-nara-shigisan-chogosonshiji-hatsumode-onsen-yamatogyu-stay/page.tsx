@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、信貴山・生駒・斑鳩を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、信貴山・生駒・斑鳩を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -181,9 +179,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     1
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    聖徳太子ゆかりの毘沙門天総本山！「世界一の福寅」と本堂戒壇巡りで掴む新春最強開運
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">聖徳太子ゆかりの毘沙門天総本山！「世界一の福寅」と本堂戒壇巡りで掴む新春最強開運</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   聖徳太子が開創し、楠木正成や徳川家康など歴代の名将も祈願した信貴山朝護孫子寺。境内には世界一大きな張子の福寅が鎮座。本堂の下を真っ暗闇の中で手探りで巡り、毘沙門天の宝珠に触れてご縁を結ぶ「戒壇巡り」は新春の開運祈願に欠かせない特別な体験です。
@@ -196,9 +192,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     2
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    国登録有形文化財「開運橋」の冬景色と大和盆地を見晴らす本堂舞台の大パノラマ
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">国登録有形文化財「開運橋」の冬景色と大和盆地を見晴らす本堂舞台の大パノラマ</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   信貴山へと架かる日本最古のカンチレバー橋「開運橋」は国の登録有形文化財。冬の澄んだ大気の中、赤く美しいトラス橋と白銀の渓谷が織りなす景観は圧巻。さらに断崖にせり出す本堂舞台からは、冬晴れの大和盆地や遠く三輪山・葛城山まで一望する雄大な景色が広がります。
@@ -211,9 +205,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     3
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    身体の芯から温まる「信貴山温泉」の湯浴みと冬の郷土味覚「名物ぼたん鍋＆大和牛」
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">身体の芯から温まる「信貴山温泉」の湯浴みと冬の郷土味覚「名物ぼたん鍋＆大和牛」</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   信貴山の山懐に湧き出る天然温泉は、肌に優しい単純温泉で冷えた身体を芯から温めてくれます。冬のご馳走は、特製味噌出汁で煮込む滋味豊かな「ぼたん鍋（猪鍋）」と、柔らかな肉質と上品な甘みを持つ奈良のブランド和牛「大和牛」のすき焼き。心身が満たされる大和路の美味です。
@@ -230,17 +222,13 @@ export default function FeaturePage() {
             <div className="flex items-center justify-between border-b border-stone-100 pb-3">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-cyan-700" />
-                <h2 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の現地アクセス・気候・おすすめの服装
-                </h2>
+                <h2 className="text-base sm:text-lg font-bold text-stone-900">冬の現地アクセス・気候・おすすめの服装</h2>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -257,10 +245,8 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -284,9 +270,7 @@ export default function FeaturePage() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              信貴山・生駒・斑鳩 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">信貴山・生駒・斑鳩 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・眺望に秀でた極上宿
             </p>
@@ -319,11 +303,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（117件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105993%2F105993.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F105993%2F105993.html" target="_blank" rel="sponsored noopener noreferrer">
                         柿本家
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>信貴山の緑豊かな山懐に佇み、創業100年を超える歴史と格式を誇る名門料亭旅館。客室からは信貴山の雄大な稜線や渓谷美が一望でき、露天風呂付き客室では冬の澄んだ星空と冷涼な空気を感じながらプライベートな湯浴みが楽しめます。</p>
                       <p>宿の真骨頂である料理は、選び抜かれた奈良の銘柄「大和牛」の炭火焼きや、旬の大和野菜を美しく散りばめた極上の会席料理。日常を忘れ、心静かに特別な記念日や冬の休日を過ごしたい大人のための名宿です。</p>
@@ -385,11 +367,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（515件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8137%2F8137.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F8137%2F8137.html" target="_blank" rel="sponsored noopener noreferrer">
                         天然湧出信貴山温泉　信貴山観光ホテル
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>信貴山朝護孫子寺の門前に位置し、信貴山観光や新春初詣の拠点として絶大な人気を誇る温泉旅館。地下から自然湧出する天然信貴山温泉は、肌に優しくじんわりと温まる単純温泉で、広々とした大浴場や冬の雪景色を望む露天風呂で心ゆくまで癒やされます。</p>
                       <p>夕食の目玉は、冬限定の名物「ぼたん鍋」。特製味噌出汁で煮込む新鮮な猪肉は臭みが全くなく、濃厚な脂の甘みと地場野菜の旨味が溶け合って格別の美味しさを誇ります。</p>
@@ -451,11 +431,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（560件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44913%2F44913.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44913%2F44913.html" target="_blank" rel="sponsored noopener noreferrer">
                         わんわんパラダイス　奈良生駒（旧：亀の井ホテル　大和平群）
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>信貴山の麓、平群の豊かな自然に抱かれた愛犬家御用達のリゾートホテル。大切な愛犬と一緒に気兼ねなく温泉旅行が楽しめる設備が整っており、広々とした客室やドッグランで愛犬ものびのび過ごせます。</p>
                       <p>館内には天然平群温泉が注がれる大浴場があり、美肌効果の高いお湯で冷えた身体を温められます。夕食には大和牛の陶板焼きなど、奈良の味覚を散りばめた会席料理が提供され、家族みんなで笑顔になれる冬の思い出作りをサポートします。</p>
@@ -517,11 +495,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（120件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F129481%2F129481.html" target="_blank" rel="sponsored noopener noreferrer">
                         生駒のお宿　城山旅館
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>生駒山の中腹、宝山寺の参道近くの高台に佇む料理自慢の老舗旅館。宿の最大の魅力は、窓一面に広がる息を呑むような大阪平野の大パノラマ夜景。冬の澄み渡る空気の中で瞬く無数の街明かりを、お部屋にいながら静かに鑑賞できます。</p>
                       <p>お料理は腕利きの料理人が旬の素材を吟味して仕立てる本格和食会席。大和牛のしゃぶしゃぶやすき焼き、冬の旬魚が美しく並び、信貴山初詣と合わせた贅沢な山の手ステイを満喫できます。</p>
@@ -578,11 +554,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（69件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153484%2F153484.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F153484%2F153484.html" target="_blank" rel="sponsored noopener noreferrer">
                         門前おかげ楼
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>生駒山の門前町に佇み、昭和初期の貴重な近代和風建築として国の登録有形文化財に指定されている格式高い料理旅館。歴史を感じさせる欄間や格子窓、重厚な木造の設えが訪れる旅人をノスタルジックな世界へと誘います。</p>
                       <p>料理は漢方や薬膳の知恵を取り入れた体に優しい会席で、冬の冷えを解消し免疫力を高めてくれる鍋料理や季節の小鉢が好評。静けさの中で古き良き日本の美意識に浸る、大人の隠れ家ステイに最適です。</p>
@@ -623,9 +597,7 @@ export default function FeaturePage() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -647,18 +619,14 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の信貴山・生駒・斑鳩旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の信貴山・生駒・斑鳩旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
 
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    信貴山朝護孫子寺の新春初詣の混雑状況や参拝可能時間は？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">信貴山朝護孫子寺の新春初詣の混雑状況や参拝可能時間は？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -672,9 +640,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    信貴山の名物「ぼたん鍋」はどのような特徴がありますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">信貴山の名物「ぼたん鍋」はどのような特徴がありますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -688,9 +654,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    信貴山から法隆寺や奈良公園へは車や電車でどのくらいかかりますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">信貴山から法隆寺や奈良公園へは車や電車でどのくらいかかりますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -707,9 +671,7 @@ export default function FeaturePage() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/nara/"

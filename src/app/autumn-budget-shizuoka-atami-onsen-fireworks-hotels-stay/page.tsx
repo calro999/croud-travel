@@ -55,9 +55,7 @@ export default function AtamiBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            澄んだ秋空に咲く海上花火と温暖な熱海温泉の魅力
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">澄んだ秋空に咲く海上花火と温暖な熱海温泉の魅力</h2>
           <p className="mb-4 text-stone-700">
             熱海海上花火大会は夏だけでなく、10月・11月・12月にも定期開催されています。空気が澄んだ秋の花火は夏以上に鮮明で、山に跳ね返るスタジアムのような大音響は圧巻。浴衣を着て夜風を感じながら見上げる大空中ナイアガラは一生モノの体験です。
           </p>
@@ -69,10 +67,8 @@ export default function AtamiBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！熱海温泉の格安・コスパ宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！熱海温泉の格安・コスパ宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function AtamiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.96</span>
                     <span className="text-stone-400 text-xs">(2449件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルリゾーピア　熱海
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルリゾーピア　熱海</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ熱海駅より徒歩約１０分（無料シャトルバスが定時運行）※無料シャトルバス乗り場はフォトギャラリーでご確認下さいませ。
                   </p>
@@ -142,9 +136,7 @@ export default function AtamiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.12</span>
                     <span className="text-stone-400 text-xs">(171件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">レクトーレ熱海小嵐（ＴＫＰ　Ｈｏｔｅｌｓ　＆　Ｒｅｓｏｒｔｓ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / JR東海道線・熱海駅よりお車にて約15分/JR東海道線来宮駅よりお車にて約8分。
                   </p>
@@ -189,9 +181,7 @@ export default function AtamiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.09</span>
                     <span className="text-stone-400 text-xs">(2811件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    熱海温泉ホテル　夢いろは
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">熱海温泉ホテル　夢いろは</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ熱海駅より徒歩１０分ほど　タクシーならたった5分
                   </p>
@@ -236,9 +226,7 @@ export default function AtamiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.69</span>
                     <span className="text-stone-400 text-xs">(1005件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    熱海温泉　ウオミサキホテル（伊東園ホテルズ）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">熱海温泉　ウオミサキホテル（伊東園ホテルズ）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / ＪＲ東海道新幹線　熱海駅よりバスに乗車、マリンスパあたみ下車で徒歩1分
                   </p>
@@ -283,9 +271,7 @@ export default function AtamiBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 3.88</span>
                     <span className="text-stone-400 text-xs">(986件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    熱海温泉　ホテル　サンミ倶楽部
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">熱海温泉　ホテル　サンミ倶楽部</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 熱海駅 / JR東海道線『熱海駅』より東海バス『マリンスパあたみ』下車　徒歩1分
                   </p>
@@ -330,9 +316,7 @@ export default function AtamiBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の熱海温泉×格安：海上花火大会と相模湾絶景！1泊4,000円台〜のコスパ最強おすすめ温泉宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -384,9 +368,7 @@ export default function AtamiBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の熱海温泉×格安」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の熱海温泉×格安」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

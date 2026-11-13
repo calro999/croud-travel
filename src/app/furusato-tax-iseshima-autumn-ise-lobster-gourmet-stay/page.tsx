@@ -89,9 +89,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            透き通る身の圧倒的な甘みと弾力、香ばしく焼ける味噌の芳香。10月解禁の本場・伊勢海老を名湯とともに味わう贅沢
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">透き通る身の圧倒的な甘みと弾力、香ばしく焼ける味噌の芳香。10月解禁の本場・伊勢海老を名湯とともに味わう贅沢</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             秋の訪れとともに日本全国の美食家が三重県・伊勢志摩を目指す最大の理由、それが毎年10月に一斉に解禁される「伊勢志摩の伊勢エビ漁」です。産卵期を終えて身がぎっしりと詰まり、海水温の低下とともに甘みを極限まで蓄えた秋の初物伊勢海老は、まさに海の宝石。口に入れた瞬間に弾けるような弾力と上品な甘みが広がる「お造り」、炭火の熱で旨味が凝縮した「鬼殻焼き（炭火焼き）」、そして頭の濃厚なカニ味噌のようなエビ味噌から出汁をとった「伊勢海老の赤出汁」まで、本場ならではの鮮度と豪快さで堪能できます。さらに伊勢神宮（内宮・外宮）への秋の御礼参りや、穏やかな鳥羽湾・英虞湾のリアス式海岸の絶景巡りも秋旅の大きな魅力。伊勢志摩屈指の自家源泉と二本のpH9以上の美肌温泉を湛える「サン浦島 悠季の里」、鳥羽駅前すぐの好立地に多彩な湯巡り風呂と老舗の味を誇る「戸田家」、そして鳥羽湾の高台から絶景を望む女性に大人気の美肌温泉宿「鳥羽ビューホテル 花真珠」。楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）を活用して実質自己負担2,000円で賢く予約し、至福の伊勢海老美食旅へ出かけましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  10月解禁の初物！本場・伊勢志摩の獲れたて「活伊勢海老」フルコース
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">10月解禁の初物！本場・伊勢志摩の獲れたて「活伊勢海老」フルコース</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ピチピチと動く鮮度抜群の伊勢海老のお造り、香ばしい焼き伊勢海老、エビ味噌が溶け出す具だくさんの赤出汁と、伊勢海老の旨味を余すところなく味わえます。
@@ -122,9 +118,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  伊勢神宮秋の参拝とおかげ横丁散策！紅葉の五十鈴川と神聖な森のパワー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">伊勢神宮秋の参拝とおかげ横丁散策！紅葉の五十鈴川と神聖な森のパワー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 気候爽やかな秋は伊勢神宮参拝のベストシーズン。神域を流れる五十鈴川の紅葉を愛で、おかげ横丁で赤福や伊勢うどんの食べ歩きを楽しめます。
@@ -137,9 +131,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  pH9以上の美肌名湯「鳥羽本浦温泉」と鳥羽湾・英虞湾のオーシャンビュー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">pH9以上の美肌名湯「鳥羽本浦温泉」と鳥羽湾・英虞湾のオーシャンビュー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 とろりとした肌触りで湯上がりの肌をしっとりスベスベにする良質なアルカリ性温泉。波静かなリアス式海岸の海を眺めながら極上のリラクゼーションに浸れます。
@@ -174,9 +166,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                       ★ 4.65 <span className="text-stone-400 text-xs">(1,027件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    鳥羽本浦温泉　サン浦島　悠季の里
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">鳥羽本浦温泉　サン浦島　悠季の里</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 三重県鳥羽市本浦温泉 ｜ 伊勢自動車道→伊勢二見鳥羽ライン→直進約２５分/近鉄鳥羽駅1番出口より無料送迎バス約20分（要予約）15時16時17時
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                       ★ 4.44 <span className="text-stone-400 text-xs">(2,262件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    伊勢志摩国立公園　／　鳥羽温泉郷　戸田家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">伊勢志摩国立公園　／　鳥羽温泉郷　戸田家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 三重県鳥羽市鳥羽1丁目24-26 ｜ 【電車】近鉄・JR鳥羽駅より徒歩3分（送迎有）【お車】伊勢道伊勢ICより伊勢二見鳥羽ライン経由約15分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
                       ★ 4.38 <span className="text-stone-400 text-xs">(1,676件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    鳥羽ビューホテル　花真珠
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">鳥羽ビューホテル　花真珠</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 三重県鳥羽市安楽島町1075-98 ｜ 伊勢神宮より車で３０分/近鉄 鳥羽駅から車で8分／伊勢自動車道伊勢西ＩＣより２５分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鳥羽本浦温泉 サン浦島 悠季の里を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鳥羽本浦温泉 サン浦島 悠季の里を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoIseshimaAutumnIseLobsterStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鳥羽本浦温泉 サン浦島 悠季の里の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鳥羽本浦温泉 サン浦島 悠季の里の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

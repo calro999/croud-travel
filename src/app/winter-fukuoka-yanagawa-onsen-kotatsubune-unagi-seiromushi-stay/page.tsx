@@ -248,12 +248,10 @@ export default function WinterFukuokaYanagawaPage() {
             11月・12月 冬のこたつ舟＆元祖うなぎせいろ蒸し特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福岡・水郷柳川】冬の風物詩「こたつ舟」川下り
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福岡・水郷柳川】冬の風物詩「こたつ舟」川下り
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物元祖うなぎのせいろ蒸し＆博多和牛会席を味わう城下町・掘割温泉名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、詩人・北原白秋の故郷として知られる水郷・福岡県柳川は、どんこ舟に温かい火鉢やこたつを乗せた冬の風物詩「こたつ舟」が運航を開始し、1年で最も情緒豊かな季節を迎えます。掘割沿いの柳並木やなまこ壁の白壁土塀をぬくぬく温まりながら巡る川下り、旧柳川藩主立花家別邸「御花」の美しい松涛園、そして冷えた身体を芯から解きほぐす天然温泉。湯気を上げる名物「元祖うなぎのせいろ蒸し」の香ばしいタレの香り、有明海の冬の珍味、極上の博多和牛会席を味わう城下町の厳選名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterFukuokaYanagawaPage() {
             <Landmark className="w-4 h-4" />
             水郷柳川の初冬の魅力
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            ぬくもりのこたつ舟に揺られ、香ばしいうなぎの湯気に包まれる。冬の柳川だけの特別な旅情
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">ぬくもりのこたつ舟に揺られ、香ばしいうなぎの湯気に包まれる。冬の柳川だけの特別な旅情</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               福岡県南部に位置する水郷・柳川（やながわ）は、市内全域に全長約930kmにおよぶ網の目のような掘割（クリーク）が張り巡らされた日本屈指の水辺の城下町です。戦国大名・立花宗茂が築いた城下町の面影が今なお色濃く残り、白壁土塀や赤レンガ造りの並倉、水面に枝を垂らす柳並木が独特の情緒を醸し出します。春から秋の川下りも風情がありますが、柳川が最も温かな情緒に満たされるのは、肌寒さを感じる11月下旬から12月にかけての初冬の季節です。
@@ -308,9 +304,7 @@ export default function WinterFukuokaYanagawaPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の水郷柳川を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の水郷柳川を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               冬の城下町でしか体験できない、風情と美食の魅力
             </p>
@@ -321,9 +315,7 @@ export default function WinterFukuokaYanagawaPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Flame className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                冬の風物詩「こたつ舟」どんこ舟川下り
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">冬の風物詩「こたつ舟」どんこ舟川下り</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 豆炭こたつで足元ぬくぬく。初冬の静かな掘割、白壁土塀や赤レンガ並倉を船頭さんの舟歌とともに約70分巡る至福の舟遊び。
               </p>
@@ -333,9 +325,7 @@ export default function WinterFukuokaYanagawaPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                熱々ふっくら元祖うなぎのせいろ蒸し
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">熱々ふっくら元祖うなぎのせいろ蒸し</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 タレご飯と香ばしい蒲焼き、錦糸卵をせいろで蒸し上げる伝統の味。有明海の冬海鮮や極上博多和牛会席とともに堪能。
               </p>
@@ -345,9 +335,7 @@ export default function WinterFukuokaYanagawaPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                水郷に湧く美肌の天然温泉＆大名屋敷
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">水郷に湧く美肌の天然温泉＆大名屋敷</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 身体の芯まで温まる弱アルカリ性炭酸水素塩泉。国名勝「松涛園」の庭園ライトアップや白秋ゆかりの歴史散策を満喫。
               </p>
@@ -361,9 +349,7 @@ export default function WinterFukuokaYanagawaPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-teal-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              福岡・水郷柳川温泉の城下町・掘割名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">福岡・水郷柳川温泉の城下町・掘割名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,9 +397,7 @@ export default function WinterFukuokaYanagawaPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -487,9 +471,7 @@ export default function WinterFukuokaYanagawaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の水郷柳川を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の水郷柳川を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -517,34 +499,26 @@ export default function WinterFukuokaYanagawaPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              水郷柳川の初冬グルメ完全ガイド！うなぎ・有明海鮮・博多和牛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">水郷柳川の初冬グルメ完全ガイド！うなぎ・有明海鮮・博多和牛</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-amber-300" />
-                元祖うなぎのせいろ蒸し
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-amber-300" />
+                元祖うなぎのせいろ蒸し</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 秘伝のタレを絡めたご飯の上に炭火蒲焼きと錦糸卵を敷き詰め、せいろごと蒸し上げる江戸時代からの郷土料理。余分な脂が落ち、ふっくら極上の柔らかさに仕上がった熱々の鰻は、冬にこそ味わいたい至高の逸品です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-orange-300" />
-                有明海の冬海鮮＆タイラギ貝柱
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-orange-300" />
+                有明海の冬海鮮＆タイラギ貝柱</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 日本一の干満差を誇る有明海から届く冬の海の幸。甘みたっぷりの高級タイラギ貝柱の刺身や塩焼き、クチゾコ（舌平目）の煮付け、香ばしいムツゴロウの蒲焼きなど、ここでしか出逢えない個性豊かな珍味が揃います。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                極上博多和牛＆八女茶・あまおう
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                極上博多和牛＆八女茶・あまおう</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 福岡県が誇るブランド牛「博多和牛」の陶板ステーキかすき焼き小鍋。柔らかくジューシーな赤身と脂の甘みが絶品です。食後には近隣の銘茶「八女茶」や、初冬から旬を迎える「あまおう苺」のスイーツが華を添えます。
               </p>
@@ -558,15 +532,11 @@ export default function WinterFukuokaYanagawaPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の水郷柳川温泉 交通アクセス＆散策のアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の水郷柳川温泉 交通アクセス＆散策のアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                福岡市内からのアクセス＆お得なきっぷ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                福岡市内からのアクセス＆お得なきっぷ</h3>
               <p>
                 西鉄福岡（天神）駅から西鉄天神大牟田線の特急電車に乗車すれば、乗り換えなし・約48分で西鉄柳川駅に到着します。電車往復割引券、川下り乗船券、せいろ蒸し食事券がセットになった「柳川特選うなぎきっぷ」が非常に便利でお得です。
               </p>
@@ -576,10 +546,8 @@ export default function WinterFukuokaYanagawaPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                冬の川下りの防寒対策とおすすめ時間帯
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                冬の川下りの防寒対策とおすすめ時間帯</h3>
               <p>
                 12月の柳川は最高気温11〜13℃、最低気温3〜5℃前後です。こたつ舟は足元が温かいですが、川面の風が冷たいため、風を通さない厚手のダウンコート、手袋、マフラーを着用してください。
               </p>
@@ -596,16 +564,12 @@ export default function WinterFukuokaYanagawaPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の水郷柳川温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の水郷柳川温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -617,10 +581,8 @@ export default function WinterFukuokaYanagawaPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい九州の冬温泉・旬グルメ特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい九州の冬温泉・旬グルメ特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の味覚や雪見露天、温泉街散策を満喫する九州各地の厳選旅ガイド
             </p>
@@ -632,9 +594,7 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">福岡・原鶴温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                原鶴温泉のダブル美肌の湯と博多和牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">原鶴温泉のダブル美肌の湯と博多和牛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 筑後川の雄大な流れを望む名湯と、とろける博多和牛を堪能。
               </p>
@@ -645,9 +605,7 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">佐賀・武雄温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                武雄温泉の朱塗り楼門名湯と佐賀牛ステーキ会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">武雄温泉の朱塗り楼門名湯と佐賀牛ステーキ会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 1300年の歴史を誇る美肌名湯と極上の佐賀牛を満喫。
               </p>
@@ -658,9 +616,7 @@ export default function WinterFukuokaYanagawaPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・人吉温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                人吉温泉の球磨川朝霧絶景と落ち鮎・球磨牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">人吉温泉の球磨川朝霧絶景と落ち鮎・球磨牛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 朝霧の都・人吉の幻想的な城下町風景と相良700年の名湯巡り。
               </p>

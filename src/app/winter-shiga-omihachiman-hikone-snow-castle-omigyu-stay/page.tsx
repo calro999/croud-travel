@@ -301,9 +301,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              白銀に染まる国宝天守の気品と、日本最古の銘牛「近江牛」を囲む冬の贅沢
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀に染まる国宝天守の気品と、日本最古の銘牛「近江牛」を囲む冬の贅沢</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -357,9 +355,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <Sparkles className="w-4 h-4 text-indigo-800" />
               楽天トラベル公式連携・厳選宿
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">
-              彦根城雪景色と近江牛を味わう名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 mt-2">彦根城雪景色と近江牛を味わう名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               ※表示料金は楽天トラベルAPIより取得した参考最低価格です。時期や宿泊プランにより変動します。
             </p>
@@ -402,9 +398,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                      {hotel.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                     <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                       {hotel.story}
@@ -455,18 +449,14 @@ export default function ShigaOmihachimanHikoneWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-indigo-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Route</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の滋賀・彦根＆近江八幡 2泊3日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の滋賀・彦根＆近江八幡 2泊3日王道モデルコース</h2>
           </div>
 
           <div className="space-y-6 text-sm sm:text-base text-stone-700">
             {/* Day 1 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                1日目：米原・彦根駅到着・雪の夢京橋キャッスルロードと国宝彦根城天守＆玄宮園
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">1日目：米原・彦根駅到着・雪の夢京橋キャッスルロードと国宝彦根城天守＆玄宮園</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東海道新幹線米原駅またはJR彦根駅に到着後、城下町「夢京橋キャッスルロード」へ。白壁と格子戸が美しい江戸情緒あふれる町並みで近江牛にぎり寿司をランチに味わいます。午後は国宝・彦根城へ。白雪をまとった木造天守閣に登り、名勝「玄宮園」の池越しに雪景色の大名庭園と天守を見上げる絶景を堪能。夕方に城見の温泉リゾートへチェックインし、展望風呂からライトアップされた雪の彦根城を眺め、A5近江牛すき焼きディナーに舌鼓。
               </p>
@@ -475,9 +465,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
             {/* Day 2 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                2日目：多賀大社参拝と湖東三山百済寺雪景色＆八幡堀こたつ舟
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">2日目：多賀大社参拝と湖東三山百済寺雪景色＆八幡堀こたつ舟</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 午前中は「お多賀さん」の名で親しまれる名刹・多賀大社へ参拝し、名物の糸切餅を賞味。続いて国指定史跡・湖東三山の名刹「百済寺」へ向かい、冬枯れの山寺に降り積もる静寂の白雪と天下遠望の名園を散策。午後は近江八幡へ移動し、冬期限定の「豆炭こたつ舟」に乗って水郷めぐり。温かいこたつに入りながら葦原と水鳥の冬景色を満喫。夜は琵琶湖畔の宿で宮ヶ浜温泉に浸かり、冬の湖魚会席を味わいます。
               </p>
@@ -486,9 +474,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
             {/* Day 3 */}
             <div className="relative pl-6 border-l-2 border-indigo-700 space-y-2">
               <div className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-indigo-700" />
-              <h3 className="font-bold text-stone-900 text-base">
-                3日目：近江八幡商家町散策・ラコリーナ近江八幡と名物グルメ＆お土産調達
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base">3日目：近江八幡商家町散策・ラコリーナ近江八幡と名物グルメ＆お土産調達</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 最終日は近江商人の本拠地・新町通りや八幡堀沿いを朝散歩。白雲館や旧西川家住宅の歴史的建造物を見学。続いてたねやグループのフラッグシップ「ラコリーナ近江八幡」へ。草屋根の雪景色を眺めながら、名物の焼きたてバームクーヘンやつぶら餅を堪能。近江牛の味噌漬けや赤こんにゃくをお土産に調達し、近江八幡駅または米原駅から帰路へ。
               </p>
@@ -502,9 +488,7 @@ export default function ShigaOmihachimanHikoneWinterPage() {
             <ThermometerSun className="w-4 h-4 text-indigo-300" />
             現地リアルアドバイス
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold">
-            冬の湖東・彦根＆近江八幡を快適に巡るための積雪・服装・運転注意点
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">冬の湖東・彦根＆近江八幡を快適に巡るための積雪・服装・運転注意点</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm text-slate-200 leading-relaxed pt-2">
             <div className="space-y-2 bg-slate-950/50 p-4 rounded-2xl border border-slate-800">
               <span className="font-bold text-white block">【積雪とレンタカー：スタッドレスタイヤ必須】</span>
@@ -528,26 +512,20 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <ShoppingBag className="w-4 h-4 text-indigo-800" />
               湖東・滋賀の冬名物＆厳選おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              近江商人の伝統と豊かな湖が育んだ珠玉の銘品
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">近江商人の伝統と豊かな湖が育んだ珠玉の銘品</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                クラブハリエのバームクーヘン・たねやの栗大福
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                クラブハリエのバームクーヘン・たねやの栗大福</h3>
               <p>
                 近江八幡に本店を構える名店「たねや」「クラブハリエ」。しっとりふんわり焼き上げられたバームクーヘンは、全国にファンを持つ滋賀を代表するスイーツ。冬限定のショコラバームや、ラコリーナ近江八幡でしか買えない限定パッケージの和菓子は大切な方への手土産に最適です。
               </p>
             </div>
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-indigo-700" />
-                近江牛味噌漬け・赤こんにゃく・鮒寿司
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-indigo-700" />
+                近江牛味噌漬け・赤こんにゃく・鮒寿司</h3>
               <p>
                 江戸時代に将軍家へ献上された近江牛の味噌漬けは、芳醇な味噌の香りと肉の甘みが染み渡る極上の伝統保存食。さらに織田信長が好んだとされる名物「赤こんにゃく」や、琵琶湖固有のニゴロナブナで仕込む発酵の極致「鮒寿司」は、冬の滋賀の奥深い食文化を伝える逸品です。
               </p>
@@ -562,27 +540,21 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <Compass className="w-4 h-4 text-indigo-800" />
               湖東歴史文化ディープダイブ
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ彦根藩で近江牛が守られ、近江商人の「三方よし」が生まれたのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ彦根藩で近江牛が守られ、近江商人の「三方よし」が生まれたのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-700" />
-                徳川将軍家を虜にした彦根藩の「反本丸（養生薬）」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+                徳川将軍家を虜にした彦根藩の「反本丸（養生薬）」</h3>
               <p>
                 仏教の影響で肉食が固く禁じられていた江戸時代、彦根藩だけが幕府から牛の屠殺と皮の加工（太鼓や武具の製造）を公式に許されていました。その副産物である牛肉を味噌漬けにして「滋養強壮の薬」として幕府や大名に献上したのが近江牛の始まりです。寒さ厳しい冬を乗り切るための最高級の薬膳として珍重され、近代のブランド牛文化の礎を築きました。
               </p>
             </div>
 
             <div className="space-y-2 bg-white p-5 rounded-2xl border border-stone-100 shadow-2xs">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Castle className="w-4 h-4 text-indigo-700" />
-                八幡堀の水運と「三方よし」精神が紡いだまちづくりの奇跡
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Castle className="w-4 h-4 text-indigo-700" />
+                八幡堀の水運と「三方よし」精神が紡いだまちづくりの奇跡</h3>
               <p>
                 豊臣秀次が築いた八幡堀は、琵琶湖の往来船をすべて城下町に引き込む画期的な運河でした。天秤棒を担いで全国を行商した近江商人たちは、八幡堀の水運を活かして巨万の富を築きました。その根本にあった「売り手よし、買い手よし、世間よし」の哲学は、私利私欲に走らず社会に貢献するという持続可能な商いの原点。冬の雪に包まれる八幡堀の静寂には、高潔な商人たちの魂が今も息づいています。
               </p>
@@ -597,18 +569,14 @@ export default function ShigaOmihachimanHikoneWinterPage() {
               <HelpCircle className="w-4 h-4 text-indigo-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬・厳冬期の彦根・近江八幡旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬・厳冬期の彦根・近江八幡旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

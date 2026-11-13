@@ -58,10 +58,8 @@ export default function AutumnBudgetFukuiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-blue-600" />
-            宿泊代3,000円台！浮いた予算で極上若狭牛＆地酒黒龍を味わい尽くす
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-blue-600" />
+            宿泊代3,000円台！浮いた予算で極上若狭牛＆地酒黒龍を味わい尽くす</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             北陸新幹線が開業し東京からのアクセスが劇的に便利になった福井。11月上旬には冬の王者「越前がに」が解禁され、秋から冬にかけてグルメが最高潮を迎えます。市内のホテルを3,000円〜4,000円台で賢く抑えて、浮いた予算を本場の越前がに料理や福井銘酒「黒龍」「一本義」の飲み比べに贅沢に充てる旅がおすすめです。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（リゾート満喫）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ９ＳＴＡＹリゾートテクノポート福井
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">９ＳＴＡＹリゾートテクノポート福井</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>芦原温泉</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然温泉◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              福井アカデミアホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">福井アカデミアホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福井（福井）</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（超高評価★4.59）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              Ｋ＆Ｎサンドーム福井ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">Ｋ＆Ｎサンドーム福井ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>鯖江</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（繁華街中心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテルフジタ福井
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルフジタ福井</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福井（福井）</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前露天大浴場）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              福井マンテンホテル駅前（マンテンホテルグループ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">福井マンテンホテル駅前（マンテンホテルグループ）</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>福井（福井）</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetFukuiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-blue-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の福井観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-blue-300"><CheckCircle2 className="w-5 h-5" />
+            秋の福井観光を満喫するヒント</h2>
           <p className="text-sm text-blue-100 leading-relaxed">
             東尋坊の夕陽鑑賞後は遊歩道が暗くなるため足元に注意を。福井名物「ヨーロッパ軒」のソースカツ丼は薄切りのロース・モモ肉がきめ細かい特製パン粉でカリッと揚げられ、ウスターソースの酸味が絶妙。夜はおろしそばとのセットで福井の味覚を制覇しましょう。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 福井：東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">福井：東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「福井：東尋坊の日本海夕陽と越前秋グルメ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetFukuiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 福井で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">福井で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

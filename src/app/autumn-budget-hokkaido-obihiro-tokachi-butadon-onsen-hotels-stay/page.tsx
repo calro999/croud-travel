@@ -58,10 +58,8 @@ export default function AutumnBudgetObihiroHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-orange-600" />
-            宿泊代2,000円台！浮いた予算でスイーツ王国六花亭＆極上十勝牛ステーキ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-orange-600" />
+            宿泊代2,000円台！浮いた予算でスイーツ王国六花亭＆極上十勝牛ステーキ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             北海道の中でも圧倒的なグルメクオリティを誇る十勝・帯広。帯広駅周辺は世界屈指の美肌湯「モール温泉」を引いたホテルが多く、2,000円台〜3,000円台で温泉とサウナを満喫できる超高コスパエリアです。浮いた予算で元祖豚丼のぱんちょうや十勝乃長屋の屋台ハシゴ酒、六花亭本店の出来立てサクサクパイを味わい尽くしましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（破格プライス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              クロスコートホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">クロスコートホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>帯広</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅前安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈帯広駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈帯広駅前〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>帯広</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（天然モール温泉）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天然温泉　拓聖の湯　スーパーホテルＰｒｅｍｉｅｒ帯広駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天然温泉　拓聖の湯　スーパーホテルＰｒｅｍｉｅｒ帯広駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>帯広</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（本格サウナ満喫）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              十勝ガーデンズホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">十勝ガーデンズホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>帯広</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食クチコミ絶賛）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル帯広駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル帯広駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>帯広</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetObihiroHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-orange-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の十勝・帯広観光の満喫ポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-orange-300"><CheckCircle2 className="w-5 h-5" />
+            秋の十勝・帯広観光の満喫ポイント</h2>
           <p className="text-sm text-orange-100 leading-relaxed">
             十勝牧場の白樺並木や福原山荘の紅葉は10月が見頃。帯広名物「豚丼」は肉の厚みやタレの甘辛さが店ごとに異なるため昼夜での食べ比べもおすすめ。夜は「北の屋台」や「十勝乃長屋」で地元の人々と語らいながら十勝ワインやチーズを楽しんでください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「帯広：十勝平野の実りの秋と名物豚丼！植物性モール温泉・2,000円台〜ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetObihiroHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「帯広」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「帯広」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

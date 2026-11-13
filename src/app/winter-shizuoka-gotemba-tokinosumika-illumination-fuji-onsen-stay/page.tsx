@@ -190,10 +190,8 @@ export default function GotembaTokinosumikaPage() {
       <main className="max-w-5xl mx-auto px-4 py-12">
         {/* リード文・見どころ詳細解説 */}
         <section className="bg-white rounded-2xl p-6 sm:p-10 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4">
-            <Eye className="w-6 h-6 text-amber-600" />
-            550万球が織りなす光の魔法！白銀の富士を望む高原のオアシス「時之栖」
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-950 mb-6 flex items-center gap-2.5 border-b border-slate-100 pb-4"><Eye className="w-6 h-6 text-amber-600" />
+            550万球が織りなす光の魔法！白銀の富士を望む高原のオアシス「時之栖」</h2>
 
           <div className="space-y-5 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -212,10 +210,8 @@ export default function GotembaTokinosumikaPage() {
 
           {/* 現地攻略インフォボックス */}
           <div className="mt-8 bg-amber-50/70 border border-amber-100 rounded-xl p-5 sm:p-6">
-            <h3 className="text-base font-bold text-amber-950 mb-3 flex items-center gap-2">
-              <Info className="w-5 h-5 text-amber-600" />
-              時之栖イルミネーション攻略：満足度を2倍にする3つのポイント
-            </h3>
+            <h3 className="text-base font-bold text-amber-950 mb-3 flex items-center gap-2"><Info className="w-5 h-5 text-amber-600" />
+              時之栖イルミネーション攻略：満足度を2倍にする3つのポイント</h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm text-amber-900">
               <div className="bg-white p-3.5 rounded-lg border border-amber-100">
                 <span className="font-bold text-amber-700 block mb-1">1. 無料エリアと有料エリアを使い分け</span>
@@ -239,9 +235,7 @@ export default function GotembaTokinosumikaPage() {
             <span className="text-xs sm:text-sm font-extrabold text-amber-600 tracking-wider uppercase bg-amber-50 px-3.5 py-1.5 rounded-full border border-amber-100">
               Selected 5 Gotemba Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">
-              時之栖・御殿場で富士山絶景と天然温泉を堪能する厳選ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-3">時之栖・御殿場で富士山絶景と天然温泉を堪能する厳選ホテル5選</h2>
             <p className="text-sm text-slate-600 mt-2 max-w-2xl mx-auto">
               イルミネーション会場直結のリゾートホテルから、富士山大パノラマの隠れ家、アウトレット直結の天然温泉宿まで、冬の滞在に最適な宿を厳選しました。
             </p>
@@ -266,16 +260,14 @@ export default function GotembaTokinosumikaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F67487%2F67487.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     御殿場高原　時之栖(ときのすみか)
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -296,10 +288,8 @@ export default function GotembaTokinosumikaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>「ひかりのすみか」会場が目の前！点灯から消灯まで光の祭典を満喫</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>天然温泉「気楽坊」直結！死海風呂や富士山展望露天で湯浴み三昧</span></li>
@@ -353,16 +343,14 @@ export default function GotembaTokinosumikaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128483%2F128483.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     ホテルリゾート&amp;レストラン　マースガーデンウッド御殿場
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -383,10 +371,8 @@ export default function GotembaTokinosumikaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>広大な敷地に広がる日本庭園と地下1,500mから汲み上げる天然温泉大浴場</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>全室ゆとりの広さを誇る客室と富士山または庭園を望むプライベート空間</span></li>
@@ -440,16 +426,14 @@ export default function GotembaTokinosumikaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F106186%2F106186.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     レンブラントプレミアム富士御殿場
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -470,10 +454,8 @@ export default function GotembaTokinosumikaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>すべての客室の窓から雪化粧した雄大な富士山を真正面に望む特等席</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>富士山を眼前に望む展望大浴場と極上のサウナで心身を解き放つ整い体験</span></li>
@@ -527,16 +509,14 @@ export default function GotembaTokinosumikaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F182462%2F182462.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     天然温泉　富士桜の湯　ドーミーインＥＸＰＲＥＳＳ富士山御殿場（ドーミーイン・御宿野乃グループ）
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -557,10 +537,8 @@ export default function GotembaTokinosumikaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>屋上足湯テラス「富士見テラス」から望む遮るもののない大迫力の霊峰富士</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>天然温泉「富士桜の湯」＆本格ドライサウナ・セルフロウリュ・強冷水風呂完備</span></li>
@@ -614,16 +592,14 @@ export default function GotembaTokinosumikaPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F176577%2F176577.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-amber-600 transition-colors"
                   >
                     ＨＯＴＥＬ　ＣＬＡＤ
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -644,10 +620,8 @@ export default function GotembaTokinosumikaPage() {
 
                   <div className="w-full flex flex-col justify-between">
                     <div>
-                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5">
-                        <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                        この宿の注目ポイント
-                      </h4>
+                      <h4 className="text-sm font-bold text-slate-800 mb-2 flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                        この宿の注目ポイント</h4>
                       <ul className="space-y-1.5 mb-4 text-xs sm:text-sm text-slate-600">
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>御殿場プレミアム・アウトレット敷地内！ショッピングと温泉を両立</span></li>
                         <li className="flex items-start gap-2"><span className="text-amber-500 font-bold">•</span><span>自家源泉の温浴施設「木の花の湯」を無料で利用できる圧倒的付加価値</span></li>
@@ -688,18 +662,14 @@ export default function GotembaTokinosumikaPage() {
 
         {/* 1泊2日モデルコース */}
         <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-sm mb-12">
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5">
-            <Compass className="w-6 h-6 text-amber-600" />
-            【1泊2日】アウトレット買い物＆時之栖イルミネーション満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-6 flex items-center gap-2.5"><Compass className="w-6 h-6 text-amber-600" />
+            【1泊2日】アウトレット買い物＆時之栖イルミネーション満喫モデルコース</h2>
 
           <div className="space-y-6">
             <div className="border-l-2 border-amber-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-amber-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-amber-600 uppercase tracking-wider mb-1">1日目：午前〜昼過ぎ</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                東京・新宿発 ➔ 御殿場プレミアム・アウトレットで冬物ショッピング＆富士山鑑賞
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">東京・新宿発  御殿場プレミアム・アウトレットで冬物ショッピング＆富士山鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 東名高速道路または直行高速バスで御殿場プレミアム・アウトレットへ。冬のクリアな青空に映える富士山を眺めながら、国内外の人気ブランドで冬のバーゲンショッピングを満喫。ランチには静岡の銘柄牛ハンバーグや富士宮やきそばなど地元グルメを味わいます。
               </p>
@@ -708,9 +678,7 @@ export default function GotembaTokinosumikaPage() {
             <div className="border-l-2 border-orange-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-orange-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-orange-600 uppercase tracking-wider mb-1">1日目：夕方〜夜</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                ホテルチェックイン ➔ 時之栖「ひかりのすみか」観賞＆御殿場高原ビールディナー
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">ホテルチェックイン  時之栖「ひかりのすみか」観賞＆御殿場高原ビールディナー</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ホテルへ移動しチェックイン後、17時の点灯とともに「ひかりのすみか」会場へ。全長300mの光のトンネルをくぐり、ヴェルサイユの光で圧巻の噴水レーザーショーを鑑賞。夕食は御殿場高原ビールレストランで、出来立てのクラフトビールとローストポークを心ゆくまで堪能。食後は天然温泉「気楽坊」で芯まで温まります。
               </p>
@@ -719,9 +687,7 @@ export default function GotembaTokinosumikaPage() {
             <div className="border-l-2 border-emerald-500 pl-4 sm:pl-6 relative">
               <span className="absolute -left-2 top-0 w-3.5 h-3.5 rounded-full bg-emerald-500 ring-4 ring-white" />
               <div className="text-xs font-bold text-emerald-600 uppercase tracking-wider mb-1">2日目：午前〜午後</div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">
-                朝の富士山展望風呂 ➔ とらや工房＆東山旧岸邸で優雅な甘味タイム ➔ 帰路へ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2">朝の富士山展望風呂  とらや工房＆東山旧岸邸で優雅な甘味タイム  帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 朝、白銀の富士山頂が朝日に照らされる「紅富士」を展望風呂から鑑賞。チェックアウト後は、竹林の静寂に包まれた和菓子の名店「とらや工房」へ立ち寄り、出来立てのどら焼きとお抹茶で一服。午後は東名御殿場ICからスムーズに帰路につきます。
               </p>
@@ -734,10 +700,8 @@ export default function GotembaTokinosumikaPage() {
 
         {/* 内部リンク・関連特集セクション */}
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-8 border border-slate-800 shadow-md">
-          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2">
-            <Heart className="w-5 h-5 text-rose-400" />
-            あわせて読みたい！冬の富士山・静岡温泉旅おすすめ特集
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold mb-4 flex items-center gap-2"><Heart className="w-5 h-5 text-rose-400" />
+            あわせて読みたい！冬の富士山・静岡温泉旅おすすめ特集</h2>
           <p className="text-xs sm:text-sm text-slate-300 mb-6 leading-relaxed">
             冬の静岡・富士山麓には、空気が澄み渡る絶景ビュースポットや熱海・伊豆の温暖な温泉郷など、多彩な魅力が詰まっています。
           </p>

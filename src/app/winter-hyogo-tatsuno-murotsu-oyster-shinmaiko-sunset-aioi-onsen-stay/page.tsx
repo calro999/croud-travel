@@ -109,9 +109,7 @@ export default function WinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 11月〜12月初冬の厳選狙い目特集</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【播磨灘の初冬の味覚・室津牡蠣解禁と小京都たつの白壁散策】2026-2027年11-12月の兵庫・西播磨！加熱しても縮まない極上室津かき尽くしと新舞子海岸の絶景夕日・播磨灘オーシャンビュー温泉名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             11月中旬に待望の漁解禁を迎える播磨灘の極上ブランド「室津牡蠣（むろつがき）」！加熱しても身が縮まず、濃厚な甘みと弾力を誇る焼き牡蠣・牡蠣鍋を本場で味わう至福の初冬旅。「播磨の小京都」龍野の風情ある武家屋敷・白壁の町並み散策と、干潟が茜色に染まる新舞子海岸のサンセット。瀬戸内海を一望するパノラマ露天風呂に癒やされる厳選名宿5選。
           </p>
@@ -130,39 +128,31 @@ export default function WinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが11〜12月の旅におすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが11〜12月の旅におすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>11月中旬解禁！加熱しても身が縮まない極上ブランド「室津牡蠣」を本場で堪能</span>
-            </h3>
+              <span>11月中旬解禁！加熱しても身が縮まない極上ブランド「室津牡蠣」を本場で堪能</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               揖保川・千種川の森の恵みで育つ室津の牡蠣は、大粒でぷりっぷり、火を通しても縮まない奇跡の弾力とミルキーな甘みが特徴。焼き牡蠣、牡蠣鍋、カキフライと本場のフルコースは圧巻です。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>播磨の小京都「龍野城下町」！白壁土蔵と武家屋敷が織りなす冬の情緒散策</span>
-            </h3>
+              <span>播磨の小京都「龍野城下町」！白壁土蔵と武家屋敷が織りなす冬の情緒散策</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               国の重伝建地区に選ばれた龍野の町並み。龍野城跡の白壁や古い醤油蔵、武家屋敷通りが初冬の澄んだ青空に映え、赤とんぼの叙情あふれる静かな歴史歩きが楽しめます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>新舞子海岸の「黄金色の干潟夕日」と播磨灘パノラマ露天風呂の絶景ステイ</span>
-            </h3>
+              <span>新舞子海岸の「黄金色の干潟夕日」と播磨灘パノラマ露天風呂の絶景ステイ</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               干潮と夕暮れが重なる時に現れる新舞子海岸の神秘的な潮紋絶景。瀬戸内海を見下ろす高台や波打ち際の露天風呂から、夕陽と満天の星を眺める極上のリゾート滞在が叶います。
             </p>
@@ -177,9 +167,7 @@ export default function WinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                初冬を満喫する厳選名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">初冬を満喫する厳選名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  新舞子ガーデンホテル
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">新舞子ガーデンホテル</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  ＨＯＴＥＬ万葉岬
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">ＨＯＴＥＬ万葉岬</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  相生ステーションホテル　アネックス
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">相生ステーションホテル　アネックス</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  赤穂温泉　潮彩きらら　祥吉
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">赤穂温泉　潮彩きらら　祥吉</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function WinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  赤穂温泉　絶景露天風呂の宿　銀波荘
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">赤穂温泉　絶景露天風呂の宿　銀波荘</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function WinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>室津の牡蠣はなぜ「加熱しても縮まない」のですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>室津の牡蠣はなぜ「加熱しても縮まない」のですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               室津湾は揖保川と千種川からミネラル豊富な栄養塩が絶え間なく供給され、プランクトンが日本屈指の豊富さを誇ります。この豊かな環境で育つため、一般的な産地では2〜3年かかるサイズにわずか1年（半年〜10ヶ月）の猛スピードで育ちます。細胞壁が若く水分をしっかり抱え込んでいるため、加熱しても縮まずプリプリの弾力が保たれるのです。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>新舞子海岸の「干潟の夕日」はいつ見られますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>新舞子海岸の「干潟の夕日」はいつ見られますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               干潟の美しい砂紋と夕陽のコラボレーションは、「大潮前後の干潮時間」と「日没時間（16:30〜17:15頃）」が重なる日に現れます。冬場は空気が乾燥して澄み渡るため、水平線まで茜色から紫色のグラデーションが美しく広がり、全国の写真愛好家が訪れる絶景スポットとなります。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>龍野城下町でおすすめのグルメやお土産はありますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>龍野城下町でおすすめのグルメやお土産はありますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               播磨名物の「揖保乃糸（手延素麺）」の本場であり、冬には温かい「にゅうめん」が人気です。また淡口醤油発祥の地であるため「醤油スイーツ（醤油ソフトクリームやもなか）」、さらに伝統の和菓子「揖保川の鮎」や地酒「奥播磨」なども素晴らしいお土産になります。
             </p>

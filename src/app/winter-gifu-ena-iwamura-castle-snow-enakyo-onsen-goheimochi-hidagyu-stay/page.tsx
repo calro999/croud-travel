@@ -258,9 +258,7 @@ export default function Page() {
                 <span className="text-xs font-bold text-cyan-800 uppercase tracking-wider">
                   Hotel Curations
                 </span>
-                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">
-                  恵那・岩村・中津川 厳選の温泉＆名宿5選
-                </h2>
+                <h2 className="text-xl sm:text-2xl font-extrabold text-stone-900">恵那・岩村・中津川 厳選の温泉＆名宿5選</h2>
               </div>
               <p className="text-xs text-stone-500">
                 ※楽天トラベルAPI最新空室・料金データ連携中
@@ -283,9 +281,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    城麓の宿　岩村山荘
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">城麓の宿　岩村山荘</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     岩村城址の麓に佇む城麓の名宿・女城主の里の郷土料理と温もりあふれる温泉
                   </p>
@@ -350,9 +346,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    恵那峡温泉ホテル　ゆずり葉
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">恵那峡温泉ホテル　ゆずり葉</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     恵那峡の絶景パノラマを一望する湖畔の温泉ホテル・源泉掛け流し露天風呂と飛騨牛会席
                   </p>
@@ -417,9 +411,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル花更紗
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル花更紗</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     中津川の自然に抱かれた美肌の名湯リゾート・重曹泉大浴場と極上飛騨牛会席
                   </p>
@@ -484,9 +476,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    お宿Ｏｎｎ　中津川
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">お宿Ｏｎｎ　中津川</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     中津川宿の歴史を映す木の温もり・サウナ＆大浴場完備のモダンライフスタイルホテル
                   </p>
@@ -551,9 +541,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ほしとせせらぎのぐらんぴんぐ
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ほしとせせらぎのぐらんぴんぐ</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     満天の星と木曽川のせせらぎに包まれるグランピング・天然温泉入り放題の冬リゾート
                   </p>
@@ -626,10 +614,8 @@ export default function Page() {
 
           {/* アクセス・気候・服装ガイド */}
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-4">
-            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2">
-              <Calendar className="w-5 h-5 text-cyan-800" />
-              <span>アクセス・気候・おすすめの服装</span>
-            </h2>
+            <h2 className="font-bold text-stone-900 text-base sm:text-lg flex items-center gap-2 border-b border-stone-100 pb-2"><Calendar className="w-5 h-5 text-cyan-800" />
+              <span>アクセス・気候・おすすめの服装</span></h2>
             <div className="space-y-2">
             <h3 className="font-bold text-stone-800 text-sm sm:text-base pt-2">【エリアへのアクセス】</h3>
             <p className="text-xs sm:text-sm text-stone-600 pl-2 leading-relaxed">・電車・明知鉄道：JR中央本線「恵那駅」より明知鉄道に乗り換えて「岩村駅」まで約30分。岩村城下町へは岩村駅より徒歩約5分、岩村城跡本丸へは登城口より徒歩約25分。JR名古屋駅から恵那駅まではJR中央本線（特急しなの）で約45分、快速で約70分。</p>
@@ -644,33 +630,25 @@ export default function Page() {
 
           {/* よくある質問 FAQ */}
           <section className="space-y-4">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-              冬の恵那・岩村・中津川旅行 よくある質問（FAQ）
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の恵那・岩村・中津川旅行 よくある質問（FAQ）</h2>
             <div className="space-y-3">
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>岩村城跡の見学所要時間と歩きやすさはどうですか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>岩村城跡の見学所要時間と歩きやすさはどうですか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               岩村城下町の歴史資料館から本丸跡までは片道約800mの石畳の登城坂（急坂）が続き、往復所要時間は約60〜80分です。城郭の石垣群を間近に見学しながら登る価値は十分にありますが、冬は石畳が凍結することがあるため歩行には十分な注意が必要です。なお、山上の出丸広場近くまで車でアクセスできるルートもあります（冬期積雪時は注意）。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>岩村名物の「五平餅」の特徴と味わえる場所は？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>岩村名物の「五平餅」の特徴と味わえる場所は？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               岩村の五平餅は、一般的なわらじ型とは異なり、小さな団子状の丸い餅が串に刺さっているのが特徴です。タレには胡麻・胡桃・落花生をふんだんに使い、醤油と砂糖で練り上げた濃厚で香ばしい味わい。城下町の本町通りにある「みよし」や「あまから岩村店」などで焼き立てが楽しめます。
             </p>
           </div>
           <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-              <span className="text-cyan-800 font-extrabold">Q.</span>
-              <span>冬の恵那峡の観光クルーズ（遊覧船）は冬でも乗れますか？</span>
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+              <span>冬の恵那峡の観光クルーズ（遊覧船）は冬でも乗れますか？</span></h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
               恵那峡遊覧船は冬期も毎日運航しています。客船は冷暖房完備で、窓越しに軍艦岩や獅子岩といった奇岩怪石の雪景色を温まりながら鑑賞できます。冬晴れの澄んだ青空とエメラルドグリーンの湖面、白い雪のコントラストは息を呑む美しさです。
             </p>

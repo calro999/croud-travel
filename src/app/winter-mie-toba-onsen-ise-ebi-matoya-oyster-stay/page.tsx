@@ -222,9 +222,7 @@ export default function TobaOnsenWinterPage() {
             <span>11月・12月 冬の三重・伊勢志摩・鳥羽温泉郷特集</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月鳥羽温泉郷の旬を迎える伊勢海老と的矢牡蠣】鳥羽湾パノラマ絶景露天風呂・極上松阪牛ステーキ＆答志島トロさわら会席の宿5選</h1>
 
           <p className="text-sm sm:text-base lg:text-lg text-slate-300 leading-relaxed max-w-4xl">
             11月から12月にかけて三重県・鳥羽温泉郷は、秋の禁漁が明けて最高潮の美味しさを迎える本場の「活伊勢海老」と、的矢湾が育む濃厚な「的矢牡蠣（まとやかき）」の二大冬味覚が出揃う年間最良の美食シーズンを迎えます。波静かな鳥羽湾を行き交う船や朝日に輝く島影を望む絶景パノラマ露天風呂、ミキモト真珠パウダーが虹色にきらめくパールオーロラ風呂、一本釣りで知られる「答志島トロさわら」の炙り、世界に名を馳せるブランド牛「松阪牛」の陶板焼きやすき焼きを心ゆくまで堪能する、海辺の名宿を厳選してご紹介します。
@@ -254,9 +252,7 @@ export default function TobaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の鳥羽温泉郷が誇る冬の美食と海の絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の鳥羽温泉郷が誇る冬の美食と海の絶景</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -280,26 +276,20 @@ export default function TobaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Seaside Wellness & Gourmet Secrets</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                世界初パールオーロラ風呂の美肌科学と、解禁伊勢海老・的矢牡蠣の真髄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">世界初パールオーロラ風呂の美肌科学と、解禁伊勢海老・的矢牡蠣の真髄</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-amber-700" />
-              <span>真珠コンキオリンアミノ酸がもたらす極上保湿と、塩化物泉の温まり効果</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+              <span>真珠コンキオリンアミノ酸がもたらす極上保湿と、塩化物泉の温まり効果</span></h3>
             <p>
               真珠養殖の発祥地・鳥羽ならではの象徴的温泉体験が「パールオーロラ風呂」です。真珠貝（アコヤガイ）の内側から抽出される真珠タンパク「コンキオリン」は、人間の角質層に存在する天然保湿因子（NMF）と極めてアミノ酸組成が酷似しています。入浴することで肌の水分保持力を急速に高め、真珠のように内側から輝く透明感とキメ細やかな潤い肌へと導きます。
             </p>
             <p>
               また、鳥羽温泉郷各宿が引く「ナトリウム・カルシウム-塩化物泉」は、海のミネラルを豊富に含み、入浴中に肌の表面に微細な塩分被膜（塩のベール）を形成します。これにより汗の蒸発が抑えられ、湯上がり後も体熱が逃げず、海風が吹く冬の海岸部にあっても「湯冷め知らず」のポカポカ感が長く続きます。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-amber-700" />
-              <span>解禁を迎えた伊勢海老と的矢牡蠣、答志島トロさわらが織りなす冬の饗宴</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-amber-700" />
+              <span>解禁を迎えた伊勢海老と的矢牡蠣、答志島トロさわらが織りなす冬の饗宴</span></h3>
             <p>
               伊勢志摩の海が冬に最高の美味をもたらす秘密は、黒潮の本流と伊勢湾の汽水が複雑に入り混じるリアス海岸の生態系にあります。10月に解禁を迎えた「伊勢海老」は、11月から12月にかけて海水温の低下とともに脱皮を終え、筋肉組織が緻密に締まります。お造りで口に運べば、弾力ある歯ごたえとともに濃厚な甘みアミノ酸が広がり、頭部のミソを溶かした味噌汁は極上の芳醇さを放ちます。
             </p>
@@ -316,9 +306,7 @@ export default function TobaOnsenWinterPage() {
               <Star className="w-3.5 h-3.5 fill-amber-700 text-amber-700" />
               <span>Rakuten Travel Verified Ocean Gourmet Stays</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              11月・12月におすすめの鳥羽温泉郷・厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">11月・12月におすすめの鳥羽温泉郷・厳選名宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、鳥羽湾のオーシャンビュー、活伊勢海老・的矢牡蠣・松阪牛の会席料理、露天風呂の満足度が高い宿を厳選しました。
             </p>
@@ -353,9 +341,7 @@ export default function TobaOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="flex items-start justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-amber-700 transition-colors">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 group-hover:text-amber-700 transition-colors">{h.name}</h3>
                     </div>
                     <p className="text-xs text-amber-800 font-semibold flex items-center gap-1">
                       <Sparkles className="w-3.5 h-3.5 text-amber-600" />
@@ -420,9 +406,7 @@ export default function TobaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                伊勢神宮参拝と鳥羽冬海鮮を満喫する1泊2日王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">伊勢神宮参拝と鳥羽冬海鮮を満喫する1泊2日王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-4 text-slate-700 text-sm sm:text-base">
@@ -476,26 +460,20 @@ export default function TobaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-700" />
-                <span>気温と海辺の服装ポイント</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+                <span>気温と海辺の服装ポイント</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 伊勢志摩・鳥羽は温暖な地域ですが、海沿いのため冬期は強い北西の季節風が吹き付けます。日中は11℃〜15℃程度で日差しがあれば快適ですが、朝晩や船上・岬周辺は体感温度が下がります。風を通しにくいウインドブレーカーやウールコート、マフラーを用意し、防寒と着脱のしやすさを意識した服装がおすすめです。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-amber-700" />
-                <span>交通アクセスとドライブ安心度</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-amber-700" />
+                <span>交通アクセスとドライブ安心度</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 積雪や凍結の心配はほとんどなく、冬期もノーマルタイヤで快適にドライブできます。伊勢自動車道・伊勢二見鳥羽ラインが直結しており、名古屋方面・大阪方面からのアクセスも極めて良好。年末年始や週末は伊勢神宮周辺の駐車場が大変混雑するため、パーク＆バスライドの利用や近鉄電車の利用がスムーズです。
               </p>
@@ -511,18 +489,14 @@ export default function TobaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と鳥羽温泉郷の冬旅アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と鳥羽温泉郷の冬旅アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -535,9 +509,7 @@ export default function TobaOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Coastal & Gourmet Winter Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東海の冬名湯＆全国の海鮮温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東海の冬名湯＆全国の海鮮温泉特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の冬の味覚解禁や海辺の絶景露天を味わう人気の厳選特集もぜひあわせてご覧ください。
             </p>

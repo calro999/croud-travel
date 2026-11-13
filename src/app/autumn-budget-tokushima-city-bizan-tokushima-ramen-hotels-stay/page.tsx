@@ -58,10 +58,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代4,000円台！浮いた旅費で徳島ラーメン有名店ハシゴ＆阿波尾鶏の骨付き地鶏焼きへ
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代4,000円台！浮いた旅費で徳島ラーメン有名店ハシゴ＆阿波尾鶏の骨付き地鶏焼きへ</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             鳴門の渦潮や大歩危・祖谷への観光拠点としてもアクセス便利な徳島市。秋は阿波おどりの喧騒が落ち着き、ゆったりと城跡や眉山の紅葉、阿波グルメを楽しめる絶好のシーズンです。駅周辺や両国橋近くの高コスパ宿に宿泊し、地元っ子に愛される名店ラーメン巡りを満喫しましょう。
           </p>
@@ -84,9 +82,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー2107件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈徳島駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈徳島駅前〉</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -143,9 +139,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1086件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ハイパーイン　ホテル越久（えちひさ）
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ハイパーイン　ホテル越久（えちひさ）</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -202,9 +196,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1255件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル千秋閣＜徳島県＞
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル千秋閣＜徳島県＞</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -261,9 +253,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー638件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              天空のスカイビューホテル　眉山海月
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">天空のスカイビューホテル　眉山海月</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -320,9 +310,7 @@ export default function AutumnBudgetFeaturePage() {
                 <span className="text-slate-400 text-xs font-normal">（レビュー1547件）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ハイパーイン　メイアップ徳島
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ハイパーイン　メイアップ徳島</h3>
             <div className="flex flex-wrap items-center gap-y-1 gap-x-4 text-xs text-slate-500">
               <span className="flex items-center gap-1">
                 <MapPin className="w-3.5 h-3.5 text-slate-400" />
@@ -373,10 +361,8 @@ export default function AutumnBudgetFeaturePage() {
       {/* 予約のアドバイス */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 space-y-3">
-          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2">
-            <AlertCircle className="w-5 h-5 text-amber-600" />
-            秋の格安旅を満喫するための予約ポイント
-          </h3>
+          <h3 className="text-base font-bold text-amber-900 flex items-center gap-2"><AlertCircle className="w-5 h-5 text-amber-600" />
+            秋の格安旅を満喫するための予約ポイント</h3>
           <ul className="text-xs md:text-sm text-amber-800/90 space-y-2 list-disc list-inside leading-relaxed">
             <li>秋の行楽・連休シーズンは週末を中心に満室になりやすいため、平日の宿泊や早めの予約がお得です。</li>
             <li>表示価格は各宿の最安プラン目安（税込）です。日程や人数、予約時期によって変動するため最新状況をご確認ください。</li>
@@ -391,9 +377,7 @@ export default function AutumnBudgetFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「徳島市街：眉山秋パノラマ＆甘辛豚バラ徳島ラーメン！4,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -454,9 +438,7 @@ export default function AutumnBudgetFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 徳島市街エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">徳島市街エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

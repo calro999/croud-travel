@@ -243,9 +243,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           <span className="text-[10px] font-extrabold text-amber-800 bg-amber-100 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             LOCAL GOURMET GUIDE
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950 flex items-center gap-2">
-            <span>🍱</span> <span>【{cityInfo.cityName}】絶対に食べたい！名物料理＆おすすめご当地グルメ</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950 flex items-center gap-2"><span>【{cityInfo.cityName}】絶対に食べたい！名物料理＆おすすめご当地グルメ</span></h2>
           <p className="text-xs text-amber-900/80 leading-relaxed font-medium">
             {cityInfo.cityName}を訪れたら絶対にはずせないソウルフードから、伝統料理・特産品までを網羅。
           </p>
@@ -274,9 +272,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             RECOMMENDED HOTELS & INNS
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🏨</span> <span>【{cityInfo.cityName}周辺】ピンポイントで選ぶ！おすすめ人気ホテル・温泉宿</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【{cityInfo.cityName}周辺】ピンポイントで選ぶ！おすすめ人気ホテル・温泉宿</span></h2>
           <p className="text-xs text-emerald-950/70 leading-relaxed font-medium">
             {cityInfo.cityName}の観光やビジネス、温泉リフレッシュの拠点として高評価を得ている厳選宿泊施設を紹介。
           </p>
@@ -322,9 +318,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                       <span className="text-amber-600 font-extrabold">⭐ {post.rating}</span>
                     )}
                   </div>
-                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                    {post.hotel_name}
-                  </h3>
+                  <h3 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{post.hotel_name}</h3>
                   {post.description && (
                     <p className="text-[11px] text-stone-600 leading-relaxed line-clamp-3">
                       {post.description}
@@ -368,9 +362,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         {/* 宿泊スペック一覧比較表 */}
         {displayedCityPosts.length > 0 && (
           <div className="pt-6 border-t border-emerald-950/10 space-y-4">
-            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">
-              📊 {cityInfo.cityName}・{cityInfo.prefName}エリア 厳選宿スペック＆料金比較表
-            </h3>
+            <h3 className="text-base md:text-lg font-black font-journal-serif text-emerald-950">{cityInfo.cityName}・{cityInfo.prefName}エリア 厳選宿スペック＆料金比較表</h3>
             <div className="overflow-x-auto">
               <table className="w-full text-left text-xs border-collapse bg-white rounded-2xl overflow-hidden border border-stone-200">
                 <thead>
@@ -403,16 +395,14 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
 
       {/* 🗺️ 広域観光・エリア別比較＆モデルコースガイド */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-          🧭 {cityInfo.cityName}（{cityInfo.prefName}）1泊2日モデルコース＆広域観光・グルメ周遊ガイド
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">{cityInfo.cityName}（{cityInfo.prefName}）1泊2日モデルコース＆広域観光・グルメ周遊ガイド</h2>
         <p className="text-xs md:text-sm text-stone-700 leading-relaxed">
           {cityInfo.cityName}では、{cityInfo.highlights.join("・")}といった主要観光スポットと、{cityInfo.gourmet.join("・")}などのご当地グルメを組み合わせることで、日帰りでは味わえない充実した1泊2日ステイが叶います。午前中に中心部の名所を巡り、昼食に名物料理を堪能したあと、夕方に温泉宿やシティホテルへチェックインしてゆっくり旅の疲れを癒やす行程が王道です。また、{cityInfo.prefName}内の主要エリア（{prefInfo.subAreas.map(s => s.areaName).join("・")}）や、銘菓・地酒スポットと組み合わせた周遊ルートも人気を集めています。
         </p>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
           {prefInfo.subAreas.slice(0, 3).map((sub, i) => (
             <div key={i} className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-1.5">
-              <h3 className="font-bold text-emerald-950 text-sm">📍 {sub.areaName}</h3>
+              <h3 className="font-bold text-emerald-950 text-sm">{sub.areaName}</h3>
               <p className="text-stone-600 leading-relaxed">{sub.description}</p>
               <p className="text-teal-800 font-semibold">主な見どころ: {sub.spots.map(s => s.name).slice(0, 3).join("・")}</p>
             </div>
@@ -423,9 +413,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
       {/* ❓ よくある質問（FAQ）セクション（GEO＆FAQPage構造化データ連携） */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>{cityInfo.cityName}旅行・観光＆ホテル選びのよくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>{cityInfo.cityName}旅行・観光＆ホテル選びのよくある質問（FAQ）</span></h2>
           <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
             {cityInfo.cityName}への旅行計画でよく検索される質問と回答をまとめました。
           </p>
@@ -433,10 +421,8 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
         <div className="space-y-4">
           {cityFaqItems.map((faq, idx) => (
             <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                <span className="text-teal-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -508,9 +494,7 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
       {/* 🧭 隣接・同都道府県の他市町村サブハブ（網目構造リンク） */}
       {siblingCities.length > 0 && (
         <section className="bg-teal-50/50 border border-teal-900/10 rounded-3xl p-6 md:p-8 space-y-4">
-          <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-            <span>🗺️</span> <span>{cityInfo.prefName}の他のおすすめ市町村エリアを探す</span>
-          </h3>
+          <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span>️</span> <span>{cityInfo.prefName}の他のおすすめ市町村エリアを探す</span></h3>
           <div className="flex flex-wrap gap-2">
             {siblingCities.map((sibling) => (
               <Link

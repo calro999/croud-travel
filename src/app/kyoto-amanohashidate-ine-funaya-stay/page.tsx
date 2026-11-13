@@ -80,9 +80,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             日本三景・天に架かる緑の橋と智恵の文殊
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            1. 天橋立「股のぞき」（天橋立ビューランド・傘松公園）＆智恩寺・松並木サイクリング
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">1. 天橋立「股のぞき」（天橋立ビューランド・傘松公園）＆智恩寺・松並木サイクリング</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             宮津湾と阿蘇海を隔てる全長約3.6kmの砂嘴に約8,000本の松が茂る日本三景「天橋立」。南側の「天橋立ビューランド」からの飛龍観、北側の「傘松公園」からの昇龍観と、展望台で腰を曲げて股の間から逆さに覗く「股のぞき」が有名。海が空に、松並木が天に昇る龍のように見えます。松並木の中はレンタサイクルや徒歩で通り抜けることができ、日本三文殊の一つ「智恩寺（文殊堂）」で智恵を授かる参拝も定番です。
           </p>
@@ -107,8 +105,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -127,9 +124,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天橋立温泉　料理旅館　鳥喜
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天橋立温泉　料理旅館　鳥喜</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         「一度食べたら本物だとわかる」天然にこだわる四季折々の旨いもんを堪能する天橋立の料理旅館
                       </p>
@@ -173,9 +168,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        天橋立荘
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">天橋立荘</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         日本三景天橋立の奥座敷、あたたかいおもてなしと漁港直送の新鮮素材を使った海鮮料理自慢の宿
                       </p>
@@ -219,9 +212,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        宮津温泉　料理旅館　茶六別館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">宮津温泉　料理旅館　茶六別館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天橋立を望む数奇屋造りの料理宿。春夏には岩牡蠣など丹後の海の幸を生かした京風会席をご堪能下さい。
                       </p>
@@ -265,9 +256,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        夕日ヶ浦温泉　丹後・食の宿　みのり旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
                       </p>
@@ -309,9 +298,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             国の重要伝統的建造物群・海の上に浮かぶ家
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            2. 伊根の舟屋（二百三十軒の舟屋群）＆伊根湾めぐり遊覧船・舟屋の宿ステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">2. 伊根の舟屋（二百三十軒の舟屋群）＆伊根湾めぐり遊覧船・舟屋の宿ステイ</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             1階が船のガレージ（船揚場）、2階が居室という独特の構造を持つ「舟屋」が伊根湾の周囲5kmにわたって約230軒立ち並ぶ「伊根の舟屋群」。まるで家が海の上に直接浮かんでいるかのような幻想的な漁村景観は国の重要伝統的建造物群保存地区に選定されています。伊根湾めぐり遊覧船に乗れば、海上から迫力ある舟屋の町並みを一望でき、飛び交うカモメへの餌付けも大人気。舟屋を改装した一日一組限定の宿での宿泊は一生の記憶に残ります。
           </p>
@@ -336,8 +323,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -356,9 +342,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        旅館　浜乃屋
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">旅館　浜乃屋</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         京丹後・夕日ヶ浦の旅館です。別館のオーシャンビュー客室や露天風呂が自慢！波音を聴きながらゆっくりと。
                       </p>
@@ -402,9 +386,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        海辺の料理旅館　浜の路　臨江庵
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">海辺の料理旅館　浜の路　臨江庵</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【1日5組限定◆3つの貸切温泉＆個室食事処】個室お食事処で食べる旬の味覚会席を堪能する料理旅館
                       </p>
@@ -448,9 +430,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        喜久屋旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">喜久屋旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         創業明治３５年、丹後の奥座敷に佇む歴史ある旅館で安らぎのひとときをお過ごしください。
                       </p>
@@ -494,9 +474,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        指宿旅館　里のやど　川尻
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">指宿旅館　里のやど　川尻</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         天橋立の海水浴場まで徒歩数分！家族で営む古くて小さな温泉民宿です！＜ペット宿泊OK＞
                       </p>
@@ -538,9 +516,7 @@ export default function Page() {
           <div className="inline-block px-3 py-1 bg-amber-500/10 border border-amber-500/30 rounded-full text-xs font-bold text-amber-300 mb-4">
             冬の味覚の最高峰「幻の間人ガニ」と天然温泉
           </div>
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">
-            3. 幻のブランド蟹「間人ガニ」尽くし会席＆天橋立温泉・夕日ヶ浦温泉露天宿
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-black text-amber-100 mb-4">3. 幻のブランド蟹「間人ガニ」尽くし会席＆天橋立温泉・夕日ヶ浦温泉露天宿</h2>
           <p className="text-stone-300 text-sm sm:text-base leading-relaxed mb-6">
             丹後半島の間人（たいざ）港に所属するわずか5隻の小型船が日帰り操業で水揚げする「間人ガニ」。競りまでの時間が極めて短いため抜群の鮮度を誇り、水揚げ量の少なさから「幻の蟹」と呼ばれます。緑色のタグが付けられた本物の間人ガニは、繊細な甘みのカニ刺し、香ばしい焼きガニ、濃厚なカニ味噌甲羅焼きと至高の味わい。丹後半島沿岸に湧く「天橋立温泉」や夕日の名所「夕日ヶ浦温泉」の美肌露天風呂で贅沢な美食の夜を過ごせます。
           </p>
@@ -565,8 +541,7 @@ export default function Page() {
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>🏨</span>
-              <span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
+            <h3 className="text-lg font-bold text-amber-200 mb-2 flex items-center gap-2"><span>この見どころ周辺のおすすめ厳選宿（楽天トラベル提携・実データ）</span></h3>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 not-prose mt-6">
               
@@ -585,9 +560,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        丹後神の温泉　旅館　すずらん
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">丹後神の温泉　旅館　すずらん</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【クチコミ★4.6】カニ料理が自慢♪丹後弁のおもてなしと温泉に大満足！！
                       </p>
@@ -631,9 +604,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        夕日ヶ浦温泉　丹後・食の宿　みのり旅館
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">夕日ヶ浦温泉　丹後・食の宿　みのり旅館</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         【カニの街・夕日ヶ浦】全12室の静寂な湯宿。夕日ヶ浦の天然温泉と極上の蟹料理を個室食で堪能
                       </p>
@@ -677,9 +648,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        城崎温泉　医食同源の宿　かに庵
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">城崎温泉　医食同源の宿　かに庵</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         但馬牛や松葉かになど、地産地消を基本にグルメと健康を両立した6室の宿でございます。
                       </p>
@@ -723,9 +692,7 @@ export default function Page() {
                       </div>
                     
                     <div className="p-5">
-                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">
-                        丹後旅の宿　万助楼（まんすけろう）
-                      </h4>
+                      <h4 className="font-bold text-base sm:text-lg text-amber-100 group-hover:text-amber-300 transition line-clamp-1">丹後旅の宿　万助楼（まんすけろう）</h4>
                       <p className="text-xs text-stone-400 mt-1 line-clamp-2 leading-relaxed">
                         まるで竜宮城のようなロビー◆全７室がオーシャンビュー、温泉風呂付客室でごゆるりと。
                       </p>
@@ -779,9 +746,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天橋立温泉 料理旅館 鳥喜を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天橋立温泉 料理旅館 鳥喜を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -814,9 +779,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と天橋立温泉 料理旅館 鳥喜の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と天橋立温泉 料理旅館 鳥喜の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

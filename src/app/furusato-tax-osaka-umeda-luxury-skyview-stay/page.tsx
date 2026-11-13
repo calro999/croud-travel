@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            地上数十階から見渡す大阪の摩天楼と活気あふれる浪速の街——世界最高峰のブランドホテルで味わう極上のホスピタリティと美食の饗宴
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">地上数十階から見渡す大阪の摩天楼と活気あふれる浪速の街——世界最高峰のブランドホテルで味わう極上のホスピタリティと美食の饗宴</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             西日本最大の交通・商業の要衝である大阪・梅田（キタ）。JR大阪駅を中心に阪急・阪神・地下鉄が結節し、グランフロント大阪やルクア大阪、阪急うめだ本店など最先端のショッピングモールが林立しています。うめきたエリアの再開発によって広大な都市公園「うめきた公園」が誕生し、都心の活気と緑豊かな憩いが融合した国際都市へと劇的な進化を続けています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大阪府大阪市（梅田・キタ）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ザ・リッツ・カールトン大阪
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ザ・リッツ・カールトン大阪</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   日本初のザ・リッツ・カールトン！18世紀英国貴族の邸宅のような至高の空間と世界が認めたクレドのおもてなし
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ザ・リッツ・カールトン大阪 —— 伝統の風格と温もり。アンティーク絵画に囲まれるクラシックラグジュアリーの頂点
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ザ・リッツ・カールトン大阪 —— 伝統の風格と温もり。アンティーク絵画に囲まれるクラシックラグジュアリーの頂点</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 英国ジョージアン様式を取り入れた美術館のように重厚な館内
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">英国ジョージアン様式を取り入れた美術館のように重厚な館内</h5>
                     <p className="text-stone-600 leading-relaxed">暖炉やシャンデリア、約450点もの美術品が彩る空間。一歩足を踏み入れればヨーロッパの古城に迷い込んだような非日常が広がります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室高層階に位置する広々とした客室と贅沢な大理石バスルーム
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室高層階に位置する広々とした客室と贅沢な大理石バスルーム</h5>
                     <p className="text-stone-600 leading-relaxed">イタリア製大理石のバスルームと最高級リネン。窓からは煌めく大阪市街や神戸方面の夜景を一望できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン星付きフレンチ「ラ・ベ」や伝統のクラブラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン星付きフレンチ「ラ・ベ」や伝統のクラブラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">専任コンシェルジュによる1日5回のフードプレゼンテーション。至極のシャンパンとともに優雅な時間を満喫できます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大阪府大阪市（梅田・キタ）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  インターコンチネンタルホテル大阪　ｂｙ　ＩＨＧ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">インターコンチネンタルホテル大阪　ｂｙ　ＩＨＧ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   グランフロント大阪直結！洗練の現代デザインと高層階から見下ろすパノラマ夜景
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  インターコンチネンタルホテル大阪 —— 都市と自然が響き合うスタイリッシュホテル。広々客室と本格スパ＆プール
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">インターコンチネンタルホテル大阪 —— 都市と自然が響き合うスタイリッシュホテル。広々客室と本格スパ＆プール</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> グランフロント大阪北館直結・JR大阪駅から屋根付きデッキで直結
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">グランフロント大阪北館直結・JR大阪駅から屋根付きデッキで直結</h5>
                     <p className="text-stone-600 leading-relaxed">ショッピングやグルメゾーンに直結する抜群の利便性。雨の日でもスムーズにホテルへアクセスできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全室50㎡以上の広さを誇り、日本の伝統色を配したモダン客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全室50㎡以上の広さを誇り、日本の伝統色を配したモダン客室</h5>
                     <p className="text-stone-600 leading-relaxed">大きな窓から光が差し込む開放的な空間。独立したシャワーブースや深めのバスタブが心地よい寛ぎを約束します。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ミシュラン一つ星フレンチ「ピエール」と最上階クラブラウンジ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ミシュラン一つ星フレンチ「ピエール」と最上階クラブラウンジ</h5>
                     <p className="text-stone-600 leading-relaxed">日本の旬食材とフランスの技法を融合させた現代料理。開放的なオープンキッチンから届く美食が特別な夜を彩ります。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大阪府大阪市（梅田・キタ）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ヒルトン大阪
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ヒルトン大阪</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   JR大阪駅の正面にそびえるランドマーク！ヒルトンブランドの伝統と多彩な直営レストラン
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ヒルトン大阪 —— 梅田の中心に佇むグローバルスタンダード。エグゼクティブラウンジと快適なシティステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ヒルトン大阪 —— 梅田の中心に佇むグローバルスタンダード。エグゼクティブラウンジと快適なシティステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> JR大阪駅桜橋口から徒歩2分・各線梅田駅へ地下街直結
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">JR大阪駅桜橋口から徒歩2分・各線梅田駅へ地下街直結</h5>
                     <p className="text-stone-600 leading-relaxed">空港リムジンバスの発着所も目の前。観光、ビジネス、ショッピングにこれ以上ないベストロケーションです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 和の趣を取り入れたスタイリッシュで快適なリニューアル客室
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">和の趣を取り入れたスタイリッシュで快適なリニューアル客室</h5>
                     <p className="text-stone-600 leading-relaxed">障子や襖をイメージしたモダン和風の設え。上質なベッドと大型ワークデスクが快適な滞在をサポートします。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 「Folk Kitchen」での豪華ビュッフェや多彩な専門ダイニング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">「Folk Kitchen」での豪華ビュッフェや多彩な専門ダイニング</h5>
                     <p className="text-stone-600 leading-relaxed">ライブ感あふれるオープンキッチンビュッフェや、鉄板焼き、本格懐石など、多彩な食の選択肢が揃っています。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> グランフロント大阪・うめきた公園＆梅田スカイビル・空中庭園展望台観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> グランフロント大阪・うめきた公園＆梅田スカイビル・空中庭園展望台観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                最新の都市緑地「うめきた公園」とグランフロント大阪散策
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                最新の都市緑地「うめきた公園」とグランフロント大阪散策</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 大阪駅直結の大規模都市公園。水と緑が広がる芝生広場や、注目の最新カフェ・ショップを巡るアーバンウォーキングが楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                地上173mの連結超高層ビル「梅田スカイビル 空中庭園展望台」
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                地上173mの連結超高層ビル「梅田スカイビル 空中庭園展望台」</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 世界の建築トップ20に選出された名建築。360度オープントップの屋上回廊「ルミ・スカイ・ウォーク」から望む夕日や夜景は圧巻の絶景です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                阪急うめだ本店・デパ地下スイーツ巡りと北新地グルメ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                阪急うめだ本店・デパ地下スイーツ巡りと北新地グルメ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 日本屈指の売上と品揃えを誇るデパ地下スイーツ。夜には大人の歓楽街「北新地」での名店割烹や隠れ家バー巡りもおすすめです。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              大阪府大阪市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">大阪府大阪市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ヒルトン大阪を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ヒルトン大阪を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とヒルトン大阪の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とヒルトン大阪の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

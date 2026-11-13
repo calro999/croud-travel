@@ -108,9 +108,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  地球の息吹を肌で感じる圧倒的泉質と万病平癒の薬効パワー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">地球の息吹を肌で感じる圧倒的泉質と万病平癒の薬効パワー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 日本三大湯治場に数えられる温泉地は、いずれも並大抵の温泉とは一線を画す圧倒的な泉質・成分濃度を誇ります。ph1.2というレモンを上回る強酸性で驚異の殺菌・治癒力を持つ玉川温泉、気化したラドンを吸入することで全身の細胞を刺激するホルミシス効果の三朝温泉、毎分3万リットル以上の湯が湧き出る日本一の湯量を誇る草津温泉。ひとたび湯船に身を沈めれば、身体の芯から温まり、日頃のストレスや慢性疲労がスーッと抜けていく本物の湯治力を五感で実感できます。
@@ -123,9 +121,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  一汁三菜の滋味豊かな逗留食と現代型リトリート空間の融合
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">一汁三菜の滋味豊かな逗留食と現代型リトリート空間の融合</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 昔ながらの自炊湯治の良さを残しつつ、現代の旅行者が求める快適性を追求した宿が充実しています。地元の契約農家から届く無農薬野菜や川魚、発酵食をふんだんに取り入れた身体に優しい薬膳会席、良質な睡眠を誘う洗練された和モダン客室、ヨガや森林浴プログラムと組み合わせた現代型ヘルスツーリズム。長期滞在でも飽きのこない細やかなホスピタリティが、心と身体を根本からリセットしてくれます。
@@ -138,9 +134,7 @@ export default function FurusatoRound62ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  3年有効のトラベルクーポンで叶える贅沢な連泊・長期逗留
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">3年有効のトラベルクーポンで叶える贅沢な連泊・長期逗留</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 湯治の真髄は「時間を忘れてゆっくり滞在すること」にあります。楽天ふるさと納税の宿泊クーポンは発行から3年間有効で、複数枚の合算利用や予約後の「あとから割引適用」にも完全対応。1泊の慌ただしい温泉旅行では味わえない、2泊3日、3泊4日の贅沢な逗留ステイを、ふるさと納税による大幅な実質割引で気兼ねなく楽しむことができます。
@@ -181,9 +175,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 秋田県 仙北市田沢湖玉川</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    日本の山岳温泉リゾート　新玉川温泉
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">日本の山岳温泉リゾート　新玉川温泉</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「ファミリーなら新玉川、食事重視なら玉川温泉新玉川温泉と玉川温泉の両方に宿泊しました。ファミリーで利用するなら、新玉川温泉のほうが過ごしやすい印象です。両施設を行き来できるバスもあるので、温…」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 鳥取県 東伯郡三朝町三朝365-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    三朝温泉　依山楼　岩崎
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">三朝温泉　依山楼　岩崎</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「家族旅行家族旅行で利用しました。高齢の両親も快適に過ごすことが出来る素敵な旅館でした。お部屋の露天風呂も最高で、食事を含めとても良い時が過ごせました」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound62ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 群馬県 吾妻郡草津町草津396</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    草津温泉　奈良屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">草津温泉　奈良屋</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「食事はどの料理も美味しかったです目の前で握っていただけるお寿司も良いパフォーマンスですね部屋にある冷蔵庫に飲みかけの水(部屋に置いてあるペットボトルと同じもの)が入っていたので 前のお客さ…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日本の山岳温泉リゾート 新玉川温泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日本の山岳温泉リゾート 新玉川温泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound62ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日本の山岳温泉リゾート 新玉川温泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日本の山岳温泉リゾート 新玉川温泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

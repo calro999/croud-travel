@@ -256,9 +256,7 @@ export default function AsoKumamotoCarFreePage() {
             <div className="text-xs font-black text-amber-700 tracking-wider uppercase flex items-center gap-1">
               <span>🚆 PUBLIC TRANSIT NETWORK</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              車なしで阿蘇を巡る！4つの公共交通機関ハイライト
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">車なしで阿蘇を巡る！4つの公共交通機関ハイライト</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               熊本駅・熊本空港から阿蘇山火口までの接続ルートと運賃・所要時間の完全まとめ。
             </p>
@@ -272,9 +270,7 @@ export default function AsoKumamotoCarFreePage() {
               >
                 <div className="space-y-2">
                   <div className="flex items-center justify-between gap-2">
-                    <h3 className="font-black text-stone-900 text-sm md:text-base font-journal-serif">
-                      {item.title}
-                    </h3>
+                    <h3 className="font-black text-stone-900 text-sm md:text-base font-journal-serif">{item.title}</h3>
                   </div>
                   <div className="text-xs font-bold text-amber-800 bg-amber-100/80 inline-block px-2.5 py-1 rounded">
                     区間：{item.route}
@@ -316,9 +312,7 @@ export default function AsoKumamotoCarFreePage() {
             <div className="text-xs font-black text-amber-700 tracking-wider uppercase">
               🗓️ 1 NIGHT 2 DAYS TIMETABLE
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              阿蘇の大自然を味わい尽くす！公共交通1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">阿蘇の大自然を味わい尽くす！公共交通1泊2日モデルコース</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               乗り継ぎ時間を計算し尽くした、無理なく阿蘇火口と草千里、門前町を巡る王道スケジュール。
             </p>
@@ -330,9 +324,7 @@ export default function AsoKumamotoCarFreePage() {
               <span className="bg-amber-700 text-white font-black text-xs px-3 py-1 rounded-full">
                 DAY 1
               </span>
-              <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">
-                特急あそぼーい！で阿蘇入り ➔ 草千里ヶ浜あか牛丼 ➔ 中岳火口
-              </h3>
+              <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">特急あそぼーい！で阿蘇入り  草千里ヶ浜あか牛丼  中岳火口</h3>
             </div>
             <div className="relative pl-6 space-y-6 before:absolute before:left-2.5 before:top-2 before:bottom-2 before:w-0.5 before:bg-amber-200">
               {itineraryDay1.map((step, idx) => (
@@ -342,9 +334,7 @@ export default function AsoKumamotoCarFreePage() {
                     <span className="text-xs font-black text-amber-900 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
                       {step.time}
                     </span>
-                    <h4 className="text-sm md:text-base font-bold text-stone-900">
-                      {step.title}
-                    </h4>
+                    <h4 className="text-sm md:text-base font-bold text-stone-900">{step.title}</h4>
                   </div>
                   <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-0.5">
                     {step.desc}
@@ -360,9 +350,7 @@ export default function AsoKumamotoCarFreePage() {
               <span className="bg-amber-800 text-white font-black text-xs px-3 py-1 rounded-full">
                 DAY 2
               </span>
-              <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">
-                復興を遂げた阿蘇神社 ➔ 門前町水基めぐり＆グルメ ➔ 熊本駅
-              </h3>
+              <h3 className="font-black text-base md:text-lg text-stone-900 font-journal-serif">復興を遂げた阿蘇神社  門前町水基めぐり＆グルメ  熊本駅</h3>
             </div>
             <div className="relative pl-6 space-y-6 before:absolute before:left-2.5 before:top-2 before:bottom-2 before:w-0.5 before:bg-amber-200">
               {itineraryDay2.map((step, idx) => (
@@ -372,9 +360,7 @@ export default function AsoKumamotoCarFreePage() {
                     <span className="text-xs font-black text-amber-900 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
                       {step.time}
                     </span>
-                    <h4 className="text-sm md:text-base font-bold text-stone-900">
-                      {step.title}
-                    </h4>
+                    <h4 className="text-sm md:text-base font-bold text-stone-900">{step.title}</h4>
                   </div>
                   <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-0.5">
                     {step.desc}
@@ -391,9 +377,7 @@ export default function AsoKumamotoCarFreePage() {
             <div className="text-xs font-black text-amber-800 tracking-wider uppercase">
               💡 PRO TRAVEL TIPS
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              失敗しない！公共交通で行く阿蘇旅の攻略テクニック3選
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">失敗しない！公共交通で行く阿蘇旅の攻略テクニック3選</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -402,9 +386,7 @@ export default function AsoKumamotoCarFreePage() {
                 <span className="text-[10px] font-black uppercase tracking-wider text-amber-700 bg-amber-100 px-2 py-0.5 rounded">
                   {hack.badge}
                 </span>
-                <h3 className="font-bold text-stone-900 text-sm font-journal-serif">
-                  {hack.title}
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm font-journal-serif">{hack.title}</h3>
                 <p className="text-xs text-stone-600 leading-relaxed">
                   {hack.detail}
                 </p>
@@ -419,9 +401,7 @@ export default function AsoKumamotoCarFreePage() {
             <div className="text-xs font-black text-amber-700 tracking-wider uppercase">
               🏨 SELECTED HOTELS & RYOKAN
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-              車なし旅行に最適！阿蘇・熊本駅アクセスの厳選宿
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">車なし旅行に最適！阿蘇・熊本駅アクセスの厳選宿</h2>
             <p className="text-xs md:text-sm text-stone-600 mt-1">
               阿蘇駅・熊本駅からのアクセスが良く、観光後の温泉や極上郷土料理が楽しめる評価の高い宿泊施設です。
             </p>
@@ -469,9 +449,7 @@ export default function AsoKumamotoCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed font-medium">
@@ -511,9 +489,7 @@ export default function AsoKumamotoCarFreePage() {
         <section className="bg-stone-100 border border-stone-200 rounded-3xl p-6 md:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-xl">🧭</span>
-            <h2 className="text-base md:text-lg font-black font-journal-serif text-stone-900">
-              あわせて読みたい九州・熊本の旅行交通ガイド
-            </h2>
+            <h2 className="text-base md:text-lg font-black font-journal-serif text-stone-900">あわせて読みたい九州・熊本の旅行交通ガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
             <Link
@@ -521,9 +497,7 @@ export default function AsoKumamotoCarFreePage() {
               className="p-4 bg-white border border-stone-200 rounded-2xl hover:border-amber-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">九州新幹線 vs 高速バス</div>
-              <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">
-                【福岡・博多〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！最安往復と所要時間まとめ
-              </h3>
+              <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">【福岡・博多〜熊本】新幹線 vs 高速バス（ひのくに号）徹底比較！最安往復と所要時間まとめ</h3>
               <p className="text-[11px] text-stone-500 mt-1 line-clamp-2">
                 博多・天神から熊本への移動コストを半額に抑えるコツと乗り換えテクニック。
               </p>
@@ -534,9 +508,7 @@ export default function AsoKumamotoCarFreePage() {
               className="p-4 bg-white border border-stone-200 rounded-2xl hover:border-amber-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-amber-700 font-bold mb-1">旅行予算＆宿泊日数目安</div>
-              <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">
-                【九州旅行 何泊何日？予算ガイド】1泊2日・2泊3日・3泊4日の費用内訳と周遊ルート
-              </h3>
+              <h3 className="text-xs md:text-sm font-bold text-stone-900 group-hover:text-amber-700 transition">【九州旅行 何泊何日？予算ガイド】1泊2日・2泊3日・3泊4日の費用内訳と周遊ルート</h3>
               <p className="text-[11px] text-stone-500 mt-1 line-clamp-2">
                 電車＆バスで回る九州一周や熊本・阿蘇・湯布院を組み合わせたモデルコースの予算感。
               </p>

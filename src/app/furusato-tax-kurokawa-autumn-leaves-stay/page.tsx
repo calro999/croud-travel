@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              街全体が一つの宿！杉木立と清流に抱かれた黒川温泉の錦秋グラデーション
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">街全体が一つの宿！杉木立と清流に抱かれた黒川温泉の錦秋グラデーション</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             「街全体が一つの宿、通りは廊下、旅館は客室」という理念のもと、美しい景観が守り続けられている熊本県・黒川温泉。秋になると、田の原川沿いの雑木林やモミジ、クヌギが一斉に色づき、しっとりとした湯治場の風情と紅葉が完璧な調和を見せます。杉の間伐材で作られた「入湯手形」を首から下げて、洞窟風呂や渓流露天風呂をめぐる湯歩きは黒川ならではの醍醐味。散策後は、囲炉裏端で熊本名物の「あか牛」や「極上馬刺し」、地元野菜の炭火焼きをふるさと納税トラベルクーポンでお得に心ゆくまで堪能しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                名物「入湯手形」でめぐる28カ所の個性豊かな露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                名物「入湯手形」でめぐる28カ所の個性豊かな露天風呂</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 手形1枚で3カ所の宿の露天風呂に入浴可能。立ち湯、洞窟風呂、渓流を望むインフィニティ露天風呂など、それぞれに泉質や趣が異なる名湯を贅沢に湯めぐりできます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                田の原川沿いの紅葉ライトアップと浴衣そぞろ歩き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                田の原川沿いの紅葉ライトアップと浴衣そぞろ歩き</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 川沿いの遊歩道や丸鈴橋から眺める紅葉のアーチ。夜には竹灯籠が優しく灯り、川のせせらぎと湯けむりに包まれながら幻想的なナイトウォークが楽しめます。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                阿蘇の草原が育むヘルシーな「あか牛」＆熊本名物「馬刺し」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                阿蘇の草原が育むヘルシーな「あか牛」＆熊本名物「馬刺し」</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 赤身の旨味と適度な脂の甘みが際立つ「熊本あか牛」のサーロインステーキ、鮮度抜群のとろける特選馬刺し、秋の山菜や清流鮎の塩焼きなど郷土の滋味を満喫。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.70 <span className="text-stone-400 text-xs">(149件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　旅館　山河
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　旅館　山河</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町 ｜ 阿蘇駅からバスで５０分
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.67 <span className="text-stone-400 text-xs">(369件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　山の宿　新明館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　山の宿　新明館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町満願寺6608 ｜ 九州自動車道・鳥栖JCTより大分道へ。日田IC下車後、黒川温泉まで約１時間
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.62 <span className="text-stone-400 text-xs">(447件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    黒川温泉　旅館　美里
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">黒川温泉　旅館　美里</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 熊本県阿蘇郡南小国町満願寺6690 ｜ 阿蘇駅から車で約４０分／九州横断バスにて約１時間
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】黒川温泉 旅館 山河を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】黒川温泉 旅館 山河を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と黒川温泉 旅館 山河の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と黒川温泉 旅館 山河の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -294,10 +294,8 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の西条・竹原旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-amber-700 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の西条・竹原旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-amber-50/60 p-4 rounded-xl border border-amber-100">
                 <span className="font-bold text-amber-900 block mb-1">① 西条酒蔵通りの冬新酒仕込み</span>
@@ -321,9 +319,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">SAIJO SAKE BREWERIES IN WINTER</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                白壁となまこ壁に映える青い杉玉！西条酒蔵通りが最も輝く冬の新酒仕込み
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">白壁となまこ壁に映える青い杉玉！西条酒蔵通りが最も輝く冬の新酒仕込み</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -342,9 +338,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">LOCAL WINTER GASTRONOMY</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                出汁を使わず日本酒で煮る！名物「美酒鍋」と竹原が誇る幻の「峠下牛」
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">出汁を使わず日本酒で煮る！名物「美酒鍋」と竹原が誇る幻の「峠下牛」</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -363,9 +357,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">TAKEHARA HISTORIC DISTRICT</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                安芸の小京都・竹原町並み保存地区の冬情趣と普明閣からの展望
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">安芸の小京都・竹原町並み保存地区の冬情趣と普明閣からの展望</h2>
             </div>
             <div className="text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
               <p>
@@ -384,9 +376,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">VERIFIED RECOMMENDED HOTELS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                西条酒蔵通り＆竹原町並み保存地区を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">西条酒蔵通り＆竹原町並み保存地区を満喫する厳選名宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室・料金・口コミ情報をリアルタイム連携
               </p>
@@ -421,9 +411,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -463,9 +451,7 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！西条酒蔵通り新酒巡りと安芸の小京都・竹原を巡る冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！西条酒蔵通り新酒巡りと安芸の小京都・竹原を巡る冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-amber-200 ml-4 pl-6 space-y-8 text-sm">
@@ -518,10 +504,8 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-amber-50/70 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-amber-700 flex-shrink-0" />
-              <span>冬（11・12・1月）の西条・竹原旅行・知っておきたいお役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-700 flex-shrink-0" />
+              <span>冬（11・12・1月）の西条・竹原旅行・知っておきたいお役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-amber-950">
               <div className="bg-white/80 p-4 rounded-xl border border-amber-100">
                 <strong className="block mb-1 text-amber-900 font-bold">・盆地特有の厳しい底冷えと足元の防寒</strong>
@@ -546,18 +530,14 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-amber-700 pl-4">
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                西条酒蔵通り＆竹原の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">西条酒蔵通り＆竹原の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq: any, idx: number) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-amber-700 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-amber-700 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -568,10 +548,8 @@ export default function HiroshimaSaijoTakeharaWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-amber-700" />
-              <span>中国・瀬戸内および冬の目的別おすすめ特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-700" />
+              <span>中国・瀬戸内および冬の目的別おすすめ特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-hiroshima-onomichi-senkoji-shimanami-okoze-ramen-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-amber-400 transition font-medium text-slate-700">
                 🚲 尾道・千光寺初詣＆しまなみオコゼ名宿

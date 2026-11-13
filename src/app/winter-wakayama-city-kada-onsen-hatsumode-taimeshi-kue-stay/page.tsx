@@ -263,9 +263,7 @@ export default function WakayamaCityPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Tradition & Sunset Panorama</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              紀淡海峡を紅に染める冬夕陽と、神代の二千六百年を紡ぐ紀伊国一之宮
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">紀淡海峡を紅に染める冬夕陽と、神代の二千六百年を紡ぐ紀伊国一之宮</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               徳川御三家が愛した城下町と、激流に鍛えられた一本釣り真鯛・幻の天然クエ
             </p>
@@ -329,9 +327,7 @@ export default function WakayamaCityPage() {
           <div className="border-b border-slate-200 pb-4 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-2">
             <div>
               <span className="text-rose-600 font-bold text-xs uppercase tracking-wider block">SELECTED ACCOMMODATIONS</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">
-                冬の和歌山・加太を満喫する厳選名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-1">冬の和歌山・加太を満喫する厳選名宿5選</h2>
             </div>
             <p className="text-xs text-slate-500">
               ※楽天トラベルAPIリアルタイム取得データ（2026年最新）
@@ -367,9 +363,7 @@ export default function WakayamaCityPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5 mb-4">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -433,9 +427,7 @@ export default function WakayamaCityPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Winter Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の和歌山・加太を満喫する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の和歌山・加太を満喫する1泊2日王道モデルコース</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-1">
               城下町散策、紀伊国一之宮初詣、めでたいでんしゃと夕陽露天・天然真鯛をめぐる旅
             </p>
@@ -488,25 +480,19 @@ export default function WakayamaCityPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Practical Winter Guide</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の和歌山・加太旅を快適に楽しむための気候・夕陽鑑賞・アクセスのアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の和歌山・加太旅を快適に楽しむための気候・夕陽鑑賞・アクセスのアドバイス</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-rose-500" />
-                気候と海風対策
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-rose-500" />
+                気候と海風対策</h4>
               <p>
                 黒潮の影響で温暖な気候ですが、加太の海岸沿いでは紀淡海峡からの北西季節風が強く吹きます。日没前後の露天風呂や展望デッキでは冷たい海風を受けるため、風を通さないアウターやストールを準備してください。
               </p>
             </div>
             <div className="bg-slate-50 p-5 rounded-2xl border border-slate-100 space-y-2">
-              <h4 className="font-bold text-slate-900 flex items-center gap-2">
-                <Waves className="w-4 h-4 text-orange-500" />
-                夕陽鑑賞のベストタイミング
-              </h4>
+              <h4 className="font-bold text-slate-900 flex items-center gap-2"><Waves className="w-4 h-4 text-orange-500" />
+                夕陽鑑賞のベストタイミング</h4>
               <p>
                 冬の日没時間は16時45分〜17時15分頃です。日没の30分前（16時15分頃）から空と海が刻々とグラデーションを変える「マジックアワー」が始まります。この時間帯に露天風呂やテラスへ向かうのが最高の過ごし方です。
               </p>
@@ -518,18 +504,14 @@ export default function WakayamaCityPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-slate-200/80 shadow-xs space-y-6">
           <div className="border-l-4 border-rose-600 pl-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">FAQ & Local Insights</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              冬の和歌山・加太観光・交通・グルメ よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">冬の和歌山・加太観光・交通・グルメ よくある質問</h2>
           </div>
 
           <div className="space-y-6 divide-y divide-slate-100">
             {faqData.map((faq, index) => (
               <div key={index} className="pt-5 first:pt-0">
-                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2">
-                  <span className="text-rose-600 font-black">Q{index + 1}.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-rose-600 font-black">Q{index + 1}.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -540,10 +522,8 @@ export default function WakayamaCityPage() {
 
         {/* 内部リンク関連特集 */}
         <section className="bg-slate-100 rounded-3xl p-6 sm:p-8 space-y-4">
-          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Sparkles className="w-5 h-5 text-amber-500" />
-            合わせて読みたい冬の厳選温泉・初詣特集
-          </h3>
+          <h3 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-amber-500" />
+            合わせて読みたい冬の厳選温泉・初詣特集</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-sm">
             <Link 
               href="/winter-osaka-city-sumiyoshi-taisha-hatsumode-illumination-fugu-stay/"

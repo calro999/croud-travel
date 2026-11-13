@@ -285,10 +285,8 @@ export default function HanamakiWinterPage() {
             <Feather className="w-4 h-4 text-indigo-300" />
             <span>11月・12月限定 イーハトーブの白銀世界と前沢牛・白金豚会席特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】<br className="hidden sm:inline" />
-            奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月花巻温泉郷の白銀雪見露天と宮沢賢治の世界】<br className="hidden sm:inline" />
+            奥羽山脈の名湯巡り・極上前沢牛＆白金豚しゃぶしゃぶの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             宮沢賢治が愛したイーハトーブの森と奥羽山脈の名湯。11月下旬の初雪から12月の白銀世界へ。とろみある美肌源泉や日本一深い自噴立ち湯で愉しむ雪見露天。最高峰前沢牛と白金豚、南部杜氏の地酒に心温まる北東北の贅沢旅。
           </p>
@@ -314,9 +312,7 @@ export default function HanamakiWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Ihatov Literary Spring Legacy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                詩人・宮沢賢治が心を通わせた北国の理想郷。白銀の奥羽山脈と名湯のぬくもり
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">詩人・宮沢賢治が心を通わせた北国の理想郷。白銀の奥羽山脈と名湯のぬくもり</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -331,10 +327,8 @@ export default function HanamakiWinterPage() {
           
           <div className="bg-indigo-50/70 rounded-2xl p-5 border border-indigo-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-indigo-700" />
-                11月・12月花巻温泉郷 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-indigo-700" />
+                11月・12月花巻温泉郷 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 宮沢賢治イーハトーブの白銀世界・日本一深い自噴立ち湯＆pH9.0美肌温泉・極上前沢牛＆白金豚会席
               </p>
@@ -380,35 +374,27 @@ export default function HanamakiWinterPage() {
             <div className="p-2 rounded-xl bg-indigo-50 text-indigo-800">
               <Trees className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              個性あふれる花巻温泉郷の湯処：美肌の湯・古湯・奇跡の自噴立ち湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">個性あふれる花巻温泉郷の湯処：美肌の湯・古湯・奇跡の自噴立ち湯</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Sparkles className="w-4 h-4 text-indigo-600" />
-                花巻温泉（赤松林の美肌泉）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Sparkles className="w-4 h-4 text-indigo-600" />
+                花巻温泉（赤松林の美肌泉）</h3>
               <p className="text-stone-600 leading-relaxed">
                 赤松の県立自然公園内に広がる東北屈指の大型温泉リゾート。佳松園のpH9.0のとろみある自家源泉や、ホテル3館をつなぐ連絡通路での多彩な湯めぐりが人気です。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Flame className="w-4 h-4 text-indigo-600" />
-                台温泉（開湯600年の湯治場）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Flame className="w-4 h-4 text-indigo-600" />
+                台温泉（開湯600年の湯治場）</h3>
               <p className="text-stone-600 leading-relaxed">
                 坂上田村麻呂が発見したとも伝わる歴史ある古湯。山あいの小路に木造宿が立ち並び、湯の花が舞う天然硫黄泉がこんこんと湧き出す秘湯情緒が魅力です。
               </p>
             </div>
             <div className="p-4 rounded-2xl bg-stone-50 border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm">
-                <Landmark className="w-4 h-4 text-indigo-600" />
-                鉛温泉（自噴立ち湯 白猿の湯）
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5 text-sm"><Landmark className="w-4 h-4 text-indigo-600" />
+                鉛温泉（自噴立ち湯 白猿の湯）</h3>
               <p className="text-stone-600 leading-relaxed">
                 深さ約1.25mの天然岩風呂底から湧出する日本一深い自噴立ち湯。立ったまま入ることで全身に心地よい水圧がかかり、血行促進と関節痛の緩和に抜群の効能を誇ります。
               </p>
@@ -422,26 +408,20 @@ export default function HanamakiWinterPage() {
             <div className="p-2 rounded-xl bg-sky-50 text-sky-800">
               <Snowflake className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11月・12月の気候と新幹線・無料送迎バスアクセス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の気候と新幹線・無料送迎バスアクセス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600">
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-indigo-600" />
-                初雪から白銀世界への移ろい
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Calendar className="w-4 h-4 text-indigo-600" />
+                初雪から白銀世界への移ろい</h3>
               <p className="leading-relaxed">
                 花巻温泉郷は11月中旬から朝晩の冷え込みが零度近くまで下がり、11月下旬には初雪が舞います。12月に入るとまとまった降雪があり、赤松林や渓谷の岩肌に雪が積もる本格的な雪景色となります。日中の気温は11月で8〜12度、12月は2〜5度前後。ダウンジャケット、手袋、マフラーなどの防寒具をお持ちください。
               </p>
             </div>
             <div className="space-y-3">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                <Sparkles className="w-4 h-4 text-indigo-600" />
-                新花巻駅・花巻空港からの快適アクセス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-indigo-600" />
+                新花巻駅・花巻空港からの快適アクセス</h3>
               <p className="leading-relaxed">
                 JR新花巻駅（東北新幹線）からは各宿への無料送迎バスや路線バスが運行（約20〜30分）。いわて花巻空港からも車で約15〜20分と極めて好立地。冬の雪道運転が不安な方でも、新幹線や航空機を利用すればノーマルタイヤの心配なく手軽に雪見露天風呂を満喫できます。
               </p>
@@ -456,9 +436,7 @@ export default function HanamakiWinterPage() {
               <Sparkles className="w-3.5 h-3.5" />
               <span>Rakuten Travel Verified Ihatov Inns</span>
             </div>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              11・12月花巻温泉郷 泊まりたい名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">11・12月花巻温泉郷 泊まりたい名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               美肌の泉質、雪見露天の風情、前沢牛・白金豚の料理の質、そしておもてなしの評価が高い名宿を厳選。
             </p>
@@ -500,9 +478,7 @@ export default function HanamakiWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
@@ -514,10 +490,8 @@ export default function HanamakiWinterPage() {
                       </p>
 
                       <div className="pt-2 space-y-2">
-                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-indigo-800">
-                          <CheckCircle2 className="w-3.5 h-3.5 text-indigo-600" />
-                          宿の魅力と客室・温泉・美食のこだわり
-                        </h4>
+                        <h4 className="text-xs font-bold text-stone-900 tracking-wider uppercase flex items-center gap-1.5 text-indigo-800"><CheckCircle2 className="w-3.5 h-3.5 text-indigo-600" />
+                          宿の魅力と客室・温泉・美食のこだわり</h4>
                         <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                           {h.story}
                         </p>
@@ -571,9 +545,7 @@ export default function HanamakiWinterPage() {
             <div className="p-2 rounded-xl bg-amber-50 text-amber-800">
               <Utensils className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              岩手が誇る冬の二大ブランド肉：極上前沢牛とプラチナポーク「白金豚」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">岩手が誇る冬の二大ブランド肉：極上前沢牛とプラチナポーク「白金豚」</h2>
           </div>
           
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
@@ -582,19 +554,15 @@ export default function HanamakiWinterPage() {
             </p>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Flame className="w-4 h-4 text-indigo-600" />
-                  とろける極上サシ「前沢牛」のステーキ・すき焼き
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Flame className="w-4 h-4 text-indigo-600" />
+                  とろける極上サシ「前沢牛」のステーキ・すき焼き</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   岩手県奥州市前沢で肥育される黒毛和牛「前沢牛」。鮮やかな霜降りと融点の低い上質な脂が特徴で、口に運んだ瞬間に甘い香りを残してすっととろけます。陶板ステーキでシンプルに塩やワサビで味わうもよし、南部鉄器の鍋で割り下とともに煮込むすき焼きも格別の味わいです。
                 </p>
               </div>
               <div className="bg-stone-50 p-4 rounded-2xl border border-stone-200 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5">
-                  <Sparkles className="w-4 h-4 text-indigo-600" />
-                  きめ細やかな旨味「白金豚」と南部杜氏の寒造り地酒
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-indigo-600" />
+                  きめ細やかな旨味「白金豚」と南部杜氏の寒造り地酒</h3>
                 <p className="text-stone-600 text-xs leading-relaxed">
                   奥羽山脈の湧水と安心な飼料で丹精込めて育てられる花巻のブランド豚「白金豚（プラチナポーク）」。臭みが一切なく、きめ細やかな肉質と甘い脂身はしゃぶしゃぶや角煮で本領を発揮します。南部杜氏発祥の地が誇る銘酒「南部美人」や「月の輪」の熱燗が料理をさらに引き立てます。
                 </p>
@@ -609,9 +577,7 @@ export default function HanamakiWinterPage() {
             <div className="p-2 rounded-xl bg-indigo-50 text-indigo-800">
               <Clock className="w-5 h-5" />
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              1泊2日 理想の冬のモデルコース：宮沢賢治記念館と雪見露天・前沢牛会席
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1泊2日 理想の冬のモデルコース：宮沢賢治記念館と雪見露天・前沢牛会席</h2>
           </div>
 
           <div className="space-y-6">
@@ -620,9 +586,7 @@ export default function HanamakiWinterPage() {
                 <span className="px-2.5 py-1 bg-indigo-100 text-indigo-800 font-bold text-xs rounded-md">
                   1日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  東北新幹線で新花巻へ・宮沢賢治記念館見学と名湯雪見風呂
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">東北新幹線で新花巻へ・宮沢賢治記念館見学と名湯雪見風呂</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>11:30 東北新幹線・新花巻駅到着：</strong>東京駅から新幹線やまびこ・はやぶさで新花巻駅へ。タクシーまたは路線バスで「宮沢賢治記念館」へ。</li>
@@ -638,9 +602,7 @@ export default function HanamakiWinterPage() {
                 <span className="px-2.5 py-1 bg-indigo-100 text-indigo-800 font-bold text-xs rounded-md">
                   2日目
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  鉛温泉の自噴立ち湯体験＆花巻名物「わんこそば」と花巻空港・新幹線へ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">鉛温泉の自噴立ち湯体験＆花巻名物「わんこそば」と花巻空港・新幹線へ</h3>
               </div>
               <ul className="text-xs sm:text-sm text-stone-600 space-y-2 leading-relaxed">
                 <li><strong>08:00 爽快な朝風呂＆南部郷土朝食：</strong>朝露天風呂でリフレッシュ。南部鉄器で炊いたご飯やひっつみ汁を味わう。</li>
@@ -668,10 +630,8 @@ export default function HanamakiWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -685,10 +645,8 @@ export default function HanamakiWinterPage() {
         {/* Related Features & Internal Links */}
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-indigo-700" />
-              あわせて読みたい東北の冬温泉・美食特集
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-indigo-700" />
+              あわせて読みたい東北の冬温泉・美食特集</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               冬の味覚、名湯露天風呂、雪景色を楽しむ日本全国の厳選特集記事。旅の目的に合わせてぜひご覧ください。
             </p>

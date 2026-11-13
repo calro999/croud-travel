@@ -301,9 +301,7 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              水平線に宿る幸運の太陽と、弘法大師が仰いだ空と海の永遠
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">水平線に宿る幸運の太陽と、弘法大師が仰いだ空と海の永遠</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の室戸岬を満喫する3つの絶対的ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の室戸岬を満喫する3つの絶対的ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               幸運をもたらすだるま太陽、空海開眼の聖地初日の出、そして極上の室戸キンメダイ。
             </p>
@@ -339,9 +335,7 @@ export default function KochiMurotoDarumaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-rose-100 flex items-center justify-center text-rose-700 font-bold">
                 <Sunrise className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 幸運の奇跡！「だるま朝日・だるま夕日」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 幸運の奇跡！「だるま朝日・だるま夕日」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 11月中旬〜1月中旬限定の光学現象。黒潮と冷気の温度差が生む幻想的なダルマ型の太陽は、見られた者に幸運をもたらすと古くから珍重されています。
               </p>
@@ -351,9 +345,7 @@ export default function KochiMurotoDarumaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 冬に脂が乗る魚王「室戸キンメダイ」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 冬に脂が乗る魚王「室戸キンメダイ」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 海洋深層水の豊かな海で育つ一本釣り金目鯛。照り煮の濃厚な旨味や、炙り刺身、熱々の魚骨出汁をかけて締める名物「室戸キンメ丼」は圧巻の美味です。
               </p>
@@ -363,9 +355,7 @@ export default function KochiMurotoDarumaWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-100 flex items-center justify-center text-sky-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 空海修行の地「御厨人窟」新春初日の出
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 空海修行の地「御厨人窟」新春初日の出</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 弘法大師が悟りを開き「空海」の名を得た天然洞窟。洞窟から望む太平洋の水平線から昇る元旦の初日の出は、新春の最強開運スポットとして知られます。
               </p>
@@ -377,9 +367,7 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の室戸岬＆土佐海岸を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の室戸岬＆土佐海岸を満喫する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-2">
               金目鯛料理自慢の宿、登録有形文化財の岬ホテル、太平洋一望の南欧風リゾートまで、楽天トラベル公式データに基づき厳選。
             </p>
@@ -421,9 +409,7 @@ export default function KochiMurotoDarumaWinterPage() {
                           {hotel.special}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">{hotel.name}</h3>
                       <p className="text-stone-600 text-sm leading-relaxed mb-4">
                         {hotel.story}
                       </p>
@@ -477,9 +463,7 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              だるま太陽と室戸キンメダイを極める冬の1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">だるま太陽と室戸キンメダイを極める冬の1泊2日モデルコース</h2>
             <p className="text-stone-600 text-sm mt-1">
               北川村モネの庭、室戸岬の西海岸だるま夕日、極上金目鯛ディナー、早朝の御厨人窟だるま朝日を巡る至高の旅。
             </p>
@@ -550,37 +534,29 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-10 border border-stone-200 space-y-6">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の室戸岬旅行を快適に楽しむための実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の室戸岬旅行を快適に楽しむための実践ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4 text-rose-600" />
-                気候と防風対策
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-rose-600" />
+                気候と防風対策</h3>
               <p>
                 黒潮の影響で日中は比較的温暖ですが、岬の先端は遮るものがなく海風が吹き抜けます。だるま朝日や初日の出を観賞する早朝は冷え込むため、防風性のあるジャケットやマフラー、ニット帽、カイロを持参しましょう。足元は歩きやすいスニーカーが適しています。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Compass className="w-4 h-4 text-rose-600" />
-                だるま太陽の撮影ポイント
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Compass className="w-4 h-4 text-rose-600" />
+                だるま太陽の撮影ポイント</h3>
               <p>
                 「だるま朝日」は室戸岬東海岸（県道203号沿い・黒岩鼻周辺）、「だるま夕日」は西海岸（道の駅キラメッセ室戸〜羽根岬周辺）で狙えます。望遠レンズ（200mm〜400mm以上）と三脚を用意し、日の出・日の入りの約20分前には現地にスタンバイするのが鉄則です。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-rose-600" />
-                キンメ丼の営業時間と事前予約
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Calendar className="w-4 h-4 text-rose-600" />
+                キンメ丼の営業時間と事前予約</h3>
               <p>
                 室戸キンメ丼を提供する名店（花月、料亭花月、道の駅など）は、お昼時に観光客で大変混雑し、限定食数が売り切れることもあります。特に年末年始や週末は、事前の電話確認または早めの午前11時台の入店をおすすめします。
               </p>
@@ -592,9 +568,7 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい四国の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい四国の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -604,9 +578,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・足摺岬</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">
-                  足摺岬温泉と冬の満天星空・鰹藁焼きと土佐牛ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">足摺岬温泉と冬の満天星空・鰹藁焼きと土佐牛ステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -617,9 +589,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・高知市</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">
-                  高知城冬景色と天然クエ鍋・ひろめ市場屋台と土佐あかうしステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">高知城冬景色と天然クエ鍋・ひろめ市場屋台と土佐あかうしステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -630,9 +600,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">高知・北川村馬路村</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">
-                  土佐柚子温泉郷と冬の香り湯・柚子ポン酢と郷土美食ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">土佐柚子温泉郷と冬の香り湯・柚子ポン酢と郷土美食ステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -643,9 +611,7 @@ export default function KochiMurotoDarumaWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-rose-700 bg-rose-50 px-2 py-0.5 rounded block w-fit mb-2">徳島・鳴門</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">
-                  鳴門海峡の冬渦潮と鳴門温泉・冬の鳴門鯛しゃぶしゃぶステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-rose-600 line-clamp-2">鳴門海峡の冬渦潮と鳴門温泉・冬の鳴門鯛しゃぶしゃぶステイ</h3>
               </div>
               <span className="text-xs text-rose-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -656,18 +622,14 @@ export default function KochiMurotoDarumaWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-rose-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の室戸岬旅行に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の室戸岬旅行に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200 rounded-2xl p-5 hover:border-rose-200 transition-colors">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                  <HelpCircle className="w-5 h-5 text-rose-600 shrink-0 mt-0.5" />
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><HelpCircle className="w-5 h-5 text-rose-600 shrink-0 mt-0.5" />
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-7">
                   {faq.a}
                 </p>
@@ -678,9 +640,7 @@ export default function KochiMurotoDarumaWinterPage() {
 
         {/* Final Editorial Note */}
         <section className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 text-center space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold">
-            幸運の太陽と空海の祈りが照らす、太平洋のフロンティアへ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">幸運の太陽と空海の祈りが照らす、太平洋のフロンティアへ</h2>
           <p className="text-slate-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             水平線にくびれる真紅のだるま太陽、弘法大師が悟りを開いた御厨人窟の静寂、そして冬に極上の脂を蓄えた室戸キンメダイの旨味。11月から1月の室戸岬は、地球の鼓動と人の温もりに触れる特別なパワースポットです。心洗われる新しい一年の始まりに、室戸岬への冬旅を計画してみましょう。
           </p>

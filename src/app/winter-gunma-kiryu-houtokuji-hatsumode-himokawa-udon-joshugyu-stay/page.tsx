@@ -303,10 +303,8 @@ export default function GunmaKiryuWinterPage() {
       {/* Summary Box */}
       <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
         <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-            <CheckCircle2 className="w-5 h-5 text-indigo-700 flex-shrink-0" />
-            <span>本特集でわかること（11・12・1月の桐生・宝徳寺旅行の要点）</span>
-          </h2>
+          <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-indigo-700 flex-shrink-0" />
+            <span>本特集でわかること（11・12・1月の桐生・宝徳寺旅行の要点）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
             <div className="bg-indigo-50/60 p-4 rounded-xl border border-indigo-100">
               <span className="font-bold text-indigo-950 block mb-1">① 宝徳寺 冬の床もみじと初詣</span>
@@ -344,9 +342,7 @@ export default function GunmaKiryuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest block">HISTORIC TEXTILE TOWN</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                漆床に新春の光が鏡のように映り、織物の歴史息づく町並みに冬の風が渡る
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">漆床に新春の光が鏡のように映り、織物の歴史息づく町並みに冬の風が渡る</h2>
             </div>
           </div>
 
@@ -364,25 +360,19 @@ export default function GunmaKiryuWinterPage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Sparkles className="w-4 h-4 text-indigo-700" /> 宝徳寺 床もみじ＆初詣
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Sparkles className="w-4 h-4 text-indigo-700" /> 宝徳寺 床もみじ＆初詣</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 本堂の漆床に映るリフレクション絶景。新春厄除け祈願と千体地蔵尊の優しい表情に癒やされる古刹。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Building className="w-4 h-4 text-indigo-700" /> 桐生新町のこぎり屋根
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Building className="w-4 h-4 text-indigo-700" /> 桐生新町のこぎり屋根</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 日本遺産の町並み。レンガ造りのこぎり屋根工場や白壁土蔵が立ち並び、レトロなカフェや工房巡りも充実。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-indigo-50/70 border border-indigo-100">
-              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-indigo-700" /> 名物ひもかわと上州牛
-              </h3>
+              <h3 className="font-bold text-indigo-950 text-sm mb-1 flex items-center gap-1.5"><Flame className="w-4 h-4 text-indigo-700" /> 名物ひもかわと上州牛</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 幅十数センチの超幅広麺を熱々肉汁でいただくひもかわうどん。上州牛すき焼きとソースカツ丼も必食。
               </p>
@@ -398,9 +388,7 @@ export default function GunmaKiryuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest block">LOCAL GASTRONOMY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                圧巻の幅広「ひもかわうどん」と、旨味凝縮「上州牛」すき焼き
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">圧巻の幅広「ひもかわうどん」と、旨味凝縮「上州牛」すき焼き</h2>
             </div>
           </div>
 
@@ -425,9 +413,7 @@ export default function GunmaKiryuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest block">HISTORIC & SCENIC SPOTS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                千体地蔵の祈りと、高津戸峡の奇岩・わたらせ渓谷鉄道の冬旅情
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">千体地蔵の祈りと、高津戸峡の奇岩・わたらせ渓谷鉄道の冬旅情</h2>
             </div>
           </div>
 
@@ -446,10 +432,8 @@ export default function GunmaKiryuWinterPage() {
 
         {/* Section 4: Travel Practical Tips */}
         <section className="bg-slate-100/80 rounded-2xl p-6 md:p-8 border border-slate-200 space-y-4">
-          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-            <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-            <span>冬の桐生・両毛 旅の実践アドバイス（気候・服装・からっ風対策）</span>
-          </h2>
+          <h2 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+            <span>冬の桐生・両毛 旅の実践アドバイス（気候・服装・からっ風対策）</span></h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-slate-700">
             <div>
               <strong className="block text-slate-900 font-bold mb-1">【気候と防寒】</strong>
@@ -468,9 +452,7 @@ export default function GunmaKiryuWinterPage() {
             <span className="text-xs font-black text-indigo-800 uppercase tracking-widest bg-indigo-100 px-3 py-1 rounded-full inline-block">
               SELECTED ACCOMMODATIONS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">
-              宝徳寺初詣＆桐生散策を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black text-slate-900 font-journal-serif">宝徳寺初詣＆桐生散策を満喫する厳選名宿5選</h2>
             <p className="text-slate-600 text-xs md:text-sm leading-relaxed">
               楽天トラベルAPIより最新の空室・料金・レビュー情報を取得。大浴場完備の駅前ホテルから、グルメ巡りに便利な市街地ホテル、日本庭園を持つホテル、渓谷の秘湯にごり湯一軒宿まで厳選しました。
             </p>
@@ -510,11 +492,9 @@ export default function GunmaKiryuWinterPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-indigo-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl md:text-2xl font-black text-slate-900 hover:text-indigo-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -580,19 +560,15 @@ export default function GunmaKiryuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest block">MODEL ITINERARY</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                宝徳寺初詣＆桐生新町・ひもかわ 1泊2日冬の黄金モデルコース
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">宝徳寺初詣＆桐生新町・ひもかわ 1泊2日冬の黄金モデルコース</h2>
             </div>
           </div>
 
           <div className="space-y-6 text-xs md:text-sm">
             {/* Day 1 */}
             <div className="border-l-2 border-indigo-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-indigo-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
-                日本遺産・桐生新町を散策し、熱々ひもかわうどんを味わう
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-indigo-600 text-white px-2 py-0.5 rounded text-xs">1日目</span>
+                日本遺産・桐生新町を散策し、熱々ひもかわうどんを味わう</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>11:30 東武特急りょうもう号で桐生エリアに到着</strong><br />
                 桐生市街の有名店で、幅十数センチの「ひもかわうどん」を昼食に。熱々の豚肉汁出汁で体の芯から温まる。
@@ -609,10 +585,8 @@ export default function GunmaKiryuWinterPage() {
 
             {/* Day 2 */}
             <div className="border-l-2 border-emerald-500 pl-4 space-y-3">
-              <h3 className="font-black text-slate-900 text-base flex items-center gap-2">
-                <span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
-                名刹「宝徳寺」で床もみじ鑑賞と新春祈願、わたらせ渓谷へ
-              </h3>
+              <h3 className="font-black text-slate-900 text-base flex items-center gap-2"><span className="bg-emerald-600 text-white px-2 py-0.5 rounded text-xs">2日目</span>
+                名刹「宝徳寺」で床もみじ鑑賞と新春祈願、わたらせ渓谷へ</h3>
               <p className="text-slate-600 leading-relaxed">
                 <strong>09:00 宝徳寺へ新春初詣</strong><br />
                 本堂の磨き上げられた床に映り込む静謐な冬の床もみじを拝観。境内の千体地蔵を巡り、新年の無病息災・厄除けを祈念。冬限定の美しい絵入り御朱印をいただく。
@@ -637,19 +611,15 @@ export default function GunmaKiryuWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-purple-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">
-                桐生・宝徳寺 冬の旅行 よくある質問
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 font-journal-serif">桐生・宝徳寺 冬の旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqsData.map((faq, idx) => (
               <div key={idx} className="border border-slate-100 rounded-xl p-4 md:p-5 bg-slate-50/50">
-                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2">
-                  <span className="text-indigo-600 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm md:text-base mb-2 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>

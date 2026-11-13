@@ -205,9 +205,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
       <section className="bg-white border border-amber-200/80 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Stress-Free BBQ</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            一般的なBBQキャンプ vs 手ぶら美食グランピング比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">一般的なBBQキャンプ vs 手ぶら美食グランピング比較</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             「食べる楽しさ」だけを100%味わえるのがグランピング最大のメリットです。
           </p>
@@ -243,9 +241,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
       <section className="bg-amber-50/40 border border-amber-200 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-amber-700 uppercase tracking-wider">Autumn Feast Menu</span>
-          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            シルバーウィーク限定！秋の厳選ごちそうBBQメニュー
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">シルバーウィーク限定！秋の厳選ごちそうBBQメニュー</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             食材の質に妥協しない、高級レストラン水準のこだわりアウトドアダイニング。
           </p>
@@ -268,9 +264,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">Selected Gourmet Glamping</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            料理評価が高評価！手ぶらBBQが楽しめるおすすめグランピング宿
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">料理評価が高評価！手ぶらBBQが楽しめるおすすめグランピング宿</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             熟成肉ステーキ・天然温泉・全天候型ダイニングを完備したシルバーウィークおすすめ施設。
           </p>
@@ -323,9 +317,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-amber-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "地元名産の厳選食材を炭火や高性能グリルで楽しむ手ぶらBBQディナーが自慢のリゾートステイ。"}
@@ -362,18 +354,14 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
       <section className="bg-white rounded-3xl border border-amber-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-amber-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-amber-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            手ぶらBBQグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">手ぶらBBQグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-amber-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-amber-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -384,9 +372,7 @@ export default function SilverWeekGlampingBbqEmptyHandedPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-50 border border-stone-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🍇</span> あわせて読みたい秋のグルメ＆家族旅行ガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい秋のグルメ＆家族旅行ガイド</h3>
         <p className="text-xs text-stone-600">
           旬のフルーツ狩りや家族で楽しめる観光名所モデルコースも合わせてチェック。
         </p>

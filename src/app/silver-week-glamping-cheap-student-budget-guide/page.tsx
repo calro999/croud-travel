@@ -213,9 +213,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-emerald-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">SMART COST HACK</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            1人1万円台前半でグランピングを満喫する4つの節約方程式
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">1人1万円台前半でグランピングを満喫する4つの節約方程式</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             工夫次第で一般ホテルの素泊まりより安く、圧倒的に贅沢なアウトドア体験が手に入ります。
           </p>
@@ -233,9 +231,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
                   {tip.badge}
                 </span>
               </div>
-              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">
-                {tip.title}
-              </h3>
+              <h3 className="text-sm sm:text-base font-bold text-slate-900 leading-snug">{tip.title}</h3>
               <p className="text-xs text-slate-600 leading-relaxed font-medium">
                 {tip.desc}
               </p>
@@ -248,9 +244,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 sm:p-10 space-y-6 shadow-sm">
         <div className="border-l-4 border-slate-700 pl-4 space-y-1">
           <span className="text-xs font-bold text-slate-600 uppercase tracking-widest">VALUE COMPARISON</span>
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            格安コテージ・ドームグランピング vs 通常キャンプ vs ビジネスホテル比較
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">格安コテージ・ドームグランピング vs 通常キャンプ vs ビジネスホテル比較</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             道具なしで気兼ねなく夜更かしできる「一棟貸しグランピング」が若者グループで選ばれる理由。
           </p>
@@ -288,9 +282,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
       <section className="space-y-6" aria-labelledby="cheap-hotels-heading">
         <div className="border-l-4 border-emerald-500 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">BUDGET PICKS</span>
-          <h2 id="cheap-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">
-            学生・若者グループにおすすめの高コスパグランピング＆コテージ
-          </h2>
+          <h2 id="cheap-hotels-heading" className="text-xl sm:text-3xl font-black text-slate-900 font-journal-serif">学生・若者グループにおすすめの高コスパグランピング＆コテージ</h2>
           <p className="text-xs sm:text-sm text-slate-600">
             秋連休もお得！頭割りで安く泊まれる設備充実の人気リゾートです。
           </p>
@@ -338,9 +330,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
                     </span>
                   </div>
 
-                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-slate-900 text-base leading-snug group-hover:text-emerald-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "グループ利用や学生合宿にも最適な広々コテージ。自炊可能なキッチン設備やテラスBBQコンロを完備したコスパ自慢の宿。"}
@@ -377,18 +367,14 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
       <section className="bg-white rounded-3xl border border-slate-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-slate-800 pl-4 space-y-1">
           <span className="text-xs font-bold text-emerald-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">
-            学生・格安グランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-slate-900 font-journal-serif">学生・格安グランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-slate-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2">
-                <span className="text-emerald-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-slate-900 flex items-start gap-2"><span className="text-emerald-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -399,9 +385,7 @@ export default function SilverWeekGlampingCheapStudentBudgetPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-slate-50 border border-slate-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-          <span>🎒</span> 学生旅行・コスパ旅におすすめの関連記事
-        </h3>
+        <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">学生旅行・コスパ旅におすすめの関連記事</h3>
         <p className="text-xs text-slate-600">
           交通費の徹底節約ノウハウやお得な周遊プランもあわせてチェック！
         </p>

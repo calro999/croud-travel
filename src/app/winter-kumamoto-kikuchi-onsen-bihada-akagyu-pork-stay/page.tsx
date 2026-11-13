@@ -409,9 +409,7 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <Landmark className="w-4 h-4 text-teal-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              名湯百選化粧の湯と熊本あか牛＆名水ポークを堪能する名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">名湯百選化粧の湯と熊本あか牛＆名水ポークを堪能する名宿</h2>
           </div>
 
           <div className="space-y-10">
@@ -428,9 +426,7 @@ export default function KumamotoKikuchiValleyWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>熊本県菊池市温泉街</span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3 shrink-0">
                       <div className="flex items-center gap-1 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200/60 text-amber-900 text-xs font-bold">
@@ -519,17 +515,13 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <Calendar className="w-4 h-4 text-teal-800" />
               11月・12月おすすめ1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              菊池渓谷トレッキングと化粧の湯・熊本あか牛を堪能する冬の肥後旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">菊池渓谷トレッキングと化粧の湯・熊本あか牛を堪能する冬の肥後旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【1日目】菊池渓谷の清流散策と極上とろみ湯体験
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【1日目】菊池渓谷の清流散策と極上とろみ湯体験</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -555,10 +547,8 @@ export default function KumamotoKikuchiValleyWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【2日目】初冬の名水スイーツ散歩と阿蘇ドライブ
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【2日目】初冬の名水スイーツ散歩と阿蘇ドライブ</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -588,27 +578,21 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               初冬の菊池・阿蘇麓・おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              名水の里で手に入れたい初冬の肥後銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">名水の里で手に入れたい初冬の肥後銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-teal-700" />
-                熊本限定いちご「ゆうべに」と名水水田ごぼう
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-teal-700" />
+                熊本限定いちご「ゆうべに」と名水水田ごぼう</h3>
               <p>
                 10年もの歳月をかけて熊本県が開発したオリジナルいちご「ゆうべに」。鮮やかな紅色と美しい円錐形、芳醇な香りと高糖度・適度な酸味のバランスが抜群で、11月下旬から直売所に並び始めます。また、名水で育つアクの少ない「水田ごぼう」は柔らかく香りが豊かで、冬の鍋やきんぴら料理に最適です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-teal-700" />
-                菊池温泉ミストと伝統銘菓「松風」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-teal-700" />
+                菊池温泉ミストと伝統銘菓「松風」</h3>
               <p>
                 pH9.0超の天然美肌温泉をそのまま微細ミストにした「菊池温泉ミスト」は、冬の乾燥対策に女性客から圧倒的な支持を集めるお土産。また、日本一薄い和菓子として名高い菊池の伝統銘菓「松風（まつかぜ）」は、ケシの実が香ばしく上品な甘みとパリッとした独特の食感が緑茶やコーヒーによく合います。
               </p>
@@ -623,32 +607,24 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <ThermometerSun className="w-4 h-4 text-teal-800" />
               初冬の菊池温泉・泉質と美肌メカニズムの徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ菊池温泉のお湯は「美容液を浴びるよう」と称されるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ菊池温泉のお湯は「美容液を浴びるよう」と称されるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-teal-700" />
-              pH9.0〜9.2のアルカリ性とメタケイ酸が生み出すシルクのような肌触り
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-teal-700" />
+              pH9.0〜9.2のアルカリ性とメタケイ酸が生み出すシルクのような肌触り</h3>
             <p>
               菊池温泉の泉質は、アルカリ性単純温泉（低張性アルカリ性高温泉）。源泉温度は43℃〜48℃と入浴に最も適した温度で自噴しています。pH9.0を超える高アルカリ性の湯は、肌表面の余分な古い角質や皮脂を自然に乳化・除去する「石鹸作用（角質クリア効果）」を持ちます。さらに、肌のセラミドを整え潤いを保持する天然保湿成分「メタケイ酸」が基準値を大きく上回って溶け込んでいるため、入浴するだけで毛穴が引き締まり、湯上がりにはしっとりとなめらかなシルクのような美肌に仕上がります。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-teal-700" />
-              毎分豊富な湯量が支える贅沢な100%源泉完全かけ流し
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-teal-700" />
+              毎分豊富な湯量が支える贅沢な100%源泉完全かけ流し</h3>
             <p>
               菊池温泉が全国の温泉通から高く評価されるもう一つの理由が、圧倒的な湧出量です。温泉街一帯に多数の源泉井戸が存在し、多くの宿が循環ろ過や塩素殺菌を行わない「純度100%の源泉かけ流し」を提供しています。常に生まれたてのフレッシュな温泉水が湯船に溢れ出ているため、酸化していないピュアな還元力を保ち、冬の冷えや日々のストレスで疲弊した細胞をやさしく活性化してくれます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-teal-700" />
-              熊本あか牛と菊池名水ポークがもたらす冬の活力チャージ
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-teal-700" />
+              熊本あか牛と菊池名水ポークがもたらす冬の活力チャージ</h3>
             <p>
               阿蘇の雄大なカルデラ草地で放牧飼育される「熊本あか牛」は、タウリンやカルニチンなど疲労回復アミノ酸が豊富に含まれ、高タンパクで脂質が控えめな健康和牛の代表格。さらに、阿蘇火山灰層の天然フィルターを通った名水百選菊池川の伏流水を飲んで育つ「菊池銘柄豚（りんどうポークなど）」は、ビタミンB1が一般豚の数倍とも言われ、冬の寒さに負けない免疫力向上に貢献します。名湯のピーリング効果と上質なお肉の滋養が融合し、内側からも外側からも美しさを磨く最高の冬湯治体験を約束します。
             </p>
@@ -662,18 +638,14 @@ export default function KumamotoKikuchiValleyWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の菊池温泉・菊池渓谷旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の菊池温泉・菊池渓谷旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

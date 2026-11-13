@@ -172,9 +172,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-amber-700 uppercase">費用完全計算</span>
-              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">
-                【草津温泉 費用】1泊2日いくらかかる？交通費＆宿泊費
-              </h3>
+              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">【草津温泉 費用】1泊2日いくらかかる？交通費＆宿泊費</h3>
             </div>
             <div className="text-xs font-bold text-stone-500 mt-3 flex items-center justify-between">
               <span>詳細を見る</span>
@@ -188,9 +186,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-amber-700 uppercase">群馬二大名湯比較</span>
-              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">
-                【草津 vs 伊香保】泉質・街歩き・宿を7項目で徹底比較
-              </h3>
+              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">【草津 vs 伊香保】泉質・街歩き・宿を7項目で徹底比較</h3>
             </div>
             <div className="text-xs font-bold text-stone-500 mt-3 flex items-center justify-between">
               <span>詳細を見る</span>
@@ -204,9 +200,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           >
             <div>
               <span className="text-[10px] font-bold text-amber-700 uppercase">直行アクセス</span>
-              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">
-                【東京・新宿から草津温泉】直行バス「ゆめぐり号」料金・時間
-              </h3>
+              <h3 className="text-xs md:text-sm font-black text-stone-900 group-hover:text-amber-800 transition mt-1">【東京・新宿から草津温泉】直行バス「ゆめぐり号」料金・時間</h3>
             </div>
             <div className="text-xs font-bold text-stone-500 mt-3 flex items-center justify-between">
               <span>詳細を見る</span>
@@ -220,9 +214,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
       <section id="bathhouses" className="bg-white border border-stone-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="border-b border-stone-200 pb-4">
           <span className="text-xs font-black tracking-widest text-stone-600 uppercase">FAMOUS BATHHOUSES</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-            日帰り入浴ならここ！草津の「三湯（西の河原・御座之湯・大滝乃湯）」完全ガイド
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">日帰り入浴ならここ！草津の「三湯（西の河原・御座之湯・大滝乃湯）」完全ガイド</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             草津温泉には無数の共同浴場がありますが、ビジターが快適・清潔に利用できるのが町営の代表3施設。3施設すべて入浴できる「三湯めぐり手形（大人2,100円）」もお得です。
           </p>
@@ -239,9 +231,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
                   <span className="w-7 h-7 rounded-full bg-stone-800 text-stone-100 flex items-center justify-center text-xs font-black">
                     {idx + 1}
                   </span>
-                  <h3 className="text-lg font-black text-stone-900 font-journal-serif">
-                    {bath.name}
-                  </h3>
+                  <h3 className="text-lg font-black text-stone-900 font-journal-serif">{bath.name}</h3>
                 </div>
                 <span className="text-xs font-black bg-amber-100 text-amber-900 px-3 py-1 rounded-full border border-amber-300">
                   {bath.badge}
@@ -266,9 +256,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
       <section className="bg-white border border-stone-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="border-b border-stone-200 pb-4">
           <span className="text-xs font-black tracking-widest text-stone-600 uppercase">LOCAL GOURMET LUNCH</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">
-            お湯のあとは絶品ランチ！草津温泉で絶対食べたい3大名物
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900 mt-1">お湯のあとは絶品ランチ！草津温泉で絶対食べたい3大名物</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             強酸性のお湯に浸かった後は代謝が上がりお腹もペコペコ。湯畑周辺には名店が集結しています。
           </p>
@@ -284,9 +272,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
                 <span className="text-[10px] font-black tracking-wider uppercase bg-stone-200 text-stone-800 px-2.5 py-0.5 rounded">
                   {item.category}
                 </span>
-                <h3 className="text-base font-black text-stone-900 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-base font-black text-stone-900 leading-snug">{item.title}</h3>
                 <div className="text-xs font-black text-amber-800">
                   目安予算: {item.price}
                 </div>
@@ -314,9 +300,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
               湯畑まで乗り換えなし直行
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            草津温泉行き 日帰りバスツアー＆高速バス直行便
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">草津温泉行き 日帰りバスツアー＆高速バス直行便</h2>
           <p className="text-xs md:text-sm text-stone-300 leading-relaxed font-medium">
             草津は電車だと駅から路線バスへの乗り換えが必要ですが、高速バスなら新宿・東京・渋谷・練馬から草津温泉バスターミナル（湯畑徒歩5分）まで完全直行！往復バスとランチ、入浴券がセットになった楽天トラベルの日帰りツアーも大変便利です。
           </p>
@@ -367,9 +351,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
           <div className="flex items-center gap-2 text-amber-800 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>RYOKAN & HOTELS FOR STAY & DAYUSE</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-            草津温泉 泉質自慢の名門旅館＆リゾートホテル
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">草津温泉 泉質自慢の名門旅館＆リゾートホテル</h2>
           <p className="text-xs md:text-sm text-stone-600 mt-1">
             日帰り入浴や個室デイユース、もちろん1泊旅行にも最高の評価を誇る草津の提携旅館です。
           </p>
@@ -404,9 +386,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
                   </div>
 
                   <div className="p-4 space-y-2">
-                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm font-black font-journal-serif text-stone-900 line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-[11px] text-stone-600 line-clamp-3 leading-relaxed">
                         {hotel.hotelSpecial}
@@ -437,9 +417,7 @@ export default function KusatsuDaytripHotspringLunchPage() {
 
       {/* 入浴マナー＆強酸性泉の心得 */}
       <section className="bg-amber-50/60 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="text-base md:text-lg font-black font-journal-serif text-amber-950 flex items-center gap-2">
-          <span>⚠️</span> 草津温泉（強酸性泉）日帰り入浴の心得
-        </h3>
+        <h3 className="text-base md:text-lg font-black font-journal-serif text-amber-950 flex items-center gap-2"><span>️</span> 草津温泉（強酸性泉）日帰り入浴の心得</h3>
         <ul className="space-y-2 text-xs md:text-sm text-stone-700 leading-relaxed list-disc list-inside">
           <li>
             <strong className="text-stone-900">貴金属類（シルバー・アクセサリー）は必ず外す：</strong>

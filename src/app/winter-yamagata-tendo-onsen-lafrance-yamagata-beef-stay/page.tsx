@@ -298,10 +298,8 @@ export default function TendoWinterPage() {
             <Award className="w-4 h-4 text-emerald-300" />
             <span>11月・12月限定 将棋の里の初冬雪見名湯と果物の女王ラ・フランス＆山形牛会席</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月天童温泉の冬名湯と山形美食】<br className="hidden sm:inline" />
-            将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月天童温泉の冬名湯と山形美食】<br className="hidden sm:inline" />
+            将棋の里・雪見露天風呂と11月旬ラ・フランス＆A5山形牛すき焼きの宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             奥羽山脈の初冬の山並みを望む将棋駒のふるさと「天童温泉」。11月から12月に最も甘く芳醇に香り立つラ・フランスと、極上の霜降りを誇るA5山形牛すき焼きに舌鼓を打ち、柔らかな美肌露天風呂で温まる贅沢な休日。
           </p>
@@ -327,9 +325,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Tendo Onsen Heritage & Winter Feast</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                将棋駒の伝統が息づく温泉街と、晩秋から初冬へ移ろう山形の恵み
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">将棋駒の伝統が息づく温泉街と、晩秋から初冬へ移ろう山形の恵み</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -344,10 +340,8 @@ export default function TendoWinterPage() {
           
           <div className="bg-emerald-50/70 rounded-2xl p-5 border border-emerald-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-700" />
-                11月・12月天童温泉 旅のハイライト
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-700" />
+                11月・12月天童温泉 旅のハイライト</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 11月12月旬ラ・フランスの極上デザート・A5ランク山形牛すき焼き会席・弱アルカリ性美肌硫酸塩泉雪見露天風呂・将棋駒の街散策・山形新幹線直通アクセス
               </p>
@@ -398,9 +392,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Natural Spring Quality</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                1. 天童温泉の魅力：弱アルカリ性美肌湯と奥羽山脈の雪見露天
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">1. 天童温泉の魅力：弱アルカリ性美肌湯と奥羽山脈の雪見露天</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -419,9 +411,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Queen of Fruits</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                2. 11月・12月が旬！果物の女王「ラ・フランス」の芳醇な味わい
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">2. 11月・12月が旬！果物の女王「ラ・フランス」の芳醇な味わい</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -440,9 +430,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Shogi Piece Craft & Culture</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                3. 将棋駒の日本一の里：歩いて楽しむ天童の歴史と駒彫り体験
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">3. 将棋駒の日本一の里：歩いて楽しむ天童の歴史と駒彫り体験</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -459,9 +447,7 @@ export default function TendoWinterPage() {
             <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest bg-emerald-50 px-4 py-1.5 rounded-full border border-emerald-200">
               Selected 5 Luxury Ryokan & Hotels
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              4. 11・12月に泊まりたい天童温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">4. 11・12月に泊まりたい天童温泉の厳選名宿5選</h2>
             <p className="text-sm text-stone-600 max-w-2xl mx-auto">
               庭園雪見露天風呂、自家農園野菜、A5山形牛すき焼き、旬のラ・フランス料理を心ゆくまで堪能できる名旅館を厳選しました。
             </p>
@@ -498,9 +484,7 @@ export default function TendoWinterPage() {
                         </span>
                       </div>
                       
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       
                       <p className="text-xs text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-emerald-600 flex-shrink-0" />
@@ -559,9 +543,7 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Yamagata Winter Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                5. 山形の冬の贅沢：A5山形牛すき焼き・熱々芋煮・銘酒出羽桜
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">5. 山形の冬の贅沢：A5山形牛すき焼き・熱々芋煮・銘酒出羽桜</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -580,29 +562,21 @@ export default function TendoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-emerald-800 uppercase tracking-widest">Suggested 2-Day Plan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                6. 1泊2日 天童温泉〜初冬の山寺立石寺・将棋資料館 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">6. 1泊2日 天童温泉〜初冬の山寺立石寺・将棋資料館 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-emerald-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-emerald-800 uppercase tracking-wider">【1日目】山形新幹線で天童へ〜将棋の街散策と庭園雪見露天</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                12:45 山形新幹線「天童駅」到着 → 天童市将棋資料館＆工房見学
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">12:45 山形新幹線「天童駅」到着 → 天童市将棋資料館＆工房見学</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 駅直結の資料館で将棋駒の名品を見学。工房で職人の伝統彫り技を鑑賞し、お土産の駒を購入。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                15:00 天童温泉の宿にチェックイン → 弱アルカリ性美肌露天風呂
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">15:00 天童温泉の宿にチェックイン → 弱アルカリ性美肌露天風呂</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 日本庭園の雪吊りを眺めながら、体の芯まで温まる名湯に浸かり旅の疲れをほぐす。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                18:30 A5山形牛すき焼き＆旬のラ・フランス会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">18:30 A5山形牛すき焼き＆旬のラ・フランス会席</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 極上山形牛のすき焼き、熱々芋煮、とろける完熟ラ・フランスのデザートを地酒出羽桜とともに満喫。
               </p>
@@ -610,21 +584,15 @@ export default function TendoWinterPage() {
 
             <div className="border-l-2 border-stone-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-stone-500 uppercase tracking-wider">【2日目】朝風呂でリフレッシュ〜初冬の山寺参拝＆果樹園直売所</span>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                08:00 朝の露天風呂 → つや姫と郷土料理の朝食
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">08:00 朝の露天風呂 → つや姫と郷土料理の朝食</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 炊きたてつや姫と温かい味噌汁、手作りの山形郷土小鉢で心地よい朝を迎える。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                09:30 名刹「山寺（宝珠山立石寺）」へ（車で約15分）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">09:30 名刹「山寺（宝珠山立石寺）」へ（車で約15分）</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 初冬の雪をまとった根本中堂や五大堂を参拝。墨絵のような絶景パノラマを見晴らす。
               </p>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">
-                13:00 天童市内の果樹園直売所で旬のラ・フランスをお土産に購入 → 帰路へ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base pt-2">13:00 天童市内の果樹園直売所で旬のラ・フランスをお土産に購入 → 帰路へ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 産地ならではの最高品質のラ・フランスやりんごを自宅や親しい人へ発送。
               </p>
@@ -647,10 +615,8 @@ export default function TendoWinterPage() {
           <div className="space-y-4">
             {faqList.map((item, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-stone-50 border border-stone-200/60 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed pl-6 border-l-2 border-amber-200">
                   {item.a}
                 </p>
@@ -665,9 +631,7 @@ export default function TendoWinterPage() {
         <section className="bg-stone-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-emerald-300 uppercase tracking-widest">Related Tohoku Winter Guides</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・山形の冬雪見温泉＆極上ブランド牛特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・山形の冬雪見温泉＆極上ブランド牛特集</h2>
             <p className="text-xs sm:text-sm text-stone-300 leading-relaxed">
               山形・東北各地の歴史ある名湯、雪景色が美しい露天風呂、極上和牛を堪能できる特集記事を多数掲載しています。
             </p>

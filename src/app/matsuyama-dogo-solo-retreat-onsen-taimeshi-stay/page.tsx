@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            道後温泉本館の振鷺閣に響く刻太鼓の音と、湯神社から見下ろす城下町——夏目漱石や正岡子規が愛した名湯で心を解きほぐす「松山・道後大人の湯治旅」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">道後温泉本館の振鷺閣に響く刻太鼓の音と、湯神社から見下ろす城下町——夏目漱石や正岡子規が愛した名湯で心を解きほぐす「松山・道後大人の湯治旅」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             羽田から松山空港まで約1時間25分、新大阪から新幹線と特急しおかぜで約3時間半。日本最古の歴史を誇る「道後温泉」と、現存天守がそびえる名城「松山城」を擁する四国随一の観光都市・松山。夏目漱石の小説『坊っちゃん』の舞台であり、俳人・正岡子規の故郷でもあるこの街には、至るところに文学の薫りと温かなもてなしの心が息づいています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   創業三百九十有余年！夏目漱石や昭和天皇も逗留した道後屈指の老舗旅館・自然川が流れる広大な日本庭園
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  道後温泉 ふなや —— 歴史と風格の迎賓館。清流を望む川席「渓流亭」と美肌の源泉掛け流し湯
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">道後温泉 ふなや —— 歴史と風格の迎賓館。清流を望む川席「渓流亭」と美肌の源泉掛け流し湯</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   創業慶応四年！ロビーに本物の「能舞台」が鎮座する純和風数寄屋造りの名門ホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  道後温泉 大和屋本店 —— 伝統文化とおもてなしの融合。男湯・女湯の風情ある露天岩風呂と足湯カフェ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">道後温泉 大和屋本店 —— 伝統文化とおもてなしの融合。男湯・女湯の風情ある露天岩風呂と足湯カフェ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   松山市最大の繁華街「大街道」直結！最上階13階の展望スカイスパから松山城を一望
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）松山大街道 —— 都心の天空オアシス。夜景露天風呂とサウナシュラン仕様のととのい体験
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）松山大街道 —— 都心の天空オアシス。夜景露天風呂とサウナシュラン仕様のととのい体験</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              道後温泉と松山城を一人旅で満喫するモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">道後温泉と松山城を一人旅で満喫するモデルコース</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 朝イチの道後温泉本館（午前6:00開館）で刻太鼓の音とともに一番風呂
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 朝イチの道後温泉本館（午前6:00開館）で刻太鼓の音とともに一番風呂</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 保存修理工事を終えて全館営業を再開した本館。神の湯の歴史ある湯船に体を沈める瞬間は一生の思い出です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 坊っちゃん列車に乗って大街道へ移動し、松山城天守閣へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 坊っちゃん列車に乗って大街道へ移動し、松山城天守閣へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 SLを模したディーゼル機関車に揺られるレトロ体験。松山城へはロープウェイまたはリフトで空中散歩を楽しみながら登れます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 昼食または夕食に「宇和島鯛めし」と松山の地酒「道後ビール」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 昼食または夕食に「宇和島鯛めし」と松山の地酒「道後ビール」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 新鮮な真鯛の刺身を出汁醤油と生卵に絡め、アツアツのご飯に乗せてかきこむ至福。道後温泉の地ビールとの相性も抜群です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>松山空港から道後温泉や市内中心部へのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>松山空港から道後温泉や市内中心部へのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 松山空港から道後温泉直行リムジンバスが運行しており、大街道まで約30分、道後温泉前まで約40分でスムーズに直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で入りやすい鯛めし専門店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で入りやすい鯛めし専門店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 道後温泉本館前や大街道周辺には「かどや」や「丸水（がんすい）」などの有名店があり、カウンター席で一人でも気兼ねなく二大鯛めしを味わえます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】道後温泉 ふなやを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】道後温泉 ふなやを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

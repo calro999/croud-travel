@@ -233,12 +233,10 @@ export default function FurusatoPage() {
             <span>🎁</span> <span>寄付額の最大30%が宿泊割引に！控除上限内で自己負担実質2,000円</span>
           </div>
 
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">
-            楽天トラベルふるさと納税<br className="hidden sm:inline" />
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">楽天トラベルふるさと納税<br className="hidden sm:inline" />
             <span className="bg-gradient-to-r from-amber-200 via-yellow-100 to-amber-300 bg-clip-text text-transparent">
               宿泊クーポン完全活用ガイド
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-emerald-100/90 text-sm md:text-base leading-relaxed font-medium">
             寄付金額の最大30%相当が楽天トラベル宿泊割引クーポンとして即座に還元！年間の控除上限額内であれば、自己負担わずか2,000円で数万〜数十万円分の旅行クーポンを活用できます。有効期限は最長3年間、予約後のあとから適用もOK。
@@ -303,9 +301,7 @@ export default function FurusatoPage() {
       <section className="bg-emerald-950/5 border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-6">
         <div className="space-y-1">
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">HOW TO USE</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-            かんたん3ステップ！ふるさと納税クーポンの使い方
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">かんたん3ステップ！ふるさと納税クーポンの使い方</h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -351,9 +347,7 @@ export default function FurusatoPage() {
       <section id="monthly-section" className="space-y-6">
         <div className="space-y-1">
           <span className="text-[10px] font-extrabold text-amber-700 uppercase tracking-widest block">MONTHLY CALENDAR</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>📅</span> <span>【月別】ふるさと納税で行くベストシーズン宿・旅カレンダー</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【月別】ふるさと納税で行くベストシーズン宿・旅カレンダー</span></h2>
           <p className="text-xs md:text-sm text-emerald-950/70 font-medium">
             季節の移ろいに合わせて、最も旬な体験ができるエリアと寄付額の目安をご紹介します。
           </p>
@@ -372,9 +366,7 @@ export default function FurusatoPage() {
                   </span>
                 </div>
 
-                <h3 className="text-base font-bold text-emerald-950 leading-snug">
-                  {item.title}
-                </h3>
+                <h3 className="text-base font-bold text-emerald-950 leading-snug">{item.title}</h3>
 
                 <p className="text-xs text-emerald-950/75 leading-relaxed">
                   {item.description}
@@ -413,9 +405,7 @@ export default function FurusatoPage() {
       <section className="space-y-6">
         <div className="space-y-1">
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">PURPOSE & THEMES</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🎯</span> <span>【目的別】こだわりテーマで選ぶふるさと納税トラベル</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【目的別】こだわりテーマで選ぶふるさと納税トラベル</span></h2>
           <p className="text-xs md:text-sm text-emerald-950/70 font-medium">
             誰と行くか、どんな旅にしたいかに合わせて最適な宿泊プランをお選びいただけます。
           </p>
@@ -454,9 +444,7 @@ export default function FurusatoPage() {
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
         <div className="space-y-1">
           <span className="text-[10px] font-extrabold text-amber-700 uppercase tracking-widest block">FOUR SEASONS IN JAPAN</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🍁</span> <span>【季節別】日本の四季を五感で味わうおすすめ旅行先</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>【季節別】日本の四季を五感で味わうおすすめ旅行先</span></h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -476,47 +464,37 @@ export default function FurusatoPage() {
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
         <div className="space-y-1">
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>ふるさと納税宿泊クーポンに関するよくある質問</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>ふるさと納税宿泊クーポンに関するよくある質問</span></h2>
         </div>
 
         <div className="space-y-4 divide-y divide-emerald-950/10">
           <div className="pt-4 first:pt-0 space-y-1.5">
-            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2">
-              <span className="text-amber-600 font-black">Q.</span>
-              <span>なぜ実質2,000円で高級ホテルや温泉旅館に泊まれるのですか？</span>
-            </h4>
+            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+              <span>なぜ実質2,000円で高級ホテルや温泉旅館に泊まれるのですか？</span></h4>
             <p className="text-xs text-emerald-950/75 leading-relaxed pl-5">
               ふるさと納税は、年間の寄付総額から自己負担金2,000円を差し引いた金額が、翌年の所得税還付や住民税控除として全額戻ってくる国の制度です。寄付額の最大30%相当の楽天トラベル宿泊クーポンが進呈されるため、上限額の範囲内であれば実質負担わずか2,000円で宿泊できる仕組みです。
             </p>
           </div>
 
           <div className="pt-4 space-y-1.5">
-            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2">
-              <span className="text-amber-600 font-black">Q.</span>
-              <span>先に予約してしまった宿にも、後からふるさと納税クーポンを適用できますか？</span>
-            </h4>
+            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+              <span>先に予約してしまった宿にも、後からふるさと納税クーポンを適用できますか？</span></h4>
             <p className="text-xs text-emerald-950/75 leading-relaxed pl-5">
               はい、可能です。楽天トラベルのふるさと納税クーポンは「予約後のあとから適用」に完全対応しています。行きたい宿を先に予約しておき、後から寄付してクーポンを獲得後、予約確認画面からワンクリックで適用できます。
             </p>
           </div>
 
           <div className="pt-4 space-y-1.5">
-            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2">
-              <span className="text-amber-600 font-black">Q.</span>
-              <span>クーポンの有効期限はいつまでですか？ 年末に寄付しても来年使えますか？</span>
-            </h4>
+            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+              <span>クーポンの有効期限はいつまでですか？ 年末に寄付しても来年使えますか？</span></h4>
             <p className="text-xs text-emerald-950/75 leading-relaxed pl-5">
               クーポンの有効期限は寄付翌日から「最長3年間」です。12月の年末調整時期に年間の控除枠を使い切るためにまとめて寄付しておき、翌年や翌々年のゴールデンウィーク、夏休み、シルバーウィークなどの旅行でゆっくり利用できます。
             </p>
           </div>
 
           <div className="pt-4 space-y-1.5">
-            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2">
-              <span className="text-amber-600 font-black">Q.</span>
-              <span>「5と0のつく日」セールなどの他の割引クーポンと併用できますか？</span>
-            </h4>
+            <h4 className="text-sm font-bold text-emerald-950 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+              <span>「5と0のつく日」セールなどの他の割引クーポンと併用できますか？</span></h4>
             <p className="text-xs text-emerald-950/75 leading-relaxed pl-5">
               自治体クーポン（ふるさと納税クーポン）と楽天トラベル公式発行の割引クーポンは、併用可能なプランが多数用意されています。5と0のつく日の最大20%OFFクーポンや宿限定クーポンと組み合わせることで、信じられないほどの割引価格で予約することができます。
             </p>
@@ -529,9 +507,7 @@ export default function FurusatoPage() {
         <span className="inline-block text-xs font-black uppercase tracking-widest bg-black/20 px-3.5 py-1 rounded-full">
           お得な旅のチャンスを逃さない！
         </span>
-        <h3 className="text-2xl md:text-3xl font-black font-journal-serif">
-          楽天トラベル ふるさと納税クーポンを今すぐチェック
-        </h3>
+        <h3 className="text-2xl md:text-3xl font-black font-journal-serif">楽天トラベル ふるさと納税クーポンを今すぐチェック</h3>
         <p className="text-amber-100 text-xs md:text-sm max-w-xl mx-auto leading-relaxed">
           控除上限額内なら自己負担実質2,000円！寄付額の最大30%相当のクーポンを獲得して憧れの温泉宿やリゾートホテルへ。シミュレーターで今年の枠を確認してみましょう。
         </p>

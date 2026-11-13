@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              八百万の神が集う神在月！化粧水いらずの日本最古の美肌温泉と山陰の冬味覚
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">八百万の神が集う神在月！化粧水いらずの日本最古の美肌温泉と山陰の冬味覚</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             全国では「神無月」と呼ばれる旧暦10月、八百万の神々が集まる出雲地方では「神在月（かみありづき）」と呼ばれ、出雲大社では厳かな神在祭が執り行われます。参拝の拠点として1300年前の『出雲国風土記』にも「一度洗えば肌が美しくなり、二度入れば病が治る」と記された名湯「玉造温泉」。秋には玉湯川沿いの桜並木やモミジが美しく紅葉し、川沿いの足湯や温泉街散策が楽しめます。11月6日には山陰の冬の味覚の王様「松葉ガニ」漁も解禁。島根和牛や宍道湖名物シジミとともに、至極の温泉旅を楽天ふるさと納税トラベルクーポンでお得に満喫しましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                神在月の出雲大社参拝＆玉湯川沿いの紅葉ライトアップ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                神在月の出雲大社参拝＆玉湯川沿いの紅葉ライトアップ</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 大国主大神に良縁を祈願する神在祭。夜の玉造温泉街では、川沿いの街並みと紅葉がやわらかな灯籠の光でライトアップされ、幻想的な散策が楽しめます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                天然の化粧水！潤い成分豊富な日本一の美肌温泉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                天然の化粧水！潤い成分豊富な日本一の美肌温泉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 硫酸塩・塩化物泉の泉質が肌にハリと潤いを与え、美肌作用が科学的にも証明された玉造の湯。源泉を持ち帰れる美肌スポットも人気です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                11月解禁！境港・恵曇港水揚げの山陰松葉ガニ＆島根和牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                11月解禁！境港・恵曇港水揚げの山陰松葉ガニ＆島根和牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 身がぎっしり詰まった獲れたての松葉ガニ（茹でガニ、焼きガニ、カニすき）、全国和牛能力共進会で肉質日本一に輝いた「しまね和牛」の極上会席を堪能。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.70 <span className="text-stone-400 text-xs">(3991件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    出雲・玉造温泉　白石家
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">出雲・玉造温泉　白石家</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 島根県松江市玉湯町玉造44-2 ｜ 【山陰道】玉造インターから車で約１０分 ■出雲大社から車で約４０分の距離 ■ＪＲ玉造温泉駅より送迎有（事前連絡要）
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.67 <span className="text-stone-400 text-xs">(1481件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    玉造温泉　佳翠苑　皆美
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">玉造温泉　佳翠苑　皆美</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 島根県松江市玉湯町玉造1218-8 ｜ 米子自動車道　国道9号線で約50分。JR山陰本線　玉造温泉駅。
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.21 <span className="text-stone-400 text-xs">(995件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    玉造温泉　旅亭　山の井
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">玉造温泉　旅亭　山の井</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 島根県松江市玉湯町玉造1042 ｜ 山陰道 玉造ICより車で約10分/出雲空港より車にて約30分/JR玉造温泉駅よりタクシーにて約10分
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】出雲・玉造温泉 白石家を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】出雲・玉造温泉 白石家を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と出雲・玉造温泉 白石家の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と出雲・玉造温泉 白石家の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

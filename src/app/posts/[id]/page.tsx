@@ -403,7 +403,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
         {
           q: `${post.prefecture}（${post.area}）で特に口コミ評価が高いおすすめ温泉宿・ホテルはどこですか？`,
           a: post.featured_hotels && post.featured_hotels.length >= 3
-            ? `${post.prefecture}・${post.area}エリアでは、「${post.featured_hotels.slice(0, 3).map(h => `${h.name}（評価★${h.rating}）`).join("」「")}」などが楽天トラベルでも特に高い評価を獲得しておりおすすめです。記事冒頭の比較一覧表から各宿の最安プランをご確認いただけます。`
+            ? `${post.prefecture}・${post.area}エリアでは、「${post.featured_hotels.slice(0, 3).map(h => `${h.name}（評価${h.rating}）`).join("」「")}」などが楽天トラベルでも特に高い評価を獲得しておりおすすめです。記事冒頭の比較一覧表から各宿の最安プランをご確認いただけます。`
             : `${post.prefecture}・${post.area}エリアには、源泉かけ流し露天風呂や地元旬食材の会席料理が自慢の名宿が揃っています。本記事の厳選リストから目的に合った宿をお選びいただけます。`
         },
         {
@@ -591,10 +591,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           <>
             <div id="section-summary" className="scroll-mt-24 rounded-2xl overflow-hidden border border-teal-900/15 bg-white shadow-sm">
               <div className="bg-gradient-to-r from-teal-900 to-emerald-900 px-5 py-3.5 flex flex-wrap items-center justify-between gap-2">
-                <h2 className="text-xs md:text-sm font-black text-white flex items-center gap-2 m-0">
-                  <span>📊</span>
-                  <span>【施設基本スペック早見表】{post.hotel_name}（楽天トラベル公式データ連携）</span>
-                </h2>
+                <h2 className="text-xs md:text-sm font-black text-white flex items-center gap-2 m-0"><span>【施設基本スペック早見表】{post.hotel_name}（楽天トラベル公式データ連携）</span></h2>
                 <a
                   href={post.affiliate_url}
                   target="_blank"
@@ -719,9 +716,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             {/* 宿のギャラリー画像 */}
             {post.other_images && post.other_images.length > 0 && (
               <div id="section-gallery" className="scroll-mt-24 space-y-4 pt-8 border-t border-emerald-950/5">
-                <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">
-                  ▼ 施設ギャラリー（客室・お風呂・館内）
-                </h3>
+                <h3 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest">▼ 施設ギャラリー（客室・お風呂・館内）</h3>
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
                   {post.other_images.map((imgUrl, idx) => (
                     <div
@@ -807,16 +802,12 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
 
         {/* AI-SEO (GEO) ＆ ユーザー満足度向上の FAQ (よくある質問) - 全記事表示で構造化データと完全一致 */}
         <div id="section-faq" className="scroll-mt-24 pt-10 border-t border-emerald-950/10 space-y-6">
-          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span>
-          </h3>
+          <h3 className="text-lg md:text-xl font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{post.prefecture}旅行・{post.hotel_name}に関するよくある質問（FAQ）</span></h3>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h4>
+                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h4>
                 <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                   {faq.a}
                 </p>

@@ -298,10 +298,8 @@ export default function HakubaOnsenWinterPage() {
             <Snowflake className="w-4 h-4 text-blue-400" />
             <span>11月・12月限定 白銀の北アルプス開闢 pH11超高アルカリ美肌露天と信州牛</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】<br className="hidden sm:inline" />
-            白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月白馬山麓温泉の初雪パウダースノーと北アルプス絶景】<br className="hidden sm:inline" />
+            白銀連峰望む露天・pH11高アルカリ美肌湯と極上信州牛＆信州サーモン会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             北アルプスの名峰・白馬三山が純白の雪を纏う冬の始まり。pH11.2を誇る日本随一の強アルカリ美肌湯、暖炉の火が揺らぐヨーロッパ調山岳リゾート、とろける信州プレミアム牛と信州サーモンに舌鼓を打つ極上の休日。
           </p>
@@ -327,9 +325,7 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Hakuba Winter Awakening</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                世界が憧れる白銀の国際山岳リゾート。初雪の北アルプスと奇跡の高アルカリ美肌湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">世界が憧れる白銀の国際山岳リゾート。初雪の北アルプスと奇跡の高アルカリ美肌湯</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -363,9 +359,7 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Natural Spring & Shinshu Gourmet</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                pH11超の天然ピーリング名湯と、冬の味覚「信州プレミアム牛＆信州サーモン」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">pH11超の天然ピーリング名湯と、冬の味覚「信州プレミアム牛＆信州サーモン」</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -413,37 +407,29 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の白馬山麓温泉が旅人を魅了してやまない3つの決定的な理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の白馬山麓温泉が旅人を魅了してやまない3つの決定的な理由</h2>
             </div>
           </div>
           <div className="space-y-4">
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">1</span>
-                <span>白銀の初雪に輝く北アルプス三山と朝焼けモルゲンロートの神々しさ</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">1</span>
+                <span>白銀の初雪に輝く北アルプス三山と朝焼けモルゲンロートの神々しさ</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 11月下旬になると標高3,000mの白馬連峰が純白の雪を纏い、冬の幕開けを告げます。冷え込んだ早朝、露天風呂に浸かりながら仰ぎ見る「モルゲンロート」は圧巻。山頂の白い雪が朝陽の光を受けて薄紅色から黄金色へとドラマチックに色を変えていく瞬間は、息をのむほどの感動を与えてくれます。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">2</span>
-                <span>日本随一の水素イオン濃度pH11.2！驚異の天然ピーリング美肌の湯</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">2</span>
+                <span>日本随一の水素イオン濃度pH11.2！驚異の天然ピーリング美肌の湯</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 白馬八方温泉は、国内の温泉でもトップクラスを誇る強アルカリ性（pH11.2以上）の泉質。古い角質や毛穴の汚れを優しく溶かし去るピーリング作用により、湯上がりの肌は驚くほどツルツルに生まれ変わります。初雪が舞う露天風呂で温まりながら、極上の美肌効果を心ゆくまで満喫できます。
               </p>
             </div>
 
             <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">3</span>
-                <span>本物の薪暖炉ラウンジと信州プレミアム牛ステーキ＆地ワインの贅沢</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-blue-900 text-white flex items-center justify-center text-xs">3</span>
+                <span>本物の薪暖炉ラウンジと信州プレミアム牛ステーキ＆地ワインの贅沢</span></h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 ヨーロッパの山岳シャレーを思わせるクラシックホテルでは、本物の薪がパチパチと燃える暖炉を囲んで過ごす時間が旅情を高めます。夕食にはオレイン酸豊富な最高級「信州プレミアム牛」のステーキや、清流で育つ「信州サーモン」、地元安曇野の冬野菜フレンチ。信州が世界に誇るプレミアムワインとともに、心温まる冬の夜を堪能できます。
               </p>
@@ -455,9 +441,7 @@ export default function HakubaOnsenWinterPage() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Selected Luxury Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【11・12月】白馬山麓温泉の雪見露天とリゾートを極める厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【11・12月】白馬山麓温泉の雪見露天とリゾートを極める厳選宿5選</h2>
             <p className="text-sm text-slate-600">
               楽天トラベルの最新APIデータに基づき、北アルプスと雪森の眺望、源泉露天風呂の湯質、信州牛ディナーや会席、暖炉ラウンジ、口コミ評価で選び抜いた5軒。
             </p>
@@ -494,11 +478,9 @@ export default function HakubaOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-blue-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-blue-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-blue-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -558,9 +540,7 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の白馬山麓を満喫する1泊2日北アルプス絶景＆リゾートモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の白馬山麓を満喫する1泊2日北アルプス絶景＆リゾートモデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -614,26 +594,20 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・雪道ドライブ＆アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・雪道ドライブ＆アクセス対策</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-blue-700" />
-                <span>気温と防寒対策ガイド</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-blue-700" />
+                <span>気温と防寒対策ガイド</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 白馬村は標高約700〜800mに位置するため、寒さは本格的です。11月は日中でも10℃前後、朝晩は0℃近くに達します。12月は日中でも3℃程度、夜間はマイナス5℃からマイナス10℃近くまで冷え込みます。防水・防風仕様の本格ダウンジャケット、保温インナー、ニット帽、手袋、ネックウォーマーを必ず持参してください。雪道歩行用に滑り止め付きのスノーブーツが必須です。
               </p>
             </div>
             <div className="space-y-3 p-5 rounded-2xl bg-slate-50 border border-slate-200">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-blue-700" />
-                <span>雪道ドライブと特急バスアクセス</span>
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-blue-700" />
+                <span>雪道ドライブと特急バスアクセス</span></h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 長野道「安曇野IC」や上信越道「長野IC」からのアクセス道路は、11月中旬以降に降雪や凍結が発生します。お車の方は必ずスタッドレスタイヤを装着し、チェーンを携行してください。雪道運転に不安がある方は、北陸新幹線「長野駅」東口から毎日運行されている白馬行き直通特急バス（約60〜75分）を利用すると安全かつ極めて快適です。
               </p>
@@ -649,18 +623,14 @@ export default function HakubaOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-blue-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬の白馬山麓旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬の白馬山麓旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -673,9 +643,7 @@ export default function HakubaOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-blue-400 uppercase tracking-widest">Related Shinshu & Snow Hotspring Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい信州・甲信越の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい信州・甲信越の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               野沢温泉や渋温泉、白骨温泉など、白銀の北アルプスと信州の美食を満喫する人気特集を公開中。
             </p>

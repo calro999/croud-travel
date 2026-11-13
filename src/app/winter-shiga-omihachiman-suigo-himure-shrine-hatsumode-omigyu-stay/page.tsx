@@ -314,9 +314,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Cultural Landscape & Kotatsu Boat</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                重要文化的景観第1号「近江八幡の水郷」冬限定のこたつ舟でめぐる枯葦の静寂
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">重要文化的景観第1号「近江八幡の水郷」冬限定のこたつ舟でめぐる枯葦の静寂</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -335,9 +333,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Historic Shrine & Castle View</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                近江商人信仰の総本山「日牟禮八幡宮」新春商売繁盛祈願と八幡山からの琵琶湖絶景
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">近江商人信仰の総本山「日牟禮八幡宮」新春商売繁盛祈願と八幡山からの琵琶湖絶景</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -356,9 +352,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-700 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Legendary Omi Beef & Local Delicacies</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                とろける霜降り「本場・近江牛すき焼き」と赤こんにゃく・丁字麩の美食の饗宴
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">とろける霜降り「本場・近江牛すき焼き」と赤こんにゃく・丁字麩の美食の饗宴</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -377,9 +371,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-8">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】近江八幡・琵琶湖周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】近江八幡・琵琶湖周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※リアルタイムAPIから取得した宿泊料金目安・レビュー評価・立地条件を掲載しています。
               </p>
@@ -405,9 +397,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-amber-600 shrink-0" />
@@ -430,9 +420,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -467,17 +455,13 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-stone-700 pl-4 mb-6">
               <span className="text-xs font-bold text-stone-600 tracking-wider uppercase">Model Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日】水郷こたつ舟と日牟禮八幡宮初詣・近江牛を満喫するモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日】水郷こたつ舟と日牟禮八幡宮初詣・近江牛を満喫するモデルコース</h2>
             </div>
             <div className="bg-white border border-stone-200 rounded-xl p-6 space-y-6">
               <div>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-stone-800 text-white text-xs font-bold rounded">DAY 1</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    近江商人屋敷散策と水郷こたつ舟体験・琵琶湖畔温泉で近江牛ディナー
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">近江商人屋敷散策と水郷こたつ舟体験・琵琶湖畔温泉で近江牛ディナー</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -504,9 +488,7 @@ export default function ShigaOmihachimanWinterFeaturePage() {
               <div className="pt-4 border-t border-stone-100">
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-amber-600 text-white text-xs font-bold rounded">DAY 2</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    日牟禮八幡宮新春初詣と八幡山城跡展望・たねや焼き立てつぶら餅
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">日牟禮八幡宮新春初詣と八幡山城跡展望・たねや焼き立てつぶら餅</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -533,17 +515,13 @@ export default function ShigaOmihachimanWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                冬の近江八幡旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">冬の近江八幡旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
               {faqList.map((f, i) => (
                 <div key={i} className="bg-white border border-stone-200 rounded-xl p-5">
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2">
-                    <span className="text-amber-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2"><span className="text-amber-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-amber-100">
                     {f.a}
                   </p>
@@ -554,10 +532,8 @@ export default function ShigaOmihachimanWinterFeaturePage() {
 
           {/* Section 7: 内部リンク & 関連記事クロスナビゲーション */}
           <section className="border-t border-stone-200 pt-10">
-            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2">
-              <Compass className="w-4 h-4 text-amber-600" />
-              RELATED WINTER FEATURES（冬の注目特集一覧）
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2"><Compass className="w-4 h-4 text-amber-600" />
+              RELATED WINTER FEATURES（冬の注目特集一覧）</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
                 href="/winter-shiga-nagahama-taiko-onsen-biwako-kamonabe-omigyu-stay/"

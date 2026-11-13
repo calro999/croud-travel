@@ -55,9 +55,7 @@ export default function KorankeiAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            東海随一の紅葉美「香嵐渓もみじまつり」と夜の黄金絵巻
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">東海随一の紅葉美「香嵐渓もみじまつり」と夜の黄金絵巻</h2>
           <p className="mb-4 text-stone-700">
             愛知県豊田市足助町に位置する香嵐渓は、毎年約50万人が訪れる日本屈指の紅葉名所です。11月1日から30日にかけて開催される「香嵐渓もみじまつり」では、赤く塗られた「待月橋（たいげつきょう）」周辺をはじめ、山全体が燃えるような紅葉に包まれます。夕暮れ時から始まるライトアップでは、飯盛山が黄金色に浮かび上がり、巴川の水面に揺らめく光景は圧巻です。
           </p>
@@ -69,10 +67,8 @@ export default function KorankeiAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！足助・猿投・豊田の厳選宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！足助・猿投・豊田の厳選宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KorankeiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 5</span>
                     <span className="text-stone-400 text-xs">(7件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    せせらぎの宿　木もれ日
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">せせらぎの宿　木もれ日</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / お車で新東名高速道路　新城I.Cより約１時間。岡崎東I.Cより約４５分
                   </p>
@@ -142,9 +136,7 @@ export default function KorankeiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.63</span>
                     <span className="text-stone-400 text-xs">(302件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    川澄屋　茶房宿
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">川澄屋　茶房宿</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 猿投駅 / 豊田市駅より（おいでんバス）小渡（おど）行き乗車（加茂橋下駅）下車徒歩1分(東海環状自動車道、豊田藤岡インターから15分
                   </p>
@@ -189,9 +181,7 @@ export default function KorankeiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.59</span>
                     <span className="text-stone-400 text-xs">(261件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">しあわせ隠れ里　猿投温泉　癒しの宿　金泉閣</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 保見駅 / 東名高速、名古屋ICから車で30分。猿投グリーンロード加納IC下車。
                   </p>
@@ -236,9 +226,7 @@ export default function KorankeiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.28</span>
                     <span className="text-stone-400 text-xs">(769件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    名鉄トヨタホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">名鉄トヨタホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / 名鉄　豊田市駅から徒歩１分
                   </p>
@@ -283,9 +271,7 @@ export default function KorankeiAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.2</span>
                     <span className="text-stone-400 text-xs">(679件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルルートイン豊田陣中
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルルートイン豊田陣中</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 豊田市駅 / 名鉄三河線　梅平駅より徒歩約１０分／名鉄三河線　豊田市駅より徒歩約２０分
                   </p>
@@ -330,9 +316,7 @@ export default function KorankeiAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の香嵐渓：4000本のもみじ狩りと巴川ライトアップ！三河の名湯と美食を味わうおすすめ宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KorankeiAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の香嵐渓エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の香嵐渓エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

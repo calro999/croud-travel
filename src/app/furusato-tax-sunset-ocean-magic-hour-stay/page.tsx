@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>空と海が茜色に染まるマジックアワー。波音と夕暮れグラデーションに抱かれる至福の湯</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>空と海が茜色に染まるマジックアワー。波音と夕暮れグラデーションに抱かれる至福の湯</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             水平線の彼方へと太陽がゆっくりと沈み、空が黄金色から茜色、そして深い紫へと移ろうマジックアワー。波打ち際の露天風呂やオーシャンビュー客室のバルコニーは、一瞬ごとに表情を変える自然のドラマを独り占めできる特等席です。楽天ふるさと納税を活用すれば、寄付額の最大30%が宿泊割引クーポンとして還元され、プレミアムな夕日ビュールームや特別会席付きプランをお得に満喫できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    夕景日本一を誇る景勝地で客室や露天風呂から夕日を独り占め
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">夕景日本一を誇る景勝地で客室や露天風呂から夕日を独り占め</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     堂ヶ島の奇岩群を黄金色に染め上げる夕陽や、日本海の水平線に吸い込まれる夕日。人混みを離れ、宿の湯船やテラスから落ち着いて眺める感動は格別です。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    伊勢海老・アワビ・地魚の舟盛りなど夕暮れを彩る海鮮美食
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">伊勢海老・アワビ・地魚の舟盛りなど夕暮れを彩る海鮮美食</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     夕景を眺めながらいただく駿河湾・日本海・南紀の獲れたて魚介会席。絶景とともに味わう海の幸とお酒は、旅の記憶に深く刻まれます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ふるさと納税で高額な海側露天風呂付き客室も実質2,000円で予約
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ふるさと納税で高額な海側露天風呂付き客室も実質2,000円で予約</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     夕日が見える向きの客室は人気が高く価格設定も上がりがちですが、返礼クーポンを充当すれば自己負担実質2,000円でワンランク上の滞在が可能です。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="nishiizu_sunset" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県西伊豆町ふるさと納税：夕陽日本一宣言の堂ヶ島・茜色の海と海岸露天風呂</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県西伊豆町ふるさと納税：夕陽日本一宣言の堂ヶ島・茜色の海と海岸露天風呂</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       町を挙げて「夕陽日本一」を誇る西伊豆。海に沈む夕陽が三四郎島や堂ヶ島の奇岩をシルエットとして浮かび上がらせる絶景を、源泉かけ流しの露天風呂から堪能できます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              西伊豆小土肥温泉　茜色の海　あるじ栖
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">西伊豆小土肥温泉　茜色の海　あるじ栖</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               2019年9月にリニューアル！西伊豆の浜辺に佇む隠れ宿。眺望抜群の露天風呂付客室が大人気！
                             </p>
@@ -249,9 +235,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              戸田温泉　ときわや
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">戸田温泉　ときわや</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               海一望！２か所の貸切露天は予約不要で無料。貸し竿での海釣り体験も好評。コンビニまで徒歩2分
                             </p>
@@ -301,9 +285,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              旅館たか屋
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">旅館たか屋</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               【個室食で安心】旬の素材をふんだんに使った海鮮料理が自慢！地元・田子名物の鰹尽くしの料理に舌鼓。
                             </p>
@@ -338,10 +320,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="yura_sunset" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>山形県鶴岡市ふるさと納税：由良海岸・「東北の江の島」白山島と日本海の壮大な落日</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>山形県鶴岡市ふるさと納税：由良海岸・「東北の江の島」白山島と日本海の壮大な落日</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       庄内砂丘に面した由良海岸。赤い橋で繋がる白山島と日本海に沈む真っ赤な夕陽のコントラストは息を呑む美しさ。庄内浜の新鮮な地魚料理とともに名湯を味わえます。
                     </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              由良温泉　民宿　石川
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">由良温泉　民宿　石川</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               海水浴場に徒歩で1分とかからない絶好のロケーションが自慢の宿です。日本海に沈む美しい夕日は絶景です。
                             </p>
@@ -421,9 +398,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              湯らゆら温泉郷　民宿　海月楼
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">湯らゆら温泉郷　民宿　海月楼</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               由良海岸まで徒歩１０　秒！豪快な海の幸を味わう♪
                             </p>
@@ -473,9 +448,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              湯らゆら温泉郷　旅館芳月（ほうげつ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">湯らゆら温泉郷　旅館芳月（ほうげつ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               由良海岸の料理自慢の宿。夏は海水浴・冬はカニ料理を満喫
                             </p>
@@ -510,10 +483,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shirahama_sunset" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>和歌山県白浜町ふるさと納税：南紀白浜・円月島の海蝕洞に沈む夕陽と美肌の湯</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>和歌山県白浜町ふるさと納税：南紀白浜・円月島の海蝕洞に沈む夕陽と美肌の湯</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       国の名勝・円月島の中央の穴に夕陽が重なる奇跡の瞬間が有名な白浜温泉。太平洋を一望する展望露天風呂で波音に耳を傾けながら、名湯白浜の湯で心身を解きほぐせます。
                     </p>
@@ -541,9 +511,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              白浜温泉　ホテル三楽荘
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">白浜温泉　ホテル三楽荘</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               得旅ポイント最大15倍■全室オーシャンビュー&amp;白良浜徒歩1分■露天風呂付き客室はすべて源泉掛け流し
                             </p>
@@ -593,9 +561,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              ガーデンホテルハナヨ
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">ガーデンホテルハナヨ</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               アドベンチャーワールド車15分☆海沿いのホテル♪とろ～り天然温泉で笑顔咲く☆貸切露天風呂も最高♪
                             </p>
@@ -701,9 +667,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】西伊豆小土肥温泉 茜色の海 あるじ栖を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】西伊豆小土肥温泉 茜色の海 あるじ栖を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -736,9 +700,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と西伊豆小土肥温泉 茜色の海 あるじ栖の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と西伊豆小土肥温泉 茜色の海 あるじ栖の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

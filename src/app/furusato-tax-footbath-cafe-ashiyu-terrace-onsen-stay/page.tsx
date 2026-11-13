@@ -108,9 +108,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  服を着たまま気軽にリフレッシュ！足元から全身の血流が巡る「足湯」の温浴効果
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">服を着たまま気軽にリフレッシュ！足元から全身の血流が巡る「足湯」の温浴効果</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 「第二の心臓」と呼ばれる足を温めることで、全身の血行が劇的に促進され、歩き疲れや冷え、むくみがすっきりと解消。メイクを落とさず何度でも気軽に名湯を楽しめる手軽さも魅力です。
@@ -123,9 +121,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  焼きたてパンやご当地スイーツ！清流テラスで味わう格別のカフェタイム
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">焼きたてパンやご当地スイーツ！清流テラスで味わう格別のカフェタイム</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 ホテル専属ベーカーが焼き上げる芳醇なパンやサンドイッチ、地元素材のジェラートやクラフトドリンク。川の音と鳥のさえずりをBGMにいただくテラスでの朝食やランチは格別の美味しさです。
@@ -138,9 +134,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  大自然に抱かれる本格露天風呂と、地産地消の厳選ディナーで完璧な一日を
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">大自然に抱かれる本格露天風呂と、地産地消の厳選ディナーで完璧な一日を</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 カフェタイムの後は、宿自慢の源泉かけ流し大浴場や露天風呂で本格的な湯浴み。伊豆牛や阿蘇あか牛、信州サーモンなど各地の滋味を凝縮した贅沢な会席料理が旅の夜を豊かに彩ります。
@@ -183,9 +177,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     静岡県伊豆市・三万六千坪の清流リゾート！大人気「足湯カフェ＆ベーカリー」と自家源泉掛け流し
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕ</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     中伊豆・吉奈温泉の清流・吉奈川沿いに三万六千坪もの広大な敷地を誇る、日本の伝統美とモダンリゾートが融合した名宿。敷地内にある「Bakery & Table 東府や」の足湯テラス席は全国から観光客が訪れる大人気スポットで、清流を眺めながら足湯に浸かり、米粉のカレーパンや自家製スイーツを堪能できます。全客室が川沿いやヴィラタイプで温泉内風呂や露天風呂を完備。男女別の大浴場や貸切露天風呂では徳川家康の側室・お万の方ゆかりの「子宝の湯」として名高い名湯を満喫でき、伊豆の四季の味覚を彩る和会席とともに大人の優雅な休日をお過ごしいただけます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県南小国町・黒川温泉随一の広さを誇る仙人風呂！田の原川沿いの足湯と肥後あか牛会席
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    黒川温泉　やまびこ旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">黒川温泉　やまびこ旅館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     黒川温泉を流れる田の原川の渓流沿いに佇み、茅葺き屋根の門をくぐると看板犬が温かく出迎えてくれる風情豊かな名旅館。川沿いには誰でも気軽に立ち寄れる足湯が設けられており、川のせせらぎに耳を澄ませながら足元からポカポカと温まることができます。宿の名物は黒川温泉で一番の広さを誇る大露天風呂「仙人風呂」や立ち湯、プライベートな貸切風呂。夕食には熊本名物の馬刺しや肥後あか牛のステーキ、地元小国の高原野菜を使った心尽くしの会席料理が並び、温かな九州の温泉情緒に包まれます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県松本市・特別名勝上高地！梓川の絶景を望む樽風呂足湯と三つの自家源泉かけ流し
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    上高地温泉ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">上高地温泉ホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     神々が降り立つ地と称される北アルプスの特別名勝・上高地の奥に位置し、開湯百四十余年の歴史を誇る老舗温泉リゾートホテル。梓川の清流と霞沢岳を仰ぐウッドデッキには趣ある木製の「樽風呂足湯」が設置され、上高地トレッキングで疲れた足を心地よい名湯で癒やせます。上高地で唯一の3本の自家源泉を持ち、加水・加温一切なしの源泉かけ流し露天風呂を完備。夕食には信州牛や岩魚、安曇野の採れたて野菜を使った手作り和食会席を味わえ、手つかずの大自然と名湯に身を委ねる極上の山岳リトリートが叶います。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoFootbathCafeAshiyuStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と東府やＲｅｓｏｒｔ＆Ｓｐａ－Ｉｚｕの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -409,9 +409,7 @@ export default function OitaYunohiraYufuWinterPage() {
               <Landmark className="w-4 h-4 text-amber-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              赤提灯の情緒と豊後牛＆合鴨鍋を堪能する由布院奥座敷の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">赤提灯の情緒と豊後牛＆合鴨鍋を堪能する由布院奥座敷の名宿</h2>
           </div>
 
           <div className="space-y-10">
@@ -428,9 +426,7 @@ export default function OitaYunohiraYufuWinterPage() {
                         <MapPin className="w-3.5 h-3.5" />
                         <span>大分県由布市湯布院町湯平</span>
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3 shrink-0">
                       <div className="flex items-center gap-1 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200/60 text-amber-900 text-xs font-bold">
@@ -519,17 +515,13 @@ export default function OitaYunohiraYufuWinterPage() {
               <Calendar className="w-4 h-4 text-amber-800" />
               11月・12月おすすめ1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              由布院観光と湯平石畳赤提灯・豊後牛合鴨鍋を満喫する冬の休日
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">由布院観光と湯平石畳赤提灯・豊後牛合鴨鍋を満喫する冬の休日</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】由布院散策と湯平石畳の赤提灯ナイトウォーク
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】由布院散策と湯平石畳の赤提灯ナイトウォーク</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -555,10 +547,8 @@ export default function OitaYunohiraYufuWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】初冬の朝霧と湯平の手作りみやげ散歩
-              </h3>
+              <h3 className="font-bold text-amber-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】初冬の朝霧と湯平の手作りみやげ散歩</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -588,27 +578,21 @@ export default function OitaYunohiraYufuWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               初冬の湯平・由布院・おみやげ手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              石畳通りで手に入れたい初冬の郷土銘品と立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">石畳通りで手に入れたい初冬の郷土銘品と立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                湯平名物「ゆず練り」と生青唐辛子柚子胡椒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                湯平名物「ゆず練り」と生青唐辛子柚子胡椒</h3>
               <p>
                 湯平温泉の伝統銘菓「ゆず練り」は、地元で採れる完熟柚子の皮と果汁を砂糖・水飴でじっくり練り上げた素朴で爽やかなお菓子。お茶請けとしてはもちろん、ヨーグルトやトーストにもよく合います。また、各旅館の女将や農家が手作りする無添加の「柚子胡椒」は、鮮烈な香りとピリッとした辛味が冬の鍋料理や肉料理の味を格段に引き立てます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                花合野川の天然クレソンと大分のかぼすリキュール
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                花合野川の天然クレソンと大分のかぼすリキュール</h3>
               <p>
                 花合野川の清らかな伏流水で自生・栽培される「天然クレソン」は、初冬に最も柔らかく爽やかな苦みが楽しめ、合鴨鍋やお肉料理の付け合わせとして重宝されます。また、大分特産のかぼす果汁を贅沢に使った「かぼすリキュール」は、すっきりとした酸味と甘みで女性にも大人気のお土産です。
               </p>
@@ -623,32 +607,24 @@ export default function OitaYunohiraYufuWinterPage() {
               <ThermometerSun className="w-4 h-4 text-amber-800" />
               初冬の湯平温泉・泉質と歴史の徹底解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ湯平の湯は「胃腸の湯」として800年間愛され続けるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ湯平の湯は「胃腸の湯」として800年間愛され続けるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-amber-700" />
-              ナトリウム-塩化物・炭酸水素塩泉がもたらす消化器系への効能
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-700" />
+              ナトリウム-塩化物・炭酸水素塩泉がもたらす消化器系への効能</h3>
             <p>
               湯平温泉の泉質は、ナトリウム-塩化物・炭酸水素塩泉（低張性弱アルカリ性高温泉）。源泉温度は60℃〜75℃と高温で、温泉街を流れる花合野川の河床や岩盤から湧出しています。炭酸水素塩成分（重曹成分）は胃酸を中和し胃腸の粘膜を保護・修復する働きがあり、飲泉所でも飲むことが推奨されてきました。さらに塩化物成分が皮膚をコーティングして体温を逃がさないため、冬の寒冷地でも湯冷めしにくく、冷えからくる胃腸の不調や神経痛の改善に極めて高い効能を示します。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-amber-700" />
-              洪水に耐え抜いた300年の石畳と五大共同浴場の外湯文化
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-amber-700" />
+              洪水に耐え抜いた300年の石畳と五大共同浴場の外湯文化</h3>
             <p>
               江戸時代、山津波や暴風雨でたびたび土砂崩れに見舞われた湯平温泉を救ったのが、享保年間に僧侶・三助が発起した石畳工事でした。青石や川石を噛み合わせるように敷き詰めた強固な石畳は、水害を防ぐインフラであると同時に、湯治客が下駄を鳴らして5つの共同浴場（金の湯、銀の湯、中の湯、砂湯、橋本温泉）を行き交う社交の場として機能しました。この共助の外湯文化と石畳がそのまま現代に残されているからこそ、湯平は日本で最も心温まる湯治場景観を保ち続けています。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Sparkles className="w-4 h-4 text-amber-700" />
-              極上豊後牛と滋味合鴨鍋が織りなす冬の薬膳的温もり
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Sparkles className="w-4 h-4 text-amber-700" />
+              極上豊後牛と滋味合鴨鍋が織りなす冬の薬膳的温もり</h3>
             <p>
               大分の豊かな山林と良質な牧草地で育まれた「豊後牛（おおいた和牛）」は、オレイン酸を豊富に含み、脂の融点が低いため口溶けが非常に滑らかです。さらに初冬に旬を迎える合鴨は、良質な不飽和脂肪酸と鉄分・ビタミンB群を豊富に含み、冷えた体を内側から温めて疲労を回復させる効果があります。湯平の旅館で提供される合鴨鍋は、花合野川の清流で栽培された爽やかな辛味の生クレソンや地元産白葱を合わせ、特製出汁で煮込むことで、脂のコクと野菜の甘みが完璧に調和した冬の極上養生食となります。
             </p>
@@ -662,18 +638,14 @@ export default function OitaYunohiraYufuWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の湯平温泉・由布院奥座敷旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の湯平温泉・由布院奥座敷旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

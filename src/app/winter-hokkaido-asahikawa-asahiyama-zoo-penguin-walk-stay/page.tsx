@@ -202,9 +202,7 @@ export default function AsahikawaPenguinWinterPage() {
           <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-8">
             <div className="border-b border-slate-100 pb-6">
               <span className="text-xs font-bold uppercase tracking-wider text-sky-600 block mb-1">HIGHLIGHTS & GUIDE</span>
-              <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-                冬の旭川＆美瑛が魅せる奇跡の銀世界・3大ハイライト
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">冬の旭川＆美瑛が魅せる奇跡の銀世界・3大ハイライト</h2>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -212,9 +210,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div className="w-10 h-10 rounded-2xl bg-sky-100 text-sky-700 flex items-center justify-center font-black text-lg">
                   1
                 </div>
-                <h3 className="text-lg font-bold text-slate-900">
-                  旭山動物園「ペンギンの散歩」
-                </h3>
+                <h3 className="text-lg font-bold text-slate-900">旭山動物園「ペンギンの散歩」</h3>
                 <p className="text-sm text-slate-600 leading-relaxed">
                   運動不足解消を目的に積雪期限定で実施される冬の目玉。キングペンギンたちが雪の感触を確かめるように胸を張って目の前をトコトコ歩く姿は、思わず笑みがこぼれる可愛らしさです。雪の中を腹ばいで滑る「トボガン滑り」が見られることも！
                 </p>
@@ -224,9 +220,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div className="w-10 h-10 rounded-2xl bg-indigo-100 text-indigo-700 flex items-center justify-center font-black text-lg">
                   2
                 </div>
-                <h3 className="text-lg font-bold text-slate-900">
-                  美瑛「白金青い池＆白ひげの滝」ライトアップ
-                </h3>
+                <h3 className="text-lg font-bold text-slate-900">美瑛「白金青い池＆白ひげの滝」ライトアップ</h3>
                 <p className="text-sm text-slate-600 leading-relaxed">
                   冬の青い池は水面が凍結し、純白の雪に覆われます。夜間はコンピュータ制御の様々な光の演出が施され、立ち枯れのカラマツが静寂の闇に浮かび上がる光景は息を呑む幽玄の美。近くの「白ひげの滝」では、青く澄んだ美瑛川（ブルーリバー）と巨大な氷瀑が幻想的に照らし出されます。
                 </p>
@@ -236,9 +230,7 @@ export default function AsahikawaPenguinWinterPage() {
                 <div className="w-10 h-10 rounded-2xl bg-amber-100 text-amber-700 flex items-center justify-center font-black text-lg">
                   3
                 </div>
-                <h3 className="text-lg font-bold text-slate-900">
-                  冷えた身体に染み渡る旭川グルメ＆天然温泉
-                </h3>
+                <h3 className="text-lg font-bold text-slate-900">冷えた身体に染み渡る旭川グルメ＆天然温泉</h3>
                 <p className="text-sm text-slate-600 leading-relaxed">
                   極寒の散策後は、表面を覆う厚いラードの油膜で最後まで熱々が続く「旭川醤油ラーメン」でエネルギー補給。夜は駅前の天然温泉ホテルで、雪見露天風呂とサウナで極上のととのい体験を満喫。海鮮勝手丼の贅沢朝食も旅の大きな醍醐味です。
                 </p>
@@ -247,10 +239,8 @@ export default function AsahikawaPenguinWinterPage() {
 
             {/* 防寒＆服装アドバイスBOX */}
             <div className="bg-sky-50/70 border border-sky-200/80 rounded-2xl p-6 sm:p-7 space-y-3">
-              <h4 className="text-base font-bold text-sky-950 flex items-center gap-2">
-                <ShieldAlert className="w-5 h-5 text-sky-600 shrink-0" />
-                現地編集部直伝！冬の旭川・美瑛を快適に楽しむ防寒・装備チェックリスト
-              </h4>
+              <h4 className="text-base font-bold text-sky-950 flex items-center gap-2"><ShieldAlert className="w-5 h-5 text-sky-600 shrink-0" />
+                現地編集部直伝！冬の旭川・美瑛を快適に楽しむ防寒・装備チェックリスト</h4>
               <p className="text-sm text-slate-700 leading-relaxed">
                 旭川の冬は日中でも氷点下5℃〜10℃、夜間や朝方は氷点下15℃〜20℃近くまで冷え込みます。屋外での見学時間が長くなるため、以下の装備を必ず用意しましょう。
               </p>
@@ -288,9 +278,7 @@ export default function AsahikawaPenguinWinterPage() {
             <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 border-b border-slate-200/80 pb-6">
               <div>
                 <span className="text-xs font-bold uppercase tracking-wider text-sky-600 block mb-1">STAY & RELAX</span>
-                <h2 className="text-2xl sm:text-3xl font-black text-slate-900">
-                  旭川＆旭山動物園を満喫するおすすめ厳選名宿5選
-                </h2>
+                <h2 className="text-2xl sm:text-3xl font-black text-slate-900">旭川＆旭山動物園を満喫するおすすめ厳選名宿5選</h2>
               </div>
               <p className="text-xs sm:text-sm text-slate-500 max-w-md">
                 楽天トラベルAPIより最新の空室・料金・レビュー情報を反映。駅直結・天然温泉・極上朝食を備えたハイパフォーマンスホテルを厳選。
@@ -316,16 +304,14 @@ export default function AsahikawaPenguinWinterPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F148897%2F148897.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ホテルＷＢＦグランデ旭川
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -401,16 +387,14 @@ export default function AsahikawaPenguinWinterPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F147739%2F147739.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ＪＲイン旭川
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -486,16 +470,14 @@ export default function AsahikawaPenguinWinterPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F224%2F224.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     アートホテル旭川
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -571,16 +553,14 @@ export default function AsahikawaPenguinWinterPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F4652%2F4652.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     ホテルクレッセント旭川
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -656,16 +636,14 @@ export default function AsahikawaPenguinWinterPage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-slate-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F50750%2F50750.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-sky-600 transition-colors"
                   >
                     天然温泉プレミアホテル―ＣＡＢＩＮ―旭川
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-sm text-slate-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -730,9 +708,7 @@ export default function AsahikawaPenguinWinterPage() {
           <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
             <div className="border-b border-slate-100 pb-4">
               <span className="text-xs font-bold uppercase tracking-wider text-sky-600 block mb-1">MODEL ITINERARY</span>
-              <h2 className="text-2xl font-bold text-slate-900">
-                【1泊2日】旭山動物園ペンギンの散歩＆美瑛青い池ライトアップ満喫モデルコース
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">【1泊2日】旭山動物園ペンギンの散歩＆美瑛青い池ライトアップ満喫モデルコース</h2>
             </div>
 
             <div className="relative border-l-2 border-sky-200 ml-4 pl-6 space-y-8 my-6">
@@ -787,18 +763,14 @@ export default function AsahikawaPenguinWinterPage() {
           <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
             <div className="border-b border-slate-100 pb-4">
               <span className="text-xs font-bold uppercase tracking-wider text-sky-600 block mb-1">FAQ</span>
-              <h2 className="text-2xl font-bold text-slate-900">
-                冬の旭川＆旭山動物園観光 よくある質問
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">冬の旭川＆旭山動物園観光 よくある質問</h2>
             </div>
 
             <div className="space-y-4">
               {faqItems.map((item, idx) => (
                 <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100">
-                  <h3 className="font-bold text-slate-900 flex items-start gap-2 text-base">
-                    <span className="text-sky-600 font-black shrink-0">Q.</span>
-                    <span>{item.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-slate-900 flex items-start gap-2 text-base"><span className="text-sky-600 font-black shrink-0">Q.</span>
+                    <span>{item.q}</span></h3>
                   <p className="mt-2 text-sm text-slate-600 leading-relaxed pl-6">
                     {item.a}
                   </p>
@@ -811,9 +783,7 @@ export default function AsahikawaPenguinWinterPage() {
           <section className="bg-gradient-to-r from-sky-900 via-slate-900 to-indigo-950 rounded-3xl p-8 sm:p-10 text-white space-y-6 shadow-md">
             <div>
               <span className="text-xs font-bold uppercase tracking-wider text-sky-300 block mb-1">RELATED WINTER FEATURES</span>
-              <h2 className="text-2xl font-black">
-                あわせて読みたい！冬の厳選旅行特集
-              </h2>
+              <h2 className="text-2xl font-black">あわせて読みたい！冬の厳選旅行特集</h2>
               <p className="text-sm text-slate-300 mt-1">
                 北海道の他の冬絶景や、全国の冬の温泉・雪景色特集をチェックして次の旅先を見つけましょう。
               </p>

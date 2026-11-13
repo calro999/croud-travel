@@ -294,10 +294,8 @@ export default function ToyamaTakaokaImizuWinterPage() {
         {/* Article Summary Box */}
         <section className="max-w-5xl mx-auto px-4 -mt-8 relative z-20">
           <div className="bg-white rounded-2xl shadow-xl p-6 md:p-8 border border-slate-100">
-            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3">
-              <CheckCircle2 className="w-5 h-5 text-blue-600 flex-shrink-0" />
-              <span>本特集でわかること（11・12・1月の富山・高岡＆射水旅行の要点）</span>
-            </h2>
+            <h2 className="text-lg md:text-xl font-bold text-slate-900 mb-4 flex items-center gap-2 border-b pb-3"><CheckCircle2 className="w-5 h-5 text-blue-600 flex-shrink-0" />
+              <span>本特集でわかること（11・12・1月の富山・高岡＆射水旅行の要点）</span></h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-slate-700">
               <div className="bg-blue-50/60 p-4 rounded-xl border border-blue-100">
                 <span className="font-bold text-blue-900 block mb-1">① 国宝瑞龍寺初詣＆高岡大仏</span>
@@ -320,9 +318,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block">TOYAMA BAY & TAKAOKA ESSENCE</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                なぜ11〜1月の高岡・雨晴・新湊なのか？国宝の静寂と奇跡の自然現象
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">なぜ11〜1月の高岡・雨晴・新湊なのか？国宝の静寂と奇跡の自然現象</h2>
             </div>
             
             <div className="prose prose-slate max-w-none text-slate-700 leading-relaxed space-y-4 text-sm md:text-base">
@@ -346,43 +342,33 @@ export default function ToyamaTakaokaImizuWinterPage() {
 
           {/* Section: Spots to visit */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-10 space-y-6">
-            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2">
-              <Compass className="w-6 h-6 text-blue-600" />
-              <span>冬の高岡＆射水・新湊で絶対に巡りたい名所</span>
-            </h3>
+            <h3 className="text-xl md:text-2xl font-bold text-slate-900 flex items-center gap-2"><Compass className="w-6 h-6 text-blue-600" />
+              <span>冬の高岡＆射水・新湊で絶対に巡りたい名所</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm">
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-blue-900 flex items-center gap-1.5">
-                  <Building className="w-4 h-4 text-blue-600" />
-                  <span>国宝・高岡瑞龍寺と高岡大仏</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-blue-900 flex items-center gap-1.5"><Building className="w-4 h-4 text-blue-600" />
+                  <span>国宝・高岡瑞龍寺と高岡大仏</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   前田利長公の菩提寺。冬の雪をまとった仏殿と回廊の美しさは息を呑むほど。新春初詣では烏瑟沙摩明王の祈祷やお札を受ける参拝客で賑わいます。近くの高岡大仏は日本三大仏に数えられ、端正な顔立ちで知られます。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-cyan-900 flex items-center gap-1.5">
-                  <Sunrise className="w-4 h-4 text-cyan-600" />
-                  <span>雨晴海岸・義経岩と冬の気嵐</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-cyan-900 flex items-center gap-1.5"><Sunrise className="w-4 h-4 text-cyan-600" />
+                  <span>雨晴海岸・義経岩と冬の気嵐</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   源義経が奥州へ落ち延びる際に雨宿りをした伝説が残る義経岩。11月〜1月の早朝、海から立ち上る気嵐と、冠雪した立山連峰から昇る朝日の光景は、日本屈指の冬の絶景写真スポットです。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-rose-900 flex items-center gap-1.5">
-                  <Anchor className="w-4 h-4 text-rose-600" />
-                  <span>新湊漁港「昼セリ」とカニ小屋</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-rose-900 flex items-center gap-1.5"><Anchor className="w-4 h-4 text-rose-600" />
+                  <span>新湊漁港「昼セリ」とカニ小屋</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   午後13時から始まる全国屈指の活気ある昼セリ。床一面に並ぶ紅ズワイガニの赤とセリ人の熱気を2階見学通路から体感。すぐ隣のカニ小屋では、茹でたてのジューシーな熱々紅ズワイガニを豪快に味わえます。
                 </p>
               </div>
               <div className="bg-white p-5 rounded-2xl shadow-sm border border-slate-200 space-y-2">
-                <h4 className="font-bold text-slate-900 text-base text-teal-900 flex items-center gap-1.5">
-                  <Waves className="w-4 h-4 text-teal-600" />
-                  <span>射水・内川の運河風景（日本のベニス）</span>
-                </h4>
+                <h4 className="font-bold text-slate-900 text-base text-teal-900 flex items-center gap-1.5"><Waves className="w-4 h-4 text-teal-600" />
+                  <span>射水・内川の運河風景（日本のベニス）</span></h4>
                 <p className="text-slate-600 leading-relaxed">
                   東西に流れる内川沿いに民家が立ち並び、漁船が係留される風情ある港町。スペインの建築家がデザインした東橋をはじめ個性的な橋が架かり、雪降る冬の夕暮れは映画のワンシーンのようなノスタルジーを醸し出します。
                 </p>
@@ -394,9 +380,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
           <section className="space-y-8">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block">FEATURED ACCOMMODATIONS</span>
-              <h2 className="text-xl md:text-3xl font-black text-slate-900">
-                高岡＆射水・新湊・雨晴を満喫する厳選ホテル・宿5選
-              </h2>
+              <h2 className="text-xl md:text-3xl font-black text-slate-900">高岡＆射水・新湊・雨晴を満喫する厳選ホテル・宿5選</h2>
               <p className="text-xs md:text-sm text-slate-500 mt-1">
                 ※楽天トラベルAPIより最新の空室状況・料金・レビュー情報を取得して掲載しています。
               </p>
@@ -428,9 +412,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
                           目安: {hotel.price}
                         </span>
                       </div>
-                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg md:text-xl font-bold text-slate-900 mb-2 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-slate-500 mb-3 flex items-start gap-1">
                         <MapPin className="w-3.5 h-3.5 text-slate-400 flex-shrink-0 mt-0.5" />
                         <span>{hotel.access}</span>
@@ -470,9 +452,7 @@ export default function ToyamaTakaokaImizuWinterPage() {
           <section className="bg-white rounded-3xl p-6 md:p-10 border border-slate-200 shadow-sm space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block">RECOMMENDED ITINERARY</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                1泊2日！国宝瑞龍寺初詣と雨晴気嵐・新湊カニ尽くしを巡る冬の王道モデルコース
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">1泊2日！国宝瑞龍寺初詣と雨晴気嵐・新湊カニ尽くしを巡る冬の王道モデルコース</h3>
             </div>
             
             <div className="relative border-l-2 border-blue-200 ml-4 pl-6 space-y-8 text-sm">
@@ -525,10 +505,8 @@ export default function ToyamaTakaokaImizuWinterPage() {
 
           {/* Winter Travel Tips */}
           <section className="bg-amber-50/70 border border-amber-200 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2">
-              <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
-              <span>冬（11・12・1月）の富山・高岡＆射水旅行・お役立ちTips</span>
-            </h3>
+            <h3 className="text-lg md:text-xl font-bold text-amber-900 flex items-center gap-2"><AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0" />
+              <span>冬（11・12・1月）の富山・高岡＆射水旅行・お役立ちTips</span></h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm text-amber-950">
               <div className="bg-white/80 p-4 rounded-xl border border-amber-100">
                 <strong className="block mb-1 text-amber-900 font-bold">・雨晴海岸の気嵐鑑賞時の防寒対策</strong>
@@ -553,18 +531,14 @@ export default function ToyamaTakaokaImizuWinterPage() {
           <section className="space-y-6">
             <div className="border-l-4 border-blue-600 pl-4">
               <span className="text-xs font-bold text-blue-600 uppercase tracking-widest block">FREQUENTLY ASKED QUESTIONS</span>
-              <h3 className="text-xl md:text-2xl font-black text-slate-900">
-                高岡＆射水・新湊・雨晴の冬旅に関するよくある質問
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black text-slate-900">高岡＆射水・新湊・雨晴の冬旅に関するよくある質問</h3>
             </div>
 
             <div className="space-y-4">
               {faqs.map((faq, idx) => (
                 <div key={idx} className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm">
-                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2">
-                    <span className="text-blue-600 font-black">Q.</span>
-                    <span>{faq.q}</span>
-                  </h4>
+                  <h4 className="text-base font-bold text-slate-900 mb-2 flex items-start gap-2"><span className="text-blue-600 font-black">Q.</span>
+                    <span>{faq.q}</span></h4>
                   <p className="text-sm text-slate-600 leading-relaxed pl-6">
                     {faq.a}
                   </p>
@@ -575,10 +549,8 @@ export default function ToyamaTakaokaImizuWinterPage() {
 
           {/* Internal Links Section */}
           <section className="bg-slate-100 rounded-3xl p-6 md:p-8 space-y-4">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-blue-600" />
-              <span>富山および北陸甲信越の冬の厳選温泉・カニ特集</span>
-            </h3>
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-blue-600" />
+              <span>富山および北陸甲信越の冬の厳選温泉・カニ特集</span></h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3 text-xs">
               <Link href="/winter-toyama-unazuki-onsen-kurobe-snow-stay/" className="p-3 bg-white rounded-xl border border-slate-200 hover:border-blue-400 transition font-medium text-slate-700">
                 ♨️ 宇奈月温泉と黒部峡谷雪景色名宿

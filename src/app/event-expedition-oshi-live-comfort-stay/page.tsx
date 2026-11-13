@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            終演後の規制退場でも徒歩で直帰！大画面でライブの余韻に浸る——遠征の疲労をゼロにする「会場直結＆推し活特化ステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">終演後の規制退場でも徒歩で直帰！大画面でライブの余韻に浸る——遠征の疲労をゼロにする「会場直結＆推し活特化ステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             待ちに待った推しのライブ、大好きな舞台の千秋楽。当落発表から準備を重ねて迎える遠征の日は、人生で最も胸が高鳴る特別な瞬間です。しかし、熱狂のライブが終わった後に待っているのが「地獄の混雑」。何万人もの観客が一斉に最寄り駅へ押し寄せ、入場規制で電車に乗るまでに1時間以上、満員電車に揺られてヘトヘトになってホテルに着く頃には日付が変わっている……そんな苦い経験をした方もきっと多いはずです。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   東京ドームの目の前！終演後わずか徒歩2分で客室へ直行できる遠征民の憧れランドマークホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  東京ドームホテル —— 水道橋・後楽園駅すぐ。ドームビュー客室や推し活応援プランが充実した究極の遠征拠点
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">東京ドームホテル —— 水道橋・後楽園駅すぐ。ドームビュー客室や推し活応援プランが充実した究極の遠征拠点</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   東急歌舞伎町タワー高層階！Zepp Shinjuku直結＆大画面テレビと高音質スピーカーを完備したエンタメホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel —— 新宿駅・西武新宿駅至近。アートと音楽が響くスタイリッシュ空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">HOTEL GROOVE SHINJUKU, A PARKROYAL Hotel —— 新宿駅・西武新宿駅至近。アートと音楽が響くスタイリッシュ空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   ぴあアリーナMM・Kアリーナ横浜・KT Zepp Yokohamaへ徒歩圏内！大浴場付きのみなとみらい遠征拠点
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  横浜東急REIホテル —— 新高島駅徒歩2分・横浜駅徒歩10分。大浴場とスタイリッシュな空間でライブの疲れを完全リセット
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">横浜東急REIホテル —— 新高島駅徒歩2分・横浜駅徒歩10分。大浴場とスタイリッシュな空間でライブの疲れを完全リセット</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              ライブ遠征を大成功させるための「スマート遠征パッキング術」
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">ライブ遠征を大成功させるための「スマート遠征パッキング術」</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. モバイルバッテリーと長めの充電ケーブルの2本持ち
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. モバイルバッテリーと長めの充電ケーブルの2本持ち</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 電子チケット表示、物販待機、会場での写真撮影でスマホのバッテリー消費は想像以上。20000mAhクラスのバッテリーと急速充電器は必須です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. グッズ保護用ケース・硬質ケース・予備トートバッグ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. グッズ保護用ケース・硬質ケース・予備トートバッグ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 購入したペンライトやパンフレット、生写真などを折らずに持ち帰るためのA4ファイルやトートバッグ。客室で戦利品を並べて撮影する際にも役立ちます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 休息シート（休足時間等）と入浴剤
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 休息シート（休足時間等）と入浴剤</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 終演後のお風呂上がりにふくらはぎや足裏に貼って就寝。翌日の観光や連続参戦時も足取りが驚くほど軽くなります。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>チェックイン前やチェックアウト後にスーツケース等の大きな荷物を預かってもらえますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>チェックイン前やチェックアウト後にスーツケース等の大きな荷物を預かってもらえますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、ご紹介した3ホテルはいずれも宿泊日当日のチェックイン前・チェックアウト後の荷物預かり（クロークまたは専用ロッカー）に無料で対応しています。身軽に物販や会場へ向かうことができます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>友人同士で2名以上で泊まる場合も対応可能ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>友人同士で2名以上で泊まる場合も対応可能ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 もちろん可能です。ツインルームやコネクティングルーム、エキストラベッド対応プランなど多彩に用意されており、遠征仲間とのシェア滞在にも最適です。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】東京ドームホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】東京ドームホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

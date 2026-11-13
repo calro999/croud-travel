@@ -58,10 +58,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-yellow-600" />
-            砂丘直行バスの発着駅！浮いた宿泊代で白イカ＆モサエビ刺身を贅沢に
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-yellow-600" />
+            砂丘直行バスの発着駅！浮いた宿泊代で白イカ＆モサエビ刺身を贅沢に</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             鳥取砂丘や鳥取城跡へアクセスするバスターミナルがある鳥取駅前は、★4.1〜★4.2クラスのビジネスホテルが格安で利用できる穴場エリア。大浴場付きや朝食無料のホテルが1泊3,000円台〜4,000円台で見つかり、浮いた予算を鳥取港直送の海鮮丼や鳥取和牛ステーキに回せます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  スーパーホテル鳥取駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">スーパーホテル鳥取駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR鳥取駅北口より徒歩2分
@@ -151,9 +147,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルＲＥＳＨ　鳥取駅前
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルＲＥＳＨ　鳥取駅前</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR鳥取駅北口より徒歩2分
@@ -206,9 +200,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  アパホテル〈鳥取駅前〉
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈鳥取駅前〉</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR鳥取駅北口より徒歩2分
@@ -261,9 +253,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  東横ＩＮＮ鳥取駅南口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ鳥取駅南口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR鳥取駅南口より徒歩2分
@@ -316,9 +306,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">グリーンリッチホテル鳥取駅前　人工温泉・二股湯の華</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   JR鳥取駅北口より徒歩3分
@@ -353,10 +341,8 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-yellow-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の鳥取砂丘＆モサエビ旅を格安に遊び尽くすポイント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-yellow-300"><CheckCircle2 className="w-5 h-5" />
+            秋の鳥取砂丘＆モサエビ旅を格安に遊び尽くすポイント</h2>
           <ul className="space-y-2 text-sm text-yellow-100/90 leading-relaxed">
             <li>・9月から水揚げされる幻のモサエビは、甘エビ以上の甘みと弾力。駅前の居酒屋や鳥取港「かろいち」で刺身や塩焼きを味わう。</li>
             <li>・秋の鳥取砂丘は日中の照り返しが和らぎ散策にベスト。夕暮れどきに馬の背から見渡す日本海の夕日グラデーションは圧巻。</li>
@@ -371,9 +357,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 鳥取駅前：秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">鳥取駅前：秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「鳥取駅前：秋の鳥取和牛・モサエビ＆黄金の鳥取砂丘！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -443,9 +427,7 @@ export default function AutumnBudgetTottoriStationHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「鳥取駅前」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「鳥取駅前」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

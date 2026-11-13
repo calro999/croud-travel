@@ -205,9 +205,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
       <section className="bg-rose-50/50 border border-rose-200/80 rounded-3xl p-6 sm:p-10 space-y-6">
         <div className="text-center max-w-2xl mx-auto space-y-2">
           <span className="text-xs font-black text-rose-600 uppercase tracking-wider">Autumn Sauna Retreat</span>
-          <h2 className="text-xl sm:text-2xl font-black text-rose-950 font-journal-serif">
-            なぜ秋の連休に「サウナ付きグランピング」が選ばれるのか
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-black text-rose-950 font-journal-serif">なぜ秋の連休に「サウナ付きグランピング」が選ばれるのか</h2>
           <p className="text-xs sm:text-sm text-rose-900/80">
             真夏の猛暑が去り、朝晩の涼しさが心地よいシルバーウィーク。サウナ施設とは一線を画す、大自然プライベート空間ならではの体験価値があります。
           </p>
@@ -228,9 +226,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
       <section className="space-y-8" aria-labelledby="hotels-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">Recommended Luxury Stays</span>
-          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">
-            シルバーウィークに泊まりたい極上プライベートサウナグランピング
-          </h2>
+          <h2 id="hotels-heading" className="text-2xl sm:text-3xl font-black text-stone-900 font-journal-serif">シルバーウィークに泊まりたい極上プライベートサウナグランピング</h2>
           <p className="text-xs sm:text-sm text-stone-600">
             客室内サウナ・本格バレルサウナ・源泉温泉・絶景水風呂を備えた全国の人気宿をピックアップ。
           </p>
@@ -283,9 +279,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
                     )}
                   </div>
 
-                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">
-                    {hotel.hotelName}
-                  </h3>
+                  <h3 className="font-black text-stone-900 text-base leading-snug group-hover:text-rose-700 transition line-clamp-2 font-journal-serif">{hotel.hotelName}</h3>
 
                   <p className="text-xs text-stone-600 line-clamp-3 leading-relaxed font-medium">
                     {hotel.hotelSpecial || "客室専用の本格サウナと外気浴スペースを完備。大自然に囲まれながら心ゆくまでととのうグランピングリゾート。"}
@@ -323,9 +317,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
         <div className="max-w-3xl space-y-6">
           <div className="space-y-1">
             <span className="text-rose-400 font-black text-xs uppercase tracking-widest">Sauna Trip Schedule</span>
-            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">
-              秋のサウナグランピング 1泊2日ととのいシミュレーション
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-black text-white font-journal-serif">秋のサウナグランピング 1泊2日ととのいシミュレーション</h2>
             <p className="text-xs sm:text-sm text-stone-300">
               チェックインから翌朝の出発まで、サウナとアウトドア料理を無理なく最高潮で楽しむための黄金ルートです。
             </p>
@@ -349,18 +341,14 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
       <section className="bg-white rounded-3xl border border-rose-200 p-6 sm:p-10 space-y-6" aria-labelledby="faq-heading">
         <div className="border-l-4 border-rose-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-rose-600 uppercase tracking-widest">FAQ</span>
-          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">
-            プライベートサウナ付きグランピングのよくある質問
-          </h2>
+          <h2 id="faq-heading" className="text-xl sm:text-2xl font-black text-stone-900 font-journal-serif">プライベートサウナ付きグランピングのよくある質問</h2>
         </div>
 
         <div className="divide-y divide-rose-100">
           {faqs.map((faq, idx) => (
             <div key={idx} className="py-4 space-y-2 first:pt-0 last:pb-0">
-              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2">
-                <span className="text-rose-600 font-black">Q.</span>
-                <span>{faq.question}</span>
-              </h3>
+              <h3 className="font-bold text-sm sm:text-base text-stone-900 flex items-start gap-2"><span className="text-rose-600 font-black">Q.</span>
+                <span>{faq.question}</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 {faq.answer}
               </p>
@@ -371,9 +359,7 @@ export default function SilverWeekGlampingPrivateSaunaPage() {
 
       {/* 内部リンク・関連旅行ガイド */}
       <section className="bg-stone-50 border border-stone-200 rounded-3xl p-6 sm:p-8 space-y-4">
-        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">
-          <span>🧭</span> あわせて読みたい秋の連休・温泉旅行ガイド
-        </h3>
+        <h3 className="text-base font-bold text-stone-900 flex items-center gap-2">あわせて読みたい秋の連休・温泉旅行ガイド</h3>
         <p className="text-xs text-stone-600">
           客室温泉や記念日旅行、予算重視の滞在計画に役立つ厳選モデルコースはこちら。
         </p>

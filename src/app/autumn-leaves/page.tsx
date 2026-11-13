@@ -153,9 +153,7 @@ export default function AutumnLeavesOnsenPage() {
                     🍁 {guide.timing}
                   </span>
                 </div>
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-                  {guide.title}
-                </h2>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">{guide.title}</h2>
                 <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium">
                   {guide.desc}
                 </p>
@@ -181,9 +179,7 @@ export default function AutumnLeavesOnsenPage() {
               <div className="space-y-4 pt-4 border-t border-emerald-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                      <span>♨️</span> <span>{guide.title}周辺の紅葉露天・おすすめ名湯宿</span>
-                    </h3>
+                    <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>️</span> <span>{guide.title}周辺の紅葉露天・おすすめ名湯宿</span></h3>
                   </div>
                   <span className="text-xs font-bold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-1 rounded-full">
                     厳選宿
@@ -223,9 +219,7 @@ export default function AutumnLeavesOnsenPage() {
                               <span>⭐ {hotel.reviewAverage}点（{hotel.reviewCount}件）</span>
                             </div>
                           )}
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                            {hotel.hotelName}
-                          </h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{hotel.hotelName}</h4>
                           {hotel.hotelSpecial && (
                             <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
                               {hotel.hotelSpecial}
@@ -287,7 +281,7 @@ export default function AutumnLeavesOnsenPage() {
     
       
         <section data-enriched-rakuten-wiki="true" className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200 space-y-6 my-10 max-w-5xl mx-auto">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900">📊 【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900">【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド：楽天トラベル高評価宿スペック比較表＆クチコミ徹底解説</h2>
           <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
             楽天トラベル公式APIから取得した全国の高評価宿データ（所在地・最寄り駅・駐車場・総合評価・参考最安料金）と実際の宿泊者レビューを整理しました。ふるさと納税の旅行クーポンや早期割引プランと併用することで、ワンランク上の滞在をお得に実現できます。
           </p>
@@ -348,55 +342,55 @@ export default function AutumnLeavesOnsenPage() {
             </table>
           </div>
           <div className="space-y-3">
-            <h3 className="text-base font-bold text-stone-900">🏨 注目宿のクチコミ・アクセス詳細</h3>
+            <h3 className="text-base font-bold text-stone-900">注目宿のクチコミ・アクセス詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">1. ホテルニューオータニ大阪（大阪府・★4.63）</h4>
+              <h4 className="text-sm font-bold text-stone-900">1. ホテルニューオータニ大阪（大阪府・4.63）</h4>
               <p><strong>【特徴】</strong>大阪のシンボル「大阪城天守閣」を間近に望むアーバンリゾート</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ大阪環状線 大阪城公園駅より徒歩約３分。Osaka Metro 長堀鶴見緑地線 大阪ビジネスパーク駅より徒歩約３分。 ／ 駐車場：有り(有料　1泊につき1台￥2,000）</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「大阪城ホールまで徒歩圏内で快適な2泊3日大阪城ホールでのファンミの為に利用させてもらいました。会場へも徒歩で10分かからないくらい程で1日2本ある時は、空き時間に部屋に一旦戻って、涼めたし会場のト…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">2. リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ（大阪府・★4.43）</h4>
+              <h4 className="text-sm font-bold text-stone-900">2. リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ（大阪府・4.43）</h4>
               <p><strong>【特徴】</strong>2025年4月リブランドオープン。JR大阪駅より無料送迎＆USJへの予約制無料直行バス運行！</p>
               <p><strong>【交通・駐車場】</strong>JR大阪駅より無料バス有（15分間隔約15分）／国際会議場隣接／京阪「中之島」駅直結／USJへ予約制無料バスで約25分 ／ 駐車場：477台（予約不可・有料）※普通乗用車のみ、宿泊ご滞在中に限る。車高制限あり。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「ビジネス利用には向かないと感じました国際会議に参加するため、会場に近いという理由でこちらを選びました。チェックインの際、部屋のアップグレードや会員登録を繰り返し勧められました。急いでいたの…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">3. ヒルトン成田（千葉県・★4.49）</h4>
+              <h4 className="text-sm font-bold text-stone-900">3. ヒルトン成田（千葉県・4.49）</h4>
               <p><strong>【特徴】</strong>成田空港を望む高台の緑豊かな1万坪の敷地には寛ぎの空間が広がります。</p>
               <p><strong>【交通・駐車場】</strong>成田空港及びJR成田駅東口より無料シャトルバスサービス有り ／ 駐車場：駐車場350台収容（屋内駐車場290台） ご宿泊者は24時間毎に500円でご利用いただけます。</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「素敵なホテルでした対応が素晴らしく、宿泊した部屋、食事、バーともに大変満足しました。家族の良い思い出となりました。有り難うございました。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">4. リーガロイヤルホテル小倉（福岡県・★4.4）</h4>
+              <h4 className="text-sm font-bold text-stone-900">4. リーガロイヤルホテル小倉（福岡県・4.4）</h4>
               <p><strong>【特徴】</strong>【小倉駅直結♪徒歩3分とアクセス抜群！】 〜全室30平米以上〜14階以上の高層階〜</p>
               <p><strong>【交通・駐車場】</strong>JR小倉駅新幹線口から直結徒歩3分、JR博多駅から新幹線で約15分、福岡空港からも好アクセス。 ／ 駐車場：164台  1泊￥1600税込</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「駅に近くて移動がとても便利立地が良くて便利でした。サービスは申し分なしです。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
-              <h4 className="text-sm font-bold text-stone-900">5. ホテル日航プリンセス京都（京都府・★4.58）</h4>
+              <h4 className="text-sm font-bold text-stone-900">5. ホテル日航プリンセス京都（京都府・4.58）</h4>
               <p><strong>【特徴】</strong>＼2023年10月に15階、2025年3月に16階のリニューアルが完了！／</p>
               <p><strong>【交通・駐車場】</strong>地下鉄烏丸線四条駅⑤番出口より徒歩約３分。阪急烏丸駅より徒歩約５分。ＪＲ京都駅（烏丸中央口）より車で約５分 ／ 駐車場：有り 59台 1泊あたり2000円</p>
               <p className="italic text-stone-600">💬 宿泊者レビュー：「四条駅近くで便利、朝食ビュッフェが絶品一回泊まったら絶対リピートしたくなるホテルだと思います。四条駅近くでコンビニもすぐそこにあります。何より朝食ビュッフェが美味しいです!クチコミの詳…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">
-            <h3 className="text-base font-bold text-stone-900">🗺️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
+            <h3 className="text-base font-bold text-stone-900">️ 合わせて訪れたい日本の代表的観光名所ガイド</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 清水寺</h4>
+              <h4 className="text-sm font-bold text-stone-900">清水寺</h4>
               <p className="text-xs text-stone-600 leading-relaxed">「清水の舞台」で世界的に有名な古都京都の象徴。「清水の舞台から飛び下りる」の語源となった木造大舞台からの京都市街の眺望と音羽の滝が名高いです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 函館山（夜景）</h4>
+              <h4 className="text-sm font-bold text-stone-900">函館山（夜景）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">世界三大夜景の一つに数えられる絶景スポット。津軽海峡と函館湾に挟まれたくびれが生み出す、宝石をちりばめたような眩い夜景は一生に一度は見たい感動のロケーションです。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 横浜みなとみらい21</h4>
+              <h4 className="text-sm font-bold text-stone-900">横浜みなとみらい21</h4>
               <p className="text-xs text-stone-600 leading-relaxed">【【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド】 ランドマークタワーや大観覧車「コスモクロック21」、赤レンガ倉庫が立ち並ぶ近代都市リゾート。港町の海風を感じながらショッピングや夜景を楽しめます。</p>
             </div>
             <div className="bg-stone-50 p-4 rounded-xl border border-stone-200 space-y-1">
-              <h4 className="text-sm font-bold text-stone-900">📍 国宝 姫路城（白鷺城）</h4>
+              <h4 className="text-sm font-bold text-stone-900">国宝 姫路城（白鷺城）</h4>
               <p className="text-xs text-stone-600 leading-relaxed">【【全国】紅葉露天風呂＆絶景温泉旅館ガイド ｜ 日本全国・旅宿クラウド】 鮮やかな白漆喰の城壁が羽ばたく白鷺のように美しい日本初のユネスコ世界文化遺産。大天守をはじめ保存状態が完璧な城郭建築の最高峰です。</p>
             </div>
             </div>

@@ -301,9 +301,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              有明海の神秘の潮が育む冬の濃厚なカニと、古刹の祈り、心身を満たす美肌の湯
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">有明海の神秘の潮が育む冬の濃厚なカニと、古刹の祈り、心身を満たす美肌の湯</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の佐賀・太良＆祐徳稲荷＆嬉野で体感すべき3つのプレミアムな魅力
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の佐賀・太良＆祐徳稲荷＆嬉野で体感すべき3つのプレミアムな魅力</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               11月〜1月だからこそ出逢える、内子ぎっしりの冬カニと荘厳な初詣、とろとろ美肌湯。
             </p>
@@ -339,9 +335,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 冬が旬！内子とミソがぎっしり詰まった「メス竹崎カニ」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 冬が旬！内子とミソがぎっしり詰まった「メス竹崎カニ」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 有明海の滋味を蓄えた至高のワタリガニ。冬のメスは鮮やかなオレンジ色の内子と濃厚なミソが甲羅いっぱいに詰まり、丸ごと蒸し上げた身の甘みは圧倒的です。
               </p>
@@ -351,9 +345,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 日本三大稲荷「祐徳稲荷神社」の壮大な本殿と冬の初詣
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 日本三大稲荷「祐徳稲荷神社」の壮大な本殿と冬の初詣</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 山の斜面にそびえ立つ朱塗りの懸造り本殿「鎮西日光」。冬晴れの青空に映える極彩色の社殿で、商売繁盛と家内安全を祈る厳かな初詣を体験できます。
               </p>
@@ -363,9 +355,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-cyan-100 flex items-center justify-center text-cyan-700 font-bold">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 日本三大美肌の湯「嬉野温泉」ととろける名物「温泉湯豆腐」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 日本三大美肌の湯「嬉野温泉」ととろける名物「温泉湯豆腐」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 化粧水のように肌に吸い付く重曹泉。温泉水で煮込むことで豆腐の角が溶け出し、豆乳のように白濁するクリーミーな熱々湯豆腐は冬の至福の味覚です。
               </p>
@@ -375,9 +365,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】海中鳥居から祐徳稲荷初詣・竹崎カニ＆嬉野美肌温泉を巡る冬の開運美食ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】海中鳥居から祐徳稲荷初詣・竹崎カニ＆嬉野美肌温泉を巡る冬の開運美食ルート</h2>
             <p className="text-slate-400 text-sm mt-1">
               佐賀空港または武雄北方IC・嬉野温泉駅を起点に、有明海沿岸の絶景とグルメ、開運神社を繋ぐドライブ旅。
             </p>
@@ -388,9 +376,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 太良町に到着 ➔ 大魚神社の海中鳥居を見学＆太良海道カニ焼き小屋で竹崎カニ・牡蠣ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 太良町に到着  大魚神社の海中鳥居を見学＆太良海道カニ焼き小屋で竹崎カニ・牡蠣ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   有明海に佇む大魚神社の3基の海中鳥居を見学。潮の満ち引きによって表情を変える神秘的な光景を写真に収めます。国道207号沿いのカニ焼き小屋で、炭火で香ばしく焼く竹崎カニやプリプリの竹崎カキを豪快に味わい、磯の香りを満喫します。
                 </p>
@@ -399,9 +385,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  13:30 鹿島市へ移動 ➔ 日本三大稲荷「祐徳稲荷神社」で参拝と門前町散策
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">13:30 鹿島市へ移動  日本三大稲荷「祐徳稲荷神社」で参拝と門前町散策</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   車で約20分、鹿島市の祐徳稲荷神社へ。朱塗りの楼門をくぐり、高さ18mの舞台に立つ壮麗な本殿を参拝。奥の院へ続く赤鳥居の回廊を歩き、門前町で名物「稲荷ようかん」や地酒のお土産を購入します。
                 </p>
@@ -410,9 +394,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:00 太良または嬉野の厳選宿へチェックイン ➔ 名湯三昧＆「冬メス竹崎カニ姿蒸し」または「佐賀牛会席」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:00 太良または嬉野の厳選宿へチェックイン  名湯三昧＆「冬メス竹崎カニ姿蒸し」または「佐賀牛会席」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   太良町のオーシャンビュー宿で有明海を望む露天風呂、または嬉野温泉のとろとろ美肌湯へ。夕食は内子がぎっしり詰まった冬のメス竹崎カニ姿蒸しや特選佐賀牛を地酒とともに味わい、贅沢な夜を過ごします。
                 </p>
@@ -421,9 +403,7 @@ export default function SagaTaraTakezakiWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-amber-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-amber-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  09:00 朝食の名物「嬉野温泉湯豆腐」を堪能 ➔ 嬉野茶寮でお茶体験＆武雄温泉へ立ち寄り
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">09:00 朝食の名物「嬉野温泉湯豆腐」を堪能  嬉野茶寮でお茶体験＆武雄温泉へ立ち寄り</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   朝食でとろける熱々の温泉湯豆腐をいただき、お腹の中から温まります。宿をチェックアウト後、嬉野温泉街のカフェでお茶体験や足湯を楽しみ、武雄温泉のシンボル・国重要文化財の楼門を見学して大満足の帰路へ。
                 </p>
@@ -436,9 +416,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の竹崎カニと嬉野美肌温泉を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の竹崎カニと嬉野美肌温泉を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、料理・美肌温泉・ロケーションが高評価の宿。
             </p>
@@ -472,9 +450,7 @@ export default function SagaTaraTakezakiWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -534,27 +510,21 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              有明海と嬉野山麓が育んだ奇蹟の味覚と伝統工芸
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">有明海と嬉野山麓が育んだ奇蹟の味覚と伝統工芸</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-700" />
-                内子の旨味が溶け出す「竹崎カニ雑炊」の醍醐味
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-700" />
+                内子の旨味が溶け出す「竹崎カニ雑炊」の醍醐味</h3>
               <p>
                 蒸しガニを堪能した後の最大の楽しみが、甲羅に残ったカニ味噌と内子、そしてカニの茹で汁を出汁に使って炊き上げる「竹崎カニ雑炊」です。カニのエキスを余すところなく米粒が吸い込み、溶き卵と小葱を加えるだけで黄金色に輝く最高峰の締めの一杯が完成。冬の夜に心まで温まる贅沢な郷土の滋味です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-amber-700" />
-                香ばしい「嬉野釜炒り茶」と伝統の肥前鹿島銘酒
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-amber-700" />
+                香ばしい「嬉野釜炒り茶」と伝統の肥前鹿島銘酒</h3>
               <p>
                 嬉野はお茶の栽培に適した霧深い山あいにあり、丸い勾玉状の茶葉が特徴の「嬉野玉緑茶」や伝統の「釜炒り茶」が有名です。渋みが少なくまろやかな甘みが特徴で、カニ料理の後味をさっぱりと引き締めてくれます。また、鹿島市には世界最高峰の日本酒コンテストで世界一に輝いた「鍋島」を醸す富久千代酒造をはじめとする銘醸蔵が連なり、冬のしぼりたて新酒の味わいは格別です。
               </p>
@@ -566,9 +536,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="bg-amber-50/60 rounded-3xl p-6 sm:p-10 border border-amber-200/60 space-y-6">
           <div className="border-b border-amber-200/80 pb-4">
             <span className="text-amber-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">
-              冬の太良・祐徳稲荷・嬉野をスムーズに楽しむためのポイント
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-amber-950">冬の太良・祐徳稲荷・嬉野をスムーズに楽しむためのポイント</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-amber-950">
@@ -608,20 +576,16 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の竹崎カニ＆祐徳稲荷＆嬉野温泉に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の竹崎カニ＆祐徳稲荷＆嬉野温泉に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-amber-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-amber-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function SagaTaraTakezakiWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-amber-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・味覚・名湯特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・味覚・名湯特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

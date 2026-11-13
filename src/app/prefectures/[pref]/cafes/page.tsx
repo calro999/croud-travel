@@ -130,9 +130,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
 
       {/* イントロダクション＆比較・選び方ガイド（長文SEOコンテンツ） */}
       <article className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 space-y-6 shadow-sm leading-relaxed text-sm md:text-base text-emerald-950/90">
-        <h2 className="text-2xl font-black font-journal-serif text-amber-950 border-b border-amber-200 pb-3 flex items-center gap-2">
-          <span>☕</span> <span>{prefInfo.name}のカフェ巡りを100%楽しむための3つの比較・選択ポイント</span>
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-amber-950 border-b border-amber-200 pb-3 flex items-center gap-2"><span>{prefInfo.name}のカフェ巡りを100%楽しむための3つの比較・選択ポイント</span></h2>
 
         <p className="text-sm leading-relaxed">
           {prefInfo.name}は豊かな自然美と歴史的な街並みが融合する魅惑の地域です。そのためカフェ文化も非常に発展しており、店ごとに異なるロケーションや空間演出、自慢のスイーツを展開しています。後悔しないカフェ選びのためには、以下の3つのポイントに着目して選ぶのがおすすめです。
@@ -159,9 +157,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
 
       {/* カフェランキング比較表 */}
       <section className="bg-amber-50/40 border border-amber-300/40 rounded-3xl p-6 md:p-8 space-y-6 shadow-sm">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950 flex items-center gap-2">
-          <span>📊</span> <span>【一目でわかる】{prefInfo.name}のおすすめカフェ比較一覧表</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950 flex items-center gap-2"><span>【一目でわかる】{prefInfo.name}のおすすめカフェ比較一覧表</span></h2>
 
         <div className="overflow-x-auto">
           <table className="w-full text-left text-xs md:text-sm border-collapse bg-white rounded-2xl overflow-hidden shadow-sm">
@@ -194,9 +190,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
 
       {/* 各カフェの詳細ルポ・比較分析 */}
       <section className="space-y-8">
-        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">
-          🏆 {prefInfo.name}のおすすめカフェ＆スイーツ名店 詳細ガイド
-        </h2>
+        <h2 className="text-2xl font-black font-journal-serif text-emerald-950 border-b border-emerald-950/10 pb-4">{prefInfo.name}のおすすめカフェ＆スイーツ名店 詳細ガイド</h2>
 
         <div className="space-y-8">
           {prefInfo.cafes.map((cafe, i) => (
@@ -215,9 +209,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
                 </span>
               </div>
 
-              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950">
-                {cafe.name}
-              </h3>
+              <h3 className="text-xl md:text-2xl font-black font-journal-serif text-amber-950">{cafe.name}</h3>
 
               <div className="prose prose-amber max-w-none text-xs md:text-sm text-emerald-950/80 leading-relaxed space-y-3">
                 <p>{cafe.description}</p>
@@ -246,16 +238,12 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
 
       {/* FAQセクション */}
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
-        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-          <span>❓</span> <span>{prefInfo.name}のカフェ・スイーツに関するよくある質問（FAQ）</span>
-        </h2>
+        <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>{prefInfo.name}のカフェ・スイーツに関するよくある質問（FAQ）</span></h2>
         <div className="space-y-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-5 rounded-2xl bg-amber-50/40 border border-amber-200/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-950 flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-amber-950 flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -266,9 +254,7 @@ export default async function PrefectureCafesPage({ params }: { params: Promise<
 
       {/* ボトムナビゲーション */}
       <section className="p-8 rounded-3xl bg-amber-900 text-white text-center space-y-4 shadow-xl">
-        <h2 className="text-xl font-black font-journal-serif">
-          {prefInfo.name}の魅力をさらに探求しよう
-        </h2>
+        <h2 className="text-xl font-black font-journal-serif">{prefInfo.name}の魅力をさらに探求しよう</h2>
         <p className="text-xs text-amber-100 max-w-xl mx-auto leading-relaxed">
           絶景カフェを楽しんだ後は、{prefInfo.name}の厳選お土産や伝統の銘酒、そして至高の温泉宿・ホテルをチェックしましょう。
         </p>

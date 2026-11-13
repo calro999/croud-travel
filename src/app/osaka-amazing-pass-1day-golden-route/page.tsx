@@ -113,9 +113,7 @@ export default function OsakaAmazingPassPage() {
               01
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                なぜ大阪周遊パスは「最強」と呼ばれるのか？
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">なぜ大阪周遊パスは「最強」と呼ばれるのか？</h2>
               <p className="text-xs text-rose-700 font-medium">乗車券＋施設無料パスが一体化した圧倒的コストパフォーマンス</p>
             </div>
           </div>
@@ -155,9 +153,7 @@ export default function OsakaAmazingPassPage() {
               02
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                【徹底検証】通常料金 vs 大阪周遊パス 収支表
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">【徹底検証】通常料金 vs 大阪周遊パス 収支表</h2>
               <p className="text-xs text-rose-700 font-medium">王道スポットを1日巡った場合のリアルな差額</p>
             </div>
           </div>
@@ -237,9 +233,7 @@ export default function OsakaAmazingPassPage() {
               03
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                朝9時〜夜21時まで！1万円分満喫する黄金モデルコース
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">朝9時〜夜21時まで！1万円分満喫する黄金モデルコース</h2>
               <p className="text-xs text-rose-700 font-medium">キタ・ミナミ・大阪城・ベイエリアを無駄なく繋ぐ周遊ルート</p>
             </div>
           </div>
@@ -318,9 +312,7 @@ export default function OsakaAmazingPassPage() {
               04
             </div>
             <div>
-              <h2 className="text-2xl font-bold text-slate-900">
-                周遊パス使い倒し！なんば・心斎橋の厳選拠点ホテル
-              </h2>
+              <h2 className="text-2xl font-bold text-slate-900">周遊パス使い倒し！なんば・心斎橋の厳選拠点ホテル</h2>
               <p className="text-xs text-rose-700 font-medium">Osaka Metro各線が集中するなんば駅チカ宿で身軽に観光</p>
             </div>
           </div>
@@ -357,9 +349,7 @@ export default function OsakaAmazingPassPage() {
                   )}
 
                   <div className="p-5">
-                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-rose-700 transition-colors line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="font-bold text-slate-900 text-lg group-hover:text-rose-700 transition-colors line-clamp-2">{hotel.hotelName}</h3>
                     <p className="text-xs text-slate-500 mt-1 line-clamp-2">
                       {hotel.access}
                     </p>
@@ -401,17 +391,13 @@ export default function OsakaAmazingPassPage() {
 
         {/* Internal Links */}
         <section className="bg-slate-100 rounded-2xl p-6 sm:p-8 border border-slate-200">
-          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">
-            <span>🔗</span> 大阪旅行の関連ガイド・人気プラン
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 mb-4 flex items-center gap-2">大阪旅行の関連ガイド・人気プラン</h2>
           <div className="grid sm:grid-cols-2 gap-4">
             <Link
               href="/osaka-travel-budget-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">
-                【大阪観光の予算完全版】1泊2日・2泊3日の食費・ホテル代・お土産代
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">【大阪観光の予算完全版】1泊2日・2泊3日の食費・ホテル代・お土産代</h3>
               <p className="text-xs text-slate-500">
                 くいだおれの街・大阪をコスパ良く楽しむための費用シミュレーション。
               </p>
@@ -420,9 +406,7 @@ export default function OsakaAmazingPassPage() {
               href="/usj-family-hotel-near-osaka-guide/"
               className="p-4 bg-white rounded-xl border border-slate-200 hover:border-rose-500 hover:shadow-sm transition-all group"
             >
-              <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">
-                【USJ×大阪市内周遊】家族旅行におすすめのオフィシャル＆駅チカホテル
-              </h3>
+              <h3 className="text-sm font-bold text-slate-800 group-hover:text-rose-600 mb-1">【USJ×大阪市内周遊】家族旅行におすすめのオフィシャル＆駅チカホテル</h3>
               <p className="text-xs text-slate-500">
                 ユニバと市内観光をどちらも欲張りに楽しむホテルの選び方。
               </p>
@@ -435,9 +419,7 @@ export default function OsakaAmazingPassPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコースの旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコースの旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -522,9 +504,7 @@ export default function OsakaAmazingPassPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋40ヶ所以上の観光施設が無料！1万円分得するモデルコース」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -585,9 +565,7 @@ export default function OsakaAmazingPassPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「大阪周遊パス1日券 完全元取りガイド」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「大阪周遊パス1日券 完全元取りガイド」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

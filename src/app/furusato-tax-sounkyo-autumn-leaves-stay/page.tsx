@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              大雪山国立公園の圧倒的スケール！天を突く断崖と名瀑が錦に染まる秋
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">大雪山国立公園の圧倒的スケール！天を突く断崖と名瀑が錦に染まる秋</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             北海道の中央部にそびえる大雪山国立公園の玄関口「層雲峡」。日本で最も早く紅葉が訪れるエリアとして知られ、山頂付近から麓の温泉街へと約1ヶ月かけて紅葉前線が駆け下りてきます。石狩川沿いに約24km続く切り立った巨大な柱状節理の断崖と、日本の滝百選に選ばれる「流星の滝」「銀河の滝」を鮮やかな赤や黄色が包み込む姿は息をのむ美しさ。黒岳ロープウェイでの空中散歩を満喫した後は、豊富な湯量を誇る単純硫黄泉・白濁湯に浸かり、オホーツクの海鮮や北海道産牛のグリル料理をふるさと納税トラベルクーポンでお得に味わいましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                黒岳ロープウェイ＆リフトで行く紅葉空中散歩
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                黒岳ロープウェイ＆リフトで行く紅葉空中散歩</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 層雲峡温泉街から標高1,984mの黒岳5合目・7合目へと登るロープウェイ。眼下に広がる広大な原生林が黄色やオレンジに燃え上がるパノラマビューは圧巻です。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                日本の滝百選「流星の滝・銀河の滝」と巨大柱状節理
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                日本の滝百選「流星の滝・銀河の滝」と巨大柱状節理</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 不動岩の左右を力強く流れ落ちる流星の滝と、白糸のように繊細に流れ落ちる銀河の滝。そびえ立つ柱状節理の断崖を紅葉が彩る景観は層雲峡を代表する絶景です。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                北海道の秋味覚バイキング＆オホーツク海鮮・道産牛
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                北海道の秋味覚バイキング＆オホーツク海鮮・道産牛</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 秋に旬を迎えるサンマやホタテ、サーモンなどの海の幸から、ジンギスカン、北海道産牛のステーキ、旬のキノコやジャガイモ料理まで北の大地の恵みを満喫できます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.02 <span className="text-stone-400 text-xs">(2338件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    層雲峡温泉　朝陽リゾートホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">層雲峡温泉　朝陽リゾートホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道上川郡上川町層雲峡温泉 ｜ JR上川駅下車　道北バスで約３０分/札幌・旭川発の送迎バス運行（迄）
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.13 <span className="text-stone-400 text-xs">(607件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">層雲峡温泉　湯元　銀泉閣（ＢＢＨホテルグループ）</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道上川郡上川町層雲峡温泉公園まち ｜ ＪＲ函館本線旭川駅で乗換、石北本線上川駅下車バスで３０分
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 3.89 <span className="text-stone-400 text-xs">(1847件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    層雲峡　朝陽亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">層雲峡　朝陽亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 北海道上川郡上川町層雲峡温泉 ｜ 上川層雲峡ICよりR39号線を北見方面に車で25分/JR上川駅よりバスで30分/札幌旭川送迎バス運行（3/31迄・要予約
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】層雲峡温泉 朝陽リゾートホテルを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】層雲峡温泉 朝陽リゾートホテルを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と層雲峡温泉 朝陽リゾートホテルの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と層雲峡温泉 朝陽リゾートホテルの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            格子戸が連なる古い町並みと宮川にかかる朱塗りの中橋、囲炉裏で香る朴葉味噌と飛騨牛——小京都の静寂と名湯に身を委ねる「飛騨高山・大人の隠れ家リトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">格子戸が連なる古い町並みと宮川にかかる朱塗りの中橋、囲炉裏で香る朴葉味噌と飛騨牛——小京都の静寂と名湯に身を委ねる「飛騨高山・大人の隠れ家リトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             名古屋からJR特急「ひだ」で約2時間20分、富山からも特急で約1時間半。北アルプス・乗鞍岳の懐に抱かれた岐阜県高山市は、江戸時代の城下町・天領の面影を色濃く残す「さんまち通り（古い町並み）」を擁する世界的な観光地です。出格子の町家が連なり、造り酒屋の軒先に吊るされた杉玉が風に揺れ、名物の宮川朝市には地元の農家のおばあちゃんが並べる新鮮な野菜や民芸品が並びます。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   古い町並み・宮川中橋まで徒歩1分！楽天トラベル評価4.91点・ミシュラン掲載の日本最高峰のおもてなし旅館
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  飛騨高山 本陣平野屋 花兆庵 —— 伝統と格式の極み。お部屋食でいただく極上飛騨牛会席と専用個室スパ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">飛騨高山 本陣平野屋 花兆庵 —— 伝統と格式の極み。お部屋食でいただく極上飛騨牛会席と専用個室スパ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   自家源泉から湧く「神代の湯」！神代欅や総檜を贅沢に使った木造建築ととろとろの美肌天然温泉
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  飛騨亭 花扇 —— 木のぬくもりに包まれる極上隠れ宿。庭園露天風呂と炭火会席で味わう飛騨の恵み
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">飛騨亭 花扇 —— 木のぬくもりに包まれる極上隠れ宿。庭園露天風呂と炭火会席で味わう飛騨の恵み</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR高山駅西口徒歩3分！最上階9階の展望自家源泉大浴場＆露天風呂から北アルプスと高山市街を一望
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  スパホテルアルピナ飛騨高山 —— 駅近のナチュラル温泉ホテル。焼きたてパン朝食と爽快な展望温泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">スパホテルアルピナ飛騨高山 —— 駅近のナチュラル温泉ホテル。焼きたてパン朝食と爽快な展望温泉</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              飛騨高山の古い町並みと朝市を一人旅で味わい尽くす散策術
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">飛騨高山の古い町並みと朝市を一人旅で味わい尽くす散策術</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 宮川朝市（午前7:00〜12:00）で朝採れ果物とみたらし団子
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 宮川朝市（午前7:00〜12:00）で朝採れ果物とみたらし団子</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 川沿いに白いテントが連なる日本三大朝市。素朴な醤油味のみたらし団子を片手に、地元の人々との温かな会話を楽しむ。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. さんまち通りで「飛騨牛にぎり寿司」の食べ歩き＆酒蔵の試飲
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. さんまち通りで「飛騨牛にぎり寿司」の食べ歩き＆酒蔵の試飲</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 煎餅をお皿にした飛騨牛の炙り握り。老舗酒蔵「舩坂酒造店」などでお猪口を買って地酒のコインサーバー試飲を楽しむ。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 高山陣屋で日本唯一現存する江戸幕府の郡代役所を見学
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 高山陣屋で日本唯一現存する江戸幕府の郡代役所を見学</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 広い畳敷きの大広間やお白州。江戸時代の地方行政の舞台を静かに見学しながら歴史の重みに浸る。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>冬の飛騨高山は雪が多いですか？足元はどうすべきですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>冬の飛騨高山は雪が多いですか？足元はどうすべきですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 12月下旬〜3月上旬は積雪があり、防寒具と滑り止め付きのブーツやスノーシューズが必要です。ただし町並みの主要歩道は融雪装置が整備されており、雪景色の古い町並みは息をのむ美しさです。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で飛騨牛ステーキや朴葉味噌焼きを食べられるお店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で飛騨牛ステーキや朴葉味噌焼きを食べられるお店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 「丸明」や「味蔵天国」「キッチン飛騨」など有名店は一人客用のカウンター席やテーブル席を備えており、一人でも気兼ねなく最高等級の飛騨牛を堪能できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】飛騨高山 本陣平野屋 花兆庵を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】飛騨高山 本陣平野屋 花兆庵を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

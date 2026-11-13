@@ -91,10 +91,7 @@ export default function FurusatoTaxPage() {
         {/* リード文ブロック */}
         <section className="bg-slate-900/80 border border-slate-800 rounded-3xl p-6 md:p-10 shadow-xl relative overflow-hidden">
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-500/5 rounded-full blur-3xl -z-10" />
-          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2">
-            <span>💡</span>
-            <span>できたての芳醇な生ビールを片手に、非日常の温泉＆リゾートで乾杯！</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-amber-400 mb-4 flex items-center gap-2"><span>できたての芳醇な生ビールを片手に、非日常の温泉＆リゾートで乾杯！</span></h2>
           <p className="text-slate-300 leading-relaxed text-sm md:text-base font-normal">
             ホップの華やかな香り、麦芽の深いコク、その土地の清らかな仕込み水が生み出すクラフトビール。醸造所併設のブルワリーホテルやタップルームを備えた温泉宿なら、移動を気にせず心ゆくまで極上の生ビールを飲み比べできます。楽天ふるさと納税を活用すれば、寄付額の最大30%が宿泊クーポンとして還元され、ビール愛好家垂涎のペアリングプランや限定テイスティングをお得に堪能できます。
           </p>
@@ -114,9 +111,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     01
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    限定クラフト生ビールのタップルーム直結＆飲み放題プラン
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">限定クラフト生ビールのタップルーム直結＆飲み放題プラン</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     市販されていない醸造所限定のIPAや限定スタウト、季節限定ビールをその場でサーバーから注ぎたてで味わえる至福。客室へのグラウラーテイクアウトが可能な宿も多数。
                   </p>
@@ -128,9 +123,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     02
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    ビールが進む地産地消グリル料理とペアリングディナー
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">ビールが進む地産地消グリル料理とペアリングディナー</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     信州牛のステーキ、駿河湾の魚介フリット、北海道産ソーセージなど、クラフトビールの特性に合わせてシェフが考案した最高のペアリングコースを堪能できます。
                   </p>
@@ -142,9 +135,7 @@ export default function FurusatoTaxPage() {
                   <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/20 text-amber-400 flex items-center justify-center font-black text-lg mb-4">
                     03
                   </div>
-                  <h3 className="font-bold text-white text-base md:text-lg mb-3">
-                    温泉やサウナ後の「最高の一杯」をふるさと納税でお得に
-                  </h3>
+                  <h3 className="font-bold text-white text-base md:text-lg mb-3">温泉やサウナ後の「最高の一杯」をふるさと納税でお得に</h3>
                   <p className="text-slate-400 text-xs md:text-sm leading-relaxed">
                     天然温泉や本格ロウリュサウナでととのった直後に、キンと冷えたブルワリー直送ビールを喉に流し込む格別の快感。返礼クーポンで控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）贅沢旅が叶います。
                   </p>
@@ -166,10 +157,7 @@ export default function FurusatoTaxPage() {
             
                 <div key="karuizawa_beer" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>長野県軽井沢町ふるさと納税：軽井沢高原ビール＆ヤッホーブルーイングの聖地ステイ</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>長野県軽井沢町ふるさと納税：軽井沢高原ビール＆ヤッホーブルーイングの聖地ステイ</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       浅間山の清涼な伏流水で仕込まれるクラフトビールのメッカ軽井沢。星野エリアのハルニレテラスや高原リゾートホテルで、森のマイナスイオンを浴びながら個性豊かなクラフトビールを飲み比べる優雅な休日が過ごせます。
                     </p>
@@ -197,9 +185,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              プチリゾート　アピア
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">プチリゾート　アピア</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               開田高原にたたずむプチリゾートホテル「Aｐｐｅａｒ」。癒しの空間で、贅沢な時間を◎
                             </p>
@@ -234,10 +220,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="shuzenji_beer" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>静岡県伊豆市ふるさと納税：修善寺ブルワリーガーデン＆狩野川沿いの名湯</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>静岡県伊豆市ふるさと納税：修善寺ブルワリーガーデン＆狩野川沿いの名湯</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       世界的評価を受けるベアードビールの本拠地・伊豆修善寺。狩野川の清流沿いに広がる自然豊かな環境で、出来立ての無濾過クラフト生ビールと老舗修善寺温泉の美肌湯をダブルで満喫できます。
                     </p>
@@ -265,9 +248,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              修善寺温泉　国の登録文化財の宿　新井旅館
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">修善寺温泉　国の登録文化財の宿　新井旅館</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               ミシュランで二つ星の竹林の小径まで徒歩2分、修善寺温泉の中心で観光に便利です
                             </p>
@@ -317,9 +298,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              長岡温泉　伊豆長岡金城館（伊東園ホテルズ）
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">長岡温泉　伊豆長岡金城館（伊東園ホテルズ）</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               あやめ御前ゆかりの源氏山の山裾で、葛城山を近くに望む豊かな自然に囲まれた立地。
                             </p>
@@ -369,9 +348,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              伊豆長岡温泉　ホテル茜
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">伊豆長岡温泉　ホテル茜</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               実る心地よさに出逢うたび・・・
                             </p>
@@ -406,10 +383,7 @@ export default function FurusatoTaxPage() {
               
                 <div key="otaru_beer" className="bg-slate-900/50 border border-slate-800/90 rounded-3xl p-6 md:p-8 space-y-6">
                   <div className="space-y-2">
-                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2">
-                      <span>📍</span>
-                      <span>北海道小樽市ふるさと納税：小樽運河沿いの醸造パブ＆歴史的クラシックホテル</span>
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-amber-300 flex items-center gap-2"><span>北海道小樽市ふるさと納税：小樽運河沿いの醸造パブ＆歴史的クラシックホテル</span></h3>
                     <p className="text-slate-300 text-xs md:text-sm leading-relaxed">
                       ドイツの伝統製法にこだわった小樽ビールが有名な港町小樽。レンガ造りの運河倉庫街を散策した後は、醸造所直営パブでピルスナーやドンケルを豪快に味わい、上質なホテルでくつろげます。
                     </p>
@@ -437,9 +411,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              オーセントホテル小樽
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">オーセントホテル小樽</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！
                             </p>
@@ -489,9 +461,7 @@ export default function FurusatoTaxPage() {
                             
                           </div>
                           <div className="p-4 space-y-2">
-                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">
-                              アールジェイホテルズ＜小樽＞
-                            </h4>
+                            <h4 className="font-bold text-white text-sm line-clamp-2 group-hover:text-amber-300 transition">アールジェイホテルズ＜小樽＞</h4>
                             <p className="text-xs text-slate-400 line-clamp-2 leading-relaxed">
                               無人チェックインのトレーラーホテル。ペットをお連れの方は「ペット可」ルームをご予約ください。
                             </p>
@@ -597,9 +567,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】プチリゾート アピアを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】プチリゾート アピアを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -632,9 +600,7 @@ export default function FurusatoTaxPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とプチリゾート アピアの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とプチリゾート アピアの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -729,9 +695,7 @@ export default function FurusatoTaxPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイ」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -810,9 +774,7 @@ export default function FurusatoTaxPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税厳選ガイド出来立て生ビールと美食ステイエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

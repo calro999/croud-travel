@@ -89,9 +89,7 @@ export default function FeatureArticlePage() {
       <section className="max-w-5xl mx-auto px-4 sm:px-6 mb-12">
         <div className="bg-white rounded-3xl p-6 md:p-10 border border-stone-200/80 shadow-sm space-y-6">
           <div className="border-l-4 border-amber-600 pl-4">
-            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-              奥州藤原氏の黄金文化・中尊寺と宮沢賢治が愛した花巻の名湯
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-900">奥州藤原氏の黄金文化・中尊寺と宮沢賢治が愛した花巻の名湯</h2>
           </div>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             世界文化遺産に登録されている岩手県平泉。秋の中尊寺では、参道「月見坂」を覆う鮮やかなもみじのトンネルや、国宝・金色堂を包む錦秋の木々が訪れる人々を魅了します。浄土庭園の美しさを伝える毛越寺の紅葉と合わせて散策した後は、車で約40分の名湯・花巻温泉郷へ。宮沢賢治ゆかりの地に湧く歴史ある温泉、日本一深い自噴天然岩風呂「白猿の湯」や極上の割烹旅館で、岩手県産前沢牛や三陸の海の幸をふるさと納税トラベルクーポンでお得に味わい尽くしましょう。
@@ -100,10 +98,8 @@ export default function FeatureArticlePage() {
           <div className="grid md:grid-cols-3 gap-4 pt-2">
             
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
-                平泉・中尊寺 月見坂の紅葉トンネル＆金色堂の秋
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">1</span>
+                平泉・中尊寺 月見坂の紅葉トンネル＆金色堂の秋</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 樹齢数百年の杉並木と真っ赤に染まるもみじが織りなす「月見坂」。国宝・金色堂を囲む紅葉のグラデーションは、奥州藤原氏の栄華を今に伝える荘厳な美しさを放ちます。
               </p>
@@ -111,10 +107,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
-                毛越寺（もうつうじ） 浄土庭園と大泉が池の水鏡紅葉
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">2</span>
+                毛越寺（もうつうじ） 浄土庭園と大泉が池の水鏡紅葉</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 平安時代の優雅な庭園美をそのまま残す毛越寺。広大な大泉が池の水面に映り込む木々の紅葉と州浜の景観は、平安貴族が描いた極楽浄土の世界そのものです。
               </p>
@@ -122,10 +116,8 @@ export default function FeatureArticlePage() {
   
 
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-2">
-              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2">
-                <span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
-                前沢牛・白金豚＆三陸海の幸の贅沢会席
-              </h3>
+              <h3 className="font-bold text-stone-900 text-lg flex items-center gap-2"><span className="w-7 h-7 rounded-full bg-amber-100 text-amber-800 text-sm font-bold flex items-center justify-center">3</span>
+                前沢牛・白金豚＆三陸海の幸の贅沢会席</h3>
               <p className="text-stone-700 text-sm leading-relaxed pl-9">
                 極上の霜降りと甘みが特徴の岩手最高峰ブランド牛「前沢牛」、花巻特産のブランド豚「白金豚（プラチナポーク）」、三陸直送の新鮮魚介を各宿こだわりの会席料理で贅沢にいただけます。
               </p>
@@ -162,9 +154,7 @@ export default function FeatureArticlePage() {
                       ★ 4.73 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    花巻温泉　佳松園
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">花巻温泉　佳松園</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県花巻市湯本第1地割125-2 ｜ 花巻IC：右折後直進4km（5分）、JR新花巻駅・JR花巻駅：無料送迎バス20分（定時運行・完全予約制）
                   </p>
@@ -231,9 +221,7 @@ export default function FeatureArticlePage() {
                       ★ 4.46 <span className="text-stone-400 text-xs">(2664件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    岩手　花巻温泉郷　鉛温泉　藤三旅館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">岩手　花巻温泉郷　鉛温泉　藤三旅館</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県花巻市鉛中平75-1 ｜ 新花巻駅より４０分・花巻駅より３０分（送迎バスあり、協力金：片道100円、予約必須）。花巻南ＩＣよりお車で２０分。
                   </p>
@@ -300,9 +288,7 @@ export default function FeatureArticlePage() {
                       ★ 4.59 <span className="text-stone-400 text-xs">(350件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    花巻温泉　割烹旅館　廣美亭
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">花巻温泉　割烹旅館　廣美亭</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 岩手県花巻市湯本1-88-1 ｜ 東北自動車道花巻ＩＣより5分・JR花巻空港駅よりタクシーで15分・東北新幹線新花巻駅より無料送迎バスあり（要プラン確認）
                   </p>
@@ -402,9 +388,7 @@ export default function FeatureArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】花巻温泉 佳松園を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】花巻温泉 佳松園を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -437,9 +421,7 @@ export default function FeatureArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と花巻温泉 佳松園の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と花巻温泉 佳松園の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

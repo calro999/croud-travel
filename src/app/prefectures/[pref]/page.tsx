@@ -361,9 +361,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 <span className="inline-block text-[10px] font-black text-white bg-gradient-to-r from-red-600 to-amber-600 px-3 py-0.5 rounded-full uppercase tracking-widest shadow-2xs">
                   🔥 2026年10月〜2027年1月（紅葉・冬味覚・年末年始）予約人気トップ3
                 </span>
-                <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">
-                  🏆 {prefInfo.name}で今泊まるべき高評価ホテル・温泉旅館ベスト3
-                </h2>
+                <h2 className="text-xl md:text-2xl font-black font-journal-serif text-stone-900">{prefInfo.name}で今泊まるべき高評価ホテル・温泉旅館ベスト3</h2>
                 <p className="text-xs text-stone-600 font-medium">
                   楽天トラベル公式APIのクチコミ評価・宿泊満足度データから、{prefInfo.name}観光の拠点に間違いのない名宿を厳選しました。
                 </p>
@@ -425,9 +423,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           <span className="text-amber-600 font-black">⭐ {h.rating}</span>
                         )}
                       </div>
-                      <h3 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">
-                        {h.hotel_name}
-                      </h3>
+                      <h3 className="text-sm font-black text-stone-900 line-clamp-2 leading-snug">{h.hotel_name}</h3>
                       {h.hotelSpecial && (
                         <p className="text-[11px] text-stone-600 line-clamp-2 leading-relaxed">
                           {h.hotelSpecial}
@@ -454,9 +450,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
       {/* 目次アンカーナビゲーション */}
       <section className="bg-white border border-emerald-950/10 rounded-2xl p-6 shadow-sm space-y-4">
-        <h2 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest flex items-center gap-1.5">
-          <span>📌</span> <span>目的のエリア・特集へ即座にスキップ</span>
-        </h2>
+        <h2 className="text-xs font-extrabold text-teal-900/60 uppercase tracking-widest flex items-center gap-1.5"><span>目的のエリア・特集へ即座にスキップ</span></h2>
         
         {/* 特設ハブページへのダイレクトリンク */}
         {(() => {
@@ -478,9 +472,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 <span className="text-[10px] font-extrabold text-amber-300 bg-white/10 px-2.5 py-0.5 rounded-full border border-white/20">
                   {currentHub.badge}
                 </span>
-                <h3 className="text-sm md:text-base font-black font-journal-serif text-white">
-                  {currentHub.title}
-                </h3>
+                <h3 className="text-sm md:text-base font-black font-journal-serif text-white">{currentHub.title}</h3>
                 <p className="text-xs text-amber-100/80">
                   {currentHub.desc}
                 </p>
@@ -573,9 +565,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             <span className="text-[10px] font-extrabold text-rose-800 bg-rose-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               MUST-VISIT FAMOUS SPOTS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-rose-950 flex items-center gap-2">
-              <span>🏰</span> <span>【{prefInfo.name}】一度は訪れたい有名な場所・王道観光名所まとめ</span>
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-rose-950 flex items-center gap-2"><span>【{prefInfo.name}】一度は訪れたい有名な場所・王道観光名所まとめ</span></h2>
             <p className="text-xs text-rose-900/80 leading-relaxed font-medium">
               {prefInfo.name}を象徴する世界遺産・国宝・歴史名所から絶景景勝地まで、「{prefInfo.name}旅行で絶対に外せない有名な場所」を厳選ガイド。
             </p>
@@ -589,9 +579,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                     <span className="w-6 h-6 rounded-full bg-rose-700 text-white text-xs font-black flex items-center justify-center">
                       {i + 1}
                     </span>
-                    <h3 className="text-lg font-black font-journal-serif text-rose-950">
-                      {spot.name}
-                    </h3>
+                    <h3 className="text-lg font-black font-journal-serif text-rose-950">{spot.name}</h3>
                   </div>
                   <p className="text-xs text-stone-700 leading-relaxed font-medium">
                     {spot.description}
@@ -615,9 +603,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
             SEARCH BY TRAVEL STYLE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-teal-950 flex items-center gap-2">
-            <span>🎯</span> <span>【{prefInfo.name}】旅の目的・こだわり条件・同行者別おすすめスタイル</span>
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-teal-950 flex items-center gap-2"><span>【{prefInfo.name}】旅の目的・こだわり条件・同行者別おすすめスタイル</span></h2>
           <p className="text-xs text-teal-900/80 leading-relaxed font-medium">
             子連れファミリー、カップル露天風呂、一人旅サウナ、両親プレゼントなど、ご希望の滞在スタイルに最適な{prefInfo.name}の旅をご提案。
           </p>
@@ -625,9 +611,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="p-5 rounded-2xl bg-amber-50/60 border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
-              <span>👨‍👩‍👧‍👦</span> <span>子連れ・ファミリー旅行</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>‍‍‍</span> <span>子連れ・ファミリー旅行</span></h3>
             <p className="text-xs text-stone-700 leading-relaxed">
               キッズアメニティや和洋室完備、プールや大浴場があるファミリー歓迎の安心ホテル。
             </p>
@@ -637,9 +621,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </div>
 
           <div className="p-5 rounded-2xl bg-rose-50/60 border border-rose-200 space-y-2">
-            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5">
-              <span>👩‍❤️‍👨</span> <span>カップル・露天風呂付き客室</span>
-            </h3>
+            <h3 className="text-sm font-bold text-rose-950 flex items-center gap-1.5"><span>‍️‍</span> <span>カップル・露天風呂付き客室</span></h3>
             <p className="text-xs text-stone-700 leading-relaxed">
               プライベートな時間を愉しめる露天風呂付き客室や、部屋食で味わう美味しい会席料理が人気。
             </p>
@@ -649,9 +631,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           </div>
 
           <div className="p-5 rounded-2xl bg-indigo-50/60 border border-indigo-200 space-y-2">
-            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5">
-              <span>👤</span> <span>一人旅・ビジネス・サウナ宿</span>
-            </h3>
+            <h3 className="text-sm font-bold text-indigo-950 flex items-center gap-1.5"><span>一人旅・ビジネス・サウナ宿</span></h3>
             <p className="text-xs text-stone-700 leading-relaxed">
               駅チカ好立地、本格サウナ・水風呂付き大浴場完備、静かな住空間でリフレッシュ。
             </p>
@@ -684,9 +664,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                   </a>
                 </div>
 
-                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-                  {subArea.areaName} 徹底観光ガイド
-                </h2>
+                <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">{subArea.areaName} 徹底観光ガイド</h2>
 
                 <p className="text-xs md:text-sm text-emerald-950/80 leading-relaxed font-medium">
                   {subArea.description}
@@ -695,9 +673,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
               {/* 🗺️ エリア徹底解説＆アクセス・所要時間比較ガイド */}
               <div className="space-y-4">
-                <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                  <span>📍</span> <span>{subArea.areaName}の絶対外せない観光名所＆みどころ</span>
-                </h3>
+                <h3 className="text-base font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{subArea.areaName}の絶対外せない観光名所＆みどころ</span></h3>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {subArea.spots.map((spot, idx) => (
@@ -706,12 +682,10 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2 flex flex-col justify-between"
                     >
                       <div className="space-y-1.5">
-                        <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-                          <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
+                        <h4 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] font-black flex items-center justify-center">
                             {idx + 1}
                           </span>
-                          <span>{spot.name}</span>
-                        </h4>
+                          <span>{spot.name}</span></h4>
                         <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
                           {spot.description}
                         </p>
@@ -760,9 +734,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
               <div className="space-y-6 pt-4 border-t border-emerald-950/10">
                 <div className="flex items-center justify-between">
                   <div>
-                    <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2">
-                      <span>🏨</span> <span>{subArea.areaName}の観光拠点にぴったりのおすすめ宿</span>
-                    </h3>
+                    <h3 className="text-base md:text-lg font-bold font-journal-serif text-emerald-950 flex items-center gap-2"><span>{subArea.areaName}の観光拠点にぴったりのおすすめ宿</span></h3>
                     <p className="text-[11px] text-emerald-950/60 font-medium">
                       名所への移動効率、クチコミ評価、温泉・朝食の評判を考慮して厳選
                     </p>
@@ -816,9 +788,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                               </span>
                             )}
                           </div>
-                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">
-                            {post.hotel_name}
-                          </h4>
+                          <h4 className="text-xs md:text-sm font-black font-journal-serif text-emerald-950 line-clamp-2">{post.hotel_name}</h4>
                           {post.hotelSpecial && (
                             <p className="text-[11px] text-emerald-950/70 line-clamp-2 font-medium">
                               {post.hotelSpecial}
@@ -875,9 +845,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             <span className="text-[10px] font-extrabold text-amber-800 bg-amber-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               SPECIAL CAFE SELECTION
             </span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-amber-950 flex items-center gap-2">
-              <span>☕</span> <span>【{prefInfo.name}】絶景＆レトロ！旅先で絶対訪れたいおすすめカフェ・スイーツ特集</span>
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-amber-950 flex items-center gap-2"><span>【{prefInfo.name}】絶景＆レトロ！旅先で絶対訪れたいおすすめカフェ・スイーツ特集</span></h2>
             <p className="text-xs text-amber-900/80 leading-relaxed font-medium">
               町家をリノベーションした風情ある和カフェから、絶景のロケーションを臨むテラスカフェまで、旅行の途中でほっと一息つける名店をご紹介。
             </p>
@@ -890,9 +858,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                   <span className="text-[9px] font-extrabold text-amber-800 bg-amber-50 border border-amber-200 px-2.5 py-0.5 rounded-full">
                     {cafe.type}
                   </span>
-                  <h3 className="text-base font-bold font-journal-serif text-amber-950">
-                    {cafe.name}
-                  </h3>
+                  <h3 className="text-base font-bold font-journal-serif text-amber-950">{cafe.name}</h3>
                   <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
                     {cafe.description}
                   </p>
@@ -925,9 +891,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             <span className="text-[10px] font-extrabold text-emerald-800 bg-emerald-200/60 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               SOUVENIR & GIFTS
             </span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>🛍️</span> <span>【{prefInfo.name}】旅の思い出に買いたい！人気お土産・トレンド銘菓＆特産品</span>
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>️</span> <span>【{prefInfo.name}】旅の思い出に買いたい！人気お土産・トレンド銘菓＆特産品</span></h2>
             <p className="text-xs text-emerald-900/80 leading-relaxed font-medium">
               定番の伝統銘菓から話題の最新おしゃれ手土産、お取り寄せグルメ、工芸品まで、旅の思い出に選ぶべきおすすめ商品をピックアップ。
             </p>
@@ -939,9 +903,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 <span className="text-[9px] font-extrabold text-emerald-800 bg-emerald-50 border border-emerald-200 px-2.5 py-0.5 rounded-full">
                   {item.category}
                 </span>
-                <h3 className="text-base font-bold font-journal-serif text-emerald-950">
-                  {item.name}
-                </h3>
+                <h3 className="text-base font-bold font-journal-serif text-emerald-950">{item.name}</h3>
                 <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
                   {item.description}
                 </p>
@@ -969,9 +931,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             <span className="text-[10px] font-extrabold text-amber-300 bg-amber-500/20 border border-amber-500/30 px-3 py-0.5 rounded-full uppercase tracking-widest inline-block">
               SAKE & BREWERY
             </span>
-            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white flex items-center gap-2">
-              <span>🍶</span> <span>【{prefInfo.name}】蔵元直伝！今宵味わいたい地酒・日本酒＆名醸蔵特集</span>
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white flex items-center gap-2"><span>【{prefInfo.name}】蔵元直伝！今宵味わいたい地酒・日本酒＆名醸蔵特集</span></h2>
             <p className="text-xs text-slate-300 leading-relaxed font-medium">
               名水と伝統の技が生み出す各蔵元至高の日本酒。温泉宿の夕食や旅先の晩酌でぜひ味わいたい銘柄をご紹介。
             </p>
@@ -987,9 +947,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                     </span>
                     <span className="text-[10px] text-slate-400 font-bold">{sake.brewery}</span>
                   </div>
-                  <h3 className="text-lg font-black font-journal-serif text-white">
-                    {sake.name}
-                  </h3>
+                  <h3 className="text-lg font-black font-journal-serif text-white">{sake.name}</h3>
                   <p className="text-xs text-slate-300 leading-relaxed font-medium">
                     {sake.description}
                   </p>
@@ -1015,9 +973,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       {faqList.length > 0 && (
         <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
           <div className="space-y-2 border-b border-emerald-950/10 pb-4">
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-              <span>❓</span> <span>{prefInfo.name}旅行のプロに聞く！よくある質問（FAQ）</span>
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>{prefInfo.name}旅行のプロに聞く！よくある質問（FAQ）</span></h2>
             <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
               これから{prefInfo.name}への旅行を計画されている方から多く寄せられる質問に、旅行雑誌の編集部がお答えします。
             </p>
@@ -1025,10 +981,8 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {faqList.map((faq: any, idx: number) => (
               <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h4>
+                <h4 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h4>
                 <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -1119,9 +1073,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                     交通費を浮かせて贅沢旅
                   </span>
                 </div>
-                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">
-                  【{prefInfo.name}発着】安く行く方法・新幹線 vs 高速バス徹底比較ガイド
-                </h3>
+                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-white mt-1">【{prefInfo.name}発着】安く行く方法・新幹線 vs 高速バス徹底比較ガイド</h3>
               </div>
             </div>
 
@@ -1144,9 +1096,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       {guide.priceNote}
                     </span>
                   </div>
-                  <h4 className="text-sm font-black text-white group-hover:text-cyan-200 transition font-journal-serif line-clamp-2">
-                    {guide.title}
-                  </h4>
+                  <h4 className="text-sm font-black text-white group-hover:text-cyan-200 transition font-journal-serif line-clamp-2">{guide.title}</h4>
                   <p className="text-xs text-slate-300 line-clamp-2 leading-relaxed font-medium">
                     {guide.description}
                   </p>
@@ -1201,9 +1151,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                 <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3.5 py-1 rounded-full uppercase tracking-wider">
                   PREFECTURE TRAVEL HUB & DIRECTORY
                 </span>
-                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 mt-2">
-                  🗺️ 【{prefInfo.name}】完全攻略トラベルハブ＆全記事ディレクトリ（全{prefPosts.length}件）
-                </h3>
+                <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 mt-2">️ 【{prefInfo.name}】完全攻略トラベルハブ＆全記事ディレクトリ（全{prefPosts.length}件）</h3>
               </div>
               <span className="text-xs text-stone-500 font-bold bg-stone-100 px-3 py-1.5 rounded-xl border border-stone-200">
                 楽天トラベル公式データ連携
@@ -1246,9 +1194,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                         <span className="inline-block text-[9px] font-bold text-amber-800 bg-amber-100/80 px-2 py-0.5 rounded-md">
                           特設ガイド
                         </span>
-                        <h4 className="text-xs md:text-sm font-bold text-stone-900 line-clamp-2 group-hover:text-amber-800 transition leading-snug">
-                          {post.title}
-                        </h4>
+                        <h4 className="text-xs md:text-sm font-bold text-stone-900 line-clamp-2 group-hover:text-amber-800 transition leading-snug">{post.title}</h4>
                         <div className="flex items-center justify-between text-[10px] text-stone-500 font-medium">
                           <span className="truncate max-w-[140px]">{post.area || post.prefecture}</span>
                           {post.rating && <span className="text-amber-600 font-bold shrink-0">⭐ {post.rating}</span>}
@@ -1289,9 +1235,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             {/* ③ 個別ホテル・宿泊ルポ・温泉宿ディレクトリ一覧 */}
             <div className="space-y-4 pt-2">
               <div className="flex items-center justify-between border-b border-stone-200 pb-2">
-                <h4 className="text-sm md:text-base font-bold text-stone-900">
-                  🏨 【{prefInfo.name}】厳選ホテル・旅館宿泊ルポ＆エリア別記事一覧
-                </h4>
+                <h4 className="text-sm md:text-base font-bold text-stone-900">【{prefInfo.name}】厳選ホテル・旅館宿泊ルポ＆エリア別記事一覧</h4>
                 <span className="text-xs text-stone-500 font-medium">
                   {hotelReportPosts.length > 0 ? `${hotelReportPosts.length}件の宿ルポ` : '全記事一覧'}
                 </span>
@@ -1319,9 +1263,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                       )}
                     </div>
                     <div className="flex-grow min-w-0 space-y-0.5">
-                      <h5 className="text-[11px] font-bold text-stone-900 line-clamp-2 group-hover:text-teal-800 transition leading-snug">
-                        {post.title}
-                      </h5>
+                      <h5 className="text-[11px] font-bold text-stone-900 line-clamp-2 group-hover:text-teal-800 transition leading-snug">{post.title}</h5>
                       <div className="flex items-center justify-between text-[10px] text-stone-500 font-medium">
                         <span className="truncate max-w-[110px]">{post.area || post.prefecture}</span>
                         {post.price && (
@@ -1341,9 +1283,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
 
       {/* 他都道府県への簡単アクセス */}
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
-        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">
-          全国他の都道府県の見所・絶景カフェ・地酒・近隣宿を探す
-        </h3>
+        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">全国他の都道府県の見所・絶景カフェ・地酒・近隣宿を探す</h3>
         <p className="text-xs text-emerald-950/70 max-w-xl mx-auto leading-relaxed">
           日本全国47都道府県の網羅的観光ガイドを展開中。次に出かけたい憧れの旅行先を簡単検索。
         </p>

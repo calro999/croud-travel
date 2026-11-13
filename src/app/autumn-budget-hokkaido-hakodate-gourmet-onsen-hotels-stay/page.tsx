@@ -55,9 +55,7 @@ export default function HakodateBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋の函館は日本屈指の「ホテルコスパ天国」
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋の函館は日本屈指の「ホテルコスパ天国」</h2>
           <p className="mb-4 text-stone-700">
             函館は全国でも有数のホテル朝食激戦区として知られ、ハイレベルな設備と温泉大浴場を備えたホテルが信じられないほどのリーズナブルな価格で宿泊できます。秋は秋鮭やイクラの醤油漬け、真イカ、ホタテなど海の幸が最も美味しい旬の季節。
           </p>
@@ -69,10 +67,8 @@ export default function HakodateBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！函館の格安・高コスパホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！函館の格安・高コスパホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function HakodateBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.41</span>
                     <span className="text-stone-400 text-xs">(218件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルオールインステイ函館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルオールインステイ函館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館 / ＪＲ　函館駅から0.7K徒歩にて約７分。函館空港より車15分、空港より函館駅までシャトルバス有り
                   </p>
@@ -142,9 +136,7 @@ export default function HakodateBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.38</span>
                     <span className="text-stone-400 text-xs">(839件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    スマイルホテルプレミアム函館五稜郭
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">スマイルホテルプレミアム函館五稜郭</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館駅・市電電停 / 市電「五稜郭公園前」より徒歩約3分
                   </p>
@@ -189,9 +181,7 @@ export default function HakodateBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.15</span>
                     <span className="text-stone-400 text-xs">(1142件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    函館大沼プリンスホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">函館大沼プリンスホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館空港 / 函館空港から車で約31分／新函館北斗駅から車で約17分／大沼公園駅から定期無料送迎バス運行/屋外無料駐車場完備
                   </p>
@@ -236,9 +226,7 @@ export default function HakodateBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.45</span>
                     <span className="text-stone-400 text-xs">(648件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルエノエ函館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルエノエ函館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 宝来町 / 函館市電『宝来町』徒歩約3分・『十字街』徒歩約5分、JR函館駅より車で約5分、函館空港よりバスにて約40分
                   </p>
@@ -283,9 +271,7 @@ export default function HakodateBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.42</span>
                     <span className="text-stone-400 text-xs">(2454件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    イマジンホテル＆リゾート函館
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">イマジンホテル＆リゾート函館</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 函館 / 『函館空港』からお車にて約6分/『函館駅』よりお車にて約12分/バス停『熱帯植物園前』から徒歩約3分
                   </p>
@@ -330,9 +316,7 @@ export default function HakodateBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の函館×格安：五稜郭の紅葉と海鮮グルメ！1泊2,000円〜5,000円台の高コスパおすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function HakodateBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の函館×格安エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の函館×格安エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

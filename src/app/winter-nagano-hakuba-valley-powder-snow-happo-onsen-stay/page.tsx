@@ -122,10 +122,8 @@ export default function WinterFeaturePage() {
         {/* 導入セクション */}
         <section className="max-w-4xl mx-auto px-4 py-8">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <Sparkles className="w-5 h-5 text-cyan-600" />
-              冬の長野県・白馬・八方尾根・栂池高原が特別な理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><Sparkles className="w-5 h-5 text-cyan-600" />
+              冬の長野県・白馬・八方尾根・栂池高原が特別な理由</h2>
             <div className="grid md:grid-cols-3 gap-4 pt-2">
               <div className="bg-cyan-50/50 p-4 rounded-xl border border-cyan-100">
                 <span className="text-xs font-bold text-cyan-800 block mb-1">01. 特徴</span>
@@ -150,9 +148,7 @@ export default function WinterFeaturePage() {
         {/* 宿一覧セクション */}
         <section className="max-w-4xl mx-auto px-4 space-y-8 mb-12">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">
-              白馬・八方尾根・栂池高原 厳選の温泉＆リゾート宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900">白馬・八方尾根・栂池高原 厳選の温泉＆リゾート宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500">楽天トラベルの最新空室・クチコミ・宿泊料金データをリアルタイム連携しています
             </p>
           </div>
@@ -174,16 +170,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1173%2F1173.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     1. 白馬東急ホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -228,10 +222,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「落ち着いた心地よい空間の中、温かい温泉とおいしいお料理で日頃の疲れを癒やすことができました」
                     </p>
@@ -268,16 +260,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F16773%2F16773.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     2. 白馬みずばしょう温泉　ホテル　シェラリゾート白馬
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -322,10 +312,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「雰囲気と食事は良いホテル全体の雰囲気がとても素敵で、自然も豊かで、気持ちよく過ごすことができました。ただ、湿気がかなり多いせいか、部屋のカビ臭さがとても気になりました。また、貸切風呂を利用」
                     </p>
@@ -362,16 +350,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F30808%2F30808.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     3. 白馬八方温泉　まるいし
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -416,10 +402,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「食事は絶品、温泉も最高のお宿本当に食事が素晴らしく美味しかった。ひとつひとつ丁寧に作られたものばかり。センスも良い。こだわりの食材を多く使い、最高に美味しい信濃ユキマスのお刺身、ホックホクの焼きた」
                     </p>
@@ -456,16 +440,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68530%2F68530.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     4. コートヤード・バイ・マリオット　白馬
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -541,16 +523,14 @@ export default function WinterFeaturePage() {
                   </div>
                 </div>
 
-                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug">
-                  <a 
+                <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3 leading-snug"><a 
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68532%2F68532.html" 
                     target="_blank" 
                     rel="sponsored noopener noreferrer"
                     className="hover:text-cyan-700 transition-colors"
                   >
                     5. 白馬姫川温泉　白馬ハイランドホテル
-                  </a>
-                </h3>
+                  </a></h3>
 
                 <p className="text-xs sm:text-sm text-stone-600 mb-6 flex items-start gap-1.5">
                   <MapPin className="w-4 h-4 text-rose-500 shrink-0 mt-0.5" />
@@ -595,10 +575,8 @@ export default function WinterFeaturePage() {
                   </p>
 
                   <div className="bg-cyan-50/40 p-4 rounded-xl border border-cyan-100/60">
-                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5">
-                      <Award className="w-3.5 h-3.5 text-cyan-700" />
-                      宿泊者の生の声・クチコミ抜粋
-                    </h5>
+                    <h5 className="text-xs font-bold text-cyan-950 mb-1 flex items-center gap-1.5"><Award className="w-3.5 h-3.5 text-cyan-700" />
+                      宿泊者の生の声・クチコミ抜粋</h5>
                     <p className="text-xs text-stone-600 italic leading-relaxed">
                       「観光地への好アクセスと海の幸を堪能色々な観光地へのアクセスが最高でした。朝夕のバイキングでは海のものが美味しい。他にも地のものを沢山頂きました。バイキング会場から見える景色も良かっ」
                     </p>
@@ -627,9 +605,7 @@ export default function WinterFeaturePage() {
                 <span className="inline-block px-3 py-1 rounded-full text-xs font-bold bg-white/20 border border-white/30">
                   楽天トラベル×ふるさと納税
                 </span>
-                <h3 className="text-xl sm:text-2xl font-bold">
-                  長野県の宿に実質2,000円で泊まる賢い方法
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold">長野県の宿に実質2,000円で泊まる賢い方法</h3>
                 <p className="text-xs sm:text-sm text-white/90 max-w-xl leading-relaxed">楽天ふるさと納税の宿泊クーポンを活用すれば、寄付額に応じて宿泊代金が大幅割引。予約済みの宿泊にも「あとから割引」が適用可能です。憧れの露天風呂付き客室や旬の特別会席プランもお手軽に予約できます。
                 </p>
               </div>
@@ -648,10 +624,8 @@ export default function WinterFeaturePage() {
         {/* よくある質問 (FAQ) */}
         <section className="max-w-4xl mx-auto px-4 mb-12">
           <div className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200 shadow-sm space-y-6">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2">
-              <HelpCircle className="w-5 h-5 text-cyan-600" />
-              冬の白馬・八方尾根・栂池高原旅行でよくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 flex items-center gap-2"><HelpCircle className="w-5 h-5 text-cyan-600" />
+              冬の白馬・八方尾根・栂池高原旅行でよくある質問（FAQ）</h2>
 
             <div className="space-y-4">
               <div className="p-4 rounded-xl bg-stone-50 border border-stone-200/70">

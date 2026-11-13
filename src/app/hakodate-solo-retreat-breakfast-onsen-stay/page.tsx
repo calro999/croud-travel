@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            夜霧に浮かぶ函館山のシルエットと、レンガ造りの波止場に灯るガス灯——いくら・ウニ・活イカの美食と天空温泉に抱かれる「函館おひとりさま極上リトリート」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">夜霧に浮かぶ函館山のシルエットと、レンガ造りの波止場に灯るガス灯——いくら・ウニ・活イカの美食と天空温泉に抱かれる「函館おひとりさま極上リトリート」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             異国情緒漂う元町の洋館群や八幡坂、津軽海峡に抱かれた美しい扇状の地形、そして「世界三大夜景」と称される函館山からの大パノラマ。函館は、大人がひとりで歩くのにこれ以上なく情緒あふれる港町です。そして全国の旅人が熱い視線を注ぐのが、全国屈指の超激戦区として名高い「函館のホテル朝食バイキング」。新鮮ないくらを好きなだけご飯に乗せ、甘エビやホタテ、サーモンを山盛りにする贅沢な朝の食体験は、函館滞在の最高のハイライトです。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   朝食バイキングの頂点を極める！150種超の豪華メニューと最上階15階インフィニティ天空露天風呂「スパ・マリーナ」
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  センチュリーマリーナ函館 —— 港町にそびえるモダンリゾート。いくら・海鮮・焼き立てパンとアロマバー完備の至高ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">センチュリーマリーナ函館 —— 港町にそびえるモダンリゾート。いくら・海鮮・焼き立てパンとアロマバー完備の至高ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   金森赤レンガ倉庫すぐ！ラビスタ函館ベイのプレミアム別館・全室天然温泉付き客室＆3つの無料貸切風呂
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ラビスタ函館ベイANNEX —— 贅を尽くした大人の隠れ家。世界遺産級の夜景とプライベートに楽しむ天然温泉
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ラビスタ函館ベイANNEX —— 贅を尽くした大人の隠れ家。世界遺産級の夜景とプライベートに楽しむ天然温泉</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   名湯・湯の川温泉の海辺に佇む大正ロマンの館！全室63㎡以上の広大な客室と歴史薫るバイキング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  HAKODATE 海峡の風 —— 津軽海峡の風を感じるモダン温泉宿。大正・昭和のレトロ美と厳選された海の幸
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">HAKODATE 海峡の風 —— 津軽海峡の風を感じるモダン温泉宿。大正・昭和のレトロ美と厳選された海の幸</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              函館の朝市と夜景を一人旅で最高に楽しむモデルプラン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">函館の朝市と夜景を一人旅で最高に楽しむモデルプラン</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 早朝の「函館朝市」で活イカ釣りとイカソーメン体験
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 早朝の「函館朝市」で活イカ釣りとイカソーメン体験</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 水槽で泳ぐイカを自分で釣り上げ、その場で捌いてもらう名物体験。透明でコリコリとした歯ごたえと肝醤油の旨さは函館ならでは。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 夕暮れ時の「八幡坂」から港を見下ろし、函館山ロープウェイへ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 夕暮れ時の「八幡坂」から港を見下ろし、函館山ロープウェイへ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 海へとまっすぐ伸びる石畳の坂道。山頂からのトワイライト夜景（日没後30分が一番綺麗）を目に焼き付ける黄金ルート。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜はベイエリアのバーで函館ワインとチーズを傾ける
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜はベイエリアのバーで函館ワインとチーズを傾ける</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 赤レンガ倉庫のライトアップを眺めながら静かにグラスを傾ける時間。港町のロマンに浸る大人の夜。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>函館空港から市内ホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>函館空港から市内ホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 函館空港から函館駅・ベイエリア行きシャトルバスが運行しており約20〜25分で直結。湯の川温泉エリアへはタクシーで約8分と全国屈指の近さです。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で函館山夜景を見に行くのは混雑しますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で函館山夜景を見に行くのは混雑しますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 ロープウェイは夕暮れ時混み合いますが、山頂展望台は広く一人旅の旅行者も多いため、気兼ねなく世界最高峰の夜景を鑑賞できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ラビスタ函館ベイＡＮＮＥＸを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ラビスタ函館ベイＡＮＮＥＸを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

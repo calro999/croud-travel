@@ -109,9 +109,7 @@ export default function UltraLuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【支笏湖ブルーの初冬静寂と全室温泉露天付きラグジュアリースイート】2026-2027年11-12月の北海道・支笏湖！最高峰「碧の座」＆レイクサイド名宿・北海道産白老牛と冬の極上毛ガニ名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             日本屈指の透明度を誇るカルデラ湖・支笏湖。11月〜12月の初冬は観光の混雑が去り、澄み渡る「支笏湖ブルー」の静寂と冠雪した恵庭岳の雄姿が湖面に映る最も美しい季節。鶴雅グループの最高峰ブランド「しこつ湖 鶴雅別荘 碧の座」をはじめ、全室に温泉露天風呂を備えた大人のプレミアムリゾート。とろける極上白老牛や噴火湾・オホーツクの冬の味覚を堪能する大人の記念日ステイ厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>日本屈指の透明度「支笏湖ブルー」と全室温泉露天付きラグジュアリースイート</span>
-            </h3>
+              <span>日本屈指の透明度「支笏湖ブルー」と全室温泉露天付きラグジュアリースイート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               環境省調査で水質日本一に幾度も輝く奇跡のカルデラ湖。鶴雅最高峰『碧の座』をはじめ全室に専用温泉露天風呂を備えた極上の空間で、静まり返る湖面を眺める至福の湯浴みが叶います。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>極上ブランド「白老牛」ステーキと冬の北海道が誇る活毛ガニ・海鮮の饗宴</span>
-            </h3>
+              <span>極上ブランド「白老牛」ステーキと冬の北海道が誇る活毛ガニ・海鮮の饗宴</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               近隣の白老町で育つ最高峰黒毛和牛・白老牛の上質な肉の旨味と、身がぎっしり詰まった初冬の毛ガニ。北海道の豊かな海山の恵みを贅を尽くした懐石や創作コースで堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>新千歳空港からわずか40分！都会の喧騒から隔絶された大人の極上リトリート</span>
-            </h3>
+              <span>新千歳空港からわずか40分！都会の喧騒から隔絶された大人の極上リトリート</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               飛行機を降りてわずか40分のドライブで辿り着ける圧倒的な非日常。恵庭岳の初雪景色と手つかずの原生林に抱かれ、オールインクルーシブの贅沢な滞在を満喫できます。
             </p>
@@ -177,9 +167,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  しこつ湖　鶴雅別荘　碧の座
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">しこつ湖　鶴雅別荘　碧の座</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  しこつ湖　鶴雅別荘　湖白の抄
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">しこつ湖　鶴雅別荘　湖白の抄</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  支笏湖第一寶亭留　翠山亭
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">支笏湖第一寶亭留　翠山亭</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  雨ノ日と夕やけ
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">雨ノ日と夕やけ</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  北海道の全室温泉付きホテル　レイクサイドヴィラ翠明閣
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">北海道の全室温泉付きホテル　レイクサイドヴィラ翠明閣</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -545,28 +523,22 @@ export default function UltraLuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>支笏湖の「碧の座」はオールインクルーシブですか？何が含まれますか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>支笏湖の「碧の座」はオールインクルーシブですか？何が含まれますか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               『しこつ湖 鶴雅別荘 碧の座』はオールインクルーシブスタイルを採用しており、ご夕食時やバーラウンジでの厳選された銘酒（シャンパン、ワイン、北海道の地酒、ウイスキー等）、客室内の冷蔵庫のドリンク、スイーツ、ラウンジでの軽食サービスがすべて宿泊代金に含まれています（一部の特別ヴィンテージボトルを除く）。チェックインからアウトまで追加料金を気にせず贅沢に寛げます。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>真冬でも支笏湖が凍らないのはなぜですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>真冬でも支笏湖が凍らないのはなぜですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               支笏湖は最大水深が363mと非常に深く、膨大な水量を蓄えています。秋から冬にかけて冷却された表面の水が沈み、温かい深層水と循環し続けるため、水温が湖全体で下がりにくく、極寒の北海道にあっても湖面全体が凍結しない「日本最北の不凍湖」となっています。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>11月・12月に新千歳空港から車で向かう場合の道路状況は？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>11月・12月に新千歳空港から車で向かう場合の道路状況は？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               道道16号線（支笏湖公園線）は整備された幹線道路ですが、11月中旬以降は峠付近や日陰で路面凍結や積雪が発生します。レンタカーを利用する場合は必ず4WD・スタッドレスタイヤ装着車を指定し、急ブレーキや急ハンドルを避けた安全運転を心掛けてください。
             </p>

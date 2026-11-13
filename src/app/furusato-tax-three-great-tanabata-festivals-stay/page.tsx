@@ -82,9 +82,7 @@ export default function Page() {
       />
         {/* Intro Lead */}
         <section className="bg-slate-900/90 border border-slate-800 rounded-3xl p-6 sm:p-8 backdrop-blur shadow-2xl">
-          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">
-            風にそよぐ千羽鶴と巨大な和紙の吹き流し。短冊に願いを込めて歩く夏のアーケードステイ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white mb-4 border-l-4 border-rose-500 pl-4">風にそよぐ千羽鶴と巨大な和紙の吹き流し。短冊に願いを込めて歩く夏のアーケードステイ</h2>
           <p className="text-slate-300 leading-relaxed text-sm sm:text-base">
             日本古来の星祭り信仰と職人たちの伝統工芸技術が融合し、夏の風物詩として全国から数百万人を魅了する「日本三大七夕まつり」――伊達政宗公の時代から受け継がれ、豪華絢爛な手作りの和紙くす玉や吹き流しが商店街を覆い尽くす宮城の「仙台七夕まつり」、巨大な電飾仕掛けの竹飾りが昼夜を問わず華やかにきらめく神奈川湘南の「湘南ひらつか七夕まつり」、そして日本有数の繊維の街として織物の神・萬幡豊秋津師比売命に感謝を捧げる愛知の「一宮七夕まつり」。色彩豊かな笹飾りのトンネルをくぐり抜け、ご当地屋台グルメや銘菓を買い食いする時間は、まさに日本の夏の原風景。駅前ホテルや温泉宿を拠点に、夜桜ならぬ「夜七夕」のライトアップを満喫する特別な休日を楽天ふるさと納税でお楽しみください。
           </p>
@@ -137,9 +135,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 01
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  宮城県仙台市青葉区ふるさと納税：豪華絢爛な和紙の笹飾り「仙台七夕まつり」と天然温泉スーパーホテル仙台駅東口
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">宮城県仙台市青葉区ふるさと納税：豪華絢爛な和紙の笹飾り「仙台七夕まつり」と天然温泉スーパーホテル仙台駅東口</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   200万人以上が訪れる東北の夏の風物詩。五色短冊や紙衣が揺れるアーケードを散策した後は、仙台駅徒歩圏の「スーパーホテル仙台駅東口」で、美肌の天然温泉大浴場と名物牛たん・地酒を味わい旅の疲れを癒やします。
                 </p>
@@ -161,9 +157,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      スーパーホテル仙台駅東口天然温泉
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">スーパーホテル仙台駅東口天然温泉</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>宮城県仙台市宮城野区名掛丁203-12</span>
@@ -208,9 +202,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 02
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  神奈川県平塚市ふるさと納税：躍動感あふれる光と大型竹飾り「湘南ひらつか七夕まつり」とホテルリブマックス平塚駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">神奈川県平塚市ふるさと納税：躍動感あふれる光と大型竹飾り「湘南ひらつか七夕まつり」とホテルリブマックス平塚駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   中心街に約500本の大型飾りが連なる湘南の夏祭り。夜の電飾ライトアップを楽しんだ後は、平塚駅北口至近の快適ホテルを拠点に、相模湾の獲れたて生しらす丼や湘南地ビールを心ゆくまで満喫します。
                 </p>
@@ -232,9 +224,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      ホテルリブマックスＢＵＤＧＥＴ平塚駅前
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">ホテルリブマックスＢＵＤＧＥＴ平塚駅前</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>神奈川県平塚市明石町1-26</span>
@@ -279,9 +269,7 @@ export default function Page() {
                 <div className="inline-block px-3 py-1 bg-amber-500/10 text-amber-300 border border-amber-500/20 text-xs font-semibold rounded-full mb-3">
                   厳選スポット 03
                 </div>
-                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">
-                  愛知県一宮市ふるさと納税：織物の神に捧げる色鮮やかな吹き流し「一宮七夕まつり」とアパホテル尾張一宮駅前
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold text-white mb-3">愛知県一宮市ふるさと納税：織物の神に捧げる色鮮やかな吹き流し「一宮七夕まつり」とアパホテル尾張一宮駅前</h3>
                 <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
                   真清田神社の門前町を華やかに彩る一宮七夕。パレードや盆踊りの熱気に触れた後は、一宮駅直結至近の「アパホテル尾張一宮駅前」で、名物ひつまぶしや手羽先、愛知の郷土料理と地酒に舌鼓を打ちます。
                 </p>
@@ -303,9 +291,7 @@ export default function Page() {
 
                 <div className="w-full flex flex-col justify-between space-y-4">
                   <div>
-                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">
-                      アパホテル〈尾張一宮駅前〉
-                    </h4>
+                    <h4 className="text-lg sm:text-xl font-bold text-white mb-2">アパホテル〈尾張一宮駅前〉</h4>
                     <p className="text-xs sm:text-sm text-slate-400 mb-3 flex items-center gap-1">
                       <span>📍</span>
                       <span>愛知県一宮市栄3-3-10</span>
@@ -373,9 +359,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大盆踊り＆伝統文化・城下町宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   西馬音内・郡上おどり・阿波おどり。
                 </p>
@@ -391,9 +375,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大花火大会＆リバーサイド展望宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大花火大会＆リバーサイド展望宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   長岡・大曲・土浦。
                 </p>
@@ -409,9 +391,7 @@ export default function Page() {
               className="bg-slate-900/60 border border-slate-800 rounded-2xl p-5 hover:border-slate-700 transition flex flex-col justify-between group"
             >
               <div>
-                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">
-                  日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド
-                </h3>
+                <h3 className="font-bold text-white text-base group-hover:text-rose-400 transition mb-2">日本三大火祭り＆燃え盛る情熱伝統宿×ふるさと納税完全ガイド</h3>
                 <p className="text-slate-400 text-xs sm:text-sm leading-relaxed">
                   那智・野沢温泉・鞍馬。
                 </p>
@@ -426,9 +406,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】スーパーホテル仙台駅東口天然温泉を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】スーパーホテル仙台駅東口天然温泉を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -461,9 +439,7 @@ export default function Page() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とスーパーホテル仙台駅東口天然温泉の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とスーパーホテル仙台駅東口天然温泉の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">
@@ -558,9 +534,7 @@ export default function Page() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウド」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -612,9 +586,7 @@ export default function Page() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">日本三大七夕まつり＆星空短冊散策宿×ふるさと納税ガイド ｜ 日本全国・旅宿クラウドエリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

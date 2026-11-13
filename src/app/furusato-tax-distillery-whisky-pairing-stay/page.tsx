@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          ピート香る琥珀色の雫と樽の記憶。世界最高峰ジャパニーズ・ウイスキーの聖地を巡る大人の旅
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">ピート香る琥珀色の雫と樽の記憶。世界最高峰ジャパニーズ・ウイスキーの聖地を巡る大人の旅</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              蒸溜所直営バーや宿のメインバーで希少な限定モルトを味わう
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">蒸溜所直営バーや宿のメインバーで希少な限定モルトを味わう</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               一般の酒販店では入手困難な原酒や限定ボトル、蒸溜所限定シングルカスクなどを、専属バーテンダーの解説とともに堪能できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ウイスキーの仕込み水と同じ清冽な名水を使った料理と温泉
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ウイスキーの仕込み水と同じ清冽な名水を使った料理と温泉</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               南アルプスや秩父、余市の名水で育った地元野菜や和牛、海の幸との至高のマリアージュ。天然温泉でゆったりとくつろげます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              ふるさと納税クーポンで宿泊とプレミアムバータイムを優雅に両立
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">ふるさと納税クーポンで宿泊とプレミアムバータイムを優雅に両立</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               宿泊代を賢くセーブし、浮いた予算でプレミアムウイスキーの有料試飲やボトル購入を贅沢に楽しめます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="yoichi_whisky" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                北海道余市町・小樽ふるさと納税：日本のウイスキーの父・竹鶴政孝が拓いたニッカ余市蒸溜所と小樽レトロホテル
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">北海道余市町・小樽ふるさと納税：日本のウイスキーの父・竹鶴政孝が拓いたニッカ余市蒸溜所と小樽レトロホテル</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 石炭直火蒸溜を今も守り続けるニッカウヰスキー余市蒸溜所。重厚で力強いピート香の余市シングルモルトを味わい、小樽運河沿いの歴史的建造物ホテルで日本海の海の幸ディナーを堪能できます。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市色内1-8-25
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">アンワインドホテルアンドバー小樽（ＵＮＷＩＮＤ　ＨＯＴＥＬ　＆　ＢＡＲ　小樽）</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     北海道随一のクラシックホテルを現代的感性で再生
                   </p>
@@ -205,9 +193,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市稲穂2-15-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    オーセントホテル小樽
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">オーセントホテル小樽</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     小樽駅より徒歩5分で観光便利♪海と街を望むノスタルジックなホテル。地産地消の美食も口コミ高評価！
                   </p>
@@ -251,9 +237,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     北海道小樽市稲穂1丁目3-13
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    グリッズプレミアムホテル小樽
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">グリッズプレミアムホテル小樽</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     小樽運河まで徒歩4分！露天風呂付き展望大浴場や3～4名様まで泊まれるバラエティ豊富な客室をご用意♪
                   </p>
@@ -282,9 +266,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="hakushu_whisky" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                山梨県北杜市ふるさと納税：南アルプス甲斐駒ヶ岳の森に佇むサントリー白州蒸溜所と八ヶ岳高原オーベルジュ
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">山梨県北杜市ふるさと納税：南アルプス甲斐駒ヶ岳の森に佇むサントリー白州蒸溜所と八ヶ岳高原オーベルジュ</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 広大な森に包まれた「森の蒸溜所」白州。すっきりと爽やかなスモーキーフレーバーを誇る白州をハイボールで愉しみ、八ヶ岳の新鮮な高原野菜や甲州牛のフレンチに舌鼓を打つ極上の滞在です。
               </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     山梨県北杜市高根町清里３５４５－９４３　コートドゥヴェール内
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">八ヶ岳の恵みを味わうレストラン＆ホテル　オーベルジュ清里</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     自家農園野菜を使ったレストランが人気！牧場、工房、農園など体験も充実のホテル
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="chichibu_whisky" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                埼玉県秩父市ふるさと納税：世界が熱狂する「イチローズモルト」のベンチャーウイスキー秩父蒸溜所と奥秩父温泉
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">埼玉県秩父市ふるさと納税：世界が熱狂する「イチローズモルト」のベンチャーウイスキー秩父蒸溜所と奥秩父温泉</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 ウイスキー界の世界的レジェンド、肥土伊知郎氏が創業した秩父蒸溜所。寒暖差のある秩父盆地で熟成された極上のモルトを味わい、秩父の山並みを望む展望露天風呂で温まる大人の休日です。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父市大宮5911-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ナチュラルファームシティ農園ホテル　＜秩父の街並みを眼下に望むロケーション＞</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     高台に位置する当ホテルは運が良ければ雲海に出会えるかも　～「雲海に 出会えたあなたは 運がいい」～
                   </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父市宮側町17-5（MARUJU棟）
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    ＮＩＰＰＯＮＩＡ　秩父　門前町
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">ＮＩＰＰＯＮＩＡ　秩父　門前町</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【池袋から約70分】歴史建築に泊まり、レトロなまちなみに溶け込む非日常体験
                   </p>
@@ -465,9 +439,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     埼玉県秩父郡長瀞町井戸419-1
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    小さなホテル　セラヴィ
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">小さなホテル　セラヴィ</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     アンティークな空間と65種の旬野菜を使った料理と客室露天風呂でもてなす、5組限定の小さなオーベルジュ
                   </p>
@@ -528,9 +500,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">銘酒ワイナリー＆葡萄畑オーベルジュ×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 勝沼・余市・十勝のワインペアリング旅。
               </p>
@@ -544,9 +514,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">クラフトビール＆ご当地ブルワリーホテル×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 軽井沢・修善寺・小樽の出来立て生ビールと美食ステイ。
               </p>
@@ -560,9 +528,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">日本酒ペアリング＆酒蔵直結名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 越後湯沢・諏訪・会津の名酒と温泉旅。
               </p>
@@ -580,9 +546,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -661,9 +625,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税厳選ガイド余市・白州・秩父のモルト旅で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -314,9 +314,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Heritage Canal & Night Illumination</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                白壁となまこ壁が織りなす静謐の美「倉敷美観地区」冬の柳並木と町家ライトアップ
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">白壁となまこ壁が織りなす静謐の美「倉敷美観地区」冬の柳並木と町家ライトアップ</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -335,9 +333,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Sacred Mount & Historic Shrine</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                倉敷の総鎮守「阿智神社」鶴形山山頂の新春初詣と宗像三女神の美と健康祈願
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">倉敷の総鎮守「阿智神社」鶴形山山頂の新春初詣と宗像三女神の美と健康祈願</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -356,9 +352,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Gourmet Marvels of Okayama</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                激流で鍛え抜かれた「下津井タコしゃぶ」と、幻の日本最古黒毛和牛「千屋牛」の極上肉質
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">激流で鍛え抜かれた「下津井タコしゃぶ」と、幻の日本最古黒毛和牛「千屋牛」の極上肉質</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -377,9 +371,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-8">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】倉敷美観地区・駅周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】倉敷美観地区・駅周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※リアルタイムAPIから取得した宿泊料金目安・レビュー評価・立地条件を掲載しています。
               </p>
@@ -405,9 +397,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-indigo-500 shrink-0" />
@@ -430,9 +420,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -467,17 +455,13 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-stone-700 pl-4 mb-6">
               <span className="text-xs font-bold text-stone-600 tracking-wider uppercase">Model Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日】白壁町並みライトアップと阿智神社初詣・千屋牛満喫モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日】白壁町並みライトアップと阿智神社初詣・千屋牛満喫モデルコース</h2>
             </div>
             <div className="bg-white border border-stone-200 rounded-xl p-6 space-y-6">
               <div>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-stone-800 text-white text-xs font-bold rounded">DAY 1</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    倉敷到着！大原美術館鑑賞と倉敷川冬散策・幻想の夜間ライトアップと千屋牛ディナー
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">倉敷到着！大原美術館鑑賞と倉敷川冬散策・幻想の夜間ライトアップと千屋牛ディナー</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -504,9 +488,7 @@ export default function OkayamaKurashikiWinterFeaturePage() {
               <div className="pt-4 border-t border-stone-100">
                 <div className="flex items-center gap-2 mb-3">
                   <span className="px-2.5 py-1 bg-indigo-600 text-white text-xs font-bold rounded">DAY 2</span>
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                    鶴形山・阿智神社で新春初詣と倉敷民芸館・倉敷帆布ショッピング
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base">鶴形山・阿智神社で新春初詣と倉敷民芸館・倉敷帆布ショッピング</h3>
                 </div>
                 <ul className="border-l-2 border-stone-200 ml-3 pl-4 space-y-3 text-xs sm:text-sm text-stone-600">
                   <li>
@@ -533,17 +515,13 @@ export default function OkayamaKurashikiWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-indigo-600 pl-4 mb-6">
               <span className="text-xs font-bold text-indigo-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                冬の倉敷美観地区旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">冬の倉敷美観地区旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
               {faqList.map((f, i) => (
                 <div key={i} className="bg-white border border-stone-200 rounded-xl p-5">
-                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2">
-                    <span className="text-indigo-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm sm:text-base mb-2 flex items-start gap-2"><span className="text-indigo-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-indigo-100">
                     {f.a}
                   </p>
@@ -554,10 +532,8 @@ export default function OkayamaKurashikiWinterFeaturePage() {
 
           {/* Section 7: 内部リンク & 関連記事クロスナビゲーション */}
           <section className="border-t border-stone-200 pt-10">
-            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2">
-              <Compass className="w-4 h-4 text-indigo-600" />
-              RELATED WINTER FEATURES（冬の注目特集一覧）
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 uppercase tracking-wider mb-4 flex items-center gap-2"><Compass className="w-4 h-4 text-indigo-600" />
+              RELATED WINTER FEATURES（冬の注目特集一覧）</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link 
                 href="/winter-okayama-kibiji-soja-saijo-inari-hatsumode-chiyagyu-stay/"

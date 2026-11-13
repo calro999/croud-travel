@@ -262,10 +262,8 @@ export default function IwateHachimantaiPage() {
             八幡平・松川温泉の初冬の魅力
           </div>
           
-          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">
-            日本屈指の白濁自噴泉と南部鉄器が育む美食文化。<br />
-            静寂に包まれた雪深い原生林で過ごす本物の温泉時間
-          </h2>
+          <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 leading-snug">日本屈指の白濁自噴泉と南部鉄器が育む美食文化。<br />
+            静寂に包まれた雪深い原生林で過ごす本物の温泉時間</h2>
 
           <div className="text-stone-600 text-sm sm:text-base leading-relaxed space-y-4">
             <p>
@@ -314,9 +312,7 @@ export default function IwateHachimantaiPage() {
               <Landmark className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              初冬の八幡平・松川温泉で泊まるべき名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">初冬の八幡平・松川温泉で泊まるべき名宿5選</h2>
             <p className="text-stone-500 text-sm mt-1">
               楽天トラベルで高評価を獲得する、乳白色の秘湯露天と極上美食が自慢の宿
             </p>
@@ -357,9 +353,7 @@ export default function IwateHachimantaiPage() {
                         </span>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
                         {hotel.story}
@@ -430,35 +424,27 @@ export default function IwateHachimantaiPage() {
             <Utensils className="w-4 h-4 text-amber-300" />
             初冬の八幡平美食手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の岩手・八幡平で味わい尽くす極上グルメと冬の恵み
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の岩手・八幡平で味わい尽くす極上グルメと冬の恵み</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-400" />
-                最高峰銘柄「前沢牛＆雫石牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-400" />
+                最高峰銘柄「前沢牛＆雫石牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国の品評会で最高峰の評価を獲得し続ける岩手の黒毛和牛「前沢牛」や「雫石牛」。きめ細やかなサシと芳醇な赤身の香りが特徴で、重厚な南部鉄鍋を用いて甘辛い割り下で煮絡めるすき焼きは、口の中でとろけるような感動をもたらします。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-amber-400" />
-                八幡平ポーク＆杜仲茶ポーク鍋
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-amber-400" />
+                八幡平ポーク＆杜仲茶ポーク鍋</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 八幡平の清らかな伏流水と徹底した衛生管理のもとで育つ「八幡平ポーク」。脂身の融点が低く、しつこさのない爽やかな甘みが特徴です。冬野菜や地元産キノコとともにいただく豆乳鍋やしゃぶしゃぶは、冷えた身体を芯からポカポカに温めてくれます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-400" />
-                三陸の冬鮮魚と名酒「鷲の尾」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-400" />
+                三陸の冬鮮魚と名酒「鷲の尾」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 三陸海岸から毎日届けられる寒平目、真鱈、濃厚な真鱈の白子（キク）、大粒ホタテのお造り。さらに八幡平の老舗蔵元が醸す地酒「鷲の尾」の搾りたて新酒は、キレのある辛口と豊かな米の旨味が料理の味わいを一層引き立てます。
               </p>
@@ -472,17 +458,13 @@ export default function IwateHachimantaiPage() {
             <Footprints className="w-4 h-4" />
             おすすめ滞在プラン
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の八幡平温泉郷＆松川温泉 1泊2日満喫モデルコース
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の八幡平温泉郷＆松川温泉 1泊2日満喫モデルコース</h2>
           <div className="space-y-6 pt-2">
             <div className="border-l-2 border-amber-600 pl-4 sm:pl-6 space-y-2">
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 1日目：盛岡から白銀の秘湯へ・乳白色雪見露天と前沢牛の夜
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                盛岡名物麺の昼食から、原生林の秘湯チェックインと至極のすき焼き
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">盛岡名物麺の昼食から、原生林の秘湯チェックインと至極のすき焼き</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 東北新幹線でJR盛岡駅に到着後、まずは駅前で本場の盛岡冷麺またはわんこそばの昼食を堪能。盛岡駅前から路線バスまたは宿の送迎車に乗り、徐々に白銀へと移り変わる岩手山麓の景色を眺めながら八幡平温泉郷・松川温泉へ。チェックイン後は、粉雪が舞う渓流露天風呂で青みを帯びた乳白色の自噴泉に肩まで浸かり、身体の芯から温まります。夜は南部鉄鍋で香ばしく仕上げる極上前沢牛のすき焼きと八幡平ポークの鍋に舌鼓。
               </p>
@@ -492,9 +474,7 @@ export default function IwateHachimantaiPage() {
               <div className="inline-block bg-amber-100 text-amber-900 text-xs font-bold px-2.5 py-0.5 rounded-md">
                 2日目：小鳥のさえずりと朝靄の雪見風呂・お土産選びと冬絶景
               </div>
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base">
-                朝の清々しい湯浴みから、八幡平物産館の銘酒・小岩井イルミネーションへ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base">朝の清々しい湯浴みから、八幡平物産館の銘酒・小岩井イルミネーションへ</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed">
                 早朝、静まり返った原生林に差し込む朝光を浴びながらの雪見朝風呂で目覚めのひととき。朝食には炊き立ての岩手県産米と熱々の郷土ひっつみ汁を味わい、心身を整えてチェックアウト。「八幡平市物産館あすぴーて」で地酒「鷲の尾」や南部鉄器、特製燻製チーズなどの銘品を選んだ後は、雫石方面へ足を延ばして小岩井農場の初冬イルミネーション（12月開催）や盛岡城跡公園の冬散策を楽しむ充実の帰路へ。
               </p>
@@ -509,16 +489,12 @@ export default function IwateHachimantaiPage() {
             初冬の八幡平・松川温泉 旅の心得とアクセスガイド
           </div>
 
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            白銀の絶景と秘湯を満喫するための実践ノウハウ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">白銀の絶景と秘湯を満喫するための実践ノウハウ</h2>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-amber-700" />
-                新幹線盛岡駅からの路線バス活用法
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-amber-700" />
+                新幹線盛岡駅からの路線バス活用法</h3>
               <p>
                 東京駅から東北新幹線「はやぶさ」で盛岡駅まで最短2時間10分。盛岡駅東口または西口から岩手県交通の八幡平方面行き路線バスが運行されています。
               </p>
@@ -528,10 +504,8 @@ export default function IwateHachimantaiPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Mountain className="w-4 h-4 text-amber-700" />
-                マイカー・レンタカー利用時の雪道対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Mountain className="w-4 h-4 text-amber-700" />
+                マイカー・レンタカー利用時の雪道対策</h3>
               <p>
                 東北自動車道松尾八幡平ICより県道を経由して約25〜30分。11月中旬以降は完全な圧雪・凍結路面となるため、必ず4WD車に高性能スタッドレスタイヤを装着してください。
               </p>
@@ -542,10 +516,8 @@ export default function IwateHachimantaiPage() {
           </div>
 
           <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100 text-xs sm:text-sm text-stone-600 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-              <ThermometerSun className="w-4 h-4 text-amber-700" />
-              乳白色硫黄泉の雪見入浴マナーと湯あたり防止
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-700" />
+              乳白色硫黄泉の雪見入浴マナーと湯あたり防止</h3>
             <p>
               松川温泉の濃厚な単純硫黄泉は、成分が豊富で湯の花が沈殿しているため、入浴前にしっかりと足元からかけ湯を行って泉質と温度に身体を慣らすことが不可欠です。
             </p>
@@ -561,16 +533,12 @@ export default function IwateHachimantaiPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の八幡平温泉郷＆松川温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の八幡平温泉郷＆松川温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-amber-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -582,10 +550,8 @@ export default function IwateHachimantaiPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-amber-300" />
-              あわせて読みたい岩手・北東北の冬温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-amber-300" />
+              あわせて読みたい岩手・北東北の冬温泉特集</h3>
             <p className="text-xs sm:text-sm text-amber-200">
               白銀の絶景と名湯、極上の前沢牛・雫石牛会席を満喫する厳選旅ガイド
             </p>
@@ -597,9 +563,7 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                花巻温泉郷の雪見露天と前沢牛会席
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">花巻温泉郷の雪見露天と前沢牛会席</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 宮沢賢治ゆかりのイーハトーブの湯と台川渓谷の雪景色、極上前沢牛すき焼きを堪能する冬の休日。
               </p>
@@ -610,9 +574,7 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・鶯宿＆雫石温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                鶯宿温泉の開湯450年名湯と雫石牛
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">鶯宿温泉の開湯450年名湯と雫石牛</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 小岩井農場の雪景色と鶯川の湯けむり、濃厚な雫石牛陶板焼きを味わう冬旅。
               </p>
@@ -623,9 +585,7 @@ export default function IwateHachimantaiPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">岩手・繋温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                御所湖畔の繋温泉と小岩井イルミネーション
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">御所湖畔の繋温泉と小岩井イルミネーション</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 源義家ゆかりの古湯と銀河農場の幻想的な光の祭典、冬の盛岡グルメを巡る旅。
               </p>

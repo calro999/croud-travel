@@ -280,10 +280,8 @@ export default function ChibaMinamibosoWinterFeature() {
             <Anchor className="w-4 h-4" />
             11月・12月 冬の温暖避寒＆海鮮美食特集｜千葉・南房総温泉郷
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月千葉・南房総温泉郷】<br className="hidden sm:inline" />
-            温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月千葉・南房総温泉郷】<br className="hidden sm:inline" />
+            温暖避寒旅と旬の伊勢海老・房州地魚＆太平洋絶景露天の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             都心からアクアラインでわずか90分。黒潮がもたらす冬の暖かな海風と、11・12月に最も甘みを増す房州伊勢海老・金目鯛。太平洋の水平線から昇る朝日に包まれる極上リトリート。
           </p>
@@ -301,9 +299,7 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Boso Warm Winter & Ise Ebi Season</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                雪知らずの南国リゾート｜黒潮が包む冬の南房総と11月・12月が旬の房州伊勢海老
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">雪知らずの南国リゾート｜黒潮が包む冬の南房総と11月・12月が旬の房州伊勢海老</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Marine Minerals & Thermal Healing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                身体の芯まで温もりを封じ込める「南房総温泉郷の塩化物・硫黄美肌泉」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">身体の芯まで温もりを封じ込める「南房総温泉郷の塩化物・硫黄美肌泉」</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -370,9 +364,7 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Boso Seafood Gastronomy</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11・12月の冬美食｜房州伊勢海老の活造り・金目鯛姿煮・房州アワビの極上会席
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11・12月の冬美食｜房州伊勢海老の活造り・金目鯛姿煮・房州アワビの極上会席</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -393,9 +385,7 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Coastal Scenic Drive Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の南房総ドライブモデルコース｜アクアライン・海ほたるから最南端灯台へ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の南房総ドライブモデルコース｜アクアライン・海ほたるから最南端灯台へ</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -415,9 +405,7 @@ export default function ChibaMinamibosoWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Featured Oceanview Ryokan & Resorts</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              太平洋と朝日に癒やされる｜南房総温泉郷の厳選旅館・リゾート5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">太平洋と朝日に癒やされる｜南房総温泉郷の厳選旅館・リゾート5選</h2>
             <p className="text-xs sm:text-sm text-slate-600 max-w-2xl mx-auto">
               すべて楽天トラベルで高い支持を集め、房州伊勢海老や地魚料理、絶景パノラマ露天風呂に秀でた本物の宿を厳選。
             </p>
@@ -448,9 +436,7 @@ export default function ChibaMinamibosoWinterFeature() {
                 <div className="p-6 sm:p-8 flex-1 flex flex-col justify-between space-y-6">
                   <div className="space-y-4">
                     <div className="flex flex-wrap items-center justify-between gap-2">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                       <div className="flex items-center gap-1 bg-amber-50 text-amber-900 px-2.5 py-1 rounded-full text-xs font-semibold border border-amber-200/60">
                         <Star className="w-3.5 h-3.5 fill-amber-400 text-amber-400" />
                         <span>{h.rating}</span>
@@ -527,26 +513,20 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Planning & Climate</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の南房総旅｜温暖な気候と服装・アクアライン渋滞回避のコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の南房総旅｜温暖な気候と服装・アクアライン渋滞回避のコツ</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-800" />
-                快適な温暖気候と脱ぎ着しやすいレイヤード
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-800" />
+                快適な温暖気候と脱ぎ着しやすいレイヤード</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 南房総は冬でも日中は暖かく、ニットや軽めのジャケットで快適に散策できます。ただし、海岸沿いは夕方以降に海風が強まるため、夜の露天風呂や星空観賞、早朝の日の出を鑑賞する際には、風を防ぐウインドブレーカーやストールをご用意ください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-amber-800" />
-                アクアラインの賢い時間帯選びと高速バス
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-amber-800" />
+                アクアラインの賢い時間帯選びと高速バス</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 週末や休日のアクアライン上り線（木更津から川崎方面）は、夕方16時から19時頃にかけて混雑が発生しやすくなります。宿のチェックアウト後に早めに帰路につくか、夕食を南房総で済ませて20時以降に通過するとスムーズです。JR特急や高速バスなら運転疲れ知らずで快適です。
               </p>
@@ -562,18 +542,14 @@ export default function ChibaMinamibosoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                千葉・南房総温泉郷冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">千葉・南房総温泉郷冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function ChibaMinamibosoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Related Winter Features & Coastal Onsen</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東日本の冬名湯＆極上海鮮グルメ特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東日本の冬名湯＆極上海鮮グルメ特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の金目鯛、花火大会、オーシャンビュー露天風呂をめぐる人気の厳選特集もぜひご覧ください。
             </p>

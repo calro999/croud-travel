@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            青い海公園を吹き抜ける陸奥湾の潮風と、ねぶたの熱気を伝える街明かり——甘みたっぷりの肉厚ホタテと地酒に酔いしれる「青森プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">青い海公園を吹き抜ける陸奥湾の潮風と、ねぶたの熱気を伝える街明かり——甘みたっぷりの肉厚ホタテと地酒に酔いしれる「青森プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線の終着駅「新青森駅」からJRで1駅、青い森鉄道や津軽海峡フェリーが結節する本州最北の港町・青森。青森港に面したウォーターフロントには三角形のランドマーク「アスパム」や「ねぶたの家 ワ・ラッセ」が立ち並び、港町の情緒と北国の清々しい空気が広がります。出張の夜の最大の歓びは、八甲田山麓の伏流水で仕込まれる銘酒「田酒（でんしゅ）」「八仙」とともに味わう陸奥湾産の肉厚なホタテ刺し、十三湖産大和しじみ汁、そして倉石牛や十和田バラ焼きです。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR青森駅東口徒歩5分！新町通りの中心に位置し全室バス・トイレ別のセパレート設計＆シモンズベッド
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル青森 —— 駅前エリアのフラッグシップ。ワイドデスクと清潔なバスルームで出張を完全サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル青森 —— 駅前エリアのフラッグシップ。ワイドデスクと清潔なバスルームで出張を完全サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   アスパム通り沿い！シモンズ社製ベッド完備と楽天トラベル高評価の青森りんご＆郷土朝食バイキング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  リッチモンドホテル青森 —— 快適さを追求した上質シティホテル。親切な接客と充実したアメニティが嬉しい安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">リッチモンドホテル青森 —— 快適さを追求した上質シティホテル。親切な接客と充実したアメニティが嬉しい安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   青森港・アスパムすぐ！オークラニッコーホテルズの安心感と快適なシモンズベッド客室
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルＪＡＬシティ青森 —— ベイエリアのランドマーク。洗練されたおもてなしと青森の恵みを味わう朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルＪＡＬシティ青森 —— ベイエリアのランドマーク。洗練されたおもてなしと青森の恵みを味わう朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              青森「のっけ丼」とベイエリアを一人旅で満喫するモデルプラン
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">青森「のっけ丼」とベイエリアを一人旅で満喫するモデルプラン</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 青森魚菜センターで食券を買い、市場を巡って「のっけ丼」作り
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 青森魚菜センターで食券を買い、市場を巡って「のっけ丼」作り</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ご飯を入れた丼を持って市場内の各店舗へ。マグロ、ホタテ、ウニ、いくらなど好きな具材を1枚ずつ選んで乗せる夢のオリジナル海鮮丼。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. ねぶたの家「ワ・ラッセ」で本物の大型ねぶたの迫力に圧倒される
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. ねぶたの家「ワ・ラッセ」で本物の大型ねぶたの迫力に圧倒される</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 青森駅すぐ。祭りで実際に運行された巨大ねぶたが常設展示され、細部まで作り込まれた職人技を間近で鑑賞できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は本町（ほんちょう）の居酒屋で「田酒」と陸奥湾ホタテ貝焼き味噌
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は本町（ほんちょう）の居酒屋で「田酒」と陸奥湾ホタテ貝焼き味噌</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 ホタテの貝殻を鍋代わりにして、ホタテと出汁、味噌、卵を絡めて煮込む津軽のソウルフード。幻の地酒「田酒」が最高の相棒です。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>新幹線「新青森駅」から「青森駅」まではどう移動しますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>新幹線「新青森駅」から「青森駅」まではどう移動しますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 新青森駅からJR奥羽本線の普通・特急列車で約5〜6分（1駅）で青森駅へ直結しています。新幹線の乗車券に市内ゾーンが含まれていれば追加運賃なしで乗車できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>冬の青森市街の積雪時の歩行はどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>冬の青森市街の積雪時の歩行はどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 新町通りなどの主要歩道には消雪パイプやロードヒーティングが敷設されており、雪道でも歩きやすく整備されていますが、防水・防滑仕様の靴がおすすめです。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ダイワロイネットホテル青森を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ダイワロイネットホテル青森を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とダイワロイネットホテル青森の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とダイワロイネットホテル青森の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -243,9 +243,7 @@ export default function Page() {
         {/* なぜ冬に訪れるべきかの3ポイント */}
         <section className="max-w-4xl mx-auto px-4 mb-14 space-y-4">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              この冬、川崎・羽田・京浜を訪れるべき3つの理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">この冬、川崎・羽田・京浜を訪れるべき3つの理由</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               11月〜1月ならではの幻想的な光景、開運初詣、そして冬が一番美味しい旬の味覚
             </p>
@@ -257,9 +255,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   1
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  全国屈指の参拝者数300万人！厄除け大本山「川崎大師」の大本堂大護摩祈祷
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">全国屈指の参拝者数300万人！厄除け大本山「川崎大師」の大本堂大護摩祈祷</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 成田山新勝寺・高尾山薬王院と並ぶ真言宗智山派の関東三大本山。大本堂で厳修される護摩祈祷では、太鼓の響きとともに燃え盛る護摩の炎にお札をかざし、一年の厄難消除と開運を祈願します。仲見世通りの活気と名物久寿餅の素朴な甘みが新春の参拝を華やかに彩ります。
@@ -271,9 +267,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   2
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の澄んだ夜空に煌めく光の要塞！幻想の「川崎工場夜景」と京浜運河クルーズ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">冬の澄んだ夜空に煌めく光の要塞！幻想の「川崎工場夜景」と京浜運河クルーズ</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 冬期は湿度が低く空気が極めて澄み渡るため、プラントのメタリックな輝きや煙突から揺らめく水蒸気が息を呑むほど鮮明に輝きます。運河を行く夜景クルーズや千鳥町・水江町のビュースポットから眺める景色は、まるで未来都市に迷い込んだかのような幻想的な美しさです。
@@ -285,9 +279,7 @@ export default function Page() {
                 <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                   3
                 </span>
-                <h3 className="text-base sm:text-lg font-bold text-stone-900">
-                  漆黒の美肌湯「黒湯天然温泉」と羽田空港・多摩川のリバーサイド絶景ステイ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900">漆黒の美肌湯「黒湯天然温泉」と羽田空港・多摩川のリバーサイド絶景ステイ</h3>
               </div>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 川崎・京浜エリアの地下には、太古の植物成分が溶け込んだ琥珀色〜漆黒の「黒湯天然温泉」が豊かに湧出。保温効果が極めて高く、冷えた身体を芯からポカポカに温めてくれます。空港の滑走路を離着陸する航空機の灯りを眺めながら寛ぐ贅沢な夜が待っています。
@@ -301,9 +293,7 @@ export default function Page() {
           <div className="bg-cyan-950/5 border border-cyan-800/20 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-2">
               <Thermometer className="w-5 h-5 text-cyan-800" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                アクセス・気候・冬の服装ガイド
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">アクセス・気候・冬の服装ガイド</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-700 leading-relaxed whitespace-pre-line bg-white/70 p-5 rounded-xl border border-stone-200/60">
               【エリアへのアクセス】
@@ -323,9 +313,7 @@ export default function Page() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              川崎・羽田・京浜 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">川崎・羽田・京浜 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・立地に秀でた極上宿
             </p>
@@ -347,9 +335,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテルメトロポリタン川崎
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテルメトロポリタン川崎</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     JR川崎駅直結のラグジュアリーホテル・音楽とアートが彩る贅沢ステイ
                   </p>
@@ -414,9 +400,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    天然温泉　扇浜の湯　ドーミーイン川崎（ドーミーイン・御宿野乃　ホテルズグループ）
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">天然温泉　扇浜の湯　ドーミーイン川崎（ドーミーイン・御宿野乃　ホテルズグループ）</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     最上階に自家源泉の黒湯天然温泉とオートロウリュサウナ・夜鳴きそば
                   </p>
@@ -481,9 +465,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    川崎日航ホテル
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">川崎日航ホテル</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     川崎駅直結の伝統ホテル・高層階からの夜景と老舗ならではの真心
                   </p>
@@ -548,9 +530,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    ホテル縁道
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">ホテル縁道</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     東海道川崎宿の歴史と縁を紡ぐ・和モダン空間と炭火焼きの美食
                   </p>
@@ -615,9 +595,7 @@ export default function Page() {
                 </div>
 
                 <div>
-                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">
-                    相鉄フレッサイン　川崎駅東口
-                  </h3>
+                  <h3 className="text-lg sm:text-xl font-bold text-stone-900 leading-snug">相鉄フレッサイン　川崎駅東口</h3>
                   <p className="text-xs sm:text-sm text-cyan-800 font-medium mt-1">
                     川崎駅東口徒歩5分！快適なシモンズベッドと充実のアメニティバー
                   </p>
@@ -676,9 +654,7 @@ export default function Page() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -700,36 +676,28 @@ export default function Page() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の川崎・羽田・京浜旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の川崎・羽田・京浜旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>川崎大師の初詣で混雑を避けるためのおすすめ時間帯や日程は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>川崎大師の初詣で混雑を避けるためのおすすめ時間帯や日程は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 元旦の深夜（除夜の鐘直後）や正月三が日の日中（10:00〜15:00）は大本堂前の入場規制がかかるほど混雑します。ゆっくり参拝したい場合は、早朝（朝6:00〜8:30）または夕方（16:30以降）の参拝が狙い目です。また、1月4日以降の平日や、1月20日・21日の「初大師（縁日）」の午前中も比較的スムーズにお参りできます。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>川崎の工場夜景を効率よく鑑賞する方法は？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>川崎の工場夜景を効率よく鑑賞する方法は？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 川崎駅から定期運行されている「川崎工場夜景屋形船クルーズ」や「はとバス工場夜景ツアー」を利用するのが最も手軽で安全です。マイカーの場合は千鳥町の日本触媒前や浮島町、川崎マリエン展望室（入場無料・夜間開放）が定番の名所。夜間は大型車両の往来が多いため、安全に十分配慮して鑑賞してください。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-5 border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-cyan-800 font-black">Q.</span>
-                <span>川崎大師名物の「久寿餅」と「葛餅」の違いは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-black">Q.</span>
+                <span>川崎大師名物の「久寿餅」と「葛餅」の違いは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 川崎大師の「久寿餅（くずもち）」は、マメ科の葛粉を使う関西の葛餅とは異なり、小麦粉のデンプンを1年以上じっくり乳酸発酵させて蒸し上げた関東特有の発酵和菓子です。モチモチとした独特の弾力とほのかな酸味、香ばしいきな粉と濃厚な黒蜜のハーモニーが絶妙で、無添加の身体に優しい名物です。
               </p>
@@ -741,9 +709,7 @@ export default function Page() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/kanagawa/"

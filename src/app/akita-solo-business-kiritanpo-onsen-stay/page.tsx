@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            久保田城跡の千秋公園を彩る四季の彩りと、比内地鶏の黄金出汁が香るきりたんぽ鍋——酒どころ秋田で五感を潤す「秋田プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">久保田城跡の千秋公園を彩る四季の彩りと、比内地鶏の黄金出汁が香るきりたんぽ鍋——酒どころ秋田で五感を潤す「秋田プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             秋田新幹線「こまち」で東京から乗り換えなし約3時間半。豊かな米と清らかな伏流水に恵まれた日本屈指の酒どころ・秋田県秋田市。日中の商談や官公庁・工場への訪問を終えた後の夜の楽しみは、歓楽街「川反（かわばた）」や中通の割烹でのグルメ探訪。比内地鶏のガラから取った極上出汁で煮込む「きりたんぽ鍋」、ツルリとした喉越しの「稲庭うどん」、燻した香りがたまらない「いぶりがっこ」とチーズ、そして「新政」「雪の茅舎」「一白水成」など全国の酒通が垂涎する美酒の数々が迎えてくれます。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR秋田駅直結・新幹線改札から徒歩1分！駅ビル「トピコ」直結で天候に左右されない圧倒的アクセス
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルメトロポリタン秋田 —— 秋田駅直結のフラッグシップ。ノースウィングの最新モダン客室と秋田美食モーニング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルメトロポリタン秋田 —— 秋田駅直結のフラッグシップ。ノースウィングの最新モダン客室と秋田美食モーニング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR秋田駅西口徒歩5分！最上階11階の天然温泉大浴場「こまちの湯」＆水風呂付きサウナ・名物夜鳴きそば
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  中通温泉 こまちの湯 ドーミーイン秋田 —— 中通の天然温泉オアシス。サウナでととのい、川反の酒場へ繰り出す安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">中通温泉 こまちの湯 ドーミーイン秋田 —— 中通の天然温泉オアシス。サウナでととのい、川反の酒場へ繰り出す安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   千秋公園（久保田城跡）のお堀端に佇む名門ホテル！広々とした客室と伝統のフランス料理・中国料理
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  秋田キャッスルホテル —— 歴史と品格が息づく迎賓館。お堀の緑を望む落ち着いた空間と地元食材の美味
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">秋田キャッスルホテル —— 歴史と品格が息づく迎賓館。お堀の緑を望む落ち着いた空間と地元食材の美味</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              秋田「川反」の夜を一人旅で満喫する美酒グルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">秋田「川反」の夜を一人旅で満喫する美酒グルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 川反（かわばた）の居酒屋で「きりたんぽ小鍋」と比内地鶏の焼き鳥
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 川反（かわばた）の居酒屋で「きりたんぽ小鍋」と比内地鶏の焼き鳥</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 一人前用の小鍋で提供してくれる名店が多数。鶏ガラの旨味が染み込んだきりたんぽとセリの根っこのシャキシャキ感が絶品。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 秋田の銘酒（新政・雪の茅舎・春霞）の利き酒セットをオーダー
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 秋田の銘酒（新政・雪の茅舎・春霞）の利き酒セットをオーダー</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 美酒王国・秋田の地酒を少量ずつ飲み比べ。芳醇な旨口からキレのある辛口まで、お米の個性を味わう贅沢。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は千秋公園（久保田城跡）の御隅櫓（おすみやぐら）まで朝散歩
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は千秋公園（久保田城跡）の御隅櫓（おすみやぐら）まで朝散歩</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 佐竹公20万石の城跡。展望室から秋田市街や遠く鳥海山を望む清々しい朝のウォーキング。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>秋田空港から秋田駅やホテルへのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>秋田空港から秋田駅やホテルへのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 秋田空港から秋田駅直行リムジンバスが航空便に合わせて運行しており、約35〜40分で秋田駅西口へアクセスできます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で稲庭うどんを食べられる有名店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で稲庭うどんを食べられる有名店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 秋田駅前やトピコ内に「無限堂」や「佐藤養助」などの直営店があり、カウンター席で一人でも気軽に本場の手綯い稲庭うどんを味わえます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ホテルメトロポリタン秋田を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ホテルメトロポリタン秋田を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とホテルメトロポリタン秋田の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とホテルメトロポリタン秋田の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

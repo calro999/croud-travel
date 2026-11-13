@@ -108,9 +108,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  通常の温泉の数倍の血流促進効果！大量の発汗で全身が生まれ変わる極上デトックス
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">通常の温泉の数倍の血流促進効果！大量の発汗で全身が生まれ変わる極上デトックス</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 砂の程よい重量感による指圧効果と地熱による温熱作用が重なり、全身の毛細血管が拡張。驚くほどの汗とともに体内の疲労物質や老廃物が排出され、上がった後の爽快感と身体の軽さは一度体験すると病みつきになる心地よさです。
@@ -123,9 +121,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  波音を聴きながらの砂浴びから、絶景オーシャンビュー露天風呂への贅沢リレー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">波音を聴きながらの砂浴びから、絶景オーシャンビュー露天風呂への贅沢リレー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 砂むし温泉で心地よく汗を流した後は、砂をシャワーで落とし、そのまま海を望む広大な天然温泉露天風呂へ。潮風に吹かれながら肌触り豊かな名湯に浸かる贅沢な温冷・リフレッシュのコンビネーションが心身の自律神経を整えます。
@@ -138,9 +134,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  黒豚、さつま揚げ、関アジ・関サバ！九州が誇る豊かな山海の恵みを味わう美食会席
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">黒豚、さつま揚げ、関アジ・関サバ！九州が誇る豊かな山海の恵みを味わう美食会席</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 指宿では鹿児島名物の黒豚しゃぶしゃぶや薩摩地鶏、キビナゴや旬の地魚、別府では豊後水道の関アジ・関サバやおおいた和牛のステーキなど、滋味豊かな郷土の美食が並びます。温まった身体に染み渡る極上の晩餐をご堪能ください。
@@ -183,9 +177,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鹿児島県指宿市・元禄風呂と館内砂むし温泉を誇る日本屈指の老舗名門旅館
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    鹿児島　砂むし温泉　指宿白水館
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">鹿児島　砂むし温泉　指宿白水館</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     錦江湾を望む広大な敷地に、松林と四季の草花が息づく日本庭園が広がる指宿温泉の象徴的名旅館。宿の最大の特徴は、敷地内に完備された本格的な「館内砂むし温泉」。天候や移動を気にすることなく専用の浴衣を着て砂むしを体験でき、そのまま江戸の風情を再現した圧巻の広さを誇る「元禄風呂」へと直行できます。松の緑と海の青が調和した格調高い和風客室や、鹿児島の旬の素材を贅沢に仕立てた薩摩会席料理、館内の薩摩伝承館など、日本の伝統美とおもてなしの真髄を五感で堪能できる至高の宿です。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     大分県別府市・上人ヶ浜海浜砂湯至近！全室オーシャンビュー露天風呂付きモダン湯宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">ＡＭＡＮＥ　ＲＥＳＯＲＴ　ＳＥＩＫＡＩ（潮騒の宿　晴海）</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     別府湾の穏やかな波打ち際に佇み、訪れる人々を洗練されたモダンラグジュアリーの空間で迎える人気リゾート「潮騒の宿 晴海」。宿のすぐ近くには名物の「別府海浜砂湯」があり、潮騒を間近に聴きながら天然砂湯を満喫できる絶好のロケーションです。館内すべての客室が海に面した源泉かけ流し露天風呂付きで、別府湾と水平線が一体化するインフィニティ温泉大浴場も完備。豊後水道の鮮魚を堪能できる日本料理やビストロフレンチなど選べる夕食も極上評価を獲得しており、大人の贅沢なデトックスステイに最適です。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     鹿児島県指宿市・錦江湾を眼下に望む高台の南国リゾート＆館内砂蒸し温泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    指宿温泉　指宿フェニックスホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">指宿温泉　指宿フェニックスホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     錦江湾と大隅半島を見渡す小高い丘の上に建ち、ヤシの木が揺れる開放的な南国情緒が漂う温泉リゾートホテル。天候に左右されずいつでも利用できる館内砂蒸し温泉を完備しており、じっくり温まった後は展望大浴場や露天風呂で青い海と空の絶景パノラマを楽しめます。全室オーシャンビューの明るい客室からは日の出や夕暮れの美しい海景色を一望。鹿児島黒豚の陶板焼きや新鮮な地魚の舟盛りなど地場産食材をふんだんに取り入れた郷土会席をリーズナブルに味わえる、コスパと癒やしを兼ね備えた名宿です。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】鹿児島 砂むし温泉 指宿白水館を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】鹿児島 砂むし温泉 指宿白水館を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoSandBathSunamushiStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と鹿児島 砂むし温泉 指宿白水館の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と鹿児島 砂むし温泉 指宿白水館の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

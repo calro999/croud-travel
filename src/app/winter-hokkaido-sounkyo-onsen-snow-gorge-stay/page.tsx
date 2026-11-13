@@ -269,9 +269,7 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Sounkyo Winter Wonder</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                白銀の峡谷美と澄み切った雪見風呂｜11月・12月の層雲峡温泉が旅人を魅了する理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">白銀の峡谷美と澄み切った雪見風呂｜11月・12月の層雲峡温泉が旅人を魅了する理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -295,9 +293,7 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Natural Splendor</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                柱状節理の巨大断崖と銀世界のコントラスト｜初冬の大雪山が織りなす荘厳な風景美
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">柱状節理の巨大断崖と銀世界のコントラスト｜初冬の大雪山が織りなす荘厳な風景美</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -321,9 +317,7 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Sounkyo Winter Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の層雲峡温泉1泊2日満喫モデルコース｜雪見露天と大雪山雲海パノラマ紀行
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の層雲峡温泉1泊2日満喫モデルコース｜雪見露天と大雪山雲海パノラマ紀行</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -342,9 +336,7 @@ export default function HokkaidoSounkyoWinterFeature() {
         <section className="space-y-12">
           <div className="text-center space-y-2">
             <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Selected Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の層雲峡温泉を満喫する厳選おすすめ宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の層雲峡温泉を満喫する厳選おすすめ宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               大雪山連峰を望む絶景展望露天風呂、極上ビュッフェや個室会席、アクセス至便な温泉宿まで、現地取材に基づき厳選しました。
             </p>
@@ -386,9 +378,7 @@ export default function HokkaidoSounkyoWinterFeature() {
                             北海道上川郡上川町層雲峡
                           </span>
                         </div>
-                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
                         <p className="text-xs sm:text-sm text-cyan-800 font-medium bg-cyan-50/70 px-3 py-1.5 rounded-lg border border-cyan-100/80">
                           {h.special}
                         </p>
@@ -456,28 +446,22 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Winter Gastronomy & Sightseeing</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の層雲峡で味わう極上グルメと初冬の絶景アクティビティ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の層雲峡で味わう極上グルメと初冬の絶景アクティビティ</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm sm:text-base text-slate-700 leading-relaxed">
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-500" />
-                上川銘柄豚と十勝牛・オホーツク冬海鮮
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-5 h-5 text-amber-500" />
+                上川銘柄豚と十勝牛・オホーツク冬海鮮</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 層雲峡が位置する上川地方は、大雪山のミネラル豊富な伏流水で育つ「上川ポーク（渓谷味豚）」が名物。きめ細かく柔らかい肉質と甘い脂身は、冬のしゃぶしゃぶやすき焼きに格別の味わいです。さらに十勝平野から届くジューシーな黒毛和牛ステーキや、オホーツク海で獲れたばかりの冬ホタテ、毛ガニ、鮭いくらが膳を彩ります。
               </p>
             </div>
 
             <div className="bg-slate-50 rounded-2xl p-6 space-y-3 border border-slate-200/70">
-              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-                <Mountain className="w-5 h-5 text-cyan-600" />
-                大雪山黒岳ロープウェイと白銀の大パノラマ
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Mountain className="w-5 h-5 text-cyan-600" />
+                大雪山黒岳ロープウェイと白銀の大パノラマ</h3>
               <p className="text-xs sm:text-sm text-slate-600">
                 温泉街から徒歩ですぐの大雪山層雲峡・黒岳ロープウェイに乗れば、約7分で標高1,300mの五合目へアクセス可能。11月・12月には山頂部から山腹にかけて純白のパウダースノーに覆われ、眼下に広がる雄大な雲海や白銀の針葉樹林を見渡す感動の雪山パノラマが眼前に広がります。冬の澄んだ空気ならではの透明感ある眺望は必見です。
               </p>
@@ -493,9 +477,7 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-300 uppercase tracking-widest">Healing Hot Springs</span>
-              <h2 className="text-xl sm:text-2xl font-bold">
-                身体の芯から温まる単純硫黄泉｜層雲峡の湯力と冷え性改善効果
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold">身体の芯から温まる単純硫黄泉｜層雲峡の湯力と冷え性改善効果</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-200 leading-relaxed">
@@ -528,9 +510,7 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Travel Planning & Route</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                層雲峡温泉へのアクセスと冬旅を快適に楽しむポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">層雲峡温泉へのアクセスと冬旅を快適に楽しむポイント</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -562,18 +542,14 @@ export default function HokkaidoSounkyoWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-cyan-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                北海道・層雲峡温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">北海道・層雲峡温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-cyan-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-cyan-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +562,7 @@ export default function HokkaidoSounkyoWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-cyan-400 uppercase tracking-widest">Related Hokkaido & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい北海道の冬名湯＆極上雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい北海道の冬名湯＆極上雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初冬から真冬にかけて訪れたい北海道各地の名湯・雪見露天・冬グルメ特集もぜひご覧ください。
             </p>

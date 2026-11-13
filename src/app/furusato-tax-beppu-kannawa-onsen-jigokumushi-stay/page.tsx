@@ -73,9 +73,7 @@ export default function FurusatoTaxArticle() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 py-10 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            街中から立ち上る白い湯けむり、大地の恵み「地獄蒸し」の滋味——別府鉄輪温泉で体験する至高の湯治リゾート
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">街中から立ち上る白い湯けむり、大地の恵み「地獄蒸し」の滋味——別府鉄輪温泉で体験する至高の湯治リゾート</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             毎分8万リットルを超える日本一の温泉湧出量を誇る大分県・別府温泉郷。その中でも最も濃厚な温泉情緒を醸し出しているのが「鉄輪（かんなわ）温泉」です。鎌倉時代に一遍上人が開いたとされる歴史を持ち、街のいたるところからモクモクと立ち上る白い湯煙は、国の重要文化的景観にも選定されています。レトロな石畳の坂道、共同浴場、そして温泉の噴気で蒸し上げる伝統調理法「地獄蒸し」の香りが、旅情を五感で刺激します。
           </p>
@@ -83,7 +81,7 @@ export default function FurusatoTaxArticle() {
             鉄輪温泉の宿は、昔ながらの湯治文化を受け継ぎつつ、優雅な庭園露天風呂や最上階のパノラマ展望風呂、能舞台を備えたラグジュアリー旅館まで多彩な魅力に溢れています。夕食には大分が誇るブランド牛「豊後牛」や関アジ・関サバ、そして高温の温泉蒸気で素材の旨味を凝縮させた名物「地獄蒸し料理」。大分県別府市へのふるさと納税を利用すれば、30%相当のトラベルクーポンにより名門温泉宿へ驚くほどお得に宿泊でき、本物の温泉天国を大満喫できます。
           </p>
           <div className="bg-amber-50 rounded-2xl p-4 sm:p-5 border border-amber-200/80 text-amber-950 text-xs sm:text-sm space-y-2">
-            <h3 className="font-bold text-amber-900 flex items-center gap-2"><span>💡</span> この記事でわかること</h3>
+            <h3 className="font-bold text-amber-900 flex items-center gap-2">この記事でわかること</h3>
             <ul className="grid sm:grid-cols-2 gap-2 text-stone-800 list-disc list-inside">
               <li>ふるさと納税で泊まれる名門宿のリアルな魅力と特徴（別府鉄輪温泉をふるさと納税でお得に旅する）</li>
               <li>楽天トラベルクーポンを使った最大割引予約の手順（別府鉄輪温泉をふるさと納税でお得に旅する）</li>
@@ -140,36 +138,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府鉄輪温泉　山荘　神和苑
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府鉄輪温泉　山荘　神和苑</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   敷地内に能舞台・茶室・日本庭園を擁する別府最高峰の格式宿！二つの自家源泉掛け流しと極上懐石料理
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  別府鉄輪温泉 山荘 神和苑 —— 伝統美と現代ラグジュアリーの極み。鉄輪の湯けむりを見晴らす特別空間
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">別府鉄輪温泉 山荘 神和苑 —— 伝統美と現代ラグジュアリーの極み。鉄輪の湯けむりを見晴らす特別空間</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する二つの自家源泉から引く天然温泉
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する二つの自家源泉から引く天然温泉</h5>
                     <p className="text-stone-600 leading-relaxed">一切加水・加温を行わない青みがかった神秘的な自家源泉。大浴場や露天風呂、客室露天風呂に贅沢に注がれ、とろみのある極上の美肌湯を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 本格能舞台「神和殿」と四季を映す壮大な日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">本格能舞台「神和殿」と四季を映す壮大な日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">広大な敷地には本格的な能舞台や茶室、鯉が泳ぐ池が配され、まるで迎賓館のような重厚な佇まい。夜のライトアップも幻想的な美しさを誇ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鉄板焼きまたは日本料理から選ぶ極上ディナー
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鉄板焼きまたは日本料理から選ぶ極上ディナー</h5>
                     <p className="text-stone-600 leading-relaxed">豊後牛や伊勢海老、関アジなどの最高級食材を目の前で焼き上げる鉄板焼き、または熟練の職人が織りなす伝統懐石。至高の美食体験が待っています。</p>
                   </div>
                 </div>
@@ -234,36 +222,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府最大級の露天風呂の宿　おにやまホテル
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府最大級の露天風呂の宿　おにやまホテル</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   鬼山地獄のすぐ隣！南畑湧出の豊富な名湯が注ぐ西日本屈指の広さを誇る大露天風呂「鬼面の湯」
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  別府最大級の露天風呂の宿 おにやまホテル —— 圧倒的な湯量と開放感。別府名物バイキングと家族湯巡り
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">別府最大級の露天風呂の宿 おにやまホテル —— 圧倒的な湯量と開放感。別府名物バイキングと家族湯巡り</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 一度に数十人がゆったり浸かれる大露天風呂「鬼面の湯」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">一度に数十人がゆったり浸かれる大露天風呂「鬼面の湯」</h5>
                     <p className="text-stone-600 leading-relaxed">巨大な岩と木々に囲まれた西日本屈指のスケールを誇る大露天風呂。湯量豊富な自家源泉が滝のように注がれ、豪快な湯浴みが楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階の展望露天風呂「空の湯」から望む湯けむりパノラマ
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階の展望露天風呂「空の湯」から望む湯けむりパノラマ</h5>
                     <p className="text-stone-600 leading-relaxed">ホテル屋上に設けられた展望風呂。鉄輪温泉街から立ち上る湯けむりと別府湾、鶴見岳の山並みを一望できる絶景スポットです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 別府名物「地獄蒸し」と旬の味覚が並ぶ豪華バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">別府名物「地獄蒸し」と旬の味覚が並ぶ豪華バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">温泉の蒸気で蒸し上げた豚肉や野菜、新鮮魚介の刺身、とり天など、大分の郷土料理を好きなだけ味わえる人気のビュッフェです。</p>
                   </div>
                 </div>
@@ -328,36 +306,26 @@ export default function FurusatoTaxArticle() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">大分県別府市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  別府鉄輪温泉　ホテル山水館
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">別府鉄輪温泉　ホテル山水館</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   鉄輪温泉街の中心に佇む老舗名門宿！最上階の展望パノラマ大浴場と豊後牛・名物地獄蒸し会席
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  別府鉄輪温泉 ホテル山水館 —— 湯の街散策の絶好拠点。展望大浴場からの湯煙ビューと山海美食
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">別府鉄輪温泉 ホテル山水館 —— 湯の街散策の絶好拠点。展望大浴場からの湯煙ビューと山海美食</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 最上階展望風呂「天空の湯」から眺める鉄輪の湯けむり景観
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">最上階展望風呂「天空の湯」から眺める鉄輪の湯けむり景観</h5>
                     <p className="text-stone-600 leading-relaxed">鉄輪の街並みと鶴見岳を望む最上階大浴場。夜には温泉街の湯煙が街灯に照らされる幻想的な夜景を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 自家源泉を活用した伝統の「地獄蒸し料理」会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">自家源泉を活用した伝統の「地獄蒸し料理」会席</h5>
                     <p className="text-stone-600 leading-relaxed">温泉のミネラルと高熱蒸気で素材の旨味を閉じ込めた地獄蒸し。大分県産豊後牛や新鮮な海の幸とともに、ヘルシーで奥深い美味しさを堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 鉄輪の湯けむり通りや地獄めぐりへの抜群のアクセス
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">鉄輪の湯けむり通りや地獄めぐりへの抜群のアクセス</h5>
                     <p className="text-stone-600 leading-relaxed">宿を一歩出れば、レトロな路地や足湯、共同浴場が点在。地獄めぐりの主要スポットも徒歩圏内で、観光拠点として非常に便利です。</p>
                   </div>
                 </div>
@@ -405,29 +373,21 @@ export default function FurusatoTaxArticle() {
 
         {/* 周辺観光・グルメガイド */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-6">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">
-            別府地獄めぐり＆鉄輪温泉街のレトロ散策ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 border-l-4 border-amber-700 pl-4">別府地獄めぐり＆鉄輪温泉街のレトロ散策ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 別府地獄めぐり（海地獄・血の池地獄・白池地獄・龍巻地獄など）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 別府地獄めぐり（海地獄・血の池地獄・白池地獄・龍巻地獄など）</h3>
               <p className="text-stone-700 text-sm leading-relaxed">千年以上前から噴気や熱泥が噴出していた「別府の地獄」。コバルトブルーが美しい「海地獄」や、真っ赤に煮えたぎる「血の池地獄」、間欠泉が吹き上がる「龍巻地獄」など、地球の息吹を体感できる大迫力の観光名所です。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 地獄蒸し工房 鉄輪でのセルフ地獄蒸し体験
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 地獄蒸し工房 鉄輪でのセルフ地獄蒸し体験</h3>
               <p className="text-stone-700 text-sm leading-relaxed">温泉の蒸気窯を使って、自分で選んだ野菜や卵、海鮮を蒸して食べる大人気施設「地獄蒸し工房 鉄輪」。塩分を含んだ温泉蒸気によって、調味料なしでも素材本来の甘みと旨味が引き出されます。</p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/60 space-y-2">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <span className="text-amber-600">◆</span> 湯けむり展望台からの夜景（日本夜景遺産）
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><span className="text-amber-600">◆</span> 湯けむり展望台からの夜景（日本夜景遺産）</h3>
               <p className="text-stone-700 text-sm leading-relaxed">鉄輪温泉街の無数の湯けむりがライトアップされる光景を見下ろす「湯けむり展望台」。NHK「21世紀に残したい日本の風景」で富士山に次ぐ第2位に選ばれた絶景です。</p>
             </div>
           </div>
@@ -437,9 +397,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              大分県別府市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">大分県別府市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -505,9 +463,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】別府鉄輪温泉 山荘 神和苑を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】別府鉄輪温泉 山荘 神和苑を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -540,9 +496,7 @@ export default function FurusatoTaxArticle() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と別府鉄輪温泉 山荘 神和苑の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と別府鉄輪温泉 山荘 神和苑の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

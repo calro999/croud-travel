@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            登別の名湯のぬくもりと、セルフロウリュの心地よい蒸気——すすきのの夜景とシメパフェを味わう「大人の札幌おこもりステイ」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">登別の名湯のぬくもりと、セルフロウリュの心地よい蒸気——すすきのの夜景とシメパフェを味わう「大人の札幌おこもりステイ」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             四季折々の表情を見せる大通公園、歴史ある赤れんが庁舎、そして全国の食通を唸らせる海の幸やラーメン、スープカレー、そして夜の文化「シメパフェ」。札幌はひとり旅の目的地として国内屈指の魅力を誇ります。街がコンパクトにまとまっており、地下街が発達しているため、雨や雪の日でも傘をささずに快適に名所やグルメ店を巡ることができます。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   植物園の緑を望む静寂の和モダン空間！名湯「登別カルルス温泉」を運ぶ露天風呂とサウナ完備の現代旅館
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ONSEN RYOKAN 由縁 札幌 —— 大通公園徒歩すぐ。旅館の温もりとホテルの利便性が融合した大人の隠れ家
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ONSEN RYOKAN 由縁 札幌 —— 大通公園徒歩すぐ。旅館の温もりとホテルの利便性が融合した大人の隠れ家</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR札幌駅徒歩約5分！道庁旧本庁舎（赤れんが）を望む絶景ロケーションと広々大浴場・フレンチ朝食ビュッフェ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ソラリア西鉄ホテル札幌 —— 駅近の上質シティホテル。庭園風呂大浴場と北海道産食材を味わうライブキッチン
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ソラリア西鉄ホテル札幌 —— 駅近の上質シティホテル。庭園風呂大浴場と北海道産食材を味わうライブキッチン</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   すすきの徒歩すぐ！天然温泉100％の「すすきの天然温泉」とサウナー垂涎のセルフロウリュサウナ・地下水水風呂
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 プレミアホテル-CABIN-札幌 —— 自家源泉の本格天然温泉。サウナシュラン仕様の本格ととのい空間
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 プレミアホテル-CABIN-札幌 —— 自家源泉の本格天然温泉。サウナシュラン仕様の本格ととのい空間</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              札幌の夜文化「シメパフェ」をひとり旅で楽しむ3つのコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">札幌の夜文化「シメパフェ」をひとり旅で楽しむ3つのコツ</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 狙い目は開店直後（18:00〜19:00）または深夜23:00以降
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 狙い目は開店直後（18:00〜19:00）または深夜23:00以降</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 飲み会終わりの21:00〜22:30頃は行列がピークになります。少し時間をずらすと待ち時間なしでスムーズに入店できます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 季節の北海道産フルーツとお酒（ウイスキー・リキュール）のペアリング
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 季節の北海道産フルーツとお酒（ウイスキー・リキュール）のペアリング</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 シメパフェ専門店ではパフェとお酒のマリアージュが定番。余市ウイスキーやクラフトジンを合わせると大人の味を楽しめます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. ホテルに戻ったら大浴場でしっかり体を温めて就寝
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. ホテルに戻ったら大浴場でしっかり体を温めて就寝</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 冷たいパフェを食べた後は、ホテルの温泉や大浴場で温まってからふかふかのベッドへ。最高の睡眠が得られます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>冬の時期は雪道でスーツケースを引くのが大変ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>冬の時期は雪道でスーツケースを引くのが大変ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 札幌駅〜大通〜すすきの間は「チ・カ・ホ（札幌駅前通地下歩行空間）」や地下街「ポールタウン」が直結しており、真冬の吹雪や積雪時でも地上に出ずに移動できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でジンギスカンやスープカレーのお店に入りやすいですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でジンギスカンやスープカレーのお店に入りやすいですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 札幌のスープカレー店や人気ジンギスカン店（だるま等）はカウンター席が充実しており、一人客の割合が非常に高いので気兼ねなく美味しい食事を楽しめます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -449,9 +421,7 @@ export default function ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）とＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）とＯＮＳＥＮ ＲＹＯＫＡＮ 由縁 札幌の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

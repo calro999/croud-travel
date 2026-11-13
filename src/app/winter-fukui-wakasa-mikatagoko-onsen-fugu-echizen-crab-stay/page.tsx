@@ -220,12 +220,10 @@ export default function WinterFukuiWakasaPage() {
             11月・12月 冬の味覚解禁特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月福井・若狭三方五湖】初冬レイクビューと若狭ふぐ
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               越前蟹・名物焼き鯖＆敦賀港冬海鮮会席を愉しむ湖畔・海辺名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、五色の湖・三方五湖と敦賀湾が広がる福井県若狭地方は、日本海の冷水で引き締まった最高峰の「若狭ふぐ」が本格シーズンを迎え、11月6日の「越前蟹」解禁とともに美食の黄金期を迎えます。朝霧に包まれる神秘的な水月湖や波静かな若狭湾の絶景、北陸新幹線敦賀開業でぐっと快適になったアクセス。本場の若狭ふぐフルコース（てっさ・てっちり・唐揚げ・ひれ酒）や焼き鯖、名湯温泉を心ゆくまで堪能する厳選名宿5選を徹底解説します。
@@ -259,9 +257,7 @@ export default function WinterFukuiWakasaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Sparkle className="w-6 h-6 text-teal-700" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              五色の湖と北限のふぐ｜11月・12月に若狭三方五湖を訪れるべき理由
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">五色の湖と北限のふぐ｜11月・12月に若狭三方五湖を訪れるべき理由</h2>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
             <p>
@@ -312,9 +308,7 @@ export default function WinterFukuiWakasaPage() {
             <span className="text-xs sm:text-sm font-bold text-teal-800 uppercase tracking-widest bg-teal-50 px-3 py-1 rounded-full border border-teal-200">
               Selected 5 Scenic Lake & Ocean Accommodations
             </span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              初冬の若狭三方五湖・敦賀を満喫する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">初冬の若狭三方五湖・敦賀を満喫する厳選名宿5選</h2>
             <p className="text-sm text-slate-600 max-w-2xl mx-auto">
               水月湖の波打ち際に建つ絶景温泉宿から、茅葺き古民家風情漂う隠れ宿、全室露天風呂付きオーシャンフロント旅館まで、冬の贅沢を叶える宿を厳選。
             </p>
@@ -354,9 +348,7 @@ export default function WinterFukuiWakasaPage() {
                       </span>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                     <p className="text-xs text-slate-500 flex items-start gap-1">
                       <MapPin className="w-3.5 h-3.5 text-teal-700 flex-shrink-0 mt-0.5" />
@@ -425,9 +417,7 @@ export default function WinterFukuiWakasaPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【11月・12月】三方五湖パノラマ絶景と本場若狭ふぐを味わい尽くす1泊2日モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【11月・12月】三方五湖パノラマ絶景と本場若狭ふぐを味わい尽くす1泊2日モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6 text-sm text-slate-700">
@@ -456,34 +446,26 @@ export default function WinterFukuiWakasaPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              若狭三方五湖の初冬グルメ完全ガイド！ふぐ・越前蟹・焼き鯖
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">若狭三方五湖の初冬グルメ完全ガイド！ふぐ・越前蟹・焼き鯖</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                若狭ふぐフルコース
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                若狭ふぐフルコース</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 透き通るてっさ、出汁が染み出す熱々てっちり鍋、香ばしく揚がった唐揚げ、コリコリのふぐ皮湯引き。冷水で締まった若狭ふぐは噛むほどに芳醇な甘みが広がり、熱々のヒレ酒とともに冬の至福を満喫できます。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Waves className="w-4 h-4 text-sky-300" />
-                敦賀港直送・越前蟹
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Waves className="w-4 h-4 text-sky-300" />
+                敦賀港直送・越前蟹</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 11月6日解禁の「越前蟹（ズワイガニ）」。黄色いタグが最高級の証で、濃厚でクリーミーな蟹味噌と繊維が細かく甘い身は冬の味覚の頂点。小ぶりながら内子と外子がぎっしり詰まったセイコガニも必食です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                浜焼き鯖＆サバのへしこ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                浜焼き鯖＆サバのへしこ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 かつて京都へ海産物を運んだ「鯖街道」の起点・若狭。脂が乗った丸ごと一本の焼き鯖は皮がパリッと身はふっくらジューシー。米糠と塩でじっくり熟成させた「へしこ」はお茶漬けや地酒の肴に最高です。
               </p>
@@ -495,9 +477,7 @@ export default function WinterFukuiWakasaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Footprints className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              11月・12月の若狭・三方五湖観光！気候・服装・散策のアドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の若狭・三方五湖観光！気候・服装・散策のアドバイス</h2>
           </div>
           <div className="space-y-4 text-sm sm:text-base text-slate-700 leading-relaxed">
             <p>
@@ -505,19 +485,15 @@ export default function WinterFukuiWakasaPage() {
             </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ThermometerSun className="w-4 h-4 text-teal-700" />
-                  防風アウターと雨具の準備
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-teal-700" />
+                  防風アウターと雨具の準備</h4>
                 <p className="text-slate-600">
                   冷たい海風を防ぐウインドブレーカーやダウンジャケット、首元を温めるストールが重宝します。冬の日本海側特有の変わりやすい天気に備えて折りたたみ傘を携行しましょう。
                 </p>
               </div>
               <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-1.5">
-                <h4 className="font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-teal-700" />
-                  歩きやすい靴での観光
-                </h4>
+                <h4 className="font-bold text-slate-900 flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-teal-700" />
+                  歩きやすい靴での観光</h4>
                 <p className="text-slate-600">
                   レインボーライン山頂公園の展望テラスや年縞博物館の見学など、歩く場面が多いため、歩きやすく滑りにくいスニーカーやフラットシューズが最適です。
                 </p>
@@ -530,9 +506,7 @@ export default function WinterFukuiWakasaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Map className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              若狭三方五湖＆敦賀へのアクセス情報
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">若狭三方五湖＆敦賀へのアクセス情報</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 text-xs sm:text-sm">
             <div className="p-4 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
@@ -562,18 +536,14 @@ export default function WinterFukuiWakasaPage() {
             <HelpCircle className="w-6 h-6 text-teal-800" />
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の若狭三方五湖旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の若狭三方五湖旅行 よくある質問</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 font-extrabold flex-shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-700 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -586,9 +556,7 @@ export default function WinterFukuiWakasaPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl font-bold text-slate-900">
-              あわせて読みたい！北陸＆冬の蟹・ふぐ温泉特集
-            </h2>
+            <h2 className="text-xl font-bold text-slate-900">あわせて読みたい！北陸＆冬の蟹・ふぐ温泉特集</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
             <Link 
@@ -596,9 +564,7 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・あわら</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                あわら温泉の関西奥座敷名湯と越前蟹尽くし宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">あわら温泉の関西奥座敷名湯と越前蟹尽くし宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 名湯庭園露天風呂と解禁直後のタグ付き越前蟹を堪能。
               </p>
@@ -608,9 +574,7 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">福井・三国</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                三国温泉の東尋坊日本海絶景と皇室献上越前蟹宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">三国温泉の東尋坊日本海絶景と皇室献上越前蟹宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 三国港直送の極上越前蟹と荒波の東尋坊を望む旅。
               </p>
@@ -620,9 +584,7 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">石川・山代</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                山代温泉の加賀百万石名湯と加能ガニ・香箱ガニ宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">山代温泉の加賀百万石名湯と加能ガニ・香箱ガニ宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 開湯1300年の総湯文化と北陸のズワイガニ会席を満喫。
               </p>
@@ -632,9 +594,7 @@ export default function WinterFukuiWakasaPage() {
               className="group p-4 rounded-2xl bg-slate-50 hover:bg-teal-50/60 border border-slate-100 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-teal-700 bg-teal-100/60 px-2 py-0.5 rounded-full inline-block">山口・下関</span>
-              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">
-                下関の天然とらふぐ本場極上フルコース名宿
-              </h4>
+              <h4 className="text-xs font-bold text-slate-800 group-hover:text-teal-800 transition line-clamp-2">下関の天然とらふぐ本場極上フルコース名宿</h4>
               <p className="text-[11px] text-slate-500 line-clamp-2">
                 南風泊市場直送のとらふぐ刺し・ちり鍋と関門海峡絶景。
               </p>

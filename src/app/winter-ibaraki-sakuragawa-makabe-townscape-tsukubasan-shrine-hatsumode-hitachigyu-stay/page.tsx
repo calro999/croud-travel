@@ -175,9 +175,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-10 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Travel Narrative</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の桜川・真壁・筑波山北麓・つくばを旅する魅力と情話
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の桜川・真壁・筑波山北麓・つくばを旅する魅力と情話</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed text-sm sm:text-base space-y-4">
               <p className="first-letter:text-3xl first-letter:font-bold first-letter:text-cyan-800 first-letter:mr-1 float-none">
@@ -190,9 +188,7 @@ export default function FeaturePage() {
           <section className="space-y-6">
             <div className="border-b border-stone-200 pb-3">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Seasonal Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬（11・12・1月）に訪れるべき3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬（11・12・1月）に訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 gap-4">
 
@@ -201,9 +197,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   1
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  100棟を超える登録文化財！国の重伝建「真壁の町並み」の黒漆喰見世蔵と冬情話
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">100棟を超える登録文化財！国の重伝建「真壁の町並み」の黒漆喰見世蔵と冬情話</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 江戸・明治の繁栄を今に伝える真壁の商家庭園や黒漆喰見世蔵。国の重要伝統的建造物群保存地区の静かな通りを歩けば、宮大工の精緻な木組みや石畳に息づく職人技と歴史情緒を肌で感じられます。
@@ -215,9 +209,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   2
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  関東屈指の霊峰で新春開運祈願！「筑波山神社」初詣と大パノラマの絶景ロープウェイ
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">関東屈指の霊峰で新春開運祈願！「筑波山神社」初詣と大パノラマの絶景ロープウェイ</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 万葉集にも詠まれた霊峰・筑波山の神域に鎮座する筑波山神社。冬の澄んだ大気のもと男体山・女体山から関東平野や遠く富士山、スカイツリーまで見渡すパノラマビューは新春の活力をもたらします。
@@ -229,9 +221,7 @@ export default function FeaturePage() {
                 <span className="w-8 h-8 rounded-full bg-cyan-800 text-white font-bold flex items-center justify-center text-sm shrink-0">
                   3
                 </span>
-                <h3 className="font-bold text-stone-900 text-base sm:text-lg">
-                  日本一の芳醇な香り「常陸秋そば」のけんちん汁と極上「常陸牛」＆筑波山温泉
-                </h3>
+                <h3 className="font-bold text-stone-900 text-base sm:text-lg">日本一の芳醇な香り「常陸秋そば」のけんちん汁と極上「常陸牛」＆筑波山温泉</h3>
               </div>
               <p className="text-sm text-stone-600 leading-relaxed pl-11">
                 全国の蕎麦通が絶賛する常陸秋そば。熱々のけんちん蕎麦や最高峰常陸牛のすき焼きに舌鼓を打ち、pHの高いアルカリ性単純温泉で美肌効果抜群の筑波山温泉の露天風呂に癒やされる至福のひととき。
@@ -244,9 +234,7 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="flex items-center gap-2 border-b border-stone-100 pb-4">
               <Compass className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                アクセス・ベストシーズン・おすすめの服装
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">アクセス・ベストシーズン・おすすめの服装</h2>
             </div>
             <div className="text-xs sm:text-sm text-stone-600 whitespace-pre-line leading-relaxed bg-stone-50 rounded-xl p-5 border border-stone-100">
               【エリアへのアクセス】
@@ -265,9 +253,7 @@ export default function FeaturePage() {
           <section className="space-y-8">
             <div className="border-b border-stone-200 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Rakuten Travel Selected</span>
-              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">
-                桜川・真壁・筑波山北麓・つくば 厳選の温泉＆名宿5選
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-extrabold text-stone-900 mt-1">桜川・真壁・筑波山北麓・つくば 厳選の温泉＆名宿5選</h2>
               <p className="text-sm text-stone-600 mt-2">
                 楽天トラベルの最新口コミ評価・立地・冬の特別会席プランを徹底精査したおすすめ宿です。
               </p>
@@ -286,16 +272,14 @@ export default function FeaturePage() {
                       創業300余年の歴史を誇る老舗割烹旅館！名物杉線香風呂と極上常陸牛会席
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F10637%2F10637.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       筑波山温泉　筑波山江戸屋
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.15</span>
                     <span className="text-xs text-stone-700 font-medium">(533件)</span>
@@ -361,16 +345,14 @@ export default function FeaturePage() {
                       筑波山つつじヶ丘の最高峰に位置する絶景ホテル！関東平野の夜景と富士山一望
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F128427%2F128427.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       筑波山京成ホテル
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.14</span>
                     <span className="text-xs text-stone-700 font-medium">(573件)</span>
@@ -436,16 +418,14 @@ export default function FeaturePage() {
                       研究学園駅前のスタイリッシュモダンホテル！イタリアンと洗練された客室
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F68560%2F68560.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       ホテルベストランド
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.47</span>
                     <span className="text-xs text-stone-700 font-medium">(2297件)</span>
@@ -511,16 +491,14 @@ export default function FeaturePage() {
                       つくば駅直結の快適シティホテル！広々とした客室と充実のアメニティ
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F79343%2F79343.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       ダイワロイネットホテルつくば
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.26</span>
                     <span className="text-xs text-stone-700 font-medium">(3583件)</span>
@@ -586,16 +564,14 @@ export default function FeaturePage() {
                       オークラニッコーホテルズの格式と美食！つくばを代表するフルサービスホテル
                     </span>
                   </div>
-                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                    <a
+                  <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug"><a
                       href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F1302%2F1302.html"
                       target="_blank"
                       rel="sponsored noopener noreferrer"
                       className="hover:text-cyan-800 transition-colors"
                     >
                       ホテル日航つくば
-                    </a>
-                  </h3>
+                    </a></h3>
                   <div className="flex items-center gap-2 text-sm text-amber-600 font-bold">
                     <span>★ 4.07</span>
                     <span className="text-xs text-stone-700 font-medium">(1975件)</span>
@@ -656,9 +632,7 @@ export default function FeaturePage() {
           <section className="bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-transparent border border-amber-300/60 rounded-2xl p-6 sm:p-8 space-y-4">
             <div className="flex items-center gap-3">
               <Sparkles className="w-6 h-6 text-amber-600" />
-              <h3 className="text-lg sm:text-xl font-bold text-amber-950">
-                楽天ふるさと納税で賢くお得に泊まる方法
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-amber-950">楽天ふるさと納税で賢くお得に泊まる方法</h3>
             </div>
             <p className="text-sm text-amber-950/90 leading-relaxed">
               楽天ふるさと納税を活用すると、寄付金額に応じた宿泊クーポンが返礼品として付与され、控除上限内であれば実質自己負担2,000円（寄付額の最大30%クーポン還元）で憧れの高級温泉旅館や特別会席プランに宿泊できます。
@@ -681,37 +655,29 @@ export default function FeaturePage() {
           <section className="bg-white rounded-2xl p-6 sm:p-8 border border-stone-200/80 shadow-sm space-y-6">
             <div className="border-b border-stone-100 pb-4">
               <span className="text-xs font-bold text-cyan-700 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">
-                冬の桜川・真壁・筑波山北麓・つくば旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-1">冬の桜川・真壁・筑波山北麓・つくば旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-4">
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>真壁の町並み散策の所要時間と見どころは？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>真壁の町並み散策の所要時間と見どころは？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>町並み散策の所要時間は約1時間30分〜2時間です。潮田家住宅（見世蔵）や伊勢屋旅館、旧真壁郵便局など、国の登録有形文化財が集中する下宿・上宿通りを中心に、蔵のカフェや伝統の酒蔵「西岡本店」に立ち寄るルートがおすすめです。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>「常陸秋そば」の美味しさの秘密とおすすめの食べ方は？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>「常陸秋そば」の美味しさの秘密とおすすめの食べ方は？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>茨城県北西部・県西部の冷涼な気候と昼夜の寒暖差が育む常陸秋そばは、粒ぞろいが良く芳醇な香りと甘みが特徴です。冬は茨城の郷土料理である根菜と豆腐、里芋を炒め煮にした具だくさんの温かい「けんちん蕎麦」で味わうのが最も贅沢です。
               </p>
             </div>
 
             <div className="bg-white rounded-xl p-6 border border-stone-200/80 shadow-sm space-y-2">
-              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-cyan-700 font-extrabold">Q.</span>
-                <span>筑波山温泉の特徴と効能は何ですか？</span>
-              </h3>
+              <h3 className="text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-cyan-700 font-extrabold">Q.</span>
+                <span>筑波山温泉の特徴と効能は何ですか？</span></h3>
               <p className="text-sm text-stone-600 leading-relaxed pl-6">
                 <span className="font-semibold text-stone-800">A. </span>筑波山温泉はアルカリ性単純温泉で、肌の角質をやさしく落としてツルツルにする「美肌の湯」として親しまれています。神経痛や冷え性の改善にも効果があり、冬の山歩きや参拝後の湯治に最適です。
               </p>

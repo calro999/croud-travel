@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            雪を戴く立山連峰の神々しい峰々と、富山湾の宝石「白えび」の透き通る甘み——名水と名湯に癒やされる「富山プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">雪を戴く立山連峰の神々しい峰々と、富山湾の宝石「白えび」の透き通る甘み——名水と名湯に癒やされる「富山プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北陸新幹線「かがやき」で一直線。薬産業をはじめとするものづくり企業やアルミニウム産業が集結する日本海側の産業拠点・富山。北アルプス・立山連峰の雪解け水がもたらすミネラル豊富な地下水と、「天然の生簀」と呼ばれる富山湾の豊かな漁場が育んだ食文化は日本屈指のクオリティを誇ります。名物の白えび、紅ズワイガニ、寒ブリ、ホタルイカなど、季節ごとに旬の海の幸が旅人を迎えます。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   総曲輪通りすぐ！全館畳敷きの和の温もりと自家源泉の天然温泉「剱の湯」・海鮮丼朝食バイキング
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 剱の湯 御宿 野乃富山 —— ドーミーイン和風プレミアムブランド。素足で寛ぐ贅沢と本格ドライサウナ完備
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 剱の湯 御宿 野乃富山 —— ドーミーイン和風プレミアムブランド。素足で寛ぐ贅沢と本格ドライサウナ完備</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   富山駅徒歩約10分・路面電車すぐ！最上階11階の展望大浴場と立山連峰パノラマ・本格サウナ
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  富山マンテンホテル —— 北陸を代表する老舗ビジホ。手足を伸ばせる大浴場と富山の味覚を味わう朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">富山マンテンホテル —— 北陸を代表する老舗ビジホ。手足を伸ばせる大浴場と富山の味覚を味わう朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR富山駅南口から徒歩約5分！桜橋通りに面した落ち着いたシティホテル＆無料マッサージチェア
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルグランテラス富山桜橋通り —— 駅近の好立地。機能的な客室と充実した無料サービスが嬉しい快適ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルグランテラス富山桜橋通り —— 駅近の好立地。機能的な客室と充実した無料サービスが嬉しい快適ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              富山の美景と海の幸をひとり旅で満喫するスマートガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">富山の美景と海の幸をひとり旅で満喫するスマートガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 富山市役所展望塔（無料）から3000m級の立山連峰パノラマを仰ぐ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 富山市役所展望塔（無料）から3000m級の立山連峰パノラマを仰ぐ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 地上70mの無料展望台。晴れた日には富山市街の背後にそびえ立つ雪山の大パノラマが広がり、息をのむ絶景に出会えます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 富山駅前「きときと市場 とやマルシェ」で白えび天丼と地酒
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 富山駅前「きときと市場 とやマルシェ」で白えび天丼と地酒</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 新幹線に乗る前にも立ち寄れるグルメゾーン。「白えび亭」で揚げるサクサクの白えび天ぷら丼は富山名物の白眉です。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 富山港線ライトレールに乗って岩瀬の古い廻船問屋町へ小旅行
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 富山港線ライトレールに乗って岩瀬の古い廻船問屋町へ小旅行</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 富山駅から次世代型路面電車（LRT）で約25分。明治の廻船問屋の町家が残る岩瀬通りで、酒蔵「満寿泉」直営ショップやクラフトビールを楽しめます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>富山市内の移動は路面電車（トラム）が便利ですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>富山市内の移動は路面電車（トラム）が便利ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 富山駅を中心に環状線や富山港線など最新の低床路面電車が数分間隔で走っており、SuicaやICOCA等の交通系ICカードで市内観光や会食へスムーズに移動できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で富山湾の地魚寿司を食べられるお店はありますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で富山湾の地魚寿司を食べられるお店はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 富山駅周辺や総曲輪エリアには「すし玉」などの有名廻転寿司店やカウンター寿司店が多く、一人客でも気兼ねなく富山湾鮨（10貫セット等）を注文できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 剱の湯 御宿 野乃富山を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 剱の湯 御宿 野乃富山を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

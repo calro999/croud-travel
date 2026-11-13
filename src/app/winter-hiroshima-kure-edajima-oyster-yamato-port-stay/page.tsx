@@ -266,10 +266,8 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Anchor className="w-6 h-6 text-blue-500 shrink-0" />
-              澄み渡る冬の呉湾と江田島！鉄の巨艦と瀬戸内多島美が織りなす唯一無二の情景
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Anchor className="w-6 h-6 text-blue-500 shrink-0" />
+              澄み渡る冬の呉湾と江田島！鉄の巨艦と瀬戸内多島美が織りなす唯一無二の情景</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -289,10 +287,8 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-slate-200 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Accommodations</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Building className="w-6 h-6 text-blue-500 shrink-0" />
-              呉＆江田島で泊まりたい冬の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Building className="w-6 h-6 text-blue-500 shrink-0" />
+              呉＆江田島で泊まりたい冬の厳選名宿5選</h2>
             <p className="text-slate-500 text-xs sm:text-sm mt-2">
               ※楽天トラベルの最新APIデータを反映。呉湾のパノラマ夜景、療養泉の極上温泉、冬牡蠣の美食会席を誇る宿を厳選。
             </p>
@@ -334,12 +330,10 @@ export default function HiroshimaKureEdajimaWinterPage() {
                         <span>{h.access}</span>
                       </div>
 
-                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
+                      <h3 className="text-lg sm:text-2xl font-bold text-slate-900 hover:text-blue-600 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5">
                           {h.name}
                           <ExternalLink className="w-4 h-4 text-slate-400 shrink-0" />
-                        </a>
-                      </h3>
+                        </a></h3>
 
                       <p className="text-xs text-blue-700 bg-blue-50 border border-blue-200/60 rounded-md px-2.5 py-1 mt-2 inline-block font-medium">
                         {h.special}
@@ -396,10 +390,8 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Climate & Packing Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sun className="w-6 h-6 text-blue-500 shrink-0" />
-              呉＆江田島の冬の気候と時期別おすすめの服装・防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sun className="w-6 h-6 text-blue-500 shrink-0" />
+              呉＆江田島の冬の気候と時期別おすすめの服装・防寒対策</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -439,38 +431,30 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Photo Spots & Tips</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Camera className="w-6 h-6 text-blue-500 shrink-0" />
-              冬の呉・江田島を美しく切り取る！絶景フォトスポット＆撮影テクニック
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Camera className="w-6 h-6 text-blue-500 shrink-0" />
+              冬の呉・江田島を美しく切り取る！絶景フォトスポット＆撮影テクニック</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-slate-600">
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-600" />
-                アレイからすこじまの夕暮れ潜水艦
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-600" />
+                アレイからすこじまの夕暮れ潜水艦</h3>
               <p className="leading-relaxed">
                 日没前後のマジックアワー（16:30〜17:15）が最高の一枚を撮る絶好のチャンス。赤銅色に染まる呉湾の水面を背景に、岸壁に係留された潜水艦や魚雷積載クレーンの幾何学的な鉄の影をシルエットで劇的に捉える構図が印象的です。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-600" />
-                呉港の夜景と停泊艦船のライトアップ
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-600" />
+                呉港の夜景と停泊艦船のライトアップ</h3>
               <p className="leading-relaxed">
                 三脚や手すりを利用して手ブレを防ぎ、夜の澄みきった大気のなかで停泊する護衛艦のマスト灯や舷灯、水面にキラキラと反射する光の帯を長秒露光（1〜3秒）で撮影すると、まるで絵画のような港町の夜景美が浮かび上がります。
               </p>
             </div>
 
             <div className="border border-slate-200 rounded-xl p-5 space-y-2.5 bg-slate-50/50">
-              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-600" />
-                音戸の瀬戸と真紅の音戸大橋
-              </h3>
+              <h3 className="font-bold text-blue-950 text-sm sm:text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-600" />
+                音戸の瀬戸と真紅の音戸大橋</h3>
               <p className="leading-relaxed">
                 第二音戸大橋の「日招き広場」からのパノラマビューが絶景。深い青の海峡を勢いよく航行する漁船や定期船の引き波と、冬晴れの青空に鮮やかに映える朱塗りのループ橋を対角線構図で切り取るのがプロ仕様のテクニックです。
               </p>
@@ -482,38 +466,30 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet & Harbor Flavors</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-blue-500 shrink-0" />
-              冬の呉・江田島を味わう！広島かき・海軍カレー・呉細うどん・広島牛
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-blue-500 shrink-0" />
+              冬の呉・江田島を味わう！広島かき・海軍カレー・呉細うどん・広島牛</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-600">
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                江田島＆呉の極上冬牡蠣
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                江田島＆呉の極上冬牡蠣</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 清浄な海域で育つ江田島・呉の牡蠣は、冬になると大粒で旨味がギュッと濃縮されます。海沿いの牡蠣小屋で香ばしく焼き上げる殻付き焼き牡蠣、濃厚な味噌出汁で煮込む郷土料理「牡蠣の土手鍋」、サクサクの衣の中にジューシーな旨味が溢れるカキフライなど、冬の味覚を余すところなく味わえます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                伝統の「呉海軍カレー」
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                伝統の「呉海軍カレー」</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 海上自衛隊の艦艇ごとに異なる秘伝のカレーレシピを、呉市内の飲食店が忠実に再現。牛すじを煮込んだスパイシーなカレーやフルーティーな甘口カレーなど、個性豊かな味が揃います。冬の寒い散策途中、熱々のカレーが体の芯から温めてくれます。
               </p>
             </div>
 
             <div className="border border-slate-100 rounded-xl p-5 bg-gradient-to-br from-slate-50 to-blue-50/30 space-y-3">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <span className="w-2 h-2 rounded-full bg-blue-500" />
-                呉細うどん＆屋台のみそだき
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><span className="w-2 h-2 rounded-full bg-blue-500" />
+                呉細うどん＆屋台のみそだき</h3>
               <p className="leading-relaxed text-xs sm:text-sm">
                 忙しい海軍工廠の工員たちが素早く食べられるよう細く作られたとされる「呉細うどん」。柔らかく出汁がよく絡む麺と、優しいいりこ出汁のハーモニーは絶品です。夜には蔵本通りの屋台で、赤味噌でじっくり煮込んだ「鳥皮みそ煮込み」とおでんで地酒を楽しむのが呉の定番スタイルです。
               </p>
@@ -525,10 +501,8 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2">
-              <Compass className="w-6 h-6 text-blue-400 shrink-0" />
-              大和の歴史と冬牡蠣を堪能する1泊2日王道モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white flex items-center gap-2"><Compass className="w-6 h-6 text-blue-400 shrink-0" />
+              大和の歴史と冬牡蠣を堪能する1泊2日王道モデルコース</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -586,18 +560,14 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-blue-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の呉・江田島旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の呉・江田島旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-blue-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-blue-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -610,9 +580,7 @@ export default function HiroshimaKureEdajimaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-blue-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！広島・瀬戸内エリアの冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！広島・瀬戸内エリアの冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

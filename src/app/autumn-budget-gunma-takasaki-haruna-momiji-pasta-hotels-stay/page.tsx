@@ -58,10 +58,8 @@ export default function AutumnBudgetTakasakiHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-teal-600" />
-            宿泊代3,000円台！伊香保・草津の高騰を避けて高崎ステイ＋レンタカーが秋の正解
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-teal-600" />
+            宿泊代3,000円台！伊香保・草津の高騰を避けて高崎ステイ＋レンタカーが秋の正解</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             紅葉シーズンの伊香保温泉や草津温泉は宿が超高騰しますが、新幹線やJR各線が結節する高崎駅前なら3,000円台〜5,000円台で快適なホテルが豊富。高崎駅からレンタカーを借りれば榛名湖まで約50分、伊香保や妙義山へもスムーズにアクセスできます。浮いた予算を上州牛ディナーや名物パスタ巡りに充てましょう。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（新規オープン）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル＜高崎駅東口＞ＯＰＥＮ
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル＜高崎駅東口＞ＯＰＥＮ</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高崎</span>
@@ -122,9 +118,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（大浴場完備）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈高崎駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈高崎駅前〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高崎</span>
@@ -162,9 +156,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（朝食無料◎）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              ホテル１ー２ー３高崎
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテル１ー２ー３高崎</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高崎</span>
@@ -202,9 +194,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近安心）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              東横ＩＮＮ高崎駅西口１
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">東横ＩＮＮ高崎駅西口１</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高崎</span>
@@ -242,9 +232,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（パノラマビュー）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              高崎アーバンホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">高崎アーバンホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>高崎</span>
@@ -275,10 +263,8 @@ export default function AutumnBudgetTakasakiHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-950 to-teal-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の榛名湖・高崎観光を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-teal-300"><CheckCircle2 className="w-5 h-5" />
+            秋の榛名湖・高崎観光を満喫するヒント</h2>
           <p className="text-sm text-teal-100 leading-relaxed">
             榛名湖畔の紅葉は10月中旬〜11月上旬が見頃。榛名山ロープウェイで登る山頂からは関東平野が一望できます。高崎市内ではキングオブパスタ受賞店（シャンゴ、カーロなど）が多数営業しているので、ランチとディナーで異なる名物パスタを食べ比べてみてください。
           </p>
@@ -296,9 +282,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「高崎：榛名湖・妙義山紅葉ドライブ拠点＆高崎パスタ！3,000円台〜格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -368,9 +352,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 高崎エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">高崎エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

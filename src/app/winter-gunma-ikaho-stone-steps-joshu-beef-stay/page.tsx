@@ -266,10 +266,8 @@ export default function IkahoWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 関東名湯・初冬の石段情緒特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月伊香保温泉の初冬散策】<br className="hidden sm:inline" />
-            365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月伊香保温泉の初冬散策】<br className="hidden sm:inline" />
+            365段の石段街と黄金の湯・上州牛会席を味わう名旅館5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             榛名山麓の澄み渡る初冬の青空に、湯けむりがまっすぐ立ち上る。夕暮れに赤く灯る石段街の提灯、鉄分香る茶褐色の名湯「黄金の湯」に浸かり、極上の上州牛すき焼きに舌鼓を打つ至福の週末旅へ。
           </p>
@@ -295,9 +293,7 @@ export default function IkahoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Atmosphere & Heritage</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                澄み渡る初冬の風と提灯の温もり。400余年の歴史が息づく石段の街
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">澄み渡る初冬の風と提灯の温もり。400余年の歴史が息づく石段の街</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -312,10 +308,8 @@ export default function IkahoWinterPage() {
           
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-700" />
-                <span>11月・12月 伊香保温泉の旅のハイライト</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-700" />
+                <span>11月・12月 伊香保温泉の旅のハイライト</span></h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 1年365日繁栄を願う365段の石段・夕暮れの提灯点灯・茶褐色の黄金の湯源泉かけ流し・A5ランク上州牛
               </p>
@@ -334,9 +328,7 @@ export default function IkahoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Planning Guide</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の気候・服装＆快適アクセスのコツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の気候・服装＆快適アクセスのコツ</h2>
             </div>
           </div>
 
@@ -376,9 +368,7 @@ export default function IkahoWinterPage() {
             <span className="text-xs font-extrabold text-amber-800 uppercase tracking-widest bg-amber-100/60 px-3.5 py-1 rounded-full">
               SELECTED HOTELS
             </span>
-            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">
-              【11・12月】伊香保温泉の極上滞在を叶える名旅館5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-stone-900">【11・12月】伊香保温泉の極上滞在を叶える名旅館5選</h2>
             <p className="text-xs sm:text-sm text-stone-600 max-w-2xl mx-auto">
               楽天トラベルで4.2以上の高評価を獲得している、本物の黄金の湯源泉・上州牛会席・石段街アクセスのすべてを兼ね備えた名宿を厳選しました。
             </p>
@@ -424,9 +414,7 @@ export default function IkahoWinterPage() {
                       <span className="text-[11px] text-amber-800 font-bold tracking-wider uppercase block mb-1">
                         {hotel.special}
                       </span>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{hotel.name}</h3>
                       <p className="text-xs text-stone-500 mt-1 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-amber-700" />
                         <span>{hotel.access}</span>
@@ -496,9 +484,7 @@ export default function IkahoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Model Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                【1泊2日】初冬の伊香保温泉を満喫する王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">【1泊2日】初冬の伊香保温泉を満喫する王道モデルコース</h2>
             </div>
           </div>
 
@@ -590,48 +576,38 @@ export default function IkahoWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Q & A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                伊香保温泉の初冬旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">伊香保温泉の初冬旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>伊香保温泉の11月・12月の気候と服装、雪の心配はありますか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>伊香保温泉の11月・12月の気候と服装、雪の心配はありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 伊香保温泉は標高約700m前後の榛名山中腹に位置するため、平野部（前橋や高崎）よりも気温が約4〜5度低くなります。11月の平均気温は約8〜10度、朝晩は5度を下回ります。12月に入ると最高気温が10度未満、朝晩は氷点下に達することもあります。防寒性の高い厚手のコートやダウンジャケット、手袋やマフラーが必須です。降雪は11月は稀ですが、12月中旬以降は雪が降ることがあるため、お車の場合は必ずスタッドレスタイヤを装着してください。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>伊香保温泉の「黄金の湯」と「白銀の湯」の違いは何ですか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>伊香保温泉の「黄金の湯」と「白銀の湯」の違いは何ですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 伊香保温泉には2つの異なる源泉があります。「黄金の湯（こがねのゆ）」は開湯以来湧き続ける硫酸塩泉で、湧出時は無色透明ですが空気に触れると鉄分が酸化して茶褐色に変化します。刺激が少なく体を芯から温めて血行を促すため『子宝の湯』としても古くから愛されています。一方、「白銀の湯（しろがねのゆ）」は近年湧出が確認されたメタけい酸を豊富に含む単純温泉で、無色透明でさらりとした肌触りが特徴。肌の新陳代謝を整える美肌の湯として評判です。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>石段街の365段を歩く際の所要時間や見どころは？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>石段街の365段を歩く際の所要時間や見どころは？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 石段街の最下段から最上段の伊香保神社までは、普通に歩いて約15〜20分程度です。途中には射的場、足湯（辰の湯）、温泉まんじゅう発祥の店、お土産処などが立ち並び、立ち寄りながら散策すると約1時間〜1時間半ほど楽しめます。11月・12月の夕暮れ時（16時半頃）からは提灯に明かりが灯り、ノスタルジックで温かい情緒あふれる風景が広がります。
               </p>
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200/70 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>伊香保温泉の名物グルメにはどのようなものがありますか？</span>
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>伊香保温泉の名物グルメにはどのようなものがありますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 群馬が誇る最高峰ブランド黒毛和牛「上州牛」のすき焼きやステーキ、日本三大うどんの一つに数えられるコシの強い「水沢うどん」、茶褐色の生地で漉し餡を包んだ「湯の花まんじゅう（温泉まんじゅう）」、群馬特産の刺身こんにゃくや下仁田葱、岩魚の塩焼きなどが代表的です。特に冬の時期は熱々のすき焼きや鍋料理が各旅館で大人気です。
               </p>
@@ -643,9 +619,7 @@ export default function IkahoWinterPage() {
         <section className="bg-stone-100 rounded-3xl p-6 sm:p-10 space-y-6">
           <div className="space-y-2">
             <span className="text-[11px] font-bold text-amber-800 uppercase tracking-widest block">EXPLORE MORE WINTER DESTINATIONS</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい！11月・12月の冬特集＆周辺名湯ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい！11月・12月の冬特集＆周辺名湯ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -654,9 +628,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">群馬の冬名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【草津温泉】湯畑の冬景色と雪見露天風呂・名湯湯もみ体験
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【草津温泉】湯畑の冬景色と雪見露天風呂・名湯湯もみ体験</h3>
             </Link>
 
             <Link 
@@ -664,9 +636,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">関東の冬絶景</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【箱根芦ノ湖】冬晴れの雪化粧富士を望む絶景露天風呂＆極上宿</h3>
             </Link>
 
             <Link 
@@ -674,9 +644,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">北関東の雪見秘湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【奥日光湯元温泉】乳白色のにごり湯と白銀の静寂・雪見露天宿</h3>
             </Link>
 
             <Link 
@@ -684,9 +652,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東北の初雪特集</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【銀山温泉】白銀の温泉街に灯るガス灯と尾花沢牛会席・極上雪見宿</h3>
             </Link>
 
             <Link 
@@ -694,9 +660,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">東海の冬花火</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【下呂温泉】冬花火ミュージカルと日本三名泉美肌湯・飛騨牛会席</h3>
             </Link>
 
             <Link 
@@ -704,9 +668,7 @@ export default function IkahoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200/80 hover:border-amber-700 hover:shadow-md transition group block"
             >
               <span className="text-[10px] font-extrabold text-amber-800 uppercase block mb-1">信州の星空名湯</span>
-              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">
-                【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 group-hover:text-amber-800 transition line-clamp-2">【阿智村・昼神温泉】日本一の満天星空ナイトツアーと極上美肌湯</h3>
             </Link>
           
       <HubRelatedPosts currentSlug="winter-gunma-ikaho-stone-steps-joshu-beef-stay" />

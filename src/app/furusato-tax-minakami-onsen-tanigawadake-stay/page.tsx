@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            谷川岳の雄姿と利根川の清らかな渓流——豊富な自家源泉が湧く奥利根の名湯郷で味わう上州牛と山の恵み
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">谷川岳の雄姿と利根川の清らかな渓流——豊富な自家源泉が湧く奥利根の名湯郷で味わう上州牛と山の恵み</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             群馬県利根郡みなかみ町、三国山脈と名峰・谷川岳（たにがわだけ）の南麓に広がる水上（みなかみ）温泉郷。利根川の最上流部に位置し、水上温泉を中心に谷川温泉、宝川温泉、法師温泉など個性豊かな湯が点在する「みなかみ十八湯」の総称です。上越新幹線の開通により東京駅から最速約66分で上毛高原駅へアクセスできる利便性を持ちながら、一歩足を踏み入れれば手付かずの大自然とダイナミックな渓谷美が広がっています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県みなかみ町（水上温泉郷）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  谷川温泉　別邸　仙寿庵（せんじゅあん）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">谷川温泉　別邸　仙寿庵（せんじゅあん）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   ルレ・エ・シャトー加盟の世界が認めた至高宿！全室に谷川岳を望む源泉かけ流し露天風呂を完備
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  谷川温泉 別邸 仙寿庵 —— 建築美と名峰の借景。全室露天風呂付き客室で過ごす究極のプライベートステイ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">谷川温泉 別邸 仙寿庵 —— 建築美と名峰の借景。全室露天風呂付き客室で過ごす究極のプライベートステイ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> すべての客室に谷川岳のパノラマを望む源泉掛け流し露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">すべての客室に谷川岳のパノラマを望む源泉掛け流し露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">名峰・谷川岳を正面に望む特等席。木や石を贅沢に使った広々とした客室で、静かに名湯に浸かる至福を味わえます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 美術館のように美しい曲面廊下と伝統工芸「組子」の現代建築美
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">美術館のように美しい曲面廊下と伝統工芸「組子」の現代建築美</h5>
                     <p className="text-stone-600 leading-relaxed">高さ8mのガラス張り曲面廊下から眺める庭園。随所に職人技が光るスタイリッシュな和モダンリゾートです。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 上州牛や日本海の鮮魚を取り入れた極上の山里創作懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">上州牛や日本海の鮮魚を取り入れた極上の山里創作懐石</h5>
                     <p className="text-stone-600 leading-relaxed">素材本来の旨味を最大限に引き出した料理。美しい器と洗練された盛り付けに五感が満たされます。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県みなかみ町（水上温泉郷）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">大江戸温泉物語Ｐｒｅｍｉｕｍ　松乃井（旧：水上温泉　源泉湯の宿　松乃井）（開業）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   四つの自家源泉と約三万坪の広大な日本庭園！充実の湯めぐりと豪華ライブキッチンバイキング
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  大江戸温泉物語Premium 松乃井 —— 利根川沿いの一大温泉リゾート。四つの自家源泉かけ流しと贅沢グルメ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">大江戸温泉物語Premium 松乃井 —— 利根川沿いの一大温泉リゾート。四つの自家源泉かけ流しと贅沢グルメ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 敷地内から自噴する良質な4つの自家源泉を引く湯船の数々
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">敷地内から自噴する良質な4つの自家源泉を引く湯船の数々</h5>
                     <p className="text-stone-600 leading-relaxed">「螢の湯」「草津の湯」「火里の湯」など個性豊かな露天風呂と大浴場。肌触りの優しい単純温泉を満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 四季折々の花木や清流が彩る約三万坪の壮大な日本庭園
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">四季折々の花木や清流が彩る約三万坪の壮大な日本庭園</h5>
                     <p className="text-stone-600 leading-relaxed">広大な敷地内をゆったり散策。夜にはライトアップされた幻想的な庭園風景を楽しめます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> シェフが目の前で焼き上げるステーキや新鮮握り寿司バイキング
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">シェフが目の前で焼き上げるステーキや新鮮握り寿司バイキング</h5>
                     <p className="text-stone-600 leading-relaxed">地元の旬食材や出来立て料理が並ぶ豪華ビュッフェ。家族連れからカップルまで誰もが大満足の食のエンターテインメントです。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">群馬県みなかみ町（水上温泉郷）</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  坐山　みなかみ（旧：水上館）
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">坐山　みなかみ（旧：水上館）</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   利根川渓流の絶景を望む十六の多彩な湯船！大自然のいで湯と上州牛会席を味わう老舗宿
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  坐山 みなかみ —— 利根川の瀬音に耳を傾ける渓流の宿。十六の湯船をめぐる湯三昧と四季の上州美味
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">坐山 みなかみ —— 利根川の瀬音に耳を傾ける渓流の宿。十六の湯船をめぐる湯三昧と四季の上州美味</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 利根川渓流に面した大浴場や露天風呂など多彩な16の湯船
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">利根川渓流に面した大浴場や露天風呂など多彩な16の湯船</h5>
                     <p className="text-stone-600 leading-relaxed">「牧水の湯」「水晶の湯」「奥利根八景の湯」など湯めぐりを満喫。川風を感じながらの渓流露天風呂は格別です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室から利根川の渓谷美や奥利根の山並みを一望
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室から利根川の渓谷美や奥利根の山並みを一望</h5>
                     <p className="text-stone-600 leading-relaxed">四季折々に色づく渓谷のパノラマ。窓を開ければ心地よい川のせせらぎが部屋いっぱいに響き渡ります。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 上州牛の陶板焼きや地場産の採れたてきのこ・山菜会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">上州牛の陶板焼きや地場産の採れたてきのこ・山菜会席</h5>
                     <p className="text-stone-600 leading-relaxed">群馬の豊かな大地の恵みをふんだんに取り入れた郷土会席。素材の旨味を活かした温かい料理が評判です。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 谷川岳ロープウェイ・一ノ倉沢・諏訪峡＆アウトドアアクティビティ観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 谷川岳ロープウェイ・一ノ倉沢・諏訪峡＆アウトドアアクティビティ観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                谷川岳ロープウェイ＆天神峠展望台からの大パノラマ
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                谷川岳ロープウェイ＆天神峠展望台からの大パノラマ</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 標高1,319mの天神平まで約15分の空中散歩。さらにリフトで天神峠へ登れば、谷川岳連峰の岩壁と雲海のダイナミックな景観が広がります。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                利根川の渓谷美を巡る「諏訪峡遊歩道」と笹笛橋
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                利根川の渓谷美を巡る「諏訪峡遊歩道」と笹笛橋</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 奇岩や巨岩が連なる水上温泉街随一の名勝。笹笛橋からの谷川岳の眺望や、紅葉シーズンの渓谷トレッキングが格別です。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                利根川源流ラフティング＆キャニオニング（グリーンシーズン）
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                利根川源流ラフティング＆キャニオニング（グリーンシーズン）</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 日本屈指の激流ラフティングスポット。春の雪解け大増水ラフティングから夏のファミリーキャニオニングまで、大自然のアドベンチャーを体感できます。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              群馬県みなかみ町ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">群馬県みなかみ町ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】谷川温泉 別邸 仙寿庵を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】谷川温泉 別邸 仙寿庵を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と谷川温泉 別邸 仙寿庵の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と谷川温泉 別邸 仙寿庵の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

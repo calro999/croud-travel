@@ -216,9 +216,7 @@ export default function AwajiIslandCarFreePage() {
             <span className="inline-block bg-sky-400 text-slate-950 text-[11px] font-black px-2.5 py-0.5 rounded">
               楽天トラベル 高速バス・宿クーポン
             </span>
-            <h3 className="text-base sm:text-lg font-black font-journal-serif">
-              大阪・神戸 ⇄ 淡路島の高速バス＆洲本温泉が最大割引！
-            </h3>
+            <h3 className="text-base sm:text-lg font-black font-journal-serif">大阪・神戸 ⇄ 淡路島の高速バス＆洲本温泉が最大割引！</h3>
             <p className="text-xs text-slate-300">
               楽天ポイントが貯まる・使える。三宮発着の往復予約と温泉旅館セット予約がお得！
             </p>
@@ -249,9 +247,7 @@ export default function AwajiIslandCarFreePage() {
             <div className="text-xs font-black text-indigo-700 tracking-wider uppercase flex items-center gap-1">
               <span>🗺️ PUBLIC TRANSIT STRATEGY</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-              淡路島を車なしで回る4大交通ルート
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">淡路島を車なしで回る4大交通ルート</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               神戸・大阪から島内へのアクセス方法と、島内を回る無料シャトルの使いこなしテクニック。
             </p>
@@ -265,9 +261,7 @@ export default function AwajiIslandCarFreePage() {
               >
                 <div className="space-y-2">
                   <div className="flex items-center justify-between gap-2">
-                    <h3 className="font-black text-slate-900 text-sm md:text-base font-journal-serif">
-                      {route.line}
-                    </h3>
+                    <h3 className="font-black text-slate-900 text-sm md:text-base font-journal-serif">{route.line}</h3>
                   </div>
                   <div className="text-xs font-bold text-indigo-900 bg-indigo-100/80 px-2.5 py-1 rounded">
                     区間：{route.section}
@@ -301,9 +295,7 @@ export default function AwajiIslandCarFreePage() {
             <div className="text-xs font-black text-indigo-700 tracking-wider uppercase">
               🗓️ 1 NIGHT 2 DAYS ITINERARY
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-              車なしで絶景＆美食を満喫！淡路島1泊2日モデルプラン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">車なしで絶景＆美食を満喫！淡路島1泊2日モデルプラン</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               三ノ宮発着で無駄のない、西海岸カフェと洲本温泉を欲張る王道タイムスケジュール。
             </p>
@@ -316,9 +308,7 @@ export default function AwajiIslandCarFreePage() {
                   <span className="bg-indigo-900 text-white font-black text-xs px-3 py-1 rounded-full">
                     DAY {dIdx + 1}
                   </span>
-                  <h3 className="font-black text-base md:text-lg text-slate-900 font-journal-serif">
-                    {dayPlan.day}
-                  </h3>
+                  <h3 className="font-black text-base md:text-lg text-slate-900 font-journal-serif">{dayPlan.day}</h3>
                 </div>
 
                 <div className="relative pl-6 space-y-6 before:absolute before:left-2.5 before:top-2 before:bottom-2 before:w-0.5 before:bg-indigo-200">
@@ -329,9 +319,7 @@ export default function AwajiIslandCarFreePage() {
                         <span className="text-xs font-black text-indigo-900 bg-indigo-100 px-2 py-0.5 rounded border border-indigo-200">
                           {step.time}
                         </span>
-                        <h4 className="text-sm md:text-base font-bold text-slate-900">
-                          {step.title}
-                        </h4>
+                        <h4 className="text-sm md:text-base font-bold text-slate-900">{step.title}</h4>
                       </div>
                       <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-0.5">
                         {step.desc}
@@ -350,9 +338,7 @@ export default function AwajiIslandCarFreePage() {
             <div className="text-xs font-black text-indigo-700 tracking-wider uppercase">
               🏨 SELECTED SUMOTO ONSEN RESORTS
             </div>
-            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-              高速バス直通＆無料送迎あり！洲本温泉の極上シーサイド宿
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">高速バス直通＆無料送迎あり！洲本温泉の極上シーサイド宿</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               洲本バスセンターからのアクセスが抜群で、紀淡海峡の絶景露天風呂と淡路牛・新鮮魚介が自慢の旅館。
             </p>
@@ -400,9 +386,7 @@ export default function AwajiIslandCarFreePage() {
                         )}
                       </div>
 
-                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
 
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-slate-600 line-clamp-2 leading-relaxed font-medium">
@@ -442,9 +426,7 @@ export default function AwajiIslandCarFreePage() {
         <section className="bg-slate-100 border border-slate-200 rounded-3xl p-6 md:p-8 space-y-4">
           <div className="flex items-center gap-2">
             <span className="text-xl">🧭</span>
-            <h2 className="text-base md:text-lg font-black font-journal-serif text-slate-900">
-              あわせて読みたい関西・四国のバス旅＆日帰りガイド
-            </h2>
+            <h2 className="text-base md:text-lg font-black font-journal-serif text-slate-900">あわせて読みたい関西・四国のバス旅＆日帰りガイド</h2>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-1">
             <Link
@@ -452,9 +434,7 @@ export default function AwajiIslandCarFreePage() {
               className="p-4 bg-white border border-slate-200 rounded-2xl hover:border-indigo-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">鳴門・徳島アクセス比較</div>
-              <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">
-                【大阪〜徳島・鳴門】高速バス vs 車（マイカー/レンタカー）徹底比較！明石海峡大橋・大塚国際美術館旅
-              </h3>
+              <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">【大阪〜徳島・鳴門】高速バス vs 車（マイカー/レンタカー）徹底比較！明石海峡大橋・大塚国際美術館旅</h3>
               <p className="text-[11px] text-slate-500 mt-1 line-clamp-2">
                 淡路島を通過して徳島・鳴門の渦潮へ行く場合の高速バス料金とマイカー高速代・ガソリン代比較。
               </p>
@@ -465,9 +445,7 @@ export default function AwajiIslandCarFreePage() {
               className="p-4 bg-white border border-slate-200 rounded-2xl hover:border-indigo-400 hover:shadow-sm transition group"
             >
               <div className="text-[11px] text-indigo-700 font-bold mb-1">大阪発日帰りツアー</div>
-              <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">
-                【大阪発 日帰りバスツアー完全ガイド】旬の味覚狩り・絶景温泉・アウトレット満喫プラン
-              </h3>
+              <h3 className="text-xs md:text-sm font-bold text-slate-900 group-hover:text-indigo-700 transition">【大阪発 日帰りバスツアー完全ガイド】旬の味覚狩り・絶景温泉・アウトレット満喫プラン</h3>
               <p className="text-[11px] text-slate-500 mt-1 line-clamp-2">
                 淡路島や丹波篠山、京都天橋立へ添乗員付きで手軽に行ける人気日帰りバスツアー。
               </p>

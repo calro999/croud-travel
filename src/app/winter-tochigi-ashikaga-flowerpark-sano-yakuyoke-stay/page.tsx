@@ -301,9 +301,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Introduction</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              澄天の夜空に咲き誇る500万の光と、千年の歴史が紡ぐ厄除けの祈り
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">澄天の夜空に咲き誇る500万の光と、千年の歴史が紡ぐ厄除けの祈り</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -326,9 +324,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の両毛を満喫する3つの絶対的ハイライト
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の両毛を満喫する3つの絶対的ハイライト</h2>
             <p className="text-stone-600 text-sm sm:text-base">
               日本一の光の絶景、伝統の厄除け初詣、そして心身を温める冬の美食。
             </p>
@@ -339,9 +335,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-purple-100 flex items-center justify-center text-purple-700 font-bold">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 日本一のイルミネーション「光の花の庭」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 日本一のイルミネーション「光の花の庭」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 500万球超の光が咲き誇るあしかがフラワーパーク。風に揺れる「奇蹟の大藤」や水面に反射する光の睡蓮は、冬の澄んだ大気の中で最も鮮烈な輝きを放ちます。
               </p>
@@ -351,9 +345,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-red-100 flex items-center justify-center text-red-700 font-bold">
                 <Landmark className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 関東屈指の初詣「佐野厄除け大師」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 関東屈指の初詣「佐野厄除け大師」</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 関東三大師の一つとして新春に100万人が集う佐野厄除け大師。厄除け・方位除けの強力なご利益を祈願し、開運のゴールドのお守りを授かりましょう。
               </p>
@@ -363,9 +355,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-100 flex items-center justify-center text-amber-700 font-bold">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 熱々「青竹手打ち佐野ラーメン」＆冬イチゴ
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 熱々「青竹手打ち佐野ラーメン」＆冬イチゴ</h3>
               <p className="text-stone-600 text-sm leading-relaxed">
                 青竹で丹念に打たれた平打ち縮れ麺と澄んだコク旨スープが冷えた体を芯から温めます。さらに冬に甘みが凝縮するとちあいかのイチゴ狩りも外せません。
               </p>
@@ -377,9 +367,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Inns</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              あしかがイルミ＆佐野初詣の拠点となる厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">あしかがイルミ＆佐野初詣の拠点となる厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-2">
               天然温泉大浴場、フラワーパーク・厄除け大師至近の好立地ホテルを、楽天トラベル公式データに基づき厳選。
             </p>
@@ -421,9 +409,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
                           {hotel.special}
                         </span>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 mb-3">{hotel.name}</h3>
                       <p className="text-stone-600 text-sm leading-relaxed mb-4">
                         {hotel.story}
                       </p>
@@ -477,9 +463,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-8">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Course</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              イルミネーションと厄除け初詣を結ぶ冬の1泊2日モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">イルミネーションと厄除け初詣を結ぶ冬の1泊2日モデルコース</h2>
             <p className="text-stone-600 text-sm mt-1">
               足利の歴史遺産、夕暮れからの光の祭典、熱々佐野ラーメン、佐野厄除け大師とアウトレットを巡る王道周遊。
             </p>
@@ -550,37 +534,29 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="bg-stone-100/80 rounded-3xl p-6 sm:p-10 border border-stone-200 space-y-6">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Travel Advice</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の両毛旅行を快適に楽しむための実践ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の両毛旅行を快適に楽しむための実践ガイド</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <ThermometerSun className="w-4 h-4 text-purple-600" />
-                夜間の寒風対策
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><ThermometerSun className="w-4 h-4 text-purple-600" />
+                夜間の寒風対策</h3>
               <p>
                 「赤城颪」と呼ばれる冷たい北風が吹き抜けるため、イルミネーション観賞の夜間は体感温度が氷点下まで下がります。風を通さない防風ダウンジャケット、マフラー、手袋、ニット帽に加え、靴下に貼るカイロを用意すると快適に過ごせます。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Compass className="w-4 h-4 text-purple-600" />
-                佐野厄除け大師の混雑回避
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Compass className="w-4 h-4 text-purple-600" />
+                佐野厄除け大師の混雑回避</h3>
               <p>
                 正月三が日および1月の週末は、佐野市街の幹線道路（県道67号や国道50号）が激しく渋滞します。午前9時前までに参拝を済ませるか、佐野駅周辺のホテルに車を停めて徒歩（約15分）で向かうと渋滞に巻き込まれずスムーズです。
               </p>
             </div>
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200 space-y-2">
-              <h3 className="font-bold text-stone-900 flex items-center gap-1.5">
-                <Calendar className="w-4 h-4 text-purple-600" />
-                あしかがフラワーパークの入園時間
-              </h3>
+              <h3 className="font-bold text-stone-900 flex items-center gap-1.5"><Calendar className="w-4 h-4 text-purple-600" />
+                あしかがフラワーパークの入園時間</h3>
               <p>
                 週末やクリスマス時期は、点灯直前の16:30〜17:30に入場口と駐車場が大変混雑します。15:30〜16:00の明るいうちに入園し、昼の庭園風景から夕暮れのマジックアワー、そして一斉点灯の瞬間を園内で迎えるのが最もスムーズでおすすめです。
               </p>
@@ -592,9 +568,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい北関東の冬特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい北関東の冬特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
@@ -604,9 +578,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・奥日光</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">
-                  中禅寺湖の雪景色と奥日光湯元温泉・白濁硫黄泉の雪見ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">中禅寺湖の雪景色と奥日光湯元温泉・白濁硫黄泉の雪見ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -617,9 +589,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・鬼怒川</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">
-                  鬼怒川渓谷の雪景色と名湯露天風呂・とちぎ和牛会席ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">鬼怒川渓谷の雪景色と名湯露天風呂・とちぎ和牛会席ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -630,9 +600,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">栃木・那須温泉</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">
-                  那須温泉鹿の湯と雪景色・高原リゾートの白濁名湯ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">那須温泉鹿の湯と雪景色・高原リゾートの白濁名湯ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -643,9 +611,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
             >
               <div>
                 <span className="text-[11px] font-bold text-purple-700 bg-purple-50 px-2 py-0.5 rounded block w-fit mb-2">埼玉・秩父</span>
-                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">
-                  秩父夜祭の熱気と長瀞冬景色・武州牛と名湯温泉ステイ
-                </h3>
+                <h3 className="text-sm font-bold text-stone-800 group-hover:text-purple-600 line-clamp-2">秩父夜祭の熱気と長瀞冬景色・武州牛と名湯温泉ステイ</h3>
               </div>
               <span className="text-xs text-purple-600 font-semibold mt-3 block">記事を読む →</span>
             </Link>
@@ -656,18 +622,14 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-purple-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あしかがイルミ＆佐野初詣に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あしかがイルミ＆佐野初詣に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200 rounded-2xl p-5 hover:border-purple-200 transition-colors">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                  <HelpCircle className="w-5 h-5 text-purple-600 shrink-0 mt-0.5" />
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><HelpCircle className="w-5 h-5 text-purple-600 shrink-0 mt-0.5" />
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-7">
                   {faq.a}
                 </p>
@@ -678,9 +640,7 @@ export default function TochigiAshikagaFlowerparkWinterPage() {
 
         {/* Final Editorial Note */}
         <section className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 text-center space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold">
-            光の花園と新春の祈りが織りなす、心温まる冬の旅路
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold">光の花園と新春の祈りが織りなす、心温まる冬の旅路</h2>
           <p className="text-slate-300 text-xs sm:text-sm max-w-2xl mx-auto leading-relaxed">
             夜空に燦然と輝く500万球の奇蹟の大藤、新年の平安を祈る佐野厄除け大師の厳かな空気、そして湯気を上げる手打ち佐野ラーメン。11月から1月の両毛エリアには、寒さの中でこそひときわ心に染み入る温かな感動が待っています。冬の輝きを体感する特別な休日程を組み立ててみましょう。
           </p>

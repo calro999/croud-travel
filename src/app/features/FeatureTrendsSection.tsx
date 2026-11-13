@@ -55,9 +55,7 @@ export default function FeatureTrendsSection() {
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">
             SEARCH TREND TOPICS
           </span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>🔥</span> <span>注目検索トレンド！テーマ別・厳選宿比較ランキング特集</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>注目検索トレンド！テーマ別・厳選宿比較ランキング特集</span></h2>
           <p className="text-xs text-emerald-950/70 mt-1">
             いま旅行者に最も読まれている季節の旬テーマ・目的別ランキングを厳選。気になる旅の目的からお選びください。
           </p>
@@ -139,9 +137,7 @@ export default function FeatureTrendsSection() {
               <span className="text-[9px] font-extrabold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full inline-block">
                 {item.badge}
               </span>
-              <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition line-clamp-1">
-                {item.title}
-              </h3>
+              <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition line-clamp-1">{item.title}</h3>
               <p className="text-xs text-emerald-950/70 line-clamp-2 leading-relaxed">
                 {item.desc}
               </p>

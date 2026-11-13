@@ -89,9 +89,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
       <div className="max-w-5xl mx-auto px-4 sm:px-6 space-y-16">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-8 md:p-10 border border-stone-200/80 shadow-sm">
-          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">
-            標高千二百メートルの湖畔を彩るカエデとブナの紅葉。エメラルドグリーンの湖面と名湯硫黄泉に癒やされる秋旅へ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold font-serif text-stone-800 mb-4 border-l-4 border-amber-600 pl-4">標高千二百メートルの湖畔を彩るカエデとブナの紅葉。エメラルドグリーンの湖面と名湯硫黄泉に癒やされる秋旅へ</h2>
           <p className="text-stone-700 text-sm md:text-base leading-relaxed">
             標高約1,269mに位置し、日本屈指の高所湖として知られる栃木県・日光「中禅寺湖」。10月中旬から11月上旬にかけて、名峰・男体山の山肌や湖畔の原生林が一斉に朱・黄・橙の鮮烈なグラデーションに染まり、中禅寺湖クルーズの遊覧船や「いろは坂」「華厳の滝」から眺めるパノラマは息を呑む美しさです。さらに奥日光へと進めば、日本で4番目に濃いとされる名湯「日光湯元温泉（含硫黄-ナトリウム・カルシウム-硫酸塩・炭酸水素塩温泉）」の乳白色のにごり湯が旅人を温かく迎えてくれます。全客室から中禅寺湖を一望し二種の異なる源泉温泉を楽しめる和モダン宿「ホテル花庵」、木立の中に佇み日本最古のリゾートホテルの伝統と本格フレンチを継承する名門「中禅寺金谷ホテル」、そして開湯千二百年の濃厚なにごり湯を源泉かけ流しで守り続ける老舗旅館「奥日光湯元温泉 湯元板屋」。秋の日光ドライブ旅行を楽天ふるさと納税トラベルクーポン（寄付額の最大30％割引・有効期限3年）でお得に予約し、歴史と大自然が調和する至高の紅葉ステイを満喫しましょう。
           </p>
@@ -107,9 +105,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  いろは坂・華厳の滝・中禅寺湖遊覧船！関東屈指の紅葉ゴールデンルート
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">いろは坂・華厳の滝・中禅寺湖遊覧船！関東屈指の紅葉ゴールデンルート</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 曲がりくねるいろは坂の絶景ドライブから、落差97mの華厳の滝、そして中禅寺湖の紅葉クルーズまで、秋の日光ならではのハイライトを凝縮して楽しめます。
@@ -122,9 +118,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  エメラルドグリーンから乳白色へ変化する奥日光のにごり湯（天然硫黄泉）
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">エメラルドグリーンから乳白色へ変化する奥日光のにごり湯（天然硫黄泉）</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 湯船に注がれると空気に触れて白濁する濃厚な硫黄泉。高い美肌効果と血行促進作用があり、秋の冷え込んだ身体の芯までポカポカと温めてくれます。
@@ -137,9 +131,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  日光名物「生湯波（ゆば）」料理と極上ブランド黒毛和牛「とちぎ和牛」
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">日光名物「生湯波（ゆば）」料理と極上ブランド黒毛和牛「とちぎ和牛」</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 伝統の技で作られる風味豊かな日光湯波の創作料理や、柔らかく甘みのあるとちぎ和牛のステーキなど、栃木の豊かな風土が育んだ秋の美食を堪能できます。
@@ -174,9 +166,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                       ★ 4.64 <span className="text-stone-400 text-xs">(1,289件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    日光中禅寺湖温泉　ホテル花庵
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">日光中禅寺湖温泉　ホテル花庵</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 栃木県日光市中宮祠2480 ｜ ＪＲ日光駅又は東武日光駅より中禅寺温泉方面行きバス「中禅寺温泉バス停」下車。バス停より徒歩5分。日光東照宮より車で25分
                   </p>
@@ -243,9 +233,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                       ★ 4.50 <span className="text-stone-400 text-xs">(887件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    日光中禅寺温泉　中禅寺金谷ホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">日光中禅寺温泉　中禅寺金谷ホテル</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 栃木県日光市中宮祠2482 ｜ 日光宇都宮有料道路清滝IC～車で約25分（いろは坂経由）東武日光駅～無料送迎バス有（運行時間変動有）日光東照宮迄車40分
                   </p>
@@ -312,9 +300,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
                       ★ 4.56 <span className="text-stone-400 text-xs">(177件)</span>
                     </span>
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">
-                    奥日光湯元温泉　湯元板屋
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900">奥日光湯元温泉　湯元板屋</h3>
                   <p className="text-xs md:text-sm text-stone-500 mt-1">
                     📍 栃木県日光市湯元2530 ｜ 東武日光駅／ＪＲ　日光駅より湯元行き東武バスに乗車８０分。終点湯元バス停で下車し徒歩３分
                   </p>
@@ -445,9 +431,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】日光中禅寺湖温泉 ホテル花庵を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】日光中禅寺湖温泉 ホテル花庵を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -480,9 +464,7 @@ export default function FurusatoNikkoChuzenjiAutumnFoliageStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と日光中禅寺湖温泉 ホテル花庵の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と日光中禅寺湖温泉 ホテル花庵の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

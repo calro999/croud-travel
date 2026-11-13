@@ -171,9 +171,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
 
       {/* ナビゲーションメニュー */}
       <nav aria-label="目次ナビゲーション" className="bg-gradient-to-r from-indigo-50 via-slate-50 to-white rounded-2xl p-6 border border-indigo-200 shadow-sm">
-        <h2 className="text-lg font-black text-indigo-950 mb-3 flex items-center gap-2">
-          <span>🕯️</span> このガイドの目次
-        </h2>
+        <h2 className="text-lg font-black text-indigo-950 mb-3 flex items-center gap-2"><span>️</span> このガイドの目次</h2>
         <ul className="grid sm:grid-cols-2 gap-2.5 text-xs md:text-sm text-indigo-900 font-bold">
           <li>
             <a href="#style-choice" className="hover:text-indigo-600 flex items-center gap-1.5 transition">
@@ -204,9 +202,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
           <span className="text-xs font-black tracking-widest text-indigo-600 uppercase bg-indigo-100 px-3 py-1 rounded-full">
             DATE PLAN COMPARISON
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            あなたはどちら派？軽井沢の静寂 vs みなとみらいの煌めき
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">あなたはどちら派？軽井沢の静寂 vs みなとみらいの煌めき</h2>
           <p className="text-xs md:text-sm text-slate-600">
             二人の好みの過ごし方に合わせて、最適な滞在拠点を選びましょう。
           </p>
@@ -227,9 +223,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
                     {style.tag}
                   </span>
                 </div>
-                <h3 className="text-base font-bold text-slate-900 leading-snug">
-                  {style.title}
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 leading-snug">{style.title}</h3>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                   {style.desc}
                 </p>
@@ -243,9 +237,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
       <section id="hotels-section" className="space-y-8">
         <div className="border-l-4 border-indigo-600 pl-4 space-y-1">
           <span className="text-xs font-bold text-indigo-600 tracking-wider">CHRISTMAS LUXURY STAYS</span>
-          <h2 className="text-2xl md:text-3xl font-black text-slate-900">
-            聖夜を彩る憧れのおすすめ宿・ホテル一覧
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-slate-900">聖夜を彩る憧れのおすすめ宿・ホテル一覧</h2>
           <p className="text-xs md:text-sm text-slate-600">
             クリスマスシーズンの週末やイブは予約が殺到します。早めの空室チェックが鉄則です。
           </p>
@@ -307,9 +299,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
                       ) : null}
                     </div>
 
-                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-indigo-700 transition">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-xl md:text-2xl font-black text-slate-900 group-hover:text-indigo-700 transition">{hotel.hotelName}</h3>
 
                     {specialText ? (
                       <p className="text-xs md:text-sm text-slate-700 leading-relaxed bg-indigo-50/60 p-3.5 rounded-xl border border-indigo-100">
@@ -357,9 +347,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
           <span className="text-xs font-black tracking-widest text-amber-300 uppercase bg-indigo-900/80 px-3 py-1 rounded-full border border-amber-400/30">
             ROMANTIC TIMELINE
           </span>
-          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">
-            クリスマスの夜を特別にする理想の時間割
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black text-white font-journal-serif">クリスマスの夜を特別にする理想の時間割</h2>
           <p className="text-xs md:text-sm text-indigo-200/80">
             混雑するディナー時間やプレゼントの渡しどころなど、スマートな演出のヒント。
           </p>
@@ -374,9 +362,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
                   <span className="text-amber-300 font-mono font-black text-xs md:text-sm">
                     {step.time}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-white">
-                    {step.stage}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-white">{step.stage}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-indigo-100/80 leading-relaxed">
                   {step.details}
@@ -391,9 +377,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
       <section id="access-guide" className="bg-white rounded-3xl p-6 md:p-8 border border-indigo-200 shadow-sm space-y-6">
         <div className="space-y-1">
           <span className="text-xs font-bold text-indigo-600">TRANSIT & PLANNING</span>
-          <h2 className="text-xl md:text-2xl font-black text-slate-900">
-            軽井沢デートの交通手段を徹底比較
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black text-slate-900">軽井沢デートの交通手段を徹底比較</h2>
           <p className="text-xs md:text-sm text-slate-600">
             冬の軽井沢は路面凍結のおそれがあるため、新幹線や直行高速バスの利用がスムーズです。
           </p>
@@ -410,9 +394,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
               </span>
               <span className="text-xs font-medium text-slate-500">所要時間・料金シミュレーション</span>
             </div>
-            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-indigo-700 transition">
-              【東京〜長野・軽井沢】高速バス vs 新幹線の料金・時間・快適度を徹底比較！
-            </h3>
+            <h3 className="font-bold text-slate-900 text-sm md:text-base group-hover:text-indigo-700 transition">【東京〜長野・軽井沢】高速バス vs 新幹線の料金・時間・快適度を徹底比較！</h3>
             <p className="text-xs text-slate-600 mt-2 leading-relaxed">
               北陸新幹線なら東京駅から最短1時間で軽井沢駅へ直行！高速バスの格安プランとの価格差や、冬期デートでのメリット・デメリットを分かりやすく解説しています。
             </p>
@@ -422,9 +404,7 @@ export default function ChristmasDateOnsenDinnerTripGuidePage() {
 
       {/* 予約のアドバイス */}
       <section className="bg-slate-50 rounded-3xl p-6 md:p-8 border border-slate-200 space-y-4">
-        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">
-          <span>💡</span> クリスマスお泊まりデート 予約成功の3大鉄則
-        </h2>
+        <h2 className="text-xl font-black text-slate-900 flex items-center gap-2">クリスマスお泊まりデート 予約成功の3大鉄則</h2>
         <div className="grid md:grid-cols-3 gap-4 text-xs md:text-sm">
           <div className="bg-white p-4 rounded-xl border border-slate-200 space-y-1">
             <h3 className="font-bold text-indigo-900">1. ディナー確約プランを確保</h3>

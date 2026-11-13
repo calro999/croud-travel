@@ -266,10 +266,8 @@ export default function GeroWinterPage() {
             <Sparkles className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 冬の東海名湯特集</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月下呂温泉の冬花火ミュージカル】<br className="hidden sm:inline" />
-            日本三名泉の美肌湯ととろける飛騨牛会席宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月下呂温泉の冬花火ミュージカル】<br className="hidden sm:inline" />
+            日本三名泉の美肌湯ととろける飛騨牛会席宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-stone-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             凛とした冬空に音楽とともに舞い上がる色鮮やかな大輪の華。日本三名泉の誉れ高きpH9のとろとろ美肌湯に身を委ね、香ばしい朴葉味噌とA5飛騨牛の旨味に酔いしれる至福の冬宵へ。
           </p>
@@ -295,9 +293,7 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Winter Fireworks & Hot Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                澄み渡る冬の夜空に響く調べと、肌を包む至高の絹の湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">澄み渡る冬の夜空に響く調べと、肌を包む至高の絹の湯</h2>
             </div>
           </div>
           <p className="text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -311,10 +307,8 @@ export default function GeroWinterPage() {
           </p>
           <div className="bg-amber-50/70 rounded-2xl p-5 border border-amber-200/70 flex flex-col sm:flex-row gap-4 items-start sm:items-center justify-between">
             <div className="space-y-1">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-                <Flame className="w-5 h-5 text-amber-700" />
-                12月の土曜日は予約争奪戦！早めの確保を
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Flame className="w-5 h-5 text-amber-700" />
+                12月の土曜日は予約争奪戦！早めの確保を</h3>
               <p className="text-xs sm:text-sm text-stone-600">
                 花火ミュージカル開催日の川側客室や高台の展望客室は毎年早期に満室となります。11月中の予約手配が冬の下呂旅を成功させる鍵です。
               </p>
@@ -332,9 +326,7 @@ export default function GeroWinterPage() {
         <section className="space-y-6">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Winter Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月の冬の下呂温泉で心奪われる3つの瞬間
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月の冬の下呂温泉で心奪われる3つの瞬間</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div className="bg-white rounded-2xl p-6 border border-stone-200 shadow-sm space-y-3">
@@ -371,9 +363,7 @@ export default function GeroWinterPage() {
         <section id="hotel-list" className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Recommended Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              11月・12月に泊まりたい下呂温泉の厳選宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">11月・12月に泊まりたい下呂温泉の厳選宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               楽天トラベルの最新空室状況・宿泊プランと連携。花火が見える高台リゾートから川沿いの老舗旅館までを厳選。
             </p>
@@ -399,9 +389,7 @@ export default function GeroWinterPage() {
                           <span className="text-stone-400">({hotel.reviews}件のクチコミ)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900">{hotel.name}</h3>
                       <p className="text-xs sm:text-sm text-stone-500 flex items-center gap-1">
                         <MapPin className="w-3.5 h-3.5 text-stone-400 shrink-0" />
                         {hotel.access}
@@ -430,17 +418,13 @@ export default function GeroWinterPage() {
 
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 pt-2">
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-amber-800 flex items-center gap-1.5 mb-1">
-                            <Coffee className="w-3.5 h-3.5" /> 客室選びのポイント
-                          </h4>
+                          <h4 className="text-xs font-bold text-amber-800 flex items-center gap-1.5 mb-1"><Coffee className="w-3.5 h-3.5" /> 客室選びのポイント</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.roomTip}
                           </p>
                         </div>
                         <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/70">
-                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1">
-                            <Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり
-                          </h4>
+                          <h4 className="text-xs font-bold text-rose-800 flex items-center gap-1.5 mb-1"><Utensils className="w-3.5 h-3.5" /> 冬の料理・グルメのこだわり</h4>
                           <p className="text-xs text-stone-600 leading-relaxed">
                             {hotel.gourmetTip}
                           </p>
@@ -451,10 +435,8 @@ export default function GeroWinterPage() {
 
                   {/* Highlights */}
                   <div className="bg-amber-50/50 rounded-2xl p-4 sm:p-5 border border-amber-100/80 space-y-2.5">
-                    <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider flex items-center gap-1.5">
-                      <CheckCircle2 className="w-4 h-4 text-amber-600" />
-                      この宿のおすすめポイント
-                    </h4>
+                    <h4 className="text-xs font-bold text-amber-900 uppercase tracking-wider flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-amber-600" />
+                      この宿のおすすめポイント</h4>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
                       {hotel.highlights.map((hl, hIdx) => (
                         <div key={hIdx} className="flex items-start gap-2 text-xs text-stone-700">
@@ -494,9 +476,7 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                初冬の下呂を満喫する「1泊2日 冬花火＆美肌湯モデルコース」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の下呂を満喫する「1泊2日 冬花火＆美肌湯モデルコース」</h2>
             </div>
           </div>
 
@@ -608,18 +588,14 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Onsen Science & Beauty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                下呂温泉のpH9高アルカリ泉の秘密と冬の美肌入浴法
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">下呂温泉のpH9高アルカリ泉の秘密と冬の美肌入浴法</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-600" />
-                天然の石鹸効果「アルカリ性単純温泉」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-600" />
+                天然の石鹸効果「アルカリ性単純温泉」</h3>
               <p>
                 下呂温泉の泉質はpH9.18〜9.3を誇るアルカリ性単純温泉です。この高いアルカリ性が皮脂の汚れや古い角質を石鹸のようにやさしく乳化して洗い流し、お肌をすべすべ・つるつるにリセットしてくれます。
               </p>
@@ -629,10 +605,8 @@ export default function GeroWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                湯上がり10分以内の保湿が美肌を完成させる
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                湯上がり10分以内の保湿が美肌を完成させる</h3>
               <p>
                 アルカリ性温泉は高いクレンジング効果を持つ反面、角質が落ちた直後の素肌は水分が蒸発しやすい状態になります。
               </p>
@@ -651,9 +625,7 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Souvenirs & Delights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                冬の下呂温泉で手に入れたい厳選名物土産＆冬スイーツ
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の下呂温泉で手に入れたい厳選名物土産＆冬スイーツ</h2>
             </div>
           </div>
 
@@ -692,18 +664,14 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Local Guide & Walking Tips</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                下呂温泉街の足湯めぐりと冬の散策ポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">下呂温泉街の足湯めぐりと冬の散策ポイント</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-700 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-amber-600" />
-                温泉街に点在する無料足湯スポット巡り
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Flame className="w-4 h-4 text-amber-600" />
+                温泉街に点在する無料足湯スポット巡り</h3>
               <p>
                 下呂温泉街には「鷺の足湯」「さるの足湯」「ビーナスの足湯」など、誰でも無料で利用できる足湯が10箇所以上点在しています。冬の冷たい空気の中、散策途中にサッと靴下を脱いで温かい源泉に足を浸せば、わずか5分で全身がポカポカと温まります。
               </p>
@@ -713,10 +681,8 @@ export default function GeroWinterPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/80">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShieldCheck className="w-4 h-4 text-emerald-600" />
-                冬の服装とアクセスのアドバイス
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShieldCheck className="w-4 h-4 text-emerald-600" />
+                冬の服装とアクセスのアドバイス</h3>
               <p>
                 下呂市街地は標高約380mに位置し、11月下旬からは朝晩の冷え込みが厳しくなります。12月の平均最高気温は約8℃、最低気温は氷点下近くまで下がるため、厚手のコートやダウンジャケット、手袋、マフラーが必須です。
               </p>
@@ -735,48 +701,38 @@ export default function GeroWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-                11月・12月の下呂温泉旅行 よくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の下呂温泉旅行 よくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                花火ミュージカル冬公演は何時からどこで打ち上げられますか？雨や雪でも開催されますか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                花火ミュージカル冬公演は何時からどこで打ち上げられますか？雨や雪でも開催されますか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 例年12月の毎週土曜日の20:00から約15分間、飛騨川下呂大橋上流の河川敷から打ち上げられます。原則として雨天や降雪時でも開催されますが、強風等の荒天時は順延や中止となる場合があります。冬は空気が澄んでいるため、非常に鮮やかで迫力ある光景が楽しめます。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                下呂温泉のお湯の特徴は？なぜ「美人の湯」と呼ばれるのですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                下呂温泉のお湯の特徴は？なぜ「美人の湯」と呼ばれるのですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 下呂温泉の源泉はpH9.18〜9.3のアルカリ性単純温泉で、肌の古い角質を落とすクレンジング作用があります。石鹸を使わなくても肌がスベスベになるため「美人の湯」「天然の石鹸」と称されています。刺激が少なく湯あたりしにくいため、1日に何度も入浴できるのも特徴です。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                冬の車での訪問時、スタッドレスタイヤやチェーンは必要ですか？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                冬の車での訪問時、スタッドレスタイヤやチェーンは必要ですか？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 下呂市街中心部では大雪になる頻度はそれほど高くありませんが、11月下旬以降は朝晩の放射冷却で橋の上や日陰が凍結します。また、名古屋方面や高山方面からの峠越えルートでは積雪があるため、冬期の車利用には必ずスタッドレスタイヤを装着してください。
               </p>
             </div>
 
             <div className="bg-stone-50 p-5 rounded-2xl border border-stone-200/80 space-y-2">
-              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                <span className="text-amber-700 font-extrabold">Q.</span>
-                下呂温泉合掌村など冬の周辺観光スポットのおすすめは？
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                下呂温泉合掌村など冬の周辺観光スポットのおすすめは？</h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                 白川郷などから移築された国指定重要文化財を含む合掌造り集落「下呂温泉合掌村」は、冬の雪化粧が美しく必見です。村内では陶芸体験や和紙すき体験ができるほか、食事処で岩魚の塩焼きや団子を楽しめます。また温泉神社や温泉寺の石段からの下呂市街パノラマも人気です。
               </p>
@@ -788,9 +744,7 @@ export default function GeroWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200 shadow-sm space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-700 uppercase tracking-widest">Related Guides & Areas</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の旅をさらに広げる関連特集＆エリア別ガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の旅をさらに広げる関連特集＆エリア別ガイド</h2>
             <p className="text-xs sm:text-sm text-stone-600">
               日本全国・旅宿クラウドが厳選する、11月・12月の冬旅行特集や近隣エリアの温泉宿ガイドをチェック。
             </p>
@@ -803,9 +757,7 @@ export default function GeroWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-sky-800 bg-sky-100/80 px-2 py-0.5 rounded">岐阜冬特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">
-                白川郷合掌造りライトアップと飛騨高山温泉宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-amber-900 transition-colors">白川郷合掌造りライトアップと飛騨高山温泉宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 世界遺産白川郷の幻想的な雪景色ライトアップと小京都・高山の町並み。
               </p>
@@ -816,9 +768,7 @@ export default function GeroWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-rose-800 bg-rose-100/80 px-2 py-0.5 rounded">東海イルミ特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">
-                なばなの里イルミネーションと長島温泉の贅沢宿
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-rose-900 transition-colors">なばなの里イルミネーションと長島温泉の贅沢宿</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 日本最大級の光のトンネルと大パノラマイルミネーション、広大な庭園露天風呂。
               </p>
@@ -829,9 +779,7 @@ export default function GeroWinterPage() {
               className="p-4 rounded-2xl bg-stone-50 hover:bg-amber-50/60 border border-stone-200 hover:border-amber-300 transition-all space-y-1.5 group"
             >
               <span className="text-[11px] font-bold text-teal-800 bg-teal-100/80 px-2 py-0.5 rounded">冬花火特集</span>
-              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">
-                熱海海上花火大会とオーシャンビュー温泉ホテル
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm group-hover:text-teal-900 transition-colors">熱海海上花火大会とオーシャンビュー温泉ホテル</h3>
               <p className="text-xs text-stone-500 line-clamp-2">
                 冬の夜空と相模湾を染める名物海上花火と海を望む絶景展望温泉。
               </p>
@@ -840,9 +788,7 @@ export default function GeroWinterPage() {
 
           {/* 都道府県GEOリンク */}
           <div className="pt-4 border-t border-stone-100 space-y-3">
-            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">
-              岐阜県および中部・東海エリアのおすすめ温泉宿一覧
-            </h3>
+            <h3 className="text-xs font-bold text-stone-500 uppercase tracking-wider">岐阜県および中部・東海エリアのおすすめ温泉宿一覧</h3>
             <div className="flex flex-wrap gap-2 text-xs">
               <Link href="/prefectures/gifu/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">岐阜県の宿一覧</Link>
               <Link href="/prefectures/aichi/" className="px-3 py-1.5 bg-stone-100 hover:bg-amber-100 text-stone-700 hover:text-amber-900 rounded-lg transition-colors font-medium">愛知県の宿一覧</Link>

@@ -84,9 +84,7 @@ export default function FurusatoArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">
-            温暖な気候と豊富な湯量を誇る伊豆の玄関口——相模灘の絶景露天風呂と名物金目鯛の姿煮に舌鼓を打つ極上の休日
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-900 border-b border-amber-100 pb-3">温暖な気候と豊富な湯量を誇る伊豆の玄関口——相模灘の絶景露天風呂と名物金目鯛の姿煮に舌鼓を打つ極上の休日</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             静岡県伊東市、伊豆半島の東海岸に広がる伊東（いとう）温泉。別府、由布院に次ぐ全国有数の湧出量を誇り、毎分約3万2,000リットルもの温泉が市内の至る所から湧き出ています。江戸時代には三代将軍徳川家光に湯治湯として献上された歴史を持ち、明治以降は文人墨客の避暑地・別荘地として発展してきました。泉質は肌に優しく刺激が少ない単純温泉や弱食塩泉で、赤ちゃんからシニアまで安心して長湯を楽しめる名湯として親しまれています。
           </p>
@@ -135,7 +133,7 @@ export default function FurusatoArticlePage() {
 
         {/* ホテル詳細カード一覧 */}
         <section className="space-y-8">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>🏆</span> 厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">厳選3宿の詳細レビュー＆ふるさと納税活用ガイド</h2>
 
           {/* ホテル 1 */}
           <article className="bg-white rounded-3xl overflow-hidden shadow-sm border border-stone-200/80 transition hover:shadow-md">
@@ -157,36 +155,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊東市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  伊東温泉　青山やまと
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">伊東温泉　青山やまと</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   伊東の街並みと相模湾を見晴らす高台の名門！源泉掛け流し露天風呂と金目鯛姿煮の本格懐石料亭旅館
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  伊東温泉 青山やまと —— 丘の上に佇む上質なやすらぎ。絶景の展望風呂と心を尽くしたおもてなし
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">伊東温泉 青山やまと —— 丘の上に佇む上質なやすらぎ。絶景の展望風呂と心を尽くしたおもてなし</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 相模湾と伊東の夜景を一望する最上階の展望露天風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">相模湾と伊東の夜景を一望する最上階の展望露天風呂</h5>
                     <p className="text-stone-600 leading-relaxed">朝日に輝く海や夜の街の明かりを見渡す大浴場と露天風呂。良質な伊東の名湯に浸かりながら、開放感あふれる絶景を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 朝夕ともにお部屋でゆっくり味わう完全お部屋食スタイル
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">朝夕ともにお部屋でゆっくり味わう完全お部屋食スタイル</h5>
                     <p className="text-stone-600 leading-relaxed">仲居さんが一品ずつ配膳する伝統の日本旅館スタイル。周りを気にせず、プライベートな空間で贅沢な美食時間を過ごせます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 秘伝のタレでふっくら煮付けた金目鯛の姿煮と季節の懐石
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">秘伝のタレでふっくら煮付けた金目鯛の姿煮と季節の懐石</h5>
                     <p className="text-stone-600 leading-relaxed">料理長が腕を振るう華やかな本格料理。伊豆近海の新鮮魚介と旬の野菜をバランスよく組み合わせた極上ディナーです。</p>
                   </div>
                 </div>
@@ -241,36 +229,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊東市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  伊東温泉　サンハトヤ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">伊東温泉　サンハトヤ</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   「伊東に行くならハトヤ」のCMで有名な名門！巨大水槽でお魚が泳ぐ海底温泉「千石風呂」と全室オーシャンビュー
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  伊東温泉 サンハトヤ —— 海の上に建つ一大リゾート。名物海底温泉と相模灘の絶景パノラマ
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">伊東温泉 サンハトヤ —— 海の上に建つ一大リゾート。名物海底温泉と相模灘の絶景パノラマ</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> ウミガメや魚たちが泳ぐ巨大水槽を眺めながら入る「海底温泉 千石風呂」
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">ウミガメや魚たちが泳ぐ巨大水槽を眺めながら入る「海底温泉 千石風呂」</h5>
                     <p className="text-stone-600 leading-relaxed">まるで水族館の中で温泉に入っているかのような唯一無二の体験。家族連れや子供たちに大人気のアトラクション温泉です。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室が相模湾に面した壮大なオーシャンフロント
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室が相模湾に面した壮大なオーシャンフロント</h5>
                     <p className="text-stone-600 leading-relaxed">海の上にせり出すように建つホテルならではの眺望。遮るもののない水平線と朝日の絶景を部屋にいながら満喫できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 金目鯛や新鮮な海の幸が並ぶディナービュッフェ＆和食膳
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">金目鯛や新鮮な海の幸が並ぶディナービュッフェ＆和食膳</h5>
                     <p className="text-stone-600 leading-relaxed">伊豆の海の恵みをふんだんに取り入れた料理。シーズンごとのディナーショーや温泉プールも楽しめます。</p>
                   </div>
                 </div>
@@ -325,36 +303,26 @@ export default function FurusatoArticlePage() {
             <div className="p-6 sm:p-8 space-y-6">
               <div className="space-y-2">
                 <span className="text-xs font-bold text-amber-700 uppercase tracking-wider">静岡県伊東市</span>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ラフォーレ伊東温泉　湯の庭
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ラフォーレ伊東温泉　湯の庭</h3>
                 <p className="text-xs sm:text-sm font-medium text-amber-800">
                   全客室に天然温泉のお風呂を完備！和モダンなデザインと落ち着いた大人の寛ぎを提供する温泉ホテル
                 </p>
               </div>
 
               <div className="border-t border-b border-stone-100 py-4 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">
-                  ラフォーレ伊東温泉 湯の庭 —— 客室温泉風呂で過ごすおこもりステイ。湯量豊富な名湯と季節の会席料理
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif">ラフォーレ伊東温泉 湯の庭 —— 客室温泉風呂で過ごすおこもりステイ。湯量豊富な名湯と季節の会席料理</h4>
                 <div className="grid gap-3 text-xs sm:text-sm text-stone-700">
                   
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 全客室に設えられた天然温泉が注ぐプライベート客室風呂
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">全客室に設えられた天然温泉が注ぐプライベート客室風呂</h5>
                     <p className="text-stone-600 leading-relaxed">いつでも好きな時に名湯を満喫できる贅沢。大浴場の露天風呂とともに、心ゆくまで伊東の湯を堪能できます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊東駅から徒歩約10分の静かな住宅街に佇む和モダン空間
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊東駅から徒歩約10分の静かな住宅街に佇む和モダン空間</h5>
                     <p className="text-stone-600 leading-relaxed">観光の拠点としても便利な好アクセス。竹林の中庭やモダンなロビーラウンジで静かにリラックスできます。</p>
                   </div>
                   <div className="bg-stone-50 p-3.5 rounded-xl border border-stone-200/60">
-                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">
-                      <span className="text-amber-600">✓</span> 伊豆の山海の幸を彩り豊かに仕立てた本格和食会席
-                    </h5>
+                    <h5 className="font-bold text-stone-900 mb-1 flex items-center gap-1.5">伊豆の山海の幸を彩り豊かに仕立てた本格和食会席</h5>
                     <p className="text-stone-600 leading-relaxed">旬魚のお造りや肉料理など、目にも美しい料理が並ぶディナーコース。落ち着いたレストランでゆったり味わえます。</p>
                   </div>
                 </div>
@@ -392,34 +360,26 @@ export default function FurusatoArticlePage() {
 
         {/* エリア観光・見どころ */}
         <section className="space-y-4">
-          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2">
-            <span>🗺️</span> 伊東温泉・城ヶ崎海岸＆大室山観光ガイド
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 flex items-center gap-2"><span>️</span> 伊東温泉・城ヶ崎海岸＆大室山観光ガイド</h2>
           <div className="grid gap-4">
 
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
-                大室山（おおむろやま）リフトと火口周回遊歩道
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">1</span>
+                大室山（おおむろやま）リフトと火口周回遊歩道</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 すり鉢状の火口を持つ美しい単成火山。リフトで山頂に登れば、360度の大パノラマで富士山や伊豆諸島を一望でき、「お鉢巡り」が楽しめます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
-                城ヶ崎海岸門脇吊橋と断崖絶壁の絶景ハイク
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">2</span>
+                城ヶ崎海岸門脇吊橋と断崖絶壁の絶景ハイク</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 大室山の溶岩が海に流れ込んで形成されたリアス式海岸。高さ23メートルの門脇吊橋からは、足元に渦巻く激しい白波のスリルを体感できます。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-stone-200/80 shadow-sm space-y-2">
-              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2">
-                <span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
-                伊東松川遊歩道と登録有形文化財「東海館」見学
-              </h4>
+              <h4 className="font-bold text-stone-900 text-sm sm:text-base font-serif flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-amber-100 text-amber-900 flex items-center justify-center text-xs font-sans font-bold">3</span>
+                伊東松川遊歩道と登録有形文化財「東海館」見学</h4>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-8">
                 伊東温泉の中心を流れる松川沿いの遊歩道。昭和初期の木造三階建て温泉旅館建築「東海館」の見学や、春の桜並木散策が人気です。
               </p>
@@ -431,9 +391,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-gradient-to-br from-amber-900 via-stone-900 to-stone-950 text-white rounded-3xl p-6 sm:p-8 shadow-xl space-y-6">
           <div className="space-y-2">
             <span className="text-xs uppercase tracking-widest text-amber-300 font-semibold">How to Use Coupon</span>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">
-              静岡県伊東市ふるさと納税×楽天トラベルクーポン活用手順
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-amber-50">静岡県伊東市ふるさと納税×楽天トラベルクーポン活用手順</h2>
             <p className="text-stone-300 text-xs sm:text-sm">初めての方でも迷わず利用できる3ステップ。予約済みのプランにも後から適用可能です。
             </p>
           </div>
@@ -509,9 +467,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】伊東温泉 青山やまとを拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】伊東温泉 青山やまとを拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -544,9 +500,7 @@ export default function FurusatoArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と伊東温泉 青山やまとの滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と伊東温泉 青山やまとの滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

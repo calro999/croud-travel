@@ -298,10 +298,8 @@ export default function TsunagiOnsenWinterPage() {
             <Lightbulb className="w-4 h-4 text-amber-300" />
             <span>11月・12月限定 小岩井農場銀河イルミネーションと秀峰岩手山の雪見露天</span>
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">
-            【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】<br className="hidden sm:inline" />
-            銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight leading-tight text-white mb-6 drop-shadow-md">【11・12月盛岡つなぎ温泉の冬名湯と小岩井イルミ】<br className="hidden sm:inline" />
+            銀河農場の夜・秀峰岩手山雪見露天と極上前沢牛会席の宿5選</h1>
           <p className="text-sm sm:text-base md:text-lg text-slate-200 max-w-2xl mx-auto leading-relaxed drop-shadow">
             初冬の御所湖越しに白銀を纏う岩手山の絶景。開湯900年を超える名湯・つなぎ温泉と鶯宿温泉に浸かり、東北最大級の「小岩井農場 銀河農場の夜」イルミネーションと極上前沢牛・雫石牛の贅沢会席を堪能する大人の冬旅。
           </p>
@@ -327,9 +325,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Morioka Tsunagi Onsen Winter Elegance</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                源義家ゆかりの繋石と御所湖の静寂、北東北の冬が育む温もりの美肌湯
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">源義家ゆかりの繋石と御所湖の静寂、北東北の冬が育む温もりの美肌湯</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -368,9 +364,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Natural Hot Spring Features</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                つなぎ温泉＆鶯宿温泉の泉質スペックと極上の「温まり＆美肌入浴法」
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">つなぎ温泉＆鶯宿温泉の泉質スペックと極上の「温まり＆美肌入浴法」</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -389,9 +383,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Koiwai Farm Winter Spectacular</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                東北最大級！小岩井農場『銀河農場の夜』100万球イルミネーション徹底ガイド
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">東北最大級！小岩井農場『銀河農場の夜』100万球イルミネーション徹底ガイド</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -410,9 +402,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Seasonal Appeal</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月のつなぎ温泉・雫石が旅人を魅了する3つの理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月のつなぎ温泉・雫石が旅人を魅了する3つの理由</h2>
             </div>
           </div>
           
@@ -453,9 +443,7 @@ export default function TsunagiOnsenWinterPage() {
         <section id="hotels" className="space-y-8">
           <div className="text-center max-w-2xl mx-auto space-y-2">
             <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Featured Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              盛岡つなぎ温泉＆鶯宿温泉 11月・12月におすすめの名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">盛岡つなぎ温泉＆鶯宿温泉 11月・12月におすすめの名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベルの最新APIから取得した公式データをもとに、御所湖の絶景露天・源泉掛け流し・前沢牛会席を誇る宿を厳選。
             </p>
@@ -491,11 +479,9 @@ export default function TsunagiOnsenWinterPage() {
                 <div className="p-6 sm:p-8 w-full flex flex-col justify-between space-y-5">
                   <div className="space-y-3">
                     <div className="space-y-1">
-                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-800 transition">
-                        <a href={hotel.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-lg sm:text-xl font-bold text-slate-900 hover:text-indigo-800 transition"><a href={hotel.url} target="_blank" rel="noopener noreferrer">
                           {hotel.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-3.5 h-3.5 text-indigo-700 shrink-0" />
                         <span>{hotel.access}</span>
@@ -555,9 +541,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Morioka & Shizukuishi Winter Food</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                4. 盛岡・雫石の初冬グルメ：前沢牛・雫石牛の贅と盛岡三大麺の真髄
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">4. 盛岡・雫石の初冬グルメ：前沢牛・雫石牛の贅と盛岡三大麺の真髄</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -576,35 +560,25 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Recommended Winter Course</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                5. 1泊2日 つなぎ温泉〜小岩井農場イルミ・盛岡麺めぐり 王道モデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">5. 1泊2日 つなぎ温泉〜小岩井農場イルミ・盛岡麺めぐり 王道モデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
             <div className="border-l-2 border-indigo-800 pl-4 sm:pl-6 space-y-2">
               <span className="text-xs font-extrabold text-indigo-800 uppercase tracking-wider">【1日目】盛岡駅到着〜小岩井農場銀河イルミネーション＆名湯雪見露天</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                12:00 JR盛岡駅到着 → 駅近くの老舗で「盛岡冷麺」ランチ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">12:00 JR盛岡駅到着 → 駅近くの老舗で「盛岡冷麺」ランチ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 駅前や大通りの人気店で本場の冷麺を堪能。牛骨出汁と手打ち麺のコシを体感。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                14:00 盛岡駅西口より無料送迎バスまたはレンタカーでつなぎ温泉へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">14:00 盛岡駅西口より無料送迎バスまたはレンタカーでつなぎ温泉へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 車で約25分。チェックイン後、まずは御所湖を望む露天風呂で初冬の冷気を忘れる湯浴み。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                16:30 小岩井農場へ移動 → 『銀河農場の夜』イルミネーション鑑賞
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">16:30 小岩井農場へ移動 → 『銀河農場の夜』イルミネーション鑑賞</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 宿から車で約15〜20分。日没とともに点灯する約100万球の光の回廊や光のSLを散策。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                19:30 宿に戻り極上前沢牛・雫石牛会席 → 夜の雪見露天風呂
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">19:30 宿に戻り極上前沢牛・雫石牛会席 → 夜の雪見露天風呂</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 とろける前沢牛のすき焼きや三陸海の幸に舌鼓。星空と湖面を眺めながら芯まで温まります。
               </p>
@@ -612,21 +586,15 @@ export default function TsunagiOnsenWinterPage() {
 
             <div className="border-l-2 border-slate-300 pl-4 sm:pl-6 space-y-2 pt-2">
               <span className="text-xs font-extrabold text-slate-500 uppercase tracking-wider">【2日目】朝の湖畔露天風呂〜盛岡城跡公園＆赤レンガ館散策</span>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base">
-                07:30 朝陽に輝く岩手山冠雪を眺めながら朝風呂 → 郷土朝食
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base">07:30 朝陽に輝く岩手山冠雪を眺めながら朝風呂 → 郷土朝食</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 御所湖の朝霧と岩手山のシルエットが織り成す絵画のような絶景を眺めながら入浴。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                09:30 御所湖畔の盛岡手づくり村散策（南部鉄器や南部せんべい焼き体験）
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">09:30 御所湖畔の盛岡手づくり村散策（南部鉄器や南部せんべい焼き体験）</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 職人の技を間近で見学し、伝統の南部鉄器や焼きたての南部せんべいをお土産に購入。
               </p>
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">
-                12:00 盛岡市街へ戻り「盛岡じゃじゃ麺」ランチ → 盛岡駅より新幹線で帰路へ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base pt-2">12:00 盛岡市街へ戻り「盛岡じゃじゃ麺」ランチ → 盛岡駅より新幹線で帰路へ</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 レトロな赤レンガの岩手銀行赤レンガ館や盛岡城跡を散策し、充実の1泊2日を締めくくります。
               </p>
@@ -642,9 +610,7 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Winter Travel Preparation</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の気候・おすすめの服装・冬道アクセス対策
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の気候・おすすめの服装・冬道アクセス対策</h2>
             </div>
           </div>
           <p className="text-slate-700 leading-relaxed text-sm sm:text-base">
@@ -663,18 +629,14 @@ export default function TsunagiOnsenWinterPage() {
             </div>
             <div>
               <span className="text-xs font-bold text-indigo-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                よくある質問（FAQ）と初冬のつなぎ温泉旅行アドバイス
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">よくある質問（FAQ）と初冬のつなぎ温泉旅行アドバイス</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-indigo-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-indigo-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -687,9 +649,7 @@ export default function TsunagiOnsenWinterPage() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-indigo-300 uppercase tracking-widest">Related Tohoku & Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい東北・東日本の冬名湯＆雪景色特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい東北・東日本の冬名湯＆雪景色特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月ならではの雪景色、温泉街のイルミネーション、旬の郷土グルメを味わい尽くす全国の名宿ガイドを多数公開中。
             </p>

@@ -79,18 +79,14 @@ export default function FurusatoFeaturePage() {
 
       {/* メリット3選 */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 max-w-5xl mx-auto border-b border-stone-800">
-        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">
-          幾重にも重なる美しい緑の波と水鏡。大地と人が織りなす日本の原風景に心洗われる滞在
-        </h2>
+        <h2 className="text-2xl sm:text-3xl font-black text-amber-100 text-center mb-10">幾重にも重なる美しい緑の波と水鏡。大地と人が織りなす日本の原風景に心洗われる滞在</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           
           <div key="0" className="p-6 rounded-2xl bg-stone-950/60 border border-stone-800">
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               01
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              刻一刻と表情を変える棚田の朝霧や夕景をベストタイミングで鑑賞
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">刻一刻と表情を変える棚田の朝霧や夕景をベストタイミングで鑑賞</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               日帰り観光では見られない、朝霧が立ち込める幻想的な棚田や、夕日に染まる水鏡の絶景を宿からゆったりと鑑賞できます。
             </p>
@@ -100,9 +96,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               02
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              名水と寒暖差が生む極上の棚田米コシヒカリと里山ご馳走会席
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">名水と寒暖差が生む極上の棚田米コシヒカリと里山ご馳走会席</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               米どころならではの炊きたて銀シャリ、清流のイワナやアユ、滋味あふれる山菜料理など、大地の恵みを五感で味わえます。
             </p>
@@ -112,9 +106,7 @@ export default function FurusatoFeaturePage() {
             <div className="w-10 h-10 rounded-xl bg-amber-500/10 border border-amber-500/30 flex items-center justify-center text-amber-400 font-bold mb-4">
               03
             </div>
-            <h3 className="text-lg font-bold text-stone-200 mb-2">
-              静寂と鳥の声に包まれる里山リトリートでデジタルデトックス
-            </h3>
+            <h3 className="text-lg font-bold text-stone-200 mb-2">静寂と鳥の声に包まれる里山リトリートでデジタルデトックス</h3>
             <p className="text-xs sm:text-sm text-stone-400 leading-relaxed">
               都会の喧騒や喧騒から完全に遮断された環境で、源泉かけ流しの湯に浸かり、心身の深いととのいを得られます。
             </p>
@@ -129,9 +121,7 @@ export default function FurusatoFeaturePage() {
           
           <div key="matsudai_tanada" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                新潟県十日町市ふるさと納税：星峠の棚田の水鏡と日本三大薬湯・越後松之山温泉の里山宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">新潟県十日町市ふるさと納税：星峠の棚田の水鏡と日本三大薬湯・越後松之山温泉の里山宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 まるで水墨画のような雲海と棚田が広がる十日町・星峠。太古の化石海水が湧き出る松之山温泉の濃厚な湯に癒やされ、魚沼産コシヒカリの最高峰を堪能する極上の里山ステイです。
               </p>
@@ -159,9 +149,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     新潟県十日町市松之山天水越88-2
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    越後松之山温泉　旅館明星
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">越後松之山温泉　旅館明星</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     地酒（第一酒造）のラインナップは自称世界一！お酒とお料理と温泉が楽しめます。
                   </p>
@@ -190,9 +178,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="noto_tanada" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                石川県輪島市・能登ふるさと納税：世界農業遺産・白米千枚田の日本海絶景と能登里山名湯旅館
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">石川県輪島市・能登ふるさと納税：世界農業遺産・白米千枚田の日本海絶景と能登里山名湯旅館</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本海へと雪崩れ落ちるように広がる1004枚の棚田・白米千枚田。夕暮れ時に黄金色に輝く海と棚田のコントラスト、輪島塗の器でいただく能登牛や寒ブリ会席が旅情を誘います。
               </p>
@@ -220,9 +206,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県加賀市山中温泉東町1-ホ14-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    山中温泉　吉祥やまなか
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">山中温泉　吉祥やまなか</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     清流と名湯、美食に包まれるラグジュアリー宿。山中温泉の文化に触れ、心ほどける静寂の滞在。
                   </p>
@@ -266,9 +250,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県珠洲市狼煙町
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    禄光旅館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">禄光旅館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     能登の山と海の自然な素材を生かした料理を味わっていただきながら心に刻まれる安らぎのひと時をどうぞ。
                   </p>
@@ -312,9 +294,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     石川県七尾市和倉町和歌崎部12-3
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    和倉温泉　ホテル海望
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">和倉温泉　ホテル海望</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     お客様に愛され続けて創業130余年。海を望むという名である理由、感動を一度ご体感ください。
                   </p>
@@ -343,9 +323,7 @@ export default function FurusatoFeaturePage() {
             
           <div key="kamogawa_tanada" className="space-y-8">
             <div className="border-l-4 border-amber-500 pl-4">
-              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">
-                千葉県鴨川市ふるさと納税：東京から一番近い棚田・大山千枚田と南房総太平洋オーシャン温泉宿
-              </h2>
+              <h2 className="text-2xl sm:text-3xl font-black text-amber-200 mb-2">千葉県鴨川市ふるさと納税：東京から一番近い棚田・大山千枚田と南房総太平洋オーシャン温泉宿</h2>
               <p className="text-sm sm:text-base text-stone-300 leading-relaxed">
                 日本で唯一、雨水のみで耕作される天水田として知られる大山千枚田。青々とした里山の階段風景を散策した後は、南房総の潮風を感じる温泉露天風呂と獲れたて地魚三昧を満喫できます。
               </p>
@@ -373,9 +351,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県鴨川市広場834
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    鴨川グランドタワー
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鴨川グランドタワー</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     【全室オーシャンビュー】33F建高層コンドミニアム■隣の鴨川グランドホテル温泉大浴場も無料■
                   </p>
@@ -419,9 +395,7 @@ export default function FurusatoFeaturePage() {
                   <span className="text-[11px] text-amber-400 font-semibold mb-1">
                     千葉県鴨川市西町1179
                   </span>
-                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">
-                    鴨川館
-                  </h3>
+                  <h3 className="text-base font-bold text-stone-100 group-hover:text-amber-300 transition-colors line-clamp-2 mb-2">鴨川館</h3>
                   <p className="text-xs text-stone-400 line-clamp-2 mb-4">
                     2024年大浴場リニューアル&amp;インドアテラス客室誕生！人気の鴨川シーワールドまで徒歩3分
                   </p>
@@ -482,9 +456,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">古民家再生・歴史的町家オーベルジュ×文化財ホテル滞在記</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 篠山・飛騨高山・竹田城下の歴史情緒と地産馳走ステイ。
               </p>
@@ -498,9 +470,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                秘境・渓谷の一軒宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">秘境・渓谷の一軒宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 黒部峡谷・祖谷・みちのく深山の完全遮断リトリート。
               </p>
@@ -514,9 +484,7 @@ export default function FurusatoFeaturePage() {
             className="p-5 rounded-2xl bg-stone-950/60 border border-stone-800 hover:border-amber-500/40 transition-colors group flex flex-col justify-between"
           >
             <div>
-              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">
-                歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド
-              </h3>
+              <h3 className="text-sm font-bold text-stone-200 group-hover:text-amber-300 transition-colors mb-2">歴史街道・宿場町めぐり名宿×ふるさと納税完全ガイド</h3>
               <p className="text-xs text-stone-400 leading-relaxed">
                 中山道木曽路（妻籠・馬籠）・日光街道の江戸情緒旅。
               </p>
@@ -534,9 +502,7 @@ export default function FurusatoFeaturePage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -615,9 +581,7 @@ export default function FurusatoFeaturePage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガイド星峠・白米千枚田・大山千枚田の休日で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

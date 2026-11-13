@@ -316,9 +316,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Sacred Inari Pilgrimage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                約1000本の朱塗り鳥居が雪に映える！日本五大稲荷「太皷谷稲成神社」新春初詣
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">約1000本の朱塗り鳥居が雪に映える！日本五大稲荷「太皷谷稲成神社」新春初詣</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -337,9 +335,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-stone-600 pl-4 mb-6">
               <span className="text-xs font-bold text-stone-600 tracking-wider uppercase">Little Kyoto Heritage</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                白壁となまこ壁に舞う粉雪！殿町通りの武家屋敷と清冽な掘割を泳ぐ錦鯉
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">白壁となまこ壁に舞う粉雪！殿町通りの武家屋敷と清冽な掘割を泳ぐ錦鯉</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -358,9 +354,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-amber-600 pl-4 mb-6">
               <span className="text-xs font-bold text-amber-600 tracking-wider uppercase">Traditional Culinary Culture</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                日本五大名飯「うずめ飯」の温もりと、口の中でとろける幻の「石見和牛」
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">日本五大名飯「うずめ飯」の温もりと、口の中でとろける幻の「石見和牛」</h2>
             </div>
             <div className="prose prose-stone max-w-none text-stone-700 leading-relaxed space-y-4">
               <p>
@@ -379,9 +373,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-8">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Verified Hotels via Rakuten API</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【楽天トラベル実データ連携】津和野・益田周辺の厳選名宿5選
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【楽天トラベル実データ連携】津和野・益田周辺の厳選名宿5選</h2>
               <p className="text-xs sm:text-sm text-stone-500 mt-1">
                 ※公式リアルタイムAPIから取得した宿泊料金目安・レビュー評価・アクセス情報を掲載しています。
               </p>
@@ -407,9 +399,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
                       </div>
                     </div>
 
-                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">
-                      {h.name}
-                    </h3>
+                    <h3 className="text-lg sm:text-xl font-bold text-stone-900 mb-2">{h.name}</h3>
 
                     <div className="flex items-center gap-2 text-xs text-stone-500 mb-4">
                       <MapPin className="w-3.5 h-3.5 text-red-500 shrink-0" />
@@ -432,9 +422,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
                     </div>
 
                     <div className="mb-5">
-                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">
-                        宿泊ポイント・魅力
-                      </h4>
+                      <h4 className="text-xs font-bold text-stone-900 uppercase tracking-wider mb-2">宿泊ポイント・魅力</h4>
                       <ul className="grid grid-cols-1 gap-1.5">
                         {h.highlights.map((hl: string, idx: number) => (
                           <li key={idx} className="flex items-start gap-2 text-xs text-stone-600">
@@ -466,17 +454,13 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【1泊2日モデルコース】津和野城下町散策・太皷谷稲成初詣＆うずめ飯満喫ルート
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【1泊2日モデルコース】津和野城下町散策・太皷谷稲成初詣＆うずめ飯満喫ルート</h2>
             </div>
             
             <div className="space-y-6">
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">1</span>
-                  1日目：山陰の小京都・殿町通り散策と元祖うずめ飯・津和野温泉
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">1</span>
+                  1日目：山陰の小京都・殿町通り散策と元祖うずめ飯・津和野温泉</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">11:00 JR津和野駅到着・殿町通りへ</strong><br />
@@ -502,10 +486,8 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2">
-                  <span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">2</span>
-                  2日目：太皷谷稲成神社千本鳥居初詣＆益田・日本海グルメ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-stone-900 mb-4 flex items-center gap-2"><span className="w-6 h-6 rounded-full bg-red-600 text-white flex items-center justify-center text-xs font-bold">2</span>
+                  2日目：太皷谷稲成神社千本鳥居初詣＆益田・日本海グルメ</h3>
                 <ol className="relative border-l border-stone-200 ml-3 space-y-4 text-xs sm:text-sm text-stone-600">
                   <li className="pl-4">
                     <strong className="text-stone-800">08:00 宿で朝風呂と地元産食材の和朝食</strong><br />
@@ -532,47 +514,37 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-rose-600 pl-4 mb-6">
               <span className="text-xs font-bold text-rose-600 tracking-wider uppercase">Travel Guide & Tips</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                【11・12・1月】津和野の気候・雪道対策と参拝攻略のポイント
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">【11・12・1月】津和野の気候・雪道対策と参拝攻略のポイント</h2>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs sm:text-sm">
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Snowflake className="w-4 h-4 text-blue-500" />
-                  山陰特有の雪道とスタッドレスタイヤ
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Snowflake className="w-4 h-4 text-blue-500" />
+                  山陰特有の雪道とスタッドレスタイヤ</h3>
                 <p className="text-stone-600 leading-relaxed">
                   津和野は盆地山間部に位置するため、12月中旬〜2月は日本海からの雪雲により積雪や路面凍結が発生します。特に六日市ICや小郡ICからの峠越えルートは日陰が多く凍結しやすいため、車で訪れる際は必ずスタッドレスタイヤを装着してください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Footprints className="w-4 h-4 text-red-500" />
-                  太皷谷稲成神社の千本鳥居石段対策
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Footprints className="w-4 h-4 text-red-500" />
+                  太皷谷稲成神社の千本鳥居石段対策</h3>
                 <p className="text-stone-600 leading-relaxed">
                   太皷谷稲成神社の千本鳥居参道は約300段の石段が続きます。冬期は石段に雪が積もったり凍結したりして滑りやすくなるため、革靴やヒールは避け、滑り止めの効いたトレッキングシューズや防寒ブーツでお出かけください。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Compass className="w-4 h-4 text-emerald-500" />
-                  特急スーパーおきを活用した快適アクセス
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Compass className="w-4 h-4 text-emerald-500" />
+                  特急スーパーおきを活用した快適アクセス</h3>
                 <p className="text-stone-600 leading-relaxed">
                   山陽新幹線の新山口駅からJR山口線の特急「スーパーおき」を利用すれば、雪道運転の心配なく約1時間で津和野駅へ到着できます。車窓から眺める雪化粧の長門峡や山あいの風景も美しく、冬の鉄道旅として極めて快適です。
                 </p>
               </div>
 
               <div className="bg-white rounded-xl border border-stone-200 p-5">
-                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm">
-                  <Calendar className="w-4 h-4 text-amber-500" />
-                  新春初詣の混雑ピークと参拝時間
-                </h3>
+                <h3 className="font-bold text-stone-900 mb-2 flex items-center gap-1.5 text-sm"><Calendar className="w-4 h-4 text-amber-500" />
+                  新春初詣の混雑ピークと参拝時間</h3>
                 <p className="text-stone-600 leading-relaxed">
                   太皷谷稲成神社は山陰屈指の初詣名所であり、正月三が日には約10万人の参拝者が訪れます。山上の駐車場は混雑するため、麓の町営駐車場に車を止めて表参道を歩いて登るか、早朝8時台または夕方16時以降の静かな時間帯の参拝がおすすめです。
                 </p>
@@ -584,18 +556,14 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
           <section className="mb-16">
             <div className="border-l-4 border-red-600 pl-4 mb-6">
               <span className="text-xs font-bold text-red-600 tracking-wider uppercase">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">
-                津和野初詣＆うずめ飯冬旅 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-stone-900 mt-1">津和野初詣＆うずめ飯冬旅 よくある質問（FAQ）</h2>
             </div>
 
             <div className="space-y-4">
               {faqList.map((f, idx) => (
                 <div key={idx} className="bg-white rounded-xl border border-stone-200 p-5 sm:p-6 shadow-sm">
-                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2">
-                    <span className="text-red-600 font-black">Q.</span>
-                    <span>{f.q}</span>
-                  </h3>
+                  <h3 className="text-sm sm:text-base font-bold text-stone-900 mb-2 flex items-start gap-2"><span className="text-red-600 font-black">Q.</span>
+                    <span>{f.q}</span></h3>
                   <div className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5 border-l-2 border-red-100 mt-2">
                     <p>{f.a}</p>
                   </div>
@@ -606,9 +574,7 @@ export default function ShimaneTsuwanoWinterFeaturePage() {
 
           {/* Section 8: まとめ＆内部リンク */}
           <section className="border-t border-stone-200 pt-10 text-center">
-            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">
-              朱塗りの鳥居と雪の町並み、熱々のうずめ飯が待つ冬の津和野へ
-            </h2>
+            <h2 className="text-lg sm:text-xl font-bold text-stone-900 mb-4">朱塗りの鳥居と雪の町並み、熱々のうずめ飯が待つ冬の津和野へ</h2>
             <p className="text-xs sm:text-sm text-stone-600 leading-relaxed max-w-2xl mx-auto mb-8">
               太皷谷稲成神社の千本鳥居が誘う願望成就の新春初詣、雪の殿町通りに泳ぐ錦鯉、熱々の出汁が染み渡る伝統のうずめ飯、そして極上の石見和牛。静寂と温もりが同居する山陰の小京都で、心に残る新年の旅をお楽しみください。
             </p>

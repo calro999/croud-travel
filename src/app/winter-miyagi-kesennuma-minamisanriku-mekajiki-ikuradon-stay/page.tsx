@@ -302,9 +302,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-xs border border-stone-200/80 space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Overview</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の三陸沖がもたらす奇跡の脂乗り・メカジキ「冬木廻」と溢れるイクラの饗宴
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の三陸沖がもたらす奇跡の脂乗り・メカジキ「冬木廻」と溢れるイクラの饗宴</h2>
           </div>
           
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -327,9 +325,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="space-y-6">
           <div className="border-b border-stone-200 pb-3">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Highlights</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の気仙沼・南三陸を満喫する3大感動体験
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の気仙沼・南三陸を満喫する3大感動体験</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -337,9 +333,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-cyan-50 border border-cyan-200 flex items-center justify-center text-cyan-700">
                 <Utensils className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                1. 幻のメカジキ「冬木廻」と気仙沼フカヒレ姿煮
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">1. 幻のメカジキ「冬木廻」と気仙沼フカヒレ姿煮</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 マグロのトロを超える濃厚な旨味を持つ冬の生鮮メカジキ。刺身・炙り・しゃぶしゃぶの食べ比べに加え、全国シェアの大半を占める気仙沼伝統の肉厚フカヒレ姿煮を味わう至高の贅沢。
               </p>
@@ -349,9 +343,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-amber-50 border border-amber-200 flex items-center justify-center text-amber-700">
                 <Sparkles className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                2. 宝石のような「南三陸キラキラいくら丼」
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">2. 宝石のような「南三陸キラキラいくら丼」</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 11月から2月限定、南三陸さんさん商店街の各店舗で提供される冬の主役。弾ける大粒イクラが丼を覆い尽くし、旬の真牡蠣やアワビとともに三陸の海の恵みを存分に味わえます。
               </p>
@@ -361,9 +353,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="w-12 h-12 rounded-2xl bg-blue-50 border border-blue-200 flex items-center justify-center text-blue-700">
                 <Waves className="w-6 h-6" />
               </div>
-              <h3 className="text-lg font-bold text-stone-900">
-                3. 気仙沼深層天然温泉＆太平洋の朝日露天
-              </h3>
+              <h3 className="text-lg font-bold text-stone-900">3. 気仙沼深層天然温泉＆太平洋の朝日露天</h3>
               <p className="text-sm text-stone-600 leading-relaxed">
                 地下1800mから湧く高濃度塩化物泉の保温美肌湯。志津川湾や気仙沼湾を眼下に望む露天風呂から、水平線を黄金色に染め上げる冬の日の出を眺める特別なひとときを過ごせます。
               </p>
@@ -375,9 +365,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="bg-slate-900 text-white rounded-3xl p-6 sm:p-10 space-y-8">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-cyan-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Model Itinerary</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              【1泊2日】気仙沼冬メカジキと南三陸キラキラいくら丼・絶景露天を巡る黄金モデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">【1泊2日】気仙沼冬メカジキと南三陸キラキラいくら丼・絶景露天を巡る黄金モデルコース</h2>
             <p className="text-slate-400 text-sm mt-1">
               仙台駅または仙台空港を起点に、三陸沿岸道路（無料区間）を利用して冬の三陸の味覚と絶景をスムーズに巡るドライブプラン。
             </p>
@@ -388,9 +376,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  11:30 南三陸さんさん商店街到着 ➔ 名物「南三陸キラキラいくら丼」と真牡蠣ランチ
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">11:30 南三陸さんさん商店街到着  名物「南三陸キラキラいくら丼」と真牡蠣ランチ</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   仙台方面から三陸道で南三陸志津川ICへ。隈研吾氏設計の杉の温もりあふれる商店街で、大粒イクラがこぼれんばかりに盛られた名物丼を味わいます。冬に旬を迎える志津川湾の真牡蠣焼きやアワビも一緒に楽しめます。
                 </p>
@@ -399,9 +385,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 午後</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  14:00 唐桑半島・巨釜半造（おおがまはんぞう）散策 ➔ 折石のリアス海岸冬景色
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">14:00 唐桑半島・巨釜半造（おおがまはんぞう）散策  折石のリアス海岸冬景色</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   気仙沼の北東端、唐桑半島へ。太平洋の激しい荒波が削り出した高さ16mの大石柱「折石」をはじめとする奇岩連なるリアス海岸を散策。冬の澄んだ大気と紺碧の海が織りなす荘厳な自然美に息を呑みます。
                 </p>
@@ -410,9 +394,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 1 夕刻〜夜</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  16:30 気仙沼温泉の名宿チェックイン ➔ 深層温泉露天風呂＆極上「冬木廻メカジキ会席」
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">16:30 気仙沼温泉の名宿チェックイン  深層温泉露天風呂＆極上「冬木廻メカジキ会席」</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   港を見下ろす宿に到着。地下1800mから湧く強塩温泉で身体の芯まで温まった後は、お待ちかねの夕食へ。トロのようにとろける冬メカジキの刺身、しゃぶしゃぶ、気仙沼フカヒレ姿煮に地酒「水鳥記」を合わせて至福の夜を過ごします。
                 </p>
@@ -421,9 +403,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
               <div className="relative">
                 <span className="absolute -left-[31px] sm:-left-[39px] top-1.5 w-4 h-4 rounded-full bg-cyan-500 border-4 border-slate-900" />
                 <span className="text-xs font-bold text-cyan-400 tracking-wider uppercase">DAY 2 朝〜昼</span>
-                <h3 className="text-base sm:text-lg font-bold text-white mt-1">
-                  07:00 太平洋の神聖な朝日鑑賞 ➔ 気仙沼魚市場・海の市で海産物ショッピング
-                </h3>
+                <h3 className="text-base sm:text-lg font-bold text-white mt-1">07:00 太平洋の神聖な朝日鑑賞  気仙沼魚市場・海の市で海産物ショッピング</h3>
                 <p className="text-slate-300 text-sm mt-2 leading-relaxed">
                   露天風呂や客室から水平線から昇る朝日を拝み、朝食後は気仙沼の観光拠点「海の市」へ。活気あふれる市場でお土産用のフカヒレスープやメカジキの燻製、塩ウニを購入し、内湾エリアのおしゃれなカフェで休憩して帰路へ。
                 </p>
@@ -436,27 +416,21 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Local Gastronomy & Culture</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              三陸・気仙沼が育んだ世界屈指の魚文化と冬の伝統美味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">三陸・気仙沼が育んだ世界屈指の魚文化と冬の伝統美味</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-stone-700 text-sm leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-cyan-700" />
-                日本一のフカヒレ加工技術とヨシキリザメの恵み
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-cyan-700" />
+                日本一のフカヒレ加工技術とヨシキリザメの恵み</h3>
               <p>
                 気仙沼はサメの水揚げ日本一を誇り、江戸時代から受け継がれてきた高度な天日干しと加工技術により、全国の高級中華料理店へ最高品質のフカヒレを供給しています。特に大型のヨシキリザメやモウカザメのヒレは肉厚で繊維が太く、出汁を含ませて煮込むと金糸のように美しく輝きます。冬の宿で提供される熱々のフカヒレ姿煮は、濃厚なコラーゲンと鶏ガラ白湯スープが調和した気仙沼ならではの芸術的な美味です。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-200/60">
-              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2">
-                <ShoppingBag className="w-4 h-4 text-cyan-700" />
-                海の男たちが愛した宮城の銘酒「水鳥記」「男山本店」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-base flex items-center gap-2"><ShoppingBag className="w-4 h-4 text-cyan-700" />
+                海の男たちが愛した宮城の銘酒「水鳥記」「男山本店」</h3>
               <p>
                 気仙沼の老舗酒蔵である角星（「水鳥記」）や男山本店（「気仙沼男山」「蒼天伝」）が醸す日本酒は、三陸の新鮮な魚介と寄り添うように作られた淡麗にしてキレのある辛口酒。冬の戻りメカジキの濃厚な脂をきりりと流し込み、牡蠣やアワビの繊細な旨味を引き立てます。冬期には新酒のしぼりたて生酒も登場し、港町の夜宴を華やかに彩ってくれます。
               </p>
@@ -468,9 +442,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="space-y-8">
           <div className="border-b border-stone-200 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Selected Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">
-              冬の三陸メカジキ・いくら丼と名湯を堪能する厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-stone-900">冬の三陸メカジキ・いくら丼と名湯を堪能する厳選名宿5選</h2>
             <p className="text-stone-600 text-sm sm:text-base mt-1">
               楽天トラベル公式APIより取得した最新データに基づく、料理・絶景風呂・立地が高評価の宿。
             </p>
@@ -504,9 +476,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs sm:text-sm text-stone-500 font-medium">
                         {h.special}
@@ -566,9 +536,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="bg-cyan-50/60 rounded-3xl p-6 sm:p-10 border border-cyan-200/60 space-y-6">
           <div className="border-b border-cyan-200/80 pb-4">
             <span className="text-cyan-900 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Traveler Tips</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">
-              冬の気仙沼・南三陸を快適に巡るための実践アドバイス
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-cyan-950">冬の気仙沼・南三陸を快適に巡るための実践アドバイス</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs sm:text-sm text-cyan-950">
@@ -608,20 +576,16 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 border border-stone-200/80 shadow-xs space-y-6">
           <div className="border-b border-stone-100 pb-4">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              冬の気仙沼メカジキ＆南三陸いくら丼に関するよくある質問
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">冬の気仙沼メカジキ＆南三陸いくら丼に関するよくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="border border-stone-200/70 rounded-2xl p-5 hover:border-cyan-300 transition-colors bg-stone-50/50">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3">
-                  <span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-3"><span className="w-6 h-6 rounded-full bg-cyan-800 text-white flex items-center justify-center text-xs shrink-0 mt-0.5 font-bold">
                     Q
                   </span>
-                  <span>{faq.q}</span>
-                </h3>
+                  <span>{faq.q}</span></h3>
                 <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mt-3 pl-9">
                   {faq.a}
                 </p>
@@ -634,9 +598,7 @@ export default function MiyagiKesennumaMinamisanrikuWinterPage() {
         <section className="border-t border-stone-200 pt-10 space-y-6">
           <div className="space-y-1">
             <span className="text-cyan-800 font-bold text-xs sm:text-sm tracking-wider uppercase block">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              あわせて読みたい全国の冬景色・味覚・温泉特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">あわせて読みたい全国の冬景色・味覚・温泉特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 text-xs sm:text-sm">

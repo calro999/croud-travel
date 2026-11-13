@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            開運橋から仰ぐ残雪の岩手山と北上川の清流、コシの強い盛岡冷麺の辛み——歴史ある洋館と名湯に癒やされる「盛岡プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">開運橋から仰ぐ残雪の岩手山と北上川の清流、コシの強い盛岡冷麺の辛み——歴史ある洋館と名湯に癒やされる「盛岡プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             東北新幹線「はやぶさ」で東京から最短約2時間10分。北東北三県の中枢都市であり、ニューヨーク・タイムズ紙「2023年に行くべき52カ所」に選出され世界から注目を集める岩手県盛岡市。城下町の風情と明治・大正期の赤レンガ洋館（旧岩手銀行本店など）がコンパクトに美しく残り、歩いて巡るのにこれ以上なく心地よい街です。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR盛岡駅東口から徒歩約3分！開運橋至近で全室バス・トイレ別のセパレート設計＆シモンズベッド完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ダイワロイネットホテル盛岡駅前 —— 駅前のフラッグシップ。ワイドデスクと上質な客室で出張テレワークを強力サポート
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ダイワロイネットホテル盛岡駅前 —— 駅前のフラッグシップ。ワイドデスクと上質な客室で出張テレワークを強力サポート</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   盛岡最大の繁華街「大通」至近！最上階10階の自家源泉天然温泉「さんさの湯」＆水風呂サウナ・夜鳴きそば完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 さんさの湯 ドーミーイン盛岡 —— 繁華街の温泉オアシス。天然温泉とサウナでととのい、冷麺名店へ繰り出す安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 さんさの湯 ドーミーイン盛岡 —— 繁華街の温泉オアシス。天然温泉とサウナでととのい、冷麺名店へ繰り出す安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR盛岡駅直結・改札から徒歩1分！天候に左右されない圧倒的利便性とJRホテルグループの安心感
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルメトロポリタン盛岡 本館 —— 駅ナカ直結の安心拠点。落ち着いたインテリアと岩手の食材を活かした朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルメトロポリタン盛岡 本館 —— 駅ナカ直結の安心拠点。落ち着いたインテリアと岩手の食材を活かした朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）を一人で制覇する歩き方
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">盛岡三大麺（冷麺・じゃじゃ麺・わんこそば）を一人で制覇する歩き方</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 盛岡冷麺は駅前「盛楼閣（せいろうかく）」または「ぴょんぴょん舎」へ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 盛岡冷麺は駅前「盛楼閣（せいろうかく）」または「ぴょんぴょん舎」へ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 注文時に辛さを選べる（別辛がおすすめ）。牛骨スープの深いコクと弾力のある麺、カクテキの酸味が織りなす絶妙なハーモニー。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 盛岡じゃじゃ麺「白龍（パイロン）」でチータンタンまで味わう
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 盛岡じゃじゃ麺「白龍（パイロン）」でチータンタンまで味わう</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 平打ちうどんに特製肉味噌、きゅうり、生姜を豪快に混ぜて完食。最後に生卵を割り入れてスープを注いでもらうチータンタンで締め。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 紺屋町（こんやちょう）のレトロ街並みとクラシック喫茶「クラムボン」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 紺屋町（こんやちょう）のレトロ街並みとクラシック喫茶「クラムボン」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 中津川沿いを散策。宮沢賢治の童話にちなんだ自家焙煎珈琲店で、静かに読書とネルドリップ珈琲を楽しむ贅沢な時間。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人でわんこそばに挑戦することはできますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人でわんこそばに挑戦することはできますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 盛岡駅前や市内の「東家（あずまや）」などでは、おひとりさまのわんこそば挑戦を歓迎しており、給仕さんがマンツーマンでリズムよくお給仕してくれます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>盛岡駅から繁華街の大通りまでは歩けますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>盛岡駅から繁華街の大通りまでは歩けますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 盛岡駅から開運橋を渡って大通り商店街までは徒歩約10〜12分。市内循環バス「でんでんむし（1回130円程度）」を使えば約5分で手軽に移動できます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】ダイワロイネットホテル盛岡駅前を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】ダイワロイネットホテル盛岡駅前を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

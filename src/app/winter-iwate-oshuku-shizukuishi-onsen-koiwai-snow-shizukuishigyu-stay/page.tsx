@@ -248,12 +248,10 @@ export default function WinterIwateOshukuPage() {
             11月・12月 開湯450年の名湯と小岩井農場雪景色イルミネーション特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月岩手・鶯宿温泉＆雫石】開湯450年の古湯と白銀絶景
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月岩手・鶯宿温泉＆雫石】開湯450年の古湯と白銀絶景
             <span className="block text-emerald-300 text-lg sm:text-2xl mt-3 font-normal">
               小岩井農場銀河農場の夜・極上雫石牛＆盛岡三大麺を味わう名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-stone-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、秀峰・岩手山の雄大な裾野に広がる岩手県雫石町（しずくいしちょう）は、澄み切った初冬の空と白銀の雪化粧に彩られます。天正年間に一羽の傷ついた鶯（うぐいす）が川の湧水で傷を癒やしていたことから名付けられた「鶯宿温泉（おうしゅくおんせん）」は、開湯450余年の歴史を誇る名湯。毎分3,000リットル以上という圧倒的な湯量を誇り、肌に吸い付くようなアルカリ性単純温泉や単純硫黄泉が雪景色の中に湧き上がります。11月下旬から12月には、近隣の小岩井農場で東北最大級の光の祭典「銀河農場の夜（イルミネーション）」が開催され、白銀の大地ときらめく光の幻想的な競演が楽しめます。夕食には甘みと旨味が凝縮した「雫石牛」や「前沢牛」のステーキ、三陸直送の海の幸、盛岡冷麺やじゃじゃ麺などのご当地麺。初冬の岩手・雫石で極上の雪見風呂と美食に満たされる厳選名宿5選を詳しく紹介します。
@@ -289,9 +287,7 @@ export default function WinterIwateOshukuPage() {
             <Sparkles className="w-4 h-4" />
             11月・12月の鶯宿温泉＆雫石の旅情
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            雄大な岩手山を仰ぎ見る湯の里・光り輝く小岩井農場と開湯450年の豊かな湧出量
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">雄大な岩手山を仰ぎ見る湯の里・光り輝く小岩井農場と開湯450年の豊かな湧出量</h2>
           <div className="text-stone-600 space-y-4 text-sm sm:text-base leading-relaxed">
             <p>
               東北新幹線のターミナル駅・盛岡駅から車で西へ約30分。雄大な独立峰・岩手山（標高2,038m）の堂々たる山容を正面に見据えながら雫石盆地を進むと、鶯宿川の清流沿いに湯煙を上げる「鶯宿温泉」に辿り着きます。天正年間の開湯以来、450年以上の歴史を紡いできたこの湯の町は、盛岡藩主・南部公の湯治場としても重用されてきました。鶯宿温泉の誇りは何と言っても毎分3,000リットル以上を誇る豊富な湧出量。源泉温度は50〜60度前後と高く、湯船には惜しげもなく新鮮な温泉が注ぎ込まれ、肌触り滑らかなアルカリ性の湯が冷え切った身体を包み込みます。
@@ -315,9 +311,7 @@ export default function WinterIwateOshukuPage() {
               <Mountain className="w-4 h-4" />
               厳選宿泊施設
             </div>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">
-              岩手・鶯宿温泉＆雫石 11月・12月に泊まるべき名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-stone-900 tracking-tight">岩手・鶯宿温泉＆雫石 11月・12月に泊まるべき名宿5選</h2>
             <p className="text-stone-600 text-xs sm:text-sm">
               岩手山ビュー絶景露天、純度100%源泉掛け流し、雫石牛ステーキ会席を誇る名宿を厳選
             </p>
@@ -355,9 +349,7 @@ export default function WinterIwateOshukuPage() {
                         <span className="text-xs font-bold text-emerald-800 bg-emerald-50 px-2.5 py-1 rounded-md inline-block mb-2">
                           厳選第{h.id}位
                         </span>
-                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">
-                          {h.name}
-                        </h3>
+                        <h3 className="text-lg sm:text-2xl font-bold text-stone-900 leading-snug">{h.name}</h3>
                         <p className="text-xs text-stone-500 flex items-center gap-1 mt-1.5">
                           <MapPin className="w-3.5 h-3.5 text-emerald-700 shrink-0" />
                           <span>{h.access}</span>
@@ -424,35 +416,27 @@ export default function WinterIwateOshukuPage() {
             <Utensils className="w-4 h-4 text-emerald-300" />
             初冬の味覚手帖
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-white">
-            11月・12月の雫石・岩手で堪能する極上グルメと麺の醍醐味
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-white">11月・12月の雫石・岩手で堪能する極上グルメと麺の醍醐味</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 pt-2">
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Flame className="w-4 h-4 text-emerald-400" />
-                名峰が育む「雫石牛」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Flame className="w-4 h-4 text-emerald-400" />
+                名峰が育む「雫石牛」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 全国肉用牛枝肉共励会で最高位を受賞した実績を誇る岩手の至宝。岩手山の麓の澄んだ伏流水と徹底した飼育管理のもとで育まれ、繊細な霜降りと力強い赤身の旨味が絶妙。石焼きや陶板焼きでその真価が発揮されます。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Utensils className="w-4 h-4 text-emerald-400" />
-                岩手冬の温もり「盛岡三大麺」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Utensils className="w-4 h-4 text-emerald-400" />
+                岩手冬の温もり「盛岡三大麺」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 牛骨と鶏ガラのコク深いスープに弾力ある麺が絡む盛岡冷麺、熱々の茹で上げ平打ち麺に肉味噌を絡めるじゃじゃ麺、リズミカルに味わうわんこそば。冬は温かいスープ仕立ての「温麺」も大人気です。
               </p>
             </div>
 
             <div className="bg-white/5 p-5 rounded-2xl border border-white/10 space-y-2">
-              <h3 className="font-bold text-white text-base flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-emerald-400" />
-                小岩井農場の「濃厚乳製品」
-              </h3>
+              <h3 className="font-bold text-white text-base flex items-center gap-2"><Sparkles className="w-4 h-4 text-emerald-400" />
+                小岩井農場の「濃厚乳製品」</h3>
               <p className="text-xs leading-relaxed text-stone-300">
                 小岩井農場の新鮮な生乳から作られる芳醇なチーズ、バター、そして名物ソフトクリーム。冬の限定スイーツやチーズフォンデュなど、酪農王国岩手ならではの濃厚で優しいミルクのコクが旅情を深めます。
               </p>
@@ -466,15 +450,11 @@ export default function WinterIwateOshukuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            11月・12月の鶯宿温泉＆雫石 交通アクセス＆冬道・防寒アドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11月・12月の鶯宿温泉＆雫石 交通アクセス＆冬道・防寒アドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-emerald-700" />
-                新幹線＆送迎バス利用のコツ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-emerald-700" />
+                新幹線＆送迎バス利用のコツ</h3>
               <p>
                 盛岡駅西口から主要ホテル（ホテル森の風等）への無料送迎バスが運行されています。新幹線で盛岡駅へアクセスすれば、雪道の運転不安なしで宿の玄関口まで直行できます。
               </p>
@@ -484,10 +464,8 @@ export default function WinterIwateOshukuPage() {
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-emerald-700" />
-                小岩井農場夜間観覧の完全防寒対策
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-emerald-700" />
+                小岩井農場夜間観覧の完全防寒対策</h3>
               <p>
                 夜の小岩井農場イルミネーションは氷点下まで冷え込みます。スキーウェアと同等の防寒アウター、ヒートテックインナー、カイロ、マフラー、手袋、耳当てを必ず着用してください。
               </p>
@@ -504,16 +482,12 @@ export default function WinterIwateOshukuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-            初冬の岩手・鶯宿温泉＆雫石旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-stone-900">初冬の岩手・鶯宿温泉＆雫石旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2">
-                  <span className="text-emerald-800 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-stone-900 flex items-start gap-2"><span className="text-emerald-800 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -525,10 +499,8 @@ export default function WinterIwateOshukuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-stone-900 to-emerald-950 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-emerald-300" />
-              あわせて読みたい岩手・北東北の冬雪見温泉特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-emerald-300" />
+              あわせて読みたい岩手・北東北の冬雪見温泉特集</h3>
             <p className="text-xs sm:text-sm text-emerald-200">
               白銀の絶景と極上の郷土鍋・ブランド牛を堪能する北東北各地の厳選旅ガイド
             </p>
@@ -540,9 +512,7 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・花巻温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">花巻温泉郷の台川渓谷雪見露天と前沢牛ステーキ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 宮沢賢治ゆかりのイーハトーブ花巻で味わう極上前沢牛と清流雪見風呂。
               </p>
@@ -553,9 +523,7 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">岩手・盛岡つなぎ温泉</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                盛岡つなぎ温泉の御所湖雪景色と小岩井イルミ
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">盛岡つなぎ温泉の御所湖雪景色と小岩井イルミ</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 御所湖畔に湧く名湯つなぎ温泉から楽しむ小岩井農場の光の祭典。
               </p>
@@ -566,9 +534,7 @@ export default function WinterIwateOshukuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-emerald-300 bg-emerald-400/20 px-2 py-0.5 rounded-full inline-block">秋田・乳頭温泉郷</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
-                乳頭温泉郷の初冬雪見秘湯ときりたんぽ鍋
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">乳頭温泉郷の初冬雪見秘湯ときりたんぽ鍋</h4>
               <p className="text-[11px] text-stone-200 line-clamp-2">
                 ブナ原生林の雪景色に湧く七湯の濁り湯と比内地鶏きりたんぽ鍋の名宿。
               </p>

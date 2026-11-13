@@ -215,9 +215,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <span className="inline-block px-3 py-0.5 rounded-full bg-white/20 text-white text-xs font-extrabold uppercase tracking-wider">
               Rakuten Travel Official
             </span>
-            <h2 className="text-xl md:text-2xl font-black leading-snug">
-              楽天トラベル「東海・名古屋発 日帰りバスツアー」公式特集
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black leading-snug">楽天トラベル「東海・名古屋発 日帰りバスツアー」公式特集</h2>
             <p className="text-amber-100 text-xs md:text-sm max-w-xl">
               伊勢神宮参拝、下呂温泉名湯めぐり、白川郷、飛騨牛食べ放題プランが満載！ポイント利用＆高速バスクーポンでお得に予約可能。
             </p>
@@ -239,9 +237,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-amber-800 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>POPULAR DESTINATIONS</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              名古屋（名駅）発 おすすめ日帰りバスツアー人気ランキング
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">名古屋（名駅）発 おすすめ日帰りバスツアー人気ランキング</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               伊勢、下呂、飛騨高山、南信州。地元民にも旅行者にも選ばれる王道コースを厳選。
             </p>
@@ -268,9 +264,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                   </div>
                 </div>
 
-                <h3 className="text-base md:text-lg font-black text-slate-900">
-                  {item.title}
-                </h3>
+                <h3 className="text-base md:text-lg font-black text-slate-900">{item.title}</h3>
 
                 <ul className="grid grid-cols-1 md:grid-cols-3 gap-2 pt-1 text-xs text-slate-700">
                   {item.merits.map((m, mIdx) => (
@@ -290,9 +284,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-amber-800 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>COST BREAKDOWN</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              伊勢神宮参拝で検証！日帰りバスツアー vs 電車 vs マイカー実費比較
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">伊勢神宮参拝で検証！日帰りバスツアー vs 電車 vs マイカー実費比較</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               交通費だけでなく「昼食代」「駐車場代」「参拝の手間」まで含めたトータルコスパ。
             </p>
@@ -330,9 +322,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-amber-800 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>TOUR SCHEDULE</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              【名駅発】伊勢神宮 外宮・内宮両参り＆松阪牛すき焼き 1日満喫タイムライン
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">【名駅発】伊勢神宮 外宮・内宮両参り＆松阪牛すき焼き 1日満喫タイムライン</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               名古屋駅太閤通口（新幹線側）を出発して夕方には戻る、最も人気の高い神宮参拝ツアー。
             </p>
@@ -346,9 +336,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                   <span className="text-xs font-black text-amber-950 bg-amber-100 px-2 py-0.5 rounded border border-amber-300">
                     {step.hour}
                   </span>
-                  <h3 className="text-sm md:text-base font-bold text-slate-900">
-                    {step.title}
-                  </h3>
+                  <h3 className="text-sm md:text-base font-bold text-slate-900">{step.title}</h3>
                 </div>
                 <p className="text-xs md:text-sm text-slate-600 leading-relaxed pt-0.5 pl-0.5">
                   {step.desc}
@@ -364,9 +352,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
             <div className="flex items-center gap-2 text-amber-800 font-extrabold text-xs tracking-wider uppercase mb-1">
               <span>HOTELS & ONSEN RESORT</span>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-slate-900">
-              ツアー目的地で泊まるならここ！下呂温泉＆伊勢志摩の極上宿泊施設
-            </h2>
+            <h2 className="text-xl md:text-2xl font-black text-slate-900">ツアー目的地で泊まるならここ！下呂温泉＆伊勢志摩の極上宿泊施設</h2>
             <p className="text-xs md:text-sm text-slate-600 mt-1">
               バスツアーで魅了されたら次回は宿泊で！美人の湯・下呂温泉や伊勢志摩の海の幸リゾートです。
             </p>
@@ -407,9 +393,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
                           <span className="text-[10px] text-slate-500">{hotel.address1}</span>
                         </div>
                       )}
-                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">
-                        {hotel.hotelName}
-                      </h3>
+                      <h3 className="text-xs md:text-sm font-black text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                       {hotel.hotelSpecial && (
                         <p className="text-[11px] text-slate-600 line-clamp-2 font-medium">
                           {hotel.hotelSpecial}
@@ -438,22 +422,16 @@ export default function NagoyaDepartureDaytripBusTourPage() {
 
         {/* 💡 5. 名古屋発ツアー攻略の知恵袋 */}
         <section className="bg-amber-950/5 rounded-3xl p-6 md:p-8 border border-amber-900/10 space-y-6">
-          <h2 className="text-lg md:text-xl font-black text-amber-950">
-            名駅集合・バスツアー参加の心得＆お得技
-          </h2>
+          <h2 className="text-lg md:text-xl font-black text-amber-950">名駅集合・バスツアー参加の心得＆お得技</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs md:text-sm">
             <div className="bg-white p-5 rounded-2xl border border-amber-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-amber-950 flex items-center gap-1.5">
-                <span>📍</span> 名古屋駅太閤通口の集合場所
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-1.5">名古屋駅太閤通口の集合場所</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 名古屋発のバスツアー集合場所は、太閤通口（新幹線側）の「ゆりの噴水前」または「エスカ地下街ツアーカウンター」、および「名鉄バスセンター」に分かれます。早朝は地下街の通行可能出入口が限られる場合があるため、地上経由でのアクセスがスムーズです。
               </p>
             </div>
             <div className="bg-white p-5 rounded-2xl border border-amber-100 shadow-sm space-y-2">
-              <h3 className="font-bold text-amber-950 flex items-center gap-1.5">
-                <span>🎁</span> お土産と車内マナー
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-1.5">お土産と車内マナー</h3>
               <p className="text-slate-600 leading-relaxed text-xs">
                 赤福やお肉などの生鮮品を購入する際は、消費期限に注意。バスツアーの帰路ではパーキングエリア（御在所SAや養老SAなど）で限定スイーツの買い物タイムが用意されることも多いので、お小遣い・キャッシュレス決済の準備を。
               </p>
@@ -463,9 +441,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
 
         {/* 🔗 関連記事（内部リンク） */}
         <section className="border-t border-slate-200 pt-8 space-y-4">
-          <h2 className="text-base font-bold text-slate-800">
-            あわせて読みたい東海・中部発の交通＆旅行ガイド
-          </h2>
+          <h2 className="text-base font-bold text-slate-800">あわせて読みたい東海・中部発の交通＆旅行ガイド</h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <Link
               href="/nagoya-kanazawa-bus-vs-train-guide/"
@@ -497,9 +473,7 @@ export default function NagoyaDepartureDaytripBusTourPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説の旅ノウハウ
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と下呂温泉・伊勢神宮参拝・飛騨牛食べ放題プラン徹底解説の旅ノウハウ</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

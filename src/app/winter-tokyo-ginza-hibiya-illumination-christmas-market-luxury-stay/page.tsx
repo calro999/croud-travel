@@ -266,10 +266,8 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Destination Guide</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
-              冬の銀座＆日比谷が世界中の一流を魅了する本物の気品
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Sparkles className="w-6 h-6 text-amber-500 shrink-0" />
+              冬の銀座＆日比谷が世界中の一流を魅了する本物の気品</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -322,9 +320,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="space-y-10">
           <div className="text-center max-w-2xl mx-auto space-y-3">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase">Verified Accommodations</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              冬の銀座＆日比谷を満喫する最高峰ホテル5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">冬の銀座＆日比谷を満喫する最高峰ホテル5選</h2>
             <p className="text-slate-600 text-sm sm:text-base leading-relaxed">
               楽天APIより最新の客室情報・レビュー評価を取得。日比谷イルミやクリスマスマーケットへ徒歩すぐ、東京タワー夜景や伝統の美食を誇る至高の名宿を厳選しました。
             </p>
@@ -360,9 +356,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{h.name}</h3>
 
                       <p className="text-xs text-slate-500 flex items-center gap-1.5">
                         <MapPin className="w-4 h-4 text-slate-400 shrink-0" />
@@ -427,10 +421,8 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Climate & Dressing</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Snowflake className="w-6 h-6 text-amber-500 shrink-0" />
-              11月・12月・1月の気温推移と銀座・日比谷の冬ドレスコード＆防寒対策
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Snowflake className="w-6 h-6 text-amber-500 shrink-0" />
+              11月・12月・1月の気温推移と銀座・日比谷の冬ドレスコード＆防寒対策</h2>
           </div>
 
           <div className="text-slate-600 text-sm sm:text-base leading-relaxed">
@@ -476,10 +468,8 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Winter Gourmet Heritage</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2">
-              <Utensils className="w-6 h-6 text-amber-500 shrink-0" />
-              冬の銀座・日比谷を極める美食探訪：老舗すき焼き・江戸前鮨・至高の洋食
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-6 h-6 text-amber-500 shrink-0" />
+              冬の銀座・日比谷を極める美食探訪：老舗すき焼き・江戸前鮨・至高の洋食</h2>
           </div>
 
           <div className="text-slate-600 space-y-4 leading-relaxed text-sm sm:text-base">
@@ -499,9 +489,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-gradient-to-br from-neutral-900 via-slate-900 to-amber-950 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-neutral-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Recommended Itinerary</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-white">
-              【1泊2日モデルコース】冬の日比谷イルミ＆クリスマスマーケットと銀座美食の旅
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-white">【1泊2日モデルコース】冬の日比谷イルミ＆クリスマスマーケットと銀座美食の旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
@@ -553,18 +541,14 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-white rounded-2xl p-6 sm:p-10 shadow-sm border border-slate-100 space-y-6">
           <div className="border-b border-slate-100 pb-4">
             <span className="text-amber-600 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Frequently Asked Questions</span>
-            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">
-              冬の銀座＆日比谷旅行 よくある質問
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-bold text-slate-900">冬の銀座＆日比谷旅行 よくある質問</h2>
           </div>
 
           <div className="space-y-4">
             {faqData.map((item, index) => (
               <div key={index} className="border border-slate-200 rounded-xl p-5 bg-slate-50/30 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-600 font-extrabold shrink-0">Q.</span>
-                  <span>{item.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-600 font-extrabold shrink-0">Q.</span>
+                  <span>{item.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {item.a}
                 </p>
@@ -577,9 +561,7 @@ export default function TokyoGinzaHibiyaWinterPage() {
         <section className="bg-slate-900 text-white rounded-2xl p-6 sm:p-10 space-y-6">
           <div className="border-b border-slate-800 pb-4">
             <span className="text-amber-400 font-bold text-xs sm:text-sm tracking-wider uppercase block mb-1">Related Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              あわせて楽しむ！冬の都心＆人気イルミネーション名所特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">あわせて楽しむ！冬の都心＆人気イルミネーション名所特集</h2>
           </div>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-sm">

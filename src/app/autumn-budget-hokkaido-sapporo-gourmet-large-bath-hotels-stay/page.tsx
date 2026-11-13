@@ -55,9 +55,7 @@ export default function SapporoBudgetAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">
-            秋の札幌は「ホテル代を抑えてグルメ＆紅葉を極める」のが正解
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-teal-600 pl-3">秋の札幌は「ホテル代を抑えてグルメ＆紅葉を極める」のが正解</h2>
           <p className="mb-4 text-stone-700">
             10月下旬から11月上旬にかけて、札幌市内は一気に秋の色に染まります。約380mにわたって約70本のイチョウが連なる「北海道大学のイチョウ並木」は、頭上を覆う黄金色のトンネルと地面を埋める黄色の絨毯が息を呑む美しさです。
           </p>
@@ -69,10 +67,8 @@ export default function SapporoBudgetAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！札幌の大浴場付き格安ホテル5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-teal-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！札幌の大浴場付き格安ホテル5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function SapporoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.11</span>
                     <span className="text-stone-400 text-xs">(2575件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ティアラホテル札幌すすきの
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ティアラホテル札幌すすきの</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: すすきの駅 / 地下鉄南北線　すすきの駅から徒歩７分、中島公園駅から徒歩4分。地下鉄東豊線　豊水すすきの駅から徒歩７分。
                   </p>
@@ -142,9 +136,7 @@ export default function SapporoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.48</span>
                     <span className="text-stone-400 text-xs">(1675件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    三井ガーデンホテル札幌
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">三井ガーデンホテル札幌</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / JR札幌駅西改札より徒歩約4分　　
                   </p>
@@ -189,9 +181,7 @@ export default function SapporoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.38</span>
                     <span className="text-stone-400 text-xs">(3711件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテル京阪　札幌
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテル京阪　札幌</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / 【新千歳空港からホテルまで約44分】JR「札幌」駅西口より徒歩約4分★詳しくはアクセスページをご覧ください。
                   </p>
@@ -236,9 +226,7 @@ export default function SapporoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.47</span>
                     <span className="text-stone-400 text-xs">(3270件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルリソルトリニティ札幌
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルリソルトリニティ札幌</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 札幌駅 / 地下鉄大通駅②より徒歩1分(南大通)・新千歳空港連絡バス停留所は正面にあり(停留所：ホテルリソルトリニティ札幌前)
                   </p>
@@ -283,9 +271,7 @@ export default function SapporoBudgetAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.54</span>
                     <span className="text-stone-400 text-xs">(783件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ベッセルホテルカンパーナすすきの｜サウナ付大浴場（札幌・すすきの）</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: すすきの駅 / すすきの駅より徒歩にて約４分
                   </p>
@@ -330,9 +316,7 @@ export default function SapporoBudgetAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の札幌×格安：紅葉散策とすすきのグルメ！大浴場付き1泊3,000円台〜のコスパ最強おすすめホテル5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -393,9 +377,7 @@ export default function SapporoBudgetAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 秋の札幌×格安で比較したい各宿のロケーション・駐車場・料金詳細
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">秋の札幌×格安で比較したい各宿のロケーション・駐車場・料金詳細</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

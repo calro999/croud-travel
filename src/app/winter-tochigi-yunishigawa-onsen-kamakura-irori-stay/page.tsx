@@ -267,9 +267,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <Sparkles className="w-4 h-4 text-amber-800" />
               平家落人の里・湯西川温泉の冬の魅力
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初雪が舞う深山幽谷の静寂と、囲炉裏の炎に心温まる隠れ里の冬旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初雪が舞う深山幽谷の静寂と、囲炉裏の炎に心温まる隠れ里の冬旅</h2>
           </div>
 
           <div className="space-y-4 text-stone-700 leading-relaxed text-sm sm:text-base">
@@ -291,9 +289,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
         {/* 5 Hot Spring Inns Cards */}
         <section className="space-y-8">
           <div className="border-l-4 border-amber-700 pl-4">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              11・12・1月に泊まりたい湯西川温泉の厳選名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">11・12・1月に泊まりたい湯西川温泉の厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 mt-1">
               楽天トラベル公式APIより取得した最新の料金・評価・空室プランを反映しています
             </p>
@@ -323,9 +319,7 @@ export default function TochigiYunishigawaOnsenWinterPage() {
                         <Flame className="w-3.5 h-3.5" />
                         平家伝承の囲炉裏料理＆雪見露天
                       </div>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {h.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{h.name}</h3>
                       <div className="flex items-center gap-3 mt-2 text-xs text-stone-500">
                         <span className="flex items-center gap-1 text-amber-600 font-bold">
                           <Star className="w-3.5 h-3.5 fill-current" />
@@ -388,17 +382,13 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <Compass className="w-4 h-4 text-amber-800" />
               1泊2日おすすめモデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              平家落人の隠れ里と雪見露天風呂・かまくら祭ライトアップの旅
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">平家落人の隠れ里と雪見露天風呂・かまくら祭ライトアップの旅</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【1日目】渓谷の雪景色と囲炉裏料理・かまくら鑑賞
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【1日目】渓谷の雪景色と囲炉裏料理・かまくら鑑賞</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -424,10 +414,8 @@ export default function TochigiYunishigawaOnsenWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-amber-700" />
-                【2日目】平家の里散策とお土産めぐり
-              </h3>
+              <h3 className="font-bold text-amber-950 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-amber-700" />
+                【2日目】平家の里散策とお土産めぐり</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-1" />
@@ -457,27 +445,21 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <ShoppingBag className="w-4 h-4 text-amber-800" />
               湯西川・日光奥地の冬みやげ＆立ち寄り手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              湯西川で手に入れたい冬の逸品と伝統の味
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">湯西川で手に入れたい冬の逸品と伝統の味</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-amber-700" />
-                名物「ばんだい餅」＆じゅうねん味噌
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sparkles className="w-4 h-4 text-amber-700" />
+                名物「ばんだい餅」＆じゅうねん味噌</h3>
               <p>
                 湯西川のソウルフード「ばんだい餅」。うるち米を蒸して搗いた素朴な餅で、もち米とは異なる歯切れの良さと米本来の甘みが特徴。エゴマをたっぷり使った香ばしい「じゅうねん味噌」を塗って炭火で香ばしく焼き上げれば、冬の最高のおやつになります。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Heart className="w-4 h-4 text-amber-700" />
-                日光生湯波（ゆば）と栃木の地酒「四季桜」
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Heart className="w-4 h-4 text-amber-700" />
+                日光生湯波（ゆば）と栃木の地酒「四季桜」</h3>
               <p>
                 日光の清らかな水と良質な国産大豆で作られる伝統の「日光湯波」。層になったふっくらとした食感と濃厚なコクは、鍋料理にもお刺身にもぴったり。栃木県を代表する銘酒「四季桜」や「日光誉」の冬限定しぼりたて生酒とともに楽しむのが粋な味わい方です。
               </p>
@@ -492,32 +474,24 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <ThermometerSun className="w-4 h-4 text-amber-800" />
               湯西川温泉・泉質と平家落人文化の深層解説
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              なぜ11月・12月・1月の湯西川温泉は「日本屈指の冬籠もり秘境」と呼ばれるのか
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">なぜ11月・12月・1月の湯西川温泉は「日本屈指の冬籠もり秘境」と呼ばれるのか</h2>
           </div>
 
           <div className="space-y-4 text-xs sm:text-sm text-stone-700 leading-relaxed">
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2">
-              <Waves className="w-4 h-4 text-amber-700" />
-              肌に優しいアルカリ性単純温泉がもたらす極上の癒やし
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2"><Waves className="w-4 h-4 text-amber-700" />
+              肌に優しいアルカリ性単純温泉がもたらす極上の癒やし</h3>
             <p>
               湯西川温泉の泉質は「アルカリ性単純温泉」。無色透明でまろやかな感触の源泉は、刺激が極めて少なく肌にスーッとなじむ優しい湯ざわりが特徴です。アルカリ性の働きにより肌表面の角質を優しくオフしながら、温泉成分がじんわりと身体の芯まで浸透。冷え性や筋肉痛、神経痛を和らげ、真冬の寒さでこわばった筋肉をほぐしてくれます。雪見の露天風呂で長湯を楽しんでも湯あたりしにくい理想的な名湯です。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Landmark className="w-4 h-4 text-amber-700" />
-              炭火と囲炉裏が醸し出す遠赤外線効果と隠れ里の知恵
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Landmark className="w-4 h-4 text-amber-700" />
+              炭火と囲炉裏が醸し出す遠赤外線効果と隠れ里の知恵</h3>
             <p>
               何百年も受け継がれてきた「囲炉裏料理」は、単なる郷土料理の枠を超えた冬の最高のもてなしです。囲炉裏の灰に刺した串に炭火の遠赤外線がじっくりと通ることで、川魚は皮目がパリッと香ばしく、身は驚くほどふっくらジューシーに焼き上がります。炭火の温もりとパチパチとはぜる音、薪の香りに包まれる囲炉裏端の時間は、現代人が忘れかけていた団欒と温もりの原風景を取り戻させてくれます。
             </p>
 
-            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2">
-              <Snowflake className="w-4 h-4 text-amber-700" />
-              日本夜景遺産認定・冬の白銀を彩るかまくら祭の幻想美
-            </h3>
+            <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 pt-2"><Snowflake className="w-4 h-4 text-amber-700" />
+              日本夜景遺産認定・冬の白銀を彩るかまくら祭の幻想美</h3>
             <p>
               1月下旬から開幕する「湯西川温泉かまくら祭」は、雪国の厳しい寒さを奇跡の絶景へと昇華させた日本夜景遺産認定のイベントです。地元の方々が一心に彫り上げた数百個のミニかまくらに灯るロウソクの明かりは、LEDイルミネーションとは全く異なる、揺らぎと温かみのある自然の光。冷気の中で静かに瞬く灯火は、訪れる人の心に一生消えない感動を刻みます。
             </p>
@@ -531,18 +505,14 @@ export default function TochigiYunishigawaOnsenWinterPage() {
               <HelpCircle className="w-4 h-4 text-amber-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              冬の湯西川温泉旅行 Q&A
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">冬の湯西川温泉旅行 Q&A</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq, idx) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-amber-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-amber-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-6">
                   {faq.a}
                 </p>

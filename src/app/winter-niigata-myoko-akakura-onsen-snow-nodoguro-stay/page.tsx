@@ -280,10 +280,8 @@ export default function AkakuraOnsenWinterFeature() {
             <Snowflake className="w-4 h-4" />
             11月・12月 冬の極上温泉特集｜新潟・妙高高原
           </div>
-          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月新潟・妙高赤倉温泉】<br className="hidden sm:inline" />
-            初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選
-          </h1>
+          <h1 className="text-2xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月新潟・妙高赤倉温泉】<br className="hidden sm:inline" />
+            初雪の妙高山とダブル美肌露天・冬のどぐろ＆新潟和牛会席の宿5選</h1>
           <p className="text-xs sm:text-base text-slate-200 max-w-3xl mx-auto leading-relaxed">
             開湯200余年、炭酸水素塩泉と硫酸塩泉が織りなす極上の美肌名湯。初雪に染まる霊峰・妙高山の雄姿を仰ぎ、冬の日本海から届く極上のどぐろとにいがた和牛を味わう至高の雪国リゾート。
           </p>
@@ -301,9 +299,7 @@ export default function AkakuraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Heritage Double Beautifying Spring</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                日本百名山・妙高山の初雪と、高原リゾート文化が息づく冬の赤倉
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">日本百名山・妙高山の初雪と、高原リゾート文化が息づく冬の赤倉</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,26 +340,20 @@ export default function AkakuraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Thermal Science & Coastal Bounty</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                北地獄谷7km引湯「炭酸水素塩泉×硫酸塩泉」ダブル美肌科学と日本海の冬味覚
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">北地獄谷7km引湯「炭酸水素塩泉×硫酸塩泉」ダブル美肌科学と日本海の冬味覚</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <Flame className="w-4 h-4 text-teal-700" />
-              <span>角質クレンジングと天然保湿パックが同時に完結する温泉医学の妙</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2"><Flame className="w-4 h-4 text-teal-700" />
+              <span>角質クレンジングと天然保湿パックが同時に完結する温泉医学の妙</span></h3>
             <p>
               赤倉温泉の源泉は、霊峰・妙高山の中腹に位置する標高1,800mの「北地獄谷」から自然湧出しています。山肌に沿って敷設された約7kmの専用送湯管を通り、動力ポンプを一切使わずに落差による自然流下のみで各宿へと配湯されています。湧出温度は約51℃。配管を流れる過程で外気により適度な入浴温度へと自然冷却され、加水や加温を必要としない極めて純度の高い生源泉が湯船に注がれます。
             </p>
             <p>
               泉質名は「カルシウム・マグネシウム・ナトリウム-硫酸塩・炭酸水素塩温泉（低張性 中性 高温泉）」。炭酸水素塩泉（重曹成分）は弱アルカリ性の石鹸のような乳化作用を持ち、肌表面の余分な皮脂汚れや古くなった角質を優しく軟化させて洗い流します。そして同時に含まれる硫酸塩泉（芒硝・石膏成分）が、角質が整った肌の表面に微細なカルシウム・マグネシウムの皮膜を形成し、水分の蒸発をブロックする「天然の保湿パック（化粧水ベール）」として機能します。この「落として潤す」ダブル作用により、湯上がりの肌は驚くほどの弾力と透明感を取り戻します。
             </p>
-            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2">
-              <Utensils className="w-4 h-4 text-teal-700" />
-              <span>日本海・能生港直送の「冬のどぐろ」塩焼きと霜降り「にいがた和牛」の旨味</span>
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-slate-900 flex items-center gap-2 pt-2"><Utensils className="w-4 h-4 text-teal-700" />
+              <span>日本海・能生港直送の「冬のどぐろ」塩焼きと霜降り「にいがた和牛」の旨味</span></h3>
             <p>
               妙高高原は山間のリゾート地でありながら、日本海に面した上越市・直江津港や能生漁港まで車で約40分という立地条件に恵まれています。冬の日本海で揚がる魚介の中でも最高峰の評価を受けるのが「のどぐろ（アカムツ）」です。初冬から真冬にかけてのどぐろは皮下脂肪率が20%を超え、「白身のトロ」と呼ばれるにふさわしい極上の脂の乗りを見せます。強火の遠火でじっくり焼き上げた塩焼きは、皮目がパリッと香ばしく、箸を入れた瞬間に透明な脂が溢れ出します。
             </p>
@@ -377,9 +367,7 @@ export default function AkakuraOnsenWinterFeature() {
         <section className="space-y-8">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Recommended Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              妙高赤倉温泉・冬の滞在を彩る厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">妙高赤倉温泉・冬の滞在を彩る厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-600">
               楽天トラベル公式APIより最新の宿泊プラン・評価情報を取得。11月・12月の冬旅行に心からおすすめできる宿を徹底比較。
             </p>
@@ -405,11 +393,9 @@ export default function AkakuraOnsenWinterFeature() {
                           <span className="text-slate-400 font-normal text-xs">({h.reviews}件)</span>
                         </div>
                       </div>
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition">
-                        <a href={h.url} target="_blank" rel="noopener noreferrer">
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-teal-800 transition"><a href={h.url} target="_blank" rel="noopener noreferrer">
                           {h.name}
-                        </a>
-                      </h3>
+                        </a></h3>
                     </div>
                     <div className="text-right flex sm:flex-col items-baseline sm:items-end justify-between sm:justify-center">
                       <span className="text-xs text-slate-500">1名あたり参考料金（税込）</span>
@@ -498,9 +484,7 @@ export default function AkakuraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">1泊2日 満喫ルート</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                妙高赤倉温泉＆雪見露天と日本海直江津・能生鮮魚を巡るモデルコース
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">妙高赤倉温泉＆雪見露天と日本海直江津・能生鮮魚を巡るモデルコース</h2>
             </div>
           </div>
           <div className="space-y-6">
@@ -533,26 +517,20 @@ export default function AkakuraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Travel Advisory</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                11月・12月の妙高高原 冬旅の注意点と服装・雪道運転の心得
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の妙高高原 冬旅の注意点と服装・雪道運転の心得</h2>
             </div>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-teal-800" />
-                厳しい冷え込みと本格防寒
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-teal-800" />
+                厳しい冷え込みと本格防寒</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 標高700〜1,000mに位置するため、平地と比べて気温が約5〜7℃低くなります。11月下旬以降は氷点下の真冬日が増加します。厚手のロングダウンコート、防風性の高い手袋、耳まで覆うニット帽、保温性インナー（発熱タイツなど）を必ず着用してください。
               </p>
             </div>
             <div className="space-y-2">
-              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2">
-                <Footprints className="w-4 h-4 text-teal-800" />
-                スタッドレスタイヤと滑り止め靴
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-center gap-2"><Footprints className="w-4 h-4 text-teal-800" />
+                スタッドレスタイヤと滑り止め靴</h3>
               <p className="text-xs text-slate-600 leading-relaxed">
                 11月中旬以降の車利用はスタッドレスタイヤ必須です。温泉街周辺の坂道は雪道・凍結路面となります。また、屋外散策時は滑り止め溝の深いスノーブーツや防水トレッキングシューズを着用し、転倒事故に十分注意してください。
               </p>
@@ -568,18 +546,14 @@ export default function AkakuraOnsenWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-teal-800 uppercase tracking-widest">Traveler's Q&A</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                妙高赤倉温泉冬旅のよくある質問（FAQ）
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">妙高赤倉温泉冬旅のよくある質問（FAQ）</h2>
             </div>
           </div>
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="p-5 rounded-2xl bg-slate-50 border border-slate-200/70 space-y-2">
-                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-800 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-slate-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -592,9 +566,7 @@ export default function AkakuraOnsenWinterFeature() {
         <section className="bg-slate-950 text-white rounded-3xl p-6 sm:p-10 shadow-lg space-y-6">
           <div className="space-y-2">
             <span className="text-xs font-bold text-teal-400 uppercase tracking-widest">Related Winter Features & Hot Springs</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい新潟・甲信越の冬名湯＆雪見露天特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい新潟・甲信越の冬名湯＆雪見露天特集</h2>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
               11月・12月の初雪や雪景色、極上グルメを味わう人気の厳選特集もぜひご覧ください。
             </p>

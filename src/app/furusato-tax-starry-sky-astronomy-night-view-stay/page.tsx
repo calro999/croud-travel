@@ -108,9 +108,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  圧倒的な星の数と天の川！条件が揃えば肉眼で流れ星や人工衛星まで観測可能
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">圧倒的な星の数と天の川！条件が揃えば肉眼で流れ星や人工衛星まで観測可能</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 都市部では見ることのできない6等星や淡い天の川のディテールまでくっきりと浮かび上がる暗黒の夜空。新月の前後や空気の澄んだ季節には、数分おきに流れる流れ星や人工衛星の軌跡、星座の全貌を肉眼で捉えることができ、息を呑む感動が広がります。
@@ -123,9 +121,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  星空ソムリエ・天体望遠鏡付き観測会など専門ガイドによる充実の星空ツアー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">星空ソムリエ・天体望遠鏡付き観測会など専門ガイドによる充実の星空ツアー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 天体観測に特化した宿では、大型の天体望遠鏡を使った土星の環や木星の縞模様の観察会、星空案内人（星空ソムリエ）による星座解説ツアーが毎夜開催されます。双眼鏡の無料貸出や温かい防寒着、星座早見盤のサービスもあり、初心者でも天体の魅力を深く学べます。
@@ -138,9 +134,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  暗闇の中で浸かる「星空露天風呂」！波音や森のせせらぎに包まれるリラクゼーション
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">暗闇の中で浸かる「星空露天風呂」！波音や森のせせらぎに包まれるリラクゼーション</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 浴場の照明を最小限に落とした星空専用露天風呂では、視界を遮る屋根がなく、首まであたたかい温泉に浸かりながら夜空一面の星を仰ぐことができます。温泉の温もりと夜風の清々しさが織りなす癒やしの空間は、日常のストレスを完全に洗い流してくれます。
@@ -183,9 +177,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県阿智村・日本一の星空ナイトツアー拠点と美肌の昼神温泉
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    昼神温泉　信州公共の宿　鶴巻荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">昼神温泉　信州公共の宿　鶴巻荘</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     環境省認定の「日本一星空が美しい村」長野県阿智村に佇み、名湯・昼神温泉の良質な美肌の湯を湛える温もりある温泉宿。阿智村名物の「天空の楽園 日本一の星空ナイトツアー」へのアクセス拠点として最適で、ゴンドラで標高1,400mの山頂へ登れば、街の光が完全に消えた漆黒の夜空に圧倒的な星の大パノラマが広がります。pH9.7を誇るアルカリ性単純硫黄泉の大浴場で身体をしっとりと潤し、信州牛や地元の山の幸を使った手作り会席に舌鼓を打つ、心癒やされる星空温泉旅が楽しめます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     長野県南牧村・日本三選星名所・八ヶ岳野辺山高原の全室南向き絶景ホテル
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    八ヶ岳グレイスホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">八ヶ岳グレイスホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     日本屈指の天体観測地として知られる標高1,300mの八ヶ岳野辺山高原に位置し、全客室から雄大な八ヶ岳連峰のパノラマを望むリゾートホテル。毎夜開催される無料の「星空観察会」では、星空案内人による解説とともに大型天体望遠鏡で惑星や星雲を観察可能。晴天率が非常に高く、肉眼でも満天の星屑と天の川がくっきりと見渡せます。八ヶ岳山麓の新鮮な高原野菜や信州サーモン、上質な甲州ワインを取り入れたディナーも大好評で、星と大自然を愛する旅人に愛され続けています。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     沖縄県石垣市・日本初の星空保護区に輝く南十字星とオーシャンフロントステイ
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    石垣島ビーチホテルサンシャイン＜石垣島＞
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">石垣島ビーチホテルサンシャイン＜石垣島＞</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     国際ダークスカイ協会により日本で初めて認定された「星空保護区」西表石垣国立公園内に位置し、東シナ海を望む絶好のオーシャンフロントリゾート。ホテルの星空テラスや海へと繋がるインフィニティプールからは、南国の心地よい潮風を感じながら、全天88星座中84星座と憧れの「南十字星」を観測できます。客室はバルコニー付きで穏やかな波音が心地よい寛ぎの空間。石垣牛のステーキや島野菜、近海魚のフレンチ・郷土ディナーとともに、南国の星空バカンスを満喫できます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】昼神温泉 信州公共の宿 鶴巻荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】昼神温泉 信州公共の宿 鶴巻荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoStarrySkyAstronomyStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と昼神温泉 信州公共の宿 鶴巻荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と昼神温泉 信州公共の宿 鶴巻荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

@@ -198,9 +198,7 @@ export default function NotoGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 1 🚘
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            能登旅行を考える ｜ のと里山海道ドライブ・のと鉄道・車なしアクセス
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">能登旅行を考える ｜ のと里山海道ドライブ・のと鉄道・車なしアクセス</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             金沢からのドライブ（のと里山海道）、羽田からの「のと里山空港」、JR特急・のと鉄道・特急バスでの車なしアクセス方法を解説。
           </p>
@@ -208,27 +206,21 @@ export default function NotoGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-xs">
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>🚗</span> <span>金沢から能登 ドライブ（のと里山海道）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>金沢から能登 ドライブ（のと里山海道）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               通行無料の自動車専用道路「のと里山海道」を利用すれば、金沢から和倉温泉まで約1時間20分、輪島まで約1時間40分。日本で唯一車で砂浜を走れる「千里浜なぎさドライブウェイ」も絶景です。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>✈️</span> <span>のと里山空港（羽田から直行便）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>️</span> <span>のと里山空港（羽田から直行便）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               羽田空港から「のと里山空港」まで約1時間。空港から輪島や和倉温泉までは予約制「ふるさとタクシー（1人1,000円〜2,000円程度）」が利用でき非常に便利です。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-amber-50/50 border border-amber-500/20 space-y-2">
-            <h3 className="text-sm font-bold text-amber-900 flex items-center gap-1.5">
-              <span>🚃</span> <span>能登 車なしアクセス・のと鉄道</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-900 flex items-center gap-1.5"><span>能登 車なしアクセス・のと鉄道</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               金沢駅から特急「能登かがり火」で和倉温泉駅へ。そこから七尾湾を臨む「のと鉄道（観光列車 のと里山里海号）」で穴水駅へ向かう車なし旅も人気です。
             </p>
@@ -241,9 +233,7 @@ export default function NotoGuidePage() {
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 2 🌊
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            能登の魅力 ｜ 和倉温泉・白米千枚田・能登島・夕日・ベストシーズン
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">能登の魅力 ｜ 和倉温泉・白米千枚田・能登島・夕日・ベストシーズン</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             「能登 何がある？」「初めての能登旅行の魅力は？」に答える、日本海の絶景と開の湯温泉。
           </p>
@@ -251,36 +241,28 @@ export default function NotoGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs">
           <div className="p-5 rounded-2xl bg-emerald-50/40 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-bold text-emerald-950 flex items-center gap-1.5">
-              <span>🌾</span> <span>白米千枚田・あぜの万灯（ベストシーズン）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-emerald-950 flex items-center gap-1.5"><span>白米千枚田・あぜの万灯（ベストシーズン）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               日本海に切り立つ斜面に1,004枚の棚田が広がる世界景観。5月の水引き、夏の青々とした稲穂、秋の黄金色の稲穂、冬のLEDライトアップ「あぜの万灯」と通年楽しめます。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-amber-50/40 border border-amber-950/5 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5">
-              <span>♨️</span> <span>和倉温泉（開湯1200年の海の温泉）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-amber-950 flex items-center gap-1.5"><span>️</span> <span>和倉温泉（開湯1200年の海の温泉）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               七尾湾を望む名湯。海から湧き出る豊富な塩分を含んだ温泉は保温・美肌効果抜群。「加賀屋」をはじめ日本最高峰のおもてなし宿が集結しています。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-slate-50 border border-slate-200 space-y-2">
-            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5">
-              <span>🐬</span> <span>能登島（のとじま水族館＆透明な海）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5"><span>能登島（のとじま水族館＆透明な海）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               七尾湾に浮かぶ自然豊かな島。ジンベエザメが泳ぐ「のとじま水族館」や、イルカウォッチング、ガラス工芸体験、透明度の高い海での海水浴が楽しめます。
             </p>
           </div>
 
           <div className="p-5 rounded-2xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5">
-              <span>🦀</span> <span>冬の味覚（能登カニ・寒ブリ・能登牡蠣）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-1.5"><span>冬の味覚（能登カニ・寒ブリ・能登牡蠣）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               11月に解禁される「加能ガニ・香箱ガニ」、脂がのった「ひみ寒ぶり・能登寒ブリ」、穴水湾で育つ「能登牡蠣の炭火焼き」は冬の能登旅行の一番の醍醐味です。
             </p>
@@ -293,9 +275,7 @@ export default function NotoGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 3 🗺️
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            能登 モデルコース ｜ 1泊2日ドライブ・2泊3日奥能登周遊コース
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">能登 モデルコース ｜ 1泊2日ドライブ・2泊3日奥能登周遊コース</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             絶景海岸線を走る能登ドライブと和倉温泉宿泊の黄金モデルコース。
           </p>
@@ -304,9 +284,7 @@ export default function NotoGuidePage() {
         <div className="space-y-6 text-xs">
           <div className="p-6 rounded-2xl bg-amber-50/40 border border-amber-300/40 space-y-4">
             <div className="flex flex-wrap items-center justify-between gap-2 border-b border-amber-200 pb-3">
-              <h3 className="text-base font-black text-amber-950 flex items-center gap-2">
-                <span>📍</span> <span>王道！能登1泊2日 ドライブ＆和倉温泉モデルコース</span>
-              </h3>
+              <h3 className="text-base font-black text-amber-950 flex items-center gap-2"><span>王道！能登1泊2日 ドライブ＆和倉温泉モデルコース</span></h3>
               <span className="text-[10px] font-extrabold bg-amber-200 text-amber-900 px-3 py-0.5 rounded-full">
                 カップル・ファミリー向き
               </span>
@@ -338,9 +316,7 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-6 rounded-2xl bg-teal-50/40 border border-teal-200 space-y-3">
-            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-2">
-              <span>🧭</span> <span>奥能登完全制覇！能登2泊3日 モデルコース（見附島・九十九湾めぐり）</span>
-            </h3>
+            <h3 className="text-sm font-bold text-teal-950 flex items-center gap-2"><span>奥能登完全制覇！能登2泊3日 モデルコース（見附島・九十九湾めぐり）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed">
               1泊目を和倉温泉、2泊目を珠洲・輪島の温泉宿にする贅沢コース。軍艦島こと「見附島」や、リアス式海岸の美しい「九十九湾」、揚浜式塩田の塩づくり体験まで奥能登の魅力を全網羅。
             </p>
@@ -353,9 +329,7 @@ export default function NotoGuidePage() {
           <span className="text-[10px] font-extrabold text-teal-800 bg-teal-50 border border-teal-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 4 🏝️
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            能登 観光スポット ｜ 白米千枚田・のとじま水族館・輪島朝市・見附島
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">能登 観光スポット ｜ 白米千枚田・のとじま水族館・輪島朝市・見附島</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             絶対外せない能登の主要景勝地・観光名所の所要時間と見どころ。
           </p>
@@ -363,10 +337,8 @@ export default function NotoGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs">
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">1</span>
-              <span>白米千枚田（しろよねせんまいだ）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">1</span>
+              <span>白米千枚田（しろよねせんまいだ）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約45分〜1時間**<br />
               国の名勝。急斜面に1,004枚もの小さな田んぼが重なる世界農業遺産のシンボル。道の駅「千枚田ポケットパーク」からの見下ろしが絶景。
@@ -374,10 +346,8 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">2</span>
-              <span>のとじま水族館（能登島）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">2</span>
+              <span>のとじま水族館（能登島）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1.5時間〜2時間**<br />
               日本海側で唯一ジンベエザメを飼育する大水族館。プロジェクションマッピングによる幻想的なクラゲ回廊やイルカショーが大人気。
@@ -385,10 +355,8 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">3</span>
-              <span>輪島朝市（わじまあさいち）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">3</span>
+              <span>輪島朝市（わじまあさいち）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約1時間〜1.5時間**<br />
               千年の歴史をもつ日本三大朝市の一つ。おばあちゃん達の威勢の良い掛け声とともに、海鮮干物、柚子餅、伝統の輪島塗が並びます。
@@ -396,10 +364,8 @@ export default function NotoGuidePage() {
           </div>
 
           <div className="p-5 rounded-2xl bg-emerald-50/30 border border-emerald-950/5 space-y-2">
-            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2">
-              <span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">4</span>
-              <span>見附島（軍艦島 / 珠洲市）</span>
-            </h3>
+            <h3 className="text-sm font-extrabold text-teal-950 flex items-center gap-2"><span className="w-5 h-5 rounded-full bg-teal-800 text-white text-[10px] flex items-center justify-center font-bold">4</span>
+              <span>見附島（軍艦島 / 珠洲市）</span></h3>
             <p className="text-emerald-950/80 leading-relaxed font-medium">
               **所要時間：約30分〜45分**<br />
               高さ28mの島が軍艦のようにそびえ立つ珠洲のシンボル。引き潮時には踏み石を渡って島の近くまで歩くことができ、えんむすびーちとしても有名。
@@ -413,9 +379,7 @@ export default function NotoGuidePage() {
           <span className="text-[10px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase tracking-wider">
             STEP 5 🍱
           </span>
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">
-            能登 グルメ＆カフェ ｜ 能登丼・能登牛・能登牡蠣・絶景カフェ・手土産
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-emerald-950">能登 グルメ＆カフェ ｜ 能登丼・能登牛・能登牡蠣・絶景カフェ・手土産</h2>
           <p className="text-xs text-emerald-950/80 leading-relaxed font-medium">
             能登に来たら外せない名物ご当地海鮮＆和牛グルメ。
           </p>
@@ -423,21 +387,21 @@ export default function NotoGuidePage() {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-xs">
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">🍱 能登名物「能登丼」</h3>
+            <h3 className="text-sm font-bold text-amber-950">能登名物「能登丼」</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               能登産のコシヒカリと天然水を使用し、新鮮な地魚や能登牛を盛り付けた丼。食事に使用した特製の「輪島塗箸」を持ち帰れるのが嬉しい名物。
             </p>
           </div>
 
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">🥩 能登牛ステーキ＆能登牡蠣炭火焼き</h3>
+            <h3 className="text-sm font-bold text-amber-950">能登牛ステーキ＆能登牡蠣炭火焼き</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               出荷数が少なく希少価値の高いブランド和牛「能登牛」の極上ステーキ。冬場は七尾湾・穴水で獲れるプリプリの「能登牡蠣」の焼き牡蠣が最高。
             </p>
           </div>
 
           <div className="p-5 bg-amber-50/40 rounded-2xl border border-amber-200 space-y-2">
-            <h3 className="text-sm font-bold text-amber-950">☕ 能登島カフェ＆揚浜式塩田お土産</h3>
+            <h3 className="text-sm font-bold text-amber-950">能登島カフェ＆揚浜式塩田お土産</h3>
             <p className="text-emerald-950/80 leading-relaxed">
               七尾湾を眺める能登島のおしゃれカフェ。日本で唯一伝承される「揚浜式塩田」の手作り天然塩やいしる（魚醤油）、いも菓子はお土産に最適。
             </p>
@@ -456,9 +420,7 @@ export default function NotoGuidePage() {
             </span>
           </div>
 
-          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">
-            能登・和倉温泉 宿選び ＆ 宿泊予約（楽天トラベルで空室・最安値確認）
-          </h2>
+          <h2 className="text-2xl md:text-3xl font-black font-journal-serif text-white">能登・和倉温泉 宿選び ＆ 宿泊予約（楽天トラベルで空室・最安値確認）</h2>
 
           <p className="text-xs md:text-sm text-emerald-100/90 leading-relaxed font-medium">
             「和倉温泉の高級旅館」「全室オーシャンビュー宿」「露天風呂付き客室のある温泉宿」「コスパ抜群ホテル」まで厳選。楽天トラベルからリアルタイムの空室状況・プランを確認して直接予約いただけます。
@@ -504,9 +466,7 @@ export default function NotoGuidePage() {
                       </span>
                     )}
                   </div>
-                  <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">
-                    {post.hotel_name}
-                  </h3>
+                  <h3 className="text-sm font-black font-journal-serif text-white line-clamp-2">{post.hotel_name}</h3>
                   <p className="text-xs text-emerald-100/70 line-clamp-2">
                     {post.description || post.title}
                   </p>
@@ -536,9 +496,7 @@ export default function NotoGuidePage() {
 
       <section className="bg-white border border-emerald-950/10 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="space-y-2 border-b border-emerald-950/10 pb-4">
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2">
-            <span>❓</span> <span>能登旅行のプロが回答！よくある質問（FAQ）</span>
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950 flex items-center gap-2"><span>能登旅行のプロが回答！よくある質問（FAQ）</span></h2>
           <p className="text-xs text-emerald-950/60 leading-relaxed font-medium">
             能登旅行のモデルコース、車なし観光、和倉温泉宿、白米千枚田の所要時間についてお答えします。
           </p>
@@ -547,10 +505,8 @@ export default function NotoGuidePage() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {faqList.map((faq, idx) => (
             <div key={idx} className="p-4 rounded-xl bg-teal-50/40 border border-teal-900/10 space-y-2">
-              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2">
-                <span className="text-teal-800 font-extrabold">Q.</span>
-                <span>{faq.q}</span>
-              </h3>
+              <h3 className="text-sm font-bold text-teal-950 flex items-start gap-2"><span className="text-teal-800 font-extrabold">Q.</span>
+                <span>{faq.q}</span></h3>
               <p className="text-xs text-emerald-950/80 leading-relaxed pl-6">
                 {faq.a}
               </p>
@@ -560,9 +516,7 @@ export default function NotoGuidePage() {
       </section>
 
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
-        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">
-          能登旅行の準備は整いましたか？
-        </h3>
+        <h3 className="text-lg font-bold font-journal-serif text-emerald-950">能登旅行の準備は整いましたか？</h3>
         <p className="text-xs text-emerald-950/70 max-w-xl mx-auto leading-relaxed">
           楽天トラベルの限定クーポンや「5と0のつく日セール」を活用して、憧れの和倉温泉・能登旅行をお得に予約しましょう。
         </p>

@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            勇壮な熊本城の武者返しと、加藤清正が愛した清らかな地下水——城下町の活気と天空スパに癒やされる「熊本プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">勇壮な熊本城の武者返しと、加藤清正が愛した清らかな地下水——城下町の活気と天空スパに癒やされる「熊本プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             阿蘇の豊かな伏流水に恵まれ、水道水がすべて天然地下水で賄われている奇跡の水都・熊本。復興が進む名城「熊本城」を中心に、下通・上通の長大なアーケード街が賑わいを見せています。さらに近年は世界的な半導体関連企業の進出により、国内外のビジネスパーソンや技術者の往来が急増し、ビジネス都市としての熱気が高まっています。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   新市街アーケード内に誕生！最上階12階の露天スカイスパ・サウナシュラン仕様のタワーサウナ完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  CANDEO HOTELS（カンデオホテルズ）熊本新市街 —— 繁華街のど真ん中にそびえる癒やしの天空城。サウナとスカイスパで極上のととのい体験
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">CANDEO HOTELS（カンデオホテルズ）熊本新市街 —— 繁華街のど真ん中にそびえる癒やしの天空城。サウナとスカイスパで極上のととのい体験</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   バスターミナル「サクラマチ クマモト」正面！最上階の天然温泉大浴場と名物太平燕（タイピーエン）朝食
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  天然温泉 六花の湯 ドーミーイン熊本 —— 辛島町電停すぐ。自家源泉の天然温泉と夜鳴きそば完備の安心ステイ
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">天然温泉 六花の湯 ドーミーイン熊本 —— 辛島町電停すぐ。自家源泉の天然温泉と夜鳴きそば完備の安心ステイ</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   1960年開業！熊本城を正面に望む皇室やVIP御用達の名門グランドホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  熊本ホテルキャッスル —— 伝統と格式のおもてなし。客室キャッスルビューと伝説の中国料理「桃花源」
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">熊本ホテルキャッスル —— 伝統と格式のおもてなし。客室キャッスルビューと伝説の中国料理「桃花源」</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              熊本の夜をひとり旅で満喫するスマートグルメガイド
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">熊本の夜をひとり旅で満喫するスマートグルメガイド</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 馬刺しは「特上霜降り・赤身・タテガミ」の三種盛りをオーダー
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 馬刺しは「特上霜降り・赤身・タテガミ」の三種盛りをオーダー</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 甘みのある九州特有の甘口醤油におろし生姜・にんにくを溶いて。口の中でとろける脂と赤身の旨味は本場ならではです。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 球磨焼酎（米焼酎）のソーダ割りまたはロックでキレ味を楽しむ
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 球磨焼酎（米焼酎）のソーダ割りまたはロックでキレ味を楽しむ</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 人吉・球磨地方で造られる500年の歴史を持つ米焼酎「白岳しろ」や「鳥飼」。吟醸香が馬肉料理の旨味を引き立てます。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 翌朝は熊本城の二の丸広場から天守閣を仰ぎ見る朝散歩
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 翌朝は熊本城の二の丸広場から天守閣を仰ぎ見る朝散歩</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 凛とした朝の空気の中で眺める漆黒の大天守と小天守。武者返しの壮大な石垣の迫力に圧倒されます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>阿蘇くまもと空港からホテルまではどう移動するのがスムーズですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>阿蘇くまもと空港からホテルまではどう移動するのがスムーズですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 阿蘇くまもと空港からリムジンバスに乗れば、約45〜50分でサクラマチ クマモト（バスターミナル）や熊本市街地へ直行できます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>TSMC（JASM）のある菊陽町方面へのアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>TSMC（JASM）のある菊陽町方面へのアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 熊本駅から豊肥本線で肥後大津駅・原水駅へ約30〜35分、またはサクラマチから直行通勤バスも運行されており、市内中心部に宿を取るビジネス客が非常に多いです。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】天然温泉 六花の湯 ドーミーイン熊本を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】天然温泉 六花の湯 ドーミーイン熊本を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

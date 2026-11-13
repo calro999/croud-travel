@@ -83,9 +83,7 @@ export default function ArticlePage() {
       <div className="max-w-4xl mx-auto px-4 sm:px-6 space-y-12">
         {/* リード文セクション */}
         <section className="bg-white rounded-3xl p-6 sm:p-8 shadow-sm border border-stone-200/80 space-y-4">
-          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">
-            新幹線が拓く新たな未来と、一乗谷朝倉氏遺跡に薫る武士の誇り——大根おろしの辛みが弾ける越前そばと名湯に整う「福井プレミアム出張」
-          </h2>
+          <h2 className="text-lg sm:text-xl font-bold font-serif text-amber-950 border-b border-amber-100 pb-3">新幹線が拓く新たな未来と、一乗谷朝倉氏遺跡に薫る武士の誇り——大根おろしの辛みが弾ける越前そばと名湯に整う「福井プレミアム出張」</h2>
           <p className="text-stone-700 text-sm sm:text-base leading-relaxed">
             北陸新幹線の金沢〜敦賀間延伸開業により、東京から乗り換えなし約2時間50分で直結した福井県福井市。眼鏡枠や化学繊維、電子部品など世界シェアを誇るものづくり企業が集結し、出張ビジネス都市としての注目度が劇的に跳ね上がっています。日中の仕事を終えた後の夜の楽しみは、福井最大の歓楽街「順化（片町）」でのグルメ探訪。ピリッと辛い大根おろし出汁をぶっかける伝統の「越前おろしそば」、ウスターソースが染みた薄切りカツの「ソースカツ丼」、冬の味覚の王者「越前ガニ」、そして名酒「黒龍」「梵」が迎えてくれます。
           </p>
@@ -125,15 +123,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   2024年開業！JR福井駅西口徒歩2分・コートヤード・バイ・マリオットが手がける北陸最新のハイクラスホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  コートヤード・バイ・マリオット福井 —— 福井駅前の新たなランドマーク。洗練されたモダン空間と福井食材のオールデイダイニング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">コートヤード・バイ・マリオット福井 —— 福井駅前の新たなランドマーク。洗練されたモダン空間と福井食材のオールデイダイニング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -200,15 +194,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR福井駅西口徒歩1分！宿泊者専用の大浴場（露天風呂・男性高温サウナ・水風呂）完備
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  福井マンテンホテル駅前 —— 駅近の温浴オアシス。手足を伸ばせる大浴場と郷土の小鉢バイキング朝食
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">福井マンテンホテル駅前 —— 駅近の温浴オアシス。手足を伸ばせる大浴場と郷土の小鉢バイキング朝食</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -275,15 +265,11 @@ export default function ArticlePage() {
                 <p className="text-amber-800 font-bold text-xs sm:text-sm tracking-wide mb-1">
                   JR福井駅西口徒歩2分！男女別大浴場「旅人の湯」完備の安定したビジネスホテル
                 </p>
-                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">
-                  ホテルルートイン福井駅前 —— 駅前の安心拠点。ラジウム人工温泉大浴場と無料朝食バイキング
-                </h3>
+                <h3 className="text-xl sm:text-2xl font-bold font-serif text-stone-900 leading-snug">ホテルルートイン福井駅前 —— 駅前の安心拠点。ラジウム人工温泉大浴場と無料朝食バイキング</h3>
               </div>
 
               <div className="space-y-3 bg-stone-50/80 p-4 sm:p-5 rounded-2xl border border-stone-100">
-                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">
-                  注目のポイント＆魅力
-                </h4>
+                <h4 className="text-xs font-bold uppercase tracking-wider text-stone-500">注目のポイント＆魅力</h4>
                 <div className="grid gap-3 sm:grid-cols-3">
                   
                   <div className="bg-white p-3.5 rounded-xl border border-stone-200/60 space-y-1">
@@ -336,35 +322,27 @@ export default function ArticlePage() {
             <div className="inline-block bg-amber-500 text-stone-950 font-bold text-xs px-2.5 py-1 rounded-md">
               TIPS & GUIDE
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">
-              福井の二大ソウルフード「越前そば＆ソースカツ丼」を一人で制覇する歩き方
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold font-serif text-white">福井の二大ソウルフード「越前そば＆ソースカツ丼」を一人で制覇する歩き方</h2>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-3">
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                1. 「ヨーロッパ軒総本店」で名物ソースカツ丼（カツ丼セット）を食す
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">1. 「ヨーロッパ軒総本店」で名物ソースカツ丼（カツ丼セット）を食す</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 大正時代発祥の元祖。薄く叩いた豚肉に目の細かいパン粉をまぶしてカラッと揚げ、秘伝の甘辛ウスターソースを潜らせた逸品。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                2. 挽きぐるみの黒いそばに辛味大根の絞り汁をかける「越前おろしそば」
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">2. 挽きぐるみの黒いそばに辛味大根の絞り汁をかける「越前おろしそば」</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 強いコシと豊かな蕎麦の香り。冷たい出汁と大根おろし、削り節、ネギが三位一体となった福井県民のソウルフード。
               </p>
             </div>
             
             <div className="bg-stone-800/80 p-4 rounded-2xl border border-stone-700/60 space-y-2">
-              <h3 className="text-sm font-bold text-amber-300">
-                3. 夜は順化（片町）の割烹で名酒「黒龍」「梵」と日本海の地魚刺身
-              </h3>
+              <h3 className="text-sm font-bold text-amber-300">3. 夜は順化（片町）の割烹で名酒「黒龍」「梵」と日本海の地魚刺身</h3>
               <p className="text-xs text-stone-300 leading-relaxed">
                 全国の地酒ファンを魅了する福井の銘酒。きめ細やかな口当たりが、白身魚や甘エビの旨味を極上に引き立てます。
               </p>
@@ -379,20 +357,16 @@ export default function ArticlePage() {
           <div className="space-y-4">
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>北陸新幹線の福井駅は「かがやき」も停車しますか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>北陸新幹線の福井駅は「かがやき」も停車しますか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 はい、最速達列車の「かがやき」および「はくたか」が全列車停車し、東京方面から乗り換えなしで一直線にアクセスできます。
               </p>
             </div>
             
             <div className="space-y-1.5 bg-stone-50 p-4 rounded-xl">
-              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2">
-                <span className="text-amber-800 font-extrabold">Q.</span>
-                <span>一人で恐竜博物館や永平寺へ行くアクセスはどうですか？</span>
-              </h3>
+              <h3 className="text-sm font-bold text-stone-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold">Q.</span>
+                <span>一人で恐竜博物館や永平寺へ行くアクセスはどうですか？</span></h3>
               <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                 福井駅東口から永平寺直行バス「永平寺ライナー（約30分）」が運行しており、勝山の恐竜博物館へはえちぜん鉄道勝山永平寺線と直通バスで手軽に行けます。
               </p>
@@ -414,9 +388,7 @@ export default function ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】コートヤード・バイ・マリオット福井を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】コートヤード・バイ・マリオット福井を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">

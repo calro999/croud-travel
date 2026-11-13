@@ -109,9 +109,7 @@ export default function UltraLuxuryWinterFeaturePage() {
             <Sparkles className="w-3.5 h-3.5" />
             <span>2026-2027年 憧れの高級宿・ラグジュアリー特選</span>
           </div>
-          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">
-            【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選
-          </h1>
+          <h1 className="text-2xl md:text-4xl font-extrabold tracking-tight leading-snug">【魯山人の美意識が宿る数寄屋造りの名門と加能ガニ極上フルコース】2026-2027年11-12月初冬の石川・加賀温泉郷！名門「あらや滔々庵」＆「山中温泉 花紫」・源泉掛け流し客室露天風呂と初冬解禁のズワイガニ・能登牛名宿5選</h1>
           <p className="text-xs md:text-sm text-slate-300 max-w-2xl mx-auto leading-relaxed">
             開湯1300年の歴史を誇る加賀温泉郷（山代温泉・山中温泉）。美食家・北大路魯山人が逗留し美意識を磨いた名門中の名門「あらや滔々庵」や、渓谷美を望む全室露天付き「花紫」など。11月6日の冬漁解禁とともに始まる最高峰ブランド「加能ガニ（青タグ）」の焼きガニ・カニ刺し・甲羅味噌焼きと、とろける能登牛会席。加賀百万石の伝統工芸と極上の名湯が織りなす最高峰の冬旅厳選5選。
           </p>
@@ -130,39 +128,31 @@ export default function UltraLuxuryWinterFeaturePage() {
           </p>
           
           <div className="pt-4 space-y-3">
-            <h3 className="text-sm md:text-base font-bold text-slate-900">
-              ▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント
-            </h3>
+            <h3 className="text-sm md:text-base font-bold text-slate-900">▼ 本テーマが初冬の記念日・贅沢旅に絶対おすすめな3大ポイント</h3>
             <div className="space-y-3">
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 1
               </span>
-              <span>11月6日解禁！青タグの最高峰ブランド「加能ガニ」極上フルコースを本場で味わう</span>
-            </h3>
+              <span>11月6日解禁！青タグの最高峰ブランド「加能ガニ」極上フルコースを本場で味わう</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               初冬の日本海がもたらす冬の味覚の王様・加能ガニ。炭火焼きガニの香ばしい薫り、とろけるカニ刺し、濃厚な甲羅味噌焼きなど、本場宿ならではの贅を尽くした蟹会席を堪能できます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 2
               </span>
-              <span>美食家・北大路魯山人ゆかりの最高峰名門旅館「あらや滔々庵」の美意識と格式</span>
-            </h3>
+              <span>美食家・北大路魯山人ゆかりの最高峰名門旅館「あらや滔々庵」の美意識と格式</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               山代温泉の元湯を守り継ぐ名門旅館。魯山人の書画や九谷焼の器、数寄屋造りの建築美、源泉掛け流しの名湯が一体となった至高の文化体験を味わえます。
             </p>
           </div>
           <div className="bg-slate-50 rounded-xl p-5 border border-slate-200/80 space-y-2">
-            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2">
-              <span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
+            <h3 className="text-base md:text-lg font-bold text-slate-900 flex items-center gap-2"><span className="flex items-center justify-center w-6 h-6 rounded-full bg-amber-500 text-white text-xs font-black">
                 3
               </span>
-              <span>北陸新幹線延伸でアクセス抜群！鶴仙渓の初冬景色と開湯1300年の名湯巡り</span>
-            </h3>
+              <span>北陸新幹線延伸でアクセス抜群！鶴仙渓の初冬景色と開湯1300年の名湯巡り</span></h3>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-8">
               東京から乗り換えなしで加賀温泉駅まで一直線。冬の鶴仙渓の渓谷美散策や、ステンドグラスが美しい古総湯での外湯巡りなど、優雅な冬の温泉街散策が楽しめます。
             </p>
@@ -177,9 +167,7 @@ export default function UltraLuxuryWinterFeaturePage() {
           <div className="border-b border-slate-200 pb-3 flex items-end justify-between">
             <div>
               <span className="text-xs font-bold text-rose-600 tracking-wider block">RAKUTEN TRAVEL LUXURY RANKING</span>
-              <h2 className="text-xl md:text-2xl font-black text-slate-900">
-                一生に一度は泊まりたい最高峰名宿 5選
-              </h2>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900">一生に一度は泊まりたい最高峰名宿 5選</h2>
             </div>
             <span className="text-xs text-slate-500">リアルタイムAPI連携データ</span>
           </div>
@@ -213,9 +201,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  あらや滔々庵
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">あらや滔々庵</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -280,9 +266,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  山中温泉　吉祥やまなか
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">山中温泉　吉祥やまなか</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -347,9 +331,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  山中温泉　かがり吉祥亭
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">山中温泉　かがり吉祥亭</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -414,9 +396,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  山代温泉　ゆのくに天祥
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">山代温泉　ゆのくに天祥</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -481,9 +461,7 @@ export default function UltraLuxuryWinterFeaturePage() {
                 />
               </div>
               <div className="md:col-span-7 space-y-3">
-                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">
-                  山中温泉　お花見久兵衛
-                </h3>
+                <h3 className="text-xl md:text-2xl font-bold text-slate-900 leading-snug">山中温泉　お花見久兵衛</h3>
                 <div className="space-y-1 text-xs text-slate-500">
                   <p className="flex items-center gap-1">
                     <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
@@ -546,28 +524,22 @@ export default function UltraLuxuryWinterFeaturePage() {
             <span>よくある質問（FAQ）</span></h2>
           <div className="space-y-3">
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>「加能ガニ」とはどのような蟹ですか？越前ガニとの違いは？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>「加能ガニ」とはどのような蟹ですか？越前ガニとの違いは？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               「加能ガニ（かのうがに）」は、石川県の港（橋立港、金沢港など）で水揚げされるオスのズワイガニの最高級ブランド名です。青色のブランドタグが取り付けられます。福井県の「越前ガニ（黄色タグ）」と同じズワイガニですが、漁場が近く日帰り漁で水揚げされるため鮮度が極めて高いのが特徴です。またメスのズワイガニは「香箱ガニ（こうばこがに）」と呼ばれ、濃厚な内子と外子が絶品です。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>北大路魯山人と山代温泉「あらや滔々庵」の縁とは？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>北大路魯山人と山代温泉「あらや滔々庵」の縁とは？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               大正4年（1915年）、当時まだ無名だった福田房次郎（後の北大路魯山人）が山代温泉を訪れ、あらや滔々庵の先代主人や初代須田菁華と出会いました。あらやの離れに逗留して多くの看板や額を彫り、九谷焼の作陶に開眼したことが、魯山人の芸術家・美食家としての原点となりました。館内には現在も魯山人の貴重な作品が展示されています。
             </p>
           </div>
           <div className="bg-white rounded-xl p-5 border border-slate-200 space-y-2 shadow-sm">
-            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2">
-              <span className="text-rose-600 font-black shrink-0">Q.</span>
-              <span>12月の加賀温泉郷へ車で行く場合、スタッドレスタイヤは必要ですか？</span>
-            </h4>
+            <h4 className="text-sm md:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-rose-600 font-black shrink-0">Q.</span>
+              <span>12月の加賀温泉郷へ車で行く場合、スタッドレスタイヤは必要ですか？</span></h4>
             <p className="text-xs md:text-sm text-slate-600 leading-relaxed pl-6">
               北陸自動車道や加賀温泉郷周辺は、12月に入ると強い寒波によって雪が積もったり路面が凍結することがあります。冬季にお車で訪れる場合は、必ずスタッドレスタイヤを装着してください。北陸新幹線の利用が最も安全でスムーズです。
             </p>

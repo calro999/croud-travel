@@ -58,10 +58,8 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-emerald-600" />
-            高騰する日光温泉を避けて、宇都宮ステイ＋餃子満喫が秋の正解ルート！
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-emerald-600" />
+            高騰する日光温泉を避けて、宇都宮ステイ＋餃子満喫が秋の正解ルート！</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             JR宇都宮駅からJR日光線を使えば約40分で日光駅へ直行可能。宇都宮駅周辺はクオリティの高いホテルが3,000円台〜4,000円台で豊富に揃っており、浮いた予算を日光東照宮の拝観や特選とちぎ牛ランチ、名店餃子の食べ比べに回すのがスマートな旅の知恵です。
           </p>
@@ -83,9 +81,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（駅近コスパ）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              スマイルホテル宇都宮西口駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">スマイルホテル宇都宮西口駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宇都宮</span>
@@ -123,9 +119,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（安定の高評価）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル宇都宮駅前
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル宇都宮駅前</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宇都宮</span>
@@ -163,9 +157,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（極上アネックス）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              リッチモンドホテル宇都宮駅前アネックス
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">リッチモンドホテル宇都宮駅前アネックス</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宇都宮</span>
@@ -203,9 +195,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（アクセス抜群）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              アパホテル〈宇都宮駅前〉
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">アパホテル〈宇都宮駅前〉</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宇都宮</span>
@@ -243,9 +233,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                 <span className="text-slate-400 text-xs font-normal">（ゆとり設計）</span>
               </div>
             </div>
-            <h3 className="text-xl font-bold text-slate-900 leading-snug">
-              宇都宮東ホテル
-            </h3>
+            <h3 className="text-xl font-bold text-slate-900 leading-snug">宇都宮東ホテル</h3>
             <div className="flex items-center gap-2 text-xs text-slate-500">
               <MapPin className="w-3.5 h-3.5 text-slate-400 shrink-0" />
               <span>宇都宮</span>
@@ -276,10 +264,8 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
       {/* まとめ */}
       <section className="max-w-4xl mx-auto px-4 mt-12">
         <div className="bg-gradient-to-r from-slate-900 to-emerald-950 text-white rounded-2xl p-6 sm:p-8 space-y-4">
-          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300">
-            <CheckCircle2 className="w-5 h-5" />
-            秋の宇都宮＆日光周遊を満喫するヒント
-          </h2>
+          <h2 className="text-xl font-bold flex items-center gap-2 text-emerald-300"><CheckCircle2 className="w-5 h-5" />
+            秋の宇都宮＆日光周遊を満喫するヒント</h2>
           <p className="text-sm text-emerald-100 leading-relaxed">
             紅葉ピーク時の日光いろは坂は午前中から激しい渋滞が発生するため、宇都宮駅前泊を活かして早朝のJR日光線で移動するのが混雑回避のベストプラクティス。夜は駅ビルパセオや餃子通りで焼き餃子・水餃子の食べ比べを思う存分堪能してください。
           </p>
@@ -297,9 +283,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「宇都宮：日光紅葉の玄関口＆本場餃子食べ比べ！格安・高コスパホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -369,9 +353,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 宇都宮エリアの宿泊施設別スペック＆滞在チェックポイント
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">宇都宮エリアの宿泊施設別スペック＆滞在チェックポイント</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

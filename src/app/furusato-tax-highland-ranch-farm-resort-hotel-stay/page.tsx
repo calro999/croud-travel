@@ -108,9 +108,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  牛・羊・馬・アルパカと触れ合う！搾りたて牛乳スイーツやバター作り体験も満喫
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">牛・羊・馬・アルパカと触れ合う！搾りたて牛乳スイーツやバター作り体験も満喫</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 広大な放牧地での餌やり体験や乗馬、トラクターツアー、新鮮な生乳を使ったアイスクリーム・バター作りなど、五感を使って自然の恵みを学べる体験プログラムが充実。ファミリーの思い出作りにも最適です。
@@ -123,9 +121,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  見渡す限りの緑の大草原！圧倒的なスケール感が生み出す究極の癒やしと解放感
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">見渡す限りの緑の大草原！圧倒的なスケール感が生み出す究極の癒やしと解放感</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 360度に広がる雄大な山々と牧草地のパノラマビュー。都会の窮屈さから完全に解き放たれ、高原の澄み切った空気を胸いっぱいに吸い込むだけで、日常のストレスや疲れが吹き飛んでいきます。
@@ -138,9 +134,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  牧場直送の乳製品・新鮮野菜・ジューシーなブランド牛を堪能する絶品ディナー
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">牧場直送の乳製品・新鮮野菜・ジューシーなブランド牛を堪能する絶品ディナー</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 濃厚なフレッシュモッツァレラチーズ、採れたて高原野菜、柔らかく旨味の詰まったブランド和牛のグリルステーキなど、牧場エリアならではの贅沢な味覚をホテルディナーやバイキングで心ゆくまで堪能できます。
@@ -183,9 +177,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     栃木県那須町・南ヶ丘牧場至近！3種の源泉掛け流し大型スパと豪華バイキングリゾート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    那須温泉　ホテルサンバレー那須
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">那須温泉　ホテルサンバレー那須</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     那須高原の美しい森の中に広がる、温泉・宿泊・アクティビティが融合した大型温泉リゾートホテル。「那須高原 南ヶ丘牧場」やりんどう湖ファミリー牧場へ車ですぐの絶好のロケーションに建ち、牧場巡りの拠点として抜群の人気を誇ります。敷地内には硫黄泉・弱アルカリ泉・マグネシウム泉という3つの異なる天然源泉が湧出する大型スパ施設「湯遊天国」を完備。夕食には新鮮な那須高原野菜やシェフが焼き上げるステーキ、中華・和食・洋食の本格バイキングが楽しめ、三世代家族やグループ旅行にも最高の満足度を提供してくれます。
                   </p>
@@ -244,9 +236,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     北海道占冠村・広大な「ファーム星野」で動物と過ごす！全室展望ジェットバス・サウナ付きスイート
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    リゾナーレトマム
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">リゾナーレトマム</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     北海道の大自然に囲まれた約1,000ヘクタールもの広大な敷地を誇る星野リゾートのフラッグシップ施設。約100ヘクタールの「ファーム星野」では、牛や羊、馬がのんびり暮らす牧歌的な風景が広がり、本物の牧草でできた「牧草ベッド」や「羊とお昼寝ハンモック」などユニークな体験が目白押しです。全客室が100平米以上のスイートルーム仕様で、展望ジェットバスとプライベートサウナを完備。雲海テラスや日本最大級のインドアウェイブプール「ミナミナビーチ」など、世界基準のプレミアムな休日をお過ごしいただけます。
                   </p>
@@ -305,9 +295,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
                   <div className="inline-block text-xs text-amber-800 bg-amber-50 font-semibold px-2.5 py-1 rounded-md mb-2 border border-amber-200/60">
                     熊本県阿蘇市・大草原の放牧風景と阿蘇五岳を望む絶景展望露天！名湯内牧温泉の老舗宿
                   </div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    阿蘇内牧温泉　阿蘇プラザホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">阿蘇内牧温泉　阿蘇プラザホテル</h3>
                   <p className="text-stone-700 text-sm md:text-base leading-relaxed mb-4 font-normal">
                     世界最大級のカルデラを誇る阿蘇の大草原に位置し、阿蘇ミルク牧場や草千里ヶ浜の放牧体験へのアクセス拠点として愛される老舗温泉旅館。宿の最大の自慢は、屋上にある展望露天風呂「峯峰の湯」。遮るもののない大パノラマで阿蘇五岳（根子岳・高岳・中岳・烏帽子岳・杵島岳）の雄大な山並みを一望しながら良質な内牧温泉に浸かる贅沢が味わえます。夕食には熊本名物の馬刺しや肥後あか牛の溶岩焼き、阿蘇のジャージー牛乳を使ったデザートなど郷土の豊かな恵みを堪能でき、阿蘇の雄大な自然をまるごと体感できます。
                   </p>
@@ -411,9 +399,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】那須温泉 ホテルサンバレー那須を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】那須温泉 ホテルサンバレー那須を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -446,9 +432,7 @@ export default function FurusatoHighlandRanchFarmStayPage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と那須温泉 ホテルサンバレー那須の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と那須温泉 ホテルサンバレー那須の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

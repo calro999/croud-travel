@@ -108,9 +108,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   01
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  学問の最高峰で授かる強力な合格・出世・厄除けのご利益
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">学問の最高峰で授かる強力な合格・出世・厄除けのご利益</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 受験シーズンや資格試験の勝負どころにおいて、日本三大天満宮への参拝は受験生やそのご家族にとって特別な意味を持ちます。太宰府天満宮の太鼓橋を渡って身を清め、北野天満宮の撫で牛に触れて知恵を授かり、防府天満宮の美しい大石段を登り切って願を掛ける。千余年にわたり無数の祈りを受け止め続けてきた神域の空気は、張り詰めた緊張を解きほぐし、前を向く勇気と確固たる自信を与えてくれます。
@@ -123,9 +121,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   02
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  境内を染める数千本の梅苑と名物「梅ヶ枝餅」など門前町グルメ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">境内を染める数千本の梅苑と名物「梅ヶ枝餅」など門前町グルメ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 道真公がこよなく愛した「梅」は、三大天満宮の象徴です。春先には約6,000本もの梅が咲き誇る太宰府、50種約1,500本の梅苑が甘い香りを放つ北野、茶室「芳松庵」を擁し春告鳥が鳴く防府。焼き立てアツアツの香ばしい太宰府名物「梅ヶ枝餅」、京都の上品な天神さんゆかりの銘菓、山口の新鮮な瀬戸内鮮魚や瓦そばなど、門前町をそぞろ歩きながら楽しむ食文化も旅の大きな醍醐味です。
@@ -138,9 +134,7 @@ export default function FurusatoRound63ArticlePage() {
                 <span className="w-8 h-8 rounded-full bg-amber-100 text-amber-800 font-bold text-sm flex items-center justify-center shrink-0">
                   03
                 </span>
-                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">
-                  万葉集ゆかりの名湯旅館や御所近くの洗練された名門ホテルステイ
-                </h3>
+                <h3 className="text-lg md:text-xl font-bold text-stone-900 font-serif">万葉集ゆかりの名湯旅館や御所近くの洗練された名門ホテルステイ</h3>
               </div>
               <p className="text-stone-600 text-sm md:text-base leading-relaxed pl-11">
                 太宰府近くで千三百年の歴史を誇る二日市温泉の老舗旅館、京都御苑を望み伝統とモダンが調和するラグジュアリーホテル、防府の瀬戸内パノラマを望む落ち着いたグランドホテルなど、いずれも祈りの余韻に心地よく浸れる上質な宿が揃っています。ふるさと納税クーポンを使えば、家族旅行や三世代旅行の宿泊費も大幅に軽減できます。
@@ -181,9 +175,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 福岡県 筑紫野市湯町1-20-1</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    二日市温泉　大丸別荘
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">二日市温泉　大丸別荘</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「部屋も料理も温泉も最高、両親も大満足!部屋・料理・温泉のすべてが最高で、両親も大満足の旅になりました!」
                   </p>
@@ -236,9 +228,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 京都府 京都市上京区仕丁町330</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    京都ブライトンホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">京都ブライトンホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「GOODでした。ホテルの方の対応、大変心地よく素晴らしかったです。朝食付きプランで、和食懐石を選んでみました。物足りなかったらどうしよう、と思っていましたが、1つ1つに拘りが感じられて…」
                   </p>
@@ -291,9 +281,7 @@ export default function FurusatoRound63ArticlePage() {
               <div className="p-6 md:p-8 flex-1 flex flex-col justify-between">
                 <div>
                   <div className="text-xs text-stone-500 font-medium mb-1">所在地: 山口県 防府市駅南町15-20</div>
-                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">
-                    防府グランドホテル
-                  </h3>
+                  <h3 className="text-xl md:text-2xl font-bold font-serif text-stone-900 mb-3 leading-snug">防府グランドホテル</h3>
                   <p className="text-stone-600 text-sm leading-relaxed mb-4">
                     「朝食は美味しく防音も万全だが融通は利かず当日、結婚式に出席するために利用しました。気温が暑いことが予想されたので、早めにお部屋を使わせてもらえないかと連絡してみましたが、答えはNOでした。待た…」
                   </p>
@@ -393,9 +381,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-white rounded-2xl p-6 md:p-10 shadow-sm border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              【1泊2日】二日市温泉 大丸別荘を拠点にするおすすめ滞在モデルコース
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">【1泊2日】二日市温泉 大丸別荘を拠点にするおすすめ滞在モデルコース</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="border-l-2 border-amber-500 pl-4 md:pl-6 space-y-4">
@@ -428,9 +414,7 @@ export default function FurusatoRound63ArticlePage() {
         <section className="bg-stone-50 rounded-2xl p-6 md:p-10 border border-stone-200/80 mb-10">
           <div className="flex items-center gap-3 mb-6">
             <div className="w-2.5 h-8 bg-amber-500 rounded-full" />
-            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">
-              よくある質問（FAQ）と二日市温泉 大丸別荘の滞在ポイント
-            </h2>
+            <h2 className="text-2xl md:text-3xl font-bold text-stone-900">よくある質問（FAQ）と二日市温泉 大丸別荘の滞在ポイント</h2>
           </div>
           <div className="space-y-4">
             <details className="bg-white p-4 md:p-6 rounded-xl border border-stone-200/60 group">

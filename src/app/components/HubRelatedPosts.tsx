@@ -108,9 +108,7 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
           <span className="text-[10px] font-extrabold text-teal-800 uppercase tracking-widest block">
             RECOMMENDED STAYS & REVIEWS
           </span>
-          <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">
-            {targetPref ? `${targetPref}＆周辺エリアの厳選宿ルポ` : "全国の注目・高評価宿ルポ"}
-          </h3>
+          <h3 className="text-xl md:text-2xl font-black font-journal-serif text-emerald-950">{targetPref ? `${targetPref}＆周辺エリアの厳選宿ルポ` : "全国の注目・高評価宿ルポ"}</h3>
         </div>
         {prefSlug && (
           <Link
@@ -166,9 +164,7 @@ export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedP
                     <span>⭐ {post.rating}</span>
                   </div>
                 )}
-                <h4 className="text-sm font-black font-journal-serif text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">
-                  {post.hotel_name}
-                </h4>
+                <h4 className="text-sm font-black font-journal-serif text-emerald-950 line-clamp-2 group-hover:text-teal-800 transition">{post.hotel_name}</h4>
                 <p className="text-[11px] text-emerald-950/70 line-clamp-2 leading-relaxed font-medium">
                   {post.description || post.title}
                 </p>

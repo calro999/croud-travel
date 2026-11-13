@@ -55,9 +55,7 @@ export default function KawaguchikoAutumnPage() {
 
       <div className="max-w-4xl mx-auto px-4 mt-6">
         <section className="bg-white p-6 md:p-8 rounded-2xl shadow-sm border border-stone-200/80 mb-10 leading-relaxed">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">
-            紅葉トンネルと富士山の奇跡の競演「富士河口湖紅葉まつり」
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-4 border-l-4 border-amber-600 pl-3">紅葉トンネルと富士山の奇跡の競演「富士河口湖紅葉まつり」</h2>
           <p className="mb-4 text-stone-700">
             富士五湖の中でも随一の賑わいを見せる「富士河口湖紅葉まつり」。メイン会場の「もみじ回廊」は、梨川沿いに約150mにわたって樹齢を重ねた巨木モミジがアーチ状に連なり、頭上も足元も燃えるような赤に染め上げられます。日没とともにライトアップが灯ると、漆黒の夜空に浮かび上がる錦秋のトンネルは息を呑む幽玄さです。
           </p>
@@ -69,10 +67,8 @@ export default function KawaguchikoAutumnPage() {
         
         
         <section className="mb-12">
-          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2">
-            <span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
-            楽天トラベル高評価！河口湖・富士山ビュー厳選名宿5選
-          </h2>
+          <h2 className="text-xl md:text-2xl font-bold text-stone-900 mb-6 flex items-center gap-2"><span className="w-2.5 h-6 bg-amber-600 rounded-full inline-block"></span>
+            楽天トラベル高評価！河口湖・富士山ビュー厳選名宿5選</h2>
 
           <div className="space-y-8">
 
@@ -95,9 +91,7 @@ export default function KawaguchikoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.71</span>
                     <span className="text-stone-400 text-xs">(1826件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    富士河口湖温泉　湖南荘
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">富士河口湖温泉　湖南荘</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 私鉄富士急行線　河口湖駅／中央自動車道　河口湖ＩＣより約４ｋｍ
                   </p>
@@ -142,9 +136,7 @@ export default function KawaguchikoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.69</span>
                     <span className="text-stone-400 text-xs">(1160件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    庭園と感動の宿　富士山温泉　ホテル鐘山苑
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">庭園と感動の宿　富士山温泉　ホテル鐘山苑</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富士吉田駅 / 富士急行線富士山駅より１３時～１８時の間無料送迎あり／車８分／駅到着時にお電話下さい／翌日のお送りは８：００より３０分毎
                   </p>
@@ -189,9 +181,7 @@ export default function KawaguchikoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.29</span>
                     <span className="text-stone-400 text-xs">(727件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    河口湖温泉　うぶや
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">河口湖温泉　うぶや</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 車：中央自動車道富士吉田線河口湖ＩＣより１０分。 　電車、バス：富士急行河口湖駅より送迎アリ(詳細問合せ下さい)。
                   </p>
@@ -236,9 +226,7 @@ export default function KawaguchikoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.35</span>
                     <span className="text-stone-400 text-xs">(5583件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    富士河口湖温泉　富士山の見える温泉旅館　大池ホテル
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">富士河口湖温泉　富士山の見える温泉旅館　大池ホテル</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 河口湖駅 / 駅から無料送迎有■駐車場無料■河口湖駅から車で4分■富士急から車で7分河口湖ICから車で12分新宿駅からバスで約120分
                   </p>
@@ -283,9 +271,7 @@ export default function KawaguchikoAutumnPage() {
                     <span className="text-amber-500 font-bold text-sm">★ 4.36</span>
                     <span className="text-stone-400 text-xs">(1131件のクチコミ)</span>
                   </div>
-                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">
-                    ホテルマイステイズ富士山　展望温泉
-                  </h3>
+                  <h3 className="text-lg md:text-xl font-bold text-stone-900 mb-2">ホテルマイステイズ富士山　展望温泉</h3>
                   <p className="text-xs text-stone-500 mb-3">
                     アクセス: 富士急ハイランド駅 / 富士急ハイランド駅より徒歩５分♪ 　富士急行線河口湖駅より徒歩１６分 　中央自動車道河口湖ICより車で１０分
                   </p>
@@ -330,9 +316,7 @@ export default function KawaguchikoAutumnPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「秋の河口湖：もみじ回廊の紅葉まつりと富士山絶景！レイクサイド温泉を満喫するおすすめ名宿5選「2026最新」」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -402,9 +386,7 @@ export default function KawaguchikoAutumnPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「秋の河口湖」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「秋の河口湖」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

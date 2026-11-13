@@ -406,9 +406,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <Landmark className="w-4 h-4 text-teal-800" />
               厳選5名宿のご案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              温暖避寒の名湯と旬の伊勢海老・地金目鯛を堪能する南伊豆の名宿
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">温暖避寒の名湯と旬の伊勢海老・地金目鯛を堪能する南伊豆の名宿</h2>
           </div>
 
           <div className="space-y-8">
@@ -424,9 +422,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
                       <span className="inline-block text-xs font-bold text-teal-800 bg-teal-50 px-2.5 py-0.5 rounded-full mb-1">
                         第{hotel.id}選
                       </span>
-                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-lg sm:text-xl font-bold text-stone-900">{hotel.name}</h3>
                     </div>
                     <div className="flex items-center gap-3">
                       <div className="flex items-center text-amber-500 font-bold text-sm">
@@ -506,17 +502,13 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <Compass className="w-4 h-4 text-teal-800" />
               1泊2日モデルコース
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              特急踊り子で行く！温暖な南伊豆・水仙まつりと伊勢海老周遊ルート
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">特急踊り子で行く！温暖な南伊豆・水仙まつりと伊勢海老周遊ルート</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【1日目】東京からサフィール踊り子で下田へ＆石廊崎の青い海
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【1日目】東京からサフィール踊り子で下田へ＆石廊崎の青い海</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -542,10 +534,8 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
             </div>
 
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-4">
-              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base">
-                <Calendar className="w-4 h-4 text-teal-700" />
-                【2日目】爪木崎の水仙まつり＆温泉メロンパフェ
-              </h3>
+              <h3 className="font-bold text-teal-900 flex items-center gap-2 text-sm sm:text-base"><Calendar className="w-4 h-4 text-teal-700" />
+                【2日目】爪木崎の水仙まつり＆温泉メロンパフェ</h3>
               <ul className="space-y-3 text-xs sm:text-sm text-stone-600">
                 <li className="flex items-start gap-2">
                   <Clock className="w-3.5 h-3.5 text-teal-600 shrink-0 mt-1" />
@@ -579,27 +569,21 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <ShoppingBag className="w-4 h-4 text-teal-800" />
               初冬の南伊豆・おみやげ＆立ち寄り散策手帖
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              南伊豆で手に入れたい初冬の特産銘品＆立ち寄りスポット
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">南伊豆で手に入れたい初冬の特産銘品＆立ち寄りスポット</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Flower2 className="w-4 h-4 text-teal-700" />
-                下賀茂温泉熱栽培の完熟メロン＆扇屋製菓のメロンパフェ
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Flower2 className="w-4 h-4 text-teal-700" />
+                下賀茂温泉熱栽培の完熟メロン＆扇屋製菓のメロンパフェ</h3>
               <p>
                 下賀茂温泉街を代表する老舗和洋菓子店「扇屋製菓」では、100℃の温泉熱ハウスで大切に育てられた最高級マスクメロンを使った贅沢スイーツが楽しめます。看板メニューの「温泉メロンパフェ」や「メロンロールケーキ」「メロン最中」は、濃厚な果汁と豊かな香りが凝縮した逸品。併設カフェでのイートインやお土産のテイクアウトにおすすめです。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Shell className="w-4 h-4 text-teal-700" />
-                石廊崎オーシャンパークと南伊豆干物直売所・手作り天草ところてん
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Shell className="w-4 h-4 text-teal-700" />
+                石廊崎オーシャンパークと南伊豆干物直売所・手作り天草ところてん</h3>
               <p>
                 伊豆半島最南端の「石廊崎オーシャンパーク」は、断崖絶壁と太平洋の大海原を見渡す絶景テラスや遊覧船乗り場が整備された人気拠点。売店では南伊豆の海女が採取した天然天草で作るコシの強い「ところてん」や、須崎・下田港直送の金目鯛干物、伊勢海老せんべいが購入できます。海岸線を走る国道136号沿いにも老舗干物店が点在しています。
               </p>
@@ -614,27 +598,21 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <Shield className="w-4 h-4 text-teal-800" />
               11月・12月の気候・服装・快適アクセス案内
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の南伊豆旅行のポイントと温暖避寒・移動のコツ
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の南伊豆旅行のポイントと温暖避寒・移動のコツ</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-stone-600 leading-relaxed">
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Sun className="w-4 h-4 text-teal-700" />
-                本州屈指の温暖避寒地と初冬の快適な服装
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Sun className="w-4 h-4 text-teal-700" />
+                本州屈指の温暖避寒地と初冬の快適な服装</h3>
               <p>
                 南伊豆は冬でも温暖で、日中は晴れていれば15〜18℃近くまで上がり春先のような陽気になります。重いダウンジャケットよりも、脱ぎ着しやすいウールコートやジャケット、薄手のニットの重ね着がベスト。ただし石廊崎や爪木崎などの岬の突端は海風が強いため、風を通さないウインドブレーカーやストールを1枚持参すると快適に観光できます。
               </p>
             </div>
 
             <div className="space-y-3 bg-stone-50 p-5 rounded-2xl border border-stone-100">
-              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-700" />
-                特急サフィール踊り子直通と伊豆縦貫道ドライブルート
-              </h3>
+              <h3 className="font-bold text-stone-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-700" />
+                特急サフィール踊り子直通と伊豆縦貫道ドライブルート</h3>
               <p>
                 東京駅から伊豆急下田駅までは全席グリーン席のプレミアム特急「サフィール踊り子」または「踊り子」で乗り換えなし約2時間30分〜45分。車窓に広がる相模湾の景色を楽しみながら快適にアクセスできます。車の場合も伊豆縦貫道や修善寺道路の開通により東名沼津ICから南伊豆まで約90〜100分とスムーズ。海岸線の絶景ドライブを存分に満喫できます。
               </p>
@@ -649,9 +627,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <Utensils className="w-4 h-4 text-teal-800" />
               名物グルメ＆特産の深掘り
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の南伊豆を彩る3大極上美食
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の南伊豆を彩る3大極上美食</h2>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -694,18 +670,14 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               <HelpCircle className="w-4 h-4 text-teal-800" />
               よくある質問
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">
-              初冬の南伊豆＆下賀茂温泉旅行・よくある質問（FAQ）
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900 mt-2">初冬の南伊豆＆下賀茂温泉旅行・よくある質問（FAQ）</h2>
           </div>
 
           <div className="space-y-4">
             {faqListItems.map((faq: { q: string; a: string }, idx: number) => (
               <div key={idx} className="bg-stone-50 rounded-2xl p-5 border border-stone-100 space-y-2">
-                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2">
-                  <span className="text-teal-700 font-extrabold">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="font-bold text-stone-900 text-sm sm:text-base flex items-start gap-2"><span className="text-teal-700 font-extrabold">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-stone-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -717,9 +689,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
         {/* Internal Links / Related Features Section */}
         <section className="bg-gradient-to-br from-stone-100 to-teal-50/50 rounded-3xl p-6 sm:p-8 border border-stone-200 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-base sm:text-lg font-bold text-stone-900">
-              静岡・伊豆半島エリアのあわせて読みたい人気温泉特集
-            </h3>
+            <h3 className="text-base sm:text-lg font-bold text-stone-900">静岡・伊豆半島エリアのあわせて読みたい人気温泉特集</h3>
             <p className="text-xs sm:text-sm text-stone-600">
               南伊豆温泉とあわせて巡りたい、伊豆屈指の絶景名湯と冬の美味特集をご紹介します。
             </p>
@@ -731,9 +701,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・伊豆長岡温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
-                富士山眺望と碧テラス絶景・伊豆牛ステーキと古奈の名湯
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">富士山眺望と碧テラス絶景・伊豆牛ステーキと古奈の名湯</h4>
             </Link>
 
             <Link
@@ -741,9 +709,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・熱海温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
-                熱海冬花火のパノラマ絶景露天風呂と金目鯛しゃぶしゃぶ
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">熱海冬花火のパノラマ絶景露天風呂と金目鯛しゃぶしゃぶ</h4>
             </Link>
 
             <Link
@@ -751,9 +717,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・稲取温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
-                稲取港の初冬名物・地金目鯛の姿煮と太平洋オーシャンビュー
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">稲取港の初冬名物・地金目鯛の姿煮と太平洋オーシャンビュー</h4>
             </Link>
 
             <Link
@@ -761,9 +725,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・西伊豆堂ヶ島温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
-                夕陽百選のリアス式海岸絶景と世界最大の高足ガニ会席
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">夕陽百選のリアス式海岸絶景と世界最大の高足ガニ会席</h4>
             </Link>
 
             <Link
@@ -771,9 +733,7 @@ export default function ShizuokaMinamiizuShimogamoWinterPage() {
               className="bg-white p-4 rounded-2xl border border-stone-200 hover:border-teal-500 hover:shadow-xs transition group space-y-2"
             >
               <span className="text-[11px] font-bold text-teal-700 bg-teal-50 px-2 py-0.5 rounded-md">静岡・修善寺温泉</span>
-              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">
-                竹林の小径と伊豆最古の湯・初冬の紅葉ライトアップ散策
-              </h4>
+              <h4 className="text-xs sm:text-sm font-bold text-stone-900 group-hover:text-teal-700 transition line-clamp-2">竹林の小径と伊豆最古の湯・初冬の紅葉ライトアップ散策</h4>
             </Link>
 
             <Link

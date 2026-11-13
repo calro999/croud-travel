@@ -170,9 +170,7 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                この冬、鹿島・潮来・神栖を訪れるべき3つの理由
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">この冬、鹿島・潮来・神栖を訪れるべき3つの理由</h2>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
 
@@ -181,9 +179,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     1
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    「すべての始まり」を告げる東国三社筆頭！関東最古の古社「鹿島神宮」の新春開運初詣
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">「すべての始まり」を告げる東国三社筆頭！関東最古の古社「鹿島神宮」の新春開運初詣</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   武甕槌大神を祀り、勝利と決断の神として武将たちからも篤く信仰されてきた鹿島神宮。新年を迎える1月には全国から参拝者が集まり、国の重要文化財である本殿や奥宮、大鳥居に手を合わせます。神秘的な御手洗池や要石を巡る杜の散策は、冬の澄んだ大気も相まって魂が洗われるような清々しさに満ちています。
@@ -196,9 +192,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     2
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    寒さで身が肥え旨味が凝縮！名物「鹿島灘はまぐり」と最高峰ブランド「常陸牛」の美食
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">寒さで身が肥え旨味が凝縮！名物「鹿島灘はまぐり」と最高峰ブランド「常陸牛」の美食</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   黒潮と親潮が交差する鹿島灘で育つ「鹿島灘はまぐり」は、大粒で肉厚、濃厚な甘みと潮の香りが特徴。冬に最も旨味が乗り、焼きはまぐりや鍋物で味わうとまさに絶品。さらに茨城が誇る最高級黒毛和牛「常陸牛」のすき焼きやすてーきを合わせ、贅を尽くした冬の晩餐が楽しめます。
@@ -211,9 +205,7 @@ export default function FeaturePage() {
                   <span className="w-6 h-6 rounded-full bg-cyan-800 text-white text-xs font-bold flex items-center justify-center flex-shrink-0">
                     3
                   </span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    水郷潮来と北浦の静謐な冬絶景＆芯から温まる天然温泉リフレッシュ
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">水郷潮来と北浦の静謐な冬絶景＆芯から温まる天然温泉リフレッシュ</h3>
                 </div>
                 <p className="text-xs md:text-sm text-stone-600 leading-relaxed pl-8">
                   霞ヶ浦や北浦、前川の穏やかな水辺が広がる水郷潮来。冬は水鳥たちが羽を休め、夕暮れ時には水面が黄金色に輝く静かな水郷美が広がります。周辺に湧く潮来温泉や美肌鉱泉で冷えた身体をじっくりと温め、日頃のストレスから完全に解き放たれる休息が叶います。
@@ -230,17 +222,13 @@ export default function FeaturePage() {
             <div className="flex items-center justify-between border-b border-stone-100 pb-3">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-cyan-700" />
-                <h2 className="text-base sm:text-lg font-bold text-stone-900">
-                  冬の現地アクセス・気候・おすすめの服装
-                </h2>
+                <h2 className="text-base sm:text-lg font-bold text-stone-900">冬の現地アクセス・気候・おすすめの服装</h2>
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 pt-2">
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>エリアへのアクセス</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>エリアへのアクセス</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -261,10 +249,8 @@ export default function FeaturePage() {
                 </ul>
               </div>
               <div className="bg-stone-50 rounded-xl p-4 sm:p-5 border border-stone-200/80 space-y-3">
-                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2">
-                  <span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
-                  <span>見頃・気候・おすすめの服装</span>
-                </h4>
+                <h4 className="font-bold text-stone-900 text-sm sm:text-base flex items-center gap-2 border-b border-stone-200/80 pb-2"><span className="w-2.5 h-2.5 rounded-full bg-cyan-700"></span>
+                  <span>見頃・気候・おすすめの服装</span></h4>
                 <ul className="space-y-2 text-xs sm:text-sm text-stone-600 leading-relaxed">
                   <li className="flex items-start gap-1.5">
                     <span className="text-cyan-700 font-bold shrink-0">・</span>
@@ -288,9 +274,7 @@ export default function FeaturePage() {
         {/* 厳選名宿一覧 */}
         <section className="max-w-4xl mx-auto px-4 space-y-6 mb-14">
           <div className="border-l-4 border-cyan-800 pl-3">
-            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">
-              鹿島・潮来・神栖 厳選の温泉＆名宿5選
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-stone-900">鹿島・潮来・神栖 厳選の温泉＆名宿5選</h2>
             <p className="text-xs sm:text-sm text-stone-500 pt-0.5">
               楽天トラベルの最新実データより厳選。料理・温泉・眺望に秀でた極上宿
             </p>
@@ -323,11 +307,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（1156件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178910%2F178910.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F178910%2F178910.html" target="_blank" rel="sponsored noopener noreferrer">
                         たびのホテル鹿島
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>鹿嶋市の中心エリアに位置し、観光にもビジネスにも抜群の利便性と居心地の良さを誇るホテル。館内には足を伸ばしてゆったりと浸かれる大浴場が完備されており、冬の鹿島神宮参拝や水郷散策で冷え切った身体を芯からポカポカに温めてくれます。</p>
                       <p>客室は清潔感に溢れ、上質なシモンズベッドが心地よい眠りを約束。朝食には茨城ならではの納豆や新鮮な卵、地元食材を活かした和洋ビュッフェが並び、元気に冬の旅路へ出発できます。</p>
@@ -389,11 +371,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（1238件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54311%2F54311.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F54311%2F54311.html" target="_blank" rel="sponsored noopener noreferrer">
                         ホテル　レイ　イン　鹿島（旧ホテルウィングインターナショナル鹿嶋）
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>鹿嶋市内の主要スポットへのアクセス拠点として高い人気を誇る機能的なシティホテル。鹿島神宮の大鳥居まで車で数分という抜群の立地で、早朝の澄んだ空気の中で行われる新春初詣にも最適のベースキャンプです。</p>
                       <p>客室は落ち着いたインテリアで統一され、ゆったりとしたデスクやWi-Fiも完備。周辺には地元の新鮮な魚介や鹿島灘はまぐりを提供する飲食店も多く、自由気ままに水郷の夜を堪能できます。</p>
@@ -455,11 +435,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（618件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158566%2F158566.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F158566%2F158566.html" target="_blank" rel="sponsored noopener noreferrer">
                         天然温泉「千両の湯」スーパーホテル鹿嶋
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>鹿嶋エリアで唯一、館内に男女別の天然温泉大浴場「千両の湯」を備えた人気の宿泊施設。無色透明で肌触りの良い天然温泉は、疲労回復や冷え性改善に効果が高く、参拝帰りの冷えた身体を優しく包み込みます。</p>
                       <p>さらに毎朝焼き上げられる香ばしいクロワッサンやオーガニック野菜を取り入れた無料健康朝食が大好評。自分に合った硬さを選べる快眠枕など細やかなサービスも行き届き、気軽に満足度の高い冬ステイを楽しめます。</p>
@@ -521,11 +499,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（1595件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44928%2F44928.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F44928%2F44928.html" target="_blank" rel="sponsored noopener noreferrer">
                         亀の井ホテル　潮来
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>水郷潮来の北浦湖畔に建ち、全客室の窓から広大な水辺の景色を見渡せる絶景のリゾート温泉ホテル。最大の自慢は、最上階の展望大浴場から望む北浦のパノラマ。</p>
                       <p>冬の夕暮れ時には湖面が黄金色に染まる息を呑む夕景を眺めながら天然温泉に浸かる贅沢が味わえます。夕食には茨城が誇る最高峰「常陸牛」のジューシーなステーキや陶板焼き、鹿島灘はまぐり、水郷ならではの郷土料理が彩り豊かに並び、心豊かなひとときを演出します。</p>
@@ -587,11 +563,9 @@ export default function FeaturePage() {
                         <span className="text-stone-400 font-normal">（71件）</span>
                       </div>
                     </div>
-                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors">
-                      <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32427%2F32427.html" target="_blank" rel="sponsored noopener noreferrer">
+                    <h3 className="text-lg md:text-xl font-bold text-stone-900 hover:text-cyan-800 transition-colors"><a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F32427%2F32427.html" target="_blank" rel="sponsored noopener noreferrer">
                         ビジネス旅館　扇屋
-                      </a>
-                    </h3>
+                      </a></h3>
                     <div className="space-y-2 text-sm sm:text-base text-stone-700 leading-relaxed">
                       <p>潮来駅の近くに佇み、どこか懐かしい昭和の風情と家庭的な温かいもてなしで旅人を迎える老舗旅館。気取らない雰囲気の中で、のんびりと水郷の旅情を味わいたい方に最適です。</p>
                       <p>お料理は板前である主人が一品一品丁寧に仕上げる手作り和食で、旬の刺身や煮魚、地元の新鮮野菜を使った煮物など、素朴ながらも心に染み渡る美味しさ。鹿島神宮や香取神宮を巡る一人旅やビジネス利用にもおすすめの温かな宿です。</p>
@@ -632,9 +606,7 @@ export default function FeaturePage() {
               <span className="bg-amber-600 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase">
                 Furusato Tax
               </span>
-              <h3 className="text-lg sm:text-xl font-bold text-stone-900">
-                楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術
-              </h3>
+              <h3 className="text-lg sm:text-xl font-bold text-stone-900">楽天ふるさと納税（控除上限内で実質2,000円自己負担・最大30%クーポン還元）でお得に泊まる賢い旅行術</h3>
               <p className="text-xs sm:text-sm text-stone-600 max-w-xl leading-relaxed">
                 旅行先の自治体へ寄付することで、最大30%相当の楽天トラベル宿泊クーポンが返礼品として付与されます。予約済みの日程にも「あとから割引」で適用可能！
               </p>
@@ -656,18 +628,14 @@ export default function FeaturePage() {
           <div className="space-y-4">
             <div className="flex items-center gap-2">
               <HelpCircle className="w-5 h-5 text-cyan-700" />
-              <h2 className="text-lg sm:text-xl font-bold text-stone-900">
-                冬の鹿島・潮来・神栖旅行 よくある質問（FAQ）
-              </h2>
+              <h2 className="text-lg sm:text-xl font-bold text-stone-900">冬の鹿島・潮来・神栖旅行 よくある質問（FAQ）</h2>
             </div>
             <div className="space-y-3">
 
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    鹿島神宮の新春初詣の混雑状況とおすすめの参拝時間帯は？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">鹿島神宮の新春初詣の混雑状況とおすすめの参拝時間帯は？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -681,9 +649,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    「鹿島灘はまぐり」と「常陸牛」を両方味わえる宿や食事処はありますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">「鹿島灘はまぐり」と「常陸牛」を両方味わえる宿や食事処はありますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -697,9 +663,7 @@ export default function FeaturePage() {
               <div className="bg-white rounded-2xl p-5 border border-stone-200/80 shadow-sm space-y-2">
                 <div className="flex items-start gap-2.5">
                   <span className="font-bold text-cyan-800 text-sm flex-shrink-0 mt-0.5">Q.</span>
-                  <h3 className="font-bold text-stone-900 text-sm md:text-base">
-                    東国三社（鹿島神宮・香取神宮・息栖神社）は1日で巡ることができますか？
-                  </h3>
+                  <h3 className="font-bold text-stone-900 text-sm md:text-base">東国三社（鹿島神宮・香取神宮・息栖神社）は1日で巡ることができますか？</h3>
                 </div>
                 <div className="flex items-start gap-2.5 pl-6">
                   <span className="font-bold text-amber-600 text-sm flex-shrink-0 mt-0.5">A.</span>
@@ -716,9 +680,7 @@ export default function FeaturePage() {
         {/* 内部リンク・関連回遊ナビゲーション */}
         <section className="max-w-4xl mx-auto px-4">
           <div className="bg-white rounded-2xl p-6 border border-stone-200 space-y-4">
-            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">
-              あわせて読みたい関連旅行ガイド
-            </h3>
+            <h3 className="text-sm font-bold text-stone-900 border-b border-stone-100 pb-2">あわせて読みたい関連旅行ガイド</h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
               <Link
                 href="/prefectures/ibaraki/"

@@ -248,12 +248,10 @@ export default function WinterOitaNagayuPage() {
             11月・12月 奇跡の天然炭酸泉＆くじゅう初雪特集
           </div>
 
-          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">
-            【11・12月大分・竹田長湯温泉】世界屈指の天然炭酸泉とくじゅう初雪絶景
+          <h1 className="text-2xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight text-white leading-tight">【11・12月大分・竹田長湯温泉】世界屈指の天然炭酸泉とくじゅう初雪絶景
             <span className="block text-teal-300 text-lg sm:text-2xl mt-3 font-normal">
               名物清流エノハ料理＆極上豊後牛会席を堪能する秘湯治名宿5選
-            </span>
-          </h1>
+            </span></h1>
 
           <p className="text-sm sm:text-base text-slate-200 leading-relaxed max-w-4xl">
             11月から12月にかけて、大分県竹田市の芹川沿いに広がる長湯温泉は、初雪を冠した雄大なくじゅう連山のパノラマと、世界屈指の湧出量・高濃度を誇る「奇跡の天然炭酸泉」が旅人を魅了します。ぬるめの湯に浸かると全身が銀色の炭酸泡に包まれ、血行促進と芯からのポカポカ感が持続する日本有数の名湯。「飲んで効き 浴ちて効く」長湯の名湯巡りやラムネ温泉館を堪能した後は、芹川の清流が育んだ「清流の女王エノハ（ヤマメ）」の塩焼きや骨酒、極上のおおいた豊後牛会席に舌鼓。初冬の静寂と滋味あふれる名宿5選を徹底解説します。
@@ -289,9 +287,7 @@ export default function WinterOitaNagayuPage() {
             <Landmark className="w-4 h-4" />
             長湯温泉の初冬の魅力
           </div>
-          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">
-            銀色の泡が全身を包み、身体の芯から温もる。世界に誇る炭酸泉と山里の美食に出逢う冬の旅
-          </h2>
+          <h2 className="text-xl sm:text-3xl font-bold text-slate-900 leading-snug">銀色の泡が全身を包み、身体の芯から温もる。世界に誇る炭酸泉と山里の美食に出逢う冬の旅</h2>
           <div className="text-sm sm:text-base text-slate-600 leading-relaxed space-y-4">
             <p>
               大分県西部に位置する竹田市・長湯（ながゆ）温泉は、阿蘇くじゅう国立公園の東麓、のどかな芹川の渓流沿いに開けた日本屈指の温泉地です。ドイツの温泉保養地バートクロイツィンゲンとも姉妹都市盟約を結び、湧出量・炭酸ガス濃度ともに世界屈指と称される「高濃度天然炭酸泉」が自噴しています。古くは江戸時代、岡藩主・中川公が湯治場として整備し、大正から昭和にかけては文豪・川端康成や野上弥生子ら多くの文化人がこの名湯を愛しました。
@@ -308,9 +304,7 @@ export default function WinterOitaNagayuPage() {
         {/* 3 Pillars Section */}
         <section className="space-y-6">
           <div className="text-center space-y-2">
-            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">
-              11月・12月の長湯温泉を満喫する3つの醍醐味
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-bold text-slate-900">11月・12月の長湯温泉を満喫する3つの醍醐味</h2>
             <p className="text-sm text-slate-500">
               世界屈指の名湯と大自然の恵みを心ゆくまで堪能
             </p>
@@ -321,9 +315,7 @@ export default function WinterOitaNagayuPage() {
               <div className="w-12 h-12 rounded-xl bg-sky-50 flex items-center justify-center text-sky-600">
                 <Sparkle className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                世界屈指の高濃度天然炭酸泉
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">世界屈指の高濃度天然炭酸泉</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 全身に銀色の気泡が付着する奇跡の炭酸泉。血流を劇的に促進し、冬の冷え性を芯から改善する極上の温冷交互浴を体感。
               </p>
@@ -333,9 +325,7 @@ export default function WinterOitaNagayuPage() {
               <div className="w-12 h-12 rounded-xl bg-teal-50 flex items-center justify-center text-teal-600">
                 <Fish className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                清流の女王エノハ＆極上豊後牛
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">清流の女王エノハ＆極上豊後牛</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 芹川で育まれたエノハ（ヤマメ）の炭火塩焼き・姿造り・香ばしい骨酒と、とろける霜降りの大分豊後牛会席を贅沢に満喫。
               </p>
@@ -345,9 +335,7 @@ export default function WinterOitaNagayuPage() {
               <div className="w-12 h-12 rounded-xl bg-amber-50 flex items-center justify-center text-amber-600">
                 <Snowflake className="w-6 h-6" />
               </div>
-              <h3 className="text-base sm:text-lg font-bold text-slate-900">
-                初雪のくじゅう連山と芹川雪見露天
-              </h3>
+              <h3 className="text-base sm:text-lg font-bold text-slate-900">初雪のくじゅう連山と芹川雪見露天</h3>
               <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                 白雪を戴く雄大なくじゅう連山のパノラマ絶景。清流のせせらぎを聴きながら入る芹川沿いの名湯露天風呂と外湯めぐり。
               </p>
@@ -361,9 +349,7 @@ export default function WinterOitaNagayuPage() {
             <span className="text-xs sm:text-sm font-semibold tracking-wider text-teal-800 uppercase">
               Selected Accommodations
             </span>
-            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">
-              大分・竹田長湯温泉の秘湯治名宿厳選5選
-            </h2>
+            <h2 className="text-xl sm:text-3xl font-extrabold text-slate-900">大分・竹田長湯温泉の秘湯治名宿厳選5選</h2>
             <p className="text-xs sm:text-sm text-slate-500">
               楽天トラベル最新APIから取得した実在データに基づく、確かな評価と魅力を誇る厳選宿泊施設
             </p>
@@ -411,9 +397,7 @@ export default function WinterOitaNagayuPage() {
                         </div>
                       </div>
 
-                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">
-                        {hotel.name}
-                      </h3>
+                      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 leading-snug">{hotel.name}</h3>
 
                       <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                         {hotel.story}
@@ -487,9 +471,7 @@ export default function WinterOitaNagayuPage() {
         <section className="bg-white rounded-3xl p-6 sm:p-10 shadow-sm border border-slate-200/80 space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-100">
             <Compass className="w-6 h-6 text-teal-800" />
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-              初冬の長湯温泉を満喫する1泊2日おすすめモデルコース
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の長湯温泉を満喫する1泊2日おすすめモデルコース</h2>
           </div>
           <div className="space-y-6 text-slate-700">
             <div className="space-y-2">
@@ -517,34 +499,26 @@ export default function WinterOitaNagayuPage() {
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 rounded-3xl p-6 sm:p-10 text-white space-y-6">
           <div className="flex items-center gap-3 pb-3 border-b border-teal-700/60">
             <Utensils className="w-6 h-6 text-amber-400" />
-            <h2 className="text-xl sm:text-2xl font-bold text-white">
-              竹田・長湯温泉の初冬グルメ完全ガイド！清流エノハと豊後牛
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold text-white">竹田・長湯温泉の初冬グルメ完全ガイド！清流エノハと豊後牛</h2>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-slate-200">
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Fish className="w-4 h-4 text-amber-300" />
-                清流の女王エノハ（ヤマメ）料理
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Fish className="w-4 h-4 text-amber-300" />
+                清流の女王エノハ（ヤマメ）料理</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 芹川の冷涼な伏流水で育つエノハは、臭みがなく身が繊細で甘み豊か。炭火でじっくり焼き上げた「塩焼き」は頭から尻尾まで食べられ、骨まで香ばしい「唐揚げ」、熱燗を注いだ「エノハ骨酒」は長湯の夜の最高の贅沢です。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Flame className="w-4 h-4 text-orange-300" />
-                極上おおいた豊後牛ステーキ
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Flame className="w-4 h-4 text-orange-300" />
+                極上おおいた豊後牛ステーキ</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 大分の雄大な大地が育む最高峰の黒毛和牛「おおいた和牛（豊後牛）」。美しい霜降りと芳醇な肉汁が特徴で、陶板ステーキかすき焼き小鍋でいただくと、口の中でとろけるような至福の旨味が広がります。
               </p>
             </div>
             <div className="bg-white/5 rounded-2xl p-5 border border-white/10 space-y-2">
-              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5">
-                <Wine className="w-4 h-4 text-rose-300" />
-                竹田丸福からあげ＆名物とり天
-              </h3>
+              <h3 className="font-bold text-teal-300 text-base flex items-center gap-1.5"><Wine className="w-4 h-4 text-rose-300" />
+                竹田丸福からあげ＆名物とり天</h3>
               <p className="text-xs leading-relaxed text-slate-300">
                 竹田市民のソウルフード「丸福のからあげ」や、サクサクの衣にポン酢とからしをつけていただく大分名物「とり天」。地元産原木しいたけの天ぷらやかぼすを添えた郷土料理が、温泉宿の膳をさらに滋味深く彩ります。
               </p>
@@ -558,15 +532,11 @@ export default function WinterOitaNagayuPage() {
             <Compass className="w-4 h-4" />
             旅の計画ガイド
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            11月・12月の長湯温泉 交通アクセス＆冬道ドライブのアドバイス
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">11月・12月の長湯温泉 交通アクセス＆冬道ドライブのアドバイス</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-xs sm:text-sm text-slate-600 leading-relaxed">
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <Compass className="w-4 h-4 text-teal-600" />
-                アクセス方法と冬道運転の注意点
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><Compass className="w-4 h-4 text-teal-600" />
+                アクセス方法と冬道運転の注意点</h3>
               <p>
                 車の場合は、大分道湯布院ICより約50分、熊本空港より阿蘇ミルクロード経由で約1時間20分です。標高が高いため、12月中旬以降はやまなみハイウェイや久住高原周辺で降雪や路面凍結が発生します。12月以降に車で訪れる場合は必ずスタッドレスタイヤを装着してください。
               </p>
@@ -576,10 +546,8 @@ export default function WinterOitaNagayuPage() {
             </div>
 
             <div className="space-y-3 bg-slate-50 p-5 rounded-2xl border border-slate-100">
-              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2">
-                <ThermometerSun className="w-4 h-4 text-amber-600" />
-                気候と服装・炭酸泉入浴のコツ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-sm flex items-center gap-2"><ThermometerSun className="w-4 h-4 text-amber-600" />
+                気候と服装・炭酸泉入浴のコツ</h3>
               <p>
                 12月の長湯温泉は朝晩氷点下まで冷え込みます。厚手ダウンジャケット、ヒートテック、マフラー、手袋などの完全防寒をご準備ください。
               </p>
@@ -596,16 +564,12 @@ export default function WinterOitaNagayuPage() {
             <HelpCircle className="w-4 h-4" />
             よくある質問
           </div>
-          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-            初冬の大分・竹田長湯温泉旅行 FAQ
-          </h2>
+          <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の大分・竹田長湯温泉旅行 FAQ</h2>
           <div className="space-y-4">
             {faqList.map((faq, fIdx) => (
               <div key={fIdx} className="bg-slate-50 rounded-2xl p-5 border border-slate-100 space-y-2">
-                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-teal-700 shrink-0 font-black">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-sm sm:text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-teal-700 shrink-0 font-black">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-xs sm:text-sm text-slate-600 leading-relaxed pl-5">
                   {faq.a}
                 </p>
@@ -617,10 +581,8 @@ export default function WinterOitaNagayuPage() {
         {/* Internal Link Section */}
         <section className="bg-gradient-to-br from-teal-900 to-slate-900 text-white rounded-3xl p-8 sm:p-10 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2">
-              <Map className="w-5 h-5 text-teal-300" />
-              あわせて読みたい九州の冬温泉・名湯特集
-            </h3>
+            <h3 className="text-lg sm:text-xl font-bold text-white flex items-center gap-2"><Map className="w-5 h-5 text-teal-300" />
+              あわせて読みたい九州の冬温泉・名湯特集</h3>
             <p className="text-xs sm:text-sm text-teal-200">
               冬の味覚や雪見露天、温泉街散策を満喫する九州各地の厳選旅ガイド
             </p>
@@ -632,9 +594,7 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・由布院</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">由布院温泉の金鱗湖朝霧絶景と豊後牛ステーキ会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 幻想的な金鱗湖の冬朝霧と由布岳を望む贅沢な温泉リゾート。
               </p>
@@ -645,9 +605,7 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">熊本・阿蘇内牧</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                阿蘇内牧温泉のカルデラ初雪パノラマと阿蘇あか牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">阿蘇内牧温泉のカルデラ初雪パノラマと阿蘇あか牛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 雄大な阿蘇五岳の初雪と、ヘルシーな赤身が旨いあか牛を満喫。
               </p>
@@ -658,9 +616,7 @@ export default function WinterOitaNagayuPage() {
               className="group p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition duration-200 space-y-2"
             >
               <span className="text-[10px] font-bold text-amber-300 bg-amber-400/20 px-2 py-0.5 rounded-full inline-block">大分・別府鉄輪</span>
-              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
-                別府鉄輪温泉の湯けむり展望と地獄蒸し＆豊後牛会席宿
-              </h4>
+              <h4 className="text-xs font-bold text-white group-hover:text-amber-200 transition line-clamp-2">別府鉄輪温泉の湯けむり展望と地獄蒸し＆豊後牛会席宿</h4>
               <p className="text-[11px] text-teal-100 line-clamp-2">
                 立ち上る湯けむり景観と地熱を利用した名物地獄蒸し料理。
               </p>

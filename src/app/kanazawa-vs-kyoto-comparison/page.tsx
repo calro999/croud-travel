@@ -82,19 +82,17 @@ export default function KanazawaVsKyotoPage() {
         <div className="space-y-16">
           {/* 【食】 */}
           <section className="bg-white p-8 rounded-[2rem] shadow-sm border border-[#e8e4d9]">
-            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center">
-              <span className="block text-sm text-slate-400 mb-2">Round 1</span>
-              【食】絶品グルメ対決
-            </h2>
+            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center"><span className="block text-sm text-slate-400 mb-2">Round 1</span>
+              【食】絶品グルメ対決</h2>
             <div className="flex flex-col gap-8">
               <div className="flex-1">
-                <h3 className="text-xl font-bold mb-3 pb-2 border-b-2 border-blue-200">🌊 金沢：日本海の恵み</h3>
+                <h3 className="text-xl font-bold mb-3 pb-2 border-b-2 border-blue-200">金沢：日本海の恵み</h3>
                 <p className="text-slate-600 mb-3">
                   「近江町市場」での食べ歩きや、豪華な海鮮丼（約2,200円〜）が最高。のどぐろやガスエビなど、地元ならではの新鮮な魚介が堪能できます。
                 </p>
               </div>
               <div className="flex-1">
-                <h3 className="text-xl font-bold mb-3 pb-2 border-b-2 border-red-200">🍁 京都：洗練された和の心</h3>
+                <h3 className="text-xl font-bold mb-3 pb-2 border-b-2 border-red-200">京都：洗練された和の心</h3>
                 <p className="text-slate-600 mb-3">
                   「錦市場」での湯葉や抹茶スイーツの食べ歩き（予算2,000円程度）から、敷居の高い京懐石まで。おばんざいランチなど、出汁の文化を味わえます。
                 </p>
@@ -104,10 +102,8 @@ export default function KanazawaVsKyotoPage() {
 
           {/* 【美】 */}
           <section className="bg-white p-8 rounded-[2rem] shadow-sm border border-[#e8e4d9]">
-            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center">
-              <span className="block text-sm text-slate-400 mb-2">Round 2</span>
-              【美】観光・アート対決
-            </h2>
+            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center"><span className="block text-sm text-slate-400 mb-2">Round 2</span>
+              【美】観光・アート対決</h2>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <ul className="space-y-4">
@@ -130,10 +126,8 @@ export default function KanazawaVsKyotoPage() {
 
           {/* 【湯】 */}
           <section className="bg-white p-8 rounded-[2rem] shadow-sm border border-[#e8e4d9]">
-            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-6 text-center">
-              <span className="block text-sm text-slate-400 mb-2">Round 3</span>
-              【湯】癒やしの温泉事情
-            </h2>
+            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-6 text-center"><span className="block text-sm text-slate-400 mb-2">Round 3</span>
+              【湯】癒やしの温泉事情</h2>
             <p className="text-slate-700 leading-relaxed text-center mb-6">
               実は大きな違いが出るのが「温泉」です。
             </p>
@@ -155,10 +149,8 @@ export default function KanazawaVsKyotoPage() {
 
           {/* 【金】 */}
           <section className="bg-white p-8 rounded-[2rem] shadow-sm border border-[#e8e4d9]">
-            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-6 text-center">
-              <span className="block text-sm text-slate-400 mb-2">Round 4</span>
-              【金】気になる交通費
-            </h2>
+            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-6 text-center"><span className="block text-sm text-slate-400 mb-2">Round 4</span>
+              【金】気になる交通費</h2>
             <p className="text-slate-700 mb-6 text-center">
               東京からのアクセス費用を比較。バスか新幹線かで大きく変わります。
             </p>
@@ -186,18 +178,16 @@ export default function KanazawaVsKyotoPage() {
         
       {/* 混雑度・回りやすさの徹底比較 */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">
-          混雑度と移動のストレス度：どちらが快適に回れるか
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">混雑度と移動のストレス度：どちらが快適に回れるか</h2>
         <div className="grid md:grid-cols-2 gap-6">
           <div className="bg-indigo-50/50 p-6 rounded-3xl border border-indigo-100">
-            <h3 className="font-bold text-lg text-indigo-900 mb-2">🚲 金沢：徒歩＆シェアサイクルで完結</h3>
+            <h3 className="font-bold text-lg text-indigo-900 mb-2">金沢：徒歩＆シェアサイクルで完結</h3>
             <p className="text-sm text-slate-700 leading-relaxed">
               金沢の主要名所（兼六園、金沢城、21世紀美術館、近江町市場、ひがし茶屋街）は中心部2km圏内に集中。まちのり（シェアサイクル）や周遊バスで快適に移動できます。
             </p>
           </div>
           <div className="bg-slate-50 p-6 rounded-3xl border border-slate-200">
-            <h3 className="font-bold text-lg text-slate-800 mb-2">🚃 京都：地下鉄を軸にした動線が必須</h3>
+            <h3 className="font-bold text-lg text-slate-800 mb-2">京都：地下鉄を軸にした動線が必須</h3>
             <p className="text-sm text-slate-700 leading-relaxed">
               東山、嵐山、伏見稲荷、金閣寺とエリアが東西南北に大きく離れているため、市バスだけに頼ると大渋滞でタイムロス。地下鉄を活用した賢い移動計画が不可欠です。
             </p>
@@ -207,9 +197,7 @@ export default function KanazawaVsKyotoPage() {
 
       {/* よくある質問 FAQ */}
       <section className="mb-14">
-        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">
-          金沢 vs 京都 よくある質問（FAQ）
-        </h2>
+        <h2 className="font-journal-serif text-2xl md:text-3xl font-bold text-indigo-900 mb-6 border-b-2 border-indigo-200 pb-2">金沢 vs 京都 よくある質問（FAQ）</h2>
         <div className="space-y-4">
           <div className="bg-white rounded-2xl p-5 border border-slate-100 shadow-sm">
             <h3 className="font-bold text-slate-800 mb-2">Q. 初めての古都旅行ならどっちがおすすめ？</h3>
@@ -234,9 +222,7 @@ export default function KanazawaVsKyotoPage() {
     
       {hotels.length > 0 && (
           <section className="mb-16">
-            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center">
-              おすすめの宿泊施設
-            </h2>
+            <h2 className="font-journal-serif text-3xl font-bold text-[#8b5a2b] mb-8 text-center">おすすめの宿泊施設</h2>
             <div className="grid md:grid-cols-3 gap-6">
               {hotels.map((hotel, idx) => (
                 <div key={idx} className="bg-white rounded-3xl overflow-hidden shadow-sm border border-[#e8e4d9] flex flex-col">
@@ -274,9 +260,7 @@ export default function KanazawaVsKyotoPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「金沢 vs 京都 どっちが面白い？：食べ歩き・美術館・温泉・費用で古都対決」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -355,9 +339,7 @@ export default function KanazawaVsKyotoPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 「金沢 vs 京都 どっちが面白い？」掲載宿の所在地・アクセス・特徴データ一覧
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">「金沢 vs 京都 どっちが面白い？」掲載宿の所在地・アクセス・特徴データ一覧</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

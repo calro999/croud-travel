@@ -58,10 +58,8 @@ export default function AutumnBudgetHotelsPage() {
       {/* イントロダクション */}
       <section className="max-w-4xl mx-auto px-4 py-8">
         <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-sm space-y-4">
-          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <Utensils className="w-5 h-5 text-amber-600" />
-            新幹線口（太閤通口）に最新ホテルが集結！浮いた予算であつた蓬莱軒のひつまぶしを満喫
-          </h2>
+          <h2 className="text-lg font-bold text-slate-900 flex items-center gap-2"><Utensils className="w-5 h-5 text-amber-600" />
+            新幹線口（太閤通口）に最新ホテルが集結！浮いた予算であつた蓬莱軒のひつまぶしを満喫</h2>
           <p className="text-sm text-slate-600 leading-relaxed">
             リニア中央新幹線開業に向けて大進化を遂げる名古屋駅。新幹線改札からすぐの西口（太閤通口・椿町）周辺には、大手チェーンの最新ホテルや清潔な格安宿が密集し、秋の平日なら1泊3,000円台〜4,000円台で宿泊可能。浮いた予算で「あつた蓬莱軒」の贅沢なひつまぶし御膳や名古屋コーチン料理を存分に堪能できます。
           </p>
@@ -96,9 +94,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ダイワロイネットホテル名古屋太閤通口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ダイワロイネットホテル名古屋太閤通口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   名古屋
@@ -152,9 +148,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ホテルリブマックスＢＵＤＧＥＴ名古屋太閤通口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ホテルリブマックスＢＵＤＧＥＴ名古屋太閤通口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   中村区役所
@@ -208,9 +202,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  相鉄フレッサイン　名古屋駅新幹線口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">相鉄フレッサイン　名古屋駅新幹線口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   名古屋
@@ -264,9 +256,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  ヴィアイン名古屋駅前椿町（ＪＲ西日本グループ）
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">ヴィアイン名古屋駅前椿町（ＪＲ西日本グループ）</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   名古屋
@@ -320,9 +310,7 @@ export default function AutumnBudgetHotelsPage() {
                 />
               </div>
               <div className="w-full space-y-3">
-                <h3 className="text-xl font-bold text-slate-900 leading-snug">
-                  名鉄イン名古屋駅新幹線口
-                </h3>
+                <h3 className="text-xl font-bold text-slate-900 leading-snug">名鉄イン名古屋駅新幹線口</h3>
                 <p className="text-xs text-slate-500 flex items-center gap-1">
                   <MapPin className="w-3.5 h-3.5 shrink-0 text-slate-400" />
                   名古屋
@@ -386,9 +374,7 @@ export default function AutumnBudgetHotelsPage() {
             <span className="text-[11px] font-extrabold text-amber-700 bg-amber-50 border border-amber-200 px-3 py-0.5 rounded-full uppercase">
               RAKUTEN TRAVEL API &amp; LOCAL GUIDE
             </span>
-            <h2 className="text-xl md:text-2xl font-bold text-stone-900">
-              📊 名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析
-            </h2>
+            <h2 className="text-xl md:text-2xl font-bold text-stone-900">名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選：掲載宿スペック一覧比較表＆宿泊者クチコミ・アクセス詳細分析</h2>
             <p className="text-xs md:text-sm text-stone-600 leading-relaxed">
               楽天トラベル公式APIより取得した「名古屋駅前：徳川園錦秋ライトアップ＆名物ひつまぶし・味噌カツ！3,000円台〜泊まれる格安ホテル5選」掲載宿の所在地・最寄り駅・駐車場条件・クチコミ評価・参考最安料金を一覧で比較できます。公共交通機関（新幹線・在来線・送迎バス）利用の方もマイカー・レンタカー利用の方も、旅のスタイルに合った一軒をお選びください。
             </p>
@@ -458,9 +444,7 @@ export default function AutumnBudgetHotelsPage() {
           </div>
 
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">
-              🏨 旅の目的に合わせて選ぶ「名古屋駅前」各宿の強みと基本情報
-            </h3>
+            <h3 className="text-lg font-bold text-stone-900 border-l-4 border-amber-600 pl-3">旅の目的に合わせて選ぶ「名古屋駅前」各宿の強みと基本情報</h3>
             <div className="bg-stone-50 rounded-2xl p-5 md:p-6 border border-stone-200 space-y-3">
               <div className="flex flex-wrap items-center justify-between gap-2 border-b border-stone-200 pb-3">
                 <div>

@@ -269,9 +269,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Hokkaido Heritage & Winter Swan</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の十勝晴れと琥珀色の奇跡｜11月・12月に十勝川温泉を訪れるべき理由
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の十勝晴れと琥珀色の奇跡｜11月・12月に十勝川温泉を訪れるべき理由</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -325,9 +323,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Natural Phenomena & Wildlife</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                太古の亜炭層が育んだ琥珀色のモール泉と白鳥たちの越冬生態系
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">太古の亜炭層が育んだ琥珀色のモール泉と白鳥たちの越冬生態系</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -344,9 +340,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
         <section className="space-y-8">
           <div className="text-center space-y-3">
             <span className="text-xs font-bold text-amber-700 tracking-wider uppercase">Selected Luxury Ryokan & Hotels</span>
-            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">
-              【十勝川温泉】初冬のモール温泉と美食を味わう厳選名宿5選
-            </h2>
+            <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900">【十勝川温泉】初冬のモール温泉と美食を味わう厳選名宿5選</h2>
             <p className="text-xs sm:text-sm text-slate-500 max-w-2xl mx-auto">
               十勝川の雄大な自然を望む露天風呂、極上十勝牛ステーキ、名門ホスピタリティを備えたおすすめの宿を詳しく紹介します。
             </p>
@@ -383,11 +377,9 @@ export default function HokkaidoTokachigawaWinterFeature() {
                       </div>
                     </div>
 
-                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors">
-                      <a href={h.url} target="_blank" rel="noopener noreferrer">
+                    <h3 className="text-xl sm:text-2xl font-bold text-slate-900 hover:text-amber-700 transition-colors"><a href={h.url} target="_blank" rel="noopener noreferrer">
                         {h.name}
-                      </a>
-                    </h3>
+                      </a></h3>
 
                     <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
                       {h.story}
@@ -444,9 +436,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Gourmet & Thermal Science</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                十勝黒毛和牛の芳醇な赤身肉と十勝産ナチュラルチーズの熟成美学
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">十勝黒毛和牛の芳醇な赤身肉と十勝産ナチュラルチーズの熟成美学</h2>
             </div>
           </div>
           <div className="text-slate-700 leading-relaxed space-y-4 text-sm sm:text-base">
@@ -467,9 +457,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Recommended Itinerary</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                【1泊2日モデルコース】初冬の十勝晴れ満喫・白鳥観察と十勝牛ステーキ＆モール温泉の休日
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">【1泊2日モデルコース】初冬の十勝晴れ満喫・白鳥観察と十勝牛ステーキ＆モール温泉の休日</h2>
             </div>
           </div>
 
@@ -538,48 +526,38 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Travel Advice & Highlights</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                初冬の十勝川温泉旅行を120%楽しむための旅の秘訣
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">初冬の十勝川温泉旅行を120%楽しむための旅の秘訣</h2>
             </div>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-slate-700 leading-relaxed">
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <ThermometerSun className="w-5 h-5 text-amber-600" />
-                十勝晴れ特有の「放射冷却」に注意
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><ThermometerSun className="w-5 h-5 text-amber-600" />
+                十勝晴れ特有の「放射冷却」に注意</h3>
               <p className="leading-relaxed">
                 初冬の十勝は雲一つない快晴が広がる日が多い反面、夜間から早朝にかけて地表の熱が奪われる「放射冷却現象」により、氷点下10度前後まで急激に冷え込みます。白鳥観察や夜景鑑賞には厚手の手袋、耳当て、マフラーの着用が必須です。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Feather className="w-5 h-5 text-amber-600" />
-                白鳥観察のゴールデンタイムは朝7時〜8時
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Feather className="w-5 h-5 text-amber-600" />
+                白鳥観察のゴールデンタイムは朝7時〜8時</h3>
               <p className="leading-relaxed">
                 オオハクチョウが十勝川河畔で最も活発に活動するのは、朝陽が昇り始める早朝時間帯です。川面から立ち上る川霧（けあらし）と、黄金色に輝く朝日を背景に飛び立つ白鳥たちのシルエットは、息を呑むほど美しい決定的瞬間です。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Compass className="w-5 h-5 text-amber-600" />
-                冬道運転はスタッドレスタイヤ＆早めのライト点灯
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Compass className="w-5 h-5 text-amber-600" />
+                冬道運転はスタッドレスタイヤ＆早めのライト点灯</h3>
               <p className="leading-relaxed">
                 11月下旬以降は降雪やブラックアイスバーン（路面凍結）が発生しやすくなります。レンタカーを利用する場合は必ずスタッドレスタイヤを装着し、急ブレーキ・急ハンドルを避け、車間距離を通常の2倍以上確保して安全運転を心がけてください。
               </p>
             </div>
 
             <div className="bg-amber-50/40 rounded-2xl p-5 border border-amber-100/60 space-y-2">
-              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2">
-                <Wine className="w-5 h-5 text-amber-600" />
-                十勝ワイン「清見」や地ビールとの極上マリアージュ
-              </h3>
+              <h3 className="font-bold text-slate-900 text-base flex items-center gap-2"><Wine className="w-5 h-5 text-amber-600" />
+                十勝ワイン「清見」や地ビールとの極上マリアージュ</h3>
               <p className="leading-relaxed">
                 池田町で栽培される耐寒性ブドウから醸造される「十勝ワイン」は、引き締まった酸味と芳醇な果実味が特徴。濃厚な十勝牛ステーキや十勝産チーズ料理との相乗効果は抜群で、夕食のひとときをより一層優雅に彩ってくれます。
               </p>
@@ -595,19 +573,15 @@ export default function HokkaidoTokachigawaWinterFeature() {
             </div>
             <div>
               <span className="text-xs font-bold text-amber-800 uppercase tracking-widest">Frequently Asked Questions</span>
-              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">
-                十勝川温泉の初冬旅行に関するよくある質問
-              </h2>
+              <h2 className="text-xl sm:text-2xl font-bold text-slate-900">十勝川温泉の初冬旅行に関するよくある質問</h2>
             </div>
           </div>
 
           <div className="space-y-4">
             {faqList.map((faq, idx) => (
               <div key={idx} className="bg-slate-50 rounded-2xl p-5 border border-slate-200/60 space-y-2">
-                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2">
-                  <span className="text-amber-800 font-extrabold shrink-0">Q.</span>
-                  <span>{faq.q}</span>
-                </h3>
+                <h3 className="text-base font-bold text-slate-900 flex items-start gap-2"><span className="text-amber-800 font-extrabold shrink-0">Q.</span>
+                  <span>{faq.q}</span></h3>
                 <p className="text-sm text-slate-700 leading-relaxed pl-6">
                   {faq.a}
                 </p>
@@ -620,9 +594,7 @@ export default function HokkaidoTokachigawaWinterFeature() {
         <section className="bg-gradient-to-br from-slate-900 to-amber-950 text-white rounded-3xl p-8 sm:p-10 space-y-6 shadow-md">
           <div className="space-y-2">
             <span className="text-xs font-bold text-amber-400 uppercase tracking-widest">Explore More Winter Features</span>
-            <h2 className="text-xl sm:text-2xl font-bold">
-              あわせて読みたい！北海道＆北日本の冬雪見温泉・美食特集
-            </h2>
+            <h2 className="text-xl sm:text-2xl font-bold">あわせて読みたい！北海道＆北日本の冬雪見温泉・美食特集</h2>
             <p className="text-xs sm:text-sm text-slate-300">
               北海道の大自然に抱かれた名湯や、東北・北陸の極上の雪見露天風呂特集もぜひあわせてチェックしてください。
             </p>

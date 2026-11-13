@@ -191,9 +191,7 @@ export default function AtamiDaytripHotspringLunchPage() {
       <section id="ocean-plans" className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-8">
         <div className="border-b border-orange-100 pb-4">
           <span className="text-xs font-black tracking-widest text-orange-600 uppercase">OCEAN VIEW PLANS</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            熱海で選ぶべき日帰り温泉＆ランチ 3大人気プラン
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">熱海で選ぶべき日帰り温泉＆ランチ 3大人気プラン</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             絶景のロケーションと料理のバリエーションで比較。旅の目的や同伴者に合わせて選べます。
           </p>
@@ -216,9 +214,7 @@ export default function AtamiDaytripHotspringLunchPage() {
                 </div>
 
                 <div>
-                  <h3 className="text-base font-black text-slate-900 leading-snug">
-                    {plan.title}
-                  </h3>
+                  <h3 className="text-base font-black text-slate-900 leading-snug">{plan.title}</h3>
                   <div className="mt-2 text-lg font-black text-orange-600">
                     {plan.price}
                   </div>
@@ -250,9 +246,7 @@ export default function AtamiDaytripHotspringLunchPage() {
       <section className="bg-white border border-slate-200 rounded-3xl p-6 md:p-10 shadow-sm space-y-6">
         <div className="border-b border-orange-100 pb-4">
           <span className="text-xs font-black tracking-widest text-orange-600 uppercase">ATAMI SEAFOOD GOURMET</span>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">
-            温泉の前後に味わう！熱海名物グルメの見どころ
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900 mt-1">温泉の前後に味わう！熱海名物グルメの見どころ</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             相模灘の豊かな漁場に面した熱海ならではの極上海の幸。
           </p>
@@ -261,9 +255,7 @@ export default function AtamiDaytripHotspringLunchPage() {
         <div className="space-y-4">
           {atamiGourmetHighlights.map((gourmet, idx) => (
             <div key={idx} className="p-5 bg-orange-50/50 rounded-2xl border border-orange-100 space-y-1.5">
-              <h3 className="text-base font-black text-slate-900 flex items-center gap-2">
-                <span className="text-orange-500">🥢</span> {gourmet.name}
-              </h3>
+              <h3 className="text-base font-black text-slate-900 flex items-center gap-2">{gourmet.name}</h3>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
                 {gourmet.desc}
               </p>
@@ -283,9 +275,7 @@ export default function AtamiDaytripHotspringLunchPage() {
               運転不要・海鮮食べ放題＆温泉付き
             </span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">
-            熱海・伊豆半島 日帰りバスツアー＆高速バス特集
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-white">熱海・伊豆半島 日帰りバスツアー＆高速バス特集</h2>
           <p className="text-xs md:text-sm text-orange-100/80 leading-relaxed font-medium">
             熱海の日帰り旅行はバスツアーも大人気！都内（新宿・東京・池袋など）から出発し、「熱海温泉入浴＋海鮮浜焼き食べ放題＋みかん狩り」など、季節の味覚と観光が丸ごとセットになったプランが格安で利用できます。
           </p>
@@ -336,9 +326,7 @@ export default function AtamiDaytripHotspringLunchPage() {
           <div className="flex items-center gap-2 text-orange-600 font-extrabold text-xs uppercase tracking-wider mb-1">
             <span>RECOMMENDED ATAMI HOTELS & RYOKAN</span>
           </div>
-          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">
-            熱海温泉 露天風呂自慢のおすすめ提携ホテル・旅館
-          </h2>
+          <h2 className="text-xl md:text-2xl font-black font-journal-serif text-slate-900">熱海温泉 露天風呂自慢のおすすめ提携ホテル・旅館</h2>
           <p className="text-xs md:text-sm text-slate-600 mt-1">
             日帰り入浴プランやデイユース、宿泊でも大人気の熱海の名宿をピックアップ。
           </p>
@@ -373,9 +361,7 @@ export default function AtamiDaytripHotspringLunchPage() {
                   </div>
 
                   <div className="p-4 space-y-2">
-                    <h3 className="text-sm font-black font-journal-serif text-slate-900 line-clamp-2">
-                      {hotel.hotelName}
-                    </h3>
+                    <h3 className="text-sm font-black font-journal-serif text-slate-900 line-clamp-2">{hotel.hotelName}</h3>
                     {hotel.hotelSpecial && (
                       <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed">
                         {hotel.hotelSpecial}
@@ -406,9 +392,7 @@ export default function AtamiDaytripHotspringLunchPage() {
 
       {/* 熱海日帰り成功のコツ */}
       <section className="bg-orange-50/50 border border-orange-200 rounded-3xl p-6 md:p-8 space-y-4">
-        <h3 className="text-base md:text-lg font-black font-journal-serif text-orange-950 flex items-center gap-2">
-          <span>💡</span> 熱海の日帰り温泉＆ランチを最高に楽しむ3つのコツ
-        </h3>
+        <h3 className="text-base md:text-lg font-black font-journal-serif text-orange-950 flex items-center gap-2">熱海の日帰り温泉＆ランチを最高に楽しむ3つのコツ</h3>
         <ul className="space-y-2 text-xs md:text-sm text-slate-700 leading-relaxed list-disc list-inside">
           <li>
             <strong className="text-slate-900">ランチタイムの事前予約は必須：</strong>
